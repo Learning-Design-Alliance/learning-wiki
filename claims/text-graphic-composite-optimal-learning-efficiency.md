@@ -54,3 +54,4 @@ ANCOVA in two modules shows significant modality effects on knowledge acquisitio
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — related
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related
+- [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related

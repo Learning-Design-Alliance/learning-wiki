@@ -63,3 +63,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Physics majors with a greater number of underrepresented identities encounter more challenges than those with fewer or none](more-uris-more-challenges-physics-majors.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related
+- [A low-comfort subgroup is disproportionately composed of women and students of color](low-comfort-subgroup-underrepresented-students.md) — related

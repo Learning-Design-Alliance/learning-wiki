@@ -129678,5 +129678,825 @@
  "test-format\tthree candidate meanings\tsix candidate meanings": {
   "label": "fewer vs more candidate meanings",
   "treatment_is_a": true
+ },
+ "active-learning\t2025 Aronson Jigsaw instruction\t2023-2024 traditional-instruction cohorts": {
+  "label": "active-learning instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tAronson Jigsaw cooperative learning\ttraditional instruction": {
+  "label": "active-learning instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tAronson Jigsaw cooperative learning\ttraditional instruction in 2023–2024 cohorts": {
+  "label": "active-learning instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tAronson Jigsaw cooperative learning\ttraditional instruction in earlier cohorts": {
+  "label": "active-learning instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning curriculum\ttraditional recitations": {
+  "label": "active-learning instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tHands-on, kinesthetic, and game-based activities for quantum concepts\tClassical situation or less active learning approaches": {
+  "label": "active-learning instruction vs less-active instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tIgnatian Pedagogy with active engagement\ttraditional lecture-based instruction": {
+  "label": "active-learning instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tInstructor F's balanced combination of interactive and vicarious interactive strategies\tInstructor A's predominantly interactive strategies": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tInstructor F's balanced combination of interactive and vicarious interactive strategies\tInstructor B's predominantly interactive strategies": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tInstructor F's balanced combination of interactive and vicarious interactive strategies\tInstructor D's predominantly interactive strategies": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tInstructor G's balanced combination of interactive and vicarious interactive strategies\tInstructor A's predominantly interactive strategies": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tbalanced combination of interactive and vicarious interactive activities\tpredominantly one of the two activity types": {
+  "label": "balanced interactive and vicarious-interactive activities vs predominantly one activity type",
+  "treatment_is_a": true
+ },
+ "active-learning\tbalanced combination of interactive and vicarious interactive strategies\tpredominantly vicarious interactive or predominantly interactive strategies": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tbalanced interactive and vicarious interactive activities\tpredominantly one of the two activity types": {
+  "label": "balanced interactive and vicarious-interactive activities vs predominantly one activity type",
+  "treatment_is_a": true
+ },
+ "active-learning\tbalanced interactive and vicarious interactive strategies\tpredominantly one strategy": {
+  "label": "balanced interactive and vicarious-interactive strategies vs predominantly one strategy",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped IPP-based general physics course\tdepartment long-term average": {
+  "label": "flipped active-learning instruction vs traditional course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tgreater fraction of class time in non-interactive activities\tless non-interactive class time": {
+  "label": "less non-interactive class time vs more non-interactive class time",
+  "treatment_is_a": false
+ },
+ "active-learning\tin-class group work\tpre-class readings": {
+  "label": "in-class group work vs pre-class readings",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture-free, IPP-based problem-based learning\tnot reported": {
+  "label": "lecture-free problem-based learning vs unspecified baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tless class time on non-interactive activities\tmore class time on non-interactive activities": {
+  "label": "less non-interactive class time vs more non-interactive class time",
+  "treatment_is_a": true
+ },
+ "active-learning\tlower fraction of class time spent on non-interactive activities\thigher fraction of class time spent on non-interactive activities": {
+  "label": "less non-interactive class time vs more non-interactive class time",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore interactive class time\tmore non-interactive class time": {
+  "label": "less non-interactive class time vs more non-interactive class time",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore references and class discussion\tbrief discussion and little direct instruction": {
+  "label": "more references and class discussion vs brief discussion and little direct instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer learning integration\tunstated baseline": {
+  "label": "peer learning integration vs unspecified baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional SJSU labs and recitations\tCLASP discussion/labs": {
+  "label": "CLASP active-learning discussions and labs vs traditional labs and recitations",
+  "treatment_is_a": false
+ },
+ "active-learning\ttraditional labs\tCLASP active-learning discussions/labs": {
+  "label": "CLASP active-learning discussions and labs vs traditional labs",
+  "treatment_is_a": false
+ },
+ "active-learning\ttraditional labs and recitations\tCLASP active-learning discussions/labs": {
+  "label": "CLASP active-learning discussions and labs vs traditional labs and recitations",
+  "treatment_is_a": false
+ },
+ "active-learning\ttraditional recitations\tCLASP active-learning discussions/labs": {
+  "label": "CLASP active-learning discussions and labs vs traditional recitations",
+  "treatment_is_a": false
+ },
+ "active-learning\ttraditional recitations\ttraditional labs": {
+  "label": "traditional labs vs traditional recitations",
+  "treatment_is_a": false
+ },
+ "active-learning\tworking with same-age peers to break down information together\tnot stated": {
+  "label": "peer learning vs unspecified baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tStudent-selected medical-technology vision-poster project\tStudents' pre-project perspective on quantum and career plans": {
+  "label": "Student-selected project vs no choice/control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoosing and researching a personally relevant medical application\tpre-project career perspective": {
+  "label": "Student-selected project vs no choice/control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-chosen quantum vision poster on a medical application\tstudents' pre-project career perspective": {
+  "label": "Student-selected project vs no choice/control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-selected quantum vision poster research on a medical application\tpre-project premed-only career orientation": {
+  "label": "Student-selected project vs no choice/control",
+  "treatment_is_a": true
+ },
+ "case-comparison\tCompare misleading and accurate QIST articles or videos in class discussion\tReading or watching sources without comparative analysis": {
+  "label": "comparative analysis and discussion vs study without explicit comparison",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcompare misleading and accurate articles or videos in class\tstudy sources without explicit comparison and discussion": {
+  "label": "comparative analysis and discussion vs study without explicit comparison",
+  "treatment_is_a": true
+ },
+ "case-comparison\tphysically convincing image-charge placement\tcorrect boundary-condition reasoning": {
+  "label": "physically convincing image-charge placement vs correct boundary-condition reasoning",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tadaptive sequencing\treal-time feedback integration": {
+  "label": "adaptive sequencing vs real-time feedback integration",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDP1 explicitly taught and required Mazur’s four-step problem-solving framework\tRP2 did not present or model a problem-solving framework": {
+  "label": "explicit problem-solving framework vs no explicit problem-solving framework",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicitly clarify challenging QIST concepts and misinformation\tUnclarified or misleading explanations": {
+  "label": "explicit clarification of challenging concepts and misinformation vs unclarified or misleading explanations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit four-step problem-solving framework\tno explicit problem-solving framework": {
+  "label": "explicit problem-solving framework vs no explicit problem-solving framework",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit problem-solving framework\trepeated practice without a framework": {
+  "label": "explicit problem-solving framework vs framework-free repeated practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit problem-solving framework with deliberate practice\trepeated practice without a framework": {
+  "label": "framework-based deliberate practice vs framework-free repeated practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit problem-solving framework with deliberate practice\ttraditional repeated practice without an explicit framework": {
+  "label": "framework-based deliberate practice vs framework-free traditional repeated practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly clarify misleading QIST concepts\tleave misconceptions unaddressed": {
+  "label": "explicit clarification of misconceptions vs leaving misconceptions unaddressed",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught a problem-solving framework\tno problem-solving framework": {
+  "label": "explicit problem-solving framework vs no explicit problem-solving framework",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction-first condition\tno-instruction baseline": {
+  "label": "instruction vs no-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmemorized formulas focused on national-exam targets\tconceptual understanding": {
+  "label": "formula memorization vs conceptual understanding",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpipeline-generated explanations\tself-learning": {
+  "label": "provided explanations vs self-learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tscenario-based pedagogical-prompting instruction\tpre-test before instruction": {
+  "label": "instruction with pedagogical prompting vs pretesting before instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher explanations of physics concepts\tstudents’ everyday-life terms and ideas": {
+  "label": "teacher explanations vs students’ everyday-life terms and ideas",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI feedback followed by a second submission\tinitial submission before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond attempt after AI-generated feedback\tinitial attempt before AI-generated feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond submission after AI feedback\tfirst submission before AI feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond submission after AI-generated feedback\tinitial submission before AI-generated feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\treal-time feedback mechanism\tunstated baseline": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback from a structured prompt combining foundational prompt-engineering techniques with effective-feedback principles\tAI feedback from a student self-crafted prompt": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback from a structured prompt combining prompt-engineering techniques with effective-feedback principles\tAI feedback from a structured prompt incorporating foundational prompt-engineering techniques": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs foundational prompt-engineering prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback from a structured prompt combining prompt-engineering techniques with effective-feedback principles\tAI feedback from students’ self-crafted prompts": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback highlighting strengths and areas for improvement\tAI feedback without the described balanced emphasis": {
+  "label": "balanced strengths-and-improvement feedback vs unbalanced feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback A as second choice among students selecting Feedback B first\tFeedback C as second choice among students selecting Feedback B first": {
+  "label": "Feedback A vs Feedback C (second choice conditional on Feedback B first)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback A selected second among students ranking Feedback B first\tFeedback C selected second among students ranking Feedback B first": {
+  "label": "Feedback A vs Feedback C (second choice conditional on Feedback B first)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback A, self-crafted prompt\tFeedback B, engineered prompt": {
+  "label": "engineered prompt vs self-crafted prompt",
+  "treatment_is_a": false
+ },
+ "feedback-type\tFeedback A, self-crafted prompt\tFeedback C, engineered prompt plus effective-feedback principles": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": false
+ },
+ "feedback-type\tFeedback B\tFeedback A": {
+  "label": "Feedback B vs Feedback A",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback B as second choice among students selecting Feedback C first\tFeedback A as second choice among students selecting Feedback C first": {
+  "label": "Feedback B vs Feedback A (second choice conditional on Feedback C first)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback B selected second among students ranking Feedback C first\tFeedback A selected second among students ranking Feedback C first": {
+  "label": "Feedback B vs Feedback A (second choice conditional on Feedback C first)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback B: engineered prompt\tFeedback A: self-crafted prompt": {
+  "label": "engineered prompt vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C\tFeedback A": {
+  "label": "Feedback C vs Feedback A",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C\tFeedback B": {
+  "label": "Feedback C vs Feedback B",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C selected second among students ranking Feedback A first\tFeedback B selected second among students ranking Feedback A first": {
+  "label": "Feedback C vs Feedback B (second choice conditional on Feedback A first)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C: engineered prompt plus effective-feedback principles\tFeedback A: self-crafted prompt": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C: engineered prompt plus effective-feedback principles\tFeedback B: engineered prompt": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs engineered prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C: prompt engineering plus effective-feedback principles\tFeedback A: self-crafted prompt": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback C: prompt engineering plus effective-feedback principles\tFeedback B: foundational prompt-engineering techniques": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs foundational prompt-engineering prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback perceived as peer-generated\tFeedback perceived as LLM-generated": {
+  "label": "peer-generated feedback vs LLM-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tLLM feedback ascribed to a human source\tLLM feedback ascribed to an LLM": {
+  "label": "human-attributed feedback vs LLM-attributed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM feedback perceived as human\tLLM feedback perceived as LLM": {
+  "label": "human-attributed feedback vs LLM-attributed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-generated feedback\texpert-generated feedback": {
+  "label": "LLM-generated feedback vs expert-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-generated feedback\tpeer-generated feedback": {
+  "label": "LLM-generated feedback vs peer-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMAB assistance policy optimized for overall session performance\trandomized assistance policy": {
+  "label": "optimized MAB assistance policy vs randomized assistance policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMAB assistance policy optimized for student outcomes\trandomized assistance policy": {
+  "label": "optimized MAB assistance policy vs randomized assistance policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMAB-optimized assistance policy\trandomized assistance policy": {
+  "label": "optimized MAB assistance policy vs randomized assistance policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tassistance optimized for current-question reattempt\tassistance optimized for future-question performance": {
+  "label": "assistance optimized for current-question reattempt vs assistance optimized for future-question performance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcontextual bandit policy\tmulti-armed bandit policy": {
+  "label": "contextual bandit policy vs multi-armed bandit policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcontextual bandit policy personalized by student features\twell-optimized multi-armed bandit policy delivering the same action to all students": {
+  "label": "student-personalized contextual bandit policy vs nonpersonalized multi-armed bandit policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcontextual bandit policy personalized to student features\tmulti-armed bandit policy giving the same action to all students": {
+  "label": "student-personalized contextual bandit policy vs nonpersonalized multi-armed bandit policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\texpert-generated feedback\tLLM-generated feedback": {
+  "label": "LLM-generated feedback vs expert-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback from a prompt combining foundational prompt-engineering techniques with principles of effective feedback\tfeedback from a prompt incorporating foundational prompt-engineering techniques": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs foundational prompt-engineering prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback from a prompt incorporating foundational prompt-engineering techniques\tfeedback from students’ self-crafted prompts": {
+  "label": "foundational prompt-engineering prompt vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback from structured prompt combining foundational prompt engineering and effective-feedback principles\tfeedback from self-crafted prompt": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback from structured prompt combining foundational prompt engineering and effective-feedback principles\tfeedback from structured prompt using foundational prompt-engineering techniques alone": {
+  "label": "prompt combining foundational prompt engineering and effective-feedback principles vs foundational prompt-engineering prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback from structured prompt using foundational prompt-engineering techniques\tfeedback from self-crafted prompt": {
+  "label": "foundational prompt-engineering prompt vs self-crafted prompt",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback perceived as expert-written\tfeedback perceived as LLM-written": {
+  "label": "LLM-generated feedback vs expert-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback perceived as expert-written\tfeedback perceived as peer-written": {
+  "label": "expert-generated feedback vs peer-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback perceived as peer-written\tfeedback perceived as LLM-written": {
+  "label": "LLM-generated feedback vs peer-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback with higher coded Valence\tfeedback with lower coded Valence": {
+  "label": "higher-valence feedback vs lower-valence feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback with higher instructional-composite score\tfeedback with lower instructional-composite score": {
+  "label": "higher instructional-composite feedback vs lower instructional-composite feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher coded feedback quality\tlower coded feedback quality": {
+  "label": "higher-quality feedback vs lower-quality feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlearned MAB assistance policy\trandomized assistance policy": {
+  "label": "optimized MAB assistance policy vs randomized assistance policy",
+  "treatment_is_a": true
+ },
+ "feedback-type\tone assistance type\tanother assistance type": {
+  "label": "one assistance type vs another assistance type",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer-generated feedback\tLLM-generated feedback": {
+  "label": "LLM-generated feedback vs peer-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tpeer-generated feedback\texpert-generated feedback": {
+  "label": "expert-generated feedback vs peer-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tstructured prompts (B and C)\tself-crafted prompts (A)": {
+  "label": "structured prompts vs self-crafted prompts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsyntax-aware AI-assisted grammar feedback\tcontrol-group feedback or condition": {
+  "label": "syntax-aware AI-assisted grammar feedback vs control feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsyntax-aware feedback\tcontrol group": {
+  "label": "syntax-aware feedback vs control feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAI-generated formative feedback followed by revision\tinitial submission before feedback": {
+  "label": "formative feedback with revision vs submission without feedback or revision",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdiagnosis integrated into oral/formative tests during teaching\tdiagnosis conducted as a separate standalone activity": {
+  "label": "integrated diagnosis during formative assessment vs standalone diagnostic assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tquarterly Self-Assessments\tother assessment types": {
+  "label": "self-assessment vs other assessment types",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trandom assignment with calibration papers\trandom assignment without calibration papers": {
+  "label": "calibration-informed assignment vs uncalibrated assignment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\treal-time Adaptive Feedback\tother assessment types": {
+  "label": "real-time adaptive feedback vs other assessment types",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tweekly Ongoing Formative assessments\tother assessment types": {
+  "label": "weekly ongoing formative assessment vs other assessment types",
+  "treatment_is_a": true
+ },
+ "gamification\tGamified course cohorts, 2020–2023\tNon-gamified control cohort, 2017–2018": {
+  "label": "gamified course vs non-gamified course",
+  "treatment_is_a": true
+ },
+ "gamification\tMetaRoundWorm VR escape room\tinteractive slides": {
+  "label": "VR escape-room game vs interactive slides",
+  "treatment_is_a": true
+ },
+ "gamification\tMissionMotion video game\tno comparison reported": {
+  "label": "MissionMotion video game vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "gamification\tNanogames\tNanoTechStart": {
+  "label": "Nanogames vs NanoTechStart",
+  "treatment_is_a": true
+ },
+ "gamification\tNanogames activity\tNanoTechStart activity": {
+  "label": "Nanogames vs NanoTechStart",
+  "treatment_is_a": true
+ },
+ "gamification\tNanogames and NanoTechStart gamification components\tcourse offering without gamification": {
+  "label": "gamified course vs non-gamified course",
+  "treatment_is_a": true
+ },
+ "gamification\tSPARC gameplay\ttraditional assignments": {
+  "label": "gameplay vs traditional assignments",
+  "treatment_is_a": true
+ },
+ "gamification\tSPARC interactive game-based learning\ttraditional teacher instruction": {
+  "label": "interactive game-based learning vs traditional teacher instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tadversarial QKD project\tnon-adversarial QKD project": {
+  "label": "adversarial project vs non-adversarial project",
+  "treatment_is_a": true
+ },
+ "gamification\tadversarial, competitive peer-eavesdropping project\tnon-adversarial project": {
+  "label": "adversarial project vs non-adversarial project",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetitive group mode in MissionMotion\tindividual self-paced play": {
+  "label": "competitive group play vs individual self-paced play",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification elements in the course\tno gamification elements": {
+  "label": "gamified course vs non-gamified course",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified course in 2020–2021, 2021–2022, and 2022–2023\tnon-gamified course in 2017–2018": {
+  "label": "gamified course vs non-gamified course",
+  "treatment_is_a": true
+ },
+ "guided-discovery\trole-engineered Socratic Gemini Gem\tstandard Gemini giving direct solutions": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tAI feedback followed by a revised second attempt\tinitial attempt before AI feedback": {
+  "label": "revision after feedback vs no revision after feedback",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmini competency exams with unlimited retakes\tweekly quizzes": {
+  "label": "mastery-based assessment with retakes vs conventional weekly quizzes",
+  "treatment_is_a": true
+ },
+ "media-design\t4-second word gaps\tno word gaps": {
+  "label": "word gaps vs no word gaps",
+  "treatment_is_a": true
+ },
+ "media-design\tBloch sphere representation\tQuantum Bead representation": {
+  "label": "Bloch sphere representation vs Quantum Bead representation",
+  "treatment_is_a": true
+ },
+ "media-design\tL2 text plus L2 audio, image, L1 text, and L1 audio\tL2 text followed by L1 text": {
+  "label": "multimodal bilingual presentation vs bilingual text presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tProgressive sentence presentation\tFull sentence presentation": {
+  "label": "progressive sentence presentation vs full sentence presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tProgressive sentence presentation\tRandom individual-word presentation": {
+  "label": "progressive sentence presentation vs random individual-word presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-based items\ttext-only items": {
+  "label": "diagram-based items vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-based thermodynamics items\ttext-only thermodynamics items": {
+  "label": "diagram-based items vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-based thermodynamics questions\ttext-only thermodynamics questions": {
+  "label": "diagram-based questions vs text-only questions",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural-language description\tset notation": {
+  "label": "natural-language description vs set notation",
+  "treatment_is_a": true
+ },
+ "media-design\tslides with generative narration\tslides without narration": {
+  "label": "generative narration vs no narration",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-only FCI questions\timage-required FCI questions": {
+  "label": "image-required questions vs text-only questions",
+  "treatment_is_a": false
+ },
+ "practice-amount\t10 reviews per submission\t4 reviews per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\t11 raters per submission\t5 raters per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\t2 reviews per submission\t1 review per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfive reviewers per submission\tfewer than five reviewers per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour reviewers per submission\tone reviewer per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore peer reviews per submission\tfewer peer reviews per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than five reviews per student\tfive or fewer reviews per student": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than six reviewers per submission\tsix reviewers per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsix reviewers per submission\tfour reviewers per submission": {
+  "label": "more peer reviews vs fewer peer reviews",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before instruction with personalized feedback\tinstruction before problem-solving with personalized feedback": {
+  "label": "problem-solving first vs instruction first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before personalized instruction (PS-I)\tpersonalized instruction before problem-solving (I-PS)": {
+  "label": "problem-solving first vs instruction first",
+  "treatment_is_a": true
+ },
+ "prompts\tFeedback B: engineered prompt\tFeedback A: self-crafted prompt": {
+  "label": "engineered prompts vs self-crafted prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tFeedback C: engineered prompt plus effective-feedback principles\tFeedback A: self-crafted prompt": {
+  "label": "engineered prompts plus effective-feedback principles vs self-crafted prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tFeedback C: engineered prompt plus effective-feedback principles\tFeedback B: engineered prompt": {
+  "label": "engineered prompts plus effective-feedback principles vs engineered prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tSocratic AI Tutor using structured questioning\tuninstructed general-purpose AI chatbot": {
+  "label": "Socratic structured-questioning AI tutor vs uninstructed general-purpose AI chatbot",
+  "treatment_is_a": true
+ },
+ "prompts\tSocratic AI Tutor with structured questioning\tuninstructed general-purpose AI chatbot": {
+  "label": "Socratic structured-questioning AI tutor vs uninstructed general-purpose AI chatbot",
+  "treatment_is_a": true
+ },
+ "prompts\tclear development prompts\tdevelopment prompts without clarity": {
+  "label": "clear development prompts vs unclear development prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tclear prompts\tless clear prompts": {
+  "label": "clear prompts vs less clear prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tclear understanding-seeking prompts\tunderstanding-seeking prompts without clarity": {
+  "label": "clear understanding-seeking prompts vs unclear understanding-seeking prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tdevelopment prompts with greater granularity\tdevelopment prompts with lower granularity": {
+  "label": "greater vs lower granularity in development prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tfeedback from prompts combining foundational prompt-engineering techniques with principles of effective feedback\tfeedback from prompts incorporating foundational prompt-engineering techniques": {
+  "label": "foundational prompt-engineering techniques plus effective-feedback principles vs foundational prompt-engineering techniques",
+  "treatment_is_a": true
+ },
+ "prompts\tfeedback from prompts combining foundational prompt-engineering techniques with principles of effective feedback\tfeedback from self-crafted prompts": {
+  "label": "foundational prompt-engineering techniques plus effective-feedback principles vs self-crafted prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tfeedback from prompts incorporating foundational prompt-engineering techniques\tfeedback from self-crafted prompts": {
+  "label": "foundational prompt-engineering techniques vs self-crafted prompts",
+  "treatment_is_a": true
+ },
+ "prompts\thigher proportion of Understanding prompts\tlower proportion of Understanding prompts": {
+  "label": "higher vs lower proportion of understanding prompts",
+  "treatment_is_a": true
+ },
+ "prompts\thigher-performing prompt variants\tlower-performing prompt variants": {
+  "label": "higher-performing vs lower-performing prompt variants",
+  "treatment_is_a": true
+ },
+ "prompts\tinteractive LLM-guided reflection prompts\tstandard podcast without reflection prompts": {
+  "label": "interactive reflection prompts vs no reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tinteractive reflection prompts\tstandard podcast without reflection prompts": {
+  "label": "interactive reflection prompts vs no reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tinteractive reflection prompts in AI-generated podcast\tstandard AI-generated podcast without reflection prompts": {
+  "label": "interactive reflection prompts vs no reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\titerative prompt-crafting to clarify outputs and correct errors\tnot stated": {
+  "label": "iterative prompt-crafting vs no iterative prompt-crafting",
+  "treatment_is_a": true
+ },
+ "prompts\tlarger proportion of understanding prompts\tsmaller proportion of understanding prompts": {
+  "label": "higher vs lower proportion of understanding prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tphoto elicitation identity reflection\tnot stated": {
+  "label": "photo-elicitation identity-reflection prompts vs no such prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured GenAI dialogue with follow-up questions and response verification\tnot stated": {
+  "label": "structured GenAI dialogue with follow-up questions and response verification vs no such structure",
+  "treatment_is_a": true
+ },
+ "prompts\ttwo-phase analyze-then-answer format\tsingle-shot prompting": {
+  "label": "two-phase analyze-then-answer prompting vs single-shot prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tunderstanding prompts with greater granularity\tunderstanding prompts with lower granularity": {
+  "label": "greater vs lower granularity in understanding prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpriority boost for students who submitted reviews\tno priority boost": {
+  "label": "priority boost vs no priority boost",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcritically scaffolded AI chatbot use\tAI chatbot use without scaffolding": {
+  "label": "Critically scaffolded AI chatbot use vs unscaffolded AI chatbot use",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicitly told which method is effective\tnot explicitly told which method is effective": {
+  "label": "Explicit strategy instruction vs no explicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\trole-engineered Socratic Gemini Gem\tstandard non-customized Gemini": {
+  "label": "Role-engineered/customized AI chatbot vs standard AI chatbot",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded written reflections with rubrics and examples\tinitial short, insufficient, shallow reflections": {
+  "label": "Scaffolded written reflection with rubrics and examples vs minimally scaffolded written reflection",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttiered support\tstatic textbook support": {
+  "label": "Tiered support vs static textbook support",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttiered support\ttextual support": {
+  "label": "Tiered support vs textual support",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttiered support with sequential hints\tcustom-configured AI chatbot": {
+  "label": "Tiered sequential hints vs custom-configured AI chatbot",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttiered support with sequential hints\ttextual support": {
+  "label": "Tiered sequential hints vs textual support",
+  "treatment_is_a": true
+ },
+ "simulation\tHuygens-Fresnel numeric simulations\tanalytic descriptions and technical calculations": {
+  "label": "numeric simulation vs analytic description/calculation",
+  "treatment_is_a": true
+ },
+ "simulation\tKSP Mün landing and return project\tno specified comparison condition": {
+  "label": "simulation project vs no specified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tKSP Mün landing-and-return project\tnot stated": {
+  "label": "simulation project vs no specified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tQKD simulation including practical nonidealities\tidealized QKD demonstrations": {
+  "label": "practical/nonidealized simulation vs idealized demonstration",
+  "treatment_is_a": true
+ },
+ "simulation\tnumeric summation and simulation\tphasor diagrams": {
+  "label": "numeric simulation/summation vs phasor diagrams",
+  "treatment_is_a": true
+ },
+ "simulation\tpractical QKD project incorporating channel noise and loss\tideal QKD demonstration": {
+  "label": "practical/nonidealized simulation vs idealized demonstration",
+  "treatment_is_a": true
+ },
+ "spacing\t4-second gaps between word presentations\tno gaps between word presentations": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\t4-second gaps between word presentations while walking\tno gaps between word presentations while walking": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tPSAs embedded across workshops in Weeks 5, 9, and 12\tone-off traditional exam": {
+  "label": "distributed assessment vs traditional exam",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed PSAs in familiar learning settings\ttraditional exams": {
+  "label": "distributed assessment vs traditional exam",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed PSAs in familiar settings\ttraditional exams": {
+  "label": "distributed assessment vs traditional exam",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed PSAs integrated into familiar workshops\ttraditional exams": {
+  "label": "distributed assessment vs traditional exam",
+  "treatment_is_a": true
+ },
+ "spacing\tprogressive PSAs across the semester\tearlier PSA offerings": {
+  "label": "progressive assessment scheduling vs earlier assessment offerings",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced Moodle-based PSAs embedded in workshops\ttraditional final exams": {
+  "label": "distributed assessment vs traditional exam",
+  "treatment_is_a": true
+ },
+ "test-format\tLLM analysis of written responses\tmultiple-choice distractors": {
+  "label": "Written-response assessment vs multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tWritten responses analyzed for emergent reasoning categories\tOriginal multiple-choice distractors": {
+  "label": "Written-response assessment vs multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tfamiliar multistructural ranking question (Question 5)\tabstract/relational potential-difference questions (Questions 4-A and 4-B)": {
+  "label": "Familiar multistructural ranking questions vs abstract/relational questions",
+  "treatment_is_a": true
+ },
+ "test-format\toral exam\twritten exams": {
+  "label": "Oral examination vs written examination",
+  "treatment_is_a": true
+ },
+ "test-format\toral examination\twritten examination": {
+  "label": "Oral examination vs written examination",
+  "treatment_is_a": true
+ },
+ "test-format\toral midterm\tprior college-level exams": {
+  "label": "Oral examination vs written examination",
+  "treatment_is_a": true
+ },
+ "test-format\tradio-button problem\tnumerical problem": {
+  "label": "Radio-button problem vs numerical problem",
+  "treatment_is_a": true
+ },
+ "test-format\tsingle-step force calculation (Question 1-A)\tmulti-step work and potential-energy questions (Questions 1-B to 1-D)": {
+  "label": "Multi-step problems vs single-step problems",
+  "treatment_is_a": false
+ },
+ "test-format\tspaced, scenario-based Moodle PSAs\ttraditional final exams": {
+  "label": "Scenario-based assessment vs traditional final examination",
+  "treatment_is_a": true
  }
 }

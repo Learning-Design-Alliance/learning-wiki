@@ -67,3 +67,4 @@ Same graded evaluation of final reports: Groups A and C, whose interaction was p
 - [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](group-interaction-type-profiles-differ.md) — related
 - [Across all three groups, discussion was dominated by epistemic actions—especially generative collaborative actions—with sharing knowledge more common in the synthesis phase and generative collaboration more prevalent in the application phase](generative-collaborative-actions-dominant-across-groups.md) — related
 - [Students preferred groups of three, with opposing effects of logistics and division of labor explaining the optimum](groups-of-three-preferred.md) — related
+- [A behavior EER ('We should write stuff down') produced a stable division of labor with lasting effects on how the group carried out the experiment](behavior-eer-division-of-labor-notebook.md) — related

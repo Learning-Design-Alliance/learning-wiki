@@ -51,6 +51,7 @@ The article recommends educators use its open-source code to run their own risk 
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Use a combined assessment approach: allow AI and internet access for an initial information-gathering phase, then shift to closed-book for independent synthesis](combined-open-then-closed-assessment-approach.md)
 - [Combine similarity detection using pre-generated AI answers with automatic application of instructor code-style heuristics to improve AI-code detection](combine-similarity-and-style-heuristics-detection.md)
+- [Retire unsupervised closed-response online assessment and shift credit toward process evidence, supervised settings, and AI-transparent work](retire-unsupervised-online-assessment-shift-process-evidence.md)
 
 ## Examples
 -

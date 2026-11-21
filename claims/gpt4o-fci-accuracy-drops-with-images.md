@@ -50,3 +50,4 @@ Model evaluation feeding written image descriptions to GPT-4o-2024-08-06 at temp
 - [GPT-4o answered both image-based PNA questions correctly](gpt-4o-answered-image-questions-correctly.md) — related
 - [ChatGPT3.5 answers 15 of 23 modified FCI questions correctly, scoring near or above the median end-of-semester student](chatgpt35-fci-15-of-23-near-median-student.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
+- [GPT-4o accuracy on image-required FCI questions (36–38%) is substantially weaker than on text-only and image-optional questions (97–100%)](image-required-questions-low-llm-accuracy.md) — related

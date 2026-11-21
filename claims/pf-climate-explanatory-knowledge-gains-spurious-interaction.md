@@ -70,3 +70,4 @@ The Group × Teacher Content Expertise interaction on explanatory climate knowle
 - [PF students scored significantly higher than DI students on climate explanatory knowledge](pf-beats-di-climate-explanatory-knowledge.md) — reports the opposite
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — reports the opposite
 - [Both treatment groups improved near within domain transfer, but the One Model Group's benefit depended on having a content-expert teacher while the Two Models Group's did not](near-transfer-teacher-expertise-interaction-one-model.md) — related
+- [No effect of instructional condition, pretest, or condition-by-scenario interaction across diagnostic strategies](no-condition-effect-across-strategies.md) — related

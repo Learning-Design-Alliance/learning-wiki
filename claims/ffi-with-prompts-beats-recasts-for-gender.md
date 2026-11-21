@@ -60,3 +60,4 @@ Classroom comparison in which each of the three FFI teachers implemented a diffe
 - [Tertiary EFL students taught advanced grammar via task-based instruction outperformed peers taught with explicit form-focused instruction on negotiated written-production scores](tblt-outperforms-form-focused-grammar-tertiary-writing.md) — related
 - [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](feedback-plus-modified-output-question-development.md) — related
 - [Correcting common spoken errors in a second dynamic assessment transfers to a written development-referenced assessment](common-error-correction-transfers-to-written-dra.md) — related
+- [Understanding-focused prompts predict higher learning gains, and clarity amplifies the benefits of development and understanding prompts](understanding-clarity-prompts-predict-learning-gains.md) — related

@@ -57,3 +57,4 @@ This is a demonstration within the article, not an empirical study: the authors 
 - [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — related
 - [The authors posit that QP's entirely visual nature enhances understanding of quantum theory by lowering the technical barrier, making it suitable for high-school introduction](qp-visual-approach-lowers-technical-barrier.md) — related
 - [Preliminary classroom use in the Ferrara M.Sc. quantum computing course received encouraging feedback from both theoretical and coding-skilled students](ferrara-msc-course-encouraging-feedback.md) — related
+- [Numeric Huygens-Fresnel simulations help introductory students build intuition about coherent light in diffraction and interference experiments](huygens-fresnel-simulations-build-coherent-optics-intuition.md) — related

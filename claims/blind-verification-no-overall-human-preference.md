@@ -85,3 +85,4 @@ Baseline checks within the same blind verification protocol. Position of the two
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
 - [Participants preferred outlining to depicting overall, with nearly half preferring outlining](learners-prefer-outlining-over-depicting.md) — related
 - [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
+- [LLM-generated feedback was rated as fairer, more useful and more acceptable when perceived as coming from a human source rather than from an LLM](llm-feedback-rated-higher-when-ascribed-human.md) — related

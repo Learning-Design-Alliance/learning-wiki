@@ -62,3 +62,5 @@ The benchmark compares models from the deep learning family only; it does not in
 - [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](akt-outperforms-kt-baselines-auc-benchmarks.md) — possibly the same claim (merge candidate)
 - [DKT-based environments converge faster in training, but DKT struggles to estimate higher knowledge levels, unlike the more comprehensive AKT assessments](dkt-faster-convergence-but-poor-high-level-estimates.md) — related
 - [Concatenating SANN code vectors with DKT inputs improves next-attempt prediction by about 10% AUC over original DKT](sann-code-vectors-improve-knowledge-tracing.md) — related
+- [AKT-MLd achieves the best overall performance across benchmarks, with gains most pronounced on high-KC datasets](akt-mld-best-overall-benchmarks.md) — related
+- [SBRKT achieves the highest AUC on several knowledge tracing benchmarks and ranks second on the others, despite sparse discrete representations](sbrkt-auc-vs-baselines.md) — related

@@ -69,3 +69,4 @@ Reported in the same human evaluation section as a divergence between LM and hum
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
 - [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — related
+- [K-12 in-service teachers rated FACET-generated personalized worksheets highly, especially didactical structure and suitability for learners](facet-teacher-expert-evaluation-ratings.md) — related

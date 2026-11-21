@@ -59,3 +59,4 @@ Narrative review of trace-methodology work following Winne's idea of trace as da
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — related
 - [Making activities overshadowed self-assessment, which students sometimes perceived as an unnecessary interruption](making-activities-overshadowed-self-assessment.md) — related
 - [Intervening, in which the teacher interrupts and takes over the situation, could impair students' learning process and the teacher-student relationship](intervening-can-impair-learning.md) — related
+- [Time series clustering of network metrics identifies distinct developmental trajectories of visual search](time-series-clustering-distinct-gaze-trajectories.md) — related

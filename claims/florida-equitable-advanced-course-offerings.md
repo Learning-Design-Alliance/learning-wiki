@@ -55,3 +55,4 @@ State-level CRDC analysis identifying Florida as bucking the national trend. The
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — reports the opposite
 - [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
 - [District leaders can use a data-driven approach to understand and address opportunity gaps in advanced course-taking](data-driven-approach-address-course-taking-opportunity-gaps-gbsd.md) — related
+- [Students attending high-poverty US high schools are significantly less likely to have the option to take calculus, and schools with high Black and Latino enrollment offer it less often](high-poverty-schools-less-calculus-access.md) — related

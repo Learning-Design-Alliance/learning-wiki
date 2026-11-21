@@ -80,3 +80,4 @@ Severity-calibration subset of the same 200-pair annotation study, summarized in
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier](low-urgency-rank-agreement.md) — related
 - [In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md) — related
+- [Multi-label annotation of toxic text yields higher alignment with external ML classifiers than forced single-label consensus, though not always higher inter-annotator agreement](multi-label-annotation-higher-classifier-alignment.md) — related

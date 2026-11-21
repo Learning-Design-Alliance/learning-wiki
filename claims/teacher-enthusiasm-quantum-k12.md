@@ -52,3 +52,4 @@ Qualitative exit-survey and field-note data from 49 K-12 teachers in six quantum
 - [Most quantum outreach initiatives target the upper range of K12, leaving audiences below age 12 under-served](under-12-quantum-audiences-underserved.md) — related
 - [Students perceived the quantum industry as exciting but also associated it with negative emotions such as frustration](student-emotions-about-quantum-industry.md) — related
 - [Experts across sectors convened in 2024 widely agreed that significant new national infrastructure is needed to support quantum education at the K-12 and undergraduate levels](workshop-consensus-national-quantum-education-center-needed.md) — related
+- [Elementary teachers believe early quantum education creates future possibilities for students, especially those at risk of leaving the STEM pipeline](teachers-believe-early-quantum-creates-possibilities.md) — related

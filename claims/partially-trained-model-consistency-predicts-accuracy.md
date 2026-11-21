@@ -71,3 +71,4 @@ Simulation: at epoch 100, eyes- and nose-focused representative patterns showed 
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
 - [In adults, face recognition performance is predicted by eye movement pattern, with eye movement consistency adding no additional variance](adults-pattern-not-consistency-predicts-recognition.md) — related
 - [In well-trained DNN+HMM face-recognition models, an eyes-focused eye movement pattern yields higher recognition accuracy than a nose-focused pattern](well-trained-model-eyes-focused-pattern-advantage.md) — related
+- [Transition entropy is a significant negative predictor of dental X-ray anomaly detection performance](transition-entropy-negative-predictor-xray-performance.md) — related

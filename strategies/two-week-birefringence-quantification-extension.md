@@ -43,7 +43,8 @@ The article recommends extending the lab to two weeks so students connect intens
 - [A polymer-film Stokes-analysis lab can be introduced to non-physics science majors in general physics, and in the authors' experience students responded positively and completed it in the allocated time.](../claims/stokes-analysis-lab-for-non-physics-majors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Inquiry-based extensions: filtering particulates, changing path length, testing wavelengths, and comparing natural pigments](tomato-juice-inquiry-extensions.md)
 
 ## Examples
 -

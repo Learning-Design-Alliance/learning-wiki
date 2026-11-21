@@ -66,3 +66,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Flipped-format students did not perceive learning more but ranked the course better overall, and many first-offering flipped students wanted more in-class time](flipped-student-satisfaction-perceptions-mixed.md) — reports the opposite
 - [Adopting a flipped/blended learning approach coincided with substantially higher mean exam marks than traditional passive lecturing in an introductory programming course for geoscience undergraduates](blended-learning-higher-exam-marks-geoscience-programming.md) — related
 - [The module proved appropriate as a standalone resource when senior students self-taught chosen topics in a flipped classroom format](qc-module-standalone-flipped-classroom.md) — related
+- [Modules using only video showed lower post-test scores, suggesting passive formats were less effective for learning new concepts](passive-video-modules-lower-posttest.md) — related

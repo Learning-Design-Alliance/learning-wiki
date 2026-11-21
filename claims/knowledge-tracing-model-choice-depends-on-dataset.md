@@ -60,3 +60,4 @@ The study compares prediction accuracy only; it does not test whether a more acc
 - [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — related
 - [Model error varies by more than two orders of magnitude with network size, small datasets induce overlearning, and training time depends quasi-linearly on dataset size](nn-dataset-size-fresnel.md) — related
 - [A logistic regression model using topic success and topic skip features predicts next-exercise success with 80% accuracy](logistic-regression-predicts-next-exercise-success-80-percent.md) — related
+- [SHAP analysis on a logistic regression surrogate over One Encoder's size-1 embeddings makes the deep model interpretable at the feature level with similar predictive performance (0.880 accuracy, 0.878 ROCAUC)](shap-logistic-surrogate-feature-interpretation.md) — related

@@ -50,3 +50,4 @@ Multi-prompt pipeline evaluation: responses exceeding readability thresholds wer
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
 - [ChatGPT-5.1 generates EUS answers with significantly lower linguistic complexity (GFI, SMOG) than DeepSeek-R1 and Gemini 2.5 Flash](chatgpt-lower-gfi-smog-readability.md) — related
 - [LLM-generated leveled texts skew more complex than the intended Lexile level regardless of model or prompting approach](generated-texts-skew-more-complex-than-intended.md) — related
+- [Shared prompt template maintains uniformly strong clarity and readability across all pipelines](shared-prompt-template-strong-clarity-readability.md) — related

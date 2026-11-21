@@ -47,3 +47,4 @@ Descriptive website-traffic reporting for the project blog over seven months, pr
 
 ## Related Claims
 - [RLO use was sustained after project funding ended, with 2107 users accessing RLOs in the 4 months following the project](rlo-use-sustained-post-project.md) — related
+- [The nox-minima website generated over 800 dome images accessed over 1,500 times from 35 countries since July 2024](nox-minima-website-usage.md) — related

@@ -48,3 +48,4 @@ Descriptive comparison of maximum reflective-comment-level distributions in week
 ## Related Claims
 - [Comparison-cycle instruction raised the sophistication of students' written reasoning about data, with the group gap becoming most dramatic when the model was inadequate, though the sophomore-lab difference was not statistically significant](comparison-cycles-reflection-sophistication.md) — related
 - [Fewer than half of students reflected on modeling despite instructor emphasis, suggesting insufficient support for modeling skills](modeling-reflections-shallow.md) — related
+- [Scaffolded written reflections in physics courses help students reflect at higher levels](scaffolded-reflections-raise-reflection-levels.md) — related

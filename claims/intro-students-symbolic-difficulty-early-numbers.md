@@ -64,3 +64,4 @@ Survey results for Questions 30 and 31 (Figures 6 and 7) comparing introductory 
 - [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related
 - [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
+- [GPT-5 Thinking solves the elevator problem symbolically, avoiding both plug-and-chug pitfalls, and resists prompts eliciting novice-like behavior](gpt5-elevator-symbolic-novice-resistant.md) — related

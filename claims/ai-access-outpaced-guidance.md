@@ -93,3 +93,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — related
 - [College STEM students report high adoption of generative AI tools, predominantly free versions of frontier LLMs](high-student-genai-adoption-free-llms.md) — related
+- [Students viewed AI as an ethical academic aid and favored flexible rather than restrictive course policies, with none supporting an outright ban](student-ai-policy-preferences-flexibility.md) — related

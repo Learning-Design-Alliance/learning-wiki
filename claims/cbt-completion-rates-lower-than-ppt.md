@@ -56,3 +56,4 @@ Descriptive completion rates reported in the Methods section of the 25-section e
 - [Explicit credit-based incentives increased online RBA participation rates above historical norms, with slightly lower online scores attributed to broader sampling](incentives-increase-online-rba-participation.md) — related
 - [Online and in-class paper administration of low-stakes RBAs yield comparable participation rates when recommended practices are used](online-rba-participation-comparable-to-paper.md) — reports the opposite
 - [Student performance on online RBAs is equivalent to performance on the same tests administered on paper in class](online-rba-scores-equivalent-to-paper.md) — related
+- [Research-based assessments were used by only 12 of 76 surveyed upper-level QM instructors, suggesting low uptake of existing QM RBAs](qm-rba-low-uptake-12-of-76-instructors.md) — related

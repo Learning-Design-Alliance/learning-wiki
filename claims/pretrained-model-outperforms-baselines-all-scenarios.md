@@ -48,3 +48,4 @@ Comparison of four recommendation engines (ours, Vassoyan et al., CMAB, Bassen e
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
 - [A GNN-based RL recommender learns to recover corpus structure and substantially outperforms a uniform random policy in the small-data regime on simulated learners](gnn-rl-policy-beats-random-small-data.md) — related
 - [Pre-training a recommender system on sequential corpora improves sample efficiency for adaptive learning path personalization in the small data regime](pretraining-improves-sample-efficiency-adaptive-sequencing.md) — possibly the same claim (merge candidate)
+- [Adding pretrained auxiliary KCs to a PPO-based recommendation policy consistently improves simulated student learning outcomes](aux-kcs-improve-ppo-recommendation.md) — related

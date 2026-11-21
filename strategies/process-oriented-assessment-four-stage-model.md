@@ -67,6 +67,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Mitigation strategies for GenAI challenges in PBL (validation, AI-free periods, equity monitoring)](genai-pbl-challenge-mitigation-strategies.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 - [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
+- [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](process-tracing-ai-dialogue-assessment-strategy.md)
 
 ## Examples
 -

@@ -53,6 +53,8 @@ The article recommends an introductory "Quantum 101" course with minimal math co
 - [Schedule a yearly national junior-level undergraduate survey course to recruit students into AS&E and traineeship programs](junior-level-undergraduate-survey-course.md)
 - [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
 - [Introduce mathematical and physical formalism only after intuitive understanding based on applications has been aroused.](applications-before-formalism-quantum-moocs.md)
+- [Integrate application-oriented QISE content into existing academic pathways, including a quantum applications course for all STEM majors and upskilling certificates](application-oriented-qise-pathways-strategy.md)
+- [Use open-ended research projects on QISE applications to societal challenges (especially medical technologies) as the vehicle for introducing quantum concepts to students without prerequisites](qise-medical-application-projects-strategy.md)
 
 ## Examples
 -

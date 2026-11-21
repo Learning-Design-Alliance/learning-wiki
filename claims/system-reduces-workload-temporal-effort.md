@@ -45,3 +45,5 @@ NASA-TLX administered in the 20-participant experiment comparing with-system and
 - [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related
+- [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related
+- [MetaRoundWorm reduced subjective mental, temporal and frustration workload relative to interactive slides](vr-condition-lower-mental-temporal-frustration-workload.md) — related

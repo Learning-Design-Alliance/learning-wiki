@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 recheck_by: 2028
 sources:
   - id: stefano-bannò-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the OneStopEnglish word-level CEFR prediction task, LLMs (GPT-4o, Llama 3.1 70B, Qwen 2.5 32B) achieve higher overall accuracy than a PoS-based model and a random baseline, with Qwen 2.5 32B best at 87.0% overall and 80.5% on ambiguous words versus 80.7% and 66.7% for the PoS-based model. [→ Stefano Bannò 2025](#stefano-banno-2025)

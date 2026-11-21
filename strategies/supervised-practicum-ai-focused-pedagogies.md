@@ -42,6 +42,7 @@ The article recommends that teacher education programs expand supervised practic
 
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
+- [Train pre-service teachers in epistemic verification protocols for AI-generated content](epistemic-verification-protocols-strategy.md)
 
 ## Examples
 -

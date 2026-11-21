@@ -73,3 +73,4 @@ Same partial dependence analysis (Figure 2): clause ratio and custom magnitude s
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md)
 - [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](linguistic-features-of-dif-mcas-word-problems.md) — related
+- [Clause count shows no significant correlation with averaged LLM accuracy on text-only thermodynamics items](clause-count-no-correlation-llm-accuracy.md) — related

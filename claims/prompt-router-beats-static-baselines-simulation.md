@@ -52,3 +52,4 @@ Simulation benchmark over 390 simulated scenarios comparing the frozen routing m
 - [Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance](sim-to-real-strategy-shift-feynman-to-coach.md) — related
 - [A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues](tutor-prompt-outperforms-base-prompt-mathdial.md) — related
 - [Higher AI pedagogical scores are associated with exercise conversion in real student sessions](pedagogical-score-predicts-exercise-conversion.md) — related
+- [Live feedback tags provided only modest adaptability gains under a five-tag turn-end schema](live-feedback-tags-modest-gains.md) — related

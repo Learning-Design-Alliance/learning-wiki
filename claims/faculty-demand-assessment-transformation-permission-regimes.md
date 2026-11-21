@@ -70,3 +70,4 @@ The synthesis reports, citing the same global faculty survey, that "Preferences 
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines](genai-partial-integration-preferences-hss.md) — related
 - [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related
+- [Students viewed AI as an ethical academic aid and favored flexible rather than restrictive course policies, with none supporting an outright ban](student-ai-policy-preferences-flexibility.md) — related

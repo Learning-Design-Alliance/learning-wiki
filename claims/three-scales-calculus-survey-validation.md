@@ -49,3 +49,4 @@ Principal components analysis with Varimax rotation of survey items; the first t
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
 - [Exploratory Graph Analysis identified three distinct communities fully consistent with the theoretical three-factor model, supporting the structural validity and multidimensional nature of the CRCDCS.](crcdc-ega-network-structure.md) — related
 - [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

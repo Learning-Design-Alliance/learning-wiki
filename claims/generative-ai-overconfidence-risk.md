@@ -54,3 +54,4 @@ The review's theoretical argument about generative AI and externalization: "Just
 - [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](low-fidelity-non-inferiority-overconfidence.md) — related
 - [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](team-engagement-reduces-sa-overconfidence-risk-taking.md) — related
 - [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related
+- [Without scaffolding, students risk becoming overly reliant on AI explanations in ways that bypass deeper physics engagement](overreliance-risk-without-scaffolding.md) — a narrower finding that bears on this claim

@@ -12,7 +12,7 @@ generated:
 # Five-level diagnostic taxonomy of human–AI teaming defined by observable affordances
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 review), `q2`–`q4` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 5 studies (3 causal, 2 review), `q2`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter proposes a diagnostic taxonomy of human–AI teaming with five levels: transactional, situational, operational, praxical, and synergistic. Each level 'introduces one additional affordance over the level beneath it', and 'the classification is functional and is intended to be coded from observable behaviour' such as whether the system surfaces state, accepts governance, revises durably from feedback, or co-reasons. Interaction types are querying, monitoring, governing, adapting, and co-reasoning; diagnosis proceeds top-down, classifying a system at the highest threshold it meets.

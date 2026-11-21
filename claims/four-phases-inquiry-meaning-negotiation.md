@@ -47,3 +47,5 @@ Qualitative longitudinal study of the first cohort of four teachers using lesson
 ## Related Claims
 - [Teachers co-constructed their own shared definition of inquiry in a teacher-driven 1.5-hour conversation with minimal researcher facilitation](teacher-coconstructed-inquiry-definition.md) — related
 - [Teachers' references to the NSES five essential features of inquiry increased across five lesson-sharing reflections](lesson-sharing-refs-essential-features-increase.md) — related
+- [The group's talk shifts from cumulative talk to exploratory talk as differences between teachers' open-inquiry approaches are accepted and a consensus goal emerges](cumulative-to-exploratory-talk-shift.md) — related
+- [The negotiated open-inquiry definition supports two fundamentally different learning goals, scientific open inquiry and design open inquiry, and covers the elements of the curricular spiderweb](open-inquiry-definition-two-learning-goals.md) — related

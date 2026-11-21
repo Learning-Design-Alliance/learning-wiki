@@ -54,3 +54,4 @@ Post-survey knowledge test with five multiple-choice questions on video content,
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
 - [Students scored an average of 6.62 out of 10 on a comprehension test of the computing lectures and applications](lidyef2018-computing-test-6-62.md) — related
+- [LLM-generated short-form reels improved quiz performance compared to long-form videos in a between-subjects study of 62 university students](reelsed-higher-quiz-scores-vs-long-form.md) — related

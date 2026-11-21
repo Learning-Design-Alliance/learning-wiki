@@ -51,6 +51,7 @@ To preserve academic integrity and assessment fairness in the age of GenAI, the 
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
 - [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 - [Shift assessment away from inauthentic timed examinations toward more scientifically authentic evaluation activities](shift-away-from-timed-examinations.md)
+- [Retire unsupervised closed-response online assessment and shift credit toward process evidence, supervised settings, and AI-transparent work](retire-unsupervised-online-assessment-shift-process-evidence.md)
 
 ## Examples
 -

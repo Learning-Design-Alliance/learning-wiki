@@ -51,3 +51,4 @@ Project team's report of the mobile planetarium's first six months of operation:
 - [Students create planetarium tours that show well in the dome provided they avoid projecting text, which is hard to read in the mobile planetarium](student-wwt-tours-avoid-text.md) — related
 - [The UM-D, HFC and FAAC partnership delivers large-scale annual K-12 and public astronomy outreach, with of order a thousand schoolchildren per year at the planetarium](umd-hfc-faac-outreach-partnership-impact.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
+- [Early workshops with students and teachers in Brazil confirm the dome's effectiveness as a hands-on astronomy learning tool](nox-minima-workshop-reports.md) — related

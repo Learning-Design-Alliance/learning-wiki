@@ -68,3 +68,4 @@ The review reports, citing Manning et al. (2025), automated essay scoring experi
 - [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](distilbert-fairness-violations-across-topics.md) — related
 - [GPT-3 achieved reliable accuracy in automated essay scoring on TOEFL11 essays](gpt3-automated-essay-scoring-toefl.md) — related
 - [GPT-4's grading accuracy correlates with its problem-solving ability, and a mark scheme removes this dependence](gpt4-solving-grading-correlation.md) — related
+- [AI and teacher grades were identical for 83.63% of Attempt I responses, with discrepancies mostly showing more conservative AI grades](ai-teacher-grading-alignment-83-percent.md) — related

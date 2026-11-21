@@ -50,3 +50,4 @@ Regression analysis with collapsed physics pre-test score as dependent variable 
 ## Related Claims
 - [Higher physics pre-test scores predicted more actions per trial, and more actions per trial predicted more level completions, across game types](actions-per-trial-predicts-level-completions.md) — related
 - [Lower inhibitory control scores predicted significantly higher post-test scores specifically for the self-explanation game, with a Johnson-Neyman threshold of 46.72ms](inhibitory-control-threshold-self-explanation-benefit.md) — related
+- [In the physics course for majors, no variable pair — including exam scores and AM — reached the Bonferroni-corrected significance threshold](majors-class-no-significant-correlations.md) — related

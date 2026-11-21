@@ -85,6 +85,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 - [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
 - [Four-step tactile reading lesson sequence: matching, finger spelling, word reading, sentence reading](four-step-tactile-reading-lesson-sequence.md)
 - [Use colourful, attractive, and purposeful multisensory materials at the pre-reading phase to draw students' attention to the reading text.](multisensory-materials-pre-reading-phase.md)
+- [Pre-distribute all lecture materials with a Book of Diagrams of tactile diagrams before class sessions](pre-distributed-lecture-materials-tactile-diagrams.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the teacher models sound production and letter formation before learners attempt it

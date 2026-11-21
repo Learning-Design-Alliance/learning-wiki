@@ -58,3 +58,4 @@ Qualitative component using student focus groups, professor field journals, and 
 - [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related
 - [The historical dimension of the sequence has motivational and metacognitive value: students feel legitimized in error and proud to reason like Galileo](historical-controversy-motivational-metacognitive-value.md) — related
 - [Neither class showed 'conceptual debugging': no more elaborate investigative strategy was observed in any group after interacting with the environments](gt-no-conceptual-debugging.md) — related
+- [KSP lets students see orbital mechanics happen in real time, experiment with complex missions independently, and learn from mistakes in a low-stakes environment](ksp-real-time-sandbox-conclusion.md) — related

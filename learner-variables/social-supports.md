@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (144 show a difference, 32 mixed, 12 no difference) · 140 studies (53 associational, 29 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 140 report an effect size · 188 claims rest on one study
+> **Evidence** · 189 claims (145 show a difference, 32 mixed, 12 no difference) · 141 studies (53 associational, 30 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 141 report an effect size · 189 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -224,6 +224,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Networking and co-workers were the most important resource HEPA alumni used to obtain industry jobs](../claims/networking-most-important-resource-industry-jobs-hepa-alumni.md) [+M] — learners who differ on it differ in outcomes
 - [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](../claims/family-support-pathway-physics-major.md) [+M] — learners who differ on it differ in outcomes
 - [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](../claims/peer-socialization-persistence-astronomy.md) [+M] — learners who differ on it differ in outcomes
+- [Students cite prior knowledge, peer support, instructor support, and clear instructions as the main factors contributing to lab comfort](../claims/lab-comfort-factors-themes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

@@ -77,3 +77,4 @@ Evaluation of six GPT and Llama models prompted out-of-the-box to score essays o
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
 - [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — reports the opposite
+- [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related

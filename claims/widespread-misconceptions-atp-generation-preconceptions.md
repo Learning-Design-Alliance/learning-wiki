@@ -53,3 +53,4 @@ Pretest administration of the Oxidative Phosphorylation Concept Test to sixty B.
 - [Multimedia-learning misconceptions are highly prevalent among student teachers, with the learning-styles misconception endorsed most commonly (84%)](multimedia-misconceptions-prevalent-student-teachers.md) — related
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
+- [Physics teachers perceive student misconceptions as natural occurrences rooted in everyday experience that are difficult to change](teachers-perceive-misconceptions-natural-everyday-rooted.md) — related

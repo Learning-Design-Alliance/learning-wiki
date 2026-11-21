@@ -60,3 +60,5 @@ Theoretical argument in this perspective article's section on cognitive offloadi
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — related
 - [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — related
+- [Combining LLM use with self-made note-taking: LLMs aid initial understanding and reduce cognitive load, while making one's own notes requires more effort but deepens engagement and memory](llm-plus-note-taking-effort-benefits.md) — related
+- [Without scaffolding, students risk becoming overly reliant on AI explanations in ways that bypass deeper physics engagement](overreliance-risk-without-scaffolding.md) — a narrower finding that bears on this claim

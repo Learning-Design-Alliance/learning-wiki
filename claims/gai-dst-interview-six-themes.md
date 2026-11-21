@@ -81,3 +81,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](stp-qualitative-themes-experience-limitations-applicability.md) — related
 - [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related
+- [Qualitative feedback valued in-situ reflection, AI story feedback and video annotation, while social sharing and self-control features drew criticism](qualitative-feedback-value-and-friction.md) — related

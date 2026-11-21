@@ -48,3 +48,4 @@ Multivariable logistic regression of ECT visitor overall utility ratings (33.8% 
 - [Perceived educational utility of ECTVs does not differ significantly between face-to-face and remote video/phone modalities among GP registrars and ECT visitors](ectv-no-utility-difference-face-to-face-vs-remote.md) — related
 - [Registrars and ECT visitors rate ECTVs as highly educationally useful, with a strong positive-response ceiling effect](ectv-high-perceived-educational-utility-descriptive.md) — related
 - [Feedback rated as focused/specific and easy to translate into action is strongly associated with registrars rating ECTV overall educational utility as very useful (OR 12.8)](feedback-quality-associated-ectv-utility-rating.md) — related
+- [Perceived tool usefulness dropped in year two, with 37.5% rating tools not useful](tool-usefulness-mixed-second-year.md) — related

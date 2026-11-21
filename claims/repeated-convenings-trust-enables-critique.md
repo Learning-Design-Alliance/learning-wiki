@@ -84,3 +84,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Intern feedback indicated a strong in-person component is needed to build community in a virtual internship](in-person-component-needed-for-community.md) — related
 - [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related
 - [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related
+- [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related

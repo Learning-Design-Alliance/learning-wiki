@@ -112,3 +112,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [RPS students scored 0.22 standard deviations higher on the post-diagnostic than lecture students with the same incoming physics knowledge](rps-higher-postdiagnostic-learning-gains.md) — a narrower finding that bears on this claim
 - [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related
+- [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — a narrower finding that bears on this claim

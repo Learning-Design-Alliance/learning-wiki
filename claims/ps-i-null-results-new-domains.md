@@ -98,3 +98,4 @@ The editorial reports, citing Ganaiem and Roll (2025), middle-school students as
 - [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — reports the opposite
 - [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](relevant-not-breadth-prior-knowledge-activation.md) — related
 - [Primary knowledge content favored learners' involvement and persistence in the training phase regardless of their personal characteristics, unlike secondary knowledge](primary-knowledge-involvement-persistence.md) — related
+- [The I-PS group did not outperform a no-instruction baseline, and its gains appeared only after Phase 2](i-ps-no-better-than-no-instruction-baseline.md) — a narrower finding that bears on this claim

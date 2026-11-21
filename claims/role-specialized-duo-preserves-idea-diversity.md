@@ -50,3 +50,4 @@ Idea-level diversity analysis in Experiment-2 using LLM-extracted key points, SB
 - [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — related
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — a broader claim this one bears on
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — a broader claim this one bears on
+- [Risk-biased AI assistants offset the AI homogenization effect on portfolio diversity, with risk-seeking assistance offsetting 91% of it](biased-ai-offsets-portfolio-homogenization.md) — related

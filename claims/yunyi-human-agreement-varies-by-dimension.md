@@ -81,3 +81,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — related
 - [EM and neurology residents showed substantial agreement on NIHSS scores during the dual-scoring pilot](em-neurology-resident-nihss-substantial-agreement.md) — related
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
+- [AAG system scores align closely with human TA scores on open-ended statistics questions, with Pearson correlations of 0.75 and 0.82](aag-ta-score-correlation-open-ended.md) — related

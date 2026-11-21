@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 320 claims (184 show a difference, 88 mixed, 48 no difference) · 255 studies (92 causal, 47 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 40 of 255 report an effect size · 302 claims rest on one study
+> **Evidence** · 322 claims (186 show a difference, 88 mixed, 48 no difference) · 257 studies (94 causal, 47 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 41 of 257 report an effect size · 304 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -368,6 +368,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The worked-example intervention's effects on USS and OMR show no or small dependence on gender and pre-instructional knowledge, so it works for learners of diverse backgrounds without favouring high-prior-knowledge students](../claims/we-intervention-effective-across-prior-knowledge-gender.md) [-M] — an instructional effect differs with it
 - [After step 35, active and constructive learning gradually overtake passive learning, consistent with the expertise reversal effect](../claims/expertise-reversal-in-simulation.md) [~M] — an instructional effect differs with it
 - [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](../claims/gpp-prior-knowledge-moderation.md) [~M] — an instructional effect differs with it
+- [Concise expert-written explanations significantly outperform both self-learning and pipeline-generated explanations among high-baseline learners](../claims/expert-explanations-benefit-high-baseline-learners.md) [+M] — an instructional effect differs with it
+- [Experts consider difficult or uncertain problem areas, needed information, priorities, and information-gathering plans significantly more than novices, while novices more often focus on a potential solution](../claims/novice-expert-problem-solving-decision-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

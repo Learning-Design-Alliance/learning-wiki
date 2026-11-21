@@ -56,3 +56,4 @@ Meta-analysis of 57 independent effect sizes from 33 reports (N = 3,452) compari
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
 - [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — related
+- [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related

@@ -149,3 +149,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — related
 - [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — related
 - [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related
+- [Pre-service physics teachers found chatbot explanations useful entry points but frequently identified conceptual inaccuracies and flawed analogies](chatbot-explanations-entry-points-with-inaccuracies.md) — a narrower finding that bears on this claim

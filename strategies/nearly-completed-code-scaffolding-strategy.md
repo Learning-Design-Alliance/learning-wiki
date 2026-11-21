@@ -43,6 +43,7 @@ To let most students experience coding in limited time without getting stuck or 
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Use online coding platforms and ready-made equations to minimize technical setup and math manipulation](minimize-technical-setup-outreach-strategy.md)
 - [Mandatory offline pass/fail coding exam as an artificial obstacle forcing independent programming](offline-coding-exam-obstacle-strategy.md)
+- [Scaffolded code stubs with TODO markers for novice programmers](scaffolded-todo-code-stubs-strategy.md)
 
 ## Examples
 -

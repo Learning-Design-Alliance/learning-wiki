@@ -62,3 +62,5 @@ Randomized classroom experiment with 367 introductory biology students assigned 
 - [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related
 - [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related
 - [The self-selected experimental group had significantly lower prior knowledge than the control group, while hard-working level and class attendance did not differ significantly](non-equivalent-groups-lower-prior-knowledge.md) — related
+- [PS-I outperforms I-PS on the interpersonal-relationship strategy in the near-transfer scenario (Client B)](ps-i-better-interpersonal-strategy-near-transfer.md) — related
+- [Problem-solving before instruction (PS-I) maintains diagnostic performance in a complex far-transfer scenario where instruction-first (I-PS) students decline](ps-i-maintains-far-transfer-diagnostic-performance.md) — related

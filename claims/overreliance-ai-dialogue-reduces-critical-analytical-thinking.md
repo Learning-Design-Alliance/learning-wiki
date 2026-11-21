@@ -67,3 +67,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)
 - [GenAI was less fruitful in the definition stage of design, where students reflected it did not support critical thinking and risked shallow learning](genai-definition-stage-shallow-learning-risk.md) — a narrower finding that bears on this claim
 - [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related
+- [Without scaffolding, students risk becoming overly reliant on AI explanations in ways that bypass deeper physics engagement](overreliance-risk-without-scaffolding.md) — a narrower finding that bears on this claim

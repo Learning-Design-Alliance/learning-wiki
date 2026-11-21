@@ -49,6 +49,7 @@ The article's concrete quiz recipe: quizzes were announced in the syllabus and r
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Pre Reading Quizzes](pre-reading-quizzes.md)
 - [Announce assessment results with privacy protection and a bounded inquiry period](assessment-result-announcement-inquiry-strategy.md)
+- [Move from delayed toward real-time LLM feedback to improve argumentation across the semester](timely-llm-feedback-progression-strategy.md)
 
 ## Examples
 -

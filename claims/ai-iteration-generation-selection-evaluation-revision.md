@@ -52,3 +52,4 @@ Cross-study thematic synthesis of studies of AI-mediated design learning process
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — a broader claim this one bears on
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
 - [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — a narrower finding that bears on this claim
+- [The article argues that QIS education needs design-based research, which promotes iterative design, theory building, and evidence-based refinement in authentic learning contexts, beyond simply evaluating whether learning happened.](dbr-needed-for-qis-education.md) — related

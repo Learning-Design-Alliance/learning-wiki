@@ -51,6 +51,7 @@ The first proposal teaches space and time concepts "through traditional examples
 - [Night-sky field test where students apply their circumpolar maps and stellar compass under real conditions](night-sky-field-application-strategy.md)
 - [Stellar-compass construction activity using a spreadsheet of bright stars' rising and setting azimuths](stellar-compass-spreadsheet-activity-strategy.md)
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
+- [Use the dome to reproduce skies from past epochs and indigenous cultural asterisms for archaeoastronomy and ethnoastronomy](nox-minima-historical-cultural-skies-strategy.md)
 
 ## Examples
 -

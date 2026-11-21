@@ -41,6 +41,7 @@ The study's intervention format pairs a 45-minute lecture tailored to each condi
 ## Related Strategies
 
 - [Deliver standardized oxygen-therapy training as four 45-minute small-group sessions combining lecture, discussion, and multimedia](four-session-multimedia-oxygen-protocol-training.md)
+- [Pair-work 90-minute classroom session emphasizing teamwork, safe practice, and error discussion](pair-work-90-minute-spectroscopy-session.md)
 
 ## Examples
 -

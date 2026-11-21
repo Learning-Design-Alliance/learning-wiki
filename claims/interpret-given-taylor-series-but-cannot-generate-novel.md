@@ -54,3 +54,4 @@ The authors combine the written Taylor series pretest data with Year 1 teaching 
 - [A student who could reproduce the textbook derivation of the Boltzmann factor verbatim could not connect it to reservoir multiplicity, showing recitation without physical understanding](derivation-recitation-without-physical-understanding.md) — related
 - [Video data show students gain appreciation for the origin of the Boltzmann factor while participating in the tutorial](tutorial-video-appreciation-of-origin.md) — related
 - [Students understand Boltzmann's microscopic meaning of entropy but not its relation to the Clausius definition or why entropy never decreases for an isolated system](entropy-boltzmann-clausius-link-obscure.md) — related
+- [Interviews indicate students can recite relevant formulas but struggle with mathematical application and need visualization tools for potential difference](interviews-formula-recital-math-application-gap.md) — related

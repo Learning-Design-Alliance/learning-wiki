@@ -58,6 +58,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
 - [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 - [Deploy EEG-based attention monitoring with personalization, portable devices, and naturalistic validation](eeg-attention-monitoring-deployment-strategy.md)
+- [Deepen personalization for low-motivation learners with narrative elements, everyday-life relevance, and fewer tasks to prevent overload](narrative-relevance-reduced-tasks-low-motivation.md)
 
 ## Examples
 -

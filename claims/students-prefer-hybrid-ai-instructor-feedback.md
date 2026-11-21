@@ -67,3 +67,4 @@ Perception data from the mixed-methods study of 30 first-year EAP students, anal
 - [A majority of students (53.1%) preferred a combination of AI and expert feedback over either source alone](majority-prefer-combined-ai-expert-feedback.md) — related
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
+- [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related

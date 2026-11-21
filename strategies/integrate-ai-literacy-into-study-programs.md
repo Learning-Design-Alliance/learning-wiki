@@ -47,6 +47,7 @@ The authors argue that fostering responsible AI usage extends beyond tool design
 - [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 - [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 - [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
+- [Integrate AI literacy into curricula with clear expectations to guide ethical engagement across the usage continuum](ai-literacy-integration-clear-expectations-strategy.md)
 
 ## Examples
 -

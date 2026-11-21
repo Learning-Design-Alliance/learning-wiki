@@ -101,3 +101,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [LLM question types differed by condition: EDBook prompted more applying and analyzing questions, while webpage-plus-ChatGPT prompted more evaluating and solution-requesting questions](edbook-question-type-differences.md) — related
 - [ChatGPT was the dominant LLM tool with AstroTutor second, used in complementary roles for coding versus theory](chatgpt-dominant-astrotutor-complementary.md) — related
 - [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related
+- [Chatbot messaging dominated usage of the Educational AI Hub, and most student queries concerned software help and conceptual/theory help](ai-hub-chatbot-dominant-usage-query-topics.md) — related

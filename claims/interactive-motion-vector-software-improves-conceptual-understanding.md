@@ -79,3 +79,4 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [Students show improved conceptual understanding of Einsteinian concepts after the Einstein-First program](einstein-first-improved-conceptual-understanding.md) — related
 - [Tablet-PC video analysis improves conceptual understanding of uniform motion relative to a reference system, but not of velocity-as-rate or velocity-as-vector sub-concepts](video-analysis-improves-reference-system-understanding.md) — related
 - [A 30-minute concreteness fading game with AR and tangible robots produces significant learning gains in vector addition for high-school students](ar-robot-concreteness-fading-vector-learning-gain.md) — related
+- [A generative learning model supported by mind mapping media produced higher physics knowledge post-test scores than the teacher's usual model also supported by mind mapping media](generative-model-mind-mapping-higher-physics-posttest.md) — related

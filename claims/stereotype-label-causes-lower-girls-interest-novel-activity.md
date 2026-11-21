@@ -54,3 +54,4 @@ Preregistered within-subjects laboratory experiment with 50 8-year-old girls; de
 - [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md) — related
 - [The intervention affected girls' intrinsic motivation but not boys'; girls reported significantly lower interest with computer-aided consolidation (CALC) than with teacher-assisted consolidation (CALT).](girls-intrinsic-motivation-affected-by-treatment.md) — related
 - [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
+- [Far fewer girls than boys choose physics at age 16 across all four UK nations](uk-age16-physics-gender-uptake-gap.md) — related

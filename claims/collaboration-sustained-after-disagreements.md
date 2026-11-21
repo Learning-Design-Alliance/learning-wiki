@@ -73,3 +73,4 @@ Observational finding from the full disagreement corpus. The authors attribute t
 - [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md) — related
 - [Students disagreed more directly with invisible out-of-group peers than with present groupmates](direct-disagreement-invisible-versus-present-peers.md) — related
 - [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](mixed-soft-episodes-longer-more-perspectives.md) — related
+- [Social EERs helped a newly formed group form and maintain collaboration during data-collection waiting periods](social-eers-forming-new-collaborative-group.md) — related

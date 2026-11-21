@@ -49,6 +49,7 @@ Based on the network findings, the authors recommend curriculum reform that emph
 
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
 - [Allocate 10–15% of curriculum hours to structured soft skills training with mandatory modules and OSCE/portfolio assessment](soft-skills-curriculum-hours-allocation-strategy.md)
+- [Implement integrated units to resolve weak connections between curriculum content through convergence-based inquiry](integrated-units-convergence-inquiry-strategy.md)
 
 ## Examples
 -

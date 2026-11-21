@@ -42,6 +42,7 @@ The teacher uses spinning tops to show that a rotating body's axis both spins an
 
 - [Water-balloon analogy and guided group discussion on the real shape of the Earth](bombita-agua-forma-tierra-analogia.md)
 - [Progressive astronomy didactic sequence on precession of the equinoxes for upper secondary teachers](precesion-equinoccios-didactic-sequence.md)
+- [Use the dome to reproduce skies from past epochs and indigenous cultural asterisms for archaeoastronomy and ethnoastronomy](nox-minima-historical-cultural-skies-strategy.md)
 
 ## Examples
 -

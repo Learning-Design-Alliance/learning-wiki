@@ -71,3 +71,4 @@ Same multiple-group contextual-effect model: the school contextual effects of Af
 - [Colombian achievement gaps differ substantially across ethnic groups: the White-Afrocolombian gap is 0.59 SD, the White-Indigenous gap 0.52 SD, and the White-Other gap 0.14 SD](colombia-gaps-differ-across-ethnic-groups.md) — related
 - [In Colombian 2011 SABER 11 maths data, the White-minority achievement gap is 0.46 SD and the within-school component is only 15.7% under Approach 1](colombia-saber11-gap-within-school-15-7-percent.md) — related
 - [Minority students in Colombia attend schools with 63.8 percentage points more minority students than White students](minority-students-attend-schools-63-8pp-more-minority.md) — related
+- [Indigenous sixth-grade students in thirteen Latin American countries scored on average 35.6 points lower than non-indigenous peers in the TERCE natural sciences assessment (2013)](terce-indigenous-science-score-gap.md) — related

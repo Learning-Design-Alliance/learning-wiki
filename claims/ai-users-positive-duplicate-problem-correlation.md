@@ -50,3 +50,4 @@ Within-cluster correlational analysis for Cluster 4 (n = 42 per Table II); the s
 - [In a linear regression, the supervised on-campus exam score is the only statistically significant predictor of the final exam score](campus-exams-only-significant-final-predictor.md) — related
 - [Despite heavy external resource use, significant correlations between supervised and unsupervised assessments persist, so unsupervised assessments retain formative value](unsupervised-assessments-retain-formative-value.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Concept videos and problem-solving (recitation) videos showed no statistically significant association with E&M exam performance](concept-recitation-videos-not-significant.md) — related

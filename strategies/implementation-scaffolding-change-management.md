@@ -48,6 +48,7 @@ The article's recommendation for district leaders rolling out new tools: "pair n
 - [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
 - [Design AIED deployments to meet school operational criteria such as support, stability, and availability](aied-deployments-meet-school-criteria.md)
 - [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
+- [Use in-class demonstrations and targeted guides to support adoption of new tools](in-class-demos-targeted-guides-tool-adoption.md)
 
 ## Examples
 -

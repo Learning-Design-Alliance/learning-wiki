@@ -52,4 +52,4 @@ An iteratively crafted system prompt casts the LLM as 'an expert college course 
 -
 
 ## Key Sources
-- An, Y., Liu, J., Acharya, N., and Hashmi, R. (2025). Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses. arXiv:2507.05629v2 [cs.AI]. https://arxiv.org/abs/2507.05629
+- An, Y., Liu, J., Acharya, N., and Hashmi, R. (2025). Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses. arXiv:2507.05629v2 [cs.AI]. https://arxiv.org/abs/2507.05629. [doi:10.48550/arxiv.2507.05629](https://doi.org/10.48550/arxiv.2507.05629)

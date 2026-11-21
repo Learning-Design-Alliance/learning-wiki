@@ -44,6 +44,7 @@ The article used a manufacturer-produced training video that demonstrated the st
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
 - [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
 - [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
+- [Use in-class demonstrations and targeted guides to support adoption of new tools](in-class-demos-targeted-guides-tool-adoption.md)
 
 ## Examples
 -

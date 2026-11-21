@@ -59,3 +59,4 @@ Five-question views questionnaire given only at the end of the programme (Table 
 - [Pupils enjoyed the Einsteinian physics activities, answering the attitude research question positively](pupil-enjoyment-einsteinian-activities.md) — related
 - [Year 3 students (ages 7-8) demonstrated substantial uptake of Einsteinian physics concepts after a nine-lesson intervention](year-3-students-learn-einsteinian-concepts.md) — related
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
+- [Students in focus groups wanted more interactive activities like SPARC while valuing teachers' foundational instruction](sparc-focus-groups-teacher-complement.md) — related

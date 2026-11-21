@@ -58,3 +58,4 @@ Focus-group evidence from the pilot shows participants "were able to correctly u
 - [Enhancing information with visual data and stories is associated with a statistically significant difference in engagement levels in quantum computing education](visual-narrative-engagement-significant-difference.md) — related
 - [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — possibly the same claim (merge candidate)
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
+- [Numeric Huygens-Fresnel simulations help introductory students build intuition about coherent light in diffraction and interference experiments](huygens-fresnel-simulations-build-coherent-optics-intuition.md) — related

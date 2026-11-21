@@ -45,6 +45,7 @@ The authors advise early career scientists to convert a CV into a resume suitabl
 ## Related Strategies
 
 - [Embed employability skills and career awareness across the physics curriculum through a coordinated employer-engagement programme](embed-employability-across-physics-curriculum-strategy.md)
+- [Provide structured, level-tailored career preparation programs (resume workshops, mock interviews, employer research guidance) for CS students](structured-cs-career-preparation-programs.md)
 
 ## Examples
 -

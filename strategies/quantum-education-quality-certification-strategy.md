@@ -46,6 +46,7 @@ The paper recommends a systematic content-verification mechanism for open quantu
 - [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 - [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 - [Use GenAI-co-created data comics to communicate data insights to novice students, with human oversight to address misinformation and bias risks](genai-data-comics-for-insight-communication.md)
+- [Partner with professional content creators and engage public venues to disseminate accurate QIST explanations widely](partner-with-creators-public-outreach-qist.md)
 
 ## Examples
 -

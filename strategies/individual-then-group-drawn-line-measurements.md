@@ -42,6 +42,7 @@ The article describes a concrete collaboration structure for the series-circuit 
 
 - [Use the drawable-conductor exercises to teach measurement uncertainty through device errors, repeated-measurement agreement, sample preparation and error propagation](uncertainty-learning-through-drawn-conductor-exercises.md)
 - [Divide laboratory activities into parallel student-group strands merged in a joint final analysis](two-group-parallel-activity-division-mkid-lab.md)
+- [Pair-work 90-minute classroom session emphasizing teamwork, safe practice, and error discussion](pair-work-90-minute-spectroscopy-session.md)
 
 ## Examples
 -

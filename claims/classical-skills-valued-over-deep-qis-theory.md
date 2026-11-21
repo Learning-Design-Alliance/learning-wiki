@@ -60,3 +60,6 @@ In the interview study of 21 quantum companies, employers reported that deep QIS
 - [A reported study found all three surveyed high school physics teachers struggled to enthuse their students about quantum physics](teachers-struggled-to-enthuse-students-quantum.md) — related
 - [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related
 - [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related
+- [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related
+- [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
+- [Quantum KSAs required for QISE industry tasks fall into three categories: experimental; theory and knowledge of experiment; and theory only](qise-task-knowledge-three-categories.md) — related

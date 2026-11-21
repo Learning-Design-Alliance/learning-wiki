@@ -78,3 +78,4 @@ Affective coding of the same 48 feedback reports across the three conditions. Ne
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](feedback-focus-shift-across-tasks.md) — reports the opposite
 - [Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback](essay-quality-affective-feedback-divergent-correlations.md) — related
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](feedback-codes-co-occurrence-patterns.md) — related
+- [Feedback source, recognition accuracy and their interaction were not significantly associated with positive or negative affect, though coded feedback quality was](no-source-effect-on-feedback-affect.md) — related

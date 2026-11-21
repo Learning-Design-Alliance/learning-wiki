@@ -72,3 +72,4 @@ Comparison of the remaining summed questionnaire indicators (Q5–Q7, Q11–Q14,
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
 - [Overall course satisfaction did not differ significantly between the intervention and control groups](no-difference-overall-satisfaction-ultrasound-teaching.md) — related
+- [Student overall satisfaction was high for both gamification activities, with no statistically significant difference between Nanogames (93.7%) and NanoTechStart (76.2%) participants](gamification-activity-satisfaction-nanogames-nanotechstart.md) — related

@@ -49,6 +49,7 @@ The strategy embeds employability into the undergraduate physics curriculum via 
 ## Related Strategies
 
 - [Prepare industry-tailored resumes that translate HEPA skills into generic competencies and avoid physics jargon](industry-tailored-resume-strategy.md)
+- [Provide structured, level-tailored career preparation programs (resume workshops, mock interviews, employer research guidance) for CS students](structured-cs-career-preparation-programs.md)
 
 ## Examples
 -

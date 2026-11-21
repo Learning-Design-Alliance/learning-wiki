@@ -51,3 +51,4 @@ Pre-post assessment using the Force Motion Conceptual Evaluation in the P3 cours
 - [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — related

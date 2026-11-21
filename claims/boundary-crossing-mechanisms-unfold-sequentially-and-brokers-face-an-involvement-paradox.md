@@ -64,3 +64,4 @@ This is a rigorous single-case study, not a comparative or experimental design �
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md) — related
 - [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md) — related
 - [Preservice teachers must critically reflect on both the potential and limitations of technology in education, with research tasks and digital identity emerging as reflective strategies](reflective-practice-digital-identity-preservice-teachers.md) — related
+- [A live meet-up where teachers visit each other's courses acts as a pivoting point in understanding the similarities between their open-inquiry courses](live-course-visits-pivoting-point.md) — related

@@ -106,3 +106,4 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
 - [A LangChain-based Prompt-CoT model achieves higher accuracy than GPT-4o and BERT on the Paul Graham Essay question-answering benchmark](prompt-cotbase-outperforms-gpt4o-paul-graham-qa.md) — related
 - [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related
+- [LLM judges rate pipeline-generated explanations higher than direct prompting and hand-crafted templates across USML domains](llm-judges-rate-pipeline-explanations-higher.md) — related

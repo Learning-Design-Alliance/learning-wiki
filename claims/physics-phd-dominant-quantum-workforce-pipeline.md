@@ -64,3 +64,8 @@ Interview data on degree-subject routes (Fig. 3) show "The majority of companies
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [QISE degree programs are predominantly interdisciplinary, with physics, ECE, and computer science as primary contributors](qise-programs-interdisciplinary.md) — related
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related
+- [Managers anticipate a growing need for professionals who can apply quantum information science knowledge across applied fields](growing-need-application-focused-quantum-professionals.md) — related
+- [Managers foresee a growing need for technicians and manufacturing-side roles as quantum technologies move from laboratory proof-of-concepts to deployed manufactured units](growing-need-technicians-manufacturing-roles.md) — related
+- [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related
+- [Quantum industry managers project a continued need for a workforce spanning a range of educational levels to support industry scaling](quantum-managers-project-range-educational-levels.md) — related
+- [Managers anticipate expansion of the quantum talent pipeline beyond scientists and engineers into soft-skill-based and integration roles](quantum-pipeline-expansion-soft-skill-integration-roles.md) — related

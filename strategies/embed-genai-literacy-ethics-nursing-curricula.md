@@ -63,6 +63,7 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
 - [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Integrate AI literacy into curricula with clear expectations to guide ethical engagement across the usage continuum](ai-literacy-integration-clear-expectations-strategy.md)
 
 ## Examples
 -

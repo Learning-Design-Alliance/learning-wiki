@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 573 claims (367 for, 181 mixed, 25 against) · 368 studies (165 causal, 81 review, 42 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 368 report an effect size · 568 claims rest on one study
+> **Evidence** · 574 claims (368 for, 181 mixed, 25 against) · 369 studies (165 causal, 81 review, 43 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 369 report an effect size · 569 claims rest on one study
 
 ## Conditional relationship
 
@@ -571,6 +571,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Interactive electrophilic aromatic substitution lets students directly witness the stereoelectronic effect of directing groups through reaction energies](../claims/eas-directing-group-energies-interactive.md) [+W] — attached 2026-11-19 from Thomas Weymuth et al. (2020), which proposed "Use embodied, haptic manipulation of a physically faithful simulated chemical system to make abstract molecular concepts intuitive".
 - [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](../claims/iv-greater-learning-effect-than-flyover-video.md) [+W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy"; tests this page's relationship.
 - [The interactive visualization's advantage was significant for femoral stem insertion (task 3) but minimal for acetabular cup insertion (task 2)](../claims/task3-significant-iv-advantage-task2-minimal.md) [~W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy".
+- [Students completing the KSP Mün-landing project express satisfaction, frustration at physics restrictions, and demonstrate deep understanding of their orbital maneuvers in reflections](../claims/ksp-project-student-reflections.md) [+W] — attached 2026-11-21 from Brian DiGiorgio Zanger (2025), which proposed "Use a low-stakes game environment so students can quickly learn from inevitable mistakes and crashes".
 
 ## Objective and learner-valued goal
 

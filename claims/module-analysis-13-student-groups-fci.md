@@ -72,3 +72,4 @@ Group-level characterization of response profiles against nine previously measur
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [All six observed course-implementation networks are highly modular, with modularity Q above 0.5](bsc-networks-high-modularity.md) — related
 - [A two-level heuristic model fits the FCI correct-answer distribution, splitting students into a no-knowledge group (53%) and an eliminated-one-option group (47%)](two-level-heuristic-model-fci-fit.md) — related
+- [Community detection yields 15 communities (modularity ≈ 0.600), but some conceptually related physics terms are not clustered together](physics-term-communities-modularity-0-600.md) — related

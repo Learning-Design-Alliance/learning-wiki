@@ -56,3 +56,4 @@ MANOVA profile analysis across six cognitive attributes (working memory, nonverb
 - [Students with reading difficulties were more likely assigned to the Attention Control profile, while typically developing students were more likely assigned to the Decoding/Cognitive profile](rd-students-assigned-attention-profile.md) — related
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — possibly the same claim (merge candidate)
 - [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
+- [A significant multivariate group effect emerged on post-test cognitive and affective variables after groups were confirmed equivalent at pre-test](manova-multivariate-group-effect-post-test-support-conditions.md) — related

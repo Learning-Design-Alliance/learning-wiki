@@ -46,6 +46,7 @@ The article advocates extending the Physics Pavilion programme to the United Sta
 ## Related Strategies
 
 - [Guerrilla-STEM: an itinerant astro-animation exhibition with hands-on activities in unexpected public locations to engage audiences not a priori attracted to science](guerrilla-stem-itinerant-astro-animation-exhibition.md)
+- [Partner with professional content creators and engage public venues to disseminate accurate QIST explanations widely](partner-with-creators-public-outreach-qist.md)
 
 ## Examples
 -

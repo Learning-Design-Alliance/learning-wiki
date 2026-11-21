@@ -80,3 +80,4 @@ Same validated 24-item perception questionnaire completed by all 60 study-group 
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
 - [90% of surveyed students believed the hybrid module was useful for their future employment](tdps-useful-future-employment.md) — related
+- [Students reported strongly positive perceptions of the supplemental materials: over 88% reported positive exam impact and about 98% would recommend them](student-survey-positive-perceptions-supplemental.md) — related

@@ -49,3 +49,4 @@ Subjective ratings on 1–7 scales in Study 1 after both groups used the same LL
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — a broader claim this one bears on
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
+- [Embedding LLM-guided reflection prompts in an interactive AI-generated podcast did not significantly improve learning outcomes compared to a standard interactive podcast](reflection-prompts-no-learning-gain-ai-podcasts.md) — related

@@ -56,6 +56,8 @@ The article recommends that teacher education programs deliberately build in str
 - [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
 - [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
 - [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
+- [Train pre-service teachers' AI-related evaluative skills by comparing AI-generated and human feedback on the same artefact with sources disclosed only after initial evaluation](disclose-source-after-evaluation-strategy.md)
+- [Train pre-service teachers in epistemic verification protocols for AI-generated content](epistemic-verification-protocols-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Interpretive case study of 42 students in the I-TEP Web-based course during summ
 - [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — related
 - [Web-based advantages concentrate in skills practiced through the medium: the web group's interaction occurred mostly through reading and writing](web-medium-shapes-skill-gains-pattern.md) — related
 - [Students and instructors agreed that teacher-student interaction, practicing problem-solving ability, and teacher presence are the most valuable online EFL learning elements](three-shared-valuable-online-efl-elements.md) — related
+- [Instructors prefer an interactive system delivering brief 1–2 hour pedagogical prompting instruction, with both prompt selection and prompt writing](instructor-preferred-interactive-select-then-write-design.md) — related

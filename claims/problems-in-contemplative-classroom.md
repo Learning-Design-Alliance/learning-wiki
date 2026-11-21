@@ -52,3 +52,4 @@ Qualitative analysis for RQ4 based on interviews with five named MA TEFL student
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
 - [Student perceptions of the student-centeredness of flipped classrooms increase significantly over a semester](flipped-classroom-student-centeredness-perceptions-increase.md) — related
 - [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related
+- [Ethical understanding deepened with access to relevant readings and discussion opportunities: Ideas course students, especially in 2025, discussed ethical issues more deeply than high-school students](ethics-depth-depends-on-resources-discussion.md) — related

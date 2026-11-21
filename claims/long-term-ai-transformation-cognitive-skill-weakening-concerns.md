@@ -89,3 +89,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [The evidence base for transformative effects of AI-based teaching and learning remains thin, and assuming AI will work as intended is technochauvinism](thin-evidence-ai-education-transformative-effects.md) — related
 - [Intensive use of digital technologies and difficulty concentrating undermine students' reflective capacity needed for soft skills development](technology-distraction-soft-skills-barrier.md) — related
 - [Participants report that excessive dependence on laboratory tests and imaging erodes students' clinical reasoning and history-taking skills.](paraclinical-dependence-erodes-reasoning-iran.md) — a narrower finding that bears on this claim
+- [Concerns that AI undermines educational values showed mostly non-significant condition differences, with future learning risk only approaching significance (β = 0.41)](future-learning-risk-concern-marginal.md) — related

@@ -67,3 +67,4 @@ Same interview coding analysis: about half of all codes (48% or 95 out of 196) f
 ## Related Claims
 - [An earlier interview study of 21 quantum companies found engineering and experimental physicist roles most common and classical programming, statistics, and lab experience most valued](fox-2020-quantum-workforce-interview-findings.md) — related
 - [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related
+- [Managers anticipate expansion of the quantum talent pipeline beyond scientists and engineers into soft-skill-based and integration roles](quantum-pipeline-expansion-soft-skill-integration-roles.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: goscinski-2025
     resource: "https://doi.org/10.48550/arXiv.2507.05734"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Notebooks populated by ancillary code that does not contribute to core learning outcomes dilute students' focus, and learning is hindered by repetitive actions needed to rerun experiments. [→ Goscinski 2025](#goscinski-2025)

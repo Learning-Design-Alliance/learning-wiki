@@ -52,6 +52,7 @@ The article recommends that instructors, researchers, and curriculum developers 
 - [Interventions to make physics welcoming to female students: boost the value of science capital, highlight utility value, provide female role models, and act before university](gender-equity-interventions-physics-science-capital.md)
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
+- [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
 
 ## Examples
 -

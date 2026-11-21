@@ -56,3 +56,4 @@ The review reports, citing Fisher & Baird (2020), that adaptive platforms person
 - [ITSs as core or supplementary components of instruction show positive learning gains in individual studies, including ALEKS, Writing Pal, and eDia platform deployments](its-individual-study-positive-gains.md) — related
 - [Recent studies of adaptive systems report improvements in perceived learning, motivation, and satisfaction](adaptive-systems-improve-perceived-learning-motivation.md) — related
 - [Adaptive educational hypermedia systems are reported effective at tailoring instruction for heterogeneous groups in higher education and K-12](aeh-effective-tailoring-heterogeneous-groups.md) — related
+- [Real-time feedback and dynamic pathway adjustments yield the largest engagement and retention gains among adjustment types](adjustment-types-feedback-pathway-gains.md) — a narrower finding that bears on this claim

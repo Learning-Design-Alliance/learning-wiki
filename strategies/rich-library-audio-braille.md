@@ -64,9 +64,11 @@ Access to the same content through a preferred sensory modality removes the deco
 6. **Teach the tools.** Provide explicit instruction in navigating DAISY/EPUB audio, refreshable displays, and note-taking in the accessible format.
 
 ## Related Strategies
+
 - [Audiobooks](audiobooks.md) — the audio component of this strategy in depth
 - [Accommodating processing speed challenges](accommodating_processing_speed_challenges.md) — audio removes the time cost of slow print decoding
 - [Activate background knowledge](activating-prior-knowledge.md) — pre-listening/pre-braille previews improve comprehension of the accessed text
+- [Pre-distribute all lecture materials with a Book of Diagrams of tactile diagrams before class sessions](pre-distributed-lecture-materials-tactile-diagrams.md)
 
 ## Examples
 - **[Bookshare](https://www.bookshare.org)** — provides over a million titles in audio, braille, and large print to learners with print disabilities, with simultaneous access to the same titles classmates read in print.

@@ -51,3 +51,4 @@ Negative-case analysis within the qualitative study: Amanda's target lesson ques
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Higher-level formative assessment questions lead to greater learning gains than lower-order questions](higher-level-questions-greater-gains-than-lower-order.md) — related
+- [Neither program drew students for whom medicine was a primary interest, so different recruitment forms are needed to engage biology-interested students in QISE](qise-recruitment-needs-active-outreach.md) — a narrower finding that bears on this claim

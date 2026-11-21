@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 185 claims (118 for, 54 mixed, 13 against) · 152 studies (32 causal, 30 review, 30 qualitative, 30 theoretical, 17 design, 12 associational, 1 quant-synthesis), `q1`–`q4` · 10 of 152 report an effect size · 181 claims rest on one study
+> **Evidence** · 187 claims (119 for, 55 mixed, 13 against) · 153 studies (33 causal, 30 review, 30 qualitative, 30 theoretical, 17 design, 12 associational, 1 quant-synthesis), `q1`–`q4` · 10 of 153 report an effect size · 183 claims rest on one study
 
 ## Conditional relationship
 
@@ -279,6 +279,8 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](../claims/students-report-real-and-virtual-tools-mutually-supporting.md) [+M] — attached 2026-11-17 from Wee et al. (2014), which proposed "Use simulations as complements to real laboratory instruments to make measurement learning more authentic and focused"; tests this page's relationship.
 - [Complete reliance on generative AI for summary-writing tasks reduces reading-comprehension accuracy by 25.1% relative to manual writing, after adjusting for background knowledge and demographics](../claims/ai-writing-reliance-reduces-comprehension-accuracy.md) [+W] — attached 2026-11-20 from QiRui Ju (2023), which proposed "Educators should warn students about over-dependence on generative AI and provide explicit guidance on its optimal use in coursework"; tests this page's relationship.
 - [Post-course survey medians indicated maintained problem-solving independence despite LLM use and a positively impactful documentation requirement](../claims/survey-medians-ai-literacy-dimensions.md) [+W] — attached 2026-11-21 from Yuan-Sen Ting et al. (2025), which proposed "Require documented LLM use with critical reflection to foster independence rather than dependence in AI-assisted learning"; tests this page's relationship.
+- [A proactive Proberbot (VoiceViz) that intervenes with open-ended questions when teams appear stuck engendered more collaborative interactions, deeper discussions and more hypotheses](../claims/proberbot-probing-engenders-deeper-discussion.md) [+W] — attached 2026-11-21 from Yvonne Rogers (2025), which proposed "Five design approaches for GenAI tools that deliberately require more effort to deepen learning"; tests this page's relationship.
+- [An AI assistant requiring users to state their own rationale first (ExtendAI) integrated better into decision-making than one giving direct recommendations (RecommendAI), though the extra effort was found burdensome](../claims/extendai-rationale-first-beats-recommendations.md) [~W] — attached 2026-11-21 from Yvonne Rogers (2025), which proposed "Five design approaches for GenAI tools that deliberately require more effort to deepen learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

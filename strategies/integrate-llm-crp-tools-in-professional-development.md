@@ -46,6 +46,7 @@ The authors recommend embedding tools like CulturAIEd within professional develo
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Comprehensive integration approach: experiential teacher learning, iterative design, context-specific tool adaptation, and anxiety mitigation](ai-efl-integration-challenges-strategy.md)
 - [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
+- [Train pre-service teachers in epistemic verification protocols for AI-generated content](epistemic-verification-protocols-strategy.md)
 
 ## Examples
 -

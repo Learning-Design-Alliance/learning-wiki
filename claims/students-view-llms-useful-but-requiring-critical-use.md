@@ -84,3 +84,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Interviews identify CV creation and review challenges: structure confusion, over-describing of skills, inaccuracies and trust issues](interview-cv-creation-review-challenges.md) — related
 - [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related
 - [Navigation to source text and images increases perceived trustworthiness of AI responses by enabling verification](mudoc-trustworthiness-navigation.md) — related
+- [Pre-service physics teachers found chatbot explanations useful entry points but frequently identified conceptual inaccuracies and flawed analogies](chatbot-explanations-entry-points-with-inaccuracies.md) — a narrower finding that bears on this claim

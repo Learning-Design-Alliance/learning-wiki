@@ -61,6 +61,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 - [Integrate real-data analysis tools into an inquiry-based online learning platform to support reflective inquiry teaching](integrate-real-data-tools-into-inquiry-platform.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Train pre-service teachers in epistemic verification protocols for AI-generated content](epistemic-verification-protocols-strategy.md)
 
 ## Examples
 -

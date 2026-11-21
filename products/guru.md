@@ -28,4 +28,4 @@ Guru, developed by Olney and colleagues, is a dialogue-based intelligent tutorin
 -
 
 ## Key Sources
-- Olney, A.M., D'Mello, S.K., Person, N., Cade, W., Hays, P., Dempsey, C.W., Lehman, B., Williams, B., Graesser, A. (2025). Efficacy of a Computer Tutor that Models Expert Human Tutors. https://arxiv.org/abs/2504.16132
+- Olney, A.M., D'Mello, S.K., Person, N., Cade, W., Hays, P., Dempsey, C.W., Lehman, B., Williams, B., Graesser, A. (2025). Efficacy of a Computer Tutor that Models Expert Human Tutors. https://arxiv.org/abs/2504.16132. [doi:10.1007/978-3-031-98462-4_38](https://doi.org/10.1007/978-3-031-98462-4_38)

@@ -60,3 +60,4 @@ The authors' expert interpretation from consulting across many districts, not a 
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Broad, continuous information and personal persuasion increased familiarity with the mapping project and participation; limited committee access delayed progress substantially](continuous-communication-participation.md) — related
 - [High staff turnover at Paranal creates a continuous need for considerable training effort](turnover-drives-continuous-training-need.md) — related
+- [Faculty and staff rate their departments higher on Open-Mindedness and Collective Evidence than on Student Involvement, Sustainability, or Disrupting Injustices](cscs-factor-score-comparisons.md) — related

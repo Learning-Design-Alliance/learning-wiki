@@ -55,6 +55,7 @@ The article recommends leveraging the eye-mind link so that "simulation-based le
 - [Embed eye-tracking heatmap review into simulation debriefing to give situation-awareness-focused feedback](eye-tracking-heatmap-debriefing-strategy.md)
 - [Use cognitive feedback showing cue–outcome relationships to improve nurses' risk judgement](cognitive-feedback-clinical-judgement-strategy.md)
 - [Design adaptive online learning interventions that model and visualize peer attention to optimize student attentiveness](peer-attention-visualization-intervention-strategy.md)
+- [Use gaze-based network metrics for real-time self-assessment feedback and personalized learning interventions in visual tasks](gaze-network-metrics-self-assessment-feedback-strategy.md)
 
 ## Examples
 -

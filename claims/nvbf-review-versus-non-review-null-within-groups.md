@@ -47,3 +47,4 @@ Within-group A comparison at the first face-to-face consultation between NVBF re
 ## Related Claims
 - [Medical students who completed an EQClinic teleconsultation and reviewed the automated nonverbal behavior feedback scored significantly higher on the first face-to-face SOCA than students who had not used the platform](eqclinic-nvbf-higher-first-face-to-face-soca.md) — reports the opposite
 - [At the second face-to-face assessment, SOCA scores did not differ between groups, and reviewing nonverbal behavior feedback did not influence group B's results](second-face-to-face-no-group-difference.md) — related
+- [Checking feedback after a non-maximal, non-terminal submission is associated with a higher probability of scoring higher on the next submission](checking-feedback-raises-next-submission-score-probability.md) — related

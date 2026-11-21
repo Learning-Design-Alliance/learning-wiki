@@ -70,3 +70,4 @@ Same diagnostic analysis of the multimodal CrossAttn variant trained on the UAIT
 - [Open-source LLMs show persistent phonology deficits despite adequate mastery of other subskills](open-source-llm-phonology-deficit.md) — reports the opposite
 - [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — a broader claim this one bears on
+- [Retrieval-augmented generation grounding achieves near-perfect correctness compared to untuned LLM baseline](rag-grounding-near-perfect-correctness.md) — related

@@ -50,3 +50,4 @@ Controlled comparative evaluation of four LLMs on 240 FRCS (Urol) Part A questio
 - [GPT-5.2's 95% CI straddled the 74% pass mark, making its pass status dependent on sitting-specific calibration](gpt-5-2-ci-straddles-pass-mark.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
 - [Only Claude would have passed the LDEK/LDEW pass threshold on every attempt, while Gemini in Polish would certainly fail](only-claude-passes-ldek-threshold-every-attempt.md) — related
+- [Five independent CLASS runs by GPT-5 Thinking yield 100% favorable responses, an entirely expert-like simulated stance](gpt5-class-100-percent-favorable.md) — related

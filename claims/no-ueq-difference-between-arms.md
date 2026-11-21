@@ -59,3 +59,4 @@ Between-group comparison of UEQ scale scores in the quasi-randomized study, usin
 - [Learning gain, educational experience and adjective ratings did not differ by year of study; only SUS usability was significantly higher for current-year students](ethics-game-no-year-of-study-differences-except-sus.md) — related
 - [Learning attractiveness is reported to be much higher after teachers use the application than before.](learning-attractiveness-higher-after-app-use.md) — related
 - [Personalization did not improve Attractiveness ratings, and no significant effects were found on the Stimulation subscale](personalization-no-enjoyment-benefit.md) — related
+- [Reflection prompts produced no significant difference in perceived Stimulation between the interactive AI-generated podcast conditions](reflection-prompts-no-stimulation-difference-ai-podcasts.md) — related

@@ -54,3 +54,4 @@ The article's related-work section asserts this as background, citing prior work
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
 - [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
 - [A LangChain-based Prompt-CoT model achieves higher accuracy than GPT-4o and BERT on the Paul Graham Essay question-answering benchmark](prompt-cotbase-outperforms-gpt4o-paul-graham-qa.md) — a narrower finding that bears on this claim
+- [Assigning an expert persona to an LLM enhances its zero-shot performance, attributed to Kong et al.](expert-persona-enhances-zero-shot-performance.md) — related

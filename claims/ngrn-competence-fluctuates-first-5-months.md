@@ -57,3 +57,4 @@ Longitudinal self-assessment of 151 newly graduated registered nurses using the 
 - [Graduate nursing students' self-confidence dropped slightly but significantly during the 15-day interval between simulation modules while performance did not](self-confidence-slight-drop-15-day-interval.md) — related
 - [Shadowing and induction are considered efficacious for easing transition, but assistantship evidence is sparse](shadowing-induction-ease-transition-assistantship-sparse.md) — related
 - [MI skill varied greatly between counsellors and fluctuated within counsellors over time](great-variation-mi-skill-across-counsellors-over-time.md) — related
+- [In Operating Systems, a high PSA1 average (72.4) was followed by a slight PSA2 dip, attributed to reduced perceived urgency](operating-systems-psa2-dip-after-high-psa1.md) — related

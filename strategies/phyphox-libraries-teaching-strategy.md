@@ -47,6 +47,7 @@ The article recommends that educators integrate custom sensors into teaching by 
 ## Related Strategies
 
 - [Implement collaborative network experiments in other courses using phyphox XML configurations plus a simple PHP server](phyphox-course-implementation-strategy.md)
+- [Program micro:bit or Arduino sensor boards so students develop computational thinking while exploring kinematics](missionmotion-sensor-programming-computational-thinking.md)
 
 ## Examples
 -

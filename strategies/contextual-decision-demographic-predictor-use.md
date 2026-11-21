@@ -40,6 +40,7 @@ The article offers a contextual decision framework rather than a blanket rule. U
 
 - Demographics For Validation Not Prediction
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
+- [Use ML-derived achievement predictions to identify general risk factors and support policy, not to rank individual students for high-stakes decisions](use-predictions-for-risk-factors-not-individual-ranking.md)
 
 ## Examples
 -

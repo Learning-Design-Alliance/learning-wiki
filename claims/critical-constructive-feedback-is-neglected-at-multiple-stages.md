@@ -58,3 +58,4 @@ The study's central contribution is methodological: by instrumenting each proces
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [Over 60% of Feedback participants reported noticing the peer attention cues, though the authors argue influence may also be unconscious](peer-attention-cue-awareness-self-report.md) — related
+- [Checking feedback after a non-maximal, non-terminal submission is associated with a higher probability of scoring higher on the next submission](checking-feedback-raises-next-submission-score-probability.md) — related

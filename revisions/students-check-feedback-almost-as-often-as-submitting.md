@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/students-check-feedback-almost-as-often-as-submitting.md
+---
+
+# Revision history: [claims/students-check-feedback-almost-as-often-as-submitting](../claims/students-check-feedback-almost-as-often-as-submitting.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2507.14235 (Auto-grader Feedback Utilization and Its Impacts: An Observational Study Across Five Community Colleges) via eval_harness.py + ingest_extractions.py

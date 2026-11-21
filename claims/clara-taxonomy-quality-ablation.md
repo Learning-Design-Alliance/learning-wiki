@@ -70,3 +70,4 @@ Dimension-level ablation study (Table 10) removing one of COG, LAN, or SEL at a 
 - [Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment](cogevolution-ablation-module-contributions.md) — related
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
 - [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](ablation-structural-components-lower-judge-scores.md) — related
+- [Generated cognitive structures trace students' evolving construction over learning, broadly aligning with SOLO cognitive development levels](generated-structures-trace-solo-aligned-evolution.md) — related

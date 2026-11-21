@@ -54,3 +54,4 @@ Secondary correlational analysis using publicly available psychometric data for 
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
 - [Higher-order cognitive-skill questions are harder for students to answer than lower-order questions](higher-order-questions-harder-to-answer.md) — related
+- [On a high-difficulty energy problem, GPT-4o scored the written arguments of students who answered the multiple-choice question correctly significantly higher than those who answered incorrectly (Cohen's d = 0.87)](llm-quiz08-scores-differ-by-mc-correctness.md) — related

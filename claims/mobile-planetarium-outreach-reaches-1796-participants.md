@@ -51,3 +51,4 @@ Observational participation record of the 2015 outreach program. The article rep
 - [Before-and-after Astronomy Questionnaire responses showed almost all students left with heightened scientific curiosity and desire to learn more](pre-post-questionnaire-curiosity-gains.md) — related
 - [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related
 - [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related
+- [The nox-minima website generated over 800 dome images accessed over 1,500 times from 35 countries since July 2024](nox-minima-website-usage.md) — related

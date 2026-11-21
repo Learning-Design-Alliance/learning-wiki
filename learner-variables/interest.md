@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 313 claims (230 show a difference, 47 mixed, 36 no difference) · 218 studies (89 causal, 61 associational, 23 review, 21 design, 11 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 54 of 218 report an effect size · 307 claims rest on one study
+> **Evidence** · 314 claims (231 show a difference, 47 mixed, 36 no difference) · 219 studies (89 causal, 61 associational, 23 review, 21 design, 12 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 54 of 219 report an effect size · 308 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -348,6 +348,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Learning with AI-generated explanations raises situational interest compared with textbook materials](../claims/ai-explanations-raise-situational-interest.md) [+M] — measured as an outcome of the instruction studied
 - [Technological and scenic novelty sustained learners' situational interest across repeated VR lessons, contrary to the expectation that novelty fades](../claims/scenic-technological-novelty-sustains-interest.md) [+W] — measured as an outcome of the instruction studied
 - [VR tour-based English lessons enhanced adult online learners' motivation, with spatial presence a key driver of situational interest](../claims/vr-tours-boost-adult-online-language-motivation.md) [+W] — measured as an outcome of the instruction studied
+- [Most Pathways participants retained STEM career interest, with 15 of 45 students indicating interest in a QIS-related career](../claims/pathways-stem-retention-15-of-45-qis-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

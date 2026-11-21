@@ -50,3 +50,4 @@ Regression models predicting final exam scores using only the two incoming prepa
 - [Math SAT/ACT scores explain most URM and FG gaps while CI pre-scores explain the gender gap, showing the two preparation measures have different explanatory power](differential-explanatory-power-prep-measures.md) — related
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Structural equation modeling confirms that incoming preparation mediates the demographic gaps in final exam scores at all three institutions](sem-mediation-of-demographic-gaps.md) — related
+- [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related

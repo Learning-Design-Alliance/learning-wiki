@@ -44,7 +44,8 @@ The strategy is an explicit teacher-led discussion of the passing bands of vario
 - [Students more readily envisage 'more or less' diffused light when the common rules predict no absorption (red laser on red paper)](../claims/intensity-allusion-red-on-red-case.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Inquiry-based extensions: filtering particulates, changing path length, testing wavelengths, and comparing natural pigments](tomato-juice-inquiry-extensions.md)
 
 ## Examples
 -

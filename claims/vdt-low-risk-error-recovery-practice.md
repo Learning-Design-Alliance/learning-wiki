@@ -61,3 +61,4 @@ The authors' interpretive argument in the Discussion, contrasting VDT practice w
 - [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
+- [KSP lets students see orbital mechanics happen in real time, experiment with complex missions independently, and learn from mistakes in a low-stakes environment](ksp-real-time-sandbox-conclusion.md) — related

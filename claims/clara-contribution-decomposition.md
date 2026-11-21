@@ -53,3 +53,4 @@ Contribution decomposition study (Table 5) comparing GPT-4o direct, free-form wi
 - [CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines](clara-highest-human-ranking-agreement.md) — related
 - [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](prompting-limited-uneven-proficiency-control-writing-simulation.md) — related
 - [Developmental representations remain relatively stable across translated bilingual narratives](clara-bilingual-translation-consistency.md) — related
+- [Generated cognitive structures trace students' evolving construction over learning, broadly aligning with SOLO cognitive development levels](generated-structures-trace-solo-aligned-evolution.md) — related

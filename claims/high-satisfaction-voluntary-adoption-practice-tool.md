@@ -56,3 +56,4 @@ when the tool became optional for midterm 2."
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
 - [Students reported transferring confidence-rating and explanation strategies from the practice tool to actual midterms and future courses](metacognitive-strategies-transferred-to-real-exams.md) — related
+- [Students reported strongly positive perceptions of the supplemental materials: over 88% reported positive exam impact and about 98% would recommend them](student-survey-positive-perceptions-supplemental.md) — related

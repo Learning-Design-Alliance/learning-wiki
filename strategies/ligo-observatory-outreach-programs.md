@@ -46,6 +46,7 @@ The LIGO Observatories run a layered outreach program for general public, K-12, 
 - [Blend art and science in public exhibits and events to reach unconventional audiences](art-science-blended-outreach-events.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](grav-wave-education-tools-for-educators.md)
 - [Strategies for sharing complex technical topics with young audiences](spot-complex-topic-sharing-strategies.md)
+- [Use a comprehensive exhibition of original instruments and documents as an education, teaching, and research event](exhibition-as-education-teaching-research-event.md)
 
 ## Examples
 -

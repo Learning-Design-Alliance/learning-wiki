@@ -98,3 +98,4 @@ Authors' noted limitation of the voice-only system: prompt-described nonverbal c
 - [The VR simulator ran reliably and was quickly deployable, with under-5-minute setup, minimum 90 fps frame rates, and no malfunctions or breakages](vr-simulator-technical-performance-reliability.md) — related
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
 - [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related
+- [Students reported that the physical square wave synthesis experiment is operationally complex and produces unstable waveforms](square-wave-experiment-operational-challenges.md) — related

@@ -114,3 +114,4 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Modern physics courses are predominantly lecture-based (74.9%) with low adoption of interactive pedagogical approaches](modern-physics-pedagogy-lecture-dominant-low-interactivity.md) — related
 - [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related
 - [Peer network development is comparable across the four active learning methods and does not explain differences in conceptual learning gains](peer-network-development-comparable-across-methods.md) — related
+- [Peer Instruction implementations across seven introductory physics instructors show positive conceptual learning gains in six of seven courses, ranging from Hedges' g = 0.2 to 1.4](peer-instruction-gains-range-0-2-to-1-4.md) — a broader claim this one bears on

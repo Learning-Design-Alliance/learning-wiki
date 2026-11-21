@@ -51,3 +51,4 @@ Theoretical argument in the 'Comparing RITA with more advanced models' section. 
 - [RITA outperforms an RCT-derived ATE baseline in simulated worlds with heterogeneous treatment effects](rita-outperforms-rct-baseline-under-heterogeneity.md) — a narrower finding that bears on this claim
 - [RITA produces an asymmetry: small losses for individuals not benefiting from exploration are offset by large gains for those who do](rita-asymmetry-losses-offset-by-gains.md) — related
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — related
+- [Assistance actions exhibit heterogeneous treatment effects across students, but effect sizes are often too small for contextual bandit policies to significantly outperform well-optimized MAB policies](hte-exists-but-cb-gains-limited.md) — related

@@ -49,3 +49,4 @@ Narrative review of writing-process research on revision. The review reports tha
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related
 - [Think-aloud interviews show students superficially map principles from the solved problem to the quiz problem without checking the governing conditions or planning a solution](superficial-mapping-without-applicability-conditions.md) — related
+- [Experts consider difficult or uncertain problem areas, needed information, priorities, and information-gathering plans significantly more than novices, while novices more often focus on a potential solution](novice-expert-problem-solving-decision-differences.md) — related

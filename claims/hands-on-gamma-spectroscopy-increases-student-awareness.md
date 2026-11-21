@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-21
 sources:
   - id: albéri-2019
     resource: "https://doi.org/10.3390/educsci9010015"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All-round activities combining theoretical background, hands-on setup operations, data analysis, and critical synthesis were demonstrated to be effective in increasing students' awareness in quantitatively investigating environmental radioactivity. [→ Albéri 2019](#alberi-2019)

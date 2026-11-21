@@ -72,3 +72,4 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 - [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — related
 - [Corbett and Anderson's original individualization attempts produced mixed results](corbett-anderson-individualization-mixed-results.md) — related
 - [Pre-post knowledge survey scores varied across years, with scores for only questions 4 and 7 consistently rising from pre-test to post-test in one group with no comparison group](knowledge-survey-gains-inconsistent.md) — related
+- [No single assistance type is best: actions that help reattempting the current question are not always best for future-question performance](no-single-best-assistance-type-tradeoff.md) — a narrower finding that bears on this claim

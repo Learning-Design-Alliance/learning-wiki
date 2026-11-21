@@ -83,3 +83,5 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [Hierarchical clustering with weighted average linkage yields a six-cluster partition of the sample under an Inconsistency Coefficient threshold of 1.25, and the Variation Ratio Criterion peaks at six clusters](hierarchical-six-cluster-partition.md) — related
 - [Time series clustering of screened mathematics achievement data groups students into the same four interpretable trend clusters in two independent cohorts](time-series-clustering-four-interpretable-math-trend-clusters.md) — related
 - [A hybrid K-Means/HDBSCAN clustering method outperforms K-Means and HDBSCAN alone on silhouette score and Davies-Bouldin Index for physics strategy essays](hybrid-clustering-outperforms-kmeans-hdbscan-essays.md) — related
+- [The 3-clusters analysis yields better clustering performance than the 4-clusters analysis](three-experience-levels-clustering-outperforms-four.md) — related
+- [Time series clustering of network metrics identifies distinct developmental trajectories of visual search](time-series-clustering-distinct-gaze-trajectories.md) — related

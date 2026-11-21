@@ -72,3 +72,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Mental effort did not differ by condition overall, except participants reviewing the AGREE II in the practice-exercise arm reported lower mental demand than the Tutorial arm](agree2-mental-effort-one-univariate-difference.md) — related
 - [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related
 - [Cognitive load did not differ significantly between chatbot conditions, with trends toward lower performance and effort scores in the ChatGPT condition](cognitive-load-no-difference-chatbot-conditions.md) — related
+- [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related

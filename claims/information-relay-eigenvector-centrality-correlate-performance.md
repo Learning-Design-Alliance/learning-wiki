@@ -70,3 +70,4 @@ Table 2 row for eccentricity across MCQ, clinical and final grades. The final-gr
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — a broader claim this one bears on
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — related
 - [Eigenvector centrality was negatively related to problem elaboration, an effect driven mainly by the Mixed and Treatment sections](eigenvector-negative-problem-elaboration.md) — reports the opposite
+- [The Collaborative Learning Index showed no significant correlation with final grades](cli-no-significant-correlation-final-grades.md) — related

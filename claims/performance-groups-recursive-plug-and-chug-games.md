@@ -54,3 +54,4 @@ Transcribed audiovisual data of 14 lab groups solving a context-rich rotational 
 - [Transliteration to Mathematics game frequency differed significantly between the S14 semester and the S15 and F15 semesters](tm-game-frequency-semester-difference.md) — related
 - [Vague-dominated and framework-dominated groups tended to favor collaboration in the F15 class](vague-framework-groups-favor-collaboration.md) — related
 - [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related
+- [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](nested-epistemic-games-laplace-sensemaking.md) — related

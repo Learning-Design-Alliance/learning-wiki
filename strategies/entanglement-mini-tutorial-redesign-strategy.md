@@ -48,4 +48,4 @@ The authors observed that students who had developed an algebraic method for dec
 -
 
 ## Key Sources
-- Thacker, B., Wang, J., Zhang, Y., Tran, Q. B., Vemula, D. S., & Kushimo, T. (2025). From Research to Resources: Assessing Student Understanding and Skills in Quantum Computing. NSF grant DUE 2235464. https://www.nsf.gov/awardsearch/?AwardId=2235464
+- Thacker, B., Wang, J., Zhang, Y., Tran, Q. B., Vemula, D. S., & Kushimo, T. (2025). From Research to Resources: Assessing Student Understanding and Skills in Quantum Computing. NSF grant DUE 2235464. https://www.nsf.gov/awardsearch/?AwardId=2235464. [doi:10.1088/1361-6404/ae21a4](https://doi.org/10.1088/1361-6404/ae21a4)

@@ -80,3 +80,4 @@ Per-code endorsement analysis of contested codes; the article states this patter
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [Qualitative analysis of LLM answer explanations identified 3 ambiguous examination questions, supporting LLM use for question quality assurance](llm-explanations-flag-ambiguous-questions.md) — related
 - [Data-driven Q-matrix validation flagged 26 of 306 expert codings and the coders adopted 13, an overall adoption rate of 50%](qmatrix-validation-adoption-rates.md) — related
+- [LLM quality metrics do not predict human learning outcomes from explanations](llm-quality-metrics-do-not-predict-human-learning.md) — related

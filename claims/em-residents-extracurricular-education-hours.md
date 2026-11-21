@@ -49,3 +49,4 @@ Cross-sectional SurveyMonkey survey of 226 emergency medicine residents at 12 U.
 - [75% of US EM residency programs report using simulation at least monthly, up from about 42% of programs reporting >10 hours annually in 2008](em-residencies-simulation-monthly-increase.md) — related
 - [Chinese medical students show low interest and high anxiety toward statistics, with most spending under 3 hours per week studying it](medical-students-low-interest-statistics-anxiety.md) — related
 - [The most-used specific resources are EM:RAP (81.4%), UpToDate (73%), and EMCrit (52.6%)](emrap-uptodate-emcrit-most-used.md) — related
+- [Assignments were rated manageable, with most students spending under two days per assignment](q-beast-assignments-manageable-workload.md) — related

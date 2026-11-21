@@ -55,6 +55,7 @@ The authors recommend specific refinements to improve HBOPPPS efficiency while r
 - [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
 - [Iteratively refine hybrid genomics courses using student feedback: add synchronous video sessions, moderate discussion boards, and add a genomics policy advocacy assignment](iterative-refinement-hybrid-genomics-courses-strategy.md)
 - [Iteratively refine virtual laboratory teaching using student feedback: add group discussions, advance reading materials, and clearer in-experiment guidance](feedback-driven-vlab-refinement-strategy.md)
+- [Implement integrated units to resolve weak connections between curriculum content through convergence-based inquiry](integrated-units-convergence-inquiry-strategy.md)
 
 ## Examples
 -

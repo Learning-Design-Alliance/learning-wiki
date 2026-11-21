@@ -73,3 +73,4 @@ Same Motivation-section descriptive analysis of IPEDS data: Hispanic American gr
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related
 - [The plotted ratio of physics degrees shows fluctuation with a recent decrease described as clearly obvious](physics-degree-ratio-recent-decrease.md) — related
 - [Self-reported URM fractions in recent USPAS sessions ranged from 14% to 16%, with Black/African American counts chronically low](uspas-urm-fractions-recent-sessions.md) — related
+- [Physics degrees are unequally awarded relative to population composition, and out-of-school informal STEM experiences were the most frequent influence on Black physics degree recipients](ipe-recruitment-retention-representation-gap.md) — related

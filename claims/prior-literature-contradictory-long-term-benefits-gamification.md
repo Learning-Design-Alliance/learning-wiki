@@ -47,3 +47,4 @@ The review attributes this contradictory finding to a prior systematic review, c
 ## Related Claims
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — related
 - [Prior gamification studies show mixed long-term effects, with some reporting declining motivation over time and competition potentially harming satisfaction](mixed-long-term-gamification-motivation-evidence.md) — possibly the same claim (merge candidate)
+- [Evidence on learning effects of generative AI is contradictory, whereas studies on learning with smartphone experiments alone are coherently positive](contradictory-generative-ai-learning-evidence.md) — related

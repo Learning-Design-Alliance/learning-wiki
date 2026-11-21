@@ -59,3 +59,5 @@ Repeated administration of the Marshman et al. six-question Likert self-efficacy
 - [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
 - [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — related
 - [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related
+- [Men report higher physics self-efficacy and lower test anxiety than women in bioscience-track physics courses, with large gender differences in Physics 1](gender-gaps-self-efficacy-test-anxiety-bioscience-physics.md) — related
+- [Test anxiety increased over the duration of both physics courses for men and women, with women higher in anxiety throughout; self-efficacy declined over Physics 1, and over Physics 2 for women only](test-anxiety-increases-over-course-duration.md) — related

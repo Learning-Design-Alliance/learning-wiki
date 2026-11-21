@@ -65,3 +65,5 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](learners-prefer-video-over-audio-materials.md) — related
 - [Student preference for the AI role-play over other teaching methods was variable, with a third disagreeing or neutral](ai-roleplay-preference-variability.md) — related
 - [Adult learners show no statistically significant difference in recognition performance across human-framed text, AI-framed text, human video, and AI synthetic video conditions](ai-synthetic-video-no-recognition-difference.md) — related
+- [Distrust in AI was negatively correlated with system usage, while comfort and perceived homework helpfulness were positively correlated with engagement](distrust-comfort-correlate-ai-usage.md) — related
+- [Learners expressed high trust in the LLM-generated reels, with residual skepticism about transparency](reelsed-high-trust-llm-content.md) — related

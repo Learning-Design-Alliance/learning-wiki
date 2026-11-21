@@ -57,3 +57,4 @@ Faculty survey of N=63 introductory QISE courses at US institutions classifying 
 - [Prior quantum assessments largely require advanced mathematics or Dirac notation and few address key QIS concepts such as gates, entanglement, teleportation, and decoherence](prior-quantum-assessments-inaccessible-and-qis-thin.md) — related
 - [Quantum algorithms and computing are the most commonly covered QISE topics in engineering courses, while density matrices and measurement are rare](qise-topic-frequency-engineering-courses.md) — a narrower finding that bears on this claim
 - [QISE educators commonly embed QISE topics into existing quantum courses as a pragmatic, scalable entry point](qise-topics-embedded-existing-quantum-courses.md) — related
+- [Students reported lower familiarity with quantum benchmarking and applications than with fundamentals](q-beast-students-weak-benchmarking-applications.md) — related

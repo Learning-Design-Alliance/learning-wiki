@@ -45,7 +45,8 @@ The authors propose applying fuzzy logic to academic assessment itself, so that 
 - [In prospective PE teachers, a multiple regression model predicts TQT-PE scores significantly overall (R² = 0.313) but no individual predictor reaches significance](../claims/regression-tqtpe-overall-significant-no-individual-predictors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers adaptively review the top-n students by model confidence instead of using fixed-threshold binary predictions](top-n-confidence-review-strategy.md)
 
 ## Examples
 -

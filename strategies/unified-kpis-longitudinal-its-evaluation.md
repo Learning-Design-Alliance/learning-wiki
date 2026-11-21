@@ -46,6 +46,7 @@ The review recommends that future ITS research strengthen its empirical foundati
 - [Assuming that all students may require support at different times would set the foundation for educators to adopt a more responsive approach including the use of demographic data](assume-all-students-require-support-responsive-approach.md)
 - [Evaluate AI tools with the same rigor as new drugs, diagnostic tests, or treatment protocols](evaluate-ai-tools-like-new-drugs.md)
 - [Future tutoring-system research directions: robotic cognitive adaptability, comprehensive ethics, and long-term outcome studies](tutoring-systems-future-research-directions.md)
+- [Adopt a generalizability challenge requiring tutoring classifiers to be validated across diverse datasets](tutoring-classifier-generalizability-challenge.md)
 
 ## Examples
 -

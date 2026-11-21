@@ -55,3 +55,4 @@ The editorial reports, citing Haake and Pfister, a semester-long computer-scienc
 - [No differences in quality and correctness of final energy-chain diagrams between interface conditions](no-difference-final-diagram-quality-interfaces.md) — related
 - [Structured CSCL communication interfaces produced more communicative acts and more symmetrical participation than free chat](structured-cscl-interface-acts-and-symmetry.md) — related
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](structured-dpp-no-completion-time-effect.md) — related
+- [A structured prompting interface produced no significant differences in learning or performance compared with free ChatGPT use in graduate robotics labs](structured-prompting-interface-no-learning-performance-difference.md) — a narrower finding that bears on this claim

@@ -47,6 +47,7 @@ The review recommends pedagogy that moves from policing AI use to teaching AI-me
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Refocus education from reckoning skills towards judgement skills and problem formulation](prioritise-judgement-skills-and-problem-formulation-curriculum.md)
+- [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](process-tracing-ai-dialogue-assessment-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Evaluation (RQ1) of LLM grading of teams' incident-response emails against instr
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [GPT-4o's performance is weaker in Laboratory skills (35.0%), which include strategies for data collection and analysis](gpt4o-subject-category-variation-lab-weakest.md) — related
+- [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related

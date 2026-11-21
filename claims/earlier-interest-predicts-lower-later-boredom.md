@@ -57,3 +57,4 @@ Latent cross-lagged SEM (n mathematics = 1420, n German = 1418) over four waves.
 - [Interest is substantially more stable over time than boredom, whose autoregressive paths are low and decline](differential-stability-interest-boredom.md) — related
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](boredom-interest-correlations-increase-over-waves.md) — related
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
+- [High school science interest positively predicted later science achievement (β = .349, p < .001)](science-interest-predicts-achievement-longitudinal.md) — related

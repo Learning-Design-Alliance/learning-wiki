@@ -59,3 +59,4 @@ Mann-Whitney U comparison of post-intervention cognitive load in the cluster-ran
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](srl-cgf-improves-metacognition-and-srl.md) — related
 - [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related
 - [Dashboard use increases test anxiety and mental load but not mental effort](srl-lad-increases-anxiety-mental-load.md) — related
+- [Both AI chatbot and tiered support significantly reduce intrinsic and extraneous cognitive load compared with static textbook-style support in ninth-grade physics problem solving](chatbot-tiered-support-reduce-cognitive-load-vs-textbook-physics.md) — reports the opposite

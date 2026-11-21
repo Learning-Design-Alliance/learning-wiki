@@ -45,6 +45,7 @@ A three-activity sequence that introduces the precession of the equinoxes progre
 - [Water-balloon analogy and guided group discussion on the real shape of the Earth](bombita-agua-forma-tierra-analogia.md)
 - [Spinning-top analogy to teach Earth's axial precession](trompo-analogia-precesion-eje-terrestre.md)
 - [Design didactic tools for teacher training that explicitly take teachers' misconceptions and learning obstacles into account](didactic-tools-addressing-teacher-misconceptions.md)
+- [Use the dome to reproduce skies from past epochs and indigenous cultural asterisms for archaeoastronomy and ethnoastronomy](nox-minima-historical-cultural-skies-strategy.md)
 
 ## Examples
 -

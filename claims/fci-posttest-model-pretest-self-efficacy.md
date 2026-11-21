@@ -70,3 +70,4 @@ Coefficients from the best-fitting FCI post-test model: 'βFCI pretest = 0.57 (p
 - [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related
 - [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
 - [Models adding midterm exam and affective attribute give the lowest AIC fit at both two-level (model 5) and three-level (model 6) specifications](best-fit-models-midterm-affective-aic.md) — related
+- [Including test anxiety or self-efficacy in regression models eliminates the significant gender difference in Physics 1 high-stakes scores](motivational-constructs-account-for-gender-exam-gap.md) — related

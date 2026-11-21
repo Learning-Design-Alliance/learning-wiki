@@ -70,3 +70,4 @@ The review reports that in the same reflection experiments, students "given a de
 - [With a more typical quiz problem, even minimal scaffolding (notes and textbook) supported reasonable self-diagnosis, unlike with the earlier extremely difficult problem](easier-quiz-problem-minimal-scaffold-self-diagnosis.md) — related
 - [Completed solutions and mistakes offer opportunities for reflection that improve future problem solving](post-solution-reflection-and-mistake-analysis.md) — a broader claim this one bears on
 - [The review reports that incentivizing students to self-diagnose and correct their mistakes before receiving solutions best helped them learn from mistakes](incentivized-self-diagnosis-mistakes-review.md) — possibly the same claim (merge candidate)
+- [Scaffolded written reflections in physics courses help students reflect at higher levels](scaffolded-reflections-raise-reflection-levels.md) — related

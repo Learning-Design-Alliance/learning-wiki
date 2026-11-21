@@ -69,3 +69,4 @@ Comparison across the 272-student Dirac-notation survey and the 210-student posi
 - [Only 31% of graduate students correctly answered the identity operator and continuous-observable probability question](dirac-question3-identity-operator-low-performance.md) — related
 - [Upper-level students recognize and recall translations of a generic state vector between Dirac notation and position/momentum representations far better than they can generate them](recognize-recall-easier-than-generate-generic-state.md) — related
 - [About half of students fail to recognize the correct expression for the probability of measuring energy E1 at time t = 0](students-difficulty-energy-measurement-probability-t0.md) — related
+- [Students performed far better on the familiar-context ranking question (83.3% correct) than on abstract-level questions](familiar-context-question-5-success-83-3.md) — related

@@ -48,3 +48,4 @@ Experiment reported in the Results section: the proposed model was re-run varyin
 ## Related Claims
 - [Human annotators converge on a similarity threshold above 7 of 10 before offering transfer credit](annotators-require-similarity-above-7-for-credit.md) — related
 - [Combining taxonomic and semantic similarity of learning outcomes yields higher agreement with human transfer-credit decisions than semantic similarity alone](nlp-transfer-credit-model-outperforms-semantic-only.md) — related
+- [Multi-label annotation of toxic text yields higher alignment with external ML classifiers than forced single-label consensus, though not always higher inter-annotator agreement](multi-label-annotation-higher-classifier-alignment.md) — related

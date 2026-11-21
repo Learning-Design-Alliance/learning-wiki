@@ -54,3 +54,4 @@ Discussion-section finding from the interview study: participants at intersectio
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related
+- [Bell Burnell Graduate Scholarship applicants in 2022 and 2023 were overwhelmingly from multiple under-represented groups](bell-burnell-applicants-intersectional-underrepresentation.md) — related

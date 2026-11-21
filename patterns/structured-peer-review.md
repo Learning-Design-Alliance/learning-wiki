@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (33 for, 25 mixed) · 67 studies (23 causal, 11 quant-synthesis, 10 associational, 8 review, 6 design, 5 qualitative, 4 theoretical), `q1`–`q4` · 15 of 67 report an effect size · 43 claims rest on one study
+> **Evidence** · 60 claims (35 for, 25 mixed) · 68 studies (23 causal, 12 quant-synthesis, 10 associational, 8 review, 6 design, 5 qualitative, 4 theoretical), `q1`–`q4` · 15 of 68 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,8 @@ Claims the earlier page cited, and others that bear on it, not used as core evid
 - [After peer review plus a 20-day revision period, intervention-group lectures received significantly higher student quality ratings than control-group lectures (86 vs 73; p = 0.001)](../claims/peer-review-higher-post-intervention-lecture-quality.md) [+W] — attached 2026-11-05 from Abbas Uzair et al. (2026), which proposed "Integrate structured peer assessment alongside traditional student evaluations to strengthen faculty development and improve lecture quality and learning outcomes"; tests this page's relationship.
 - [Peer reviewers inflate grades when they recognize the grade they are giving as final, so rubric-based training is needed for peer review to serve as assessment](../claims/peer-grade-inflation-final-assessment-video-project.md) [~W] — attached 2026-11-19 from Graul et al. (2020), which proposed "Student-created video project with iterative peer review as a midterm assessment replacement".
 - [Anonymous peer review supports perceived relatedness: students learned from peers' perspectives, but distrust of peer markers and uneven participation undermined it](../claims/anonymous-peer-review-perceived-relatedness.md) [~W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Anonymous peer review as a remote feedback design for large, diverse classes".
+- [Three reviews per submission is the most common configuration, and three to five reviews is frequently cited as balancing accuracy, workload, learning outcomes, and engagement](../claims/three-to-five-reviews-balance-accuracy-workload.md) [+W] — attached 2026-11-21 from Uchswas Paul et al. (2025), which proposed "Design peer grading for three to five reviews per submission to balance grading accuracy against student workload and engagement".
+- [Increasing the number of peer reviews per submission generally enhances grading accuracy, but returns diminish beyond roughly five to six reviewers](../claims/more-reviewers-improve-accuracy-with-diminishing-returns.md) [+W] — attached 2026-11-21 from Uchswas Paul et al. (2025), which proposed "Design peer grading for three to five reviews per submission to balance grading accuracy against student workload and engagement".
 
 ## Illustrative design instance and observation record
 

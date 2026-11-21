@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 160 claims (120 for, 37 mixed, 3 against) · 110 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 110 report an effect size · 154 claims rest on one study
+> **Evidence** · 163 claims (122 for, 38 mixed, 3 against) · 111 studies (49 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 111 report an effect size · 157 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -216,6 +216,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Anonymous peer review supports perceived relatedness: students learned from peers' perspectives, but distrust of peer markers and uneven participation undermined it](../claims/anonymous-peer-review-perceived-relatedness.md) [~W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Self-determination theory as a research model for students' engagement in anonymous peer review".
 - [The self-reflective facilitator persona needs competence support: a centralized resource hub and science communication training](../claims/kyle-self-reflective-facilitator-needs.md) [+W] — attached 2026-11-19 from Shams El-Adawy et al. (2023), which proposed "Self-Determination Theory applied to informal physics practitioners' motivation".
 - [The sparking interest and understanding facilitator persona needs community building to bridge gaps between physicists and science communication professionals](../claims/rory-community-building-needs.md) [+W] — attached 2026-11-19 from Shams El-Adawy et al. (2023), which proposed "Self-Determination Theory applied to informal physics practitioners' motivation".
+- [Autonomy does not amplify the belonging–persistence relationship; low-autonomy students show a steeper belonging–intent-to-persist slope, suggesting a compensatory pattern](../claims/autonomy-compensatory-sb-ip.md) [~W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
+- [Competence amplifies the effect of sense of belonging on intent to persist](../claims/competence-amplifies-sb-ip.md) [+W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
+- [Relatedness buffers intent to persist against low sense of belonging](../claims/relatedness-buffers-low-sb.md) [+W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
 
 ## The evidence by question
 

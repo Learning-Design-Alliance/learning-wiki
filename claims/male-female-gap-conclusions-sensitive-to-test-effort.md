@@ -65,3 +65,4 @@ Sensitivity analysis of achievement gap estimates with and without adjustment fo
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Noncognitive skills, test-taking strategies, and test effort do not explain the female advantage in sustaining performance](determinants-of-sustained-performance-unexplained.md) — related
 - [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](variability-insufficient-to-explain-stem-underrepresentation.md) — related
+- [Alternative midterm exam aggregation methods show no consistent differential benefit for female versus male students, leaving sex grade gaps unchanged](aggregation-methods-no-sex-equity-effect.md) — related

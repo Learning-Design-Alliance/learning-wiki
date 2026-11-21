@@ -51,3 +51,4 @@ Item-level analysis (Fig. 3a) plotting each email's actual difficulty against pe
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a broader claim this one bears on
 - [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — related
 - [Case difficulty varies widely: COVID-19 pneumonia (85.4%) and pneumoperitoneum (80.5%) were best interpreted, while pneumomediastinum (42.0%) and left lower lobe pneumonia (43.4%) were worst](cxr-case-difficulty-variation.md) — related
+- [Standardized intervention-based scoring yields a distribution with a mean in the high 80% range](oral-exam-scoring-distribution-high-80s.md) — related

@@ -59,3 +59,4 @@ Anonymous 10-item questionnaire administered only to the PBL-DeepSeek group, wit
 - [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — related
 - [End-of-course surveys showed most students favored the method, but a minority reported no change or worse results](smartphone-app-method-survey-perceptions.md) — related
 - [Most treatment students wanted to continue using the GPT-4 tutor after the study](gpt4-tutor-continuation-demand.md) — related
+- [Most student participants are extremely willing to use pedagogical prompts in future learning, though a minority express reluctance](student-willingness-to-use-pedagogical-prompts.md) — related

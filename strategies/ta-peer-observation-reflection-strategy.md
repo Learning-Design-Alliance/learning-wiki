@@ -17,7 +17,7 @@ sources:
 # Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on the finding that TAs default to talking at students with little intervention, the author recommends targeted professional development: TAs "could become more interactive with useful, clear-cut examples and guidance from more-experienced instructors." The author states that "Observations of others teaching the same course would be beneﬁcial to their professional development, as would time to reﬂect on their own teaching practices," and that TAs "will require signiﬁcantly more training and departmental support before either course will become more interactive." This strategy treats observation data as a baseline for responsive TA development.

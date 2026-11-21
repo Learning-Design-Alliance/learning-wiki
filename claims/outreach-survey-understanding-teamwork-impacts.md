@@ -52,3 +52,4 @@ Descriptive analysis of survey responses (117 completed) from current and former
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — a broader claim this one bears on
 - [In a prior single-institution pilot, over 80% of outreach participants reported positive impact on conceptual understanding and over 85% on teamwork and networking](pilot-study-outreach-identity-gains.md) — possibly the same claim (merge candidate)
+- [Facilitating informal physics education benefits student volunteers' physics identity, sense of belonging, and communication, teamwork, networking, and design skills](ipe-facilitator-identity-and-skills-benefits.md) — a broader claim this one bears on

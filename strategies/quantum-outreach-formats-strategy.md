@@ -51,6 +51,7 @@ The paper catalogues tested formats from open quantum education pilots: pictoria
 
 - [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
 - [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
+- [Use illustrated books and interactive games to introduce abstract quantum concepts to elementary students](illustrated-books-games-quantum-elementary.md)
 
 ## Examples
 -

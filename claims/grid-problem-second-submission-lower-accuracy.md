@@ -66,3 +66,4 @@ Paired-samples comparison for the heat exchanger problem in the same quasi-exper
 ## Related Claims
 - [Feedback type (metacognitive cues, expert map review, both, or scores only) produced no statistically significant difference in mean accuracy change on either technical problem](concept-map-feedback-type-no-effect-diagnostic-accuracy.md) — related
 - [A subset of top-performing subjects achieved substantially higher map accuracy, indicating some students understood the mapping technique well](top-performers-high-map-accuracy.md) — related
+- [Student performance improved significantly from first to second submission after AI feedback, with 15.18% of responses improving and only 0.31% declining](attempt-two-improvement-after-ai-feedback.md) — reports the opposite

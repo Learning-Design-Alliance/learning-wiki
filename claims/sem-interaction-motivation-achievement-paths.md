@@ -49,3 +49,4 @@ Structural equation modeling on 238 households; model fit was acceptable (CFI = 
 - [Reading motivation fully mediates the relationship between parent–child newspaper interaction and academic achievement](reading-motivation-full-mediation-newspaper-interaction.md) — related
 - [Among newspaper interaction subfactors, online mediation correlates most strongly and scrap activity most weakly with children's reading motivation](online-mediation-strongest-scrap-weakest-correlation.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a broader claim this one bears on
+- [High school science interest positively predicted later science achievement (β = .349, p < .001)](science-interest-predicts-achievement-longitudinal.md) — related

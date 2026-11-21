@@ -53,3 +53,4 @@ ANCOVA on comprehension in the same VR modality experiment, controlling for prio
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — reports the opposite
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
+- [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related

@@ -70,3 +70,4 @@ Discussion-section synthesis: Quantum Scholars students described traditional co
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Mentorship in the responsive PD community was bidirectional: both novice and veteran teachers benefited from interactions, transcending the typical mentor-mentee dyad](bidirectional-mentorship-in-responsive-cop.md) — related
 - [Students in both programs reported underdeveloped understanding of QIS careers even after participation, despite strong interest in quantum careers](underdeveloped-qis-career-understanding-both-programs.md) — related
+- [Interacting with QIS professionals helped students adjust academic and career expectations to be more realistic and flexible](professional-interaction-adjusted-career-expectations.md) — related

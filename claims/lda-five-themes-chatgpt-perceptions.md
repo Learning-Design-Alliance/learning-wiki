@@ -59,3 +59,4 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related
 - [Students' reflections on ChatGPT use yielded eight positive themes (e.g., efficiency, addressing knowledge gaps) and eight negative themes (e.g., generic responses, harming self-discipline and thinking)](chatgpt-reflection-themes-positive-negative.md) — related
 - [Three perspectives on further ChatGPT use emerged: extreme negative, extreme positive, and balanced](three-perspectives-future-chatgpt-use.md) — related
+- [Students attribute the usefulness of AI-generated feedback to twelve features spanning four themes: Evaluation, Content, Presentation, and Depth](twelve-valued-ai-feedback-features-four-themes.md) — related

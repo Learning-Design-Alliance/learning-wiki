@@ -57,3 +57,4 @@ Mixed-factors ANOVA of proportion correct in Experiment 1 with 32 college studen
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — related
 - [Individuals differ less in retention than in learning ability](retention-differences-smaller-than-learning-differences.md) — related
+- [A 4-second gap between word presentations is identified as a balanced option—neither too short to be unnoticed nor too long to break word connections](four-second-gap-balanced-option.md) — related

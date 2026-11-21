@@ -55,3 +55,4 @@ Pilot study conducted at secondary schools in Klang under conditions similar to 
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](dbs-level-determination-exam-reliability.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

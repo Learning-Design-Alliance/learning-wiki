@@ -17,7 +17,7 @@ sources:
 # Seed ideas during small-group time and promote inter-student discussion as dominant discourse
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Drawn from Modeling Discourse Management (Desbien), this strategy focuses on the components the author judged readily adoptable in SJSU labs and workshops: seeding and inter-student discussion. In a modeling classroom, new ideas are seeded by the instructor during small-group time, often as a question or hint, "so the group has time to work out details and gain ownership of the seeded idea." The author reports that "Seeding can be used eﬀectively to stimulate broader participation in the whole class discussion," with quieter groups drawn in by seeding them with ideas or questions. Desbien's goal is for inter-student discussion to be the dominant form of discussion.

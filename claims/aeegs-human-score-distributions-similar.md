@@ -69,3 +69,4 @@ Descriptive frequency analysis of the 12 human raters' scores for the same 1,008
 - [AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher](aeegs-human-mean-scores-equivalent-low.md) — related
 - [Each of the 12 human raters' scores correlates significantly with AEEGS scores, with coefficients ranging from 0.604 to 0.864](aeegs-pearson-correlations-range-0604-0864.md) — related
 - [The proposed evaluation scheme assigns knowledge-level scores to questions and classifies learners into printed score-band categories of knowledge level](score-band-knowledge-level-categories-proposal.md) — related
+- [Standardized intervention-based scoring yields a distribution with a mean in the high 80% range](oral-exam-scoring-distribution-high-80s.md) — related

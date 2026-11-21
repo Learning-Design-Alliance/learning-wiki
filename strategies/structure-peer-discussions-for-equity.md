@@ -52,6 +52,7 @@ Because social identities predict preferred roles and barriers differ across stu
 - [Community Building](community-building.md)
 - [Learning Communities](learning-communities.md)
 - [Purposefully stimulate interactions between student groups to mitigate social-structural effects on efficacy beliefs](purposeful-interaction-stimulation-equity-efficacy.md)
+- [Promote gender equity in physics labs through structured role rotation, intentional group composition, instructor facilitation, and bias awareness training](equitable-physics-lab-engagement-strategies.md)
 
 ## Examples
 -

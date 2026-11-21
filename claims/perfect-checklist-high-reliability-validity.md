@@ -76,3 +76,4 @@ Principal component factor analysis with varimax rotation on the checklist data 
 - [The 5-item DPCC-MS matches a longer validated scale on internal consistency and convergent validity but shows better inter-rater reliability](dpcc-ms-compares-favorably-to-longer-scale.md) — related
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
 - [The error-focused checklist shows lower internal consistency than the conventional checklist despite high inter-rater reliability for both](error-focused-checklist-low-internal-consistency.md) — related
+- [CSCS total score shows high internal consistency, with most reliable variance attributable to a general factor](cscs-total-score-reliability.md) — related

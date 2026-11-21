@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion, contrasting their forced-choice ranki
 - [A communication skills training integrating 360° behavior-orientated feedback achieves high acceptance among first-clinical-year medical students](cst-360-feedback-high-acceptance.md) — related
 - [Students rank practical training with standardized patients and all feedback elements above theoretical elements in a forced-choice ranking](forced-choice-ranking-feedback-elements-top.md) — related
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — related
+- [Second-choice rankings show no common preference, with strong characteristic patterns for students whose first choice was B or C](no-common-second-choice-pattern.md) — related

@@ -49,3 +49,4 @@ OOD generalisation evaluation on Dataset2, unseen during training. The authors s
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [Model accuracy on Bloom classification drops with question text length, with LLMs degrading least](bloom-signal-dilution-with-text-length.md) — related
 - [BloomNet outperforms all considered baseline models on both IID and OOD classification of Bloom's taxonomy course learning outcomes](bloomnet-outperforms-baselines-bloom-classification.md) — related
+- [Parsers trained on MUDT outperform UD-trained baselines in-domain, and cross-domain transfer is asymmetric with performance degrading sharply when UD-trained models are applied to MUDT data](mudt-parsers-outperform-ud-baselines.md) — a narrower finding that bears on this claim

@@ -61,3 +61,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](continued-ai-conversations-linked-to-perceived-utility.md) — related
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](real-world-students-bypass-chatbot-scaffolding.md) — related
 - [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — related
+- [Chatbot messaging dominated usage of the Educational AI Hub, and most student queries concerned software help and conceptual/theory help](ai-hub-chatbot-dominant-usage-query-topics.md) — related

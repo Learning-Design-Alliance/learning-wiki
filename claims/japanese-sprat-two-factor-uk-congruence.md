@@ -51,3 +51,4 @@ Principal component factor analysis (varimax rotation, Eigenvalue >1) of the pil
 - [The 10-item self-efficacy instrument yields a two-factor solution (leadership/management and communication/teamwork) explaining 74% of variance](self-efficacy-scale-two-factor-solution.md) — related
 - [Free-text comments in the Japanese SPRAT cluster into seven themes of strengths and weaknesses](japanese-sprat-free-text-seven-themes.md) — related
 - [Exploratory factor analysis supports a two-factor structure (professionalism; interpersonal and communication skills) on five MSF questionnaires and a four-factor structure on the patient questionnaire, accounting for 70–75% of variance](msf-factor-structure-variance-explained.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

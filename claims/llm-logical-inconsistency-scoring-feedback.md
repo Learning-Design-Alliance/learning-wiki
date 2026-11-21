@@ -70,3 +70,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — a narrower finding that bears on this claim
 - [Student peer review scoring of the formative MEQ* does not differ significantly from expert post-evaluation and correlates highly with it](peer-review-scoring-matches-expert-meq-evaluation.md) — related
 - [Score-based prompting generates more negative, straightforward, direct, and extensive feedback, and experts prefer it](score-based-prompting-feedback-characteristics-preference.md) — related
+- [AI models show contextual intuitiveness by correctly inferring missing task context from ambiguous student prompts, but their feedback is not always fully appropriate or correct](ai-contextual-intuitiveness-ambiguous-prompts.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-21
 sources:
   - id: jason-zagami-2026
     resource: "https://doi.org/10.1186/s41239-026-00625-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Reflexive thematic analysis of open-ended responses identified four prominent themes: conditional usefulness, verification as part of the work, fear of cognitive substitution, and successful-student identity under pressure. [→ Jason Zagami 2026](#jason-zagami-2026)
@@ -61,3 +61,4 @@ Reflexive thematic analysis (Braun and Clarke, 2006) of four open-ended survey q
 - [Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes](four-ai-practices-eleven-subprocesses-upper-secondary.md) — related
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — related
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
+- [Knowledge workers using GenAI shift effort from information gathering to verification, and GenAI creates new cognitive tasks such as assessing AI-generated content](genai-shifts-effort-to-verification.md) — related

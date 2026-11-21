@@ -85,3 +85,4 @@ Across the regression analyses in the same survey, "students who reported higher
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
 - [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related
 - [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related
+- [Test anxiety and self-efficacy predict high-stakes but not low-stakes physics assessment outcomes](anxiety-predicts-high-stakes-not-low-stakes.md) — related

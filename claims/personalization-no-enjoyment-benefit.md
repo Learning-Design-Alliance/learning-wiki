@@ -68,3 +68,4 @@ For the Stimulation subscale of the UEQ, the article reports no significant main
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](pbl-lower-stimulated-carry-on-learning-null.md) — related
+- [Reflection prompts produced no significant difference in perceived Stimulation between the interactive AI-generated podcast conditions](reflection-prompts-no-stimulation-difference-ai-podcasts.md) — related

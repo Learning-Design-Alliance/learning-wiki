@@ -71,3 +71,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — related
 - [Interview analysis of PhET-simulation scenarios provides validity evidence for every level and sublevel of the blended Math-Sci sensemaking framework](blended-sensemaking-framework-validity-evidence.md) — related
 - [Applying the six-construct AI literacy framework, the teams showed relative literacy levels from high (Concept) to low (Content), with Create low or absent across all teams](genai-literacy-levels-rated-per-team.md) — related
+- [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related

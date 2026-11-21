@@ -64,3 +64,4 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - [AI tools can reinforce confirmation bias, leading therapists to misinterpret adaptive outputs as objective truths](ai-tools-reinforce-confirmation-bias-cmft.md) — related
 - [Automated LLM feedback may reduce instructor unconscious bias by evaluating responses equally without identification](llm-feedback-reduce-instructor-unconscious-bias.md) — related
 - [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — a narrower finding that bears on this claim
+- [Exploratory quality metrics showed near-ceiling base rates: no biased language in 543 problems, only five non-grounded hallucinations, and one unrealistic-data case](exploratory-metrics-near-ceiling-base-rates.md) — related

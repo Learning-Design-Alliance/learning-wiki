@@ -68,3 +68,5 @@ Post-hoc feature importance analysis (Table 8, top 20 features per subject) usin
 - [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — reports the opposite
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
 - [The most important feature for the ClickTree model was sequence folder path level 3, representing the subject of the assignment problem.](sequence-folder-path-level-3-most-important-feature.md) — related
+- [For numerical problems, explicit units and included solution strategy dominate prediction of student choice, with substantially better model accuracy](numerical-choice-predictors-units-strategy.md) — reports the opposite
+- [For radio-button problems, cognitive-demand metrics (Bloom level, difficulty, distinct misconceptions) are the strongest random-forest predictors of student choice](radio-choice-predictors-cognitive-demand.md) — a narrower finding that bears on this claim

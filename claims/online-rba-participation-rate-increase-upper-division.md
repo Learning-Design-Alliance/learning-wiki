@@ -55,3 +55,4 @@ Observational analysis of RBA administration across six upper-division courses a
 - [Explicit credit-based incentives increased online RBA participation rates above historical norms, with slightly lower online scores attributed to broader sampling](incentives-increase-online-rba-participation.md) — possibly the same claim (merge candidate)
 - [Online unproctored administration of a physics quantitative-reasoning RBA yields participation rates similar to in-person proctored administration](online-rba-participation-similar-to-in-person.md) — related
 - [Student performance on online RBAs is equivalent to performance on the same tests administered on paper in class](online-rba-scores-equivalent-to-paper.md) — related
+- [Research-based assessments were used by only 12 of 76 surveyed upper-level QM instructors, suggesting low uptake of existing QM RBAs](qm-rba-low-uptake-12-of-76-instructors.md) — related

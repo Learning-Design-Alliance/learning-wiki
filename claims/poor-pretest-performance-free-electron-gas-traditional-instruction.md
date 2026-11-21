@@ -53,3 +53,4 @@ In-class written pre/posttest in an upper-level undergraduate QM course graded w
 - [Students confuse the density of states with particle number density or the distribution function](density-of-states-confused-with-particle-number.md) — a narrower finding that bears on this claim
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — a broader claim this one bears on
 - [Tutorial and comparison groups performed comparably on the pre-test after traditional lecture-based instruction (p = 0.6)](superposition-tutorial-groups-comparable-pretest.md) — related
+- [Traditional lecture is the plurality teaching method in upper-level undergraduate QM courses, but many instructors use interactive lecture or other non-traditional methods](qm-upper-level-traditional-lecture-plurality.md) — related

@@ -61,3 +61,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Through sequenced DFT long prompts, a majority of students produced a working discrete Fourier transform after the first prompt and all students after the second](lbcg-dft-prompt-learning-outcomes.md) — related
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
 - [GAI-generated customized prompts in an ITS, supplemented with Wikipedia-based explanations, empirically boosted student performance significantly](korbit-customized-prompts-performance.md) — related
+- [The structured interface increased clear development prompts while in use, but the behavior did not transfer to free ChatGPT use](structured-interface-clear-development-prompts-no-transfer.md) — a narrower finding that bears on this claim

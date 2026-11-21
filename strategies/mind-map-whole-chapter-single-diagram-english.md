@@ -46,6 +46,7 @@ The article recommends presenting an entire English chapter in one diagram to ma
 
 - [Visualizations and Mind Maps](visualizations_and_mind_maps.md)
 - [Graphic Organizers for Lecture Support](graphic_organizers_for_lecture_support.md)
+- [Assign mind-map notetaking homework connecting concepts across all chapters of the course](mind-map-notetaking-homework-strategy.md)
 
 ## Examples
 -

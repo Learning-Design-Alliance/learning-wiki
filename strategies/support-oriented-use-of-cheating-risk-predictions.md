@@ -51,6 +51,7 @@ The article recommends treating model output as a trigger for timely academic gu
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
+- [Use ML-derived achievement predictions to identify general risk factors and support policy, not to rank individual students for high-stakes decisions](use-predictions-for-risk-factors-not-individual-ranking.md)
 
 ## Examples
 -

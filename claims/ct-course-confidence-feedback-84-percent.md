@@ -70,3 +70,4 @@ Retrospective self-rating items (Q7 before, Q8 after, 1-6 scale) in the same fee
 - [After the course, 69.2% of postgraduate trainees were rated strong critical thinkers (score 4) on the HCTSR assessment of written and verbal work](hctsr-post-course-strong-thinker-proportion.md) — related
 - [Most learners thought they would be able to apply the knowledge in practice, though fewer for module 5 than modules 1-4](most-learners-could-apply-knowledge-in-practice.md) — related
 - [Postgraduate health professionals rated blended online modules as an effective preparation for face-to-face meetings, with a 7.6 median overall rating](blended-online-preparation-rated-effective-postgraduates.md) — related
+- [Attending the CUWiP+ conference was followed by a rise in attendees feeling confident to apply for postgraduate study, from 32% to 53%](cuwip-confidence-postgraduate-rise.md) — related

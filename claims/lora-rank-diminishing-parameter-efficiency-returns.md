@@ -69,3 +69,4 @@ Training and validation analysis across six experiments (Table 6, Fig. 2). The a
 - [LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model](lora-improves-structured-instructional-output-stability.md) — related
 - [Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1](model-size-and-lora-rank-joint-effects.md) — related
 - [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
+- [Additional AI-assisted learning budget yields diminishing returns in final mastery](diminishing-returns-ai-budget.md) — related

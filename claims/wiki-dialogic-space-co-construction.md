@@ -60,3 +60,4 @@ The editorial's summary of the Pifarre and Kleine Staarman study, positioned in 
 - [Co-construction of an Answer Mode: multiple students build an answer through consonant, elaborative interaction over specific physics content](co-construction-answer-mode-elaborative-specific.md) — related
 - [Four distinct Modes of student interaction (Debate, Informing, Co-construction of an Answer, Building Understanding towards an Answer) emerge from video of introductory physics group work](four-modes-of-collaboration-identified.md) — related
 - [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related
+- [The group's talk shifts from cumulative talk to exploratory talk as differences between teachers' open-inquiry approaches are accepted and a consensus goal emerges](cumulative-to-exploratory-talk-shift.md) — related

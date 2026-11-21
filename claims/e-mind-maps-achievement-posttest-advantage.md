@@ -60,3 +60,4 @@ Quasi-experiment with 30 fifth-grade female students in two groups of 15; Mann-W
 - [MSBLP remedial teaching produced significant gain-score differences over traditional teaching in English skills among grade-3 primary students](msblp-significant-gains-over-traditional-english-teaching.md) — related
 - [Children who worked with mind maps achieved better science skills post-test scores than children who did not](mind-maps-improve-preschool-science-skills.md) — related
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
+- [A generative learning model supported by mind mapping media produced higher physics knowledge post-test scores than the teacher's usual model also supported by mind mapping media](generative-model-mind-mapping-higher-physics-posttest.md) — related

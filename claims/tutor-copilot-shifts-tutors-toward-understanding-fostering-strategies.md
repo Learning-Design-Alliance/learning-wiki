@@ -73,3 +73,4 @@ Same message-classifier comparison across treatment and control sessions (Figure
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
 - [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](student-context-personalization-improves-tutor-metrics.md) — related
 - [More than 70% of teachers' help giving to students with ASD consisted of providing direct feedback, explaining, or instructing](teacher-help-giving-dominantly-direct.md) — related
+- [Tutor CoPilot access increased tutors' use of high-quality teaching strategies and produced significant student mastery gains, especially for lower-rated tutors' students](tutor-copilot-close-the-loop-learning-gains.md) — a broader claim this one bears on

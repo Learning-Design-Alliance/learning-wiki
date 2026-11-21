@@ -71,3 +71,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [Students rated the simulations highly useful for their learning (average 4.0 of 5), and 80% of volunteered survey comments about the simulations were positive](student-perceptions-simulation-usefulness.md) — related
 - [Post-event evaluations show high satisfaction, with all survey ratings well over 4 out of 5 across the four rotating workshops](wac-evaluations-over-4-of-5.md) — a narrower finding that bears on this claim
+- [Students reported reduced assessment anxiety and high satisfaction, with SETU assessment-item ratings averaging above 4 of 5 (combined mean 4.27)](psa-student-feedback-reduced-anxiety-high-setu.md) — related

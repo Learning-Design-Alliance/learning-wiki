@@ -81,3 +81,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — possibly the same claim (merge candidate)
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — reports the opposite
 - [Female students leave more problems blank than male students, a small but significant difference](females-leave-more-blanks-than-males.md) — related
+- [Alternative midterm exam aggregation methods show no consistent differential benefit for female versus male students, leaving sex grade gaps unchanged](aggregation-methods-no-sex-equity-effect.md) — reports the opposite

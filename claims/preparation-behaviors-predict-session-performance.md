@@ -52,3 +52,4 @@ Random-effects panel regressions including weekly self-reported preparation vari
 - [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](active-constructive-engagement-improves-video-conceptual-understanding.md) — related
 - [Flipped learning using pre-session video is effective, but students report the pre-session video volume can cause cognitive overload](flipped-learning-video-overload-caution.md) — related
 - [Students primarily prepare for Clinical Skills Lab learning stations by watching instructional videos at home and concentrate on hands-on practice at the CSL](home-video-preparation-then-hands-on-csl.md) — related
+- [Chapter outline video usage showed a consistent negative correlation with E&M exam performance (β = -0.084 to -0.109)](outline-videos-negative-correlation.md) — related

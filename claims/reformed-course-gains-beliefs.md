@@ -87,3 +87,4 @@ Comparison courses reported in the same section: the pre-reform engineering cour
 - [The demonstration positively impacted students' interest in physics and promoted appreciation of quantum mechanics' role in modern industry, per written evaluations](demo-boosts-interest-physics-quantum-industry-appreciation.md) — related
 - [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related
 - [Traditional demonstration-and-verification labs do not measurably contribute to conceptual understanding and harm epistemological attitudes](traditional-verification-labs-ineffective.md) — related
+- [In a lecture-free PBL quantum mechanics course, student success was highly correlated with constructionist rather than transmissionist epistemological attitudes](construction-attitudes-lecture-free-success.md) — related

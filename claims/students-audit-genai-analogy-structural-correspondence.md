@@ -51,3 +51,4 @@ Reflexive thematic analysis of think-aloud and interview data from ten CS2-compl
 - [Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept](anvil-pedagogical-mismatch-risk.md) — related
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related
 - [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related
+- [Pre-service physics teachers found chatbot explanations useful entry points but frequently identified conceptual inaccuracies and flawed analogies](chatbot-explanations-entry-points-with-inaccuracies.md) — related

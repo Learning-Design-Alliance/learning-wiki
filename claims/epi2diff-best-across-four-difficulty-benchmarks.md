@@ -61,3 +61,4 @@ Benchmark evaluation on four educational datasets (SAT Math, SAT Reading & Writi
 - [Adding a prompt to fine-tuned LLaMA yields performance similar to unprompted fine-tuned LLaMA](prompted-llama-similar-to-unprompted.md) — related
 - [Student simulation is key for item difficulty prediction in low-resource settings with few training items](simulation-key-few-training-items.md) — related
 - [SMART outperforms direct item difficulty prediction methods on both datasets, largely maintaining the advantage with a 1B base LLM](smart-outperforms-direct-difficulty-prediction.md) — related
+- [LLM judges rate pipeline-generated explanations higher than direct prompting and hand-crafted templates across USML domains](llm-judges-rate-pipeline-explanations-higher.md) — related

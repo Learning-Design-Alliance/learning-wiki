@@ -56,3 +56,4 @@ Method section describing the technical architecture of the case: Claude Code as
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
 - [Models trained or prompted with high-quality review corpora produce more consistent, personalized code-review critiques, with human-in-the-loop processes remaining essential](code-review-corpus-quality.md) — related
+- [Instructors were open to AI grading assistance but emphasized maintaining human control over key parts of the grading workflow](ai-suitable-standardized-not-subjective-grading.md) — a narrower finding that bears on this claim

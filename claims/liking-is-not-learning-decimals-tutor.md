@@ -71,3 +71,4 @@ Correlational analysis of the same study: "no significant correlations between s
 - [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
 - [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](delayed-advantage-mixed-across-schools.md) — related
+- [Intervention students perceived ChatGPT more positively after using the structured interface than control students](structured-interface-more-positive-chatgpt-perception.md) — related

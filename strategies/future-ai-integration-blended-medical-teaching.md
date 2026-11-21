@@ -42,6 +42,7 @@ The authors' forward-looking recommendation is to integrate artificial intellige
 - [Leverage artificial intelligence and software technologies to further improve rhinoplasty education.](ai-software-technologies-rhinoplasty-education-strategy.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
+- [Integrate AI-based feedback systems to personalize instruction alongside the Jigsaw method](ai-feedback-personalization-future-direction.md)
 
 ## Examples
 -

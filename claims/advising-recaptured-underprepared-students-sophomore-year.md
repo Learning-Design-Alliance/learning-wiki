@@ -49,3 +49,4 @@ Program description of an advising outcome: students identified at summer orient
 - [Third-semester physics retention rose from an aggregate 50% (2008-09 through 2012-13) to 71% (2013-14 through 2014-15) under the program](third-semester-physics-retention-71-percent.md) — related
 - [Peer-mentoring program years showed over 90% retention from Analytical Physics I to Analytical Physics II, versus about 65% in prior years](peer-mentoring-phys167-to-168-retention-over-90-percent.md) — related
 - [Most modern physics students have completed calculus II (37.1%) and been introduced to Newtonian mechanics (94%), electricity and magnetism (84.4%), and waves/optics (77.2%) as prerequisites](modern-physics-prerequisites-calculus2-newtonian-em.md) — related
+- [Seven of twelve (58%) Ideas course students, all from physical sciences or engineering, chose medical-related projects despite the course having no prerequisites](ideas-course-majority-medical-projects.md) — related

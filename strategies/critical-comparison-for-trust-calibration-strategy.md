@@ -52,6 +52,7 @@ Because neither Socratic condition changed trust or perceived competence, the au
 - [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 - [Design AI-assisted activities that require students to explain reasoning and evaluate AI outputs against disciplinary criteria](ai-assisted-activities-requiring-explanation-and-evaluation.md)
 - [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
+- [Improve AI-assisted microlearning tools with transparency, instructor review, and navigation and note-taking features](reelsed-design-improvement-strategies.md)
 
 ## Examples
 -

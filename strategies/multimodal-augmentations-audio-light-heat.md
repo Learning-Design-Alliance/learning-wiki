@@ -45,6 +45,7 @@ Across structured and informal groups, volunteers repeatedly proposed augmenting
 ## Related Strategies
 
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
+- [Adapt the paper dome for tactile use by blind or visually impaired students using relief stars and marked lines](nox-minima-tactile-adaptation-strategy.md)
 
 ## Examples
 -

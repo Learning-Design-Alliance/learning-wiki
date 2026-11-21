@@ -55,3 +55,4 @@ The article reports that "adults and children benefit from strategies like note-
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — related
 - [Both cognitive offloading and the transient information effect reduce extraneous cognitive load by making information more accessible or less transient](shared-mechanism-reducing-extraneous-load.md) — related
 - [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](reminders-most-common-dialogue-support.md) — related
+- [Combining LLM use with self-made note-taking: LLMs aid initial understanding and reduce cognitive load, while making one's own notes requires more effort but deepens engagement and memory](llm-plus-note-taking-effort-benefits.md) — a narrower finding that bears on this claim

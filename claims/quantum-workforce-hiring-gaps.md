@@ -59,3 +59,4 @@ Hiring-challenge data from the interview study: 33% of companies found it hard t
 - [Company visits helped students learn what quantum companies exist, but most students still did not learn about specific job roles](company-visits-build-industry-familiarity.md) — related
 - [Quantum industry representatives widely report talent scarcity as a major workforce development challenge](qt-industry-talent-scarcity.md) — a broader claim this one bears on
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related
+- [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related

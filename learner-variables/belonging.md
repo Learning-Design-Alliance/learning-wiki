@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (121 show a difference, 35 mixed, 14 no difference) · 122 studies (27 review, 26 associational, 24 qualitative, 20 causal, 13 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 122 report an effect size · 165 claims rest on one study
+> **Evidence** · 174 claims (122 show a difference, 38 mixed, 14 no difference) · 124 studies (28 associational, 27 review, 24 qualitative, 20 causal, 13 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 124 report an effect size · 169 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -207,6 +207,10 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](../claims/peer-mentorship-belonging-physics-community.md) [+M] — measured as an outcome of the instruction studied
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](../claims/research-community-astronomy-identity.md) [+M] — measured as an outcome of the instruction studied
 - [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](../claims/outreach-enhances-belonging-and-major-confidence.md) [+M] — measured as an outcome of the instruction studied
+- [Autonomy does not amplify the belonging–persistence relationship; low-autonomy students show a steeper belonging–intent-to-persist slope, suggesting a compensatory pattern](../claims/autonomy-compensatory-sb-ip.md) [~M] — learners who differ on it differ in outcomes
+- [Facilitating informal physics education benefits student volunteers' physics identity, sense of belonging, and communication, teamwork, networking, and design skills](../claims/ipe-facilitator-identity-and-skills-benefits.md) [+M] — measured as an outcome of the instruction studied
+- [Gender moderates the belonging–persistence relationship: women report lower intent to persist at low belonging but exceed men when belonging is strong](../claims/gender-moderates-sb-ip.md) [~M] — learners who differ on it differ in outcomes
+- [Relatedness buffers intent to persist against low sense of belonging](../claims/relatedness-buffers-low-sb.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

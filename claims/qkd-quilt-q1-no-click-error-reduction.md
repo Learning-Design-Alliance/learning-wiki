@@ -48,3 +48,4 @@ Pre/post quiz question in the three-course in-class evaluation; Question 1 state
 - [Before the QuILT, students incorrectly believed Bob always knows the polarization of Alice's photon in the B92 protocol, whether or not his detector clicks](bob-knows-photon-polarization-difficulty.md) — possibly the same claim (merge candidate)
 - [Gains from the QKD QuILT persisted on a delayed posttest administered roughly two months later](qkd-quilt-delayed-posttest-retention.md) — related
 - [Students struggling on the detector-clicks question dropped from 37% on the pretest to 6% on the posttest](qkd-quilt-q2-detector-clicks-error-reduction.md) — related
+- [Common student missteps cluster around protocol obfuscation, check-bit sampling, and parameter tuning](qkd-project-common-missteps.md) — related

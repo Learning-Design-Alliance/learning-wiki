@@ -74,3 +74,4 @@ Discussion of the pilot dataset's model-selection results: women 'do re- port hi
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
 - [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related
 - [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) — reports the opposite
+- [Including test anxiety or self-efficacy in regression models eliminates the significant gender difference in Physics 1 high-stakes scores](motivational-constructs-account-for-gender-exam-gap.md) — related

@@ -58,3 +58,4 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [GenAI tools are already widely used in the academic work of the surveyed undergraduates](genai-widely-used-in-student-academic-work.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
+- [Ethical uncertainty around academic integrity and misconduct accusations was a key barrier to full student engagement with the AI learning assistant](ai-ethical-uncertainty-engagement-barrier.md) — related

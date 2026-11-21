@@ -69,3 +69,4 @@ In the same survey, perceived usefulness for developing physics tasks was rated 
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [Output quality is significantly linearly related to perceived usefulness of RATsApp (p = 0.011)](output-quality-predicts-perceived-usefulness-ratsapp.md) — related
 - [Most surveyed students reported a positive or neutral impact of ChatGPT use on their motivation and active participation in the physics course](chatgpt-positive-motivation-participation-survey.md) — related
+- [Intervention students perceived ChatGPT more positively after using the structured interface than control students](structured-interface-more-positive-chatgpt-perception.md) — related

@@ -66,3 +66,4 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
 - [Inquiry level should match the learning goal: closed structured inquiry fosters conceptual understanding, open inquiry fosters scientific thinking skills](inquiry-level-matches-learning-goal.md) — related
 - [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related
+- [Combining LLM use with self-made note-taking: LLMs aid initial understanding and reduce cognitive load, while making one's own notes requires more effort but deepens engagement and memory](llm-plus-note-taking-effort-benefits.md) — related

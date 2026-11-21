@@ -11,9 +11,9 @@ evidence_strength: weak
 newest_evidence: 2025
 recheck_by: 2028
 sources:
-  - id: rose-e-wang-2025
+  - id: rose-e-wang-2024
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 1
     i: "?"
@@ -32,19 +32,19 @@ sources:
 # Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q1`
+> **Evidence** · 2 studies · 1 causal `r3`, 1 qualitative `r1` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 > **Design limits** · Rose E. Wang 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q1 i?` Treatment tutors generally found Tutor CoPilot helpful, particularly for well-phrased explanations and breaking down complex concepts on the spot. [→ Rose E. Wang 2025](#rose-e-wang-2025)
+`q1 i?` Treatment tutors generally found Tutor CoPilot helpful, particularly for well-phrased explanations and breaking down complex concepts on the spot. [→ Rose E. Wang 2024](#rose-e-wang-2024)
 `q1 i?` Tutors reported that suggestions occasionally lacked alignment with students' grade levels and were sometimes perceived as 'too smart,' requiring simplification and adaptation. [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
 
 ## Evidence
 
-### Rose E. Wang 2025
+### Rose E. Wang 2024
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q1 · i?` · `causal · r3`
 
@@ -71,3 +71,4 @@ Same interview study with treatment tutors. Tutors noted areas for improvement, 
 - [Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
 - [Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores](tutor-copilot-no-significant-effects-secondary-outcomes.md) — related
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
+- [Tutor CoPilot access increased tutors' use of high-quality teaching strategies and produced significant student mastery gains, especially for lower-rated tutors' students](tutor-copilot-close-the-loop-learning-gains.md) — related

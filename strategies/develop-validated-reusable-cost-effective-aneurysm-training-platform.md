@@ -56,6 +56,7 @@ The review's forward-looking recommendation is that future research should focus
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Add distance and force visualisations to accessible clipping simulations, adaptable to similar navigation simulations](add-distance-force-visualisations-training-simulations.md)
 - [Repeated aneurysm clip occlusion practice with fluid-color success feedback until success](repeated-clipping-practice-color-feedback-strategy.md)
+- [Develop the AI peer agent as a stand-alone modular component for integration across educational games and platforms](modular-ai-peer-agent-component-strategy.md)
 
 ## Examples
 -

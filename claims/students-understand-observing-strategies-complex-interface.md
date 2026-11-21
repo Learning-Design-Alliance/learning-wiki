@@ -47,3 +47,4 @@ Authors' conclusion drawn from the reported case experience rather than from a m
 ## Related Claims
 - [Secondary school students can quickly master professional telescope control software and successfully perform different types of data acquisition, including drift scan imaging](secondary-students-master-spex-control-software.md) — a narrower finding that bears on this claim
 - [A secondary school student, supervised by a researcher, executed specific telescope operations: filtered image acquisition, hyperspectral drift-scan acquisition with slit corrections, sky frames, and infrared guiding](student-executed-spes-operations-list.md) — a narrower finding that bears on this claim
+- [The article concludes that after 50 years, research contributed to the solution of the solar neutrino problem and teaching is operational in the UN-affiliated regional centres](fifty-year-outcome-neutrino-problem-and-operational-teaching.md) — related

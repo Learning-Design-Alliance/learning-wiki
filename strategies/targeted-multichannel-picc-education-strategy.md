@@ -46,6 +46,7 @@ The authors recommend improving nurses' PICC maintenance knowledge by disseminat
 
 - [Measure nurses' practical PICC maintenance performance directly and indirectly in future studies](measure-practical-picc-performance-strategy.md)
 - [Disseminate SNPCOHS as a self-directed e-learning resource for NPs in primary care units](snpcohs-elearning-dissemination-strategy.md)
+- [Partner with professional content creators and engage public venues to disseminate accurate QIST explanations widely](partner-with-creators-public-outreach-qist.md)
 
 ## Examples
 -

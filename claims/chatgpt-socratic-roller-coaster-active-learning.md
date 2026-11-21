@@ -61,3 +61,5 @@ Qualitative analysis of the third session, a Socratic-type dialogue about forces
 - [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — possibly the same claim (merge candidate)
 - [A NotebookLM-based tutor configured with a Training Manual and teacher-curated sources can facilitate Socratic dialogue for conceptual physics problems](notebooklm-socratic-tutor-facilitates-dialogue.md) — related
+- [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related
+- [Students using the Socratic AI Tutor perceived significantly greater support for critical and reflective thinking than students using an uninstructed chatbot](socratic-tutor-perceived-critical-reflective-thinking.md) — related

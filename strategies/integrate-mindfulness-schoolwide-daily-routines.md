@@ -56,6 +56,7 @@ The brief recommends schoolwide integration of mindfulness into existing routine
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
+- [Teach students a set of attentiveness strategies, including digital detox, to increase classroom attentiveness](attentiveness-strategies-digital-detox-strategy.md)
 
 ## Examples
 -

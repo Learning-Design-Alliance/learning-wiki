@@ -77,3 +77,4 @@ Policy analysis of the top 100 universities' ChatGPT policies, described in the 
 - [Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy](genai-use-driven-by-usefulness-not-policy.md) — related
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
 - [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related
+- [Students viewed AI as an ethical academic aid and favored flexible rather than restrictive course policies, with none supporting an outright ban](student-ai-policy-preferences-flexibility.md) — related

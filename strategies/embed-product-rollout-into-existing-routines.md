@@ -46,6 +46,7 @@ The report recommends supporting implementation with structured cadences such as
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Design AIED deployments to meet school operational criteria such as support, stability, and availability](aied-deployments-meet-school-criteria.md)
 - [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
+- [Use in-class demonstrations and targeted guides to support adoption of new tools](in-class-demos-targeted-guides-tool-adoption.md)
 
 ## Examples
 -

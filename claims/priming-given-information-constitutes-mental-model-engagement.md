@@ -47,3 +47,4 @@ Cross-case finding from the two think-aloud interviews. Matthew's circling of im
 ## Related Claims
 - [In a completed physics problem-solving attempt, engagement with the Denotative Function and Demonstration components of modeling co-occurs with the explanation-generation stage of sensemaking, and the Inferential Function co-occurs with resolution](modeling-components-co-occur-sensemaking-stages-matthew.md) — related
 - [Students' transition into a sensemaking frame is accompanied by a verbalized question or statement of uncertainty that names a perceived gap or inconsistency in understanding](question-marks-sensemaking-entry.md) — related
+- [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](nested-epistemic-games-laplace-sensemaking.md) — related

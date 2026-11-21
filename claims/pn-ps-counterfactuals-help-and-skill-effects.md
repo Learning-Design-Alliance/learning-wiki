@@ -49,3 +49,4 @@ Group-level counterfactual inference (generalised probabilities of necessity and
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related
 - Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — a broader claim this one bears on
+- [A correctly and quickly answered counterfactual item strictly decreases the posterior probability of the targeted misconception (proven under the model)](counterfactual-items-reduce-misconception-posterior.md) — related

@@ -48,6 +48,7 @@ Based on their pilot study findings of engagement, understanding, and teacher-pe
 
 - [Have postdoctoral fellows deliver lectures in elementary and secondary schools and universities to convey cutting-edge science](postdoc-lectures-schools-strategy.md)
 - [Introduce modern physics concepts early, gradually, and with historical context, hands-on activities, and online visualization resources](early-gradual-historical-modern-physics-introduction.md)
+- [Use illustrated books and interactive games to introduce abstract quantum concepts to elementary students](illustrated-books-games-quantum-elementary.md)
 
 ## Examples
 -

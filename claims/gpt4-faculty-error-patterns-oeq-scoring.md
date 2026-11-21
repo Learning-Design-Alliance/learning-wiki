@@ -77,3 +77,4 @@ Findings of the faculty error review in the Results section. The article also re
 - [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related
 - [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
 - [Traditional machine learning bias measures fail to transfer to LLM-generated educational content](traditional-bias-measures-fail-for-llm-education.md) — related
+- [Qualitative analysis attributes some human–AAG scoring discrepancies to human grading errors such as overlooking a missing zero or incorrect calculation processes](ta-grading-errors-discrepancy-analysis.md) — related

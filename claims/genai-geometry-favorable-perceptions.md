@@ -56,3 +56,4 @@ Descriptive statistics (means and SDs) on the perception subscale, assessed only
 - [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related
 - [Students using personalized automatic quiz generation corrected previous mistakes more frequently than students with traditional computer-aided question generation](personalized-quiz-generation-improves-mistake-correction.md) — related
 - [Students reported overwhelmingly favorable perceptions of the FCP, with 88–94% agreement across ten inventory items and the highest rating (94%) for promoting positive attitudes toward mathematics](fcp-perception-inventory-favorable.md) — related
+- [GenAI-generated question-specific and overall test feedback is rated 98-99% positive, helpful, and accurate by both model and expert evaluators](genai-feedback-high-quality-ratings.md) — related

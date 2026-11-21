@@ -95,3 +95,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — related
 - [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — related
+- [Clause count shows no significant correlation with averaged LLM accuracy on text-only thermodynamics items](clause-count-no-correlation-llm-accuracy.md) — related

@@ -69,3 +69,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students requested more open-ended inquiry activities and more diverse simulation options](students-requested-open-ended-inquiry-and-options.md) — related
 - [Open-ended feedback: students found KLM-FA usable, quick and accurate, and educationally valuable, but requested improvements](klm-fa-open-ended-feedback-themes.md) — related
 - [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related
+- [Qualitative student feedback attributed increased motivation, sustained attention, and easier comprehension to the immersive 3D presentation and interactive AI support](qualitative-feedback-motivation-immersive-3d-ai-support.md) — related

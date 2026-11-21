@@ -50,3 +50,4 @@ Comparison analysis (Section 3.3) of the extraction procedure against standard c
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — reports the opposite
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [The talk-move/ITS interaction pattern persists when predicting changes in assessment scores across rounds](talk-moves-its-robust-across-score-changes.md) — related
+- [Surrogate decision-tree analysis of the Random Forest reveals conditional interactions, such as compounding negative effects of low SES combined with low study time](surrogate-tree-reveals-ses-effort-interaction.md) — related

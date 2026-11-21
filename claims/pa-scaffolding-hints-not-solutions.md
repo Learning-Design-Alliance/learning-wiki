@@ -60,3 +60,4 @@ Finding from the PAs' activities theme in the interview study: teachers describe
 - [Directly showing student risk scores to students, teachers, or administrators can worsen student outcomes](risk-score-disclosure-harms-students.md) — related
 - [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](disha-socratic-hints-foster-independent-thinking.md) — related
 - [High-performing students receive more feedback and explanations; low-performing students receive more hints and social-emotional support](singakids-dynamic-scaffolding-user-study.md) — related
+- [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related

@@ -60,3 +60,4 @@ Multiple linear regression on data from a user study with 28 college students le
 - [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
 - [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related
 - [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](prompt-compliance-varies-interactivity.md) — related
+- [Understanding-focused prompts predict higher learning gains, and clarity amplifies the benefits of development and understanding prompts](understanding-clarity-prompts-predict-learning-gains.md) — related

@@ -70,3 +70,4 @@ A human validation study had three domain experts independently score a stratifi
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
 - [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related
+- [AI and teacher grades were identical for 83.63% of Attempt I responses, with discrepancies mostly showing more conservative AI grades](ai-teacher-grading-alignment-83-percent.md) — related

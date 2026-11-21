@@ -77,3 +77,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Concept-map scoring parameters show high inter-rater reliability with the Novak and Gowin protocol](concept-map-scoring-high-interrater-reliability.md) — related
 - [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related

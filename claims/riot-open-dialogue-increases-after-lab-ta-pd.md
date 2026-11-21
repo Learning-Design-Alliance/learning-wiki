@@ -66,3 +66,4 @@ Comparison of RIOT interaction profiles from a semester before the program with 
 ## Related Claims
 - [TAs who took the professional development program devoted approximately twice as much time to Active Listening as TAs who had not taken the program](riot-active-listening-doubles-after-lab-ta-pd.md) — related
 - [Across four TA-taught courses, TAs spent about a third of observed time talking at students, under a fifth talking with or observing them, and nearly 45% not interacting](ta-default-interaction-breakdown-riot.md) — related
+- [TAs facilitating traditional physics labs spent the majority of observation time not interacting with students](traditional-lab-tas-majority-time-not-interacting.md) — related

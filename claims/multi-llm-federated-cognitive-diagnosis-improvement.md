@@ -53,3 +53,4 @@ Evaluation across three educational benchmarks (ASSIST09, GSM8K, UCI Student Per
 - [ε=2.0 provides the best privacy–utility balance, while ε=0.5 introduces excessive noise that degrades performance below baseline on ASSIST09](privacy-budget-epsilon-tradeoff-cognitive-diagnosis.md) — related
 - [The framework scales gracefully: MAE degrades by less than 2% from 10K to 100K EdNet interactions with near-linear processing time](ednet-scalability-federated-diagnosis.md) — related
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — possibly the same claim (merge candidate)
+- [CSG-CD significantly outperforms classical, neural and graph-based cognitive diagnosis baselines across four datasets](csg-cd-outperforms-cd-baselines.md) — related

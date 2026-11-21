@@ -139,3 +139,4 @@ The chapter reports, citing Wang et al., a randomised controlled trial of a huma
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
 - [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related
 - [Students given weekly access to the Rori AI math tutor showed substantially higher math growth scores than control students (d = 0.36, p < 0.001)](rori-ai-tutor-math-growth-gains.md) — related
+- [Tutor CoPilot access increased tutors' use of high-quality teaching strategies and produced significant student mastery gains, especially for lower-rated tutors' students](tutor-copilot-close-the-loop-learning-gains.md) — a broader claim this one bears on

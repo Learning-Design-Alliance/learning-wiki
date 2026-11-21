@@ -88,3 +88,4 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related
 - [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related
 - [ChatGPT-4o and ChatGPT o1 complemented each other in TA-led sessions, with 4o supporting routine tasks and o1 excelling at complex reasoning](chatgpt-4o-o1-complementary-roles.md) — related
+- [Text-only accuracy across 19 LLMs spans 0.20 to 0.88 with a grand mean of 0.67, stratified by model generation and reasoning budget](cross-model-text-only-accuracy-stratified.md) — a narrower finding that bears on this claim

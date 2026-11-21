@@ -69,3 +69,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a narrower finding that bears on this claim
 - [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — related
 - [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related
+- [MetaRoundWorm users reported moderate simulator sickness, with disorientation most prominent](vr-condition-moderate-simulator-sickness.md) — a narrower finding that bears on this claim

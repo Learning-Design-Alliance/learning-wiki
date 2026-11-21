@@ -52,3 +52,4 @@ Network analysis of 35 KPNs. The IKPN degree distribution is a fat-tail distribu
 - [Stronger small-world effects correlate with higher examination difficulty](small-world-effect-correlates-with-difficulty.md) — related
 - [Exam difficulty increased across curriculum-reform stages, with the second stage standing out](kpn-evolution-difficulty-increase.md) — related
 - [Both students' and researchers' forma mentis networks show a small-world structure distributing connectivity mainly through hubs rather than clustering](fmn-small-world-hub-structure.md) — related
+- [The physics-term network has power-law exponent γ = 4.08, resembling a random network without prominent hub nodes](physics-term-network-gamma-4-08-random-like.md) — related

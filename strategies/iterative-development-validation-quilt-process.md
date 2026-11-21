@@ -47,4 +47,4 @@ The article describes a four-stage cyclic process for developing and validating 
 -
 
 ## Key Sources
-- Marshman, E., Maries, A., & Singh, C. (2024). Using multiple representations to improve student understanding of quantum states. https://arxiv.org/abs/2504.17472
+- Marshman, E., Maries, A., & Singh, C. (2024). Using multiple representations to improve student understanding of quantum states. https://arxiv.org/abs/2504.17472. [doi:10.1103/physrevphyseducres.20.020152](https://doi.org/10.1103/physrevphyseducres.20.020152)

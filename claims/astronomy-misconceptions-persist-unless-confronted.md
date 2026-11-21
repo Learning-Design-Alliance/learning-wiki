@@ -52,3 +52,4 @@ The white paper attributes this to multiple astronomy education research studies
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [The replacement requirement of elicit-confront-resolve is problematic for interdisciplinary conflicts in which neither conflicting idea is more correct than the other](ecr-replacement-problematic-interdisciplinary.md) — related
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
+- [Teachers report misconceptions persist across connected grades and can propagate through prospective teachers](teachers-report-misconception-impact-propagation.md) — a narrower finding that bears on this claim

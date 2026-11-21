@@ -69,3 +69,4 @@ Markov estimates incorporating data as it becomes available reduce the interannu
 - [Learning Assistant support is associated with higher year-to-year persistence throughout students' time at RIT](la-support-year-to-year-persistence-gains.md) — related
 - [A reduced-form Markov model using only full-data cohorts faithfully reproduces traditional six-year graduation rate estimates](markov-model-reproduces-traditional-sygr.md) — related
 - [The full-form Markov model yields substantially tighter confidence intervals for six-year graduation rate estimates than the traditional calculation](markov-tighter-confidence-intervals-sygr.md) — a broader claim this one bears on
+- [At Rutgers, the percentage of underrepresented minority students completing STEM degrees within six years rose by over 40% from before to after EAP's implementation in one pre-post comparison without a comparison group](eap-urm-stem-degree-completion-increase-40-percent.md) — related

@@ -67,3 +67,4 @@ The article's conclusions section summarizes the post-exam questionnaire results
 ## Related Claims
 - [Instructor observation of parcial resolutions found work that was generally ordered, included the corresponding graphs, and postponed numeric substitution to final stages of the solutions.](exam-resolutions-ordered-graphs-postponed-numerics.md) — related
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — related
+- [Instructor and independent parties reported better-than-usual conceptual understanding and decision-making behaviors in the intervention cohort](instructor-reported-deeper-conceptual-understanding.md) — related

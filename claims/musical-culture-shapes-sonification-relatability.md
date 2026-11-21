@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: chris-m-harrison-2025
     resource: "https://doi.org/10.1145/3771594.3771634"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A sonification effective for Western audiences may not feel relatable, relevant, or understandable to audiences with different cultural musical experiences, because musical perception is deeply influenced by cultural context. [→ Chris M. Harrison 2025](#chris-m-harrison-2025)

@@ -65,3 +65,4 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
 - [Students rated the course and its feedback highly, and most felt expectations were fulfilled](high-satisfaction-and-constructive-feedback-ratings.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
+- [Most student participants are extremely willing to use pedagogical prompts in future learning, though a minority express reluctance](student-willingness-to-use-pedagogical-prompts.md) — related

@@ -105,3 +105,5 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
 - [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related
 - [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related
+- [Model-expert agreement on question diversity is very weak, with the model systematically overestimating diversity relative to experts](genai-question-diversity-weak-agreement.md) — related
+- [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — a narrower finding that bears on this claim

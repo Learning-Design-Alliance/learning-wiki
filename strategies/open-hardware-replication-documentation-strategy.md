@@ -44,6 +44,7 @@ The authors provide an accompanying website, www.sr.bham.ac.uk/exhibit, that "pr
 
 - [Organized Online Resources](organized_online_resources.md)
 - [Establish a national Ed-tech Product Information Exchange website](ed-tech-product-information-exchange.md)
+- [Use a comprehensive exhibition of original instruments and documents as an education, teaching, and research event](exhibition-as-education-teaching-research-event.md)
 
 ## Examples
 -

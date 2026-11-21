@@ -71,3 +71,5 @@ The authors' stated caveat on the teacher survey: the sample comprised only YPT-
 - [Students perceived YPT-related activities as significantly more useful than regular physics classes only for debating skills, with no significant differences for other soft skills](ypt-vs-regular-classes-debating-only.md) — related
 - [Teachers rate YPT-related activities as more useful than RPC across all hard-skill types, with a self-selection caveat](teachers-rate-ypt-above-rpc.md) — related
 - [YPT-related activities show the most holistic impact on hard skills, with the highest cross-skill correlations of perceived usefulness](ypt-holistic-impact-correlations.md) — related
+- [Teachers perceive that YPT develops students' high-level hard skills considerably more than regular physics classes or other physics competitions](ypt-teachers-high-level-hard-skills.md) — related
+- [Teachers rate YPT's advantage over other competitions as largest for critical assessment of others' results, presentation, debating, English and teamwork](ypt-teachers-unique-skill-advantages.md) — related

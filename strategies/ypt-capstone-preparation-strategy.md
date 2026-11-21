@@ -48,7 +48,8 @@ The report distils its findings into thirteen guidelines for developing soft ski
 - [Students perceive YPT-related inquiry-based activities as beneficial to soft-skill development, with a median usefulness rating of 4 out of 5](../claims/ypt-perceived-useful-soft-skill-development.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Implement YPT-inspired investigation, presentation and debate elements in regular classes to develop curriculum-based hard and soft skills at scale](ypt-elements-in-regular-classes-strategy.md)
 
 ## Examples
 -

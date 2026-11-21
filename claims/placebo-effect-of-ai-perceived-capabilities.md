@@ -55,3 +55,4 @@ The article cites HCI research on the "placebo effect" of AI as the rationale fo
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — a narrower finding that bears on this claim
 - [Describing demonstrators as Best versus Worst changed participants' ratings of the demonstrators' performance even though actual performance was identical](description-shifts-performance-ratings.md) — a narrower finding that bears on this claim
 - [The pattern of results best fits the student engagement hypothesis, while placebo and dependency accounts were not supported](engagement-hypothesis-best-fits-aid-benefits.md) — related
+- [The performance benefit of biased AI requires actual biased content, not merely the belief that the AI is biased](bias-benefit-requires-actual-biased-content.md) — related

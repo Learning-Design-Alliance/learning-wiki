@@ -53,3 +53,4 @@ Document analysis of institutional policy pages across the 50-institution corpus
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
 - [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md) — related
 - [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related
+- [Students viewed AI as an ethical academic aid and favored flexible rather than restrictive course policies, with none supporting an outright ban](student-ai-policy-preferences-flexibility.md) — related

@@ -72,3 +72,4 @@ Correlational analysis in the same course: test anxiety correlated negatively wi
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](test-anxiety-not-significant-predictor.md) — related
+- [Including test anxiety or self-efficacy in regression models eliminates the significant gender difference in Physics 1 high-stakes scores](motivational-constructs-account-for-gender-exam-gap.md) — related

@@ -46,7 +46,8 @@ The article recommends instructors use the GERQN to inform PQL instruction, sinc
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](../claims/gerqn-single-factor-validation-statistics.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Embed physics quantitative literacy into the introductory physics sequence instead of requiring remedial math prerequisites](embed-pql-into-physics-sequence.md)
 
 ## Examples
 -

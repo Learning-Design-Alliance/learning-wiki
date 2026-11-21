@@ -51,3 +51,4 @@ The review reports, citing Quah et al, that ChatGPT-4 scored essays from 69 fina
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — reports the opposite
 - [Effects of emerging teaching methods vary by student grade and subject, with no significant differences in orthodontics and oral and maxillofacial surgery](grade-and-subject-moderators-dental-meta.md) — related
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — a broader claim this one bears on
+- [GenAI-generated driving theory questions show strong model-expert agreement on accuracy and relevancy, with the model slightly outperforming the expert on weighted average](genai-question-accuracy-relevancy-strong-agreement.md) — related

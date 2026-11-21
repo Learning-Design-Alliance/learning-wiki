@@ -55,3 +55,4 @@ Preliminary ablation comparing the full CyberAGENTS framework (n=74 interactions
 - [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](har-outperforms-llm-judge-acceptance-alignment.md) — related
 - [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](reasoning-llm-outperforms-standard-on-dp-quality.md) — related
 - [Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation](clara-taxonomy-quality-ablation.md) — related
+- [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related

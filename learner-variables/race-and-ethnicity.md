@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 295 claims (223 show a difference, 51 mixed, 21 no difference) · 222 studies (120 associational, 41 causal, 31 review, 12 theoretical, 8 qualitative, 8 design, 2 quant-synthesis), `q1`–`q4` · 11 of 222 report an effect size · 293 claims rest on one study
+> **Evidence** · 298 claims (226 show a difference, 51 mixed, 21 no difference) · 224 studies (121 associational, 41 causal, 32 review, 12 theoretical, 8 qualitative, 8 design, 2 quant-synthesis), `q1`–`q4` · 11 of 224 report an effect size · 296 claims rest on one study
 
 ## How to read this page
 
@@ -332,6 +332,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Prior physics and math preparation differed significantly by gender and race/ethnicity at course entry](../claims/prior-preparation-gaps-gender-race.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [All student groups constructed a functional black box and engaged in authentic experimental reasoning, inferring hidden obstacle shapes from marble scattering](../claims/black-box-scientific-reasoning-groups.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Lower-achieving Black students receive additional attention only when paired with another Black student, not in mixed-race pairs](../claims/black-students-attention-only-in-black-black-pairs.md) [~M] — an instructional effect differs by group
+- [A low-comfort subgroup is disproportionately composed of women and students of color](../claims/low-comfort-subgroup-underrepresented-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Grade-repetition rates in the region were higher for indigenous third-grade students (22.5%) than for non-indigenous students (16.5%) in 2013](../claims/terce-indigenous-repetition-rates.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Indigenous sixth-grade students in thirteen Latin American countries scored on average 35.6 points lower than non-indigenous peers in the TERCE natural sciences assessment (2013)](../claims/terce-indigenous-science-score-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

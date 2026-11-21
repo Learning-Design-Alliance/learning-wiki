@@ -52,3 +52,4 @@ Observational analysis of time spent on lab tasks across three institutions, wit
 - [Task preferences in physics lab activities show no significant association with gender at any of the three institutions](no-gender-association-task-preference-physics-labs.md) — related
 - [Comfort levels with physics laboratory activities show no significant association with gender at any of the three institutions](no-gender-association-comfort-physics-labs.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — related
+- [Male and female students show no statistically significant difference in overall participation time in introductory physics lab activities](no-gender-difference-overall-lab-participation.md) — related

@@ -58,3 +58,4 @@ Pre-lesson Likert survey results (agreement %, disagreement %) from the same FYE
 - [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](trust-not-equivalent-to-ai-accuracy.md) — related
 - [An earlier survey of 4800 students indicated they were well aware of LLM limitations and maintained healthy skepticism toward chatbot responses](student-skepticism-toward-llm-responses.md) — related
 - [Students in an advanced astronomy course reported decreased dependence on LLMs over the semester when usage documentation and critical reflection were required](documented-llm-use-decreased-dependence.md) — related
+- [Learners expressed high trust in the LLM-generated reels, with residual skepticism about transparency](reelsed-high-trust-llm-content.md) — related

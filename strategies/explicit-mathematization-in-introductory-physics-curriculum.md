@@ -50,6 +50,7 @@ The article recommends that instructors and education researchers "explore how t
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
 - [Strengthen the ILS strategy with more activities on describing the physical phenomenon and on algebraic procedures from prior courses](strategy-add-phenomenon-description-and-algebra-activities.md)
 - [Instructors should make explicit the implicit physical meaning embedded in their mathematical reasoning and their model-rejection decisions](make-expert-physical-math-connections-explicit.md)
+- [Embed physics quantitative literacy into the introductory physics sequence instead of requiring remedial math prerequisites](embed-pql-into-physics-sequence.md)
 
 ## Examples
 -

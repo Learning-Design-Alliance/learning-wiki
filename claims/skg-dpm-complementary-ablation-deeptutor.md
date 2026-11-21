@@ -59,3 +59,5 @@ Component ablation (Figure 9) of SKG, DPM, or both from the full pipeline. The a
 - [DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench](deeptutor-improves-interactive-tutoring-quality-10-76.md) — related
 - [Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect](ablation-simplification-ordering-transformations-most-effective.md) — related
 - [Semantic-level communication between tool and tutor allows changes in either component without modifying both together](semantic-messaging-tool-tutor-decoupling.md) — related
+- [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related
+- [Static onboarding metadata personalization yields the highest adaptability scores in AI tutoring responses](static-onboarding-metadata-highest-adaptability.md) — related

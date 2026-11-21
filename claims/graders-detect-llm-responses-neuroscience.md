@@ -71,3 +71,4 @@ The editorial reports, citing the same study, that "Experience with generative A
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — reports the opposite
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
 - [Victory conditions compare AI and human prediction quality against each other and against random guessing, requiring both to significantly beat chance](victory-conditions-beat-random-guessing.md) — related
+- [Pre-service teachers cannot reliably identify feedback sources, with LLM feedback detected only slightly above chance (36%) and judgements tracking message length rather than coded quality](preservice-teachers-poor-feedback-source-recognition.md) — related

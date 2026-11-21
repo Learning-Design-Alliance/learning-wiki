@@ -61,3 +61,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 - [GPT-4V outperformed GPT-3.5 Turbo and GPT-4 on multiple-choice medical exam questions with images](gpt4v-outperforms-earlier-llms-image-questions.md) — related
 - [GPT-3.5-turbo accuracy on Physics exam questions decreases as academic level rises, from 83.4% at GCSE to 37.4% at introductory university level](llm-physics-accuracy-declines-with-academic-level.md) — related
 - [GPT-4 performs exceptionally well on coding tasks and simple single-step problems, but poorly on multi-step problems, longer prose, and interdisciplinary problems.](gpt4-strong-coding-weak-multistep-prose.md) — a broader claim this one bears on
+- [LLM accuracy degrades on finite-rate, non-quasistatic thermodynamics scenarios, with recurring error patterns in quasistatic template misuse and entropy bookkeeping](finite-rate-irreversible-scenario-errors.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ Pilot evaluation with 10 students from the same recruitment pool, run with the s
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
 - [Split-half administration shows comparable performance on the 22 common items regardless of item order, supporting reliability](stpfasllong-split-half-reliability-common-items.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

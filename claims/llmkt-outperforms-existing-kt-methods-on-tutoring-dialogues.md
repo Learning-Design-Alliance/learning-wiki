@@ -93,3 +93,4 @@ MathDial results from the same benchmark comparison, where existing methods impr
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) — related
 - [Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points](llms-barely-exceed-trivial-baseline-kt.md) — related
 - [DPO training significantly increases the likelihood of correct next-turn student responses predicted by LLMKT, outperforming prompting, SFT, distillation, GPT-4o and human tutor utterances on the MathDial test set](dpo-tutor-training-raises-predicted-student-correctness.md) — related
+- [Rule-based simulated cognitive structures alone nearly match or slightly surpass classical KT and CD baselines](rule-based-simulation-matches-classical-baselines.md) — related

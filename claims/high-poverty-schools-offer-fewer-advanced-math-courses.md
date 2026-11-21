@@ -56,3 +56,4 @@ Analysis combining 2017-18 CRDC with the Common Core of Data, comparing top and 
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](calculus1-need-not-prerequisite-lower-level-cs.md) — related
 - [Without advanced-math prerequisites, students from prestigious high schools performed on average similarly to those from less privileged backgrounds](no-prerequisite-math-levels-playing-field-quantum-course.md) — related
+- [Students attending high-poverty US high schools are significantly less likely to have the option to take calculus, and schools with high Black and Latino enrollment offer it less often](high-poverty-schools-less-calculus-access.md) — possibly the same claim (merge candidate)

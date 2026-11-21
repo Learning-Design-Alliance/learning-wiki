@@ -53,3 +53,4 @@ Inductive content analysis of one open question on EQ content, answered by 75% (
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [Sentiment analysis shows interviewees overwhelmingly used positive emotions when describing their SRL strategies and the ALT feedback](sentiment-analysis-positive-emotion-dominance.md) — related
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
+- [GenAI-generated question-specific and overall test feedback is rated 98-99% positive, helpful, and accurate by both model and expert evaluators](genai-feedback-high-quality-ratings.md) — related

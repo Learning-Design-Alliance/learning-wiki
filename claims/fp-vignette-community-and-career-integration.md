@@ -57,3 +57,4 @@ First-person reflective vignette by Dr. Weronika Walkosz, who participated in FP
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Direct messages from followers indicate Neutralina inspired young women in Latin America to view science as an attainable career path](neutralina-inspired-young-women-peru.md) — related
 - [Outreach integrated students into the physics community and supported persistence in the major (community participation cluster)](outreach-community-participation-persistence.md) — related
+- [Peers and mentors played crucial roles in students' learning journeys in the Pathways program](peer-mentor-relationships-quantum-program.md) — related

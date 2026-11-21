@@ -47,3 +47,4 @@ From the same 12-instructor interview study; instructors most often attributed t
 ## Related Claims
 - [Quantum physics instructors report recurring student misconceptions including faster-than-light entanglement, spin as literal rotation, and conscious-observer collapse](instructor-reported-quantum-misconceptions.md) — related
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
+- [College QIST educators identify persistent misinformation about entanglement, teleportation, and quantum computers among students and the public](qist-educators-identify-persistent-misinformation.md) — related

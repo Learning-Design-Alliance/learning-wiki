@@ -49,3 +49,4 @@ The authors' interpretive claim in the section 'Two cultures, one prize', restin
 - [Participation in the ASIMOV Prize has grown constantly since 2016, reaching 272 schools and 12,326 student-jurors](asimov-prize-participation-growth-12326-students.md) — related
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
 - [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
+- [Public trust in scientists is moderately high but below pre-pandemic levels, with partisan divides that engagement through IPE can help bridge](ipe-trust-in-scientists-pew-and-global.md) — related

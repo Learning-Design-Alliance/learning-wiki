@@ -46,6 +46,7 @@ The article recommends targeted interventions to mitigate implicit bias in physi
 - [Raise instructors' and non-DHH students' awareness of DHH students' discourse needs and promote student motivation in lab settings](dhh-discourse-needs-awareness-strategy.md)
 - [Actively support student community formation through counterspaces, cohort-bonding, and affinity groups, with implicit bias training for advisors](counterspaces-cohort-bonding-inclusive-community.md)
 - [Structural, school-level approaches to address teachers' explicit immigration attitudes](structural-school-level-attitude-interventions.md)
+- [Promote gender equity in physics labs through structured role rotation, intentional group composition, instructor facilitation, and bias awareness training](equitable-physics-lab-engagement-strategies.md)
 
 ## Examples
 -

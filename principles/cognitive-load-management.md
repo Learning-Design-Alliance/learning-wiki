@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (42 for, 51 mixed, 3 against) · 81 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 5 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 81 report an effect size · 87 claims rest on one study
+> **Evidence** · 98 claims (44 for, 51 mixed, 3 against) · 83 studies (38 causal, 16 review, 10 quant-synthesis, 10 theoretical, 6 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 83 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](../claims/visual-only-disadvantage-low-wmc-md.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
 - [At high WMC, children without math difficulties performed better under verbal + visual conditions compared to control](../claims/verbal-visual-advantage-high-wmc-nmd.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
 - [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](../claims/notss-improvement-after-scenario-simplification.md) [+W] — attached 2026-11-09 from Wu Kitty et al. (2019), which proposed "Minimize extraneous distractors in crisis simulation scenarios for novice learners"; tests this page's relationship.
+- [Both AI chatbot and tiered support significantly reduce intrinsic and extraneous cognitive load compared with static textbook-style support in ninth-grade physics problem solving](../claims/chatbot-tiered-support-reduce-cognitive-load-vs-textbook-physics.md) [+W] — attached 2026-11-21 from E. Becker et al. (2025), which proposed "Use interactive, structured support (chatbot or tiered hints) rather than static text to reduce cognitive load in physics problem solving"; tests this page's relationship.
+- [Simultaneous use of multiple platforms produced a fragmented lesson experience that confused students and teachers](../claims/multi-platform-use-fragmented-lesson-experience.md) [+W] — attached 2026-11-21 from Marina Babayeva (2023), which proposed "Consolidate digital tools into a single unified platform rather than combining multiple specialized tools in one lesson"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

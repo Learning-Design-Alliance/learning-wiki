@@ -68,6 +68,8 @@ Visual representations exploit the capacity of the visual channel to carry infor
 - [Replace lecture-only English instruction with mind-map-based presentation of the whole chapter in a single diagram](mind-map-whole-chapter-single-diagram-english.md)
 - [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
 - [Case-based ultrasound teaching sequence with pre-class case materials, in-class image progression analysis, and mind-map construction](cbl-mindmap-ultrasound-teaching-sequence.md)
+- [Assign mind-map notetaking homework connecting concepts across all chapters of the course](mind-map-notetaking-homework-strategy.md)
+- [Pre-distribute all lecture materials with a Book of Diagrams of tactile diagrams before class sessions](pre-distributed-lecture-materials-tactile-diagrams.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — concept summaries and diagrams accompanying video lessons in science and economics.
