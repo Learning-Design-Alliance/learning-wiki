@@ -53,3 +53,4 @@ Kruskal–Wallis comparison of student-perceived curricular alignment across Cha
 - [Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)](easier-items-perceived-as-better-aligned.md) — related
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](distractor-distribution-does-not-differ-across-sources.md) — related
 - [Exploratory theme-level analyses found performance differences between exam formats varied by curricular content area](theme-dependent-performance-variation.md) — related
+- [In initial comparisons, the authors did not observe significant differences between ChatGPT and Google AI Studio in the MCQs generated from the same lecture materials](no-observed-differences-llm-apps-mcq-generation.md) — related

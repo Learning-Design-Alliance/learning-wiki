@@ -284,3 +284,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Students with ADHD may experience six characteristic difficulties in introductory physics courses, including distraction, detail-focus, and slower processing of content presented via multiple means](six-adhd-difficulties-introductory-physics.md) — related
 - [Digital reading introduces disorientation and cognitive overload that can hinder comprehension relative to paper reading](digital-reading-disorientation-cognitive-overload.md) — related
 - [DHH learners perceive motion-driven designs as more helpful for focusing on essential information and fostering text-image connection than for reducing irrelevant information](lcd-main-effect-essential-connection-over-irrelevant.md) — related
+- [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — related

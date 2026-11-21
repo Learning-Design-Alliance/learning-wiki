@@ -53,3 +53,4 @@ The review's interpretive analysis of engagement evidence across included studie
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](mooc-ai-bias-toward-completers-and-interaction-not-learning.md) — related
 - [Participant-level factors affecting MOOC completion include learners' motivation and engagement, background knowledge and skills, and time-management skills](mooc-participant-level-effectiveness-factors.md) — related
 - [Negative learner responses arise when shared understanding with the GenAI agent is not established, preceding fixed-mindset-style rejection of skill content](negative-responses-lack-shared-understanding.md) — related
+- [AI agent students interacted more frequently with the system and completed the learning task in less time than the other groups](ai-agent-higher-interaction-shorter-duration.md) — related

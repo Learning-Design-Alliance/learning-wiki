@@ -62,3 +62,4 @@ Narrative review discussion of chatbots and LLMs in education, attributing the h
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related
 - [Manual inspection finds LLM-generated leveled texts risk introducing misinformation and show inconsistent edit distribution](generated-leveled-texts-misinformation-and-uneven-edits.md) — a narrower finding that bears on this claim
+- [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — a narrower finding that bears on this claim

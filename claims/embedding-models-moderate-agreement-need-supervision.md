@@ -58,3 +58,4 @@ Evaluation of SBERT, USE, T5, BERT and RoBERTa using cosine similarity against r
 - [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related
 - [The eight sentence embedding models produce discrepant similarity scores for the same pairs of cocreative ideas, motivating validation against expert novelty scores](embedding-models-discrepant-similarity-scores.md) — related
 - [Pre-trained sentence embedding models can evaluate the novelty of open-ended, generic, small datasets of ideas co-generated during classroom PBL cocreation without fine-tuning](sentence-embedding-novelty-evaluation-pbl-cocreation.md) — related
+- [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related

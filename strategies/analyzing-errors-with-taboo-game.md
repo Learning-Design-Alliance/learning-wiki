@@ -59,8 +59,10 @@ The strategy combines game-based practice with error analysis: the game generate
 6. Bridge to transfer: have learners apply the named strategies to a real search task in the course context and compare results against their pre-game habits.
 
 ## Related Strategies
+
 - [Erroneous Examples](../elements/erroneous-examples.md) — the same error-analysis logic applied to worked examples rather than live play
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the pre-game keyword brainstorm serves the same activation function
+- [Keyword cards chosen by the students to support student-actors during performances](keyword-cards-student-actors-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game provides repeated, low-stakes retrieval and production attempts

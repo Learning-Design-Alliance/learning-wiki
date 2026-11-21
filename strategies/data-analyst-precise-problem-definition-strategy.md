@@ -52,6 +52,7 @@ The article recommends that school teams use formal problem-solving protocols, w
 ## Related Strategies
 
 - [Use a monthly school attendance team to review data and problem-solve](monthly-attendance-data-team-review.md)
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

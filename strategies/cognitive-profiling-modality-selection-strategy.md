@@ -48,6 +48,7 @@ This strategy pairs assessment of individual cognitive profiles (e.g., OSIVQ cla
 
 - [Use baseline visuospatial and bimanual profiling to personalize laparoscopic simulation training](visuospatial-profiling-personalized-laparoscopic-training.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Select data modalities to match the learning outcome when applying multimodal learning analytics](select-modality-per-outcome.md)
 
 ## Examples
 -

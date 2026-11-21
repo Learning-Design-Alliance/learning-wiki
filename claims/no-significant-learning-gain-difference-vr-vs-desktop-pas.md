@@ -49,3 +49,4 @@ Between-group comparison in the same randomized experiment: summed pre-post diff
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [After the interventions, post-test Scrum knowledge did not differ significantly between the VR and LEGO groups](post-test-no-significant-group-difference.md) — related
 - [Participants positively accept both VR-based and computer-based pedagogical agents across UTAUT dimensions, with no significant group differences](positive-utaut-acceptance-both-pa-modalities-no-difference.md) — related
+- [Vocabulary score gain did not vary significantly between VR lessons](score-gain-no-variance-between-lessons.md) — related

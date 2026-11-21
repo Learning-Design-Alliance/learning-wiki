@@ -68,3 +68,4 @@ Also attributed to the authors' earlier research (reference 9): conceptual diffi
 - [Transforming quantum-mechanics concepts into concrete computer representations is proposed as a route to deeper understanding than abstract representations allow](computer-representations-deeper-quantum-understanding.md) — related
 - [Teaching only Bλ and its Wien peak in introductory courses leaves students confused when they later encounter Bν](teaching-only-b-lambda-causes-later-confusion.md) — related
 - [First-year students' conceptual grasp of linear-algebra-related quantum concepts appeared on average stronger than that of senior-level students, per anecdotal instructor observation](pictorial-course-conceptual-grasp-stronger-than-senior-course.md) — related
+- [Majority of students reported clearer grasp of why confinement leads to quantization and successfully predicted how resonance spacing changes with straw length](confinement-quantization-conceptual-gain.md) — related

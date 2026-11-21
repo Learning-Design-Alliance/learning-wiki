@@ -68,3 +68,4 @@ Same expert consultation. The article reports "Experts involved in curricula dev
 - [UK postgraduate medical curricula map to only 29 of 50 health informatics competency domains, leaving 21 unrepresented](uk-postgraduate-curricula-map-29-of-50-hi-domains.md) — a narrower finding that bears on this claim
 - [HI domain coverage varies from 0 to 16 of 50 domains across specialties, with a median of 7](hi-domain-coverage-varies-zero-to-sixteen-median-seven.md) — a narrower finding that bears on this claim
 - [In Round 1 at least 80% of experts fundamentally agreed with the preliminary competencies, but suggested amendments that led to revisions, additions, and renaming of the Soft Skills area](round1-high-agreement-with-amendments.md) — related
+- [Physics instructor experts uniformly endorse the GERQN items as representing valued course learning outcomes](gerqn-expert-validation-alignment.md) — related

@@ -49,3 +49,5 @@ Group validation interviews with seven physics experts at Institution 1 and two 
 - [Student response patterns on the PIQL fit a unidimensional model rather than the expert-proposed three-facet factor structure](piql-unidimensional-not-three-facet.md) — related
 - [A majority (58%) of PIQL takers answered Ferris Wheel correctly, but the circumference-like and Pythagorean-like distractors drew 24.5% and 14.7% answer rates that do not change significantly across the three courses](ferris-wheel-distractor-appeal.md) — related
 - [PIQL v2.2 meets Classical Test Theory expectations, with Cronbach's alpha of 0.80 and all 20 items above the discrimination threshold](piql-final-version-reliable-alpha-080.md) — related
+- [Physics instructor experts uniformly endorse the GERQN items as representing valued course learning outcomes](gerqn-expert-validation-alignment.md) — related
+- [Item analysis led to removal of the Odometer item and retention of the difficult but valued Bhutan item](gerqn-item-analysis-odometer-bhutan.md) — related

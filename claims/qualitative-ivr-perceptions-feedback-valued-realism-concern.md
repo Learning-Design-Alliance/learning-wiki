@@ -93,3 +93,4 @@ For the third open question, "Most of the responses (70.5%) indicated that iVR e
 - [Student perceptions of online mathematics tutoring were predominantly positive, with positive comments outnumbering negative comments three to one](student-perceptions-predominantly-positive.md) — related
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
 - [Open feedback on Ethics Quarter content is overwhelmingly positive (99% of 71 responses)](ethics-quarter-open-feedback-99-percent-positive.md) — related
+- [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related

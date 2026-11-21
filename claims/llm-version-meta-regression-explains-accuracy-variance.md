@@ -59,3 +59,4 @@ Meta‐regression (maximum‐likelihood, random effects) on the pooled all‐dis
 - [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
 - [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — a narrower finding that bears on this claim
 - [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related
+- [Learners suspected of LLM misuse had significantly higher odds of answering the corresponding posttest MCQ correctly (OR = 2.37, p < .001)](llm-misuse-higher-posttest-odds.md) — related

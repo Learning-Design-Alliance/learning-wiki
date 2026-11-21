@@ -62,3 +62,4 @@ The review reports this implementation finding, citing Reddy et al. (2024), and 
 - [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
 - [Manual inspection finds LLM-generated leveled texts risk introducing misinformation and show inconsistent edit distribution](generated-leveled-texts-misinformation-and-uneven-edits.md) — a narrower finding that bears on this claim
+- [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related

@@ -50,3 +50,4 @@ Focus-group and observational data from the theme 'Playful and emotionally affec
 - [Resident doctors in child and adolescent psychiatry experienced VR-SIMI as an appropriate method for training non-technical skills during residency](vr-simi-experienced-appropriate-nons-technical-skill-training-residents.md) — a broader claim this one bears on
 - [Overall satisfaction with the virtual tour did not differ significantly by participation medium (HMD, Desktop mode, or YouTube)](no-satisfaction-difference-by-medium.md) — related
 - [The VR simulation produced a significantly increased feeling of presence compared with 360-degree NRP video](vr-nrp-higher-presence-than-360-video.md) — related
+- [Learners rarely used the provided low-cost VR head-mounted displays, with discomfort and dizziness limiting immersive capability's role](low-cost-hmds-rarely-used-discomfort.md) — related

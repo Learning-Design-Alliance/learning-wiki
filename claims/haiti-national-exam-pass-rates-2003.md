@@ -47,3 +47,4 @@ A narrative-review statistic attributed to Hebblethwaite (2012), presented in th
 ## Related Claims
 - [Haiti's national exit exams show very low pass rates, which the review links to the language of instruction](haiti-national-exam-low-pass-rates.md) — possibly the same claim (merge candidate)
 - [Only about seven percent of Haitians are truly French/Creole bilingual, making French a foreign medium of instruction for most students](seven-percent-haitians-truly-bilingual.md) — related
+- [FliP-CoIn is the first Concept Inventory developed bilingually from scratch, based on an ERIC and Google Scholar search](first-bilingually-developed-concept-inventory.md) — related

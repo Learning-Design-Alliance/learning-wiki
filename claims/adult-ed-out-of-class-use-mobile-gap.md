@@ -80,3 +80,4 @@ The report attributes this figure to a Tyton Partners report, not to its own stu
 - [Students produced 33 varied health education videos using everyday tools, with quality ranging from good to very good](thirty-three-videos-everyday-tools.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Accessing the course via PC/laptop versus tablet/smartphone predicted the problem solving score, but not the total medical statistics score](access-device-predicts-problem-solving-not-total-score.md) — related
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related

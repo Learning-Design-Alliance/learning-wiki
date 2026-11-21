@@ -55,3 +55,4 @@ Authors' preliminary observation from the proof-of-concept setup (Section 5.2). 
 - [At the implementation checkpoint, several groups added an explicit human-approval step after encountering local-LLM structured-output reliability limitations](cp5-human-approval-step-added.md) — related
 - [NF4 4-bit quantization reduces VRAM usage by 38.7% for Qwen-7B and 37.9% for DeepSeek-MoE while maintaining practical response times](nf4-quantization-vram-reduction.md) — related
 - [Hallucination rate increases under 4-bit quantization and is substantially mitigated by quantization-aware fine-tuning](quantization-raises-hallucination-rate-finetuning-mitigates.md) — related
+- [Practical on-device LLM deployment is limited to roughly 4-billion-parameter models because memory grows nearly linearly and generation speed drops sharply beyond that size](on-device-deployment-limited-4b-parameters.md) — reports the opposite

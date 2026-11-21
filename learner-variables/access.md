@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (102 show a difference, 28 mixed, 11 no difference) · 111 studies (41 associational, 19 causal, 16 review, 14 design, 10 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 111 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (103 show a difference, 28 mixed, 11 no difference) · 112 studies (41 associational, 19 causal, 16 review, 14 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 112 report an effect size · 137 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -185,6 +185,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [The inclusive game mode, using written words on small boards instead of spoken guessing, let the game proceed with its normal dynamics and the deaf student was very comfortable and even made the best drawings](../claims/inclusive-written-word-mode-deaf-student.md) [+M] — an instructional effect differs with it
 - [Traditional astronomy research, education and outreach relies heavily on visual presentation, which is a barrier to participation by blind and visually impaired persons](../claims/visual-reliance-barrier-bvi-astronomy.md) [+W] — learners who differ on it differ in outcomes
 - [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](../claims/giant-arduino-replica-inclusive-handling.md) [+W] — measured as an outcome of the instruction studied
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](../claims/infrastructure-deficiencies-hinder-digital-integration.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

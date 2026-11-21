@@ -51,3 +51,4 @@ The article's interpretive argument, drawn from prior literature it cites (e.g.,
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — related
 - [The authors report that reviewing popular science books gave students a new perception of scientific literature and developed critical judgment](asimov-prize-student-perception-scientific-literature.md) — related
 - [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — related
+- [Students displayed scientific literacy indicators — hypothesis formulation, argumentation, explanation, organization and information sequencing — without explicit instruction](literacy-indicators-emerge-without-explicit-instruction.md) — related

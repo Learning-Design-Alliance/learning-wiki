@@ -52,3 +52,4 @@ Pre-instruction survey analysis of 91 bioscience graduate and postdoctoral train
 - [Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings](prior-ai-education-null-intake-feature.md) — reports the opposite
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related
+- [Prior AI usage frequency and general attitudes toward AI do not predict AI-text detection accuracy](ai-usage-attitudes-null-detection.md) — related

@@ -29,4 +29,4 @@ A Zhang et al. science-domain software agent that retrieves reference knowledge 
 -
 
 ## Key Sources
-- Zhang, L., Zhang, M., Wang, W. L., & Luo, Y. (2025). Simulation as Reality? The Effectiveness of LLM-Generated Data in Open-ended Question Assessment. https://kaggle.com/competitions/kaggle-llm-science-exam
+- Zhang, L., Zhang, M., Wang, W. L., & Luo, Y. (2025). Simulation as Reality? The Effectiveness of LLM-Generated Data in Open-ended Question Assessment. https://kaggle.com/competitions/kaggle-llm-science-exam. [doi:10.48550/arxiv.2502.06371](https://doi.org/10.48550/arxiv.2502.06371)

@@ -48,3 +48,4 @@ Perceptual MOS evaluation of three fine-tuned TTS models on five dimensions, rat
 
 ## Related Claims
 - [In pairwise A/B preference tests, raters preferred XTTS and Orpheus over CSM, and preferred female voices across all models](astra-ab-preference-xtts-orpheus-over-csm.md) — related
+- [Educational multilingual TTS achieves MOS above 3.50 and recognition accuracy exceeding 90% for Malay and Tamil](singakids-multilingual-tts-evaluation.md) — related

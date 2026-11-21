@@ -49,3 +49,4 @@ Model-development evaluation on annotated reflective sentences: the article fram
 - [A new sentence-level emotion annotation of 6543 reflective sentences defines 17 emotion labels plus a no-emotion label](papagai-6543-sentence-emotion-annotation-17-labels.md) — related
 - [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — related
 - [The best-scoring prompt-engineered approaches did not match the fine-tuned models on emotion detection and Gibbs cycle tasks](papagai-finetuned-outperforms-gpt3-davinci.md) — related
+- [A fine-tuned RoBERTa multi-task model predicts feedback linguistic metrics with low test MAEs](roberta-mtl-predicts-feedback-linguistic-metrics.md) — related

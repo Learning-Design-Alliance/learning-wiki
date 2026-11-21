@@ -66,6 +66,7 @@ Noise competes directly for the same limited resources that [Cognitive Load Mana
 - Quiet-zone scheduling — the temporal complement to physical treatment
 - [Apply acoustic treatment, lowered ceilings and visual barriers when utilising open-plan classroom spaces](acoustic-treatment-and-visual-barriers-for-open-plan-classrooms.md)
 - [Support hearing-impaired students through classroom sound amplification, improved acoustics and teacher training](classroom-supports-for-hearing-impaired-students.md)
+- [Replace time-consuming searching for ambient study aids with AI-generated personalized audio and visuals](ai-generated-personalized-study-aids-strategy.md)
 
 ## Examples
 - **Sound-field amplification systems** (e.g., Lightspeed, FrontRow) distribute the teacher's voice evenly; evidence shows modest gains in speech recognition and listening comprehension, strongest in reverberant rooms and for at-risk listeners.

@@ -74,3 +74,5 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related
 - [Students were highly engaged with the 3D-printed height models and largely accepted them as a helpful learning tool](student-acceptance-3d-height-models.md) — related
 - [The tactile sky models were well accepted by sighted students and teachers in outreach activities](tactile-models-accepted-sighted-students-teachers.md) — related
+- [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](iv-greater-learning-effect-than-flyover-video.md) — related
+- [VR-based medical education with interactive 3D visualization enhances spatial comprehension of anatomy](vr-3d-visualization-enhances-anatomical-spatial-comprehension.md) — a broader claim this one bears on

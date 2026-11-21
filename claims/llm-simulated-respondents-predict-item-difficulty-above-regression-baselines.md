@@ -57,3 +57,4 @@ Numerical results on a held-out test set (Table 5) comparing the proposed simula
 - [Angoff estimates correlated with observed item difficulty more strongly for LLMs than for faculty judges](llm-angoff-item-difficulty-correlation.md) — related
 - [MathBERT outperforms the best prior methods on three mathematics-education NLP tasks by 1.18% to 22.01% across metrics](mathbert-outperforms-prior-best-methods.md) — related
 - [Fine-grained per-question simulation of post-test performance outperforms whole-question-set simulation, with pre-test information and engagement improving realism](fine-grained-question-simulation-outperforms-coarse.md) — related
+- [SMART outperforms direct item difficulty prediction methods on both datasets, largely maintaining the advantage with a 1B base LLM](smart-outperforms-direct-difficulty-prediction.md) — related

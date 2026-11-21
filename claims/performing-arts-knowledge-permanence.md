@@ -85,3 +85,4 @@ Between-group comparison of permanence-test means (experimental 74.74, control 6
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — related
+- [Significant assessment-by-retention interaction on Task 1: ChatGPT and Google groups' scores declined at three-week retention while control and e-textbook groups stayed stable](task1-retention-interaction-chatgpt-google-decline.md) — related

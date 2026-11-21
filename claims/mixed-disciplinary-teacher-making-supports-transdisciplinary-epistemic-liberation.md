@@ -71,3 +71,4 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Extended, frequent interdisciplinary conversation surfaces tacit disciplinary assumptions about content, epistemology, and competencies that surveys or occasional discussion do not reveal.](sustained-cross-disciplinary-dialogue-surfaces-tacit-assumptions.md) — related
 - [A math-art summer school course convinced all participants that mathematics and arts do not exclude each other](math-art-course-shifted-discipline-attitudes.md) — related
 - [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related
+- [Astronomy can act as a gateway to other STEM disciplines, with recent K-12 multinational evidence supporting the gateway role](astronomy-gateway-to-stem-disciplines.md) — related

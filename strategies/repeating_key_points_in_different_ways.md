@@ -57,9 +57,11 @@ Varied repetition works because it exploits dual coding and elaboration: present
 6. Close by revisiting the key points, then schedule brief spaced reviews in later sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — repetition only works on a small, well-chosen set of points
 - [Activating Prior Knowledge](../principles/activation.md) — the opening preview doubles as activation of related knowledge
 - [Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+M] — the scheduling principle that determines whether repetition sticks
+- [Add reinforcement activities such as reflective exercises, spaced repetition, and active recall after technology-supported tasks](reinforcement-activities-after-genai-tasks.md)
 
 ## Examples
 - **Explicit Direct Instruction lessons** (e.g., DataWORKS EDI) structure every lesson with a "concept development" phase in which the key concept is stated, restated with a non-linguistic representation, and checked through whole-class choral response and individual whiteboard checks.

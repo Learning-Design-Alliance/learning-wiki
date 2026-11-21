@@ -28,4 +28,4 @@ A browser-based interface operated by NASA/IPAC Infrared Science Archive for que
 -
 
 ## Key Sources
-- Newland, J. (2025). Using Data Science in High School Astronomy. ASP Conference Series. https://jimmynewland.com
+- Newland, J. (2025). Using Data Science in High School Astronomy. ASP Conference Series. https://jimmynewland.com. [doi:10.48550/arxiv.2501.04856](https://doi.org/10.48550/arxiv.2501.04856)

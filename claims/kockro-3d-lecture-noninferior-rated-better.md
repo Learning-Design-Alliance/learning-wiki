@@ -127,3 +127,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — reports the opposite
 - [Prior study: VR metric visualization yielded accuracy comparable to 2D dashboards with an edge on intricate tasks (as reported by the article, citing Moreno-Lumbreras et al.)](prior-vr-comparable-accuracy-intricate-task-advantage.md) — related
 - [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — related
+- [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](iv-greater-learning-effect-than-flyover-video.md) — related
+- [VR-based medical education with interactive 3D visualization enhances spatial comprehension of anatomy](vr-3d-visualization-enhances-anatomical-spatial-comprehension.md) — related

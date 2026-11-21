@@ -55,3 +55,4 @@ Post-hoc exploratory Kruskal–Wallis analysis of item difficulty across ChatGPT
 - [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](distractor-distribution-does-not-differ-across-sources.md) — related
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related
+- [In initial comparisons, the authors did not observe significant differences between ChatGPT and Google AI Studio in the MCQs generated from the same lecture materials](no-observed-differences-llm-apps-mcq-generation.md) — related

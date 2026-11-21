@@ -50,3 +50,4 @@ Meta-synthesis subtheme on emotional relief: examples included distraction durin
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Qualitative studies identify potential mechanisms linking nature and creativity, including solitude, relaxation, inspiration, and disconnection from technology](qualitative-mechanisms-nature-creativity.md) — related
 - [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — related
+- [Independent learners struggle to sustain focus and regulate emotion in unstructured or distracting study settings](independent-learners-focus-emotion-struggle.md) — related

@@ -87,3 +87,6 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Different faculty personas need different levels and kinds of information about educational innovations](personas-differ-in-information-needs.md) — related
 - [In the Runes Department, faculty professed beliefs supporting active learning were not matched by their reported teaching practices](runes-belief-practice-discontinuity.md) — related
 - [The self-reflective facilitator persona needs competence support: a centralized resource hub and science communication training](kyle-self-reflective-facilitator-needs.md) — related
+- [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related
+- [Resistance to digital innovation is particularly evident in institutions with rigid administrative structures where innovation is perceived as an added burden](rigid-administrative-structures-resistance-digital.md) — related
+- [Schools with structured and ongoing professional development programs show a 30% higher adoption rate of digital tools than schools without such programs](structured-pd-30-percent-higher-adoption.md) — related

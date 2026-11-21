@@ -50,3 +50,4 @@ One-group pre/post-test design over 22 two/three-day workshops; 317 participants
 - [Resident knowledge of key clinical teaching concepts, including Kolb's Experiential Learning theory and Miller's Pyramid, improved significantly after the workshop](resident-teaching-concept-knowledge-improved-post-workshop.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Participants' attitudes toward computer science did not significantly change over the 2019 BPDM workshop](bpdm-2019-attitudes-no-change.md) — related
+- [Participants in a one-day quantum computing workshop for IT professionals predominantly reported large or moderate learning progress regardless of prior knowledge](quantum-workshop-self-reported-learning-progress.md) — related

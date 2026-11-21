@@ -44,6 +44,7 @@ The article recommends deploying the adapted, quantized 4B model as an offline b
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 - [Integrate AI-formative tools state-wide and deploy offline-capable Edge AI servers](statewide-ai-formative-integration-edge-servers.md)
 - [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
+- [Deploy offline SLMs as virtual tutors with native-language localization for physics and photonics education in low-connectivity regions](slm-offline-native-language-tutors.md)
 
 ## Examples
 -

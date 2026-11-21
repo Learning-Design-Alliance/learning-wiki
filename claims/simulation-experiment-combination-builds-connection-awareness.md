@@ -51,3 +51,4 @@ Theoretical argument from the article's introduction, offered as the author's be
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [High school students reported that exploring quantum optical phenomena before mathematical models were introduced helped their understanding and mastery of quantum computing material](experiments-before-mathematics-student-reported-mastery.md) — related
 - [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related
+- [Students reported that pre-lab simulations improved conceptual understanding and confidence before physical experiments](openphys-understanding-confidence-gains.md) — related

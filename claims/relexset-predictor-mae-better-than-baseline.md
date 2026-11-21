@@ -48,3 +48,4 @@ Numerical evaluation of the fine-tuned DistilRoBERTa regression model (RELEXset-
 ## Related Claims
 - [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — related
 - [Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only](joint-course-grade-prediction-halves-mae.md) — related
+- [A fine-tuned RoBERTa multi-task model predicts feedback linguistic metrics with low test MAEs](roberta-mtl-predicts-feedback-linguistic-metrics.md) — related

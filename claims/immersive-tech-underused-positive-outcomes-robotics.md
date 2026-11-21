@@ -95,3 +95,4 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [Early adopters use immersive VR simulation primarily to teach cognitive skills, with psychomotor skill teaching limited by haptic technology](vr-simulation-teaches-cognitive-skills-limited-psychomotor.md) — related
 - [An object-spawning system built with Bolt Visual Scripting reduced dependence on importing heavy BIM files into the VR game](object-spawning-reduces-bim-file-dependence.md) — related
 - [Personalized gamification can enhance student cognition in programming courses by improving motivation, engagement, and learning outcomes](personalized-gamification-enhances-cognition-programming-courses.md) — related
+- [Learners rarely used the provided low-cost VR head-mounted displays, with discomfort and dizziness limiting immersive capability's role](low-cost-hmds-rarely-used-discomfort.md) — related

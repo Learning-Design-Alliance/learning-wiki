@@ -42,6 +42,7 @@ Tip 6 recommends composing prompts from defined components: topic in blueprint, 
 - [Subject AI-generated items to trained human expert review, including a technical review and difficulty refinement](human-expert-review-of-ai-mcqs.md)
 - [Pilot AI-generated items as unscored exam items, review their psychometrics, and bank those meeting quality standards](pilot-and-bank-ai-generated-items.md)
 - [Use detailed, comprehensive system prompts and patient-like prompt language to optimize LLM virtual patient performance](detailed-system-prompts-optimize-llm-virtual-patients.md)
+- [Use an iteratively crafted system prompt requiring one correct answer, three plausible distractors, no giveaway clues, parallel options, and mixed cognitive levels](llm-mcq-generation-prompt-template.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The article introduces AI concepts to young children who are still learning to r
 - [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 - [Analogies](analogies.md)
 - [Introduce LLM concepts through hands-on Python activities that progress from simple examples to increasing complexity with physics-related tasks](hands-on-python-llm-introduction-strategy.md)
+- [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
 
 ## Examples
 -

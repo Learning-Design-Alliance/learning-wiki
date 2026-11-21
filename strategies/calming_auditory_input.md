@@ -64,6 +64,7 @@ Auditory noise — especially unpredictable, intermittent speech-like noise — 
 - [Sensory Breaks](sensory-breaks.md) — a more intensive withdrawal option when environmental modification is insufficient
 - [Predictable Routines](predictable-routines.md) — predictability reduces the threat value of unavoidable noise
 - [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
+- [Replace time-consuming searching for ambient study aids with AI-generated personalized audio and visuals](ai-generated-personalized-study-aids-strategy.md)
 
 ## Examples
 - **Head Start / early childhood classrooms** — visual "noise-o-meter" charts and a quiet-voice signal during transitions, with a fan or rain recording during rest and independent play.

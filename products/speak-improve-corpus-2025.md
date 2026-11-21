@@ -20,6 +20,7 @@ A publicly released corpus of approximately 315 hours of CEFR A2–C1 L2 English
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Speak & Improve (S&I) Corpus: first publicly available speech dataset with grammar error annotations**: The Speak & Improve (S&I) Corpus 2025 is a publicly available dataset of L2 learner speech collected via the S&I version 1 platform between 2019 and 2024. The article describes it as "the first publicly available speech dataset with grammar error annotations", providing "diverse learner audio recordings, manual transcriptions, disfluency annotations, grammatically corrected transcripts, and associated CEFR proficiency scores from A2 to C". It is created to support research in spoken language assessment and feedback; in this work the Dev set (20.8 hours) serves as primary out-of-domain evaluation and the Eval set supports future benchmarking. (Mengjie Qian et al. (2025))
 
 ### Claims
 
@@ -35,3 +36,4 @@ A publicly released corpus of approximately 315 hours of CEFR A2–C1 L2 English
 
 ## Key Sources
 - Kate Knill, Diane Nicholls, Mark J.F. Gales, Mengjie Qian, Pawel Stroinski. (2024). Speak & Improve Corpus 2025: an L2 English Speech Corpus for Language Assessment and Feedback. https://arxiv.org/abs/2412.11986
+- Mengjie Qian, Rao Ma, Stefano Bannò, Mark J.F. Gales, Kate M. Knill. (2025). End-to-End Spoken Grammatical Error Correction. arXiv. https://arxiv.org/abs/2506.18532

@@ -86,3 +86,4 @@ Score-distribution comparison of pre- and post-instruction totals plotted in Fig
 - [Fall 2016 students outperformed spring 2017 students on three pre-test items, but the difference disappeared by the post-test](fall-2016-pretest-advantage-disappeared-post-test.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
 - [Post-test percentage correct ranged from 63% to 89% on every item, up from widely varying pre-test scores of 8% to 60%](interferometry-test-item-difficulty-63-89-post.md) — related
+- [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related

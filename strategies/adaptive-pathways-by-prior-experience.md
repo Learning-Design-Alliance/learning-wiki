@@ -56,6 +56,7 @@ Based on the finding that novices gained more knowledge while experienced learne
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Provide separate training programmes tailored to different provider groups to improve refresher attendance and performance](provider-role-tailored-separate-training.md)
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
+- [Adapt GPP scaffolding intensity to individual student proficiency](adaptive-gpp-scaffolding-strategy.md)
 
 ## Examples
 -

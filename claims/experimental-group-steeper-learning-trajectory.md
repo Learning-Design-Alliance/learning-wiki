@@ -67,3 +67,4 @@ Baseline assessment at week 0 using a standardized grade 6 excerpt test showed c
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [ITS feedback availability interacted with task number so that experimental-group students increasingly outperformed controls in solving tasks over time](its-feedback-task-solving-interaction-over-time.md) — related
 - [A Triple Helix-guided big data analytics platform improved teaching implementation, student engagement, and technology integration among normal university students over 16 weeks](big-data-platform-teaching-ability-gains.md) — related
+- [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related

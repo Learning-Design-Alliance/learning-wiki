@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: ugwuanyi-2025
+  - id: ugwuanyi-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28505"
-    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)"
+    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2026). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 Originally published 2025. [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)"
     author: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E."
     q: 1
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q1 i?` A doctoral researcher's AI-free manuscript received an unbelievably high AI-detection score when run through an AI text detector before submission. [→ Ugwuanyi 2025](#ugwuanyi-2025)
+`q1 i?` A doctoral researcher's AI-free manuscript received an unbelievably high AI-detection score when run through an AI text detector before submission. [→ Ugwuanyi 2026](#ugwuanyi-2026)
 
 ## Evidence
 
-### Ugwuanyi 2025
+### Ugwuanyi 2026
 
-Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)
+Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2026). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 Originally published 2025. [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -60,3 +60,4 @@ A single anecdotal test reported in the dialogue: a paper written without AI was
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
 - [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — related
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
+- [Immediate per-trial feedback improves accuracy in distinguishing human-written from AI-generated texts](feedback-improves-ai-text-detection-accuracy.md) — related

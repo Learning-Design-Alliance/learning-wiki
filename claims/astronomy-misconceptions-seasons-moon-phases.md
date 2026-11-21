@@ -74,3 +74,4 @@ Moon-phase cause question answered by students; the correct proposal (Moon orbit
 - [Pre-service primary teachers largely relate seasons to the Sun's height, but about a third misplace the zenith Sun in Rome](pre-service-teachers-misconceptions-seasons-zenith.md) — related
 - [Roughly a third of school students in synchronous online sessions show misconceptions about seasons, polar day/night, and the zenith position of the Sun](school-students-astronomy-misconceptions-online-sessions.md) — related
 - [Around 10 percent of surveyed school students in grades 1 to 10 believed the Apollo Moon landings were a hoax](ten-percent-students-believe-moon-landing-hoax.md) — related
+- [Only 26% of Boyacá secondary students correctly link Earth's translation to the seasons and the months of solstices and equinoxes in the southern hemisphere](boyaca-students-seasons-solstices-26-percent-correct.md) — related

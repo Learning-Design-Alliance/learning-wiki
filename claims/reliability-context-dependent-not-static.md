@@ -52,3 +52,4 @@ Theoretical exposition in the article's reliability section, framed via generali
 - [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — a broader claim this one bears on
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — related
 - [Generalizability decision study: one occasion of ISF-VSAQ requires about 25 items for acceptable reliability (Phi = 0.72), while two occasions with ten items suffice (Phi = 0.71)](gtheory-vsaq-items-occasions-dstudy.md) — a narrower finding that bears on this claim
+- [Early stop is markedly less reliable than other session-level measures, limiting its standalone utility](early-stop-low-reliability.md) — a narrower finding that bears on this claim

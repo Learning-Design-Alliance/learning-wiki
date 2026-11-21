@@ -55,3 +55,4 @@ Correlational analysis across the seven evaluated LLM simulators, averaged over 
 - [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related
 - [Knowledge, Skills, and Attitude scores are largely independent across frontier LLMs, with Knowledge–Skills correlation r=−0.51 and Knowledge–Attitude r=−0.63](ksa-dimensions-weakly-negative-correlated-llms.md) — related
+- [Sycophantic LLM behavior may undermine educational equity by accelerating learning for knowledgeable students while reinforcing misconceptions for less knowledgeable ones](llm-sycophancy-educational-equity-risk.md) — related

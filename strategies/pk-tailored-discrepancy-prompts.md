@@ -57,6 +57,7 @@ The authors recommend adaptive systems incorporate discrepancy prompts tailored 
 - [Adapt worked-example sessions for high and low prior-knowledge students who did not benefit](adapt-worked-examples-for-high-low-prior-knowledge.md)
 - [Use selective instructional supports (examples, prompts) combined with adaptive instructional support as alternatives to reflection phases for low-expertise learners in simulation-based learning](selective-adaptive-support-alternatives-low-expertise-simulation.md)
 - [Incorporate reflection mechanisms into LLM tutors to make them engaging and support metacognition](incorporate-reflection-into-llm-tutors.md)
+- [Adapt GPP scaffolding intensity to individual student proficiency](adaptive-gpp-scaffolding-strategy.md)
 
 ## Examples
 -

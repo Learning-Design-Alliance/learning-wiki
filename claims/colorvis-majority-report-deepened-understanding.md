@@ -49,3 +49,4 @@ An informal survey of the visual computing course in which the color science mod
 - [Course final projects and co-design of additional tutorials provide further evidence of the tutorials' positive impact on student engagement](tutorials-final-projects-codesign-evidence.md) — related
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
 - [Majorities of surveyed students reported that interacting with ChatGPT deepened their understanding of physics concepts and were satisfied with its adaptation to their knowledge level](students-report-deepened-understanding-chatgpt.md) — related
+- [Majorities of surveyed students reported the virtual laboratory deepened their understanding of the lectures, with satisfaction rates of 50%, 85.71%, and 81.25% across three semesters](qlab-understanding-satisfaction-rates.md) — related

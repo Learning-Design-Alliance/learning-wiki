@@ -50,3 +50,4 @@ Narrative review enumerating challenges in its curriculum-integration section. T
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
+- [Availability of QISE faculty expertise varies sharply across institutions, shaping what curricula programs can offer](qise-faculty-expertise-inequity.md) — a narrower finding that bears on this claim

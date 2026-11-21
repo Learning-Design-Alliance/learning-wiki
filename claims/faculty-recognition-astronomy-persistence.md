@@ -53,3 +53,4 @@ Qualitative finding: participant Luis, despite struggling in coursework, gained 
 - [Introducing peer mentors during career transition periods increases belonging, self-efficacy, and long-term retention](peer-mentors-transition-retention.md) — related
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](recognition-boosts-belonging-self-efficacy-women-physics.md) — related
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related

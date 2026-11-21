@@ -69,3 +69,4 @@ Wilcoxon rank sum test comparing 14 heroes to 1885 casual users on physics inter
 - [Process mining of MOOC event logs reveals that users who fail or drop out exhibit distinct patterns of intra-session and extra-session procrastination compared to users who pass.](process-mining-reveals-procrastination-patterns-linked-to-mooc-failure.md) — related
 - [Users who stay and finish the MOOC utilize the course material better than those who do not, suggesting interest in learning from the material is a contributing factor for completion.](course-completers-utilize-material-better.md) — related
 - [Quantum Port was prototyped and featured at three public engagement events](quantum-port-three-engagement-events.md) — related
+- [Voluntary participation suffered attrition: of 15 initial volunteers, only 5 students remained to perform the entire play.](voluntary-participation-attrition-15-to-5.md) — related

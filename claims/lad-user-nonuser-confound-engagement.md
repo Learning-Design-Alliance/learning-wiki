@@ -48,3 +48,4 @@ Review-level critique of studies reporting medium achievement effects via user/n
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](lad-achievement-effects-confounded.md) — related
 - [LAD impact on motivation and attitudes is generally modest, with only a few exceptions demonstrating significant effects](lad-modest-motivation-attitude-impact.md) — related
 - [LADs show a relatively substantial impact on student participation, with several studies reporting medium to large effect sizes](lad-substantial-participation-impact.md) — related
+- [Explainable three-layer LAD and visual-only LAD produced no significant difference in co-authored abstract quality](explainable-lad-no-abstract-quality-difference.md) — related

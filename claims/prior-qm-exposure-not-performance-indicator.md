@@ -50,3 +50,4 @@ Follow-up interview with David, a physics-department instructor at a public R1 i
 - [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related
 - [Some instructors recall struggling to make conceptual sense of QM as undergraduates despite being facile at calculations and getting good grades](qm-instructors-own-learning-struggles.md) — related
 - [Prerequisites for introductory QIS courses vary substantially, with linear algebra the most common requirement (21 of 28 courses) while most courses require no CS or physics prerequisite](qis-prerequisite-variation.md) — related
+- [Designing QISE courses for students with varied STEM backgrounds is a recognized curriculum weakness](qise-courses-varied-stem-backgrounds.md) — related

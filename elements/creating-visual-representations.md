@@ -13,7 +13,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 7 studies (3 causal, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 8 studies (4 causal, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 2 of 8 report an effect size · 10 claims rest on one study
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
@@ -34,6 +34,8 @@ Creating visual representations is the element in which learners externalize und
 - [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](../claims/high-school-math-sufficient-quantum-information-fundamentals.md) [+W] — attached 2026-11-19 from Sophia E. Economou et al. (2022), which proposed "Pictorial 'mist' notation with distinct shapes per qubit for teaching quantum states and gates".
 - [Color-coding linking equations with diagrams (Scheme 2) was the most favorably received scheme, and Scheme 1 (equations and definitions) was also favored over Scheme 3 (2D components)](../claims/scheme2-equations-diagrams-most-favored.md) [+W] — attached 2026-11-20 from Brianna S. Dillon Thomas et al. (2021), which proposed "Three color-coding schemes for slide-based introductory mechanics instruction".
 - [A modest but consistent minority of students (about 16%) spontaneously described the color-coding schemes as helpful, and about 27% found color in physics contexts helpful without describing color-coding](../claims/minority-describe-color-coding-helpful.md) [+W] — attached 2026-11-20 from Brianna S. Dillon Thomas et al. (2021), which proposed "Three color-coding schemes for slide-based introductory mechanics instruction".
+- [Adding the DCN visualization to Dirac Notation increases accuracy on Hadamard-gate problems in multi-qubit systems for participants with little quantum physics experience](../claims/dcn-visualization-increases-hadamard-accuracy.md) [+W] — attached 2026-11-21 from Bley et al. (2025), which proposed "Dimensional Circle Notation (DCN) visualization for multi-qubit states and quantum gate operations".
+- [DCN visualization reduces perceived intrinsic and extraneous cognitive load during Hadamard-gate task solving](../claims/dcn-reduces-intrinsic-extraneous-load.md) [+M] — attached 2026-11-21 from Bley et al. (2025), which proposed "Dimensional Circle Notation (DCN) visualization for multi-qubit states and quantum gate operations".
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

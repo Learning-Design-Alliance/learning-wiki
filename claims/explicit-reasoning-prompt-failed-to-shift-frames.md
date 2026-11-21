@@ -49,3 +49,4 @@ Analysis of nine students attempting the Gravitron problem, which asked for reas
 - [Interviewer intervention targeting epistemic form can shift a student's epistemological frame](intervention-shifts-epistemic-form-and-frame.md) — related
 - [An instructor's question about the electric field's direction coincided with the student's framing shifting from Algorithmic Physics to Conceptual Physics](instructor-question-tips-framing-ap-to-cp.md) — related
 - [Assessment features, such as not providing numbers, can shift a student's epistemic form and thereby shift their epistemological frame](assessment-features-shift-resource-and-frame.md) — related
+- [Even students with all prerequisite knowledge often did not use the equations, and most who attempted them made mistakes](prerequisite-knowledge-insufficient-equation-use.md) — related

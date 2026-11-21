@@ -56,3 +56,4 @@ Cross-sectional online survey of 421 participants with ITD experience; multiple 
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
 - [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
+- [Astronomy can act as a gateway to other STEM disciplines, with recent K-12 multinational evidence supporting the gateway role](astronomy-gateway-to-stem-disciplines.md) — related

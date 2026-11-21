@@ -44,6 +44,7 @@ The authors outline future iterations of the instructional assistant: interactiv
 - [Iterate real-time tutor feedback based on user questionnaires: add explanations, positive feedback, session summaries and pause warnings](cpr-tutor-questionnaire-driven-feature-improvements.md)
 - [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
 - [Replace Wizard of Oz facilitation with generative AI chatbots and automated AI-driven assessment in future simulator iterations](generative-ai-replacement-for-woz-simulation-strategy.md)
+- [Refine AI multimodal feedback by enhancing explanation clarity, building trust mechanisms, adding adaptive scaffolding, and extending feedback channels](refine-ai-multimodal-feedback-clarity-trust-scaffolding.md)
 
 ## Examples
 -

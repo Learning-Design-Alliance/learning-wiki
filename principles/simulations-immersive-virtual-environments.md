@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 571 claims (366 for, 180 mixed, 25 against) · 367 studies (164 causal, 81 review, 42 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 367 report an effect size · 566 claims rest on one study
+> **Evidence** · 573 claims (367 for, 181 mixed, 25 against) · 368 studies (165 causal, 81 review, 42 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 368 report an effect size · 568 claims rest on one study
 
 ## Conditional relationship
 
@@ -569,6 +569,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [First-year engineering students who used the virtual exam-simulation platform passed the first exam at a higher rate (40%) than non-users (12%)](../claims/arco-platform-users-higher-first-exam-passing.md) [+W] — attached 2026-11-17 from Analysis of the benefits of designing et al. (2010), which proposed "Exam-simulation practice pattern combining timed mock tests with post-hoc problem-solving heuristic feedback"; tests this page's relationship.
 - [Most students reacted positively to the VR experience and felt it contributed to their learning](../claims/vr-positive-student-reactions.md) [+W] — attached 2026-11-18 from Philip Blanco et al. (2019), which proposed "Buddy-system pairing for VR activities: one student in the headset, one observing and reading instructions, with rotation".
 - [Interactive electrophilic aromatic substitution lets students directly witness the stereoelectronic effect of directing groups through reaction energies](../claims/eas-directing-group-energies-interactive.md) [+W] — attached 2026-11-19 from Thomas Weymuth et al. (2020), which proposed "Use embodied, haptic manipulation of a physically faithful simulated chemical system to make abstract molecular concepts intuitive".
+- [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](../claims/iv-greater-learning-effect-than-flyover-video.md) [+W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy"; tests this page's relationship.
+- [The interactive visualization's advantage was significant for femoral stem insertion (task 3) but minimal for acetabular cup insertion (task 2)](../claims/task3-significant-iv-advantage-task2-minimal.md) [~W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy".
 
 ## Objective and learner-valued goal
 

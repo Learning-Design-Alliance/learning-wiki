@@ -97,3 +97,5 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related
 - [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — related
 - [Barriers to blended learning uptake include educator unfamiliarity, material-creation effort and costs, and concerns about student completion](blended-learning-uptake-barriers-educators-costs-completion.md) — related
+- [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related
+- [Resistance to digital innovation is particularly evident in institutions with rigid administrative structures where innovation is perceived as an added burden](rigid-administrative-structures-resistance-digital.md) — related

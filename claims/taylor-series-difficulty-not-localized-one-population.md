@@ -51,3 +51,4 @@ Instructor report from a Year 2 implementation of the Boltzmann Factor tutorial 
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Clinically interviewed students recognize the Taylor series as a relevant physics tool but lack criteria for when to use it and how many terms to keep](students-lack-truncation-criteria-taylor-series.md) — related
 - [After standard instruction, non-major physics undergraduate students encounter difficulties across all thematic units of the Theory of Relativity](relativity-difficulties-after-standard-instruction.md) — related
+- [An initial low-stakes calculus 2 pilot of Taylor series kinematics produced positive student response](calculus2-pilot-positive-student-response.md) — related

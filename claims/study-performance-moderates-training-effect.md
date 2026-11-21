@@ -75,3 +75,4 @@ Simple-slopes analysis of the moderation. At 1 SD above-mean performance (better
 - [Pretest word identification efficiency (SWE) and vocabulary knowledge did not moderate the intervention's effects on reading comprehension](swe-vocabulary-no-moderation.md) — related
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
 - [The effect of drama-based teaching on concept understanding did not interact with students' achievement level, benefiting high, average, and low achievers alike](drama-concept-gains-no-achievement-interaction.md) — related
+- [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](gpp-prior-knowledge-moderation.md) — related

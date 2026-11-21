@@ -49,6 +49,7 @@ Because relatively few universities operate accelerator research facilities, the
 - [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
 - [Sustain laboratory practice under wartime online teaching by routing students to operating labs at partner institutions](wartime-online-teaching-partner-labs-strategy.md)
 - [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
+- [Prioritize non-coursework, skill-based experiences such as summer internships in quantum workforce development](prioritize-skill-based-internships-quantum-workforce.md)
 
 ## Examples
 -

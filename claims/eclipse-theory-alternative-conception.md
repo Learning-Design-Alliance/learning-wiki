@@ -70,3 +70,4 @@ The authors cite prior studies (Baxter 1989; Schoon 1992; Iachel, Langhi e Scalv
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
 - [Only 7% of Indian grade 9 students identify all five lunar-phase images correctly, with intermediate phases showing widespread shape confusion](india-grade9-lunar-phase-recognition-low.md) — related
+- [67% of Boyacá secondary students correctly identify the lunar phases, the strongest-performing astronomy topic assessed](boyaca-students-lunar-phases-67-percent-correct.md) — related

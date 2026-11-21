@@ -49,3 +49,4 @@ RQ2 analysis of the same controlled experiment's log traces (21 students) measur
 - [Notebook grades (correctness) do not differ significantly between MOON and control groups, though descriptively higher with MOON](moon-correctness-no-significant-difference.md) — related
 - [MOON visual assistance increases students' compliance with an educational notebook's intended execution scenario](moon-increases-notebook-scenario-compliance.md) — related
 - [Most surveyed students perceived MOON as useful and reported it helped them follow the execution order](moon-user-study-perceived-usefulness.md) — related
+- [Ancillary boilerplate code in notebooks dilutes students' focus and repetitive rerun actions hinder learning in computational experiments](boilerplate-code-dilutes-student-focus.md) — related

@@ -44,6 +44,7 @@ The article describes a lightweight classroom workflow: an instructor publishes 
 ## Related Strategies
 
 - [Export structured evaluation sessions (JSON and CSV) for downstream NLP dataset construction](structured-session-export-for-nlp-datasets.md)
+- [Incorporate student-requested debugging curriculum elements: hypothesis generation training, guided debugging tasks, and a systematic debugging process](student-requested-debugging-curriculum-elements.md)
 
 ## Examples
 -

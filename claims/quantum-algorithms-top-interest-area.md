@@ -47,3 +47,4 @@ Descriptive ranking of participants' self-reported areas of interest in the surv
 ## Related Claims
 - [Quantum cryptography is proposed as a very suitable introductory subject for teaching the fundamental principles of quantum physics](quantum-cryptography-introductory-subject.md) — related
 - [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related
+- [Workshop participants identified use cases, algorithms and IT security as the quantum topics of greatest interest, but most did not yet consider them relevant to daily practice](quantum-workshop-topics-of-interest.md) — related

@@ -51,3 +51,4 @@ Authors' reflection on shortcomings observed during the ADR-guided development a
 - [Stakeholder and literature analysis yields seven IDSA requirement groups covering functionalities, contact options, data-based individuality, testing, marketing, data protection, and usability](seven-idsa-requirement-groups-stakeholder-analysis.md) — related
 - [Most field-test students elected introductory tutorial information, supporting the tutorial requirement for usability](idsa-tutorial-uptake-supports-usability-requirement.md) — related
 - [LMS and firewall restrictions prevent academic integrity content from being available to students before the first day of classes](lms-firewall-barriers-prearrival-ai-content.md) — related
+- [Consolidating tools into Nearpod improved coherence, with teachers valuing no-registration access and reduced skipped content despite media-integration and data-export limits](nearpod-unified-platform-teacher-valued.md) — related

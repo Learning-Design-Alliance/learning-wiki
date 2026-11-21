@@ -50,3 +50,4 @@ Held-out test evaluation of the multi-label classification models on 60 response
 - [Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82](bert-outperforms-ffnn-lstm-reflective-writing-classification.md) — related
 - [Fine-tuning several pre-trained LLMs with class balancing, data augmentation, and tailored input modification reaches near human-level automated scoring accuracy on most extended-response mathematics assessment items](fine-tuned-llms-near-human-math-scoring.md) — related
 - [Classification performance varies across the seven sensemaking domains, and no AUROC could be reported for the properties domain because its positive examples were too rare](per-domain-auroc-varies-properties-undefined.md) — related
+- [The fine-tuned model generalized to out-of-domain lessons with 77% overall accuracy](fine-tuned-model-out-of-domain-77.md) — related

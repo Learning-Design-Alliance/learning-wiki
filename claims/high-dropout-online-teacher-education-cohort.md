@@ -48,3 +48,4 @@ Institutional records from the LV programme. The authors report "between 2010 an
 ## Related Claims
 - [Obtaining a teaching degree and accessibility in time and place were the main factors motivating trainees to enrol in an online language teacher education programme](degree-and-accessibility-drive-enrolment-online-teacher-education.md) — related
 - [Experienced financial scarcity, but not perceived family wealth, predicts school dropout among tertiary vocational students](financial-scarcity-predicts-vocational-dropout.md) — related
+- [Student dropouts, rather than lack of effort, are the dominant weak-link problem in the QEL's team structure](qel-weak-links-dropout-challenge.md) — related

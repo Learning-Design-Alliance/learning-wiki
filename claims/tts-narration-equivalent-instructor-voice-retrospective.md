@@ -49,3 +49,4 @@ Within-subject retrospective comparison in the Experiment 2 questionnaire (N≤1
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
 - [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](triangulated-assessment-writing-processes-adults.md) — related
+- [Educational multilingual TTS achieves MOS above 3.50 and recognition accuracy exceeding 90% for Malay and Tamil](singakids-multilingual-tts-evaluation.md) — related

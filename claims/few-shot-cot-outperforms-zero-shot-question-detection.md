@@ -56,3 +56,5 @@ Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot C
 - [Choice of prompting technique (Zero Shot, In Context Learning, Confirmatory Check) shows no statistically significant effect on LLM Physics question performance at any academic level](prompting-technique-no-significant-effect-physics-questions.md) — related
 - [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — related
 - [GPT-4o and GPT-4-turbo assessed tutors' open-ended equity responses proficiently, with few-shot prompting outperforming zero-shot](llm-few-shot-outperforms-zero-shot-equity-assessment.md) — related
+- [On Google's Natural Questions long-answer test, Prompt-CoTBase attains a higher F1 score than GPT-4o and BERT](prompt-cotbase-higher-f1-natural-questions.md) — related
+- [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — a broader claim this one bears on

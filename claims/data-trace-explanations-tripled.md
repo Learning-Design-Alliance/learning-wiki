@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-21
 evidence_strength: moderate
+source_checked: 2026-11-21
 sources:
   - id: henriikka-vartiainen-2025
     resource: "https://doi.org/10.48550/arXiv.2501.16494"
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The proportion of responses coded in the deepest category for the data-traces question rose from 9.8% at pre-test to 30.9% at post-test. [→ Henriikka Vartiainen 2025](#henriikka-vartiainen-2025)

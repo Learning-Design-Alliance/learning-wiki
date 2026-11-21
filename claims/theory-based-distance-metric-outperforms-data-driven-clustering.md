@@ -44,3 +44,4 @@ Comparison of three distance-metric strategies for hierarchical agglomerative cl
 
 ## Related Claims
 - [Data-driven and hybrid trace clustering failed to separate study from no-study traces and normal from short attempts in a restrictive system](data-driven-clustering-fails-restrictive-systems.md) — possibly the same claim (merge candidate)
+- [A hybrid K-Means/HDBSCAN clustering method outperforms K-Means and HDBSCAN alone on silhouette score and Davies-Bouldin Index for physics strategy essays](hybrid-clustering-outperforms-kmeans-hdbscan-essays.md) — related

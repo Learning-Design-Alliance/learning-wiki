@@ -50,6 +50,7 @@ As a forward-looking design recommendation, the authors propose that future blen
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Provide online video simulations of practical skills with supporting text as an addition to usual face-to-face teaching](online-video-simulations-plus-supporting-text-strategy.md)
+- [Enhance virtual laboratory platforms with live experiment videos, mobile-friendly versions, and adaptive learning pathways](openphys-future-development-strategies.md)
 
 ## Examples
 -

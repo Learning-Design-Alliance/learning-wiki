@@ -57,3 +57,4 @@ Per-criterion scoring of the 8 debugging questions in Trial 2 (Table 2), judged 
 - [GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)](gpt-hints-moderately-accessible-readability.md) — related
 - [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related
 - [Excluding zero-scoring answers, AI averages rise to 65.6% (GPT-4) and 56.7% (GPT-3.5), suggesting a use case for AI-provided hints](ai-hint-use-case-excluding-zero-scores.md) — related
+- [Multiple hint iterations improve student gains, with a second hint often contributing meaningfully, though gains vary sharply by language](multiple-hints-improve-gains-language-dependent.md) — related

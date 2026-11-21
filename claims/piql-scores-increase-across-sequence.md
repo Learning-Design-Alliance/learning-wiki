@@ -48,3 +48,4 @@ Descriptive comparison of PIQL pretest means across three non-matched class snap
 - [As students progress through the introductory sequence, PIQL response modules become less coherent rather than more expert-like](modules-less-coherent-with-progression.md) — related
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — a narrower finding that bears on this claim
 - [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related
+- [Physics quantitative literacy does not significantly improve through traditional algebra-based physics instruction alone](pql-no-gain-traditional-instruction.md) — related

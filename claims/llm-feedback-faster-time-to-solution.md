@@ -55,3 +55,4 @@ Observational analysis of assignment–user pairs from an online introductory We
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — related
 - [Student-voted Good feedback was associated with far fewer attempts and shorter solution times than Poor feedback, and thematic analysis identified outdated references and false positives as common failure modes](student-voted-poor-feedback-failure-modes.md) — related
 - [Compiler errors accounted for over half of diagnosis interactions in the log analysis](ask-elle-compiler-errors-majority-of-interactions.md)
+- [Receiving LLM feedback did not significantly increase lesson completion time](llm-feedback-no-completion-time-cost.md) — reports the opposite

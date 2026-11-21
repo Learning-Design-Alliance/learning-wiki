@@ -49,3 +49,4 @@ Keyword search of course titles and descriptions for lab-related stems followed 
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [U.S. institutions offer 8,456 courses mentioning quantum, mostly in physics and chemistry, and 529 dedicated QISE courses](8456-quantum-courses-529-qise.md) — related
 - [QISE programs are heavily concentrated at PhD-granting institutions, which are 25% of the sample but 89% of program-offering institutions](qise-programs-concentrated-phd-granting.md) — related
+- [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — a broader claim this one bears on

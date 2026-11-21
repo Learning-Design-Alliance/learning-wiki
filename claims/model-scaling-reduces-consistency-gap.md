@@ -50,3 +50,4 @@ Scaling analysis of the Qwen2.5 family (3B, 7B, 14B, 32B deployed locally via Ol
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) — related
 - [Observed case pass rates closely align with expected case pass rates computed under question independence](observed-cpr-matches-expected-independence-benchmark.md) — related
+- [Smaller LLMs more often used undefined symbols, missed equations, and hallucinated equations; a 14B parameter model (Phi4) achieved only about 70% accuracy on the task](small-llms-undefined-symbols-phi4-70-percent.md) — related

@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (166 show a difference, 31 mixed, 14 no difference) · 182 studies (68 causal, 30 review, 28 qualitative, 20 design, 17 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 17 of 182 report an effect size · 211 claims rest on one study
+> **Evidence** · 212 claims (167 show a difference, 31 mixed, 14 no difference) · 183 studies (69 causal, 30 review, 28 qualitative, 20 design, 17 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 17 of 183 report an effect size · 212 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -253,6 +253,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Second-semester exercises showed satisfactory retention: 83% of group work was rated good or excellent and none unsatisfying](../claims/second-semester-python-skill-retention.md) [+M] — measured as an outcome of the instruction studied
 - [Mandatory in-class group work improves students' respect, honesty and fairness toward assignment guidelines and class ethics compared with individual homework](../claims/group-work-improves-respect-for-assignment-guidelines.md) [+M] — measured as an outcome of the instruction studied
 - [Student surveys report regular group attendance, effective role rotation for a majority, and that group work helped most students follow class ethics and JEDI ground rules](../claims/group-work-survey-attendance-roles-jedi.md) [+M] — measured as an outcome of the instruction studied
+- [Students completing the asynchronous online collaborative exam found it easy to share and collaborate on both multiple-choice and long-answer questions](../claims/online-collab-ease-mc-long-answer.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -71,6 +71,7 @@ The program's professional development model combines an initial workshop with o
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 - [Distribute educational kits with in-service teacher training through local institutions](kit-distribution-with-in-service-training.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

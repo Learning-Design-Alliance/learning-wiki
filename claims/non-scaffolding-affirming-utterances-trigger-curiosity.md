@@ -56,3 +56,4 @@ The exploratory third-grade DAG found "non-scaffolding utterances (T:NS1) seemed
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](curiosity-resolution-cycle-individual-interest.md) — related
 - [Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution](non-explicit-teacher-interventions-encourage-self-awareness.md) — related
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](student-question-triggers-dialogic-network.md) — related
+- [High-performing students receive more feedback and explanations; low-performing students receive more hints and social-emotional support](singakids-dynamic-scaffolding-user-study.md) — related

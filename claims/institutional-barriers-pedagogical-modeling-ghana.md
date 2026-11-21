@@ -90,3 +90,4 @@ Section 6.4 narrative account, citing prior work, of Ghanaian programs that are 
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
 - [The author identifies five barriers to teaching climate change: knowledge pollution, inter/transdisciplinarity, psychological barriers, onto-epistemological barriers, and faculty/institutional barriers](five-barriers-climate-pedagogy.md) — related
 - [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — a narrower finding that bears on this claim
+- [Resistance to digital innovation is particularly evident in institutions with rigid administrative structures where innovation is perceived as an added burden](rigid-administrative-structures-resistance-digital.md) — related

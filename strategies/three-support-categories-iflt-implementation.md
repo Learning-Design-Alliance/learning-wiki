@@ -49,7 +49,8 @@ Based on convergent questionnaire and interview findings, the article concludes 
 - [Teachers judge English materials on the target culture and intercultural communication most helpful and general culture materials least helpful for IFLT](../claims/target-culture-materials-rated-most-helpful.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide teacher-centered implementation support: training, clear student instructions, and inclusive materials](teacher-centered-implementation-support-strategy.md)
 
 ## Examples
 -

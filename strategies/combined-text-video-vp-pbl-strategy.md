@@ -48,7 +48,8 @@ The article concludes that "a combination approach may be a superior one within 
 - [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](../claims/vp-pbl-video-suited-procedures-perception.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate text-based GenAI into science curricula while reserving visual and video GenAI for creative, exploratory contexts](modality-matched-genai-integration-strategy.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [AR movement-sensing software enhanced physics learners' learning attitude and learning result in magnetic field instruction](ar-magnetic-field-learning-attitude-result.md) — related
 - [The article reports that prior studies have demonstrated specific ways to enact culturally relevant pedagogy in teaching physics at the K-12 level, which increased students' interest and improved their attitude toward physics](crp-k12-physics-interest-attitude.md) — related
 - [Role-playing a human synchrotron introduced acceleration concepts through learners embodying cavities and magnets](human-synchrotron-roleplay.md) — a narrower finding that bears on this claim
+- [Improvisation led student-actors to engage intellectually, physically and intuitively with the play's theme and was essential for performing the scenes correctly.](improvisation-intellectual-physical-engagement.md) — related

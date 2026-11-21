@@ -77,3 +77,4 @@ Same pre-registered OLS analysis applied to pair accuracy, a stricter post hoc m
 - [Graduate graders can distinguish LLM-generated assessment responses from student responses with accuracy better than random guessing, and experience with generative AI improves detection accuracy](graders-detect-llm-responses-neuroscience.md) — related
 - [Before instruction, most prospective teachers believed long consecutive runs of heads or tails were impossible and failed to distinguish real from fake coin-flip data](pretest-consecutive-run-misconceptions.md) — related
 - [Training shifted novices' response bias toward saying 'at risk' without improving sensitivity](training-shifts-bias-not-sensitivity.md) — related
+- [Without feedback, participants rely on stereotyped stylistic assumptions about AI texts (static, prepared, cohesive, polythematic); feedback weakens these cues](stylistic-stereotype-cues-no-feedback.md) — related

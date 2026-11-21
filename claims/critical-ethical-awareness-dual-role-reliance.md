@@ -73,3 +73,4 @@ Hierarchical regression predicting GenAI shortcut reliance (N = 819; R2 = .078),
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
 - [Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students](skill-based-ai-literacy-positively-predicts-ai-dependency.md) — related
 - [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](students-recognise-genai-benefits-and-limitations.md) — related
+- [Underreliance is negatively correlated with programming literacy, need for cognition, and programming self-efficacy](underreliance-negative-literacy-nfc-efficacy.md) — related

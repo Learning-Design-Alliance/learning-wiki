@@ -93,3 +93,5 @@ The article's conclusion about subset A, a list of hardware and engineering skil
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
 - [A reported study found all three surveyed high school physics teachers struggled to enthuse their students about quantum physics](teachers-struggled-to-enthuse-students-quantum.md) — related
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
+- [Educators see industry-driven curriculum revisions as a major opportunity for QISE course development](industry-driven-qise-curriculum-revisions.md) — related
+- [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related

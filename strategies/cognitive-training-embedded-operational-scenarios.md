@@ -39,6 +39,7 @@ The review recommends shifting cognitive training from isolated drills toward co
 ## Related Strategies
 
 - [Stress inoculation training for crews operating without external support](stress-inoculation-training-spaceflight-crews.md)
+- [Use immersive standardized VR training modules to prepare astronauts for rapid molecular diagnostics in space](vr-astronaut-dna-diagnostic-training-strategy.md)
 
 ## Examples
 -

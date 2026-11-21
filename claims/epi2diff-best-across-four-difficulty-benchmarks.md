@@ -59,3 +59,5 @@ Benchmark evaluation on four educational datasets (SAT Math, SAT Reading & Writi
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Fine-grained per-question simulation of post-test performance outperforms whole-question-set simulation, with pre-test information and engagement improving realism](fine-grained-question-simulation-outperforms-coarse.md) — related
 - [Adding a prompt to fine-tuned LLaMA yields performance similar to unprompted fine-tuned LLaMA](prompted-llama-similar-to-unprompted.md) — related
+- [Student simulation is key for item difficulty prediction in low-resource settings with few training items](simulation-key-few-training-items.md) — related
+- [SMART outperforms direct item difficulty prediction methods on both datasets, largely maintaining the advantage with a 1B base LLM](smart-outperforms-direct-difficulty-prediction.md) — related

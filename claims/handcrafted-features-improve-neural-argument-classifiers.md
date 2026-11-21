@@ -51,3 +51,4 @@ Cross-validation comparison of neural network models with and without wLDA and o
 - [Retraining a logistic regression classifier on classroom discussions with wLDA features plus online dialogue features achieves the best kappa overall](wlda-plus-online-dialogue-features-best-kappa.md) — related
 - [A pre-trained essay argument mining system (wLDA) performs poorly when applied off-the-shelf to classroom discussions, performing comparably to a majority baseline](pretrained-essay-argument-miner-poor-on-classroom-discussions.md) — related
 - [Attention-based neural classifiers outperformed vanilla neural models on Bloom's taxonomy question classification](attention-models-beat-vanilla-neural-baselines.md) — related
+- [Attention-based encoders outperform LSTM-based encoders for multimodal discourse assessment in overall and component-level performance except Nature of Discourse](attention-encoders-outperform-lstm-discourse-assessment.md) — related

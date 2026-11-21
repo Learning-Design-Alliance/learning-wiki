@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-21
 sources:
   - id: callie-rethman-2021
     resource: "https://doi.org/10.1103/physrevphyseducres.17.020110"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` External recognition was particularly impactful for female students' physics identity, whereas male students spoke more often about internal self-perception. [→ Callie Rethman 2021](#callie-rethman-2021)
@@ -57,3 +58,5 @@ Qualitative interview analysis; the article states the framework did not seek to
 - [Female facilitators self-reported positive impacts on interest and motivation (all), and on confidence and self-efficacy, internal and external recognition, and performance and competency beliefs (majority)](outreach-positive-identity-impacts-female-facilitators.md) — related
 - [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
 - [Formal leadership experiences help women in physics feel more confident and recognize themselves as physics people](leadership-experiences-confidence-physics-recognition.md) — related
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related
+- [The growth mindset code appearing on the network map (outreach-to-discipline directionality) suggests students facilitating outreach are more likely to develop a growth mindset](outreach-growth-mindset-directionality.md) — related

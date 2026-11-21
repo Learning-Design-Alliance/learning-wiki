@@ -50,3 +50,4 @@ Review of dates and times of independent asynchronous learning by the 21 nurses 
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
 - [Preference for accessing the repository during business hours declines with year level, with later-year placement students accessing resources outside business hours more often](after-hours-access-increases-with-year-level.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

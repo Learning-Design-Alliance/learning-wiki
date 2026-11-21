@@ -69,3 +69,4 @@ The same section reports the split in how students acted on their values: seven 
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
 - [Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks](ai-reflection-demands-effort-counters-outsourcing.md) — related
+- [Students shift from viewing AI as a shortcut toward viewing it as a learning tool whose value depends on how it is used](ai-shortcut-to-learning-tool-shift.md) — related

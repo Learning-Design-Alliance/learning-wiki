@@ -46,6 +46,7 @@ Based on user feedback and the literature, the authors recommend enhancing reali
 ## Related Strategies
 
 - [Design virtual simulations with ease-of-use features, haptic technology, moderate immersion, and postscenario feedback](vs-design-features-strategy.md)
+- [Prioritize exaggerated, easy-to-read avatar emotional expressions over lifelike realism in communication-training avatars](favor-expressive-over-lifelike-avatar-expressions.md)
 
 ## Examples
 -

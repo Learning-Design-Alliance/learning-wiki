@@ -51,3 +51,4 @@ Quasi-experimental study with 42 identified students assigned non-randomly to in
 - [No between-group treatment effect was found for ODD symptoms when baseline scores were used as a covariate](no-between-group-odd-effect.md) — related
 - [Both intervention and control groups remained significantly more symptomatic than the normal comparison group at post-assessment](post-assessment-gap-with-normal-comparison-remains.md) — related
 - [Behavioral parent training yields its strongest proximal effect on parenting behaviors (SMD = 0.70, parent rater) among ADHD psychosocial treatments](behavioral-parent-training-parenting-behaviors-smd-070.md) — related
+- [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related

@@ -54,3 +54,4 @@ Large-scale pre/post assessment of algebra-based introductory physics at Texas T
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — related
 - [All three cohorts show high normalized FCI gains (46%, 61%, 47%), with MBT post-scores trailing FCI post-scores by 15, 21, and 19 percentage points](fci-gains-mbt-gap.md) — related
 - [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related
+- [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related

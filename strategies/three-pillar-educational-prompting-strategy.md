@@ -51,6 +51,7 @@ The article's implementable recipe for educational prompting: "a prompt was craf
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
+- [Use an iteratively crafted system prompt requiring one correct answer, three plausible distractors, no giveaway clues, parallel options, and mixed cognitive levels](llm-mcq-generation-prompt-template.md)
 
 ## Examples
 -

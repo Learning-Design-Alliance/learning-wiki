@@ -60,3 +60,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [In one uncontrolled pre-post study, frequencies of open body position and adequate facial expression rose, while frequencies of unnecessary silence, un-purposive movements, and giggling fell from pre-course interview to post-course OSCE](sp-training-improves-specific-nonverbal-behaviors.md) — related
 - [Participants valued the feedback and reflection components as contributing to enhanced teaching capacity and confidence](sat-feedback-reflection-valued.md) — related
 - [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related
+- [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related

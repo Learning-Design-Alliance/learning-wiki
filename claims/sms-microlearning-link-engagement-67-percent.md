@@ -50,3 +50,4 @@ Engagement was tracked via the SimpleTexting platform's link-monitoring function
 - [Clinicians' self-reported confidence in managing tobacco use disorder rose from baseline to after a 13-day SMS microlearning series, with a statistically significant pre-post change, in a single-arm pre-post pilot](sms-microlearning-increased-tobacco-confidence-pilot.md) — related
 - [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related
 - [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related
+- [Textbook-link engagement rose from approximately 28% of students at midterm 1 to approximately 39% by midterm 3](textbook-link-engagement-rose-28-to-39-percent.md) — related

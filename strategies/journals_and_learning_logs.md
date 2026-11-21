@@ -65,6 +65,7 @@ Reflective writing converts experience into articulated knowledge: the act of ex
 - [Use weekly diary-report forms with feedback to develop pre-service teachers' self-regulation strategies](weekly-diary-report-forms-feedback.md)
 - [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 - [Use reflection, formative assessment and final assessment to close CMODS lessons](reflection-formative-final-assessment-cmods.md)
+- [Student logbooks and reports during compost monitoring to develop academic writing and critical sense](composting-logbooks-academic-writing-strategy.md)
 
 ## Examples
 - **Service-learning reflection (Ash & Clayton model)**: structured "What? So What? Now What?" journals used in university service-learning courses, with instructor feedback after each stage ([https://compact.org](https://compact.org)).

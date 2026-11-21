@@ -81,3 +81,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
 - [Physics capacity development in Africa is constrained by lack of research facilities, low doctoral enrolment and graduates, low publication output, and few research institutes and industry opportunities.](african-physics-capacity-challenges.md) — related
 - [The authors assert that VR laboratory simulation democratizes learning opportunities at a fraction of the cost](vr-labs-democratize-access-assertion.md) — reports the opposite
+- [Infrastructure, educator, socioeconomic, and gender barriers severely constrain STEM education in underdeveloped regions](stem-infrastructure-barriers-underdeveloped-regions.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ The review's discussion reports that learners perceived simulated patients as ve
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
 - [Trainees rated both case-specific and generic-anatomy 3D-printed models highly for realism, planning, and preparedness despite objective transfer differences](high-perceived-realism-both-model-types.md) — related
+- [VR/XR enables psychological assessment combining ecological validity with full experimental control](vr-xr-assessment-ecological-validity-with-control.md) — related

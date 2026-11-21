@@ -49,6 +49,7 @@ At the microscale (minutes to hours), the article recommends assessing fluctuati
 ## Related Strategies
 
 - [Progress Monitoring](progress_monitoring.md)
+- [Develop an AI-powered lecture assistant (AILA) that automatically detects opportune moments for retrieval practice intervention](aila-lecture-assistant-future-direction.md)
 
 ## Examples
 -

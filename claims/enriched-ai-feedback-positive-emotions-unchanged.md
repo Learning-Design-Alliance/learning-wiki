@@ -75,3 +75,4 @@ Boredom medians were 2.81 (control) vs 2.47 (experimental) in the same survey; t
 - [Emotionally enriched AI feedback reduces students' anger toward receiving feedback, particularly annoyance at having to address AI suggestions](enriched-ai-feedback-reduces-anger.md) — related
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
+- [The unplugged AI learning path fostered high engagement, with 54.17% of students enjoying the activities very much and 83.33% reporting positive emotions](unplugged-ai-path-high-engagement.md) — related

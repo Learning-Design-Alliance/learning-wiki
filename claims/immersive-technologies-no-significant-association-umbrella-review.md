@@ -50,3 +50,4 @@ The review reports, citing Tene et al., an umbrella review analyzing 28 studies 
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
 - [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — related
+- [Spatial presence trended upward across VR lessons for most learners, but the variation across lessons was not statistically significant](spatial-presence-uptrend-nonsignificant-across-lessons.md) — related

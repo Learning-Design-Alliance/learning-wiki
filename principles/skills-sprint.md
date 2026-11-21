@@ -142,10 +142,12 @@ A finished deliverable, each learner's unaided performance after the sprint, del
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — what a real user or audience changes in the deliverable.
 
 ## Examples
+
 - **Design sprint**: Teams prototype a service, test assumptions, and present a revised concept within a week.
 - **Research sprint**: Learners gather evidence, synthesize findings, and brief stakeholders on a bounded question.
 - **Workplace improvement sprint**: Staff identify a process bottleneck, test a small change, and document results.
 - **Skill-build sprint**: Learners practice a targeted toolset intensively while producing a shared artifact.
+- [Onboard new project-team members through small, low-cost practice projects done in groups of 2-3 that build skills without carrying mission-critical deliverables](../strategies/small-targeted-onboarding-projects-strategy.md)
 
 ## Key Sources
 - Banfield, R., Lombardo, C. T., & Wax, T. (2015). *Design sprint: A practical guidebook for building great digital products*. O'Reilly Media.

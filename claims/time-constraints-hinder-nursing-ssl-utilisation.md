@@ -46,3 +46,4 @@ Qualitative focus group study of 19 purposively sampled third-year student nurse
 - [Student nurses booked and used the clinical simulation laboratory for SSL at far lower rates than other health science students in 2019](nursing-students-low-ssl-booking-rates.md) — a broader claim this one bears on
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Ancillary boilerplate code in notebooks dilutes students' focus and repetitive rerun actions hinder learning in computational experiments](boilerplate-code-dilutes-student-focus.md) — related

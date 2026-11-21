@@ -55,3 +55,4 @@ Qualitative analysis of AI-generated feedback summaries for the 25 solutions. Th
 - [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related
 - [Expert annotation found nearly 20% of AI interactions contained a definitively incorrect statement, yet 86% of students accepted the AI explanation](ai-peer-interaction-quality-annotations.md) — related
 - [GPT-4o sometimes incorrectly judges non-standard but correct solution approaches as wrong, flagging correct solutions as incorrect in five of 25 tasks](gpt4o-flags-non-standard-correct-approaches-incorrect.md) — related
+- [Among final-answer-correct SLM solutions to physics problem-solving questions, 75-98% contain at least one reasoning error in formulation or execution](slm-physics-answer-reasoning-gap.md) — related

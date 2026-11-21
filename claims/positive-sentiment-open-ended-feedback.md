@@ -74,3 +74,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Most players reached the neutral ending rather than the promotion ending, and student feedback drove design revisions](ethics-game-ending-distribution-and-revisions.md) — related
 - [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related
 - [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related
+- [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related

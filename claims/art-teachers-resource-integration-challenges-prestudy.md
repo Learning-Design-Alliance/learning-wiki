@@ -74,3 +74,4 @@ Pre-study questionnaire on AI perceptions among the 48 surveyed teachers. The ar
 - [Teachers want to spend orchestration time on one-on-one support and planning, and are willing to invest up-front time in routines and collaboration skills](teachers-prefer-one-on-one-support-time.md) — related
 - [Waste-material instructional resources enabled teachers to teach weaving lessons they had previously omitted for lack of skills and materials](waste-resources-enable-previously-omitted-weaving-lessons.md) — related
 - [The integrated '1 + N' one-click teaching platform and modular resource repositories achieve high utilization efficiency in Endodontics education](one-n-platform-modular-repositories-high-utilization-efficiency.md) — related
+- [Consolidating tools into Nearpod improved coherence, with teachers valuing no-registration access and reduced skipped content despite media-integration and data-export limits](nearpod-unified-platform-teacher-valued.md) — related

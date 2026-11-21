@@ -48,3 +48,4 @@ A quoted statistic in the statement of the problem, attributed to Gibson (2011),
 ## Related Claims
 - [Only a small minority of Haitians are truly French/Creole bilingual, making French effectively a foreign language for most students](few-haitians-truly-bilingual-french-foreign.md) — possibly the same claim (merge candidate)
 - [Haitian national exam pass rates were extremely low in 2003, which the article links to the language of instruction](haiti-national-exam-pass-rates-2003.md) — related
+- [FliP-CoIn is the first Concept Inventory developed bilingually from scratch, based on an ERIC and Google Scholar search](first-bilingually-developed-concept-inventory.md) — related

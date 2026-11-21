@@ -52,3 +52,4 @@ Thematic analysis with Leximancer software of 41 written comments (20 in 2014, 2
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Thematic analysis of open-ended feedback identified desires for greater scenario realism (36% of responses), more practice opportunities (23%), and improved technological infrastructure](qualitative-themes-scenario-realism-practice-infrastructure.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
+- [Students rated the analogy-based quantum course highly (mean 4.5/5) and 79% of comments mentioned engagement](quantum-straw-positive-student-perception.md) — related

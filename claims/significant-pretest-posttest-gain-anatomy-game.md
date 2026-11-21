@@ -46,3 +46,4 @@ Within-group pretest-posttest analysis of ten students using the same 10-item mu
 
 ## Related Claims
 - [In the elective course, posttest scores improved significantly overall and for the Magic Mirror and Theory groups, but no significant pre-post difference was recorded for the Anatomage group.](mm-anatomage-elective-prepost-improvement.md) — related
+- [Every student in the workshop improved, with all posttest-pretest score differences positive](roboblimp-all-students-improved.md) — related

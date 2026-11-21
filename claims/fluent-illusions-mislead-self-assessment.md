@@ -202,3 +202,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Processing fluency directs student attention to the most accessible cues (initial velocity, mass), which combine with associative activation to produce wrong comparisons](processing-fluency-accessible-cues-projectile.md) — related
 - [LLM access increases perceived learning beyond what actual learning differences explain](llms-inflate-perceived-learning.md) — related
 - [Humans equate processing ease with validity, so visually fluent presentation biases judgments of content quality](fluency-bias-processing-ease-equated-with-validity.md) — related
+- [Psychophysiological signals such as pupillometry and skin conductance reveal cognitive overload that self-report misses](psychophysiological-signals-reveal-hidden-overload.md) — related

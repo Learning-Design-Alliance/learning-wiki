@@ -62,6 +62,7 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 
 - [Learning decomposition: fit exponential learning curves to compare the relative effectiveness of types of pedagogical support](../strategies/learning-decomposition-compare-support-effectiveness.md)
 - [Optimize which items appear in each study session using recall-probability-based selection probabilities](../strategies/recall-probability-item-selection-strategy.md)
+- [Add reinforcement activities such as reflective exercises, spaced repetition, and active recall after technology-supported tasks](../strategies/reinforcement-activities-after-genai-tasks.md)
 
 ## Key Sources
 - Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850

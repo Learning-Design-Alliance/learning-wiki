@@ -49,3 +49,4 @@ This is the authors' position statement in the abstract of an experience paper, 
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — related

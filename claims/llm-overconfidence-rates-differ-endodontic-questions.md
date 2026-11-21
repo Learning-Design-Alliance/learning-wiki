@@ -52,3 +52,4 @@ Overconfidence defined as an incorrect response with a self-reported confidence 
 - [Error distributions differed directionally across LLMs: Claude produced more false positives (14.2%), whereas Gemini and ChatGPT produced more false negatives (25.9% and 47.9%, respectively)](llm-ospe-asymmetric-error-patterns.md) — related
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [Chatbots differ significantly in response time and word count, with Gemini 1.5 fastest and DeepSeek slowest and least accurate](chatbot-response-time-length-differences.md) — related
+- [Text-based GenAI tools produced accurate responses in over 90% of cases on undergraduate textbook-difficulty questions](text-genai-over-90-percent-accurate-textbook-questions.md) — related

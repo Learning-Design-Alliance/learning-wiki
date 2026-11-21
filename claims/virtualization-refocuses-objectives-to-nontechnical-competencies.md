@@ -48,3 +48,4 @@ Design-process observation from the artifact development report: the virtual for
 - [With current technology, IVR is a barrier to training sensorimotor skills and non-verbal teamwork skills, while verbal communication goals remain feasible](ivr-limits-sensorimotor-and-nonverbal-teamwork-skills.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [VR removes social barriers in clinical skills training such as auscultation, supporting knowledge retention and skill acquisition](vr-removes-social-barriers-clinical-skills-training.md) — related

@@ -47,3 +47,4 @@ Blueprint-aligned MCQ and SAQ examination administered under identical condition
 ## Related Claims
 - [Under structured pre-session planning, students across four repeatedly taught groups reported no significant differences in perceptions of structure and organization](pre-session-planning-consistent-structure-perceptions.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
+- [Across three midterms, the four feedback conditions (basic, textbook links, AI feedback, AI + textbook) showed no consistently significant differences in exam performance](no-significant-difference-four-feedback-conditions-practice-exams.md) — related

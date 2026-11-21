@@ -137,6 +137,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [In online flipped classrooms, set appropriate task difficulty, organize team grouping, build incentive mechanisms, and use multi-dimensional digital evaluation](../strategies/online-flipped-classroom-task-difficulty-grouping-incentives.md)
 - [Three-pronged intervention framework: personalized digital learning, emotional support, and engagement enhancement for EFL teaching](../strategies/three-pronged-efl-digital-intervention-framework.md)
 - [Blend tablet-assisted video training with traditional classroom training for CHWs with fewer years of formal education](../strategies/blended-tablet-classroom-training-lower-education-chws.md)
+- [Use SLMs to assist under-resourced teachers with curriculum design, problem sets, and text simplification](../strategies/slm-teacher-curriculum-assistant.md)
 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.

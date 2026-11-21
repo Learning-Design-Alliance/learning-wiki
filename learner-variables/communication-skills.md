@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (134 show a difference, 34 mixed, 25 no difference) · 161 studies (60 causal, 26 review, 25 associational, 20 quant-synthesis, 12 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 161 report an effect size · 189 claims rest on one study
+> **Evidence** · 194 claims (134 show a difference, 35 mixed, 25 no difference) · 162 studies (60 causal, 26 review, 25 associational, 20 quant-synthesis, 13 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 162 report an effect size · 190 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -235,6 +235,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Students report improved ability to explain and communicate through oral checks, with a strong preference for immediate oral feedback over delayed written feedback](../claims/oral-checks-communication-feedback-2016.md) [+M] — measured as an outcome of the instruction studied
 - [Undergraduate mentors reported greatly improved leadership (d = 1.0) and communication (d = 1.3) skills through PSC II](../claims/psc-mentor-leadership-communication-improvement.md) [+M] — measured as an outcome of the instruction studied
 - [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](../claims/qualitative-embodiment-and-motivational-language-benefits.md) [+M] — learners who differ on it differ in outcomes
+- [Model-predicted discourse scores show weak but partially human-aligned correlations with student outcomes, including a positive link between Explanations and achievement](../claims/predicted-discourse-scores-correlate-weakly-student-outcomes.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

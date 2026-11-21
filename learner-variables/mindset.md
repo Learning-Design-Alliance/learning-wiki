@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (60 show a difference, 38 mixed, 9 no difference) · 52 studies (27 associational, 12 causal, 7 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 15 of 52 report an effect size · 105 claims rest on one study
+> **Evidence** · 110 claims (62 show a difference, 38 mixed, 10 no difference) · 54 studies (28 associational, 13 causal, 7 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 15 of 54 report an effect size · 108 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -138,6 +138,9 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Fine analyses of classroom unfoldings reveal recurring student difficulties tied to implicit shifts the teacher does not always notice](../claims/implicit-viewpoint-shifts-student-difficulties.md) [+M] — learners who differ on it differ in outcomes
 - [In NSLM, the estimated effect of the mindset intervention decreases with prior school-level student mindset (X1).](../claims/mindset-effect-decreases-school-level-mindset.md) [~M] — an instructional effect differs with it
 - [Introductory astronomy students strongly agree with standard growth-mindset statements, stably across semesters and course delivery modes](../claims/astronomy-students-strong-growth-mindset-endorsement.md) [-M] — measured as an outcome of the instruction studied
+- [Both groups showed a general growth mindset after the exam, with the experimental group disagreeing more strongly with fixed-intelligence statements, though not statistically significantly](../claims/growth-mindset-post-exam-groups.md) [-M] — measured as an outcome of the instruction studied
+- [Participation in outreach is more predictive of growth mindset than mindset is of participation, shown by an asymmetry in significance levels](../claims/outreach-mindset-predictive-asymmetry.md) [+M] — measured as an outcome of the instruction studied
+- [The growth mindset code appearing on the network map (outreach-to-discipline directionality) suggests students facilitating outreach are more likely to develop a growth mindset](../claims/outreach-growth-mindset-directionality.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

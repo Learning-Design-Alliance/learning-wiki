@@ -88,3 +88,4 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [More than 75% of remote-learning students wanted continued access to recorded lectures, review sessions, and online course materials after classes return to face-to-face format](students-want-recorded-lectures-kept.md) — related
 - [More than 90% of surveyed students prefer the class taught online and more than 95% report the class structure and hours are effectively used](student-survey-preference-online-structure.md) — related
 - [Ethel's course-specific chatbot was deployed to over 1500 students across six courses, and a survey found the majority of students found it helpful or very helpful](ethel-chatbot-deployment-helpfulness.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 308 claims (172 show a difference, 66 mixed, 70 no difference) · 233 studies (113 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 38 of 233 report an effect size · 307 claims rest on one study
+> **Evidence** · 309 claims (173 show a difference, 66 mixed, 70 no difference) · 234 studies (113 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 234 report an effect size · 308 claims rest on one study
 
 ## How to read this page
 
@@ -393,6 +393,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Across all three disciplines, the largest educational debts after instruction were consistently owed to Black and Hispanic women and first-generation Black men](../claims/largest-debts-owed-to-black-hispanic-women-first-gen-black-men.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In 2021 Georgia math achievement rates showed marked disparities, with White students and non-disadvantaged students substantially outscoring Black and economically disadvantaged students](../claims/georgia-2021-math-demographic-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socio-economically disadvantaged students were overrepresented among those needing team support and underrepresented among self-sufficient students](../claims/socioeconomic-background-readiness-association.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Continuing-generation and first-generation students’ IPLS drawings differ in element centrality with large effect sizes](../claims/generation-differences-drawing-centrality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

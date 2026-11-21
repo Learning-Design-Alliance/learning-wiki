@@ -47,3 +47,4 @@ This is the authors' theoretical interpretation (Section 5.1) of the ANOVA findi
 ## Related Claims
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Dashboard use increases test anxiety and mental load but not mental effort](srl-lad-increases-anxiety-mental-load.md) — related

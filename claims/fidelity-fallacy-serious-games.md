@@ -115,3 +115,5 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Low fidelity prototypes support design learning while high fidelity prototypes can hinder fluency](low-fidelity-prototyping-supports-design-learning.md) — a narrower finding that bears on this claim
 - [Realistic virtual environments advance motivational and attitudinal objectives but have not yet proven to enhance conceptual understanding of SRT](realistic-virtual-environments-motivational.md) — a narrower finding that bears on this claim
 - [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — reports the opposite
+- [VR tour-based English lessons enhanced adult online learners' motivation, with spatial presence a key driver of situational interest](vr-tours-boost-adult-online-language-motivation.md) — related
+- [VR/XR enables psychological assessment combining ecological validity with full experimental control](vr-xr-assessment-ecological-validity-with-control.md) — reports the opposite

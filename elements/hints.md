@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 24 studies (10 causal, 6 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 24 report an effect size · 35 claims rest on one study
+> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 25 studies (11 causal, 6 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 25 report an effect size · 37 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -86,6 +86,8 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](../claims/student-feedback-dpp-sceppsys.md) [-W]
 - [University students rated GPT-generated programming hints positively, though a minority found them not useful](../claims/gpt-hints-rated-useful-programming.md) [+W] — attached 2026-11-19 from Maciej Pankiewicz et al. (2023), which proposed "RunCode automated assessment platform extended with GPT-3.5 hint generation via API".
 - [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](../claims/gpt-hints-higher-successful-submissions.md) [+W] — attached 2026-11-19 from Maciej Pankiewicz et al. (2023), which proposed "RunCode automated assessment platform extended with GPT-3.5 hint generation via API"; tests this page's relationship.
+- [The EN→EN hint generation strategy yields the highest average student gains across setups](../claims/en-to-en-hint-strategy-highest-gains.md) [+W] — attached 2026-11-21 from Junior Cedric Tonga et al. (2025), which proposed "LLM-based student-tutor interaction simulation pipeline for multilingual math hinting".
+- [Hint language substantially impacts student gains, with English hints generally most effective from larger tutors but native-language hints competitive in specific cases](../claims/hint-language-impacts-student-gains.md) [+W] — attached 2026-11-21 from Junior Cedric Tonga et al. (2025), which proposed "LLM-based student-tutor interaction simulation pipeline for multilingual math hinting".
 
 ## The evidence by question
 

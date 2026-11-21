@@ -88,3 +88,4 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 - [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
+- [Students' post-task self-assessment partially reflects their measured overreliance behavior](overreliance-self-assessment-partial-awareness.md) — related

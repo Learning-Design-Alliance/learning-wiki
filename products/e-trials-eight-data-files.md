@@ -28,4 +28,4 @@ A collection of eight ASSISTments E-TRIALS data files containing student interac
 -
 
 ## Key Sources
-- Siedahmed, A., Pei, Y., Sales, A., Heffernan, N. T., Gagnon-Bartsch, J. A., Zhang, D., Schuetze, B. A., & Zengilowski, A. (2025). E-TRIALS: Empowering Data-Driven Decisions to Enhance Computer-Based Learning Platforms. arXiv. https://arxiv.org/abs/2502.10545
+- Siedahmed, A., Pei, Y., Sales, A., Heffernan, N. T., Gagnon-Bartsch, J. A., Zhang, D., Schuetze, B. A., & Zengilowski, A. (2025). E-TRIALS: Empowering Data-Driven Decisions to Enhance Computer-Based Learning Platforms. arXiv. https://arxiv.org/abs/2502.10545. [doi:10.48550/arxiv.2502.10545](https://doi.org/10.48550/arxiv.2502.10545)

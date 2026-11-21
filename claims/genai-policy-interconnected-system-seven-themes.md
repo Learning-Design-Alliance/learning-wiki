@@ -54,3 +54,4 @@ Thematic analysis of the same cohort's policy artifacts and discussions, reporte
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
+- [Students articulate context-dependent ethical decision-making about AI rather than a permissible/impermissible binary](ai-ethical-complexity-context-dependent.md) — related

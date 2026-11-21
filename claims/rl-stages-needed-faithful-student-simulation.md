@@ -58,3 +58,4 @@ Ablation study on one data split (Table 2) varying training stages and profile i
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
 - Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related
+- [DPO training with IRT-likelihood preference pairs makes simulated student responses strongly follow their prompted ability (θ-Align)](dpo-irt-preference-pairs-ability-alignment.md) — related

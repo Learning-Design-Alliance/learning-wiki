@@ -42,6 +42,7 @@ Each OSSCAR application displays a direct link to its source code at the top of 
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 - [Share professional development slides openly via short links and a Creative Commons license](open-cc-licensed-pd-slides-strategy.md)
 - [Offer three free deployment routes (mybinder.org, dokku, institutional JupyterHub) matched to user needs](three-free-deployment-routes-notebooks.md)
+- [Use predefined simulator examples and shared configuration links to set up classroom activities quickly](simufisica-predefined-examples-classroom-setup.md)
 
 ## Examples
 -

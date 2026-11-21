@@ -59,3 +59,4 @@ Analysis of eSpark log data on 2078 completed quests from September 10 to May 6.
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related
 - [Student chemistry content knowledge scores rose from first attempts to highest attempts in one group with no comparison group, with median scores of 95% versus 74%](postquiz-scores-improve-mastery.md) — related
 - [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — related
+- [Mastery Learning students' formative assessment scores improved on second attempts in the Understand, Analyze, and Evaluate modules](fa-retakes-improve-pcp-module-scores.md) — related

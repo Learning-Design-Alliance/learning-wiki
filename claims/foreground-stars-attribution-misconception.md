@@ -49,3 +49,4 @@ Survey 1 open-ended item about the Andromeda photograph (Figure 2): 85% identifi
 - [The misconception that we see all the stars in the Milky Way correlates with the random-distribution misconception, suggesting a spatial-distribution framework](seeing-all-stars-correlates-spatial-distribution.md) — related
 - [Galaxy and spectra misconceptions persist after instruction, with similar patterns across two different classes](misconceptions-persist-after-instruction.md) — related
 - [Students commonly attribute spiral galaxy structure to matter swirling into a central black hole](spiral-arms-black-hole-misconception.md) — related
+- [70% of Boyacá secondary students do not accurately locate the Solar System within the Milky Way](boyaca-students-milky-way-location-70-percent-incorrect.md) — related

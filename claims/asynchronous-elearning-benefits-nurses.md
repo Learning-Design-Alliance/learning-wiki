@@ -59,3 +59,4 @@ Conventional content analysis (Hsieh and Shannon method) of the 60 included arti
 - [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — a narrower finding that bears on this claim
 - [Students held mixed attitudes toward asynchronous learning but overwhelmingly valued its flexibility](mixed-attitudes-asynchronous-flexibility.md) — a narrower finding that bears on this claim
 - [Tutors and students identified advantages of the fully online format, including participation from across Africa, cost-effectiveness and learning at one's own time and pace](online-ebm-module-advantages-global-access-flexibility.md) — related
+- [Students most valued the realistic experimental interface, interactive parameter adjustment, and self-paced learning flexibility](openphys-most-valued-features.md) — a narrower finding that bears on this claim

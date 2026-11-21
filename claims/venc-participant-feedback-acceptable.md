@@ -56,3 +56,4 @@ Six-month follow-up survey on a 1-to-5 Likert scale completed by participants in
 - [Administrator-role researchers rate WriteSim TCExam fast, easy to learn, use and navigate](admin-survey-rates-writesim-usable-for-trainers.md) — related
 - [Students perceive the Energy Skate Park simulator as easy to use](energy-skate-park-high-perceived-usability.md) — related
 - [Positive outcome rates with specifically developed apps are similar to those of prior general m-learning surveys](specific-apps-results-similar-to-general-surveys.md) — related
+- [Students rated the platform highly usable and realistic, though only a minority gave realism the highest rating](openphys-ease-realism-ratings.md) — related

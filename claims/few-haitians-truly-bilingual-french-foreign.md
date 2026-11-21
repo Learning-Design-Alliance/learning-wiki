@@ -49,3 +49,4 @@ Descriptive statistic quoted in the Statement of the Problem, attributed to Gibs
 - [Only about seven percent of Haitians are truly French/Creole bilingual, making French a foreign medium of instruction for most students](seven-percent-haitians-truly-bilingual.md) — possibly the same claim (merge candidate)
 - [In the ToTAL trial, instruction in the mother tongue of Haitian Creole was associated with gains in French on skills that were not explicitly taught.](haitian-creole-instruction-french-gains.md) — related
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related
+- [FliP-CoIn is the first Concept Inventory developed bilingually from scratch, based on an ERIC and Google Scholar search](first-bilingually-developed-concept-inventory.md) — related

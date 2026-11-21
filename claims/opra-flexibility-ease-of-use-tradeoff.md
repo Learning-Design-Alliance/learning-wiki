@@ -49,3 +49,4 @@ The article reports, citing Luxton-Reilly (2009), "a significant tradeoff betwee
 - [OPRA systems lean toward either scaffolded or exploratory peer learning based on design choices](opra-scaffolded-vs-exploratory-orientation.md) — related
 - [No existing OPRA solution addresses all user needs](opra-no-single-system-fits-all-needs.md) — related
 - [A broad spectrum of system maturity exists across OPRA systems](opra-system-maturity-spectrum.md) — related
+- [User questionnaire responses were mostly neutral, leaning slightly toward SystemB for usability and ease of learning, while SystemA was slightly preferred for modifying and iterating on existing plans](questionnaire-slight-preference-systemb.md) — a narrower finding that bears on this claim

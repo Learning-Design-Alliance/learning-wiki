@@ -52,6 +52,7 @@ The article recommends human oversight of LLM hint generation: its quality check
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
 - [Mitigate LLM hallucination in generated hint pathways by generating 30 responses per question and selecting the response closest to the centroid embedding](centroid-selection-hallucination-mitigation-strategy.md)
 - [Radical constructivist MARSGs require mindful development and instructor oversight to ensure learning](radical-constructivist-marsg-oversight.md)
+- [Establish certifying oversight for quantum education materials to combat misinformation and ensure quality](quantum-education-quality-certification-strategy.md)
 
 ## Examples
 -

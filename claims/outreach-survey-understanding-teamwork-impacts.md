@@ -51,3 +51,4 @@ Descriptive analysis of survey responses (117 completed) from current and former
 - [Participants reported enhanced science-related education (68%) and excitement about the topics covered (80%)](outreach-enhanced-education-excitement.md) — related
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — a broader claim this one bears on
+- [In a prior single-institution pilot, over 80% of outreach participants reported positive impact on conceptual understanding and over 85% on teamwork and networking](pilot-study-outreach-identity-gains.md) — possibly the same claim (merge candidate)

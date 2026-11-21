@@ -49,3 +49,4 @@ In the pre-registered Study 1 experiment, five new high-difficulty items were ad
 - [In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students](chattutor-delayed-conceptual-knowledge-study1.md) — related
 - [In Study 1, the three conditions did not differ significantly on the immediate post-test of conceptual knowledge](chattutor-immediate-posttest-null-study1.md) — related
 - [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](chattutor-trust-enjoyment-intentions-study1.md) — related
+- [Both the ITS and human tutoring conditions outperformed classroom-only instruction on immediate and delayed tests](tutoring-beats-classroom-biology.md) — related

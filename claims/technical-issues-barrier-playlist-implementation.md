@@ -129,3 +129,4 @@ Observational and interview study of four after-school sites; educators reported
 - [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related
 - [Google Colab notebooks proved a challenging coding interface for teenage learners in the bootcamp](google-colab-challenging-coding-interface-teens.md) — related
 - [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — related
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related

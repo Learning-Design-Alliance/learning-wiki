@@ -48,6 +48,7 @@ The authors recommend that multiple-choice synthesis problems, which combine mat
 - [Peer Instruction](peer-instruction.md)
 - [Reframe typical biology exercises as complex problems by prompting students to generate and compare possible scenarios, using clickers and Peer Instruction to foster discussion](reframe-exercises-as-pedigree-generation-problems.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
+- [Break the equation-extraction task into smaller components, processing one line of the student response per model call](break-equation-extraction-into-smaller-components-strategy.md)
 
 ## Examples
 -

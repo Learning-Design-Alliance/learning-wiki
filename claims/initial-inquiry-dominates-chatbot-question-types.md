@@ -99,3 +99,5 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Structured guidance strategies (G1, G3, G4) reduce unrelated student queries to an LLM tutor, while example-based instruction increases them](structured-guidance-reduces-unrelated-llm-queries.md) — related
 - [Copy-and-paste-enabled substitutive LLM use trades topic volume for understanding: volume rises while understanding falls, leaving overall outcomes unchanged](substitution-volume-understanding-tradeoff.md) — related
 - [LLM question types differed by condition: EDBook prompted more applying and analyzing questions, while webpage-plus-ChatGPT prompted more evaluating and solution-requesting questions](edbook-question-type-differences.md) — related
+- [ChatGPT was the dominant LLM tool with AstroTutor second, used in complementary roles for coding versus theory](chatgpt-dominant-astrotutor-complementary.md) — related
+- [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related

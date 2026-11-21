@@ -51,6 +51,7 @@ The article recommends AI-simulated audiences as a substitute for infeasible rea
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Role Play](role-play.md)
+- [Use an AI opponent to provide repeatable, engaging practice of curriculum concepts](ai-opponent-repeatable-practice-strategy.md)
 
 ## Examples
 -

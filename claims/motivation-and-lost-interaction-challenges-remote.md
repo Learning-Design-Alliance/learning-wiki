@@ -123,3 +123,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Pandemic-era economic, family, health and insecurity factors are said to have shifted educational preferences, and physics reportedly lost enrollment](pandemic-factors-shifted-preferences-physics-enrollment-loss.md) — related
 - [LPQs were broadly reported to keep most students engaged and to motivate participation in in-person lectures](lpq-kept-students-engaged-motivated.md) — related
 - [Students reported that pandemic suspension of laboratory activities negatively impacted their learning, even with remote experiments, and preferred in-person lab work](students-prefer-in-person-labs-over-remote.md) — related
+- [Workshop and interview feedback named collaboration, content sharing, and tool accessibility as the most valuable aspects, with connectivity, learning curves, and inclusive materials as challenges](educator-feedback-collaboration-accessibility-challenges.md) — related

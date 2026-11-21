@@ -54,3 +54,4 @@ Discussion-section comparison across the 17 included studies, of which 10 used c
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
 - [Computation integration requires choosing an accessible, affordable platform, a barrier specific to computation because no universal physics coding language exists](accessible-platform-barrier-computation.md) — related
 - [Most immersive learning frameworks are theoretical models of causal relationships between factors influencing learning outcomes, while practical frameworks are limited and context-specific](il-frameworks-mostly-theoretical-causal-models.md) — related
+- [Learners rarely used the provided low-cost VR head-mounted displays, with discomfort and dizziness limiting immersive capability's role](low-cost-hmds-rarely-used-discomfort.md) — related

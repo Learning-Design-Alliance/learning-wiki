@@ -44,6 +44,7 @@ The authors recommend that VR simulations aiming at self-regulated learning add 
 - [Enhance VR-based simulation debriefing with automated checklists, multiplayer platforms, and hybrid feedback approaches](vr-simulation-feedback-enhancement-strategy.md)
 - [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
 
 ## Examples
 -

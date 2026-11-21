@@ -97,3 +97,5 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related
 - [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related
 - [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — related
+- [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related
+- [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — related

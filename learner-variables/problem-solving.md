@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (166 show a difference, 24 mixed, 30 no difference) · 180 studies (95 causal, 23 review, 15 qualitative, 15 design, 14 associational, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 180 report an effect size · 214 claims rest on one study
+> **Evidence** · 221 claims (167 show a difference, 24 mixed, 30 no difference) · 181 studies (95 causal, 23 review, 16 qualitative, 15 design, 14 associational, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 181 report an effect size · 215 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -258,6 +258,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [In group think-aloud interviews, students collaboratively solved conceptual spherical-unit-vector problems that previous students had found difficult to solve individually](../claims/groups-solve-difficult-spherical-unit-vector-problems.md) [+M] — measured as an outcome of the instruction studied
 - [Integrating physics into pharmacy education can significantly enhance students' problem-solving and analytical skills](../claims/physics-integration-enhances-pharmacy-student-analytical-skills.md) [+W] — measured as an outcome of the instruction studied
 - [During the activity students improved group communication, exercised creativity in problem-solving, and took ownership of the collective investigative process.](../claims/nos-activity-communication-creativity-ownership.md) [+M] — measured as an outcome of the instruction studied
+- [Large computational projects served as a critical forum for developing computational problem-solving skills by forcing students to focus on the most important aspects of a problem and abstract away the rest](../claims/large-projects-build-problem-solving-abstraction.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

@@ -46,6 +46,7 @@ The article's inclusive-practices strategy spans recruitment (early, community-i
 - [Start small and stage QIST program development from individual faculty expertise toward a future standalone major](qist-start-small-staged-development.md)
 - [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
 - [Provide career development support for diverse pathways, especially non-academic careers, through skills workshops, alumni networks, and funded internships](non-academic-career-pathway-support.md)
+- [Invest in learning communities, mentorship programs, and active learning classrooms to boost belonging and engagement among engineering students](invest-learning-communities-mentorship-active-classrooms.md)
 
 ## Examples
 -

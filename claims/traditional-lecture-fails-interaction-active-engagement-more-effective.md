@@ -57,3 +57,4 @@ Theoretical argument in the physics module section, citing educational research 
 - [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — a narrower finding that bears on this claim
 - [Hiding task solutions by default is argued to promote active learning in interactive notebooks](hidden-solutions-promote-active-learning.md) — a narrower finding that bears on this claim
 - [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
+- [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — a narrower finding that bears on this claim

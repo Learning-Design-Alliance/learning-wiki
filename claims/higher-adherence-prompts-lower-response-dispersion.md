@@ -48,3 +48,4 @@ Exploratory analysis of token-level log probabilities from GPT-4.1-mini Student-
 ## Related Claims
 - [Evaluator-agent scores increased monotonically across prompt-defined novice, intermediate, and expert Student-agent competence levels for both MI and CBT synthetic encounters](evaluator-scores-discriminate-prompt-defined-competence-levels.md) — related
 - [Appending criterion-referenced feedback text to novice Student-agent prompts shifted subsequent Evaluator-assigned scores upward in both MI and CBT](feedback-prompt-augmentation-shifts-evaluator-scores.md) — related
+- [User-mentioned answer tokens show higher selection probability and user-unmentioned tokens lower probability, supporting a sycophancy mechanism](token-probabilities-shift-toward-user-mentioned-options.md) — related

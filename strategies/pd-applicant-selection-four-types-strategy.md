@@ -46,6 +46,7 @@ The article identifies four broad empirically noted applicant types — ideal ca
 - Nitarp Teacher Archive Research Program
 - [Design differentiated professional development resources targeting prioritized personas rather than one-size-fits-all materials](persona-targeted-pd-design-strategy.md)
 - [Select tutoring providers that tailor professional development to tutor experience levels and invest in student-tutor relationship building](select-providers-tailoring-pd-and-relationship-building.md)
+- [Select participants through a rated application process that prioritizes motivation and experience but excludes grades](qel-application-based-participant-selection.md)
 
 ## Examples
 -

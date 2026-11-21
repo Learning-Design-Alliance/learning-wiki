@@ -52,3 +52,4 @@ Descriptive final-survey analysis (n=14) of usage modes found debugging selected
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md)
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
+- [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related

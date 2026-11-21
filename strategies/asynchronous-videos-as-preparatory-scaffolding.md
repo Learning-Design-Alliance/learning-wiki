@@ -75,6 +75,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Provide cognitive training (live demonstration plus reference DVD) before cadaver-based technical skills practice](cognitive-training-precedes-cadaver-technical-practice.md)
 - [Provide pre-class materials (videos, slides, modules, worksheets) with assessment, then use class time for interactive individual and group activities with the teacher as facilitator](fcp-preclass-materials-inclass-interactive-activities.md)
 - [Offer the oriented-globe video as an asynchronous tutorial so pre-service teachers can practice until confident enough to run the activity with pupils](asynchronous-video-tutorial-teacher-confidence.md)
+- [Integrate visual slide materials with hands-on activities to support concept retention](visual-slides-paired-with-hands-on-robotics.md)
 
 ## Examples
 -

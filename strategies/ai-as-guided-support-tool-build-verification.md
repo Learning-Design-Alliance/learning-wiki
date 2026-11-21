@@ -53,6 +53,7 @@ The article recommends that educators position AI as an augmentation rather than
 - [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
 - [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
 - [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
+- [Restructure AI-assisted programming courses to teach prompting skills before programming and scaffold with simplified examples and formative checks](prompting-first-scaffolding-strategy.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [The chatbot's advantage was largest on questions about attendance requirements, midterm passing scores, and the course passing grade](chatbot-largest-gaps-logistics-questions.md) — related
 - [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related
+- [Prior AI usage frequency and general attitudes toward AI do not predict AI-text detection accuracy](ai-usage-attitudes-null-detection.md) — related

@@ -86,6 +86,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 - [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](three-phase-constructivist-algebra-word-problems.md)
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
+- [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](less-structured-problems-scaffolding-fading-strategy.md)
 
 ## Examples
 - **Fisher & Frey's framework at Health Sciences High (San Diego)** — a four-phase GRR model (focused instruction, guided instruction, collaborative learning, independent learning) used school-wide across content areas; documented in *Better Learning Through Structured Teaching* (ASCD, 2021, 3rd ed.).

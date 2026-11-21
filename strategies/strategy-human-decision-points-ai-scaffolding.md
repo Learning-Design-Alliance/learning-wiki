@@ -45,6 +45,7 @@ The article recommends adding human decision-making points to AI scaffolding des
 ## Related Strategies
 
 - [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
+- [Extend the hackathon design to professional-skill training and AI/ML-informed analysis](extend-hackathons-to-professional-skills-and-ai-ml.md)
 
 ## Examples
 -

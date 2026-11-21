@@ -53,3 +53,4 @@ The review's synthesis of benchmark studies in general chemistry, acid-base calc
 - [Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge](fluent-authority-trust-miscalibration.md) — a broader claim this one bears on
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
+- [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related

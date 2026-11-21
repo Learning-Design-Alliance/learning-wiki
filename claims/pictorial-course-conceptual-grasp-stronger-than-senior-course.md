@@ -47,3 +47,4 @@ Instructor observation during in-class exercises in the freshman course, compare
 ## Related Claims
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
 - [Lack of mathematical facility hinders conceptual learning in quantum mechanics, and alternative conceptions can induce mathematical errors](math-facility-hinders-quantum-conceptual-learning.md) — related
+- [Majority of students reported clearer grasp of why confinement leads to quantization and successfully predicted how resonance spacing changes with straw length](confinement-quantization-conceptual-gain.md) — related

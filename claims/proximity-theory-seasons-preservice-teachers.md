@@ -59,3 +59,5 @@ Results from Q3 of the questionnaire on simple astronomical concepts: the study 
 - [Pre-service primary teachers largely relate seasons to the Sun's height, but about a third misplace the zenith Sun in Rome](pre-service-teachers-misconceptions-seasons-zenith.md) — related
 - [Roughly a third of school students in synchronous online sessions show misconceptions about seasons, polar day/night, and the zenith position of the Sun](school-students-astronomy-misconceptions-online-sessions.md) — related
 - [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — related
+- [Only 26% of Boyacá secondary students correctly link Earth's translation to the seasons and the months of solstices and equinoxes in the southern hemisphere](boyaca-students-seasons-solstices-26-percent-correct.md) — related
+- [Only 41% of Boyacá secondary students correctly identify the layers of the Sun](boyaca-students-solar-layers-41-percent-correct.md) — related

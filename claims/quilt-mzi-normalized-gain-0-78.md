@@ -54,3 +54,4 @@ In-class pre/posttest evaluation of the QuILT with upper-level undergraduates (N
 - [Students rated QuILTs highly effective and 10 of 12 preferred completing them in class rather than as homework](quilt-student-survey-effectiveness.md) — related
 - [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related
 - [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related
+- [The QuILT on representations of quantum states produces large learning gains: average normalized gain 0.75 for undergraduates and 0.76 for Ph.D. students, with Cohen's d of 1.6 and 0.60 respectively](quilt-effectiveness-quantum-state-representations.md) — related

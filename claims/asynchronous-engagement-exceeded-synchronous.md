@@ -50,3 +50,4 @@ Attendance and platform-usage records from the tutoring programme; the article r
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — related
 - [Logistical flexibility of the asynchronous and quasi-synchronous modalities supported behavioral engagement, while the synchronous modality's scheduling demands disrupted participation](logistical-flexibility-behavioral-engagement.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

@@ -68,3 +68,4 @@ The review's assessment-strategy analysis identifies "the so-called library bias
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Existing educator wellbeing initiatives predominantly target individual rather than systematic determinants of wellbeing](initiatives-target-individual-not-systemic-determinants.md) — related
 - [Students' competency scores concerning search strategy design and conducting a search rose from pre-test to post-test in one uncontrolled pre-post study](training-improves-search-strategy-design.md) — related
+- [VR/XR enables psychological assessment combining ecological validity with full experimental control](vr-xr-assessment-ecological-validity-with-control.md) — related

@@ -46,6 +46,7 @@ The authors identify the broad incorporation of high technology and innovative s
 - [Integrate simulation as a complementary learning tool across oncology curricula, continuing education, and recertification programs](integrate-simulation-complementary-tool-oncology-curricula.md)
 - [Leverage artificial intelligence and software technologies to further improve rhinoplasty education.](ai-software-technologies-rhinoplasty-education-strategy.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Extend the hackathon design to professional-skill training and AI/ML-informed analysis](extend-hackathons-to-professional-skills-and-ai-ml.md)
 
 ## Examples
 -

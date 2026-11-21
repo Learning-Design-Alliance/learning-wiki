@@ -66,6 +66,7 @@ Journaling supports learning primarily when it is *guided* — prompts that dire
 - [Use structured power-analysis journaling at the start and end of field placements to build critical consciousness](field-placement-power-analysis-journaling.md)
 - [Use end-of-section journal writing as a writing-to-learn activity during a science unit](end-of-section-journal-writing-wtl-strategy.md)
 - [Revise reflection prompts to explicitly require action plans and support revisiting past reflections](revise-reflection-prompts-action-plans.md)
+- [Student logbooks and reports during compost monitoring to develop academic writing and critical sense](composting-logbooks-academic-writing-strategy.md)
 
 ## Examples
 - **Dialogue journals in elementary science** — students record predictions and observations during investigations, then reread at unit's end to compare initial predictions with outcomes, revising their ideas in writing.

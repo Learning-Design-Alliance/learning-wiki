@@ -50,3 +50,4 @@ Exploratory Kruskal–Wallis test of the distractor distribution index across Ch
 - [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related
 - [Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE](perceived-alignment-does-not-differ-ai-vs-nle.md) — related
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
+- [In initial comparisons, the authors did not observe significant differences between ChatGPT and Google AI Studio in the MCQs generated from the same lecture materials](no-observed-differences-llm-apps-mcq-generation.md) — related

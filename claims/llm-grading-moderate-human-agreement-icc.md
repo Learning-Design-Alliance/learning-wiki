@@ -55,3 +55,5 @@ Comparison of each model's grades with human teachers' grades using ICC(2,1) ove
 - [Teachers systematically assign higher grades than all evaluated LLM grading models](teachers-grade-higher-than-all-llm-models.md) — related
 - [Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration](llama-strongest-human-llm-alignment-claude-weakest.md) — related
 - [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](claude3-palm2-substantial-agreement-failing-grades.md) — reports the opposite
+- [Claude-3.7-Sonnet LLM grading preserved student performance rankings relative to human graders (R² = 0.83) while being systematically more stringent](claude-llm-grading-rank-preservation.md) — reports the opposite
+- [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related

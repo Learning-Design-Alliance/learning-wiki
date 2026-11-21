@@ -50,6 +50,7 @@ The article reports five design principles used to redesign the course: collabor
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](trialogical-pedagogical-scenarios.md)
 - [Use open-ended, modeling-focused collaborative tasks with embedded scaffolds to support group disciplinary engagement](open-modeling-tasks-scaffold-gde.md)
 - [Mentor-supported implementation sequence: pre-course orientation workshops, one-on-one topic selection and individualized learning contracts](mentor-supported-topic-selection-implementation-sequence.md)
+- [Select course project topics for direct industry relevance in near-term application categories](qel-industry-relevant-topic-selection.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Mann-Whitney U comparison of post-intervention cognitive load in the cluster-ran
 - [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — related
 - [Chatbot-guided feedback SRL improved university students' meta-cognition tendency and self-regulated learning more than conventional SRL](srl-cgf-improves-metacognition-and-srl.md) — related
 - [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related
+- [Dashboard use increases test anxiety and mental load but not mental effort](srl-lad-increases-anxiety-mental-load.md) — related

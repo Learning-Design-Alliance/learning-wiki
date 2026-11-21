@@ -55,3 +55,5 @@ Similarly, gpt-5 (0.378) performs better than gpt-5-nano (0.314), and gpt-4o
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
 - [GPT-4o with few-shot learning offers the best balance of performance, cost, and speed for large-scale assessment, far cheaper than human grading](gpt4o-fewshot-preferred-cost-speed.md) — related
 - [GPT-4o self-consistency mode grading of physics explanations reaches agreement with human graders almost identical to the agreement between the human graders themselves](gpt4o-self-consistency-human-level-grading-agreement.md) — related
+- [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related
+- [Sycophancy effects are generally much larger for smaller LLMs, and the newer GPT-4.1 shows more sycophancy than GPT-4o](sycophancy-larger-in-smaller-models.md) — related

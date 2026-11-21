@@ -56,6 +56,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Use diagnostic quizzing and real-time recall accuracy data to classify learning-object difficulty and tailor instruction](recall-accuracy-diagnostic-tailoring-strategy.md)
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
+- [Adapt GPP scaffolding intensity to individual student proficiency](adaptive-gpp-scaffolding-strategy.md)
 
 ## Examples
 -

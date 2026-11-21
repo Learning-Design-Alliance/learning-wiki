@@ -76,6 +76,7 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](../strategies/post-activity-discussion-static-friction-strategy.md)
 - [Introduce quantum topics through analogies with familiar classical engineering content, from classical control theory to Fourier filter design.](../strategies/classical-first-analogies-quantum-engineering-teaching.md)
 - [Short writing assignments expressing abstract quantum ideas via analogies and concrete models](../strategies/short-essays-analogies-abstract-quantum-ideas.md)
+- [Use hands-on analogies and physical props to ground abstract quantum concepts](../strategies/qcamp-hands-on-analogy-strategy.md)
 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155-170. [https://doi.org/10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)

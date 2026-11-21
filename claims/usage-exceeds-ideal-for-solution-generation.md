@@ -50,3 +50,4 @@ Comparison of self-reported usage frequency against beliefs about ideal usage fo
 - [Despite skepticism about learning benefits, physics students report using LLMs regularly, motivated primarily by convenience and deadline pressure](llm-use-motivated-by-convenience-and-deadlines.md) — related
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related
+- [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related

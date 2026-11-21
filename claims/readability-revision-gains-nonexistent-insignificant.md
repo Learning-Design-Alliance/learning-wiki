@@ -60,3 +60,5 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [LA-driven GenAI feedback was significantly more readable than tutor feedback in an online statistics course](genai-feedback-more-readable-than-tutor.md) — related
 - [LLM-generated leveled texts skew more complex than the intended Lexile level regardless of model or prompting approach](generated-texts-skew-more-complex-than-intended.md) — related
 - [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — a broader claim this one bears on
+- [Challenging feedback is easier to read than other tones for easy questions but converges with them at hard difficulty](challenging-tone-readability-interaction.md) — related
+- [Participants misjudge readability, treating more readable texts as human-written; feedback partially corrects this misconception](readability-misattribution-ai-texts.md) — related

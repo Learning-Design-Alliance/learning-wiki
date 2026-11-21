@@ -57,3 +57,4 @@ Case observation reported at the March 2025 ribbon cutting: a student on only hi
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
 - [Graduate HCI design students found GenAI most useful in the execution phase of design, enabling faster prototyping iterations and freeing time for critical thinking](genai-execution-phase-faster-prototyping.md) — a broader claim this one bears on
+- [Industry mentors reported learners became comfortable with Python and used ChatGPT as just-in-time support for troubleshooting](mentor-reports-chatgpt-just-in-time-support.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-21
 sources:
   - id: joel-a-walsh-2021
     resource: "https://doi.org/10.1088/1361-6552/ac3dc2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using classical optics, especially polarization, provided a clear and accessible representation of quantum states and gate operators and facilitated learning and transfer to other STEM skills. [→ Joel A. Walsh 2021](#joel-a-walsh-2021)

@@ -51,3 +51,4 @@ The article reports, citing the authors' prior publication on CTT metrics applie
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [The CMR CUE shows acceptable whole-test discrimination (Ferguson's Delta = 0.99) and internal consistency (Cronbach's α = 0.82)](cmr-cue-ferguson-delta-and-cronbach-alpha.md) — related
+- [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related

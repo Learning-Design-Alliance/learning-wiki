@@ -46,3 +46,4 @@ Behavioral data analysis in Phase 1 found "about 6.9 % of participants (n = 68)"
 
 ## Related Claims
 - [Teachers engaged with research beyond reading: over 2,600 subscribers clicked a link to an academic article on test anxiety, and many requested the survey and research-methods information](teachers-eager-to-conduct-research-themselves.md) — related
+- [Textbook-link engagement rose from approximately 28% of students at midterm 1 to approximately 39% by midterm 3](textbook-link-engagement-rose-28-to-39-percent.md) — related

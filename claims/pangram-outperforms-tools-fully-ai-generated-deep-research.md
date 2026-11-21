@@ -79,3 +79,4 @@ Same classification accuracy analysis of the 40 fully AI-generated papers. The a
 - [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related
 - [GPTZero, an AI detector built for writing, fails to detect AI-generated code, assigning AI solutions lower suspicion scores than human solutions](gptzero-fails-ai-generated-code.md) — related
 - [Among five AI-detection tools, ZeroGPT was most accurate at 98% with precision 1.00 on binary classification](zerogpt-best-ai-detector-98-accuracy.md) — related
+- [A stylometric logistic-regression baseline outperformed GPTZero, achieving 77% accuracy on short-answer detection](stylometric-baseline-beats-gptzero.md) — related

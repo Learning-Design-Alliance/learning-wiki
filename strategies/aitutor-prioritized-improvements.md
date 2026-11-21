@@ -45,6 +45,7 @@ Based on field findings and participants' explicit requests, the authors list fi
 ## Related Strategies
 
 - [Continuous user participation and feedback mechanism for iterative system improvement](user-participation-feedback-iteration-strategy.md)
+- [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
 
 ## Examples
 -

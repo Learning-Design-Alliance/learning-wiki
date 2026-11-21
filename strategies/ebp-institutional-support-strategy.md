@@ -70,6 +70,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Modify the Vietnamese physical therapy curriculum and use journal clubs to build EBP capacity and reduce the English language barrier](curriculum-and-journal-club-strategy-for-ebp-vietnam.md)
 - [Use interactive and clinically integrated teaching strategies, with librarian collaboration, to build EBP knowledge and skills](interactive-clinically-integrated-ebp-teaching-strategy.md)
 - [Post-course refreshers, support and mentorship, plus preparing placement sites and educating nurses, families and policy makers about palliative care](palliative-transfer-support-strategy.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ dVSS post-test learning-curve results for the Sea Spikes 1 task. The article rep
 - [Low-cost home simulation kits did not significantly improve medical students' Sea Spikes 1 scores on the da Vinci Skills Simulator relative to a no-kit control after two weeks](home-simulation-kit-no-dvss-score-gain.md) — related
 - [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](teleoperation-error-metrics-decrease-over-training.md) — related
 - [Learning curves showed similar shapes between the PoLaRS and dVSS systems and between the test and control groups](similar-learning-curve-shapes-polars-dvss.md) — related
+- [Task completion time decreased across sessions for both systems, with no statistically significant effect of task complexity and no significant difference between systems](no-significant-timing-difference-systems.md) — related

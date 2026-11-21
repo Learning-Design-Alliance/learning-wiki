@@ -71,3 +71,4 @@ Cross-condition comparison of the QA readability results: under implicit conditi
 - [Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects](implicit-cues-unpredictable-effects-open-ended-tasks.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [The EBMQ is readable at Flesch reading ease 61.2, within the average-document range](ebmq-flesch-reading-ease-612.md) — related
+- [Participants misjudge readability, treating more readable texts as human-written; feedback partially corrects this misconception](readability-misattribution-ai-texts.md) — related

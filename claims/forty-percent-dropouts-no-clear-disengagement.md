@@ -50,3 +50,4 @@ The review reports, citing Bowers & Sprott and Janosz and colleagues, that "as m
 - [Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates](algebra-failure-linked-to-ninth-grade-disengagement.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
+- [Student dropouts, rather than lack of effort, are the dominant weak-link problem in the QEL's team structure](qel-weak-links-dropout-challenge.md) — related

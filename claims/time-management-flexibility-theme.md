@@ -51,3 +51,4 @@ Reflexive thematic analysis of the 30 interviews; theme 2. Asynchronous students
 - [OLM students reported self-paced viewing as beneficial for retention and motivation, and studied longer than the scheduled lecture time](olm-self-paced-benefits-and-study-time.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [Medical students experienced a digital Prezi presentation as supporting ownership of their learning through flexibility and increased engagement](prezi-presentation-student-ownership-of-learning.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

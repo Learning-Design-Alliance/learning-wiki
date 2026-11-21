@@ -69,3 +69,4 @@ Measurement equivalence testing of the four-profile LPA across ethnoracial backg
 - [Ethnoracially minoritized youth were more likely than White youth to be in the low-support and moderate-devoid-critical profiles than in the high general, cultural, & critical support profile](minoritized-youth-less-likely-highest-support-profile.md) — reports the opposite
 - [Most adolescents (83%) experience moderate-to-high culturally relevant school support, with few experiencing very low or very high levels](majority-in-mid-level-support-profiles.md) — related
 - [The four support profiles are characterized by distinct relative levels: one profile is low on all dimensions, and one profile is high on all three dimensions](low-and-high-support-profile-characteristics.md) — related
+- [Spatial presence differed by cultural background but not by age group or learning environment, with no significant post-hoc group differences](spatial-presence-culture-difference.md) — related

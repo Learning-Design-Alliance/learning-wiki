@@ -46,6 +46,7 @@ The article proposes a five-step methodology to involve university students acti
 ## Related Strategies
 
 - [Forty-hour intersemester training course introducing exact-science teachers to the smartphone-app method](forty-hour-teacher-smartphone-training-course.md)
+- [Quantum Straw activity sequence: hands-on smartphone spectroscopy with collaborative data pooling and a low-cost spectrometer](quantum-straw-activity-sequence.md)
 
 ## Examples
 -

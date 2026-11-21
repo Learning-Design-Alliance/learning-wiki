@@ -75,3 +75,4 @@ Cross-correlation analysis of the regression's independent variables (Appendix C
 - [Minority Serving Institutions show higher mean quantum hours (79.4) than the larger sample, suggesting no disparity in instructional time](msi-quantum-hours-higher-mean.md) — related
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [One-third of sampled institutions offer no course mentioning quantum, with significant differences by Carnegie classification and MSI status](one-third-institutions-no-quantum-courses.md) — reports the opposite
+- [Minority Serving Institutions show the same institutional-type pattern, with quantum and QISE courses concentrated at masters and PhD-granting MSIs](msi-quantum-course-availability-pattern.md) — related

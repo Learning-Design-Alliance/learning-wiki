@@ -53,3 +53,4 @@ Repeated-measures ANOVA (Table 4) in the pilot RCT testing group (experimental v
 - [The escape room-based physical activity intervention significantly increases adolescent well-being](escape-room-pa-increases-well-being.md) — a narrower finding that bears on this claim
 - [The escape room-based physical activity intervention significantly reduces perceived stress and self-imposed academic pressure in adolescents](escape-room-pa-reduces-stress-and-self-pressure.md) — a narrower finding that bears on this claim
 - [Perceived stress increased significantly across the year for the traditional assessment cohort but not for the progress testing cohort](pt-reduced-stress-traditional-increase.md) — related
+- [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — reports the opposite

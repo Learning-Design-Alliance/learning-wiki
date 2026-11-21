@@ -49,3 +49,4 @@ Figure 2 comparison of BVI (red) and non-BVI (magenta) audience answers to the u
 - [Both BVI and non-BVI audiences found the show's sound representations useful and enjoyable, with roughly 90% scoring 4 or 5](sounds-useful-enjoyable-bvi-non-bvi.md) — related
 - [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related
 - [Children were more likely than adults to become more convinced that astronomy is accessible for BVI people after the show (81% vs 71%)](children-more-convinced-than-adults.md) — related
+- [Audiences perceived the original AUTSS sonifications as enjoyable and useful irrespective of their level of vision](autss-sonifications-enjoyable-useful-irrespective-of-vision.md) — a broader claim this one bears on

@@ -60,3 +60,4 @@ This article reports, citing Fox et al. (reference 17), results from in-depth in
 - [Coded profession discussion shows engineering dominates (46%) with software engineers most frequent, and start-ups discuss more roles than other company types](qt-professions-coding-distribution.md) — related
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related
+- [The review reports that academic degrees alone cannot provide the job-ready skills the quantum industry desires, and that industry experience and up-skilling should be utilized.](degrees-insufficient-quantum-job-ready-skills.md) — related

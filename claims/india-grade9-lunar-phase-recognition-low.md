@@ -71,3 +71,4 @@ Demographic analysis of phase-identification responses using chi-square tests. T
 - [Bidimensional textbook schemes of the lunar phases hinder understanding of the three-dimensional phenomenon and blur the distinction between phases and eclipses](bidimensional-schemes-hinder-phase-learning.md) — related
 - [Indian students show gaps in connecting lunar festivals to astronomy, with resource-poor and female students outperforming on cultural-festival questions](india-students-lunar-festival-cultural-connection-gaps.md) — related
 - [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — a broader claim this one bears on
+- [67% of Boyacá secondary students correctly identify the lunar phases, the strongest-performing astronomy topic assessed](boyaca-students-lunar-phases-67-percent-correct.md) — related

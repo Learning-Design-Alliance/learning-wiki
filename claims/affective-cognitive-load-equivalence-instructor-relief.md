@@ -70,3 +70,4 @@ Medical Emotion Scale self-reports before, during, and after training, analyzed 
 - [The confidence interval excludes the prespecified 3-point clinically relevant difference, suggesting equivalence of the two debriefing timings](debriefing-timing-equivalence-three-point-threshold.md) — related
 - [Both self-debriefing and instructor debriefing significantly improved CRM performance, with similar effectiveness between the two formats](both-debriefing-types-effective-and-similar.md) — related
 - [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related
+- [The three instructional conditions did not differ significantly in cognitive, emotional, or behavioral engagement](no-group-differences-engagement.md) — related

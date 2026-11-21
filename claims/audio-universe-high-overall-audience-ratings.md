@@ -51,3 +51,4 @@ Audience evaluation of the show using paper and online feedback forms in English
 - [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related
 - [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related
 - [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related
+- [Audiences perceived the original AUTSS sonifications as enjoyable and useful irrespective of their level of vision](autss-sonifications-enjoyable-useful-irrespective-of-vision.md) — related

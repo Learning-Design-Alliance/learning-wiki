@@ -48,3 +48,4 @@ Participant feedback survey collected from 16 participants a week after the hack
 - [Nine of the 14 hackathon winners participated in further quantum-related events within six months of the hackathon](hackathon-winners-continued-quantum-engagement.md) — related
 - [Participants report universally positive experiences and strong intentions to return to future SK Day events](sk-day-universally-positive-survey-replies.md) — related
 - [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — related
+- [Hackathon participants reported increases in understanding, interest, skills, and confidence, and most expected to apply what they learned within the following year](hackathon-self-reported-gains-and-adoption.md) — related

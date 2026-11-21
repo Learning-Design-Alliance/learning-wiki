@@ -54,3 +54,4 @@ Quasi-experimental repeated-measures study of 25 surgeons performing three conse
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related
+- [Task completion time decreased across sessions for both systems, with no statistically significant effect of task complexity and no significant difference between systems](no-significant-timing-difference-systems.md) — related

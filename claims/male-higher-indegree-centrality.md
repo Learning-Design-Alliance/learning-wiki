@@ -47,3 +47,4 @@ Bootstrapped gender comparisons of network centrality found no difference in out
 ## Related Claims
 - [PageRank centrality in the classroom social network predicted post self-efficacy scores controlling for pre scores](pagerank-predicts-post-self-efficacy.md) — related
 - [Students with greater outdegree in the classroom network experience larger decreases in physics anxiety over the semester, controlling for pre anxiety, gender, and final grade](outdegree-predicts-anxiety-decrease.md) — related
+- [Female and male students’ IPLS drawings differ in element centrality with large effect sizes: female drawings centralize self and group members, male drawings centralize the instructor](gender-differences-drawing-centrality.md) — related

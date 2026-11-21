@@ -66,3 +66,4 @@ A multiphase mixed-method study used a modified Delphi technique with 24 nationa
 - [An expert panel prioritized nine of 23 improvement actions, grouped into program competitiveness, prebriefing, and debriefing categories](expert-panel-nine-prioritized-actions.md) — related
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
+- [Iterative expert content validation produced strong content validity for QISCIT, with average CVI rising to 0.97 and expert accuracy to 91% in the final 31-item version](qiscit-content-validity-cvi-097.md) — related

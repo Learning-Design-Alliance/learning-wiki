@@ -68,3 +68,4 @@ Coded responses to question A3 in the same interview study. The article reports 
 - [Experienced nurses and student nurses differ in the cues they emphasise, with experienced nurses weighting consciousness level and systolic blood pressure more and respiration rate less in paper cases](experienced-versus-student-nurse-cue-weights.md) — related
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
 - [Writing the famous formula as E = mc2 without the subscript 0 generates the false idea that mass depends on velocity](e-mc2-subscript-confusion.md) — related
+- [Cluster 3 heavily favored Wrong Answer 1 (final velocity equal to initial velocity) and under-selected the correct answer](cluster3-wrong-answer1-residual.md) — related

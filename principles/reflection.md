@@ -39,7 +39,7 @@ sources:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 31 studies (9 causal, 6 quant-synthesis, 6 review, 5 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 31 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 33 studies (11 causal, 6 quant-synthesis, 6 review, 5 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 33 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Re-read 2026-10-19: twelve of the fourteen claims listed here were read against 
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](../claims/reflective-practice-deeper-understanding-effectiveness.md) [+W] — a summary assertion in one ERIC digest with no data behind it; it names a benefit but no design condition, so it changes nothing above.
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](../claims/personalized-coaching-coherence-fit.md) [+W] — a survey of coached and non-coached teachers on how well their professional development fitted their needs; it is about coaching, not reflection, and bears on this page only through the coach in the teacher-education row.
 - [In Luddy VR, experiment-cohort users who completed a Reflective phase with data visualizations achieved significantly faster completion times in their second navigation trial than control users](../claims/luddy-vr-reflective-phase-faster-trial2-completion.md) [+W] — attached 2026-11-19 from Bueckle et al. (2021), which proposed "Reflective phase: inspecting visualizations of one's own task data between two task sets"; tests this page's relationship.
+- [Students reported transferring confidence-rating and explanation strategies from the practice tool to actual midterms and future courses](../claims/metacognitive-strategies-transferred-to-real-exams.md) [+W] — attached 2026-11-21 from How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transfor, which proposed "Embed structured reflection requirements (confidence ratings and explanations) into practice assessments, as these may matter more than feedback sophistication"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -77,3 +77,5 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [The Opener produced no difference on pre/post test scores across the whole project](opener-no-prepost-test-difference.md) — related
 - [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related
+- [In Experiment 1, neither recommendation condition significantly affected physics performance across the whole sample](exp1-whole-sample-null-achievement.md) — related
+- [The ITS and human tutor conditions did not differ significantly at immediate or delayed post-test](guru-no-difference-human-tutors.md) — related

@@ -61,3 +61,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — related
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related
 - [Students reported that writing about science deepened their comprehension of material and bridged STEM content with their humanities interests](sciwri-writing-deepened-comprehension-bridged-humanities.md) — related
+- [Large computational projects served as a critical forum for developing computational problem-solving skills by forcing students to focus on the most important aspects of a problem and abstract away the rest](large-projects-build-problem-solving-abstraction.md) — related

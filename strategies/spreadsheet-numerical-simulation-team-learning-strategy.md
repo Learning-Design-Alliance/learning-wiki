@@ -49,6 +49,7 @@ The article recommends having students solve the multiple-body motion equations 
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 - [Incorporate conceptually-rich, engaging real-world and astronomical contexts into introductory physics problems and instruction](engaging-real-world-contexts-intro-physics-problems.md)
+- [Guided Google Sheets laboratory exercise in which first-year physics students iteratively implement the Euler-method approximation](google-sheets-euler-iteration-lab.md)
 
 ## Examples
 -

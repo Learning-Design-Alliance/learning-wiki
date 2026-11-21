@@ -84,3 +84,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Cluster membership is not associated with teacher sex, department, work experience, or hospital level](cluster-membership-no-demographic-association.md) — related
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
 - [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related
+- [Hybrid cluster membership is statistically significantly associated with students' multiple-choice answer selection on a physics quiz question](cluster-membership-associated-with-mc-answers.md) — related

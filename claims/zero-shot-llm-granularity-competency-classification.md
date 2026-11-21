@@ -80,3 +80,4 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
 - [Three-level skill classification provides more informative feedback than binary high/low classification but makes the task harder](three-class-skill-grading-more-informative-than-binary.md) — related
 - [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related
+- [LLMs outperform a PoS-based baseline and a random baseline on word-level CEFR prediction of L2 learner writing, with the largest gains on ambiguous words](llms-beat-pos-baseline-word-level-cefr.md) — related

@@ -54,3 +54,4 @@ Case-study analysis of three multilingual international students (Pengxi, Haoyu,
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — a narrower finding that bears on this claim
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related
+- [Script&Shift rated marginally higher than chat on maintaining original voice, with no significant difference on the AI-did-not-replace-my-writing item](voice-preservation-marginal-no-difference-replacement.md) — related

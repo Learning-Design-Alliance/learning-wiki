@@ -132,3 +132,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Baseline self-efficacy and knowledge differed by university type and GPA, and gain patterns differed: public students started higher while private students and low-GPA students gained more](demographic-moderators-of-training-gains.md) — related
 - [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related
 - [Pre-course motivation to learn predicts post-course SEPCQ scores, supporting self-regulated learning theory](motivation-predicts-sepcq-gains.md) — related
+- [A theory-driven SRL learning analytics dashboard improves academic writing knowledge gains in human-AI collaborative writing](srl-lad-improves-writing-knowledge-gains.md) — related

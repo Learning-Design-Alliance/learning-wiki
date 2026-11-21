@@ -51,4 +51,4 @@ A one-hour class activity in which students formulate investigative questions ab
 -
 
 ## Key Sources
-- Newland, J. (2025). Using Data Science in High School Astronomy. ASP Conference Series. https://arxiv.org/abs/2501.04856
+- Newland, J. (2025). Using Data Science in High School Astronomy. ASP Conference Series. https://arxiv.org/abs/2501.04856. [doi:10.48550/arxiv.2501.04856](https://doi.org/10.48550/arxiv.2501.04856)

@@ -42,6 +42,7 @@ For crews facing Earth-independent operation, the review recommends team trainin
 - [Phase-based behavioral readiness training spanning pre-flight, in-flight, and post-flight](phase-based-behavioral-readiness-training.md)
 - [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
 - [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
+- [Use immersive standardized VR training modules to prepare astronauts for rapid molecular diagnostics in space](vr-astronaut-dna-diagnostic-training-strategy.md)
 
 ## Examples
 -

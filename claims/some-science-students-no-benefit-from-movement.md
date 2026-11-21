@@ -49,3 +49,4 @@ In the same qualitative focus-group data, dissenting science students stated the
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related
 - [Science students tended to translate scientific concepts literally into choreography while dance students sought creative exploration, creating a disconnect](literal-translation-versus-choreographic-exploration-disconnect.md) — related
 - [Science students reported that embodying scientific concepts through choreography deepened their understanding of those concepts](embodied-choreography-deepened-science-concept-understanding.md) — reports the opposite
+- [Improvisation led student-actors to engage intellectually, physically and intuitively with the play's theme and was essential for performing the scenes correctly.](improvisation-intellectual-physical-engagement.md) — related

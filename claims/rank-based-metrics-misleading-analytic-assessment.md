@@ -56,3 +56,4 @@ Correlational analysis in Section 3.3 (Table 3): e.g. GPT-4.1 prompted for holis
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related
 - [Dr Scratch's CT assessment correlates positively and significantly with classic software complexity metrics](dr-scratch-validated-against-complexity-metrics.md) — related
 - [Form-substance discrimination develops from novice holistic impressions toward expert analytical separation and responds to pedagogical intervention](fsd-developmental-trajectory-novice-to-expert.md) — related
+- [Word-level CEFR distributions predicted with an LLM differentiate essay-level proficiency bands better than PoS-based predictions and yield stronger holistic-score correlations on EFCAMDAT](llm-word-features-essay-proficiency-efcamdat.md) — related

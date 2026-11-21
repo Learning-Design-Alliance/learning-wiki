@@ -54,3 +54,4 @@ Experiment 3, 48 online adults made a second-order judgment (100 minus expected 
 - [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [Feedback combining metacognitive information with performance and correctness information outperforms no or corrective feedback](metacognitive-plus-correctness-feedback-greater-effects.md) — related
+- [Students engaged most thoroughly with feedback when their confidence mismatched the outcome, especially when highly confident answers were wrong](confidence-outcome-mismatch-drives-feedback-engagement.md) — related

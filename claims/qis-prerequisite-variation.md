@@ -53,3 +53,4 @@ Survey item on required prerequisites, coded by discipline and typical undergrad
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
 - [Advanced mathematical prerequisites, especially linear algebra, are the main barrier to entry in introductory quantum information courses](linear-algebra-prerequisite-barrier-quantum-courses.md) — related
 - [Most QISE courses in physics require quantum mechanics or linear algebra prerequisites, but a subset require neither](qise-course-prerequisites-physics.md) — related
+- [The article claims a self-contained introduction to GKP qubits is achievable for CS-background learners with prerequisites limited to undergraduate linear algebra, probability theory, classical coding theory, and basic complex numbers](gkp-session-cs-prerequisites-only.md) — a narrower finding that bears on this claim

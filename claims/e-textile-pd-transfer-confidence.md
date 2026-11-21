@@ -72,3 +72,4 @@ Same transfer survey (N = 31). The art-dimension item (M = 5.68, SD = 1.25) was 
 - [Teachers report high perceived benefits from e-textile-supported STEAM PD, with interdisciplinary learning and creativity most endorsed and Arduino coding least](e-textile-pd-perceived-benefits.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [The study could not determine whether knowledge gains transferred to participants' classroom teaching](no-follow-through-classroom-transfer-unknown.md) — related
+- [Teachers' self-reported confidence in using digital tools (68%) exceeds their regular classroom integration of digital tools (45%)](teacher-confidence-integration-gap-digital-tools.md) — related

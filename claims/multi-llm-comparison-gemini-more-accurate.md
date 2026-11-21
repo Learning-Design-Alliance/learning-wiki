@@ -50,3 +50,4 @@ From Dataset 1: group G4 compared outputs of three LLMs (ChatGPT-3.5, Gemini-1.5
 - [Commercial text-to-image models produce accurate images for broad nuclear concepts but fail on specialized engineering prompts](commercial-models-fail-specialized-nuclear-prompts.md) — related
 - [Gemini-3-flash achieved the highest rubric-item accuracy, ranging from 89% on Course 2 to over 99% on Course 1](gemini-3-flash-highest-rubric-item-accuracy.md) — related
 - [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md) — related
+- [Text-based GenAI tools produced accurate responses in over 90% of cases on undergraduate textbook-difficulty questions](text-genai-over-90-percent-accurate-textbook-questions.md) — related

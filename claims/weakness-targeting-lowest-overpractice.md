@@ -47,3 +47,4 @@ Baseline simulation results without constraints (Figure 2) across eight strategi
 ## Related Claims
 - [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — related
 - [The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning](risk-averse-task-selection-high-overpractice.md) — related
+- [Real students in the source dataset experienced considerable overpractice across all nine equation-solving skills](real-students-overpractice-across-all-skills.md) — related

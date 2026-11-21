@@ -41,6 +41,7 @@ The article's ethics section recommends a microethical implementation for the sp
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Use audio-only recording (with transcription) for privacy-preserving automated discourse assessment](audio-only-privacy-preserving-discourse-assessment.md)
 
 ## Examples
 -

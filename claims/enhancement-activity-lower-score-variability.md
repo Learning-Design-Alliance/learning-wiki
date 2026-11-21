@@ -47,3 +47,4 @@ Descriptive comparison of post-test standard deviations in Table 1; the article 
 ## Related Claims
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [Student work varies more in the uniform school environment than across varied home environments](school-environment-greater-variability-than-home.md) — reports the opposite
+- [Learning gains were more consistent (lower standard deviation) among Feynman Bot learners than passive learners, including a negative gain in the control group](feynman-bot-consistent-gains.md) — related

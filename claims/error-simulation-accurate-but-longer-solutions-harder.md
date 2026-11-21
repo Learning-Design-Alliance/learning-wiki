@@ -72,3 +72,4 @@ Secondary comparison of solution step counts for problems where the targeted dis
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
 - [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — related
+- [In a simulated educational context, LLM accuracy rises when the student mentions the correct answer and degrades when the student mentions an incorrect answer](llm-accuracy-shifts-when-students-mention-answers.md) — related

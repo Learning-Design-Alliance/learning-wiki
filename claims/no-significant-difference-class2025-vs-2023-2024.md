@@ -53,3 +53,5 @@ Chi-square comparison using the Class of 2025 as an in-person control cohort, al
 - [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
 - [Virtual ALG was rated better for work-life balance: 71.1% did not indicate better work-life balance during in-person ALG](virtual-alg-better-work-life-balance.md) — related
 - [Students who experienced both formats mostly rated in-person ALG better for education, participation, camaraderie, teamwork, confidence, and faculty relationships](in-person-alg-majority-ratings-better.md) — related
+- [A Bell test virtual laboratory activity enabled over 80% of surveyed general education students to report benefiting from the virtual laboratory (χ² test did not reject H02)](qlab-bell-test-over-80-percent-benefit.md) — related
+- [Students' answers to a survey question on a virtual quantum-information laboratory departed significantly from an even spread across its five options (χ²=50.71 in 2022–2023, χ²=43.43 in 2023–2024)](qlab-significant-impact-chi-square.md) — related

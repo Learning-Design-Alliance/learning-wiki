@@ -61,3 +61,4 @@ Null comparison within the same annotation study: for GPT-5.2 and GPT-4o under h
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
 - [Prompt refinement significantly improves GPT-3.5 agreement with human rater 1 but not, statistically, with rater 2](scaffolded-cot-significance-by-rater.md) — related
+- [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related

@@ -88,3 +88,4 @@ Table 3 results for ECKT under causal rectification. The authors attribute ECKT'
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related
 - [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality and can systematically overestimate PKT model performance](pkt-temporal-causality-violation-inflates-performance.md) — related
 - [HyperOpt tuning also improves predictions of target students' performance on unseen later problems (temporal cross-validation)](tuned-agents-better-unseen-data.md) — related
+- [Concatenating SANN code vectors with DKT inputs improves next-attempt prediction by about 10% AUC over original DKT](sann-code-vectors-improve-knowledge-tracing.md) — reports the opposite

@@ -48,6 +48,7 @@ Participants' open-ended questionnaire answers should drive the next iteration o
 - [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 - [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
 - [Provide real-time audio feedback during CPR training, supplemented with visualisations and end-of-session dashboards](real-time-audio-feedback-cpr-strategy.md)
+- [Refine AI multimodal feedback by enhancing explanation clarity, building trust mechanisms, adding adaptive scaffolding, and extending feedback channels](refine-ai-multimodal-feedback-clarity-trust-scaffolding.md)
 
 ## Examples
 -

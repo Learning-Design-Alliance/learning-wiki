@@ -48,6 +48,7 @@ The article frames new QISE programs as an opportunity to address equity: "QISE 
 - [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
 - [Advocate equal opportunities, inclusion, and diversity when developing a cutting-edge quantum curriculum](inclusion-diversity-in-quantum-curriculum-development.md)
 - [Direct QIS education investment toward primarily-undergraduate, low-income-serving, and rural institutions and support grassroots diversity initiatives](invest-qis-education-underrepresented-institutions.md)
+- [Expand QISE access by embedding QISE concepts into existing engineering courses, investing at non-PhD-granting institutions, and offering interdisciplinary courses](embed-qise-existing-engineering-courses.md)
 
 ## Examples
 -

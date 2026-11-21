@@ -48,3 +48,4 @@ Secondary within-S-group comparison in the same course: Group A mastered the sel
 - [Questions never mastered show no change in retention from initial exam to final exam](never-mastered-questions-no-retention-change.md) — related
 - [Final-exam performance of students who initially mastered material is indistinguishable from that of students who used the oral retest intervention](oral-retest-closes-retention-gap.md) — related
 - [Content-retention scores rose from initial exam to final exam among students who initially failed to master microbiology course material and mastered it during oral examination retesting](oral-retest-improves-retention-low-performers.md) — related
+- [The play's script was built to revisit concepts from earlier sketches to familiarize the audience with the concepts and scientific language used.](script-revisits-earlier-sketch-concepts.md) — related

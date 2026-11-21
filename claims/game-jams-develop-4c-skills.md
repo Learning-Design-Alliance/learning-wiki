@@ -52,3 +52,5 @@ Thematic analysis (Atlas.ti, hermeneutic approach) of pre/post surveys, 40 inter
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related
+- [Outreach participants report frequent use of and preparation in 21st-century career skills including communication, creativity, and networking](outreach-career-skills-use-preparation.md) — related
+- [Designing and creating demonstrations for outreach contributed to enhancing students' physics knowledge through constructionist creation activities (disciplinary development cluster)](outreach-demonstration-design-enhances-physics-knowledge.md) — a narrower finding that bears on this claim

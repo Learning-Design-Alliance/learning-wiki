@@ -50,3 +50,4 @@ Experimental comparison reported in Section 4.2 and Table 1, evaluating the prom
 - [The prompt-based method achieves contextual relevance scores of 0.89 to 0.92 across the four LLMs on the GPT-4 based scoring metric](llm-contextual-scores-089-092.md) — a narrower finding that bears on this claim
 - [GPT-4's chain-of-thought reasoning, captured via structured output, was consistently reliable and appeared to provide logical, context-grounded justification usable for prompt tuning and end-user insight](gpt4-cot-reasoning-reliable-transparent.md) — related
 - [The prompt-based method correctly identified subtle mixed-emotion and nuanced-feedback cues that the base model and CoT method missed](prompt-method-captures-subtle-emotion-cues.md) — a narrower finding that bears on this claim
+- [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related

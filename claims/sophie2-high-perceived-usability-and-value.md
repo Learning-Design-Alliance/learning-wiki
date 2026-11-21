@@ -75,3 +75,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Participants give positive feedback on AR visual and audio perception and on gesture and voice interaction](positive-usability-feedback-perception-interaction.md) — related
 - [Students rated the automated testing station very positively, with mean scores of 5.3/6 for instructional organisation and 5.0/6 for usability](students-rate-automated-bls-testing-positively.md) — related
 - [Participants reported the case study format and small-group interaction were effective and engaging for learning RAI concepts](case-study-format-engagement-effectiveness.md) — related
+- [SOPHIE participants reported significantly greater perceived improvement in their communication skills than controls (4.31 vs 3.83 on a 5-point scale)](sophie-higher-perceived-skill-improvement.md) — related

@@ -100,6 +100,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 - [Three-phase CPS teacher-updating course: instruction, teacher-as-learner practice, and coached student testing](cps-teacher-updating-course-structure.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

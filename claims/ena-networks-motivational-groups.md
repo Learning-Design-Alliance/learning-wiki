@@ -86,3 +86,4 @@ Mann-Whitney U tests on ENA centroid coordinates found no significant group diff
 - [Global efficiency declined across stages where tested while local efficiency differed significantly between stages in each task](eeg-efficiency-stage-changes.md) — related
 - [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](acf-pa-improves-intrinsic-motivation.md) — related
 - [Self-directed learning in postgraduate PBL develops along a trajectory from initially triggered motivation to sustained reinforcement through reflection](pbl-self-directed-learning-trajectory.md) — related
+- [Dashboard use shifts learner-GenAI dialogue toward reflective, evaluative questioning rather than transactional information-seeking](srl-lad-shifts-dialogue-reflective-evaluative.md) — related

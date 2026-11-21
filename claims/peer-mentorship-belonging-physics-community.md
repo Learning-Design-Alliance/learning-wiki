@@ -62,3 +62,4 @@ Qualitative interview findings from five women physics majors; participants desc
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related
 - [Student-led near-peer mentoring programs cultivate student agency and ownership of learning environments by involving students in designing equitable and accessible spaces](near-peer-programs-cultivate-student-agency-ownership.md) — related
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related

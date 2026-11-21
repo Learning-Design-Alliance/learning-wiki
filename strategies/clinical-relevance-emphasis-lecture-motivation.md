@@ -47,6 +47,7 @@ The article proposes that connecting lecture content to future professional prac
 - [Connect Writing to Real-World Applications](connect_writing_to_real-world_applications.md)
 - [Utility Value Connections](utility-value-connections.md)
 - [Teaching practices for bridging identity gaps in lecture courses serving URM students](identity-bridging-lecture-teaching-practices.md)
+- [Extend workshop duration and emphasize practical, enterprise-relevant applications in future iterations](extend-duration-enterprise-applications-strategy.md)
 
 ## Examples
 -

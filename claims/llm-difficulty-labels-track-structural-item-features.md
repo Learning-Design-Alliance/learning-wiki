@@ -57,3 +57,4 @@ Stage 1 analysis of the 378 authored items (126 per label) showed mean stem leng
 - [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — related
 - [The intermediate performance declines cannot be consistently attributed to changes in question difficulty across quizzes](declines-not-question-difficulty.md) — related
 - [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related
+- [AI-generated feedback length and readability increase with question difficulty](feedback-length-readability-increase-with-difficulty.md) — related

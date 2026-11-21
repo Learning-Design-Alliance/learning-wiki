@@ -51,3 +51,5 @@ Self-reported confidence in communication skills was a secondary outcome in the 
 - [SOPHIE training produces greater pre-to-post improvement in Be Explicit communication skill than a reading module](sophie-greater-be-explicit-improvement-vs-reading.md) — related
 - [SOPHIE training produces greater pre-to-post improvement in overall communication score than a reading module](sophie-greater-overall-improvement-vs-reading.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
+- [SOPHIE participants reported significantly greater perceived improvement in their communication skills than controls (4.31 vs 3.83 on a 5-point scale)](sophie-higher-perceived-skill-improvement.md) — related
+- [In a randomized controlled trial, SOPHIE training produced significantly greater pre-post gains in serious illness communication skills than a written reading module, with large effect sizes for the SOPHIE arm](sophie-rct-greater-sic-gains-than-reading-control.md) — related

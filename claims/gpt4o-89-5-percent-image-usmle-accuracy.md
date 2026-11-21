@@ -64,3 +64,4 @@ Evaluation of all 38 publicly available image-based USMLE Step 1 and Step 2 CK s
 - [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related
 - [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related
 - [GPT-4o answered only 59% of pre-test questions correctly, with accuracy dropping sharply as the number of images per question increased](gpt4o-fci-accuracy-drops-with-images.md) — related
+- [Within each provider's model family, successive performance tiers correlate with roughly 10–20 percentage-point accuracy increases](provider-tier-correlates-10-20-point-gains.md) — a broader claim this one bears on

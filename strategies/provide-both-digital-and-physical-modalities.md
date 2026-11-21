@@ -51,6 +51,7 @@ The article recommends offering complementary digital and physical resources in 
 - [Provide opportunities for both collaborative and individual learning to accommodate differing learning preferences](provide-collaborative-and-individual-learning-opportunities.md)
 - [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
 - [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
+- [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
 
 ## Examples
 -

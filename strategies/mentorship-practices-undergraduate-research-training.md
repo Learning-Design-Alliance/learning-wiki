@@ -58,6 +58,8 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Structured mentoring and professional-development sessions including Entering Research, Entering Mentoring, and Five slides in five minutes](entering-research-mentoring-five-slides-strategy.md)
 - [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 - [Separate faculty and student mentorship training workshops emphasizing five core attributes of effective mentorship](split-mentorship-training-five-attributes.md)
+- [Invest in learning communities, mentorship programs, and active learning classrooms to boost belonging and engagement among engineering students](invest-learning-communities-mentorship-active-classrooms.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

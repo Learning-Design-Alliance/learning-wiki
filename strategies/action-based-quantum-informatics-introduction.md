@@ -47,6 +47,7 @@ For younger or less advanced students, the article recommends enactive approache
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [Adopt Qubit Touchdown as an accessible outreach and classroom resource for introducing quantum computing and boosting confidence](qubit-touchdown-classroom-outreach-strategy.md)
 - [Staging the Nobel Prize-winning CHSH experiment as a 'living crib' with the public playing its phases](staged-nobel-experiment-living-crib.md)
+- [Use varied instructional formats — pictorial learning, games, hackathons, and summer schools — to introduce quantum computing to high-school students](quantum-outreach-formats-strategy.md)
 
 ## Examples
 -

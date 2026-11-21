@@ -46,6 +46,7 @@ The article recommends that within SLC group work, roles and tasks be matched to
 
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 - [Collaborative Group Work in PBL](collaborative_group_work_in_pbl.md)
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

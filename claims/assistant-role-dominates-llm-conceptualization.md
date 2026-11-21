@@ -72,3 +72,4 @@ Chi-square test of independence on the role distribution across the seven assign
 - [LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)](llm-adoption-varies-by-cs-assignment.md) — related
 - [Students issue fewer prompts on team assignments, a medium-large within-student difference](fewer-prompts-on-team-assignments.md) — related
 - [A reflection-structured assignment produced predominantly Strategic Dialogue content, offering preliminary, non-causal evidence that instructional framing may shift path distribution](instructional-framing-shifts-path-distribution.md) — related
+- [ChatGPT was the dominant LLM tool with AstroTutor second, used in complementary roles for coding versus theory](chatgpt-dominant-astrotutor-complementary.md) — related

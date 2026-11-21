@@ -69,3 +69,4 @@ Paired t-test on the AESI Expectations of Self subscale in the experimental grou
 - [Repeated-measures ANOVA shows significant group-by-time interactions for all key physiological, stress, cognitive, well-being, and academic outcomes](anova-group-time-interaction-all-outcomes.md) — a broader claim this one bears on
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
+- [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — related

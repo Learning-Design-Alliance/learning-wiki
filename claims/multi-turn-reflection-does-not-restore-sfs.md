@@ -52,3 +52,4 @@ Multi-turn simulation experiment in which models first generate first-turn reaso
 - [SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other](sfs-post-training-cross-domain-generalization.md) — related
 - [A 4B per-student simulator solves a held-out Socratic-guidance chess case where prompted GPT-5.4 fails, indicating multi-turn training adds guidance-following capability beyond hint copying](studentsim-socratic-case-beats-prompted-frontier-llm.md) — related
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related
+- [SLM physics failure modes shift with model capability: weaker models fail primarily at interpretation/modeling while stronger models fail during execution](slm-failure-stage-shifts-with-capability.md) — related

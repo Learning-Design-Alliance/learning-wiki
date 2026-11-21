@@ -66,3 +66,5 @@ The same survey analysis finds that outside the three advanced topics, "the perc
 ## Related Claims
 - [Computer science-listed introductory QISE courses disproportionately teach Shor's factoring algorithm (100% vs 68% of non-CS courses) and disproportionately omit commutators, outer products, density matrices/mixed states, and quantum sensing/metrology](cs-courses-shor-algorithm-skip-math-topics.md) — related
 - [Deutsch's algorithm and quantum error correcting codes were statistically more likely to be taught in physics-listed than non-physics introductory QISE courses](physics-courses-deutsch-algorithm-error-correction.md) — related
+- [Engineering quantum and QISE content is more prevalent at the graduate level, with undergraduate QISE courses a minority (27%)](engineering-qise-courses-graduate-level.md) — related
+- [Quantum algorithms and computing are the most commonly covered QISE topics in engineering courses, while density matrices and measurement are rare](qise-topic-frequency-engineering-courses.md) — related

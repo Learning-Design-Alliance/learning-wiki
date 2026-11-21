@@ -70,3 +70,4 @@ As a single embedded case with the researcher acting as co-designer of the inter
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related
 - [English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies](double-burden-language-of-ai-instruction.md) — related
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
+- [Voluntary participation suffered attrition: of 15 initial volunteers, only 5 students remained to perform the entire play.](voluntary-participation-attrition-15-to-5.md) — related

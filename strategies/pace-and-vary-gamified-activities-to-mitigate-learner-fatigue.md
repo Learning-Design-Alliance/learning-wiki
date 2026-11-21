@@ -42,6 +42,7 @@ The review recommends that "educators can carefully pace gamified activities and
 - [Offer interactive digital games like PàN as one option in teachers' pedagogical toolboxes for L2 vocabulary and engagement](interactive-games-as-pedagogical-toolbox-option.md)
 - [Provide flexible learning plans and time-management support for working nursing students](flexible-learning-plans-working-nursing-students.md)
 - [Offer learning-strategy workshops to help lower-semester students bridge self-directed learning skill gaps](learning-strategy-workshops-lower-semester-students.md)
+- [Gamify prescribed rehabilitation movements in VR to sustain patient engagement and adherence](vr-gamified-rehabilitation-engagement-strategy.md)
 
 ## Examples
 -

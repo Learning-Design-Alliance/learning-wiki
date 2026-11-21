@@ -50,3 +50,4 @@ The article reports "a broad spectrum of the system maturity" across OPRA system
 - [No existing OPRA solution addresses all user needs](opra-no-single-system-fits-all-needs.md) — a narrower finding that bears on this claim
 - [OPRA systems lean toward either scaffolded or exploratory peer learning based on design choices](opra-scaffolded-vs-exploratory-orientation.md) — related
 - [A tradeoff exists between OPRA system flexibility and ease of use](opra-flexibility-ease-of-use-tradeoff.md) — related
+- [Introducing formal system requirements midway through preliminary design surfaced conflicting design choices and required rework, but the rework produced greater consistency and design maturity across subsystems](early-preliminary-design-before-srd-rework.md) — related

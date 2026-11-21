@@ -49,3 +49,4 @@ Analysis of the initial five-question multiple-choice test administered at home 
 - [On the final multiple-choice test after the intervention, 72-90% of students answered each of the four theory questions correctly](final-test-multiple-choice-majority-correct.md) — related
 - [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](clicker-equal-pulls-framing-error.md) — related
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
+- [67% of Boyacá secondary students cannot identify the four fundamental interactions of nature](boyaca-students-fundamental-forces-67-percent-unclear.md) — related

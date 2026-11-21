@@ -49,3 +49,4 @@ Multilevel analysis of control-group ADHD slopes. Baseline decline was significa
 - [The between-group ADHD treatment effect was significant when baseline scores were used as a covariate (group × time interaction)](adhd-group-time-interaction-significant.md) — related
 - [A 12-week teacher training programme significantly reduced ADHD symptoms in students compared to a control group](teacher-training-reduces-adhd-symptoms-classroom.md) — a broader claim this one bears on
 - [Within the intervention group, ODD symptom decline during training significantly exceeded the baseline-period decline](odd-slope-steeper-during-training-than-baseline.md) — related
+- [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related

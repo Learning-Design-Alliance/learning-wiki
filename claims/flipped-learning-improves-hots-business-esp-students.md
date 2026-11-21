@@ -57,3 +57,4 @@ T-test analysis of the HOTs performance test (75 points across analysis, evaluat
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — a broader claim this one bears on
 - [Flipped classroom approaches are associated with improved learning outcomes and critical thinking in health professions and higher education students](flipped-classroom-improves-critical-thinking-health-professions.md) — related
+- [No significant group differences on the higher-order (Task 3) assessment, with the control group showing the best performance](no-group-differences-task3-assessment.md) — reports the opposite

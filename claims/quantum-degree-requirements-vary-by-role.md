@@ -71,3 +71,4 @@ The authors interpret from Table I that a degree may or may not provide skills, 
 - [The article argues a master's-level industry-focused quantum curriculum is more economical than hiring PhDs to resolve the quantum talent shortage](masters-level-quantum-curriculum-addresses-talent-shortage.md) — related
 - [Students doubted they could get a quantum-industry job with a bachelor's degree because they perceived advanced degrees as required](bachelors-degree-confidence-quantum-jobs.md) — related
 - [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related
+- [The review reports that academic degrees alone cannot provide the job-ready skills the quantum industry desires, and that industry experience and up-skilling should be utilized.](degrees-insufficient-quantum-job-ready-skills.md) — related

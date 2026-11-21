@@ -47,6 +47,7 @@ An implementable strategy for students using generative AI on programming assess
 
 - [Break Tasks Into Pieces](break_tasks_into_pieces.md)
 - [Task Analysis](task_analysis.md)
+- [Break the equation-extraction task into smaller components, processing one line of the student response per model call](break-equation-extraction-into-smaller-components-strategy.md)
 
 ## Examples
 -

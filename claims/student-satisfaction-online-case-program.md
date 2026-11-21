@@ -53,3 +53,4 @@ Anonymous voluntary 11-item 5-point Likert survey run by the RCSI Quality Enhanc
 - [In class surveys, 93% of students agreed the iOLab-based lab was useful to their learning and 90% indicated the iOLab was easy to use.](iolab-lab-student-survey-usefulness-ease.md) — related
 - [Over two-thirds of about 30 EECS students in the course reported that the interactive tutorials deepened their understanding of color science](colorvis-majority-report-deepened-understanding.md) — related
 - [More than 90% of surveyed students prefer the class taught online and more than 95% report the class structure and hours are effectively used](student-survey-preference-online-structure.md) — related
+- [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related

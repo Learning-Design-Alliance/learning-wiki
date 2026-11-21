@@ -48,6 +48,7 @@ In the galaxies-and-dark-matter task, students consolidated the week's Python sk
 
 - [Teach the philosophy of science through the dark matter problem and galaxy rotation curves in mechanics courses](dark-matter-philosophy-of-science-case-study.md)
 - [Divide a demanding programming project into incrementally more complex chunks with small self-set goals](chunked-incremental-goals-student-programming-project.md)
+- [Guided Google Sheets laboratory exercise in which first-year physics students iteratively implement the Euler-method approximation](google-sheets-euler-iteration-lab.md)
 
 ## Examples
 -

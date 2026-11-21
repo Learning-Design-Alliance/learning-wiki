@@ -57,3 +57,4 @@ Descriptive statistics (Table V) comparing control and experimental groups on th
 - [Problems related to availability of resources and teaching aids were rated medium, with an overall mean of 3.04](karak-resource-availability-problems-listening.md) — related
 - [CTBL class became more homogeneous in proficiency while the GI class remained heterogeneous](ctbl-homogenizes-team-proficiency.md) — related
 - [Game-based preparation reduces variability in residents' clinical competency levels before classroom training](game-preparation-reduced-competency-variability.md) — related
+- [Learning gains were more consistent (lower standard deviation) among Feynman Bot learners than passive learners, including a negative gain in the control group](feynman-bot-consistent-gains.md) — related

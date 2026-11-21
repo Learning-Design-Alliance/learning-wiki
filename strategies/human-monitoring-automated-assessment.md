@@ -46,6 +46,7 @@ An ethics and privacy requirement the article states for any future use of the d
 - [Be cautious with LLM-based TTX assessment and have a human instructor review automated outputs](human-review-of-llm-ttx-assessment.md)
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
+- [Use audio-only recording (with transcription) for privacy-preserving automated discourse assessment](audio-only-privacy-preserving-discourse-assessment.md)
 
 ## Examples
 -

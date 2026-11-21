@@ -69,3 +69,4 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related
 - [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](physics-problems-build-confidence.md) — related
 - [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related
+- [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — related

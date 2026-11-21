@@ -52,3 +52,4 @@ Omnibus mixed ANOVA on final test scores (learning condition between-subject, qu
 - [Two-way ANOVA showed significant main effects of group allocation and question on score, with a group-by-question interaction approaching significance](anova-group-and-question-main-effects-score.md) — related
 - [Histology topic, not LLM platform, was the primary factor in performance variance (η2 = 0.452 vs 0.006), with a significant system-by-topic interaction](topic-effect-dominates-system-effect-llm-histology.md) — related
 - [Learning groups differ significantly in change of anatomy test scores over one month (group × time × question type interaction)](retention-group-by-time-interaction-significant.md) — related
+- [No significant differences in learning gains between feedback conditions, including no interaction between feedback type and slide presence](slideitright-no-significant-condition-differences.md) — related

@@ -51,3 +51,5 @@ Exploratory evaluation submitting screenshots of English concept inventories to 
 - [GPT-4o's incorrect answers are far from random, gravitating toward specific incorrect answers](gpt4o-consistent-incorrect-answers.md) — related
 - [Items difficult for GPT-4o in English tend to remain difficult in other languages, with correct-response rates rising from 18% to 82% as English agreement increases](item-difficulty-consistent-across-languages.md) — related
 - [GPT-4o's performance is weaker in Laboratory skills (35.0%), which include strategies for data collection and analysis](gpt4o-subject-category-variation-lab-weakest.md) — a narrower finding that bears on this claim
+- [Model accuracy depends strongly on the concept inventory, with BEMA (66.7%) and TUG-K (64.4%) averages higher than QMVI (44.4%) and FTGOT (35.1%)](mllm-accuracy-varies-by-concept-inventory.md) — a narrower finding that bears on this claim
+- [The best-performing MLLMs already outperform post-instruction university student averages on the four tested concept inventories](top-mllms-exceed-post-instruction-student-averages.md) — related

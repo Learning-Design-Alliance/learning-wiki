@@ -50,6 +50,7 @@ The article recommends implementing archaeo-astronomy by targeting the common ke
 - [Use local ancient monuments as outdoor classrooms, chosen after surveying what pupils and teachers do not know](local-monuments-as-outdoor-classrooms-strategy.md)
 - [Scale up simple school-based experiments to realistic monument dimensions, turning the outdoor classroom into a mathematics laboratory](scale-up-experiments-monument-mathematics-laboratory.md)
 - [Use the fractal-dimension procedure as an interdisciplinary tool across high-school subjects](fractal-dimension-interdisciplinary-subject-applications.md)
+- [Develop interdisciplinary didactic strategies linking astronomy concepts with physics, chemistry and biology, and revise the curricular distribution of astronomical concepts](interdisciplinary-astronomy-didactic-strategies-boyaca.md)
 
 ## Examples
 -

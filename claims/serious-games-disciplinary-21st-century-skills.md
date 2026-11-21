@@ -54,3 +54,4 @@ The chapter asserts, citing the Connolly et al. (2012) systematic literature rev
 - [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related
 - [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](aa-cognitive-challenges-knowledge-and-21st-century-skills.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
+- [Outreach participants report frequent use of and preparation in 21st-century career skills including communication, creativity, and networking](outreach-career-skills-use-preparation.md) — related

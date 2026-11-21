@@ -60,3 +60,4 @@ Cross-sectional survey of training base representatives; Table 6 listed major ch
 - [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — related
 - [Barriers to EBP learning included discontinuous information literacy content, limited educator awareness of EBP strategies, and challenging collaborations](barriers-il-discontinuity-collaboration-ebp-nursing.md) — related
 - [Barriers to integrating physics into the pharmacy curriculum include lack of interdisciplinary collaboration, limited faculty physics expertise, and insufficient laboratory resources](physics-pharmacy-integration-barriers.md) — related
+- [Availability of QISE faculty expertise varies sharply across institutions, shaping what curricula programs can offer](qise-faculty-expertise-inequity.md) — related

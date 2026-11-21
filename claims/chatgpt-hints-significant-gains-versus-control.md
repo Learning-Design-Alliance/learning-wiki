@@ -77,3 +77,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](gpt-hints-higher-successful-submissions.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
 - [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related
+- [In Experiment 1, compulsory GAI-powered personalized recommendation with heuristic hints significantly improved physics performance for low-achieving students (d = 0.673)](gai-hints-improve-low-achievers-compulsory-recommendation.md) — related

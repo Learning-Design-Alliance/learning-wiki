@@ -69,3 +69,4 @@ The second retrieval direction on the same PCEX test set, recommending challenge
 - [IDF reweighting of knowledge vectors improves retrieval over binary KC-incidence vectors, with the largest gains in mAP](idf-reweighting-improves-kc-retrieval.md) — related
 - Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing — related
 - [Providing baselines with oracle knowledge-concept selection substantially improves their performance, identifying concept selection as a key bottleneck, though baselines with oracle KCs still trail KT4EQG](concept-selection-bottleneck-baselines.md) — related
+- [SANN code vectors outperform explainable baseline code2vec in logical error identification](sann-beats-code2vec-error-identification.md) — related

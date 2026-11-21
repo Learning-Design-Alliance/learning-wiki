@@ -56,3 +56,4 @@ Thematic analysis of anonymous open-ended responses from VRS participants, coded
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
 - [Students consider open-ended assignment grading fair but many find open-ended questions hard to answer](open-ended-assignments-fair-but-challenging.md) — related
+- [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related

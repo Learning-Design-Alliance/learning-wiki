@@ -53,3 +53,4 @@ The review attributes this finding to a prior study (reference 15) on orthodonti
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related
 - [Simulator training outcomes were comparable to alternative training methods in the concordance-validity studies](ips-concordance-validity-comparable-outcomes.md) — related
+- [Residents and participants with prior 3D experience achieved better outcomes in the THA simulation](residents-and-3d-experience-better-outcomes.md) — related

@@ -58,3 +58,5 @@ Descriptive survey of 193 respondents (54.3% of 350 students) using a four-point
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](vdt-reduces-dissection-anxiety-stai.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
 - [Friendly Feedback lowers course-related anxiety relative to weekly pass/fail testing throughout most of the dissection course](friendly-feedback-lowers-course-related-anxiety.md) — related
+- [Students perceive asynchronous collaborative exams as equal to standard in-person collaborative exams on enjoyment, perceived learning, engagement, and feedback usefulness](async-collab-exam-equal-satisfaction.md) — related
+- [Asynchronous collaborative exams reduce exam anxiety, with the asynchronous in-person format rated slightly less anxiety-inducing than the asynchronous online format](async-exam-lower-anxiety.md) — related

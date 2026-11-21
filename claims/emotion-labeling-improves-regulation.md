@@ -76,3 +76,4 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 - [Students regulate feedback emotions through a three-step process: experiencing emotion, reconnecting to the profession, and processing emotion and information](three-step-emotion-regulation-feedback.md) — related
 - [Sex instruction should work by countering motives with motives, using fear, disgust, self-respect and desire for the regard of others against sexual carelessness](counter-motives-with-motives-sex-instruction.md) — related
 - [The divergence between attendance and anxiety effects may reflect increased school exposure, which improves attendance quickly but may raise anxiety short-term](school-exposure-explains-attendance-anxiety-divergence.md) — related
+- [Psychophysiological signals such as pupillometry and skin conductance reveal cognitive overload that self-report misses](psychophysiological-signals-reveal-hidden-overload.md) — related

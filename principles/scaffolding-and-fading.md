@@ -194,6 +194,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](../strategies/graduated-prompts-hierarchy-tablet.md)
 - [Balance structure and open-endedness by scaffolding agency with modeling, coaching, and fading support](../strategies/scaffold-agency-modeling-coaching-fading.md)
 - [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](../strategies/scaffold-reflection-prompts-assessment-tasks.md)
+- [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](../strategies/less-structured-problems-scaffolding-fading-strategy.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

@@ -70,3 +70,4 @@ Review reports the bystander Turing test evaluation in which outsiders judged in
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — related
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — a broader claim this one bears on
 - [Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)](early-autotutor-gains-test-type-dependence.md) — related
+- [Reanalysis suggests the 2-sigma tutoring effect was confounded with mastery learning, yielding a net tutoring effect of about .85 ES](two-sigma-confound-mastery-learning-net-85.md) — related

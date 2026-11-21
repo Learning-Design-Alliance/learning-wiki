@@ -55,3 +55,4 @@ The review reports, citing Han et al. (2022), a study of collaborative learning 
 - [Novelty-phase on-task enjoyment is positively associated with task performance, while working-phase enjoyment is not](novelty-enjoyment-predicts-performance.md) — related
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — reports the opposite
+- [Technological and scenic novelty sustained learners' situational interest across repeated VR lessons, contrary to the expectation that novelty fades](scenic-technological-novelty-sustains-interest.md) — related

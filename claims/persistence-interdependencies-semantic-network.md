@@ -49,3 +49,5 @@ Semantic network analysis of coded interview segments: Pearson correlations of c
 - [All interviewed female students reported characteristics indicative of a growth mindset, which appeared as a central theme in the semantic network map](outreach-facilitation-growth-mindset-central.md) — related
 - [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
+- [The growth mindset code appearing on the network map (outreach-to-discipline directionality) suggests students facilitating outreach are more likely to develop a growth mindset](outreach-growth-mindset-directionality.md) — related
+- [Undergraduate participation in informal physics outreach is positively associated with growth mindset and sense of belonging in a national survey](outreach-participation-growth-mindset-belonging.md) — related

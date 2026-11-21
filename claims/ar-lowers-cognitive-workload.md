@@ -84,3 +84,4 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [Debriefing after a surgical crisis reduces cognitive workload and improves performance before the next case](debriefing-reduces-cognitive-workload-surgical-crisis.md) — related
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
 - [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](d-illustrate-most-consistent-tlx-gains.md) — related
+- [Mental workload in FlowTrainer (SystemB) significantly decreased with increasing task complexity, while physical workload rose with complexity in the baseline (SystemA) but not in SystemB](flowtrainer-mental-workload-decreases-complexity.md) — related

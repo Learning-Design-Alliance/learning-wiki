@@ -50,6 +50,7 @@ Once recoil in firing systems is fully explained, the article recommends introdu
 ## Related Strategies
 
 - [Use classroom demonstrations (water tank, fire extinguisher on cart) to teach recoil via unbalanced forces](recoil-classroom-demonstrations-water-tank-fire-extinguisher.md)
+- [Treat the Doppler effect for light via photon emission/absorption with energy and momentum conservation](sr-doppler-photon-emission-strategy.md)
 
 ## Examples
 -

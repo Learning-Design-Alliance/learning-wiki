@@ -75,3 +75,4 @@ Dependent-samples t-test within the control class comparing post-test (16.63) an
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
 - [Retention of achievement after 2 weeks showed no difference for students learning with the application](place-value-app-two-week-retention-no-difference.md) — related
+- [Significant assessment-by-retention interaction on Task 1: ChatGPT and Google groups' scores declined at three-week retention while control and e-textbook groups stayed stable](task1-retention-interaction-chatgpt-google-decline.md) — related

@@ -82,3 +82,4 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [Reading self-confidence is the student variable most strongly linked to academic resilience, significant and positive in every country analyzed](reading-self-confidence-predicts-academic-resilience-all-countries.md) — related
 - [The 2019 BPDM workshop was followed by increases in participants' sense of identity, belonging, and team community](bpdm-2019-identity-belonging-team-increase.md) — related
 - [Student well-being and self-worth are linked to academic achievement and engagement](well-being-linked-achievement.md) — related
+- [Adding a logistic limit on sense of belonging in the simulation leaves confidence, personal growth, motivation, and learning increasing faster than baseline while need for validation decreases to a floor](logistic-limit-belonging-accelerates-other-outcomes.md) — related

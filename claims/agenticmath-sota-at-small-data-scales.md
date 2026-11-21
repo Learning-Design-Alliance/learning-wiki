@@ -49,3 +49,5 @@ Evaluation across in-domain (MATH, GSM8K) and out-of-domain benchmarks (Table 1)
 - [Increasing AgenticMath-generated training data from 7.5K to 22.5K samples yields consistent accuracy gains for Llama3-8B across benchmarks](agenticmath-data-size-positive-correlation-accuracy.md) — related
 - [Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength](agenticmath-gains-not-from-stronger-teacher.md) — related
 - [Fine-tuning LLMs on 30K-90K AgenticMath samples matches or surpasses baselines trained on 400K-2.3M samples on math reasoning benchmarks](agenticmath-small-data-matches-large-scale-baselines.md) — related
+- [Modern SLMs around 3B parameters match or exceed earlier-generation LLMs on the MMLU benchmark, including STEM subjects](slms-match-legacy-llms-mmlu.md) — related
+- [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related

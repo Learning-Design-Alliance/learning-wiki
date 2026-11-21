@@ -53,3 +53,4 @@ Meta-analysis of studies grouped by duration (<10 min vs >=10 min) across all st
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related
 - [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related
+- [Students spending fewer than 10 minutes on the GERQN produce unrepresentative data and are excluded](gerqn-time-on-task-cutoff.md) — related

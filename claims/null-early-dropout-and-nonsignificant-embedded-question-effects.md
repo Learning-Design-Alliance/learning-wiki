@@ -71,3 +71,4 @@ In the percentage-of-video-viewing regression, embedded questions showed a non-s
 - [Videos under 5 minutes have higher audience retention and higher response rates to embedded questions in a flipped undergraduate medical classroom](videos-under-5-minutes-higher-retention-and-question-response.md) — related
 - [No variable emerged as an independent predictor of composite high-quality (preferred) MCQ status, though absence of low-functioning distractors showed a trend](no-independent-predictors-preferred-questions.md) — possibly the same claim (merge candidate)
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [Student dropouts, rather than lack of effort, are the dominant weak-link problem in the QEL's team structure](qel-weak-links-dropout-challenge.md) — related

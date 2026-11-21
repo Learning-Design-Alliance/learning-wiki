@@ -72,3 +72,4 @@ Interview-based case evidence: the authors' interpretation of Leia's account of 
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Educator feedback indicates that peer-facilitated cloud chamber workshops significantly boosted physics course enrollment among secondary students](educator-reported-enrollment-boost-cloud-chamber-workshops.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related

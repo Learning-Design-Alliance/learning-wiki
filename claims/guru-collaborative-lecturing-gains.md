@@ -47,3 +47,4 @@ Review reports the Guru evaluation covering 120 Tennessee Biology I curriculum t
 ## Related Claims
 - [GURU, a tutor embodying expert-teacher behaviour, produced learning gains similar to small-group human teaching and better than classroom teaching alone](guru-evaluation-similar-gains-to-human-augmentation.md) — possibly the same claim (merge candidate)
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a broader claim this one bears on
+- [Scores in the Guru ITS group were significantly higher on immediate and delayed tests than at pre-test in a 9-week biology tutoring study](guru-its-immediate-delayed-gains.md) — related

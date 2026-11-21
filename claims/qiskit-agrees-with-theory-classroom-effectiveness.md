@@ -52,3 +52,4 @@ Summary of the article's applications section, in which students of the CET0448 
 - [Students reported that hands-on programming exercises and the final project contributed most to their learning in an undergraduate quantum computing course](programming-exercises-final-project-most-contributed-learning-quantum-course.md) — related
 - [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related
 - [Preliminary classroom use in the Ferrara M.Sc. quantum computing course received encouraging feedback from both theoretical and coding-skilled students](ferrara-msc-course-encouraging-feedback.md) — related
+- [Interactive scicode-widgets exercises enable seamless transitions between theory, code and analysis in a ridge-regression notebook, per the authors' demonstration](widget-interactivity-seamless-theory-code-analysis.md) — related

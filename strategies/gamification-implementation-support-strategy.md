@@ -57,6 +57,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
 - [Use minimalist card games (no more than eight instructional steps) as an accessible starting point for gamified learning](minimalist-card-game-gamified-induction-strategy.md)
 - [Crossover gamified childbirth-protocol training design: half the topics gamified, half lectured, then reversed](crossover-gamified-protocol-training-strategy.md)
+- [Provide teacher-centered implementation support: training, clear student instructions, and inclusive materials](teacher-centered-implementation-support-strategy.md)
 
 ## Examples
 -

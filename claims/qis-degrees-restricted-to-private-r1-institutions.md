@@ -71,3 +71,4 @@ The catalog search of institutions with sufficient QIS coursework identified "a 
 - [In the undergraduate-only QIS course model, the public-private disparity is no longer separately significant and the funding-by-urbanization interaction disappears](undergraduate-qis-courses-funding-gap-not-significant.md) — related
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [QISE programs are heavily concentrated at PhD-granting institutions, which are 25% of the sample but 89% of program-offering institutions](qise-programs-concentrated-phd-granting.md) — related
+- [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related

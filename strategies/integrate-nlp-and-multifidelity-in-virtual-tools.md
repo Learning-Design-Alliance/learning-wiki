@@ -53,6 +53,7 @@ The review recommends that future virtual simulation tools move beyond current l
 - [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 - [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
+- [Extend the evaluation system with NLP-based analysis of feedback tone and bias](nlp-feedback-tone-bias-analysis-strategy.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-21
 sources:
   - id: chloe-qianhui-zhao-2026
     resource: "https://arxiv.org/abs/2601.15280"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 3 of 3 entries) · not reviewed by a person
 > **Design limits** · Chloe Qianhui Zhao 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -117,3 +117,4 @@ Post-survey comparisons in RQ3; trust (p = 0.1456) and acceptance (p = 0.2393) a
 - [Students perceived automated note feedback as clearer, more direct, and easier for comparison than model note feedback](automated-feedback-clearer-easier-comparison.md) — related
 - [Students receiving ChatGPT-4o personalized feedback rate it higher than control students rate correct/incorrect feedback on clarity, usefulness, motivation and satisfaction](satisfaction-higher-personalized-feedback.md) — related
 - [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related
+- [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — reports the opposite

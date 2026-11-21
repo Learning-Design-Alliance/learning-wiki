@@ -76,3 +76,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
 - [The game condition received a descriptively higher System Usability Scale score than the video condition, with no statistically significant difference](gbl-sus-higher-not-significant.md) — related
 - [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — a narrower finding that bears on this claim
+- [Usability was comparable between modalities, and most participants enjoyed the simulation and believed it could enhance their study materials](usability-and-attitudes-survey-results.md) — a narrower finding that bears on this claim

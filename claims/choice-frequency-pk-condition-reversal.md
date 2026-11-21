@@ -71,3 +71,4 @@ A descriptive pattern visualized in Fig. 1d and reported from Table 2: the LPK-o
 - [Agent-condition learning gains trended higher (marginal), with Agent LPK students gaining significantly more than Non-Agent HPK students](agent-condition-learning-gains-trend-lpk.md) — related
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — related
+- [The three instructional conditions did not differ significantly in cognitive, emotional, or behavioral engagement](no-group-differences-engagement.md) — related

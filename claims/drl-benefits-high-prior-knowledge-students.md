@@ -80,3 +80,4 @@ Interaction terms from the same mixed-effects regression model on posttest probl
 - [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](group-level-interaction-reduced-achievement-gap.md) — related
+- [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](gpp-prior-knowledge-moderation.md) — related
