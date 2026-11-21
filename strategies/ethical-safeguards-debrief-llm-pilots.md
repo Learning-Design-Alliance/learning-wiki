@@ -47,6 +47,7 @@ The article recommends that any experimental pilot of LLM agents with learners e
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
 - [Safeguard LLM feedback for students by stripping identity information, limiting interaction rounds, and forcing validated JSON output](llm-feedback-safety-safeguards-strategy.md)
+- [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
 
 ## Examples
 -

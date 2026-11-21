@@ -59,3 +59,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — related
 - [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related
 - [When pre-test scores were controlled, the software had a significant effect on academic achievement, with the model explaining 44% of variance](ancova-software-achievement-effect.md) — related
+- [No statistically significant difference in learning gains between the AI and Excel groups at the overall level or in any domain after controlling for pre-test scores](no-learning-gain-difference-ai-vs-excel-ancova.md) — related

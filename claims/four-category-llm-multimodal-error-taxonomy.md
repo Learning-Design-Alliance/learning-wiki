@@ -100,3 +100,4 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [Error-type distribution (logical, informational, explicit fallacy) does not differ significantly between ChatGPT-4 versions (chi-square P=.32)](chatgpt4-error-type-distribution-similar-across-versions.md) — related
 - [Misconception prevalence is correlated with visualization errors: students shift from difficult exponential, vector or infinitesimal thinking to straightforward linear thinking](misconception-visualization-error-shift-to-linear-thinking.md) — related
 - [No statistically significant difference between the two algebra-based classes on the 15 common problems (p = 0.90; per-problem p-values 0.42–0.96)](algebra-versions-no-significant-difference.md) — related
+- [ChatGPT-4o's BEMA errors fall into three difficulty types, with spatial coordination of representations and rules the most prevalent](three-chatbot-difficulty-types-bema.md) — related

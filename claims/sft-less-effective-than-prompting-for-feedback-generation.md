@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-20
 sources:
   - id: adnan-labib-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14524"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among directly prompted models, Claude 3.7 generated more fine-grained, pedagogically necessary comments (628) than LLaMA-3.3-70B (336) or GPT-4o (368), whose averages were below 10 comments per essay. [→ Adnan Labib 2026](#adnan-labib-2026)
@@ -57,3 +57,4 @@ In the preliminary check, neither fine-tuned model produced usable output (fine-
 - [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — reports the opposite
 - [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](prompting-limited-uneven-proficiency-control-writing-simulation.md) — related
 - [Supervised fine-tuning does not outperform zero-shot prompting on rubric score for math feedback generation, and ROUGE-L and BERTScore are unreliable estimates of feedback quality.](sft-ineffective-reference-metrics-unreliable.md) — related
+- [Adding a prompt to fine-tuned LLaMA yields performance similar to unprompted fine-tuned LLaMA](prompted-llama-similar-to-unprompted.md) — related

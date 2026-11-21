@@ -49,3 +49,4 @@ Paired t-tests on response time and response speed across the 150 matched items 
 - [Three-option MCQ tests take markedly less time to administer than five-option tests of the same items](three-option-mcq-administration-time-savings.md) — related
 - [Physicians scored about 2.1 percentage points higher on the 3-option than the 4-option Critical Care Medicine in-training exam, but scores did not differ for the Pediatric Anesthesiology exam](three-option-mci-higher-scores-ccm-only.md) — related
 - [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — related
+- [MCQ-only practice takes significantly less completion time than open-response-only or combined practice, with roughly 29–35% practice-time reductions](mcq-only-faster-completion-time.md) — related

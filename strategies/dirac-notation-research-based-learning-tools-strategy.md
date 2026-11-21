@@ -55,6 +55,7 @@ Based on the difficulty research, the authors recommend research-based learning 
 - [Give students multiple opportunities to recognize, recall, and generate translations between representations using research-based learning tools](multiple-opportunities-generate-translation-representations.md)
 - [Use documented student difficulties with Dirac-notation operator representations as resources for developing curricula and pedagogies that integrate mathematical and conceptual aspects of the QM formalism](dirac-notation-difficulties-as-curriculum-resources.md)
 - [Develop multiple-representation learning and homework materials in which students answer one question using several methods](multiple-representation-qc-materials-strategy.md)
+- [Ten-lecture one-credit course sequence introducing quantum formalism through vectors, Dot-Vec notation, and Bloch cubes](one-credit-quantum-formalism-lecture-sequence.md)
 
 ## Examples
 -

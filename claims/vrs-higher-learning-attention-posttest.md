@@ -71,3 +71,5 @@ IMMS total-score analysis in phase 1 showing a slight pooled pre-to-post motivat
 - [VRS teaching produced significantly higher posttest infection control knowledge scores than traditional teaching in undergraduate nursing students](vrs-higher-posttest-infection-control-knowledge.md) — related
 - [Learning attitudes toward caring for patients with infectious diseases did not differ significantly between the VRS and control groups at either time point](vrs-no-attitude-difference-between-groups.md) — related
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — related
+- [Achievement groups differ significantly in Attention, Relevance, and Confidence but not Satisfaction on the IMMS](anova-imms-achievement-groups.md) — related
+- [Self-rated learning motivation scores across all four ARCS dimensions rose significantly from pre-test to post-test in one uncontrolled pre-post study of Code.org instruction](codeorg-imms-motivation-gains.md) — related

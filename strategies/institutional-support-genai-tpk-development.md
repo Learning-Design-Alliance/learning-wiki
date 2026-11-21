@@ -50,6 +50,7 @@ The review recommends that teacher educators be supported institutionally and pr
 ## Related Strategies
 
 - [Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development](llm-adoption-requires-readiness-ethics-professional-development.md)
+- [Implement GenAI literacy in teacher education through a scaffolded four-step approach](scaffolded-genai-literacy-implementation-strategy.md)
 
 ## Examples
 -

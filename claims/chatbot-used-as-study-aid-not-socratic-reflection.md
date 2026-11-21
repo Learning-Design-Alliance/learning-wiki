@@ -55,3 +55,4 @@ Individual cognitive walkthroughs with five of eight active users, analyzed them
 - [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md) — related
 - [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — related
 - [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — reports the opposite
+- [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related

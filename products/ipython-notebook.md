@@ -32,6 +32,7 @@ IPython Notebook is an interactive computational notebook environment developed 
 - [SageMath](sagemath.md)
 - [SageMathCloud](sagemathcloud.md)
 - [Scilab Cloud](scilab-cloud.md)
+- [Bell inequalities simulation code in Qibo](bell-inequalities-simulation-code-in-qibo.md)
 
 ## Key Sources
 - Christian T. Jacobs, Gerard J. Gorman, Huw E. Rees, Lorraine Craig. (2016). Experiences with efficient methodologies for teaching computer programming to geoscientists. arXiv. https://arxiv.org/abs/1505.05425

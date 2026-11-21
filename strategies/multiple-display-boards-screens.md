@@ -63,6 +63,7 @@ Multiple displays support learning primarily by making collaboration and work-in
 - [Gallery Walk](gallery-walk.md) — multiple writable surfaces are the physical infrastructure that makes a gallery walk possible
 - [Jigsaw](jigsaw.md) — separate displays let expert groups work simultaneously before reconvening
 - [Have groups record data summaries on the board for plenary statistical discussion at critical points](board-data-plenary-discussion-strategy.md)
+- [Whiteboard group work followed by plenary presentation to surface competing hypotheses about a correlation](whiteboard-plenary-competing-hypotheses-strategy.md)
 
 ## Examples
 - **Writable walls via smart wall paint** (e.g., Ideapaint): elementary classrooms turn walls and tables into dry-erase surfaces so multiple student groups work in parallel and the teacher can see all group reasoning at a glance.

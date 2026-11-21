@@ -70,6 +70,7 @@ Sequencing works because it keeps each task within working memory limits while s
 - [Structure experimental work so students discover physics rules, keeping them in a loop of higher-order thinking](structured-experiments-higher-order-thinking-loop.md)
 - [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 - [Use a bridging isomorphic problem matched to common student difficulties to scaffold transfer from a two-step to a three-step problem](bridging-isomorphic-problem-scaffolding-strategy.md)
+- [Stepped evaluation exercise for assessing pseudoscientific claims at increasing levels of difficulty](stepped-pseudoscience-evaluation-exercise-strategy.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's model organizes whole learning tasks into task classes of increasing complexity, with decreasing learner support within each class; the canonical implementation of scaffolded sequencing.

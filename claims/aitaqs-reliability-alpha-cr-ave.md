@@ -87,3 +87,4 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 - [TOSLS shows acceptable psychometric properties: reliability 0.731–0.748, average item difficulty 0.59–0.68, and average item discrimination 0.26–0.27](tosls-psychometric-properties.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
 - [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related
+- [The developed instruments for aesthetic (IaePP) and affective (IafPP) perception of science-related pictures show internal consistencies well above 0.7](iaepp-iafpp-instruments-validated-perception-pictures.md) — related

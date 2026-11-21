@@ -43,6 +43,7 @@ The authors recommend that future programming-support systems adapt explanations
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 - [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
+- [Update student profiles dynamically as learners interact with an LLM-powered environment](dynamic-student-profile-updates-llm-tutoring.md)
 
 ## Examples
 -

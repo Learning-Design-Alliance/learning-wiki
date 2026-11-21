@@ -51,3 +51,4 @@ Network analysis of the students' and researchers' forma mentis networks against
 - [Students hold a mixed stance toward teachers, combining appreciation of mentoring and knowledge transmission with negative associations around testing and grading](students-mixed-teacher-stance-testing-grading.md) — related
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
 - [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — related
+- [KPNs of NCEE physics examinations are scale-free, strongly assortative, and mostly small-world networks](kpn-topological-properties.md) — related

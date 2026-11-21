@@ -54,3 +54,4 @@ The comment's own Table I prints shifts in percent favorable responses: Overall 
 - [On the CLASS, women score less expertlike on real world connections, personal interest, problem solving confidence, and problem solving sophistication, and more expertlike on sense-making/effort](class-gender-category-differences.md) — related
 - [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — related
 - [Life-science and physical-science students do not significantly differ in the Real-World Connection CLASS category](real-world-connection-no-group-difference.md) — related
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

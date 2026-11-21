@@ -48,3 +48,4 @@ Methodological pre-analysis on the Fall 2014 M-MI network data comparing network
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
 - [Persistence in Modeling Instruction correlates significantly with whole-network centrality measures (betweenness and closeness) but not with ego-network measures such as degree](betweenness-closeness-persistence-mi.md) — related
 - [Mastery approach goals are positively associated with out-degree, closeness and betweenness centrality in the classroom social network](mastery-approach-goals-central-classroom-network.md) — related
+- [Eight centrality measures yield highly consistent rankings across the Physics, Mathematics, and integrated networks, so degree centrality alone suffices to rank content importance](centrality-measures-consistent-degree-suffices.md) — related

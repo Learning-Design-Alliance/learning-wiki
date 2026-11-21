@@ -42,7 +42,8 @@ The paper's conversational agent couples NLP modules (dialogue act classificatio
 - [Eight User Evaluation Utterance Routing](../claims/eight-user-evaluation-utterance-routing.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-module speech-to-sign-language translation architecture with a rule-based translation core](speech-to-sign-translation-three-module-architecture.md)
 
 ## Examples
 -

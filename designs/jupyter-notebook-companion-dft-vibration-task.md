@@ -42,7 +42,8 @@ The article describes a Jupyter notebook that "acts as a personal guide to the s
 - 
 
 ## Related Designs
-- 
+
+- [Three co-existing recitation task types: smartphone experimental, programming, and standard recitation tasks](three-task-types-recitation-mechanics.md)
 
 ## Examples
 -

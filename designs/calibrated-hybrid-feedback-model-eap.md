@@ -44,7 +44,8 @@ The article proposes a hybrid model of feedback provision in which language inst
 - [Students Prefer Hybrid Ai Instructor Feedback](../claims/students-prefer-hybrid-ai-instructor-feedback.md) [+M]
 
 ## Related Designs
-- 
+
+- [Hybrid TA-plus-ChatGPT mediation model for AI-supported instruction](hybrid-ta-chatgpt-mediation-model.md)
 
 ## Examples
 -

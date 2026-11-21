@@ -42,6 +42,7 @@ Before buying equipment, the guide urges replicators to join the full_dome and s
 
 - [Share a full support plan—vision, choices, incentives, supports, and timeline—before micro-credential implementation](shared-support-plan-before-micro-credential-pilots.md)
 - [Plan sample sizes phase by phase across the four evidence-building phases](phase-based-sample-size-planning.md)
+- [Survey the venue's equipment capabilities before developing content past the research phase](survey-venue-equipment-before-content-development.md)
 
 ## Examples
 -

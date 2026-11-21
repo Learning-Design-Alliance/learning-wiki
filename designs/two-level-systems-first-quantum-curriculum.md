@@ -42,7 +42,8 @@ The article argues that developing introductory quantum mechanics with two-level
 - 
 
 ## Related Designs
-- 
+
+- [Hands-on quantum course pattern: progressive spin systems combining analytical exercises with reproducible simulations](progressive-spin-systems-hands-on-pattern.md)
 
 ## Examples
 -

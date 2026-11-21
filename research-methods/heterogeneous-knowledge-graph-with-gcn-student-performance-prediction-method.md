@@ -29,4 +29,4 @@ A framework representing online learning environments as heterogeneous knowledge
 -
 
 ## Key Sources
-- Trask, T., Lytle, N., Boyle, M., Joyner, D., & Mubarak, A. (2024). A Comparative Analysis of Student Performance Predictions in Online Courses using Heterogeneous Knowledge Graphs. arXiv. https://arxiv.org/abs/2407.12153
+- Trask, T., Lytle, N., Boyle, M., Joyner, D., & Mubarak, A. (2024). A Comparative Analysis of Student Performance Predictions in Online Courses using Heterogeneous Knowledge Graphs. arXiv. https://arxiv.org/abs/2407.12153. [doi:10.48550/arxiv.2407.12153](https://doi.org/10.48550/arxiv.2407.12153)

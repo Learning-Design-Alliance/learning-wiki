@@ -46,6 +46,7 @@ The review's implementation recommendation is that institutions adopting LLMs pa
 
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 - [Institutional and professional support for teacher educators' GenAI-specific TPK through practical training, policy clarity, and ethical guidelines](institutional-support-genai-tpk-development.md)
+- [Implement GenAI literacy in teacher education through a scaffolded four-step approach](scaffolded-genai-literacy-implementation-strategy.md)
 
 ## Examples
 -

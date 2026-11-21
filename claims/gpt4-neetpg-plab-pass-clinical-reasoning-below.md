@@ -57,3 +57,4 @@ Narrative synthesis of five NEET-PG and three PLAB benchmark studies. The review
 - [Both ChatGPT models exceed the UKMLA pass threshold (57.5%) on UKMLA-style items](chatgpt-models-exceed-ukmla-pass-threshold.md) — related
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
 - [All tested LLMs exceeded the NMLE passing threshold yet stayed below 80% accuracy across all units and years](llms-pass-nmle-but-ceiling-below-80-percent.md) — related
+- [GPT-4 achieves a weighted average of 65% (upper second-class equivalent) across a full UK physics BSc degree but cannot pass due to compulsory laboratory and viva elements.](gpt4-65-percent-physics-degree-fails-lab-viva.md) — related

@@ -54,3 +54,4 @@ Narrative review statement in the Benefits section, attributed by the article to
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — a narrower finding that bears on this claim
+- [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related

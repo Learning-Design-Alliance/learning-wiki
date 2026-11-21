@@ -59,3 +59,5 @@ Correlational analysis of three metacognition measures in a grade 5 sample (effe
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
 - [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](flexibility-explains-word-problem-gains.md) — related
 - [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — related
+- [The on-line measure of metacognition (metacognitive behavior) showed a stronger effect on programming performance than the off-line measure (metacognitive awareness)](on-line-metacognition-stronger-effect-than-off-line.md) — related
+- [Metacognitive awareness was positively and significantly associated with performance in object-oriented programming (γ1 = 0.21, p < 0.05) in second introductory programming students](metacognitive-awareness-positive-effect-oop-performance.md) — related

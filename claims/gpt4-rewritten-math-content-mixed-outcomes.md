@@ -68,3 +68,4 @@ The editorial reports the same study's learning-outcome results: "some students 
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — related
+- [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — related

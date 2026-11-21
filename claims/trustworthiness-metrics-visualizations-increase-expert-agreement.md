@@ -88,3 +88,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related
 - [The provisional instrument achieved a person separation reliability of 0.95, discriminating at least four levels of educator feedback proficiency](fqi-person-separation-reliability-095.md) — related
 - [Rater training raises raters' awareness of the halo effect](rater-training-halo-awareness.md) — related
+- [Students' ability to gauge the trustworthiness of ChatGPT's answers during physics lab work is closely linked to their prior knowledge of the underlying physics](prior-knowledge-gauging-chatgpt-answers-trustworthiness.md) — related

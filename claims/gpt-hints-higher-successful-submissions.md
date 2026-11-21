@@ -69,3 +69,4 @@ Same mixed-effects model testing the group-by-attempt interaction on GPT-enabled
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
 - [Average number of attempts before reaching the correct answer served as the task-difficulty measure, with hints preventing bottleneck tasks in the MOOC](attempt-count-task-difficulty-mooc.md) — related
+- [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — a broader claim this one bears on

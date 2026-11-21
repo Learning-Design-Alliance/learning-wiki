@@ -54,3 +54,5 @@ Mann-Whitney U analysis of the 31-student experimental group (15 female, 16 male
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
 - [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related
+- [Pre-service teachers' attitudes toward integrated STEM education do not differ significantly by gender](stem-attitudes-no-gender-difference-bees.md) — related
+- [Pre-service teachers' attitudes toward mobile devices in STEM education do not depend on gender, grade level, or pre-university studies](mobile-device-attitudes-no-group-differences.md) — related

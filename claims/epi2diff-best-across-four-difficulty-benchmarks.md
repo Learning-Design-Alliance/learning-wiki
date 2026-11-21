@@ -58,3 +58,4 @@ Benchmark evaluation on four educational datasets (SAT Math, SAT Reading & Writi
 - [A fine-tuned Qwen3.5-9B simulated-respondent model predicts item difficulty with Pearson correlation 0.85, exceeding MathBERT (0.68) and MetaMath (0.75) baselines](llm-simulated-respondents-predict-item-difficulty-above-regression-baselines.md) — related
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Fine-grained per-question simulation of post-test performance outperforms whole-question-set simulation, with pre-test information and engagement improving realism](fine-grained-question-simulation-outperforms-coarse.md) — related
+- [Adding a prompt to fine-tuned LLaMA yields performance similar to unprompted fine-tuned LLaMA](prompted-llama-similar-to-unprompted.md) — related

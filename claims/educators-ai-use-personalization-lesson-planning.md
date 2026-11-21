@@ -101,3 +101,5 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related
 - [Staff engagement with the social media platforms was variable, with tutors reviewing content mainly in face-to-face sessions](variable-staff-engagement-platforms.md) — related
 - [Fourteen types of teaching and learning methods/strategies were identified in ChatGPT-integrated lesson plans, led by cooperative learning (7/29)](fourteen-teaching-methods-chatgpt-lesson-plans.md) — related
+- [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related
+- [Reviewed studies report positive pre-service teacher perceptions of GenAI as a learning tool in Ghana and Greece](pst-positive-genai-perceptions-reviewed-studies.md) — related

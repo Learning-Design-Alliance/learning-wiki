@@ -25,7 +25,8 @@ A curriculum-planning framework published by the American Association of Physics
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Modeling Framework for Experimental Physics](modeling-framework-for-experimental-physics.md)
 
 ## Key Sources
 - Carl Wieman and N.G. Holmes. (2015). Measuring the Impact of Introductory Physics Labs on Learning. https://arxiv.org/abs/1509.07520

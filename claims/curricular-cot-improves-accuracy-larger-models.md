@@ -101,3 +101,5 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Three-level skill classification provides more informative feedback than binary high/low classification but makes the task harder](three-class-skill-grading-more-informative-than-binary.md) — related
 - [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — a narrower finding that bears on this claim
 - [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related
+- [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
+- [GPT-4o and GPT-4-turbo assessed tutors' open-ended equity responses proficiently, with few-shot prompting outperforming zero-shot](llm-few-shot-outperforms-zero-shot-equity-assessment.md) — related

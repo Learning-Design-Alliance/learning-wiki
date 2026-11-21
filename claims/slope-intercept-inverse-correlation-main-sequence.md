@@ -47,3 +47,4 @@ Best-fit linear regressions of test grade on homework grade for both courses and
 ## Related Claims
 - [Homework effort correlates with test achievement as a stable linear 'academic main sequence' in introductory physics, at least until about 2016](academic-main-sequence-homework-effort-predicts-test-achievement.md) — related
 - [The badness of fit of the academic main sequence jumped after 2016, indicating homework and test grades have become decoupled in some courses](main-sequence-breakdown-post-2016.md) — related
+- [Linear rescaling of AI grades toward the y = x line does not yield reliable machine grading because it leaves dispersion uncorrected](grade-rescaling-insufficient-correction.md) — related

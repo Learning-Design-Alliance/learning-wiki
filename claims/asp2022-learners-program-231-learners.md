@@ -67,3 +67,5 @@ Authors' evaluative observation about the daily Q&A segment, introduced as "Ask 
 ## Related Claims
 - [ASP2022 was the largest ASP event to date, with 231 high school pupils, 76 high school teachers, and 191 university students attending](asp2022-largest-asp-event-participation.md) — a broader claim this one bears on
 - [In the 2022 ASP Teachers Program, 76 South African teachers widely accepted hands-on particle physics data activities, with spreadsheet-based Higgs boson mass calculation least favored by 50% of survey respondents](asp2022-teachers-program-activity-acceptance.md) — related
+- [Eighty Moroccan high school teachers, selected nationally from nearly 200 applications across 12 regional academies, attended a program of plenary lectures plus three hands-on workshops and reported satisfaction](asp2024-teacher-program-80-teachers.md) — related
+- [The ASP2024 learners program engaged over one thousand high school pupils, averaging about 200 pupils per day across five venues during April 15–19, 2024](asp2024-learners-outreach-1000-pupils.md) — related

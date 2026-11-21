@@ -54,3 +54,5 @@ Qualitative finding from the study's analysis of how six secondary teachers conc
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — reports the opposite
 - [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related
 - [The word 'enhanced' in 'technology-enhanced learning' implies a value judgement, making the term problematic though worth retaining with care](tel-enhanced-implies-value-judgement.md) — related
+- [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
+- [Experts perceived AI-assisted hints as more consistent than human-only hints and reported retaining control over generation](experts-perceived-consistency-and-control.md) — related

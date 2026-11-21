@@ -49,3 +49,4 @@ Descriptive demographics from the final survey of the author's own MOOC, printed
 - [Certificate-earning MOOC students reported learning-goal rather than performance-goal motivation, with 98% saying the absence of a real degree posed no problem](mooc-learning-goal-motivation-98-percent.md) — related
 - [US anatomy teachers are predominantly white, slightly more often female, and mostly hold academic doctoral degrees](us-anatomy-teacher-demographics-2025-survey.md) — related
 - [The professional profile of the sampled teachers is dominated by recent entrants holding specialization (lato-sensu) degrees rather than masters or doctorates](teacher-profile-specialization-degrees.md) — related
+- [CFQT proficiency levels are aligned with the EQF, linking level B2 to bachelor, C1 to master and C2 to doctoral programs, though the mapping is not one-to-one](cfqt-eqf-alignment-levels-to-degree-cycles.md) — related

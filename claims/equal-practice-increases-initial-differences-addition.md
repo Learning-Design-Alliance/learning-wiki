@@ -50,3 +50,4 @@ Table 7 reports average gross gains by initial-score bands within each grade; fo
 ## Related Claims
 - [Pupils of the same grade show enormous individual differences in initial adding ability and in gain from equal practice](enormous-individual-differences-addition-ability-and-gain.md) — related
 - [Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability](bright-children-below-capacity.md) — related
+- [Groups starting with little prior knowledge showed notable grade improvements, with undergraduate Groups 3 and 4 showing the greatest increments and quantum-professional Group 6 lower ones](ensar-gains-largest-for-low-prior-knowledge-groups.md) — reports the opposite

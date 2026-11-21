@@ -42,7 +42,8 @@ The intelligent practice teaching platform is the article's central technologica
 - [Ai Progressive Training Four Dimension Competency Gains](../claims/ai-progressive-training-four-dimension-competency-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-module speech-to-sign-language translation architecture with a rule-based translation core](speech-to-sign-translation-three-module-architecture.md)
 
 ## Examples
 -

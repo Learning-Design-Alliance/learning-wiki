@@ -44,6 +44,7 @@ As an extension beyond using provided models, the article recommends letting par
 - [Students calculate spacetime sector models themselves using a simplified method requiring only elementary mathematics](student-sector-model-calculation-strategy.md)
 - [Do-it-yourself black hole workshop: build and compare sector models to introduce curved space descriptively](diy-black-hole-sector-model-workshop.md)
 - [Use Lorentz-transformed transfer sectors to join spacetime sectors and continue geodesics across boundaries](transfer-sector-geodesic-joining-strategy.md)
+- [Use the Achilles-tortoise Zeno time toy model to teach black hole horizons without the Schwarzschild metric](zeno-toy-model-teaching-black-hole-horizons.md)
 
 ## Examples
 -

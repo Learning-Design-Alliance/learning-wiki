@@ -51,3 +51,4 @@ Author's interpretation section (§5) drawing on the protocol counts and quiz re
 - [Student engagement (SCEQ) correlated positively with theoretical test scores in both cohorts](sceq-correlates-theoretical-scores-both-cohorts.md) — related
 - [Constant algorithm changes to Google Trends and Google Correlate prevent replication of results, and search-behaviour correlations carry causation and sampling caveats](google-correlate-replicability-caveats.md) — related
 - [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related
+- [A fictional-news correlation activity helped high-school physics students understand that correlation does not necessarily imply causation](fictional-news-correlation-activity-causation-understanding.md) — related

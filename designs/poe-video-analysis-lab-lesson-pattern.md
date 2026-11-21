@@ -43,7 +43,8 @@ The lesson pattern uses two 75-minute computer laboratory lessons in which a wor
 - [Tracker Lessons Large Kinematics Gains](../claims/tracker-lessons-large-kinematics-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Modified predict-observe-explain (POE) instructional design for scenario-based tutor lessons](modified-poe-scenario-tutor-lessons.md)
 
 ## Examples
 -

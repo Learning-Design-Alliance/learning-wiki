@@ -50,3 +50,4 @@ Comparison of concept-equivalent IT and CR question pairs deployed in midterm an
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Partial credit in integrated testlets is granted in a discriminating manner, with top-half students converting more available partial credit than bottom-half students](it-partial-credit-discriminating.md) — related
 - [Consistency-based scoring reduces credit obtainable by random guessing on the CMR CUE](cmr-consistency-scoring-reduces-guessing-credit.md) — related
+- [First-year students' CDPA scores are comparable to random guessing, consistent with the original CDPA findings for introductory courses](100-level-cdpa-scores-random-guessing.md) — related

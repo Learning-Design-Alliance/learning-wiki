@@ -47,3 +47,4 @@ The author reports, across multiple corpora of student argumentative interaction
 ## Related Claims
 - [Debating freely before re-analysing the debate as a diagram was more beneficial than concurrent discussion and diagram co-creation](debate-then-diagram-sequencing-beneficial.md) — related
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
+- [Chatbot-assisted classroom debates helped students anticipate counterarguments, producing more organized arguments and higher motivation](chatbot-assisted-debate-argumentation.md) — related

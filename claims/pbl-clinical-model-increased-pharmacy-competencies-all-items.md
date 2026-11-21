@@ -52,3 +52,4 @@ One-group pretest-posttest quasi-experiment with 36 fifth-year pharmacy students
 - [Pharmacy students report clinical rotations limited to one day per week with minimal patient interaction](limited-clinical-exposure-pharmacy-uganda.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related
+- [Integrating physics into pharmacy education can significantly enhance students' problem-solving and analytical skills](physics-integration-enhances-pharmacy-student-analytical-skills.md) — related

@@ -40,7 +40,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (19 for, 14 mixed, 2 against) · 45 studies (18 causal, 6 review, 6 theoretical, 5 quant-synthesis, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 5 of 45 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (19 for, 15 mixed, 2 against) · 46 studies (18 causal, 6 review, 6 theoretical, 5 quant-synthesis, 5 qualitative, 4 associational, 2 design), `q1`–`q4` · 5 of 46 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Re-read against the model on 2026-10-19. Of the thirteen claims listed here then
 - [Watching the video improved children's ability to detect real car-engine experts, with the advantage widening with age](../claims/video-improves-expert-detection-age-interaction.md) [+W] — attached 2026-10-26 from Chuey et al. (2021), which proposed "Expose young children to detailed causal mechanisms rather than omitting them, because exposure yields concrete memory plus abstract system-level knowledge that supports epistemic evaluation".
 - [Students who learn about scientists who got wrong answers come to see scientific answers as elusive rather than found in the back of a book](../claims/wrong-answer-scientists-teach-answers-are-elusive.md) [+W] — attached 2026-11-17 from Christopher M. Graney (2011), which proposed "Teach students that science is a complex and nuanced undertaking in which answers elude even good scientists"; tests this page's relationship.
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](../claims/answer-focus-misconceptions-about-science.md) [+W] — attached 2026-11-17 from Christopher M. Graney (2011), which proposed "Teach students that science is a complex and nuanced undertaking in which answers elude even good scientists".
+- [Using the given criteria, students identified deficiencies in ChatGPT’s answers on clarity, correctness, appropriateness, and precision for a grade-7 energy-and-power task](../claims/criteria-reveal-chatgpt-didactic-deficiencies.md) [~W] — attached 2026-11-20 from Farahnaz Sadidi et al. (2024), which proposed "Integrate criterion-based evaluation of AI-generated content into teacher training programs to foster critical thinking and media literacy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -53,3 +53,4 @@ IPA interview theme on anticipation versus reality: non-clinicians worried about
 - [Competence was sustained through peer supervision, which supported wellbeing, though non-specialist supervisors were felt to lack relevant expertise](peer-supervision-sustains-competence-and-wellbeing.md) — related
 - [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](clinical-supervision-embeds-self-management-skills.md) — related
 - [Increased context expertise facilitated both case study subjects' professional development trajectories](context-expertise-facilitates-faculty-growth.md) — related
+- [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related

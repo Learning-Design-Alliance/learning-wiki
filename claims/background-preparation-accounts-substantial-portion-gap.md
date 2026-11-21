@@ -60,3 +60,5 @@ Kost et al.'s regression models on FMCE and BEMA posttest scores used predictive
 - [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](flipped-classroom-reduced-gender-gap.md) — related
 - [Math SAT/ACT scores explain most URM and FG gaps while CI pre-scores explain the gender gap, showing the two preparation measures have different explanatory power](differential-explanatory-power-prep-measures.md) — related
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
+- [Conceptual learning scores rose from pre-test to post-test in one group with no comparison group; prior physics grade was associated with the gains, while class and gender were not, and no significant associations were found between the predictors and affective outcomes](predictors-cosmology-course-outcomes.md) — related
+- [Prior physics and math preparation differed significantly by gender and race/ethnicity at course entry](prior-preparation-gaps-gender-race.md) — related

@@ -56,8 +56,10 @@ Thermal discomfort consumes working-memory and attentional resources that would 
 5. Offer personalization where the group setpoint cannot satisfy everyone: individual fans, seating options, and clothing flexibility ([Accommodations](../elements/accommodations.md)).
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the companion environmental strategy; noise, like thermal discomfort, consumes attentional resources
 - [Check-ins](../principles/check-ins.md) — the feedback mechanism that surfaces thermal discomfort learners do not spontaneously report
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Related Elements
 - [Attention](../elements/attention.md) — the primary cognitive resource this strategy protects

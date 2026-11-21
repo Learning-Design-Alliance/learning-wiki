@@ -62,3 +62,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
 - [Open student models made students more aware of knowledge deficiencies and improved their learning decisions](open-student-models-self-assessment.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
+- [Students with positive prior ChatGPT experience showed confirmation bias, maintaining or improving quality ratings despite recognizing deficiencies](confirmation-bias-in-chatgpt-evaluation.md) — related

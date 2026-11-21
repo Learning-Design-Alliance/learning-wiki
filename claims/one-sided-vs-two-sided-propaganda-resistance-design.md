@@ -50,3 +50,4 @@ The digest's Procedure section for the Lumsdaine and Janis study, which aimed to
 - [In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence](tgfdv-rct-significant-skill-perceptions.md) — related
 - [Interview-type radio presentation compared with monologue for attitude change](monologue-versus-interview-attitude-change.md) — related
 - [In debate situations subjects move toward their pre-existing bias](debate-moves-toward-preexisting-bias.md) — related
+- [Chatbot-assisted classroom debates helped students anticipate counterarguments, producing more organized arguments and higher motivation](chatbot-assisted-debate-argumentation.md) — related

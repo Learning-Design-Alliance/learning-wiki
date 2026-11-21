@@ -49,3 +49,4 @@ Descriptive statistics of Likert-scale items from the ASSA instrument administer
 - [Pre/post survey showed only a small, non-significant positive change in students' views of science](small-nonsignificant-tssi-change-inclusive-astronomy.md) — related
 - [Pre-to-post change in engineering attitudes was not statistically significant in the pilot workshop](no-significant-prepost-attitude-change-pilot.md) — related
 - [Elementary students' perceived science ability significantly increased after the Dark Skies, Bright Kids astronomy program, while creativity and science aspirations did not change significantly](dsbk-science-confidence-increased.md) — reports the opposite
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

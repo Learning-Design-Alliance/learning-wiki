@@ -81,3 +81,4 @@ Xu Shuzi, Chen Yiyang, and Wu Juanjuan. (2025). Practical Exploration of Medical
 - [Students taught with a flipped classroom methodology obtained higher quantitative exam grades than students taught with lecture-based learning in a social work university course](flipped-classroom-higher-quantitative-exam-grades-social-work.md) — related
 - [The participant group outperformed the comparison group on final exams by 6–8% and achieved more A and B course grades](participant-group-outperformed-comparison-group.md) — related
 - [Reformed-section exam averages exceeded traditional-section averages by 8.5%, 7.5%, and 13.2% on exams 2, 3, and the cumulative final exam](reformed-exam-averages-higher-by-8-5-7-5-13-2-percent.md) — related
+- [Deployment of the ENSAR methodology via the Qureka! Box produced an average grade increase of 3.91 points on a 10-point assessment across seven groups](qureka-box-ensar-average-grade-increase-3-91-points.md) — related

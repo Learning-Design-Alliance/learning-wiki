@@ -48,3 +48,4 @@ GEE analysis of HRV across timepoints in the cross-over pilot found the interact
 - [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — related
 - [IBVR training yields higher Milestone and DOPS operational performance ratings than TBVR among junior residents](ibvr-higher-milestone-dops-than-tbvr.md) — related
+- [PF students exhibit a larger decrease in cognitive load from pre-instruction practice to post-instruction programming than DI students](pf-larger-cognitive-load-reduction-after-instruction.md) — related

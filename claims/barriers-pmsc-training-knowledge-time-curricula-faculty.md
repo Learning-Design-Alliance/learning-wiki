@@ -59,3 +59,4 @@ Cross-sectional survey of training base representatives; Table 6 listed major ch
 - [Trainers report financial incentives, partner choice, institutional recognition and dedicated time as motivators, and lack of time and of trainee awareness as main barriers to dissemination](trainer-reported-motivators-and-barriers-pfa-o.md) — related
 - [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — related
 - [Barriers to EBP learning included discontinuous information literacy content, limited educator awareness of EBP strategies, and challenging collaborations](barriers-il-discontinuity-collaboration-ebp-nursing.md) — related
+- [Barriers to integrating physics into the pharmacy curriculum include lack of interdisciplinary collaboration, limited faculty physics expertise, and insufficient laboratory resources](physics-pharmacy-integration-barriers.md) — related

@@ -71,6 +71,7 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Identify specific scenarios, learner populations and domains where VR surpasses or enhances traditional trauma training before integrating it into curricula](targeted-vr-integration-trauma-curricula-strategy.md)
 - [Include cognitive load as an outcome measure when evaluating cross-sectional e-learning anatomy methods](include-cognitive-load-outcome-cross-sectional-elearning.md)
 - [Incorporate VR-physical disparity workarounds into future VR tools for surgical rehearsal and education](vr-physical-disparity-workarounds-strategy.md)
+- [Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone](integrate-vr-into-broader-teaching-strategies.md)
 
 ## Examples
 -

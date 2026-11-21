@@ -52,6 +52,7 @@ During DBR refinement, when students "relied heavily on AI-generated responses a
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
+- [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 
 ## Examples
 -

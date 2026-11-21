@@ -52,3 +52,4 @@ Secondary outcome measured with a three-question questionnaire on a 4-point Like
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Game-based and PowerPoint instruction produced no significant difference in students' attitudes toward the nutrition course](no-attitude-difference-game-versus-powerpoint.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [Students receiving personality-tailored learning materials scored significantly higher on JavaScript learning gains than controls in a small randomized experiment](personality-tailored-materials-improve-programming-gains.md) — related

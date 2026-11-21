@@ -74,3 +74,4 @@ Control-condition type significantly moderated interest effects (F(3.00, 3.06) =
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
 - [Effects of agent nonverbal behavior depend on the task: facial expressions were valuable for attitudinal learning but detrimental for procedural learning](nonverbal-effects-depend-on-task-type.md) — related
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related
+- [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — related

@@ -71,3 +71,4 @@ Author conclusion drawn from Bauby's (1997) first-person account showing how vis
 - [Hospital ward culture and interprofessional divides — including transient resident roles and lack of formal feedback channels — impede feedback provision and acceptance](msf-ward-culture-interprofessional-barriers.md) — related
 - [Psychosocial factors of motivation, attitude, confidence, and resilience influence attainment of communicative competence via AAC](psychosocial-factors-aac-communicative-competence.md) — related
 - [Strategic competence compensates for limitations in linguistic, operational, and social competence](strategic-competence-compensatory-strategies-aac.md) — related
+- [GEM augments UDL by adding sensory processing, social connection, and environmental factors](gem-augments-udl.md) — related

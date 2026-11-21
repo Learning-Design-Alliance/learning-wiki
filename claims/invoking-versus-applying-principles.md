@@ -78,3 +78,4 @@ Analysis of students' written work shows that even after successfully applying C
 - [On Q16, 35% of upper-level students selected only one principle (conservation of momentum alone, 21%, or mechanical energy constancy alone, 14%) as needed to solve the ballistics-collision problem](emcs-q16-single-principle-selection-upper-level.md) — related
 - [Students state the invariance of the speed of light correctly but fail to apply it, using the Galilean velocity addition formula instead](students-fail-apply-invariance-speed-light.md) — a narrower finding that bears on this claim
 - [Students apply the Principle of Equivalence correctly outside but fail inside a gravitational field](equivalence-principle-fails-inside-gravitational-field.md) — related
+- [Right-hand-rule tasks are especially difficult for ChatGPT-4o, which states the rule correctly but applies it incorrectly in most cases](right-hand-rule-application-failure-chatgpt-4o.md) — related

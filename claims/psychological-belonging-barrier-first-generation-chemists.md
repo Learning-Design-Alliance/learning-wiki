@@ -58,3 +58,4 @@ Reflective editorial section identifying psychological factors as an "often unde
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a broader claim this one bears on
 - [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related
 - [Relationships with peers and mentors in academia reduce the prevalence of imposter phenomenon, including among students from HMGs](academic-relationships-reduce-imposter-phenomenon.md) — related
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related

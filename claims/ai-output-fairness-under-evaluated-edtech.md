@@ -52,3 +52,4 @@ The field note's discussion of the fairness component states that in practice th
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — a narrower finding that bears on this claim
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related
 - [Enforced rubric use in gradetools supports consistent, fair grading across students and questions](rubric-enforcement-consistent-fair-grading.md) — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related

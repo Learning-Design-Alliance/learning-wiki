@@ -41,6 +41,7 @@ Each learner receives two sticky notes of different colors. Instructors use them
 - [Exit Ticket](exit-ticket.md)
 - [Collaborative Problem Solving With Sticky Notes](collaborative_problem-solving_with_sticky_notes.md)
 - [Use green-yellow-red cards for quick non-verbal comprehension feedback during lessons](traffic-light-cards-nonverbal-feedback.md)
+- [Use a green-yellow-red cone signal system to calibrate instructor interventions](traffic-cone-instructor-intervention-system.md)
 
 ## Examples
 -

@@ -46,7 +46,8 @@ The report recommends shifting spending toward prevention, arguing that current 
 - [The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort](../claims/arizona-dropout-fiscal-loss-135730.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Direct public investment toward unemployment reduction and quality-of-life factors rather than increased school spending to improve graduation outcomes](invest-out-of-school-quality-of-life-over-school-spending.md)
 
 ## Examples
 -

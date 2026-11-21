@@ -54,3 +54,4 @@ The review reports, citing Mah and Groß (2024), that faculty views range "from 
 - [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related
 - [Students' attitudes toward AI shaped distinct preferences for how their AI interaction should be represented in usage reports](ai-attitudes-shape-report-preferences.md) — related
 - [The article advocates a shift to an interdisciplinary socio-technical approach to AI literacy as a pathway to broaden participation in AI](socio-technical-shift-broadens-participation-in-ai.md) — related
+- [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related

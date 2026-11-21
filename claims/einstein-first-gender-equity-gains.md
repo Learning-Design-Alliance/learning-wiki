@@ -79,3 +79,4 @@ Year 10 program results at School 1. The article reports "the girls performed lo
 - [A four-lesson Year 10 program on Einsteinian concepts underlying gold synthesis improved conceptual understanding, with girls' improvement exceeding boys'](year10-gold-program-gains-gender.md) — related
 - [Attitudinal scores rose modestly from pre-test to post-test after the intervention, in one uncontrolled pre-post study, despite ceiling effects; girls' conceptual scores rose more than boys'](attitude-gender-improvement-einsteinian-intervention.md) — related
 - [The IAYC's participant gender gap trended towards parity and was closed around 2012, continuing towards increasing female share](iayc-gender-parity-trend.md) — related
+- [Female students rated aesthetic pictures higher than male students (d around 0.4), while motivation and interest in physics showed only weak correlations with aesthetic ratings](gender-motivation-interest-predictors-picture-ratings.md) — related

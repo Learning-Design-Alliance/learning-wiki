@@ -58,3 +58,4 @@ Theoretical argument in the chapter's Section 3, offered as a conjecture buildin
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
+- [Individual or small quantum education programs likely cannot deploy educator professional development at scale or over multiple years without sustained center scaffolding](small-programs-cannot-scale-quantum-pd-without-center.md) — a narrower finding that bears on this claim

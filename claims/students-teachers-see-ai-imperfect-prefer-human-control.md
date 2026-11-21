@@ -48,3 +48,4 @@ Qualitative speed-dating study with 16 students and 15 teachers in Germany; this
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md)
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — a broader claim this one bears on
 - [Fuzzy membership degrees support individualized task-difficulty recommendations, e.g. student iv=12 assigned mostly to cluster 3 with additional cluster 2 tasks](fuzzy-membership-task-difficulty-recommendation.md) — related
+- [NAPLAN's standardised design produces measurement errors that make it an imperfect tool for individual performance assessment](naplan-measurement-error-individual-assessment.md) — related

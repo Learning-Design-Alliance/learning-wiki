@@ -218,6 +218,7 @@ The expectation should weaken if independent comparisons with comparable learner
 - [Revised CMP2 lesson visuals](../elements/cmp2-revised-visuals-lesson.md) — a lesson revised for signalling, contiguity and coherence together.
 - [Attention](../elements/attention.md) — the element this principle protects.
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md) — its configuration step leaves out decorative and interesting-but-irrelevant material.
+- [Integrate aesthetic pictures into physics tasks at the start of a lesson and for application and transfer](../strategies/aesthetic-pictures-in-tasks-teaching-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2008). Applying the science of learning: Evidence-based principles for the design of multimedia instruction. *American Psychologist*. [doi:10.1037/0003-066x.63.8.760](https://doi.org/10.1037/0003-066x.63.8.760)

@@ -83,3 +83,4 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 - [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related
 - [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related
 - [LLM clinical reasoning performance is highly sensitive to input structure, with prompt structure a critical determinant of reliable behavior independent of model architecture](input-structure-determines-llm-reliability.md) — related
+- [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — related

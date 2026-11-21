@@ -51,6 +51,8 @@ The article recommends incorporating reliability evaluation and quality evaluati
 - [Use Chain-of-Thought and Tree-of-Thought prompting to mitigate hallucination and weak complex reasoning in LLMs used for learning](cot-tot-prompting-mitigate-llm-hallucination.md)
 - [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
 - [Instructors should review and edit all AI-generated feedback before sending it to students](human-in-the-loop-review-of-ai-feedback.md)
+- [Mitigate LLM hallucination in generated hint pathways by generating 30 responses per question and selecting the response closest to the centroid embedding](centroid-selection-hallucination-mitigation-strategy.md)
+- [Extend the validation-agent approach and refine prompt engineering and multi-agent design to further improve automatic feedback quality](validation-agent-and-prompt-engineering-strategy.md)
 
 ## Examples
 -

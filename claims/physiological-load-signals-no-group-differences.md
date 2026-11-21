@@ -69,3 +69,4 @@ Confirmatory test on heart rate variability (ln RMSSD from a Polar Verity Sense)
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — related
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
 - [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — reports the opposite
+- [PF students exhibit a larger decrease in cognitive load from pre-instruction practice to post-instruction programming than DI students](pf-larger-cognitive-load-reduction-after-instruction.md) — related

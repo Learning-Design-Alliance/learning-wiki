@@ -42,6 +42,7 @@ The article recommends coordinating validator feedback differently depending on 
 ## Related Strategies
 
 - [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
+- [Extend the validation-agent approach and refine prompt engineering and multi-agent design to further improve automatic feedback quality](validation-agent-and-prompt-engineering-strategy.md)
 
 ## Examples
 -

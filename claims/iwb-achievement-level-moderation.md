@@ -67,3 +67,4 @@ Scheffe post-hoc analysis located the direction of differences among the three a
 - [Achievement level significantly influenced performance within computer-assisted Jigsaw II, with high achievers outperforming medium and low achievers.](caj2-achievement-level-moderation.md) — related
 - [Achievement level significantly differentiated posttest performance among students taught with PowerPoint, with high achievers outperforming medium and low achievers](ppt-achievement-level-main-effect.md) — related
 - [Sidak post-hoc comparisons show high achievers significantly outperformed medium and low achievers, and medium achievers outperformed low achievers, under PowerPoint instruction](sidak-pairwise-achievement-levels-ppt.md) — related
+- [Achievement groups differ significantly in Computational Concepts and Perspectives but not in Computational Practices](anova-pcts-achievement-groups.md) — related

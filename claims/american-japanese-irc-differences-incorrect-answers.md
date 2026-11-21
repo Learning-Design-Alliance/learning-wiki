@@ -67,3 +67,4 @@ The authors' conclusion about the nature of the American-Japanese response diffe
 - [Item 32 shows the largest American-Japanese IRC difference: American students mostly choose action-dependence answer B while Japanese students mostly choose F](item-32-largest-irc-difference.md) — a narrower finding that bears on this claim
 - [An independent American data set's FMCE item response curves are highly similar to the original IDW American data set's curves](rsw-idwa-ircs-highly-similar.md) — related
 - [Quantitative IRC dot product comparison reveals differences (e.g., item 21, item 38) that qualitative visual comparison missed, revising which items IDW highlighted](dot-product-reveals-non-salient-irc-differences.md) — related
+- [NRM rankings of incorrect responses differ noticeably between independent data sets for most FMCE items](nrm-rankings-inconsistent-across-datasets.md) — related

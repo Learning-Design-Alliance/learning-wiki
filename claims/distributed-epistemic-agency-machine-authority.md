@@ -72,3 +72,4 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](action-research-epistemic-shift.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
 - [Nurses' role boundaries become blurred under human-machine collaboration due to absent norms and responsibility divisions](blurred-nurse-role-boundaries-under-hmc.md) — related
+- [ChatGPT interactions shifted some groups' awareness of critical aspects of acoustic levitation, sometimes toward unproductive foci](chatgpt-shifts-student-structure-of-awareness.md) — a narrower finding that bears on this claim

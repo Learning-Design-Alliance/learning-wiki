@@ -50,6 +50,7 @@ A transfer recommendation: the author urges instructors to "adapt the design to 
 - [Maintain multi-session small-class models with calibrated time controls and uniform scoring rubrics to preserve active learning integrity during enrollment expansion](multi-session-small-class-models-preserve-active-learning.md)
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
 - [Retain core empathy and supportive-communication components while adapting delivery to other social roles and contexts](adapt-core-components-other-social-roles.md)
+- [Offer modular and streamlined versions of the lab to fit different course formats and time budgets](modular-streamlined-ft-lab-versions.md)
 
 ## Examples
 -

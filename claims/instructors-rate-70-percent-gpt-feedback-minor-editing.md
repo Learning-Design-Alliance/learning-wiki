@@ -49,3 +49,4 @@ Stage 3 evaluation in which four instructors (two authors, two non-PER faculty) 
 - [Sixty percent of AI-generated feedback files required no modification before release, but eight of twenty required amendments including four major corrections](ai-feedback-sixty-percent-no-modification-four-major-errors.md) — related
 - [A custom GPT-based model generated pharmacology SAQ feedback approximately 15 times faster than fully manual faculty marking in a pilot study](custom-gpt-saq-feedback-15x-faster-than-manual-marking.md) — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
+- [GPT-4o-generated student-facing feedback was rated 3 or above on a 5-point scale by two experienced instructors for almost all messages](llm-generated-student-facing-feedback-quality.md) — related

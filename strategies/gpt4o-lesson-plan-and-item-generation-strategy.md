@@ -47,6 +47,7 @@ The article reports that prompt engineering enables ChatGPT to support instructi
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Use GPT-4o to analyze and reason through students' incorrect answers in case-based teaching with medical images, with human validation of its output](gpt4o-case-based-error-analysis-strategy.md)
 - [Validate ChatGPT-generated learning content through instructor review before giving it to residents](instructor-validation-of-chatgpt-content.md)
+- [Radical constructivist MARSGs require mindful development and instructor oversight to ensure learning](radical-constructivist-marsg-oversight.md)
 
 ## Examples
 -

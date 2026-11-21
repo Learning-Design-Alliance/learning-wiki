@@ -58,3 +58,4 @@ Qualitative thematic analysis of semi-structured interviews with 14 purposively 
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Students linked the group simulation assessment to self-awareness, personal accountability and lifelong learning](autonomous-learning-self-awareness-lifelong-growth.md) — related
 - [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related
+- [Explainable AI contributes to improved learning outcomes by helping educators identify student strengths and weaknesses and tailor interventions](explainable-ai-supports-tailored-learning-interventions.md) — related

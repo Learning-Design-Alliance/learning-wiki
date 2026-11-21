@@ -78,3 +78,6 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [Fine-tuning an LLM on expert (task, solution) data significantly improves its student synthesis performance, including capturing the student's behavior](finetuning-improves-llm-ss-student-synthesis.md) — related
 - [Zero-shot MeNSP scored science written responses without training data at Cohen's Kappa 0.30–0.57, improvable to 0.38 at the lower end with few-shot samples](mensp-zero-shot-scoring-kappa-range.md) — related
 - [Supervised ML is the most frequently used approach for automatic scoring of science assessments due to its high accuracy](supervised-ml-most-used-scoring-approach.md) — related
+- [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related
+- [Zero-shot GPT-4 generates feedback judged more accurate and relevant than GOAT and SBERT-Canberra by teacher evaluators](gpt4-feedback-accuracy-relevance.md) — related
+- [The fine-tuned GOAT model outperforms SBERT-Canberra and GPT-4 in predicting teacher scores for open-ended math responses](goat-outperforms-sbert-gpt4-scoring.md) — related

@@ -45,6 +45,7 @@ The article recommends that educators and policy makers guide students toward pr
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
+- [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 
 ## Examples
 -

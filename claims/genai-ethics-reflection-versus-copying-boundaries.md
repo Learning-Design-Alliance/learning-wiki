@@ -115,3 +115,4 @@ One student's account in the ethics theme of the same 25-student interview study
 - [Exit interviews showed limited reflection: most ChatGPT users showed no sign of actively engaging with the physics exercises](exit-interviews-limited-reflection-chatgpt.md) — related
 - [ChatGPT provides only rudimentary reverse-engineering capability, and whether students could obfuscate code to fool the tool remains an open question](chatgpt-rudimentary-reverse-engineering-capability.md) — related
 - [Students have submitted wrong or conflicting GenAI-generated information in assignments (authors' own experience)](genai-hallucination-wrong-student-submissions.md) — related
+- [A slight majority of students prompt genAI to directly generate solutions rather than to scaffold their own problem-solving](students-prompt-genai-direct-solutions.md) — related

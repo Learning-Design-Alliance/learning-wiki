@@ -50,3 +50,4 @@ The article's interpretive argument, drawn from prior literature it cites (e.g.,
 - [LC students scored significantly lower on the full Paranormal Beliefs scale than other SJFC students, but only four of seven subscale comparisons were significant.](lc-lower-than-other-sjfc-students.md) — related
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — related
 - [The authors report that reviewing popular science books gave students a new perception of scientific literature and developed critical judgment](asimov-prize-student-perception-scientific-literature.md) — related
+- [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — related

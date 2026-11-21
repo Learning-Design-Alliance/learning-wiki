@@ -62,3 +62,4 @@ End-of-workshop self-reported satisfaction survey administered across the 41 wor
 - [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related
 - [Undergraduate students rated the two-day forest physics exercise highly, averaging 6.1 on a 1–7 enjoyment scale](positive-student-feedback-forest-physics-exercise.md) — related
 - [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related
+- [Deployment of the ENSAR methodology via the Qureka! Box produced an average grade increase of 3.91 points on a 10-point assessment across seven groups](qureka-box-ensar-average-grade-increase-3-91-points.md) — related

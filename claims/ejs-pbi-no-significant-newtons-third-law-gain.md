@@ -54,3 +54,4 @@ The same quasi-experimental comparison, on the 4-mark Newton's 3rd Law section: 
 - [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — related
+- [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — related

@@ -58,3 +58,6 @@ Discussion-section assertion of the review, attributed to prior literature (Stow
 - [Students expect open-note testing to confer an exam advantage, and expectations differ by the condition students are assigned to](students-expect-open-note-advantage.md) — related
 - [The DL section performed best in the skill-based assessment, which the authors attribute to taking the exam at home](dl-section-best-in-skill-based-assessment.md) — a narrower finding that bears on this claim
 - [During Spring 2020 online instruction, fully online LMS exams and open-book/open-note exams were the most used assessment methods among engineering faculty](engineering-faculty-online-assessment-methods-prevalence.md) — related
+- [A hybrid take-home/in-class exam produced lower self-reported stress while completing the exam than a traditional in-class exam in introductory physics (pMW = 0.019)](hybrid-exam-lower-completion-stress.md) — a narrower finding that bears on this claim
+- [Preparing for a hybrid take-home/in-class exam increased self-reported mastery of physics more than preparing for a traditional exam (pMW = 0.031)](hybrid-exam-preparation-mastery.md) — related
+- [The hybrid exam did not induce significantly more preparation stress than traditional testing (pMW = 0.492)](hybrid-exam-preparation-stress-null.md) — a narrower finding that bears on this claim

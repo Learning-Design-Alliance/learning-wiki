@@ -50,3 +50,4 @@ In the Pair C session, the Gem supplied unmeasured masses after student pressure
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — a broader claim this one bears on
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — a broader claim this one bears on
+- [GEM's impact on learner achievement is undetermined until empirically tested](gem-untested-exploratory-model.md) — related

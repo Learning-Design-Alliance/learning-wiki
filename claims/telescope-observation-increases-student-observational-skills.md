@@ -48,3 +48,4 @@ Authors' report of the school observation project in which twelve students obser
 - [Students present serious difficulties and alternative conceptions in learning astronomical subjects, partly linked to traditional teaching distanced from observational and experiential experience](alternative-conceptions-astronomy-traditional-teaching-fragmented-knowledge.md) — a broader claim this one bears on
 - [Students who skip planning and observing logs often cannot construct their lunar mosaic](note-taking-and-planning-required-for-mosaic.md) — related
 - [In an observational night with a portable telescope, students found Venus's phases and Jupiter's moons the most interesting sights](observational-night-venus-phases-jupiter-moons.md) — related
+- [Early astronomy interest among undergraduates is typically rooted in directly observing astronomical phenomena with family](early-interest-observing-night-sky-family.md) — related

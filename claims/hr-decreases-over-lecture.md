@@ -51,3 +51,4 @@ Analysis of 42 medical school lecture classes (310 student traces at one-second 
 - [Heart rate changes approximately 10-fold faster in the first and last three minutes of lecture than in the middle](hr-rapid-ends-of-lecture.md) — a narrower finding that bears on this claim
 - [Starting heart rate decreases across morning classes, with a partial reset after lunch](starting-hr-declines-morning.md) — related
 - [Heart rate decreases significantly during short videos and returns to pre-video levels immediately afterward](hr-drops-during-videos.md) — related
+- [Mean heart rate is higher in Assembly (109.4 bpm) than in PE (101.3 bpm), with both courses showing shorter NNI intervals than other courses](assembly-heart-rate-exceeds-pe.md) — related

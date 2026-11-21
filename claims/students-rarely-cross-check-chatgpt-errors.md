@@ -52,3 +52,4 @@ Ethnographic observation across all groups; on one occasion ChatGPT incorrectly 
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
+- [Students generally trusted ChatGPT's theoretical answers without fact-checking, and some anthropomorphized the tool as possessing knowledge](student-trust-and-anthropomorphizing-chatgpt.md) — related

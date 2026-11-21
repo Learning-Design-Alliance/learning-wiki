@@ -52,3 +52,5 @@ Abstract-level program report citing the "high over-sub scription rate (factor 5
 - [LSSDS devotes roughly 43% of program time to mentored group project work, with lectures (~34%) and hands-on labs (~23%) filling the rest.](lssds-time-allocation-lectures-labs-projects.md) — related
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — related
 - [Some LSSDS group projects have resulted in successful observing proposals, continued collaboration, and student-led replications of parts of the school.](lssds-project-outcomes-proposals-collaborations.md) — related
+- [A hands-on, team-based school format tackling realistic research problems has been sustained as LSSDS's constant teaching style for ten editions](lssds-hands-on-team-research-school-format.md) — related
+- [LSSDS legacy includes alumni returning as TAs and faculty, and observing proposals and scientific publications enabled by the school](lssds-legacy-alumni-outcomes.md) — related

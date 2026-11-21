@@ -41,6 +41,7 @@ The article specifies that "The framework for the process of developing the RBL-
 - [Use online tessellation creator software (drawio, GeoGebra) in the technology stage](online-tessellation-software-strategy.md)
 - [Use r-dynamic coloring permutations to generate decoration variations and count block paving quantities](r-dynamic-permutation-decoration-counting-strategy.md)
 - [Use the ADDIE model to redesign an underused lecture-based course into a blended digital format meeting five quality criteria](addie-based-blended-redesign-strategy.md)
+- [Adopt the ADDIE model for design and evaluation, with BLEU, WER, and TER for intrinsic system evaluation](addie-bleu-wer-ter-evaluation-strategy.md)
 
 ## Examples
 -

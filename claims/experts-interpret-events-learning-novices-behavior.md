@@ -57,3 +57,4 @@ The article's synthesis of expert-novice research (citing Sabers et al. 1991) re
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — a narrower finding that bears on this claim
 - [Novices prefer positive feedback while experts seek out negative feedback](novices-prefer-positive-experts-seek-negative-feedback.md) — related
 - [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on
+- [Problem detection and diagnosis are the hardest revision steps, and novices focus on surface changes](revision-problem-detection-novice-difficulty.md) — related

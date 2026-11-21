@@ -62,6 +62,7 @@ Pacing works by aligning presentation rate with working memory limits: content d
 - [Retrieval Practice](retrieval-practice-activities.md) — the pause-point activity that makes pacing pauses productive
 - [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
 - [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
+- [Future pacing design should explore pausing at key moments rather than evenly slowing visuals](pacing-design-pause-at-key-moments-strategy.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — learner-paced videos with pause/scrub control, followed by exercises that gate progression on mastery.

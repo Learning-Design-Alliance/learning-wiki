@@ -50,3 +50,4 @@ Daily qualitative observational notes by the research team in the four classes. 
 - [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
 - [PF students scored significantly higher than DI students on climate explanatory knowledge](pf-beats-di-climate-explanatory-knowledge.md) — related
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
+- [Struggling lab groups asked ChatGPT only simple questions with little follow-up, while successful groups probed deeply and double-checked answers](lab-group-chatgpt-interaction-depth-varies-by-success.md) — related

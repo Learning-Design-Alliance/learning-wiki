@@ -49,3 +49,4 @@ Quality-check audit of all ChatGPT hints generated for the two lessons (24 Eleme
 ## Related Claims
 - [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](chatgpt-hint-error-rate-self-consistency.md) — related
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
+- [Hints generated with PromptHive produced learning gains on par with hints manually authored by subject matter experts without generative AI](prompthive-hints-learning-gains-on-par-with-human.md) — related

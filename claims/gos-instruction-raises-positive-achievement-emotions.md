@@ -53,3 +53,4 @@ Quasi-experimental nonequivalent control group pretest-posttest study with fourt
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
 - [Prior research on graphic organizers shows generally positive but not unanimous effects on vocabulary learning](go-prior-research-mixed-positive.md) — related
+- [Emotionally enriched AI feedback does not significantly change positive emotions (enjoyment, hope, pride) or most other negative emotions, though boredom was descriptively lower](enriched-ai-feedback-positive-emotions-unchanged.md) — related

@@ -40,7 +40,8 @@ The manual is organized as a deliberate progression: "In ﬁve chapters, this bo
 - 
 
 ## Related Designs
-- 
+
+- [Hands-on quantum course pattern: progressive spin systems combining analytical exercises with reproducible simulations](progressive-spin-systems-hands-on-pattern.md)
 
 ## Examples
 -

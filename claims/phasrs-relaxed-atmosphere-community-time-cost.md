@@ -68,3 +68,4 @@ From the same interview set: students in the fall felt the time crunch more acut
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](shared-competence-base-group-learning-clinobsmunicipality.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related
+- [A pilot program in Ecuador, South Africa, and the United States had students build low-cost multispectral cameras and gain a broad set of physics and engineering skills](pimics-pilot-skills-building.md) — related

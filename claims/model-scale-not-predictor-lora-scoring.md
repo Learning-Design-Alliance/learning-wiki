@@ -60,3 +60,4 @@ Head-to-head comparison of the two LoRA-adapted open-weight models on the 360-es
 - [Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law](adaptation-gains-grow-with-model-capacity.md) — related
 - [Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute](carbon-per-accuracy-rewards-undertrained-models.md) — related
 - [A fine-tuned DistilRoBERTa recipe-quality predictor achieves a test-set MAE of 0.39, slightly better than but not significantly different from a mean-prediction baseline of 0.42.](relexset-predictor-mae-better-than-baseline.md) — related
+- [A shared-backbone framework with task-specific LoRA adapters achieves average QWK of 0.848 across 27 scoring tasks versus 0.888 for fully fine-tuned models](shared-backbone-lora-qwk-0-848-vs-0-888.md) — related

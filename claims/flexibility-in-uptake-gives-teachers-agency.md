@@ -52,3 +52,4 @@ The article describes how flexibility in uptake was a responsive feature added b
 - [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — related
 - [Teachers across career stages valued the practicality of instructional materials, meaning they could implement activities with few or no modifications](practicality-of-materials-valued-across-career-stages.md) — related
 - [Teachers most frequently identified access to instructional materials and sustained university support as the most salient features of the responsive PD program](teachers-value-materials-access-and-sustained-support-in-rpd.md) — related
+- [Training students with tutorial material increased their adoption of methods developed by other research groups, per the authors' experience](tutorials-foster-cross-group-method-adoption.md) — related

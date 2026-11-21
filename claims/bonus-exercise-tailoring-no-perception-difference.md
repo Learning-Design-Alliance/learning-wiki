@@ -66,3 +66,5 @@ Descriptive survey percentages: "helpful and ﬁtting the speciﬁc weaknesses (
 ## Related Claims
 - [Tailored-group students needed less working time on longer bonus exercises than the untailored group, though not significantly](tailored-bonus-exercise-working-time-tendency.md) — related
 - [VR simulator training improves tissue-exercise performance only in trainees with low baseline robotic skills, indicating a need for tailored curricula](vr-training-benefit-limited-to-low-baseline-trainees.md) — related
+- [Explainable AI contributes to improved learning outcomes by helping educators identify student strengths and weaknesses and tailor interventions](explainable-ai-supports-tailored-learning-interventions.md) — reports the opposite
+- [Students receiving personality-tailored learning materials scored significantly higher on JavaScript learning gains than controls in a small randomized experiment](personality-tailored-materials-improve-programming-gains.md) — related

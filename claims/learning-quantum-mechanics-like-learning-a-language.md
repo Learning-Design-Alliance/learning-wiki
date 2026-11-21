@@ -56,3 +56,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [The depth and timing of theory understanding students needed to observe quantum effects varied across students](varied-theory-depth-timing-quantum-effects.md) — related
 - [The authors posit that QP's entirely visual nature enhances understanding of quantum theory by lowering the technical barrier, making it suitable for high-school introduction](qp-visual-approach-lowers-technical-barrier.md) — related
 - [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related
+- [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related

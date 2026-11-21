@@ -67,6 +67,7 @@ Technology-mediated reflection works because it lowers the transaction cost of w
 - [Make students' ideas public in a communal technology-supported space to prompt co-regulation](public-ideas-communal-space-prompt-co-regulation.md)
 - [Use priming tools, examples of practice, and artifacts of practice to support video-based reflection](priming-tools-examples-artifacts-video-reflection.md)
 - [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
+- [Embed a brief purpose-reflection prompt and worked example into an existing course-search platform](embed-purpose-reflection-in-course-search.md)
 
 ## Examples
 - A mathematics teacher uses Padlet for exit reflections: students post one sentence on where their problem-solving process broke down, and the teacher opens the next lesson by addressing the two most common posts.

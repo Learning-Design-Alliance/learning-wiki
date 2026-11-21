@@ -48,6 +48,7 @@ Because experiments run on real quantum hardware, "students could easily observe
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 - [Teach quantum computing through reproducible code boxes that students run locally and on real quantum hardware](reproducible-code-boxes-quantum-teaching-strategy.md)
 - [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
+- [Classroom discussion of statistical error versus hardware noise when simulating on quantum devices](statistics-versus-noise-classroom-discussion.md)
 
 ## Examples
 -

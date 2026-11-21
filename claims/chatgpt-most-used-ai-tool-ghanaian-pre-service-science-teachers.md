@@ -54,3 +54,4 @@ Survey of 380 pre-service science teachers in Ghana using a structured questionn
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
 - [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — related
+- [Reviewed studies report positive pre-service teacher perceptions of GenAI as a learning tool in Ghana and Greece](pst-positive-genai-perceptions-reviewed-studies.md) — related

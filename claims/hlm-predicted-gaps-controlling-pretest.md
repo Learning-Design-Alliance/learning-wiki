@@ -52,3 +52,4 @@ Hierarchical Linear Model (Model 3) nesting students within courses, fit to the 
 - [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](background-preparation-accounts-substantial-portion-gap.md) — related
 - [The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter](intersectional-risk-likelihood.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
+- [Prior physics and math preparation differed significantly by gender and race/ethnicity at course entry](prior-preparation-gaps-gender-race.md) — related

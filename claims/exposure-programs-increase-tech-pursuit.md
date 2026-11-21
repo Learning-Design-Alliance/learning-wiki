@@ -75,3 +75,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Interns lacked prior software exposure and research opportunities, requiring an initial software training phase](msi-interns-lacked-software-exposure-requiring-initial-training.md) — related
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
 - [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](family-support-pathway-physics-major.md) — a narrower finding that bears on this claim
+- [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — a narrower finding that bears on this claim

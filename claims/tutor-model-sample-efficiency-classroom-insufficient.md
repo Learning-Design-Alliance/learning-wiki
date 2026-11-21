@@ -49,3 +49,4 @@ Small-sample regime experiments (nm in {5,10,20,40,80}) training tutor models on
 - [Without step-level supervision, neither the student model nor the tutor model can acquire misconceptions regardless of training data size](step-level-supervision-essential-misconception-acquisition.md) — related
 - [Tutor models trained on ten misconceptions simultaneously learn each misconception while overall correct accuracy remains stable or improves (93% to 98%)](tutor-model-multi-misconception-no-accuracy-tradeoff.md) — related
 - [Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle](genai-tools-not-designed-for-active-learning.md) — related
+- [Pre-training a recommender system on sequential corpora improves sample efficiency for adaptive learning path personalization in the small data regime](pretraining-improves-sample-efficiency-adaptive-sequencing.md) — related

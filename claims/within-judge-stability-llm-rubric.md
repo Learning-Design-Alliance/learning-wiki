@@ -77,3 +77,5 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [The very narrow GEARS score range (SD < 0.5) limits the rubric's utility for identifying a competency inflection point](gears-narrow-score-range-limits-competency-threshold.md) — related
 - [GPT-4 grading shows high score variability across repeated rounds, especially for numerical correctness](gpt4-grading-score-variability.md) — related
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
+- [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related
+- [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related

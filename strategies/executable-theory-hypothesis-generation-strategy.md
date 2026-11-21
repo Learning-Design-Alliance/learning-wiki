@@ -55,4 +55,4 @@ The article recommends using agent-based models like Procedural ABICAP as execut
 -
 
 ## Key Sources
-- Rismanchian, S., & Doroudi, S. (2024). Reconciling Different Theories of Learning with an Agent-based Model of Procedural Learning. arXiv. https://arxiv.org/abs/2408.13364
+- Rismanchian, S., & Doroudi, S. (2024). Reconciling Different Theories of Learning with an Agent-based Model of Procedural Learning. arXiv. https://arxiv.org/abs/2408.13364. [doi:10.48550/arxiv.2408.13364](https://doi.org/10.48550/arxiv.2408.13364)

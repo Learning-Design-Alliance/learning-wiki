@@ -82,3 +82,4 @@ Supplementary within-country analyses for the United States, the UK and the Neth
 - [About 58% of teachers reported the gap between low- and high-performing students widened during the 2020–2021 school year](teachers-report-achievement-gap-widened.md) — related
 - [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — related
 - [Low-income students experienced substantially greater reductions in learning performance than high-income students in the shift to online learning](low-income-students-greater-online-learning-reductions.md) — related
+- [Bachelor enrollments in physics at German universities declined 15% in the three years following the onset of the COVID-19 pandemic](germany-physics-enrollment-decline-15-percent-covid.md) — related

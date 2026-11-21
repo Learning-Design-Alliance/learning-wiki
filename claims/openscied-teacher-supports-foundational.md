@@ -58,3 +58,4 @@ Synthesis of the focus-group needs maps (Figures 2–4) across 28 interviewed pr
 - [School leaders allocated resources to expand organizational capacity around adoption and implementation of the Skyline ELA curriculum in grades K-2](leaders-allocated-resources-expand-organizational-capacity-skyline.md) — related
 - [Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences](student-hat-planning-tools-support-sensemaking.md) — related
 - [The final synthesis identifies improving interactions between systems as the path to effective curricular change adoption](synthesis-improving-interactions-systems-adoption.md) — related
+- [Training students with tutorial material increased their adoption of methods developed by other research groups, per the authors' experience](tutorials-foster-cross-group-method-adoption.md) — related

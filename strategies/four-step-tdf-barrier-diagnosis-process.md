@@ -43,6 +43,7 @@ The article outlines a four-step process for education researchers to apply the 
 ## Related Strategies
 
 - [Design prescribing-safety interventions around behaviour-change techniques matched to the relevant TDF domains](bct-targeting-tdf-domains-prescribing.md)
+- [Four-step process: identify behaviors, explore context, integrate support, surface just-in-time recommendations](gem-four-step-support-process.md)
 
 ## Examples
 -

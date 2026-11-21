@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-01
+source_checked: 2026-11-20
 recheck_by: 2029
 sources:
   - id: suhyeon-lee-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In an introductory AI course, more than 95% of the LLM's 14,637 responses were classified as Explaining (40.3%) or Solving (55.2%), with Prompting, Hinting and Minimal together under 5%. [→ Suhyeon Lee 2026](#suhyeon-lee-2026)
@@ -56,3 +56,6 @@ Observational analysis of 14,637 paired turns from 203 students using a GPT-4o-m
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related
 - [In a pilot study, students most often requested why explanations of hints, followed by how explanations](pilot-why-explanations-most-requested.md) — related
+- [Students rate genAI most helpful for explaining domain knowledge and least helpful for verifying solutions, while faculty recommend genAI for fewer than a third of problem-solving uses](student-faculty-misalignment-genai-problem-solving.md) — related
+- [A slight majority of students prompt genAI to directly generate solutions rather than to scaffold their own problem-solving](students-prompt-genai-direct-solutions.md) — related
+- [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — related

@@ -60,6 +60,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 - [Integrate real-data analysis tools into an inquiry-based online learning platform to support reflective inquiry teaching](integrate-real-data-tools-into-inquiry-platform.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

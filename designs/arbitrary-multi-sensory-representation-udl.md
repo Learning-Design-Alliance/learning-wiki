@@ -42,7 +42,9 @@ The article advances arbitrary (non-figurative), redundant and multi-modal senso
 - [Code Declaration Needed For Autonomous Interpretation](../claims/code-declaration-needed-for-autonomous-interpretation.md) [+M]
 
 ## Related Designs
+
 - [Combine Audio Visual Compensate Sensory Loss](../principles/combine-audio-visual-compensate-sensory-loss.md)
+- [Popcorn-with-a-hair-straightener context as an interdisciplinary, multi-sensory phenomenon for inclusive science lessons](popcorn-hair-straightener-context.md)
 
 ## Examples
 -

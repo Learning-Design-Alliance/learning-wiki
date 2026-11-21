@@ -48,3 +48,4 @@ A z-score probability calculation on the AI-authored essay score distribution, n
 ## Related Claims
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related
 - [Rubric-based GPT-4 prompting produced the strongest reflective assessment (80%), surpassing the top student submission (70%), though lacking personalization](chatgpt-reflective-assessment-strong-but-impersonal.md) — related
+- [GPT-4 achieves a weighted average of 65% (upper second-class equivalent) across a full UK physics BSc degree but cannot pass due to compulsory laboratory and viva elements.](gpt4-65-percent-physics-degree-fails-lab-viva.md) — related

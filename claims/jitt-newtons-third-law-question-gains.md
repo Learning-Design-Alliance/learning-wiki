@@ -54,3 +54,4 @@ Sub-analysis of the same 222-student, five-semester FCI pretest/post-test compar
 - [Interactive sections significantly outperformed traditional sections on the four FCI Newton's Third Law questions (Cohen's D = 0.583), while the entire-FCI normalized gain difference was not statistically significant](ils-fci-newtons-third-law-gain-french-mechanics.md) — related
 - [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — related
 - [Action-reaction language for Newton's third law implies causality and can mislead learners](action-reaction-language-implies-causality.md) — related
+- [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — a broader claim this one bears on

@@ -46,6 +46,7 @@ The article frames physics learning on the model of scientific research as a dyn
 
 - [ISLE (Investigative Science Learning Environment): inquiry organized around observational, testing and application experiments](isle-three-experiment-inquiry-approach.md)
 - [Collaborative-individualistic model of the scientific enterprise as a design rationale for assessment](collaborative-individualistic-scientific-enterprise-model.md)
+- [Teach physics students with researchers who actively do science themselves](teaching-by-active-researchers-spt.md)
 
 ## Examples
 -

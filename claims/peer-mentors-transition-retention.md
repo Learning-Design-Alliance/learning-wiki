@@ -48,3 +48,5 @@ The article reports, citing Dennehy & Dasgupta (2017), a marked increase in belo
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — a broader claim this one bears on
 - [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](negative-recognition-harms-efficacy-interest-persistence.md) — related
+- [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — a narrower finding that bears on this claim

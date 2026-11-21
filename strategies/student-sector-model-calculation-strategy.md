@@ -47,6 +47,7 @@ A simplified calculation of sector models, extended from curved surfaces to the 
 - [Use Lorentz-transformed transfer sectors to join spacetime sectors and continue geodesics across boundaries](transfer-sector-geodesic-joining-strategy.md)
 - [Have students compute and construct sector models themselves from a given metric to study geodesics independently](students-compute-sector-models-from-metric-strategy.md)
 - [Do-it-yourself black hole workshop: build and compare sector models to introduce curved space descriptively](diy-black-hole-sector-model-workshop.md)
+- [Use the Achilles-tortoise Zeno time toy model to teach black hole horizons without the Schwarzschild metric](zeno-toy-model-teaching-black-hole-horizons.md)
 
 ## Examples
 -

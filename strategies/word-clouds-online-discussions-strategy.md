@@ -53,6 +53,7 @@ The article recommends presenting discussion texts as word clouds—visual repre
 ## Related Strategies
 
 - [Pictures & Visuals](pictures-visuals.md)
+- [Bring physics–environment relations into teaching practice through interdisciplinarity, contextualization of concepts, complex thinking and critical thinking](physics-environment-teaching-four-emergent-categories.md)
 
 ## Examples
 -

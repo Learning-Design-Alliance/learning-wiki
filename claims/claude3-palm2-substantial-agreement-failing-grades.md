@@ -53,3 +53,4 @@ Findings summary of the model-comparison evaluation in the software engineering 
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — reports the opposite
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](llm-grading-moderate-human-agreement-icc.md) — reports the opposite
+- [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related

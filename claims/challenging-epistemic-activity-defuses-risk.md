@@ -47,3 +47,4 @@ Transcript analysis of Turns 6-26: Lisa critiqued the definitive language of "mo
 ## Related Claims
 - [Reframing a content question as a pedagogical task repositions teachers away from problem-solver risk and creates opportunities to practice CKT](pedagogical-reframing-repositions-teachers.md) — a broader claim this one bears on
 - [Analysis of one PD episode identifies four types of comfort-building moves that mitigate socio-emotional risk](four-comfort-building-move-types.md) — a broader claim this one bears on
+- [In an embodied rating task, most teachers repositioned themselves toward the open-ended end of the structured–open-ended continuum when asked where they desired to be.](embodied-rating-task-movement-toward-open-ended.md) — related

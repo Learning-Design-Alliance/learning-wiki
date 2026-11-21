@@ -48,6 +48,7 @@ As a mandatory activity to conclude the project, students created posts for soci
 - [Integrate social media channels to build community and provide timely feedback in virtual physics courses](social-media-community-feedback-physics-elearning.md)
 - [Align educational social media content with lecture timelines and schedule posts during high-engagement periods](align-social-media-posts-with-curriculum-timeline.md)
 - [Character Scrapbooking](character_scrapbooking.md)
+- [Use a low-risk social media platform as a safe space where scientists at all career stages practice science communication](low-risk-social-media-communication-training.md)
 
 ## Examples
 -

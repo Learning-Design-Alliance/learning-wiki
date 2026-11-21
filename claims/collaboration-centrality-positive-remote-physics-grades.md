@@ -79,3 +79,4 @@ Multiple linear regression (OLS) on 101 secondary students from two Chilean scho
 - [Collaboration degree centrality and strong friendship ties predict mathematics grades, with weak ties showing no gains](strong-ties-predict-math-grades-weak-ties-null.md) — related
 - [Gatekeeper brokerage positively predicted problem elaboration but negatively predicted physics grades](gatekeeper-brokerage-elaboration-grades-contrast.md) — related
 - [Course context and environment, rather than instructional format (remote, hybrid, in-person), appear to determine whether student collaboration correlates with performance](course-context-matters-more-than-format-for-collaboration-performance-link.md) — a broader claim this one bears on
+- [Eight centrality measures yield highly consistent rankings across the Physics, Mathematics, and integrated networks, so degree centrality alone suffices to rank content importance](centrality-measures-consistent-degree-suffices.md) — related

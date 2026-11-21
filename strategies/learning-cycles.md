@@ -70,6 +70,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 - [Design in-class activities so students struggle with a problem before the mini-lecture that shows how an expert organizes it](struggle-before-mini-lecture-strategy.md)
 - [Problem-oriented teaching with reaction-based experiences preceding evaluation](problem-oriented-reaction-experiences-tc-course.md)
 - [Two-session preparation-for-future-learning introduction to an active-learning course](pfl-two-session-active-learning-introduction.md)
+- [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 
 ## Examples
 - **BSCS Science: An Investigative Approach** ([bscs.org](https://bscs.org)) — the high school biology program built directly on the 5E model, with each chapter structured as Engage–Explore–Explain–Elaborate–Evaluate

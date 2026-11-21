@@ -46,6 +46,7 @@ The authors propose forward-looking directions: "Adding a control group would al
 ## Related Strategies
 
 - [Extend the fan Doppler experiment to an audible sound source, or reuse it to teach ultrasound fundamentals in medical physics](audible-doppler-variant-and-medical-physics-reuse-strategy.md)
+- [Improve future ASP editions by expanding hands-on activities, pre-distributing course summaries, and adding practical sessions, group projects, and field trips](asp2024-future-improvement-strategy.md)
 
 ## Examples
 -

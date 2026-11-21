@@ -109,3 +109,4 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 - [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
 - [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — related
+- [A hybrid take-home/in-class exam produced lower self-reported stress while completing the exam than a traditional in-class exam in introductory physics (pMW = 0.019)](hybrid-exam-lower-completion-stress.md) — related

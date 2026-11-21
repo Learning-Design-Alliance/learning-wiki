@@ -49,3 +49,4 @@ Comparison of instructor and peer mean grades for the same questions (Table 4), 
 - [In three astronomy MOOCs, GPT-3.5 and GPT-4 grades are closer to instructor grades with lower dispersion than peer grades](llm-grading-closer-to-instructor-than-peer-grading.md) — related
 - [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — related
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — a broader claim this one bears on
+- [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related

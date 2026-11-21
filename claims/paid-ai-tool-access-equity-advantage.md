@@ -61,3 +61,4 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
 - [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — related
 - [The authors found no significant difference between paid and free models, or between generative pre-trained and reasoning-based models, in ethics MCQ generation quality (descriptive only)](no-descriptive-difference-paid-free-gpt-reasoning-models.md) — related
+- [College STEM students report high adoption of generative AI tools, predominantly free versions of frontier LLMs](high-student-genai-adoption-free-llms.md) — related

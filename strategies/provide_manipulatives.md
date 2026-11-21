@@ -83,6 +83,7 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
 - [Balance on- and off-computer mathematics activities in early childhood classrooms](balance-on-and-off-computer-math-activities.md)
 - [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
+- [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 
 ## Examples
 - **Cognitively Guided Instruction** ([CGI for Math](../principles/responsive-teaching.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.

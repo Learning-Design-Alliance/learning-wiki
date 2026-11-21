@@ -54,6 +54,7 @@ The whitepaper proposes that "Along­termcommunityengagementprogramshouldbesuppo
 - [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
 - [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
 - [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 
 ## Examples
 -

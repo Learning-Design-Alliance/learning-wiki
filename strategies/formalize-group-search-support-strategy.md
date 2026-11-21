@@ -48,6 +48,7 @@ The authors recommend departments better facilitate the group search to improve 
 ## Related Strategies
 
 - [Track when students join research groups as a departmental metric to surface hidden inequities in the group search](track-group-joining-timing-metric.md)
+- [Departmental practices to broaden astronomy access: inclusive community, faculty and graduate student interaction, undergraduate research, and career expectancy communication](inclusive-astronomy-department-practices.md)
 
 ## Examples
 -

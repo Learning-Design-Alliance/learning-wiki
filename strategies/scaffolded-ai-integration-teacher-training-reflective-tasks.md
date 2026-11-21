@@ -64,6 +64,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation](teacher-guidance-genai-translation-classroom-activities.md)
 - [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 - [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
+- [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 
 ## Examples
 -

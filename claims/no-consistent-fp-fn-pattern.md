@@ -58,3 +58,4 @@ Null observational finding from the rubric-item-level error analysis across five
 - [Error distributions differed directionally across LLMs: Claude produced more false positives (14.2%), whereas Gemini and ChatGPT produced more false negatives (25.9% and 47.9%, respectively)](llm-ospe-asymmetric-error-patterns.md) — reports the opposite
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — related
 - [Measurement error from context-general mindset measures may cause false-negative replication failures in science and math undergraduate research](measurement-error-causes-replication-failures-mindset.md) — related
+- [LLM-powered error detectors show a consistent performance gap (conformity bias) between conventional and alternative solutions to math word problems](llm-conformity-bias-mwp-error-detection.md) — related

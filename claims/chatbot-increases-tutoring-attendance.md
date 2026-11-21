@@ -58,3 +58,4 @@ ITT analysis of tutoring attendance from the pooled RCT sample, with formal medi
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
 - [Enrollment in the supplemental instruction section is associated with significantly positive average individualized treatment effects on final exam score and course grade](si-positive-average-ite-exam-grade.md) — related
 - [Historical correlational data showed students attending more Supplemental Practice days earned higher course averages and success rates above 65% at nine or more days](sp-attendance-correlates-with-success.md) — related
+- [Offering scaled extra credit is associated with higher completion of supplemental math assignments and reduced PEER/WA completion disparities](scaled-extra-credit-higher-math-completion-reduced-disparity.md) — related

@@ -77,3 +77,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [About 23% of life science majors in introductory algebra-based physics explicitly perceive no relevance of the course to their majors](23-percent-introductory-physics-irrelevant-to-major.md) — reports the opposite
 - [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related
 - [A writing-intensive introductory GE astronomy course increased non-major students' perceptions of their own ability to engage with STEM across all four measured tasks](sciwri-ge-course-increased-ability-perceptions.md) — related
+- [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related

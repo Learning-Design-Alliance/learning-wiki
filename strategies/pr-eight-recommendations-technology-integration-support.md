@@ -53,6 +53,7 @@ The report's discussion offers eight recommendations for education decision-make
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 - [Use blended learning approaches for teachers' professional development in ICT integration](blended-approach-teacher-pd-strategy.md)
 - [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
+- [Strengthen BEES training with integrated STEM courses, workshops, and technology-pedagogy integration](bees-stem-training-strengthening-strategy.md)
 
 ## Examples
 -

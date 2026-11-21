@@ -51,3 +51,4 @@ Content analysis of reflections from the three groups in the 2011 TUBITAK-funded
 - [The experimental group reported richer and more frequent outcomes from the environmental education course than the control group](experimental-group-richer-course-outcomes-content-analysis.md) — related
 - [The affective concept of interest was observed only in the indoor experiential control group, not in the outdoor experimental group](interest-only-indoor-experiential-group.md) — related
 - [Outdoor school ground lessons produce significantly higher post-test scientific curiosity than conventional teaching, while the control group's curiosity declined](outdoor-lessons-improve-scientific-curiosity.md) — related
+- [Affective responses favour standard recitation tasks: curiosity and interest were higher for Rec than for Exp and Pro tasks, and reference to reality was higher for Rec and Exp than Pro](affective-responses-rec-favoured.md) — related

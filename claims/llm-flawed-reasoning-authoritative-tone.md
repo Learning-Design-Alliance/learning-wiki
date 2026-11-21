@@ -53,3 +53,4 @@ Authors' qualitative observation from analyzing model responses in this evaluati
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [GPT-4 could not reproduce novice reasoning when prompted, and failed on physics questions not phrased in canonical physics tone and nomenclature](gpt4-limitations-novice-emulation-informal-prompts.md) — related
+- [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related

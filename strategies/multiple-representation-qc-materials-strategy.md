@@ -50,6 +50,7 @@ The authors' proposed response to the observed difficulties: multiple representa
 - [Revise the CQS to scaffold choosing a representation in which the operators of interest are diagonal](scaffold-representation-choice-for-diagonal-basis-strategy.md)
 - [Use research-based learning tools on Dirac notation, including the guided-inquiry QuILT, reflective problems, and peer concept tests](dirac-notation-research-based-learning-tools-strategy.md)
 - [Provide ready-made integrated conceptual and quantitative problems as homework in graduate core courses](strategy-integrated-conceptual-quantitative-problems.md)
+- [Ten-lecture one-credit course sequence introducing quantum formalism through vectors, Dot-Vec notation, and Bloch cubes](one-credit-quantum-formalism-lecture-sequence.md)
 
 ## Examples
 -

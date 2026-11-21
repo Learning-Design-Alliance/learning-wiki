@@ -50,3 +50,5 @@ Between-group comparison of learning deltas for the 20 participants randomized t
 - [Within the VR condition, food-education questionnaire scores rose significantly from pre-test to post-test](vr-condition-significant-prepost-gain.md) — related
 - [The authors report that VR performed particularly well for participants with high cognitive delay and autism, though without significant evidence favoring VR overall](vr-beneficial-high-cognitive-delay-autism.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
+- [Slideshow learning was slightly more effective than VR learning in enhancing physics knowledge in this study](slideshow-outperformed-vr-physics-knowledge.md) — related
+- [Learning with Physics Playground improved physics test performance regardless of learning condition (VR or slideshow)](physics-playground-knowledge-gain-both-conditions.md) — related

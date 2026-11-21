@@ -70,3 +70,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Workload ratings do not differ significantly by profession, prior AR experience, or prior HoloLens experience](workload-independent-of-background-and-ar-experience.md) — related
 - [Reviewer experience does not directly affect rating scale accuracy and does not interact with training condition](reviewer-experience-no-accuracy-effect.md) — related
 - [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related
+- [Perceived cognitive load did not differ between VR and slideshow learning conditions](no-cognitive-load-difference-vr-slideshow.md) — related

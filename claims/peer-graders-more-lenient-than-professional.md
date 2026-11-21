@@ -67,3 +67,4 @@ Across all scored exercises, the global average difference was computed: profess
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
 - [Educators with primary clinical responsibilities have significantly higher odds of both passing failing students and awarding extra marks than non-clinical educators](clinical-setting-predicts-ftf-and-gl-iraq.md) — related
 - [About two-thirds of Iraqi medical and health sciences educators report awarding extra marks beyond what was warranted](iraq-grading-leniency-67-percent-prevalence.md) — related
+- [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related

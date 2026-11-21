@@ -52,3 +52,4 @@ Better-data multiple-choice responses from the same survey, shown in Fig. 3 and 
 - [Very few advanced physics students exhibit definitional point-like thinking, predicting a single value from more or better data](few-students-predict-single-value-more-better-data.md) — related
 - [Students who expect better data to leave the distribution unchanged justify this with inherent physical or measurement principles, mainly in quantum and distribution scenarios](principles-reasoning-better-data-stays-same.md) — related
 - [Most students expect a measurement distribution to stay the same when more data are collected under the same conditions](more-data-distribution-stays-same-majority.md) — related
+- [Randomized projectile motion exercises yield non-uniform output distributions even with uniform inputs](uniform-inputs-nonuniform-outputs-projectile.md) — related

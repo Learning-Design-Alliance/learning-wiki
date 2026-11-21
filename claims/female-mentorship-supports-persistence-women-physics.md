@@ -60,3 +60,5 @@ Case-study interview evidence: Paulette's counterfactual about peer partnership 
 - [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related
 - [Self-efficacy develops through self-recognition and other-recognition and leads students to seek new opportunities and develop positive feelings about a future career](self-efficacy-recognition-drives-subfield-choice-actions.md) — related
 - [In the large research university department (Study 2), undergraduate women report male peers ignoring their contributions and male instructors enforcing negative stereotypes, while female peers serve as key support sources](study2-masculine-negative-peer-instructor-culture.md) — related
+- [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related

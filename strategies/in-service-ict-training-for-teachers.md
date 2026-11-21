@@ -56,6 +56,7 @@ The article recommends ongoing professional development so teachers can handle I
 - [Organize rational and emotive-oriented conferences and orientations for schoolteachers before introducing them to online teaching](rebt-oriented-conferences-for-teachers-strategy.md)
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 - [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
+- [Strengthen BEES training with integrated STEM courses, workshops, and technology-pedagogy integration](bees-stem-training-strengthening-strategy.md)
 
 ## Examples
 -

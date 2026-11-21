@@ -46,6 +46,7 @@ Because trust occupies the pivot of the modeled chain, the authors recommend tha
 - [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 - [Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it](preserve-critical-stance-while-reducing-debilitating-anxiety.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

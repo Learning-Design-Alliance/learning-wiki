@@ -80,6 +80,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 **[Khan Academy](https://www.khanacademy.org)** — Knowledge-map navigation lets learners choose their path through linked exercises and videos, with a recommended progression available as a default route for novices.
 
 **[Kandinsky-style case hypertext (Spiro's "Romeo and Juliet" hypertext)](https://doi.org/10.1111/j.1467-8535.2007.00790.x)** — Cognitive Flexibility Theory's classic demonstration: learners criss-cross thematic lenses over the same text via multiple link sets to build flexible interpretation.
+- [Design tutorial sites as a miniaturized research literature with contributor-controlled linking rather than an imposed order](../strategies/tutorials-as-miniature-research-literature.md)
 
 ## Key Sources
 - DeStefano, D., & LeFevre, J.-A. (2007). Cognitive load in hypertext reading: A review. *Computers in Human Behavior, 23*(3), 1616–1641. [doi:10.1016/j.chb.2005.08.012](https://doi.org/10.1016/j.chb.2005.08.012)

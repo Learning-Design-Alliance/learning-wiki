@@ -59,3 +59,5 @@ Qualitative interview findings from five women physics majors; participants desc
 - [Faculty mentorship that encourages women to take challenging courses builds their sense of competence and recognition as physics people](faculty-mentorship-challenging-courses-competence-recognition.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [The Peer Mentorship Program increased scholars' sense of community, with 95% of 2020-21 survey respondents reporting connections they could reach out to for help, up from no more than 50% the first year](peer-mentorship-program-increased-sense-community.md) — related
+- [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related

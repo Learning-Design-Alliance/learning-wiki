@@ -42,6 +42,8 @@ The article recommends browser-based no-code quantum circuit interfaces, like TQ
 ## Related Strategies
 
 - [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
+- [Introduce quantum software engineering and the hybrid classical-quantum SDLC alongside programming frameworks](quantum-sdlc-curriculum-component.md)
+- [Design quantum courses around cloud-based platforms and simulators where hardware access is limited](cloud-based-quantum-platforms-course-design.md)
 
 ## Examples
 -

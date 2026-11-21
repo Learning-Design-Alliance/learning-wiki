@@ -44,6 +44,7 @@ The model's teaching and learning process follows the engineering design process
 ## Related Designs
 
 - [Quantum Teaching content sequence: enroll, experience, demonstrate, and celebrate](qts-five-step-content-sequence.md)
+- [Six-step teaching approach for quantum computer programming and quantum software engineering](six-step-quantum-programming-teaching-approach.md)
 
 ## Related Patterns
 

@@ -86,3 +86,6 @@ Agreement between human raters computed from public deposits with no model invol
 - [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — related
 - [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
 - [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — related
+- [GPT-4's grading accuracy correlates with its problem-solving ability, and a mark scheme removes this dependence](gpt4-solving-grading-correlation.md) — related
+- [IRT-predicted partial credit provides a ground-truth-free, per-student-per-item uncertainty measure for AI grading judgements](ground-truth-free-irt-grading-uncertainty.md) — related
+- [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related

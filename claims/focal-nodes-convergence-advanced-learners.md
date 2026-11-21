@@ -53,3 +53,5 @@ Focal node analysis (highest degree, median, center node) of averaged PFnets fro
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md) — related
 - [Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups](graphic-organizers-support-novice-comprehension.md) — related
+- [As experience increases, node centrality shifts from Water Mass toward microphysical concepts, with Droplet Growth gaining the largest increases](centrality-shift-toward-microphysical-concepts.md) — related
+- [Conceptual understanding of cloud physics develops from a water-cycle focus toward cloud microphysical processes as experience increases](water-cycle-to-microphysics-shift.md) — related

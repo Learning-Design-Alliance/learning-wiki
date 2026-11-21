@@ -42,7 +42,8 @@ A simplified BB84 quantum key distribution implementation for pre-university stu
 - [Cognitive Conflict Hacking Bb84](../claims/cognitive-conflict-hacking-bb84.md) [+M]
 
 ## Related Designs
-- 
+
+- [AR-enhanced BB84 quantum cryptography experiment with real-time polarization visualizations on HoloLens 2](ar-bb84-quantum-cryptography-experiment.md)
 
 ## Examples
 -

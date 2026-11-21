@@ -31,7 +31,8 @@ The Modes of Collaboration framework describes student interactions in group wor
 - [Debate Mode: two students argue conflicting understandings with dissonant interaction style and argumentation discourse](../claims/debate-mode-dissonant-argumentation.md) [+W]
 
 ## Related Research Methods
--
+
+- [Four-dimension classification framework for fNIRS-enabled game-integrated learning systems](four-dimension-classification-framework-for-fnirs-enabled-game-integrated-learning-systems.md)
 
 ## Key Sources
 - Alanna Pawlak, Paul W. Irving, and Marcos D. Caballero. (2018). Development of a Modes of Collaboration framework. https://www.per-central.org/

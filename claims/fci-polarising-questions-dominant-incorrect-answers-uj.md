@@ -53,3 +53,5 @@ Answer-distribution analysis (Figs. 4 and 5) of questions 5, 11, 13, 18, 29 and 
 - [FCI polarising effect most pronounced in classes where physics comprehension is assumed to be greatest](fci-polarising-pronounced-higher-aptitude.md) — related
 - [On FCI questions 13 and 30 more polarised students favour the misleading answer than the correct one](fci-q13-q30-polarising-overtakes-correct.md) — related
 - [High co-construction items had a mix of incorrect answers with no dominant distractor and included complex multistep questions](qm-high-co-construction-item-features.md) — reports the opposite
+- [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related
+- [The 30-item FCI bank is insufficient for Chain-CAT: high-discrimination items dominate administration while many low-discrimination items are never used](fci-item-bank-insufficient-chain-cat.md) — related

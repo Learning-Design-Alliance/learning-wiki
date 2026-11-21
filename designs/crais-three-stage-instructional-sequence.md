@@ -42,7 +42,8 @@ CRAIS is an instructional strategy in which each mathematics concept is taught i
 - [Crais Improves Mathematics Achievement Nigeria Ss2](../claims/crais-improves-mathematics-achievement-nigeria-ss2.md) [+M]
 
 ## Related Designs
-- 
+
+- [ENSAR: the Experience-Name-Speak-Apply-Repeat methodology for teaching abstract concepts](ensar-methodology.md)
 
 ## Examples
 -

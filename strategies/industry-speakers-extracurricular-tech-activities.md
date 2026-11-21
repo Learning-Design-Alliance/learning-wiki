@@ -47,6 +47,8 @@ To increase the curriculum's relationship with the sector, the article recommend
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 - [Add technology-trend courses to the curriculum through project-based learning](trend-courses-project-based-learning.md)
 - [Offer a one- or two-semester quantum awareness course for engineers and computer scientists, in hardware and software tracks](quantum-awareness-course-strategy.md)
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
+- [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 
 ## Examples
 -

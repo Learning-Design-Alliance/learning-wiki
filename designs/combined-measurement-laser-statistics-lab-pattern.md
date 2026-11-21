@@ -42,6 +42,10 @@ The article's laboratory design integrates three strands in one experiment: an a
 ### Claims
 - 
 
+## Related Designs
+
+- [Upper-level laboratory course design combining small enrollment, extended lab time, precision experiments, a self-paced Python curve-fitting module, and grade weight on uncertainty skills](phys359-uncertainty-course-design-pattern.md)
+
 ## Related Patterns
 
 - [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md)

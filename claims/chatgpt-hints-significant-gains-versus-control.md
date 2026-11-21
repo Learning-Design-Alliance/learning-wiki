@@ -43,7 +43,7 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do hints given on demand at the step where the learner is stuck improve learning over working without them?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 design, 1 review, 1 associational), `q2`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do hints given on demand at the step where the learner is stuck improve learning over working without them?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 design, 1 review, 1 associational), `q2`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -51,6 +51,7 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 | [Kirk Vanacore 2026](https://doi.org/10.48550/arxiv.2602.19303) | q2 · review · r2 | i? | [Generative AI-generated hints can be as effective as human-generated hints for mathematics](genai-hints-effective-but-require-validation.md) (supports) |
 | [Reddig 2025](https://doi.org/10.1007/s40593-025-00505-6) | q2 · design · r2 | i? | [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints a](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) (qualifies) |
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · associational · r1 | i? | [AI-generated homework hints were positively associated with exam performance only when exa](ai-hints-aligned-exam-performance-only.md) (qualifies) |
+| Yifan Lu 2024 | q2 · causal · r2 | i? | [AI-generated homework hints were positively associated with exam performance only when exa](ai-hints-aligned-exam-performance-only.md) (qualifies) |
 | [Bastani Hamsa 2025](https://doi.org/10.1073/pnas.2422633122) | q3 · causal · r3 | i? | [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performan](gpt-tutor-improves-practice-more-than-gpt-base.md) (supports) |
 | [Tsvetomila Mihaylova 2026](https://doi.org/10.48550/arxiv.2605.16933) | q2 · causal · r2 | i? | [Advanced students showed reduced attempts with all hint types, while novices did not clear](advanced-students-attempt-reduction-novices-not.md) (qualifies) |
 | [hints-1](https://doi.org/10.48550/arxiv.2605.17857) | q2 · design · r? | i? | [K-12 learners preferred incremental hints and multiple attempts over immediately revealed ](learners-prefer-incremental-hints-over-solutions.md) (qualifies) |
@@ -75,3 +76,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
 - [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](gpt-hints-higher-successful-submissions.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
+- [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related

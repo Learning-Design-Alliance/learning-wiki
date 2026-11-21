@@ -27,4 +27,4 @@ A theoretically developed set of secondary-school quantum-informatics learning s
 -
 
 ## Key Sources
-- Paparo, G., Finsterhoelzl, R., Waldvogel, B., and Grillenberger, M. (2024). Teaching Quantum Informatics at School: Computer Science Principles and Standards. arXiv preprint. https://arxiv.org/abs/2407.12340
+- Paparo, G., Finsterhoelzl, R., Waldvogel, B., and Grillenberger, M. (2024). Teaching Quantum Informatics at School: Computer Science Principles and Standards. arXiv preprint. https://arxiv.org/abs/2407.12340. [doi:10.48550/arxiv.2407.12340](https://doi.org/10.48550/arxiv.2407.12340)

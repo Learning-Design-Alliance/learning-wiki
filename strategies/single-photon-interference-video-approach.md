@@ -47,6 +47,7 @@ Because single-photon detection is too expensive for classrooms, the approach sh
 - [Progression of four simulations — narrow single slit, double slits, triple slits, wide single slit — as the heart of an interference and diffraction laboratory](four-simulation-progression-interference-lab.md)
 - [Redefining uncertainty as a realm of possibilities, illustrated with two single-photon interference measurement styles](uncertainty-as-realm-of-possibilities-strategy.md)
 - [Use in-situ soap-film catenoid observation as an educational physics experiment combining theory and experimentation](in-situ-soap-film-catenoid-teaching-strategy.md)
+- [Use an analogy setup with simulated quantum measurements to make a quantum student lab affordable, quick, robust and portable](analogy-setup-affordable-quantum-lab-strategy.md)
 
 ## Examples
 -

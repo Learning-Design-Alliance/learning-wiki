@@ -69,3 +69,4 @@ Consistency test on the 74 part-2 PNA questions answered by ChatGPT-4o mini, ana
 - [Correct-answer totals shifted in opposite directions over one month: CoPilot Pro and Gemini Advanced increased while both ChatGPT versions decreased](opposite-accuracy-shifts-over-one-month.md) — related
 - [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — related
 - [Asking questions about missing or incorrect answer components improves learning gains beyond merely revealing correct and incorrect parts](asking-questions-key-to-improving-answers.md) — related
+- [Struggling lab groups asked ChatGPT only simple questions with little follow-up, while successful groups probed deeply and double-checked answers](lab-group-chatgpt-interaction-depth-varies-by-success.md) — related

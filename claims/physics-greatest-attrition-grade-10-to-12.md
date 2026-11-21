@@ -51,3 +51,4 @@ Average Student Continuation Rates calculated from three-year linked school coho
 - [A higher proportion of Indigenous residents in a school's community predicts higher physics continuation rates and a smaller male-female gender gap in continuation](indigenous-community-share-higher-physics-continuation.md) — related
 - [The proportion of Black residents in a school's community is the only demographic factor that significantly predicts lower physics continuation rates for both grade 11 and grade 12](black-community-share-lower-physics-continuation-ontario.md) — related
 - [Mathematics courses had the highest continuation rates and the smallest male/female gaps in continuation](math-highest-continuation-smallest-gaps.md) — related
+- [In North Rhine-Westphalia upper secondary schools, physics attracts far fewer students than mathematics or biology and has a 65% male majority](nrw-secondary-physics-enrollment-gender-imbalance.md) — related

@@ -89,3 +89,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related
 - [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — a narrower finding that bears on this claim
 - [The article argues that traditional STEM ethics courses often fail to produce significant changes in ethical awareness and behavior, motivating humanities-informed curricula](traditional-ethics-courses-limited-behavior-change.md) — related
+- [Retrieved narrative cases enable Drama Manager narrative control when the emerging fabula matches case contexts](cases-enable-drama-manager-intervention.md) — related

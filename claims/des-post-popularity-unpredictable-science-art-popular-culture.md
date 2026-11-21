@@ -68,3 +68,4 @@ From the DEST4TD discussion of post popularity: "Photographs colleagues submitte
 - [In the DEST4TD follow-up survey, most collaboration members delayed or forgot to respond to outreach email requests, and 12% felt they had nothing interesting to share](dest4td-participation-barriers-survey.md) — related
 - [DES social media primarily reached users already predisposed to science; the article finds no evidence the products inspired new interest in science](des-social-media-reaches-science-predisposed-audiences.md) — related
 - [DES Facebook and Twitter followings grew roughly linearly (about 5 new followers per day), and daily original content alone did not build the following exponentially](des-social-media-following-linear-growth.md) — related
+- [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](popular-culture-astronomy-interest.md) — related

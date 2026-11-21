@@ -99,6 +99,7 @@ Reflective journals operationalize self-regulated learning: the writing act exte
 7. **Assess for depth, not compliance.** If grading is required, use a rubric on levels of reflectivity (e.g., Kember's coding scheme) applied to a sample of entries, and keep most entries low-stakes.
 
 ## Related Strategies
+
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the broader family; journals are its most sustained written form
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a low-cost way to respond to journal entries individually
 - [Action planning](action_planning.md) — the "now what" phase of a journal entry made explicit
@@ -109,6 +110,7 @@ Reflective journals operationalize self-regulated learning: the writing act exte
 - [Learning Logs](learning-logs.md) — a lighter-weight variant focused on tracking progress rather than examining beliefs
 - [Exit Tickets](exit-ticket.md) — brief end-of-class written reflection; a low-cost subset of journaling
 - [Peer Feedback](../elements/peer-feedback.md) — a way to add dialogue to journal entries without full instructor review
+- [Embed a brief purpose-reflection prompt and worked example into an existing course-search platform](embed-purpose-reflection-in-course-search.md)
 
 ## Examples
 - **Learning diaries in blended courses** — Renkl and colleagues' computer-based learning diary tools prompt students to apply cognitive and metacognitive strategies while studying, with prompts fading over the term.

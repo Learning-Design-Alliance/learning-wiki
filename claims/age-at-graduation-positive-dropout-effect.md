@@ -49,3 +49,4 @@ BQR estimates from the Sapienza administrative cohort data; the authors argue ol
 - [Bachelor graduates who complete their first cycle later than the legal duration (out-of-course) have a higher probability of not continuing to a Master programme at the same institution](out-of-course-higher-bachelor-master-dropout.md) — related
 - [Bachelor graduates in Economics show higher non-continuation after the first cycle than graduates in Business Management](economics-graduates-higher-dropout-than-business-management.md) — related
 - [The Bachelor-Master drop-out rate at the School of Economics grew by 10 percentage points between the 2009-2010 and 2012-2013 cohorts](dropout-rate-growth-across-cohorts.md) — related
+- [Completing supplemental math material 1 (vectors) is associated with better exam performance, and the association grows with the material's relevance to exam content](vectors-material-completion-better-exam-performance.md) — related

@@ -74,3 +74,4 @@ Comparison of model performance across stages on the imbalanced dataset showed S
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — related
 - [Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions](gap-estimates-accuracy-necessary-for-conclusions.md) — related
 - Stakeholder groups converged on recommendations for timelier results, removal of racial and cultural bias, and more useful, accessible results — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related

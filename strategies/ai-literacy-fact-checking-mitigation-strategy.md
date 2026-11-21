@@ -63,6 +63,7 @@ The perspective article proposes multifaceted risk-mitigation strategies for res
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 - [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
 - [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

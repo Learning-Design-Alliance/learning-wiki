@@ -41,7 +41,8 @@ A 45-hour elective course at École Polytechnique de Montréal offered to gradua
 - [Ind8108 Students Perception Of Creativity Changed](../claims/ind8108-students-perception-of-creativity-changed.md) [+M]
 
 ## Related Designs
-- 
+
+- [Sixteen-week undergraduate elective course targeting the P3 'QC literate person' profile](cfqt-undergraduate-elective-course-p3-literate.md)
 
 ## Examples
 -

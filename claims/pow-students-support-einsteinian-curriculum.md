@@ -75,3 +75,4 @@ Same student questionnaire (N=20), statement 2(g) posed negatively; 35% strongly
 - [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related
 - [In the face-to-face micro-credential course, half the participants were unclear about the everyday relevance of Einsteinian physics, prompting added real-world content](mc1-relevance-gap-drove-curriculum-refinement.md) — related
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
+- [Typical institute outreach activities (bars, schools, TV, newspapers) do not reach the young adult to mid-30s age group](typical-outreach-misses-young-adults.md) — related

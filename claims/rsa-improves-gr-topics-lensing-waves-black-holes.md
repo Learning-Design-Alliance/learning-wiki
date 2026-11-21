@@ -91,3 +91,4 @@ Item 'What is a black hole?' (Figure 11). Before, 57% did not feel confident to 
 - [The RSA activity reduces the misconception that gravity points downward, but does not fully solve the misconception that only big masses deform space-time](rsa-reduces-downward-gravity-misconception-not-big-mass.md) — related
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
+- [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — related

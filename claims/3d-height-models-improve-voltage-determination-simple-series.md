@@ -66,3 +66,4 @@ Same exploratory pre-post case study (N=59), printed results for the series-circ
 ## Related Claims
 - [No significant improvement was observed for voltage problems on parallel or mixed circuits, and students had difficulty differentiating electric potential from voltage](parallel-mixed-circuits-no-improvement.md) — related
 - [Students were highly engaged with the 3D-printed height models and largely accepted them as a helpful learning tool](student-acceptance-3d-height-models.md) — related
+- [Students can determine a trapped particle's charge-to-mass ratio by two methods whose results agree with each other and with an analytic trap model](charge-to-mass-ratio-two-methods-agree.md) — related

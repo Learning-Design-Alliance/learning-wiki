@@ -43,7 +43,8 @@ The element is the Pepper social robot configured as a LIS signing agent: the au
 - [Pepper Isolated Signs Recognized Better Than Sentences](../claims/pepper-isolated-signs-recognized-better-than-sentences.md) [+M]
 
 ## Related Designs
-- 
+
+- [KSL glossing convention: upper-case glosses in Object-Subject-Verb or Subject-Object-Verb order](ksl-glossing-osv-uppercase-convention.md)
 
 ## Examples
 -

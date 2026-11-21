@@ -17,7 +17,7 @@ sources:
 # Align customized AI tutor responses with course learning outcomes, competency frameworks, and licensing exam blueprints
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 associational), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends structuring customized GPT tools by uploading official course learning outcomes and competency statements, providing exemplar questions modeled on the national licensing examination (SMLE), and iteratively refining instructions so the GPT provides responses within targeted outcomes, mirrors exam cognitive level and format, and emphasizes evidence-based clinically integrated content. This "structured alignment was a defining feature of the intervention" distinguishing it from unregulated student AI use.

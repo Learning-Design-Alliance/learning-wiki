@@ -49,3 +49,4 @@ Comparison of student performance statistics and GPT-4 majority-vote grades on a
 - [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — related
 - [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — related
 - [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — related
+- [GPT-4 struggles with diagrammatical and graphical questions, though it can describe visual content accurately in prose.](gpt4-diagrammatic-question-weakness.md) — related

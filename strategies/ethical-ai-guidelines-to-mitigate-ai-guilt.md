@@ -55,4 +55,4 @@ Students proposed that ethical guidelines could mitigate AI guilt if they are cl
 -
 
 ## Key Sources
-- Chan, C. K. Y. (2024). Exploring the Factors of “AI Guilt” Among Students – Are You Guilty of Using AI in Your Homework? https://arxiv.org/abs/2407.10777
+- Chan, C. K. Y. (2024). Exploring the Factors of “AI Guilt” Among Students – Are You Guilty of Using AI in Your Homework? https://arxiv.org/abs/2407.10777. [doi:10.48550/arxiv.2407.10777](https://doi.org/10.48550/arxiv.2407.10777)

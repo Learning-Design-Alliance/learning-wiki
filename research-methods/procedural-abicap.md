@@ -29,4 +29,4 @@ Procedural ABICAP represents a domain as a knowledge graph in which each node is
 -
 
 ## Key Sources
-- Rismanchian, S., & Doroudi, S. (2024). Reconciling Different Theories of Learning with an Agent-based Model of Procedural Learning. arXiv. https://arxiv.org/abs/2408.13364
+- Rismanchian, S., & Doroudi, S. (2024). Reconciling Different Theories of Learning with an Agent-based Model of Procedural Learning. arXiv. https://arxiv.org/abs/2408.13364. [doi:10.48550/arxiv.2408.13364](https://doi.org/10.48550/arxiv.2408.13364)

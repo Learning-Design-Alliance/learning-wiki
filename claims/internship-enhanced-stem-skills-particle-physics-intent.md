@@ -55,3 +55,4 @@ Assessment-section feedback from the 2023 intern cohort, summarized in Figure 8 
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
 - [In-person participation in the 2023 internship produced superior learning-status feedback compared with the fully online 2022 pilot internship](in-person-internship-superior-learning-online-pilot.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
+- [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related

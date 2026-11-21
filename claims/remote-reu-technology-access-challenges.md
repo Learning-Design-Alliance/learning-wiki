@@ -47,3 +47,4 @@ Qualitative longitudinal phenomenographic interview study (94 interviews with te
 ## Related Claims
 - [Mentees in remote REUs used four main categories of mediating tools: home lab environments, research tools, professional development resources, and communication tools](four-tool-categories-remote-reu.md) — related
 - [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related
+- [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related

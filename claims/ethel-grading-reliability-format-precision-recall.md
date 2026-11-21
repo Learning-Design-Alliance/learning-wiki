@@ -69,3 +69,4 @@ Overall performance of the grading system on the same exam: "high pre- cision in
 - [AI grading of hand-drawn graphics shows no correlation with TA grades, unlike mathematical derivation parts](hand-drawn-graphics-ai-grading-unreliable.md) — possibly the same claim (merge candidate)
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [Students rated Ethel's handwritten-homework feedback helpful and correct in 3/4th of cases, but the system tended to underestimate solution correctness, mostly due to handwriting recognition](ethel-homework-feedback-ratings.md) — related
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

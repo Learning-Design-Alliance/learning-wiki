@@ -39,6 +39,7 @@ When teaching ML to physicists the author recommends four emphases. Reading appl
 ## Related Strategies
 
 - [Design exercises that ask students to match or beat the performance of a published paper, and seed proposed solutions with deliberate poor choices for students to improve.](match-or-beat-published-paper-exercises.md)
+- [Support teachers of measurement uncertainty with concept-based teaching, examples, exercises, software and exchange of good practices](support-uncertainty-teachers-concept-based-examples-exercises.md)
 
 ## Examples
 -

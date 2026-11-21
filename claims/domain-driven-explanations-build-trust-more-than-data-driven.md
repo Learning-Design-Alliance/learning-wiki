@@ -49,3 +49,4 @@ Qualitative think-aloud analysis (11 teachers; insights reported only when obser
 - [Understandability alone is insufficient to establish trust for some teachers, who require real classroom experience](understandability-insufficient-trust-needs-classroom-experience.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
 - [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — related
+- [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — a broader claim this one bears on

@@ -51,7 +51,8 @@ The article recommends structuring researcher outreach training around building 
 - [Students found simplifying complex concepts and understanding the audience the most difficult aspects of designing outreach products for non-physicists](../claims/simplification-and-audience-difficulties.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Crowd-sourcing content from a whole research group distributes workload and sustains an outreach account over time](crowd-sourced-outreach-content-strategy.md)
 
 ## Examples
 -

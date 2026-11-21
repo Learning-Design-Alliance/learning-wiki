@@ -80,3 +80,5 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [LLM performance differs significantly on knowledge-based oral pathology questions (p < 0.001), with ChatGPT o1 and Deepseek highest](llm-knowledge-based-question-performance.md) — related
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — related
 - [GPT-4o achieves the highest accuracy on USMLE-style MCQs (90.4%), outperforming GPT-4 (81.1%) and GPT-3.5 (60.0%)](gpt-4o-90-percent-usmle-mcq-accuracy-outperforms-predecessors.md) — related
+- [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related
+- [ChatGPT-4o and ChatGPT o1 complemented each other in TA-led sessions, with 4o supporting routine tasks and o1 excelling at complex reasoning](chatgpt-4o-o1-complementary-roles.md) — related

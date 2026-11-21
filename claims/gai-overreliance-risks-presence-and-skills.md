@@ -71,3 +71,4 @@ Authors' conceptual interpretation in the framework development section, not a t
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related
 - [Learning is cumulative, so foundational knowledge assessment cannot be skipped even when GenAI can pass such tests](cumulative-learning-foundational-knowledge-assessment.md) — related
 - [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

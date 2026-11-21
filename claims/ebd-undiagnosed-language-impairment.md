@@ -49,3 +49,4 @@ The review reports, citing Hollo et al.'s (2014) meta-analysis, that "four out o
 - [Youth offenders show greatly elevated rates of undiagnosed language disorder](youth-offenders-elevated-language-disorder.md) — related
 - [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](vulnerable-children-more-noise-impaired-speech-perception.md) — related
 - [Adolescents in flexible education settings and state care show very high rates of language and literacy impairment](vulnerable-adolescents-language-literacy-impairment.md) — related
+- [Most autistic adults over age 30 remain undiagnosed, and most autistic girls remain undiagnosed by age 18](autism-underdiagnosis-adults-and-girls.md) — related

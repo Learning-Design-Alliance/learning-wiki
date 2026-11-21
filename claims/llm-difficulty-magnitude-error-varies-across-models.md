@@ -62,3 +62,4 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [Participants' and tutors' rankings of medical error types were highly similar, indicating strong agreement between the two perspectives](participant-tutor-ranking-agreement.md) — related
 - [Zero-shot comparative prompting of instruction-tuned LLMs ranks MC question difficulty more effectively than absolute prompting, with a Spearman's correlation of 40.4%](zero-shot-comparative-difficulty-ranking-outperforms-absolute.md) — related
 - [Question difficulty estimates are highly stable across successive years (correlation 0.98) while student ability estimates correlate only moderately (0.54)](difficulty-stable-ability-changes-across-years.md) — related
+- [Absolute prevalence estimates differ across models and generally do not agree within uncertainties, despite similar trends](model-prevalence-estimates-differ-within-uncertainties.md) — a narrower finding that bears on this claim

@@ -79,3 +79,4 @@ Thematic-analysis finding on role expansion: participants questioned the legitim
 - [AI tools show limitations in translating predictions into practical sustainability advice and envisioning values](ai-limitations-prediction-to-advice-values.md) — related
 - [College students envisioned over 100 AI usages in project-based learning serving six purposes, from automating tedious tasks to guiding learning](envisioned-ai-usage-six-purposes-pbl.md) — related
 - [Students proposed new assessment traits for an AI-rich future, with efficacy in using AI the most frequently mentioned](new-assessment-traits-ai-adoption-pbl.md) — related
+- [Chatbot-assisted classroom debates helped students anticipate counterarguments, producing more organized arguments and higher motivation](chatbot-assisted-debate-argumentation.md) — related

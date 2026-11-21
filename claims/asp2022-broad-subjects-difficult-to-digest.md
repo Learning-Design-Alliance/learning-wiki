@@ -47,3 +47,4 @@ The feedback section reports survey results (Figure 17) indicating that the brea
 ## Related Claims
 - [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related
 - [The workshop covered too many topics to fit the session time, and the configuration model was skipped for lack of a good pre-worked example](workshop-too-long-topics-skipped.md) — related
+- [Over 60% of surveyed ASP2024 students suggested cutting down the program, citing the broadness and load of the classes as making the school difficult, and only nine lecture sessions averaged above four](asp2024-program-broadness-load-feedback.md) — related

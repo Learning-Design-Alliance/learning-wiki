@@ -50,7 +50,8 @@ The article recommends that national organizations like SPS and Sigma Pi Sigma a
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](../claims/peer-mentorship-belonging-physics-community.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Engage students early in physics-related activities such as science fairs, demonstrations, and model building to develop physics identity and interest](early-physics-activities-build-physics-identity.md)
 
 ## Examples
 -

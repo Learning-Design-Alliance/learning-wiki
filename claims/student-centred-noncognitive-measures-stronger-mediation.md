@@ -50,3 +50,4 @@ Fine-grained mediation analyses in TEDS examined individual non-cognitive measur
 ## Related Claims
 - [Education-specific non-cognitive skills mediate polygenic score associations with academic achievement, with effects increasing across compulsory education](noncognitive-skills-mediate-pgs-achievement-developmentally-increasing.md) — a broader claim this one bears on
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
+- [The course significantly increases curiosity state (d = 0.46) and shows a small, non-significant increase in self-concept (d = 0.26)](cosmology-course-curiosity-self-concept-gains.md) — related

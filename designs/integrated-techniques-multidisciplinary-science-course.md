@@ -42,7 +42,9 @@ A proposed undergraduate course built on physics but connected to chemistry, mat
 - [Multidisciplinary Curriculum Stem Retention](../claims/multidisciplinary-curriculum-stem-retention.md) [+W]
 
 ## Related Designs
+
 - Three Mode Multidisciplinary Course Delivery
+- [Five measurable physics-related learning outcomes for pharmacy curricula spanning fluid dynamics, thermodynamics, spectroscopy, imaging, and quantum modeling](five-physics-learning-outcomes-pharmacy-curriculum.md)
 
 ## Examples
 -

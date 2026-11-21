@@ -105,3 +105,4 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Low-income students experienced substantially greater reductions in learning performance than high-income students in the shift to online learning](low-income-students-greater-online-learning-reductions.md) — related
 - [Under-connectivity limits educational internet use: children with mobile-only access use the internet for interest-driven learning less than those with desktop or laptop access](under-connectivity-limits-interest-driven-learning.md) — related
 - [Underrepresented students in a large remote CS course were more likely to request software-matched study groups than majority-group peers](underrepresented-students-request-software-matched-groups-more.md) — related
+- [Writing improvement after LLM availability was mostly larger for high-SES than low-SES students within linguistically disadvantaged groups](llm-writing-gains-concentrated-high-ses.md) — related

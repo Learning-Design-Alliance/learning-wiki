@@ -77,3 +77,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related
 - [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related
 - [Digital assessment offers transparency, security, flexibility and efficiency, but paper exams cannot merely be transferred to digital form](digital-assessment-benefits-and-barriers.md) — related
+- [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related

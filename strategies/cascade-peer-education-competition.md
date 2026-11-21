@@ -48,6 +48,7 @@ CASCADE fosters the interest that Masterclasses enhance by having motivated pupi
 - [Run a one-day astrophysics masterclass in which high school students analyze real research data in a university research setting](astrophysics-masterclass-one-day-real-data.md)
 - [Run a nation-wide online Masterclass with recorded lectures, volunteer troubleshooting help, and consultant videoconference rooms](nationwide-online-masterclass-pandemic-adaptation.md)
 - [Special class for gifted pupils in science in Nis attracting over one thousand pupils](seenet-mtp-special-class-gifted-pupils-nis.md)
+- [Involve teenagers younger than 16 as peer teachers in particle physics outreach](teenage-peer-teaching-particle-physics-outreach.md)
 
 ## Examples
 -

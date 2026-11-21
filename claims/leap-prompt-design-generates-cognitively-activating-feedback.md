@@ -58,3 +58,5 @@ The authors' demonstration of LEAP on a Newton's cradle video task, with prompts
 - [Dynamically generated natural-language feedback was not demonstrated to be superior to a non-NLP feedback condition that told students the answer](beetle-ii-elicit-vs-tell-no-superiority.md) — related
 - [Research-validated improvements to Cognitive Tutors have been slow to be incorporated into fielded products](slow-research-uptake-into-tutor-products.md) — related
 - [Adding 0-2 leading or trailing spaces to a prompt generates very different LLM documents even with prompt settings unchanged](whitespace-perturbation-changes-outputs.md) — related
+- [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — a broader claim this one bears on
+- [GPT-2-based generation of narrative fragments integrated into learning paths showed excellent results in empirical research on learner engagement](gpt2-narrative-fragments-learning-path.md) — related

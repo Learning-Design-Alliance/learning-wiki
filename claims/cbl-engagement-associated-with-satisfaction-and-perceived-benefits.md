@@ -84,3 +84,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Students rated the FC-TCLEBL class higher than the LBC class on teamwork ability, analytical skills, and problem-solving skills](fc-tclebl-student-questionnaire-skill-ratings.md) — related
 - [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related
 - [Students reported learning ways of thinking, learning by doing projects, and requirements for success from the experimental project](project-lab-described-learning.md) — related
+- [Integrating physics into pharmacy education can significantly enhance students' problem-solving and analytical skills](physics-integration-enhances-pharmacy-student-analytical-skills.md) — related

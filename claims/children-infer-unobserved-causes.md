@@ -70,3 +70,4 @@ The review attributes to Schulz and Somerville (2006) the finding that children 
 - [Children aged 2-4 infer causal structure from covariation and use it to design effective interventions](children-infer-causal-structure-from-covariation-blicket.md) — related
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — related
 - [Children integrate prior knowledge with new statistical evidence in a Bayesian way, overturning initially likely hypotheses](children-bayesian-prior-evidence-integration.md)
+- [Whether student groups identified the hidden variable depended on how they plotted the data](plot-type-moderates-hidden-variable-identification.md) — a narrower finding that bears on this claim

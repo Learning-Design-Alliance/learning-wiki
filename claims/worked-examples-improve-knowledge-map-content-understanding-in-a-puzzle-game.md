@@ -71,3 +71,4 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 - [A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection](bridging-activities-connect-game-learning-to-instruction.md) — related
 - [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related
 - [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related
+- [Students receiving personality-tailored learning materials scored significantly higher on JavaScript learning gains than controls in a small randomized experiment](personality-tailored-materials-improve-programming-gains.md) — related

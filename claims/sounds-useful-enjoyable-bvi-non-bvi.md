@@ -50,3 +50,4 @@ Same 291-form audience evaluation; feedback questions asked viewers to rate on 1
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related
 - [Both BLV and sighted participants reported enjoying the astronomy sonifications, with no statistically significant group difference](sonification-enjoyment-both-groups.md) — related
+- [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related

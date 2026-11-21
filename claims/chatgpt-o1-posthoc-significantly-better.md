@@ -50,3 +50,4 @@ Post-hoc pairwise Chi-square comparisons with Bonferroni correction (significanc
 - [Pairwise McNemar comparisons showed OpenAI o1 significantly better than GPT-4o, Gemini, and Copilot in Respiratory Medicine, with mixed significance across other courses](mcnemar-pairwise-openai-o1-vs-other-llms-mixed.md) — a narrower finding that bears on this claim
 - [DeepSeek-R1 and Qwen2.5-32B significantly outperformed GPT-4o on both question-level and case-level accuracy](deepseek-qwen32b-outperform-gpt4o-clinical-cases.md) — related
 - [LLM performance differs significantly on case-based oral pathology questions (p = 0.034), where ChatGPT o1 and Claude excelled](llm-case-based-question-performance.md) — related
+- [ChatGPT-4o and ChatGPT o1 complemented each other in TA-led sessions, with 4o supporting routine tasks and o1 excelling at complex reasoning](chatgpt-4o-o1-complementary-roles.md) — a narrower finding that bears on this claim

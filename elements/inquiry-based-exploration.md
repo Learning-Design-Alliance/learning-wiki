@@ -92,6 +92,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - **[5E Instructional Model (BSCS)](https://bscs.org/bscs-5e-instructional-model/)** — a guided-inquiry sequence (Engage, Explore, Explain, Elaborate, Evaluate) that structures exploration before formal explanation, mitigating the risks of unguided discovery.
 - **[iGEM](https://igem.org)** — the International Genetically Engineered Machine competition, in which student teams design and carry out open-ended synthetic biology research projects.
 - [Use open-ended, modeling-focused collaborative tasks with embedded scaffolds to support group disciplinary engagement](../strategies/open-modeling-tasks-scaffold-gde.md)
+- [Phase-specific adaptivity: strong AI guidance during critical procedural phases and lighter guidance during open-ended exploration](../strategies/phase-specific-adaptivity-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

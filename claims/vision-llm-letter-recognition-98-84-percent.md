@@ -49,3 +49,4 @@ Practical evaluation of vision-capable LLMs on scanned examination answer tables
 
 - [An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment](yolo5-handwriting-recognition-88-percent-insufficient.md) — related
 - [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md)
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

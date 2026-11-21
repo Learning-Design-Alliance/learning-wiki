@@ -50,3 +50,4 @@ Self-report demographic item in the questionnaire study of 26 autistic and 158 n
 
 ## Related Claims
 - [Autistic university students self-report significantly lower social functioning than non-autistic peers, despite similar motivation to form friendships](autistic-students-lower-social-functioning-uk-university.md) — related
+- [Masking autistic traits consumes substantial cognitive energy and contributes to social isolation, burnout, and mental health problems](masking-costs-burnout-autistic-trainees.md) — related

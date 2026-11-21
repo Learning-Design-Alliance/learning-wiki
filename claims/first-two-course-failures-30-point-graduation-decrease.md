@@ -52,3 +52,4 @@ A Consortium estimate summarized in the report's ninth-grade research box finds 
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
+- [The share of the population with three or more risk factors significantly and negatively predicts graduation rate, with each percentage point associated with a 0.25 percentage point drop](community-risk-factors-negative-predictor-graduation.md) — related

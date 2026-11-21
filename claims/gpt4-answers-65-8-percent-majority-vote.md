@@ -52,3 +52,4 @@ Evaluation of GPT-4 and GPT-3.5 on the 5,579-question bank using eight prompting
 - [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related
 - [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — related
 - [Claude, Copilot, and Gemini showed model-specific topic strengths and weaknesses and lower cross-attempt reliability than GPT-4o](claude-copilot-gemini-topic-strengths-reliability.md) — related
+- [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related

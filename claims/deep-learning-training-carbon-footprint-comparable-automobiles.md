@@ -49,3 +49,4 @@ A synthesis-stage finding the review attributes to the literature it surveyed. T
 - Training large AI models carries substantial environmental and human labor costs — possibly the same claim (merge candidate)
 - [Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute](carbon-per-accuracy-rewards-undertrained-models.md)
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md)
+- [Measured inference-phase carbon emissions of 150.7 kg CO2e for one lecture and 209.4 kg CO2e for another](llm-inference-emissions-huh-button-development.md) — related

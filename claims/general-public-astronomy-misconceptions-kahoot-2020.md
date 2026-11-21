@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-20
 recheck_by: 2028
 sources:
   - id: postiglione-a-2023
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among European Researchers' Night 2020 live-broadcast participants, 23% showed the common misconception that in summer the Sun is closer to Earth. [→ Postiglione A. 2023](#postiglione-a-2023)

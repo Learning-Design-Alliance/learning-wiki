@@ -73,3 +73,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Physiologically activating group states are rare but co-occur with visible emotional expressions more often than deactivating states](simultaneous-physiological-activation-with-emotional-expressions.md) — related
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — related
 - [On a multimodal transfer task, 33.1% of students recognized a deliberately reduced-valency humanitarian poster issue and linked it to an appropriate rhetorical effect](multimodal-poster-valency-rhetorical-transfer.md) — related
+- [EDA changepoint and autocorrelation values are high for PE and low for Assembly, with Assembly showing fewer SCR peaks](eda-changepoint-autocorrelation-course-differences.md) — related

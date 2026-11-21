@@ -46,3 +46,4 @@ Email follow-up survey of 59 institutions that downloaded the show (35 responded
 
 ## Related Claims
 - [Audience members rate the sonification-based planetarium show very highly overall, with 91% giving a score of 4 or 5 out of 5](audio-universe-high-overall-audience-ratings.md) — related
+- [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related

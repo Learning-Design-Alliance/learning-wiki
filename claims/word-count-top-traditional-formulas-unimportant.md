@@ -94,3 +94,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [ChatGPT-5.1 generates EUS answers with significantly lower linguistic complexity (GFI, SMOG) than DeepSeek-R1 and Gemini 2.5 Flash](chatgpt-lower-gfi-smog-readability.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — related
+- [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — related

@@ -44,7 +44,8 @@ The authors propose future methods to test the rankings and clarify ambiguously 
 - [A 2PL-NRM nested logit IRT model applied to over 7,000 students' FMCE responses yields a unique ak parameter for every incorrect response, enabling a quantitative ranking of incorrect answers](../claims/irt-nested-logit-ranks-incorrect-responses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use NRM-based rankings of all response options to build data-driven partial-credit scoring and more formative score reports](nrm-partial-credit-scoring-strategy.md)
 
 ## Examples
 -

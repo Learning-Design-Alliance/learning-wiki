@@ -70,3 +70,4 @@ RQ2 models: median family income had negative significant estimates for both gra
 - [A higher proportion of children in low-income households predicts higher physics continuation rates, even adjusting for median family income](low-income-household-share-higher-physics-continuation.md) — related
 - [Physics has the greatest attrition of any STEM stream: 66% of male and 81% of female grade 10 science students do not continue to grade 12 physics](physics-greatest-attrition-grade-10-to-12.md) — related
 - [Community share of post-secondary STEM degrees is the largest positive predictor of physics continuation, while non-STEM post-secondary degrees predict a decline in grade 12 continuation](stem-degree-share-largest-positive-scr-predictor.md) — related
+- [In North Rhine-Westphalia upper secondary schools, physics attracts far fewer students than mathematics or biology and has a 65% male majority](nrw-secondary-physics-enrollment-gender-imbalance.md) — related

@@ -47,3 +47,4 @@ Authors' interpretation offered in the Discussion section, not a tested result. 
 
 ## Related Claims
 - [Integrated fraction-decimal component does not provide added value over full fraction intervention on fraction outcomes](integrated-component-no-added-value-fraction-outcomes.md) — related
+- [About 4,000 unique KSL words were transcribed into five articulatory parameters using HamNoSys notation](ai4ksl-4000-words-hamnosys-transcription.md) — related

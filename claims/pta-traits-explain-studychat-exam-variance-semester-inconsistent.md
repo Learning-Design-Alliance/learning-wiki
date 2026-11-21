@@ -54,3 +54,4 @@ Regression analysis of the StudyChat corpus (1,540 sessions by 171 students), co
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
+- [Conceptual learning scores rose from pre-test to post-test in one group with no comparison group; prior physics grade was associated with the gains, while class and gender were not, and no significant associations were found between the predictors and affective outcomes](predictors-cosmology-course-outcomes.md) — related

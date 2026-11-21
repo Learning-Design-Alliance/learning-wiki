@@ -50,6 +50,7 @@ The authors recommend that educators restructure homework so that it is assigned
 - [Adjust Time Frames](adjust_time_frames.md)
 - [Time Boxing](time-boxing.md)
 - [Achievable Micro-goals](achievable_micro-goals.md)
+- [Replace few long homework assignments with many short auto-graded randomized quizzes](many-short-autograded-randomized-quizzes.md)
 
 ## Examples
 -

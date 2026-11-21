@@ -117,3 +117,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [The most common instructor-reported motivation for the shift from group work to individual work in remote labs was equity concerns](equity-concerns-drove-individual-work.md) — related
 - [Tablet-based mathematics education can be extended into libraries in low-income regions under specific conditions](tablet-education-feasible-in-low-income-libraries.md) — related
 - [Underrepresented students in a large remote CS course were more likely to request software-matched study groups than majority-group peers](underrepresented-students-request-software-matched-groups-more.md) — related
+- [Robustness checks on longer and more important writing assignments showed larger SES gaps, reinforcing the digital-inequality finding](robustness-longer-submissions-larger-inequality.md) — related

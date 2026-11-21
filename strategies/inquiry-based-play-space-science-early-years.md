@@ -41,7 +41,8 @@ The article recommends that "early science learning activities targeting space s
 - [Mental Models Framework Day Night Cycle](../theories/mental-models-framework-day-night-cycle.md)
 
 ## Related Strategies
-- 
+
+- [Engage students early in physics-related activities such as science fairs, demonstrations, and model building to develop physics identity and interest](early-physics-activities-build-physics-identity.md)
 
 ## Examples
 -

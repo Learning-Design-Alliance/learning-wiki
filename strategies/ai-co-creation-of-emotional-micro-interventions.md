@@ -44,6 +44,7 @@ The article proposes a three-step AI collaboration protocol: seed the context (s
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
 - [Use prompt-based LLM simulation and reflection via a web interface as a pre-class rehearsal for teaching plan refinement](prompt-based-web-interface-plan-enhancement.md)
 - [Iterate on the recommendation pipeline through prompt refinement, hallucination safeguards, intervention studies, and larger cohorts](llm-wellbeing-recommendation-improvement-strategy.md)
+- [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 
 ## Examples
 -

@@ -60,3 +60,4 @@ Within the human-AI collaboration theme of the focus group findings, participant
 - [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](states-co-design-voice-counts.md) — related
 - [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — related
 - [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
+- [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on

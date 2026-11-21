@@ -48,3 +48,4 @@ Case study of a Socratic dialogue with ChatGPT-4 about a bouncy-ball velocity vs
 ## Related Claims
 - [A single correction by ChatGPT-4 is insufficient: the same physics error re-emerges after further probing questions](chatgpt4-error-reemerges-after-probing.md) — reports the opposite
 - [Asking ChatGPT-4 to act like a physics teacher, combined with domain specification, produced a correct and well-formulated physics explanation of the Nascar fence-grinding trick](role-prompting-physics-teacher-correct-explanation.md) — related
+- [Struggling lab groups asked ChatGPT only simple questions with little follow-up, while successful groups probed deeply and double-checked answers](lab-group-chatgpt-interaction-depth-varies-by-success.md) — related

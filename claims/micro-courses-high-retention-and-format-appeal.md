@@ -55,3 +55,4 @@ Enrollment and completion counts across three years of data collection (2020–2
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Study completion rate was higher in the e-learning group than in the video group](elearning-higher-completion-rate.md) — related
 - [Most students completed the online modules and passed the embedded review quizzes](high-module-completion-blended-pathology.md) — related
+- [Students completed most Code.org Course B lessons at high rates, but the advanced nested-loops lesson had a 33% completion rate](codeorg-completion-rates-by-lesson.md) — related

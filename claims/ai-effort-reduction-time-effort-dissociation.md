@@ -106,3 +106,5 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related
 - [Explanations raise perceived cognitive workload only for annotators with AI experience](xal-workload-higher-for-ai-experienced-annotators.md) — related
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
+- [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](d-illustrate-most-consistent-tlx-gains.md) — related
+- [Subject matter experts rated PromptHive as highly usable (SUS 89/100) with a large reduction in perceived cognitive workload versus manual authoring](prompthive-high-usability-reduced-cognitive-load.md) — a narrower finding that bears on this claim

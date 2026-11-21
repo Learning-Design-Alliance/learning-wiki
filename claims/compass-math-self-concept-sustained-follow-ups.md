@@ -55,3 +55,4 @@ Baseline change model for Group A (n = 219) with four measurement points over si
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [The self-efficacy advantage of TPACK-based applications persists three months after the course ends](tpack-self-efficacy-gain-persists-three-months.md) — related
 - [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](srl-intervention-followup-nonpersistence-utility-interest.md) — reports the opposite
+- [The course significantly increases curiosity state (d = 0.46) and shows a small, non-significant increase in self-concept (d = 0.26)](cosmology-course-curiosity-self-concept-gains.md) — related

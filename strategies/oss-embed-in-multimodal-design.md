@@ -55,6 +55,7 @@ The review recommends that OSS be combined with didactic prebriefing, experienti
 - [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
 - [Use an OSS worn by a standardised patient in communication teaching to raise awareness of patients with obesity](oss-sp-communication-teaching-strategy.md)
+- [Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone](integrate-vr-into-broader-teaching-strategies.md)
 
 ## Examples
 -

@@ -57,6 +57,7 @@ The article demonstrates a PDSA ramp as "a framework for creating increasingly c
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Iterative simulation design cycle with think-aloud student interviews before classroom use](phet-interview-driven-design-cycle.md)
 - [Begin spectral assignment by scanning the whole spectrum for repeating patterns, then apply empirical relations and iterate in a bootstrap fashion](scan-for-repeating-patterns-bootstrap-assignment.md)
+- [Escalate explanation scope and simplicity on repeated clarification requests](escalate-explanation-level-repeated-requests.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Survey responses to the degree-subject encouragement question analysed by subjec
 - [SSUK added value to higher education choices regardless of school background, with non-selectively schooled alumni reporting slightly higher benefit](ssuk-adds-value-regardless-school-background.md) — related
 - [Alumni most commonly reported gains in knowledge and understanding of space (87%), social confidence (83%) and teamwork (71%), with networking the most-cited career benefit](ssuk-skills-knowledge-social-confidence-teamwork.md) — related
 - [SSUK alumni rate the programme 4.96 out of 5 when asked whether they would recommend it to young people interested in space](ssuk-alumni-recommend-4-96-out-of-5.md) — related
+- [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related

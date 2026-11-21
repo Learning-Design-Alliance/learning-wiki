@@ -27,7 +27,8 @@ A research-based quantum-mechanics tutorial package developed by Guangtian Zhu a
 - [Many advanced students incorrectly predict no beam splitting in an SGE whose field gradient is orthogonal to the spin state, connecting physical-space field direction with Hilbert-space state vectors](../claims/sge-orthogonal-gradient-no-splitting-difficulty.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Qureka! Box](qureka-box.md)
 
 ## Key Sources
 - Guangtian Zhu and Chandralekha Singh. (2016). Students’ Understanding of Stern Gerlach Experiment. arXiv:1602.06374 [physics.ed-ph]. https://arxiv.org/abs/1602.06374

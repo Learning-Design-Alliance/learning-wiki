@@ -64,3 +64,4 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 - [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](learners-prefer-video-over-audio-materials.md) — related
 - [Student preference for the AI role-play over other teaching methods was variable, with a third disagreeing or neutral](ai-roleplay-preference-variability.md) — related
+- [Adult learners show no statistically significant difference in recognition performance across human-framed text, AI-framed text, human video, and AI synthetic video conditions](ai-synthetic-video-no-recognition-difference.md) — related

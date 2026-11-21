@@ -160,3 +160,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [The apparent failure of the QKD system during the hacking attempt creates cognitive conflict that the authors link to greater learning gains](cognitive-conflict-hacking-bb84.md) — a narrower finding that bears on this claim
 - [Tutorial-based thought-experiment instruction helps confront student conceptions about simultaneity and improves ability to resolve classic SRT paradoxes](srt-tutorials-confront-conceptions.md) — a narrower finding that bears on this claim
 - [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — related
+- [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — a narrower finding that bears on this claim

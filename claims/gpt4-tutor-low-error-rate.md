@@ -51,3 +51,4 @@ Error audit combining weekly student error reports (16 of 160 indicated a proble
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related
+- [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related

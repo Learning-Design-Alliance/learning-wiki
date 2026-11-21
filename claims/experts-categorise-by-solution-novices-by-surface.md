@@ -119,3 +119,4 @@ Same sorting study: the article reports that experts "tend to sort the problems 
 - [Students using the Hierarchical Analysis Tool (HAT) showed significant problem-solving performance differences compared with students solving problems traditionally](hat-tool-improves-problem-solving-behavior.md) — related
 - [The review reports that novices categorize physics problems by surface features while experts categorize them by deep principles, with later studies finding student categorization ability on a continuum](expert-novice-problem-categorization-review.md) — possibly the same claim (merge candidate)
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
+- [Problem detection and diagnosis are the hardest revision steps, and novices focus on surface changes](revision-problem-detection-novice-difficulty.md) — related

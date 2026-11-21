@@ -57,3 +57,4 @@ The review's synthesis of the 69 included studies on ChatGPT use in higher educa
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — a narrower finding that bears on this claim
 - [Unauthorized outside-resource and ChatGPT usage on assignments reduces significantly under in-class group work](group-work-reduces-unauthorized-resource-use.md) — related
+- [Teachers agreed AI can assist with planning tasks such as preparing lessons and activities before class and improving professional training](teachers-agree-ai-assists-planning-tasks.md) — a narrower finding that bears on this claim

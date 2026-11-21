@@ -60,3 +60,4 @@ Ethical-assessment section of the review: "Several studies acknowledged that mod
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — a narrower finding that bears on this claim
 - [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](gamification-effectiveness-context-dependent-limitation.md) — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — a broader claim this one bears on

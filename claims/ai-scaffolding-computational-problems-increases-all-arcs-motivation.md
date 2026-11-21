@@ -57,3 +57,4 @@ Paired t-test comparing post-survey motivational means between conventional (Act
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
+- [Self-rated learning motivation scores across all four ARCS dimensions rose significantly from pre-test to post-test in one uncontrolled pre-post study of Code.org instruction](codeorg-imms-motivation-gains.md) — related

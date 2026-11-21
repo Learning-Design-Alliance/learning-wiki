@@ -45,6 +45,7 @@ A teaching strategy in which students first meet recent, real research data — 
 ## Related Strategies
 
 - [Hands-On Laboratory Procedures](hands-on_laboratory_procedures.md)
+- [Use pharmacy-context laboratory experiments such as measuring diffusion coefficients, fluid viscosity, and thermal properties of pharmaceutical materials](pharmacy-context-physics-lab-experiments-strategy.md)
 
 ## Examples
 -

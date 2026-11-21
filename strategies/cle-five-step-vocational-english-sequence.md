@@ -52,6 +52,7 @@ The article breaks the CLE process with reciprocal peer teaching into five imple
 ## Related Strategies
 
 - [Chunk Directions](chunk_directions.md)
+- [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 
 ## Examples
 -

@@ -42,7 +42,8 @@ The article proposes a lesson-level sequence for the Bell test that begins with 
 - Chsh Maximal Violation Pi Over 4 [+M]
 
 ## Related Designs
-- 
+
+- [Three-module progression of increasing difficulty from Bell-Wigner to original Bell to CHSH inequalities](three-module-bell-inequality-progression.md)
 
 ## Examples
 -

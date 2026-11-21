@@ -47,3 +47,4 @@ Program report describing the accelerator physics lecture format at ASP2024. The
 ## Related Claims
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [Reviewer questions whether action responses guarantee meaning or become direct cues to responses](action-response-meaning-question.md) — related
+- [Over 60% of surveyed ASP2024 students suggested cutting down the program, citing the broadness and load of the classes as making the school difficult, and only nine lecture sessions averaged above four](asp2024-program-broadness-load-feedback.md) — related

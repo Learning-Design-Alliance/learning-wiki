@@ -57,3 +57,4 @@ Six-week repeated-measures quasi-experiment: experimental group (n = 23) receive
 - [Chatbot-guided feedback SRL produced a significant interaction between feedback method and website design performance over time, with the groups differing only on the second website](srl-cgf-website-design-progress-interaction.md) — related
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
+- [Middle-school students prefer science texts rewritten by GPT-4 to align with their learning-preference profile over generic texts](gpt4-aligned-texts-preferred-over-generic.md) — related

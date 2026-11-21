@@ -64,3 +64,4 @@ Bland-Altman bias analysis across five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2
 - [The very narrow GEARS score range (SD < 0.5) limits the rubric's utility for identifying a competency inflection point](gears-narrow-score-range-limits-competency-threshold.md) — related
 - [Machine coding shows a systematic offset dependent on the measured prevalence EC, which can be calibrated with a best-fit function S(EC)](systematic-offset-function-of-ec-calibration.md) — related
 - [Machine coding systematically over- or under-estimates code prevalence when the training set is outcome-unbalanced, with no offset at ptrain = 0.5](training-imbalance-causes-systematic-machine-coding-offset.md) — related
+- [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](mark-scheme-improves-llm-grading.md) — related

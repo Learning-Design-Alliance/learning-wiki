@@ -51,6 +51,7 @@ An implementable redesign recipe: form an interdisciplinary team of lecturers, d
 
 - [Blended Learning](blended_learning.md)
 - [Use the ADDIE model to develop RBL-STEM learning materials](addie-development-rbl-stem-materials.md)
+- [Adopt the ADDIE model for design and evaluation, with BLEU, WER, and TER for intrinsic system evaluation](addie-bleu-wer-ter-evaluation-strategy.md)
 
 ## Examples
 -

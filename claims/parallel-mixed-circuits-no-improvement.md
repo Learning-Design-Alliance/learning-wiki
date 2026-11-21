@@ -68,3 +68,4 @@ The authors' stated interpretation of student difficulty distinguishing potentia
 - [Students believe a physical quantity should have only one formula and treat intrinsic properties as depending on the variables in definitional equations](one-formula-belief-intrinsic-property-confusion.md) — related
 - [Students have difficulty understanding fundamental behavior of electrical circuits](students-difficulty-fundamental-circuit-behavior.md) — related
 - [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — related
+- [Students can determine a trapped particle's charge-to-mass ratio by two methods whose results agree with each other and with an analytic trap model](charge-to-mass-ratio-two-methods-agree.md) — related

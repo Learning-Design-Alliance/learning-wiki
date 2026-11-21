@@ -42,7 +42,8 @@ The article organizes the first QISE course as a set of thirteen modules (Module
 - 
 
 ## Related Designs
-- 
+
+- [Distributed K-16 national center framework for quantum education](distributed-k16-quantum-education-center-framework.md)
 
 ## Examples
 -

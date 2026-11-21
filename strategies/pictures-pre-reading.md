@@ -60,6 +60,7 @@ Pre-reading pictures work as a schema-activation device: they give learners a sh
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pictures are one concrete vehicle for the same activation function
 - [Anticipation Guides](anticipation-guides.md) — a text-based alternative that elicits predictions with statements instead of images
 - [ITPC-framed CL lesson sequence with warm-up, image-schema instruction, controlled practice and productive tasks](itpc-cl-preposition-lesson-sequence.md)
+- [Integrate aesthetic pictures into physics tasks at the start of a lesson and for application and transfer](aesthetic-pictures-in-tasks-teaching-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function this strategy serves

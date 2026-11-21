@@ -71,3 +71,4 @@ Transcribed discussion of the Social Group G's beach ball data, which occurred w
 - [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related
 - [TA spent roughly 60% of interaction time cuing falsification-oriented frames and never cued confirmation frames, but once cued the Hoops frame](ta-interaction-time-frame-cues-distribution.md) — related
 - [Confirmation framing can support productive disciplinary engagement, including troubleshooting, when students encounter discrepant data](confirmation-framing-supports-productive-engagement.md) — related
+- [Most student groups' ChatGPT interactions during the lab occurred after data collection was largely complete](chatgpt-use-timing-after-data-collection.md) — related

@@ -53,3 +53,4 @@ Discussion-section finding from the interview study: participants at intersectio
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related

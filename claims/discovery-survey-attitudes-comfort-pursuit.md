@@ -70,3 +70,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
 - [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
+- [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
+- [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related

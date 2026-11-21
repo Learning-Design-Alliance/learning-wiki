@@ -68,3 +68,4 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 - [A chatbot-based self-directed learning program for mechanical ventilation nursing raises nursing students' clinical reasoning competency more than video lectures alone](chatbot-sdl-raises-clinical-reasoning-competency.md) — related
 - [ChatGPT-assisted learners report higher posttest learning motivation and self-efficacy than video-only learners](chatgpt-assisted-learning-raises-motivation-self-efficacy.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
+- [ChatGPT-assisted students excelled in advanced topics such as recursion and dynamic programming, scoring 15-20% higher than the TA-only group](chatgpt-assisted-advanced-topics-15-20-percent-higher.md) — related

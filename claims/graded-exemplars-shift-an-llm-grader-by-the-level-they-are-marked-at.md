@@ -67,3 +67,4 @@ Within-item arms on one public, teacher-graded corpus of undergraduate computer-
 - [The strict-persona vulnerability replicates on an independent machine-learning exam, but its direction is exam-specific: seven of 17 models improve because the persona cancels their over-marking](strict-persona-effect-exam-specific.md) — related
 - [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related
 - [Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not](lms-exemplar-access-associated-with-higher-grades.md) — related
+- [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](mark-scheme-improves-llm-grading.md) — related

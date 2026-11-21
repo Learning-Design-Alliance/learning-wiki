@@ -85,6 +85,7 @@ Turn-and-talk works because verbalizing forces retrieval and elaboration: learne
 - Jigsaw — pairs become expert groups; Turn and Talk is the low-preparation version of the same peer-explanation mechanism
 - Cold Calling — pairs with Turn and Talk to hold pairs accountable after the discussion
 - [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
+- [Enlarge lab groups and add structured communication tasks to foster peer communication](enlarged-group-work-communication-tasks.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) — turn-and-talk is the smallest unit of collaborative learning

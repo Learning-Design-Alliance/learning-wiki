@@ -48,3 +48,4 @@ Optional postprogram ARCS survey completed by 76 (64.4%) of the 118 participants
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — reports the opposite
+- [Self-rated learning motivation scores across all four ARCS dimensions rose significantly from pre-test to post-test in one uncontrolled pre-post study of Code.org instruction](codeorg-imms-motivation-gains.md) — related

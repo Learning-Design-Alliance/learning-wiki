@@ -60,3 +60,4 @@ Comparative analysis of bias mitigation techniques applied to LR models on OULAD
 - [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — related
 - [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related
 - [Methods with higher scoring accuracy showed lower demographic disparity across the tested model combinations](higher-accuracy-lower-disparity.md) — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related

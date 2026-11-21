@@ -53,6 +53,7 @@ The review recommends linking distant medical educators from first-world countri
 - [Deliver patient communication training virtually and build an institution-independent virtual training network](virtual-training-network-patient-communication-medphys.md)
 - [Expand low-cost case-based tele-education to other emerging ICUs using a train-the-trainer model](train-the-trainer-tele-education-expansion.md)
 - [Private-public partnership to deliver free simulation training to public-sector health professionals in low- and middle-income settings](private-public-partnership-obstetric-training-strategy.md)
+- [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
 
 ## Examples
 -

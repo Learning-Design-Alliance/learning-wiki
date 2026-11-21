@@ -50,3 +50,4 @@ Non-parametric comparisons in the evaluation phase (Friedman ANOVA N = 1885, df 
 - [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](claude3-palm2-substantial-agreement-failing-grades.md) — related
 - [Statistical tests show significant grading differences among nearly all pairs of LLMs, with only 7 of 153 pairs statistically indistinguishable](friedman-posthoc-llm-grading-pairs-differ.md) — possibly the same claim (merge candidate)
 - [The omnibus ANOVA on total QM score did not reach conventional significance, though a Friedman test suggested an overall difference with no significant pairwise Wilcoxon comparisons](total-qm-score-omnibus-nonsignificant-friedman-significant.md) — related
+- [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related

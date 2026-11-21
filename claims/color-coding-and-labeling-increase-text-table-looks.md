@@ -67,3 +67,4 @@ Mixed effects Poisson model of looks between sentences and labeled target cells;
 - [Labeling increases visual attention to labeled table cells, but color coding does not increase attention to color-coded cells](labeling-increases-attention-labeled-cells.md) — related
 - [Labeling increases time spent with the lesson, but color coding does not](labeling-increases-time-with-lesson.md) — related
 - [Color coding does not improve learning about posterior probability from a simple table, and adds no benefit when combined with labeling](color-coding-no-learning-benefit-simple-table.md) — related
+- [A modest but consistent minority of students (about 16%) spontaneously described the color-coding schemes as helpful, and about 27% found color in physics contexts helpful without describing color-coding](minority-describe-color-coding-helpful.md) — related

@@ -127478,5 +127478,677 @@
  "test-format\ttwo-attempt asynchronous quiz\tsingle-attempt synchronous exam": {
   "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
   "treatment_is_a": true
+ },
+ "active-learning\tGR and cosmology course with active-learning materials\tpre-course baseline": {
+  "label": "Active-learning materials vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\talternative-methodology classes\ttraditional classes": {
+  "label": "Alternative/active-learning methodology vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tanswering more new practice questions\tprior listening to radio lectures alone": {
+  "label": "Practice questions vs passive radio listening",
+  "treatment_is_a": true
+ },
+ "active-learning\tcorrelation-and-causation classroom activity\tnot reported": {
+  "label": "Correlation-and-causation activity vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\texercises illustrated by the teacher\tother teaching methods": {
+  "label": "Teacher-illustrated exercises vs other teaching methods",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup evaluation of ChatGPT’s acoustics task\tnot stated": {
+  "label": "Collaborative group evaluation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on and project-based learning\tlecture-based instruction": {
+  "label": "Hands-on/project-based learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tintegrating physics into pharmacy education\tlimited explicit physics integration": {
+  "label": "Integrated physics instruction vs limited explicit integration",
+  "treatment_is_a": true
+ },
+ "active-learning\titerated peer group discussions\tinitial performance before discussion": {
+  "label": "Peer-group discussion vs pre-discussion performance",
+  "treatment_is_a": true
+ },
+ "active-learning\tlaboratory experiments applying physics in pharmacy\tlecture-based or non-hands-on instruction": {
+  "label": "Laboratory-based hands-on learning vs lecture/non-hands-on instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-facilitated cloud chamber workshops\tusual classroom physics instruction": {
+  "label": "Peer-facilitated workshop vs usual classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tphone-based multiple-choice practice\tprior radio listening before practice": {
+  "label": "Practice questions vs passive radio listening",
+  "treatment_is_a": true
+ },
+ "active-learning\tphone-based practice questions, compared with listening to radio lectures\tradio-based passive listening": {
+  "label": "Practice questions vs passive radio listening",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents chose and purpose-built cameras for their own experiments\tnot stated": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcase studies linking physics concepts to pharmaceutical problems\ttraditional lecture-based instruction": {
+  "label": "case-based vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "debriefing\tcriterion-based evaluation and group reflection on ChatGPT-generated didactical content\tpre-evaluation before encountering ChatGPT-generated content": {
+  "label": "post-task evaluation and group reflection vs pre-task evaluation",
+  "treatment_is_a": true
+ },
+ "debriefing\tcriterion-based evaluation with structured group reflection\tpre-evaluation perceptions before engaging with ChatGPT-generated didactical tasks": {
+  "label": "post-task evaluation and group reflection vs pre-task evaluation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twork-integrated learning\tbeing told how to perform the task": {
+  "label": "explicit instruction vs work-integrated learning",
+  "treatment_is_a": false
+ },
+ "feedback-presence\tChatGPT feedback\tinitial answer before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tChatGPT feedback on comprehension questions\tno ChatGPT feedback on comprehension questions": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tChatGPT formative feedback\tno ChatGPT feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEmotionally enriched AI feedback\tNeutral AI feedback": {
+  "label": "Emotionally enriched AI feedback vs neutral AI feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGOAT-generated feedback\tSBERT-Canberra-generated feedback": {
+  "label": "GOAT-generated feedback vs SBERT-Canberra-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-generated feedback\tGOAT-generated feedback": {
+  "label": "GPT-4-generated feedback vs GOAT-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-generated feedback\tSBERT-Canberra-generated feedback": {
+  "label": "GPT-4-generated feedback vs SBERT-Canberra-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTeacher 1's interpretation of GOAT feedback\tTeacher 2's interpretation of GOAT feedback": {
+  "label": "Teacher 1's interpretation of GOAT feedback vs Teacher 2's interpretation of GOAT feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\temotionally enriched AI feedback\tneutral AI feedback": {
+  "label": "Emotionally enriched AI feedback vs neutral AI feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tRPG-based Modern Physics instruction\tpre-intervention baseline": {
+  "label": "RPG-based gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tRPG-based instruction using A Vingança de Newton\tpre-intervention baseline": {
+  "label": "RPG-based gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tsearch-based game mechanics\tother reported game elements": {
+  "label": "Search-based game mechanics vs other game mechanics",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tfewer-scaffolded, open-ended investigative labs\tmore-scaffolded, structured labs": {
+  "label": "guided/structured vs open-ended",
+  "treatment_is_a": false
+ },
+ "guided-discovery\tguided learning activities for Newton’s 3rd law\tnot specified": {
+  "label": "guided vs not guided",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided, structured labs\topen-ended investigative labs": {
+  "label": "guided/structured vs open-ended",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry lab\tcompletely open-ended lab": {
+  "label": "guided inquiry vs completely open-ended",
+  "treatment_is_a": true
+ },
+ "guided-discovery\topen-ended or guided-inquiry lab implementation\tmore structured lab implementation": {
+  "label": "more structured vs open-ended/guided inquiry",
+  "treatment_is_a": false
+ },
+ "guided-discovery\topen-ended/guided inquiry lab\tmore structured lab approach": {
+  "label": "more structured vs open-ended/guided inquiry",
+  "treatment_is_a": false
+ },
+ "media-design\tAI-generated synthetic video\ttext format": {
+  "label": "AI-generated synthetic video vs text format",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated text\tAI-generated synthetic video": {
+  "label": "AI-generated synthetic video vs AI-generated text",
+  "treatment_is_a": false
+ },
+ "media-design\tAI-generated text\tvideo format": {
+  "label": "AI-generated video vs AI-generated text",
+  "treatment_is_a": false
+ },
+ "media-design\tAR dial interpreted together with physical plate markings\tAR dial visualization alone": {
+  "label": "AR dial with physical plate markings vs AR dial alone",
+  "treatment_is_a": true
+ },
+ "media-design\tBEMA items with arrow-labeled answer option lists\tBEMA items without arrow-labeled answer option lists": {
+  "label": "BEMA items with arrow-labeled answer options vs BEMA items without arrow-labeled answer options",
+  "treatment_is_a": true
+ },
+ "media-design\tCTML-aligned multimedia materials\tCTML-unaligned multimedia materials": {
+  "label": "CTML-aligned multimedia materials vs CTML-unaligned multimedia materials",
+  "treatment_is_a": true
+ },
+ "media-design\tCoherence-aligned material\tCoherence-unaligned material": {
+  "label": "Coherence-aligned material vs coherence-unaligned material",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Align\tnot stated": {
+  "label": "D-Align vs comparison condition",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Declutter\tcomparison condition not stated": {
+  "label": "D-Declutter vs comparison condition",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Illustrate\tD-Declutter": {
+  "label": "D-Illustrate vs D-Declutter",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Illustrate\tD-Slowdown": {
+  "label": "D-Illustrate vs D-Slowdown",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Illustrate clips\tcomparison clips": {
+  "label": "D-Illustrate clips vs comparison clips",
+  "treatment_is_a": true
+ },
+ "media-design\tD-Slowdown videos\toriginal videos": {
+  "label": "D-Slowdown videos vs original videos",
+  "treatment_is_a": true
+ },
+ "media-design\tFocusing on Essential Information\tFostering Connection": {
+  "label": "Focusing on Essential Information vs Fostering Connection",
+  "treatment_is_a": true
+ },
+ "media-design\tFocusing on Essential Information\tReducing Irrelevant Information": {
+  "label": "Focusing on Essential Information vs Reducing Irrelevant Information",
+  "treatment_is_a": true
+ },
+ "media-design\tFostering Connection\tReducing Irrelevant Information": {
+  "label": "Fostering Connection vs Reducing Irrelevant Information",
+  "treatment_is_a": true
+ },
+ "media-design\tScheme 1: equations and definitions\tScheme 3: 2D scenarios": {
+  "label": "Scheme 1: equations and definitions vs Scheme 3: 2D scenarios",
+  "treatment_is_a": true
+ },
+ "media-design\tScheme 1: equations and definitions\tother color-coding schemes": {
+  "label": "Scheme 1: equations and definitions vs other color-coding schemes",
+  "treatment_is_a": true
+ },
+ "media-design\tScheme 2: equations and diagrams\tScheme 3: 2D scenarios": {
+  "label": "Scheme 2: equations and diagrams vs Scheme 3: 2D scenarios",
+  "treatment_is_a": true
+ },
+ "media-design\tSegmentation-aligned multimedia materials\tSegmentation-unaligned multimedia materials": {
+  "label": "Segmentation-aligned multimedia materials vs segmentation-unaligned multimedia materials",
+  "treatment_is_a": true
+ },
+ "media-design\taesthetic pictures in physics tasks\tclassroom experiment pictures in physics tasks": {
+  "label": "Aesthetic pictures vs classroom-experiment pictures",
+  "treatment_is_a": true
+ },
+ "media-design\taesthetic pictures in physics tasks\tclassroom-experiment pictures in physics tasks": {
+  "label": "Aesthetic pictures vs classroom-experiment pictures",
+  "treatment_is_a": true
+ },
+ "media-design\taesthetic pictures in tasks\tclassroom experiment pictures in tasks": {
+  "label": "Aesthetic pictures vs classroom-experiment pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor used in specific physics contexts\tresponses not identifying color as helpful": {
+  "label": "Color used in specific physics contexts vs responses not identifying color as helpful",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor-coding mathematical representations\tcolor-coding verbal and visual representations": {
+  "label": "Color-coding mathematical representations vs color-coding verbal and visual representations",
+  "treatment_is_a": true
+ },
+ "media-design\thuman instructor-generated video\tAI-generated synthetic video": {
+  "label": "Human instructor-generated video vs AI-generated synthetic video",
+  "treatment_is_a": true
+ },
+ "media-design\thuman instructor-generated video\tAI-generated text": {
+  "label": "Human instructor-generated video vs AI-generated text",
+  "treatment_is_a": true
+ },
+ "media-design\thuman instructor-generated video\thuman instructor-generated text": {
+  "label": "Human instructor-generated video vs human instructor-generated text",
+  "treatment_is_a": true
+ },
+ "media-design\thuman-generated text\tvideo format": {
+  "label": "Video format vs human-generated text",
+  "treatment_is_a": false
+ },
+ "media-design\tmaterial aligned with the Coherence Principle\tmaterial not aligned with the Coherence Principle": {
+  "label": "Material aligned with the Coherence Principle vs material not aligned with the Coherence Principle",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-aligned presentation with words and images\tpresentation not aligned with the Multimedia Principle": {
+  "label": "Multimedia Principle-aligned presentation with words and images vs presentation not aligned with the Multimedia Principle",
+  "treatment_is_a": true
+ },
+ "media-design\trevised video clips\toriginal video clips": {
+  "label": "Revised video clips vs original video clips",
+  "treatment_is_a": true
+ },
+ "media-design\tstrategic color-coding in instructional slides\tno color-coding condition reported": {
+  "label": "Strategic color-coding in instructional slides vs no color-coding",
+  "treatment_is_a": true
+ },
+ "practice-amount\tabout 40 short quizzes with three attempts and short deadlines\tabout 10 homework assignments covering two weeks of classes": {
+  "label": "frequent short practice assignments vs infrequent extended practice assignments",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcompleted supplemental math material 1\tdid not complete supplemental math material 1": {
+  "label": "supplemental practice completed vs not completed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcompleted supplemental math material 1 on vectors\tdid not complete material 1": {
+  "label": "supplemental practice completed vs not completed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcompleted supplemental math material 3\tdid not complete material 3": {
+  "label": "supplemental practice completed vs not completed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcompleted supplemental math material 4\tdid not complete material 4": {
+  "label": "supplemental practice completed vs not completed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcut-down program\tfull broad program": {
+  "label": "full broad practice program vs cut-down practice program",
+  "treatment_is_a": false
+ },
+ "practice-amount\tmore new practice questions answered\tfewer new practice questions answered": {
+  "label": "more practice questions answered vs fewer practice questions answered",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore unique practice questions answered\tfewer unique practice questions answered": {
+  "label": "more unique practice questions answered vs fewer unique practice questions answered",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore unique practice questions answered, accounting for education level\tfewer unique practice questions answered, accounting for education level": {
+  "label": "more unique practice questions answered vs fewer unique practice questions answered",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice with more prior radio listening\tpractice with less prior radio listening": {
+  "label": "more prior practice exposure vs less prior practice exposure",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure: post-instruction task\tProductive Failure: pre-instruction practice task": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": false
+ },
+ "problem-first\tProductive Failure: solve before instruction\tDirect Instruction: instruction before practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving before list instruction (PF)\tlist instruction before problem-solving (DI)": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure\tdirect instruction": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure followed by instruction\tdirect instruction followed by practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: problem solving before instruction\tdirect instruction: instruction before problem": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: weather task before instruction\tdirect instruction before weather task": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "prompts\tAsk-Before-Detection framework\tbaseline error detection": {
+  "label": "Ask-before-detection framework vs baseline error detection",
+  "treatment_is_a": true
+ },
+ "prompts\tLLM-generated Socratic questions\tnot stated": {
+  "label": "LLM-generated Socratic questions vs no stated questions",
+  "treatment_is_a": true
+ },
+ "prompts\tcorresponding reference solution\tconventional solution used as reference": {
+  "label": "Corresponding reference solution vs conventional reference solution",
+  "treatment_is_a": true
+ },
+ "prompts\tcorresponding reference solution provided\tno reference solution": {
+  "label": "Corresponding reference solution provided vs no reference solution",
+  "treatment_is_a": true
+ },
+ "prompts\tcriterion-based evaluation of ChatGPT content\tpre-evaluation perception before encountering ChatGPT-generated content": {
+  "label": "Criterion-based evaluation vs pre-evaluation perception",
+  "treatment_is_a": true
+ },
+ "prompts\tcriterion-based evaluation using clarity, correctness, appropriateness, and precision criteria\tpre-evaluation ratings before encountering ChatGPT-generated content": {
+  "label": "Criterion-based evaluation vs pre-evaluation ratings",
+  "treatment_is_a": true
+ },
+ "prompts\tcriterion-based evaluation using explicit criteria\tpre-evaluation baseline before encountering ChatGPT content": {
+  "label": "Explicit-criteria evaluation vs pre-evaluation baseline",
+  "treatment_is_a": true
+ },
+ "prompts\tcriterion-based evaluation using explicit quality criteria\tpre-exposure estimates before criterion-based evaluation": {
+  "label": "Explicit-quality-criteria evaluation vs pre-exposure estimates",
+  "treatment_is_a": true
+ },
+ "prompts\tcriterion-based evaluation with explicit criteria\tinitial rating before criterion-based evaluation": {
+  "label": "Explicit-criteria evaluation vs initial rating",
+  "treatment_is_a": true
+ },
+ "prompts\tprompt to show the correct answer\toriginal question wording": {
+  "label": "Prompt to show the correct answer vs original question wording",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted LLaMA\tunprompted LLaMA": {
+  "label": "Prompted LLaMA vs unprompted LLaMA",
+  "treatment_is_a": true
+ },
+ "prompts\tself-interest purpose intervention\tcontrol condition": {
+  "label": "Self-interest purpose intervention vs control condition",
+  "treatment_is_a": true
+ },
+ "prompts\tself-interest purpose intervention\tself-transcendent purpose intervention": {
+  "label": "Self-interest purpose intervention vs self-transcendent purpose intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tself-interest purpose prompt\tcontrol prompt": {
+  "label": "Self-interest purpose prompt vs control prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tself-interest purpose reflection prompt\tcontrol prompt without purpose reflection": {
+  "label": "Self-interest purpose reflection prompt vs control prompt without purpose reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tself-transcendent purpose intervention\tcontrol condition": {
+  "label": "Self-transcendent purpose intervention vs control condition",
+  "treatment_is_a": true
+ },
+ "prompts\tself-transcendent purpose prompt\tcontrol prompt": {
+  "label": "Self-transcendent purpose prompt vs control prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tself-transcendent purpose reflection prompt\tcontrol prompt without purpose reflection": {
+  "label": "Self-transcendent purpose reflection prompt vs control prompt without purpose reflection",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\textra credit for PEER students\tno extra credit for PEER students": {
+  "label": "Extra credit for PEER students vs no extra credit for PEER students",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\textra credit offered for supplemental math assignments\tno extra credit offered": {
+  "label": "Extra credit for supplemental math assignments vs no extra credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\textra credit offered to PEER students\tno extra credit offered to PEER students": {
+  "label": "Extra credit for PEER students vs no extra credit for PEER students",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial and travel support for educators\tless commonly supported participation": {
+  "label": "Financial and travel support for educators vs less-supported participation",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentivized supplemental math assignments\tno incentivized supplemental math assignments": {
+  "label": "Incentivized supplemental math assignments vs non-incentivized supplemental math assignments",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tsupplemental math assignments with extra credit\tsupplemental math assignments without extra credit": {
+  "label": "Extra credit for supplemental math assignments vs no extra credit",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAI grading with a mark scheme\tAI grading without a mark scheme": {
+  "label": "AI grading with a mark scheme vs AI grading without a mark scheme",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGPT-3.5-generated personalized hints\tno GPT-generated hints": {
+  "label": "GPT-generated hints vs no GPT-generated hints",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGPT-generated hints\tno GPT-generated hints": {
+  "label": "GPT-generated hints vs no GPT-generated hints",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGPT-generated programming hints\tno GPT-generated hints": {
+  "label": "GPT-generated programming hints vs no GPT-generated hints",
+  "treatment_is_a": true
+ },
+ "scaffolding\tL1b with scaffolding prompting QC engagement\tL1a with less scaffolding": {
+  "label": "More scaffolding vs less scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive Gen-AI guidance\tno-adaptivity fixed script": {
+  "label": "Adaptive Gen-AI guidance vs non-adaptive fixed-script guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdata-informed, just-in-time individualized support recommendations\tstatic learner categorization or no tailored recommendations": {
+  "label": "Individualized, just-in-time support recommendations vs static or untailored support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh adaptive Gen-AI guidance\tno-adaptivity baseline": {
+  "label": "High adaptive Gen-AI guidance vs non-adaptive guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigh adaptivity\tno adaptivity": {
+  "label": "High adaptivity vs no adaptivity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstruction with teaching assistants\tinstruction without teaching assistants": {
+  "label": "Instruction with teaching-assistant support vs instruction without teaching-assistant support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmoderate adaptive Gen-AI guidance\tno-adaptivity baseline": {
+  "label": "Moderate adaptive Gen-AI guidance vs non-adaptive guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmoderate adaptivity\thigh adaptivity": {
+  "label": "Higher adaptivity vs lower adaptivity",
+  "treatment_is_a": false
+ },
+ "scaffolding\tmoderate adaptivity\tno adaptivity": {
+  "label": "Moderate adaptivity vs no adaptivity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmoderate ingredient-based adaptive AI guidance\tnon-adaptive fixed-script baseline": {
+  "label": "Adaptive AI guidance vs non-adaptive fixed-script guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tredesigned scaffolded laboratory curriculum\tpre-transformation laboratory instruction": {
+  "label": "Redesigned scaffolded laboratory curriculum vs pre-transformation laboratory instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsupported training\tbeing thrown in the deep end with little support": {
+  "label": "Supported training vs unsupported training",
+  "treatment_is_a": true
+ },
+ "simulation\thigher task complexity in later VRT sessions\tlower task complexity in earlier VRT sessions": {
+  "label": "Higher vs lower task complexity",
+  "treatment_is_a": true
+ },
+ "simulation\tpost-lesson confidence\tpre-lesson confidence": {
+  "label": "Post-lesson vs pre-lesson confidence",
+  "treatment_is_a": true
+ },
+ "simulation\tposttest after scenario-based equity lesson\tpretest before scenario-based equity lesson": {
+  "label": "Posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D desktop pedagogical agents\tpre-test before learning": {
+  "label": "3D desktop pedagogical agents vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI assistance for programming tasks with acknowledgment\tAI assistance for general tasks with acknowledgment": {
+  "label": "AI assistance for programming tasks vs AI assistance for general tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot grading with a mark scheme\tAI chatbot grading without a mark scheme": {
+  "label": "AI chatbot grading with a mark scheme vs AI chatbot grading without a mark scheme",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot grading without a mark scheme\thuman grading using the mark scheme": {
+  "label": "AI chatbot grading without a mark scheme vs human grading using a mark scheme",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI for research or idea generation\tAI for writing homework": {
+  "label": "AI for research or idea generation vs AI for writing homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading accepted for one-fifth of the grading load\tAI grading accepted for half of the grading load": {
+  "label": "AI grading for half the grading load vs AI grading for one-fifth of the grading load",
+  "treatment_is_a": false
+ },
+ "technology-tool\tAI grading for one-fifth of the grading load\tAI grading for half of the grading load": {
+  "label": "AI grading for half the grading load vs AI grading for one-fifth of the grading load",
+  "treatment_is_a": false
+ },
+ "technology-tool\tAI grading of an incorrect electric-field solution\tHuman evaluation of the solution": {
+  "label": "AI grading vs human evaluation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading of authentic handwritten exam solutions\tAI grading of verbose synthetic solution derivations": {
+  "label": "AI grading of authentic handwritten exam solutions vs AI grading of verbose synthetic solution derivations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading of hand-drawn graphical solutions\tAI grading of mathematical derivations": {
+  "label": "AI grading of hand-drawn graphical solutions vs AI grading of mathematical derivations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading of hand-drawn graphics\tAI grading of mathematical derivations": {
+  "label": "AI grading of hand-drawn graphics vs AI grading of mathematical derivations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading with a mark scheme\tAI grading without a mark scheme": {
+  "label": "AI grading with a mark scheme vs AI grading without a mark scheme",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading with iteratively refined rubric prompts\tAI grading with initial rubric prompts": {
+  "label": "AI grading with iteratively refined rubric prompts vs AI grading with initial rubric prompts",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading without a mark scheme\thuman grading": {
+  "label": "AI grading without a mark scheme vs human grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI grading workflow\tTA grading": {
+  "label": "AI grading workflow vs TA grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI identification of exams meeting passing criteria\thuman grading of exams with failing grades": {
+  "label": "AI identification of passing exams vs human grading of failing exams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems trained on historical data\tnot stated": {
+  "label": "AI systems trained on historical data vs systems without stated training-data information",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems with clear, understandable explanations\tAI systems without clear explanations": {
+  "label": "AI systems with clear explanations vs AI systems without clear explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI to teach concepts during problem-solving\tAI completing assignments": {
+  "label": "AI teaching concepts during problem-solving vs AI completing assignments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI writing some English paragraphs\tpersonal unaided writing": {
+  "label": "AI-assisted writing vs unaided writing",
+  "treatment_is_a": true
+ },
+ "test-format\tChain-CAT administered 9 times with 5 items per administration\tFCI administered as pretest and post-test": {
+  "label": "Repeated short tests vs pretest-and-posttest testing",
+  "treatment_is_a": true
+ },
+ "test-format\tChain-CAT with 5 items per administration, administered 9 times\tFull FCI pretest and post-test": {
+  "label": "Repeated short tests vs pretest-and-posttest testing",
+  "treatment_is_a": true
+ },
+ "test-format\tChain-CAT with collateral information\tCAT without collateral information": {
+  "label": "CAT with collateral information vs CAT without collateral information",
+  "treatment_is_a": true
+ },
+ "test-format\tConstrained Chain-CAT with 5 items per administration\tFull FCI pretest and post-test": {
+  "label": "Repeated short tests vs pretest-and-posttest testing",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ and open-response activities\topen-response activities only": {
+  "label": "Combined MCQ and open-response activities vs open-response-only activities",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ only\tBoth": {
+  "label": "Combined MCQ and open-response activities vs MCQ-only activities",
+  "treatment_is_a": false
+ },
+ "test-format\tMCQ only\tOpen-response only": {
+  "label": "MCQ-only activities vs open-response-only activities",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ-only learning-by-doing activities\topen-response and combination conditions": {
+  "label": "MCQ-only activities vs open-response and combined activities",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ-only learning-by-doing activities\topen-response-only learning-by-doing activities": {
+  "label": "MCQ-only activities vs open-response-only activities",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ-only learning-by-doing condition\topen-response-only and combined conditions": {
+  "label": "MCQ-only activities vs open-response and combined activities",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ-only practice\tcombined MCQ and open-response practice": {
+  "label": "Combined MCQ and open-response practice vs MCQ-only practice",
+  "treatment_is_a": false
+ },
+ "test-format\tMCQ-only practice\topen-response-only practice": {
+  "label": "MCQ-only practice vs open-response-only practice",
+  "treatment_is_a": true
+ },
+ "test-format\tS&I practice test with per-part and whole-test scores\tnot stated": {
+  "label": "Practice tests with per-part and whole-test scores vs unspecified score reporting",
+  "treatment_is_a": true
+ },
+ "test-format\thybrid take-home/in-class exams\ttraditional in-class exams": {
+  "label": "Hybrid take-home/in-class exams vs traditional in-class exams",
+  "treatment_is_a": true
+ },
+ "test-format\thybrid take-home/in-class summative exam\ttraditional in-class summative exam": {
+  "label": "Hybrid take-home/in-class exams vs traditional in-class exams",
+  "treatment_is_a": true
+ },
+ "worked-examples\tteacher-illustrated exercises\ttheoretical instruction, attendee exercises, or dedicated software": {
+  "label": "worked examples vs conventional instruction or practice",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor-coding equations with diagrams\tcolor-coding 2D components": {
+  "label": "color-coding equations with diagrams vs color-coding 2D components",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor-coding instructional materials\tno color-coding mentioned": {
+  "label": "color-coding instructional materials vs no color-coding",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor-coding used to separate and distinguish information\tother stated reasons for color use": {
+  "label": "color-coding to separate and distinguish information vs color-coding for other reasons",
+  "treatment_is_a": true
  }
 }

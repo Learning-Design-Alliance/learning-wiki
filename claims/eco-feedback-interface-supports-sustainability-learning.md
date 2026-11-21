@@ -58,3 +58,5 @@ Reflexive thematic analysis (Braun and Clarke's approach) of open-ended survey r
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
 - [The intervention increased students' declared intentions to adopt eco-responsible behaviors across water economy, pollution prevention and forest preservation](intervention-increases-eco-responsible-behavior-intentions.md) — related
 - [A two-week footprinting unit in a college energy course left every student able to independently complete process-based carbon footprint calculations, and students reported changed perspectives on energy use](footprinting-unit-independent-calculations.md) — related
+- [Pre-producing LLM explanations enables significant caching and a negligible operational carbon footprint](preproduced-explanations-caching-carbon-reduction.md) — related
+- [Measured inference-phase carbon emissions of 150.7 kg CO2e for one lecture and 209.4 kg CO2e for another](llm-inference-emissions-huh-button-development.md) — related

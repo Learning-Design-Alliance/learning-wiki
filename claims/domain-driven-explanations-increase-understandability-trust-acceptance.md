@@ -49,3 +49,4 @@ Within-subject staged experiment with 41 in-service chemistry teachers using Gro
 - [Teachers' understandability, trust, and acceptance of AI-EdTech recommendations are positively and significantly correlated](understandability-trust-acceptance-positive-correlation.md) — related
 - [The correlations among understandability, trust, and acceptance strengthen during teacher–system interaction, indicating trust is dynamic](trust-correlations-strengthen-during-interaction.md) — related
 - [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — related
+- [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — a broader claim this one bears on

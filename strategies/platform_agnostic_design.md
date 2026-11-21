@@ -68,6 +68,7 @@ Platform dependence adds extraneous load and friction that is unrelated to learn
 - [Deploy gamified onboarding simulations via WebGL in a standard web browser rather than VR or installed software](webgl-browser-deployment-strategy.md)
 - [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
 - [Minimize platform-specific friction in workshop exercise materials](wac-content-design-guidelines-strategy.md)
+- [Deliver outreach data-analysis activities through the browser to remove installation barriers](browser-based-no-install-outreach-strategy.md)
 
 ## Examples
 - **Open textbook platforms such as [OpenStax](https://openstax.org)** — textbooks readable as web pages, downloadable PDFs, and e-book formats on any device, with no account or specific software required.

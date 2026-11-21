@@ -50,6 +50,10 @@ The QRC's instructional pattern is a minimal, transparent computer realization o
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](../claims/qrc-deployment-terminated-online-debates.md) [+W]
 
+## Related Designs
+
+- [Three-module progression of increasing difficulty from Bell-Wigner to original Bell to CHSH inequalities](three-module-bell-inequality-progression.md)
+
 ## Related Patterns
 
 

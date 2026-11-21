@@ -28,6 +28,7 @@ An international interoperable infrastructure coordinated by the International V
 
 - [Seamless Astronomy](seamless-astronomy.md)
 - [SDSS Voyages and Sky Server projects](sdss-voyages-and-sky-server-projects.md)
+- [Spanish Virtual Observatory schools](spanish-virtual-observatory-schools.md)
 
 ## Key Sources
 - Freistetter, F., Iafrate, G., Ramella, M., and the AIDA-WP5 Team. (2011). The Sky is for Everyone – Outreach and Education with the Virtual Observatory. arXiv preprint. https://arxiv.org/abs/1101.3061

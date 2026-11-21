@@ -53,3 +53,4 @@ Interview analysis (Sec. 3.2) reports this shift as companies and QT departments
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
 - [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related
+- [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related

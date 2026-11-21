@@ -50,3 +50,4 @@ Visual-analytics subtheme from the interviews; educators reported that "the rada
 - [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
 - [Students identify communication and emotional regulation as their main weaknesses and teamwork as a strength after simulation](simulation-self-assessment-weaknesses-strengths.md) — related
+- [Explainable AI contributes to improved learning outcomes by helping educators identify student strengths and weaknesses and tailor interventions](explainable-ai-supports-tailored-learning-interventions.md) — related

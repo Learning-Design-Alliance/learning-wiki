@@ -42,6 +42,7 @@ To expand from 14 to 35 planned learning objectives without pausing testing, the
 - [Use CDP-simulated examinees for early item calibration, data augmentation, diagnostic item design, and fairness review before human field testing](cdp-simulation-applications-strategy.md)
 - [Pilot AI-generated items as unscored exam items, review their psychometrics, and bank those meeting quality standards](pilot-and-bank-ai-generated-items.md)
 - [Develop next-generation visualization literacy assessments using adaptive testing, diagnostic item selection, and machine-generated items](adaptive-assessment-development-strategy.md)
+- [Expand the FCI item bank with highly discriminative items exhibiting sufficient difficulty variability](expand-fci-item-bank-high-discrimination.md)
 
 ## Examples
 -

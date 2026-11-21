@@ -50,3 +50,4 @@ Blinded rubric-based marking of AI-generated quiz submissions versus deidentifie
 - [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
 - [ChatGPT performs poorly on health database SQL programming tasks, with the best AI version scoring 56% against a top student score of 100%](chatgpt-sql-programming-weak.md) — related
 - [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related
+- [GPT-4 performs exceptionally well on coding tasks and simple single-step problems, but poorly on multi-step problems, longer prose, and interdisciplinary problems.](gpt4-strong-coding-weak-multistep-prose.md) — related

@@ -69,3 +69,4 @@ The review reports, citing Mayer and Johnson (2008), that "this very subtle form
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — reports the opposite
+- [Digital reading introduces disorientation and cognitive overload that can hinder comprehension relative to paper reading](digital-reading-disorientation-cognitive-overload.md) — related

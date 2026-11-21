@@ -48,3 +48,5 @@ Usability was assessed with the validated User Experience Questionnaire-Short (8
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
+- [The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark](slideshow-higher-sus-than-vr.md) — related
+- [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related

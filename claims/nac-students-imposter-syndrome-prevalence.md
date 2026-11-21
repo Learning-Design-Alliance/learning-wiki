@@ -50,3 +50,4 @@ A self-reported prevalence figure from the NAC Alumni Survey, cited by the autho
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Every surveyed NAC student reported that peer support made them feel more comfortable in STEM despite rarely encountering career scientists of similar race or ethnicity](nac-peer-support-comfort-in-stem.md) — related
 - [Relationships with peers and mentors in academia reduce the prevalence of imposter phenomenon, including among students from HMGs](academic-relationships-reduce-imposter-phenomenon.md) — related
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related

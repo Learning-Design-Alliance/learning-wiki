@@ -71,6 +71,7 @@ Field trips work as learning events when they are integrated into instruction ra
 - [Run the dam visit as a multidisciplinary activity in which Physics, History and Geography teachers contextualize the same site around operation, economy and impacts](multidisciplinary-dam-visit-activity.md)
 - [Take students with telescopes to accessible non-formal sites where they observe, plan and transmit what they learned](telescope-outings-students-as-transmitters.md)
 - [Run a school-group contest with a real telescope as the award](school-contest-telescope-award.md)
+- [Improve future ASP editions by expanding hands-on activities, pre-distributing course summaries, and adding practical sessions, group projects, and field trips](asp2024-future-improvement-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — pre-visit preparation determines what learners can extract from the experience

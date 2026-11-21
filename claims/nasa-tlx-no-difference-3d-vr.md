@@ -57,3 +57,4 @@ Secondary outcome of the feasibility RCT, NASA TLX completed after the video and
 - [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related
 - [The video condition showed descriptively higher task-load scores than the game condition, with no statistically significant difference](vbl-higher-task-load-not-significant.md) — related
 - [Cognitive load did not differ significantly between chatbot conditions, with trends toward lower performance and effort scores in the ChatGPT condition](cognitive-load-no-difference-chatbot-conditions.md) — related
+- [Perceived cognitive load did not differ between VR and slideshow learning conditions](no-cognitive-load-difference-vr-slideshow.md) — related

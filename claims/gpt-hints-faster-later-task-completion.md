@@ -89,3 +89,4 @@ Rank-based regression on the 38 tasks with GPT feedback enabled, analyzing 1,784
 - [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](no-significant-feedback-expertise-interaction.md) — related
 - [GPT hint availability did not significantly change the frequency of students' self-reported affective states during programming practice](gpt-hints-no-affect-impact.md) — related
 - [Students with GPT hints enabled clicked to view regular platform feedback on failed tests significantly less often than controls on those tasks](gpt-hints-reduce-regular-feedback-use.md) — related
+- [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related

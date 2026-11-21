@@ -45,7 +45,9 @@ The article proposes sustaining the taxonomy through a controlled revision proce
 - [CSCL workshop participants concluded that building a single shared CSCL paradigm was neither feasible nor desirable, favoring maintained paradigm diversity](../claims/cscl-paradigm-building-deemed-infeasible-2025-workshop.md) [+W]
 
 ## Related Strategies
+
 - Cscl Taxonomy Draft Tagging System
+- [Use repository management and continuous integration to keep community tutorials current as software evolves](continuous-integration-tutorial-maintenance.md)
 
 ## Examples
 -

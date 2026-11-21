@@ -50,6 +50,8 @@ The article recommends actively connecting students with the quantum research co
 - [Guest speaker career narratives to broaden students' sense of physics career paths](guest-speaker-career-path-exposure-strategy.md)
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 - [Graduate programs should provide formal training modes for skills where self-teaching is inadequate, including a standard undergraduate statistics course and industry partnerships](formal-skills-training-recommendations-snowmass.md)
+- [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 
 ## Examples
 -

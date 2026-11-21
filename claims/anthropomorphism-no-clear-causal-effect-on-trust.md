@@ -81,3 +81,4 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
 - [Prior anthropomorphic-interface studies show inconsistent findings, with some favouring anthropomorphic feedback and others not, motivating the affordance-based explanation](inconsistent-anthropomorphic-interface-findings-literature.md) — related
 - [Anthropomorphizing chatbots has both positive effects on engagement and motivation and negative effects through unrealistic expectations and frustration](anthropomorphism-dual-engagement-frustration-effects.md) — related
+- [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — related

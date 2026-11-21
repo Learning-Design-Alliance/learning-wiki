@@ -58,3 +58,4 @@ Review synthesis of frequency-domain HRV findings; the LF/HF ratio was the most 
 - [Sympathetic stress marker (LF/HF) is significantly higher in peer simulation than individual simulation during the first patient assessment](peer-simulation-lfhf-increased-patient-assessment.md) — a narrower finding that bears on this claim
 - [Frequent simulation repetition lowers 24-hour sympathetic activity on simulation days: group × time interaction in LF/HF ratio favoring the 9-session group](repeated-simulation-lowers-24h-sympathetic-activity.md) — a narrower finding that bears on this claim
 - [Teaching induces only moderate physiological stress in tutors, with higher HPA activation in sonography tutors](tutor-physiological-stress-moderate-sonography-higher.md) — related
+- [Frequency-domain HRV features differ by course: Assembly shows high VLF and HF activation while PE has the lowest HF value](frequency-domain-hrv-course-differences.md) — related

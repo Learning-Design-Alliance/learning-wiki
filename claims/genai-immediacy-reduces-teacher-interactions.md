@@ -68,3 +68,4 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
 - [Professional identity, working culture, and a habit of problem-solving on patients’ behalf made implementing self-management approaches difficult for some clinicians](professional-identity-barrier-self-management-facilitation.md) — related
 - [The authors observed a qualitative shift toward self-driven, on-the-spot data analysis during experimentation after introducing computation](on-the-spot-data-analysis-engagement.md) — related
+- [ChatGPT-4o and ChatGPT o1 complemented each other in TA-led sessions, with 4o supporting routine tasks and o1 excelling at complex reasoning](chatgpt-4o-o1-complementary-roles.md) — related

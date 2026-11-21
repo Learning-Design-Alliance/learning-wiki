@@ -82,3 +82,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
+- [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related

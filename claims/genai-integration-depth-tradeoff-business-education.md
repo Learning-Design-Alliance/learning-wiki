@@ -58,3 +58,4 @@ Qualitative case study of 17 GenAI adoption cases at one UK Russell Group univer
 - [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — a narrower finding that bears on this claim
 - [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
 - [Student-centered approaches yield enhanced teaching readiness, academic performance, engagement, and self-assessment abilities](student-centered-approach-multiple-advantages.md) — related
+- [GPT-2-based generation of narrative fragments integrated into learning paths showed excellent results in empirical research on learner engagement](gpt2-narrative-fragments-learning-path.md) — related

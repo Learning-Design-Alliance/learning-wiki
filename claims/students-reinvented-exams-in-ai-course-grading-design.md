@@ -53,3 +53,4 @@ In-class group exercise (the AI Grading Paradox, week 4; 36 present, seven submi
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [The course grades a 3-credit teaching course through three weighted components: homework and in-class performance, oral talk, and final exam.](quantum-course-three-part-grading-30-35-35.md) — related
 - [Mandatory in-class group work improves students' respect, honesty and fairness toward assignment guidelines and class ethics compared with individual homework](group-work-improves-respect-for-assignment-guidelines.md) — related
+- [Ghana's teacher education courses weight continuous assessment at 60 percent (subject portfolio 30%, subject project 30%) against a 40 percent end-of-semester exam](ghana-course-assessment-weights-portfolio-project-exam.md) — related

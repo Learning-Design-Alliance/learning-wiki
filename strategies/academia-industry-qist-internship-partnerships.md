@@ -45,6 +45,8 @@ Beyond in-house research experiences and capstone courses, the article recommend
 - [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
 - [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
 - [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
+- [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 
 ## Examples
 -

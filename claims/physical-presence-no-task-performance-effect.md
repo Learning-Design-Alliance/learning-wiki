@@ -53,3 +53,4 @@ Path-model analysis of data from 56 students randomly assigned to condition A (v
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related
 - [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — a broader claim this one bears on
 - [Agent-based tutoring systems such as Andes increase student learning in physics, though they cost instructors and students time to learn](andes-tutor-increases-physics-learning.md) — related
+- [Moderate adaptivity, but not high adaptivity, significantly increases visual attention to the AI tutor avatar relative to a non-adaptive baseline](moderate-adaptivity-increases-avatar-dwell-time.md) — related

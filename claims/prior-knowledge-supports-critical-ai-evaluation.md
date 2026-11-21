@@ -59,3 +59,5 @@ The review reports this quantitative descriptive study of 102 university physics
 - [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md) — related
 - [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — related
+- [Students' ability to gauge the trustworthiness of ChatGPT's answers during physics lab work is closely linked to their prior knowledge of the underlying physics](prior-knowledge-gauging-chatgpt-answers-trustworthiness.md) — possibly the same claim (merge candidate)
+- [Students with positive prior ChatGPT experience showed confirmation bias, maintaining or improving quality ratings despite recognizing deficiencies](confirmation-bias-in-chatgpt-evaluation.md) — related

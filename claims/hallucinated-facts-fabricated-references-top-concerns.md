@@ -86,3 +86,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [The sampled practice material contains potentially inaccurate or misleading radiation therapy information, for which the authors propose specific corrections](inaccurate-rt-content-nbme-practice-questions.md) — related
 - [Most residents rarely evaluate the quality of evidence or review references in online educational materials](residents-rarely-review-references.md) — related
 - [Pre-service teachers expressed concerns about ChatGPT's accuracy (11/29) and students' potential over-dependence (13/29), and proposed remedies of diversified information sources and structured classroom interactions](chatgpt-accuracy-overdependence-concerns-remedies.md) — related
+- [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related

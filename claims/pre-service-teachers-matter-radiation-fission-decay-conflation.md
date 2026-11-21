@@ -52,3 +52,4 @@ Qualitative content analysis of problem-centered interviews with 13 pre-service 
 - [Students confuse ionizing and non-ionizing radiation about genetic mutation and radioactive emissions](students-confuse-ionizing-nonionizing-radiation.md) — related
 - [Greek non-physics-major undergraduate students hold inadequate and confused knowledge of general-interest nuclear issues, with incorrect answers exceeding correct ones in more than half of the questions](tei-students-faulty-nuclear-views.md) — a broader claim this one bears on
 - [Greek technology-oriented undergraduates show low correct-response rates on most radiation and nuclear knowledge questions](greek-students-low-radiation-knowledge.md) — a broader claim this one bears on
+- [74% of pre-service natural science teachers relate physics concepts to renewable-energy technologies, and most exemplify the relationship](74-percent-relate-physics-renewable-energy.md) — related

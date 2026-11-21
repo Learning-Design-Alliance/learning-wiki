@@ -84,3 +84,6 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](llm-ebhs-inter-run-reliability-high-kappa-0821.md) — related
 - [Assessment scoring standards remained stable across the four-year study period, with no significant inter-year score differences in either group](inter-year-score-stability-ebers-ish-assessment.md) — related
 - [AI-assisted grading achieves high precision for identifying passing exams but low recall, meaning failing grades still require human grading](high-precision-low-recall-ai-pass-fail.md) — related
+- [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related
+- [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
+- [AI-assisted grading of a high-stakes physics exam achieves R² ≈ 0.91 agreement with human grades when handling half of the grading load and R² ≈ 0.96 at one-fifth of the load](ai-grading-accuracy-workload-tradeoff.md) — related

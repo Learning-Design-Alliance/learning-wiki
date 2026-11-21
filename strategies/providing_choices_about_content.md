@@ -59,8 +59,10 @@ Content choice supports motivation primarily through autonomy: perceived self-de
 6. Assess against the shared criteria, not the topic, and include a reflection on the quality of the choice itself ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - Activating prior knowledge — helps learners judge which content options they are equipped to pursue
 - Learning contracts — formalize the negotiated content and boundaries between learner and instructor
+- [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
 
 ## Examples
 - **Research paper topic selection** — students choose a topic within a unit's theme, frame a research question, and negotiate scope with the instructor before beginning

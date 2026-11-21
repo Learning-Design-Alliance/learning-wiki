@@ -59,9 +59,11 @@ Auditory noise — especially unpredictable, intermittent speech-like noise — 
 6. Fade or vary supports over time, building learners' own repertoire of regulation strategies rather than dependence on the environment.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the architectural and room-level counterpart: reverberation and speaker audibility set the baseline this strategy works within
 - [Sensory Breaks](sensory-breaks.md) — a more intensive withdrawal option when environmental modification is insufficient
 - [Predictable Routines](predictable-routines.md) — predictability reduces the threat value of unavoidable noise
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - **Head Start / early childhood classrooms** — visual "noise-o-meter" charts and a quiet-voice signal during transitions, with a fan or rain recording during rest and independent play.

@@ -47,3 +47,4 @@ Descriptive account of USPAS operations from the white paper's USPAS section. Th
 ## Related Claims
 - [USPAS for-credit enrollment remains high, averaging 63% of students, with more than 150 students per session in recent years](uspas-63-percent-credit-enrollment.md) — related
 - [The lower third of USPAS classes showed notably poorer online performance relative to in-person classes, and approximately three quarters of teaching teams chose not to teach online](uspas-online-format-lower-third-underperformance.md) — related
+- [ALICE Instagram LIVE sessions typically gather about 500 to 600 people per hour of live session](alice-instagram-live-500-600-people-per-hour.md) — related

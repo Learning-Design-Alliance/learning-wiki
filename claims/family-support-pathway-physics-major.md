@@ -52,3 +52,4 @@ Qualitative interview findings on the analytic theme Pathway to Majoring in Phys
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Direct messages from followers indicate Neutralina inspired young women in Latin America to view science as an attainable career path](neutralina-inspired-young-women-peru.md) — related

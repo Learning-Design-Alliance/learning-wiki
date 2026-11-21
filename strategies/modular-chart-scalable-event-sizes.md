@@ -51,6 +51,7 @@ The instruction design makes the chart modular: "we can decide to build either t
 - [Build the chart from scratch at each event so participants actively construct it and gain a hands-on sense of nuclear scales](build-chart-from-scratch-at-each-event.md)
 - [Open school workshops with a short 10-15 minute lecture on decay and energy, complemented by topical banners matched to the chart region built](short-lecture-banners-workshop-structure.md)
 - [Extend the workshop with teacher-proposed activities on the completed chart, such as isotope scavenger hunts, decay-chain identification and binding-energy calculations](teacher-proposed-chart-extension-activities.md)
+- [Offer modular and streamlined versions of the lab to fit different course formats and time budgets](modular-streamlined-ft-lab-versions.md)
 
 ## Examples
 -

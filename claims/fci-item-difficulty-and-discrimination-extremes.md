@@ -56,3 +56,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related
 - [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related
 - [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related
+- [The 30-item FCI bank is insufficient for Chain-CAT: high-discrimination items dominate administration while many low-discrimination items are never used](fci-item-bank-insufficient-chain-cat.md) — related

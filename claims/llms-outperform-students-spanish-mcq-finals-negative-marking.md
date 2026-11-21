@@ -55,3 +55,4 @@ Descriptive aggregation across four course finals at Miguel Hernández Universit
 - [Students in both Intermediate and Advanced Medical Spanish courses achieved high aggregate performance scores at or above 80%, with mean scores differing between the two course levels (p = .0001)](high-aggregate-scores-medical-spanish-assessment.md) — related
 - [Weighted across components, ChatGPT would have earned a 1.5 course grade — passing, but below the graduation threshold](chatgpt-course-grade-1-5-passing-below-graduation.md) — related
 - [GPT-4 outperforms GPT-3.5 on real university physics exams, averaging 49.4% versus 38.6%](gpt4-outperforms-gpt35-physics-exams.md) — related
+- [GPT-4 achieves a weighted average of 65% (upper second-class equivalent) across a full UK physics BSc degree but cannot pass due to compulsory laboratory and viva elements.](gpt4-65-percent-physics-degree-fails-lab-viva.md) — related

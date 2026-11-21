@@ -46,6 +46,7 @@ The article's forward-looking recommendations for institutions adopting AI tools
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
+- [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
 
 ## Examples
 -

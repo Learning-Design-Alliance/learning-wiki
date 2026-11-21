@@ -50,6 +50,7 @@ The article's forward-looking design recommendations are threefold: use factoria
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
+- [Update student profiles dynamically as learners interact with an LLM-powered environment](dynamic-student-profile-updates-llm-tutoring.md)
 
 ## Examples
 -

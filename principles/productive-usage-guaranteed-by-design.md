@@ -19,7 +19,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 11 mixed) · 26 studies (8 causal, 7 theoretical, 3 review, 3 qualitative, 3 design, 2 associational), `q1`–`q3` · 6 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (18 for, 11 mixed) · 27 studies (9 causal, 7 theoretical, 3 review, 3 qualitative, 3 design, 2 associational), `q1`–`q3` · 6 of 27 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 

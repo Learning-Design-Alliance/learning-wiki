@@ -58,3 +58,4 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [STEM and non-STEM students did not differ in sentiment toward using ChatGPT in collaborative interdisciplinary learning](chatgpt-sentiment-no-discipline-difference.md) — related
 - [Most surveyed students reported a positive or neutral impact of ChatGPT use on their motivation and active participation in the physics course](chatgpt-positive-motivation-participation-survey.md) — related
 - [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related
+- [Three perspectives on further ChatGPT use emerged: extreme negative, extreme positive, and balanced](three-perspectives-future-chatgpt-use.md) — related

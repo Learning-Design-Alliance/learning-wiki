@@ -48,3 +48,4 @@ Theoretical argument illustrated by the pressure integral: the author lists embe
 ## Related Claims
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — possibly the same claim (merge candidate)
 - [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
+- [Physical markings on optical elements constrain interpretation of AR angle values, dispelling confusion about what they refer to](physical-representation-constrains-ar-angle-interpretation.md) — related

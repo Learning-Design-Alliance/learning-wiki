@@ -74,3 +74,4 @@ Descriptive results for the creativity dimension: idea generation received " M =
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](pf-course-creativity-and-team-discussion-ratings.md) — related
+- [Students receiving emotionally enriched AI feedback rate the feedback as more useful than students receiving neutral feedback, in both moderation and creation tasks](enriched-ai-feedback-rated-more-useful.md) — related

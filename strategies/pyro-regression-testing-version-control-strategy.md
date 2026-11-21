@@ -43,7 +43,8 @@ pyro teaches basic software-engineering safety practices in three ways: open-sou
 - [The pyro compressible-hydrodynamics verification tests reproduce analytic reference solutions (Sod shock tube, Sedov-Taylor blast wave, single-mode Rayleigh-Taylor)](../claims/pyro-compressible-tests-match-analytic-solutions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use repository management and continuous integration to keep community tutorials current as software evolves](continuous-integration-tutorial-maintenance.md)
 
 ## Examples
 -

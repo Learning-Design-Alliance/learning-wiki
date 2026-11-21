@@ -50,6 +50,7 @@ Based on resident feedback, the authors recommend that ultrasound curricula expa
 - [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
 - [Schedule simulation-based VL intubation training regularly in emergency medicine and intensive care residency curricula](schedule-regular-vl-simulation-training-ed-residents.md)
 - [Improve nurses' narrative medicine competence through systematic training in listening, reading, questioning, writing and reflection, plus workload and scheduling changes](systematic-narrative-nursing-training-strategy.md)
+- [Improve future ASP editions by expanding hands-on activities, pre-distributing course summaries, and adding practical sessions, group projects, and field trips](asp2024-future-improvement-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article names three concrete classroom strategies for promoting higher order
 - [Encourage Active Learning](encourage_active_learning.md)
 - [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 - [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](hots-lesson-design-five-components-strategy.md)
+- [Enhancement approaches per WoT4EDP element for instructors](wot4edp-enhancement-approaches-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Group comparison of frequency-domain HRV across the same 105 simulated angiograp
 - [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — a broader claim this one bears on
 - [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — related
+- [Frequency-domain HRV features differ by course: Assembly shows high VLF and HF activation while PE has the lowest HF value](frequency-domain-hrv-course-differences.md) — related

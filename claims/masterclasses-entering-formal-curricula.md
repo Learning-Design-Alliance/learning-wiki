@@ -48,3 +48,4 @@ Descriptive report from the curricula section: the article states that in North 
 ## Related Claims
 - [Pre-university students and the public cannot understand a particle-physics discovery beyond a superficial level unless they are prepared ahead of time with background in the Standard Model and in how to understand evidence](advance-preparation-needed-for-discovery-understanding.md) — related
 - [Popular descriptions of particle physics are largely flawed and often simply wrong, and the inaccuracies extend through high school into university-level physics books](popular-particle-physics-accounts-largely-flawed.md) — related
+- [In North Rhine-Westphalia upper secondary schools, physics attracts far fewer students than mathematics or biology and has a 65% male majority](nrw-secondary-physics-enrollment-gender-imbalance.md) — related

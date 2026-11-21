@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: martin-becke-and-julia-padberg-2024
     resource: "https://doi.org/10.48550/arXiv.2408.09184"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Instead of point-based assessment through exams and final theses, a continuous portfolio of practice-related achievements offers a comprehensive overview of student performance. [→ Martin Becke and Julia Padberg 2024](#martin-becke-and-julia-padberg-2024)

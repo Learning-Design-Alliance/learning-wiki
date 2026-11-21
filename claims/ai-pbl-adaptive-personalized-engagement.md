@@ -62,3 +62,4 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
 - [A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions](four-themes-engagement-adaptive-platforms.md) — related
+- [Case studies linking physics concepts to real-world pharmaceutical problems improve student engagement and comprehension](physics-case-studies-improve-engagement-comprehension.md) — related

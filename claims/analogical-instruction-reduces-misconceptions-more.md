@@ -55,3 +55,4 @@ Percentages of misconceptions per question (Table 2) before and after instructio
 - [Both treatment groups scored below 50% on two posttest items addressing DNA amount through the stages of meiosis, a known common misconception](dna-amount-misconception-persists-both-treatments.md) — related
 - [Analogies in science teaching are implemented through verbal instructions, videos, and images or illustrations, often combined within one analogy](analogy-didactic-resources-verbal-video-images.md) — related
 - [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
+- [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related

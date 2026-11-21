@@ -243,6 +243,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](../strategies/drawings-replace-pictures-complementary-mobile-media.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](../strategies/ar-design-multimedia-principles-strategy.md)
 - [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](../strategies/web-assisted-cct-misconception-strategy.md)
+- [Integrate aesthetic pictures into physics tasks at the start of a lesson and for application and transfer](../strategies/aesthetic-pictures-in-tasks-teaching-strategy.md)
 
 ### Illustrative
 

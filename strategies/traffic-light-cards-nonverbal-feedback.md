@@ -40,6 +40,7 @@ Each participant keeps a green, yellow, and red card in front of them and raises
 
 - [Response Cards](response-cards.md)
 - [Sticky notes and minute cards for real-time feedback](sticky-notes-minute-cards-feedback.md)
+- [Use a green-yellow-red cone signal system to calibrate instructor interventions](traffic-cone-instructor-intervention-system.md)
 
 ## Examples
 -

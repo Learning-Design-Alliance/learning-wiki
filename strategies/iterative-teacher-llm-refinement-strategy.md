@@ -55,6 +55,7 @@ The article recommends that teachers treat LLM output as a starting point for co
 - [Use prompt-based LLM simulation and reflection via a web interface as a pre-class rehearsal for teaching plan refinement](prompt-based-web-interface-plan-enhancement.md)
 - [Hybrid pedagogical framework: AI-generated cases refined through expert review and supplemented with curated imaging data](hybrid-ai-expert-case-generation-framework.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
+- [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 
 ## Examples
 -

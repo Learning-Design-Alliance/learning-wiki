@@ -41,6 +41,7 @@ The authors recommend that introductory GR coverage go beyond qualitative discus
 ## Related Strategies
 
 - [Introduce a third-party observer when teaching the Einstein equivalence principle to prevent a global acceleration-gravity equivalence conclusion](third-party-observer-eep-strategy.md)
+- [Use curvature and radius of curvature as bridging concepts to strengthen interdepartmental math-physics coordination](curvature-bridge-interdepartmental-coordination.md)
 
 ## Examples
 -

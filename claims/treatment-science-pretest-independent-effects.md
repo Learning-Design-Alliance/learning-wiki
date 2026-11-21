@@ -53,3 +53,4 @@ General linear model 2x2x10 ANOVA on achievement in the quasi-experiment. All th
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — related
 - [For recall performance, the study found no significant three-way interaction between modeling condition, prior knowledge activation and domain knowledge, so the model-observer similarity hypotheses were not supported.](no-three-way-interaction-recall-emme.md) — related
 - [Learning style and form of teaching show no statistically significant interaction effect on university students' academic achievement](no-learning-style-form-interaction-on-achievement.md) — related
+- [Achievement groups differ significantly in Computational Concepts and Perspectives but not in Computational Practices](anova-pcts-achievement-groups.md) — related

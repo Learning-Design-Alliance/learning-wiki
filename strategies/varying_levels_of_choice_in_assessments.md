@@ -71,6 +71,7 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 - [Offer students a range of professor-suggested research topics to choose from when selecting their own proves frustrating](professor-suggested-topic-options-strategy.md)
 - [Teach students systematic ways to find their own research paper topics rather than assigning topics](topic-finding-condition-removal-strategy.md)
 - [Bounded 'choose your own adventure' topic selection using ten generic topic templates](bounded-choice-topic-templates-capstone.md)
+- [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
 
 ## Examples
 - A history course assigns one essay on "causes of social change" but lets students choose among four case periods; all essays are scored on the same argumentation rubric.

@@ -50,3 +50,4 @@ Narrative review statement in the article's barrier overview, reporting that man
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related
 - [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — a narrower finding that bears on this claim

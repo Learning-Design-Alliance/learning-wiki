@@ -28,7 +28,8 @@ An openly released benchmark dataset and code repository containing expert-autho
 - [GPT-4 outperforms GPT-3.5 in generating relevant and diverse Socratic debugging utterances, but remains below human expert levels](../claims/gpt4-outperforms-gpt35-socratic-debugging.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [DCC Help](dcc-help.md)
 
 ## Key Sources
 - Erfan Al-Hossami, Razvan Bunescu, Justin Smith and Ryan Teehan. (2023). Can Language Models Employ the Socratic Method? Experiments with Code Debugging. arXiv. https://arxiv.org/abs/2310.03210

@@ -52,3 +52,4 @@ In the assessment-transformation activity, "Most participants felt that traditio
 - [Both writing-based and AI-based alternative-ending activities motivated students, though with distinct concerns in each group](alternative-ending-tasks-motivated-both-groups.md) — related
 - [Students proposed new assessment traits for an AI-rich future, with efficacy in using AI the most frequently mentioned](new-assessment-traits-ai-adoption-pbl.md) — related
 - [Students proposed analyzing task allocation between humans and AI in PBL reports because tasks differ in the skills they nurture](task-allocation-analysis-human-ai-pbl.md) — related
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

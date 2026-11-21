@@ -53,3 +53,4 @@ This is the authors' own stated limitation, not a tested result: they report tha
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — related
+- [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — reports the opposite

@@ -50,3 +50,4 @@ Deployment of the homework-feedback component on scanned handwritten solutions c
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
 - [MathPix with GPT-4V support produces more reliable and reproducible OCR than using GPT-4V alone for handwritten exam solutions](mathpix-gpt4v-ocr-more-reliable-than-gpt4v-alone.md) — related
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

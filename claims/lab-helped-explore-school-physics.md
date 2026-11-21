@@ -68,3 +68,4 @@ Engagement item of the same satisfaction questionnaire; the lab's "capacity of t
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [Students rated interactions with researchers as useful and helpful for understanding the remote experiments](researcher-interaction-useful-remote-lab.md) — related
+- [Students expected ChatGPT could serve as a substitute for the teacher in answering conceptual questions during labs](students-see-chatgpt-as-teacher-substitute-conceptual-questions.md) — related

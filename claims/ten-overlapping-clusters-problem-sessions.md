@@ -47,3 +47,4 @@ Similarity network built from 231 problem session networks (of 2184 total) using
 ## Related Claims
 - [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related
 - [Cluster mean Complexity scores divide the ten clusters into three over-arching groups (A, B, C) differing in complexity](three-complexity-groups-session-clusters.md) — related
+- [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related

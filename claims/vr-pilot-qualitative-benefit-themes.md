@@ -96,3 +96,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Focus group participants valued decision making as integral to science and none took a positivist position](focus-groups-decision-making-integral.md) — related
 - [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related
 - [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related
+- [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — related

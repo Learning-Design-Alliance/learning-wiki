@@ -62,3 +62,5 @@ Theoretical analysis in Section 4.3.1 of this conceptual paper. The article reas
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — a narrower finding that bears on this claim
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
+- [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
+- [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related

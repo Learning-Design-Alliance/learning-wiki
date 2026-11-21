@@ -51,3 +51,4 @@ Self-report items from the 291-form audience evaluation: one question on perceiv
 - [Audience members rate the sonification-based planetarium show very highly overall, with 91% giving a score of 4 or 5 out of 5](audio-universe-high-overall-audience-ratings.md) — related
 - [Both BVI and non-BVI audiences found the show's sound representations useful and enjoyable, with roughly 90% scoring 4 or 5](sounds-useful-enjoyable-bvi-non-bvi.md) — related
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
+- [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related

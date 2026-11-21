@@ -50,3 +50,4 @@ Analysis of grading categories extracted from 14 conventional percentage-based c
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related
 - [Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes](ai-se-courses-objectives-collaboration-building-evaluation.md) — related
 - [Cooperative Project-Based Learning Methodology Engages Students in AI Topics](cpbl-methodology-ai-engagement.md) — related
+- [Ghana's teacher education courses weight continuous assessment at 60 percent (subject portfolio 30%, subject project 30%) against a 40 percent end-of-semester exam](ghana-course-assessment-weights-portfolio-project-exam.md) — related

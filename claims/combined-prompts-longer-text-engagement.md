@@ -48,3 +48,4 @@ ANOVA check on prompt usage (F[2,89] = 238.2, p < .001) comparing recorded study
 - [Combined instructional and relevance prompts increase pre-service teachers' perceived relevance of knowledge integration over time, while relevance prompts alone and no prompts do not](combined-prompts-increase-perceived-relevance-of-integration.md) — related
 - [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related
 - [LLM chatbot condition shows significantly higher engagement: more prompts and longer playtime than predefined chatbot](llm-chatbot-higher-engagement-vr-heritage.md) — related
+- [Learners spent significantly more time on learning materials in EDBook than with equivalent webpage content plus ChatGPT](edbook-more-time-on-learning-materials.md) — a narrower finding that bears on this claim

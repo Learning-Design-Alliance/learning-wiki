@@ -74,3 +74,4 @@ MANOVA at the beginning of algebra-based Physics 1 on the same six motivational 
 - [Grit is the only motivational factor on which female students report averages equal to or higher than male students throughout introductory physics](grit-females-equal-or-higher-physics.md) — related
 - [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
+- [Female students rated aesthetic pictures higher than male students (d around 0.4), while motivation and interest in physics showed only weak correlations with aesthetic ratings](gender-motivation-interest-predictors-picture-ratings.md) — related

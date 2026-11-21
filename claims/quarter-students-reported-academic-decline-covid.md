@@ -53,3 +53,4 @@ Cross-sectional online survey administered during a SARS-CoV-2 screening campaig
 - [Decreased family financial resources are associated with greater odds of academic decline after adjustment](decreased-financial-resources-predict-academic-decline.md) — related
 - [Students reporting academic decline rated the effects of distance/mixed learning more negatively on exams, study hours, focus, and social relationships](distance-learning-perceived-worse-by-academic-decliners.md) — related
 - [COVID-19 substantially disrupted medical education, with most surveyed students reporting declined quality](covid19-disrupted-medical-education-quality.md) — related
+- [Bachelor enrollments in physics at German universities declined 15% in the three years following the onset of the COVID-19 pandemic](germany-physics-enrollment-decline-15-percent-covid.md) — related

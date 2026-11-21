@@ -21,6 +21,7 @@ A six-level ethical AI-use framework for educational assessments developed by Se
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Comprehensive AI Assessment Framework (CAIAF) for ethical AI integration in assessment**: CAIAF is a six-level framework for specifying permitted AI involvement in educational assessments, evolved from the AIAS. The article states it presents "the Comprehensive AI Assessment Framework (CAIAF), an evolved version of the AI Assessment Scale (AIAS) by Perkins, Furze, Roe, and MacVaugh, targeted toward the ethical integration of AI into educational assessments." It adds ethical guidelines, educational-level differentiation, advanced AI levels, and a color-gradient visual design, and is intended as a dynamic tool for different educational settings. (Selçuk Kılınç (2024))
+- **Embed five ethical principles (transparency, equity, pedagogical alignment, accountability, privacy) into AI assessment levels**: CAIAF attaches a set of ethical considerations to every level of AI integration, aligned with standards from organizations such as ISTE, AECT, IEEE, and the EU. The article lists principles including that "Students need to declare whether they have used any AI tools or not so that the level of the AI they worked with can be known," plus equity and inclusivity, pedagogical alignment, accountability for originality, and privacy and data protection. Each is stated per assignment at the relevant level. (Selçuk Kılınç (2024))
 
 ### Claims
 

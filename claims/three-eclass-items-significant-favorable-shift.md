@@ -52,3 +52,4 @@ Item-by-item Mann-Whitney U analysis of nine E-CLASS items related to transforma
 - [All three lab courses show negative or neutral pre-to-post E-CLASS shifts, with no positive shifts](negative-neutral-pre-post-eclass-shifts.md) — reports the opposite
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
+- [E-CLASS survey results show the transformed course had a positive impact on students' confidence in data analysis and equipment use but a negative impact on the perceived importance of communicating scientific results to peers](eclass-guided-lab-transformation-communication-gap.md) — related

@@ -59,3 +59,4 @@ The article's abstract reports the headline outcome of its comparative evaluatio
 - [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — related
 - [Bias in predicting learning productivity, measured as accuracy differences across gender and parental educational background, was highly dependent on the ML method used](bias-dependent-on-ml-method.md) — related
 - [A post-processing re-ranking approach balancing personalization and equality of recommended opportunities leads to higher equality with negligible loss in personalization, as reported by the authors](postprocessing-reranking-higher-equality-negligible-personalization-loss.md) — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related

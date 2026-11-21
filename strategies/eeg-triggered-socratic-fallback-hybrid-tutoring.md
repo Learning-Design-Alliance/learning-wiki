@@ -43,6 +43,7 @@ The authors propose a design in which "deployment of Socratic dialogue by defaul
 - [Use impasse depth and type as real-time learning-analytics signals to trigger graduated escalation of tutor support](impasse-depth-type-analytics-escalation-signals.md)
 - [Use EEG-based real-time monitoring to inform personalized educational interventions](eeg-based-real-time-personalized-interventions.md)
 - [Switch social planes adaptively based on student characteristics such as repeated errors](adaptive-switch-points-based-on-student-characteristics.md)
+- [Escalate explanation scope and simplicity on repeated clarification requests](escalate-explanation-level-repeated-requests.md)
 
 ## Examples
 -

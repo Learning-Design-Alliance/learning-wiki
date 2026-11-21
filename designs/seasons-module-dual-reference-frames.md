@@ -42,7 +42,8 @@ The ALIVE seasons instructional module follows the Willard & Roseman learning pr
 - [Planetarium Seasons Larger Gains](../claims/planetarium-seasons-larger-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Seasonal four-part scaffold: structuring a show as one step outward into the cosmos per Earth season](seasonal-four-part-cosmic-scaffold.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article describes a strategy in which new students, "during the initial 'ind
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](post-entry-mentorship-support-alternative-stem-programs.md)
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
 - [Begin career-awareness outreach in middle school to build the pipeline for high-demand fields](middle-school-career-awareness-outreach.md)
+- [Run a comprehensive K-12 public engagement and outreach strategy for fusion](k12-fusion-outreach-strategy.md)
 
 ## Examples
 -

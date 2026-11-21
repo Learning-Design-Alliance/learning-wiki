@@ -60,3 +60,4 @@ One-way ANCOVAs (baseline mindset covariate) comparing intervention (n = 72) and
 - [Field experiment: strategic mindset intervention benefits academically prepared students' strategy use but not lower-performing students](strategic-mindset-field-intervention-moderated-by-preparedness.md) — related
 - [The TextNow programme produced no statistically significant difference in enjoyment of reading or motivation to read compared with the comparison group](textnow-secondary-reading-attitudes-null.md) — related
 - [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — a narrower finding that bears on this claim
+- [Adult learners show no statistically significant difference in recall performance across the four learning conditions](ai-synthetic-video-no-recall-difference.md) — related

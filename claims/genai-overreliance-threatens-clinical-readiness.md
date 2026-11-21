@@ -89,3 +89,4 @@ Participant quote (P15) in the overreliance theme. Another participant warned of
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
 - [Human-machine collaboration raises the demand for emergency nurses' critical thinking in recognizing AI output information](critical-thinking-demand-for-ai-output-recognition.md) — related
 - [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

@@ -49,3 +49,4 @@ Pilot survey with open-ended questions conducted in March 2026 among first-year 
 - [NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)](nmt-uptake-institutional-vs-freelance-legal-translators.md) — related
 - [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — related
 - [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — related
+- [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related

@@ -45,6 +45,7 @@ For large-scale hands-on events, the team prefers a central platform with carefu
 ## Related Strategies
 
 - [Minimize platform-specific friction in workshop exercise materials](wac-content-design-guidelines-strategy.md)
+- [Teach PennyLane through a Docker-based environment and the Xanadu Codebook with in-class codercises](pennylane-xanadu-codebook-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article's recommendations section advises teams planning classroom video to 
 - [Supervise students' online assessment habits and equip schools with wireless broadband before scaling cloud learning](supervise-online-assessment-habits-and-wireless-budgets.md)
 - [Launch reform through small recorded trials and scale up only what works](small-recorded-reform-trials-strategy.md)
 - [Partner with instructors to run controlled classroom studies of the methods' impacts on literature facility, perceptions, and reading habits](controlled-classroom-study-astrobites-impacts.md)
+- [Survey the venue's equipment capabilities before developing content past the research phase](survey-venue-equipment-before-content-development.md)
 
 ## Examples
 -

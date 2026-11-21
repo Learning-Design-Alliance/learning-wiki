@@ -25,7 +25,8 @@ A web-based 15-week introductory astronomy curriculum developed by McLin et al. 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SwissMAP cosmology and GR course materials](swissmap-cosmology-and-gr-course-materials.md)
 
 ## Key Sources
 - McLin, K. M., Cominsky, L. R., Metevier, A. J., Coble, K., Bailey, J. M. (2013). Using the Big Ideas in Cosmology to Teach College Students. 4th Fermi Symposium, Monterey, CA. https://arxiv.org/abs/1303.1768. [doi:10.48550/arxiv.1303.1768](https://doi.org/10.48550/arxiv.1303.1768)

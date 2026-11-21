@@ -47,3 +47,4 @@ Linear regression of post-test score on pre-score, condition, gender/video game 
 ## Related Claims
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
 - [All three conditions showed statistically significant pre-to-post gains on the Moon phases test](moon-phases-significant-prepost-gains-all-conditions.md) — related
+- [Slideshow learning was slightly more effective than VR learning in enhancing physics knowledge in this study](slideshow-outperformed-vr-physics-knowledge.md) — related

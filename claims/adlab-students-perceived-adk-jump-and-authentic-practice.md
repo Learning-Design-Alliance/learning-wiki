@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-20
 sources:
   - id: irving-2013
     resource: "https://doi.org/10.48550/arxiv.1312.1953"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student interviewees described AdLab as having less hand-holding, more freedom, and work resembling a professional setting compared with previous laboratory courses. [→ Irving 2013](#irving-2013)
@@ -58,3 +59,5 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [Experiencing authentic research shifts the perceived threshold from doing research to doing independent research](authentic-research-shifts-threshold-to-independent-research.md) — related
 - [In AdLab observations, a centrally-positioned student's positive affect toward physics became spontaneous and unsolicited](spontaneous-positive-affect-central-membership.md) — related
 - [Undergraduate lab courses did not adequately prepare most physics graduate students to use lab notebooks for research documentation](undergrad-lab-courses-inadequate-notebook-training.md) — related
+- [CDPA scores show statistically significant increases as students progress from introductory mechanics labs to advanced experimental laboratory courses](cdpa-scores-increase-across-curriculum-levels.md) — related
+- [A 2022 PHYS 359 cohort showed a significant CDPA jump from 2.5±2.0 to 4.5±1.0, attributed to small class size, more lab time, a self-paced Python curve-fitting module, and 20% of the grade on uncertainty skills](phys359-2022-cdpa-jump-design-factors.md) — related

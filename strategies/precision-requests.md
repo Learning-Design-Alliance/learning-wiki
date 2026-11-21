@@ -59,9 +59,11 @@ Precision Requests work because they reduce the ambiguity and social friction of
 7. **Reset the relationship** — re-engage the student positively once the sequence concludes, so the strategy does not erode rapport.
 
 ## Related Strategies
+
 - [Praise-and-ignore strategies](praise-and-ignore.md) — the reinforcement complement: compliance is strengthened when acknowledged
 - [Proximity control](proximity-control.md) — a lower-intensity precursor that often prevents the need for a formal request
 - [Behavior-specific praise](behavior-specific-praise.md) — the follow-through that makes compliance more likely next time
+- [Escalate explanation scope and simplicity on repeated clarification requests](escalate-explanation-level-repeated-requests.md)
 
 ## Examples
 - **Elementary transition routine**: A teacher says "In one minute, everyone will line up at the door," waits, then delivers the precision request "Please line up now," and names students who comply — reducing transition time and off-task talk.

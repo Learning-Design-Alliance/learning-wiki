@@ -68,3 +68,4 @@ Zero- and few-shot prompting evaluation of GPT-4.1 and Gemini Flash 3.1 on the O
 - [Zero-shot MeNSP scored science written responses without training data at Cohen's Kappa 0.30–0.57, improvable to 0.38 at the lower end with few-shot samples](mensp-zero-shot-scoring-kappa-range.md) — related
 - [Supervised ML is the most frequently used approach for automatic scoring of science assessments due to its high accuracy](supervised-ml-most-used-scoring-approach.md) — related
 - [Few-shot prompting significantly improves LLM performance in both readability manipulation and information preservation for leveled-text generation](few-shot-prompting-improves-leveled-text-generation.md) — related
+- [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related

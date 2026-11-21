@@ -31,6 +31,7 @@ An interactive quantum-mechanics visualization developed by the QuVis Quantum Me
 ## Related Products and Programmes
 
 - [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
+- [Python module suite for simulating spin dynamics and entanglement transfer](python-module-suite-for-simulating-spin-dynamics-and-entanglement-transfer.md)
 
 ## Key Sources
 - Antje Kohnle and Erica Deffebach. (2015). Investigating student understanding of quantum entanglement. https://www.st-andrews.ac.uk/physics/quvis/simulations_html5/sims/entanglement/entanglement.html

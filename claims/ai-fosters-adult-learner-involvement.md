@@ -72,3 +72,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Facilitators consider positive feedback crucial for learning and deliberately foster positive aspects of simulation performance](facilitators-foster-positive-feedback.md) — related
 - [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related
 - [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related
+- [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related

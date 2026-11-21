@@ -51,3 +51,4 @@ Theoretical analysis of textbook and lecture language in the article's framework
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — related
 - [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](jitt-better-newtons-third-law-understanding.md) — related
 - [Dominant misconceptions persisted from pre-test to post-test, concentrated in questions on Newton's second and third laws, zero vector-sum of forces, and circular motion](persistent-dms-newton-laws-vector-circular.md) — related
+- [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — related

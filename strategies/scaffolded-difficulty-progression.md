@@ -68,6 +68,7 @@ Tasks pitched too high overload working memory and produce failure-driven diseng
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
 - [Use AR as targeted early-training scaffolding with progressive withdrawal as competency develops](progressive-withdrawal-ar-guidance.md)
 - [Set team task difficulty so students must solve tasks through dynamic interaction rather than simple distribution of shares](challenging-team-tasks-dynamic-interaction-strategy.md)
+- [Stepped evaluation exercise for assessing pseudoscientific claims at increasing levels of difficulty](stepped-pseudoscience-evaluation-exercise-strategy.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — Ten Steps to Complex Learning sequences whole learning tasks from low to high complexity while support fades from worked examples to conventional tasks.

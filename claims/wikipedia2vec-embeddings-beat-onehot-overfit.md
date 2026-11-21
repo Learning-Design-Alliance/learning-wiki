@@ -49,3 +49,4 @@ Ablation study (§5.2, Table 2) comparing Wikipedia2Vec versus one-hot keyword f
 - [Policy performance varies strongly across corpora and shows extremely high variance, with only Corpus 2 reliably reaching the maximum achievable return](high-variance-variable-corpus-performance.md) — related
 - [A GNN-based RL recommender learns to recover corpus structure and substantially outperforms a uniform random policy in the small-data regime on simulated learners](gnn-rl-policy-beats-random-small-data.md) — related
 - [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](model1-outperforms-complex-model2.md) — related
+- [Pre-training a recommender system on sequential corpora improves sample efficiency for adaptive learning path personalization in the small data regime](pretraining-improves-sample-efficiency-adaptive-sequencing.md) — related

@@ -69,3 +69,4 @@ Comparison of error-bar extents in the worked example, referring to Table I stat
 - [Error bars can be added to model analysis plots by translating eigenvalue uncertainty into coordinate uncertainty, and the article argues they are imperative for interpreting a class's model state](error-bars-on-model-analysis-plots.md) — related
 - [Statistical independence of repeated measurements does not hold for course grades, invalidating a posteriori error estimates](statistical-independence-violated-for-grades.md) — related
 - [In the worked example, a class's model plot point moves from the Model 2 region at pretest to the Model 1 region at post-test](model-plot-example-class-model2-to-model1.md) — related
+- [Absolute prevalence estimates differ across models and generally do not agree within uncertainties, despite similar trends](model-prevalence-estimates-differ-within-uncertainties.md) — related

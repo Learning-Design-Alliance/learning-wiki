@@ -74,3 +74,5 @@ Correlation analysis (Table 3) showed "positive correlations between students' P
 - [Perceived stress was negatively associated with final course grade (P < 0.05) but unrelated to either assignment grade measure](perceived-stress-negative-final-grade.md) — related
 - [Teachers experienced both stress (attributed to the pandemic) and pride (attributed to active involvement) during the co-design process](pal-codesign-teacher-emotions-pride-stress.md) — related
 - [More than half of midwifery students in clinical learning report severe perceived stress](midwifery-students-severe-clinical-stress.md) — related
+- [Emotionally enriched AI feedback does not significantly change positive emotions (enjoyment, hope, pride) or most other negative emotions, though boredom was descriptively lower](enriched-ai-feedback-positive-emotions-unchanged.md) — related
+- [Emotionally enriched AI feedback reduces students' anger toward receiving feedback, particularly annoyance at having to address AI suggestions](enriched-ai-feedback-reduces-anger.md) — related

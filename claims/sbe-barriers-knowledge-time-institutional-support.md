@@ -73,3 +73,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
 - [Deans cite limited resources, especially faculty expertise, as the major barrier to teaching more evolution, with foundational and patient-care benefits cited as benefits](barriers-benefits-evolution-education-qualitative.md) — related
 - [Open-project students more often cited lack of time, while requests for better equipment were similar across both lab formats](open-project-students-cite-lack-of-time.md) — related
+- [Time was the most frequently cited structural barrier to open-ended labs, and teachers' reports showed multiple structural and perception-related barriers stacking and interweaving.](time-most-frequent-barrier-open-ended-labs.md) — a narrower finding that bears on this claim

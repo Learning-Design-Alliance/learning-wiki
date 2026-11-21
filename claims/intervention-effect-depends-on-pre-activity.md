@@ -51,3 +51,4 @@ Authors' interpretation of the online experiment's group means: among lecture gr
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related
 - [Instructor worksheet intervention during discussion shows no significant main effect on learning outcomes](no-main-effect-instructor-intervention.md) — related
 - [Discussion-based active learning produced significantly higher transfer-question performance than lecture-based passive learning](discussion-beats-lecture-transfer-items.md) — related
+- [Condition-by-lesson interaction: posttest differences by condition depend on the lesson, with significant pairwise contrasts in only two lessons](condition-by-lesson-interaction-posttest.md) — related

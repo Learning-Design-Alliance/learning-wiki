@@ -49,3 +49,5 @@ Paired-samples t-tests on EAS scores within groups (Table 6). "a significant inc
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
 - [Within the experimental group, pre-post gains were significant only for attitudes and uses, while the control group showed no significant change on any dimension](within-group-prepost-gains-experimental-only-attitudes-uses.md) — related
+- [Achievement groups differ significantly in ASCOPL attitude dimensions of Willingness, Negativity, and Necessity](anova-ascopl-achievement-groups.md) — related
+- [Attitudes toward programming across all ASCOPL dimensions rose significantly from pre-test to post-test after Code.org instruction, in one uncontrolled pre-post study](codeorg-ascopl-attitude-gains.md) — related

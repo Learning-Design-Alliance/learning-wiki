@@ -56,6 +56,7 @@ Drawing on the issue's discussion paper, the editorial sets priorities for futur
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 - [Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education](cross-stakeholder-ai-education-action-recommendations.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
+- [Prioritize standardized fNIRS methods, ecologically valid learning settings, and evaluation of real-time neural adaptation feasibility](prioritize-standardized-methods-and-ecological-validity-fnirs-gils.md)
 
 ## Examples
 -

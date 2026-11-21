@@ -204,3 +204,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Piloting, prompting and supplementing align with a teaching-as-organizing-student-activity perspective in which the teacher supports the student in acting as an active doctor](piloting-prompting-supplementing-organizing-activity.md) — related
 - [A new form of self-explanation was observed in which students compare their own solution to the expert's example solution](comparative-self-explanation-new-form.md) — related
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](explaining-may-not-promote-active-sense-making.md) — related
+- [GAI-generated customized prompts in an ITS, supplemented with Wikipedia-based explanations, empirically boosted student performance significantly](korbit-customized-prompts-performance.md) — related

@@ -68,6 +68,7 @@ Interdisciplinary activities build integrated knowledge structures and support t
 - [A master rubric with selectable grading scales to assess knowledge identification, integration, and synthesis across disciplines](master-rubric-knowledge-identification-integration-synthesis.md)
 - [Design interdisciplinary exam and homework questions that ask students to use physics and mathematics for biological ends, such as explaining organismal structure, function, and diversity](biology-authentic-question-design-strategy.md)
 - [Structure an interdisciplinary course with a discipline-familiarization first half and a permanent-group artistic-production second half](two-phase-interdisciplinary-familiarization-then-production-strategy.md)
+- [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
 
 ## Examples
 - **News Analysis** — Using a news clip about a local store closing, learners determine an ideal new location, applying economics, geography, and mathematics.

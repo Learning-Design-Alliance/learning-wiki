@@ -51,6 +51,7 @@ The article recommends that physics departments add a dedicated mathematical phy
 - [Make mathematization an explicit part of the introductory physics curriculum rather than relying on prerequisite algebra courses](explicit-mathematization-in-introductory-physics-curriculum.md)
 - [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
 - [Teach probability in three coordinated moments across Chemistry, Mathematics and Physics](three-moment-probability-coordination-strategy.md)
+- [Use curvature and radius of curvature as bridging concepts to strengthen interdepartmental math-physics coordination](curvature-bridge-interdepartmental-coordination.md)
 
 ## Examples
 -

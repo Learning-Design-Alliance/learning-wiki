@@ -55,3 +55,4 @@ Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot C
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
 - [Choice of prompting technique (Zero Shot, In Context Learning, Confirmatory Check) shows no statistically significant effect on LLM Physics question performance at any academic level](prompting-technique-no-significant-effect-physics-questions.md) — related
 - [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — related
+- [GPT-4o and GPT-4-turbo assessed tutors' open-ended equity responses proficiently, with few-shot prompting outperforming zero-shot](llm-few-shot-outperforms-zero-shot-equity-assessment.md) — related
