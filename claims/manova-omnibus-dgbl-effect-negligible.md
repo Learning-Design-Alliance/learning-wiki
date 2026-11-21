@@ -49,3 +49,4 @@ MANOVA on the two dependent variables (SHME and SME scores) in the quasi-experim
 - [Victim age (adult vs. child) did not significantly affect public perceptions in this vignette experiment, contrary to prior findings](victim-age-no-effect-perceptions-vignette.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
 - [Experiential learning and direct instruction produce no statistically significant difference in secondary agriculture students' ARCS motivation](experiential-vs-direct-instruction-no-motivation-difference.md) — related
+- [Initial representational competences do not differ across feedback-strategy clusters](competences-do-not-predict-mer-strategy.md) — related

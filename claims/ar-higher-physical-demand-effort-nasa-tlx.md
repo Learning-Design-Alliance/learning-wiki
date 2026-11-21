@@ -48,3 +48,4 @@ NASA-TLX survey comparing task load between AR and non-AR workshop groups; ANOVA
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [Workload ratings do not differ significantly by profession, prior AR experience, or prior HoloLens experience](workload-independent-of-background-and-ar-experience.md) — related
 - [Haptic-feedback simulation training reduces physical demand and improves perceived performance in both simulation and live OR settings, with setting-specific effects on effort and mental demand](haptic-feedback-subscales-physical-demand-performance.md) — related
+- [AR training showed higher NASA-TLX performance, effort, and frustration ratings than video, with no differences in mental, physical, or temporal demand](ar-nasa-tlx-workload-differences.md) — related

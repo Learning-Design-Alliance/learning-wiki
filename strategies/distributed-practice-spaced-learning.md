@@ -66,6 +66,7 @@ Distributed practice is one of the most robust findings in learning science, wit
 - [Pace software usage in short sessions with sufficient time between sessions, and follow each session with discussion of what students learned](paced-software-sessions-with-follow-up-discussion.md)
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
+- [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
 
 ## Examples
 - **Vocabulary learning**: reviewing new words at expanding intervals (1 day, 3 days, 1 week, 1 month) rather than repeating them twenty times in one sitting.

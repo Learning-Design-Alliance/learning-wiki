@@ -50,3 +50,4 @@ Self-reported 21-item TAM questionnaire (5-point Likert scale) administered only
 - [Gamification-group students reported positive game-user satisfaction, with Enjoyment and Visual Aesthetics the highest-rated GUESS domains](guess-satisfaction-enjoyment-visual-aesthetics-highest.md) — related
 - [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
+- [Students rated the gamified board game very positively, with all survey items averaging above 4.21 out of 5](board-game-survey-items-above-4-21.md) — related

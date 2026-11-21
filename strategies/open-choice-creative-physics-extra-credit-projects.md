@@ -53,4 +53,4 @@ An implementable teaching activity: offer an extra-credit assignment inviting st
 -
 
 ## Key Sources
-- Rouret, B., Kashyap, J. S., Levy, J., and Singh, C. (2025). Helping introductory physics students connect physics with humanities, art, social sciences, and everyday life. University of Pittsburgh. https://scholar.google.com/scholar?q=Helping+introductory+physics+students+connect+physics+with+humanities
+- Rouret, B., Kashyap, J. S., Levy, J., and Singh, C. (2025). Helping introductory physics students connect physics with humanities, art, social sciences, and everyday life. University of Pittsburgh. https://scholar.google.com/scholar?q=Helping+introductory+physics+students+connect+physics+with+humanities. [doi:10.1088/1361-6552/adf405](https://doi.org/10.1088/1361-6552/adf405)

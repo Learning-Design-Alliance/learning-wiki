@@ -51,3 +51,4 @@ Theoretical argument in the editorial, drawing on cited fraction-comparison rese
 - [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](fsi-gains-common-numerator-whole-number-bias-items.md) — related
 - [Probability ranking, consistent with novice fraction-comparison strategies such as numerator-denominator differences, is the most common incorrect justification students give for probability ratio answers](probability-ranking-common-incorrect-justification.md) — related
 - [Passing the two-phase test implies the AI can identify misconceptions and generate targeted practice problems for at least a (1−ε) fraction of student misconceptions](passing-test-implies-feedback-capability.md) — related
+- [Semantic similarity between predicted and true misconceptions does not guarantee mathematical coherence](semantic-similarity-not-mathematical-coherence.md) — related

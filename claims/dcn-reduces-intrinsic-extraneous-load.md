@@ -67,3 +67,4 @@ Paired-sample t-test of extraneous cognitive load in the same within-subject stu
 - [Adding the DCN visualization to Dirac Notation increases accuracy on Hadamard-gate problems in multi-qubit systems for participants with little quantum physics experience](dcn-visualization-increases-hadamard-accuracy.md) — related
 - [Representational competence predicts ECL reduction with DCN visualization, but not accuracy increases or ICL reduction](rc-predicts-ecl-reduction-dcn.md) — related
 - [Relative fixation duration on the visualization does not significantly moderate accuracy or cognitive-load benefits of DCN](fixation-duration-no-moderator-effect-dcn.md) — related
+- [Combined verbal+visual AI scaffolding lowers intrinsic cognitive load relative to verbal-only scaffolding, but not relative to no scaffolding](qookies-visual-scaffolding-lower-intrinsic-cognitive-load.md) — related

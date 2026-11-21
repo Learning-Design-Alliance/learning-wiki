@@ -51,3 +51,4 @@ Post-activity self-report survey asking students to compare the Particle Builder
 - [Playing Particle Builder significantly improved high school students' understanding of particle physics concepts](particle-builder-significant-learning-gains.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
 - [A double lesson of Particle Builder produced an average gain of 0.16, comparable to 1.5 weeks of traditional instruction (gain 0.17) and below a quark-puzzle control group (0.23)](particle-builder-double-lesson-gain-comparable-traditional-instruction.md) — related
+- [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — related

@@ -51,6 +51,7 @@ The authors recommend that educational programs treat Generative AI literacy —
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Incorporate structured AI-literacy, including prompt formulation and critical evaluation of AI output, into STEM education](structured-ai-literacy-stem-strategy.md)
+- [Use one-off AI literacy workshops as entry points supported by sustained, systemic curriculum integration](workshops-as-entry-points-with-sustained-integration.md)
 
 ## Examples
 -

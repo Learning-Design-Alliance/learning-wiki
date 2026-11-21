@@ -63,3 +63,5 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [Zero-shot comparative prompting of instruction-tuned LLMs ranks MC question difficulty more effectively than absolute prompting, with a Spearman's correlation of 40.4%](zero-shot-comparative-difficulty-ranking-outperforms-absolute.md) — related
 - [Question difficulty estimates are highly stable across successive years (correlation 0.98) while student ability estimates correlate only moderately (0.54)](difficulty-stable-ability-changes-across-years.md) — related
 - [Absolute prevalence estimates differ across models and generally do not agree within uncertainties, despite similar trends](model-prevalence-estimates-differ-within-uncertainties.md) — a narrower finding that bears on this claim
+- [False reference solutions degrade LLM absolute marking accuracy but leave rank-order agreement largely intact](false-solutions-degrade-accuracy-not-ranking.md) — related
+- [Simulated-response difficulty estimates match the accuracy of a traditional 1PL analysis using approximately 5,818 real student answers (about 22.87% of available data)](rmse-efficiency-5818-real-answers.md) — related

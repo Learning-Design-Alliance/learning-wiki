@@ -50,3 +50,4 @@ Between-year comparison of Moodle log data for different student cohorts on the 
 - [Pre-lecture quiz completion rose from semester 1 to semester 2 among the same students after Introducing Level Up!, in one uncontrolled pre-post study (95% CI for mean difference (−0.29, −0.15))](level-up-within-year-engagement-increase.md) — related
 - [Before gamification, engagement with pre-lecture quizzes in the flipped statistics course was extremely low and declined across the semester](low-baseline-pre-lecture-quiz-engagement.md) — related
 - [Quiz grades stayed similar after gamification, suggesting students engaged meaningfully rather than gaming the leaderboard](meaningful-engagement-quiz-grades-similar.md) — related
+- [Social gamification was associated with more students completing the course and engaging with advanced topics than in previous editions](social-gamification-completion-engagement.md) — related

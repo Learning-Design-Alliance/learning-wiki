@@ -57,3 +57,4 @@ Qualitative thematic analysis of open-ended focus group interviews with students
 - [In-depth interviews identified clinical relevance, case-based scenarios, models, visualization, and facilitator interaction as key perceived strengths of the simulation-based intervention](interview-themes-simulation-strengths.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [Teachers reported student engagement was strongest for visually appealing, interactive activities aligned with their existing curricula](visual-interactive-activities-engaging.md) — a narrower finding that bears on this claim
+- [Open-ended student feedback on SIREN yielded four major themes: hands-on learning, collaboration and mentorship, program structure, and personal growth](siren-qualitative-four-themes.md) — related

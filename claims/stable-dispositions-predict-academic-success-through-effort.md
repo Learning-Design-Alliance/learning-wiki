@@ -64,3 +64,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - Self-awareness, empathy, self-motivation, integrity and value orientation showed no significant positive influence on academic success in the regression — a narrower finding that bears on this claim
 - [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — a narrower finding that bears on this claim
 - [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related
+- [Conscientiousness robustly predicts academic performance beyond cognitive ability](conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) — related

@@ -86,3 +86,5 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
 - [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related
 - [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related
+- [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related
+- [Real experiments are perceived as more engaging for learners than simulations, with 56% of surveyed Moroccan science teachers naming them the most motivating method](real-experiments-more-engaging-than-simulations-morocco.md) — related

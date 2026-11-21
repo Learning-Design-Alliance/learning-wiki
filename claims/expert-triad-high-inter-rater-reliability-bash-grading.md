@@ -118,3 +118,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [The five markers were inconsistent in their grading, with ICC values near zero and a significant ANOVA](marker-grading-inconsistency-icc-near-zero.md) — reports the opposite
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
 - [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related
+- [Inter-rater reliability of expert rubric scoring was excellent for AP Physics 1 (all ICC > 0.90) and generally strong but more variable for AP Physics 2](expert-rubric-scoring-reliability-icc.md) — related

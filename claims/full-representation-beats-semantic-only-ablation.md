@@ -61,3 +61,5 @@ Ablation study on the SAT Math dataset with all other settings fixed, comparing 
 - [Combined assessment-centered and student-centered features yield the best classifier performance](combined-features-best-classifier-performance.md) — related
 - [Combining unigram and bigram features gives better classification accuracy than either n-gram length alone for all classifiers.](unigram-bigram-combination-beats-single-grams.md) — related
 - [Removing phrase-count-dependent log features substantially lowers predictive accuracy for training phrase count](ablation-without-phrase-count-features.md) — related
+- [Traditional linguistic and structural question and option features add virtually no improvement once text embeddings are available](basic-features-minimal-impact-over-embeddings.md) — related
+- [Adding LLM-extracted pedagogical features raises difficulty-prediction correlation from about 0.68 to about 0.78 over embeddings and traditional features](llm-pedagogical-features-drive-difficulty-gain.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: leman-figen-gül-2025
     resource: "https://doi.org/10.58278/0.2025.109"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interview participants' main concerns were perceived imperfection or incompleteness of AI-generated outputs, and some expressed hesitancy about depending solely on AI-generated assets, preferring to modify or recreate them to preserve a personal connection with their work. [→ Leman Figen Gül 2025](#leman-figen-gul-2025)
@@ -73,3 +74,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [The GenAI evaluation laboratory fostered high engagement, initiative, and voluntary continuation beyond classroom requirements among non-science majors](genai-astronomy-lab-high-engagement-voluntary-continuation.md) — related
 - [Professors held a hierarchy of acceptability for GenAI text processing: granular language tasks seen as legitimate, initial drafting viewed with skepticism](genai-text-processing-acceptability-hierarchy.md) — related
 - [In algebra-based introductory physics courses, instructors can use creative projects to foster creativity and critical thinking while students connect physics with humanities, social sciences, and everyday life](intro-physics-courses-opportunity-connect-humanities-everyday-life.md) — related
+- [A minority of students saw gen-AI as capable of creativity, with one student humanizing AI as having prior experiences](student-humanizes-gen-ai-creative.md) — related

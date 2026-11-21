@@ -61,3 +61,4 @@ Thematic analysis of semi-structured interviews conducted at the start of the re
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
 - [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — related
+- [Before implementation, lecturers identified content volume as the primary exam-preparation challenge and reported insufficient time and resources for personalised feedback.](lecturer-baseline-needs-exam-preparation.md) — related

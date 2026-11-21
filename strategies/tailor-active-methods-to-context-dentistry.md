@@ -51,6 +51,7 @@ The review recommends that active learning methodologies be matched to the speci
 - [Tailor Angoff implementation to programme and assessment needs, using trained multi-disciplinary panels with consensus-building](tailor-angoff-implementation-context.md)
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
+- [Support the transition to active methodologies in IICs through teacher training courses, shared repositories of activities and formative-assessment questions, and institution-specific research](iic-active-methods-teacher-training-strategy.md)
 
 ## Examples
 -

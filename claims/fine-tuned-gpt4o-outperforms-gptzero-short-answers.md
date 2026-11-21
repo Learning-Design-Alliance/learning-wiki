@@ -49,3 +49,4 @@ Evaluation of the fine-tuned GPT-4o model and GPTZero on the in-domain test set 
 - [GPTZero fails entirely on ambiguous responses, scoring an F1 of 0.00 on the uncertain class in the in-domain test set](gptzero-fails-uncertain-class.md) — related
 - [A stylometric logistic-regression baseline outperformed GPTZero, achieving 77% accuracy on short-answer detection](stylometric-baseline-beats-gptzero.md) — related
 - [The fine-tuned model generalized to out-of-domain lessons with 77% overall accuracy](fine-tuned-model-out-of-domain-77.md) — related
+- [Fine-tuned Llama-3.1-8B model outperforms GPT-4o and Claude-3.5-Sonnet at rating the four resistance-response mechanisms](finetuned-llama-outperforms-baselines-resistance-mechanisms.md) — related

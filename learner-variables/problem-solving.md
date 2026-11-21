@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (167 show a difference, 25 mixed, 30 no difference) · 182 studies (95 causal, 23 review, 17 qualitative, 15 design, 14 associational, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 182 report an effect size · 216 claims rest on one study
+> **Evidence** · 224 claims (167 show a difference, 25 mixed, 32 no difference) · 183 studies (96 causal, 23 review, 17 qualitative, 15 design, 14 associational, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 183 report an effect size · 218 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -260,6 +260,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [During the activity students improved group communication, exercised creativity in problem-solving, and took ownership of the collective investigative process.](../claims/nos-activity-communication-creativity-ownership.md) [+M] — measured as an outcome of the instruction studied
 - [Large computational projects served as a critical forum for developing computational problem-solving skills by forcing students to focus on the most important aspects of a problem and abstract away the rest](../claims/large-projects-build-problem-solving-abstraction.md) [+M] — measured as an outcome of the instruction studied
 - [Identifying problems that can be solved effectively using Laplace’s equation was challenging for advanced students when not explicitly told which method would be effective](../claims/identifying-laplace-effectiveness-challenge.md) [~W] — measured as an outcome of the instruction studied
+- [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](../claims/feedback-does-not-hinder-post-learning-problem-solving.md) [-M] — measured as an outcome of the instruction studied
+- [Quiz-based feedback methods showed a consistent but non-significant trend of stronger performance on novel post-learning tasks involving new concept combinations](../claims/quiz-feedback-trend-novel-task-transfer.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

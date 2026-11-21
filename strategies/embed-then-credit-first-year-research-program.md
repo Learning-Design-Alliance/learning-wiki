@@ -51,6 +51,7 @@ For institutions developing similar programs, the authors suggest starting the r
 - [Integrate rather than add FYS content when embedding first-year seminar activities in an introductory biology course](integrate-fys-content-into-intro-biology-strategy.md)
 - [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
 - [Keep physical resource requirements minimal when launching a first-year research program](minimal-resources-first-year-research-program.md)
+- [Key takeaways for institutions adopting short-term team-based research programs](siren-key-takeaways-replication.md)
 
 ## Examples
 -

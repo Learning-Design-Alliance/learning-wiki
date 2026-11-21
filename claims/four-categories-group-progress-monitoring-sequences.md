@@ -73,3 +73,4 @@ Category 4 groups stayed mostly in the task enactment phase; the study reports "
 - [Commitments to change clustered into four categories — communication, behavior, knowledge, and attitude — with roughly one third of behavior- and attitude-related commitments interprofessional](c2c-commitments-four-categories.md) — related
 - [Discrepant output episodes yielded the largest diversity of metacognitive and transactive moves and the highest frequency of clusters across groups](discrepant-output-episodes-richest-smm.md) — related
 - [Cluster mean Complexity scores divide the ten clusters into three over-arching groups (A, B, C) differing in complexity](three-complexity-groups-session-clusters.md) — related
+- [SRL transitions during gaming are disordered and misaligned with the four-stage SRL sequence, unlike non-gaming clips](disordered-srl-transitions-during-gaming.md) — related

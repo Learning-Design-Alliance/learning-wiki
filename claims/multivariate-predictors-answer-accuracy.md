@@ -54,3 +54,4 @@ Multivariable linear regression at the individual student level (n = 1,048) with
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance](latent-noncognitive-factor-predicts-latent-gpa-27-29-percent.md) — related
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
+- [Machine learning models can predict physics students' academic performance from homework and click log data](ml-predicts-physics-student-performance.md) — related

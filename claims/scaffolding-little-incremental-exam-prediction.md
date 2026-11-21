@@ -86,3 +86,4 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [In multiple linear regression models, classroom interactivity was a highly significant predictor of conceptual learning gains, with a standardized coefficient comparable to first-semester final exam score in mechanics](interactivity-significant-predictor-regression-mechanics.md) — related
 - [Math SAT/ACT percentile and concept inventory pre-score together predict roughly 20-30% of variance in physics 1 final exam scores across three institutions](prep-measures-explain-20-30-percent-exam-variance.md) — related
 - [Additional scaffolding (SL2) significantly reduces representational consistency compared to SL1, erasing the benefit of the medium level](sl2-additional-scaffolding-detrimental.md) — related
+- [Motivation and prior knowledge moderate how learning behaviors translate into achievement in an ITS field trial](motivation-moderates-behavior-achievement-relation-its.md) — related

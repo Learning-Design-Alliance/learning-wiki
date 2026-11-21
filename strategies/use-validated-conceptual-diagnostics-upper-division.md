@@ -52,6 +52,7 @@ The authors recommend research-based conceptual assessments as complements to tr
 - [Combine SCTs with traditional knowledge-based assessments to capture clinical reasoning alongside lower-level knowledge outcomes](combine-sct-with-knowledge-based-assessments.md)
 - [Science Education Initiative model of iterative course transformation](sei-course-transformation-model-em-ii.md)
 - [Administer an additional midtest version of a concept diagnostic to track long-term learning during gaps in instruction](midtest-tracking-learning-during-instruction-gaps.md)
+- [Design AI-resistant assessment items targeting the Perception-Cognition Gap and Calculation-Conceptualization Discrepancy](ai-resistant-item-design-strategy.md)
 
 ## Examples
 -

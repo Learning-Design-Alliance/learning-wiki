@@ -51,3 +51,4 @@ One-way MANOVA with learning tactics as the independent variable and nine learni
 - [Sciences-oriented students reported significantly higher estimated understanding of the sorting strategy, while humanities-oriented students overestimated their understanding after the seeing phases until doing phases corrected it](estimated-understanding-group-differences-doing-phases.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
 - [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related
+- [Initial representational competences do not differ across feedback-strategy clusters](competences-do-not-predict-mer-strategy.md) — related

@@ -59,3 +59,4 @@ Stated comparison in the Limitations section, benchmarking against the fine-tune
 - [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
 - [Source-free domain adaptation methods that succeed in computer vision underperform direct application of pre-trained models for retention prediction](sfda-underperforms-in-retention-prediction.md) — related
+- [Unadjusted foundation models achieve only moderate agreement (Cohen's κ = 0.38–0.58) with expert annotations when classifying instructional moves in authentic classroom transcripts](llm-baseline-moderate-kappa-talk-moves.md) — related

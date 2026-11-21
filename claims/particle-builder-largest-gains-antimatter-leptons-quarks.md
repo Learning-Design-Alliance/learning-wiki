@@ -47,3 +47,5 @@ Per-question gain analysis plotted in Figure 4, with error bars showing the stan
 ## Related Claims
 - [A double lesson of Particle Builder produced an average gain of 0.16, comparable to 1.5 weeks of traditional instruction (gain 0.17) and below a quark-puzzle control group (0.23)](particle-builder-double-lesson-gain-comparable-traditional-instruction.md) — related
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — related
+- [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — a broader claim this one bears on
+- [The speeded spot-and-name mechanic of Particle Dobble is intended to give repeated retrieval practice on particle names and families](spot-and-name-retrieval-practice-mechanic.md) — related

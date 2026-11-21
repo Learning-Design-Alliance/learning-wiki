@@ -53,3 +53,4 @@ Secondary correlational analysis in the quantitative results of the n = 416 surv
 - [Daily AI use duration shows a weak positive correlation with academic motivation among university students](daily-ai-use-weakly-positively-correlated-academic-motivation.md) — related
 - [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related
 - [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related
+- [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related

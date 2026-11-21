@@ -55,7 +55,8 @@ Drawing on implementation experience across courses at two institutions, the aut
 - [Students report high mental engagement during the final group exam even though they know they will not be re-tested on the material](../claims/final-group-exam-engagement-high-without-retesting.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Allocate at least double the session time and favor oral questions and peer instruction](double-time-oral-questions-peer-instruction.md)
 
 ## Examples
 -

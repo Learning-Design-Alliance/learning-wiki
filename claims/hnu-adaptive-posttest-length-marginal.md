@@ -67,3 +67,4 @@ Controlled study results on posttest time: no significant difference between con
 - [HNU Adaptive students have significantly fewer training HelpNeed steps, including fewer Far Off and Futile steps and more Expert steps, than HNU Control](hnu-adaptive-fewer-helpneed-steps.md) — related
 - [HNU Adaptive students achieve significantly higher posttest rule-application accuracy than HNU Control](hnu-adaptive-posttest-accuracy-higher.md) — related
 - [HNU Adaptive students show significantly better training length, time, and accuracy than HNU Control in the logic-proof tutor](hnu-adaptive-training-performance-better.md) — related
+- [Training with Buggy or Guided examples did not significantly change posttest solution length](no-solution-length-difference-logic-tutor.md) — related

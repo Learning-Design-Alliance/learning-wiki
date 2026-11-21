@@ -68,3 +68,4 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [Latent profile analysis of Chinese clinical nurses' medication safety competence yields four distinct profiles](four-latent-profiles-medication-safety-competence-nurses.md) — related
 - [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](three-synergistic-motivation-metacognition-profiles.md) — related
 - [Four latent profiles of students emerged from non-cognitive measures: high grit, moderate, high intrinsic motivation, and low grit](four-latent-profiles-noncognitive-high-school.md) — related
+- [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related

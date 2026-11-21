@@ -52,6 +52,7 @@ The article recommends AI-simulated audiences as a substitute for infeasible rea
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Role Play](role-play.md)
 - [Use an AI opponent to provide repeatable, engaging practice of curriculum concepts](ai-opponent-repeatable-practice-strategy.md)
+- [Use AI to monitor and support peer collaborations rather than replace them, combining modalities by affordance](ai-monitors-and-supports-peer-collaboration.md)
 
 ## Examples
 -

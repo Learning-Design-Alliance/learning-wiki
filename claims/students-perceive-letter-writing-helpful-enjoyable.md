@@ -71,3 +71,4 @@ Interview data on attitudes toward the writing task: "Most (63%) claimed that wr
 - [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](preference-interactive-stories.md) — related
 - [Writing therapeutic letters promotes reflection and relational competence only when approached as a developing activity](therapeutic-letters-promote-reflection-if-developing-activity.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
+- [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](feedback-groups-greater-enjoyment-and-skill-growth.md) — related

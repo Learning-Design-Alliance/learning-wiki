@@ -60,3 +60,5 @@ Thematic coding of a representative sample of 131 student reflections on peer an
 - [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](cautious-trust-in-course-specific-rag.md) — related
 - [Educators prioritize contextual reflection, agency, and self-expression as maker competencies](makerspace-contextual-reflection-agency-competency.md) — related
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
+- [A minority of students saw gen-AI as capable of creativity, with one student humanizing AI as having prior experiences](student-humanizes-gen-ai-creative.md) — related
+- [TAs found AI suggestions generally accurate and helpful for uncovering overlooked errors, understanding rubrics, and framing feedback](tas-found-ai-suggestions-accurate-and-helpful.md) — related

@@ -62,3 +62,4 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Posttest programming scores did not differ significantly between CodeTailor support and receiving an AI-generated solution](codetailor-posttest-performance-null.md) — related
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
 - [High-performing students receive more feedback and explanations; low-performing students receive more hints and social-emotional support](singakids-dynamic-scaffolding-user-study.md) — related
+- [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](feedback-does-not-hinder-post-learning-problem-solving.md) — related

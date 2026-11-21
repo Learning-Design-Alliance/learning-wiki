@@ -52,3 +52,4 @@ Qualitative coding of focus groups, interviews, and open-ended surveys plus coac
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Open inquiry implementation faces challenges requiring classroom management, flexible teaching, teacher-student interaction and teacher support](open-inquiry-implementation-challenges.md) — related
+- [Second-year students experienced escalating challenge as unmanageable workload, prompting added scaffolding, fewer languages, and coaching](second-year-workload-unmanageable-scaffolding-added.md) — related

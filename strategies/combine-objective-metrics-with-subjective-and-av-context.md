@@ -59,6 +59,7 @@ The review recommends that future studies pair digital metrics with concurrent v
 - [Test surgical simulators with novices and track learning-curve metrics before clinical translation](novice-testing-learning-curve-metrics-strategy.md)
 - [Use automated surgical video analysis to supplement nontechnical skills assessment and feedback in surgical education](automated-video-analysis-surgical-education-strategy.md)
 - [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
+- [Dual-sourcing measurement strategy: pair validated self-report surveys with trace-based proxies validated on labeled subsamples](tala-dual-sourcing-trait-measurement-strategy.md)
 
 ## Examples
 -

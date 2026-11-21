@@ -44,6 +44,7 @@ The report recommends standards-by-design: embedding checklists and audit hooks 
 - [Build replaceable pipelines around robust APIs or mid-sized open models instead of training bespoke foundation models](replaceable-pipelines-mid-sized-open-models.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Embed dyslexia accessibility guidelines in AI-generated worksheet generation](dyslexia-accessibility-guidelines-in-generation.md)
 
 ## Examples
 -

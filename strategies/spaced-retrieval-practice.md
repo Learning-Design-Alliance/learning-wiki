@@ -112,6 +112,7 @@ Retrieval attempts strengthen memory more than restudying, and spacing those att
 - [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
 - [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
 - [Add reinforcement activities such as reflective exercises, spaced repetition, and active recall after technology-supported tasks](reinforcement-activities-after-genai-tasks.md)
+- [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education.

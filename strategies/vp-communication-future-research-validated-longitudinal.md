@@ -68,6 +68,7 @@ The review recommends that future research prioritize standardized and validated
 - [Use longitudinal approaches combining repeated exposure, clinical case discussions, and practical application to translate knowledge into practice](longitudinal-repeated-exposure-knowledge-translation.md)
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 - [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
+- [Evaluate AI tutoring with consistent support assignments over months and external standardized assessments](longitudinal-consistent-support-ai-tutoring-evaluation.md)
 
 ## Examples
 -

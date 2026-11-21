@@ -223,6 +223,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [Use the tool predominantly for reflective learning conversations within an intentional programme of peer coaching for simulation faculty development](../strategies/fbat-reflective-learning-conversations-strategy.md)
 - [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](../strategies/peer-coaching-faculty-learning-communities.md)
 - [Pair-of-teachers co-teaching with professional learning community preparation for new technology lessons](../strategies/teacher-pairing-plc-strategy-new-tech-lessons.md)
+- [Keep the same subject teacher with a cohort for all three years and use freed third-term time for meaningful certified teacher training](../strategies/teacher-cohort-continuity-retraining-term.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120

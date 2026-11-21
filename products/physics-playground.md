@@ -13,7 +13,7 @@ generated:
 # Physics Playground
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 causal, 1 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Physics Playground is a 2D computer-based physics learning game developed by Shute and colleagues in which students draw simple machines to solve problems while gameplay logs support stealth assessment of physics understanding and persistence.

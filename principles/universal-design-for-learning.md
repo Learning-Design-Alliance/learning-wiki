@@ -185,6 +185,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](../strategies/accommodate-every-preference-diversify-strategies.md)
 - [Design physics courses with UDL by examining the why, what, and how of teaching to find student barriers, then adding supports and options](../strategies/why-what-how-udl-course-examination-strategy.md)
 - [Offer CS1 course materials in multiple formats to accommodate different learner preferences](../strategies/multiple-format-cs1-materials-strategy.md)
+- [Adaptive feedback designs that tailor feedback elaboration and representational format to learner profiles](../strategies/adaptive-feedback-tailoring-elaboration-and-format.md)
 
 ### Illustrative
 

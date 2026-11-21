@@ -47,3 +47,4 @@ The review reports, citing Mottelson et al. (2023), a review and meta-analysis s
 ## Related Claims
 - [Learning in immersive VR produces higher self-reported presence, agency, location, body ownership, and embodied learning than learning via a PC screen](vr-higher-presence-agency-embodied-learning-than-pc.md) — related
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](high-integration-relevance-motor-activity-memory-effects.md) — related
+- [Avatar choice and immersion level shape embodiment, agency, and physiological arousal in Envisioning Corals](avatar-embodiment-envisioning-corals.md) — related

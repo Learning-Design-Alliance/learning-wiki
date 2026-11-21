@@ -49,3 +49,4 @@ Survey of teaching methods and equipment: "the sole method of teaching mentioned
 
 - [A 1918 questionnaire survey of teachers of educational psychology received sixty-seven replies, revealing no general agreement on terminology or course structure](hallquest-1918-survey-no-agreement-terminology.md)
 - [The learning process and memory are the most frequently stressed sub-topics in educational psychology courses](learning-process-memory-top-subtopics.md)
+- [Lack of laboratory equipment is the dominant constraint on real experimentation, with 85% of surveyed teachers reporting completely unequipped laboratories](equipment-lack-blocks-real-experiments-morocco.md) — related

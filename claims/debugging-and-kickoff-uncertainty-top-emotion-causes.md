@@ -50,3 +50,4 @@ DBSCAN clustering (epsilon = 0.15, MinPts = 4, producing 13 clusters) on emotion
 - [Frustration sometimes preceded persistence and sometimes co-occurred with it during debugging](frustration-precedes-cooccurs-persistence.md) — related
 - [Novice programmers' expressed support needs fall into five categories, with topic explanation/resource recommendation (653) and technical support (615) most frequent](five-support-need-categories-novice-programmers.md) — related
 - [Positive learning-centered emotions (Delight, Engagement/flow) were rare in novice help-seeking posts](positive-emotions-rare-informal-programming-posts.md) — related
+- [An unresolved debugging struggle early in the activity undermined one student's subsequent engagement, and she never submitted the second associated assignment](unresolved-debugging-derailed-multi-day-activity-engagement.md) — a narrower finding that bears on this claim

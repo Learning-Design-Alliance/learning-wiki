@@ -70,3 +70,4 @@ Same BANOVA: the Certainty item × correctness interaction was reliable (BF10 = 
 - Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions — related
 - [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related
 - [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related
+- [Faulty LLM reasoning is marked by epistemic hedging (Tentativeness) and performative metacognition (Insight), both significant negative signals of correctness](hedging-and-metacognition-mark-llm-errors.md) — related

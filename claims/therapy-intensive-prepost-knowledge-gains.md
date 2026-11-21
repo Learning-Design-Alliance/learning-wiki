@@ -55,3 +55,4 @@ Program evaluation of the 2025 cohort's preassessment and postassessment (design
 - [One year after the workshops, more than 90% of respondents attribute high importance of participation to their work in student assessment](one-year-late-effects-high-importance-assessment.md) — related
 - [Pre-post knowledge survey scores varied across years, with scores for only questions 4 and 7 consistently rising from pre-test to post-test in one group with no comparison group](knowledge-survey-gains-inconsistent.md) — related
 - [Pre/post survey shows significant knowledge gain after the bilayer lab session](bilayer-lab-significant-knowledge-gain.md) — related
+- [SIREN participants showed large pre-to-post gains across all 12 assessed skill domains, with Cohen's d ranging from 1.10 to 2.52](siren-pre-post-skill-gains-large-effects.md) — related

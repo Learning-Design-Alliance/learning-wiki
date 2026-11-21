@@ -48,3 +48,4 @@ Comparative evaluation across three edX course datasets (Tables 3-5) grouping st
 ## Related Claims
 - [A centralized global model performs better on larger subgroups, indicating it may ignore minorities](centralized-model-favors-majority-subgroups.md) — related
 - [The personalized method outperforms the data-quality-weighted FedIRT baseline by at least 5% in most cases](meta-learning-beats-fedirt-by-5pt.md) — related
+- [Federated learning algorithms showed strong potential to outperform centralized learning models on most of five learner-state detection benchmarks](federated-outperformed-centralized-learner-state-detection.md) — related

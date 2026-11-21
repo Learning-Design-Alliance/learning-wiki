@@ -47,6 +47,7 @@ The instructors incentivized timely quiz participation by awarding course credit
 
 - [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 - [Use school credit, apprenticeship-hour recognition and material awards to incentivize student and teacher participation in a reading program](asimov-prize-incentives-pcto-credits-awards.md)
+- [Award extra credit and small rewards to sustain engagement in an optional review game](extra-credit-incentives-optional-game.md)
 
 ## Examples
 -

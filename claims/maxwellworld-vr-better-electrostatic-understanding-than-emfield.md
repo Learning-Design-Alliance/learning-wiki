@@ -51,3 +51,4 @@ The review reports, citing Salzman et al. [14] and Trowbridge & Sherwood [19], a
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — reports the opposite
 - [Preliminary VR training on unrelated content leads to a small but statistically significant improvement in electrostatics assessment gains](vr-preliminary-training-improves-electrostatics-gains.md) — related
+- [Review reports lack of conclusive evidence of significant educational benefit for 3D VR quantum-circuit simulations](vr-quantum-simulations-lack-conclusive-evidence.md) — reports the opposite

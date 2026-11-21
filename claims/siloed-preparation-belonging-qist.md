@@ -52,3 +52,4 @@ Interview reflection from a male educator on integrating students trained differ
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a broader claim this one bears on
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

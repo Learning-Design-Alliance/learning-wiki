@@ -57,3 +57,4 @@ Automated multi-turn evaluations (Fig. 7) of fine-tuned Gemini 2.5 Flash and GPT
 - [On the HoCMaze-18 reference task, fine-tuned GPT-3.5 shows no significant difference from human tutors in student attempt synthesis](gpt35-ft-ss-approaches-tutorss-hocmaze18.md) — a narrower finding that bears on this claim
 - [Fine-tuning an LLM on expert (task, solution) data significantly improves its student synthesis performance, including capturing the student's behavior](finetuning-improves-llm-ss-student-synthesis.md) — related
 - [GenAI use in the workforce varies by work function and by the expertise of the user, from fine-tuned technical deployments to off-the-shelf applications](genai-use-varies-by-function-and-expertise.md) — related
+- [Dialogue-based RL training on mathematics tutoring dialogues generalizes to unseen educational benchmarks while largely preserving factual knowledge](dialogue-rl-out-of-distribution-generalization.md) — related

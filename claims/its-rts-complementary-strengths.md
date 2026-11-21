@@ -50,3 +50,4 @@ Comparative analysis section of the systematic review of 86 studies, contrasting
 - [Scalability and accessibility gaps persist: software systems struggle to reach under-resourced regions while robot systems face high hardware costs](tutoring-systems-scalability-gaps.md) — a narrower finding that bears on this claim
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
+- [ID and LS have complementary strengths that together can support research-integrated instructional design](id-ls-complementary-strengths.md) — related

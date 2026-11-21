@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-21
 sources:
   - id: benjamin-r-brown-2016
     resource: "https://doi.org/10.1103/physrevphyseducres.12.010121"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Benjamin R. Brown 2016: groups were assigned but students were analysed as independent · Benjamin R. Brown 2016 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-17)
 
 ## Subclaims
@@ -74,3 +75,4 @@ A repeated measures ANOVA on the same quasi-experimental data found a statistica
 - [Incentivized students' improvement is specific to problems they self-diagnosed and corrected, not a general improvement in self-monitoring skills](incentive-improvement-limited-to-diagnosed-problems.md) — related
 - [The incentivized group showed a large effect size (Cohen's d = 1.01) in pretest to posttest improvement](large-effect-size-incentivized-group-pre-post-improvement.md) — related
 - [Students using personalized automatic quiz generation corrected previous mistakes more frequently than students with traditional computer-aided question generation](personalized-quiz-generation-improves-mistake-correction.md) — related
+- [Students who corrected their mistakes under grade incentives outperformed non-correctors on a related final exam problem](ilm-correctors-outperform-non-correctors-final-exam.md) — related

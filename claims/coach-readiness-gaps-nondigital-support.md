@@ -57,3 +57,4 @@ Survey of 148 edtech coaches (Figure 11): "more than 70 percent" were prepared f
 - [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](coach-support-to-families-closures.md) — related
 - [About one-third of surveyed educators report that research is not localized enough to guide their school problems](educators-find-research-insufficiently-localized.md) — related
 - [Teachers perceived students as intensive social-network users but unprepared to use digital technologies for learning and professional purposes](students-social-networks-but-unprepared-learning-tools.md) — related
+- [Tinkering surfaced an authentic physics research question (additive vs subtractive colour mixing) that the documenting teacher felt unprepared to address](tinkering-surfaces-questions-teachers-unprepared.md) — related

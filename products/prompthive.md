@@ -20,6 +20,7 @@ PromptHive is an open-source collaborative prompt-authoring interface developed 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **PromptHive generative AI authoring tool for instructor material generation and refinement**: PromptHive is a generative AI authoring tool cited by the article as early evidence that embedding AI-assisted design capabilities into instructor workflows is viable. The article states that "the generative AI authoring tool PromptHive, which supports instructors in generating and refining instructional materials, achieved a usability score of 89 out of 100 among subject matter experts." It is offered as an example of minimizing instructor friction by supporting low-effort generation and refinement of materials. (Kwak et al. (2026))
 
 ### Claims
 
@@ -34,3 +35,4 @@ PromptHive is an open-source collaborative prompt-authoring interface developed 
 
 ## Key Sources
 - Mohi Reza, Ioannis Anastasopoulos, Shreya Bhandari, Zachary A Pardos. (2024). PromptHive: Bringing Subject Matter Experts Back to the Forefront with Collaborative Prompt Engineering for Educational Content Creation. arXiv preprint. https://arxiv.org/abs/2410.16547
+- Kwak, Y., Pardos, Z.A. (2026). The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design. https://arxiv.org/abs/2603.12781

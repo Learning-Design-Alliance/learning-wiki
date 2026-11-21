@@ -61,3 +61,4 @@ In the same randomized trial, the clinical skills assessment evaluated core proc
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
 - [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](blended-higher-final-statistics-score.md) — related
 - [Examination scores did not differ significantly between 2013 NextGenU/flipped classroom students and 2011 lecture-based students](flipped-exam-scores-no-significant-difference.md) — related
+- [Final examination performance did not differ between conditions, placing a boundary at the pathway from prompting skill to achievement](final-exam-null-difference.md) — reports the opposite

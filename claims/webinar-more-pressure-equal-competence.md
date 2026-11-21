@@ -74,3 +74,4 @@ IMI perceived competence subscale comparison between randomized groups; the form
 - [No significant difference between the models in perceived option or pressure/tension dimensions](sem-no-difference-perceived-option-pressure-tension.md) — reports the opposite
 - [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](pressure-and-competence-predict-test-results.md) — related
 - [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related
+- [The Tutee and Control roles induce significantly higher perceived pressure than the Peer and Challenger roles](tutee-and-control-induce-high-pressure.md) — related

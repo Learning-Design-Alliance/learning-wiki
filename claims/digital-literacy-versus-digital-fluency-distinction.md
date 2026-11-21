@@ -47,3 +47,4 @@ The article offers this distinction as an expert definition attributed to Jennif
 
 ## Related Claims
 - [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [Students prioritize cognitive over material computational literacy when advising understanding over finishing assignments](understanding-prioritized-over-finishing-assignments.md) — related

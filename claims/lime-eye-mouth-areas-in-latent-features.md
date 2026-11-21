@@ -50,3 +50,5 @@ Explainability analysis applying LIME super-pixel highlighting to the pre-traine
 - [Latent transfer-learned features yield better overall mind wandering detection than explicit OpenFace features, and temporal models add a small improvement, especially cross-dataset](latent-features-beat-explicit-features-overall.md) — related
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — related
 - [Fine-tuned transfer learning is used to examine the generalizability of webcam-based mind-wandering detection across tasks, settings, and target groups and to address low-quality in-the-wild data](transfer-learning-webcam-mind-wandering-generalizability.md) — related
+- [Glasses reflections can render eyes unrecognizable in webcam frames while OpenFace confidence stays above 0.97](glasses-reflection-high-openface-confidence.md) — related
+- [Eyeglass-detection (MeGlass) features slightly improved non-mind-wandering detection but not mind-wandering detection](meglass-features-mixed-benefit-learner-state.md) — related

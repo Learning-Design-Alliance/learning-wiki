@@ -49,3 +49,4 @@ National survey results, reported as the fraction of the 357 unique departments 
 - [Only about a quarter of departments report teaching computation in formal introductory or advanced coursework](computation-formal-coursework-quarter-of-departments.md) — related
 - [Formal computational physics degree programs are absent from most departments](computational-physics-degree-programs-rare.md) — related
 - [Reported computational teaching experience varies by institution type, driven by lower reporting at two-year colleges](computation-experience-varies-by-institution-degree-type.md) — related
+- [Roughly two-thirds of departments have formal learning goals for the major, and a majority assess progress annually](two-thirds-formal-learning-goals-astro.md) — related

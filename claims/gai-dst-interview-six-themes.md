@@ -82,3 +82,5 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](stp-qualitative-themes-experience-limitations-applicability.md) — related
 - [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related
 - [Qualitative feedback valued in-situ reflection, AI story feedback and video annotation, while social sharing and self-control features drew criticism](qualitative-feedback-value-and-friction.md) — related
+- [AI-generated feedback significantly improves counselors' responses to client resistance in a controlled experiment](ai-feedback-improves-counselor-responses-experiment.md) — related
+- [Focus group findings indicate GAI use should be explicitly motivated early in a course, since students cannot be assumed to understand its intended role](gai-use-should-be-explicitly-motivated-early.md) — related

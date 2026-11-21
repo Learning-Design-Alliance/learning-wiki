@@ -73,3 +73,4 @@ Same Question 1 analysis; the author judges the relatively common answer about p
 - [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
 - [Dewey's analysis of the second BCI question revealed misconceptions about gene dosage, dominance in homozygous organisms, and the functional roles of genes.](dewey-gene-deletion-analysis.md) — related
+- [Students self-report improved understanding of position-velocity-acceleration relationships after the smartphone activity](smartphone-activity-self-reported-understanding-gains.md) — related

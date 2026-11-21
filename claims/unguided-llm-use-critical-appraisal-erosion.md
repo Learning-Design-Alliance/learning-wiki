@@ -72,3 +72,4 @@ Two experimental studies reported in the knowledge acquisition section found low
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — a broader claim this one bears on
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

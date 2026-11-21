@@ -69,3 +69,4 @@ Continuation of the same analytic-versus-numerical comparison activity in §3.4,
 - [MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation](maps-guided-critique-supports-expert-aligned-evaluation-of-ai-solutions.md) — related
 - [The spring exercise lets students demonstrate interactively that the half-cycle time of harmonic motion does not depend on amplitude, even under Euler-Cromer integration](spring-exercise-period-amplitude-independence.md) — related
 - [In the particle repulsion exercise, students' energy-conservation calculation of closest approach agrees well with the iterative program](repulsion-closest-approach-agrees-iterative.md) — related
+- [Students self-report improved understanding of position-velocity-acceleration relationships after the smartphone activity](smartphone-activity-self-reported-understanding-gains.md) — related

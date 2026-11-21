@@ -94,3 +94,4 @@ Linear mixed model on all 500 per-question learning-delta change scores with par
 - [Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts](tutor-tactics-three-attempt-bottom-out.md) — related
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [No significant between-group differences in pre-test, post-test, or improvement (delta) performance scores across the three training mixes](no-between-group-delta-differences-pt-cl-mixes.md) — reports the opposite
+- [Intelligent tutoring systems show generally positive effects on learning, whereas naive chatbots delivering pre-digested answers limit reflection and critical engagement](pedagogically-aligned-ai-enhances-outcomes.md) — reports the opposite

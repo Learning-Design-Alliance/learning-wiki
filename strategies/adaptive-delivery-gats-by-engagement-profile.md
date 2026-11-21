@@ -43,6 +43,7 @@ The article recommends moving beyond a single representation for all learners: "
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 - [Future research should identify student populations and contexts differentially affected by representational visuals in mathematics materials](identify-populations-differentially-affected-by-representational-visuals.md)
 - [Involve stakeholders in dashboard co-design and select visualizations that avoid ineffective practices](dashboard-stakeholder-co-design-strategy.md)
+- [Adaptive feedback designs that tailor feedback elaboration and representational format to learner profiles](adaptive-feedback-tailoring-elaboration-and-format.md)
 
 ## Examples
 -

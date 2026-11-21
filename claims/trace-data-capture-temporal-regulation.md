@@ -60,3 +60,4 @@ Narrative review of trace-methodology work following Winne's idea of trace as da
 - [Making activities overshadowed self-assessment, which students sometimes perceived as an unnecessary interruption](making-activities-overshadowed-self-assessment.md) — related
 - [Intervening, in which the teacher interrupts and takes over the situation, could impair students' learning process and the teacher-student relationship](intervening-can-impair-learning.md) — related
 - [Time series clustering of network metrics identifies distinct developmental trajectories of visual search](time-series-clustering-distinct-gaze-trajectories.md) — related
+- [SRL transitions during gaming are disordered and misaligned with the four-stage SRL sequence, unlike non-gaming clips](disordered-srl-transitions-during-gaming.md) — a narrower finding that bears on this claim

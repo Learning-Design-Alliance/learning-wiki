@@ -81,3 +81,4 @@ Evaluation of six GPT and Llama models prompted out-of-the-box to score essays o
 - [LLM-based grading of open-ended geometry explanations shows substantial agreement with teacher judgments (overall agreement 0.866, Cohen's κ = 0.737)](llm-grading-substantial-teacher-agreement-open-ended-geometry.md) — related
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — reports the opposite
 - [Expert-graded essay scores increase significantly from pre to post learning with both tools, except flow/organization and spelling/grammar/mechanics](pre-post-gains-both-tools.md) — related
+- [Human inter-rater reliability on short-form holistic physics essays is extremely low, placing a ceiling on AI-human agreement claims](low-human-essay-reliability-ceiling.md) — related

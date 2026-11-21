@@ -55,3 +55,4 @@ Subgroup analysis by question type (A1, A2, A3/A4, B1) across both exam years, t
 - [GPT-4o achieves significantly higher overall accuracy than GPT-4 and GPT-3.5 on the 2020 and 2021 Chinese NMLE](gpt4o-highest-accuracy-chinese-nmle.md) — related
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — related
 - [On real student responses, the synthetic-data-trained agent outperformed GPT-4o on Top1 accuracy (44.2% vs 40.8%) and Top3 F1 (0.731 vs 0.706)](agent-outperforms-gpt4o-top1-top3.md) — related
+- [LSGEN outperforms program-repair baselines on LPR-Bench in code accuracy and bug-description F1](lsgen-outperforms-lpr-baselines.md) — related

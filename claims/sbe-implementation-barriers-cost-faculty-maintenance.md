@@ -80,3 +80,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related
 - [Time and content knowledge were the primary barriers to engaging in cognitive tasks during UREs](time-and-content-knowledge-barriers-ure.md) — a narrower finding that bears on this claim
 - [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related
+- [Before implementation, lecturers identified content volume as the primary exam-preparation challenge and reported insufficient time and resources for personalised feedback.](lecturer-baseline-needs-exam-preparation.md) — related

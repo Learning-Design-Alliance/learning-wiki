@@ -68,3 +68,4 @@ Interview reflection from a male educator who said "I don't see things as automa
 - [Beliefs that physics requires innate brilliance help explain the lack of women in physics](brilliance-beliefs-explain-women-underrepresentation.md) — related
 - [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](biased-treatment-explains-gender-gap-entry.md) — related
 - [Field-specific ability beliefs are consensual cultural beliefs, acquired by early elementary school, that associate brilliance with fields like math more than language fields](fabs-consensual-early-acquired.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

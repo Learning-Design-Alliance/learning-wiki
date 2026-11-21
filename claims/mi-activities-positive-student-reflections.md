@@ -62,3 +62,4 @@ Qualitative interviews with ten randomly selected students after post-testing, p
 - [Students reported positive attitudes toward QMP-based automated formative evaluations](qmp-student-satisfaction-positive-attitudes.md) — related
 - [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related
 - [Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)](positive-student-attitudes-toward-dge-limit-activities.md) — related
+- [Teachers reported the game elicited graph reflections rarely surfacing in traditional lessons and expressed interest in adopting it](missionmotion-teacher-feedback.md) — related

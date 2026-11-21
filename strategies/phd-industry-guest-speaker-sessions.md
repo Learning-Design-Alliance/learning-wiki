@@ -49,6 +49,7 @@ Planned sessions with 'national and international PhD researchers and industry p
 - [Guest speaker career narratives to broaden students' sense of physics career paths](guest-speaker-career-path-exposure-strategy.md)
 - [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 - [Strengthen the quantum-physics learning ecosystem through researcher-teacher dialogue, sharing and collaboration](strengthen-quantum-learning-ecosystem-collaboration.md)
+- [Host a researcher-industry networking event at a shared venue with pre-distributed project catalogues to create a forum for direct technology-transfer dialogue](smarthep-meets-industry-event-format.md)
 
 ## Examples
 -

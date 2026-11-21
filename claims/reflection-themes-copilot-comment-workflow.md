@@ -70,3 +70,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Graduate HCI design students found GenAI most useful in the execution phase of design, enabling faster prototyping iterations and freeing time for critical thinking](genai-execution-phase-faster-prototyping.md) — related
 - [Scaffolding-guided augmentation improves pedagogical effectiveness and robustness of the dialogue model](singakids-scaffolding-guided-augmentation.md) — related
 - [Instructors prefer an interactive system delivering brief 1–2 hour pedagogical prompting instruction, with both prompt selection and prompt writing](instructor-preferred-interactive-select-then-write-design.md) — related
+- [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related

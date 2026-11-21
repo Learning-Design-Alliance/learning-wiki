@@ -59,3 +59,4 @@ The review's discussion reports this as a key finding from the included studies:
 - [Combining eye tracking with other process measures such as machine vision features provides useful information about student engagement](multimodal-engagement-measurement.md) — related
 - [Subject-wise standardization of eye-tracking features marginally improved the fit of performance and learning rate models](subject-wise-standardization-improves-model-fit.md) — related
 - [Multimodal integration of eye tracking, video, and physiological data enhances precision and robustness of aware and unaware mind-wandering detection and outperforms unimodal approaches](multimodal-outperforms-unimodal-mind-wandering-detection.md) — related
+- [Audio is the core carrier of teacher emotional expression: audio-only features outperform text-only and video-description-only variants](audio-core-carrier-teacher-emotion-t-med.md) — related

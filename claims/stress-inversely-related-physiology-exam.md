@@ -49,3 +49,4 @@ Correlational analysis at T3 linking PSS-10 scores to exam results. Physiology w
 - [Negative emotions, most commonly stress, were inversely correlated with clinical performance in some simulated or educational acute care settings](negative-emotions-inversely-correlated-performance-simulated-acute-care.md) — a broader claim this one bears on
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
 - [Mindfulness and perceived stress are inversely correlated in preclinical medical students at both measurement points](mindfulness-stress-inverse-correlation-medical-students.md) — related
+- [Increased stress and workload are negatively associated with academic performance in postgraduate blended learning](stress-workload-undermine-blended-performance.md) — a broader claim this one bears on

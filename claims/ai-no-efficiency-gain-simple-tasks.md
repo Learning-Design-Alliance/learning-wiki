@@ -81,3 +81,4 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 - [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
 - [VR log data show interns completed more subtasks in the complex case than the simple case, with no significant duration difference and no significant log–confidence relationships](vr-log-task-complex-case-subtasks.md) — related
+- [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — reports the opposite

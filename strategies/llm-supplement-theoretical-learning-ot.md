@@ -52,6 +52,7 @@ The article recommends that OT educators integrate AI tools to reinforce foundat
 - [Use ChatGPT as a supplemental AI tutor for UKMLA revision, including AI-supported mastery quizzing, while retaining traditional study methods](chatgpt-supplemental-tutor-ukmla-revision.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
+- [Use AI-generated responses on visual and spatial reasoning questions as worked examples of common misconceptions](ai-errors-as-misconception-worked-examples.md)
 
 ## Examples
 -

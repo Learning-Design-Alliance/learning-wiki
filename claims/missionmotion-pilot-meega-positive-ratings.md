@@ -47,3 +47,4 @@ Pilot evaluation with 54 ninth-grade students (14–15 years old) in a 2-hour se
 ## Related Claims
 - [Gamification-group students reported positive game-user satisfaction, with Enjoyment and Visual Aesthetics the highest-rated GUESS domains](guess-satisfaction-enjoyment-visual-aesthetics-highest.md) — related
 - [In the 2025 pilot, 54 students reported moderate-to-high learning (M = 3.81) and mostly positive gameplay experiences](sparc-2025-survey-perceptions.md) — related
+- [A pilot with five ninth-grade groups showed strong engagement and positive usability with MissionMotion](missionmotion-pilot-engagement-usability.md) — related

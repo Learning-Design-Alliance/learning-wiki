@@ -66,3 +66,4 @@ Interview excerpt from the same findings section. Ed states coding affects her p
 ## Related Claims
 - [One interviewed student responded negatively to equations in biology, viewing biology as tangible and perceivable and treating equations as material to memorize for exams](student-negative-epistemology-biology-tangible.md) — related
 - [Computational activities added stress that students perceived as uncalled for, prompting some to disengage by copying others' solutions](computation-uncalled-stress-disengagement.md) — related
+- [A multi-day computational activity that the professor intended as an affirming capstone produced negative self-perception in one student despite her liking the course overall](activity-impact-diverged-from-intent.md) — related

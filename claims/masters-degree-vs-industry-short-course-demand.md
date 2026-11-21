@@ -87,3 +87,4 @@ For retraining existing employees, "Companies report a desire for on-demand shor
 - [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related
 - [The review reports that academic degrees alone cannot provide the job-ready skills the quantum industry desires, and that industry experience and up-skilling should be utilized.](degrees-insufficient-quantum-job-ready-skills.md) — related
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — a broader claim this one bears on
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

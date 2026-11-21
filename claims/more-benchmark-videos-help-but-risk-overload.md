@@ -73,3 +73,4 @@ Examiners' judgements within the interviews: additional videos would bring "a so
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — reports the opposite
 - [Cognitive Load Management](cognitive-load-management.md) — related
+- [Students valued replayable video explanations in online PBL for repeatedly reviewing material and benchmarking assignments](replayable-video-explanations-valued.md) — related

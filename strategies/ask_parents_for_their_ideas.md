@@ -63,6 +63,7 @@ Soliciting parent voice works through the same mechanism as student voice: being
 - [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 - [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 - [Solicit and formally review unsolicited scholarly responses when publishing a controversial position](solicit-reviewed-responses-to-controversial-positions.md)
+- [Implement outreach surveys at the closing moments of the event, assigned to a specific person, without mandatory questions](administer-survey-at-event-close-no-mandatory-questions.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — lightweight prompts that make solicitation routine rather than episodic

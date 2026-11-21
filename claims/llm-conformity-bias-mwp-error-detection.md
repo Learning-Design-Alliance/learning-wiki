@@ -52,3 +52,4 @@ Evaluation of 10 LLM-powered error detectors on 200 GSM8K question-solution pair
 - [Providing a corresponding solution as reference mitigates conformity bias, while uniformly providing the conventional solution as reference amplifies it](reference-solution-choice-mitigates-or-amplifies-bias.md) — related
 - [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
+- [Providing official reference solutions consistently reduces LLM marking error on structured physics questions](official-solutions-reduce-llm-marking-error.md) — related

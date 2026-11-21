@@ -53,3 +53,4 @@ Three-way comparison of satisfaction ratings (0–10) across online breakout roo
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
 - [Virtual surgical skills teaching significantly improved students' perceptions of supervision, view of demonstrations and interaction with instructors](virtual-skills-teaching-improved-perceptions.md) — related
 - [Blocked weekly didactic formats show higher learner satisfaction, improved attendance, and fewer interruptions than shorter daily formats, but no objective outcome differences](blocked-weekly-didactics-satisfaction-attendance.md) — related
+- [Students whose performance improved or stayed unchanged reported significantly higher satisfaction with blended learning methods and tutor support than those whose performance worsened](mwu-satisfaction-performance-groups.md) — related

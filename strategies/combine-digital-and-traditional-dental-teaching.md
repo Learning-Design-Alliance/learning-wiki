@@ -58,6 +58,7 @@ The article recommends deploying digital evaluation systems as a supplement to, 
 - [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
 - [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 - [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
+- [Use AI to monitor and support peer collaborations rather than replace them, combining modalities by affordance](ai-monitors-and-supports-peer-collaboration.md)
 
 ## Examples
 -

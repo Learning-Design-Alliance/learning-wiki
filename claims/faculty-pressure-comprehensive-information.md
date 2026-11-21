@@ -46,3 +46,4 @@ Faculty focus group theme on the appropriate amount of information in conference
 
 ## Related Claims
 - [Faculty and residents differ in motivations for conference attendance and desired conference content](faculty-resident-differences-motivation-content.md) — a broader claim this one bears on
+- [Two faculty articulated a causal chain in which administrators' financial needs drive large class sizes, which force lecture as the only feasible pedagogy](finances-class-size-lecture-causal-chain.md) — related

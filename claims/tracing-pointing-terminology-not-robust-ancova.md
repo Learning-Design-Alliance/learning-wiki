@@ -69,3 +69,4 @@ ANCOVA using self-reported prior knowledge as covariate (correlated with termino
 - [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](tracing-pointing-no-intrinsic-load-reduction.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [No robust post-test differences between representation-selection strategies after covariate adjustment, with a possible advantage for alternating across representations](no-robust-strategy-differences-post-test.md) — related

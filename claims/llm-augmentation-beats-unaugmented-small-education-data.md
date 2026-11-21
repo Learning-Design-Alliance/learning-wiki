@@ -51,3 +51,4 @@ Systematic fine-tuning experiment (15,120 BERT-based models over two datasets, s
 - [Augmentation levels below 20x produce unreliable classification performance in small educational datasets](low-augmentation-levels-unreliable.md) — related
 - [Datasets with entropy below 0.5 are difficult to augment enough to beat majority-label guessing](low-entropy-datasets-resist-augmentation.md) — related
 - [A DeBERTa agent fine-tuned on LLM-generated synthetic data achieved a MAP@3 of 0.936 on a synthetic test set, up from 0.532 for DeBERTa alone](synthetic-data-finetuned-deberta-map3-0936.md) — related
+- [Training with textual explanations improves classification over label-only training](explanation-supervision-improves-classification.md) — related

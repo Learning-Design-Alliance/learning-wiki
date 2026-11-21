@@ -64,3 +64,4 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 - [Learning is assumed to be a non-symbolic inductive process enhanced by formal systems acting as tools](learning-non-symbolic-inductive-enhanced-by-formal-systems.md) — related
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related
 - [Tight correspondence between a scientific hypothesis and the experimental method is the most important feature of a successful student science project](tight-hypothesis-method-correspondence-science-projects.md) — related
+- [Experiential exposure to AI failure modes is argued to be necessary because declarative instruction alone does not produce debiasing](experiential-exposure-beats-declarative-instruction.md) — related

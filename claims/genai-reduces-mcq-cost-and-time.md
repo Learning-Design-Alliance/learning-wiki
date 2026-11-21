@@ -50,3 +50,4 @@ The authors' assertion in the introduction, grounded in their literature scan an
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — reports the opposite
 - [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — reports the opposite
+- [A multi-step three-prompt model with human control between steps generated more acceptable MCQ prototypes than a single direct prompt](multi-step-prompt-model-mcq-prototypes.md) — a narrower finding that bears on this claim

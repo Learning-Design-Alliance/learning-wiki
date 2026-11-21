@@ -68,3 +68,4 @@ Same cross-validated RMSE evaluation over real tutor data: the learning extensio
 - [Keystroke-feature regression models fail to predict final writing grade at any point during the writing process](keystroke-regression-does-not-beat-grade-baseline.md) — related
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [Binary classification of students who might need support from keystroke data only slightly exceeds the majority-class baseline (highest AUC 0.57)](keystroke-classification-weak-auc.md) — related
+- [Model prediction accuracy does not meaningfully vary across scientific disciplines, and shows no significant overfitting due to repeated instructors or institutions](prediction-accuracy-robust-discipline-instructor.md) — related

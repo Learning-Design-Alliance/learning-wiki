@@ -46,3 +46,4 @@ A critical survey of educational papers, semi-technical and popular accounts of 
 
 ## Related Claims
 - [Physics teachers are rarely trained to teach the Higgs boson despite student demand](teachers-rarely-trained-higgs-particle-physics.md) — related
+- [Particle Dobble's arbitrary, non-literal symbols are designed to dispel the Newtonian misconception that elementary particles are solid spheres](symbolic-icons-refute-solid-sphere-misconception.md) — related

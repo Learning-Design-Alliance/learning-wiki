@@ -51,3 +51,4 @@ Coded free-text verification responses from the pre/post survey, machine-coded w
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — a broader claim this one bears on
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
+- [Productive genAI use was associated with limiting it to small, well-understood steps and double-checking its output](productive-genai-use-small-steps-verification.md) — related

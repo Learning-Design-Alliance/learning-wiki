@@ -51,3 +51,4 @@ The phenomenographic analysis identified the Broader Context family, discussed b
 - [Physics faculty perceive four families of needs around research-based assessments: practical needs, limited measure, want help, and broader context.](four-needs-families-research-based-assessment-physics.md) — related
 - [Faculty role (department head versus faculty member) shapes assessment perceptions more than school size, with department heads dominating broader-context discussions.](role-and-institution-size-shape-assessment-perceptions.md) — related
 - [Half of faculty would make no change to their most recent mentoring experience and want departmental funding, skill-building, and networking support rather than interference in mentoring](faculty-mentoring-autonomy-constraint.md) — related
+- [The redesigned programme was fully validated by IOP accreditation in 2023, with the panel highlighting the redesign as good practice](iop-accreditation-validated-redesign.md) — related

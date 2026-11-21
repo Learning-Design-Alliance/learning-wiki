@@ -87,3 +87,4 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Voluntary use of StudentResearcher was retained well as the exam approached, with weekly badge counts dropping only 30% from week one to the last week](studentresearcher-badge-retention-high.md) — related
 - [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related
 - [Higher-engagement user quartiles show greater chat reliance, with Q3 users showing the highest chat reliance and strong success rates](engagement-quartiles-chat-reliance.md) — related
+- [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related

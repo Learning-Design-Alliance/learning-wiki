@@ -72,3 +72,4 @@ Authors' conceptual interpretation in the framework development section, not a t
 - [Learning is cumulative, so foundational knowledge assessment cannot be skipped even when GenAI can pass such tests](cumulative-learning-foundational-knowledge-assessment.md) — related
 - [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)
 - [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related
+- [AI dependency and overtrust erode learner agency: excessive reliance undermines independent problem-solving, and explicit instruction about AI's statistical nature can restore critical engagement](ai-dependency-overtrust-erode-agency.md) — related

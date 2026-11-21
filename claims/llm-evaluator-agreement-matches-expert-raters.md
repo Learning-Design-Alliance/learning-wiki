@@ -91,3 +91,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [GenAI-generated driving theory questions show strong model-expert agreement on accuracy and relevancy, with the model slightly outperforming the expert on weighted average](genai-question-accuracy-relevancy-strong-agreement.md) — related
 - [LLM-based grading of open-ended geometry explanations shows substantial agreement with teacher judgments (overall agreement 0.866, Cohen's κ = 0.737)](llm-grading-substantial-teacher-agreement-open-ended-geometry.md) — related
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related
+- [Unadjusted foundation models achieve only moderate agreement (Cohen's κ = 0.38–0.58) with expert annotations when classifying instructional moves in authentic classroom transcripts](llm-baseline-moderate-kappa-talk-moves.md) — related

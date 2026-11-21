@@ -73,3 +73,6 @@ Score distribution comparison across the 2209 graded instances in the AI marking
 - [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — related
 - [AAG system scores align closely with human TA scores on open-ended statistics questions, with Pearson correlations of 0.75 and 0.82](aag-ta-score-correlation-open-ended.md) — related
 - [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — related
+- [Anchored exemplars shift AI essay means close to the human mean and compress variance below the human standard deviation, but rank-order agreement remains near-zero](anchored-exemplars-fix-distribution-not-ranking.md) — related
+- [Blind AI essay marking is harsher and more variable than human marking, and adding a marking scheme does not improve rank-order agreement](llm-essay-marking-harsh-low-rank-agreement.md) — related
+- [LLM markers show robust rank-order agreement with human markers on blind university exam questions and structured curriculum questions](llm-rank-order-agreement-structured-physics-questions.md) — related

@@ -62,3 +62,4 @@ Same interview data set: despite reported interest gains from videos, most stude
 - [Teachers rated students as highly engaged in the workshops, with hands-on coding tutorials and group activities the most frequently stated reason](hands-on-coding-drove-workshop-engagement.md) — related
 - [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related
 - [A fictional-news correlation activity helped high-school physics students understand that correlation does not necessarily imply causation](fictional-news-correlation-activity-causation-understanding.md) — related
+- [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related

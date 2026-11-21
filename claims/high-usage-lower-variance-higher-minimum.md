@@ -63,3 +63,5 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related
 - [Prior AI usage frequency and general attitudes toward AI do not predict AI-text detection accuracy](ai-usage-attitudes-null-detection.md) — related
+- [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related
+- [AI-supported SDP students showed more consistent exam performance than a lower-performing baseline, but not greater score uniformity than the high-performing non-AI cohort.](sdp-ai-group-score-consistency-mixed.md) — related

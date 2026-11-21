@@ -27,4 +27,4 @@ A metadata schema that extends Dublin Core with educational, curricular, cogniti
 -
 
 ## Key Sources
-- Lockhart, Valerie; McCreary, Dan; Peterson, Troy A. (2025). MicroSims: A Framework for AI-Generated, Scalable Educational Simulations with Universal Embedding and Adaptive Learning Support. https://arxiv.org/abs/2511.19864
+- Lockhart, Valerie; McCreary, Dan; Peterson, Troy A. (2025). MicroSims: A Framework for AI-Generated, Scalable Educational Simulations with Universal Embedding and Adaptive Learning Support. https://arxiv.org/abs/2511.19864. [doi:10.48550/arxiv.2511.19864](https://doi.org/10.48550/arxiv.2511.19864)

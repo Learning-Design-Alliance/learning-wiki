@@ -50,3 +50,4 @@ Path analysis of the NSAL-A sample (n = 1,170) with bootstrapped indirect effect
 - [Parent and peer support are differentially associated with specific developmental assets among Black adolescents](parent-peer-support-asset-associations.md) — related
 - [Mastery and educational aspirations were not significant mediators of psychological distress and educational outcomes](mastery-aspirations-not-significant-mediators.md) — related
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — related
+- [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related

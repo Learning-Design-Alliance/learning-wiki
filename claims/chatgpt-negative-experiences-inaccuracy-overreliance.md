@@ -151,3 +151,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related
 - [Pre-service physics teachers found chatbot explanations useful entry points but frequently identified conceptual inaccuracies and flawed analogies](chatbot-explanations-entry-points-with-inaccuracies.md) — a narrower finding that bears on this claim
 - [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — related
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

@@ -109,6 +109,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Gradually introduce basic concepts of modern physics into high school physics curricula](../strategies/gradually-introduce-modern-physics-high-school-curricula.md)
 - [Split advanced topics into a sequence of self-contained, single-concept notebooks](../strategies/sequence-self-contained-single-concept-notebooks.md)
 - [Introduce LLM concepts through hands-on Python activities that progress from simple examples to increasing complexity with physics-related tasks](../strategies/hands-on-python-llm-introduction-strategy.md)
+- [Scaffold computational activities from built-in functions toward student-written code within a physics course](../strategies/scaffolded-computational-activities-built-in-to-written-code.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

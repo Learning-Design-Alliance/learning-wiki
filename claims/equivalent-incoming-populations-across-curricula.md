@@ -52,3 +52,4 @@ GT pre-test comparison (N=1319 traditional, N=321 M&I, Figure 4a) with average p
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
 - [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related
 - [BEMA mean scores at TAMU were 27% at pre-instruction and 42% at post-instruction on WebAssign](bema-mean-scores-pre-post-webassign.md) — related
+- [Mean of Individual Gains on the BEMA was significantly higher in the experimental group than in the control group](individual-gains-higher-eg.md) — related

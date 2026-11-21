@@ -71,3 +71,4 @@ Descriptive gender breakdown of role-distribution preference items in the same 4
 - [The distribution of within-pair equipment use departs from flat sharing, hinting that one partner — more often the male — takes over the apparatus, an effect marginal at 37 pairs](one-partner-takes-over-equipment-marginal.md) — related
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
 - [Men behaved differently depending on group gender composition: men in single-gender groups were more often high Equipment users, while men in mixed-gender groups were more often high Other users](men-behavior-group-composition.md) — related
+- [Students report sharing and splitting roles far more often than rotating roles in introductory physics labs](students-report-sharing-splitting-most.md) — related

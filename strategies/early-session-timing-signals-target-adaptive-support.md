@@ -50,6 +50,7 @@ The article recommends that timing-based signals be used to identify early risk 
 - [Use cluster-derived usage patterns to drive machine-learning recommender systems and educator/learner dashboards for individualized support](learning-analytics-recommenders-dashboards-udl.md)
 - [Direct tutor effort toward the lowest-achieving students using a dashboard rather than a round-robin allocation](dashboard-directed-tutor-allocation.md)
 - [Four-step process: identify behaviors, explore context, integrate support, surface just-in-time recommendations](gem-four-step-support-process.md)
+- [Use conversational traces as signals for identifying students who may need additional support](conversational-traces-early-warning-signals.md)
 
 ## Examples
 -

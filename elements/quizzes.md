@@ -116,6 +116,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](../strategies/buddy-quiz-scoring-variation-strategy.md)
 - [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](../strategies/compulsory-ungraded-orientation-quiz.md)
 - [Supplement or replace homework assessment with in-class low-stakes quizzes and whiteboard group problem-solving when online solutions undermine the homework model](../strategies/in-class-quizzes-whiteboard-problem-solving-replacing-homework.md)
+- [Generate post-lecture quiz questions targeting the lecture sections where individual learners paid least attention](../strategies/attention-aware-post-lecture-quiz-strategy.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

@@ -57,3 +57,4 @@ Reliability analysis of five independent runs per model (Table 2, Figures 2 and 
 - [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — reports the opposite
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
 - [LLM-generated incorrect-explanation categories persisted across multiple API runs, indicating consistent grading performance](llm-categories-persist-across-runs.md) — related
+- [iRULER's LLM-as-a-judge scoring showed high intra-model reliability and moderate-to-substantial agreement with expert ratings on the ICNALE dataset](iruler-scoring-reliability-expert-agreement.md) — related

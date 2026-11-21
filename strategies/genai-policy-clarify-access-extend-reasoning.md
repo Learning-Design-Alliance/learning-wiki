@@ -46,6 +46,7 @@ The article's concluding recommendation is that educators should design GenAI co
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 - [Standardise the GenAI tools permitted in assessments, or limit advanced tools, to maintain equitable access](standardise-genai-tools-equitable-access.md)
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
+- [Teach productive genAI use, keep teaching staff available, and restrict genAI access for foundational skill development](teach-productive-genai-use-keep-tas-restrict-access.md)
 
 ## Examples
 -

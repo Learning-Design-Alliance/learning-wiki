@@ -56,4 +56,4 @@ The article recommends that AI tutor responses embed scientific references so st
 -
 
 ## Key Sources
-- Barrionuevo, S. D., & Aguirre, M. H. (2025). AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025. https://arxiv.org/abs/2509.20372
+- Barrionuevo, S. D., & Aguirre, M. H. (2025). AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025. https://arxiv.org/abs/2509.20372. [doi:10.48550/arxiv.2509.20372](https://doi.org/10.48550/arxiv.2509.20372)

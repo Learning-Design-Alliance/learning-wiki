@@ -69,3 +69,4 @@ Baseline evaluation of LR and XGBoost on OULAD using 10-fold nested cross-valida
 - [The STEM-affinity graphical model's final-quarter intention classification matches actual STEM graduation with accuracy 0.896, recall 0.999, and precision 0.670](stem-affinity-model-final-quarter-validation.md) — related
 - [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related
 - [XGBoost slightly outperformed a logistic regression baseline in predicting ChatGPT assignment use](xgboost-slightly-outperforms-logistic-baseline.md) — related
+- [The neural network predicts student correctness on unseen questions with F1 of 0.8350 and AUC-ROC of 0.7789](nn-correctness-prediction-holdout-metrics.md) — related

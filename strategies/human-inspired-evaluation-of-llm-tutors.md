@@ -47,6 +47,7 @@ The authors recommend that AIED researchers develop systematic, human-inspired e
 - [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
 - [Simulate-then-test workflow: use personalized computational models to screen interventions before running costly human experiments](simulate-then-test-intervention-screening.md)
 - [Design field experiments on AI use with attention to perception, group dynamics, an outside option, and role-switching alternatives](ai-experiment-design-lessons-perception-outside-option.md)
+- [Validate simulated learner behavior against authentic student responses through longitudinal school deployment](longitudinal-deployment-validation-strategy.md)
 
 ## Examples
 -

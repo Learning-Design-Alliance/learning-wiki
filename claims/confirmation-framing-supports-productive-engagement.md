@@ -47,3 +47,4 @@ Consensus narrative video analysis of one group (Holly, Judy, Peter) in a hybrid
 ## Related Claims
 - [Lab groups that did not problematize a designed data-model inconsistency primarily framed the activity as confirming expected models or as jumping through hoops to finish quickly](non-problematizing-groups-confirmation-hoops-frames.md) — related
 - [Avoiding confirm-the-known-result activities in the transformed course was followed by a significant favorable shift on the E-CLASS item about confirming previously known results](avoiding-confirmation-activities-shift-item-16.md) — related
+- [Platoon-length results after the DI course ran opposite to expectations: spacing expanded on the circuit but platoon-length dispersion fell in the simulator](platoon-length-opposite-simulator-circuit.md) — related

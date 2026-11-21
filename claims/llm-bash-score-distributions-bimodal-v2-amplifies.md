@@ -56,3 +56,4 @@ Descriptive distribution analysis of the four LLMs' grades under both prompt var
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
 - [In this cohort, 47% of students achieved a perfect CRT score with a mean of 2.1/3, higher than a large cross-study reference population](crt-score-distribution-skewed-high.md) — related
 - [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related
+- [A two-pass extraction-then-filtering architecture eliminated bimodal output in LLM question identification over lecture transcripts](two-pass-architecture-bimodal-question-extraction.md) — related

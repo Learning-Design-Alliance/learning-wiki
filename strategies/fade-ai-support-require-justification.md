@@ -49,6 +49,7 @@ The article recommends designing AI-supported instruction that balances external
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
 - [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
+- [Design AI companions as co-learners that cannot provide immediate solutions to preserve learner cognitive activity](ai-co-learner-design-avoid-offloading.md)
 
 ## Examples
 -

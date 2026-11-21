@@ -51,6 +51,7 @@ The article recommends structured faculty development programs in response to it
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
 - [Sequence tutor style within PBL: begin facilitative, shift to non-facilitative as students gain PBL experience](sequenced-facilitative-then-nonfacilitative-tutoring.md)
+- [Sequence professional development for lecturing faculty: show active classrooms and establish that pedagogy choice exists before offering training](address-powerlessness-before-pd-sequence.md)
 
 ## Examples
 -

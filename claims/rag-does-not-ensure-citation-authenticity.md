@@ -54,3 +54,4 @@ Consensus ratings (Table 2) show Authenticity of References scored 0/3 for all s
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — a broader claim this one bears on
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
+- [A three-layer mitigation strategy reduced Whisper hallucination loops from 6.4% of segments to 0.02% across a lecture corpus](whisper-hallucination-loop-mitigation-transcripts.md) — related

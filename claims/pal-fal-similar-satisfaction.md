@@ -55,3 +55,4 @@ Strongly agree	26 (86.7)	26 (86.7)	450.00	1.000"
 - [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — related
 - [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — related
 - [German Skills-Lab PAL programs differ considerably between faculties in size, facilities and content focus](pal-program-variation-across-faculties.md) — related
+- [Students whose performance improved or stayed unchanged reported significantly higher satisfaction with blended learning methods and tutor support than those whose performance worsened](mwu-satisfaction-performance-groups.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 498 claims (259 for, 211 mixed, 28 against) · 375 studies (116 associational, 97 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 35 of 375 report an effect size · 490 claims rest on one study
+> **Evidence** · 499 claims (260 for, 211 mixed, 28 against) · 376 studies (116 associational, 98 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 35 of 376 report an effect size · 491 claims rest on one study
 
 ## Conditional relationship
 
@@ -342,6 +342,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Preliminary re-testing found scaffolded COT unstable across runs while GPT-4o in chat mode reliably reached about 75% agreement using Detailed-Rubric COT](../claims/gpt4o-chat-mode-detailed-rubric-reliability.md) [~W] — attached 2026-11-21 from Zhongzhou Chen et al. (2024), which proposed "Use carefully engineered prompts to raise AI grading accuracy before resorting to fine-tuning, RAG, or few-shot learning".
 - [Mistranslations of technical physics terms changed the physical meaning of specific FI questions, causing incorrect LLM answers despite sound reasoning](../claims/technical-term-mistranslations-change-physics-meaning.md) [+W] — attached 2026-11-21 from Marina Babayeva et al. (2025), which proposed "Require physicist expert review of LLM-translated assessments; LLM problem-solving can only indicate, not establish, translation validity"; tests this page's relationship.
 - [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](../claims/chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) [~W] — attached 2026-11-21 from Mrityunjay Kumar (2025), which proposed "Caution against applying goal-setting theory to LLM-driven assessment tasks"; tests this page's relationship.
+- [QCCS Item 15 v2.1 became nearly impossible (3% correct) because students were reticent to choose 'none of these'](../claims/qccs-item15-v2-1-none-of-these-reticence.md) [+W] — attached 2026-11-21 from Josephine C. Meyer et al. (2026), which proposed "Diagnosing why an assessment item misperforms requires triangulating multiple quantitative and qualitative methodologies".
 
 ## Objective and learner-valued goal
 

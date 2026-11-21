@@ -82,3 +82,4 @@ Correlation analysis in the willingness results section reports "r = 0.189; p < 
 - [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related
 - [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related
 - [Teachers who use AI more frequently hold stronger beliefs in its effectiveness and greater willingness to integrate it, but not fewer perceived drawbacks](higher-ai-use-linked-to-stronger-effectiveness-beliefs.md) — related
+- [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related

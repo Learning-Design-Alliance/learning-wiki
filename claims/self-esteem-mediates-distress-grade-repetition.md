@@ -49,3 +49,4 @@ In the NSAL-A path analysis (n = 1,170), bootstrapped indirect effects through s
 - [Mastery and educational aspirations were not significant mediators of psychological distress and educational outcomes](mastery-aspirations-not-significant-mediators.md) — related
 - [Psychological distress shows no significant total or mediated association with suspensions among Black adolescents](no-significant-distress-suspension-mediation.md) — related
 - [Parent and peer support are differentially associated with specific developmental assets among Black adolescents](parent-peer-support-asset-associations.md) — related
+- [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related

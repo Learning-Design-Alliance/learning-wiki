@@ -51,6 +51,7 @@ Based on the cross-study patterns, the review recommends that the educational va
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 - [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
+- [Design physics tasks that have students critique, compare, and revise AI-generated explanations](critique-and-revise-ai-generated-explanations-strategy.md)
 
 ## Examples
 -

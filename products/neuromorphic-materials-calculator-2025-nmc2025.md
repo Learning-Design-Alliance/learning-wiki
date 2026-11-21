@@ -28,4 +28,4 @@ NMC2025 is a Python command-line platform developed by Barrionuevo et al. that c
 -
 
 ## Key Sources
-- Barrionuevo, S. D., & Aguirre, M. H. (2025). AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025. https://unizar.es
+- Barrionuevo, S. D., & Aguirre, M. H. (2025). AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025. https://unizar.es. [doi:10.48550/arxiv.2509.20372](https://doi.org/10.48550/arxiv.2509.20372)

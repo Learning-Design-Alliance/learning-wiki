@@ -53,3 +53,4 @@ Self-report items from the 291-form audience evaluation: one question on perceiv
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related
 - [More than 90% of volunteers asked questions after print examination and wanted to know more about astronomy, indicating the prints stimulated interest without supplemental material](prints-stimulate-astronomy-interest-90-percent.md) — related
+- [High-school students rate multi-sensory astronomy exploration as highly engaging and report increased confidence that astronomy is accessible for blind and visually impaired people](hs-students-multisensory-engaging-accessibility-confidence.md) — related

@@ -62,3 +62,6 @@ Human evaluation (RQ3): two annotators independently rated 100 solution-feedback
 - [LLM grading produced multi-sentence diagnostic feedback where human grader comments were typically two to three words](llm-grading-feedback-depth-advantage.md) — reports the opposite
 - [Model grading performance does not exhibit a clear correlation with student proficiency levels on MathEDU](mathedu-performance-uncorrelated-with-student-proficiency.md) — related
 - [AI models show contextual intuitiveness by correctly inferring missing task context from ambiguous student prompts, but their feedback is not always fully appropriate or correct](ai-contextual-intuitiveness-ambiguous-prompts.md) — related
+- [Automated analysis found AI-mediated feedback offered significantly greater actionability and stronger support for independent learning than human-only feedback](ai-mediated-feedback-actionability-independent-learning.md) — reports the opposite
+- [Human raters judge ParLD's inferred cognitive states more accurate and coherent than Direct Analyze](parld-diagnostic-quality-ratings-beat-da.md) — related
+- [TAs found AI suggestions generally accurate and helpful for uncovering overlooked errors, understanding rubrics, and framing feedback](tas-found-ai-suggestions-accurate-and-helpful.md) — reports the opposite

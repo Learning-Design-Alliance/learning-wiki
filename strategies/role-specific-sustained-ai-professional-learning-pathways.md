@@ -64,6 +64,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
 - [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 - [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
+- [Use one-off AI literacy workshops as entry points supported by sustained, systemic curriculum integration](workshops-as-entry-points-with-sustained-integration.md)
 
 ## Examples
 -

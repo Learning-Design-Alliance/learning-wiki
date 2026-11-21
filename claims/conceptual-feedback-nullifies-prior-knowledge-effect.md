@@ -53,3 +53,4 @@ Interaction analysis in the N = 190 multilevel model: the conceptual feedback ×
 - [Elaborated conceptual and procedural feedback are significantly more conducive to learning than no feedback, while KR feedback is not](elaborated-feedback-beats-no-feedback-kr-not-significant.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
+- [The association between elaborated-feedback use and post-test scores is not moderated by prior knowledge, platform performance, or response confidence](feedback-effect-no-moderation-prior-knowledge.md) — reports the opposite

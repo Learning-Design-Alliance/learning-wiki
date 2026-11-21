@@ -105,6 +105,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
 - [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 - [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
+- [Online and hybrid communities of physics educators supporting EBAE adoption](online-community-physics-educators-ebae-support.md)
 
 ## Examples
 -

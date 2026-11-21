@@ -63,3 +63,4 @@ Null comparison within the same annotation study: for GPT-5.2 and GPT-4o under h
 - [Prompt refinement significantly improves GPT-3.5 agreement with human rater 1 but not, statistically, with rater 2](scaffolded-cot-significance-by-rater.md) — related
 - [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related
 - [Chain-of-thought prompting modestly improves case consistency and completeness but reduces controlled disclosure](cot-prompting-reduces-controlled-disclosure.md) — related
+- [Few-shot prompting substantially improves Talk Move classification for some models (Claude 4.5 Opus κ 0.48→0.58; Gemini 2.5 Pro 0.38→0.57) but yields minimal gains for GPT-5 and o3](few-shot-prompting-gains-heterogeneous-llm.md) — related

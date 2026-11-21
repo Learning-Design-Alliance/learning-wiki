@@ -55,3 +55,4 @@ Profile-content ablation (Table 2) splitting the profile into knowledge sections
 - [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related
 - [GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation](grpo-refines-profiles-toward-diagnostic-representations.md) — related
 - [Static onboarding metadata personalization yields the highest adaptability scores in AI tutoring responses](static-onboarding-metadata-highest-adaptability.md) — related
+- [Removing the Behavior Previewer hurts ParLD's prediction most; the full framework outperforms all ablation variants](parld-ablation-preview-reflector-contributions.md) — related

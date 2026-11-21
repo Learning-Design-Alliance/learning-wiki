@@ -56,3 +56,4 @@ Qualitative analysis of one episode beginning at minute 33:20 with a red-framed 
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
 - [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
+- [An unresolved debugging struggle early in the activity undermined one student's subsequent engagement, and she never submitted the second associated assignment](unresolved-debugging-derailed-multi-day-activity-engagement.md) — related

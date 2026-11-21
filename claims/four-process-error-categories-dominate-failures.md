@@ -52,3 +52,4 @@ Error-attribution analysis of incorrect solutions on GeoVAD-Bench (Figure 3, Sec
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - [Clinical reasoning and prioritization failures dominated LLM errors on the NNLE](clinical-reasoning-prioritization-error-dominance.md) — related
+- [Perception Errors are the dominant LLM error type under optimized conditions, accounting for 43.06% of errors](perception-errors-dominant-llm-failures.md) — related

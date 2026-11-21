@@ -54,3 +54,4 @@ Stability experiment in which the 899 CDPK questions were run 20 times on a subs
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
 - [GPT-2 generates different text for the same prompt across repeated runs, demonstrating its stochastic output](gpt2-stochastic-output-varies-across-runs.md) — related
+- [Re-sampling the same question against a fixed interaction history produces diverging LLM answers, revealing stochastic flips and trajectory bifurcation](llm-resampling-reveals-stochastic-flips.md) — related

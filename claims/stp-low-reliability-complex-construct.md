@@ -97,3 +97,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
 - [o1-preview matched overall computational thinking but scored far below humans on problem-solving while exceeding all human groups on the ATTA](o1-preview-ct-problem-solving-deficit-atta-perfect.md) — related
 - [Text alone surpasses human inter-rater reliability for assessing discourse quality, especially on high-inference components](text-modality-surpasses-human-irr-discourse.md) — related
+- [LLM reliability on instructional moves varies by construct: stronger on explicit, structurally constrained moves and weaker on socially and metacognitively demanding ones](llm-reliability-varies-by-talk-move-construct.md) — related

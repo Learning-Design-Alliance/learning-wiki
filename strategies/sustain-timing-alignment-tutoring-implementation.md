@@ -44,6 +44,7 @@ Based on the null long-term findings, the authors recommend that future tutoring
 - [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
 - [Test, track and extend readiness support programs for disadvantaged children](readiness-support-program-research-agenda-strategy.md)
 - [Schedule reinforcement follow-up when designing sepsis education interventions to sustain nurses' knowledge](reinforcement-follow-up-sustain-sepsis-knowledge.md)
+- [Evaluate AI tutoring with consistent support assignments over months and external standardized assessments](longitudinal-consistent-support-ai-tutoring-evaluation.md)
 
 ## Examples
 -

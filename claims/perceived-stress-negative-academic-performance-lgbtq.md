@@ -51,3 +51,4 @@ SEM path analysis in the same survey of 359 Chinese LGBTQ+ college students. The
 - [Perceived academic support significantly moderated the negative link between perceived stress and academic performance in Chinese LGBTQ+ college students, but the paper's own slopes show the link was stronger, not weaker, at high support](academic-support-buffers-stress-performance.md) — related
 - [Academic stress negatively predicts academic achievement among medical master's students](academic-stress-negative-predictor-medical-postgraduates.md) — related
 - [Perceived stress is negatively related to psychological well-being among Chinese LGBTQ+ college students](perceived-stress-negative-wellbeing-lgbtq-china.md) — related
+- [Increased stress and workload are negatively associated with academic performance in postgraduate blended learning](stress-workload-undermine-blended-performance.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Regression models predicting final exam scores using only the two incoming prepa
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Structural equation modeling confirms that incoming preparation mediates the demographic gaps in final exam scores at all three institutions](sem-mediation-of-demographic-gaps.md) — related
 - [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related
+- [A predictive model using four classroom variables accounts for 49% of the variance in concept-inventory effect sizes across 69 undergraduate science courses](copus-predictive-model-49-percent-variance.md) — related

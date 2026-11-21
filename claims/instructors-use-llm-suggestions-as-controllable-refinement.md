@@ -60,3 +60,4 @@ Observational data from three instructors teaching in VR with LumiNote, drawing 
 - [University instructors' design process did not appear to draw on instructional design models](instructors-design-not-draw-on-id-models.md) — related
 - [Learners attempt to share personal values with LLM-generated learning materials as they would with human instructors, raising design questions about AI versus human disclosure](sharing-personal-values-with-llm-materials.md) — related
 - [Instructors were open to AI grading assistance but emphasized maintaining human control over key parts of the grading workflow](ai-suitable-standardized-not-subjective-grading.md) — a narrower finding that bears on this claim
+- [LLM-generated resources frequently failed expert acceptance, suggesting LLMs may overlook intended learning outcomes when tailoring resources](llm-generated-resources-fail-expert-acceptance.md) — related

@@ -67,3 +67,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
 - [Students perceived ChatGPT as helping with time savings and understanding, but far fewer saw benefits for knowledge application or long-term retention](chatgpt-perceived-time-saving-not-retention.md) — related
 - [Students most commonly use genAI in STEM coursework for finding explanations, exploring topics, summarizing readings, and helping with problem sets, mainly to save time](genai-stem-coursework-use-cases-save-time.md) — related
+- [Students who participated in Oxford-style debates rated the didactic tool highly useful and passed the course in the first evaluation round](oxford-debate-usefulness-rating.md) — related

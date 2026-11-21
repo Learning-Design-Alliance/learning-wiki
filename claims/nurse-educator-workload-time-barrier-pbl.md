@@ -55,3 +55,4 @@ Qualitative interview finding from eighteen nurse educators at ten Ethiopian pub
 - [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related
 - [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related
 - [Students identified workload, technical problems, content overload and lack of face-to-face interaction as barriers to the beta e-learning program](e-learning-barriers-workload-technical-content-overload.md) — related
+- [Before implementation, lecturers identified content volume as the primary exam-preparation challenge and reported insufficient time and resources for personalised feedback.](lecturer-baseline-needs-exam-preparation.md) — related

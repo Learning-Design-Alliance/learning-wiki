@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2026
+newest_evidence: 2025
 sources:
-  - id: cohn-2026
+  - id: cohn-2025
     resource: "https://doi.org/10.48550/arxiv.2504.02323"
-    title: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)"
+    title: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2025). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)"
     author: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G."
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The authors report that teacher feedback suggests LLM-based formative assessment can reduce grading burden, surface student misconceptions, and support targeted instructional intervention without replacing teacher judgment, and that explanatory AI scoring can build student trust. [→ Cohn 2026](#cohn-2026)
+`q1 i?` The authors report that teacher feedback suggests LLM-based formative assessment can reduce grading burden, surface student misconceptions, and support targeted instructional intervention without replacing teacher judgment, and that explanatory AI scoring can build student trust. [→ Cohn 2025](#cohn-2025)
 
 ## Evidence
 
-### Cohn 2026
+### Cohn 2025
 
-Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)
+Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2025). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)
 
 `q1 · i?` · `qualitative · r?`
 
@@ -52,3 +52,4 @@ The article's own summary of its RQ2 qualitative findings, drawn from semi-struc
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — a broader claim this one bears on
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related
+- [School principals view teacher-in-the-loop control over AI-generated materials as a prerequisite for trust and adoption](principals-teacher-in-the-loop-trust-adoption.md) — related

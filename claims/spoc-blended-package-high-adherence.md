@@ -69,3 +69,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related
 - [Participation in the Gravitas online seminars was substantial, with around 270 visualizations per YouTube video and 80 students on average during live sessions](gravitas-online-seminar-participation.md) — related
 - [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related
+- [The application reduced average mastery time by approximately 44% compared to the traditional Iqro' method (18 hours vs. 32 hours)](mastery-time-reduced-44-percent-vs-iqro.md) — related

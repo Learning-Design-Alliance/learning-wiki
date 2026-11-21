@@ -55,6 +55,7 @@ The authors integrated Python data analysis into an existing first-semester labo
 - [Embed ED problems in parallel with scaffolded lab experiments using physics principles](ed-parallel-scaffolded-labs-strategy.md)
 - [Phase Python computational tasks into physics labs using scaffolded code modification in Jupyter Notebooks](phased-python-scaffolds-jupyter-labs.md)
 - [Guided Google Sheets laboratory exercise in which first-year physics students iteratively implement the Euler-method approximation](google-sheets-euler-iteration-lab.md)
+- [Streamline data processing with browser-based analysis so class time focuses on physical interpretation](browser-based-analysis-streamlining-strategy.md)
 
 ## Examples
 -

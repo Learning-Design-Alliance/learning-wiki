@@ -81,3 +81,4 @@ Interaction terms from the same mixed-effects regression model on posttest probl
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](group-level-interaction-reduced-achievement-gap.md) — related
 - [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](gpp-prior-knowledge-moderation.md) — related
+- [Worked example type interacted with prior knowledge: Guided examples benefited low prior knowledge students while Buggy examples benefited high prior knowledge students](ati-buggy-high-guided-low-prior-knowledge.md) — related

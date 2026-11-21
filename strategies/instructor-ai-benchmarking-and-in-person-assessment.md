@@ -51,6 +51,7 @@ A set of instructor recommendations grounded in the benchmark findings: test lea
 - [Students should learn to solve problems both with and without AI tools, and carefully benchmark AI solutions against their own understanding](student-ai-benchmarking-and-dual-skill-strategy.md)
 - [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
+- [Use ChatGPT to generate original, SLO-aligned homework problems tailored to class pacing](chatgpt-generated-slo-aligned-homework.md)
 
 ## Examples
 -

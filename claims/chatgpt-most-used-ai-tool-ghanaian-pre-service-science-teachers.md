@@ -55,3 +55,4 @@ Survey of 380 pre-service science teachers in Ghana using a structured questionn
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
 - [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — related
 - [Reviewed studies report positive pre-service teacher perceptions of GenAI as a learning tool in Ghana and Greece](pst-positive-genai-perceptions-reviewed-studies.md) — related
+- [Students' AI tool usage forms a hierarchy: social media AI is used most, generative productivity tools moderately, and educational AI tools rarely](student-ai-tool-usage-hierarchy.md) — related

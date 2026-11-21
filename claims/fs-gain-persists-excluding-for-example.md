@@ -48,3 +48,4 @@ Re-analysis excluding for example, attributed by the author to prior knowledge a
 - [The control group showed no significant change in target FS use between midterm and final](control-group-no-significant-fs-gain.md) — possibly the same claim (merge candidate)
 - [Editing target FSs into paragraphs significantly increased treatment-group learners' use of those FSs between midterm and final papers](editing-fs-into-texts-increases-use.md) — a broader claim this one bears on
 - [Before the editing stage, treatment and control groups did not differ significantly in target FS use](no-pretest-difference-treatment-control.md) — related
+- [The grade advantage for participants persists when students who did not take the exam are excluded (d' = 0.9707)](grade-advantage-persists-excluding-non-exam-takers.md) — related

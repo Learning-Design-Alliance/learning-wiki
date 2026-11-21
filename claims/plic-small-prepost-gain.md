@@ -54,3 +54,4 @@ Analysis of matched closed-response pre- and post-surveys from 1911 students acr
 - [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related
 - [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — related
 - [SQI labs produce a statistically significant, medium effect on post-instruction PLIC scores controlling for pre-scores](sqi-labs-significant-medium-ancova-effect.md) — related
+- [Student scores increase from pre- to post-survey on all outcome constructs, with ceiling effects on self-efficacy and perceived agency](pre-post-gains-all-constructs-ceiling.md) — a broader claim this one bears on

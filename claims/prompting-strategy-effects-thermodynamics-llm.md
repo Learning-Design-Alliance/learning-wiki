@@ -68,3 +68,4 @@ Same gpt-4o prompting experiment, comparing the two-phase format against single-
 - [Strong models reliably solve canonical text-only thermodynamics items reducible to single state-function arguments](canonical-text-items-solved-reliably.md) — related
 - [Degraded logical clarity causes the largest accuracy losses for gpt-4o, while moderate spelling and terminology noise is tolerated](linguistic-degradation-clarity-largest-loss.md) — related
 - [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](prompt-privilege-monotonic-accuracy-gap-medqa.md) — a broader claim this one bears on
+- [Domain vocabulary prompting substantially improved recognition of specialized thermodynamics terms in lecture transcription](domain-vocabulary-prompting-whisper-technical-terms.md) — related

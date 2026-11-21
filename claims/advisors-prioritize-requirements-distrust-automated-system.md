@@ -70,3 +70,4 @@ Same advisor survey. Advisors worried students would skip person-to-person advis
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related
 - [Students rate whether a course is required by their major as the most important factor when selecting courses](required-by-major-top-course-selection-factor.md) — related
 - [Engineering and computer science students were less willing to use the automated advising feature than psychology students](technical-majors-more-wary-of-e-advisor.md) — related
+- [Students prioritize cognitive over material computational literacy when advising understanding over finishing assignments](understanding-prioritized-over-finishing-assignments.md) — related

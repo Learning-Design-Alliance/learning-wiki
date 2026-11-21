@@ -47,3 +47,4 @@ Same post-activity self-report survey comparing the activity with a normal lesso
 ## Related Claims
 - [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related
 - [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related
+- [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — related

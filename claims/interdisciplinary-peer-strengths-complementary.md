@@ -67,3 +67,4 @@ EE1 structures final projects so each three-student group includes members from 
 - [Teaching quantum systems through student-written Python simulations deepened students' understanding of linear algebra and quantum physics, according to educator reports](python-simulation-teaching-deepened-understanding.md) — related
 - [Quantum information textbooks based on finite-dimensional Hilbert spaces were more accessible to a non-physicist learner than standard wave-mechanics textbooks](finite-dimensional-textbooks-non-physicists.md) — related
 - [QISE degree programs are predominantly interdisciplinary, with physics, ECE, and computer science as primary contributors](qise-programs-interdisciplinary.md) — a broader claim this one bears on
+- [Educators emphasize leveraging non-physicists' existing expertise and welcoming them into QIST rather than requiring physics quantum mechanics coursework](leverage-existing-expertise-non-physicists.md) — related

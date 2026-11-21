@@ -72,3 +72,6 @@ Network comparison in the Results section: in students' reconstructed mindset "s
 - [Students perceived \"data\" negatively as statistics-linked while \"code\" and \"computer science\" were distinctly perceived as neutral](students-data-negative-code-computer-science-neutral.md) — related
 - [High school students framed \"model\" as fashion and role-models while STEM experts framed it as a tool for research and experimenting](students-model-fashion-frame-experts-research-frame.md) — related
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
+- [Fear and anticipation are significantly elicited by the exam frame across most human and simulated groups, with z-scores ranging from 2.04 to 3.84.](exam-elicits-fear-anticipation.md) — related
+- [STEM experts display a neutral and significantly more concrete semantic frame for exam, with no clear trace of test anxiety.](experts-neutral-concrete-exam-frame.md) — related
+- [GPT-oss simulated students frame anxiety through abstract, clinical terminology while human students ground it in concrete academic triggers.](gpt-abstract-anxiety-humans-concrete.md) — related

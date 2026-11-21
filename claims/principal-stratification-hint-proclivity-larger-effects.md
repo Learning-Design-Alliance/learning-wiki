@@ -49,3 +49,4 @@ Bayesian principal stratification model (per Sales and Pane 2019a) using a laten
 - [The estimated direct effect of CTA1 assignment holding hint usage at control levels is 0.18 standard deviations when covariate-adjusted, with confidence intervals crossing zero](mediation-direct-effect-cta1.md) — related
 - [Mediation analysis estimates that hint availability lowers the CTA1 treatment effect, with an average indirect effect of -0.04 standard deviations](mediation-indirect-hint-effect-negative.md) — reports the opposite
 - [In the CTA1 effectiveness trial, the estimated treatment effect decreases with students' latent propensity to master worked sections, though it remains positive across the observed range](cta1-effect-decreases-with-mastery-propensity.md) — related
+- [Principal stratification point estimates suggest training operates primarily through adoption rather than effectiveness, though bounds are wide](training-works-through-adoption-channel.md) — related

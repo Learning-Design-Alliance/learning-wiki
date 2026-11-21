@@ -54,3 +54,4 @@ In its postsecondary key recommendations, the scan states that "removing degree 
 - Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles — related
 - [A mismatch exists between higher education's response to quantum workforce demand and what industry requests: only 14% of companies mentioned master's degrees while many institutions are considering them, and 52% requested short on-demand courses](masters-degree-vs-industry-short-course-demand.md) — related
 - [Managers anticipate expansion of the quantum talent pipeline beyond scientists and engineers into soft-skill-based and integration roles](quantum-pipeline-expansion-soft-skill-integration-roles.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

@@ -56,3 +56,4 @@ Benchmark of nine classifiers under 5-fold stratified cross-validation on the ba
 - [Ensemble models generalize better than individual learners on held-out test samples for predicting academic achievement](ensemble-generalization-test-samples.md) — related
 - [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related
 - [The prediction model validated on a next-year cohort classifies underachievers with 82.7% recall and 83.1% overall accuracy, though with relatively low precision](next-year-validation-of-achievement-prediction.md) — related
+- [Bagging ensembles sometimes achieved lower F1 than a single base bi-LSTM model despite higher accuracy on unbalanced learner-state datasets](bagging-lowers-minority-f1-learner-state.md) — reports the opposite

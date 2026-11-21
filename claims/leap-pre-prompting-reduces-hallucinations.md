@@ -53,3 +53,4 @@ Authors' interpretation in the discussion of LEAP's design, contrasting it with 
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [GPT-3.5's numerical result for the PhO problem was two orders of magnitude off, and none of the tested chatbots corrected numerical errors even after multiple prompts](chatbots-failed-math-correction-multiple-prompts.md) — related
 - [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

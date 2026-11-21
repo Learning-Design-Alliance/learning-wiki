@@ -54,3 +54,5 @@ This is the authors' interpretation (type e) of their randomized experiment: the
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](focus-group-tutee-learning-causes.md) — related
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related
 - [Teaching a basic LLM tutee produced knowledge-telling rather than knowledge-building](basic-llm-tutee-yields-knowledge-telling.md) — related
+- [Agent pedagogical role shapes engagement in learning-by-explaining: Tutee and Challenger roles elicit longer explanations, and the Tutee role drives more frequent and longer material review than the Peer role](agent-role-shapes-explanation-engagement.md) — related
+- [The Peer role fosters the deepest learning absorption, exceeding the Tutee role, and Peer and Challenger roles exceed Control in absorption and fluency](peer-role-fosters-absorption-and-fluency.md) — related

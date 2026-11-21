@@ -57,3 +57,4 @@ Instructor observation during the gamified year, reported in the discussion sect
 - [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
 - [Participation rose from before to after leaderboard introduction, while answer quality did not decrease, in one single-group pre-post study with no comparison group, per the authors' report](leaderboard-participation-without-quality-reduction.md) — related
+- [Weekly leaderboard competitions in week 3 produced a clear peak in engagement, suggesting competitive elements can reignite student interest](weekly-leaderboard-competition-engagement-peak.md) — related

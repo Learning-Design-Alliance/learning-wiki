@@ -53,3 +53,4 @@ The article reports results of the Zimmerman et al. study of individual think-al
 - [All 15 physics experts simplified tasks explicitly using symmetry and/or limiting cases](experts-simplify-with-symmetry-and-limiting-cases.md) — related
 - [Participant reasoning alternated between the Function and Mathematics Mental Actions code categories in quick succession nearly half (48%) of the time](function-mma-quick-succession-48-percent.md) — related
 - [Expert physicists perform neighborhood analysis—identifying physically significant points, considering slope near them, and connecting those slopes into a smooth curve](neighborhood-analysis-expert-physicists.md) — related
+- [A student conceived of the non-canonical height-time graph as a trace of a point whose position was determined by the covarying quantities height and time](graph-as-trace-of-covarying-quantities.md) — related

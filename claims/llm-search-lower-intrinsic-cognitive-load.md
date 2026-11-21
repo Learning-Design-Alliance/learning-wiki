@@ -59,3 +59,4 @@ ANCOVA in the same randomized experiment (n=91) controlling for prior knowledge.
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a broader claim this one bears on
 - [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](tracing-pointing-no-intrinsic-load-reduction.md) — related
 - [Students using the teachable agent reported significantly lower overall cognitive load during music analysis than students analyzing independently](chat-melody-lower-overall-cognitive-load.md) — related
+- [Combined verbal+visual AI scaffolding lowers intrinsic cognitive load relative to verbal-only scaffolding, but not relative to no scaffolding](qookies-visual-scaffolding-lower-intrinsic-cognitive-load.md) — a narrower finding that bears on this claim

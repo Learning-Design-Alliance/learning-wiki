@@ -76,3 +76,4 @@ Final exam (maximum 113) comparison in the same crossover study; the article als
 - [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — possibly the same claim (merge candidate)
 - [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related
 - [Mode-shifting improves the density of knowledge-building messages in LBT conversations (Cohen's d = 0.71)](mode-shifting-improves-knowledge-building-density.md) — related
+- [Midterm-exam pass-rate differences between AL and TL sections were not statistically supported at the 95% level](cl-al-tl-midterm-differences-not-significant.md) — related

@@ -48,3 +48,5 @@ Agent-based (LLM evaluator) internal-validity evaluation of worksheets generated
 ## Related Claims
 - [K-12 in-service teachers rated FACET-generated personalized worksheets highly, especially didactical structure and suitability for learners](facet-teacher-expert-evaluation-ratings.md) — related
 - [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related
+- [FACET generates scaffolded content more effectively than enrichment materials for advanced learners](enrichment-materials-weaker-than-scaffolding.md) — related
+- [Teachers rate FACET-generated scaffolding-oriented worksheets favorably for didactic structure and clarity](teachers-rate-scaffolded-worksheets-favorably.md) — related

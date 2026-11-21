@@ -99,3 +99,4 @@ In the same exploratory regressions, "Only learning preference had a significant
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
 - [Group (AR vs non-AR) had no significant impact on math post-test scores when pre-test was the covariate](ancova-group-no-significant-impact-math-posttest.md) — related
 - [Adult learners show no statistically significant difference in recall performance across the four learning conditions](ai-synthetic-video-no-recall-difference.md) — related
+- [Agent pedagogical role does not significantly affect objective learning outcomes: post-test scores did not differ across Tutee, Peer, Challenger, and Control conditions](no-role-effect-objective-posttest.md) — related

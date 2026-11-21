@@ -51,3 +51,4 @@ Log analysis of 7670 peer feedback instances from 433 students in a semester-lon
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](event-flow-selection-versus-optional-assistance-use.md) — related
 - [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](ai-assistance-focused-on-pedagogical-strengths.md) — related
+- [Revision-quality gains from AI-mediated feedback increase as TAs adopt more AI suggestions](revision-gains-increase-with-ai-adoption.md) — related

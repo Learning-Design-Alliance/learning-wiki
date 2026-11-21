@@ -31,3 +31,4 @@ MissionMotion is a cross-platform web application developed to support kinematic
 
 ## Key Sources
 - Dutra, M., Abreu, M., Monteiro, M., Sguilla, S., Stari, C., Suárez, Á., & Martí, A. (2025). Enhancing Kinematics Understanding through a Video Game Based on Real-Time Motion Graphs.
+- Mateo Dutra, Marcos Abreu, Martín Monteiro, Silvia Sguilla, Cecilia Stari, Álvaro Suárez, Arturo C. Martí. (2025). Enhancing Kinematics Understanding Through a Real-Time Graph-Based Motion Video Game. arXiv preprint. https://arxiv.org/abs/2512.16838

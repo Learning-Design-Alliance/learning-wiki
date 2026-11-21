@@ -71,3 +71,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Prospective teachers rated ChatGPT 3.5 as highly usable but rated its output quality below neutral when creating physics tasks](chatgpt-high-usability-low-output-quality-ratings.md) — related
 - [Students perceived the tool as helpful for understanding vector field concepts and recommended its use, with an educational impact scale mean of 0.65 (N = 65)](vector-field-tool-perceived-educational-impact.md) — related
 - [Students rated the graphical vector field tool as intuitive and user-friendly, with a usability and design scale mean of 0.76 (N = 125)](vector-field-tool-high-usability-ratings.md) — related
+- [Teachers reported the game elicited graph reflections rarely surfacing in traditional lessons and expressed interest in adopting it](missionmotion-teacher-feedback.md) — related

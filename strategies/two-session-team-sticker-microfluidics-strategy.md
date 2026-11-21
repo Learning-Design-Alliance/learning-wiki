@@ -50,7 +50,8 @@ An implementable classroom recipe across two 75-minute sessions: 'On the first d
 - [Confidence-weighted microdevice physics scores significantly increase after the sticker microfluidics activity](../claims/significant-confidence-weighted-score-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Two-phase classroom session: individual exploration followed by collective competition](two-phase-individual-then-competition-session.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ This strategy sequences inquiry-based experiments with optical phenomena before 
 - [Develop mathematical concepts and working definitions before teaching formal terms, replacing vocabulary preteaching](develop-concepts-before-vocabulary-preteaching.md)
 - [Sequence learning from literature, through simulation, to authentication via real remote experiments](simulate-then-authenticate-with-remote-experiment.md)
 - [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](modeling-prompt-stages-polarization-lab.md)
+- [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
 
 ## Examples
 -

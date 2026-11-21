@@ -56,3 +56,4 @@ Qualitative sample inspection of the AI Detection & False Accusations theme (10.
 - [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — related
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
 - [Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing](seven-forms-academic-erasure-educator-discourse.md) — related
+- [Unclear university guidelines create a risk that GenAI-using students fear false plagiarism accusations](unclear-guidelines-plagiarism-accusation-risk.md) — related

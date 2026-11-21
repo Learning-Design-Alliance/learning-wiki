@@ -82,3 +82,4 @@ The review cites task- and model-specific accuracy investigations (Ding et al.; 
 - [Providing URLs alone left the MyGPT PHYSBO tutor inaccurate, while uploading official documentation PDFs substantially improved response accuracy](mygpt-pdf-upload-improves-accuracy.md) — a narrower finding that bears on this claim
 - [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — a narrower finding that bears on this claim
 - [Mistranslations of technical physics terms changed the physical meaning of specific FI questions, causing incorrect LLM answers despite sound reasoning](technical-term-mistranslations-change-physics-meaning.md) — related
+- [Anonymized vignettes illustrate differentiated trust strategies emerging after consequential AI failure](vignettes-differentiated-trust-strategies.md) — related

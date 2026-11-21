@@ -46,3 +46,6 @@ Qualitative classroom observation during the pilot sessions corroborated the que
 
 ## Related Claims
 - [Qualitative observation: app users expressed more frequent and intense emotions during graph matching, while students in both conditions were highly collaborative and on task](app-use-more-intense-emotions-collaboration-both-groups.md) — related
+- [A pilot with five ninth-grade groups showed strong engagement and positive usability with MissionMotion](missionmotion-pilot-engagement-usability.md) — related
+- [Open-ended responses and classroom observations showed students valued real-time feedback and competition, with previously passive students becoming involved](missionmotion-student-perceptions-observations.md) — a broader claim this one bears on
+- [With the rotation-compensated apps, no student group results were entirely inconsistent with measured motion](no-inconsistent-results-with-rotation-compensated-apps.md) — related

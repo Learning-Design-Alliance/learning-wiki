@@ -65,3 +65,4 @@ Narrative synthesis of the 22 included studies' use cases. The review identifies
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
 - ChatGPT was the most commonly used GenAI tool in reviewed programming education research — related
 - [College STEM students report high adoption of generative AI tools, predominantly free versions of frontier LLMs](high-student-genai-adoption-free-llms.md) — related
+- [AI has been widely adopted in graduate and vocational medical physics education, especially radiation therapy planning and medical image analysis](ai-in-medical-physics-education.md) — related

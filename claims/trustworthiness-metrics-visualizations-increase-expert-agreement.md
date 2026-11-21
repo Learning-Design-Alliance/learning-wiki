@@ -90,3 +90,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Rater training raises raters' awareness of the halo effect](rater-training-halo-awareness.md) — related
 - [Students' ability to gauge the trustworthiness of ChatGPT's answers during physics lab work is closely linked to their prior knowledge of the underlying physics](prior-knowledge-gauging-chatgpt-answers-trustworthiness.md) — related
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
+- [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related

@@ -74,3 +74,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — related
 - [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related
 - [Human-AI complementarity: most productive outcomes arise when AI augments rather than automates core educational processes](human-ai-complementarity-augment-not-automate.md) — a broader claim this one bears on
+- [AI use interacts with self-efficacy in a self-reinforcing dependency cycle, and produces AI guilt and AI entitlement reflecting normative tension around effort and authorship](ai-emotional-harms-self-efficacy-guilt.md) — related

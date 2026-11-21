@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (122 show a difference, 38 mixed, 14 no difference) · 124 studies (28 associational, 27 review, 24 qualitative, 20 causal, 13 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 124 report an effect size · 169 claims rest on one study
+> **Evidence** · 176 claims (124 show a difference, 38 mixed, 14 no difference) · 126 studies (28 associational, 27 review, 25 qualitative, 20 causal, 14 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 126 report an effect size · 171 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -211,6 +211,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Facilitating informal physics education benefits student volunteers' physics identity, sense of belonging, and communication, teamwork, networking, and design skills](../claims/ipe-facilitator-identity-and-skills-benefits.md) [+M] — measured as an outcome of the instruction studied
 - [Gender moderates the belonging–persistence relationship: women report lower intent to persist at low belonging but exceed men when belonging is strong](../claims/gender-moderates-sb-ip.md) [~M] — learners who differ on it differ in outcomes
 - [Relatedness buffers intent to persist against low sense of belonging](../claims/relatedness-buffers-low-sb.md) [~M] — learners who differ on it differ in outcomes
+- [Collaborating by discussing ideas rather than syntax gave one student a sense of shared struggle that increased her sense of belonging](../claims/discussing-ideas-not-syntax-increased-sense-of-belonging.md) [+M] — measured as an outcome of the instruction studied
+- [SIREN participation increased students' sense of belonging in STEM at the college and beyond](../claims/siren-increased-sense-of-belonging-stem.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

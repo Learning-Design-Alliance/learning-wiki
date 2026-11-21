@@ -53,3 +53,4 @@ Qualitative analysis of a video episode of two physics students. Parsing S1's ar
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — a broader claim this one bears on
 - [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — a broader claim this one bears on
 - [Michael's epistemological stance leads him to seek physically and mathematically convincing explanations while many classmates seek the \"right answer\"](sense-maker-different-warrants-peers.md) — related
+- [How students approach developing social computational literacy varies across individuals and is driven by unspoken assumptions](social-computational-literacy-variable-unspoken-assumptions.md) — related

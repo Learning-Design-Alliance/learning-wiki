@@ -80,3 +80,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
 - [Core problem-statement metrics show only moderate judge agreement, and multi-class metrics (Bloom level, difficulty) perform poorly](problem-statement-metrics-moderate-categorical-poor.md) — related
+- [iRULER's LLM-as-a-judge scoring showed high intra-model reliability and moderate-to-substantial agreement with expert ratings on the ICNALE dataset](iruler-scoring-reliability-expert-agreement.md) — related

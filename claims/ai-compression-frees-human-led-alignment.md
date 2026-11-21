@@ -55,3 +55,4 @@ Authors' practitioner claim (core insight) about AI-enabled workflows, presented
 - [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related
 - [Graduate HCI design students found GenAI most useful in the execution phase of design, enabling faster prototyping iterations and freeing time for critical thinking](genai-execution-phase-faster-prototyping.md) — a narrower finding that bears on this claim
+- [Time pressure pushed students toward genAI use, while learning goals led most students to moderate their use](time-pressure-and-learning-goals-shape-genai-use.md) — related

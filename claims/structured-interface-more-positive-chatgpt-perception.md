@@ -50,3 +50,4 @@ Mann-Whitney U tests on post-intervention TAM-based survey data comparing condit
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
 - [Prospective teachers rated ChatGPT 3.5 as highly usable but rated its output quality below neutral when creating physics tasks](chatgpt-high-usability-low-output-quality-ratings.md) — related
 - [A structured prompting interface produced no significant differences in learning or performance compared with free ChatGPT use in graduate robotics labs](structured-prompting-interface-no-learning-performance-difference.md) — related
+- [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](feedback-groups-greater-enjoyment-and-skill-growth.md) — related

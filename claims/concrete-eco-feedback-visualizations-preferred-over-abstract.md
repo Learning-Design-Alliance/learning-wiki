@@ -55,3 +55,4 @@ Descriptive analysis of Likert attention, satisfaction, and preference ratings f
 - [Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions](carbon-saving-recognition-increases-eco-mode-selection.md) — related
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
+- [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related

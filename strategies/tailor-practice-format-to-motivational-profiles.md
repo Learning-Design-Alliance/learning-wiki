@@ -45,6 +45,7 @@ The article recommends moving beyond general instructional claims and considerin
 ## Related Strategies
 
 - [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](choose-materials-individually-not-by-format.md)
+- [Adaptive feedback designs that tailor feedback elaboration and representational format to learner profiles](adaptive-feedback-tailoring-elaboration-and-format.md)
 
 ## Examples
 -

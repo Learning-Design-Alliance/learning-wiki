@@ -78,3 +78,4 @@ Latent profile analysis of survey data from 128 pre-service teachers identified 
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
 - [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
 - [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](three-synergistic-motivation-metacognition-profiles.md) — related
+- [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related

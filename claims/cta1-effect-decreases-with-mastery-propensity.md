@@ -50,3 +50,4 @@ Bayesian latent principal stratification analysis of log data from the randomize
 - [Latent mastery propensity ηT correlates positively with post-test scores in both treatment and control groups, with a slightly lower slope in the treatment group](eta-positive-with-posttest-both-groups.md) — related
 - [The estimated direct effect of CTA1 assignment holding hint usage at control levels is 0.18 standard deviations when covariate-adjusted, with confidence intervals crossing zero](mediation-direct-effect-cta1.md) — related
 - [Principal stratification finds students with higher latent hint-requesting proclivity may have experienced larger CTA1 treatment effects, contradicting the other two analyses](principal-stratification-hint-proclivity-larger-effects.md) — related
+- [Principal stratification point estimates suggest training operates primarily through adoption rather than effectiveness, though bounds are wide](training-works-through-adoption-channel.md) — related

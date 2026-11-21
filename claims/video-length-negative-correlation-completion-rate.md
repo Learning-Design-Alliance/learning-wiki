@@ -48,3 +48,4 @@ Observational analysis of viewing behavior data from eight iCourse courses (01/0
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [Longer MOOC videos have higher in-video dropout rates](longer-video-higher-in-video-dropout.md) — possibly the same claim (merge candidate)
+- [Video duration and word count show the strongest negative linear correlations with viewer engagement in a lecture-video dataset](duration-word-count-negative-correlation-engagement.md) — related

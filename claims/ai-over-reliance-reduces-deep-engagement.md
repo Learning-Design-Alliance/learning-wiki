@@ -63,3 +63,4 @@ The review reports, citing Dehbozorgi & Dindu (2023) and Abid et al. (2024), tha
 - [Students and instructors agreed that teacher-student interaction, practicing problem-solving ability, and teacher presence are the most valuable online EFL learning elements](three-shared-valuable-online-efl-elements.md) — related
 - [Basic-level answers appear only in the paper group, possibly indicating a benefit of hands-on work with material artefacts](basic-level-answers-only-paper-group.md) — related
 - [Concerns that AI undermines educational values showed mostly non-significant condition differences, with future learning risk only approaching significance (β = 0.41)](future-learning-risk-concern-marginal.md) — related
+- [End-of-year course evaluations showed student satisfaction did not diminish after GAI integration, with a 1 sigma increase versus the prior non-GAI year](course-evaluations-unchanged-after-gai-integration.md) — related

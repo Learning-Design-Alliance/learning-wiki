@@ -67,3 +67,4 @@ Final behavioral-strategy HLM (Table 4) confirming the urban-over-rural math adv
 ## Related Claims
 - [Urban schools achieve significantly higher than rural schools, but their achievement declines more steeply as local educational poverty rises](urban-schools-steeper-educational-poverty-slope-bangladesh.md) — related
 - [Urban, private, and larger schools tend to have higher SES and higher achievement in the Chinese sample](school-characteristics-ses-achievement-correlates-china.md) — possibly the same claim (merge candidate)
+- [Urban schools in Latin America outperform rural schools in PISA, with an average rural–urban gap of 42 points in reading and 33 points in mathematics](rural-urban-pisa-gap-latin-america.md) — related

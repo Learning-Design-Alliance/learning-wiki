@@ -49,3 +49,4 @@ Cross-year comparison of the two classes in the in-class evaluation, from the re
 - [Upper-level QM students show moderate pretest-to-posttest gains on every question after engaging with the Larmor precession clicker question sequence with peer instruction](cqs-larmor-moderate-gains-all-questions.md) — related
 - [Average posttest scores exceeded 70% on all questions (roughly 90% on questions 1-3) after CQS implementation](cqs-larmor-posttest-above-70.md) — related
 - [Question 5 remained the most difficult after the CQS, with Class A averaging below 50% even after implementation](cqs-larmor-question-5-difficulty-persists.md) — related
+- [A revised CQS implemented by a second instructor yielded poorer posttest performance than in the first class, attributed to students' low prior knowledge](cqs-class-b-worse-posttest-low-prior-knowledge.md) — reports the opposite

@@ -20,6 +20,7 @@ An AI-native educational game developed by Michael Hoffmann et al. that uses ret
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Silhouette representation of indigenous figures as an ethical design pattern in AI-generated cultural imagery**: The game renders Trobriand Islanders as silhouettes while depicting Malinowski in detail. The authors describe this as both a mitigation of misrepresentation risk by Western-trained AI models and a deliberate design choice: the technique "echoes initiatives in art such as Silvia Kolbowski's explorations of postcolonial shadows" and draws on LaPensée's research on indigenous representation. The pattern shows how interface decisions can address ethical concerns while maintaining educational effectiveness, and prompted player reflection on anthropological representation. (Michael Hoffmann et al. (2025))
 
 ### Claims
 - [Non-specialist players of Malinowski's Lens scored an average of 7.5/10 on a post-gameplay knowledge quiz](../claims/malinowskis-lens-quiz-mean-7-5.md) [+M]

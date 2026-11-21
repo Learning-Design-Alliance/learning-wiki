@@ -51,3 +51,4 @@ Test-set evaluation of post-pressure responses by pressure mode with 95% Wilson 
 - [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — related
 - [Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families](authority-challenge-emotional-manipulation-most-effective.md) — related
 - [Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage](subtype-templates-elicit-intended-channels.md) — related
+- [Classroom observations converge with large-scale findings on sycophancy preference, domain concentration, and confidence-reliability confusion](convergent-observations-sharma-disempowerment.md) — related

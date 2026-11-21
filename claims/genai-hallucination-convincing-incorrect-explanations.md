@@ -105,3 +105,4 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related
 - [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — related
 - [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — a narrower finding that bears on this claim
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

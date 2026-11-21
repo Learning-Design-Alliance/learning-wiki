@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
-newest_evidence: 2025
-source_checked: 2026-10-20
+newest_evidence: 2026
 sources:
-  - id: sudarshan-vk-2025
+  - id: sudarshan-vk-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14266"
-    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
+    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2026). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 Originally published 2025. [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
     author: Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J.
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Despite advances in agentic multi-agent systems such as GenMentor, MultiTutor, EduVerse, and FACET, many implementations remain at the prototype or conceptual stage with limited large-scale deployment and empirical validation in authentic educational contexts. [→ Sudarshan VK 2025](#sudarshan-vk-2025)
+`q2 i?` Despite advances in agentic multi-agent systems such as GenMentor, MultiTutor, EduVerse, and FACET, many implementations remain at the prototype or conceptual stage with limited large-scale deployment and empirical validation in authentic educational contexts. [→ Sudarshan VK 2026](#sudarshan-vk-2026)
 
 ## Evidence
 
-### Sudarshan VK 2025
+### Sudarshan VK 2026
 
-Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
+Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2026). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 Originally published 2025. [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
 
 `q2 · i?` · `theoretical · r2`
 

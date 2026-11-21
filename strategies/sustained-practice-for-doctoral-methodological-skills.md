@@ -55,6 +55,7 @@ The article recommends that doctoral programs support durable methodological cap
 - [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
+- [Support the transition to active methodologies in IICs through teacher training courses, shared repositories of activities and formative-assessment questions, and institution-specific research](iic-active-methods-teacher-training-strategy.md)
 
 ## Examples
 -

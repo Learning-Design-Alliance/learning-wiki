@@ -52,3 +52,4 @@ Descriptive analysis of GETAMEL feedback-questionnaire composite scores from 17 
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related
+- [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](feedback-groups-greater-enjoyment-and-skill-growth.md) — related

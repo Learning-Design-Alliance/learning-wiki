@@ -72,3 +72,4 @@ Posttest solution optimality (steps) comparison; shorter solutions with fewer st
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Retention and delivered instructional minutes did not differ significantly between experimental and control conditions, and completers received well under planned dosage](ae-trial-attrition-and-insufficient-dosage.md) — related
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](intelligent-ar-faster-unassisted-assembly-no-error-difference.md) — a narrower finding that bears on this claim
+- [Both Buggy and Guided training reduced posttest problem completion time relative to Control in the logic tutor](interactive-we-reduced-posttest-time.md) — related

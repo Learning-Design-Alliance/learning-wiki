@@ -60,3 +60,4 @@ Theoretical argument in the comment, citing prior work on training language mode
 - [The authors argue that immediate automated responses can help overcome international students' feelings of isolation and reduce culturally rooted misunderstandings](immediate-response-reduces-isolation-claim.md) — related
 - [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related
 - [Sycophantic LLM behavior may undermine educational equity by accelerating learning for knowledgeable students while reinforcing misconceptions for less knowledgeable ones](llm-sycophancy-educational-equity-risk.md) — related
+- [Voice interaction is argued to accelerate the inoculation cycle by intensifying initial trust and subsequent threat](voice-interaction-accelerates-inoculation.md) — related

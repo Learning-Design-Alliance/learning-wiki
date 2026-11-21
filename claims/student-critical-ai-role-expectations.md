@@ -119,3 +119,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Students in the SML+AI group viewed the environment as usable and adopted ChatGPT as a study companion, but criticized its medical terminology, inconsistent answers, and the manipulatives' content depth](student-perceptions-ai-virtual-manipulative-anatomy.md) — related
 - [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related
 - [College students envisioned over 100 AI usages in project-based learning serving six purposes, from automating tedious tasks to guiding learning](envisioned-ai-usage-six-purposes-pbl.md) — related
+- [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related

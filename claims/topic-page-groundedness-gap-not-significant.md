@@ -47,3 +47,4 @@ Bootstrap analysis of the groundedness endpoint on the 45 topic-page questions i
 ## Related Claims
 - [Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication](fabrication-despite-successful-retrieval.md) — related
 - [The wiki's advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness](wiki-advantage-triples-cross-page-questions.md) — related
+- [Midterm-exam pass-rate differences between AL and TL sections were not statistically supported at the 95% level](cl-al-tl-midterm-differences-not-significant.md) — related

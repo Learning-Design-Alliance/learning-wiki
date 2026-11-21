@@ -55,3 +55,4 @@ Consensus coding of all 192 leaver responses into four themes (confidence/abilit
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
 - [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related
 - [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related
+- [Instrumental technology/career framings (T4–T5) jointly account for nearly one third of dominant-topic assignments among applicants](instrumental-topics-nearly-one-third-prevalence.md) — related

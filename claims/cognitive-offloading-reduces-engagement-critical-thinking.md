@@ -84,3 +84,4 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related
 - [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related
+- [High dependence on AI correlates with lower critical-thinking performance, mediated by cognitive offloading, and AI tools that minimize cognitive struggle risk weakening critical thinking](ai-cognitive-offloading-lower-critical-thinking.md) — possibly the same claim (merge candidate)

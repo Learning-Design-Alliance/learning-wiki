@@ -56,3 +56,4 @@ Theoretical argument from the review's abstract, presented as the second of four
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](deictic-gestures-stronger-connections-high-learning.md) — a narrower finding that bears on this claim
 - [Physical buttons on Roversa were perceived to help students build directional programming concepts through physical manipulation](physical-buttons-build-programming-concepts.md) — a narrower finding that bears on this claim
 - [Students transferred abstract area concepts to concrete app examples, cultivating mathematical thinking](abstract-area-to-concrete-app-examples.md) — related
+- [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related

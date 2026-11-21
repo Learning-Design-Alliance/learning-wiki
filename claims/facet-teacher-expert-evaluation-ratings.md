@@ -47,3 +47,5 @@ Exploratory expert evaluation with five K-12 in-service mathematics teachers (4 
 ## Related Claims
 - [Agent-based evaluation of FACET-generated worksheets returns consistently high, stable ratings across four learner profiles and ten iterations](facet-agent-evaluation-high-stable-ratings.md) — related
 - [Human teachers' preferences for LM-generated worksheets correlate significantly with evaluator LM judgments (r = 0.661), but teachers sometimes cannot distinguish worksheets the LM perceives as different](lm-judgments-align-with-teacher-preferences.md) — related
+- [FACET generates scaffolded content more effectively than enrichment materials for advanced learners](enrichment-materials-weaker-than-scaffolding.md) — related
+- [Teachers rate FACET-generated scaffolding-oriented worksheets favorably for didactic structure and clarity](teachers-rate-scaffolded-worksheets-favorably.md) — possibly the same claim (merge candidate)

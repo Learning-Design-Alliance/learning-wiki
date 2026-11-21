@@ -56,3 +56,4 @@ Interaction analyses in the randomized experiment testing whether conventional a
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related
 - [Acquisition of non-cognitive skills showed only a weak, statistically insignificant correlation with GPA (r = 0.064)](gpa-correlation-weak-insignificant-0-064.md) — related
 - [The treatment-by-math-experience interaction was not significant in the homework-format experiment](tutor-web-treatment-math-experience-interaction-insignificant.md) — related
+- [Midterm performance showed no statistically significant difference between GAI-assisted-learning topics and non-GAI topics, with weak statistical power](midterm-no-significant-difference-gai-vs-non-gai-topics.md) — related

@@ -87,3 +87,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related
 - [The longer the proctoring duration, the less adequate surgeons rated it for their learning needs (p = 0.009)](longer-proctoring-rated-less-adequate-learning-needs.md) — related
 - [One-off STEM engagement experiences are unlikely to have a lasting measurable effect on young people's aspirations](one-off-stem-engagement-limited-aspiration-impact.md) — reports the opposite
+- [A single-day workshop increases STEM career interest only with small effect sizes, suggesting one-off interventions are insufficient to shift long-term career trajectories](one-day-workshop-small-career-interest-effects.md) — related

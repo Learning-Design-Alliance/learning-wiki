@@ -49,6 +49,7 @@ A concrete instructional strategy the authors recommend: embed AI literacy instr
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Students adapt GenAI usage through input-related, output-related, personal and user-awareness strategies](genai-usage-adaptation-strategies.md)
 
 ## Examples
 -

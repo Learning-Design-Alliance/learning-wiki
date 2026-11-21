@@ -62,3 +62,4 @@ In the preliminary check, neither fine-tuned model produced usable output (fine-
 - [End-to-end fine-tuning improves error identification, and o1-mini surpasses it in exact match but performs worse on the Hausdorff distance metric](mathedu-error-identification-end-to-end-and-o1-mini.md) — related
 - [LoRA fine-tuning a small LLM significantly improves answer correctness classification over prompted baselines, with the single-task model with rationale significantly outperforming Llama3 70B without rationale](mathedu-finetuning-improves-correctness-classification.md) — related
 - [Domain fine-tuning did not outperform strong base LLMs for feedback generation and mostly slightly reduced performance](fine-tuning-no-gain-over-base-models.md) — related
+- [Fine-tuned Llama-3.1-8B model outperforms GPT-4o and Claude-3.5-Sonnet at rating the four resistance-response mechanisms](finetuned-llama-outperforms-baselines-resistance-mechanisms.md) — related

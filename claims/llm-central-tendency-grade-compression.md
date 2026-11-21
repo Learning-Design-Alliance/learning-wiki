@@ -51,3 +51,4 @@ Bland-Altman analysis (Figure 3) comparing the average of five ChatGPT sessions 
 - [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](chatgpt-thinking-mode-strongest-human-grading-agreement.md) — related
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
+- [Anchored exemplars shift AI essay means close to the human mean and compress variance below the human standard deviation, but rank-order agreement remains near-zero](anchored-exemplars-fix-distribution-not-ranking.md) — related

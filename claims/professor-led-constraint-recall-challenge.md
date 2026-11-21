@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-21
 sources:
   - id: salazar-rodriguez-2026
     resource: "https://doi.org/10.1007/978-3-032-30784-2_6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the Remembering level, students struggle to recall rule-based constraints during professor-led assignments, and constraints not integrated into mental schemas through repeated practice are easily forgotten. [→ Salazar Rodriguez 2026](#salazar-rodriguez-2026)

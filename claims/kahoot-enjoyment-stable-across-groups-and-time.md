@@ -60,3 +60,4 @@ A 2x8 mixed ANOVA on post-Kahoot enjoyment ratings (LC n = 18, HC n = 27) found 
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — reports the opposite
 - [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
+- [Weekly leaderboard competitions in week 3 produced a clear peak in engagement, suggesting competitive elements can reignite student interest](weekly-leaderboard-competition-engagement-peak.md) — related

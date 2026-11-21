@@ -27,4 +27,4 @@ A 32-item validated multiple-choice survey developed for assessing introductory 
 -
 
 ## Key Sources
-- Ghimire, A. and Singh, C. (2024). How often does unguided peer interaction lead to correct response consensus? An example from Conceptual Survey of Electricity and Magnetism.
+- Ghimire, A. and Singh, C. (2024). How often does unguided peer interaction lead to correct response consensus? An example from Conceptual Survey of Electricity and Magnetism. [doi:10.1088/1361-6404/ad336c](https://doi.org/10.1088/1361-6404/ad336c)

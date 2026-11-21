@@ -52,3 +52,4 @@ Results on cycles of use: the interview study found that "Rather than acting as 
 - [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
+- [AI use interacts with self-efficacy in a self-reinforcing dependency cycle, and produces AI guilt and AI entitlement reflecting normative tension around effort and authorship](ai-emotional-harms-self-efficacy-guilt.md) — possibly the same claim (merge candidate)

@@ -52,3 +52,4 @@ Reliability assessment in which all 209 MCQs and answer keys were entered into b
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — related
+- [Automated LLM evaluation of MCQ quality showed only moderate agreement with human evaluation](moderate-human-ai-evaluation-agreement-mcq.md) — related

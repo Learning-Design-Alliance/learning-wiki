@@ -83,3 +83,4 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 - [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](triarchic-processing-separable-measures.md) — related
 - [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related
 - [Prior knowledge and type of contextualized learning environment each moderately predicted logic learning, but environment type did not interact with critical thinking disposition](covariate-prior-knowledge-environment-ctd-logic.md) — related
+- [No significant interactions occur between Intrinsic, Extraneous, and Germane Load manipulations in VR assembly training](no-interactions-among-three-cognitive-load-types.md) — related

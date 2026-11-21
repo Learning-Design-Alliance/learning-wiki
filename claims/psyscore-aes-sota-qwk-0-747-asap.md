@@ -52,3 +52,4 @@ Benchmark comparison on the ASAP++ dataset (6:2:2 split, 5-fold ensemble of bert
 - [Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation](sft-improves-proficiency-alignment-over-prompting.md) — related
 - [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](prompting-limited-uneven-proficiency-control-writing-simulation.md) — related
 - [Three education experts rate PsyScore feedback significantly higher than all LLM baselines on every dimension (p < .001), with the No-IRT ablation declining in Adaptivity and Accuracy (p < .05)](psyscore-expert-evaluation-outperforms-baselines.md) — related
+- [Score Alignment applied to DualBERT outperforms previous SOTA AES models (ArTS+RMTS and SaMRL) in the full-data setting on ASAP++](score-alignment-sota-full-data-asap.md) — related

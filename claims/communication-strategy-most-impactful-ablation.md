@@ -52,3 +52,4 @@ Ablation analysis of the GP-α (τ = 1) classifier on the 5460-observation datas
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
 - [In the classifier's expanded sample of over 2.6 million observations, negative student emotional state (r = −0.431) and physical prompt communication (r = 0.341) show the strongest correlations with full student response.](expanded-sample-correlations-emotion-physical-prompt.md) — related
 - [Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect](ablation-simplification-ordering-transformations-most-effective.md) — related
+- [Joint training of the feature encoders contributes the largest single-module ablation loss in AAM-TSA](joint-training-crucial-aam-tsa-ablation.md) — related

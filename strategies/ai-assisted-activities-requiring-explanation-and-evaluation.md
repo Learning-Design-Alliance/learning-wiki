@@ -46,6 +46,7 @@ The article recommends that teachers mitigate the risks of student overreliance 
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Educators should engage with explainable AI tools, teach critical evaluation of AI outputs, and feed usability insights back to developers](educator-recommendations-explainable-ai.md)
+- [Design physics tasks that have students critique, compare, and revise AI-generated explanations](critique-and-revise-ai-generated-explanations-strategy.md)
 
 ## Examples
 -

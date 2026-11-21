@@ -49,3 +49,4 @@ Single-administration scoring of the multiple-choice Force Concept Inventory by 
 - [ChatGPT solved 10 of 12 clicker questions, corresponding to a 93% clicker score under the course's credit scheme](chatgpt-clicker-93-percent.md) — related
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [Review of prior studies finds ChatGPT-4 typically scores between 90 and 100% on the Force Concept Inventory, comparable to physics experts, while ChatGPT-3.5 scored 50-60%](chatgpt4-fci-expert-level-review-reported.md) — related
+- [ChatGPT can pass introductory physics exams while making beginner-like conceptual errors](chatgpt-passes-physics-exams-with-beginner-errors.md) — related

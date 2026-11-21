@@ -65,6 +65,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 - [Chunking](../principles/chunking.md) — organizing remaining visual content into meaningful groups so it loads efficiently
 - [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 - [Augment complex diagnostic test result presentations with intuitive, easy-to-understand visualizations](augment-complex-test-results-intuitive-visualization-strategy.md)
+- [Keep instructional prompts concise and position instructions adjacent to the work to reduce Extraneous Load in assembly training](concise-proximal-instructions-assembly-training.md)
 
 ## Examples
 - **Fisher, Godwin & Seltman (2014)** — Laboratory classrooms decorated heavily vs. sparsely: children in the heavily decorated condition spent significantly more time off-task and performed worse on lessons; the sparse condition is the canonical demonstration of the effect ([study](https://doi.org/10.1177/0956797614533801)).

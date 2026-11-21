@@ -44,6 +44,7 @@ The authors advocate evaluating adaptive coaching logic on LLM-based simulated l
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 - [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
+- [Validate simulated learner behavior against authentic student responses through longitudinal school deployment](longitudinal-deployment-validation-strategy.md)
 
 ## Examples
 -

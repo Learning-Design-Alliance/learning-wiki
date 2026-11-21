@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 292 claims (143 for, 130 mixed, 19 against) · 217 studies (96 causal, 36 review, 28 quant-synthesis, 21 associational, 16 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 217 report an effect size · 268 claims rest on one study
+> **Evidence** · 295 claims (144 for, 132 mixed, 19 against) · 218 studies (97 causal, 36 review, 28 quant-synthesis, 21 associational, 16 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 218 report an effect size · 271 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -340,6 +340,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [No significant differences in learning gains between feedback conditions, including no interaction between feedback type and slide presence](../claims/slideitright-no-significant-condition-differences.md) [~W] — attached 2026-11-21 from Chloe Qianhui Zhao et al. (2025), which proposed "SlideItRight: a retrieval-augmented multimodal feedback system combining GPT-4o textual feedback with retrieved lecture slides".
 - [Across both quizzes, the majority of students found the LLM feedback mostly useful and mostly accurate, with no significant difference between students who answered the MC question correctly versus incorrectly](../claims/students-rate-llm-feedback-mostly-useful-accurate.md) [~M] — attached 2026-11-21 from Winter Allen et al. (2025), which proposed "GPT-4o pipeline for scoring and feedback on written physics arguments".
 - [Introductory physics students most often rank AI feedback generated from a prompt combining prompt-engineering techniques with effective-feedback principles as most useful](../claims/students-prefer-ai-feedback-from-engineered-effective-prompts.md) [+W] — attached 2026-11-21 from Amogh Sirnoorkar et al. (2025), which proposed "Three-type AI-feedback ranking activity with self-crafted, prompt-engineered, and combined prompts".
+- [All three feedback methods significantly outperformed no-feedback control on learning-phase programming task success, with the largest effect for code-edit recommendations](../claims/feedback-methods-improve-hoc-learning-performance.md) [+W] — attached 2026-11-21 from Ahana Ghosh et al. (2025), which proposed "Three feedback methods for elementary visual programming: Code-Rec, Code-Quiz, and Plan-Quiz"; tests this page's relationship.
+- [Code-edit recommendations significantly reduced time-on-task compared to no feedback, while quiz-based feedback did not and involved more feedback time and seeking](../claims/code-rec-reduces-time-on-task.md) [~W] — attached 2026-11-21 from Ahana Ghosh et al. (2025), which proposed "Three feedback methods for elementary visual programming: Code-Rec, Code-Quiz, and Plan-Quiz".
+- [Quiz-based feedback methods showed a consistent but non-significant trend of stronger performance on novel post-learning tasks involving new concept combinations](../claims/quiz-feedback-trend-novel-task-transfer.md) [~W] — attached 2026-11-21 from Ahana Ghosh et al. (2025), which proposed "Three feedback methods for elementary visual programming: Code-Rec, Code-Quiz, and Plan-Quiz".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -67,3 +67,4 @@ Same post-lesson evaluation questionnaire with the 425 pre-service teachers of t
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Most experimental-group pre-service teachers viewed the project-based HNOS course positively and recommended carrying it out through project activities](participants-endorse-pbhnos.md) — related
+- [After user testing with primary-school pupils, PhD candidates' activity designs became more topic-specific, more focused on scientists and collaboration, and narrower in target age](phd-candidates-canvas-changes-after-user-testing.md) — related

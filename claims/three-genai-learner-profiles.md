@@ -80,3 +80,5 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related
 - [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
 - [Students rate genAI most helpful for explaining domain knowledge and least helpful for verifying solutions, while faculty recommend genAI for fewer than a third of problem-solving uses](student-faculty-misalignment-genai-problem-solving.md) — related
+- [GenAI helped third-semester students optimize code beyond their typical experience level, exposing them to optimization tricks](genai-code-optimization-exposure-tricks.md) — related
+- [Students were skeptical of genAI for physics theory and verified its factual information with trusted sources](student-skepticism-genai-theory-verification.md) — related

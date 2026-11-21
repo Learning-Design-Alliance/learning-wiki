@@ -65,3 +65,4 @@ In the interview study of 21 quantum companies, employers reported that deep QIS
 - [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
 - [Quantum KSAs required for QISE industry tasks fall into three categories: experimental; theory and knowledge of experiment; and theory only](qise-task-knowledge-three-categories.md) — related
 - [Semi-structured interviews with 22 non-PhD quantum industry positions identify experimental skills organized into four categories: instrumentation; computation and data analysis; experimental and project design; and communication and collaboration](non-phd-quantum-positions-four-experimental-skill-categories.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

@@ -89,3 +89,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Participants rated satisfaction with the e-PBL program content 3.5 out of 5](e-pbl-satisfaction-3-5-of-5.md) — related
 - [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related
+- [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — reports the opposite

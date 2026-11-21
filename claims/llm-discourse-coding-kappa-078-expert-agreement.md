@@ -63,3 +63,4 @@ Reliability validation of the LLM coding pipeline: an expert independently coded
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
 - [Expert evaluators assessed Tutorly's prompt-pipeline controllability by annotating 277 dialogue messages against a hierarchical intent label scheme across three video topics](tutorly-controllability-277-messages.md) — related
+- [Automated analysis found AI-mediated feedback offered significantly greater actionability and stronger support for independent learning than human-only feedback](ai-mediated-feedback-actionability-independent-learning.md) — related

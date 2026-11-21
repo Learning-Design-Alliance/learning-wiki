@@ -51,3 +51,4 @@ The article's introduction reports this as a finding of recent research, cited t
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
 - [Over half of surveyed students would tell friends they enjoyed the program, and 46% would mention specific program content](students-would-share-enjoyment-with-friends.md) — related
 - [Students most commonly chose a new perspective on physics and seeing links between areas of physics as what they enjoyed most](action-physics-enjoyment-new-perspective-and-links.md) — related
+- [Time pressure pushed students toward genAI use, while learning goals led most students to moderate their use](time-pressure-and-learning-goals-shape-genai-use.md) — a narrower finding that bears on this claim

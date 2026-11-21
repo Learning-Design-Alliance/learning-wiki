@@ -73,3 +73,5 @@ Qualitative examination of chatbot grading responses in the Results section; the
 - [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](claude3-palm2-substantial-agreement-failing-grades.md) — related
 - [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](peer-grading-lenient-high-dispersion-moocs.md) — related
 - [Students grading practice exams award significantly more points than a professional grader, about 25% more overall](peer-graders-more-lenient-than-professional.md) — related
+- [Blind AI essay marking is harsher and more variable than human marking, and adding a marking scheme does not improve rank-order agreement](llm-essay-marking-harsh-low-rank-agreement.md) — related
+- [LLM markers show robust rank-order agreement with human markers on blind university exam questions and structured curriculum questions](llm-rank-order-agreement-structured-physics-questions.md) — related

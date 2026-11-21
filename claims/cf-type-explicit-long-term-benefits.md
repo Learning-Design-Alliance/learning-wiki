@@ -63,3 +63,4 @@ Delayed posttest results of the error correction test in the four-session experi
 - [Explicit metalinguistic instruction on L1-L2 differences improved learners' English language production](explicit-metalinguistic-instruction-improves-production.md) — related
 - [DOC and DMC have the same effects on the development of explicit knowledge of English articles.](doc-and-dmc-same-effects-explicit-knowledge.md) — related
 - [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) — a broader claim this one bears on
+- [All four instructional approaches, including a two-sentence reminder, produced durable learning-oriented prompting gains that persisted six weeks later](brief-instruction-durable-prompting-gains.md) — related

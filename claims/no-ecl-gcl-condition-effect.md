@@ -48,3 +48,4 @@ Regressions on the Klepsch et al. cognitive-load scales in the four-condition ex
 - [Instructor presence condition (temporary, permanent, or never) did not affect subjective extraneous or germane cognitive load in either experiment](instructor-presence-no-cognitive-load-differences.md) — related
 - [Disfluency and WMC × disfluency did not affect extraneous cognitive load, contrary to hypotheses](no-ecl-effect-disfluency.md) — related
 - [Disfluency and WMC × disfluency did not affect intrinsic or germane cognitive load](no-icl-gcl-effects-disfluency.md) — related
+- [Extraneous and germane cognitive load do not differ significantly between scaffolding conditions](qookies-ecl-gcl-no-group-differences.md) — related

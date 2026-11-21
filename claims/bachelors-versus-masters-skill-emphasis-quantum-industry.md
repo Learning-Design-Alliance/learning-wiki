@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: shams-el-adawy-2025
     resource: "https://doi.org/10.48550/arXiv.2510.12936"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positions open to bachelor's graduates lean toward instrumentation, computation and data analysis, and experimental and project design, whereas master's-level roles stand out in requiring communication and collaboration skills on top of the other three categories. [→ Shams El-Adawy 2025](#shams-el-adawy-2025)

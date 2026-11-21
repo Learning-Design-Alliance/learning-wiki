@@ -50,3 +50,4 @@ Qualitative analysis of the first round of structured interviews with the middle
 - [Multi-sensory teaching benefits students of all levels of sight, according to interviewed BVI researchers](multisensory-teaching-benefits-all-sight-levels.md) — related
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [Middle-school students recognise colours through Edukoi sonification at near-ceiling accuracy with minimal training](edukoi-colour-recognition-effective.md) — related
+- [High-school students rate multi-sensory astronomy exploration as highly engaging and report increased confidence that astronomy is accessible for blind and visually impaired people](hs-students-multisensory-engaging-accessibility-confidence.md) — related

@@ -71,3 +71,4 @@ Beta 1 collected responses from students in eight courses at eight different ins
 - [Pilot testing across six versions (39 interviews, ~2000 beta participants) established evidentiary arguments linking student reasoning to item responses](spruce-piloting-evidentiary-arguments.md) — related
 - [First-year students answer parallel items on derivatives differently in mathematics and physics contexts, with many more choosing the space-over-time distractor in physics](tcvmp-parallel-items-context-differences.md) — related
 - [LLM-generated categories of incorrect explanations do not align with the multiple-choice distractors of the original EMCS questions](llm-incorrect-explanation-categories-differ-from-mc-distractors.md) — reports the opposite
+- [Item 15 v2.2 distractor patterns align with specific incorrect conceptions, peaking at different achievement levels](qccs-item15-distractor-conceptions.md) — related

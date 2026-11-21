@@ -97,3 +97,4 @@ One-way repeated measures ANOVA comparing two graduate cohorts (MZI→DSE, N=45;
 - [Only 58% of students using WPI reasoning answered DSE transfer question 2 correctly, the hardest transfer question for both groups](dse-question-two-only-58-percent-wpi-correct.md) — related
 - [Think-aloud interviews suggest students who worked only on the DSE QuILT spontaneously transferred WPI reasoning to the polarizer questions](think-aloud-interviews-wpi-transfer-mechanism.md) — related
 - [Both undergraduates and graduates improved significantly on DSE polarizer questions after the DSE QuILT, which never discussed polarizers](dse-quilt-improved-polarizer-performance-without-explicit-instruction.md) — related
+- [Physics graduate students who engaged with the hybrid QuILT performed at least as well or better on conceptual post-test problems than those who engaged with the conceptual-only QuILT](graduate-students-hybrid-quilt-better-conceptual-posttest.md) — related

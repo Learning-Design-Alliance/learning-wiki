@@ -81,3 +81,5 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related
 - [Zero-shot GPT-4 generates feedback judged more accurate and relevant than GOAT and SBERT-Canberra by teacher evaluators](gpt4-feedback-accuracy-relevance.md) — related
 - [The fine-tuned GOAT model outperforms SBERT-Canberra and GPT-4 in predicting teacher scores for open-ended math responses](goat-outperforms-sbert-gpt4-scoring.md) — related
+- [Training with textual explanations improves classification over label-only training](explanation-supervision-improves-classification.md) — related
+- [LLMs classifying Talk Moves show higher recall than precision, overproducing labels at a high false-positive rate](llm-talk-move-labeling-high-false-positives.md) — related

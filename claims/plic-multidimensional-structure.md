@@ -50,3 +50,4 @@ Principal Component Analysis on matched pre- and post-survey question scores; th
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related
 - [PLIC shows course-level test-retest reliability: pre-survey means do not differ across semesters after correction](plic-test-retest-reliability.md) — related
+- [Student scores increase from pre- to post-survey on all outcome constructs, with ceiling effects on self-efficacy and perceived agency](pre-post-gains-all-constructs-ceiling.md) — related

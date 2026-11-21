@@ -50,3 +50,4 @@ The authors' expert observation from teaching experience in Italian high schools
 - [Students commonly equate infrared images with heat rather than electromagnetic radiation](infrared-as-heat-misconception.md) — related
 - [Students persist in interpreting infrared-camera images in terms of temperature despite initial clarification](students-interpret-ir-images-as-temperature.md) — related
 - [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — related
+- [Students confuse heat and temperature in process conceptions related to thermal energy](apos-heat-temperature-conflation.md) — related

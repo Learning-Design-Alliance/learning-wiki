@@ -54,3 +54,4 @@ Qualitative thematic analysis of a random subsample of 203 of the 1024 collected
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related
 - Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements) — related
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related
+- [Supervising tutors praised LearnLM's Socratic dialogue, and three of five interviewed tutors reported professional growth from supervising it](tutors-praise-learnlm-socratic-dialogue.md) — related

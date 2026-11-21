@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: kudina-2025
+  - id: kudina-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16626"
-    title: "Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)"
+    title: "Kudina, O. (2026). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 Originally published 2025. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)"
     author: Kudina, O.
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The chapter argues, as a theoretical interpretation, that students' attachment to LLM promises is a cruel optimism, because the perceived benefits depend on the very skills, vigilance and expertise students are still developing. [→ Kudina 2025](#kudina-2025)
+`q1 i?` The chapter argues, as a theoretical interpretation, that students' attachment to LLM promises is a cruel optimism, because the perceived benefits depend on the very skills, vigilance and expertise students are still developing. [→ Kudina 2026](#kudina-2026)
 
 ## Evidence
 
-### Kudina 2025
+### Kudina 2026
 
-Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)
+Kudina, O. (2026). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 Originally published 2025. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)
 
 `q1 · i?` · `associational · r1`
 
@@ -53,3 +53,4 @@ Theoretical argument drawing on Berlant (2020), grounded in the questionnaire fi
 - [LLM output can be misleading or erroneous because a stochastic element in text generation sometimes selects less likely continuations, so it requires continuous supervision and critical evaluation by domain experts.](llm-stochastic-output-requires-domain-expertise.md) — related
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — a broader claim this one bears on
+- [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — related

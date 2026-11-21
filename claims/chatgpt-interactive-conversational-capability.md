@@ -53,3 +53,4 @@ The authors' exploratory demonstration: they prompted ChatGPT to explain itself,
 - [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](llm-cba-derailment-gaming-not-replicable.md) — reports the opposite
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — reports the opposite
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — related
+- [A minority of students saw gen-AI as capable of creativity, with one student humanizing AI as having prior experiences](student-humanizes-gen-ai-creative.md) — reports the opposite

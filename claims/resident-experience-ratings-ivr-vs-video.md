@@ -68,3 +68,4 @@ Null result on the implant-specific surgical steps Likert domain (difference 0.3
 - [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related
 - [Simulation-platform trainees reported higher teaching satisfaction, enjoyment of learning, and proactive learning behavior than controls](simulation-platform-higher-engagement-subjective-assessments.md) — related
 - [Students evaluated the serious game as more engaging but the e-module as easier to use](game-more-engaging-emodule-easier-to-use.md) — related
+- [Participants rated AR training higher than video on perceived usefulness, engagement, and behavioral intention, with no difference in ease of use](ar-higher-tam-ratings-than-video.md) — related

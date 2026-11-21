@@ -73,3 +73,4 @@ Average pairwise Cohen's kappa with human judges on LO alignment was 0.65 (SE = 
 - [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Subject-matter experts correctly labeled 400 of 570 learning-outcome pairs (70%), supporting the use of large language models in curriculum mapping.](expert-validation-70-percent-pairs.md) — related
+- [Automated LLM evaluation of MCQ quality showed only moderate agreement with human evaluation](moderate-human-ai-evaluation-agreement-mcq.md) — related

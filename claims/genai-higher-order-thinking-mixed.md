@@ -83,3 +83,4 @@ The review reports Scala et al.'s (2025) randomised experiment comparing human-o
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [GenAI was less fruitful in the definition stage of design, where students reflected it did not support critical thinking and risked shallow learning](genai-definition-stage-shallow-learning-risk.md) — a narrower finding that bears on this claim
+- [High dependence on AI correlates with lower critical-thinking performance, mediated by cognitive offloading, and AI tools that minimize cognitive struggle risk weakening critical thinking](ai-cognitive-offloading-lower-critical-thinking.md) — related

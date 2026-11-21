@@ -47,3 +47,4 @@ Bao and Redish model analysis applied to 2014 and 2015 ACI data for the principl
 ## Related Claims
 - [Model analysis of the explore all paths concept showed instruction was ineffective in shifting students from the incorrect single path model towards the correct model](model-analysis-explore-all-paths-ineffective.md) — related
 - [Think-aloud interviews and confidence-rated inventory responses revealed misconceptions that only minimum action paths are physical, that mechanics paths are spatial, and that stationary points involve no variation at all](action-physics-misconceptions-stationary-action-paths-variation.md) — related
+- [Action Concept Inventory identifies four most common student misconceptions when taught the Many Paths approach](aci-four-common-many-paths-misconceptions.md) — related

@@ -70,3 +70,4 @@ Distractor analysis of ENEM 2013 question 48 (PET bottle thermal properties), di
 - [Brazilian high-school graduating students answer on average only about one third of Enem Natural Sciences items correctly, with the mean slowly decreasing from 2009 to 2014](enem-natural-sciences-one-third-correct-answers.md) — related
 - [Students' spontaneous questions during the experiments showed investigative engagement and transfer of concepts to everyday situations](student-questions-investigative-engagement-arduino-experiments.md) — related
 - [Students persist in interpreting infrared-camera images in terms of temperature despite initial clarification](students-interpret-ir-images-as-temperature.md) — related
+- [Students confuse heat and temperature in process conceptions related to thermal energy](apos-heat-temperature-conflation.md) — related

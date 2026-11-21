@@ -69,3 +69,4 @@ GPT-3.5-Turbo and Gemini-Pro as LLM Judges showed chance-level accuracy with con
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](backtranslation-outperforms-llm-judge-diagram-agreement.md) — related
+- [A three-layer mitigation strategy reduced Whisper hallucination loops from 6.4% of segments to 0.02% across a lecture corpus](whisper-hallucination-loop-mitigation-transcripts.md) — related

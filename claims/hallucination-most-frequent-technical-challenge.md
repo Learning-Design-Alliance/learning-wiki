@@ -56,3 +56,4 @@ The review's challenges section identifies that "the most frequently reported te
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
 - [LLMs have been applied across seven distinct domains in dental education, with dental examinations the most frequent (n = 24)](llm-seven-application-domains-dental-education.md) — related
 - [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — a narrower finding that bears on this claim
+- [LLMs exhibit Process Hallucination, skipping visual verification and applying plausible but unverified background knowledge](process-hallucination-skipped-visual-verification.md) — a narrower finding that bears on this claim

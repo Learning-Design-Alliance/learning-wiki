@@ -67,3 +67,4 @@ The article's second, more speculative modeling assumption: constructive learnin
 - [In Procedural ABICAP simulations, the ICAP ordering (interactive > constructive > active > passive) holds after enough steps](icap-holds-after-step-35.md) — related
 - [For rationale-free procedural knowledge components with no graph edges, Procedural ABICAP predicts passive learning is best](passive-best-for-rationale-free-kcs.md) — related
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
+- [Learning-oriented prompting gains scaled monotonically with the designed ICAP engagement level of the instruction](prompting-gains-scale-icap-engagement.md) — related

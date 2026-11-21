@@ -53,3 +53,4 @@ Technical evaluation comparing three LLM classifiers against human-annotated dat
 - [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](gemini-flash-reliable-feedback-focus-annotator.md) — related
 - [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](multi-llm-comparison-gemini-more-accurate.md) — related
 - [The ChatMyopia image classification tool graded myopic maculopathy with high test-set performance (overall AUROC 0.967, accuracy 0.934)](chatmyopia-maculopathy-grading-performance.md) — related
+- [LLM-identified scaffolding segments reached sufficient annotation reliability for use in the main study](llm-identified-scaffolding-segment-reliability.md) — related

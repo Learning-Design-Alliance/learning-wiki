@@ -50,4 +50,4 @@ A lesson-level instructional pattern in which research-validated multiple-choice
 -
 
 ## Key Sources
-- Hu, P., Li, Y., & Singh, C. (2022). Challenges in addressing student difficulties with measurement uncertainty of two-state quantum systems using a multiple-choice question sequence in online and in-person classes. https://arxiv.org/abs/2211.01978
+- Hu, P., Li, Y., & Singh, C. (2022). Challenges in addressing student difficulties with measurement uncertainty of two-state quantum systems using a multiple-choice question sequence in online and in-person classes. https://arxiv.org/abs/2211.01978. [doi:10.1088/1361-6404/ac9ba3](https://doi.org/10.1088/1361-6404/ac9ba3)

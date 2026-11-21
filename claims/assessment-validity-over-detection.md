@@ -69,3 +69,4 @@ The review cites cross-course and cross-national evidence that interpretations o
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
 - [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
 - [Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes](instructors-lack-confidence-investigating-ai-use.md) — related
+- [Time pressure pushed students toward genAI use, while learning goals led most students to moderate their use](time-pressure-and-learning-goals-shape-genai-use.md) — related

@@ -58,6 +58,7 @@ The authors propose a three-stage instructional framework incorporating the virt
 - [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
 - [Apply the jaw model prior to virtual reality in preclinical periodontal training](jaw-model-before-vr-periodontal-training-strategy.md)
+- [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
 
 ## Examples
 -

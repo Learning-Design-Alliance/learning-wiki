@@ -50,3 +50,4 @@ Design description of the Doppler shift Student Representation Task, in which th
 - [Students misinterpret what spectra indicate, including temperature, composition, and distance information](spectra-interpretation-misconceptions.md) — related
 - [Faculty-produced questions on some topics lack diversity in representations and intellectual tasks](faculty-tps-topic-representation-narrowness.md) — related
 - [Preconceptions about motion serve learners well in the relativistic explosion interpretation for redshift, out-of-flow galaxies, bound systems, and one kind of cosmological horizon](motion-preconceptions-anchor-relativistic-explosion.md) — related
+- [The Portuguese 11th-grade physics syllabus confuses cosmological redshift with the Doppler effect, and students can understand the distinction when adequately explained](cosmological-redshift-vs-doppler-syllabus-error.md) — related

@@ -53,3 +53,4 @@ Quasi-experimental comparison of upper-division BEMA post-scores across seven se
 - [Hand-off of Tutorials from one PER faculty member to another sustains statistically indistinguishable student learning gains](per-to-per-handoff-sustains-gains.md) — related
 - [Tutorial-cohort students earn marginally but not significantly higher upper-division course grades than non-Tutorial peers](tutorial-cohort-upper-division-grades.md) — related
 - [Control-group students were at least as strong as experimental-group students in other traditionally taught upper-division physics courses](control-group-comparability-other-upper-division-courses.md) — related
+- [Mean of Individual Gains on the BEMA was significantly higher in the experimental group than in the control group](individual-gains-higher-eg.md) — related

@@ -49,3 +49,4 @@ Case-study analysis of Episode 2 of the same group's first tutorial session. Aft
 - [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — related
 - [A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect](ta-epistemic-distancing-intervention-silver-group.md) — possibly the same claim (merge candidate)
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — a broader claim this one bears on
+- [Faulty LLM reasoning is marked by epistemic hedging (Tentativeness) and performative metacognition (Insight), both significant negative signals of correctness](hedging-and-metacognition-mark-llm-errors.md) — related

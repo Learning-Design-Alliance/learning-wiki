@@ -48,3 +48,4 @@ Four focus groups of 17 residents who participated in round 1 of Kaizen-IM, audi
 - [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](kahoot-engagement-decline-leaderboard-trailing.md) — related
 - [Residents answered a gamified medical knowledge competition heavily outside scheduled hours, with 28.8% of questions completed on weekends and 53.1% between 17:00 and 08:00.](kaizen-im-off-hours-engagement.md) — related
 - [Peer competition and focus on the activity were the most highly rated engagement aspects of gamified TP ARS games, with most flow-related prompts endorsed by at least 85% of respondents.](peer-competition-focus-top-engagement-aspects.md) — related
+- [Weekly leaderboard competitions in week 3 produced a clear peak in engagement, suggesting competitive elements can reignite student interest](weekly-leaderboard-competition-engagement-peak.md) — related

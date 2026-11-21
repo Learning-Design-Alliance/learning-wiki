@@ -53,3 +53,4 @@ Qualitative thematic finding: a women's peer mentoring group meeting weekly in s
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
+- [Collaborating by discussing ideas rather than syntax gave one student a sense of shared struggle that increased her sense of belonging](discussing-ideas-not-syntax-increased-sense-of-belonging.md) — related

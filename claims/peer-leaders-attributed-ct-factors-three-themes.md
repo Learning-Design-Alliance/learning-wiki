@@ -50,3 +50,4 @@ Qualitative coding of the open-ended critical thinking questionnaire given to pe
 - [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [PLTL peer leaders show no significant overall critical thinking difference from a matched non-PLTL control group, though controls trended toward negative gains](pltl-vs-control-cctst-no-significant-interaction.md) — related
 - [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](disha-socratic-hints-foster-independent-thinking.md) — related
+- [Fourteen shared competency themes emerge from analysis of formal and informal learning goals](fourteen-learning-goal-themes-astro.md) — related

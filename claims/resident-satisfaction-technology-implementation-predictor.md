@@ -71,3 +71,4 @@ Multiple regression on the same satisfaction survey data. The article reports "t
 - [Across five aggregated pedagogical dimensions, flipped-cohort satisfaction rose markedly, with the largest gain in Instructional Implementation](five-dimension-satisfaction-gains-radar.md) — related
 - [Online learning and preview test activities were the strongest contributors to student satisfaction in flipped physical classroom blended learning](online-learning-main-driver-satisfaction.md) — related
 - [Students in an immersive flipped online course reported high engagement, with all 25 survey items rated significantly above the scale midpoint](immersive-flipped-course-high-engagement-survey.md) — related
+- [Post-program perceptions of the SIREN program were significantly higher than the neutral midpoint across all 15 post-only survey items](siren-post-survey-endorsement-above-midpoint.md) — a narrower finding that bears on this claim

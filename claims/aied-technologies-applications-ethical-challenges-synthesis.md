@@ -57,3 +57,4 @@ RQ1 synthesis of Table 4, summarising 36% of the review's studies, maps technolo
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related
 - [Resources, ethics and privacy, buy-in, and capabilities are the most commonly identified barriers to LA adoption](la-barriers-resources-ethics-buy-in-capabilities.md) — related
 - [Material adaptations are a recognized challenge for including blind students in conventional academic activities](material-adaptations-challenge-blind-student-inclusion.md) — related
+- [Perceived surveillance and opaque data practices in AI-driven education deter intellectual risk-taking and create power imbalances between learners, institutions, and technology providers](ai-surveillance-data-power-imbalance.md) — a narrower finding that bears on this claim

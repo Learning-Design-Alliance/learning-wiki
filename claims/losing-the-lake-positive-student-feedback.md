@@ -67,3 +67,5 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [Students who reported playing the game was fun to a large extent had a significantly lower gain (0.13) than the average student (0.20)](high-fun-students-lower-gain.md) — related
 - [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — a broader claim this one bears on
 - [Participants reported similar engagement and motivation ratings for the game and video conditions, with no significant effects found](similar-engagement-ratings-game-video.md) — related
+- [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related
+- [Open-ended responses and classroom observations showed students valued real-time feedback and competition, with previously passive students becoming involved](missionmotion-student-perceptions-observations.md) — a broader claim this one bears on

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 446 claims (199 for, 190 mixed, 57 against) · 308 studies (124 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 308 report an effect size · 429 claims rest on one study
+> **Evidence** · 450 claims (200 for, 193 mixed, 57 against) · 310 studies (126 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 67 of 310 report an effect size · 433 claims rest on one study
 
 ## Description and scope
 
@@ -318,6 +318,10 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [In an RCT, students taught by an AI instructional agent reported significantly higher perceived learner control than students taught by a human teacher or a MOOC with chatbot](../claims/ai-agent-higher-perceived-learner-control-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning".
 - [Students taught by the AI instructional agent achieved significantly higher post-test scores than the human teacher and MOOC groups](../claims/ai-agent-higher-posttest-scores-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning"; tests this page's relationship.
 - [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](../claims/llm-feedback-20-percent-errors.md) [~W] — attached 2026-11-21 from Holger Maus et al. (2025), which proposed "Ground LLM-generated feedback in expert solutions and learners' own approaches rather than unguided LLM reasoning".
+- [Chatbot usage constituted a negative associative pathway to subsequent exam performance, while proof-review usage showed no detectable independent association](../claims/chatbot-usage-negative-pathway-exam.md) [~W] — attached 2026-11-21 from Chen et al. (2026), which proposed "LLM integration in proof learning should move beyond generic chat interfaces toward designs that anchor feedback in student work"; tests this page's relationship.
+- [Earlier access to GPTutor was associated with higher homework scores but this benefit did not transfer to exam scores](../claims/gptutor-earlier-access-homework-not-exam.md) [~M] — attached 2026-11-21 from Chen et al. (2026), which proposed "LLM integration in proof learning should move beyond generic chat interfaces toward designs that anchor feedback in student work"; tests this page's relationship.
+- [Agent pedagogical role shapes engagement in learning-by-explaining: Tutee and Challenger roles elicit longer explanations, and the Tutee role drives more frequent and longer material review than the Peer role](../claims/agent-role-shapes-explanation-engagement.md) [+W] — attached 2026-11-21 from Zhengtao Xu et al. (2026), which proposed "Deploy the right agent role for the right pedagogical goal and learning phase rather than searching for a single best agent".
+- [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](../claims/agent-role-experience-tradeoffs.md) [~W] — attached 2026-11-21 from Zhengtao Xu et al. (2026), which proposed "Deploy the right agent role for the right pedagogical goal and learning phase rather than searching for a single best agent".
 
 ## Illustrative design instance and observation record
 

@@ -50,3 +50,4 @@ Laboratory video-based decision task with 51 Polish Handball Federation referees
 - [The expertise gap in decision accuracy is largest in punishment scenarios (Cohen's d = 1.407)](punishment-scenario-expertise-accuracy-gap.md) — a narrower finding that bears on this claim
 - [Male referees outperformed female referees in free-throw decisions only (d = 0.638), while overall accuracy did not differ](free-throw-gender-accuracy-difference.md) — related
 - [Female referees showed a preference for fewer game interruptions that did not consistently align with correct decisions](female-referees-fewer-interruption-preference.md) — related
+- [Training reduces rule misstatements: trained LLM users state applicable legal rules more accurately than untrained LLM users](training-improves-rule-statement-accuracy.md) — related

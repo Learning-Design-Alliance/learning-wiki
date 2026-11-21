@@ -45,6 +45,7 @@ The article recommends constraining LMM danmaku output with quantitative paramet
 ## Related Strategies
 
 - [Constrain an LLM to inquiry-only questioning via negative system-prompt constraints plus strict JSON schemas](negative-constraint-prompting-inquiry-only-llm.md)
+- [Prompt misconception generation with positive examples and verbose anti-examples plus explicit length constraints](examples-and-anti-examples-prompt-strategy.md)
 
 ## Examples
 -

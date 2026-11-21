@@ -130946,5 +130946,689 @@
  "media-design\tseven eclipse animations\tPowerPoint materials": {
   "label": "animation-based materials vs PowerPoint materials",
   "treatment_is_a": true
+ },
+ "active-learning\t10–20% group worksheets, 20–40% group clicker questions, and at least 10% student questions\tclasses with no group worksheets": {
+  "label": "Specified active-learning activity mix vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\t10–20% group worksheets, 20–40% group clicker questions, and at least 10% student questions\tother combinations of classroom activities": {
+  "label": "Specified active-learning activity mix vs other classroom-activity combinations",
+  "treatment_is_a": true
+ },
+ "active-learning\t10–20% group worksheets, 20–40% group clicker questions, and at least 10% student questions\tother modeled activity combinations": {
+  "label": "Specified active-learning activity mix vs other modeled-activity combinations",
+  "treatment_is_a": true
+ },
+ "active-learning\t10–20% group worksheets, 20–40% group clicker questions, and at least 10% student questions\tother observed or simulated activity combinations": {
+  "label": "Specified active-learning activity mix vs other observed or simulated activity combinations",
+  "treatment_is_a": true
+ },
+ "active-learning\t50% of class time on lecture\t25% of class time on lecture": {
+  "label": "25% lecture time vs 50% lecture time",
+  "treatment_is_a": false
+ },
+ "active-learning\tAL as implemented\tTL as implemented": {
+  "label": "Active learning as implemented vs traditional lecturing as implemented",
+  "treatment_is_a": true
+ },
+ "active-learning\tAL sections\tTL sections": {
+  "label": "Active-learning sections vs traditional-lecturing sections",
+  "treatment_is_a": true
+ },
+ "active-learning\tAL-labeled sections as implemented\tTL-labeled sections as implemented": {
+  "label": "Active-learning-labeled sections as implemented vs traditional-lecturing-labeled sections as implemented",
+  "treatment_is_a": true
+ },
+ "active-learning\tActive Learning (AL) sections\tTraditional Lecturing (TL) sections": {
+  "label": "Active-learning sections vs traditional-lecturing sections",
+  "treatment_is_a": true
+ },
+ "active-learning\tActive Learning sections as implemented\tTraditional Lecturing sections as implemented": {
+  "label": "Active-learning sections as implemented vs traditional-lecturing sections as implemented",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP\tISLE and Tutorials": {
+  "label": "SCALE-UP vs ISLE and Tutorials",
+  "treatment_is_a": true
+ },
+ "active-learning\tabout 25% lecture time with the identified active-learning strategies\tabout 50% lecture time with the identified active-learning strategies": {
+  "label": "25% lecture time with active-learning strategies vs 50% lecture time with active-learning strategies",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning as implemented\ttraditional lecturing as implemented": {
+  "label": "Active learning as implemented vs traditional lecturing as implemented",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-methodology pedagogical proposal\tnon-innovated lessons": {
+  "label": "Active-methodology pedagogy vs non-innovated lessons",
+  "treatment_is_a": true
+ },
+ "active-learning\tactively generating misinformation in the Bad News game\tpassive exposure": {
+  "label": "Active generation of misinformation vs passive exposure",
+  "treatment_is_a": true
+ },
+ "active-learning\tclass time including group worksheets\tno group worksheets": {
+  "label": "Group worksheets vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\tclasses using group worksheets\tclasses using no group worksheets": {
+  "label": "Group worksheets vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\tclasses using group worksheets, including with group clicker questions\tclasses with no group worksheets": {
+  "label": "Group worksheets, including with group clicker questions, vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\tclasses without group worksheets\tclasses using group worksheets": {
+  "label": "Group worksheets vs no group worksheets",
+  "treatment_is_a": false
+ },
+ "active-learning\tclicker question sequence with peer discussion\ttutorial on addition of angular momentum": {
+  "label": "Clicker questions with peer discussion vs tutorial on addition of angular momentum",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence with peer discussion\ttraditional lecture instruction": {
+  "label": "Clicker questions with peer discussion vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative work, simulations, and formative assessment\tnot stated": {
+  "label": "Collaborative work, simulations, and formative assessment vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollective approaches using peer discussion and strategic AI consultation\tindividualistic AI use": {
+  "label": "Collective peer discussion with strategic AI consultation vs individualistic AI use",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollective group work with strategic AI support\tAI alone": {
+  "label": "Collective group work with strategic AI support vs AI alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup clicker questions as the only active learning\tfully lecture-based classes": {
+  "label": "Group clicker questions as the only active-learning method vs fully lecture-based classes",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup clicker questions as the only active-learning method\tfully lecture-based classes": {
+  "label": "Group clicker questions as the only active-learning method vs fully lecture-based classes",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup clicker questions as the only active-learning strategy\tfully lecture-based classes": {
+  "label": "Group clicker questions as the only active-learning method vs fully lecture-based classes",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup clicker questions plus group worksheets\tgroup clicker questions without group worksheets": {
+  "label": "Group clicker questions plus group worksheets vs group clicker questions without group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup clicker questions without group worksheets\tfully lecture-based classes": {
+  "label": "Group clicker questions without group worksheets vs fully lecture-based classes",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work with peer collaboration\tAI use alone": {
+  "label": "Group work with peer collaboration vs AI use alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup worksheets used\tno group worksheets": {
+  "label": "Group worksheets vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup worksheets used in class\tno group worksheets": {
+  "label": "Group worksheets used in class vs no group worksheets",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activities\ttraditional classroom learning": {
+  "label": "Hands-on activities vs traditional classroom learning",
+  "treatment_is_a": true
+ },
+ "active-learning\thuman collaboration combined with strategic AI support\tAI alone": {
+  "label": "Human collaboration with strategic AI support vs AI alone",
+  "treatment_is_a": true
+ },
+ "active-learning\thuman collaboration with strategic AI support\tAI alone": {
+  "label": "Human collaboration with strategic AI support vs AI alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tinnovative active-methodology and modern-assessment proposal\tnon-innovated lessons": {
+  "label": "Innovative active methodology with modern assessment vs non-innovated lessons",
+  "treatment_is_a": true
+ },
+ "active-learning\tintegrated active methodologies and modern assessment\tnon-innovated lessons": {
+  "label": "Integrated active methodologies with modern assessment vs non-innovated lessons",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore class time on student questions\tless class time on student questions": {
+  "label": "More class time on student questions vs less class time on student questions",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore class time spent on student questions when both group worksheets and group clicker questions exceed 10% of class time\tless class time spent on student questions under the same activity conditions": {
+  "label": "More student-question time under high group-worksheet and group-clicker use vs less student-question time under the same conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore student questions among classes using more than 10% group worksheets and group clicker questions\tfewer student questions in those classes": {
+  "label": "More student questions under high group-worksheet and group-clicker use vs fewer student questions under the same conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore student questions when group worksheets and group clicker questions each exceed 10% of class time\tfewer student questions under the same activity conditions": {
+  "label": "More student questions under high group-worksheet and group-clicker use vs fewer student questions under the same conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent groups designing and defending Newsgames\tnot stated": {
+  "label": "Student groups designing and defending Newsgames vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered or active-learning pedagogy\tteacher-centered pedagogy or lecture": {
+  "label": "Student-centered or active-learning pedagogy vs teacher-centered pedagogy or lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered pedagogies, including smaller recitation sections\tprior teaching arrangements": {
+  "label": "Student-centered pedagogies, including smaller recitation sections, vs prior teaching arrangements",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfaculty experience pedagogy as dictated by factors outside their control\tfaculty-controlled pedagogical choice": {
+  "label": "faculty autonomy vs externally dictated pedagogy",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tteacher asks whether the learning strategy matches students’ learning conditions\tnot reported": {
+  "label": "context-responsive teaching vs not reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher-in-the-loop FACET preserving teacher review and control\tAI system without teacher review and control": {
+  "label": "teacher-in-the-loop vs AI-controlled",
+  "treatment_is_a": true
+ },
+ "case-comparison\tPrompts comparing the curved projectile graph with a linear graph\tInitial interpretation of the curved graph before comparison": {
+  "label": "Comparing contrasting graphs vs interpreting one graph",
+  "treatment_is_a": true
+ },
+ "case-comparison\tSuperflu: worldwide cooperation to eradicate influenza A\tFlucorp Inc.: pharmaceutical profit maximization during the epidemic": {
+  "label": "Worldwide cooperation vs profit maximization",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing the curved projectile graph with a linear graph\tinitial interpretation of the curved graph before the comparison": {
+  "label": "Comparing contrasting graphs vs interpreting one graph",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing the curved projectile graph with a linear graph\tinterpreting the curved graph before comparison": {
+  "label": "Comparing contrasting graphs vs interpreting one graph",
+  "treatment_is_a": true
+ },
+ "case-comparison\tdifferent Newsgames addressing the same current event in contrasting ways\tone approach to the current event": {
+  "label": "Contrasting approaches vs a single approach",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstruction on AI algorithms’ statistical nature and limitations\tNo such explicit instruction": {
+  "label": "Instruction on AI algorithms’ statistical nature and limitations vs no such instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLLM access plus a 9-minute 30-second training video and five-question quiz\tLLM access without training": {
+  "label": "LLM-use training (video and quiz) vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLLM access plus training video and quiz\tLLM access without training": {
+  "label": "LLM-use training (video and quiz) vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLLM access with brief legal-analysis training\tLLM access without training": {
+  "label": "Legal-analysis training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLLM access with training video and quiz\tLLM access without training": {
+  "label": "LLM-use training (video and quiz) vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLLM access without training\tLLM access with brief training": {
+  "label": "LLM-use training vs no training",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tLLM-use training video and quiz\tLLM access without training": {
+  "label": "LLM-use training (video and quiz) vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWDC DI course\tWDC pretest before DI instruction": {
+  "label": "DI course vs pretest/no DI instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWDC DI course followed by real-circuit driving\tPretest real-circuit driving before the course": {
+  "label": "DI course vs pretest/no DI instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWDC DI course with tutorials and simulator practice\tpretest before the DI course": {
+  "label": "DI course vs pretest/no DI instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tadequate explanation of cosmological expansion versus Doppler effect\tsyllabus explanation that confuses cosmological expansion with the Doppler effect": {
+  "label": "Accurate explanation of cosmological expansion versus the Doppler effect vs confused explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tadequate explanation of the distinction between cosmological expansion and the Doppler effect\tmemorizing formulas or conflating the concepts": {
+  "label": "Accurate distinction between cosmological expansion and the Doppler effect vs memorization or conflation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief instruction\tother condition(s)": {
+  "label": "Brief explicit instruction vs other/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief reminder (Condition 1)\tcomparison condition": {
+  "label": "Brief reminder vs no reminder/comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief-instruction condition(s)\tother conditions": {
+  "label": "Brief explicit instruction vs other/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommenting and formatting code addressed explicitly\tcommenting and formatting code not specified": {
+  "label": "Explicit instruction on code commenting and formatting vs no specification",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tearly lecture explaining GAI’s learning purpose\tno early explanation of GAI’s purpose": {
+  "label": "Early explanation of GAI’s learning purpose vs no explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperiential exposure to AI failure modes\tdeclarative instruction alone": {
+  "label": "Declarative instruction vs experiential exposure to AI failure modes",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tfull DI course with tutorials and simulator practice\tpretest before the course": {
+  "label": "DI course vs pretest/no DI instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfull DI/WDC course\tpretest before the course": {
+  "label": "DI course vs pretest/no DI instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructed conditions\tother conditions": {
+  "label": "Explicit instruction vs other conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprepare students to recognize hype and understand quantum capabilities\tno such preparation": {
+  "label": "Preparation to recognize hype and understand quantum capabilities vs no such preparation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-sentence reminder framing GenAI as a tutor\tnot stated": {
+  "label": "Brief reminder framing GenAI as a tutor vs no reminder",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI-generated evaluative feedback\tno LLM-based feedback": {
+  "label": "AI-generated feedback vs no LLM-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI-generated feedback\tcontrol group without LLM-based feedback": {
+  "label": "AI-generated feedback vs no LLM-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI-generated feedback\tno LLM-based feedback": {
+  "label": "AI-generated feedback vs no LLM-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI-generated feedback on responses to client resistance\tno LLM-based feedback": {
+  "label": "AI-generated feedback vs no LLM-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAR guidance with real-time feedback\tvideo-based instruction": {
+  "label": "AR guidance with real-time feedback vs video-based instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tCode-Quiz feedback\tno feedback": {
+  "label": "Code-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tCode-Rec feedback\tno feedback": {
+  "label": "Code-Rec feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tPlan-Quiz feedback\tno feedback": {
+  "label": "Plan-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-mediated feedback\thuman-only feedback": {
+  "label": "AI-mediated feedback vs human-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-mediated feedback with TA review\thuman-only TA feedback": {
+  "label": "AI-mediated feedback vs human-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-mediated feedback with TA-reviewed FeedbackWriter suggestions\tTA human-only feedback": {
+  "label": "AI-mediated feedback vs human-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCode-Quiz\tCode-Rec": {
+  "label": "Code-Quiz feedback vs Code-Rec feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCode-Quiz\tNone": {
+  "label": "Code-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCode-Quiz feedback\tno feedback": {
+  "label": "Code-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCode-Rec feedback\tCode-Quiz feedback": {
+  "label": "Code-Quiz feedback vs Code-Rec feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tCode-Rec feedback\tPlan-Quiz feedback": {
+  "label": "Code-Rec feedback vs Plan-Quiz feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCode-Rec feedback\tno feedback": {
+  "label": "Code-Rec feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPlan-Quiz\tCode-Rec": {
+  "label": "Code-Rec feedback vs Plan-Quiz feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tPlan-Quiz\tNone": {
+  "label": "Plan-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPlan-Quiz feedback\tno feedback": {
+  "label": "Plan-Quiz feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated multirepresentational feedback\tverification feedback": {
+  "label": "Elaborated multirepresentational feedback vs verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfine-tuned model-generated explanatory feedback\tzero-shot baseline-model explanations": {
+  "label": "Fine-tuned model-generated explanatory feedback vs zero-shot baseline-model explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgreater TA adoption of AI suggestions\tlower TA adoption of AI suggestions": {
+  "label": "Greater TA adoption of AI suggestions vs lower TA adoption of AI suggestions",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER\tRubric-LLM": {
+  "label": "iRULER feedback vs Rubric-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER\tRubric-LLM feedback": {
+  "label": "iRULER feedback vs Rubric-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER\tText-LLM": {
+  "label": "iRULER feedback vs Text-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER\tText-LLM feedback": {
+  "label": "iRULER feedback vs Text-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER feedback\tRubric-LLM feedback": {
+  "label": "iRULER feedback vs Rubric-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER feedback\tText-LLM feedback": {
+  "label": "iRULER feedback vs Text-LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER feedback\tother feedback conditions": {
+  "label": "iRULER feedback vs other feedback types",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER feedback\tother feedback types": {
+  "label": "iRULER feedback vs other feedback types",
+  "treatment_is_a": true
+ },
+ "feedback-type\tiRULER feedback\tread-only rubric and text-based LLM feedback": {
+  "label": "iRULER feedback vs read-only rubric and text-based LLM feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmore frequent elaborated multirepresentational feedback\tverification feedback": {
+  "label": "Elaborated multirepresentational feedback vs verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmore frequent use of elaborated verbal, graphical, or mathematical feedback\tverification feedback": {
+  "label": "Elaborated multirepresentational feedback vs verification feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersona-specific personalized feedback\tnot stated": {
+  "label": "Persona-specific personalized feedback vs unspecified personalization",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpublic instructor comments on student work\tno comparison stated": {
+  "label": "Public instructor comments on student work vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "feedback-type\tratings plus textual explanations\tdimension-level ratings only": {
+  "label": "Ratings plus textual explanations vs dimension-level ratings only",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFeedback Wheel debrief used to revise the activity\tinitial activity design before tester feedback": {
+  "label": "feedback-informed activity revision vs initial activity design",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFeedback Wheel debrief used to revise the activity message\tinitial activity message before tester feedback": {
+  "label": "feedback-informed activity-message revision vs initial activity message",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdepartments analyzing progress toward learning goals at least annually\tdepartments not analyzing progress at least annually": {
+  "label": "annual analysis of progress toward learning goals vs no annual progress analysis",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tindividual checking of assignments per progress on a schedule\tno individual per-progress checking": {
+  "label": "scheduled individual assignment-progress checks vs no individual progress checks",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpolling students about backgrounds\tnot polling or not correlating background with performance": {
+  "label": "polling students about backgrounds vs no background polling",
+  "treatment_is_a": true
+ },
+ "gamification\tCollective competitive game phase\tIndividual exploration phase": {
+  "label": "Collective competitive gameplay vs individual exploration gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tMissionMotion game with competitive elements\ttraditional lesson": {
+  "label": "Game-based learning vs traditional lesson",
+  "treatment_is_a": true
+ },
+ "gamification\tMissionMotion graph-reproduction game\tTraditional lesson": {
+  "label": "Game-based learning vs traditional lesson",
+  "treatment_is_a": true
+ },
+ "gamification\tNetLogo firefly synchronization game\tno comparison condition reported": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tchaotic-pendulum videogame activity\tno comparison reported": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tcollective competitive gameplay\tindividual exploration gameplay": {
+  "label": "Collective competitive gameplay vs individual exploration gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tcollective gameplay with competition\tindividual exploration": {
+  "label": "Collective competitive gameplay vs individual exploration gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tfinal leaderboard rank\tnot specified": {
+  "label": "Final leaderboard rank vs not specified",
+  "treatment_is_a": true
+ },
+ "gamification\tfireflies synchronization videogame\tnot stated": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tforest-fire educational videogames\tnot stated": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based circuits lab\tinquiry-based circuits lab": {
+  "label": "Game-based laboratory vs inquiry-based laboratory",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based laboratory\tdesign-based laboratory": {
+  "label": "Game-based laboratory vs design-based laboratory",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based laboratory\tinquiry-based laboratory": {
+  "label": "Game-based laboratory vs inquiry-based laboratory",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based Hijaiyah learning application\tnot reported": {
+  "label": "Gamified Hijaiyah learning vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based Hijaiyah learning application\tpre-assessment baseline": {
+  "label": "Gamified Hijaiyah learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based Hijaiyah learning application\tpre-intervention assessment": {
+  "label": "Gamified Hijaiyah learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based Hijaiyah learning application\ttraditional Iqro' method": {
+  "label": "Gamified Hijaiyah learning vs traditional Iqro' method",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based Hijaiyah learning method\tpre-intervention assessment": {
+  "label": "Gamified Hijaiyah learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\thigher total gamification points earned\tlower total gamification points earned": {
+  "label": "Higher vs lower total gamification points earned",
+  "treatment_is_a": true
+ },
+ "gamification\tinquiry-based laboratory\tgame-based laboratory": {
+  "label": "Game-based laboratory vs inquiry-based laboratory",
+  "treatment_is_a": false
+ },
+ "gamification\tnumber of badges earned\tnot specified": {
+  "label": "Number of badges earned vs not specified",
+  "treatment_is_a": true
+ },
+ "gamification\tparticipation in the gamified board-game activity\tnon-participation": {
+  "label": "Participation in a gamified board-game activity vs non-participation",
+  "treatment_is_a": true
+ },
+ "gamification\tparticipation in the gamified board-game activity\tnon-participation, excluding students who did not take the exam": {
+  "label": "Participation in a gamified board-game activity vs non-participation",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Particle Builder\tnot stated": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tquestion-based Radiocommunications board game\tstudents who did not participate": {
+  "label": "Participation in a gamified board-game activity vs non-participation",
+  "treatment_is_a": true
+ },
+ "gamification\tsocial gamification course design\tprevious course editions without gamification": {
+  "label": "Social gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tsocial gamification in a computer systems course\tprevious course editions without gamification": {
+  "label": "Social gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tstudents who participated in the board-game activity\tstudents who did not participate": {
+  "label": "Participation in a gamified board-game activity vs non-participation",
+  "treatment_is_a": true
+ },
+ "gamification\ttotal points accumulation\tnot specified": {
+  "label": "Total gamification points accumulated vs not specified",
+  "treatment_is_a": true
+ },
+ "gamification\tvideogame-based complex-systems activity\tno comparison condition reported": {
+  "label": "Game-based activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tweekly leaderboard competitions\tweeks before leaderboard introduction": {
+  "label": "Weekly leaderboard competitions vs no leaderboard competitions",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tunguided GAI exploration of broad extragalactic astronomy\tguided GAI exploration of narrower topics": {
+  "label": "guided vs unguided discovery",
+  "treatment_is_a": false
+ },
+ "media-design\tarbitrary, non-literal particle icons\tliteral visual representations or classical imagery": {
+  "label": "arbitrary/non-literal particle icons vs literal/classical imagery",
+  "treatment_is_a": true
+ },
+ "media-design\tfewer words spoken\tmore words spoken": {
+  "label": "fewer vs more spoken words",
+  "treatment_is_a": true
+ },
+ "media-design\thigher scene change rate\tlower scene change rate": {
+  "label": "higher vs lower scene-change rate",
+  "treatment_is_a": true
+ },
+ "media-design\thigher scene count\tlower scene count": {
+  "label": "higher vs lower scene count",
+  "treatment_is_a": true
+ },
+ "media-design\thigher speaking speed\tlower speaking speed": {
+  "label": "higher vs lower speaking speed",
+  "treatment_is_a": true
+ },
+ "media-design\thigher total word count\tlower total word count": {
+  "label": "higher vs lower total word count",
+  "treatment_is_a": true
+ },
+ "media-design\thigher word count\tlower word count": {
+  "label": "higher vs lower word count",
+  "treatment_is_a": true
+ },
+ "media-design\tindividual-item image input\tfull-page image input": {
+  "label": "individual-item image input vs full-page image input",
+  "treatment_is_a": true
+ },
+ "media-design\tlower word count\texcessively lengthy transcripts": {
+  "label": "shorter vs excessively lengthy transcripts",
+  "treatment_is_a": true
+ },
+ "media-design\tlower word count\thigher word count": {
+  "label": "higher vs lower word count",
+  "treatment_is_a": false
+ },
+ "media-design\tmoderate scene count or scene-change rate\tlower or higher scene count or scene-change rate": {
+  "label": "moderate scene count/change rate vs lower or higher scene count/change rate",
+  "treatment_is_a": true
+ },
+ "media-design\tmoderate scene-change rate\tlower or higher scene-change rate": {
+  "label": "moderate vs lower or higher scene-change rate",
+  "treatment_is_a": true
+ },
+ "media-design\tmoderate scene-change rate\tlower or more extreme scene-change rates": {
+  "label": "moderate vs lower or more extreme scene-change rate",
+  "treatment_is_a": true
+ },
+ "media-design\tmoderate speaking speed\tslower or faster speaking speed": {
+  "label": "moderate vs slower or faster speaking speed",
+  "treatment_is_a": true
+ },
+ "media-design\tmoderate visual transition rate\tlower or higher transition rates": {
+  "label": "moderate vs lower or higher visual transition rate",
+  "treatment_is_a": true
+ },
+ "media-design\toptimized multimodal input\tfull-page image input": {
+  "label": "optimized multimodal input vs full-page image input",
+  "treatment_is_a": true
+ },
+ "media-design\toptimized multimodal input\tindividual-item image input": {
+  "label": "optimized multimodal input vs individual-item image input",
+  "treatment_is_a": true
+ },
+ "media-design\tproblems requiring quantitative extraction from visual representations\tproblems resolved through algebraic manipulation of well-defined equations": {
+  "label": "quantitative extraction from visual representations vs algebraic manipulation of well-defined equations",
+  "treatment_is_a": true
+ },
+ "media-design\treplayable instructional videos\tnon-replayable or one-time lecture-material exposure": {
+  "label": "replayable instructional videos vs non-replayable exposure",
+  "treatment_is_a": true
+ },
+ "media-design\tshorter videos\tlonger videos": {
+  "label": "shorter vs longer videos",
+  "treatment_is_a": true
+ },
+ "media-design\ttext+audio with raw video\ttext+audio only": {
+  "label": "text+audio with raw video vs text+audio only",
+  "treatment_is_a": true
+ },
+ "media-design\ttext+audio with video-description text\ttext+audio with raw video": {
+  "label": "text+audio with video-description text vs text+audio with raw video",
+  "treatment_is_a": true
  }
 }

@@ -82,3 +82,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Tutors reported increased student engagement at D-PBL option points and students valued simulating real-life case management stresses](dpbl-increased-engagement-option-points.md) — related
 - [Clinicians valued brief self-management training that balanced theory with opportunities to practise skills, receive feedback, and work through case studies](theory-practice-balance-valued-in-brief-skills-training.md) — related
 - [Students report a learning–realism trade-off: branching cases feel more realistic but the linear case was judged the better learning experience](vp-learning-realism-tradeoff.md) — related
+- [Interviews identified AR's real-time guidance as improving accessibility and confidence, while noting visual overload and game-like distance as trade-offs](ar-interview-accessibility-confidence-tradeoffs.md) — related

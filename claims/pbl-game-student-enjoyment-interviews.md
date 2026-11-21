@@ -86,3 +86,5 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Students completing the KSP Mün-landing project express satisfaction, frustration at physics restrictions, and demonstrate deep understanding of their orbital maneuvers in reflections](ksp-project-student-reflections.md) — related
 - [Student feedback on extra-credit creative physics projects was overwhelmingly positive, with students reporting enjoyment and deeper physics thinking](positive-feedback-extra-credit-physics-humanities-projects.md) — related
 - [Student feedback indicated a preference for the physical board game over the online version](students-prefer-physical-particle-builder-over-online.md) — related
+- [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related
+- [Teachers reported the game elicited graph reflections rarely surfacing in traditional lessons and expressed interest in adopting it](missionmotion-teacher-feedback.md) — related

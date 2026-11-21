@@ -94,6 +94,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 
 - Lab work, manipulatives, prototyping, and live practice tasks.
 - [Design XR interfaces for young learners with embodied tasks, direct manipulation, and layered spatial scaffolds](../strategies/elementary-xr-interface-design-principles.md)
+- [Use low-cost, home-available materials for the spreading-film experiments](../strategies/home-materials-viscous-film-experiments-strategy.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning*. Prentice Hall.

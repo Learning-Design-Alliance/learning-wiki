@@ -57,3 +57,4 @@ Postsurvey on AI perspectives (Figure 3). Students found AI "particularly effect
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related
 - [Students used AI for dynamic brainstorming and ideation, progressing from overcoming writer's block to refining style and rhetorical goals](ai-dynamic-brainstorming-ideation.md) — related
+- [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related

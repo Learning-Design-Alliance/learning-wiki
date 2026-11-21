@@ -62,3 +62,4 @@ Fine-tuning experiment evaluating 120 stacking combinations by F1-score during t
 - [Ensemble models generalize better than individual learners on held-out test samples for predicting academic achievement](ensemble-generalization-test-samples.md) — related
 - [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related
 - [Modified SANN outperforms baseline models in predicting program correctness](sann-outperforms-baselines-correctness-prediction.md) — related
+- [Bagging ensembles sometimes achieved lower F1 than a single base bi-LSTM model despite higher accuracy on unbalanced learner-state datasets](bagging-lowers-minority-f1-learner-state.md) — reports the opposite

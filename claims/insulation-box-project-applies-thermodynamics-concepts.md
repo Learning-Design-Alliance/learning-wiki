@@ -50,3 +50,4 @@ Teacher-reported evaluation of an eighteen-period classroom activity with 42 gra
 - [Neither introductory nor graduate physics students perform well on introductory-level conceptual questions about conductors and insulators, with neither group exceeding 53% correct on any question](grads-and-intro-students-poor-conductor-insulator-concepts.md) — related
 - [The Thermal and Transport Concept Inventory reveals robust engineering-student misconceptions about energy versus temperature and equilibrium versus steady state](ttci-robust-misconceptions-energy-temperature-equilibrium.md) — related
 - [In a survey of Beijing science teachers, only 28.1% said they would involve the magnet when teaching conductors and insulators](few-teachers-link-magnet-to-conductivity-lesson.md) — related
+- [Students interpret insulated boundary conditions as constant temperature rather than zero heat flow](apos-insulation-misinterpretation.md) — related

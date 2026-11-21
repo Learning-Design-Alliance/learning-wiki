@@ -50,3 +50,4 @@ Kruskal–Wallis test of MCQ scores across the three cohorts reported "Kruskal�
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related
 - [Gamification's exam advantage extended across most percentiles but not the highest, with gender-differentiated lowest and highest scores](gamification-percentile-gender-performance-differences.md) — related
+- [Badges were the strongest predictor of learning outcomes among gamification elements (β = 0.54)](badges-strongest-predictor-hijaiyah-outcomes.md) — reports the opposite

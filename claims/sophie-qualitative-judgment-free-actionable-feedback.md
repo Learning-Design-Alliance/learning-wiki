@@ -49,3 +49,4 @@ Thematic analysis of post-study structured interviews (46 of 51 participants com
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
+- [Interviews identified AR's real-time guidance as improving accessibility and confidence, while noting visual overload and game-like distance as trade-offs](ar-interview-accessibility-confidence-tradeoffs.md) — related

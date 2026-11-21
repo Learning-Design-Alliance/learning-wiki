@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 recheck_by: 2030
 sources:
   - id: vanessa-cruz-molina-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a coded open-response study of 19 instructors, competences C6 and C9 showed the strongest integral development while C7 and C8 were lowest in both understanding and application. [→ Vanessa Cruz Molina 2025](#vanessa-cruz-molina-2025)

@@ -49,6 +49,7 @@ This implementable recipe operationalizes PF in classrooms: assign students to s
 - [Productive Failure](productive-failure.md)
 - [Productive Struggle](productive_struggle.md)
 - [Invented Strategies Before Instruction](invented-strategies-before-instruction.md)
+- [Two-phase classroom session: individual exploration followed by collective competition](two-phase-individual-then-competition-session.md)
 
 ## Examples
 -

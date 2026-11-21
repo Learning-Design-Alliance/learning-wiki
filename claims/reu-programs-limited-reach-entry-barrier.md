@@ -50,3 +50,4 @@ Descriptive enrollment analysis in the Introduction, citing AIP enrollment data.
 - [The NSF REU program was created in 1987 to strengthen the STEM workforce](reu-created-1987-stem-workforce.md) — related
 - [Astrobites reaches a large international readership, but only a small fraction are undergraduates, its intended focus audience](astrobites-readership-broader-than-undergrads.md) — related
 - [The CERN REU summer program brings 15 U.S. undergraduates to CERN for 9 weeks each summer, with roughly 300 applicants for 15 places](cern-reu-15-us-students-summer.md) — related
+- [Undergraduate Astronomy/Astrophysics degrees grew roughly fivefold between 2000 and 2024](fivefold-growth-astro-bachelors.md) — related

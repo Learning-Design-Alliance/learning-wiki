@@ -61,3 +61,4 @@ Analysis of the 2024 calibration phase (50 texts, each scored 10 times by the AI
 - [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — related
 - [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — related
 - [Expert-graded essay scores increase significantly from pre to post learning with both tools, except flow/organization and spelling/grammar/mechanics](pre-post-gains-both-tools.md) — related
+- [Human inter-rater reliability on short-form holistic physics essays is extremely low, placing a ceiling on AI-human agreement claims](low-human-essay-reliability-ceiling.md) — related

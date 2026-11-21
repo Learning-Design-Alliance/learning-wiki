@@ -49,6 +49,8 @@ The article recommends strategies to sustain EBAE implementation: addressing stu
 - [Build an inclusive classroom environment first, then adopt an EDI approach suited to local context and iterate on student resistance](inclusive-environment-first-then-iterate.md)
 - [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 - [Plan peer instruction components to make conventional lectures more interactive in future iterations](peer-instruction-future-iterations-strategy.md)
+- [Sequence professional development for lecturing faculty: show active classrooms and establish that pedagogy choice exists before offering training](address-powerlessness-before-pd-sequence.md)
+- [Online and hybrid communities of physics educators supporting EBAE adoption](online-community-physics-educators-ebae-support.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Students rated the redesigned introductory physics course very positively, with increased interest in studying physics](intro-physics-survey-high-ratings-increased-interest.md) — related
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
+- [Students rated the gamified board game very positively, with all survey items averaging above 4.21 out of 5](board-game-survey-items-above-4-21.md) — related

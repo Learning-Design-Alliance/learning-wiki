@@ -86,3 +86,4 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](listening-comprehension-predicts-vocabulary.md) — related
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related
 - [Progress is greatest when vocabulary questions match the student's proficiency level while grammar and reading comprehension questions are set one level lower](personalized-strategy-vocabulary-matched-grammar-reading-lower.md) — related
+- [Motivation and prior knowledge moderate how learning behaviors translate into achievement in an ITS field trial](motivation-moderates-behavior-achievement-relation-its.md) — related

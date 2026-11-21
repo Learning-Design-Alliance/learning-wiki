@@ -56,6 +56,7 @@ The article recommends implementing AI tools "over extended periods and across v
 - [Embed automated question categorisation in learning management systems and develop ethical guidelines for AI in formative assessment](lms-embedded-question-categorisation-ethical-guidelines.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Deploy DeepSeek in medical education as a virtual mentor, PBL case tool, and adaptive question bank](deepseek-medical-education-integration-strategies.md)
+- [Evaluate AI tutoring with consistent support assignments over months and external standardized assessments](longitudinal-consistent-support-ai-tutoring-evaluation.md)
 
 ## Examples
 -

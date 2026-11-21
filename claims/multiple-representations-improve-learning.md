@@ -144,3 +144,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Using graphs effectively in physics requires four general skills](four-skills-graphs-physics.md) — related
 - [Tasks cuing students to engage with multiple representations facilitate generation and connection of ideas and establishing coherence between them](multiple-representations-facilitate-idea-generation-and-coherence.md) — related
 - [Completing supplemental math material 1 (vectors) is associated with better exam performance, and the association grows with the material's relevance to exam content](vectors-material-completion-better-exam-performance.md) — related
+- [A mid-performing student independently combined two separate textbook visual representations of sound and reproduced them without prompt](student-combined-textbook-sound-representations.md) — a narrower finding that bears on this claim

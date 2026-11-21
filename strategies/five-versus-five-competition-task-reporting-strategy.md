@@ -53,6 +53,7 @@ The article's implementable recipe: divide trainees into subgroups, then into tw
 ## Related Strategies
 
 - [Extend competition benefits beyond participants by sharing excellent works, videos, and operational guidance through open online registration](open-resource-sharing-extend-competition-benefits.md)
+- [Add a professor team to a course review game to heighten healthy competition](professor-team-boosts-competition-strategy.md)
 
 ## Examples
 -

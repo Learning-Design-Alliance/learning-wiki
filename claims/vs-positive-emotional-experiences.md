@@ -86,3 +86,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related
 - [Students found anatomy teaching by ultrasound innovative, exciting and engaging, and autonomous exercise improved self-criticism](student-engagement-ultrasound-anatomy.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
+- [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](feedback-groups-greater-enjoyment-and-skill-growth.md) — related

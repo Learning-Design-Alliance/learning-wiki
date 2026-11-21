@@ -67,3 +67,4 @@ Same section. The authors report “Nine of the professors had experimented with
 - [GenAI as a labor-saving device: all professors discussed time-saving potential, but literature-review assistance proved unsatisfactory while creating visuals was found very useful](genai-labor-saving-literature-review-unsatisfactory.md) — related
 - [Professors framed GenAI as a source of knowledge whose reliability they personally vetted and whose output they assigned students to critically evaluate](genai-knowledge-source-vetting-critical-evaluation.md) — related
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
+- [Debugging code was the most common use of genAI among student groups, but its efficiency meant students skipped learning to identify errors themselves](genai-debugging-most-common-use-efficiency-tradeoff.md) — related

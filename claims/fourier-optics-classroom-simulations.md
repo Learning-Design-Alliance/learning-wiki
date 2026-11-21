@@ -50,3 +50,4 @@ Author's account in the introduction of three decades of classroom use of optica
 - [Despite school ray-optics training, most students misconceive lens image formation, imagining the lens as a valve letting light through](lens-image-formation-valve-misconception.md) — related
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — related
+- [Teachers judge electricity the course part easiest to run as real experiments (about 34%) and optics the part best suited to digital simulations](discipline-specific-suitability-electricity-optics.md) — related

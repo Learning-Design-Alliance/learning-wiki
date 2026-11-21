@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 386 claims (295 show a difference, 49 mixed, 42 no difference) · 304 studies (99 associational, 98 causal, 34 review, 31 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 61 of 304 report an effect size · 382 claims rest on one study
+> **Evidence** · 387 claims (296 show a difference, 49 mixed, 42 no difference) · 305 studies (99 causal, 99 associational, 34 review, 31 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 305 report an effect size · 383 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -417,6 +417,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Adding a logistic limit on sense of belonging in the simulation leaves confidence, personal growth, motivation, and learning increasing faster than baseline while need for validation decreases to a floor](../claims/logistic-limit-belonging-accelerates-other-outcomes.md) [+W] — measured as an outcome of the instruction studied
 - [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](../claims/sd-baseline-exponential-growth-positive-constructs.md) [+W] — measured as an outcome of the instruction studied
 - [CS novices' self-confidence in LLM-based learning initially misaligns with actual prompting skill, and the intervention corrects and increases perceived ability](../claims/llm-confidence-misalignment-corrected-by-intervention.md) [+M] — measured as an outcome of the instruction studied
+- [Peer and Challenger agents raise perceived competence relative to Control, and all three role-based agents raise perceived critical thinking relative to Control](../claims/roles-raise-perceived-competence-and-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

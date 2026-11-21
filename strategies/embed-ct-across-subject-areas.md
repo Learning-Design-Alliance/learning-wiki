@@ -64,6 +64,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 - [Introduce compulsory scientific programming in Grades 10-12 connected to other science subjects](compulsory-scientific-programming-grades-10-12.md)
 - [Integrate exoplanet data activities across physics and mathematics classes to build data-analysis skills including logarithms and graph construction](cross-subject-exoplanet-data-analysis-strategy.md)
+- [Make scientific programming a second core subject across all three years of the science-and-technology branch](three-year-scientific-programming-core-subject.md)
 
 ## Examples
 -

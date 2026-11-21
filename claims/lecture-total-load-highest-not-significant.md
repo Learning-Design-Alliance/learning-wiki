@@ -52,3 +52,4 @@ Descriptive between-session comparison of total cognitive load (Fig. 2A) across 
 - [Extraneous cognitive load is significantly lower in collaborative VPs sessions than in lecture and independent VPs sessions](collaborative-vps-lower-extraneous-load.md) — related
 - [No significant difference in total or intrinsic cognitive load across lecture, independent VPs, and collaborative VPs sessions](no-intrinsic-load-difference-vp-sessions.md) — possibly the same claim (merge candidate)
 - [Collaborative VPs sessions show no significant change in situational interest across time points, and interest was higher than in lecture and independent VPs sessions at 10, 30 and 40 minutes but not at 20](collaborative-vps-si-stable-higher.md) — related
+- [Across both experiments, cognitive load and situational interest showed an inverse relationship, with game-based labs consistently lowest in load and highest in interest](inverse-load-interest-relationship.md) — related

@@ -49,3 +49,4 @@ Descriptive comparison of the percentage of expected procedural steps completed 
 - [Performance at 4 years after training is statistically identical to that of untrained emergency physicians, indicating total loss of the training benefit.](training-benefit-total-loss-at-four-years.md) — possibly the same claim (merge candidate)
 - [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](higher-perceived-stress-in-recently-trained-group.md) — related
 - [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — related
+- [External partners rated third-year industry-project students at or above recent-graduate professional expectations in 89% of evaluated cases in the 2024/25 cohort](industry-partner-ratings-meet-professional-expectations.md) — related

@@ -65,3 +65,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [Both BERT content embeddings and flashcard-level study features contribute to KAR3L's prediction accuracy and calibration](kar3l-ablation-content-and-history-both-help.md) — related
 - [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related
 - [Removing any of TASA's three modules degrades performance, with the forgetting score contributing an average 6.8% drop in normalized learning gain when eliminated](tasa-ablation-module-importance.md) — related
+- [Joint training of the feature encoders contributes the largest single-module ablation loss in AAM-TSA](joint-training-crucial-aam-tsa-ablation.md) — related

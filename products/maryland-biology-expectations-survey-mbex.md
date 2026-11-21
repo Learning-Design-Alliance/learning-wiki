@@ -27,4 +27,4 @@ Chatzikyriakidou et al. developed the MBEX as a Likert-scale pre-post survey for
 -
 
 ## Key Sources
-- Chatzikyriakidou, K., Hall, K. L., Redish, E. F., & Cooke, T. J. (2025). A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses. https://drum.lib.umd.edu/
+- Chatzikyriakidou, K., Hall, K. L., Redish, E. F., & Cooke, T. J. (2025). A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses. https://drum.lib.umd.edu/. [doi:10.48550/arxiv.2511.15575](https://doi.org/10.48550/arxiv.2511.15575)

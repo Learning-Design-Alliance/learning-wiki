@@ -96,3 +96,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — related
 - [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — related
 - [Clause count shows no significant correlation with averaged LLM accuracy on text-only thermodynamics items](clause-count-no-correlation-llm-accuracy.md) — related
+- [A multiple linear regression on normalised video features explains little engagement variance, with duration the most influential feature and word count unexpectedly positive](regression-duration-most-influential-word-count-positive.md) — related

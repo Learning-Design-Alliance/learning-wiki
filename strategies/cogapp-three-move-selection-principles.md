@@ -45,7 +45,8 @@ Tutorly's prompt engineering selects an appropriate mentor move by following thr
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](../claims/llm-discourse-coding-kappa-078-expert-agreement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide diverse, representative examples in prompts to unlock latent LLM performance on discourse classification](example-driven-prompting-unlock-llm-performance.md)
 
 ## Examples
 -

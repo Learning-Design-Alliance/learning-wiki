@@ -49,3 +49,4 @@ Survey item on the most significant advantage of CHLS English lessons; repeatabi
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
 - [Nearly half of students found CHLS English content difficult, and about a third found learning with it interesting](chls-content-difficulty-and-interest-perceptions.md) — related
 - [More than half of students reported significant impairment in concentration and learning abilities during distance education](majority-concentration-impairment-during-de.md) — related
+- [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related

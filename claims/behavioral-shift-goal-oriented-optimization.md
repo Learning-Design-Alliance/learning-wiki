@@ -52,3 +52,4 @@ mentation switching decreased (transition probabilities decreased by 0.12 and 0.
 - [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
 - [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related
 - [Response boundary changes flexibly, with within-day decreases in most participants and primarily day-1-to-2 between-day decreases](response-boundary-flexible-within-between-day.md) — related
+- [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
