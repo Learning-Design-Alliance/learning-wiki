@@ -52,3 +52,4 @@ Interview question Q2 on a water glass moving uniformly in the stationary frame 
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
 - [Exposure to an explainer video containing misconceptions increases students' misconceptions without raising perceived understanding](misconception-video-increases-misconceptions.md) — related
+- [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related

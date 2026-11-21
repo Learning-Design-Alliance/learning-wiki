@@ -101,3 +101,5 @@ Identical non-GenAI homework items also differed significantly across halves (r=
 - [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related
 - [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
+- [Students who engaged with ChatGPT during a physics problem showed higher learning gains than students who did not use AI](chatgpt-users-higher-physics-gains.md) — related
+- [In a randomized course experiment with merged final-exam groups, the AI-permitted group scored slightly but significantly higher than the offline group on the offline true-or-false paper test, so Hypothesis 1 was not supported.](paper-test-significant-advantage-ai-group.md) — related

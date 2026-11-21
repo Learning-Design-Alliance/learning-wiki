@@ -54,3 +54,4 @@ ANOVA restricted to conceptual final-exam items (no calculation required) at two
 - [Scores on final exam questions covering topics learned in both lab and lecture showed no significant difference from lecture-only questions, suggesting the SLP gains were not due to repeated exposure alone](repeated-exposure-control-null-result.md) — related
 - [Taking a stand-alone introductory mechanics lab course produced no measurable difference in normalized final exam performance on lab-related questions in physics 1](physics1-lab-no-exam-effect.md) — related
 - [Students who enroll in optional labs differ systematically from non-enrolled students, requiring normalization before any lab-effect comparison](lab-enrollment-selection-effects.md) — related
+- [The immediate conceptual advantage of the simulation conditions did not persist: midterm and final exam performance did not differ significantly across lab types.](simulation-advantage-immediate-not-sustained.md) — related

@@ -55,6 +55,7 @@ Based on survey items Q21-Q24, the article recommends ChatGPT as an assistant fo
 - [Cautious, verified use of ChatGPT with critical cross-referencing of AI-provided sources](cautious-verified-chatgpt-use-strategy.md)
 - [Use structured exercises requiring students to compare, critique, and justify against AI-generated code](compare-critique-ai-generated-code-exercises.md)
 - [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
+- [Require literature citations on every substantive AI claim to build trust-but-verify habits](ai-claims-with-citations-strategy.md)
 
 ## Examples
 -

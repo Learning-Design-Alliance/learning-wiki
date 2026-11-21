@@ -43,7 +43,7 @@ An adaptation of Sandoval's conjecture mapping tool, created by Chang and Rosche
 - Chang, M.A., Magana, A., Benes, B., Kao, D., & Fusco, J. (2022). Driving interdisciplinary collaboration through adapted conjecture mapping: A case study with the PECAS Mediator [Project Report]. Digital Promise. https://doi.org/10.51388/20.500.12265/156
 <!-- merged 2026-10-10 from theories/adapted-conjecture-map-framework-ls-cs ("Adapted conjecture map framework for learning scientists and computer scientists"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Amogh Sirnoorkar and James T. Laverty. (2023). Theoretical exploration of task features that facilitate student sensemaking in physics. https://arxiv.org/abs/2302.11478
-- Coelho, R., Pea, R., Schunn, C., Cheng, J., and Liu, J. (2025). Advancing Quantum Information Science Pre-College Education: The Case for Learning Sciences Collaboration. arXiv:2508.00668. https://arxiv.org/abs/2508.00668
+- Coelho, R., Pea, R., Schunn, C., Cheng, J., and Liu, J. (2025). Advancing Quantum Information Science Pre-College Education: The Case for Learning Sciences Collaboration. arXiv:2508.00668. https://arxiv.org/abs/2508.00668. [doi:10.1109/qce65121.2025.20508](https://doi.org/10.1109/qce65121.2025.20508)
 
 # Adapted conjecture map framework for learning scientists and computer scientists
 

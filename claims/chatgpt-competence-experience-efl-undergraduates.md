@@ -53,3 +53,4 @@ Thematic analysis of semi-structured interviews (30–45 min) with 25 Malaysian 
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related
 - [The ChatGPT version of the chatbot handles irrelevant and multi-intent questions, supports multiple languages, and simulates personalities and education levels, unlike the Dialogflow version](chatgpt-version-more-flexible-than-dialogflow.md) — related
+- [Non-native information workers heavily rely on LLM-based chatbots for work-related English tasks, most commonly for look-up, translation, and proofreading](efl-workers-rely-llm-chatbots-language-queries.md) — related

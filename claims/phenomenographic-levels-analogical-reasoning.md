@@ -54,3 +54,4 @@ Thematic and phenomenographic analysis of the seven groups' worksheets across th
 - [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](sglm-perceived-visual-learning.md) — related
 - [The four categories of understanding research are structured by three themes of expanding awareness: students' own engagement, perceptions of faculty as research-active educators, and experiences of teaching and learning activities](three-themes-expanding-awareness.md) — related
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related
+- [The framework provides interpretable insights into the depth and diversity of topic exploration, supporting convergent and divergent dimensions of group creativity](topic-modeling-insights-convergent-divergent-creativity.md) — related

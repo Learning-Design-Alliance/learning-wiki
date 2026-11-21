@@ -50,6 +50,7 @@ Teachers at training events proposed follow-up activities that use the finished 
 - [Modular chart design with three scaled versions matched to audience size, from a school-bag set to the full seven-metre chart](modular-chart-scalable-event-sizes.md)
 - [Open school workshops with a short 10-15 minute lecture on decay and energy, complemented by topical banners matched to the chart region built](short-lecture-banners-workshop-structure.md)
 - [Web-Search Scavenger Hunt](web-search_scavenger_hunt.md)
+- [Integrate exoplanet data activities across physics and mathematics classes to build data-analysis skills including logarithms and graph construction](cross-subject-exoplanet-data-analysis-strategy.md)
 
 ## Examples
 -

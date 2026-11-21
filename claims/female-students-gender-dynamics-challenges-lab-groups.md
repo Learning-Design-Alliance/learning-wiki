@@ -48,3 +48,4 @@ Thematic analysis of open-ended survey responses in a small mixed-methods study.
 ## Related Claims
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Some female students report exclusion, stereotype threat, and reluctance to speak up in male-dominated lab groups](qualitative-gender-barriers-lab-groups.md) — related
+- [Women physics majors experience stereotype threat, hesitating to seek help or speak in class for fear of confirming doubts about women's competence](stereotype-threat-women-physics-help-seeking.md) — related

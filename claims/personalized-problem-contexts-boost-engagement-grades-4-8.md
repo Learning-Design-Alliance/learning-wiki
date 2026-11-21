@@ -91,3 +91,4 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
 - [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](walkington-interest-contextualization-engagement-performance.md) — related
 - [The article reports that contextual learning has been shown to increase students' interest in learning physics](contextual-learning-increases-physics-interest-attributed.md) — related
+- [Non-personalized materials produce deepening disengagement over time, while interest-aligned engagement persists, though topic-level alignment can mismatch learner expectations](personalization-disengagement-mismatch-qualitative.md) — related

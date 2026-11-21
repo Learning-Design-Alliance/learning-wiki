@@ -68,3 +68,4 @@ For exam questions where the boundary condition allowed either strategy, "more o
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — related
 - [Only two-thirds of CU students selected the correct general-solution expression on the multiple-response CUE](cue-cartesian-general-solution-selection-errors.md) — related
 - [Over a third of solutions inappropriately cancel exponential terms when the boundary is not at z=0, and physics context affects students' math execution](physics-context-affects-exponential-cancellation.md) — related
+- [Students struggle with separation of variables, writing the general solution as a superposition, and applying the Fourier trick, and the tutorial reduced these difficulties by the unscaffolded posttest](tutorial-reduces-separation-variables-difficulties.md) — related

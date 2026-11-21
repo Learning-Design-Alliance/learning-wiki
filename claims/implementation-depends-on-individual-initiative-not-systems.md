@@ -66,3 +66,4 @@ Survey of 120 complete responses distributed via AAC&U's member directory to fac
 - [Institutional IT departments and policies form a barrier specific to integrating computation, as instructors may need server access and support that IT does not provide](it-department-barrier-computation.md) — related
 - [Preliminary research indicates high instructor interest in ounce-of-computing integration across institutions and teaching modalities](ounce-preliminary-instructor-interest.md) — related
 - [Resistance to digital innovation is particularly evident in institutions with rigid administrative structures where innovation is perceived as an added burden](rigid-administrative-structures-resistance-digital.md) — related
+- [Physics instructors' use of technology often remains instrumental, supporting exposition rather than genuine inquiry, modelling or experimentation](instrumental-technology-use-physics-teaching.md) — related

@@ -68,3 +68,4 @@ Rubric-dimension analysis of the 70-student spring 2012 offering, shown in Fig. 
 - [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [Computation is used mostly on homework and projects, rarely with interactive engagement or on exams](computation-homework-projects-common-interactive-exams-rare.md) — related
+- [Rubric-wise achievement was strongest for conceptual knowledge and structured application and weakest for proactive use of engineering tools](rubric5-proactive-tool-use-weakest-area.md) — related

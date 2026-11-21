@@ -54,3 +54,5 @@ Turn-taking analysis of sessions with at least 8 participant turns from the same
 - [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](teaching-sessions-conclude-within-30-turns.md) — related
 - [Learners rated phrase instruction and shadowing as the most useful fluency-workshop activities, and marking pauses as problematic for short-turn dialogue](learner-ratings-phrase-instruction-shadowing-most-useful.md) — related
 - [Experimental group showed greater fluency in discourse analysis](sct-tblt-fluency-advantage.md) — related
+- [EasyMED practice was more flexible and sustained: sessions spread across evenings and weekends, with more dialogue turns (54 vs 47), longer durations, and ~73-fold lower per-session cost ($0.725 vs $52.95)](easymed-flexible-sustained-low-cost-practice.md) — related
+- [In the pilot data, high-progress and low-progress students had similar numbers of dialogue turns per session, but high-progress students produced longer utterances (15.3 vs 11.5 words per turn)](hp-longer-utterances-similar-turn-counts.md) — related

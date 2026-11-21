@@ -72,3 +72,4 @@ Line-by-line analysis of transcribed dialogue for two event types: isolation of 
 - [Collaborative negotiation about whether and when to move between modeling phases lies beyond the scope of the EMF](phase-navigation-negotiation-beyond-emf.md) — related
 - [Student pairs’ component replacements followed an order pattern: all pairs replaced the 100 Ω resistor, all-but-one replaced the faulty op-amp, and the resistor was always replaced before the op-amp, mostly during problem formulation.](repair-order-resistor-before-op-amp.md) — related
 - [Different phases of circuit troubleshooting correspond to different combinations of modeling subtasks](troubleshooting-phases-modeling-subtasks.md) — a narrower finding that bears on this claim
+- [Student-built demonstration equipment provides planning, crafting, and troubleshooting skills and a role for students uncomfortable on stage.](student-built-demo-equipment-builds-skills.md) — related

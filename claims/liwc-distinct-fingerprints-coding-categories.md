@@ -50,3 +50,4 @@ LIWC computational linguistic analysis of all student GRF reflections, shown in 
 - [Guided reflection submissions are dominated by narrative statements (~60%) and broad growth statements (~30%), with few specific action or achievement statements](grf-narrative-dominance-few-action-statements.md) — related
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](grf-elicits-narrative-growth-action-statements.md) — related
 - [Face-to-face pen-and-paper collaborative writing yields higher analytic, authentic, words-per-sentence and long-word scores than virtual collaborative writing](pen-paper-collaborative-writing-higher-analytic-authentic.md) — related
+- [Directive, metacognitive, and hybrid AI-generated feedback are linguistically and functionally distinct, with large effects of feedback type on imperatives, reflective prompts, and word count](ai-feedback-types-linguistically-distinct.md) — related

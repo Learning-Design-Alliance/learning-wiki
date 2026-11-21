@@ -52,3 +52,4 @@ Repeated single-file grading by ChatGPT on five different days (Table 3 last row
 - [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](chatgpt-thinking-mode-strongest-human-grading-agreement.md) — related
 - [Prompting strategy influenced ChatGPT-4 performance, with Resident prompts most consistent and Specialist prompts showing significantly different response patterns](prompting-strategy-influences-chatgpt-pes-performance.md) — related
 - [Blinded mQSAT reviewers showed only slight-to-moderate interrater agreement, suggesting assessment tools need cross-modality validation](mqsat-cross-modality-interrater-reliability.md) — related
+- [Prompt specificity does not reduce ChatGPT's performance variance in essay evaluation](prompt-specificity-does-not-reduce-chatgpt-variance.md) — related

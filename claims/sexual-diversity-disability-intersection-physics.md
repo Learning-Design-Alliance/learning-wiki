@@ -48,3 +48,4 @@ Descriptive cross-tabulation of disability by sexual orientation shown in Fig. 8
 ## Related Claims
 - [The first Canada-wide intersectional survey of physics demographics collected detailed identity data from 2532 physics students and professionals](canadian-physics-counts-first-national-survey.md) — a broader claim this one bears on
 - [Sexually diverse respondents were more than twice as prevalent among physics students as among professionals](sexually-diverse-students-double-professionals.md) — related
+- [Among CanPhysCounts respondents with a disability, only 5% reported receiving full accommodations, and BIPOC and non-heterosexual students were significantly more likely to identify as disabled](canphyscounts-disability-accommodations-5-percent.md) — related

@@ -52,6 +52,7 @@ As a future study perspective, the authors propose integrating Large Scale Langu
 - [Validate LLM-based PFA training through larger-scale studies, trainee feedback, multimodal interfaces, and validated assessment frameworks](validate-llm-pfa-training-research-agenda.md)
 - [Future direction: more dynamic adaptation of virtual patients to contextual factors for a diverse, adaptable learning experience](dynamic-vp-contextual-adaptation-future-direction.md)
 - [Use dynamically generated AI assessments to enable future studies of expert tutors in natural contexts](ai-generated-assessments-expert-tutor-studies.md)
+- [Integrate LLM-driven avatars and multimodal feedback to enable dynamic, context-dependent sales dialogue practice](llm-avatars-future-vr-sales-training.md)
 
 ## Examples
 -

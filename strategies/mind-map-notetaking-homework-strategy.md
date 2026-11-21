@@ -53,4 +53,4 @@ The article recommends having students create mind maps linking the concepts of 
 -
 
 ## Key Sources
-- Adhikari, C. M. (2025). Effective Note-taking and its Impact on Learning Undergraduate Introductory Physics Courses. https://arxiv.org/abs/2507.21326
+- Adhikari, C. M. (2025). Effective Note-taking and its Impact on Learning Undergraduate Introductory Physics Courses. https://arxiv.org/abs/2507.21326. [doi:10.48550/arxiv.2507.21326](https://doi.org/10.48550/arxiv.2507.21326)

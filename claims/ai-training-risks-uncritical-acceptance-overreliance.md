@@ -58,3 +58,4 @@ Review synthesis of limitations and risks across included studies, which also re
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — a narrower finding that bears on this claim
 - [Haptic feedback is unique to motor skills learning environments but has acclimation and cognitive-demand limitations](haptic-feedback-motor-skills-limits.md) — related
 - [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — a narrower finding that bears on this claim
+- [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — related

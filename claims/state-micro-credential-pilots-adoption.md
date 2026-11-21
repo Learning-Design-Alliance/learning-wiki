@@ -54,3 +54,4 @@ A document scan and state engagement conducted for the brief identified the name
 - In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600 — related
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
 - Micro-credential reflections push educators toward metacognition and self-evaluation — related
+- [A teacher-focused outreach strategy reached 5,104 educators in person or via live interactive Zoom during the Heliophysics Big Year, with surveyed teachers reporting an average downstream reach of over 500 people each](teacher-workshops-5104-educators-multiplier-500.md) — related

@@ -70,3 +70,4 @@ The review reports, citing Yeung et al. (2019), that BERT's bidirectional contex
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
 - [Automatic essay marking via Latent Semantic Analysis has been shown comparable to human marking (as reported in the paper)](lsa-essay-marking-comparable-to-human-marking.md) — related
 - [Attention BiLSTM outperforms plain BiLSTM on Moroccan Arabic pronunciation error detection across the four evaluation metrics](attention-bilstm-beats-bilstm-pronunciation-detection.md) — related
+- [The multimodal BiLSTM fusion model outperformed text-only BERT and prosody-only SVM baselines across accuracy, F1, and Cohen's Kappa](multimodal-fusion-outperforms-unimodal-baselines.md) — related

@@ -50,3 +50,4 @@ The article reports, citing Dennehy & Dasgupta (2017), a marked increase in belo
 - [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](negative-recognition-harms-efficacy-interest-persistence.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — a narrower finding that bears on this claim
+- [The transitions from high school to college introductory physics and from the first year into the physics major are bottlenecks at which women's physics self-efficacy and sense of belonging decline](physics-transitions-bottlenecks-women-self-efficacy.md) — related

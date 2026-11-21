@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (19 for, 7 mixed, 3 against) · 22 studies (10 causal, 5 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q3` · 4 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 30 claims (19 for, 8 mixed, 3 against) · 23 studies (11 causal, 5 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q3` · 4 of 23 report an effect size · 30 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -65,6 +65,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Pharmacy students overwhelmingly endorse communication skills training and prefer role play as the learning method](../claims/students-endorse-cst-role-play-preferred.md) [+W] — attached 2026-11-08 from Jin Hye Kyung et al. (2019), which proposed "Communication skills and patient counseling training session combining lecture, role play, video review, and instructor feedback".
 - [Role-playing geriatric patients navigating a fragmented care system increased preclinical medical students' understanding of integrated care](../claims/gps-care-role-play-increased-ic-understanding.md) [+M] — attached 2026-11-08 from Yang S et al. (2019), which proposed "GPS-Care (Getting to Know Patients' System of Care) interprofessional simulation"; tests this page's relationship.
 - [The authors report that the RPG A Vingança de Newton may be effective for both student engagement and comprehension of Modern Physics concepts such as the photoelectric effect](../claims/rpg-newton-engagement-comprehension-preliminary.md) [+W] — attached 2026-11-20 from Maria Rita Vasconcelos Brandão Souza et al. (2024), which proposed "A Vingança de Newton: an RPG for Modern Physics with a G&G-derived attribute system".
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](../claims/rpg-higher-one-week-retention-slang.md) [~W] — attached 2026-11-21 from Amir Tahmasbi et al. (2026), which proposed "LLM-powered Game Master RPG system for L2 slang practice".
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

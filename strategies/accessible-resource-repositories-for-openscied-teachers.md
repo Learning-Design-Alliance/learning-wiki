@@ -42,6 +42,7 @@ Among the report's five priority areas for research, innovation, and development
 ## Related Strategies
 
 - [Effective Materials Management](effective_materials_management.md)
+- [Adapt quantum activity time allocations and materials by grade level, and provide extra resources for harder questions](grade-level-adaptation-quantum-activities.md)
 
 ## Examples
 -

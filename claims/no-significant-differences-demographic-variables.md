@@ -50,3 +50,4 @@ Inferential analysis across all items of the field study, using Chi square tests
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
+- [Instructors' competence profiles show no significant association with age, gender or academic field in this exploratory small-sample analysis](no-sociodemographic-association-competence-profiles.md) — related

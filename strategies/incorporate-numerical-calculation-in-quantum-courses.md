@@ -57,6 +57,7 @@ The article recommends adding a computational component to introductory quantum 
 - [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 - [Use the analog classical computer thought experiment with explicit floating-point discussion to teach the quantum-classical distinction](analog-classical-computer-thought-experiment-strategy.md)
 - [Incorporate quantum spin into existing curriculum through magnetism and real-world applications like MRI](quantum-spin-curriculum-integration-mri-magnetism.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 
 ## Examples
 -

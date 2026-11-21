@@ -69,3 +69,4 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Panelists identified cultural competence, equity, and a student-centered mindset as a core collaboration domain, including trauma-informed approaches](smh-collab-cultural-competence-equity-domain.md) — related
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
+- [Successful writing preparation in P&A often depends on K-12 foundations, mentor/institution choice, or self-direction, creating inequality](reliance-on-background-creates-writing-education-inequality.md) — related

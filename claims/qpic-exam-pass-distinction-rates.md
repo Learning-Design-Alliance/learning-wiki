@@ -46,3 +46,4 @@ Post-training assessment of the 2023 QPic intervention with 54 high-school stude
 
 ## Related Claims
 - [Mean post-training exam performance was above chance in the QPic cohort](qpic-above-chance-exam-performance.md) — related
+- [High school students without advanced mathematical prerequisites passed a graduate-level quantum exam after an eight-week QPic course, with 82% passing and 48% earning distinction](qpic-high-schoolers-82-percent-pass-graduate-exam.md) — possibly the same claim (merge candidate)

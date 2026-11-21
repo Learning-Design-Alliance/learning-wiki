@@ -75,3 +75,4 @@ Comparison of outcome expectations between the two subfields found astrophysics 
 - [Outcome expectations — career-path exploration, skill development, and work-life integration — shape students' subfield choices in physics](outcome-expectations-shape-physics-subfield-choice.md) — related
 - [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](popular-culture-astronomy-interest.md) — related
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
+- [Women's initial interest in physics arose through diverse paths including popular media exposure, parental encouragement, and positive high school physics experiences](pre-college-interest-factors-women-physics.md) — related

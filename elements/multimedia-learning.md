@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 68 claims (46 for, 22 mixed) · 61 studies (36 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 15 of 61 report an effect size · 63 claims rest on one study
+> **Evidence** · 69 claims (47 for, 22 mixed) · 62 studies (36 causal, 7 review, 6 quant-synthesis, 6 associational, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 15 of 62 report an effect size · 64 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -104,6 +104,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](../claims/sighted-students-appreciated-tactile-aids.md) [+W] — attached 2026-11-18 from Holt et al. (2018), which proposed "Sonification of scientific data and detector signals using LoggerPro, MATLAB, and Mathematica".
 - [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](../claims/vr-video-lower-knowledge-test-than-2d-lecture.md) [~M] — attached 2026-11-20 from Killough (2018), which proposed "Researcher-built stereoscopic 3D VR anatomy video overlaid on a TalkTools lecture, produced with 3D Organon VR, Oculus Rift, and Final Cut Pro X"; tests this page's relationship.
 - [Participant reception of VR-modified video was polarized: 2D viewers reported higher average enjoyment, knowledge gained, and engagement, while exactly half of 3D viewers preferred VR to traditional lecture](../claims/polarized-reception-vr-vs-2d-video.md) [~M] — attached 2026-11-20 from Killough (2018), which proposed "Researcher-built stereoscopic 3D VR anatomy video overlaid on a TalkTools lecture, produced with 3D Organon VR, Oculus Rift, and Final Cut Pro X".
+- [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](../claims/static-media-dominance-teacher-barriers.md) [+W] — attached 2026-11-21 from Serli Ahzari (2025), which proposed "Interactive multimedia fostering critical thinking through four mechanisms: scenario simulations, data visualization, real-time feedback, and collaborative tasks".
 
 ## The evidence by question
 

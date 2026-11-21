@@ -49,3 +49,4 @@ Transition network analysis (TNA) across all four IA cases, visualizing transiti
 - [Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations](chatbot-shifts-interpretations-toward-context-aware.md) — related
 - [A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations](factria-chatbot-increases-subfactors-considered.md) — related
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
+- [Chatbot users transition from a 'Chatbot as Machine' mental model to 'Chatbot as Human' after initial prompts](chatbot-mental-model-shift-machine-to-human.md) — related

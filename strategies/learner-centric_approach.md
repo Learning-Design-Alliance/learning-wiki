@@ -67,6 +67,7 @@ Learner-centric designs draw on constructivist and self-determination research: 
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — a structured way to make learner exploration productive through modeling and fading
 - [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
+- [Implementing constructivist engagement elements within a traditional lecture format](constructivist-elements-in-lecture-t1.md)
 
 ## Examples
 - **Problem-based learning in medical education** (e.g., the Maastricht and McMaster curricula): small groups work through authentic patient cases, deciding what to investigate and which diagnoses to pursue, with a tutor facilitating rather than lecturing.

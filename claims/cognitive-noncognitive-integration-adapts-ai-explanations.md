@@ -57,3 +57,4 @@ Demonstration with two student cases: Student 1 scored 83.75 academic with an ov
 - [In Statistics for Business, digital tools enabled uninvigilated assessment, flexible pacing, and a personalised mastery approach with AI-provided immediate feedback](stats-business-digital-mastery-shift.md) — related
 - [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — related
 - [The placement developed multiple facets of communication skills, including adapting explanations to diverse learner needs](anatomy-ems-communication-development.md) — related
+- [Students' perceived ease in generating explanations reflects disciplinary knowledge, agency to customize explanations, and personal attributes](themes-perceived-ease-analogy-generation.md) — related

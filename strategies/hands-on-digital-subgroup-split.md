@@ -46,6 +46,7 @@ When learners develop creative projects, let them choose between a handcrafted a
 - [Makerspaces](makerspaces.md)
 - [Exploration Station](exploration_station.md)
 - [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
+- [Offer open-choice creative extra-credit projects in which students weave their interests and hobbies with physics](open-choice-creative-physics-extra-credit-projects.md)
 
 ## Examples
 -

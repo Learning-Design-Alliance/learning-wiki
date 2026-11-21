@@ -48,3 +48,4 @@ Qualitative analysis of baseline interviews and surveys found most participants'
 ## Related Claims
 - [Most Indonesian clinical psychologists in the study had little or no prior knowledge of CAM, with almost one-third never having heard of it](cam-unfamiliar-among-indonesian-clinical-psychologists.md) — related
 - [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md) — related
+- [Most participating students reported limited or no prior knowledge of quantum theory before the course](pupils-little-prior-knowledge-entanglement.md) — possibly the same claim (merge candidate)

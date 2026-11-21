@@ -69,3 +69,5 @@ Within the content-based solution, Strategic Offloaders (36% active prompts) dir
 - [Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded](offloading-volume-masks-content-differences.md) — related
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related
 - [Intervention students' essays conveyed personal voice and agency, while control students tended to reproduce textbook content](intervention-essays-personal-voice-vs-textbook.md) — related
+- [Structure-focused Cluster 1 scored higher on essay Organization than content-focused Cluster 2, with a moderate effect size (r = 0.36) that did not remain significant after Holm correction](ewa-organization-cluster-difference-r036.md) — related
+- [Students' interactions with the EWA cluster into two patterns: one emphasising outline planning and essay structure, the other content development](ewa-two-interaction-clusters-structure-content.md) — related

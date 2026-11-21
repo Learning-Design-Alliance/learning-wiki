@@ -58,3 +58,4 @@ Qualitative findings from researcher observation, FGDs with twelve students, and
 - [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — related
 - [Four game-specific barriers to students' self-directed engagement with educational games emerged, ordered from most to least common: negative perceptions of educational games, incompatible audience, incompatible difficulty, and price.](four-barriers-self-directed-engagement-educational-games.md) — related
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
+- [Course implementation faced four challenge types, each addressed with targeted pedagogical solutions](implementation-challenges-heterogeneous-backgrounds-resources.md) — related

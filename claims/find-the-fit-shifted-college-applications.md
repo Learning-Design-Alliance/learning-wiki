@@ -51,3 +51,4 @@ The study's prior report (Martinez et al. 2018), summarized in Exhibit 5 with su
 - [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](find-the-fit-changed-upward-bound-advising-practices.md) — related
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — possibly the same claim (merge candidate)
 - [Find the Fit led Upward Bound students to apply to more-selective colleges](find-the-fit-led-students-to-apply-to-more-selective-colleges.md) — related
+- [Applicant-to-seat competition moderates whether quota-track differences appear, with Physics least and Biology most competitive](applicant-seat-ratio-moderates-track-differences.md) — related

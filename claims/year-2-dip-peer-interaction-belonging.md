@@ -49,3 +49,4 @@ Descriptive trend in sense of belonging (1-5 scale) from Fig. 1e, showing a decl
 - [Physics majors' average self-efficacy, interest, identity, perceived recognition, belonging and peer interaction remain largely constant from year 1 through year 4](physics-majors-beliefs-stable-across-curriculum.md) — reports the opposite
 - [Sense of belonging is best predicted by self-efficacy in every model except year 2 majors, with peer interaction the next best predictor except in year 4](belonging-best-predicted-by-self-efficacy.md) — related
 - [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related
+- [The transitions from high school to college introductory physics and from the first year into the physics major are bottlenecks at which women's physics self-efficacy and sense of belonging decline](physics-transitions-bottlenecks-women-self-efficacy.md) — related

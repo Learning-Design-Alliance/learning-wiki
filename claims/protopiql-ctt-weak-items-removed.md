@@ -52,3 +52,4 @@ CTT difficulty and discrimination distributions for each PIQL version (Fig. 1) i
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related
 - [Item analysis led to removal of the Odometer item and retention of the difficult but valued Bhutan item](gerqn-item-analysis-odometer-bhutan.md) — a narrower finding that bears on this claim
+- [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related

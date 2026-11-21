@@ -49,6 +49,7 @@ The article enumerates signs that work was written by a chatbot: repetitive or o
 
 - [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
+- [Peer review of AI-assisted writing with hallucination-flagging to build awareness of fabricated content](peer-review-hallucination-flagging-strategy.md)
 
 ## Examples
 -

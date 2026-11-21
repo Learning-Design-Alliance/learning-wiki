@@ -86,3 +86,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
 - [All three tutoring methods produced comparable post-test gains on conceptual and computational physics questions](tutoring-methods-comparable-conceptual-computational.md) — related
+- [Student conceptual learning does not vary across the five instruction types, suggesting instructors may adapt methods without sacrificing effectiveness](conceptual-learning-does-not-vary-across-instruction-types.md) — related

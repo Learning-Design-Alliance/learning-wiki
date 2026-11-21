@@ -52,6 +52,7 @@ The article recommends offering complementary digital and physical resources in 
 - [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
 - [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 - [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
+- [Offer CS1 course materials in multiple formats to accommodate different learner preferences](multiple-format-cs1-materials-strategy.md)
 
 ## Examples
 -

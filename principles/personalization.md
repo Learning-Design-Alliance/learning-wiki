@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 123 claims (71 for, 42 mixed, 10 against) · 122 studies (34 review, 33 causal, 13 theoretical, 12 qualitative, 11 associational, 10 design, 9 quant-synthesis), `q1`–`q4` · 10 of 122 report an effect size · 118 claims rest on one study
+> **Evidence** · 124 claims (72 for, 42 mixed, 10 against) · 123 studies (34 review, 33 causal, 13 theoretical, 12 qualitative, 11 associational, 11 design, 9 quant-synthesis), `q1`–`q4` · 10 of 123 report an effect size · 119 claims rest on one study
 
 ## Conditional relationship
 
@@ -189,6 +189,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Learning-style-based homogeneous grouping with tailored content raises academic success in an e-learning course (17.65 vs 12.60 out of 20)](../claims/learning-style-grouping-raises-academic-success.md) [+W] — attached 2026-11-20 from Mohammadreza Amiri et al. (2022), which proposed "Homogeneous learning-style grouping with per-group tailored content"; tests this page's relationship.
 - [Learning-style-based grouping raises academic satisfaction in an e-learning course (67% vs 37%)](../claims/learning-style-grouping-raises-satisfaction.md) [+W] — attached 2026-11-20 from Mohammadreza Amiri et al. (2022), which proposed "Homogeneous learning-style grouping with per-group tailored content"; tests this page's relationship.
 - [Personalized AI-generated podcasts produced significantly higher test scores than both generalized podcasts and textbook reading in the Philosophy subject](../claims/personalized-podcast-higher-philosophy-test-scores.md) [+W] — attached 2026-11-20 from Tiffany D. Do et al. (2024), which proposed "Personalize AI-generated educational content to learners' interests and majors because it can enhance learning outcomes when the context connects to the learner"; tests this page's relationship.
+- [EFL workers' study materials disconnected from work context undermined sustained learning: most current learners could not sustain practice](../claims/efl-materials-disconnected-work-unsustainable.md) [+W] — attached 2026-11-21 from LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Q, which proposed "Leverage workers' AI-assisted language queries as authentic source material for generating personalized EFL practice".
 
 ## Objective and learner-valued goal
 

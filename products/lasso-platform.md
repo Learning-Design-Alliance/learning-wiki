@@ -13,7 +13,7 @@ generated:
 # LASSO platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 causal, 1 associational, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (2 causal, 2 associational, 1 design), `q2`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 LASSO is a free web-based platform hosted by the Learning Assistant Alliance for faculty to administer online research-based STEM assessments and obtain response and pre/post summary reports.
@@ -28,12 +28,14 @@ LASSO is a free web-based platform hosted by the Learning Assistant Alliance for
 - **LASSO platform for administering and analyzing research-based pre/post assessments**: The Learning About STEM Student Outcomes (LASSO) platform is an online assessment database that "hosts, administers, scores, and analyzes student pre- and post tests online to provide instructors with objective feedback on student learning in their courses." When creating a course, instructors answer questions about their course, such as whether students engage in collaborative learning and the primary use of LAs, and receive reports on class performance. The database records student responses and course data, which are anonymized, aggregated, and made available to researchers. This study drew three years of introductory physics course data from LASSO. (Xochith Herrera et al. (2018))
 - **LASSO (Learning About STEM Student Outcomes) platform**: The LASSO platform is an online system hosting research-based assessments that supplied the data for this study. The article describes it: "The LASSO platform administers, scores, and analyzes research-based assessments online to build a multi-institution database." The database is anonymized and filtered to students who consented to share data, and it is free to instructors and students. The study drew 4673 students in 95 first-semester introductory physics courses at 18 institutions from it, with the CLASS administered as a pretest in the first week and post-test in the last week. (Jayson M. Nissen et al. (2021))
 - **LASSO platform FCI dataset anchoring the simulation**: The Learning About STEM Student Outcomes (LASSO) platform is "an online assessment platform that hosts, administers, and analyzes research-based assessments for STEM instructors". It supplied social identities and pretest scores from 5,955 students in 171 courses at 40 institutions on the Force Concept Inventory, which the authors used to set each stratum's true score, representation rate, and standard deviation for the simulation. All instructors reported engaging students in collaborative learning. (Van Dusen et al. (2023))
+- **LASSO platform dataset of introductory physics assessment responses**: The LASSO platform is an online assessment system supporting administration, scoring, and analysis of research-based assessments, providing anonymous data from consenting students for research. The dataset used here contained social identity information and test performance from Fall 2015 to Fall 2023: "16,810 students collected from 493 calculus-based physics courses across 64 institutions", including 10,723 FCI and 6,087 FMCE responses, with 144 Asian social identity groups identified among 366 distinct groups. (Vy Le et al. (2026))
 
 ### Claims
 - [Online-group learners perceived web-based learning as more effective than face-to-face teaching for all eight common learning activities](../claims/online-group-perceived-wbl-more-effective-all-activities.md) [+W]
 - [CBT participation rates are much lower than PPT rates when instructors use none of the recommended practices, but match PPT rates when all four are used](../claims/cbt-participation-lower-without-recommended-practices.md) [+M]
 - [Intersectional demographic differences predict physics pretest scores, with White male students highest and Black female students lowest, and gender gaps 2.62 percentage points smaller on the FMCE than the FCI](../claims/intersectional-pretest-differences-college-physics.md) [+M]
 - [Strata representation and FCI outcomes vary widely, with educational debts ranging from 21 points (CG Hispanic women) to 2 points (CG Asian men)](../claims/strata-representation-educational-debts-fci.md) [+M]
+- [Mean absolute error between the 19 subgroup means and the pan-Asian aggregate was 3.9 percentage points at pretest and 4.0 at posttest, roughly 4-5 weeks of learning](../claims/mae-subgroup-vs-pan-asian-four-weeks.md) [+M]
 
 ## Related Products and Programmes
 
@@ -51,3 +53,4 @@ LASSO is a free web-based platform hosted by the Learning Assistant Alliance for
 - Xochith Herrera, Jayson Nissen, and Ben Van Dusen. (2018). Student Outcomes Across Collaborative-Learning Environments. arXiv:1808.07076. https://arxiv.org/abs/1808.07076
 - Jayson M. Nissen, Ian Her Many Horses, and Ben Van Dusen. (2021). Investigating society's educational debts due to racism and sexism in student attitudes about physics using quantitative critical race theory. Physical Review Physics Education Research 17, 010116. https://doi.org/10.1103/PhysRevPhysEducRes.17.010116
 - Van Dusen, B., Cian, H., Nissen, J., Arellano, L., & Woods, A. (2023). Comparing the efficacy of fixed effect and MAIHDA models in predicting outcomes for intersectional social strata.
+- Vy Le, Grace Angell, Jayson Nissen, Ben Van Dusen. (2026). Challenging Data Aggregation Practices: A MAIHDA Study of Asian Student Outcomes in Introductory Physics.

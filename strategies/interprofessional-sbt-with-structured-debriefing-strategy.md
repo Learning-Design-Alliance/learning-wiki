@@ -61,6 +61,7 @@ A session recipe for in situ simulation in clinical environments: keep the simul
 - [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 - [Incorporate algorithms, technical skills and structured team communication into every simulation scenario, followed by extended debriefing](als-scenario-design-with-debriefing.md)
 - [Create structured team learning spaces combining case discussion, expert backup and emotional debriefing](malaise-group-case-discussion-space.md)
+- [Run art/science workshops as short scientific presentations followed by hands-on animation activities, refined through participant feedback](astro-animation-workshop-recipe.md)
 
 ## Examples
 -

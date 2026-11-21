@@ -82,3 +82,4 @@ Subjective satisfaction evaluation of the prototype using the SUS scoring approa
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [The Ethics Game received high perceived usability, with a mean SUS score of 83.14 rated Good to Excellent](ethics-game-high-sus-usability.md) — related
 - [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related
+- [Malinowski's Lens received an overall SUS score of 83/100, in the 'excellent' usability range](malinowskis-lens-sus-83.md) — related

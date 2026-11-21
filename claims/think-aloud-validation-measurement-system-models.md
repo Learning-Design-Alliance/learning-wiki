@@ -48,3 +48,4 @@ Think-aloud interview study of eight students testing LED power output. The arti
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](students-meaningfully-model-measurement-tools.md) — possibly the same claim (merge candidate)
 - [Troubleshooting in the lab can become rapid model-based reasoning cycles of qualitative prediction and test](model-based-troubleshooting-episodes.md) — related
 - [Students' unarticulated assumptions and unfamiliar concepts act as barriers to modeling during experiments](student-barriers-assumptions-model-limitations.md) — related
+- [Student think-aloud interviews were used iteratively to test and refine the simulation, the PDL+CODAP platform, and the lab activities](student-interview-testing-refinement-pdl.md) — related

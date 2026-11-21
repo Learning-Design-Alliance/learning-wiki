@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/manim-video-lessons-viewer-engagement.md
+---
+
+# Revision history: [claims/manim-video-lessons-viewer-engagement](../claims/manim-video-lessons-viewer-engagement.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2510.01187 (Manim for STEM Education: Visualizing Complex Problems Through Animation) via eval_harness.py + ingest_extractions.py

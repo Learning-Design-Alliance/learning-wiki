@@ -49,3 +49,4 @@ The review's synthesis of neuropsychological evidence: patients with "focal lesi
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
+- [Many workshop participants could articulate new scientific concepts post-workshop, often grounded in visual or embodied understanding](workshop-learning-gains-embodied-understanding.md) — related

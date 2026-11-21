@@ -48,4 +48,4 @@ The paper describes the University of Florida's systemic embedding of AI literac
 -
 
 ## Key Sources
-- Degen, P.-B., & Asanov, I. (2025). Beyond Automation: Socratic AI, Epistemic Agency, and the Implications of the Emergence of Orchestrated Multi-Agent Learning Architectures. https://orcid.org/0000-0002-4330-0893
+- Degen, P.-B., & Asanov, I. (2025). Beyond Automation: Socratic AI, Epistemic Agency, and the Implications of the Emergence of Orchestrated Multi-Agent Learning Architectures. https://orcid.org/0000-0002-4330-0893. [doi:10.48550/arxiv.2508.05116](https://doi.org/10.48550/arxiv.2508.05116)

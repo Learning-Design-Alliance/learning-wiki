@@ -47,6 +47,7 @@ The course was run twice a year with pre/post surveys each semester, and feedbac
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 - [Continuous user participation and feedback mechanism for iterative system improvement](user-participation-feedback-iteration-strategy.md)
 - [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
+- [Iterate VR procedural simulators using participant-requested improvements: more realistic ultrasound, movable display, template grid overlay, interface refinements, and a start-of-session tutorial](vr-simulator-iteration-from-user-feedback-strategy.md)
 
 ## Examples
 -

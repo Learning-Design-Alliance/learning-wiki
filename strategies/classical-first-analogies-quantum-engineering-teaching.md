@@ -43,6 +43,7 @@ Across the Quantum Control and Quantum Devices & Computers courses, new quantum 
 - [Introduce the Schrödinger equation chronologically, deriving it from the classical wave equation using the photon-energy and de Broglie-wavelength relations](chronological-introduction-schrodinger-equation.md)
 - [Use a familiar-object starter activity to introduce modeling trade-offs before demanding content](familiar-object-starter-modeling-tradeoffs.md)
 - [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
+- [Recommended additions for future implementations of the filter activity](filter-activity-future-implementation-recommendations.md)
 
 ## Examples
 -

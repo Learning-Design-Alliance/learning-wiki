@@ -62,3 +62,4 @@ Product-trials effectiveness test using a static group comparison design with fo
 - [Varied grouping scaffolds produced significantly higher daily-task scores than graphic-organizer-only instruction in sixth-grade geometry](grouping-scaffolds-significant-daily-task-gain.md) — related
 - [No significant difference between scaffolding and control classes on the teacher-made geometry unit test](no-unit-test-difference-scaffolding.md) — reports the opposite
 - [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related
+- [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related

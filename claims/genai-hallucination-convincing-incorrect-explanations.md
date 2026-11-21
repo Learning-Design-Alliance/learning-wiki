@@ -104,3 +104,4 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Text-based GenAI tools produced accurate responses in over 90% of cases on undergraduate textbook-difficulty questions](text-genai-over-90-percent-accurate-textbook-questions.md) — reports the opposite
 - [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related
 - [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — related
+- [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — a narrower finding that bears on this claim

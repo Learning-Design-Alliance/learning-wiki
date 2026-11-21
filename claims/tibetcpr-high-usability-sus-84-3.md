@@ -67,3 +67,4 @@ Descriptive usability assessment using the System Usability Scale administered t
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
 - [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related
+- [Malinowski's Lens received an overall SUS score of 83/100, in the 'excellent' usability range](malinowskis-lens-sus-83.md) — related

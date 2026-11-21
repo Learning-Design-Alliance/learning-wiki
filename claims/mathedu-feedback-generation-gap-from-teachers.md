@@ -70,3 +70,4 @@ Human evaluation by three mathematics experts on a 0-3 helpfulness scale (Krippe
 - [Supervised fine-tuning does not outperform zero-shot prompting on rubric score for math feedback generation, and ROUGE-L and BERTScore are unreliable estimates of feedback quality.](sft-ineffective-reference-metrics-unreliable.md) — related
 - [LLM student simulators exhibit near-zero Selective Flip Score, flipping at similarly high rates under targeted, misaligned, and generic feedback](llm-simulators-near-zero-sfs-indiscriminate-flipping.md) — related
 - [Model grading performance does not exhibit a clear correlation with student proficiency levels on MathEDU](mathedu-performance-uncorrelated-with-student-proficiency.md) — related
+- [Domain fine-tuning did not outperform strong base LLMs for feedback generation and mostly slightly reduced performance](fine-tuning-no-gain-over-base-models.md) — related

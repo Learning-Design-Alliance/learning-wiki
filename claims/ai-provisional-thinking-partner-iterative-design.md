@@ -53,3 +53,4 @@ Qualitative strand findings on AI-supported learning design from lesson plans an
 - [FIMA-light automatically builds goal-decomposition trees from teachers' lesson plans with about 90% accuracy of estimated hidden sub-goals](fima-light-decomposition-tree-accuracy.md) — related
 - [The article argues that QIS education needs design-based research, which promotes iterative design, theory building, and evidence-based refinement in authentic learning contexts, beyond simply evaluating whether learning happened.](dbr-needed-for-qis-education.md) — related
 - [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related
+- [Professors framed GenAI as a source of knowledge whose reliability they personally vetted and whose output they assigned students to critically evaluate](genai-knowledge-source-vetting-critical-evaluation.md) — related

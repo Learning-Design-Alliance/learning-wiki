@@ -56,3 +56,4 @@ Voluntary end-of-course group survey (10 of 24 groups responded, a 42% group res
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Students in an introductory CRE through PBL perceive the course structure, group work, and their learning experience positively, with all survey items averaging over 4.0 out of 5](pbl-cre-students-positive-perceptions.md) — related
 - [SALG module helpfulness ratings were bimodal, with Modules 1-4 rated higher than the later modules](module-ratings-bimodal-development-state.md) — related
+- [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](aiiv-positive-student-survey-perceptions.md) — related

@@ -49,3 +49,5 @@ Table II's final row: in the 36% of cases where both members were correct indivi
 - [Peer pairs co-constructed correct responses in 29% of eligible cases, at a frequency roughly ten times higher than predicted by random guessing.](peer-co-construction-correct-group-response.md) — related
 - [Students in one uncontrolled pre-test-to-post-test study: groups in which no member answered the ICT correctly all answered the GCT correctly 31% of the time](qm-clicker-co-construction-31-percent.md) — related
 - [Groups constructed knowledge at a high average rate of 80% when at least one member answered correctly individually](qm-peer-construction-rate-80-percent.md) — related
+- [Knowledge construction occurred in 93% of eligible cases and co-construction in 72% of eligible cases across MCS questions during unguided peer collaboration](construction-co-construction-rates-ta-mcs.md) — related
+- [In 88% of eligible cases, groups with one member correct and one incorrect individually gave the correct CSEM answer after working together, in a single-group pre-post study](construction-of-knowledge-88-percent-graduate-csem.md) — related

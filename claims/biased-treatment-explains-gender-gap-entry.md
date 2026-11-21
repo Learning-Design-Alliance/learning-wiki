@@ -62,3 +62,4 @@ The review reports, citing Hannak, Joseph, Larremore, and Cimpian (2023), an ana
 - [Beliefs that physics requires innate brilliance help explain the lack of women in physics](brilliance-beliefs-explain-women-underrepresentation.md) — related
 - [Minorities in brilliance-oriented disciplines experience higher levels of imposterism with negative career consequences](imposterism-in-brilliance-disciplines.md) — related
 - [Students perceived barriers to quantum careers including the belief that quantum is only accessible to geniuses, a requirement of advanced education, perceived risk, and lack of women in the field](quantum-career-barriers-genius-perception.md) — related
+- [Educators view the inequitable culture of physics, including brilliance attribution and overconfident self-presentation, as a major barrier that could seep into QIST](physics-culture-barrier-qist-diversity.md) — related

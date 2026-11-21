@@ -49,6 +49,7 @@ The article recommends that SEL interventions target and measure skills in a man
 - [Social Emotional Learning Curricula](social-emotional-learning-curricula.md)
 - [Make SEL measurement narrower in focus but broader in context and depth, choosing specific measures guided by development and skill trajectories](narrower-focus-broader-context-sel-measurement.md)
 - [Use highly individualized instruction tailored to each specific student with ASD, aligned with their level of mathematical thinking](individualized-instruction-for-asd-math.md)
+- [Sequence ASD intervention design so that behavioral and emotional pattern understanding precedes skill development](sequential-behavioral-understanding-before-skill-development-asd.md)
 
 ## Examples
 -

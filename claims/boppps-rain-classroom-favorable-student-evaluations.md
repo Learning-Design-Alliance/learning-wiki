@@ -67,3 +67,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
 - [Simulation-group trainees rated some elements of the traditional training higher than control trainees, though differences tended to be low in magnitude](simulation-group-rated-traditional-training-higher.md) — related
 - [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related
+- [The RPG group reported more positive engagement and perceived effectiveness than the control group across all survey measures](rpg-higher-engagement-survey-ratings.md) — related

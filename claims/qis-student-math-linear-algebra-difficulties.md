@@ -74,3 +74,5 @@ Follow-up focus interview with Franz, a CS-department instructor at a baccalaure
 - [Replacing crystals with a single atom and a CO2 molecule, and the energy ellipsoid with a Lamé ellipsoid, reduces the prerequisites of the Feynman tensor introduction](lame-ellipsoid-tensor-introduction-reduced-prerequisites.md) — related
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
 - [Advanced mathematical prerequisites, especially linear algebra, are the main barrier to entry in introductory quantum information courses](linear-algebra-prerequisite-barrier-quantum-courses.md) — related
+- [Educators reported gaps between students' self-assessed prior preparation and the Python coding and linear algebra depth their QISE courses required](prior-preparation-gaps-qise-courses.md) — related
+- [Teaching quantum systems through student-written Python simulations deepened students' understanding of linear algebra and quantum physics, according to educator reports](python-simulation-teaching-deepened-understanding.md) — related

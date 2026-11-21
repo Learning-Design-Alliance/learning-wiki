@@ -71,3 +71,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [DA mediation using structured hints raises mean vocabulary scores from 16.94 to 19.26 out of 20.](da-hints-raise-mean-vocabulary-scores.md) — related
 - [Both e-learning and gamification significantly improved nurses' knowledge scores from pre- to post-intervention](both-interventions-improved-knowledge-significantly.md) — related
 - [A majority of students (circa 80%) reportedly keep playing Bioblox2.5D or BioBlox2D during school breaks after it is introduced in class](bioblox-majority-students-play-during-breaks.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

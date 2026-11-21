@@ -75,3 +75,4 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — a narrower finding that bears on this claim
 - [AI-generated summary materials improve reading comprehension, with image summaries raising post-reading test scores by 7.50% over baseline](genai-summary-materials-raise-post-reading-scores.md) — related
+- [Students who engaged with ChatGPT during a physics problem showed higher learning gains than students who did not use AI](chatgpt-users-higher-physics-gains.md) — related

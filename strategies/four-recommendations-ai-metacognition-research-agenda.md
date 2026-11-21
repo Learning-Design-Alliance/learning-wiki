@@ -43,6 +43,7 @@ The review's conclusions propose four directions for advancing AI–metacognitio
 - [Combine individual adaptive reinforcement with collaborative approaches in a hybrid model for future development](hybrid-individual-reinforcement-collaborative-scripts.md)
 - [Use large-scale surveys to evaluate ethical components of professional development in assessment](large-scale-surveys-ethical-pdp-evaluation.md)
 - [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
+- [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
 
 ## Examples
 -

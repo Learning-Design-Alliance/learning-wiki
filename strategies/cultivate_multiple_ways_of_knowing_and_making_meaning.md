@@ -86,6 +86,7 @@ Multiple representations strengthen learning by giving learners redundant, compl
 - [Case-Based Learning](case-based-learning.md) — using varied cases as multiple entry points into a concept
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](indigenous-non-indigenous-collaborative-pedagogy.md)
 - [Open the course with a local Indigenous cultural perspective lecture and reinforce diverse voices with scientist life stories](indigenous-guest-lecture-diverse-voices-norms-strategy.md)
+- [Use discipline-specific analogies during lecture so students from each background can connect new qubit concepts to prior knowledge](discipline-specific-analogies-lecture.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the multiple-means-of-representation / -action-and-expression framework operationalizes this strategy systemwide.

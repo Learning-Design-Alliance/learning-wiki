@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-21
 recheck_by: 2025
 sources:
   - id: michael-f-j-fox-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
+> **Currency** · newest study 2020 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A deep knowledge of quantum information science theory is not necessary or sufficient for quantum-industry work; classical skills such as coding, electronics, and laboratory practice are highly valued by employers. [→ Michael F. J. Fox 2020](#michael-f-j-fox-2020)
@@ -63,3 +64,4 @@ In the interview study of 21 quantum companies, employers reported that deep QIS
 - [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related
 - [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
 - [Quantum KSAs required for QISE industry tasks fall into three categories: experimental; theory and knowledge of experiment; and theory only](qise-task-knowledge-three-categories.md) — related
+- [Semi-structured interviews with 22 non-PhD quantum industry positions identify experimental skills organized into four categories: instrumentation; computation and data analysis; experimental and project design; and communication and collaboration](non-phd-quantum-positions-four-experimental-skill-categories.md) — related

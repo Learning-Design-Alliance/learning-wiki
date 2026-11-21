@@ -55,3 +55,5 @@ Comparison of three GPT-4o-mini prompting strategies against teacher mean scores
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [Prompting strategy influenced ChatGPT-4 performance, with Resident prompts most consistent and Specialist prompts showing significantly different response patterns](prompting-strategy-influences-chatgpt-pes-performance.md) — related
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
+- [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) — related
+- [Prompt specificity does not reduce ChatGPT's performance variance in essay evaluation](prompt-specificity-does-not-reduce-chatgpt-variance.md) — related

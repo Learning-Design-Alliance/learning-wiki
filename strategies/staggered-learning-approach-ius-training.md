@@ -52,6 +52,7 @@ The article recommends a staggered learning approach in which complex semi-quant
 - [Prioritize high-difficulty competencies such as image optimization and metric precision in curriculum design](prioritize-high-difficulty-competencies-curriculum.md)
 - [Sequence DP training from emotion regulation and foundational skills to higher-order skills](dp-emotion-regulation-first-sequencing.md)
 - [Stagger training sessions and tailor content to lower academic levels](staggered-training-tailored-content-strategy.md)
+- [Sequence ASD intervention design so that behavioral and emotional pattern understanding precedes skill development](sequential-behavioral-understanding-before-skill-development-asd.md)
 
 ## Examples
 -

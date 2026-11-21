@@ -48,6 +48,7 @@ The article proposes that teachers explore other applications of NOVA beyond Kep
 
 - Nova Chatgpt Virtual Observatory
 - [Keep chatbot prompts short, concise, and structured, and specify the simulated star's spectral type to improve response accuracy](nova-short-prompt-strategy.md)
+- [Integrate exoplanet data activities across physics and mathematics classes to build data-analysis skills including logarithms and graph construction](cross-subject-exoplanet-data-analysis-strategy.md)
 
 ## Examples
 -

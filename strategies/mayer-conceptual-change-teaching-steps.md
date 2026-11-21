@@ -50,6 +50,7 @@ The article distills Mayer's account of conceptual change into an implementable 
 - [Conceptual Change](conceptual-change.md)
 - [Test the hypotheses of the science of teaching against concrete facts found in school practice](hypothesis-testing-school-practice.md)
 - [Connect Prior Knowledge to New Learning](connect_prior_knowledge_to_new_learning.md)
+- [Three-category extension framework: optimise, understand, hypothesise](optimise-understand-hypothesise-extensions.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related
 - [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — related
 - [Knowledge persists 4 weeks after a single presentation, but the visual causal model advantage does not and memory drops substantially](retention-decays-visual-advantage-does-not-persist.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

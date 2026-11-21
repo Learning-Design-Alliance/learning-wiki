@@ -85,3 +85,4 @@ Descriptive analysis of the control group's week-two retention results after con
 - [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related
 - [Vocabulary learned by phonetic association was retained better in the second week than vocabulary learned conventionally](phonetic-association-better-retention-week-two.md) — related
 - [Control-group students taught with conventional coursebook vocabulary tasks showed a 2.8% decrease in scores over the same period](control-group-2-8-percent-decrease.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

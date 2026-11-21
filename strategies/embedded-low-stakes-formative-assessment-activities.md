@@ -57,6 +57,7 @@ This strategy operationalizes formative assessment by integrating specific low-s
 - [Use low-stakes introductory seminar activities (asking about figures, news stories, prepared questions) before reading full papers](low-stakes-introductory-seminar-activities.md)
 - [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
 - [Use concept cartoon clicker questions to integrate evolutionary biology into introductory physics through active engagement](concept-cartoon-clickers-interdisciplinary-physics-strategy.md)
+- [Offer flexible group and individual work options, structured peer-support opportunities, and low-stakes group activities to build confidence](flexible-group-options-structured-peer-support-low-stakes-start.md)
 
 ## Examples
 -

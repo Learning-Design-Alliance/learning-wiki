@@ -47,3 +47,4 @@ Random-effects meta-analytic pooling of Hedges' g from pre/post concept inventor
 ## Related Claims
 - [SCALE-UP courses show significantly larger conceptual learning gains than Peer Instruction or ISLE courses](scale-up-larger-gains-than-peer-instruction-isle.md) — related
 - [Peer Instruction implementations across seven introductory physics instructors show positive conceptual learning gains in six of seven courses, ranging from Hedges' g = 0.2 to 1.4](peer-instruction-gains-range-0-2-to-1-4.md) — a narrower finding that bears on this claim
+- [Student conceptual learning does not vary across the five instruction types, suggesting instructors may adapt methods without sacrificing effectiveness](conceptual-learning-does-not-vary-across-instruction-types.md) — related

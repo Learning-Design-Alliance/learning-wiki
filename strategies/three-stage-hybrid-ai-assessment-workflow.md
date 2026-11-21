@@ -48,6 +48,8 @@ For large courses, the article proposes a combined workflow in three stages: (1)
 - [Per-criterion guidance for instructors using AI feedback on lab reports](../designs/rubric-item-ai-feedback-guidance-table.md) — which rubric items to delegate, verify or review by hand
 - [Three solutions for data costs in mobile learning: avoid data, batch data, and transfer data locally](data-cost-mitigation-three-solutions.md)
 - [Stepwise prompt-dialogue workflow: start with a comprehensive prompt, then refine through focused interactive dialogue](stepwise-mllm-prompt-dialogue-analysis.md)
+- [Four-component dialogue analysis method: data collection, dialogue act annotation, CM-SPAM pattern mining, and predictive model building](four-component-dialogue-analysis-method.md)
+- [Use hybrid AI feedback combining directive guidance with reflective prompts in large-enrolment and online courses](hybrid-ai-feedback-large-courses-strategy.md)
 
 ## Examples
 -

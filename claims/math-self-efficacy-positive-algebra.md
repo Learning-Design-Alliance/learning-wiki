@@ -53,3 +53,4 @@ Table 3 summary of motivational propensity findings shows mathematics self-effic
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
+- [Design thinking and computational thinking are significant positive predictors of mathematical modelling self-efficacy, with design thinking showing the much larger effect](dt-ct-predict-mmse-pls-sem.md) — related

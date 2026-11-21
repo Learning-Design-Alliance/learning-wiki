@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2022
-source_checked: 2026-10-28
+source_checked: 2026-11-21
 recheck_by: 2025
 sources:
   - id: mike-sharples-2022
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
+> **Currency** · newest study 2022 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The GPT-3 essay cited a Dunn & Dunn (1997) article in a journal issue that does not exist, and no study by Dunn and Dunn making the claimed finding could be found. [→ Mike Sharples 2022](#mike-sharples-2022)

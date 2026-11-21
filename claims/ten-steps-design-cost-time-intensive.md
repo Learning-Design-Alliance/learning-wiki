@@ -47,3 +47,4 @@ The authors' retrospective reflection on the design process reports the resource
 ## Related Claims
 - [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](tapacarp-activity-usable-workplace-engagement.md) — related
 - [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related
+- [Traditional simulation development is resource-intensive: a single PhET simulation is reported to take 6-12 months and hundreds of person-hours](traditional-simulation-development-cost-barrier.md) — related

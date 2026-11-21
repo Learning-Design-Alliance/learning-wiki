@@ -85,3 +85,4 @@ Interview participants in the three content-specific communities, each convened 
 - [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related
 - [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related
 - [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related
+- [In informal desk critiques, architecture students struggle to evaluate peers' work impartially because social dynamics such as friendships and group hierarchies introduce bias](peer-critique-social-bias-challenge.md) — related

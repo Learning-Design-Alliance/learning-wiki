@@ -52,3 +52,4 @@ Multinomial logistic regression of covariates on profile membership: the analysi
 - [The ambivalent profile reported the highest OMR strategy use but achieved the lowest OMR performance, while the positive profile scored highest](ambivalent-high-strategy-lowest-performance.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
 - [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — related
+- [In a multinomial logistic regression, only the frequency of reading instructional journals significantly predicted profile membership; teaching experience, teacher education, school type and doctoral degree did not.](journal-reading-only-significant-profile-predictor.md) — related

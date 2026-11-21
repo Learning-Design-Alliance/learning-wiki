@@ -60,6 +60,7 @@ The article recommends using AI chatbots as supplementary tools in dental educat
 - [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
 - [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
 - [Use practice VP cases with feedback for independent self-learning, leveraging that assessment drives learning](vp-practice-cases-self-learning-strategy.md)
+- [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ The editorial reports, citing Nickl et al. (2024), a study in which pre-service 
 - [Adaptive scaffolding shows descriptively higher effects than adaptable scaffolding in simulation-based learning, though the difference is not statistically significant](adaptive-scaffolding-descriptively-higher-than-adaptable.md) — a broader claim this one bears on
 - [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) — related
+- [Students criticized the feedback for limited adaptivity to individual, valid alternative solution approaches](llm-feedback-limited-adaptivity.md) — related

@@ -53,3 +53,4 @@ Survey of 17 instructor-feedback and 16 AI-feedback students using Strijbos et a
 - [Mann-Whitney U tests found no significant difference between human SP and AI chatbot groups on any survey question](no-significant-difference-human-vs-ai-sp-acceptability.md) — related
 - [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related
 - [Weaker students rated the AAG system significantly higher than stronger students on identifying mistakes, actionable feedback, future problem-solving, and encouragement for learning](weaker-students-higher-aag-ratings.md) — related
+- [Perceived correctness ratings did not differ significantly between students who received correct and incorrect feedback](perceived-correctness-uncorrelated-with-actual.md) — related

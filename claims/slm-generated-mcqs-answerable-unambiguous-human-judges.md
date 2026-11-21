@@ -53,3 +53,4 @@ Human evaluation study: seven middle-school science teachers answered 64 MCQs ge
 - [Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence](curse-of-prior-knowledge-size-tradeoff.md)
 - [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](expert-evaluation-mcq-stems-promising.md) — related
 - [Math and science are well-structured domains whose formal tasks make them favorable application areas for AIED technology](well-structured-domains-favor-aied.md) — related
+- [Expert validation found 2.8% of transcreated questions unanswerable, all stemming from one temporal-reasoning question, fixed by adding an average of 1.7 time-related words per modified passage](transcreation-validation-unanswerable-questions.md) — related

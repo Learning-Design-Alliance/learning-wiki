@@ -50,3 +50,4 @@ Experiment 1 results (Table 1): overall passing probability was 89.2% (SD = 6.2)
 - [The resit effect on study-time investment is stronger for participants with higher Cognitive Reflection Test scores](resit-effect-stronger-higher-crt.md) — related
 - [Restricting access to a resit exam attenuates the reduction in first-attempt study-time investment](restricted-resit-access-attenuates-resit-effect.md) — related
 - [Simulated forgetting between attempts reduces the predicted resit effect](forgetting-reduces-resit-effect-in-model.md) — related
+- [The probability of passing Calculus I decreases as the number of attempts increases](calculus-passing-probability-decreases-with-attempts.md) — related

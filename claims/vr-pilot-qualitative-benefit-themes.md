@@ -99,3 +99,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — related
 - [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related
 - [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — related
+- [Qualitative feedback attributed the game's perceived effectiveness to narrative autonomy and active language production over passive reception](rpg-narrative-autonomy-active-production-themes.md) — related

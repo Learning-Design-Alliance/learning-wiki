@@ -17,7 +17,7 @@ sources:
 # Staging the Nobel Prize-winning CHSH experiment as a 'living crib' with the public playing its phases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Since conducting or simulating the Nobel Prize-winning experiments with an entangled source requires sophisticated equipment and long acquisition times, the authors stage the experiment, directly involving the public in its fundamental phases. Charlie prepares pairs of 'entangled' items (cards or balls with colour and solidity) placed in closed boxes allowing only one property at a time to be sampled; Alice and Bob randomly and independently choose their measurement by throwing a coin and record results; Charlie then collects the tables and calculates ⟨S⟩ by averaging each product column. The article states that "Having people acting the different phases of the experiment, even if only in a staged version of it, allows them to better understand the fundamental conceptual steps."

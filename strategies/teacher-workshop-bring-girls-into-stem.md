@@ -46,6 +46,7 @@ As part of the STEM for GIRLS in Ethiopia initiative, the authors organised in 2
 - [After-school clubs and library-based Astro 4 Girls workshops to reach under-represented students in STEM](after-school-clubs-astro4girls-underrepresented.md)
 - [Use women scientists as role models sharing life stories with girls](women-scientists-role-model-life-story-interactions.md)
 - [Design for long-range engagement and systematic follow-up in teacher professional learning](systematic-follow-up-instructional-shifts.md)
+- [Run STEM outreach workshops exclusively for girls, taught and tutored entirely by female scientists and physics students](girls-only-stem-workshop-format.md)
 
 ## Examples
 -

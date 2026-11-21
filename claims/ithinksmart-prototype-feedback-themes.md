@@ -79,3 +79,4 @@ The authors' interpretation of the same feedback themes, stating the prototype "
 - [Most Movement Simulation Reality items required revision, and students flagged 18 items overall versus nine for workers](movement-reality-items-require-revision.md) — related
 - [Visual objective markers significantly improved navigation of the virtual environment for students less familiar with virtual games](objective-markers-aid-novice-game-navigation.md) — related
 - [Informal exhibition surveys showed strong public engagement, with appreciation for guides' pedagogical skills and interactive elements](exhibition-surveys-show-strong-engagement.md) — related
+- [In free-text feedback, the most frequent participant comment on the VR simulator was that the control scheme was not intuitive](vr-simulator-controls-not-intuitive-feedback.md) — related

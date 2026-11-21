@@ -55,6 +55,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Show solution statistics from automatic assessment tools as indirect gamification](solution-statistics-indirect-gamification.md)
 - [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 - [Combine ChatGPT with human teachers in dialogic teaching rather than replacing human teachers](combine-chatgpt-with-human-teachers-strategy.md)
+- [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 
 ## Examples
 -

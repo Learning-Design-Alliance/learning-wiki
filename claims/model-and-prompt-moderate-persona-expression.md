@@ -52,3 +52,4 @@ Experiment I model-level (Table 13) and prompt-level (Table 14) descriptive anal
 - [LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations](llm-persona-self-report-stable-within-conversation.md) — related
 - [Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas](scripted-interaction-eliminates-observer-drift.md) — related
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
+- [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) — related

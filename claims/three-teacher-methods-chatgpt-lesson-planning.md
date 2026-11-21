@@ -52,3 +52,4 @@ Qualitative interview and interaction-record analysis of the 13 teachers' AI-ass
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
+- [About 20% of students chose not to use AI on the problem, most commonly citing confidence in their own understanding or unfamiliarity with the tool](students-opt-out-of-ai-use.md) — related

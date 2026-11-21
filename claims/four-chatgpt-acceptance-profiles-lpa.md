@@ -50,3 +50,4 @@ Latent profile analysis of z-standardized PU, PEOU, AT, SI, and FC scores from 1
 - [The four acceptance profiles differ substantially in behavioral intention to use ChatGPT](profiles-differ-in-behavioral-intention.md) — related
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
+- [Latent profile analysis identified four physics-teacher profiles differing in science scepticism; only one profile (N = 24, 14%) was highly sceptical, while the largest (N = 71, 41%) accepted research's value but doubted its classroom applicability.](four-ssse-teacher-profiles-latent-profile-analysis.md) — related

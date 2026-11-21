@@ -78,3 +78,5 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 - [GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)](genai-higher-academic-achievement-g040.md) — related
 - [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](adaptive-feedback-improves-diagnosis-justification.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
+- [Engagement time with AI-generated feedback does not differ significantly across directive, metacognitive, and hybrid conditions](ai-feedback-type-engagement-time-null.md) — related
+- [Resource quality outcomes do not differ significantly across directive, metacognitive, and hybrid AI feedback conditions](ai-feedback-type-resource-quality-null.md) — related

@@ -39,6 +39,7 @@ Several RSF schools stood out for intensive professional development addressing 
 ## Related Strategies
 
 - [Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications](strategic-hiring-aligned-to-instructional-model.md)
+- [Embed short modelling-focused sessions in onboarding to accelerate comprehension for less-prepared new hires, with differentiated challenges for stronger hires](short-modelling-sessions-onboarding-differentiated-pathways.md)
 
 ## Examples
 -

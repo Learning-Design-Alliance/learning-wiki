@@ -50,3 +50,4 @@ standing 4.6 (0.5) 93%"
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](llm-consolidated-report-cognitive-load-lowest.md) — related
 - [Prototype functionalities moderately encouraged reflection on study goals, but perceived added value was limited and regular use was uncertain](idsa-reflection-encouraged-but-limited-added-value.md) — reports the opposite
+- [AI role significantly affects task confidence, perceived AI helpfulness, and ease of interaction, with the Struggling Student rated lowest on all three](ai-role-affects-user-experience-measures.md) — related

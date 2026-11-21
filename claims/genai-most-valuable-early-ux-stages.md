@@ -53,3 +53,4 @@ Author's interpretive reflection in the Discussion section, not a tested result:
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
 - [Students found GenAI-generated storyboards unhelpful and returned to traditional pen-and-paper sketching](genai-storyboards-unhelpful-return-sketching.md) — related
+- [GenAI as a labor-saving device: all professors discussed time-saving potential, but literature-review assistance proved unsatisfactory while creating visuals was found very useful](genai-labor-saving-literature-review-unsatisfactory.md) — related

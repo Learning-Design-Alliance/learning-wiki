@@ -47,3 +47,4 @@ Bonferroni-adjusted pairwise chi-square comparisons among the three chatbots' an
 
 ## Related Claims
 - [The three AI chatbots differ significantly in overall accuracy on the Italian CINECA entrance test for healthcare science degrees (p < 0.001)](ai-chatbots-accuracy-differ-cineca-entrance-test.md) — a broader claim this one bears on
+- [Google Gemini generates accurate, context-sensitive voice scripts for visually rich academic PowerPoint slides from a single-line prompt](gemini-accurate-scripts-visual-slides.md) — related

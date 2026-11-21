@@ -74,3 +74,4 @@ In the same paired rating study, accuracy showed no statistically significant di
 - [The simulated-agents GPT configuration produced significantly more accurate OSCE content than the other two configurations (P=.01)](simulated-agents-gpt-significantly-more-accurate-osce-content.md) — related
 - [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related
 - [Teaching agents without knowledge-graph integration improved Socratic dialogue structure but limited the depth and breadth of instructional content](agents-without-kg-limited-content-depth.md) — related
+- [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related

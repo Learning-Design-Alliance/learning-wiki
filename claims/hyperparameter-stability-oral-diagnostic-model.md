@@ -55,3 +55,4 @@ Hyperparameter sensitivity analysis of the diagnostic model, presented in Fig. 5
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related
 - [Model clustering performance rises monotonically with hidden dimensionality, with the steepest gains over the first three dimensions](hidden-dimensionality-monotonic-vmeasure-rise.md) — related
+- [TASA performance is stable for retrieval weight λ in the range 0.3–0.7, with optimal results at λ = 0.5](retrieval-weight-lambda-stable-range.md) — a narrower finding that bears on this claim

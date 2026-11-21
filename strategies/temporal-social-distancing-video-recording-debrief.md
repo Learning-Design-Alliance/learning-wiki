@@ -46,6 +46,7 @@ Temporal social distancing has team members participate one by one in sequential
 - [Spatial social distancing in simulation: mark a person-free zone and confine each participant to a zone](spatial-social-distancing-person-free-zone.md)
 - [Videoconferencing-based simulation: distribute participants across locations to reduce on-site numbers while maximizing debriefing participation](videoconferencing-simulation-social-distancing.md)
 - [Structured video-debriefing sessions using the SHARP debriefing tool added to simulation-based training](sharp-video-debriefing-simulation-strategy.md)
+- [Run the escape room in sequential or parallel team formats depending on group size](sequential-parallel-station-formats.md)
 
 ## Examples
 -

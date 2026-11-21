@@ -48,3 +48,4 @@ The chapter reports findings from an in-review paper based on its experimental g
 - [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — related
 - [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
 - [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](cooperative-learning-promotes-inclusion.md) — related
+- [In informal desk critiques, architecture students struggle to evaluate peers' work impartially because social dynamics such as friendships and group hierarchies introduce bias](peer-critique-social-bias-challenge.md) — related

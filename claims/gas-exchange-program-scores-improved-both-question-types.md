@@ -49,3 +49,4 @@ Pre–post comparison of examination scores between the control class (2022–20
 - [Gas exchange question scores did not differ between small groups led by study coauthors versus nonauthors (74.7% vs. 75.8%)](no-facilitator-author-effect-on-gas-exchange-scores.md) — related
 - [Mean scores on gas exchange questions were lower than on non–gas exchange questions in both years, reflecting the challenge of the material](gas-exchange-questions-lower-scores-both-years.md) — related
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
+- [Adding self-assessment questions did not lead to better exam performance in 2023](saqs-no-exam-improvement.md) — reports the opposite

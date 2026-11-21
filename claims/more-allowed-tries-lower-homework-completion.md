@@ -49,3 +49,4 @@ Observational analysis of online homework logs from four semesters of a large en
 - [The per-attempt solving decay constant decreases with increasing maximum allowed tries, while the giving-up decay constant shows no clear dependency](solving-decay-constant-decreases-with-allowed-tries.md) — related
 - [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related
 - [Perceived programming learning success was rated highest in the year Artemis was introduced](artemis-introduction-highest-perceived-learning-success.md) — related
+- [The probability of passing Calculus I decreases as the number of attempts increases](calculus-passing-probability-decreases-with-attempts.md) — related

@@ -47,6 +47,7 @@ The authors propose that the next VITAL-COMS iteration be driven by generative A
 - [Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally](bootstrapping-baseline-annotated-corpus.md)
 - [Iterate real-time tutor feedback based on user questionnaires: add explanations, positive feedback, session summaries and pause warnings](cpr-tutor-questionnaire-driven-feature-improvements.md)
 - [Use dynamically generated AI assessments to enable future studies of expert tutors in natural contexts](ai-generated-assessments-expert-tutor-studies.md)
+- [Integrate LLM-driven avatars and multimodal feedback to enable dynamic, context-dependent sales dialogue practice](llm-avatars-future-vr-sales-training.md)
 
 ## Examples
 -

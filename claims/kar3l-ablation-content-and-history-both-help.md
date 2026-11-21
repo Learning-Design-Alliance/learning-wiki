@@ -52,3 +52,4 @@ Ablation study (Table 2) compares full KAR3L (AUC 0.780 seen) against versions d
 - [KAR3L outperforms existing student models at predicting flashcard recall on seen cards, with the best AUC and calibration](kar3l-best-seen-card-recall-prediction.md) — related
 - [Retrieving a moderate number of similar cards improves unseen-card predictions, but retrieving too many harms all metrics](retrieval-k-tradeoff-recall-prediction.md) — related
 - [In a single-group pre-post simulation with no comparison group, KAR3L's recall prediction for a semantically related, unstudied flashcard rose from before to after one flashcard was correctly recalled](semantic-transfer-forgetting-curve.md) — related
+- [Including full question text yields the best NTKT performance; removing text degrades AUC (ID-only 77.06% vs full text 90.32%)](question-text-improves-kt-accuracy.md) — related

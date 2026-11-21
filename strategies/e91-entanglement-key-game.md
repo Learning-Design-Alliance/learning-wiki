@@ -51,6 +51,7 @@ In the E91 activity, entangled qubit pairs in the Bell state |ψ−⟩ are measu
 - [Represent entangled states with pairs of attached Bloch Cubes that rotate together](bloch-cube-pairs-entanglement-strategy.md)
 - [Staging the Nobel Prize-winning CHSH experiment as a 'living crib' with the public playing its phases](staged-nobel-experiment-living-crib.md)
 - [Frame quantum error correction as a privacy constraint: treat detection and recovery operations as eavesdroppers that must never access the encoded information](eavesdropper-framing-quantum-decoding.md)
+- [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
 
 ## Examples
 -

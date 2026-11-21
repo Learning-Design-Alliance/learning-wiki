@@ -68,3 +68,4 @@ Post-usage survey grade-improvement item (Figure 7, N = 46); studying was also m
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
 - [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related
 - [Distrust in AI was negatively correlated with system usage, while comfort and perceived homework helpfulness were positively correlated with engagement](distrust-comfort-correlate-ai-usage.md) — related
+- [In an end-of-course survey, more than half of AI4CHEM students identified in-class Colab tutorials as the component that most helped them learn AI concepts](colab-tutorials-most-endorsed-ai4chem.md) — related

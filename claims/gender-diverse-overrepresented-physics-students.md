@@ -48,3 +48,4 @@ Descriptive comparison of survey gender-identity data to the 2021 Canadian Censu
 ## Related Claims
 - [The first Canada-wide intersectional survey of physics demographics collected detailed identity data from 2532 physics students and professionals](canadian-physics-counts-first-national-survey.md) — a broader claim this one bears on
 - [Sexually diverse respondents were more than twice as prevalent among physics students as among professionals](sexually-diverse-students-double-professionals.md) — related
+- [Canadian physics students are much more demographically diverse than working professionals, indicating the importance of acting early to retain diverse physicists](students-more-diverse-than-professionals-act-early.md) — related

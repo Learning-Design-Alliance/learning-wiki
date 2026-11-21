@@ -52,6 +52,8 @@ The article distills trainee feedback into concrete platform upgrades. Students 
 - [Extend VDT learning with longer sessions, more oral/maxillofacial cases, remote access and SECTRA interface improvements, per student feedback](student-requested-vdt-improvements.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 - [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
+- [Design VR sales simulations with supportive context, greater realism, minimized technical disruptions, and balanced cognitive load](cave-sales-simulation-lessons-learned.md)
+- [Iterate VR procedural simulators using participant-requested improvements: more realistic ultrasound, movable display, template grid overlay, interface refinements, and a start-of-session tutorial](vr-simulator-iteration-from-user-feedback-strategy.md)
 
 ## Examples
 -

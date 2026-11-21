@@ -52,3 +52,5 @@ Student survey administered alongside the classroom lesson in four Canberra scho
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](collision-carts-simulation-lesson-positive-student-feedback.md) — related
 - [Over 90% of elementary and middle school students rated the Quarked! hands-on program 3 or higher out of 5, with more than half giving the top rating](quarked-hands-on-program-high-engagement-ratings.md) — related
 - [Playing Particle Builder significantly improved high school students' understanding of particle physics concepts](particle-builder-significant-learning-gains.md) — related
+- [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related
+- [68% of students reported learning more than in a normal lesson, while 32% found the game more difficult](particle-builder-self-reported-learning-more-difficulty.md) — related

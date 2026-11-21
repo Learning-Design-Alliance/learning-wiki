@@ -48,3 +48,4 @@ Chi-square analyses comparing course-sequence groups on E&M negativity questions
 - [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](superposition-principle-difficulty.md) — related
 - [Graduate physics students nearly ace most negativity questions but only three of 22 correctly answer the net-charge question](graduate-students-fail-net-charge-question.md) — related
 - [Interpretations of the term net charge may underlie the persistent difficulty of the charge-transfer question](net-charge-interpretation-difficulty.md) — related
+- [MCS item 15 (net force in crossed electric and magnetic fields) showed the largest individual-to-group improvement, with Cohen's d = 0.94, rising from 53% to 95%](mcs-q15-largest-effect-size-d-094.md) — related

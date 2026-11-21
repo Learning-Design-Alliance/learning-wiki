@@ -50,6 +50,8 @@ The authors recommend designing learning environments that make evaluation an ex
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 - [Embed routine evaluation into all training and education programmes to determine effectiveness.](routine-evaluation-embedded-in-training-programmes.md)
 - [Leverage students' partial metacognitive self-awareness of overreliance through reflection prompts, acceptance-rate feedback, and required justifications](metacognitive-reflection-prompts-ai-reliance.md)
+- [Require literature citations on every substantive AI claim to build trust-but-verify habits](ai-claims-with-citations-strategy.md)
+- [Standards-by-design: embed compliance checklists and audit hooks into data and MLOps pipelines](standards-by-design-ai-pipelines.md)
 
 ## Examples
 -

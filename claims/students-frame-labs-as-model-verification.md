@@ -50,3 +50,4 @@ Video analysis of two students, Ali and Ben, during the second week of the first
 - [A whole class discussion revealing that the model broke down directly challenged Ali and Ben's model-verifying frame](whole-class-discussion-challenges-model-verifying-frame.md) — related
 - [Six months after the activity, students reflected on shifted framing: Ali learned to explore unexpected data, and Ben learned to base conclusions on the data itself](interview-reflections-shifted-framing.md) — related
 - [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related
+- [Three pendulum labs designed from the same theoretical perspective diverge for three interacting reasons: institutional expectations, ancillary goals, and differing implications of shared commitments](three-pendulum-labs-diverge-shared-theory.md) — related

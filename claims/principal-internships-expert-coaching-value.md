@@ -55,3 +55,4 @@ The report's review of coaching and mentoring in education distinguishes coachin
 - [Competency-focused internships improved the depth, clarity, and practicality of principal preparation internships compared with hour-accumulation models](competency-focused-internships-improved-experience.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — a narrower finding that bears on this claim
 - [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related
+- [Successful writing preparation in P&A often depends on K-12 foundations, mentor/institution choice, or self-direction, creating inequality](reliance-on-background-creates-writing-education-inequality.md) — related

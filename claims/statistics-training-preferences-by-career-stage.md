@@ -49,3 +49,4 @@ Survey Question 10 (Figure 2) asking how respondents would prefer to be trained 
 - [Student content-type preference shifts toward Example content during the assignment, consistent with short-term surface learning](preference-shifts-toward-example-surface-learning.md) — related
 - [Content-type and sequence preferences differ by expertise: undergraduates prefer Example, graduates Concept, and faculty a mix of Concept and Theory](preference-varies-with-expertise.md) — related
 - [Practical workshops are the most preferred EBM learning modality among Palestinian medical students, though preference does not differ significantly by training status](practical-workshops-preferred-ebm-modality.md) — related
+- [Feedback from mentors is the primary mode of graduate science writing training in P&A (62%), with 16% reporting no training](mentor-feedback-primary-graduate-science-writing-training.md) — related

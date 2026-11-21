@@ -60,3 +60,4 @@ National and California principal survey analyses found principals in low-povert
 - [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](initiative-forms-and-roles-served.md) — related
 - [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related
 - [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
+- [Successful writing preparation in P&A often depends on K-12 foundations, mentor/institution choice, or self-direction, creating inequality](reliance-on-background-creates-writing-education-inequality.md) — related

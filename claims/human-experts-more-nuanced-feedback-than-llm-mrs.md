@@ -55,3 +55,4 @@ Mixed-methods comparison of AI-generated and human expert mentoring in mixed rea
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — related
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
 - [Group-size format shapes PAL dynamics: mentoring offers an intimate setting while didactic teaching limits feedback and interaction](pal-group-size-format-dynamics.md) — related
+- [The customized Physics Instructor GPT gives balanced formal feedback and can offer conceptually nuanced technical observations, but with greater variability](custom-gpt-balanced-context-sensitive-feedback.md) — related

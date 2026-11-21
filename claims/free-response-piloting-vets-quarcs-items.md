@@ -48,3 +48,4 @@ Free-response administrations in large general education Astronomy courses over 
 - [Cognitive interviewing informed differentiated item-level decisions for ITEM: 11 questions received proposed wording or contextual revisions, 2 presentation-only modifications, and 6 were retained unchanged, with no items removed](item-item-level-decision-distribution.md) — related
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — related
 - [Candidate selection is a second bottleneck: an oracle ranker over proposed candidates substantially raises proportional match, and plausibility checks reject some valid distractors](candidate-selection-loss-oracle-ranker.md) — related
+- [The collaborative regex activity was pilot tested in a community college Python course and revised before redeployment](regex-activity-community-college-pilot.md) — related

@@ -47,3 +47,4 @@ Numerical simulation shown in Fig. 7: average marks drawn from a normal distribu
 ## Related Claims
 - [CLO attainment metrics computed for a sample course range from about 74% to 88% across six CLOs](sample-course-clo-attainment-values.md) — related
 - [Analytical derivation sets the desirable score distribution to a normal distribution with mean 70 and standard deviation 15 to achieve excellent distinguishability](desirable-score-distribution-mean-70-sd-15.md) — related
+- [Student-performance analysis shows five of six CLOs meet the 80% achievement threshold, with CLO4 at 78% flagged for adjustment](isp-clo-clo4-below-80-percent-threshold.md) — related

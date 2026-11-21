@@ -51,3 +51,4 @@ Descriptive analysis of one exit survey question (Q30) sent to all KIBEHMEDx MOO
 - [Students in two distinct experiential learning courses reported positive perceived skill gains, with 87%–96% agreeing or strongly agreeing with Likert prompts across four domains](el-courses-positive-perceived-gains-four-domains.md) — related
 - [91% of students reported improved confidence working in a team and 90% reported teamwork developed interpersonal skills](el-teamwork-confidence-gains-91-percent.md) — related
 - [Students in the PBL-ChatGPT group gave highly positive satisfaction feedback, with no dissatisfied responses reported](high-student-satisfaction-pbl-chatgpt-teaching.md) — related
+- [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](aiiv-positive-student-survey-perceptions.md) — related

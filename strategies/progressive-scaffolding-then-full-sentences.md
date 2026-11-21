@@ -51,4 +51,4 @@ The article recommends deploying progressive presentation as a scaffolding techn
 -
 
 ## Key Sources
-- Janaka, N., Zhao, S., Ram, A., Sun, R., Tan, S. T. J. W., Li, D., & Hsu, D. (2025). Progressive Sentences: Combining the Benefits of Word and Sentence Learning. MobileHCI '25 Adjunct. https://arxiv.org/abs/2507.14846
+- Janaka, N., Zhao, S., Ram, A., Sun, R., Tan, S. T. J. W., Li, D., & Hsu, D. (2025). Progressive Sentences: Combining the Benefits of Word and Sentence Learning. MobileHCI '25 Adjunct. https://arxiv.org/abs/2507.14846. [doi:10.1145/3737821.3749564](https://doi.org/10.1145/3737821.3749564)

@@ -75,3 +75,4 @@ Item classification counts from the same item-level analysis: 6 (20.0%) GenAI-as
 - [Most SJT items show positive corrected point-biserial discrimination, with 72% at 0.10 or higher](sjt-items-point-biserial-discrimination-mostly-positive.md) — related
 - [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related
 - [Item-total point-biserial correlations inflate item discrimination scores, and item-excluded correlations provide a cleaner measure for classroom tests.](item-excluded-correlation-discrimination.md) — related
+- [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related

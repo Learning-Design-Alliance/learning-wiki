@@ -47,3 +47,4 @@ Single-author case self-report within the Bar Magnet & Compass Model remix secti
 ## Related Claims
 - [Teachers can deepen their professional practice in physics education through informal professional learning with the Open Source Physics and Easy Java Simulation community, with remixing simulations as a form of self-directed professional learning](ejs-remixing-as-self-directed-professional-learning.md) — a broader claim this one bears on
 - [Open-source physics computer models have the potential to deepen students' conceptual understanding through student-centred guided inquiry](physics-models-potential-guided-inquiry-conceptual-understanding.md) — related
+- [Teaching quantum systems through student-written Python simulations deepened students' understanding of linear algebra and quantum physics, according to educator reports](python-simulation-teaching-deepened-understanding.md) — related

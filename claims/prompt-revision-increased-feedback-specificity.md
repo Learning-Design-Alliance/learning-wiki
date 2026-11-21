@@ -51,3 +51,4 @@ Mixed-effects logistic models with student random intercepts and homework number
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points](prompt-revision-improves-tutoring-scores-ten-of-eleven.md) — related
+- [The collaborative regex activity was pilot tested in a community college Python course and revised before redeployment](regex-activity-community-college-pilot.md) — related

@@ -79,3 +79,4 @@ Same Experiment-1 test-phase analysis of isomorphic problem variants solved unas
 - [LLM access increases perceived learning beyond what actual learning differences explain](llms-inflate-perceived-learning.md) — related
 - [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

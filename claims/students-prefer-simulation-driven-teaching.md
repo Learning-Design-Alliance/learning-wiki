@@ -55,3 +55,4 @@ Text-response survey question asking students to compare simulation-driven with 
 - [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
 - [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related
+- [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related

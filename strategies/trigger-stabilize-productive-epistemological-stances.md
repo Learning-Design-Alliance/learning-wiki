@@ -54,6 +54,7 @@ Because epistemological stances are nuanced and context-sensitive, the authors r
 - [Instructors nudge students into more productive frames to resolve framing-based impasses](instructor-nudge-frame-transitions.md)
 - [Target individual epistemological resources, rather than general instructions, as the lever for shifting students' epistemological frames](shift-resources-to-shift-frames-strategy.md)
 - [Attend to epistemic stances toward group work as one way to support productive and equitable group work](attend-to-epistemic-stances-for-equitable-group-work.md)
+- [Adopt pedagogy that is explicit about epistemological issues and mixes epistemic tools from the beginning rather than adding tools in stages](explicit-epistemology-mixed-tools-from-start.md)
 
 ## Examples
 -

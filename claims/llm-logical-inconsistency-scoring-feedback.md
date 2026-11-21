@@ -71,3 +71,5 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [Student peer review scoring of the formative MEQ* does not differ significantly from expert post-evaluation and correlates highly with it](peer-review-scoring-matches-expert-meq-evaluation.md) — related
 - [Score-based prompting generates more negative, straightforward, direct, and extensive feedback, and experts prefer it](score-based-prompting-feedback-characteristics-preference.md) — related
 - [AI models show contextual intuitiveness by correctly inferring missing task context from ambiguous student prompts, but their feedback is not always fully appropriate or correct](ai-contextual-intuitiveness-ambiguous-prompts.md) — related
+- [ChatGPT can perform worse when given more relevant evaluative information, suggesting a structural limitation in input integration](chatgpt-worse-with-more-information-structural-limitation.md) — related
+- [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](llm-feedback-20-percent-errors.md) — related

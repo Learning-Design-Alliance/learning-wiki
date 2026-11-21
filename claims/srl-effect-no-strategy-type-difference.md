@@ -68,3 +68,4 @@ Categorical moderator analysis under the random effects model comparing subgroup
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related
 - [Corno and Mandinach's foundational framework identifies three nonideal learner engagement types alongside the self-regulated ideal](corno-mandinach-nonideal-learner-types.md) — related
 - [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related
+- [Resource quality outcomes do not differ significantly across directive, metacognitive, and hybrid AI feedback conditions](ai-feedback-type-resource-quality-null.md) — related

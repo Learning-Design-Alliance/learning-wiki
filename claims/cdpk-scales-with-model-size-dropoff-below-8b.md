@@ -62,3 +62,4 @@ Numerical analysis of CDPK accuracy against parameter count for open-weight mode
 - [Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points](capability-boundaries-and-universal-failures-academiclaw.md) — related
 - [Modern SLMs around 3B parameters match or exceed earlier-generation LLMs on the MMLU benchmark, including STEM subjects](slms-match-legacy-llms-mmlu.md) — related
 - [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related
+- [RAG with slide text improves exam-question performance across all tested LLMs, with the smallest model showing the least improvement](rag-slide-text-improves-all-llm-performance.md) — related

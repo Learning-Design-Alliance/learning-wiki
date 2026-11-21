@@ -51,3 +51,5 @@ Cold-start experiment on JuniorH where the testing set contains 33 unseen concep
 - [LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines](lt-mkt-outperforms-kt-baselines-four-datasets.md) — a broader claim this one bears on
 - [The cognitive load module encodes cross-domain learning burden into student state representations as a low-to-high load gradient](cognitive-load-module-shapes-representation-space.md) — related
 - [The interactive open learner modelling approach was suitable for dealing with cold start in user-adaptive systems (OWL-OLM trial)](iolm-suitable-for-cold-start.md) — related
+- [NTKT maintains stable performance on unseen cold-start questions while baselines show a significant drop between seen and unseen questions](ntkt-question-cold-start-stability.md) — related
+- [In user cold-start scenarios, NTKT achieves higher F1 than baselines from the first interaction and personalises rapidly as history grows](ntkt-user-cold-start-fast-personalisation.md) — related

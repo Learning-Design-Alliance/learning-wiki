@@ -71,3 +71,4 @@ Simple slope analysis of PSS in the same GLMM framework; both groups' declines w
 - [The escape room-based physical activity intervention significantly reduces perceived stress and self-imposed academic pressure in adolescents](escape-room-pa-reduces-stress-and-self-pressure.md) — related
 - [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related
 - [PHQ-8 depression scores showed no significant change over time or between groups](phq8-no-significant-depression-change.md) — related
+- [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related

@@ -53,3 +53,4 @@ Overview column asserting a PER research finding, citing Hake's interactive-enga
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
 - [Multi-agent simulations are chosen because agent-based models help learners ground emergent phenomena in embodied agent-level intuitions](agent-based-models-ground-emergence-in-agent-level-intuitions.md) — related
 - [Teaching data science and machine learning courses helps instructors understand the material at a deeper level and benefits their HEP research](teaching-dsml-deepens-instructor-understanding.md) — related
+- [Many workshop participants could articulate new scientific concepts post-workshop, often grounded in visual or embodied understanding](workshop-learning-gains-embodied-understanding.md) — related

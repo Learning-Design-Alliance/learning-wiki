@@ -50,3 +50,4 @@ Sensitivity analyses performed to evaluate the robustness of the unadjusted betw
 - [Medical imaging interns receiving the SPOC-based blended package report higher self-directed learning ability than controls, with the experimental mean near the scale ceiling](spoc-blended-package-higher-self-directed-learning.md) — related
 - [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](spoc-blended-package-higher-teaching-satisfaction.md) — related
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
+- [Structure-focused Cluster 1 scored higher on essay Organization than content-focused Cluster 2, with a moderate effect size (r = 0.36) that did not remain significant after Holm correction](ewa-organization-cluster-difference-r036.md) — related

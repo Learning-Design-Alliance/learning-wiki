@@ -62,3 +62,4 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related
 - [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](tutor-skill-development-peer-tutoring-nursing.md) — related
 - [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related
+- [Professors framed GenAI as a discussion partner, but observed that students mostly used it for low-level technical tasks rather than Socratic dialogue](genai-discussion-partner-framing-student-gap.md) — related

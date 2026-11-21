@@ -76,3 +76,4 @@ The review reports, citing one included study, that "e-modules with more sophist
 - [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — related
 - [Nurse Mentor Supervisors found the Super Divya animated video module entertaining, innovative, and relatable, with a storyline that maintained interest](nms-found-super-divya-entertaining-relatable.md) — related
 - [A scatter plot of content quality versus engagement shows a favorable link between high-quality content including visual data and stories and enhanced engagement](content-quality-engagement-scatter-plot.md) — related
+- [Teachers reported student engagement was strongest for visually appealing, interactive activities aligned with their existing curricula](visual-interactive-activities-engaging.md) — a narrower finding that bears on this claim

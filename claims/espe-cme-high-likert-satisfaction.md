@@ -84,3 +84,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students rated the exhibit's activities highly, with the initial lecture lowest at 78% of scores between 8 and 10](holographic-exhibit-quality-ratings-8-to-10.md) — a narrower finding that bears on this claim
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
 - [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related
+- [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](aiiv-positive-student-survey-perceptions.md) — related

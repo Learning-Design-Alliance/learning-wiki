@@ -95,3 +95,4 @@ Evaluation 1, an online between-subject user study with four conditions (reading
 - [In Evaluation 2, Ruffle&Riley showed no significant learning gains over reading despite requiring much more learning time](rr-eval2-no-gain-advantage-over-reading.md) — related
 - [Ruffle&Riley users rated their perceived pre- and post-activity knowledge significantly higher than reading participants](rr-higher-perceived-knowledge-than-reading.md) — related
 - [Ruffle&Riley was rated significantly more helpful for understanding, remembering, and support, and more enjoyable and coherent, than the QA chatbot conditions](rr-higher-learning-experience-ratings-than-qa-chatbots.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

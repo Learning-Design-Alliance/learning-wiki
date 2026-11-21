@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 273 claims (158 show a difference, 68 mixed, 47 no difference) · 181 studies (100 causal, 34 review, 17 quant-synthesis, 12 theoretical, 10 associational, 5 design, 3 qualitative), `q1`–`q4` · 58 of 181 report an effect size · 265 claims rest on one study
+> **Evidence** · 276 claims (160 show a difference, 68 mixed, 48 no difference) · 183 studies (102 causal, 34 review, 17 quant-synthesis, 12 theoretical, 10 associational, 5 design, 3 qualitative), `q1`–`q4` · 59 of 183 report an effect size · 268 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -308,6 +308,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Project-based learning improves learning attitudes, long-term retention, and skill development, often in interdisciplinary environments](../claims/pbl-improves-attitudes-retention-skills.md) [+W] — measured as an outcome of the instruction studied
 - [The article argues that art's appeal to human emotions supports long-term memory and provokes curiosity, motivating its use in astronomy education](../claims/art-emotions-long-term-memory-astronomy-education.md) [+W] — measured as an outcome of the instruction studied
 - [Significant assessment-by-retention interaction on Task 1: ChatGPT and Google groups' scores declined at three-week retention while control and e-textbook groups stayed stable](../claims/task1-retention-interaction-chatgpt-google-decline.md) [~M] — measured as an outcome of the instruction studied
+- [Learn Your Way students also scored significantly higher on a delayed long-term recall assessment 3-7 days after learning](../claims/learn-your-way-better-long-term-recall.md) [+M] — measured as an outcome of the instruction studied
+- [Learning duration and retention-interval delay did not significantly influence recall performance in either condition](../claims/duration-and-delay-no-recall-effect.md) [-W] — measured as an outcome of the instruction studied
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](../claims/rpg-higher-one-week-retention-slang.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

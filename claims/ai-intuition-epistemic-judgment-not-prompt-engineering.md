@@ -61,3 +61,4 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools](educators-want-context-grounded-ai.md) — related
 - [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related
 - [Automation bias and metric gaming may create a hidden curriculum in which machine-measurable performance is mistaken for professional competence](automation-bias-metric-gaming-hidden-curriculum.md) — related
+- [Human-AI complementarity: most productive outcomes arise when AI augments rather than automates core educational processes](human-ai-complementarity-augment-not-automate.md) — related

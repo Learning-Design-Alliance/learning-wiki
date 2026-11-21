@@ -53,3 +53,4 @@ The editorial reports, citing Demedts et al. (2024), a study in which each incor
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related
 - [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — a broader claim this one bears on
+- [Misconception reduction was uncorrelated with changes in career motivation and with the number of lectures attended](misconception-reduction-uncorrelated-with-motivation-and-attendance.md) — related

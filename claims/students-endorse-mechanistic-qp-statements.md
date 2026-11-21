@@ -60,3 +60,4 @@ Descriptive analysis of the 86-student questionnaire responses. The author state
 - [Student difficulties in upper-level quantum mechanics are common across institutions and analogous in nature to reasoning difficulties found in introductory physics courses](qm-difficulties-analogous-to-introductory-across-institutions.md) — a broader claim this one bears on
 - [A differentiating group of courses (QP, MA2, MA3, PL) contributes significantly to score variance and separates students](differentiating-courses-qp-ma2-ma3-pl.md) — related
 - [After standard instruction, non-major physics undergraduate students encounter difficulties across all thematic units of the Theory of Relativity](relativity-difficulties-after-standard-instruction.md) — related
+- [Most participating students reported limited or no prior knowledge of quantum theory before the course](pupils-little-prior-knowledge-entanglement.md) — related

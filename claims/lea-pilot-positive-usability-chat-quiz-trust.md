@@ -78,3 +78,4 @@ Descriptive survey results from the same eight-participant pilot: understanding,
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Pilot survey of 12 anatomy students rated the app highly useful, immersive, and conducive to learning](pilot-survey-brain-app-high-usability-ratings.md) — related
 - [Lapp received mostly positive usability ratings from the remote-feedback group, with some reported navigation problems](lapp-positive-usability-survey-navigation-problems.md) — related
+- [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](aiiv-positive-student-survey-perceptions.md) — related

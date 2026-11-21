@@ -48,3 +48,4 @@ Per-disability-type breakdown of persona-aware Fit scores on SPED-Tutor-Mix repo
 ## Related Claims
 - [The full Special-R1 model raises persona-aware Fit from 6.75 to 8.40 and SPED-rubric Helpfulness from 0.720 to 0.768 over a non-disability-aware baseline](special-r1-raises-persona-fit-and-sped-helpfulness.md) — related
 - [Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting](thinking-reward-effective-only-with-adaptive-prompting.md) — related
+- [Persona-based evaluation with three learner personas finds contextually appropriate, clear and accurate system behaviour across proficiency profiles](langlingual-persona-based-evaluation.md) — related

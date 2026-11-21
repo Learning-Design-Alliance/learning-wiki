@@ -49,6 +49,7 @@ The authors propose organisational chapters or working groups in Astrostatistics
 
 - [Institutional-level actions to improve astronomers' statistical training: add applied statistics courses, create cross-disciplinary venues, make joint hires, and reward interdisciplinary work](institutional-astrostatistics-training-actions.md)
 - [International-level actions: collaborate with international astrostatistics organizations, develop statistical standards and a standard graduate curriculum, and recruit internationally trained astrostatisticians](international-astrostatistics-training-actions.md)
+- [Support women and equity-seeking groups in physics through national organizations offering speaking opportunities, workshops, panels and networking](national-edi-groups-support-women-physics.md)
 
 ## Examples
 -

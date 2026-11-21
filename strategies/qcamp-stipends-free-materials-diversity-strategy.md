@@ -49,6 +49,7 @@ To encourage socioeconomic diversity in a summer outreach program, QCaMP sent ma
 - [Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible](stipends-and-tuition-subsidy-for-residency-access.md)
 - [Provide financial support and induction mentoring in exchange for a multi-year teaching commitment](financial-support-commitment-induction-strategy.md)
 - [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
+- [Cross-subsidy ticket pricing to fund outreach to underserved populations](cross-subsidy-pricing-funds-equity-outreach.md)
 
 ## Examples
 -

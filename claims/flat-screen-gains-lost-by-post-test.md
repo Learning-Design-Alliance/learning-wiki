@@ -49,3 +49,4 @@ Comparison of the two visualization treatment groups (GII flat-screen classroom,
 - [Undergraduates taught seasons with immersive planetarium visualizations show larger quiz gains (ES=0.696 Cont-Pre; ES=0.741 Post-Pre) than peers taught with the same visualizations on a flat classroom screen or with no visualizations](planetarium-seasons-larger-gains.md) — related
 - [All treatment groups showed positive gains immediately after instruction, followed by losses between the contemporaneous and post-instruction assessments](immediate-gains-then-decay-all-groups.md) — related
 - [Classroom-only instruction showed no significant learning gains from pre-test to post-test or delayed test](classroom-condition-no-significant-gains.md) — related
+- [Immersive dome-based learning leads to greater content retention than flatscreen viewing, according to the authors' prior comparison study](dome-learning-greater-retention-than-flatscreen.md) — related

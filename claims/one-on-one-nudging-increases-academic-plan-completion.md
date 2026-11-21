@@ -49,3 +49,4 @@ Same RCT analytic sample (1,085 workshop, 193 one-on-one, 485 control). Table 2 
 - [Guaranteed workshop counseling with nudging increases academic plan completion by about 20 percentage points over a business-as-usual control group](workshop-nudging-increases-academic-plan-completion.md) — related
 - [Workshop and one-on-one counseling with nudging show no significant difference in session attendance or academic plan completion, though the comparison is exploratory](workshop-equivalent-to-one-on-one-counseling-exploratory.md) — related
 - [Group workshop counseling is the most cost-effective option, with the lowest cost per academic plan completed](workshop-most-cost-effective-counseling-format.md) — related
+- [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — related

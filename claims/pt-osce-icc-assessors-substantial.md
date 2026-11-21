@@ -98,3 +98,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
 - [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related
 - [The CTCS-SP shows good inter-rater reliability, with an ICC of .84 for the mean competence score](ctcs-sp-good-inter-rater-reliability.md) — related
+- [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related

@@ -93,6 +93,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Intentionally incorrect physics simulations to provoke conceptual reasoning](../strategies/intentionally-incorrect-simulation-conceptual-discourse.md)
 - [Induce cognitive conflict by having students predict, check predictions against simulations, and reconcile mismatches with guidance](../strategies/cognitive-conflict-predict-then-check-simulation-strategy.md)
 - [Elby paired questions: reconcile spontaneous stories with physics-accurate ones](../strategies/elby-paired-questions-reconcile-stories.md)
+- [Confront pupils with a physically incorrect statement to create cognitive conflict and trigger verification and reasoning](../strategies/incorrect-statement-cognitive-conflict-strategy.md)
 
 ## Key Sources
 - Limón, M. (2001). On the cognitive conflict as an mechanism of conceptual change. *Educational Psychology Review, 13*(4), 357–383.

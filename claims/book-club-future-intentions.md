@@ -49,3 +49,4 @@ Descriptive survey findings from the 12-responder cohort on future intentions. T
 - [Most intern participants agreed the virtual book club showed the importance of professional development and prompted reflection on their own development](book-club-survey-pd-importance-reflection.md) — related
 - [A virtual professional development book club was feasible to implement for emergency medicine interns during orientation](virtual-book-club-feasible-em-interns.md) — a broader claim this one bears on
 - [Residents overwhelmingly want more education on antibiotic prescribing, yet fewer than six in ten participate when e-learning is offered](education-wish-vs-participation-gap.md) — related
+- [Most TAs reported strong enthusiasm for collaborative learning, with 71% planning to regularly incorporate it in future teaching and 23% occasionally](tas-intend-collaborative-learning-future-teaching.md) — related

@@ -55,6 +55,7 @@ Building on participants' perspectives, the article's Table 1 pairs each identif
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 - [Use scale results to give GPs individualised feedback reports and design targeted continuing education on identified competency gaps](gp-depression-scale-feedback-driven-continuing-education-strategy.md)
 - [Develop modular ethics case-study resources with facilitation guidance and curated readings for QIS faculty](modular-ethics-case-study-resources-qis.md)
+- [Three paired, modular simulation-based lab activities on measurement uncertainty](pdl-three-lab-activities-strategy.md)
 
 ## Examples
 -

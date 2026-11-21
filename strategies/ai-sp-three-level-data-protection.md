@@ -46,6 +46,7 @@ The article recommends a 3-level protection mechanism to address privacy and leg
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
 - [Preserve data integrity through input checks, deduplication, backups and access controls before deploying IoT](data-integrity-practices-iot-education.md)
+- [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
 
 ## Examples
 -

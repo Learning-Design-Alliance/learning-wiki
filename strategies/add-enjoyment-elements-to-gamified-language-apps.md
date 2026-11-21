@@ -45,6 +45,7 @@ Based on their findings, the authors recommend that future language learning app
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 - [Analyse learner utilisation and engagement data from gamified educational software to identify modifiable engagement and attrition factors](metrics-driven-analysis-of-gamified-learning-use.md)
 - [Gamify prescribed rehabilitation movements in VR to sustain patient engagement and adherence](vr-gamified-rehabilitation-engagement-strategy.md)
+- [Future enhancements: proactive daily engagement features, gamified retention, and CEFR-aligned proficiency levels](langlingual-future-engagement-and-cefr-strategy.md)
 
 ## Examples
 -

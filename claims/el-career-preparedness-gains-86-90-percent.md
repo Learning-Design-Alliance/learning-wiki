@@ -46,3 +46,5 @@ Results of three career-preparedness Likert prompts from the combined-course sur
 
 ## Related Claims
 - [Students in two distinct experiential learning courses reported positive perceived skill gains, with 87%–96% agreeing or strongly agreeing with Likert prompts across four domains](el-courses-positive-perceived-gains-four-domains.md) — related
+- [98% of P&A respondents agree writing is important for a career, but confidence is lower for papers (78%) and proposals (61%)](pa-community-values-writing-confidence-gap-papers-proposals.md) — related
+- [86.4% of students agreed the course motivated them to pursue a STEM career](qpic-course-motivated-stem-career.md) — related

@@ -76,3 +76,5 @@ Ungrounded-answer analysis of Arm A in the same evaluation. The article reports 
 - [Manual error analysis finds incomplete retrieval is the most frequent failure category, ahead of code-semantics limits, bilingual retrieval gaps, and over-conservative refusals](eduguard-failure-analysis-incomplete-retrieval.md) — reports the opposite
 - [Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient](evidence-tracing-114-claims-retrieval-limit.md) — related
 - [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related
+- [Performance loss from extended context persists even when retrieved context is highly relevant and built from the evaluation dataset itself](high-quality-retrieval-still-noise.md) — related
+- [Adding RAG context does not improve and appears to reduce MMLU biology accuracy, with the largest declines in the bigger model](rag-context-reduces-small-model-accuracy.md) — related

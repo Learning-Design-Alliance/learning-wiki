@@ -53,6 +53,7 @@ The article's best-performing configuration used a structured prompt simulating 
 - [Improve LLM performance on TCM examinations by incorporating TCM texts into training, developing specialized TCM LLMs, and using chain-of-thought prompting](specialized-tcm-llm-training-and-chain-of-thought-strategy.md)
 - [Design GPT feedback prompts with few-shot examples covering each response category and documented student preconceptions as context](few-shot-prompt-with-preconceptions-for-feedback-generation.md)
 - [Use the Python code interpreter within prompt chains to enforce numeric constraints, validate answers, and generate diagrams](python-interpreter-tool-use-in-prompt-chains.md)
+- [Configure LLM collaboration support agents with structured prompts defining persona, scenario, response structure, and divided labor](structured-prompt-configuration-llm-collab-agents.md)
 
 ## Examples
 -

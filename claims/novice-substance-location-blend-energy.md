@@ -52,3 +52,4 @@ Interpretive case analysis of a Spring 2013 interview with an undergraduate pre-
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — a broader claim this one bears on
 - [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — related
 - [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — a narrower finding that bears on this claim
+- [Scientists' hand gestures, animated into visual metaphors, help make complex astronomical concepts relatable and engaging](scientist-hand-gestures-animation-relatable.md) — related

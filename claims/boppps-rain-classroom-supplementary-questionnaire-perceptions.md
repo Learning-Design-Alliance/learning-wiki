@@ -71,3 +71,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Students responded favorably to collaborative testing, reporting high involvement, reduced stress, and interest in future group-testing classes](positive-student-perceptions-collaborative-testing.md) — related
 - [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](salg-strong-gains-modeling-content-process-cooperative.md) — related
 - [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related
+- [Most TAs reported strong enthusiasm for collaborative learning, with 71% planning to regularly incorporate it in future teaching and 23% occasionally](tas-intend-collaborative-learning-future-teaching.md) — related

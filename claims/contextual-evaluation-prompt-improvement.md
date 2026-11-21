@@ -53,3 +53,4 @@ Modeling phase design iteration: after reference-based prompts underperformed, a
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
 - [Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading](domain-specific-knowledge-limits-llm-grading-precision.md) — related
 - [Davinci-003 API can generate questions of varying difficulty and evaluate student answers from instructions and context](davinci-003-generates-graded-questions-and-evaluates-answers.md) — related
+- [API-based evaluation is efficient for large-scale processing but struggles with graphical content, while customized ChatGPT gives more contextualized feedback with lower reproducibility](api-versus-custom-gpt-complementary-tradeoff.md) — related

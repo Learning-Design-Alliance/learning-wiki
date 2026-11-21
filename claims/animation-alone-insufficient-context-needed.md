@@ -49,3 +49,4 @@ Authors' synthesis of survey results including MSC visitor surveys (N = 25 gener
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [The interactive gravitational-wave detector model exhibit increased self-reported visitor interest in physics and awareness of gravitational waves at the Royal Society Summer Science Exhibition.](interactive-gw-detector-model-increased-visitor-interest.md) — related
 - [Audiences showed more enthusiasm when animations were presented jointly by animators and scientists](joint-animator-scientist-presentation-enthusiasm.md) — related
+- [Presenting astronomy via animation is highly attractive to a range of audiences, though additional scientific material is valuable for science learning](astro-animation-attractive-to-audiences.md) — a broader claim this one bears on

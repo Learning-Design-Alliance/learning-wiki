@@ -54,6 +54,7 @@ Based on the Delphi findings and persona reflections, the article recommends act
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
 - [Validate predictions within an intervention pipeline and include downstream policy recommendations](validate-predictions-intervention-pipeline.md)
 - [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
+- [Stakeholder actions for responsible AI integration: funding, policy, organizations, departments](stakeholder-actions-responsible-ai-integration.md)
 
 ## Examples
 -

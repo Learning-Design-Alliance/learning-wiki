@@ -56,3 +56,4 @@ Polarity agreement analysis with instructor feedback as ground truth across five
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related
 - [GPT-4 achieves moderate-to-high agreement with human annotations when applying the five-aspect math feedback rubric, with 76% average label accuracy and a 0.56 average correlation of rubric scores.](gpt4-rubric-agreement-math-feedback.md) — reports the opposite
+- [In API-based evaluation, ChatGPT consistently assesses the formal and structural aspects of physics laboratory reports](chatgpt-api-consistent-formal-assessment.md) — related

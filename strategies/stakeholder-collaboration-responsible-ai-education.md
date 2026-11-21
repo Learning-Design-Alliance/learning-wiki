@@ -48,6 +48,7 @@ The article recommends that concerns about generative AI in education be address
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
+- [Stakeholder actions for responsible AI integration: funding, policy, organizations, departments](stakeholder-actions-responsible-ai-integration.md)
 
 ## Examples
 -

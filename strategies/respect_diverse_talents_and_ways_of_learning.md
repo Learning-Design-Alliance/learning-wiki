@@ -70,6 +70,7 @@ Offering multiple representations and modes of expression broadens access and gi
 - [Categorize digital medical courses as knowledge-, skill-, or problem-based and match each to its delivery format](three-digital-course-types-delivery-matching.md)
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](accommodate-every-preference-diversify-strategies.md)
 - [Tailor AI-generated supplementary material format to individual learner preferences](preference-matched-genai-supplements-strategy.md)
+- [Offer CS1 course materials in multiple formats to accommodate different learner preferences](multiple-format-cs1-materials-strategy.md)
 
 ## Examples
 - A statistics tutor lets a learner who struggles with formulas first solve a real-world estimation problem hands-on, then maps the solution back onto the formal notation — the practical route becomes the bridge to the theoretical one.

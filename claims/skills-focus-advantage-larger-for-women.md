@@ -73,3 +73,4 @@ Three separate 3-way ANCOVAs split by course focus; in skills-focused courses "h
 - [A statistically significant interaction between gender and instructional approach indicates the benefit of Transformed courses was larger for women than men](gender-by-instruction-interaction-women-benefit-more.md) — related
 - [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related
 - [Skills-based lab curricula reduce or reverse gender gaps in ECLASS scores, and benefit students of all genders relative to concepts-focused labs](skills-based-labs-reduce-gender-gaps-eclass.md) — possibly the same claim (merge candidate)
+- [Across course levels, students—especially women—report that courses improved quantitative skills more than conceptual understanding, despite most wanting a balance](students-perceive-quantitative-skew.md) — related

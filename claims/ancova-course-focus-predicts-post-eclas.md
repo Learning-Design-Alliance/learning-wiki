@@ -52,3 +52,4 @@ Bethany R. Wilcox and H. J. Lewandowski (2016). Developing skills vs reinforcing
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
 - [No interaction between lab-activity type and course level, major, or gender on postinstruction E-CLASS scores](no-interaction-open-ended-eclass.md) — related
 - [Skills-based lab curricula reduce or reverse gender gaps in ECLASS scores, and benefit students of all genders relative to concepts-focused labs](skills-based-labs-reduce-gender-gaps-eclass.md) — related
+- [Across course levels, students—especially women—report that courses improved quantitative skills more than conceptual understanding, despite most wanting a balance](students-perceive-quantitative-skew.md) — related

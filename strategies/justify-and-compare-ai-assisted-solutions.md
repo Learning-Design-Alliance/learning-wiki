@@ -39,6 +39,7 @@ Because self-directed GenAI use alone did not produce measurable gains on AI-fre
 ## Related Strategies
 
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
+- [Design GenAI-integrated tasks that cast the tool as an object of critique rather than a solution generator](genai-as-critique-object-task-design.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Authors' identified challenge in the Educational Outcomes section of the case re
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [Science students tended to translate scientific concepts literally into choreography while dance students sought creative exploration, creating a disconnect](literal-translation-versus-choreographic-exploration-disconnect.md) — related
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — a broader claim this one bears on
+- [Scientists' hand gestures, animated into visual metaphors, help make complex astronomical concepts relatable and engaging](scientist-hand-gestures-animation-relatable.md) — related

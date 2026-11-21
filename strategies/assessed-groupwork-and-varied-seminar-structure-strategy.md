@@ -50,6 +50,7 @@ Based on lessons learned, the authors recommend keeping learning activities non-
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Flipped Classroom](flipped-classroom.md)
 - [Structure seminar talks and fights on different problems with feedback carryover](seminar-talk-fight-different-problems-feedback.md)
+- [Improve future QPic course delivery through in-person or peer-interactive formats and better scheduling](qpic-future-delivery-in-person-peer-interaction.md)
 
 ## Examples
 -

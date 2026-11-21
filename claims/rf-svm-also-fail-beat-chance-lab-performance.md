@@ -76,3 +76,4 @@ Same robustness check: the Random Forest 'was constructed using unscaled feature
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Multi-label BERT classifiers slightly outperformed single-label Random Forest baselines on example-based F1 scores but under-performed with lower exact match ratios on MOOC cognitive presence classification](multi-label-bert-f1-beats-rf-exact-match-lower.md) — related
 - [Victory conditions compare AI and human prediction quality against each other and against random guessing, requiring both to significantly beat chance](victory-conditions-beat-random-guessing.md) — related
+- [Student-built decision-tree classifiers typically do not significantly improve event classification over the sequential selection in this laboratory](student-ml-no-significant-improvement-over-sequential-selection.md) — related

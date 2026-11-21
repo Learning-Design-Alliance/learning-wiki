@@ -69,6 +69,7 @@ The article implements a blended instructional model in which foundational conte
 - [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
 - [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 - [Use real patients' Internet forum questions as virtual cases for teaching and assessing clinical decision-making in undergraduates](internet-forum-questions-as-virtual-cases-strategy.md)
+- [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](ai-simulation-reflection-assessment-strategy.md)
 
 ## Examples
 -

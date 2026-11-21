@@ -69,3 +69,5 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Average nature-of-science E-CLASS score decreased slightly from 0.66 to 0.63 despite the course aiming to teach the role of experimentation](nature-of-science-e-class-decrease-066-063.md) — related
 - [Full contact teaching had little effect on expert-like thinking, with effect sizes at most |d| = 0.26](full-contact-teaching-little-attitude-effect.md) — related
 - [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related
+- [Traditional lecture science courses tend to deteriorate student epistemic expectations, while epistemology-focused pedagogies produce positive gains](lecture-courses-deteriorate-expectations-epistemology-pedagogies-gain.md) — related
+- [Traditional instructional labs are generally unsuccessful at supporting conceptual learning and negatively impact development of expertlike epistemological attitudes](traditional-labs-fail-conceptual-epistemological-goals.md) — related

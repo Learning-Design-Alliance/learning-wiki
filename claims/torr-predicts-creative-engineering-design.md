@@ -55,3 +55,4 @@ Study of engineering design students reported in the article's in vitro section,
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](integrated-illustrations-increase-creative-transfer-solutions.md) — related
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
 - [TORR scores correlate positively with Raven's Matrices scores but are more difficult for participants](torr-correlates-with-ravens-but-more-difficult.md)
+- [Industry members regard creative problem-solving of complex problems as a first competence for engineering graduates regardless of specialization](industry-values-creative-problem-solving.md) — related

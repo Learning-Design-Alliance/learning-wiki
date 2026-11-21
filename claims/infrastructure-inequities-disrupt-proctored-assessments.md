@@ -79,3 +79,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — related
 - [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related
 - [Infrastructure, educator, socioeconomic, and gender barriers severely constrain STEM education in underdeveloped regions](stem-infrastructure-barriers-underdeveloped-regions.md) — a narrower finding that bears on this claim
+- [Existing Minecraft-in-education research assumes infrastructure and teacher support unavailable in low-resource, multilingual, exam-oriented settings](minecraft-research-assumes-well-resourced-settings.md) — related

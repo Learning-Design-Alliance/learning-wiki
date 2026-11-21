@@ -48,3 +48,4 @@ Descriptive survey item on accommodation experiences among disabled respondents;
 ## Related Claims
 - [Most autistic students received institutional support, but some received none even when requested, and support often targeted academic rather than social needs](autistic-students-support-received-gaps.md) — related
 - [Accommodation denial is common among US medical students seeking USMLE accommodations, with adverse consequences](usmle-accommodation-denial-common.md) — related
+- [Among CanPhysCounts respondents with a disability, only 5% reported receiving full accommodations, and BIPOC and non-heterosexual students were significantly more likely to identify as disabled](canphyscounts-disability-accommodations-5-percent.md) — possibly the same claim (merge candidate)

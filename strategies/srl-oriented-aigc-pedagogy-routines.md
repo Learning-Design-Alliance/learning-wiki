@@ -63,6 +63,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Embed adaptive SRL scaffolding and short learning-skills training into online courses, with targeted social-engagement support for students with limited socialization skills](adaptive-srl-scaffolding-online-courses.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Scaffold feedback literacy with short modelling activities so learners can translate reflective prompts into action](scaffolded-feedback-literacy-modelling-strategy.md)
 
 ## Examples
 -

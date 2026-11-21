@@ -65,3 +65,4 @@ Author's interpretive conclusion (type e) after the three worked resolutions: "l
 
 ## Related Claims
 - [Surveyed secondary science teachers know office tools and Geogebra but mostly lack knowledge of LaTeX and symbolic computation tools](teachers-unknown-latex-wxmaxima-survey.md) — related
+- [GeoGebra visualizations with slider controllers were perceived as useful and did not advantage mathematics students](geogebra-visualization-valued.md) — related

@@ -46,6 +46,7 @@ The authors recommend that, because students' perceptions of the learning enviro
 
 - [Weight pre-lecture preparation activities in assessment to encourage a preparation-oriented approach in flipped classrooms](pre-lecture-preparation-assessment-weighting-strategy.md)
 - [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](flipped-simulation-five-recommendations-strategy.md)
+- [Teachers demystify assessment and frame the over-preparation ethos within sustainable routines](demystify-assessment-sustainable-routines-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Multivariable generalized linear mixed model with random intercept on 2077 ETI c
 - [Performing at least three intubations annually, averaged over two years, predicts a proficient score on simulation-based ETI assessment](three-eti-per-year-predicts-proficiency.md) — related
 - [Annual ETI exposure and years of advanced-level experience are independently associated with confidence in performing ETI](eti-exposure-and-experience-associated-with-confidence.md) — related
 - [GVL first pass success improved with each calendar year of continued device use in the ED while DL first pass success did not](gvl-improved-over-calendar-years-dl-did-not.md) — related
+- [Cumulative success probability rises sharply from first to second attempt (≈0.60 to ≈0.73) and then plateaus near 0.80 by the fourth attempt](learning-curve-sharp-early-gains-then-plateau.md) — related

@@ -66,3 +66,4 @@ Qualitative theme 3 asked students what forms of support they consider effective
 - [Emotion-oriented coping (rumination) predicts increases in negative affect and decreases in positive affect and job satisfaction over time](emotion-coping-predicts-wellbeing-declines.md) — related
 - [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related
 - [Students employ specific coping strategies for reconciling differing presentations of the same topics in math and physics classes, most commonly using online resources](student-coping-strategies-math-physics-differences.md) — related
+- [Although the women developed initial interest in physics in diverse ways, they followed a similar trajectory of declining self-efficacy while their coping strategies differed](shared-declining-trajectory-varied-coping.md) — related

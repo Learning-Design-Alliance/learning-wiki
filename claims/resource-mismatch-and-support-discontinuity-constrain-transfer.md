@@ -193,3 +193,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Institutional barriers — inadequate training in innovative pedagogies, high course loads, resistance to change, and lacking resources — impede pedagogical modeling in Ghanaian teacher education](institutional-barriers-pedagogical-modeling-ghana.md) — related
 - [Teachers reportedly lack training and competencies in planning and reflecting inclusive science lessons](teachers-lack-training-inclusive-science-planning.md) — related
 - [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related
+- [Existing Minecraft-in-education research assumes infrastructure and teacher support unavailable in low-resource, multilingual, exam-oriented settings](minecraft-research-assumes-well-resourced-settings.md) — related

@@ -75,3 +75,4 @@ Bootstrap stability analysis with 100 resamples of the six-class LCA solution, e
 - [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md) — related
 - [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
+- [Latent profile analysis identified four physics-teacher profiles differing in science scepticism; only one profile (N = 24, 14%) was highly sceptical, while the largest (N = 71, 41%) accepted research's value but doubted its classroom applicability.](four-ssse-teacher-profiles-latent-profile-analysis.md) — related

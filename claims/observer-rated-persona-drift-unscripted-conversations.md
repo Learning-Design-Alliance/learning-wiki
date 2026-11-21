@@ -53,3 +53,4 @@ LMM analysis of Experiment II unscripted education conversations with observer r
 - [Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas](scripted-interaction-eliminates-observer-drift.md) — related
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6](rpla-failure-onset-second-half-of-dialogue.md) — related
+- [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) — related

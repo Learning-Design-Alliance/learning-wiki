@@ -48,3 +48,4 @@ Design analysis of the Kambu scenario (author's theoretical application of the m
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [Collaborative location-based games design was implemented within a formal classroom aligned to the Norwegian national competency framework](location-based-games-design-formal-classroom.md) — related
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
+- [Existing Minecraft-in-education research assumes infrastructure and teacher support unavailable in low-resource, multilingual, exam-oriented settings](minecraft-research-assumes-well-resourced-settings.md) — related

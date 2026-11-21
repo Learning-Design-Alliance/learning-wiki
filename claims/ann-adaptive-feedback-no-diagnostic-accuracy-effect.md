@@ -50,3 +50,4 @@ In the same N = 178 experimental study, diagnostic reasoning was operationalised
 - [Real-time adaptive scaffolding based on note-coded proof indicators elicited more elaborate diagnostic reasoning](adaptive-scaffolding-diagnostic-reasoning.md) — related
 - [Adaptive feedback outperforms generic feedback for pre-service teachers' noticing in a virtual classroom](adaptive-noticing-feedback-outperforms-generic.md) — related
 - [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](static-feedback-detrimental-dyads.md) — related
+- [Students criticized the feedback for limited adaptivity to individual, valid alternative solution approaches](llm-feedback-limited-adaptivity.md) — related

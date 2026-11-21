@@ -50,3 +50,4 @@ Alluvial analysis of paired responses for six FCI questions (Figures 3, 4, 5, 6,
 - [Transition matrix analysis of FCI Question 18 shows post-instruction movement to better incorrect answer choices that dichotomous scoring does not reveal](transition-matrices-richer-than-dichotomous-scoring.md) — related
 - [UJ pre-test nDMs matched international trends for Q4, Q28, Q19, and Q9, but were lower for Q2 and Q14 compared with Spanish and Saudi cohorts](uj-ndm-cross-country-q2-q14-difference.md) — related
 - [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related
+- [In one single-group pre-post study, Q14 (electrical shielding) group scores were 40% versus 26% individually, while on Q30 (Faraday's law) option E rose from 5% to 10% after peer interaction](peer-groups-converge-incorrect-beyond-zpf.md) — related

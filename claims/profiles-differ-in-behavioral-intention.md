@@ -47,3 +47,4 @@ Results-section interpretation of the profile solution in the sample of 128 pre-
 ## Related Claims
 - [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](four-chatgpt-acceptance-profiles-lpa.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
+- [Latent profile analysis identified four physics-teacher profiles differing in science scepticism; only one profile (N = 24, 14%) was highly sceptical, while the largest (N = 71, 41%) accepted research's value but doubted its classroom applicability.](four-ssse-teacher-profiles-latent-profile-analysis.md) — related

@@ -48,3 +48,4 @@ Inductive thematic analysis of two free-text questions from the 14 intervention 
 - [Students who learned with an AISP received significantly more distinction grades than controls (6 vs 1)](aisp-more-distinction-grades.md) — related
 - [Participant satisfaction with the AISP platform was overwhelmingly positive, with perceived cultural safety](aisp-positive-satisfaction.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
+- [Qualitative feedback indicates students prioritized competence itself over any specific teaching style in AI roles](students-prioritize-competence-over-style.md) — related

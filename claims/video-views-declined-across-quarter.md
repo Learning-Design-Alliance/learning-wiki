@@ -72,3 +72,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Weekly video views and scores diverged: a week of low video views preceded a fourfold surge in views with underperforming scores, then higher scores with less video attention](video-views-score-divergence-circuit-course.md) — related
 - [Before gamification, engagement with pre-lecture quizzes in the flipped statistics course was extremely low and declined across the semester](low-baseline-pre-lecture-quiz-engagement.md) — related
 - [Assignment completion declined over the semester, but post-test completers largely completed all assignments, so low participation does not explain the null result](assignment-completion-declined-but-completers-did-all.md) — related
+- [Students taught with AI-generated instructional videos perform comparably to students taught with human instructional videos on course quizzes](aiiv-comparable-quiz-performance-hiv.md) — related

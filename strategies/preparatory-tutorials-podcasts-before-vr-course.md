@@ -51,6 +51,7 @@ Before the VR simulation, students complete a hands-on VR tutorial practising al
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
+- [Iterate VR procedural simulators using participant-requested improvements: more realistic ultrasound, movable display, template grid overlay, interface refinements, and a start-of-session tutorial](vr-simulator-iteration-from-user-feedback-strategy.md)
 
 ## Examples
 -

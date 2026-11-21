@@ -49,3 +49,4 @@ Series of MANOVAs testing the categorical variable prior VR experience against I
 - [MRT and VVIQ scores are uncorrelated (r = 0.01), and neither significantly affected survey scores except VVIQ on extraneous cognitive load (p < 0.05)](mrt-vviq-uncorrelated-null-main-effects.md) — related
 - [Perceived quality of the VR experience correlates positively with motivation (Attention, Relevance, Confidence, Satisfaction) and sense of virtual presence (p < 0.05)](vr-experience-quality-positive-motivation-correlations.md) — related
 - [Participants experience the VR emergency scenarios with a high degree of presence (mean IPQ general presence 6.0 of 7) without differences between experience groups](vr-scenarios-high-presence-ipq.md) — related
+- [In a CAVE-based VR sales simulation, condition had no significant effect on presence (IPQ) or social presence (SPQ)](cave-sales-vr-no-presence-condition-effect.md) — related

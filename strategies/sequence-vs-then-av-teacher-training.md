@@ -50,6 +50,7 @@ The article recommends that teacher training programs exploit the complementary 
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
 - [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](graduated-complexity-educator-development-sequence.md)
+- [Sequence ASD intervention design so that behavioral and emotional pattern understanding precedes skill development](sequential-behavioral-understanding-before-skill-development-asd.md)
 
 ## Examples
 -

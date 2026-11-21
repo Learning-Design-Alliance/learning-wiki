@@ -71,3 +71,4 @@ Follow-up assessment (March 2012) took place before mid-term, described as a par
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
 - [A 14-week CBT-MBSR program substantially reduced academic test anxiety among TVET students compared with a waitlist control, with effects sustained at two-month follow-up](cbt-mbsr-reduced-test-anxiety-tvet-rct.md) — a narrower finding that bears on this claim
 - [The MBSR intervention prevented a significant drop in mindfulness, which declined significantly in controls](mbsr-maintained-mindfulness-six-months.md) — related
+- [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related

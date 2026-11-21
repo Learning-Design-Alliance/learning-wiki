@@ -57,3 +57,4 @@ Randomized controlled trial with 2,759 first-year students at three U.S. communi
 - [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related
 - [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related
 - [Needs-improvement messages, not positive messages, drove the credit-earning effect](needs-improvement-messages-drive-credit-effect.md) — related
+- [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — related

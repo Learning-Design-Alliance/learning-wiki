@@ -49,3 +49,4 @@ From Table II, the ANOVA of final-exam difference scores: the Instructor factor 
 - [Students who self-selected into the optional lab course scored higher on the overall physics 2 final exam than students who did not](lab-takers-higher-overall-exam-self-selection.md) — related
 - [Taking an optional introductory physics lab that aims to reinforce lecture content provides no measurable added value to final-exam performance on lab-related questions](instructional-labs-no-added-value-final-exams.md) — related
 - [Students who enroll in optional labs differ systematically from non-enrolled students, requiring normalization before any lab-effect comparison](lab-enrollment-selection-effects.md) — related
+- [The immediate conceptual advantage of the simulation conditions did not persist: midterm and final exam performance did not differ significantly across lab types.](simulation-advantage-immediate-not-sustained.md) — related

@@ -62,3 +62,4 @@ Comparison of FY (N = 2433) and BFY (N = 1158) subgroups from the matched datase
 - [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — related
 - [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related
 - [Honors lab E-CLASS pre scores were higher than both national FY labs and the regular non-honors lab](honors-lab-eclass-pre-scores-higher.md) — related
+- [Longitudinal CLASS-Bio administration showed biology majors' attitudes became more expert-like from first to fourth year, from 64.5% to 72% expert-like responses](class-bio-longitudinal-attitude-gain-hansen-birol.md) — related

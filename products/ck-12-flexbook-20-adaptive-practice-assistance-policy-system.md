@@ -28,4 +28,4 @@ A CK-12 Foundation web-based intelligent tutoring system that organizes science 
 -
 
 ## Key Sources
-- Schmucker, R., Pachapurkar, N., Bala, S., Shah, M., & Mitchell, T. (2025). Learning to Optimize Feedback for One Million Students: Insights from Multi-Armed and Contextual Bandits in Large-Scale Online Tutoring. https://arxiv.org/abs/2508.00270
+- Schmucker, R., Pachapurkar, N., Bala, S., Shah, M., & Mitchell, T. (2025). Learning to Optimize Feedback for One Million Students: Insights from Multi-Armed and Contextual Bandits in Large-Scale Online Tutoring. https://arxiv.org/abs/2508.00270. [doi:10.48550/arxiv.2508.00270](https://doi.org/10.48550/arxiv.2508.00270)

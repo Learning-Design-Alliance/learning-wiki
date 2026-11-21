@@ -51,6 +51,7 @@ Use AR rendering over a marker-equipped physical object to digitally reconfigure
 ## Related Strategies
 
 - [Build a dynamic function-generation system so teachers can draw arbitrary 2D or 3D graphs without printing new markers](dynamic-function-generation-teacher-authored-vr-graphs.md)
+- [Endless randomly generated diagram problems with configurable options and sample solutions for self-paced practice](feyncraft-random-problem-generation.md)
 
 ## Examples
 -

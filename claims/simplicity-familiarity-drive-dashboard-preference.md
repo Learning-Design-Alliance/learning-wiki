@@ -76,3 +76,4 @@ Interview coding of heatmap rationales: most teachers reported finding the heatm
 - [Three of seven beginning teachers chose an explanation they had just deemed inconsistent and broadly incomplete for university students, citing simplicity and mnemonic value](inconsistent-explanation-chosen-for-students.md) — related
 - [Most elementary school teachers chose an e-textbook because of familiarity with its printed version or authors](teachers-choose-familiar-printed-textbook-content.md) — related
 - [Students disagree that ABCD-based assessment tools are easy to use, with overall Perceived Ease of Use below the agreement threshold](peou-overall-disagreement-abcd-tools.md) — related
+- [Students' perceived ease in generating explanations reflects disciplinary knowledge, agency to customize explanations, and personal attributes](themes-perceived-ease-analogy-generation.md) — related

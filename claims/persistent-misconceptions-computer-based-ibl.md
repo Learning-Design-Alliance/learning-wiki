@@ -60,3 +60,4 @@ Qualitative content analysis of one-on-one interviews with 30 students (five per
 - [Students perceive the simulator as contributing to learning of energy concepts](energy-skate-park-perceived-learning-contribution.md) — related
 - [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related
 - [Common N3L misconceptions, including the dominance principle, persist after instruction](n3l-misconceptions-persist-after-instruction.md) — a narrower finding that bears on this claim
+- [Interactive simulations improve conceptual understanding by up to 30-40% compared with traditional instruction, per research the paper cites](interactive-simulations-30-40-faster-mastery-cited.md) — related

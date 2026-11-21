@@ -72,6 +72,7 @@ Family engagement research consistently shows that *specific* invitations — na
 - [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
 - [Segment security-training content by learner age group to maximize personal relevance](age-segmented-security-training-content.md)
 - [Tailor each communication channel to a specific audience and purpose](audience-tailored-channel-selection.md)
+- [Lower barriers to access through free entry and multilingual content](free-entry-multilingual-exhibition-content.md)
 
 ## Examples
 - **[TalkingPoints](../products/talkingpoints.md)** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.

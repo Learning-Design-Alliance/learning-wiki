@@ -51,3 +51,4 @@ Post-task interview speculation from the within-subjects study of 20 learners. O
 - [Participants found it easier to navigate and search tutorial content in the webpage-plus-ChatGPT condition than in EDBook](webpage-easier-navigation-than-edbook.md) — related
 - [LLM question types differed by condition: EDBook prompted more applying and analyzing questions, while webpage-plus-ChatGPT prompted more evaluating and solution-requesting questions](edbook-question-type-differences.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

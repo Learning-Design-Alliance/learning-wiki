@@ -51,3 +51,4 @@ Figure 1 plots objective versus self-perceived scores across quartiles; the text
 - [Objective performance scores differ significantly across resident performance quartiles while self-perception scores do not](objective-score-quartile-difference-self-perception-null.md) — related
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — possibly the same claim (merge candidate)
 - [On the knowledge test, the highest performers significantly underestimated their scores while lower performers significantly overestimated theirs](high-performers-underestimate-low-overestimate-knowledge-test.md) — related
+- [Learners with lower prior knowledge show a greater illusion of understanding, tentatively supporting the Dunning–Kruger effect as a mechanism](low-knowledge-learners-greater-illusion-of-understanding.md) — related

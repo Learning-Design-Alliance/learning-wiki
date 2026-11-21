@@ -57,3 +57,4 @@ Experiment 3: 80 respondents rated blinded human and ChatGPT feedback on 5-point
 - [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) — related
 - [Most German medical students surveyed had used ChatGPT for medical education, with significantly higher use during exam preparation periods](chatgpt-widely-used-german-medical-students-exam-periods.md) — related
 - [Students rated human-created VPs slightly better on helpfulness, preparedness, and learning experience](students-rate-human-vps-slightly-better.md) — reports the opposite
+- [Participants of the German Physics Olympiad perceived the LLM-generated feedback as generally useful (M = 3.6, SD = 1.3 by rating)](llm-feedback-perceived-useful.md) — related

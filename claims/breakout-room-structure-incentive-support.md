@@ -52,3 +52,5 @@ Interview data from fall 2020 students. One student said lab activities were suc
 - [Beta testing of the course led to design changes: dropping pre-briefing, focusing each session on one PEARLS element, and adding breakout-room individual feedback](beta-tests-shaped-sl-simulation-course-design.md) — related
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related
 - [Without grade incentives, students stopped completing in-class collaborative activities and out-of-class work in flipped and asynchronous online classes](grade-incentives-needed-online-activities.md) — related
+- [Half of surveyed TAs expected to score the same or lower individually than their group score after peer collaboration, motivating a focus on individual accountability](half-tas-expected-lower-individual-score-after-group-work.md) — related
+- [Students do not effectively use self-paced digital tools without grade incentives and support, whether in flipped courses or optional self-study tutorials](student-engagement-needs-incentives-support.md) — related

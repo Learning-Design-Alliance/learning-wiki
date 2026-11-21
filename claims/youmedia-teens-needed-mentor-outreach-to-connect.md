@@ -50,3 +50,4 @@ Qualitative Year 1 study based on more than 130 hours of observation and formal 
 - [YOUmedia staff struggled at times to balance teen choice of activities with structured learning activities](youmedia-staff-tension-choice-versus-structured-learning.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
 - [The IceCube outreach team used a gallery exhibit with three named strategies to reach audiences underrepresented in science.](messages-gallery-exhibit-diverse-audience-strategies.md) — related
+- [Workshop evaluation triangulation found modest survey-score change but deeper cognitive and affective engagement in interviews, especially among teens and first-time animators](astro-animation-triangulation-modest-surveys-deeper-interviews.md) — related

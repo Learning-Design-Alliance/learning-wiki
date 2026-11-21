@@ -104,6 +104,7 @@ Personal relevance raises situational interest and engagement, which supports pe
 - [Anchored Instruction](anchored-instruction.md) — the task-design pattern most often used to implement the anchor context
 - [Acting-Role-Play](../strategies/acting-role-play.md) — one way learners can inhabit an interest context mathematically
 - [Implement contextual teaching and learning where application of knowledge is the instructional goal, with confidence that basic content mastery is maintained](implement-ctl-when-application-is-goal.md)
+- [Offer open-choice creative extra-credit projects in which students weave their interests and hobbies with physics](open-choice-creative-physics-extra-credit-projects.md)
 
 ## Examples
 - **[Teaching to Interests with Adaptive Platforms](https://doi.org/10.1037/a0031882)** — Walkington's algebra studies personalized word problems to students' interests (sports, music, gaming) and found improved performance and learning relative to generic contexts.

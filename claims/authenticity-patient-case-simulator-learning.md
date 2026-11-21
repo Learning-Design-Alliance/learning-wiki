@@ -53,3 +53,4 @@ Qualitative theme from the focus group interviews: students stated the authentic
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
+- [Simulated case studies of NMC2025 use report qualitative learning outcomes in domain content, process skills, and exposure to research knowledge](nmc2025-case-studies-qualitative-outcomes.md) — related

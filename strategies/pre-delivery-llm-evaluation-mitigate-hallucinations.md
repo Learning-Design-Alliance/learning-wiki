@@ -53,6 +53,7 @@ The article recommends incorporating reliability evaluation and quality evaluati
 - [Instructors should review and edit all AI-generated feedback before sending it to students](human-in-the-loop-review-of-ai-feedback.md)
 - [Mitigate LLM hallucination in generated hint pathways by generating 30 responses per question and selecting the response closest to the centroid embedding](centroid-selection-hallucination-mitigation-strategy.md)
 - [Extend the validation-agent approach and refine prompt engineering and multi-agent design to further improve automatic feedback quality](validation-agent-and-prompt-engineering-strategy.md)
+- [Use LLMs as neutral mediators in peer learning through bias-mitigated feedback, structured-feedback scaffolding, and rubric-driven peer assessment](llm-peer-learning-mediator-strategy.md)
 
 ## Examples
 -

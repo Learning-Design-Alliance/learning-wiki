@@ -51,3 +51,4 @@ Pre/post survey of attitudes toward computer science among 2019 BPDM participant
 - [Self-reported attitudes towards mental disorders did not change significantly from before to after the full curriculum in one uncontrolled pre-post study.](mali-elearning-attitudes-unchanged.md) — related
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
 - [Participants' basic knowledge of quantum computing concepts rose significantly from pre-test to post-test after a computer science-oriented quantum computing workshop, in one uncontrolled pre-post study](cs-oriented-quantum-workshop-significant-knowledge-gain.md) — related
+- [Most participants reported that the workshop changed their perceptions of science and of women's participation in science](workshop-survey-perception-change.md) — related

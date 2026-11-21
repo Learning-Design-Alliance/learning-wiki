@@ -47,6 +47,7 @@ The article positions RACES as "an auxiliary scoring framework rather than a rep
 - [Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts](supervised-llm-support-preliminary-legal-drafting.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Extend AI-assisted grading with LLM ensembles, richer prompts, and full-length essays](extend-llm-grading-ensembles-richer-prompts-essays.md)
+- [Position AI writing-support systems as adjuncts to supervision and prompts for reflective dialogue rather than authoritative sources of truth](ai-writing-support-as-adjunct-to-supervision.md)
 
 ## Examples
 -

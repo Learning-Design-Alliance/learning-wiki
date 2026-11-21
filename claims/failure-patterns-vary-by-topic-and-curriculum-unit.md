@@ -54,3 +54,4 @@ Observational analysis of failure prevalence in Zero-Shot outputs across topics 
 - [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
 - [Expert reviewers rated the TikTok mini-game most engaging and the Text Phishing Detective game highest in learning value](expert-votes-tiktok-engagement-phishing-value.md) — related
 - [Centralized Refinement with Planning converges fastest and to the lowest failure count on authenticity](centralized-planning-converges-fastest-on-authenticity.md) — related
+- [Viewer comments identified readability problems, suggesting color and font changes for future videos](viewer-feedback-color-font-improvements.md) — related

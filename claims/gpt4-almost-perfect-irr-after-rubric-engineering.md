@@ -72,3 +72,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [Instructors rated approximately 70% of GPT-generated feedback statements as needing only minor or no modification, with an average rating of 2.06 on a 0-3 scale](instructors-rate-70-percent-gpt-feedback-minor-editing.md) — related
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
 - [Prompt refinement significantly improves GPT-3.5 agreement with human rater 1 but not, statistically, with rater 2](scaffolded-cot-significance-by-rater.md) — a broader claim this one bears on
+- [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) — reports the opposite

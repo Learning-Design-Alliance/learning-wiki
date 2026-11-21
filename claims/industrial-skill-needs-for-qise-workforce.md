@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-21
 recheck_by: 2026
 sources:
   - id: aiello-cd-2021
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Industry leaders highlighted linear algebra, programming and software engineering fundamentals, lab-related skills such as electronics and cryogenic techniques, statistics, and an introductory college-level understanding of quantum information and physics as important ingredients for industry quantum projects. [→ Aiello CD 2021](#aiello-cd-2021)
@@ -83,3 +84,5 @@ As the article emphasizes, "all industry leaders spoke about the importance of b
 - [Managers report foundational disciplines — physics, engineering, and computer science — remain indispensable to quantum technology development](foundational-disciplines-still-indispensable-quantum.md) — related
 - [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
 - [Quantum KSAs required for QISE industry tasks fall into three categories: experimental; theory and knowledge of experiment; and theory only](qise-task-knowledge-three-categories.md) — related
+- [Bachelor's-level quantum industry roles emphasize instrumentation, computation and data analysis, and experimental and project design, while master's-level roles additionally emphasize communication and collaboration skills](bachelors-versus-masters-skill-emphasis-quantum-industry.md) — related
+- [Semi-structured interviews with 22 non-PhD quantum industry positions identify experimental skills organized into four categories: instrumentation; computation and data analysis; experimental and project design; and communication and collaboration](non-phd-quantum-positions-four-experimental-skill-categories.md) — related

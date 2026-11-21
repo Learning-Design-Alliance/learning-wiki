@@ -56,6 +56,7 @@ The course uses active learning "as much as possible, including dice-rolling whe
 - [Pair JAS with student-centered models and strategies](jas-with-student-centered-models.md)
 - [Use a dice roll in the advanced game so a candidate Higgs combination may be only a background event](higgs-dice-background-event-strategy.md)
 - [Dice-rolled measurement simulation as an active, slowed-down alternative to computer simulations](dice-roll-quantum-measurement-simulation.md)
+- [Adapt Dice versions and basis orientations across educational levels, and develop teaching guides and expanded protocols](quantum-dice-differentiation-and-future-development-strategy.md)
 
 ## Examples
 -

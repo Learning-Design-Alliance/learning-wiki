@@ -49,3 +49,4 @@ Informal student-reaction report from the two workshop deliveries (ages 8-15): "
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
+- [Only about a quarter of teachers observed student interest in quantum-related careers after the activities, with most responses neutral](modest-career-interest-after-activities.md) — related

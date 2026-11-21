@@ -47,3 +47,4 @@ Narrative review synthesizing published survey and policy literature on PBL diff
 ## Related Claims
 - [Both dominant PBL discourses perpetuate neo-colonialist views and practices in health professions education](pbl-discourses-perpetuate-neocolonialism.md) — related
 - [International frameworks incorporate structured curricula, mentorship, proctoring, and competency-based progression](international-frameworks-structured-competency-progression.md) — related
+- [Industry members perceive that international accreditation such as ABET raises education quality by aligning programs with international standards](accreditation-perceived-quality-alignment.md) — related

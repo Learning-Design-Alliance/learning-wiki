@@ -57,3 +57,4 @@ Interobserver agreement analysis of anonymized video evaluations by two expert o
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [The TABLT test shows high reliability with an intraclass correlation coefficient of 0.99](tablt-high-reliability-icc-099.md) — related
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related

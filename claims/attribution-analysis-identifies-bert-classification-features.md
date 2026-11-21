@@ -51,3 +51,4 @@ Layer-integrated gradients were calculated for all test-data inputs, averaging a
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
+- [Gradient-based token importance analysis shows the fine-tuned model assigns high importance to semantically meaningful tokens such as explanation, research-quality, and Bloom](anveshanai-xai-token-importance.md) — related

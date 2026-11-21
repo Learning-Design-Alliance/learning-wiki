@@ -48,3 +48,4 @@ Anonymous voluntary survey of 12 science teachers at two Spanish secondary schoo
 ## Related Claims
 - [For an EBAU geometry exercise, the optimal solution combines Geogebra for the visual relative-position part and WxMaxima for the calculation part](geogebra-wxmaxima-complement-ebau-geometry.md) — related
 - [Students find digital tools useful but their use of mathematical tools is practically null despite widespread office-tool use](students-math-tool-use-practically-null.md) — related
+- [GeoGebra visualizations with slider controllers were perceived as useful and did not advantage mathematics students](geogebra-visualization-valued.md) — related

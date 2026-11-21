@@ -51,6 +51,7 @@ IMC piloted special masterclasses for the International Day of Women and Girls i
 - [Run a one-day astrophysics masterclass in which high school students analyze real research data in a university research setting](astrophysics-masterclass-one-day-real-data.md)
 - [Special masterclasses for the International Day of Women and Girls in Science with female scientists as role models](women-in-science-masterclasses.md)
 - [Run a nation-wide online Masterclass with recorded lectures, volunteer troubleshooting help, and consultant videoconference rooms](nationwide-online-masterclass-pandemic-adaptation.md)
+- [Run STEM outreach workshops exclusively for girls, taught and tutored entirely by female scientists and physics students](girls-only-stem-workshop-format.md)
 
 ## Examples
 -

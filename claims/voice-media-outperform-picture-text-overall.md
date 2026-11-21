@@ -98,3 +98,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — related
 - [Adding redundant onscreen text shifts visual attention from animation to text, and higher-germane-load students dwell longer on the animation](dwell-time-on-animation-sensitive-to-ecl-and-gcl.md) — related
 - [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related
+- [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related

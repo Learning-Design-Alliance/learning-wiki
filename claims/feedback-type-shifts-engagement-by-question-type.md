@@ -89,3 +89,4 @@ Time-on-task comparison in RQ2: median 21.13 minutes (baseline) vs. 25.44 minute
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
 - [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](apt-positive-feedback-no-learning-impact.md) — related
+- [Action on feedback differs by AI feedback type: metacognitive feedback yields the lowest revision rates, hybrid the highest, with no significant directive–hybrid difference](ai-feedback-type-revision-behaviour.md) — related

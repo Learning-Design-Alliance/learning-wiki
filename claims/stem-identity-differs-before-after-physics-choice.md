@@ -71,3 +71,4 @@ Comparison group of students aged 16+ who already decided to continue physics, s
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](grade-repeaters-lower-performance-except-workshop.md) — related
+- [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related

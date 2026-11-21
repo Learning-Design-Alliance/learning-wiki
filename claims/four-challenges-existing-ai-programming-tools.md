@@ -60,3 +60,4 @@ Participant P1's interview quote illustrates Challenge 1, excessive help hinderi
 
 ## Related Claims
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
+- [Semi-structured interviews with eight instructors reveal an urgent need for timely, fine-grained feedback on learner states in online teaching, which coarse indicators like grades cannot supply](instructor-interviews-urgent-need-fine-grained-feedback.md) — related

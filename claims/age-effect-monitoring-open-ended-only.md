@@ -74,3 +74,4 @@ Same ANOVA design applied to true-false questions. The age × correctness intera
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
 - [Fourth graders report lower perceived group status than second graders, qualified by an ethnicity × grade interaction](grade-differences-perceived-group-status-interaction.md) — related
+- [Post-feedback conversion of incorrect answers reaches 36.7% overall, highest for closed-ended items (55.1%) and lower for CGT (35.6%) and open-ended (33.9%) items](post-feedback-conversion-rate-by-question-type.md) — related

@@ -51,3 +51,5 @@ The review reports, citing Terwiesch (2023), a Wharton professor's account that 
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [ChatGPT-based coding of classroom dialogue is about 30 times faster than experienced human manual coding](gpt4-dialogue-coding-thirtyfold-time-saving.md) — related
 - [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — reports the opposite
+- [Producing an AI-generated instructional video with the workflow takes roughly 3-4 times less instructor time than recording a human instructional video](aiiv-production-three-to-four-times-faster.md) — related
+- [GenAI as a labor-saving device: all professors discussed time-saving potential, but literature-review assistance proved unsatisfactory while creating visuals was found very useful](genai-labor-saving-literature-review-unsatisfactory.md) — related

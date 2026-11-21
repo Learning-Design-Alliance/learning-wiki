@@ -49,3 +49,4 @@ Technical performance observation reported in the Results section from use of th
 - [The Photon Fusion VR learning system achieves stable real-time communication with minimal device load](photon-fusion-stable-realtime-communication.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related
+- [VLab-HV's Light version maintains 30 fps on low-end systems with 8 GB RAM and integrated GPUs](vlab-hv-light-version-30fps-low-end.md) — related

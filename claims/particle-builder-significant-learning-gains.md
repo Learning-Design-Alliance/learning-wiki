@@ -47,3 +47,5 @@ Classroom pre/post-test study with students from four Canberra schools who took 
 ## Related Claims
 - [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related
 - [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — related
+- [A double lesson of Particle Builder produced an average gain of 0.16, comparable to 1.5 weeks of traditional instruction (gain 0.17) and below a quark-puzzle control group (0.23)](particle-builder-double-lesson-gain-comparable-traditional-instruction.md) — related
+- [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related

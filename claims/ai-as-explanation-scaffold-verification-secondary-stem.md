@@ -53,3 +53,4 @@ Survey item B4 on task types in the n = 416 sample. Students reported a "strong 
 - [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related
 - Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers — related
 - [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)
+- [Most students used ChatGPT to support procedural steps or clarify concepts, while a smaller group used it to verify their work and demonstrated critical thinking by correcting AI errors](supporting-versus-verifying-ai-use.md) — related

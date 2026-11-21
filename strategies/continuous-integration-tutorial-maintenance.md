@@ -42,6 +42,7 @@ The article recommends building tutorials from version-controlled archives and r
 - [Refine the taxonomy draft through versioned community governance, Delphi processes, and consecutive workshops](community-versioning-delphi-roadmap-cscl-taxonomy.md)
 - [Design tutorial sites as a miniaturized research literature with contributor-controlled linking rather than an imposed order](tutorials-as-miniature-research-literature.md)
 - [Federate training initiatives across experiments to share materials and reduce duplication](federated-hep-training-initiatives-strategy.md)
+- [Integrate industry-standard software development practices through GitHub-based group workflows](github-professional-practices-group-projects.md)
 
 ## Examples
 -

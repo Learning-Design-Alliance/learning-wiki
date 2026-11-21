@@ -47,3 +47,4 @@ Kolmogorov-Smirnov equality-of-distributions tests comparing each condition's ho
 - [Preliminary evidence links opening reminder emails with a higher homework attempt rate, with no significance found for homework start times](email-opening-linked-higher-homework-attempt-rate.md) — related
 - [Email reminder messages increase the proportion of students who start their online homework by about 4 percentage points in a CS1 course](email-reminders-increase-homework-attempt-rate.md) — related
 - [Recommendation and advice email conditions significantly increase homework attempt rate relative to control](recommendation-advice-conditions-increase-attempt-rate.md) — related
+- [Extra-credit 'treasure trove' quizzes shifted homework study sessions toward earlier dates, with high- and low-performing students equally likely to take advantage](treasure-trove-credit-shifts-study-earlier.md) — related

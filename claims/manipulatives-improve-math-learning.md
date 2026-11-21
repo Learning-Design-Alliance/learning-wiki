@@ -59,7 +59,7 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a concrete stage help at all over abstract symbols alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a concrete stage help at all over abstract symbols alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **11 distinct studies** (4 causal, 3 review, 1 quant-synthesis, 1 kind not coded, 1 qualitative, 1 design), `q2`–`q4`, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -68,6 +68,7 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 | [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i? | [Abstract and concrete animation representations do not differ significantly in middle scho](abstract-concrete-representation-no-difference.md) (qualifies) |
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
+| Yossi Ben-Zion 2025 | q2 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
 | [Yu J 2026](https://doi.org/10.3389/fpsyg.2026.1897168) | q2 · review · r2 | i? | [Embodied and cognitive hands-on rely on different feedback sources and are not educational](hands-on-forms-different-feedback-sources.md) (qualifies) |
 | [Ahlquist 2020](https://doi.org/10.17161/jomr.v6i1.12051) | q2 · qualitative · r2 | i? | [In the owl game, being shown the solids and working with pictures and labels did not help ](owl-game-body-based-experience-needed-for-solids.md) (supports) |
 | [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that real-world experiential simulations offer affordances beyond virtu](real-world-simulations-embodiment-affordances.md) (supports) |
@@ -138,3 +139,4 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 - [Working with concrete materials such as styrofoam spheres and light sources pushed students away from lived-experience answers toward spatially relating the three bodies](concrete-materials-shift-student-responses.md) — a narrower finding that bears on this claim
 - [Hands-on experimental work with historical instruments helps students construct knowledge from their own experience and learn the connected Physics and Chemistry better than usual school didactics, per the authors](hands-on-historical-instruments-construct-knowledge.md) — a narrower finding that bears on this claim
 - [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related
+- [Qualitative accounts indicate contextual anchoring — examples tied to a student's own interests and background — made abstract concepts feel concrete and reduced cognitive load](contextual-anchoring-aha-moments-cognitive-load.md) — a narrower finding that bears on this claim

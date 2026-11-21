@@ -54,3 +54,4 @@ Qualitative interview findings on the analytic theme Pathway to Majoring in Phys
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Direct messages from followers indicate Neutralina inspired young women in Latin America to view science as an attainable career path](neutralina-inspired-young-women-peru.md) — related
 - [Peers and mentors played crucial roles in students' learning journeys in the Pathways program](peer-mentor-relationships-quantum-program.md) — related
+- [Women's initial interest in physics arose through diverse paths including popular media exposure, parental encouragement, and positive high school physics experiences](pre-college-interest-factors-women-physics.md) — a broader claim this one bears on

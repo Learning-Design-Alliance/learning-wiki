@@ -50,3 +50,5 @@ Topic clustering step of the data pipeline using BERTopic over ESimCSE-BERT embe
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
 - [Domain experts rated MExplore positively and recommended it for medical expertise acquisition](expert-interviews-positive-mexplore-acceptance.md) — related
+- [Cluster-based topic extraction with refinement yields ten interpretable topics with an overall coherence of 0.617 from one program run](cluster-topic-extraction-ten-topics-coherence-0617.md) — related
+- [The proposed semantic-driven topic model achieves higher topic coherence than LDA, ETM, and BERTopic on Zoom brainstorming transcripts](sbert-umap-hdbscan-model-higher-coherence-than-baselines.md) — related

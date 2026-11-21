@@ -130,3 +130,5 @@ Observational and interview study of four after-school sites; educators reported
 - [Google Colab notebooks proved a challenging coding interface for teenage learners in the bootcamp](google-colab-challenging-coding-interface-teens.md) — related
 - [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — related
 - [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related
+- [Course implementation faced four challenge types, each addressed with targeted pedagogical solutions](implementation-challenges-heterogeneous-backgrounds-resources.md) — related
+- [Survey-based statistics identify lack of engagement or motivation as the most significant barrier in online learning, reported by 76% of students, followed by isolation (51%), technical limitations (34%), and cultural/linguistic disconnection (22%).](online-learning-engagement-barriers-survey-percentages.md) — related

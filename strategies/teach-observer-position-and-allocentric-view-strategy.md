@@ -41,7 +41,9 @@ From the null result on observer-position questions, the authors recommend that 
 - [Neither treatment produces clear learning gains on questions about the observer's position on the spherical Earth](../claims/no-gain-observer-position-questions.md) [+W]
 
 ## Related Strategies
+
 - Taste Constructivist Celestial Sphere Design Pattern
+- [Share the VR in a dome: pause, clicker-question, and branch on mastery](share-the-vr-clicker-dome-strategy.md)
 
 ## Examples
 -

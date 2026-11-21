@@ -51,3 +51,4 @@ Quasi-experimental comparison of the 184 randomized SI-PASS volunteers against a
 - [In a quasi-experimental comparison, SI-PASS participants completed far more online exercises than non-volunteering students (d = .72)](si-pass-quasi-experimental-engagement-difference.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — related
 - [Students volunteering to participate had higher prior study results than non-participants, limiting generalizability](participant-selection-higher-prior-results.md) — related
+- [Exam participation and pass rates were higher in 2022 than in 2023, matching lower engagement in 2023](t1-exam-outcomes-2022-vs-2023.md) — related

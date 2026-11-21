@@ -46,6 +46,7 @@ From 2004-2011, Fermi, Swift and XMM-Newton E/PO programs sponsored four after-s
 - [Teachers sponsor student industrial arts clubs to build leadership, attitudes, and public relations](teacher-sponsorship-of-industrial-arts-clubs.md)
 - [Run workshops for teachers on why it is important to bring more girls into STEM](teacher-workshop-bring-girls-into-stem.md)
 - [Target under-represented groups in outreach to widen participation in physics from early years to pre-university](sepnet-outreach-underrepresented-groups-strategy.md)
+- [Run STEM outreach workshops exclusively for girls, taught and tutored entirely by female scientists and physics students](girls-only-stem-workshop-format.md)
 
 ## Examples
 -

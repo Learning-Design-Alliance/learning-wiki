@@ -76,3 +76,4 @@ The review's cross-study synthesis of 10 teaching-and-learning-method studies ca
 - [Collaborative learning in diverse PBL groups prepares students for professional work in a multicultural society](heterogeneous-pbl-prepares-for-multicultural-profession.md) — related
 - [Students reported majority-positive experiences with the peer review process and perceived experiential learning in the video project](positive-peer-review-experience-experiential-learning.md) — a narrower finding that bears on this claim
 - [Nearly all students reported a better sense of which outreach product types suit them personally, though three did not feel confident designing and implementing products](better-sense-of-suitable-outreach-formats.md) — related
+- [Traditional simulation development is resource-intensive: a single PhET simulation is reported to take 6-12 months and hundreds of person-hours](traditional-simulation-development-cost-barrier.md) — related

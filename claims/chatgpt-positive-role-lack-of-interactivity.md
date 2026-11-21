@@ -70,3 +70,4 @@ Same survey's item on ChatGPT disadvantages: "The most common problem reported b
 - [Clinical pharmacy trainees gave generally positive evaluations of an AI-assisted multi-advisor BOPPPS teaching model](positive-evaluations-ai-boppps-clinical-pharmacy.md) — related
 - [A majority of surveyed students reported that interacting with ChatGPT enabled them to explore new approaches or perspectives in understanding physics](chatgpt-new-approaches-perspectives-survey.md) — related
 - [Three perspectives on further ChatGPT use emerged: extreme negative, extreme positive, and balanced](three-perspectives-future-chatgpt-use.md) — related
+- [About 20% of students chose not to use AI on the problem, most commonly citing confidence in their own understanding or unfamiliarity with the tool](students-opt-out-of-ai-use.md) — related

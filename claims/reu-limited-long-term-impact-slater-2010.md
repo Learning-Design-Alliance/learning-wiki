@@ -51,3 +51,4 @@ The white paper attributes this finding to Slater (2010), citing it as backgroun
 - [Most undergraduate research experiences arise from local or informal opportunities rather than national agency-sponsored programs](undergrad-research-local-informal-majority.md) — related
 - [IAYC alumni in full-time astronomy careers show higher first-author paper and citation rates than comparison groups of astronomers, in a small non-equivalent sample](iayc-alumni-bibliometric-comparison.md) — related
 - [Outcomes of remote REU programs were reported as not far from the generally accepted benefits of in-person undergraduate research experiences](remote-reu-outcomes-comparable-to-in-person.md) — related
+- [Five of six interviewed women no longer plan to pursue physics or astronomy research careers or doubt attending graduate school after their undergraduate physics experiences](five-of-six-women-doubt-physics-research-careers.md) — related

@@ -67,6 +67,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
 - [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
 - [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
+- [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 
 ## Examples
 -

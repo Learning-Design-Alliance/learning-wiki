@@ -53,3 +53,4 @@ Primary outcome: two group-blinded independent pediatricians gave overall compet
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Students found it harder to identify relevant information in video than in text within a virtual patient PBL case](vp-pbl-harder-identify-info-video.md) — related
 - [Virtual patient preparation improves adherence to temporal demands of PBLS before and after hands-on training](vp-preparation-temporal-demands.md) — related
+- [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related

@@ -48,3 +48,4 @@ Post-simulation 5-point Likert feedback survey (14 statements plus one open-ende
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in clinical decision-making and empowerment.](sim-handoff-training-increased-perceived-decision-making-confidence.md) — related
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
+- [98% of P&A respondents agree writing is important for a career, but confidence is lower for papers (78%) and proposals (61%)](pa-community-values-writing-confidence-gap-papers-proposals.md) — related

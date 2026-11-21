@@ -48,3 +48,4 @@ Descriptive institutional self-report in the paper's opening summary of the prog
 ## Related Claims
 - [Participating teachers report applying new particle physics content knowledge and trying new teaching practices in their classrooms](teacher-reported-classroom-application-of-pd-content.md) — related
 - [The LPC at Fermilab contributed directly to a third of CMS's first over 100 publications and supports 14 fellows as emerging analysis leaders](lpc-contribution-third-of-cms-publications.md) — related
+- [The Foothill College Physics Show grew from 175 attendees in 2007 to over 25,000 annual attendees across roughly thirty performances a year.](physics-show-growth-25000-annual-attendees.md) — related

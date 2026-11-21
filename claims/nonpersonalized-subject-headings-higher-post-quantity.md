@@ -67,3 +67,4 @@ Paired descriptive statistics for the four instructor pairs: nonpersonalized M =
 - [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](no-task-courses-low-posting-activity.md) — related
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [Twenty online courses cluster into four quadrants of individual participation and interactivity derived from posting-activity indicators](courses-four-quadrants-participation-interactivity.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

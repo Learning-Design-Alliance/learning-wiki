@@ -46,3 +46,4 @@ Observational analysis across 8 semesters of mechanics and 8 semesters of E&M at
 
 ## Related Claims
 - [Sections of introductory physics with higher average perceived value of homework complete nearly 20% more homework per 0.5-point Likert increase](perceived-homework-value-completion-correlation.md) — related
+- [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — related

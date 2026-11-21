@@ -69,3 +69,4 @@ Interpretive comments printed with Fig. 2, which plots the ratio of women to men
 - [Both women and men nominated female classmates at proportions below women's actual success rates, with men underestimating women most consistently](peers-undervalue-outperforming-women-stem.md) — related
 - [Pupils perceive Athena as having a positive impact on school results in the corresponding subject (+0.8) and almost no impact on other subjects (-0.1)](athena-perceived-impact-school-results.md) — related
 - [Female researchers are on average under 30% worldwide and below 25% in most African countries](female-researchers-under-30-percent-gender-gap.md) — related
+- [Most participants reported that the workshop changed their perceptions of science and of women's participation in science](workshop-survey-perception-change.md) — related

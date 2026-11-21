@@ -52,3 +52,4 @@ Interview findings on student resistance in the computation context: instructors
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — related
 - [Computational activities added stress that students perceived as uncalled for, prompting some to disengage by copying others' solutions](computation-uncalled-stress-disengagement.md) — related
 - [Instructors grounded computational integration in professional authenticity, career readiness, and their own research practices](instructors-ground-computation-in-authenticity.md) — related
+- [Instructor framing of instructional tasks as irrelevant to the course, with extra credit for attempting rather than correctness, was associated with lower student engagement and performance](instructor-framing-reduces-engagement-performance.md) — related

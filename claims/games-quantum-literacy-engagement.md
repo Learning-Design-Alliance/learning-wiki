@@ -52,3 +52,4 @@ Authors' interpretive claim about game-based learning for quantum principles, de
 - [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](ar-game-features-scaffold-argumentation.md) — related
 - [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related
 - [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related
+- [Quantum educators recommend teaching quantum and supporting mathematical concepts early, in high school and early college, to students from diverse backgrounds](early-quantum-teaching-educator-recommendation.md) — related

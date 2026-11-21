@@ -72,6 +72,7 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Include cognitive load as an outcome measure when evaluating cross-sectional e-learning anatomy methods](include-cognitive-load-outcome-cross-sectional-elearning.md)
 - [Incorporate VR-physical disparity workarounds into future VR tools for surgical rehearsal and education](vr-physical-disparity-workarounds-strategy.md)
 - [Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone](integrate-vr-into-broader-teaching-strategies.md)
+- [Design VR sales simulations with supportive context, greater realism, minimized technical disruptions, and balanced cognitive load](cave-sales-simulation-lessons-learned.md)
 
 ## Examples
 -

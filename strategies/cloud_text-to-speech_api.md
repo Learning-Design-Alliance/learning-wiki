@@ -60,8 +60,10 @@ Adding spoken narration to educational content draws on the modality principle: 
 5. Pilot with target learners, checking specifically for mispronunciations and pacing, and revise the script rather than the voice settings when problems appear.
 
 ## Related Strategies
+
 - Human voiceover recording — higher prosody quality and authenticity, but costly and slow to update; TTS trades some naturalness for scale and editability
 - Captioned video — the complementary direction (speech-to-text); together they support multiple access modes
+- [Control synthetic narration pacing and slide transitions with SSML and generate scripts at multiple detail levels for micro-tuning](ssml-pacing-and-multi-level-script-strategy.md)
 
 ## Examples
 - **[Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)** — WaveNet and Neural2 voices with SSML support; used to narrate adaptive courseware and reading-support tools.

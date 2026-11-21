@@ -64,6 +64,7 @@ Measurement grounds abstract concepts in observable quantities, and graphing ext
 - [Data-Driven Inquiry](../strategies/data-driven-inquiry.md) — broader cycle in which measurement is one stage
 - [Peer Instruction](../strategies/peer-instruction.md) — graph interpretation questions work well as discussion prompts
 - [Body-motion graph construction with a real-time position sensor as an introductory activity for position and velocity concepts](go-motion-walk-graph-position-velocity.md)
+- [Post-measurement data analysis and reflection: graphing in Excel, identifying correlations, and student-proposed improvements](weather-station-data-analysis-reflection-strategy.md)
 
 ## Examples
 - **[Vernier Graphical Analysis](https://www.vernier.com/product/graphical-analysis/)** — students measure motion, temperature, or pH with sensors and watch the graph draw itself in real time, then annotate and interpret

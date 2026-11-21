@@ -124,6 +124,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - A reflection prompt used to surface misconceptions before revision
 - [Peer assessment of student research presentations to teach assessment criteria](../strategies/peer-assessment-research-presentations.md)
 - [Post-test follow-up protocol: flag failures to personal tutors and assign topic-specific handwritten exercises](../strategies/ept-personal-tutor-followup-protocol.md)
+- [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](../strategies/ai-simulation-reflection-assessment-strategy.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

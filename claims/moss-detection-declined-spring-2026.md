@@ -54,3 +54,4 @@ Parallel use of the similarity-based MOSS tool during the Spring 2026 offering; 
 - [Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases](plagiarism-detectors-below-15-percent-ai-essays.md) — related
 - [On fully AI-generated papers produced with ChatGPT Deep Research, Pangram achieved 65% strict accuracy while Turnitin, GPTZero and Copyleaks classified essentially all papers as false negatives](pangram-outperforms-tools-fully-ai-generated-deep-research.md) — related
 - [Similarity-based detection of AI-generated code (MOSS, JPlag) is weak when few submissions are AI-generated and significantly more accurate when AI submissions reach 50%](similarity-detection-depends-on-ai-submission-rate.md) — related
+- [Essays written after learning with search are flagged for plagiarism significantly more than essays written after learning with an LLM](search-essays-more-plagiarism-flags.md) — related

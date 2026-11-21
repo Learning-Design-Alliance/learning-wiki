@@ -59,6 +59,7 @@ Based on the model's findings, the authors recommend a set of institutional acti
 - [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 - [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 - [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
+- [Stakeholder actions for responsible AI integration: funding, policy, organizations, departments](stakeholder-actions-responsible-ai-integration.md)
 
 ## Examples
 -

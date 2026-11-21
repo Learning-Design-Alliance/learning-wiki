@@ -19,7 +19,7 @@ sources:
 # Universal Design for Learning (UDL) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 qualitative), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 4 studies (3 causal, 1 qualitative), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression.
@@ -31,6 +31,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - **Universal Design for Learning: three pillars of multiple means of engagement, representation, and action and expression**: Universal Design for Learning (UDL) is an inclusive pedagogy, inspired by universal design in architecture, that seeks to design learning environments accessible to as many learners as possible. Following its three pillars, "teachers should aim to provide: multiple means of engagement, or motivation, with course material; multiple means of representation... and, multiple means of action and expression, or diverse assessment methods". The study uses UDL as the framework against which faculty awareness and implementation of twenty techniques is assessed. (Gurher Sidhu et al. (2025))
 - **Universal Design for Learning: three principles grounded in cognitive neuroscience**: UDL is defined by the article as composed of three principles: "multiple means of representation", "multiple means of student action and expression", and "multiple means of student engagement". The framework holds that these principles map onto three groups of neural networks — recognition, strategic, and affective — whose interaction creates a model of cognition during learning episodes. The article distinguishes UDL from other universal design adaptations by its cognitive neuroscience foundation and its codification in federal law, and uses it as the training content and measurement frame for the intervention study. (Davies et al. (2013))
 - **Universal Design for Learning as a three-principle framework for flexible, accessible learning design**: The article uses the UDL model as the organising framework for its faculty development programme, describing it as "a systematic and evidence-based approach to designing learning materials, instructional methods, and assessment processes". UDL is structured around three principles — Engagement, Representation, and Action & Expression — each mapped in the study's design to a dominant brain region and to specific Web 2.0 tools (e.g. Wooclap and Padlet for Engagement; Thinglink, Mindmeister, Mindomo and Edpuzzle for Representation). The framework is intended to help students answer three questions: why, what, and how they are learning. (E. Ergonul et al. (2026))
+- **Universal Design for Learning Multiple Means of Representation as a framework for inclusive course materials**: The article uses Universal Design for Learning (UDL) as its organizing framework for making teaching more inclusive. Its principle of Multiple Means of Representation "encourages educators to present ideas and information through varied and flexible formats so that learners can access, engage with and comprehend content regardless of their sensory, linguistic or cultural needs." DiverseClaire operationalizes this principle by transforming lecture slides into multiple accessible variants and testing them with diverse simulated learner personas. (DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials fo)
 
 ### Claims
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](../claims/equatio-udl-practice-low-baseline-usage.md) [+M]
@@ -39,6 +40,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
 - [UDL instructor training significantly increased students' reported observation of representation-related UDL strategies in intervention sections but not control sections](../claims/udl-training-increases-representation-strategies.md) [+M]
 - [A UDL-based faculty development programme significantly increased medical educators' adoption of all three UDL principles from zero prior use](../claims/udl-training-increases-principle-adoption-medical-faculty.md) [+M]
+- [UDL interventions to lecture slides offered no benefit to simulated ASD learners, with each intervention rated lower on average than the original slides](../claims/udl-interventions-no-benefit-asd-learners.md) [-M]
 
 ## Related Products and Programmes
 
@@ -53,6 +55,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - Davies, P. L., Schelly, C. L., & Spooner, C. L. (2013). Measuring the Effectiveness of Universal Design for Learning Intervention in Postsecondary Education. Journal of Postsecondary Education and Disability, 26(3), 195-220. http://accessproject.colostate.edu/udl
 - E. Ergonul and S. Buyukcoban. (2026). Fostering interactive medical education: integrating Web 2.0 tools through a universal design for learning framework. Medical Education Online. https://doi.org/10.1080/10872981.2026.2639193
 - Amanda Lannan, Erin Scanlon, & Jacquelyn J. Chini. (2019). Resources for Supporting Students with and without Disabilities in Your Physics Courses. The Physics Teacher. https://aapt.scitation.org/journal/pte
+- Wendy Wong, Yuchao Jiang, and Yuekang Li. 2026. DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners. Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026). https://doi.org/10.1145/3770761.3777340
 
 # Universal Design for Learning framework: three principles for supporting learner variability
 

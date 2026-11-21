@@ -55,6 +55,7 @@ The article recommends using SLMs as on-demand, offline virtual tutors on laptop
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 - [Integrate AI-formative tools state-wide and deploy offline-capable Edge AI servers](statewide-ai-formative-integration-edge-servers.md)
 - [Adapt domain tutors from large language models with LoRA-based PEFT on accessible cloud GPUs](lora-peft-domain-tutor-adaptation-strategy.md)
+- [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
 
 ## Examples
 -

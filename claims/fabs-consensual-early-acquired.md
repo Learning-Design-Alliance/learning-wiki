@@ -56,3 +56,4 @@ The review reports, citing Jenifer et al. (2023) and Muradoglu et al. (2025), th
 - [Preservice teachers' FABs decline over four years of university teacher education in five of six subject groups](fab-decline-over-teacher-education.md) — a narrower finding that bears on this claim
 - [Beliefs that physics requires innate brilliance help explain the lack of women in physics](brilliance-beliefs-explain-women-underrepresentation.md) — a narrower finding that bears on this claim
 - [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — related
+- [Educators view the inequitable culture of physics, including brilliance attribution and overconfident self-presentation, as a major barrier that could seep into QIST](physics-culture-barrier-qist-diversity.md) — related

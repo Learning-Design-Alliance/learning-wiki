@@ -49,3 +49,4 @@ In-class survey of 121 students at semester's end with four agree/disagree or ch
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
+- [In an end-of-course survey, more than half of AI4CHEM students identified in-class Colab tutorials as the component that most helped them learn AI concepts](colab-tutorials-most-endorsed-ai4chem.md) — related

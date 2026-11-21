@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-21
 recheck_by: 2027
 sources:
   - id: tamador-alkhidir-2024
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a specialist evaluation of 570 LO pairs across 8 subjects using two labeling approaches, 400 pairs (70%) were correctly labeled as related or non-related. [→ Tamador Alkhidir 2024](#tamador-alkhidir-2024)

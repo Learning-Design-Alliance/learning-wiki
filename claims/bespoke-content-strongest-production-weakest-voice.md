@@ -58,3 +58,4 @@ driven by voice (𝐷1=3.16, SD=1.09)."
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
 - [Students excelled in perceptual analysis, reaction and personal interpretation but performed weakest in synthesis across the five Anderson dimensions](five-dimension-uneven-performance.md) — related
 - [Student-produced science popularisation videos reach good-to-excellent quality, with content organisation scoring lowest](student-video-quality-good-to-excellent-organisation-lowest.md) — reports the opposite
+- [Rubric-wise achievement was strongest for conceptual knowledge and structured application and weakest for proactive use of engineering tools](rubric5-proactive-tool-use-weakest-area.md) — related

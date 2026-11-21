@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-21
 recheck_by: 2023
 sources:
   - id: alexandra-renouard-and-yves-mazabraud-2018
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
+> **Currency** · newest study 2018 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The individual conceptual system is marked by the coexistence of scientific conceptions and persisting alternative conceptions, with inhibition varying by expertise, and classical instruction shows limits in efficiency at replacing conceptions. [→ Alexandra Renouard and Yves Mazabraud 2018](#alexandra-renouard-and-yves-mazabraud-2018)

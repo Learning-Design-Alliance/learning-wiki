@@ -46,6 +46,8 @@ A delivery strategy for outreach data-analysis activities: host the exercise on 
 - [Platform Agnostic Design](platform_agnostic_design.md)
 - [Deploy gamified onboarding simulations via WebGL in a standard web browser rather than VR or installed software](webgl-browser-deployment-strategy.md)
 - [Run outreach analyses via Jupyter/binder accessed from mobile phones through a QR code](jupyter-binder-mobile-qr-outreach.md)
+- [Lower barriers to access through free entry and multilingual content](free-entry-multilingual-exhibition-content.md)
+- [Deliver beginner programming instruction through zero-install cloud notebooks to lower the entry barrier](zero-install-colab-novice-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Immediately after the Immediate Assessment in the RCT, students rated its diffic
 ## Related Claims
 - [Across all learning-experience survey measures, Learn Your Way was rated more positively than the Digital Reader, with several differences statistically significant](learn-your-way-survey-more-positive-ratings.md) — related
 - [In a randomized controlled trial, students learning with Learn Your Way scored higher than Digital Reader students on both immediate and three-day retention assessments](learn-your-way-rct-higher-immediate-retention-scores.md) — related
+- [Learn Your Way students reported more positive learning experiences than textbook students, especially on perceived usefulness, test-taking comfort, and perceived effectiveness](learn-your-way-positive-learning-experience.md) — related

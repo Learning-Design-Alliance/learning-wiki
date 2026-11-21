@@ -53,6 +53,7 @@ The article recommends human oversight of LLM hint generation: its quality check
 - [Mitigate LLM hallucination in generated hint pathways by generating 30 responses per question and selecting the response closest to the centroid embedding](centroid-selection-hallucination-mitigation-strategy.md)
 - [Radical constructivist MARSGs require mindful development and instructor oversight to ensure learning](radical-constructivist-marsg-oversight.md)
 - [Establish certifying oversight for quantum education materials to combat misinformation and ensure quality](quantum-education-quality-certification-strategy.md)
+- [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
 
 ## Examples
 -

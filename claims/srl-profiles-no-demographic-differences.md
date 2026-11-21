@@ -65,3 +65,4 @@ Chi-squared tests on profile membership of the 191-teacher sample showed "the pr
 - [Cluster membership is not associated with teacher sex, department, work experience, or hospital level](cluster-membership-no-demographic-association.md) — related
 - [Age correlates with self-assessed competency, but the association disappears after adjusting for length of service; sex, education and professional membership show no association](age-correlates-self-assessed-competency-not-after-service-adjustment.md) — related
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
+- [Instructors' competence profiles show no significant association with age, gender or academic field in this exploratory small-sample analysis](no-sociodemographic-association-competence-profiles.md) — related

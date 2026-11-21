@@ -47,3 +47,4 @@ Paired-samples t tests on TR group comprehension percentages; the average method
 ## Related Claims
 - [The TROR group showed significant comprehension gains on the average and last-minus-first scoring methods, but not on the extreme methods](tror-comprehension-gains-mixed-by-method.md) — related
 - [The TR group (timed reading only) made statistically significant reading rate gains of about 15 to 27 swpm across four scoring methods](tr-group-significant-rate-gains-four-scoring-methods.md) — related
+- [Reading interest-aligned passages significantly reduces students' test turnaround time, while randomized passages increase it](personalized-passages-reduce-test-turnaround-time.md) — related

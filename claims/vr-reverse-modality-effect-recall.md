@@ -59,3 +59,4 @@ ANCOVA in a between-subjects experiment (N = 61) comparing visual-only (n = 31) 
 - Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view — related
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
 - [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related
+- [Number of learning modalities used in Learn Your Way was not significantly related to recall performance](modality-breadth-no-performance-effect.md) — related

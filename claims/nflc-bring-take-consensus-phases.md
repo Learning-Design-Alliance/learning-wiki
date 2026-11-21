@@ -48,3 +48,4 @@ Qualitative analysis of 14 of 30 NFLC meetings (October 2022 to June 2023), with
 - [The group's talk shifts from cumulative talk to exploratory talk as differences between teachers' open-inquiry approaches are accepted and a consensus goal emerges](cumulative-to-exploratory-talk-shift.md) — related
 - [A live meet-up where teachers visit each other's courses acts as a pivoting point in understanding the similarities between their open-inquiry courses](live-course-visits-pivoting-point.md) — related
 - [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related
+- [The Dead Stars Society cross-institutional partnership involved 12 community college students across three institutions between January 2023 and 2025, with an active cohort of around 5 students at a given time.](dss-cross-institutional-student-participation.md) — related

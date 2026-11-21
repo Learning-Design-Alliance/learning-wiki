@@ -52,3 +52,4 @@ Prespecified exploratory subgroup analysis stratified by baseline OSCE score usi
 - [Among low-baseline-performing students, preceptor feedback yields a pronounced improvement in patient–physician interaction scores](low-performers-preceptor-feedback-improves-ppi.md) — related
 - [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related
 - [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related
+- [EasyMED produced stronger early-phase gains for low-baseline (novice) learners than human SP training (21.83 vs 16.58 points)](easymed-stronger-novice-early-gains.md) — a narrower finding that bears on this claim

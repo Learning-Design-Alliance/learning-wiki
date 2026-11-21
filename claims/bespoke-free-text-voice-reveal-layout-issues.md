@@ -80,3 +80,4 @@ across the entire video” and “very distracting. ”"
 - [Students' most important lessons concerned consolidation of counseling skills (59.8% of comments), reflective practice (28.3%), and insight into clinical placement (12%)](key-learning-consolidation-reflection-placement-preparation.md) — related
 - [Students requested richer content and improved audio, video and download quality when asked to suggest podcast improvements](podcast-improvement-suggestions-content-and-quality.md) — related
 - [Pedagogical experts rated all Learn Your Way components highly (overall experience above 0.90), with Visual Illustration lowest and narrated slides more engaging than slides alone](expert-pedagogy-ratings-components.md) — related
+- [Viewer comments identified readability problems, suggesting color and font changes for future videos](viewer-feedback-color-font-improvements.md) — related

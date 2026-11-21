@@ -73,3 +73,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](video-accessing-uncorrelated-with-performance.md) — related
 - [Weekly video views and scores diverged: a week of low video views preceded a fourfold surge in views with underperforming scores, then higher scores with less video attention](video-views-score-divergence-circuit-course.md) — related
 - [Reported amount learned correlated with attendance, assignment completion, math preparation, homework timing, and interest, but appeared independent of GPA and of material and exam difficulty](amount-learned-correlates-with-behaviors.md) — related
+- [Students do not effectively use self-paced digital tools without grade incentives and support, whether in flipped courses or optional self-study tutorials](student-engagement-needs-incentives-support.md) — related

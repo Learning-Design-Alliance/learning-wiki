@@ -67,3 +67,4 @@ Item-level analysis showed "the highest rates of co -construction were for quest
 - [Group participation is highest on questions where at least one but no more than half of the group answered correctly in the solo phase](two-phase-exam-participation-peaks-mixed-correctness.md) — related
 - [Peer collaboration can produce co-construction of knowledge: pairs answered correctly questions neither member could answer individually, with 29% of responses moving from both-incorrect individually to correct as a pair](peer-interaction-co-construction-of-knowledge.md) — related
 - [Groups constructed knowledge at a high average rate of 80% when at least one member answered correctly individually](qm-peer-construction-rate-80-percent.md) — related
+- [Co-construction of knowledge is rare in unguided peer groups: correct consensus when neither member was correct individually occurred in only 19% of eligible cases](co-construction-rare-19-percent-graduate-csem.md) — related
