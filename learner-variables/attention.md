@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (146 show a difference, 47 mixed, 33 no difference) · 171 studies (61 causal, 42 associational, 27 review, 15 quant-synthesis, 11 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 31 of 171 report an effect size · 220 claims rest on one study
+> **Evidence** · 231 claims (148 show a difference, 48 mixed, 35 no difference) · 174 studies (64 causal, 42 associational, 27 review, 15 quant-synthesis, 11 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 34 of 174 report an effect size · 223 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -264,6 +264,11 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Mind wandering occupies roughly 30% of time in educational activities and accounts for approximately 7% of variability in learning outcomes, per the literature the dissertation reviews](../claims/mind-wandering-30-percent-time-7-percent-outcome-variability.md) [+M] — learners who differ on it differ in outcomes
 - [A combined motivation and behavior EER re-engaged distracted group members and adjusted the thermometer unit](../claims/motivation-behavior-eer-reengagement-thermometer.md) [+W] — measured as an outcome of the instruction studied
 - [Qualitative student feedback attributed increased motivation, sustained attention, and easier comprehension to the immersive 3D presentation and interactive AI support](../claims/qualitative-feedback-motivation-immersive-3d-ai-support.md) [+M] — measured as an outcome of the instruction studied
+- [Attentive-group participants rated attention-aware LectureQuiz as significantly more accurate at revealing attention gaps than non-attentive participants, and perceived accuracy correlated negatively with section-level ADI only in the attentive group](../claims/attentive-quiz-perceived-accuracy-higher.md) [~M] — an instructional effect differs with it
+- [Attentive-group participants reported higher overall engagement than non-attentive participants, with significant group differences on the focused attention and reward factor subscales but not on perceived usability or aesthetic elements](../claims/attentive-group-higher-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Exploratory evidence suggests low-attention learners in the attentive group showed a greater ADI increase from week 1 to week 3 than non-attentive counterparts, but the difference was not statistically significant](../claims/low-attention-adi-increase-not-significant.md) [-M] — an instructional effect differs with it
+- [Learners' attention distribution index in VR lectures changed over weeks, with a significant increase from week 2 to week 3, but did not differ between attentive and non-attentive support groups](../claims/adi-changed-over-weeks-no-group-effect.md) [+M] — measured as an outcome of the instruction studied
+- [LectureQuiz scores did not differ significantly between the attentive and non-attentive groups across the three weeks](../claims/lecturequiz-scores-no-group-difference.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

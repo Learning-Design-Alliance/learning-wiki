@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: amir-tahmasbi-2025
     resource: "https://doi.org/10.48550/arXiv.2511.15504"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the one-week delayed post-test, the RPG group's retention rates exceeded 1.0 (1.04 definition, 1.05 sentence) while the control group declined (0.86, 0.83). [→ Amir Tahmasbi 2025](#amir-tahmasbi-2025)
@@ -56,3 +57,4 @@ One-week delayed post-test in the same 14-participant between-subjects experimen
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [All four instructional approaches, including a two-sentence reminder, produced durable learning-oriented prompting gains that persisted six weeks later](brief-instruction-durable-prompting-gains.md) — related

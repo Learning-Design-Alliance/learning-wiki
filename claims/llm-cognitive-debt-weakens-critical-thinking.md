@@ -59,3 +59,4 @@ The article attributes this to recent research on AI assistants for essay writin
 - [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — possibly the same claim (merge candidate)
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — related
 - [Deployed LLM-based systems risk overreliance because users may anthropomorphize conversational agents](anthropomorphization-overreliance-deployed-llms.md) — related
+- [High dependence on AI correlates with lower critical-thinking performance, mediated by cognitive offloading, and AI tools that minimize cognitive struggle risk weakening critical thinking](ai-cognitive-offloading-lower-critical-thinking.md) — related

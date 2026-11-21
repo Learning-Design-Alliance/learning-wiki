@@ -143,6 +143,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use a staged approach to simulated patient practice: start with peer role-play for comfort and feedback, then progress to standardised patients](staged-peer-then-sp-practice-strategy.md)
 - [Use a virtual-clinic-plus-eBook model for independent learning about rare diseases lacking patient contact](virtual-clinic-ebook-rare-disease-strategy.md)
 - [Adaptive instructional planning allocates scarce patient-treatment opportunities to students who benefit most](adaptive-patient-allocation-strategy.md)
+- [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
 
 ## Examples
 -

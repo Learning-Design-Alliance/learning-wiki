@@ -56,3 +56,4 @@ Pre–post percentage-point changes in platform identification from the post-int
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
 - [Digital music platforms were consistently linked to positive learner perceptions and motivation, with effectiveness contingent on teacher mediation](digital-platforms-music-motivation.md) — related
 - [Secondary students' expectations of educational games differ by gender](gender-differences-game-expectations-secondary.md) — related
+- [One-day AI literacy workshops significantly increase secondary students' recognition of AI in algorithmic recommendation platforms such as Netflix, TikTok and Spotify](workshops-increase-ai-recognition-recommendation-platforms.md) — possibly the same claim (merge candidate)

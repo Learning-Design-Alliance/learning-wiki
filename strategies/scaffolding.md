@@ -65,6 +65,7 @@ Scaffolding works because it keeps task demands within working memory limits whi
 - [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
 - [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](scaffold-reflection-prompts-assessment-tasks.md)
+- [Adapt worked example scaffolding to learner expertise: structured guidance for novices, debugging practice for advanced learners](adapt-worked-example-scaffolding-to-expertise.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the interactive, contingent form of scaffolding during performance

@@ -70,3 +70,4 @@ Narrative synthesis: the review attributes these failure modes to multiple cited
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — a narrower finding that bears on this claim
+- [A three-layer mitigation strategy reduced Whisper hallucination loops from 6.4% of segments to 0.02% across a lecture corpus](whisper-hallucination-loop-mitigation-transcripts.md) — a narrower finding that bears on this claim

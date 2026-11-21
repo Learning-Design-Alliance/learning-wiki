@@ -46,3 +46,4 @@ Omnibus linear mixed-effects analysis (robust standard errors, age and sex as co
 
 ## Related Claims
 - [NAT showed no significant Time × Group interaction on working memory task performance; only the main effects of Time and Group were significant](nat-working-memory-main-effects-only.md) — possibly the same claim (merge candidate)
+- [On a real closed circuit, the DI course reduced fuel consumption and speed variability and increased following distance, per linear mixed-effects models](closed-circuit-lmm-fuel-speed-dispersion-distance.md) — related

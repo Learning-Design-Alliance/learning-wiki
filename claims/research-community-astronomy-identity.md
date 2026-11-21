@@ -76,3 +76,4 @@ Qualitative finding: Leticia built competence through hands-on research, learnin
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related
 - [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related
 - [In the non-majors physics class, exam scores inversely correlated with Impostor Syndrome (R² = 0.258, p = 0.0019)](exam-scores-inversely-impostor-syndrome-nonmajors.md) — related
+- [SIREN participation increased students' sense of belonging in STEM at the college and beyond](siren-increased-sense-of-belonging-stem.md) — related

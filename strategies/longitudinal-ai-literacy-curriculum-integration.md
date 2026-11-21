@@ -44,6 +44,7 @@ The review recommends that AI competencies be integrated longitudinally across a
 
 - [Staged mixed model integrating AI across orthopaedic training progression](staged-mixed-model-ai-ortho-training.md)
 - [Integrate simulation learning experiences in stages throughout the physiotherapy curriculum rather than as one-off exposures](staged-simulation-integration-physiotherapy-curricula.md)
+- [Use one-off AI literacy workshops as entry points supported by sustained, systemic curriculum integration](workshops-as-entry-points-with-sustained-integration.md)
 
 ## Examples
 -

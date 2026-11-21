@@ -77,3 +77,5 @@ Follow-up comparison across the three midterms in the same course dataset. The g
 - [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — related
 - [Students who engaged with RiPPLE scored significantly higher on the midterm exam than non-users, with a medium effect size after propensity score matching](ripple-midterm-learning-gains-psm.md) — related
 - [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related
+- [Chatbot usage constituted a negative associative pathway to subsequent exam performance, while proof-review usage showed no detectable independent association](chatbot-usage-negative-pathway-exam.md) — related
+- [Midterm performance showed no statistically significant difference between GAI-assisted-learning topics and non-GAI topics, with weak statistical power](midterm-no-significant-difference-gai-vs-non-gai-topics.md) — related

@@ -48,7 +48,7 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 - Stanley Sobolewski, Brandon Vought, Kathryn Hagood. (2018). Effect of Robot-Kinematic Activity on CLASS And TUG-K Scores of Non-Science Majors. https://scholar.google.com/scholar?q=Effect+of+Robot-Kinematic+Activity+on+CLASS+and+TUG-K+Scores+of+Non-Science+Majors
 - Álvaro Suárez, Daniel Baccino, Martín Monteiro, Arturo C. Martí. (2021). What are the attitudes and beliefs about Science of the Physics teachers and future Physics teachers in Uruguay? https://bit.ly/CLASS-profes-UY2020
 - Teemu Hynninen, Henna Pesonen, Olli Lintu, and Petriina Paturi. (2022). Ongoing eﬀects of pandemic-imposed learning disruption on student attitudes. https://arxiv.org/abs/2209.13977
-- Chatzikyriakidou, K., Hall, K. L., Redish, E. F., & Cooke, T. J. (2025). A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses. https://drum.lib.umd.edu/
+- Chatzikyriakidou, K., Hall, K. L., Redish, E. F., & Cooke, T. J. (2025). A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses. https://drum.lib.umd.edu/. [doi:10.48550/arxiv.2511.15575](https://doi.org/10.48550/arxiv.2511.15575)
 
 # Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure
 

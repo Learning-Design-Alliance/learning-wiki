@@ -61,3 +61,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related
 - [AI-assisted annotation raises dental students' self-reported confidence in detecting caries at all depths](ai-annotation-raises-caries-detection-confidence.md) — related
+- [Reasoning-based misclassification detection is robust across LLM annotators but detectability varies by source model, with errors from o3 and GPT-5 easiest to detect and Claude 4.5 Sonnet errors hardest](verification-signal-varies-by-source-llm.md) — related

@@ -47,3 +47,4 @@ Platform log analysis of the pilot cohort using a mark-as-completed button as an
 
 ## Related Claims
 - [Students engaged more with AI and Ethics and foundational topics and less with deep learning and large language model topics](engagement-higher-ethics-foundational-topics.md) — related
+- [Social gamification was associated with more students completing the course and engaging with advanced topics than in previous editions](social-gamification-completion-engagement.md) — related

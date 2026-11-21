@@ -48,3 +48,5 @@ Correlational analysis on n=500 in-domain scenarios with paired DTR and judge me
 - [GRPO pedagogical alignment of a reasoning LLM lowers actual student learning while raising judge-rated helpfulness (a multi-dimensional alignment tax)](grpo-pedagogical-alignment-tax-lowers-learning.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
 - [TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model](tei4-selects-deliberation-rich-candidates.md) — related
+- [Enabling internal thinking dramatically improves LLM tutor performance in simulated mathematics tutoring (+134% Delta Solve Rate, +306% Helpful Rate)](thinking-capability-improves-llm-tutoring.md) — related
+- [Thinking reward combined with pedagogical prompting produces more focused reasoning traces and responsive-teaching patterns in tutor thinking](thinking-reward-reshapes-reasoning-structure.md) — related

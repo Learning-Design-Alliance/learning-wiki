@@ -49,3 +49,4 @@ Interview study of six instructors teaching beyond-first-year quantum computing 
 - [After the module, students' perceived societal importance of quantum computing shifted toward appreciating that the technology is in its infancy, with median importance unchanged at 4](qc-module-importance-perception-shift.md) — related
 - [Instructors most often named quantum information, entanglement, the EPR paradox and Bell inequality as contemporary topics, but reported limited course time](qm-contemporary-topics-limited-course-time.md) — related
 - [Adding a quantum computing course-chapter increased elective course enrollment by 24% between the first and second editions](quantum-chapter-enrollment-increase-24-percent.md) — related
+- [Quantum educators view hype in QIST as a double-edged sword that attracts talent, interest and funding while creating unrealistic expectations](qist-hype-double-edged-sword.md) — a broader claim this one bears on

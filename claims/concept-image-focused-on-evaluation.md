@@ -54,3 +54,4 @@ Pretest concept-image question (N=30, Table I) asking students to write what the
 - [On a midterm dipole question most students correctly located non-zero divergence at the sources, but many did not transfer this resource to the current-density context](dipole-midterm-correct-but-not-transferred.md) — related
 - [Only about 20% of E&M students provided a conceptual explanation of gradient, divergence and curl in free responses](few-students-conceptual-explanation-free-response.md) — a narrower finding that bears on this claim
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
+- [Students show object and process conceptions of the temperature gradient vector representation but struggle with its linguistic description](apos-temperature-gradient-conceptions.md) — related

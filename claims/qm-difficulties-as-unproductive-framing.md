@@ -58,3 +58,4 @@ Interpretation drawn from the observational episode in which Eric’s conceptual
 - [Some QM difficulties reflect correct framing but insufficient or wrong resource activation (content errors)](content-errors-qm-difficulties.md) — related
 - [Some QM difficulties reflect operating in the wrong frame (displacement errors)](displacement-errors-qm-difficulties.md) — related
 - [Published quantum mechanics difficulties restructure into three framing error categories](qm-difficulties-three-framing-error-categories.md) — related
+- [A grading scheme weighting lab analysis far above homework led one student to frame homework as material to review rather than perfect, a framing that proved unproductive in the multi-day activity](grading-scheme-framed-homework-as-reviewable.md) — related

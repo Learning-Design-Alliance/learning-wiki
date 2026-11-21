@@ -42,6 +42,7 @@ The review proposes its combined matrix as a practical tool: ethical norms are t
 ## Related Strategies
 
 - [Norm Setting](norm_setting.md)
+- [Use a four-dimension stakeholder checklist to assess whether educational AI aligns with cognitive, pedagogical, emotional, and ethical principles](stakeholder-checklist-responsible-educational-ai.md)
 
 ## Examples
 -

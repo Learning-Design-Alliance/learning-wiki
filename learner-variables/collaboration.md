@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 213 claims (168 show a difference, 31 mixed, 14 no difference) · 184 studies (69 causal, 30 review, 28 qualitative, 20 design, 18 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 17 of 184 report an effect size · 213 claims rest on one study
+> **Evidence** · 214 claims (169 show a difference, 31 mixed, 14 no difference) · 185 studies (70 causal, 30 review, 28 qualitative, 20 design, 18 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 18 of 185 report an effect size · 214 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -255,6 +255,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Student surveys report regular group attendance, effective role rotation for a majority, and that group work helped most students follow class ethics and JEDI ground rules](../claims/group-work-survey-attendance-roles-jedi.md) [+M] — measured as an outcome of the instruction studied
 - [Students completing the asynchronous online collaborative exam found it easy to share and collaborate on both multiple-choice and long-answer questions](../claims/online-collab-ease-mc-long-answer.md) [+M] — measured as an outcome of the instruction studied
 - [Traditional lab and recitation students rarely presented work or built on each other's ideas, unlike CLASP students](../claims/no-student-presentations-traditional-sections.md) [+M] — measured as an outcome of the instruction studied
+- [High-quality peer interactions produced significantly stronger collaborative experiences than both low-quality peer interactions and AI conditions](../claims/hq-peer-outperforms-lq-peer-and-ai-perception.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

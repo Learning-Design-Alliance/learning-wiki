@@ -77,6 +77,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - [Guided reflection sessions built on video-recorded teaching with smart-ring arousal episodes (critical incident technique and stimulated recall)](arousal-episode-guided-reflection-strategy.md)
 - [Use instructional videos and involve students in creating video content to teach clinical communication](video-instruction-clinical-communication-strategy.md)
 - [Run video-feedback sessions in which a supervisor guides analysis of the player's own successful and unsuccessful decisions through open questioning](video-feedback-questioning-session-structure-strategy.md)
+- [Design digital learning environments to support timely (immediate) replay and scaffold transitions toward efficient strategies](support-timely-replay-scaffold-strategy-transitions.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

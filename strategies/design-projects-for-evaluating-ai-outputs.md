@@ -47,6 +47,7 @@ Based on feedback that students increasingly use tools such as ChatGPT during pr
 - [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
 - [Prohibit first-day computer use and student lectures to preserve problem solving and interaction](pbl2-0-no-computers-no-lectures-strategy.md)
 - [Design GenAI-integrated tasks that cast the tool as an object of critique rather than a solution generator](genai-as-critique-object-task-design.md)
+- [Design physics tasks that have students critique, compare, and revise AI-generated explanations](critique-and-revise-ai-generated-explanations-strategy.md)
 
 ## Examples
 -

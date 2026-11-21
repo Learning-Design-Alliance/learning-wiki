@@ -46,3 +46,4 @@ Participant perception report from the within-subject leaderboard study in the U
 
 ## Related Claims
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — related
+- [Weekly leaderboard competitions in week 3 produced a clear peak in engagement, suggesting competitive elements can reignite student interest](weekly-leaderboard-competition-engagement-peak.md) — related

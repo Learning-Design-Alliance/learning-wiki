@@ -68,3 +68,4 @@ Experiment 2 (219 Prolific participants, two-item ECL and GCL scales, α = 0.66 
 - [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — related
 - [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related
 - [Study condition showed no significant overall effect on extraneous or germane cognitive load](no-ecl-gcl-condition-effect.md) — related
+- [Extraneous and germane cognitive load do not differ significantly between scaffolding conditions](qookies-ecl-gcl-no-group-differences.md) — related

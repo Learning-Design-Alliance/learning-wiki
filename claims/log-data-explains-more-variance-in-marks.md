@@ -70,3 +70,4 @@ Comparison of the two regression sets in the Results: "the learning approach and
 - [Log data identify two flipped-classroom clusters, an assessment-oriented approach (higher post-lecture quiz proportion) and a preparation-oriented approach (higher pre-lecture activity proportions)](log-data-preparation-assessment-clusters.md) — related
 - [Students with more favourable perceptions of the learning environment reported a deeper approach, studied longer online, and earned higher marks, but the perception groups did not differ on self-reported surface approach](perceptions-group-differences-approach-time-marks.md) — related
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related
+- [Machine learning models can predict physics students' academic performance from homework and click log data](ml-predicts-physics-student-performance.md) — related

@@ -50,3 +50,4 @@ Null mediation result from the NSAL-A path analysis (n = 1,170): for both percei
 - [School bonding significantly mediates the association between psychological distress and grades and expulsions among Black adolescents](school-bonding-mediates-distress-grades-expulsions.md) — related
 - [Mastery and educational aspirations were not significant mediators of psychological distress and educational outcomes](mastery-aspirations-not-significant-mediators.md) — related
 - [Parent and peer support are differentially associated with specific developmental assets among Black adolescents](parent-peer-support-asset-associations.md) — related
+- [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related

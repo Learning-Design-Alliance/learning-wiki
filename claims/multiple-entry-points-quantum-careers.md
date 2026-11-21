@@ -52,3 +52,4 @@ Authors' interpretive argument about career pathways, presented as Fig. 3 mappin
 - [Students perceived barriers to quantum careers including the belief that quantum is only accessible to geniuses, a requirement of advanced education, perceived risk, and lack of women in the field](quantum-career-barriers-genius-perception.md) — related
 - [The article argues that physics-only access to continuous-variable quantum computing harms both learners and the field by homogenising researcher backgrounds](cvqc-single-entry-point-homogenising.md) — a narrower finding that bears on this claim
 - [Quantum industry managers project a continued need for a workforce spanning a range of educational levels to support industry scaling](quantum-managers-project-range-educational-levels.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

@@ -73,3 +73,4 @@ Final-exam aligned item in the same crossover design, where group roles had reve
 - [Mean scores on the seven final-exam problems ranged from 0.96 to 8.04 out of 15, with problem 5 performing worst](calculus-iii-final-problem-mean-scores.md) — related
 - [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — related
 - [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related
+- [Earlier access to GPTutor was associated with higher homework scores but this benefit did not transfer to exam scores](gptutor-earlier-access-homework-not-exam.md) — related

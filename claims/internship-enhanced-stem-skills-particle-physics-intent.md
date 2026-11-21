@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: santanu-banerjee-2024
     resource: "https://doi.org/10.48550/arXiv.2401.16217"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback indicated the internship experience led to enhanced skills toward a STEM career, and a majority of interns wanted to pursue particle physics for research after completing their undergraduate degree. [→ Santanu Banerjee 2024](#santanu-banerjee-2024)
@@ -56,3 +57,4 @@ Assessment-section feedback from the 2023 intern cohort, summarized in Figure 8 
 - [In-person participation in the 2023 internship produced superior learning-status feedback compared with the fully online 2022 pilot internship](in-person-internship-superior-learning-online-pilot.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
+- [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related

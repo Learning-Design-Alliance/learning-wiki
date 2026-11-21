@@ -65,3 +65,4 @@ Bland-Altman bias analysis across five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2
 - [Machine coding shows a systematic offset dependent on the measured prevalence EC, which can be calibrated with a best-fit function S(EC)](systematic-offset-function-of-ec-calibration.md) — related
 - [Machine coding systematically over- or under-estimates code prevalence when the training set is outcome-unbalanced, with no offset at ptrain = 0.5](training-imbalance-causes-systematic-machine-coding-offset.md) — related
 - [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](mark-scheme-improves-llm-grading.md) — related
+- [Authorship effects do not inflate AI-marking validity estimates; if any bias operates it runs in the conservative direction](authorship-bias-conservative-direction.md) — a narrower finding that bears on this claim

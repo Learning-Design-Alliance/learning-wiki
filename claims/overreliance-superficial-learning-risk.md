@@ -50,3 +50,4 @@ Synthesis of implementation challenges across the 58 included studies (Section 5
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
+- [Over-reliance on genAI led to false model assumptions, wasted time, and skipped learning of modeling fundamentals](genai-over-reliance-risks-modeling-fundamentals.md) — a narrower finding that bears on this claim

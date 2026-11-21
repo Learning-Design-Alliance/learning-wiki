@@ -55,6 +55,7 @@ The article recommends that physics communities reevaluate admissions criteria s
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 - [Recommendations for undergraduate particle physics education](undergraduate-particle-physics-education-recommendations.md)
 - [Pair admissions of lower-scoring students with compensating changes to other admissions criteria or program structure to maintain graduation rates](compensating-changes-for-low-scorer-admissions.md)
+- [Use latent motivation signals from short admission responses to guide early mentoring support without extra student burden](admission-text-signals-early-mentoring-support.md)
 
 ## Examples
 -

@@ -129,3 +129,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — related
 - [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](iv-greater-learning-effect-than-flyover-video.md) — related
 - [VR-based medical education with interactive 3D visualization enhances spatial comprehension of anatomy](vr-3d-visualization-enhances-anatomical-spatial-comprehension.md) — related
+- [Review reports lack of conclusive evidence of significant educational benefit for 3D VR quantum-circuit simulations](vr-quantum-simulations-lack-conclusive-evidence.md) — related

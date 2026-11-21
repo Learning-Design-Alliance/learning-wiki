@@ -52,3 +52,4 @@ The article reports, citing Kosmyna et al. (2025), that independent first engage
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](over-reliance-algorithmic-conformity-risk.md) — related
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — a narrower finding that bears on this claim
+- [Automated analysis found AI-mediated feedback offered significantly greater actionability and stronger support for independent learning than human-only feedback](ai-mediated-feedback-actionability-independent-learning.md) — related

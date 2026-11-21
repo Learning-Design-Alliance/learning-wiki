@@ -46,3 +46,4 @@ Grade distribution analysis of 337 registered students in an undergraduate stati
 
 ## Related Claims
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
+- [Without training, higher-ability students opt out of GenAI while training induces adoption most dramatically in the top grade-point quartile (descriptive)](training-induces-adoption-among-high-ability.md) — related

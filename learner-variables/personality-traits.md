@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (115 show a difference, 40 mixed, 23 no difference) · 86 studies (49 associational, 16 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 86 report an effect size · 178 claims rest on one study
+> **Evidence** · 180 claims (116 show a difference, 41 mixed, 23 no difference) · 87 studies (49 associational, 16 review, 13 causal, 5 quant-synthesis, 4 theoretical), `q1`–`q4` · 27 of 87 report an effect size · 180 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -213,6 +213,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Low-grit students improved substantially in math and English by 12th grade, challenging grit's expected advantage](../claims/low-grit-students-improved-grade12.md) [~M] — learners who differ on it differ in outcomes
 - [Profiles predicted 12th-grade science and English scores, with low grit significantly correlated with both](../claims/profiles-predict-grade12-science-english.md) [+M] — learners who differ on it differ in outcomes
 - [The effectiveness of personalized gamification varies with gamification element type, degree of personalization, and learner characteristics](../claims/personalized-gamification-effectiveness-varies-factors.md) [+M] — an instructional effect differs with it
+- [Conscientiousness robustly predicts academic performance beyond cognitive ability](../claims/conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Trait-aware advising: conscientiousness and neuroticism jointly moderate the workload–achievement relation, and self-efficacy relates to workload choice and grades](../claims/trait-moderation-of-workload-achievement-relation-advising.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

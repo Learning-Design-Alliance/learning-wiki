@@ -59,3 +59,4 @@ Randomized experiment with 122 second-year Dutch secondary students assigned to 
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain](performance-effort-task-selection-training-improves-srl.md) — related
+- [Prior AR training led to better skill transfer to unsupported environments than video training itself](ar-training-better-transfer-to-unsupported.md) — related

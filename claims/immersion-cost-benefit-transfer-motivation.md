@@ -107,3 +107,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Participant reception of VR-modified video was polarized: 2D viewers reported higher average enjoyment, knowledge gained, and engagement, while exactly half of 3D viewers preferred VR to traditional lecture](polarized-reception-vr-vs-2d-video.md) — related
 - [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — reports the opposite
 - [All modalities met usability expectations, but Game-VR incurred the highest cognitive workload while remaining within tolerable limits](vr-workload-usability-tradeoff.md) — related
+- [Review reports lack of conclusive evidence of significant educational benefit for 3D VR quantum-circuit simulations](vr-quantum-simulations-lack-conclusive-evidence.md) — related

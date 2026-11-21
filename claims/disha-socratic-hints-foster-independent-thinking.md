@@ -49,3 +49,4 @@ Thematic analysis of 25 semi-structured interviews (424.16 minutes of recordings
 - [Peer leaders attribute critical thinking change to interacting with others, utilizing different approaches to learning, and problem solving](peer-leaders-attributed-ct-factors-three-themes.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
 - [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
+- [Supervising tutors praised LearnLM's Socratic dialogue, and three of five interviewed tutors reported professional growth from supervising it](tutors-praise-learnlm-socratic-dialogue.md) — related

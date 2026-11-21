@@ -52,3 +52,4 @@ Thematic analysis of think-aloud interviews in which 15 physics experts (five fa
 - [Expert physicists perform neighborhood analysis—identifying physically significant points, considering slope near them, and connecting those slopes into a smooth curve](neighborhood-analysis-expert-physicists.md) — related
 - [Expert physicists use compiled relationships—previously known relationships between quantities—to draw graphs rather than considering the problem directly](compiled-relationships-expert-physicists.md) — related
 - [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — a broader claim this one bears on
+- [One student exhibited covariational reasoning at the smooth continuous covariation stage when interpreting the graph's final vertical segment](smooth-continuous-covariation-vertical-segment.md) — related

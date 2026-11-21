@@ -81,3 +81,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a narrower finding that bears on this claim
 - [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related
 - [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — a narrower finding that bears on this claim
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

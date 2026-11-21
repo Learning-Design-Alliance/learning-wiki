@@ -46,6 +46,7 @@ The article proposes institutional interventions such as AI-free study halls: li
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Pair GAI-allowed and GAI-discouraged assignment portions with no-electronics proctored exams to incentivize independent mastery](hybrid-gai-assignments-with-no-electronics-exams.md)
 
 ## Examples
 -

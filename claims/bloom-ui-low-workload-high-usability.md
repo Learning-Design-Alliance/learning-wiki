@@ -81,3 +81,4 @@ Usability study (RQ3) with N=50 Prolific participants who used the UI for 10 min
 - [Subject matter experts rated PromptHive as highly usable (SUS 89/100) with a large reduction in perceived cognitive workload versus manual authoring](prompthive-high-usability-reduced-cognitive-load.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
 - [All modalities met usability expectations, but Game-VR incurred the highest cognitive workload while remaining within tolerable limits](vr-workload-usability-tradeoff.md) — related
+- [Adding scratch-off interaction to LLM scaffolding did not increase perceived workload and the interface was rated highly usable](interactive-scaffolding-no-workload-increase.md) — related

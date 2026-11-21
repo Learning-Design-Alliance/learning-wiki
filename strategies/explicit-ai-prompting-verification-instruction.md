@@ -57,6 +57,7 @@ The article recommends that curricula incorporate explicit instruction in effect
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 - [Raise student and colleague awareness of AI-related privacy risks through research-ethics curricula](ai-privacy-education-research-curricula.md)
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
+- [Students adapt GenAI usage through input-related, output-related, personal and user-awareness strategies](genai-usage-adaptation-strategies.md)
 
 ## Examples
 -

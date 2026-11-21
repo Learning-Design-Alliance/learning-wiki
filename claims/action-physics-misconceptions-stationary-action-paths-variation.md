@@ -86,3 +86,4 @@ Think-aloud interview records revealed the misconception that zero first-order v
 ## Related Claims
 - [Interviews revealed quantum misconceptions: that only one path is physically relevant, that the stationary path's amplitude magnitude exceeds other paths', and that probability equals the amplitude magnitude rather than its square](quantum-misconceptions-paths-amplitude-probability.md) — related
 - [Model analysis of the stationary action concept shows students remained in the mixed model region before and after instruction, but the correct stationary action model was more likely to be used after instruction](model-analysis-stationary-action-mixed-region.md) — related
+- [Action Concept Inventory identifies four most common student misconceptions when taught the Many Paths approach](aci-four-common-many-paths-misconceptions.md) — related

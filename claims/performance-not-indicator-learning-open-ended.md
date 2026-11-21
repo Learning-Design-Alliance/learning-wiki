@@ -73,3 +73,4 @@ Theoretical framing: the article adopts impasse-driven theories of learning (pro
 - [Students predominantly evaluated team success as fast gameplay, equating efficiency and victory with good teamwork despite prior instructions](students-equate-team-success-with-speed.md) — related
 - [Although the three learning approaches form a hierarchy of abstraction, there is no clear hierarchy in learning outcome as measured by success](abstraction-hierarchy-no-outcome-hierarchy.md) — related
 - [Normative assessment conflates performance with competence and marginalizes neurodivergent physics students](normative-assessment-conflates-performance-competence.md) — related
+- [Fully open-ended first-year laboratory activities left some students without enough structure, prompting introduction of a competency framework](open-ended-labs-needed-competency-framework.md) — related

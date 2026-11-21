@@ -64,14 +64,14 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Can a virtual simulation stand in for physical materials or authentic situations, and what does each format do better?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (5 review, 2 causal, 1 kind not coded, 1 design), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Can a virtual simulation stand in for physical materials or authentic situations, and what does each format do better?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (5 review, 3 causal, 1 design), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kontra et al. 2015](https://doi.org/10.1177/0956797615569355) | q3 · causal · r? | i? | this claim |
 | [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | this claim |
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
-| Yossi Ben-Zion 2025 | q2 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
+| [Yossi Ben-Zion 2026](https://doi.org/10.1103/s8dy-kqy5) | q2 · causal · r1 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
 | [Jiang Hongzhan 2026](https://doi.org/10.2196/95167) | q3 · review · r3 | i? | [One RCT found AI-assisted simulation inferior to standardized patient simulation for breas](ai-simulation-inferior-bse-skills.md) (supports) |
 | [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that real-world experiential simulations offer affordances beyond virtu](real-world-simulations-embodiment-affordances.md) (supports) |
 | Vargas 2024 | q2 · review · r2 | i? | [Immersive technologies such as virtual reality should reinforce, not substitute, the origi](vr-reinforcement-not-substitute.md) (supports) |

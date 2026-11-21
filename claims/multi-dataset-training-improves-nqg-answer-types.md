@@ -50,3 +50,4 @@ The review attributes this finding to Murakhovs'ka et al. (2021): training on va
 - [A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity](small-labeled-data-plateaus-evaluator.md) — related
 - [Multi-task learning on a large multi-topic dataset outperforms separate topic-specific essay scoring models](mtl-multi-topic-beats-topic-specific-scoring.md) — a narrower finding that bears on this claim
 - [The prompt-based method maintains high accuracy and contextual understanding across diverse educational contexts and interaction types](prompt-method-robust-across-contexts.md) — related
+- [Multi-prompt training outperforms single-prompt only under extreme label scarcity; above 64 samples per prompt, single-prompt training yields better performance](multi-prompt-vs-single-prompt-low-resource.md) — related

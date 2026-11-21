@@ -53,3 +53,4 @@ The paper reports, citing Shiomi et al. (2015), a study placing the Robovie soci
 - [School teachers reported that their students began to interact more in class and question the role of science after the robotics exhibition](cl-teacher-reported-student-interaction.md) — related
 - [After two months of interaction with an autonomous empathic robot in classrooms, students' learning did not change significantly from pre-test to post-test, while game-actions shifted toward more sustainable choices in a single-group pre-post study](long-term-empathic-robot-no-significant-gains.md) — related
 - [Participants with intermediate prior knowledge asked more questions than those with basic knowledge](sam-intermediate-knowledge-more-questions.md) — related
+- [Discourse features—question asking, social curiosity, and explanation giving—correlated with curiosity and learning perceptions in peer dyads](discourse-features-predict-peer-outcomes.md) — related

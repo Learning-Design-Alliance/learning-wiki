@@ -49,3 +49,4 @@ Descriptive account of the VCL resource from the methods section. The article st
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [Teachers used the VCL in ways that re-enforced their current practice, whether student-centred or teacher-centred](vcl-use-reinforced-current-practice.md) — related
 - [Laboratory lessons supported by the virtual chemistry laboratory were rated as more constructivist than the same teacher's real-laboratory lessons](vcl-lab-lessons-rated-more-constructivist-than-real-lab.md) — related
+- [Fully open-ended first-year laboratory activities left some students without enough structure, prompting introduction of a competency framework](open-ended-labs-needed-competency-framework.md) — related

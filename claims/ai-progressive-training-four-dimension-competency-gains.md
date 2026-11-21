@@ -78,3 +78,4 @@ Table 1 paired comparisons (N = 28) show professional knowledge improved 12.4 po
 - [At Week 4, only implementation ability differed significantly among clinical reasoning dimensions; knowledge acquisition showed no significant difference](scaffolded-cbd-week4-null-dimensions.md) — related
 - [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related
 - [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](simulation-enhances-psychomotor-skills-obgyn.md) — related
+- [SIREN participants showed large pre-to-post gains across all 12 assessed skill domains, with Cohen's d ranging from 1.10 to 2.52](siren-pre-post-skill-gains-large-effects.md) — related

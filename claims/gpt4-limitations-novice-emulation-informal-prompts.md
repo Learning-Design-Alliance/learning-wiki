@@ -70,3 +70,4 @@ Three brief informal-prompt tests, e.g. a toddler's toy trucks pushed off a tabl
 - [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
 - [Question keywords correlate with GPT-4 scores: mathematical terms with lower scores, 'explain' with higher, and 'sketch' showing the strongest negative correlation](keyword-correlations-gpt4-physics-scores.md) — related
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
+- [The article accounts for LLMs' apparent determinism on physics problems via constraint density, not a reasoning mode](constraint-density-explains-llm-stability.md) — related

@@ -8,27 +8,27 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: sun-2025
+  - id: sun-2026
     resource: "https://doi.org/10.48550/arxiv.2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
     kind: associational
     rigour: 1
-  - id: sun-2025-2
+  - id: sun-2026-2
     resource: "https://doi.org/10.48550/arxiv.2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
     kind: associational
     rigour: 1
-  - id: sun-2025-3
+  - id: sun-2026-3
     resource: "https://doi.org/10.48550/arxiv.2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
@@ -40,18 +40,18 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Cluster 1 exhibited iterative optimization loops with high Configuration self-loops (0.732) and moderate Testing self-loops (0.351). [→ Sun 2025](#sun-2025)
-`q2 i?` Cluster 2 showed rapid prototyping, with Template Cloning transitioning to Object Creation at nearly twice the rate of other clusters (0.684). [→ Sun 2025 (2)](#sun-2025-2)
-`q2 i?` Cluster 3 showed browsing-anchored exploration with Template Cloning self-loops (0.482), indicating hesitant creation followed by validation-seeking. [→ Sun 2025 (3)](#sun-2025-3)
+`q2 i?` Cluster 1 exhibited iterative optimization loops with high Configuration self-loops (0.732) and moderate Testing self-loops (0.351). [→ Sun 2026](#sun-2026)
+`q2 i?` Cluster 2 showed rapid prototyping, with Template Cloning transitioning to Object Creation at nearly twice the rate of other clusters (0.684). [→ Sun 2026 (2)](#sun-2026-2)
+`q2 i?` Cluster 3 showed browsing-anchored exploration with Template Cloning self-loops (0.482), indicating hesitant creation followed by validation-seeking. [→ Sun 2026 (3)](#sun-2026-3)
 
 ## Evidence
 
-### Sun 2025
+### Sun 2026
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r1`
 
@@ -59,9 +59,9 @@ Markov transition analysis of action sequences for Cluster 1: "High Configuratio
 
 > "High Configuration self-loops (0.732) but moderate Testing self-loops (0.351) indicated sustained parameter adjustment punctuated by rapid evaluation-adjustment pivots."
 
-### Sun 2025 (2)
+### Sun 2026 (2)
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r1`
 
@@ -69,9 +69,9 @@ Markov analysis for Cluster 2's rapid prototyping flows: "Template Cloning trans
 
 > "Template Cloning transitioned to Object Creation at nearly twice the rate of other clusters (0.684), followed by sustained Creation self-loops (0.458), suggesting efficient conversion of templates into continuous creative output."
 
-### Sun 2025 (3)
+### Sun 2026 (3)
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. Originally published 2025. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r1`
 
@@ -95,3 +95,4 @@ Markov analysis for Cluster 3's browsing-anchored exploration: "Template Cloning
 - [Subjects most often attributed their iteration to new insights or discovering that initial choices were not the best](subjects-attribute-iteration-to-new-insights.md) — related
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](behavior-alone-insufficient-predict-ai-tpack.md) — related
 - [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related
+- [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related

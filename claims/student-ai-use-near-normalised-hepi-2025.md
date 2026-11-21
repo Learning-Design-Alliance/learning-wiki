@@ -48,3 +48,4 @@ Second-hand survey evidence reported by the article: the HEPI/Kortext survey of 
 ## Related Claims
 - [Student generative AI use rose sharply while institutional support lagged, per a 2025 survey the article cites](student-genai-use-92-percent-institutional-support-lag.md) — possibly the same claim (merge candidate)
 - [In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI use rather than overt misconduct](superficial-reflection-low-misuse-negligible.md) — related
+- [92% of surveyed British undergraduates report using generative AI tools for study purposes](92-percent-british-undergraduates-use-generative-ai.md) — possibly the same claim (merge candidate)

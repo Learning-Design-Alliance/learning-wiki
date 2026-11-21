@@ -49,3 +49,4 @@ First-semester final exam with no dialogues allowed and first answer counting; f
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [AI scores dropped only slightly on post-COVID open-book physics exams (GPT-4: 50.8% to 47.5%; GPT-3.5: 41.6% to 33.6%)](ai-scores-slight-drop-post-covid-exams.md) — related
 - [ChatGPT performance is stochastic across chat instances, and the models rarely meaningfully self-correct without a user pointing out a specific mistake](chatgpt-stochastic-self-correction-rare.md) — related
+- [ChatGPT can pass introductory physics exams while making beginner-like conceptual errors](chatgpt-passes-physics-exams-with-beginner-errors.md) — a broader claim this one bears on

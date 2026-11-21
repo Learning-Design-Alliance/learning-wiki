@@ -64,3 +64,4 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Qualitative analysis identified four categories of student response: course feedback methodology, understanding and improving the medical procedure, intervention improvements, and self-awareness](affinity-diagramming-four-categories-process-feedback.md) — related
 - [Feedback is a prerequisite for all identified aspects of deliberate practice and plays a facilitative role in developing practice habits.](feedback-prerequisite-deliberate-practice.md) — related
 - [Students in the CT-based capstone course reported high satisfaction, with choice, learning, structure, and examples as the best elements](student-feedback-choice-learning-structure.md) — related
+- [Open-ended student feedback on SIREN yielded four major themes: hands-on learning, collaboration and mentorship, program structure, and personal growth](siren-qualitative-four-themes.md) — related

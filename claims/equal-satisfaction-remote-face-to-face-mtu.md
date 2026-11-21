@@ -48,3 +48,4 @@ Posttest satisfaction measures adapted from the NLN Student Satisfaction and Sel
 - [Remote MTU training produced procedural performance gains comparable to face-to-face training, with no significant difference between the two delivery modes](mtu-remote-training-comparable-shows-how.md) — related
 - [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](als-satisfaction-higher-face-to-face.md) — reports the opposite
 - [Topic-level performance modestly favored in-class over remote teaching, but the between-group difference was not statistically significant](topic-level-inclass-advantage-not-significant.md) — related
+- [Students whose performance improved or stayed unchanged reported significantly higher satisfaction with blended learning methods and tutor support than those whose performance worsened](mwu-satisfaction-performance-groups.md) — related

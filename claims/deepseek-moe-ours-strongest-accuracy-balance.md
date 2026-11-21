@@ -53,3 +53,4 @@ Benchmark comparison on the study's n = 300 OER-derived query evaluation set (10
 - [On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding](eduguard-cs50-forum-generalization.md) — related
 - [Fine-tuned MacBERT outperformed fine-tuned LLMs on medical entity extraction while requiring far fewer computational resources](macbert-beats-llms-medical-entity-extraction.md) — related
 - [Practical on-device LLM deployment is limited to roughly 4-billion-parameter models because memory grows nearly linearly and generation speed drops sharply beyond that size](on-device-deployment-limited-4b-parameters.md) — related
+- [Fine-tuned model generates explanations that nearly double baseline BLEU-1 and receive near-ceiling expert ratings](finetuned-model-explanations-outperform-baselines.md) — a narrower finding that bears on this claim

@@ -107,3 +107,4 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related
 - [Model-expert agreement on question diversity is very weak, with the model systematically overestimating diversity relative to experts](genai-question-diversity-weak-agreement.md) — related
 - [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — a narrower finding that bears on this claim
+- [Authorship effects do not inflate AI-marking validity estimates; if any bias operates it runs in the conservative direction](authorship-bias-conservative-direction.md) — related

@@ -94,3 +94,4 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [OLabX received modest System Usability Scale scores across two independent evaluation events (60.8 at ULAC, 65.83 at AUTH)](olabx-sus-scores-two-workshops.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related
+- [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related

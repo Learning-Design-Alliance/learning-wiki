@@ -49,3 +49,4 @@ Case-study interview analysis extending Tuminaro and Redish’s introductory-lev
 - [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](nested-epistemic-games-laplace-sensemaking.md) — related
 - [Experts' intuitive steps in derivations are cultural norms learned as one becomes a physicist](intuitive-recognitions-are-cultural-norms.md) — a broader claim this one bears on
 - [Identifying problems that can be solved effectively using Laplace’s equation was challenging for advanced students when not explicitly told which method would be effective](identifying-laplace-effectiveness-challenge.md) — related
+- [No evidence of the Recursive Plug and Chug game appeared in graduate students' sensemaking, though sensemaking showed local coherence without global coherence.](no-recursive-plug-chug-grad-moi.md) — related

@@ -51,3 +51,4 @@ Behavioral log and cost analysis from the user study (Figure 6 heatmap and Table
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [In the pilot data, high-progress and low-progress students had similar numbers of dialogue turns per session, but high-progress students produced longer utterances (15.3 vs 11.5 words per turn)](hp-longer-utterances-similar-turn-counts.md) — related
 - [EasyMED produced stronger early-phase gains for low-baseline (novice) learners than human SP training (21.83 vs 16.58 points)](easymed-stronger-novice-early-gains.md) — related
+- [Average daily engagement reached 4.2 sessions with an average session duration of 14.4 minutes](daily-engagement-4-2-sessions-14-4-minutes.md) — related

@@ -45,6 +45,7 @@ Because some students quickly mark down answers on concept-inventory pre- and po
 - [Award participation marks for attempting at least 10 quiz questions per lecture within 14 days and scoring at least 60%](participation-mark-incentive-strategy.md)
 - [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
 - [Use school credit, apprenticeship-hour recognition and material awards to incentivize student and teacher participation in a reading program](asimov-prize-incentives-pcto-credits-awards.md)
+- [Award extra credit and small rewards to sustain engagement in an optional review game](extra-credit-incentives-optional-game.md)
 
 ## Examples
 -

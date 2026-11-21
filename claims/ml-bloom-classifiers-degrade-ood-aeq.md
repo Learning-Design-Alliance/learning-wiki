@@ -62,3 +62,4 @@ Numerical evaluation (5-fold cross-validation on IID-Lau, transfer to OOD Scaria
 - [BloomNet outperforms all considered baseline models on both IID and OOD classification of Bloom's taxonomy course learning outcomes](bloomnet-outperforms-baselines-bloom-classification.md) — related
 - [All pretrained transformer models showed a significant performance drop of about 20% between IID and OOD data, and OOD performance correlated linearly with IID performance](pretrained-transformers-twenty-percent-ood-drop.md) — related
 - [Supervised ML is the most frequently used approach for automatic scoring of science assessments due to its high accuracy](supervised-ml-most-used-scoring-approach.md) — related
+- [A logistic-regression classifier predicted the five macro-themes with 0.90 ± 0.02 average accuracy under 10-fold cross-validation](classifier-tenfold-accuracy-ninety-percent.md) — related

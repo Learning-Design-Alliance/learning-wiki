@@ -49,3 +49,4 @@ The review's own synthesis of 32 studies (intervention, diagnosis, and documenta
 - [The review reports that Comprehensive Sexuality Education programs are more useful than moral/traditional or abstinence-based programs and are associated with better sexual and reproductive health outcomes](cse-more-useful-than-abstinence-programs-review.md) — related
 - [The review reports that studies incorporating a gender perspective highlight its need for reducing gender inequalities in boys and girls](gender-perspective-reduces-gender-inequalities-se.md) — related
 - [The review reports that 96% of Portuguese schools in the study sample implemented some form of sexuality education](96-percent-portuguese-schools-implemented-se.md) — related
+- [Most certified teacher training courses in Portugal are perfunctory and provide no substantive training, and physics teachers' coding skills are largely absent](perfunctory-teacher-training-coding-gap.md) — related

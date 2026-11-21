@@ -52,6 +52,7 @@ Python is an interpreted language typically used for desktop applications or ser
 
 - [Instructor recommendations for running a module-development course project](../strategies/module-development-course-recommendations.md)
 - [Teach parameter dependence by having students compute spectra for deliberately ruled-out exotic models with real scientific software rather than parameter-slider applets](../strategies/exotic-model-comparison-strategy-real-software.md)
+- [Inquiry-based exploration: students modify θ and v0 in the provided scripts and immediately observe trajectory changes](../strategies/modify-scripts-inquiry-projectile-parameters.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

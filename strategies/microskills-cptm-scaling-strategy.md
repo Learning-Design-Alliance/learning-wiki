@@ -65,6 +65,7 @@ To address scalability, the authors recommend that "future implementations in re
 - [Recommendations for future interprofessional OMP workshops: balance professions, stress efficiency, add a follow-up session, and refine micro-skill wording](interprofessional-omp-workshop-implementation-recommendations.md)
 - [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 - [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
+- [Address scalability, instructor engagement, gender participation, localization, and evaluation design when adopting arts-based STEM integration](arts-stem-integration-open-issues-strategy.md)
 
 ## Examples
 -

@@ -93,3 +93,4 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 - [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](la-personalized-feedback-earlier-homework-start.md) — a narrower finding that bears on this claim
 - [E-learning platform use increased homework submission and attendance in a reviewed case study](e-learning-platform-homework-attendance-case-study.md) — related
 - [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related
+- [Earlier access to GPTutor was associated with higher homework scores but this benefit did not transfer to exam scores](gptutor-earlier-access-homework-not-exam.md) — related

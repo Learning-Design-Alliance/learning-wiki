@@ -50,3 +50,4 @@ A narrative-curriculum analysis in the paper's physics section reports that high
 - [Introductory physics textbooks typically omit quantum entanglement despite its centrality to quantum information science](intro-textbooks-omit-entanglement.md) — a narrower finding that bears on this claim
 - [The article argues that most K-12 education still operates on a 17th-century Comenian model of 'printing minds' for passing on static knowledge](comenian-printing-minds-model-persists.md) — related
 - [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — a narrower finding that bears on this claim
+- [Most reviewed Latin American curricula omit complex numbers, and coverage of linear algebra and modern physics fundamental to quantum computing remains limited](curricula-lack-quantum-prerequisite-content.md) — related

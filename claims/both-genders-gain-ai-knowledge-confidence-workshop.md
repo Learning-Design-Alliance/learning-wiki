@@ -58,3 +58,5 @@ Within-gender pre–post OLS comparisons (outcome ~ phase + year level + school)
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
+- [Workshop participation yields large gains in self-reported AI knowledge and understanding of AI training, a medium gain in understanding of bias, and a small gain in confidence](workshop-gains-ai-knowledge-confidence.md) — related
+- [One-day AI literacy workshops significantly increase secondary students' recognition of AI in algorithmic recommendation platforms such as Netflix, TikTok and Spotify](workshops-increase-ai-recognition-recommendation-platforms.md) — related

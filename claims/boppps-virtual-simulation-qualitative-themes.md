@@ -70,3 +70,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
 - [Thematic analysis identified five themes for how the book club contributed to professional and personal development](book-club-five-qualitative-themes.md) — related
 - [Final-semester medical students reported that a primary care virtual patient supported self-directed learning and stimulated reflection](vp-primary-care-supports-self-directed-learning-student-reports.md) — related
+- [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related

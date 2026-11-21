@@ -68,3 +68,4 @@ Same observational record across treatment and control sections: "students in th
 - [Undergraduate non-major physics students using LiDAR Motion achieved significantly greater pre-to-post learning-assessment gains than students using Vernier ultrasonic rangers with LoggerPro](lidar-motion-gains-exceed-ultrasonic-ranger-gains.md) — related
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
 - [Classroom observations during the pilot showed students deliberately adjusting motion toward the target graph, spontaneous strategy discussions, and previously passive students becoming actively involved](missionmotion-observations-engagement.md) — related
+- [With the rotation-compensated apps, no student group results were entirely inconsistent with measured motion](no-inconsistent-results-with-rotation-compensated-apps.md) — related

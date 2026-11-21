@@ -48,6 +48,7 @@ The article recommends including students in the design and validation of learni
 
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
+- [Dual-sourcing measurement strategy: pair validated self-report surveys with trace-based proxies validated on labeled subsamples](tala-dual-sourcing-trait-measurement-strategy.md)
 
 ## Examples
 -

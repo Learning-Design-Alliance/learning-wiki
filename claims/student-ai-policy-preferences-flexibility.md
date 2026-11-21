@@ -72,3 +72,4 @@ Post-survey policy-restrictiveness item (Figure 9, N = 51); the article reports 
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
+- [Undergraduate engineering students most prefer group work combined with AI over individual AI use, with preferences differing by course](gci-group-work-ai-most-preferred.md) — related

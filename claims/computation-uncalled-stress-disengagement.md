@@ -66,3 +66,4 @@ Interview excerpt from the same findings section. Ed reports "undue stress" aris
 ## Related Claims
 - [Student resistance to computation differs from general resistance to research-based methods: students reject learning something new and activities they see as not belonging in physics class](student-resistance-computation-different-form.md) — related
 - [Computation made some students question their physics competence, feeling worse at physics when they could not translate known formulas into code](computation-diminishes-perceived-physics-competence.md) — related
+- [Second-year students experienced escalating challenge as unmanageable workload, prompting added scaffolding, fewer languages, and coaching](second-year-workload-unmanageable-scaffolding-added.md) — related

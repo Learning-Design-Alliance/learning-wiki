@@ -54,3 +54,4 @@ Analysis of the collected computational essays found "All students in the presen
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [The collected essay corpus (69 essays) showed varied coding approaches and near-universal use of plots, with most essays following a lab-report narrative structure](essay-corpus-coding-and-narrative-features.md) — related
 - [Glowscript's dynamic plotting gives students immediate visual feedback while a simulation runs](glowscript-dynamic-plotting-immediate-feedback.md) — related
+- [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related

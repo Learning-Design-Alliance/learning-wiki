@@ -51,3 +51,4 @@ One-way ANOVA and Kruskal–Wallis tests on final exam marks grouped by SIDRA-sc
 - [Final histology exam averages did not change significantly after gamification, though the proportion of higher grades shifted toward 2018](gamification-exam-averages-not-significant.md) — related
 - [First-year PA student cohorts differ significantly in multicultural experiences, exhaustion, and personal accomplishment](pa-cohort-differences-multicultural-experiences-burnout.md) — related
 - [Class averages fluctuated little across the four cohorts 2014-15 to 2017-18, arguing against cohort or test-difficulty bias](sst-cohort-averages-stable-across-years.md) — related
+- [Learners studying top-ranked resources performed significantly better than those studying third-ranked resources](alignment-ranked-resources-predict-learning-performance.md) — related

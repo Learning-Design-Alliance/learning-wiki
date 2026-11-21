@@ -55,3 +55,4 @@ The author's interpretation of the September-to-May program design, contrasted w
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
 - [SRMP participation enriched students and built coding skills across the first two cohorts](srmp-student-testimonials-enrichment.md) — related
 - [Tan-Q students progress to university study and return as mentors, which the authors cite as evidence of the program's educational success](tan-q-students-return-as-mentors.md) — related
+- [Faculty advisors and peer mentors reported that the condensed three-week SIREN format was sustainable and effective](siren-advisor-mentor-sustainability.md) — related

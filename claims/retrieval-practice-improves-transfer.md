@@ -136,3 +136,4 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — a narrower finding that bears on this claim
 - [Learning from failed quiz attempts appears highly specific to problem format and generally lacks transfer to a new problem context](failed-attempt-learning-lacks-transfer.md) — a narrower finding that bears on this claim
 - [Students with self-identified prior exposure to presentation topics outperform those with none on retention and transfer quiz questions](prior-exposure-predicts-presentation-quiz-performance.md) — related
+- [Quiz-based feedback methods showed a consistent but non-significant trend of stronger performance on novel post-learning tasks involving new concept combinations](quiz-feedback-trend-novel-task-transfer.md) — a narrower finding that bears on this claim

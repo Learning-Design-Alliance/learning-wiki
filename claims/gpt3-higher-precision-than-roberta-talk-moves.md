@@ -49,3 +49,4 @@ Model comparison on a held-out 20% split of 2,503 annotated instructor utterance
 - [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related
 - [RoBERTa classifiers detect annotated discourse moves in math classroom transcripts with moderate to high accuracy, best for on vs off task instruction](roberta-classifiers-discourse-moves-moderate-high-accuracy.md) — related
 - [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — reports the opposite
+- [LLMs classifying Talk Moves show higher recall than precision, overproducing labels at a high false-positive rate](llm-talk-move-labeling-high-false-positives.md) — related

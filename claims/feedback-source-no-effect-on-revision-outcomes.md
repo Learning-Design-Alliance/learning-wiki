@@ -75,3 +75,4 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](drafts-improved-significantly-raters-scores.md) — related
 - [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related
+- [AI-mediated and human-only feedback conditions showed no statistical difference on post-test learning scores, despite higher revision quality being associated with higher learning](no-post-test-difference-ai-mediated-feedback.md) — related

@@ -54,6 +54,7 @@ The authors recommend combining simulator-based and peer-assisted ultrasound tra
 - [Blend simulation with traditional training rather than separating them into discrete components](blend-simulation-with-traditional-procedural-training.md)
 - [Incorporate a simulation-based ultrasound module into mandatory physician orientation](ultrasound-module-in-mandatory-orientation-strategy.md)
 - [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
+- [Use AI to monitor and support peer collaborations rather than replace them, combining modalities by affordance](ai-monitors-and-supports-peer-collaboration.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-20
+source_checked: 2026-11-21
 sources:
   - id: tamara-van-gog-nikol-rummel-2010
     resource: "https://doi.org/10.1007/s10648-010-9134-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructional guidance from worked examples fosters learning when no schemata are available but is ineffective or even detrimental for students who already have relevant schemata, requiring dynamic adaptation of guidance. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)

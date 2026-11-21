@@ -17,7 +17,7 @@ sources:
 # Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on both quantitative and qualitative results, the authors recommend that VR "should be integrated into broader strategies rather than used as a standalone method". Experts proposed that teachers theoretically introduce or explain the content, and future versions should add gamification elements such as progress bars, a scoring system, prizes, lists of previous attempts, and more personalized feedback, which the authors note are effective in boosting engagement and motivation toward learning goals.

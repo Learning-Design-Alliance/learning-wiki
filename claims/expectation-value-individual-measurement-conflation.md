@@ -72,3 +72,4 @@ After relevant instruction, students asked about measuring the electron-nucleus 
 - [Many students conflate energy eigenstates with eigenstates of other observables and incorrectly believe only the initially present energies can be measured after a prior position measurement](energy-eigenstate-conflation-after-measurement.md) — related
 - [Many advanced students incorrectly conflate the action of an operator on a wave function with the measurement of the corresponding observable](students-conflate-operator-action-with-measurement.md) — related
 - [Students conflated measurement with determination of Dynamical Variables, and one student treated the uncertainty principle as a classical uncertainty](measurement-determination-confusion-qm.md) — related
+- [Item refinement revealed students conflating quantum states with measurement probabilities and overgeneralizing circuit behavior from basis states](students-conflate-state-with-measurement-probabilities.md) — related

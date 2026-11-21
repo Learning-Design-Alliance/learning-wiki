@@ -63,6 +63,7 @@ Feedback to instructors functions like [assessment-for-learning](../principles/a
 - Formative assessment of learners — the student-facing counterpart; the same closed-loop logic applied to learning rather than teaching
 - [Iteratively improve a VR course through continuous evaluation and informal feedback](iterative-evaluation-driven-vr-course-improvement.md)
 - [Assess and iterate the program through faculty review, end-of-semester project review, and senior exit interviews](fp-formative-assessment-and-iteration.md)
+- [Implement outreach surveys at the closing moments of the event, assigned to a specific person, without mandatory questions](administer-survey-at-event-close-no-mandatory-questions.md)
 
 ## Examples
 - **Mid-semester SGID programs** — Many university centers for teaching (e.g., the University of Washington's Center for Teaching and Learning) run facilitated mid-quarter student interviews; instructors receive a themed report while the course can still be adjusted.

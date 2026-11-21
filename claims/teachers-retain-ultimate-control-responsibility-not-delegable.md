@@ -56,3 +56,5 @@ Qualitative finding from the study's analysis of how six secondary teachers conc
 - [The word 'enhanced' in 'technology-enhanced learning' implies a value judgement, making the term problematic though worth retaining with care](tel-enhanced-implies-value-judgement.md) — related
 - [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
 - [Experts perceived AI-assisted hints as more consistent than human-only hints and reported retaining control over generation](experts-perceived-consistency-and-control.md) — related
+- [The authors argue that making pedagogical intent explicit and editable in a language-mapping interface has the potential to lower design barriers for non-expert designers and preserve human agency in critical decisions](pedagogical-intent-explicit-editable-lowers-barriers.md) — related
+- [School principals view teacher-in-the-loop control over AI-generated materials as a prerequisite for trust and adoption](principals-teacher-in-the-loop-trust-adoption.md) — related

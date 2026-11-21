@@ -50,3 +50,4 @@ HLM analysis of system-student interaction logs from 1033 treatment-condition 7t
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Among 7th-grade ASSISTments users, there is no significant overall gender difference in homework time or number of problems completed](no-gender-difference-overall-homework-time-middle-school.md) — related
+- [Solving more problems predicts higher outcomes while requesting more hints predicts lower outcomes](problem-count-positive-hints-negative-covariates.md) — related

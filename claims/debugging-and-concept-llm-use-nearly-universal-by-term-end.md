@@ -53,3 +53,5 @@ Descriptive final-survey analysis (n=14) of usage modes found debugging selected
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
 - [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related
+- [Students rated GAI most useful for concrete task-focused work such as code generation and debugging, and least useful for self-guided study and a Slack help channel](gai-utility-ranked-task-focused-work-highest.md) — related
+- [Debugging code was the most common use of genAI among student groups, but its efficiency meant students skipped learning to identify errors themselves](genai-debugging-most-common-use-efficiency-tradeoff.md) — related

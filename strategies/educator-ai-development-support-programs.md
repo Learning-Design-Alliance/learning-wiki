@@ -63,6 +63,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Use awareness of mentoring positions to identify mentors' learning needs and tailor faculty development](position-awareness-for-tailored-mentor-development.md)
 - [Support faculty adoption of active learning with peer communities, framing, incentives, and iterative refinement](faculty-support-for-ebae-implementation.md)
 - [Incorporate unguided peer collaboration into professional development programs for early educators, supported by communities of practice](unguided-peer-collaboration-in-educator-pd-strategy.md)
+- [Online and hybrid communities of physics educators supporting EBAE adoption](online-community-physics-educators-ebae-support.md)
 
 ## Examples
 -

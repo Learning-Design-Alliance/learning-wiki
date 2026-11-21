@@ -47,3 +47,4 @@ Intergroup comparison of extraneous cognitive load measured with the Leppink et 
 ## Related Claims
 - [No significant difference in total or intrinsic cognitive load across lecture, independent VPs, and collaborative VPs sessions](no-intrinsic-load-difference-vp-sessions.md) — related
 - [The lecture showed the highest total cognitive load and lowest situational interest descriptively, but total-load differences were not significant](lecture-total-load-highest-not-significant.md) — related
+- [Across both experiments, cognitive load and situational interest showed an inverse relationship, with game-based labs consistently lowest in load and highest in interest](inverse-load-interest-relationship.md) — related

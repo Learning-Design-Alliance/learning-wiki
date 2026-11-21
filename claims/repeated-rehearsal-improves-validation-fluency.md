@@ -50,3 +50,4 @@ Case-vignette evidence from Supervision Session 2: four successive role-play att
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — related
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](experience-linked-ot-psychotherapy-competence-confidence.md) — related
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related
+- [AI-generated feedback significantly improves counselors' responses to client resistance in a controlled experiment](ai-feedback-improves-counselor-responses-experiment.md) — related

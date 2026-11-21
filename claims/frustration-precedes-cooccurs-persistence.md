@@ -56,3 +56,4 @@ Qualitative analysis of setback episodes in the DbD activity. The article report
 - [Experimental-group students showed an emerging trend toward scrutinizing untested components, associating positive emotions with debugging, and valuing debugging more than controls](debugging-mindset-trend-experimental.md) — related
 - [About 35% of annotated posts expressed multiple emotions, with Confusion and Frustration forming the most frequent co-occurring dyad](confusion-frustration-cooccurrence-dyad.md) — related
 - [Debugging struggles and uncertainty about how to begin learning are leading causes of novice programmers' emotions in informal settings](debugging-and-kickoff-uncertainty-top-emotion-causes.md) — related
+- [An unresolved debugging struggle early in the activity undermined one student's subsequent engagement, and she never submitted the second associated assignment](unresolved-debugging-derailed-multi-day-activity-engagement.md) — related

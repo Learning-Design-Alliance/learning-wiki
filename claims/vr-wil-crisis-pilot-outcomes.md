@@ -59,3 +59,4 @@ The review reports, citing Godat et al. (2007), a pilot study using survey, vide
 - [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related
 - [Older distance students agree more that virtual and remote experiments make practical science enjoyable, while younger students prefer co-location with equipment](age-trend-remote-lab-enjoyment.md) — related
 - [Students agreeing that virtual experiments make practical work more enjoyable tend to obtain higher module grades, and students replying that remote experiments are not effective for teaching collaboration tend to obtain lower grades](enjoyment-grade-correlation.md) — related
+- [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](feedback-groups-greater-enjoyment-and-skill-growth.md) — related

@@ -53,3 +53,4 @@ Numerical experiment (Section 5.4.4, Figure 7) comparing TE+C fine-tuned from sy
 - [Accuracy gains from additional fine-tuning data plateau beyond 30 seconds per class](fine-tuning-gain-plateau-beyond-30-seconds.md) — related
 - [Transfer-learning personalization with 30 seconds of per-class EEG data raises AttentioNet accuracy to 92.3%](attentionet-personalization-30-seconds-92-3.md) — related
 - [A DeBERTa agent fine-tuned on LLM-generated synthetic data achieved a MAP@3 of 0.936 on a synthetic test set, up from 0.532 for DeBERTa alone](synthetic-data-finetuned-deberta-map3-0936.md) — related
+- [Multi-prompt training outperforms single-prompt only under extreme label scarcity; above 64 samples per prompt, single-prompt training yields better performance](multi-prompt-vs-single-prompt-low-resource.md) — related

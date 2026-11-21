@@ -53,3 +53,4 @@ Random-effects panel regression of 87 students' weekly session outcomes across t
 - [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](hints-marginal-bias-score-reduction.md) — related
 - [Additional statistics exercises added to the PBL course were reported ineffective by student evaluations, requiring better coordination with a biostatistics workshop](pbl-statistics-exercises-ineffective.md) — related
 - [Average number of attempts before reaching the correct answer served as the task-difficulty measure, with hints preventing bottleneck tasks in the MOOC](attempt-count-task-difficulty-mooc.md) — related
+- [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](feedback-does-not-hinder-post-learning-problem-solving.md) — related

@@ -50,3 +50,4 @@ Evaluation questionnaire (23 items; engaging, educational, easy-to-use subscales
 - [SDTM raised trainee engagement and enjoyment ratings with large effect sizes](sdtm-higher-engagement-and-enjoyment-ratings.md) — related
 - [Residents rated IVR training as more enjoyable, easier to use, and with greater teaching capacity than video training, except for implant-specific steps](resident-experience-ratings-ivr-vs-video.md) — related
 - [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related
+- [Participants rated AR training higher than video on perceived usefulness, engagement, and behavioral intention, with no difference in ease of use](ar-higher-tam-ratings-than-video.md) — related

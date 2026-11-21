@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (99 show a difference, 24 mixed, 18 no difference) · 86 studies (29 associational, 28 causal, 16 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 25 of 86 report an effect size · 140 claims rest on one study
+> **Evidence** · 142 claims (100 show a difference, 24 mixed, 18 no difference) · 87 studies (29 associational, 28 causal, 16 review, 10 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 25 of 87 report an effect size · 141 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -177,6 +177,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [MMI scores do not correlate significantly with global trait emotional intelligence measured by the TEIQue-SF](../claims/hamburg-mmi-no-trait-ei-correlation.md) [-W] — learners who differ on it differ in outcomes
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](../claims/dpcc-ms-mmi-convergent-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](../claims/paths-primary-effect-teacher-rated-secchi.md) [+M] — measured as an outcome of the instruction studied
+- [AAM-TSA improves recognition across all eight emotion categories, including teacher-specific emotions, over the strongest baseline](../claims/aam-tsa-fine-grained-eight-emotion-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

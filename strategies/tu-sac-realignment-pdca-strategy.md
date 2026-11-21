@@ -55,4 +55,4 @@ The article prescribes concrete re-alignment actions triggered by indicator disc
 -
 
 ## Key Sources
-- Derouich, M. (2025). Ensuring Outcome-Based Curriculum Coherence through Systematic CLO–PLO Alignment and Feedback Loops. Discover Education. https://www.springer.com/journal/44302
+- Derouich, M. (2025). Ensuring Outcome-Based Curriculum Coherence through Systematic CLO–PLO Alignment and Feedback Loops. Discover Education. https://www.springer.com/journal/44302. [doi:10.1007/s44217-025-00915-7](https://doi.org/10.1007/s44217-025-00915-7)

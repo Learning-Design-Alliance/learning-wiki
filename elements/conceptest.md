@@ -13,7 +13,7 @@ generated:
 # ConcepTest
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 15 studies (5 causal, 4 quant-synthesis, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 5 of 15 report an effect size · 10 claims rest on one study
+> **Evidence** · 14 claims (11 for, 2 mixed, 1 against) · 16 studies (6 causal, 4 quant-synthesis, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 6 of 16 report an effect size · 11 claims rest on one study
 
 ## Description
 A ConcepTest is a short multiple-choice (or short-answer) question focused on a single concept — typically one where learners hold predictable misconceptions — posed to the whole class. Learners commit to an answer individually (often via clicker or show of hands), discuss with neighbors, revote, and then the instructor resolves the result. Developed by Eric Mazur in Harvard's physics course, it is the question engine of [Peer Instruction](../patterns/peer-instruction.md).
@@ -64,6 +64,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Post-test performance rose from pre-test to post-test in online and in-person advanced quantum mechanics classes after a research-validated clicker question sequence on quantum measurement, in one uncontrolled pre-post study](../claims/cqs-quantum-measurement-improves-posttest-online-and-in-person.md) [+W] — attached 2026-11-20 from Peter Hu et al. (2023), which proposed "Clicker Question Sequence (CQS) on quantum measurement of two-state quantum systems".
 - [Among students, the proportion confusing the action of an operator on a quantum state with measurement fell from pre-test to post-test after the CQS but remained around 40%, so the confusion remained a persistent student difficulty](../claims/operator-action-confused-with-measurement-persistent-difficulty.md) [+W] — attached 2026-11-20 from Peter Hu et al. (2023), which proposed "Clicker Question Sequence (CQS) on quantum measurement of two-state quantum systems".
 - [Students show major difficulties with expectation values after lecture alone, and expectation-value scores rose from pre-test to post-test after the CQS during its single-year administration, in one uncontrolled pre-post study](../claims/expectation-value-difficulties-cqs-improvement.md) [+W] — attached 2026-11-20 from Peter Hu et al. (2023), which proposed "Clicker Question Sequence (CQS) on quantum measurement of two-state quantum systems".
+- [A revised CQS implemented by a second instructor yielded poorer posttest performance than in the first class, attributed to students' low prior knowledge](../claims/cqs-class-b-worse-posttest-low-prior-knowledge.md) [~W] — attached 2026-11-21 from Paul Justice et al. (2026), which proposed "Addition of angular momentum clicker question sequence (CQS) for upper-level quantum mechanics".
 
 ## Related Elements
 

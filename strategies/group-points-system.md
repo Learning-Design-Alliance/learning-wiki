@@ -62,6 +62,7 @@ Group points operationalize [Behaviorism](../theories/behaviorism.md) at the gro
 - [Good Behavior Game](../products/good-behavior-game.md) — a behavior-focused variant of the same group contingency mechanism
 - [Team-Based Learning](../strategies/team-based-learning.md) — a more structured pattern where team accountability extends to readiness assurance and application tasks
 - [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](matrix-grading-team-assignments.md)
+- [Award extra credit and small rewards to sustain engagement in an optional review game](extra-credit-incentives-optional-game.md)
 
 ## Examples
 - **[Student Teams-Achievement Divisions](student-teams-achievement-divisions.md) (STAD)** — Slavin's widely replicated cooperative structure: teams study material, members take individual quizzes, and team scores are computed from individual improvement, so every member's growth counts.

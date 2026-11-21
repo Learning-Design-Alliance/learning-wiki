@@ -52,3 +52,4 @@ In the Numerical Modelling and Simulation module's project planning element, the
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — reports the opposite

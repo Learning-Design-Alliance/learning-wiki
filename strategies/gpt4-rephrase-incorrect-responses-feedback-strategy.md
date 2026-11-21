@@ -59,6 +59,7 @@ The authors recommend integrating GPT-4 classification and rephrasing into templ
 ## Related Strategies
 
 - [Integrate AOI-dependent eye-tracking and motion metrics into training sessions for real-time formative feedback and personalized training](eye-tracking-real-time-formative-feedback-laparoscopic-training.md)
+- [Deliver real-time multi-dimensional AI scores with explanatory feedback during counselor practice on resistance moments](realtime-ai-feedback-counselor-resistance-practice.md)
 
 ## Examples
 -

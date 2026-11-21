@@ -87,3 +87,5 @@ Same section. The authors report “Half of the interviewees had used GenAI to s
 - [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
+- [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — related
+- [Time pressure pushed students toward genAI use, while learning goals led most students to moderate their use](time-pressure-and-learning-goals-shape-genai-use.md) — related

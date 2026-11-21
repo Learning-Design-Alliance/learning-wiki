@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: ka-yan-fung-2025
+  - id: ka-yan-fung-2026
     resource: "https://doi.org/10.48550/arxiv.2601.01218"
-    title: "Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)"
+    title: "Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2026). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 Originally published 2025. [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)"
     author: Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The robot group improved significantly in behavioural engagement (p<.05, +27.06%), whereas the PPT (p=.09) and paper (p=.19) groups' improvements were not statistically significant. [→ Ka Yan Fung 2025](#ka-yan-fung-2025)
+`q2 i?` The robot group improved significantly in behavioural engagement (p<.05, +27.06%), whereas the PPT (p=.09) and paper (p=.19) groups' improvements were not statistically significant. [→ Ka Yan Fung 2026](#ka-yan-fung-2026)
 
 ## Evidence
 
-### Ka Yan Fung 2025
+### Ka Yan Fung 2026
 
-Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)
+Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2026). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 Originally published 2025. [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)
 
 `q2 · i?` · `causal · r1`
 
@@ -53,3 +53,4 @@ Efficacy verification section reports pre-post questionnaire scores for the robo
 - [A trial reporting that robot-assisted digital storytelling improves hospitalized children's therapeutic communication used a scale on which the robot group's higher scores mean more difficulty communicating](robot-ds-improves-therapeutic-communication.md) — related
 - [Robot-assisted digital storytelling increases hospitalized children's emotional engagement during intravenous injections more than video-based health education](robot-ds-increases-emotional-engagement.md) — related
 - [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](robot-ds-reduces-hospitalization-anxiety.md) — related
+- [Behavioural engagement and intrinsic motivation showed small descriptive gains after LiveBo use, neither statistically significant](livebo-behavioural-engagement-motivation-nonsignificant-gains.md) — related

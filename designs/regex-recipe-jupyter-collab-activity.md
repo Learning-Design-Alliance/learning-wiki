@@ -48,4 +48,4 @@ The article describes a Python programming activity on regular expressions, a to
 -
 
 ## Key Sources
-- Wu, Z., Shi, J., Murray, R. C., Rosé, C., & San Andres, M. (2025). LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure. CSCL 2025 Proceedings. http://bit.ly/4leDl0U
+- Wu, Z., Shi, J., Murray, R. C., Rosé, C., & San Andres, M. (2025). LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure. CSCL 2025 Proceedings. http://bit.ly/4leDl0U. [doi:10.48550/arxiv.2510.18877](https://doi.org/10.48550/arxiv.2510.18877)

@@ -54,6 +54,7 @@ The IMR-SS provided "concurrent real-time multimodal feedback (visual warnings, 
 - [Develop more sensitive laparoscopic instruments that allow accurate haptic feedback during training](sensitive-instruments-haptic-feedback-laparoscopic-training.md)
 - [Progressively wean trainees off virtual guidance aids during simulator training](wean-trainees-off-virtual-guides.md)
 - [Provide real-time visual warnings when grip force exceeds a threshold during instrument practice](real-time-grip-force-warning-strategy.md)
+- [Deliver real-time, parameter-specific feedback at the learner's line of sight during live physical-skill practice, then test unassisted](in-situ-ar-guidance-live-skill-training-strategy.md)
 
 ## Examples
 -

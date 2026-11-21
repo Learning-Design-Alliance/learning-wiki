@@ -69,3 +69,4 @@ Interview data on degree-subject routes (Fig. 3) show "The majority of companies
 - [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related
 - [Quantum industry managers project a continued need for a workforce spanning a range of educational levels to support industry scaling](quantum-managers-project-range-educational-levels.md) — related
 - [Managers anticipate expansion of the quantum talent pipeline beyond scientists and engineers into soft-skill-based and integration roles](quantum-pipeline-expansion-soft-skill-integration-roles.md) — related
+- [The interviewed experts unanimously encourage students to pursue QIST-related courses, degrees, and careers](experts-encourage-qist-pursuit.md) — related

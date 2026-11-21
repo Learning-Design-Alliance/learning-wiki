@@ -61,3 +61,4 @@ Human validation of the LLM-as-a-Judge protocol: three medical Ph.D. holders rat
 - [Human teachers' preferences for LM-generated worksheets correlate significantly with evaluator LM judgments (r = 0.661), but teachers sometimes cannot distinguish worksheets the LM perceives as different](lm-judgments-align-with-teacher-preferences.md) — related
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related
 - [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related
+- [The automatic bug-description evaluation metric agrees strongly with human evaluators](automatic-bug-description-metric-human-agreement.md) — related

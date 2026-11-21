@@ -55,3 +55,4 @@ Ethnographic observation across all groups; on one occasion ChatGPT incorrectly 
 - [Students generally trusted ChatGPT's theoretical answers without fact-checking, and some anthropomorphized the tool as possessing knowledge](student-trust-and-anthropomorphizing-chatgpt.md) — related
 - [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — reports the opposite
 - [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related
+- [Productive genAI use was associated with limiting it to small, well-understood steps and double-checking its output](productive-genai-use-small-steps-verification.md) — reports the opposite

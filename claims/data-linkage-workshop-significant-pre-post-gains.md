@@ -48,3 +48,4 @@ Pre-post evaluation of five one-day workshops with 98 attendees; 75 participants
 - [Data linkage training eliminates the pre-existing gap in self-rated understanding between HREC members with and without prior review experience](training-closes-experience-gap-data-linkage-review.md) — related
 - [Larger workshop group sizes are associated with lower self-reported learning gains, with one large workshop showing self-reported decreases in knowledge](larger-group-sizes-lower-learning-gains.md) — related
 - [Confidence gains from data linkage ethics training persist 8-17 months after the workshop for the majority of respondents](deferred-survey-confidence-gains-persist.md) — related
+- [Workshop participation yields large gains in self-reported AI knowledge and understanding of AI training, a medium gain in understanding of bias, and a small gain in confidence](workshop-gains-ai-knowledge-confidence.md) — related

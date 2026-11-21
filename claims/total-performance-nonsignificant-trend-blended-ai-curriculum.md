@@ -48,3 +48,4 @@ Independent t-test of final course grades collected with identical rubrics acros
 - [A blended, peer-led, AI-integrated research methods curriculum produced significantly higher overall student satisfaction than traditional lecture-based instruction in postgraduate dental students](blended-ai-curriculum-higher-satisfaction-postgraduate-dental.md) — related
 - [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related
 - [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related
+- [Younger and male postgraduate students reported more negative academic effects of blended learning, with females studying longer](age-gender-study-time-performance-differences.md) — related

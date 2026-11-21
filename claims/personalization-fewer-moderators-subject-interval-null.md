@@ -47,3 +47,4 @@ Exploratory moderator analyses (90% bootstrap CIs) across contextual moderators 
 ## Related Claims
 - [Preferred game genre (adventure) and preferred playing setting (singleplayer) moderated personalization's effect, in both cases in favor of OSFA](game-genre-setting-moderate-personalization.md) — related
 - [Personalization's motivational effect was positive for females, with no such difference among males](gender-moderates-personalization-amotivation.md) — related
+- [Little reliable moderation by learner characteristics, with one exploratory gender interaction favoring women and non-binary students under constructive instruction](moderation-gender-interaction-exploratory.md) — related

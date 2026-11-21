@@ -78,3 +78,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related
 - [Scoring categorizations was highly challenging for faculty evaluators, with substantial disagreement between evaluators on the same categories](categorization-scoring-challenging-evaluator-disagreement.md) — related
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
+- [Inter-rater reliability of expert rubric scoring was excellent for AP Physics 1 (all ICC > 0.90) and generally strong but more variable for AP Physics 2](expert-rubric-scoring-reliability-icc.md) — related

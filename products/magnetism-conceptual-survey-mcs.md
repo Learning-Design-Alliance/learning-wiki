@@ -30,4 +30,4 @@ A 30-item multiple-choice conceptual test developed by Jing Li and colleagues to
 
 ## Key Sources
 - Jing Li and Chandralekha Singh. (2009). Developing a Magnetism Conceptual Survey and Assessing Gender Differences in Student Understanding of Magnetism. PERC Proceedings. https://www.compadre.org/PER/
-- Ghimire, A. and Singh, C. (2025). Using Unguided Peer Collaboration to Facilitate Early Educators' Pedagogical Development: An Example from Physics TA Training. https://www.physport.org
+- Ghimire, A. and Singh, C. (2025). Using Unguided Peer Collaboration to Facilitate Early Educators' Pedagogical Development: An Example from Physics TA Training. https://www.physport.org. [doi:10.3390/educsci15081038](https://doi.org/10.3390/educsci15081038)

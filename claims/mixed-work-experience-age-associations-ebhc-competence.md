@@ -53,3 +53,4 @@ Narrative synthesis within the scoping review. For work experience, the review r
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
 - [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related
 - [Healthcare work experience shows a significant inverse relationship with clinical competence scores, contrary to prior findings](work-experience-inverse-relationship-clinical-competence.md) — related
+- [Younger and male postgraduate students reported more negative academic effects of blended learning, with females studying longer](age-gender-study-time-performance-differences.md) — related

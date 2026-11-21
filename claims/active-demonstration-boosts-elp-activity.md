@@ -51,3 +51,4 @@ Weekly activity plots from the non-pandemic cohort's usage logs (Figure 1B–C).
 - [The games and sketches increased online visibility, with growing downloads, views and webpage visits during 2011](gw-games-growing-online-engagement-2011.md) — related
 - [The IBM-HBCU Quantum Center engaged 441 unique faculty, students, and researchers by March 2021](center-441-unique-participants-2021.md) — related
 - [Questions peaked 2–3 minutes after a new topic was introduced and at the video's final minute](sam-question-timing-peaks.md) — related
+- [Average daily engagement reached 4.2 sessions with an average session duration of 14.4 minutes](daily-engagement-4-2-sessions-14-4-minutes.md) — related

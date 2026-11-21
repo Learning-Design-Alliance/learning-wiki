@@ -61,6 +61,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
 - [Prioritize future research on ChatGPT's efficacy in STEM subjects and its support for collaborative learning and mental health](future-chatgpt-research-stem-collaboration-mental-health.md)
 - [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
+- [Evaluate AI tutoring with consistent support assignments over months and external standardized assessments](longitudinal-consistent-support-ai-tutoring-evaluation.md)
 
 ## Examples
 -

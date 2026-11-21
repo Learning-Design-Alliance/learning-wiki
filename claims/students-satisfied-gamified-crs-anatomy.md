@@ -55,3 +55,4 @@ Nine-question five-point Likert questionnaire completed by 87, 71 and 38 student
 - [Earning badges was associated with greater completion of remaining questions only in round 2, with no significant badge effect in rounds 1 and 3.](badge-effect-on-completion-mixed-by-round.md) — related
 - [The points-and-rank system motivated students to complete course work](points-rank-system-increased-motivation.md) — related
 - [Student evaluation of increased desire to learn about the subject was high (4.9 of 5) after the embedded research experience](cures-increased-desire-to-learn-4-9.md) — related
+- [Social gamification was associated with more students completing the course and engaging with advanced topics than in previous editions](social-gamification-completion-engagement.md) — related

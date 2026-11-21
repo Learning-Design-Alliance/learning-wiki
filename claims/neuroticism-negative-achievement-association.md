@@ -72,3 +72,4 @@ In the specific comparisons, test scores showed more negative neuroticism correl
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](teacher-neuroticism-predicts-performance-self-efficacy.md) — related
 - [Comfort in group learning settings is negatively associated with neuroticism after Bonferroni correction](comfort-group-learning-negative-neuroticism-correlation.md) — a narrower finding that bears on this claim
+- [Trait-aware advising: conscientiousness and neuroticism jointly moderate the workload–achievement relation, and self-efficacy relates to workload choice and grades](trait-moderation-of-workload-achievement-relation-advising.md) — related

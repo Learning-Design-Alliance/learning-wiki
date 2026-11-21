@@ -52,3 +52,4 @@ Qualitative think-aloud interviews with five college quantum educators from four
 - [Bi-stable drawings help show that quantum teleportation transports no object, because the destination identity is present from channel preparation](bi-stable-drawings-teleportation-misconception.md) — related
 - [Over-simplification of QIST concepts can lead early learners to incorrect mental models, as teleportation demonstrations may suggest material transport](qist-oversimplification-incorrect-mental-models.md) — related
 - [Educators recommend emphasizing that entanglement cannot send signals faster than light and that teleportation moves a quantum state, not material](emphasize-no-ftl-and-quantum-state-teleportation.md) — related
+- [Expert educators stress knowing interdisciplinary students' prior knowledge, and suggest background polling can help monitor progress in QIST courses](know-audience-prior-knowledge-qist.md) — related

@@ -47,3 +47,4 @@ Preliminary field testing involving nine grade VIII students (three high-ability
 ## Related Claims
 - [Two-stage revision raised the NGSS worksheet validation score from 2.6 (not yet feasible) to 3.36 (very good)](ngss-worksheet-validation-revision-gain.md) — related
 - [A limited group of six students rated the media 94.4% overall, categorized as very valid](limited-group-testing-94-4-percent-very-valid.md) — related
+- [Dyslexia-adapted worksheet shows partial alignment with accessibility guidelines but weak font readability](dyslexia-worksheet-mixed-accessibility-ratings.md) — related

@@ -51,3 +51,4 @@ Randomized simulation-based feasibility trial with 40 interprofessional teams (8
 - [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related
 - [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related
 - [Using the PediAppRREST app was not associated with increased team leaders' perceived workload compared with usual practice](pediaprrrest-no-workload-increase.md) — related
+- [Adding scratch-off interaction to LLM scaffolding did not increase perceived workload and the interface was rated highly usable](interactive-scaffolding-no-workload-increase.md) — related

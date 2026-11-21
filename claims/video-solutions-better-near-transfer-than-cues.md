@@ -49,3 +49,4 @@ Fisher's Exact Test on correctness rates of N=33 students randomly assigned to t
 - [For students who solved the initial problem incorrectly, Cue + Video significantly outperformed Cue Only on near transfer but not far transfer](low-prior-knowledge-cue-video-near-transfer-only.md) — a narrower finding that bears on this claim
 - [For students who solved the initial problem correctly, Cue + Video and Video Only conditions outperformed Cue Only on both near and far transfer tasks](prior-knowledge-moderates-transfer-benefit.md) — a narrower finding that bears on this claim
 - [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related
+- [Prior AR training led to better skill transfer to unsupported environments than video training itself](ar-training-better-transfer-to-unsupported.md) — related

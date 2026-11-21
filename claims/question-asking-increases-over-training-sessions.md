@@ -52,3 +52,4 @@ Within-condition analysis of transcribed lessons: a 1-tailed paired t-test on fi
 - [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related
 - [No consistent learning effect of repeated TrackFX gameplay was found across children, though 37% showed positive performance slopes and improvement reached an asymptote after six sessions](no-consistent-trackfx-practice-effect.md) — related
 - [Repeated SDL skills training increases the approval rate of care tasks among healthcare professionals.](repeated-sdl-training-increases-approval-rate.md) — related
+- [Discourse features—question asking, social curiosity, and explanation giving—correlated with curiosity and learning perceptions in peer dyads](discourse-features-predict-peer-outcomes.md) — related

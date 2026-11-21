@@ -57,3 +57,6 @@ The review reports a single-group observational study of beginner CFL learners u
 - [Higher user satisfaction and self-evaluation do not necessarily correlate with academic performance in an ERS deployment](ers-satisfaction-not-correlate-academic-performance.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — related
 - [Self-directed engagement with LLM-generated skill content fosters positive, engaged responses, including preference for content that leaves room for autonomous thinking](self-direction-fosters-engaged-responses.md) — related
+- [High dependence on AI correlates with lower critical-thinking performance, mediated by cognitive offloading, and AI tools that minimize cognitive struggle risk weakening critical thinking](ai-cognitive-offloading-lower-critical-thinking.md) — related
+- [Intelligent tutoring systems show generally positive effects on learning, whereas naive chatbots delivering pre-digested answers limit reflection and critical engagement](pedagogically-aligned-ai-enhances-outcomes.md) — related
+- [Pilot course observations are consistent with the three-phase inoculation cycle](pilot-course-inoculation-cycle-observations.md) — related

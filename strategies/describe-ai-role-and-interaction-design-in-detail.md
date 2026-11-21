@@ -43,6 +43,7 @@ For the AI Role and Interaction domain, the article recommends a concrete report
 - [Grade AI-dialogue assignments on evidence of sustained dialogue, and explicitly teach students to answer the AI's questions](grade-ai-assignments-on-dialogue.md)
 - [Four design principles for integrating voice-based AI into language curricula](four-design-principles-voice-ai-l2-curricula.md)
 - [Make AI peer dialogue more inquisitive: identify the student's misconception first, ask them to elaborate, and let dialogue length be flexible](inquisitive-ai-peer-dialogue-strategy.md)
+- [AI voice co-instructor co-teaching methodology with peer observation and instructor modeling](ai-voice-co-instructor-coteaching.md)
 
 ## Examples
 -

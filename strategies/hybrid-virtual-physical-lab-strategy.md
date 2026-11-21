@@ -53,6 +53,7 @@ Students repeatedly expressed a desire for more virtual and/or physical laborato
 - [Iteratively refine virtual laboratory teaching using student feedback: add group discussions, advance reading materials, and clearer in-experiment guidance](feedback-driven-vlab-refinement-strategy.md)
 - [Optional campus workshop during semester break to address missing physical interaction and group interaction](optional-campus-workshop-semester-break.md)
 - [Curated repository of vetted QISE curricula plus multi-mechanism access to laboratory equipment](qise-curriculum-repository-and-equipment-access-strategy.md)
+- [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
 
 ## Examples
 -

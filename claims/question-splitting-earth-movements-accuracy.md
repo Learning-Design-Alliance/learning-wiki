@@ -51,3 +51,4 @@ Comparison between pilot tests and the final version of the instrument on Earth'
 - [Students do not spontaneously recognize the equivalence of the tower and ship falls, but most accept it when the equivalence is made explicit, leading them to question their ship prediction](equivalence-of-falls-not-spontaneous-but-accepted-when-prompted.md) — related
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
+- [QCCS Item 15 v2.1 became nearly impossible (3% correct) because students were reticent to choose 'none of these'](qccs-item15-v2-1-none-of-these-reticence.md) — related

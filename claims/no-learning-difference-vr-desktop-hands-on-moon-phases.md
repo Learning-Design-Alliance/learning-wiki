@@ -78,3 +78,4 @@ Between-condition comparison of post-test scores in a randomized pre-post study 
 - [In a pilot ASTRO 101 study, a VR activity on Moon phases and eclipses was at least as effective as supplemental lecture or hands-on activities on multiple-choice quiz gains](vr-moon-phases-at-least-as-effective-pilot.md) — related
 - [A VR Moon-phase activity performed at least as well as traditional teaching methods for introductory astronomy students](vr-moon-phase-performs-comparably-to-traditional.md) — a narrower finding that bears on this claim
 - [Immersive VR assembly training produced significantly higher delayed post-test scores than desktop virtual and physical assembly training among novices](vr-assembly-training-higher-posttest.md) — reports the opposite
+- [Immediate factual knowledge gains are media-equivalent across immersive VR, desktop VR, and control conditions](immediate-factual-learning-media-equivalent.md) — related

@@ -78,3 +78,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related
 - [A writing-intensive introductory GE astronomy course increased non-major students' perceptions of their own ability to engage with STEM across all four measured tasks](sciwri-ge-course-increased-ability-perceptions.md) — related
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
+- [Students reported that interlinking physics, mathematics and computational content across modules helped them see connections and accelerated understanding of complex topics](cross-module-integration-accelerates-understanding.md) — related

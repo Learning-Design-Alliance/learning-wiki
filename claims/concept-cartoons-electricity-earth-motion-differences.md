@@ -47,3 +47,4 @@ Content analysis of posttest responses by topic in the quasi-experiment. The art
 ## Related Claims
 - [The experimental group achieved a higher frequency of scientifically acceptable statements than the control group in the posttest, with the largest idea shifts in thermal conductivity, vision and density](concept-cartoons-scientifically-acceptable-statements.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
+- [No significant differences were found between the experimental and control groups in pre-test or post-test BEMA achievement percentages](no-between-group-bema-difference.md) — related

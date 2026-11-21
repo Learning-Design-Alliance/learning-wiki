@@ -47,6 +47,8 @@ The review recommends that future ITS research strengthen its empirical foundati
 - [Evaluate AI tools with the same rigor as new drugs, diagnostic tests, or treatment protocols](evaluate-ai-tools-like-new-drugs.md)
 - [Future tutoring-system research directions: robotic cognitive adaptability, comprehensive ethics, and long-term outcome studies](tutoring-systems-future-research-directions.md)
 - [Adopt a generalizability challenge requiring tutoring classifiers to be validated across diverse datasets](tutoring-classifier-generalizability-challenge.md)
+- [Address scalability, instructor engagement, gender participation, localization, and evaluation design when adopting arts-based STEM integration](arts-stem-integration-open-issues-strategy.md)
+- [Evaluate AI tutoring with consistent support assignments over months and external standardized assessments](longitudinal-consistent-support-ai-tutoring-evaluation.md)
 
 ## Examples
 -

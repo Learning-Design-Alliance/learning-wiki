@@ -57,3 +57,4 @@ Qualitative phenomenological pilot: two focus groups with a total of 10 first- a
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
 - [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related
+- [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related

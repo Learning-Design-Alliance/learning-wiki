@@ -47,3 +47,4 @@ Theoretical argument from the article's conclusion, synthesizing the section ana
 ## Related Claims
 - [Beyond expanding-substrate models, expanding-space preconceptions are more likely to hinder than aid understanding of peculiar velocities, out-of-flow galaxies, and bound systems](expanding-space-preconceptions-hinder-beyond-models.md) — reports the opposite
 - [The Doppler shift Student Representation Task sequences representation creation to confront known reasoning difficulties, culminating in QCR = 4 graphing](doppler-shift-srt-confronts-difficulties.md) — related
+- [The Portuguese 11th-grade physics syllabus confuses cosmological redshift with the Doppler effect, and students can understand the distinction when adequately explained](cosmological-redshift-vs-doppler-syllabus-error.md) — related

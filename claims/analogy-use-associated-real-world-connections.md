@@ -51,3 +51,4 @@ A posteriori coding of the same nine COPUS videos, tabulating analogies and real
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related
 - [Analogies in science teaching are implemented through verbal instructions, videos, and images or illustrations, often combined within one analogy](analogy-didactic-resources-verbal-video-images.md) — related
+- [Analogical bridges were the most frequently used mechanism of interest integration, with illustrative examples and contextualizing scenarios also employed](interest-integration-mechanisms-frequency.md) — related

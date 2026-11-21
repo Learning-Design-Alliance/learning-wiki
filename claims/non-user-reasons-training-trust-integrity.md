@@ -65,3 +65,4 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 - [Most editors hold that authorship experience is key to high-quality reviews while formal training is not, though evidence does not support this view](authorship-not-training-view-of-review-quality.md) — related
 - [Ethical uncertainty around academic integrity and misconduct accusations was a key barrier to full student engagement with the AI learning assistant](ai-ethical-uncertainty-engagement-barrier.md) — possibly the same claim (merge candidate)
 - [Distrust in AI was negatively correlated with system usage, while comfort and perceived homework helpfulness were positively correlated with engagement](distrust-comfort-correlate-ai-usage.md) — related
+- [User experience is a major intervening condition: positive experiences increase GenAI usage while poor experiences decrease it](user-experience-intervening-condition-genai-usage.md) — related

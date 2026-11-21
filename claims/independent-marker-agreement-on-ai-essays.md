@@ -51,3 +51,4 @@ Figure 4 stacked histogram of the five markers' scores for the ten AI essays; ma
 - [GAME's marks agree with a human marker's marks on student programming exercises and assignments](game-marks-agree-with-human-marker.md) — related
 - [The SAAAR behavioral marker format showed excellent test-retest reliability (Spearman's ρ = 0.952)](saaar-excellent-test-retest-reliability.md) — related
 - [Interrater agreement on the SAAAR behavioral marker format was moderate and statistically significant (Kendall's W = 0.412)](saaar-moderate-interrater-agreement.md) — related
+- [Human inter-rater reliability on short-form holistic physics essays is extremely low, placing a ceiling on AI-human agreement claims](low-human-essay-reliability-ceiling.md) — reports the opposite

@@ -68,3 +68,4 @@ Accurate-match analysis of the same derived-variable task. "Google Gemini 1.5 Pr
 - [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
 - [In a pilot study, leading LLMs showed promising but imperfect agreement with human coders extracting data from K-12 virtual-character studies](pilot-study-llm-agreement-virtual-character-studies.md) — related
+- [AI performance on AP Physics FRQs degrades substantially on tasks requiring visual extraction, spatial inference, or integration across sub-parts, despite strong algebraic performance](llm-physics-errors-cluster-visual-spatial-tasks.md) — related

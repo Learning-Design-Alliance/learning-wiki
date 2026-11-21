@@ -53,3 +53,5 @@ Numerical comparison across models shown in Fig. 4 and Tables 2–3. The article
 - [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](lime-eye-mouth-areas-in-latent-features.md) — related
 - [Optimizing the classification threshold improves cross-dataset mind wandering detection, raising person-level correlation from 0.48 to 0.8](threshold-optimization-improves-cross-dataset-detection.md) — related
 - [Fine-tuned transfer learning is used to examine the generalizability of webcam-based mind-wandering detection across tasks, settings, and target groups and to address low-quality in-the-wild data](transfer-learning-webcam-mind-wandering-generalizability.md) — related
+- [Client datasets in remote learner-state detection differ sharply in sample counts and positive sample rates](client-data-heterogeneity-learner-state-datasets.md) — related
+- [Eyeglass-detection (MeGlass) features slightly improved non-mind-wandering detection but not mind-wandering detection](meglass-features-mixed-benefit-learner-state.md) — related

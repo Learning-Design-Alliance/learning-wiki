@@ -48,3 +48,4 @@ In the same path analysis (N = 293), the direct effect of SLEs on psychological 
 - [School engagement partially mediates the relationship between stressful life events and academic achievement](school-engagement-partial-mediation-sles-achievement.md) — related
 - [School-related challenges are the most detrimental type of stressful life event, predicting lower achievement, higher distress, and lower engagement](school-related-challenges-strongest-sle-predictor.md) — related
 - [Stressful life events were highly prevalent in this suburban sample, exceeding national prevalence estimates](sle-prevalence-suburban-latine-sample.md) — related
+- [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related

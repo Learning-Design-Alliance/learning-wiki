@@ -52,6 +52,7 @@ The article recommends offering students a low-stakes simulated setting in which
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits](frame-genai-pbl-experience-experimentation-orientation.md)
 - [Integrate AI-generated feedback with voice-enabled, conversational VP platforms using natural speech interaction](voice-enabled-conversational-vp-ai-feedback.md)
+- [AI voice co-instructor co-teaching methodology with peer observation and instructor modeling](ai-voice-co-instructor-coteaching.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Exploratory item-level analysis of the 12-item objective knowledge test with cer
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
+- [Misconceived explanations of language models (web searching, mistranslation) decreased substantially after the hands-on training activity](misconception-explanations-decrease-after-training-activity.md) — related

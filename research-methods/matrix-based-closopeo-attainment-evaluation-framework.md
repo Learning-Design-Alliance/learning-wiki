@@ -31,4 +31,4 @@ The article presents a complete evaluation process for assessment data built on 
 
 ## Key Sources
 - Irfan Ahmed and Arif Bhatti. (2015). Design and Implementation of Performance Metrics for Evaluation of Assessments Data. arXiv preprint. https://arxiv.org/abs/1509.04311
-- Derouich, M. (2025). Ensuring Outcome-Based Curriculum Coherence through Systematic CLO–PLO Alignment and Feedback Loops. Discover Education. https://www.springer.com/journal/44302
+- Derouich, M. (2025). Ensuring Outcome-Based Curriculum Coherence through Systematic CLO–PLO Alignment and Feedback Loops. Discover Education. https://www.springer.com/journal/44302. [doi:10.1007/s44217-025-00915-7](https://doi.org/10.1007/s44217-025-00915-7)

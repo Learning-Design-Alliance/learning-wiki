@@ -49,3 +49,4 @@ Process mining with a First-Order Markov Model over ordered session sequences ch
 - [Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor](selectivity-engagement-quality-differences.md) — related
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — related
 - [STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement](stem-nonstem-engagement-differences.md) — related
+- [Across problems, students show strong self-transitions indicating stable strategic pathways](across-problem-stable-strategic-pathways.md) — related

@@ -49,3 +49,4 @@ Prediction experiment on 90 labeled discussions (27 High, 36 Mid, 27 Low) using 
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — related
+- [A logistic-regression classifier predicted the five macro-themes with 0.90 ± 0.02 average accuracy under 10-fold cross-validation](classifier-tenfold-accuracy-ninety-percent.md) — related

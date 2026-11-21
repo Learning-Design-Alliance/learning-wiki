@@ -49,3 +49,4 @@ Descriptive analysis of automatically collected PeerWise usage logs for two coho
 - [Summative score rose stepwise with writing and commenting frequency, while answering showed a threshold effect only for prolific answerers](peerwise-frequency-group-threshold-answering.md) — related
 - [Question writing frequency correlates most strongly with summative examination performance among PeerWise activities](question-writing-frequency-correlates-summative-performance.md) — related
 - [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related
+- [Student chatbot usage in the Modern Physics course was highly event-driven, spiking on exam days and dense modules](chatbot-usage-event-driven-exam-spikes.md) — a narrower finding that bears on this claim

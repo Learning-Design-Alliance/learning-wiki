@@ -75,3 +75,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related
 - [Students produced ten self-chosen particle-physics projects, which the authors read as evidence of acquired basic knowhow for designing and developing products](lidyef2018-ten-student-projects.md) — related
 - [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — related
+- [A sixth-grade student's depiction of the decibel scale's factor-ten increase, absent from textbook and instruction, suggests cognitive transfer from mathematics class](decibel-scale-cognitive-transfer-math-class.md) — related

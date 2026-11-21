@@ -71,3 +71,4 @@ Detailed analysis by proficiency level of the 2024 and 2025 level confusion matr
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — reports the opposite
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [AI and teacher grades were identical for 83.63% of Attempt I responses, with discrepancies mostly showing more conservative AI grades](ai-teacher-grading-alignment-83-percent.md) — related
+- [Authorship effects do not inflate AI-marking validity estimates; if any bias operates it runs in the conservative direction](authorship-bias-conservative-direction.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Multiple-choice survey of 76 students from six universities administered after t
 - [Students cannot set up the probability of measuring an energy eigenvalue for a state not written as a superposition of energy eigenstates](energy-measurement-probability-triangle-wavefunction-difficulty.md) — related
 - [Students conflate individual measurements with expectation values of quantum observables](expectation-value-individual-measurement-conflation.md) — related
 - [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related
+- [Item refinement revealed students conflating quantum states with measurement probabilities and overgeneralizing circuit behavior from basis states](students-conflate-state-with-measurement-probabilities.md) — related

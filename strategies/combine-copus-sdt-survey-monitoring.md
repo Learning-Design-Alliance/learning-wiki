@@ -53,6 +53,8 @@ The article recommends that instructors and departments "interested in flexible 
 
 - [Assess motivational development with multi-faceted, ongoing, longitudinal measures including scaffolding observation](multifaceted-ongoing-motivational-development-assessment.md)
 - [Mixed-instrument evaluation plan combining efficacy and interest surveys, interviews, and a staged statistical analysis plan](stem-center-evaluation-instrument-plan.md)
+- [Adopt minimal, feasible evaluation upgrades—COPUS documentation, student-level covariates, and cluster-aware analysis—when evaluating instructional change](st-feasible-evaluation-upgrades-instructional-change.md)
+- [Validate critical components and intended activity flows through developer and expert interviews](validate-critical-components-developer-interviews.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The article's prompt engineering strategy specifies that prompts should meet "th
 - [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
+- [Provide diverse, representative examples in prompts to unlock latent LLM performance on discourse classification](example-driven-prompting-unlock-llm-performance.md)
 
 ## Examples
 -

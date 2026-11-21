@@ -40,6 +40,7 @@ The article recommends a design-level response to AI-related disengagement: favo
 ## Related Strategies
 
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
+- [Design AI-resistant assessment items targeting the Perception-Cognition Gap and Calculation-Conceptualization Discrepancy](ai-resistant-item-design-strategy.md)
 
 ## Examples
 -

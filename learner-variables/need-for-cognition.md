@@ -13,7 +13,7 @@ generated:
 # Need for Cognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 13 claims (7 show a difference, 3 mixed, 3 no difference) · 11 studies (6 associational, 3 causal, 1 review, 1 theoretical), `q1`–`q3` · 5 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (7 show a difference, 3 mixed, 4 no difference) · 12 studies (6 associational, 4 causal, 1 review, 1 theoretical), `q1`–`q3` · 5 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Need for cognition is a stable disposition to seek out and enjoy cognitively demanding activity, measured by self-report scales (Cacioppo & Petty). Learners high on it invest more effort in demanding material and tend to process information more deeply. It correlates with achievement, with [general cognitive ability](general-cognitive-ability.md), academic self-concept and intrinsic [motivation](motivation.md), and it can moderate how learners respond to tools that reduce effort, such as AI assistance.
@@ -48,6 +48,7 @@ Need for cognition is a stable disposition to seek out and enjoy cognitively dem
 - [Previous academic interest does not positively predict subsequent need for cognition, with one negative exception for English interest at T1](../claims/interest-does-not-predict-subsequent-nfc.md) [-W] — measured as an outcome of the instruction studied
 - [Previous need for cognition positively predicts subsequent academic interest in mathematics, German, and English over Grades 5–7](../claims/nfc-predicts-subsequent-academic-interest.md) [+W] — learners who differ on it differ in outcomes
 - [Underreliance is negatively correlated with programming literacy, need for cognition, and programming self-efficacy](../claims/underreliance-negative-literacy-nfc-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Interaction quality emerged from dynamic patterns rather than individual traits: pre-session personality measures showed no significant correlations with outcomes, and identical AI behavior produced divergent outcomes](../claims/interaction-quality-emergent-not-individual.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

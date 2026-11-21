@@ -50,4 +50,4 @@ The article's outreach strategy deliberately "targeted primarily teachers, becau
 -
 
 ## Key Sources
-- Reiff, P. H., Sumners, C. T., Gardner, C. H., Caspi, A., & Kovac, S. (2025). Engaging and Educating Eclipse Observers Through Workshops, Media, Planetarium shows and Citizen Science. https://space.rice.edu/eclipse/
+- Reiff, P. H., Sumners, C. T., Gardner, C. H., Caspi, A., & Kovac, S. (2025). Engaging and Educating Eclipse Observers Through Workshops, Media, Planetarium shows and Citizen Science. https://space.rice.edu/eclipse/. [doi:10.48550/arxiv.2509.22348](https://doi.org/10.48550/arxiv.2509.22348)

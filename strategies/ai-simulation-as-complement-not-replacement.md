@@ -68,6 +68,7 @@ The authors recommend treating AI-enhanced simulation as an augmenting strategy 
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
+- [Use AI to monitor and support peer collaborations rather than replace them, combining modalities by affordance](ai-monitors-and-supports-peer-collaboration.md)
 
 ## Examples
 -

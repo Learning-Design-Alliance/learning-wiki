@@ -67,3 +67,4 @@ Descriptive statistical analysis of the pilot's 5-point Likert questionnaire (1 
 - [Beta testers and deployed pilot users gave generally positive recommendation scores, with MR educators rating the games highest](virtual-scanner-games-feedback-scores.md) — related
 - [Users rated SAM positively on satisfaction, response quality, and trust in accuracy](sam-positive-usability-ratings.md) — a narrower finding that bears on this claim
 - [In the 2025 pilot, 54 students reported moderate-to-high learning (M = 3.81) and mostly positive gameplay experiences](sparc-2025-survey-perceptions.md) — related
+- [User satisfaction and motivation metrics consistently exceeded 4.75/5 across all measured dimensions](satisfaction-motivation-above-4-75.md) — related

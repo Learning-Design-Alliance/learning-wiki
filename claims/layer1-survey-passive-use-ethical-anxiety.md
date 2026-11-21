@@ -59,3 +59,4 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 - [GenAI tools are already widely used in the academic work of the surveyed undergraduates](genai-widely-used-in-student-academic-work.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
 - [Ethical uncertainty around academic integrity and misconduct accusations was a key barrier to full student engagement with the AI learning assistant](ai-ethical-uncertainty-engagement-barrier.md) — related
+- [Unclear university guidelines create a risk that GenAI-using students fear false plagiarism accusations](unclear-guidelines-plagiarism-accusation-risk.md) — related

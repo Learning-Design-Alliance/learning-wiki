@@ -148,3 +148,4 @@ gamified vocabulary practice.
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — reports the opposite
 - [Personalized gamification can enhance student cognition in programming courses by improving motivation, engagement, and learning outcomes](personalized-gamification-enhances-cognition-programming-courses.md) — a narrower finding that bears on this claim
 - [Quiz grades stayed similar after gamification, suggesting students engaged meaningfully rather than gaming the leaderboard](meaningful-engagement-quiz-grades-similar.md) — a narrower finding that bears on this claim
+- [Badges were the strongest predictor of learning outcomes among gamification elements (β = 0.54)](badges-strongest-predictor-hijaiyah-outcomes.md) — a narrower finding that bears on this claim

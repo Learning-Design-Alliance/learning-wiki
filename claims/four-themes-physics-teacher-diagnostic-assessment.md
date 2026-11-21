@@ -47,3 +47,4 @@ Phenomenological study in which eight Indonesian physics teachers (five male, th
 ## Related Claims
 - [Teachers prefer oral questioning, interviews, and direct questioning over tests for diagnosing misconceptions](teachers-prefer-oral-questioning-diagnosis.md) — related
 - [Contextual factors — absent misconception-diagnosis training and exam-driven curriculum density — shape teachers' assessment practice](contextual-factors-training-curriculum-shape-practice.md) — related
+- [IPA of ten pre-service physics teachers' interviews identifies four themes of their online PBL experience, including self-efficacy and self-reflection](ipa-four-themes-pbl-self-efficacy.md) — related

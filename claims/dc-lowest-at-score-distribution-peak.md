@@ -71,3 +71,4 @@ Observed in the Sim 1 results (Figure 2 and Table 7), where the lowest DC estima
 - [Pass/fail decisions from simulation and OSCE show substantial consistency (Cohen's kappa = 0.67), and a simulation cut-score of 75 aligns with OSCE and practicum outcomes](simulation-osce-decision-consistency-kappa.md) — related
 - [Criterion-referenced coefficients Φ(λ) above 0.95 support pass-or-fail decisions about scenario quality at cut-scores based on borderline scenario means](qassh-cut-score-decision-reliability.md) — related
 - [Standard errors of measurement show precision insufficient for most decisions: SEM Δ for SCI is about 0.35 (95% CI ±0.70), making criterion-referenced SCI decisions very difficult to defend](sem-shows-insufficient-precision-fasci.md) — related
+- [Students' estimates of the synchronization threshold clustered around reasonable values (0.6–0.75)](kc-estimates-peaked-reasonable-values.md) — related

@@ -52,3 +52,4 @@ Hybrid causal discovery analysis of 17 linguistic features across seven domains 
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related
 - [Students report morpho-syntactic errors most in corrective feedback, followed by lexical then phonological errors](l2-error-reporting-order-me-le-pe.md) — related
 - [LLMs differed substantially in how they conceptualized the minimally competent candidate and estimated item-level probabilities](llm-heterogeneity-mcc-conceptualization.md) — a narrower finding that bears on this claim
+- [Correct LLM annotations are marked by higher density of causal connectors in their reasoning, while syntactic complexity (Differentiation) does not distinguish correct from incorrect reasoning](causal-logic-marks-correct-llm-reasoning.md) — related

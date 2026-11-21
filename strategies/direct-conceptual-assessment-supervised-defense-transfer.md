@@ -50,6 +50,7 @@ A concrete response to LLM outsourcing: allow students to use AI for syntax, set
 - [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 - [Prevent CAMEO by embargoing solutions and algorithmically generating assessment items](embargo-solutions-and-algorithmic-item-generation-to-prevent-cameo.md)
 - [Integrate generative-AI-vulnerable take-home tasks into supervised or in-class settings and use student-generated MCQs in peer-testing or formative assessment](supervised-settings-and-peer-testing-for-generation-tasks.md)
+- [Pair GAI-allowed and GAI-discouraged assignment portions with no-electronics proctored exams to incentivize independent mastery](hybrid-gai-assignments-with-no-electronics-exams.md)
 
 ## Examples
 -

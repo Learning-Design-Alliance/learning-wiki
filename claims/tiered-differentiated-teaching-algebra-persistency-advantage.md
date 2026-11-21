@@ -58,3 +58,4 @@ Same quasi-experiment: both groups retook the 21-item Algebra Success Test four 
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — related
 - [Gains from the QKD QuILT persisted on a delayed posttest administered roughly two months later](qkd-quilt-delayed-posttest-retention.md) — related
+- [All four instructional approaches, including a two-sentence reminder, produced durable learning-oriented prompting gains that persisted six weeks later](brief-instruction-durable-prompting-gains.md) — related

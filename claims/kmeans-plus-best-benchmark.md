@@ -50,3 +50,4 @@ Comparative benchmarking of five clustering algorithms (K-Means, K-Means++, DBSC
 - LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data — related
 - [In the four-cluster k-means partition, cluster Cl1 is the densest and best represented by its centroid, while Cl4 is the most spread out and Cl3's centroid represents it least](cluster-density-centroid-reliability.md) — related
 - [A hybrid K-Means/HDBSCAN clustering method outperforms K-Means and HDBSCAN alone on silhouette score and Davies-Bouldin Index for physics strategy essays](hybrid-clustering-outperforms-kmeans-hdbscan-essays.md) — related
+- [Silhouette analysis determined five macro-themes of student reasoning, with the energy-fusion-forces theme dominating at approximately 65% of messages](five-macro-themes-energy-dominant.md) — related

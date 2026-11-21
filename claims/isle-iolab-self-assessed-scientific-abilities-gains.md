@@ -48,3 +48,4 @@ Pre/post self-assessment study in two 12th-grade classrooms (N=44) after ~10-hou
 - [Most students reached good proficiency levels in technical skills, conceptual knowledge and the ISLE process on final tests](final-test-proficiency-isle-iolab-modules.md) — related
 - [Students reported largely positive attitudes toward the ISLE-iOLab lab modules, with 61% rating the activities fun and interesting](positive-student-reception-isle-iolab-modules.md) — related
 - [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](ttca24-self-assessment-improved.md) — related
+- [SIREN participants showed large pre-to-post gains across all 12 assessed skill domains, with Cohen's d ranging from 1.10 to 2.52](siren-pre-post-skill-gains-large-effects.md) — related

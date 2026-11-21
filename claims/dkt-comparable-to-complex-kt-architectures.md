@@ -57,3 +57,4 @@ Observation from the Table 1 results on QATD2k and MathDial: "DKT achieves compa
 - [DKT-based environments converge faster in training, but DKT struggles to estimate higher knowledge levels, unlike the more comprehensive AKT assessments](dkt-faster-convergence-but-poor-high-level-estimates.md) — related
 - [ANN prediction accuracy depends on hidden-node count, with 9 hidden nodes optimal and larger or smaller configurations showing overfitting or underfitting](hidden-node-count-ann-overfitting-underfitting.md) — related
 - [Instantiating TASA with DKT as the knowledge tracing model yields the highest average learning gain among five KT variants](dkt-best-kt-backbone-for-tasa.md) — related
+- [ParLD (GPT-4.1) outperforms traditional knowledge-tracing baselines on final-turn performance prediction on MathDial and CoMTA](parld-outperforms-kt-baselines-performance-prediction.md) — related

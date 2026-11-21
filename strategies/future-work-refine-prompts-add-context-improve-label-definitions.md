@@ -46,6 +46,7 @@ The article recommends three future work strategies: (1) further refine the prom
 ## Related Strategies
 
 - [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
+- [Provide diverse, representative examples in prompts to unlock latent LLM performance on discourse classification](example-driven-prompting-unlock-llm-performance.md)
 
 ## Examples
 -

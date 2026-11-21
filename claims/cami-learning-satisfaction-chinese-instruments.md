@@ -57,3 +57,4 @@ Post-instruction Learning Satisfaction Survey Questionnaire on a five-point Like
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
 - [In class surveys, 93% of students agreed the iOLab-based lab was useful to their learning and 90% indicated the iOLab was easy to use.](iolab-lab-student-survey-usefulness-ease.md) — related
+- [Students and tutors perceived interest integration positively — students found lessons more casual, familiar, and engaging, while tutors valued the resulting interactivity](positive-perceptions-interest-integration.md) — related

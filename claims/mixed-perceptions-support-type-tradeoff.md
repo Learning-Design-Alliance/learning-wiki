@@ -48,3 +48,4 @@ Perception data from the classroom study: some PC students felt puzzles "still p
 - [Novice programmers perceive CodeTailor's personalized Parsons puzzles as more engaging support than receiving a direct LLM-generated code solution](codetailor-more-engaging-than-ai-solution.md) — related
 - [Posttest programming scores did not differ significantly between CodeTailor support and receiving an AI-generated solution](codetailor-posttest-performance-null.md) — related
 - [Most novice programmers (88%) preferred CodeTailor over receiving a direct AI-generated solution for learning](codetailor-preference-88-percent.md) — related
+- [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](agent-role-experience-tradeoffs.md) — a narrower finding that bears on this claim

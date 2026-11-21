@@ -81,6 +81,7 @@ Analogies support comprehension by letting learners import a known relational st
 - [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](../strategies/concept-mapping-implementation-recommendations-efl.md)
 - [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](../strategies/everyday-analogies-for-advanced-physics.md)
 - [Introduce quantum topics through analogies with familiar classical engineering content, from classical control theory to Fourier filter design.](../strategies/classical-first-analogies-quantum-engineering-teaching.md)
+- [Map LLM stochastic behavior to familiar physics concepts (measurement statistics, sensitivity to initial conditions) as epistemic scaffolding](../strategies/physics-analogies-ai-literacy-strategy.md)
 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)

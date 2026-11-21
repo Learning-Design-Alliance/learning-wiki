@@ -48,3 +48,4 @@ Qualitative analysis of viewer comments on the max-flow min-cut visualization vi
 - [Animated Manim video lessons shared on social media attracted substantial viewer engagement, including a video passing a thousand views in 3 days](manim-video-lessons-viewer-engagement.md) — related
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](bespoke-free-text-voice-reveal-layout-issues.md) — related
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
+- [Dyslexia-adapted worksheet shows partial alignment with accessibility guidelines but weak font readability](dyslexia-worksheet-mixed-accessibility-ratings.md) — related

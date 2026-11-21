@@ -48,3 +48,4 @@ Theoretical argument in the article's conclusion, summarizing the section-by-sec
 - [Preconceptions about motion serve learners well in the relativistic explosion interpretation for redshift, out-of-flow galaxies, bound systems, and one kind of cosmological horizon](motion-preconceptions-anchor-relativistic-explosion.md) — reports the opposite
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — related
 - [Most common student responses on the Force Sled cluster match the force-proportional-to-velocity model](force-sled-common-responses-f-proportional-v.md) — related
+- [The Portuguese 11th-grade physics syllabus confuses cosmological redshift with the Doppler effect, and students can understand the distinction when adequately explained](cosmological-redshift-vs-doppler-syllabus-error.md) — related

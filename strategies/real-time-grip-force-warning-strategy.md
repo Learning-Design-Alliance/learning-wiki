@@ -49,6 +49,7 @@ The article's stated purpose is measuring dynamic forces players apply to frets 
 - [Provide real-time multimodal feedback during early training, then withdraw guidance for unassisted assessment to prevent over-reliance](guided-practice-then-unassisted-assessment.md)
 - [Repetitive practice of TaTME purse-string suturing in a safe simulation environment with qualitative and quantitative force feedback](force-feedback-simulation-practice-tatme.md)
 - [Integrate objective force-based assessment of tissue handling into robotic surgery training](objective-force-assessment-in-ras-training.md)
+- [Deliver real-time, parameter-specific feedback at the learner's line of sight during live physical-skill practice, then test unassisted](in-situ-ar-guidance-live-skill-training-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Manual error coding of GPT-4V's incorrect explanations by three health care prof
 - [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
 - [Among final-answer-correct SLM solutions to physics problem-solving questions, 75-98% contain at least one reasoning error in formulation or execution](slm-physics-answer-reasoning-gap.md) — related
+- [LLMs exhibit Process Hallucination, skipping visual verification and applying plausible but unverified background knowledge](process-hallucination-skipped-visual-verification.md) — related

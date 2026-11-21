@@ -70,3 +70,4 @@ On a written Fourier-transform question about a delta-function wave packet incid
 - [Working through the uncertainty principle QuILT improved average performance from 42% to 83%, with 10 of 12 students correctly sketching the Fourier transform of a delta function on the post-test](quilt-uncertainty-pre-post-gain.md) — related
 - [Maps based on relations between observables make explicit the eigenstate and commutation knowledge that textbooks underemphasize and students struggle to acquire](observable-relation-maps-eigenstate-difficulties.md) — related
 - [Students conflated the position-momentum uncertainty relation with the generalized uncertainty principle for generic observables](position-momentum-relation-overgeneralized.md) — related
+- [Item refinement revealed students conflating quantum states with measurement probabilities and overgeneralizing circuit behavior from basis states](students-conflate-state-with-measurement-probabilities.md) — related

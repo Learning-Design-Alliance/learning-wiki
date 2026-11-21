@@ -51,3 +51,4 @@ Correlational analysis of opinion-survey topics (Experience, PPI, PLO) against I
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
 - [Prior VR experience had no statistically significant impact on survey scores except a sense of virtual presence (IPQ, p < 0.05)](prior-vr-experience-null-except-presence.md) — related
 - [Students' use of LPQs to understand learning material positively correlated with their confidence in succeeding and their sense of connection with others](lpq-comprehension-use-correlated-confidence-connection.md) — related
+- [In Physics Playground's classroom study, IVR raised motivation and presence, and presence correlated positively with sense of positive agency](motivation-presence-agency-physics-classroom.md) — related

@@ -54,3 +54,4 @@ Subgroup probit regressions with gender coded binary (1 for women, 0 for men), r
 - [The gender bias in peer recognition persists after controlling for lab group composition and other interaction patterns](gender-bias-persists-after-interaction-controls.md) — related
 - [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
+- [Little reliable moderation by learner characteristics, with one exploratory gender interaction favoring women and non-binary students under constructive instruction](moderation-gender-interaction-exploratory.md) — related

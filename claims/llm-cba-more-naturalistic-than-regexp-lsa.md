@@ -51,3 +51,4 @@ Case study comparing a RegExp/LSA CBA with an LLM conversation built in Microsof
 - [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](llm-cba-derailment-gaming-not-replicable.md) — related
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
 - [The ChatGPT version of the chatbot handles irrelevant and multi-intent questions, supports multiple languages, and simulates personalities and education levels, unlike the Dialogflow version](chatgpt-version-more-flexible-than-dialogflow.md) — related
+- [In a simulated discussion, the LLM moderator redirected off-topic remarks, scaffolded a passive participant, and mitigated toxic behavior without escalation](llm-moderator-persona-behavior-management-simulated.md) — related

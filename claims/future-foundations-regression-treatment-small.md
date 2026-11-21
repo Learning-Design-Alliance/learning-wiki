@@ -51,3 +51,4 @@ Two-stage multivariate regression on the trial's achieved scores (Table 17): adj
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — a narrower finding that bears on this claim
 - [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](background-preparation-accounts-substantial-portion-gap.md) — related
 - [Demographics alone provide very limited explanatory and predictive information about MOOC achievement](demographics-insufficient-mooc-achievement.md) — related
+- [Motivation and prior knowledge moderate how learning behaviors translate into achievement in an ITS field trial](motivation-moderates-behavior-achievement-relation-its.md) — related

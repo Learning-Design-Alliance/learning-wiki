@@ -62,3 +62,5 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related
 - [In Workshop 2 on the visible spectrum, all groups reached the highest debugging level while most groups stayed at the intermediate automation level](taller2-ct-skill-levels-visible-spectrum.md) — related
 - [Iterative prompt-crafting to correct chatbot errors fostered critical reflection and developed pedagogical content knowledge](iterative-prompt-crafting-fosters-pck.md) — related
+- [Debugging code was the most common use of genAI among student groups, but its efficiency meant students skipped learning to identify errors themselves](genai-debugging-most-common-use-efficiency-tradeoff.md) — related
+- [Pilot course observations are consistent with the three-phase inoculation cycle](pilot-course-inoculation-cycle-observations.md) — related

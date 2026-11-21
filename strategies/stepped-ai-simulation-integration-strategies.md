@@ -59,6 +59,7 @@ The review's synthesized design strategies position AI simulations as complement
 - [Use AI-simulated audiences to give students safe, repeated low-stakes communication practice](ai-simulated-audiences-low-stakes-communication-practice.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
 - [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
+- [Use AI to monitor and support peer collaborations rather than replace them, combining modalities by affordance](ai-monitors-and-supports-peer-collaboration.md)
 
 ## Examples
 -

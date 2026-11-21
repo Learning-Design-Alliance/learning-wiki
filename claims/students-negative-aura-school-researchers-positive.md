@@ -53,3 +53,4 @@ Network analysis of the students' forma mentis network (159 Italian final-year h
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
 - [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — related
 - [Students perceived \"data\" negatively as statistics-linked while \"code\" and \"computer science\" were distinctly perceived as neutral](students-data-negative-code-computer-science-neutral.md) — related
+- [Across all human student groups, the concepts exam and grade are perceived negatively and connected primarily to negatively valenced memory recalls.](exam-grade-negative-framing-students.md) — related

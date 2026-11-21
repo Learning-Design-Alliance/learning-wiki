@@ -64,6 +64,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 - [Accessible Syntax](accessible_syntax.md) — shares the goal of lowering linguistic barriers through consistent, controlled language
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a common strategy vocabulary lets students recognize and reuse prior learning across classes
 - [Teach literacy skills in every classroom across all content areas with common rubrics](schoolwide-cross-content-literacy-instruction.md)
+- [Cross-disciplinary communication among QIST instructors to decide appropriate content and terminology](cross-disciplinary-instructor-communication-qist.md)
 
 ## Examples
 - **Claim–Evidence–Reasoning (CER) frameworks** — widely adopted in K–12 science (e.g., through the [Krajcik-aligned NGSS materials](https://www.nextgenscience.org)) and extended into social studies and English, so the same three-part argument structure is named identically across departments.

@@ -67,3 +67,4 @@ Descriptive survey analysis of self-reported frequency of GenAI tool use (RQ1). 
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — reports the opposite
+- [Students' AI tool usage forms a hierarchy: social media AI is used most, generative productivity tools moderately, and educational AI tools rarely](student-ai-tool-usage-hierarchy.md) — related

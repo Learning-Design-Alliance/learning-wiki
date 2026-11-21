@@ -52,3 +52,4 @@ First-order Markov model analysis of event-flow transitions from the relevant fe
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - [AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points](ai-drafts-increase-discretionary-feedback-provision.md) — related
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related
+- [Revision-quality gains from AI-mediated feedback increase as TAs adopt more AI suggestions](revision-gains-increase-with-ai-adoption.md) — related

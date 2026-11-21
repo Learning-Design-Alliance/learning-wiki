@@ -69,3 +69,4 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 - [The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance](eduguard-verifier-threshold-sensitivity.md) — related
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related
+- [Productive genAI use was associated with limiting it to small, well-understood steps and double-checking its output](productive-genai-use-small-steps-verification.md) — related

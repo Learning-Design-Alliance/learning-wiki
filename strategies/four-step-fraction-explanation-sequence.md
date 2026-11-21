@@ -47,6 +47,7 @@ In the explaining component, tutors modeled a 4-step problem-solving sequence, g
 - [Scaffolded Instruction](scaffolded_instruction.md)
 - [Scaffolding](scaffolding.md)
 - [Gradual Release Of Responsibility](gradual-release-of-responsibility.md)
+- [Sequence explicit quantitative problem-solving first, then scaffold students to draw conceptual inferences from the quantitative solution](quantitative-first-then-conceptual-inference-scaffolding.md)
 
 ## Examples
 -

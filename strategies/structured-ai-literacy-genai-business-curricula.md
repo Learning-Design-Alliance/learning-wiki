@@ -54,6 +54,7 @@ The article recommends that business programmes move towards structured AI liter
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 - [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
+- [Teach productive genAI use, keep teaching staff available, and restrict genAI access for foundational skill development](teach-productive-genai-use-keep-tas-restrict-access.md)
 
 ## Examples
 -

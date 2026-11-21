@@ -51,3 +51,4 @@ Server-log audit of repository usage plotted against the clinical timetable for 
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [Students preferred the online repository to other sources of learning material primarily because of its efficiency of access](students-prefer-repository-for-efficiency.md) — related
 - [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related
+- [Student chatbot usage in the Modern Physics course was highly event-driven, spiking on exam days and dense modules](chatbot-usage-event-driven-exam-spikes.md) — a narrower finding that bears on this claim

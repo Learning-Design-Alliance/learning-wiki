@@ -47,3 +47,4 @@ Cognitive-load questionnaire results across the three sessions (both cohorts, n=
 ## Related Claims
 - [Extraneous cognitive load is significantly lower in collaborative VPs sessions than in lecture and independent VPs sessions](collaborative-vps-lower-extraneous-load.md) — related
 - [The lecture showed the highest total cognitive load and lowest situational interest descriptively, but total-load differences were not significant](lecture-total-load-highest-not-significant.md) — possibly the same claim (merge candidate)
+- [Across both experiments, cognitive load and situational interest showed an inverse relationship, with game-based labs consistently lowest in load and highest in interest](inverse-load-interest-relationship.md) — related

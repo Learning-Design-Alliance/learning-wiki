@@ -50,6 +50,7 @@ The article recommends scaffolding authentic data science activities through the
 - [Use UMC rather than PRIMM to scaffold PSTs' learning with programmable simulations in science education](use-umc-to-scaffold-pst-programming-simulations.md)
 - [Provide data-centric research experiences in STEM courses and teach critical data science skills as graduation requirements](data-centric-research-experiences-stem-courses.md)
 - [Build a project-based computational physics course grounded in expert practice, culminating in a student-chosen final project](expert-grounded-project-based-cp-course.md)
+- [Inquiry-based exploration: students modify θ and v0 in the provided scripts and immediately observe trajectory changes](modify-scripts-inquiry-projectile-parameters.md)
 
 ## Examples
 -

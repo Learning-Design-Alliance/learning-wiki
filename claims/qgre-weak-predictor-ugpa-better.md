@@ -50,3 +50,4 @@ Correlational analysis of the author's own program's admissions materials and ou
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — a broader claim this one bears on
 - [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related
 - [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related
+- [Good programming skills at university entry predict physics undergraduate outcomes better than entry grades, per the author's supervision experience](programming-skills-predict-physics-undergrad-outcomes.md) — related

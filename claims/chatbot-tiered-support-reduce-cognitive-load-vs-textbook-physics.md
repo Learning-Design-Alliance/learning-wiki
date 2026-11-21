@@ -50,3 +50,4 @@ Post-hoc Tukey-Kramer comparisons in the quasi-experimental field study (273 nin
 - [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related
 - [The AI chatbot produced significant improvements over textual support across every post-test variable, with small-to-medium effects](chatbot-affective-gains-over-textbook-physics.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — reports the opposite
+- [Combined verbal+visual AI scaffolding lowers intrinsic cognitive load relative to verbal-only scaffolding, but not relative to no scaffolding](qookies-visual-scaffolding-lower-intrinsic-cognitive-load.md) — a narrower finding that bears on this claim

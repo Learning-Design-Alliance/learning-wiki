@@ -49,3 +49,4 @@ Neighborhood analysis of the students' forma mentis network around teacher shows
 - [Both students' and researchers' forma mentis networks show a small-world structure distributing connectivity mainly through hubs rather than clustering](fmn-small-world-hub-structure.md) — related
 - [Students' anxiety associations centre on testing and assessment rather than on physics or maths, suggesting distinct types of anxiety](test-anxiety-assessment-not-stem-subjects.md) — a narrower finding that bears on this claim
 - [Italian high school students perceive school as a negative concept surrounded by a mostly negative emotional aura, while researchers perceive school positively](students-negative-aura-school-researchers-positive.md) — related
+- [Across all human student groups, the concepts exam and grade are perceived negatively and connected primarily to negatively valenced memory recalls.](exam-grade-negative-framing-students.md) — related

@@ -239,3 +239,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Without scaffolding, students risk becoming overly reliant on AI explanations in ways that bypass deeper physics engagement](overreliance-risk-without-scaffolding.md) — a narrower finding that bears on this claim
 - [Professors framed GenAI as a source of knowledge whose reliability they personally vetted and whose output they assigned students to critically evaluate](genai-knowledge-source-vetting-critical-evaluation.md) — related
 - [Most students used ChatGPT to support procedural steps or clarify concepts, while a smaller group used it to verify their work and demonstrated critical thinking by correcting AI errors](supporting-versus-verifying-ai-use.md) — related
+- [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related
+- [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-21
 sources:
   - id: guido-makransky-richard-e-mayer-2022
     resource: "https://doi.org/10.1007/s10648-022-09675-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The HMD group scored significantly higher than the 2D video group on the delayed posttest an average of 19.44 days later (d = 0.70). [→ Guido Makransky · Richard E. Mayer 2022](#guido-makransky-richard-e-mayer-2022)

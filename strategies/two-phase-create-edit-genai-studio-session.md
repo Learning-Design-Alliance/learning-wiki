@@ -44,7 +44,8 @@ A session recipe in which students first create imagery from scratch with text p
 - [Constructionist Microworld Genai Studio](../theories/constructionism.md)
 
 ## Related Strategies
-- 
+
+- [Two-phase classroom session: individual exploration followed by collective competition](two-phase-individual-then-competition-session.md)
 
 ## Examples
 -

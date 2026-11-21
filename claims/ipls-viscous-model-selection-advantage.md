@@ -49,3 +49,4 @@ Fisher's exact test on model choice in written responses to part (b) of the flui
 - [IPLS and standard-course students showed statistically indistinguishable performance on problems requiring a single previously-taught model and on calculation skills](ipls-comparable-routine-problem-solving.md) — related
 - [On a thermodynamics modeling choice already introduced in class, IPLS students scored higher than standard-course students but not significantly so](ipls-familiar-modeling-choice-no-advantage.md) — related
 - [IPLS students were significantly more successful than standard-course students at flexibly combining physical models on an unfamiliar biological fluid-flow task](ipls-flexible-model-building-advantage.md) — related
+- [Undergraduates completing the viscous-film spreading project obtain a solution compatible with published fluid mechanics results with minimal instructor supervision.](pbl-viscous-film-minimal-supervision-solution.md) — related

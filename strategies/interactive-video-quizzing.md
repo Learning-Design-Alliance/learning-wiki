@@ -71,6 +71,7 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 - [Improve e-learning presentations by embedding social and emotional elements such as patient-case videos and reflection-triggering questions, and usability-test the tool with a few users first](embed-social-emotional-elements-and-usability-test-e-learning.md)
 - [Embed videos in active learning with interactive questions, student control, guiding questions, or homework integration](video-active-learning-embedding-strategies.md)
 - [Optional age-calibrated multiple-choice quizzes with explanations at the end of each game level](optional-age-calibrated-quiz-strategy.md)
+- [Generate post-lecture quiz questions targeting the lecture sections where individual learners paid least attention](attention-aware-post-lecture-quiz-strategy.md)
 
 ## Examples
 - **[Edpuzzle](https://edpuzzle.com)** — teachers overlay multiple-choice and open-ended questions on existing videos and track per-student watch and response data.

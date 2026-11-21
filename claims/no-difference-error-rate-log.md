@@ -63,3 +63,5 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Adding positive feedback let students complete the same SQL-Tutor learning tasks in half the time with the same learning improvement](positive-feedback-halves-time-sql-tutor.md) — related
 - [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](hints-in-multiple-try-feedback-increase-learning-phase-performance.md) — related
 - [Receiving LLM feedback did not significantly increase lesson completion time](llm-feedback-no-completion-time-cost.md) — related
+- [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](feedback-does-not-hinder-post-learning-problem-solving.md) — related
+- [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related

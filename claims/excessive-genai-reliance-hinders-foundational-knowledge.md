@@ -62,3 +62,4 @@ Finding from the Assessment Strategies theme of the thematic analysis, reported 
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
 - [AI programming tools are fundamentally changing the concept of plagiarism in Computer Science and shifting teaching toward computational thinking and theory](ai-code-generators-shift-cs-teaching.md) — related
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
+- [Over-reliance on genAI led to false model assumptions, wasted time, and skipped learning of modeling fundamentals](genai-over-reliance-risks-modeling-fundamentals.md) — related

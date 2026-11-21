@@ -40,6 +40,7 @@ The article's envisioned practical use of the pipeline: converting passively log
 ## Related Strategies
 
 - [Use support-level filtering across cohorts to separate persistent from cohort-specific challenging topics](support-level-filtering-persistent-topics.md)
+- [Use conversational traces as signals for identifying students who may need additional support](conversational-traces-early-warning-signals.md)
 
 ## Examples
 -

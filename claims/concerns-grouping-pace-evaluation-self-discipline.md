@@ -49,3 +49,4 @@ Focus group theme Needing to be improved: interviewees suggested instructors “
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Nursing students reported that the in-class flipped classroom fostered self-directed learning capacity alongside teamwork, clinical thinking, and humanistic care](developed-abilities-self-directed-teamwork-clinical-thinking.md) — related
 - [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related
+- [Students in the computationally integrated course generally perceived the course as coherent, which assuaged concerns about its fast pace](course-coherence-assuaged-student-concerns.md) — related

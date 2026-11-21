@@ -71,6 +71,7 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 - [Teach learners to recode semantically incongruent representations by comparing strategies and studying the problem's deep structure](deep-structure-recoding-training.md)
 - [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](group-generation-then-consolidation-strategy.md)
 - [Use an invention task before instruction on canonical fitting procedures](invention-task-before-fitting-instruction.md)
+- [Sequence explicit quantitative problem-solving first, then scaffold students to draw conceptual inferences from the quantitative solution](quantitative-first-then-conceptual-inference-scaffolding.md)
 
 ## Examples
 - **Kapur's mathematics classrooms (Singapore):** middle-school students explored standard-deviation problems in groups before instruction on the canonical formula; exploration classes showed lower success during the lesson but outperformed direct-instruction peers on conceptual and transfer post-tests (see Kapur, 2008, below).

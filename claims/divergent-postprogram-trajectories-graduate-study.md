@@ -67,3 +67,4 @@ Interview analysis of six QRX students: three of four transferring students expr
 - [QRX students framed program benefits in terms of career exploration, skill-building, and professional networking, while Quantum Scholars students framed them as academic or intellectual enrichment](divergent-benefit-framing-qrx-quantum-scholars.md) — related
 - [Critical program feedback diverged: Quantum Scholars students most often wanted a more academic perspective on QIS, while QRX students most often wanted more in-person events](divergent-critical-feedback-program-design.md) — related
 - [Pathways participants developed intentional action steps toward QIS goals, including coursework plans, university selection, and clubs](pathways-intentional-action-steps.md) — related
+- [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related

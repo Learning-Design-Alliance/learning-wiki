@@ -54,3 +54,4 @@ Survey of 678 LLM learners using a 24-item inquiry taxonomy. "The most frequentl
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
 - [First queries from Cold Start learners were overwhelmingly dependent (96.7%), contrasting with mostly guided first queries from Oriented (69.1%) and Struggling (71.4%) learners](cold-start-first-queries-dependent-help-seeking.md) — related
+- [Players primarily used the AI character for level-related questions and action recommendations, with no hypothesis/idea-formation queries](qookies-ai-interaction-predominantly-action-recommendations.md) — related

@@ -58,3 +58,4 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible — related
 - [Humans are more certain when judging that facilitation is not needed than when judging it is](humans-certain-when-not-facilitating.md) — related
 - Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
+- [The automatic bug-description evaluation metric agrees strongly with human evaluators](automatic-bug-description-metric-human-agreement.md) — related

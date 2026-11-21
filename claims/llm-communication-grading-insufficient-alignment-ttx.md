@@ -58,3 +58,4 @@ Evaluation (RQ1) of LLM grading of teams' incident-response emails against instr
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [GPT-4o's performance is weaker in Laboratory skills (35.0%), which include strategies for data collection and analysis](gpt4o-subject-category-variation-lab-weakest.md) — related
 - [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related
+- [The GPT-4o rubric scorer aligned reasonably well with expert judgments (84.6% accuracy) and its rubric-level judgments matched TAs' final judgments 88.7% of the time](llm-rubric-scorer-validity-84-6-percent.md) — related

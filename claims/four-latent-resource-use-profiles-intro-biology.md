@@ -56,3 +56,4 @@ Survey study of 1944 matched introductory biology students at seven U.S. univers
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
 - [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
 - [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related
+- [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related

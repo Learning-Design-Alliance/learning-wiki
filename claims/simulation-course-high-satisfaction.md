@@ -64,3 +64,4 @@ Post-test satisfaction survey of the experimental group (n = 58), an 11-item fiv
 - [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related
 - [Students rated the simulations highly useful for their learning (average 4.0 of 5), and 80% of volunteered survey comments about the simulations were positive](student-perceptions-simulation-usefulness.md) — related
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
+- [Students rated the gamified board game very positively, with all survey items averaging above 4.21 out of 5](board-game-survey-items-above-4-21.md) — related

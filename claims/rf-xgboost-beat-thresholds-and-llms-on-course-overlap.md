@@ -74,3 +74,4 @@ Cross-validated comparison on the TU/e dataset shows ChatGPT-5.4, ChatGPT-5.4-mi
 - [Regression-based XGBoost outperforms the classification formulation for automated speech scoring on the SOPI dataset](xgboost-regression-beats-classification-speech-scoring.md) — related
 - [The XGBoost model's precision–recall curve yielded an area under the curve of 0.905 on the testing set](xgboost-pr-curve-discriminative-ability.md) — related
 - [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — related
+- [Supervised classifiers can predict whether an LLM's Talk Moves annotation is correct using only the LLM's accompanying reasoning text, with a Random Forest reaching F1 = 0.83](llm-reasoning-predicts-annotation-correctness.md) — related

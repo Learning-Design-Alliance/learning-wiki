@@ -44,6 +44,7 @@ Based on student feedback that open-ended script modification was not favoured, 
 
 - [Decompose complex open statistics exercises into path-dependent stages with fallback stages and accepted input corridors](staged-path-dependent-exercise-decomposition.md)
 - [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
+- [Inquiry-based exploration: students modify θ and v0 in the provided scripts and immediately observe trajectory changes](modify-scripts-inquiry-projectile-parameters.md)
 
 ## Examples
 -

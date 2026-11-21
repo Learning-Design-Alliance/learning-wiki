@@ -48,3 +48,4 @@ Authors' interpretation based on informal feedback: the comb's charge going from
 - [Graduate physics students nearly ace most negativity questions but only three of 22 correctly answer the net-charge question](graduate-students-fail-net-charge-question.md) — related
 - [Completing an E&M course improves performance on negative electric field and potential questions but not on the negative net-charge question](em-course-completion-differential-item-effects.md) — related
 - [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](superposition-principle-difficulty.md) — related
+- [Graduate student G1 misinterpreted the method of images as a means of 'balancing' net charge to convert Poisson's equation into Laplace's equation, persisting with this reasoning primitive across contexts.](balancing-primitive-misinterpretation-moi.md) — related

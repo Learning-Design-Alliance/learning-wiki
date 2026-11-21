@@ -49,6 +49,7 @@ A set of access-oriented strategies: developing and translating open-access mate
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Incorporate remote cloud-accessible quantum experiments to extend experimental-skills opportunities to students at less-resourced institutions](remote-quantum-experiments-access-strategy.md)
+- [Four-phase regional roadmap for staged quantum-education integration (2026–2035)](staged-quantum-education-roadmap-latin-america.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Narrative review reporting, citing Spielmann et al. (2022), that "conscientiousn
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — possibly the same claim (merge candidate)
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — a narrower finding that bears on this claim
 - [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related
+- [Conscientiousness robustly predicts academic performance beyond cognitive ability](conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) — related

@@ -50,3 +50,4 @@ Post-workshop five-grade questionnaire (n' = 26). FIG. 10 reports mean difficult
 - [Elementary school students can perform video analysis of Brownian motion with little stress when a pre-compiled analysis file is prepared for them](elementary-students-video-analysis-brownian-motion-feasible.md) — related
 - [Students held positive perceptions of authentic materials (71% interesting, 70% useful), though 34% found them difficult to understand](survey-positive-perception-authentic-materials.md) — related
 - [Students find the introductory theory portion of the masterclass difficult and prefer practical experiments](masterclass-theory-intro-found-difficult.md) — related
+- [High-school students liked the complex-systems videogames despite rating them difficult](complex-systems-games-liked-despite-difficulty.md) — related

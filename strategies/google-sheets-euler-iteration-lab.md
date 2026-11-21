@@ -53,6 +53,7 @@ A 1-3 hour classroom laboratory exercise in which students build a Google Sheets
 - [Guided enquiry-based programming tasks that signpost the physics and leave the programming method to the student](signposted-physics-open-programming-enquiry-task.md)
 - [Use simple spreadsheet-based numerical simulation of orbital systems as an engaging team-based learning activity](spreadsheet-numerical-simulation-team-learning-strategy.md)
 - [Embed computational skills into an existing lab course by replacing a preset analysis tool with Python while retaining original lab goals](embed-python-without-altering-course-structure.md)
+- [Streamline data processing with browser-based analysis so class time focuses on physical interpretation](browser-based-analysis-streamlining-strategy.md)
 
 ## Examples
 -

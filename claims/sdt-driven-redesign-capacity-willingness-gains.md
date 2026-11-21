@@ -69,3 +69,4 @@ A single cohort of 26 volunteer teachers (Cycle 2) completed self-report surveys
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related
 - [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related
+- [Workshop participation yields large gains in self-reported AI knowledge and understanding of AI training, a medium gain in understanding of bias, and a small gain in confidence](workshop-gains-ai-knowledge-confidence.md) — related

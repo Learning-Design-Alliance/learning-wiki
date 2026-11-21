@@ -88,3 +88,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related
 - [SPs feel well prepared for their first student teaching assignment but fear privacy invasion and inauthentic examination situations](sp-dre-assignment-privacy-authenticity-fears.md) — related
 - [LLM-simulated virtual students show highly aligned demographic-outcome correlations with real students (r > 0.7) in most demographic factors](llm-virtual-students-demographic-outcome-correlation.md) — related
+- [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](agent-role-experience-tradeoffs.md) — related

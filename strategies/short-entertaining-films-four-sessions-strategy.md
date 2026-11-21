@@ -47,6 +47,7 @@ In the instructional reflection, the authors recommend adjusting time allocation
 - [Structured post-screening discussion using amplification followed by moral case deliberation](film-amplification-moral-case-deliberation-strategy.md)
 - [Use blogs to share multimedia and reflective questions for environmental education](blog-multimedia-reflection-environmental-education.md)
 - [Add a four-stage experiential learning session two weeks after volunteer training to sustain motivation and boost activity involvement](post-training-experiential-session-strategy.md)
+- [Allocate at least double the session time and favor oral questions and peer instruction](double-time-oral-questions-peer-instruction.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The authors' interpretation of the pre/post attitude study, offered without addi
 - [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](belonging-multifaceted-context-dependent.md) — related
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related
+- [Collaborating by discussing ideas rather than syntax gave one student a sense of shared struggle that increased her sense of belonging](discussing-ideas-not-syntax-increased-sense-of-belonging.md) — related

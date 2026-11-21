@@ -124,3 +124,5 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Learners using both VR-based and computer-based pedagogical agents achieve statistically significant learning gains](pa-vr-significant-learning-gains-both-modalities.md) — related
 - [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — reports the opposite
 - [All modalities met usability expectations, but Game-VR incurred the highest cognitive workload while remaining within tolerable limits](vr-workload-usability-tradeoff.md) — related
+- [Immediate factual knowledge gains are media-equivalent across immersive VR, desktop VR, and control conditions](immediate-factual-learning-media-equivalent.md) — a narrower finding that bears on this claim
+- [Review reports lack of conclusive evidence of significant educational benefit for 3D VR quantum-circuit simulations](vr-quantum-simulations-lack-conclusive-evidence.md) — a narrower finding that bears on this claim

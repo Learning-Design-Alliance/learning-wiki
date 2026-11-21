@@ -80,3 +80,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [SBS & CBL trainees earned significantly higher professional knowledge and surgical skills examination grades than LBL & CBL trainees after training](sbs-cbl-higher-examination-grades.md) — related
 - [No baseline difference among the four groups on the first theoretical examination](no-baseline-difference-first-theory-exam.md) — related
 - [Trauma card-based group training produces no significant difference in triage improvement compared with direct instruction](trauma-cards-no-difference-versus-direct-instruction.md) — related
+- [Final examination performance did not differ between conditions, placing a boundary at the pathway from prompting skill to achievement](final-exam-null-difference.md) — related

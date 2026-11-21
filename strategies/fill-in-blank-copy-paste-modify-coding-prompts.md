@@ -46,6 +46,7 @@ The activities scaffold programming by having students complete partially writte
 - [Completion Problems First](completion-problems-first.md)
 - [Leverage hearing and everyday audio to build qualitative understanding of the Fourier transform](audio-multisensory-ft-qualitative-entry.md)
 - [Scaffolded code stubs with TODO markers for novice programmers](scaffolded-todo-code-stubs-strategy.md)
+- [Inquiry-based exploration: students modify θ and v0 in the provided scripts and immediately observe trajectory changes](modify-scripts-inquiry-projectile-parameters.md)
 
 ## Examples
 -

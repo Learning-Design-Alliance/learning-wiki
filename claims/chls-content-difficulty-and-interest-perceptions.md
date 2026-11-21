@@ -49,3 +49,4 @@ Post-experiment survey of the experimental group (73 respondents, six excluded; 
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
 - [Most students found probability difficult, mainly because of difficulty grasping its fundamental concepts](students-find-probability-difficult-concept-grasp.md) — related
 - [Motivated elementary students rated the workshop difficult but interesting: over half found it difficult while all respondents found it interesting](difficult-but-interesting-workshop-ratings.md) — related
+- [High-school students liked the complex-systems videogames despite rating them difficult](complex-systems-games-liked-despite-difficulty.md) — related

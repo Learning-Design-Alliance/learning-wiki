@@ -47,3 +47,4 @@ Evaluation survey of the pilot test at eight schools (n=463), conducted by Freib
 ## Related Claims
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Fifty-five percent of instructors desire further training, collaboration or information on feedback](majority-desire-feedback-training.md) — related
+- [A participant reported that teacher evaluation sessions asking about preferred learning forms increased her motivation to learn](teacher-evaluation-of-strategy-motivation.md) — related

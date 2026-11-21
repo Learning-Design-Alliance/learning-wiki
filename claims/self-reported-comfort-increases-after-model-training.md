@@ -48,3 +48,4 @@ Pre/post self-assessment by 15 otorhinolaryngology residents using visual analog
 - [Clinical diagnostic yield of participants' US-FNA rose from 71% to 85% after training](diagnostic-yield-71-to-85-after-training.md) — related
 - [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related
 - [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related
+- [Tutors' self-reported comfort with AI tools rose from 3.4 to 3.9 out of 5 over the trial](tutor-comfort-with-ai-rose-during-trial.md) — a narrower finding that bears on this claim

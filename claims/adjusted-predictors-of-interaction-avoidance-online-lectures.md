@@ -57,3 +57,4 @@ Adjusted logistic regression models (Table 4) in the national survey of 1371 stu
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
 - [A substantial minority of students report podcasts are less engaging and reduce motivation to complete teaching](podcasts-less-engaging-than-lectures.md) — related
 - [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related
+- [User experience is a major intervening condition: positive experiences increase GenAI usage while poor experiences decrease it](user-experience-intervening-condition-genai-usage.md) — related

@@ -55,3 +55,4 @@ Editorial account (the editors describe Nasir et al.'s multimodal study of dyads
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
 - [The two gainer profiles differ in problem-solving strategy: Expressive Explorers enact global exploration with reflection on past solutions, Calm Tinkerers enact local exploration with in-the-moment correction](global-versus-local-exploration-strategies-gainers.md) — a narrower finding that bears on this claim
 - [Certain conditions of complex emergence can be deliberately tinkered with in educational settings](tinkerable-conditions-complex-emergence.md) — related
+- [Teachers predominantly integrated tinkering into language, expression and storytelling rather than science, despite a science-centred resource library](teachers-prefer-humanities-integration-of-tinkering.md) — related

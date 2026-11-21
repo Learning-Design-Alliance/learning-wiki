@@ -53,3 +53,4 @@ Narrative review attribution: the article reports that Harber et al. (2026) intr
 - [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related
 - [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
 - [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
+- [Educators anticipate a near-term quantum 'winter' or contraction in investment while remaining optimistic about long-term QIST impact](quantum-winter-expected-long-term-optimism.md) — related

@@ -50,6 +50,7 @@ The article's forward-looking contribution is a design and policy recommendation
 
 - [Investigate the cognitive needs of students in CoSIL and integrate content, CoSIL, and guidance tools to advance personalization](investigate-cognitive-needs-integrate-content-cosil-guidance.md)
 - [Prioritize teacher-centered AI implementations that enhance rather than replace human expertise](teacher-centered-ai-implementation-priority.md)
+- [Prioritize research on technology integration in PjBL to determine student success and motivation outcomes](prioritize-pjbl-technology-integration-research.md)
 
 ## Examples
 -

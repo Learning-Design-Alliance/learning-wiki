@@ -49,6 +49,7 @@ The article proposes assessments containing a mixture of typical questions, solv
 ## Related Strategies
 
 - [Embrace Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
+- [Design AI-resistant assessment items targeting the Perception-Cognition Gap and Calculation-Conceptualization Discrepancy](ai-resistant-item-design-strategy.md)
 
 ## Examples
 -

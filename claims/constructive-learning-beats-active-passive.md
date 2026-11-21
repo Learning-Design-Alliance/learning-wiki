@@ -157,3 +157,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [The four-step worked-example approach was implemented across multiple theoretical physics courses with active student participation and most students solving the final problem](four-step-worked-examples-feasible-upper-division-physics.md) — related
 - [In Procedural ABICAP simulations, the ICAP ordering (interactive > constructive > active > passive) holds after enough steps](icap-holds-after-step-35.md) — related
 - [For rationale-free procedural knowledge components with no graph edges, Procedural ABICAP predicts passive learning is best](passive-best-for-rationale-free-kcs.md) — reports the opposite
+- [Learning-oriented prompting gains scaled monotonically with the designed ICAP engagement level of the instruction](prompting-gains-scale-icap-engagement.md) — a narrower finding that bears on this claim

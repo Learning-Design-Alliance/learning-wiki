@@ -77,3 +77,6 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [For one pair, explaining work in writing was harder than coding, and essay writing deepened their physics understanding](writing-harder-than-coding-deepened-understanding.md) — related
 - [High-school students can engage meaningfully with complex quantum topics through project-based formats](quantum-project-based-engagement.md) — related
 - [Some thesis students developed a distinct level of research competence — specialized tools, specialized applications of computation, and advanced collaboration skills — beyond what coursework provided](thesis-research-competence-specialized-skills.md) — related
+- [Students recognize the social nature of code through commenting, formatting, and documentation practices](code-etiquette-as-social-computational-literacy.md) — related
+- [How students approach developing social computational literacy varies across individuals and is driven by unspoken assumptions](social-computational-literacy-variable-unspoken-assumptions.md) — related
+- [Students prioritize cognitive over material computational literacy when advising understanding over finishing assignments](understanding-prioritized-over-finishing-assignments.md) — related

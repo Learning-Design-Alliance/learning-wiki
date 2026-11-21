@@ -52,6 +52,7 @@ The article states that through a well-defined framework of admission competenci
 
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Adopt standardized, competency-based frameworks that align instructional content and assessment strategies with clearly defined clinical outcomes](standardized-competency-based-frameworks-orthodontic-education.md)
+- [Adopt formal, assessable program-level learning goals mapped to specific courses](adopt-assessable-program-learning-goals-astro.md)
 
 ## Examples
 -

@@ -54,6 +54,7 @@ The article's practice recommendation is structured training programs that exten
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Co-design AI support tools with educators through structured design thinking workshops](codesign-design-thinking-workshop-strategy.md)
 
 ## Examples
 -

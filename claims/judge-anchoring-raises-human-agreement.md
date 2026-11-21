@@ -76,3 +76,4 @@ Systematic divergence analysis on the 128-page rated sample: the report calls th
 - [Using a trained StudentSim as the reward for chess tutor RL yields a tutor that expert human raters score best on accuracy, guidance quality, and personalization among the rewards studied](studentsim-reward-yields-best-rated-chess-tutor.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [LLM quality metrics do not predict human learning outcomes from explanations](llm-quality-metrics-do-not-predict-human-learning.md) — related
+- [Human raters judge ParLD's inferred cognitive states more accurate and coherent than Direct Analyze](parld-diagnostic-quality-ratings-beat-da.md) — related

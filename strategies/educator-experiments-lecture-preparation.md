@@ -48,6 +48,7 @@ The article proposes formal or informal experiments by which instructors can tes
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
 - [Baseline Assessment](baseline-assessment.md)
+- [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
 
 ## Examples
 -

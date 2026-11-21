@@ -77,3 +77,4 @@ Same ablation study (Table 6): disabling attention masking, KV caching, or dynam
 - [Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect](ablation-simplification-ordering-transformations-most-effective.md) — related
 - [Both BERT content embeddings and flashcard-level study features contribute to KAR3L's prediction accuracy and calibration](kar3l-ablation-content-and-history-both-help.md) — related
 - [Pre-producing LLM explanations enables significant caching and a negligible operational carbon footprint](preproduced-explanations-caching-carbon-reduction.md) — related
+- [Joint training of the feature encoders contributes the largest single-module ablation loss in AAM-TSA](joint-training-crucial-aam-tsa-ablation.md) — related

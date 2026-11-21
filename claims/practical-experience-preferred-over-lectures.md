@@ -64,3 +64,4 @@ Focus-group theme on practical experience: students wanted opportunities to prac
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
 - [Students report high engagement with TBL and most prefer it to conventional tutorials](tbl-high-engagement-preferred-over-tutorials.md) — related
 - [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related
+- [Teachers in the AMACA training expressed high satisfaction with the flipped-roles approach, valued hands-on demonstration over theoretical training, and were surprised by ungraded students' engagement](teachers-satisfaction-flipped-roles-hands-on-training.md) — related

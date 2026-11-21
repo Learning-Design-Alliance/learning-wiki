@@ -51,3 +51,4 @@ Inductive content analysis of interviews with six PBL group pre-service teachers
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — a narrower finding that bears on this claim
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](pbl-deep-learning-vs-lbcc-superficial.md) — related
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related
+- [IPA of ten pre-service physics teachers' interviews identifies four themes of their online PBL experience, including self-efficacy and self-reflection](ipa-four-themes-pbl-self-efficacy.md) — related

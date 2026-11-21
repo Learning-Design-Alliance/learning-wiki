@@ -41,9 +41,10 @@ The article recommends customizing LLM agent behavior through structured prompt 
 ## Related Strategies
 
 - [Use a simulated multiagent prompt combining role, instruction-based, chain, and few-shot prompting to generate OSCE stations with an LLM](simulated-multiagent-prompting-for-osce-generation.md)
+- [Use an LLM moderator with structured persona-aware prompting to balance participation and manage disruptive behavior in group discussion](llm-moderator-equitable-participation-strategy.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Wu, Z., Shi, J., Murray, R. C., Rosé, C., & San Andres, M. (2025). LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure. CSCL 2025 Proceedings. http://bit.ly/4leDl0U
+- Wu, Z., Shi, J., Murray, R. C., Rosé, C., & San Andres, M. (2025). LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure. CSCL 2025 Proceedings. http://bit.ly/4leDl0U. [doi:10.48550/arxiv.2510.18877](https://doi.org/10.48550/arxiv.2510.18877)

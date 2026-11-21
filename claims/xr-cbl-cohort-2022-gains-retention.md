@@ -50,3 +50,4 @@ Percentage-normalized score analysis (Fig. 5) for Cohort 2022 in the same repeat
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
+- [All four instructional approaches, including a two-sentence reminder, produced durable learning-oriented prompting gains that persisted six weeks later](brief-instruction-durable-prompting-gains.md) — related

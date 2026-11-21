@@ -105,3 +105,4 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [AI use in classrooms carries confabulation, bias, privacy, and instructional risks that require active management](four-classroom-ai-risks.md) — possibly the same claim (merge candidate)
 - [Educators proactively raise that LLM-based edtech could exacerbate systemic inequality through differentially bearable costs](educators-concern-systemic-inequality.md) — related
 - [Many tutoring-system studies collect extensive student data but lack thorough examination of how sensitive information is managed and protected](tutoring-systems-data-privacy-gap.md) — related
+- [Perceived surveillance and opaque data practices in AI-driven education deter intellectual risk-taking and create power imbalances between learners, institutions, and technology providers](ai-surveillance-data-power-imbalance.md) — related

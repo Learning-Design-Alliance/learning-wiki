@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 322 claims (186 show a difference, 88 mixed, 48 no difference) · 257 studies (94 causal, 47 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 41 of 257 report an effect size · 304 claims rest on one study
+> **Evidence** · 323 claims (186 show a difference, 89 mixed, 48 no difference) · 258 studies (95 causal, 47 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 42 of 258 report an effect size · 305 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -370,6 +370,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](../claims/gpp-prior-knowledge-moderation.md) [~M] — an instructional effect differs with it
 - [Concise expert-written explanations significantly outperform both self-learning and pipeline-generated explanations among high-baseline learners](../claims/expert-explanations-benefit-high-baseline-learners.md) [+M] — an instructional effect differs with it
 - [Experts consider difficult or uncertain problem areas, needed information, priorities, and information-gathering plans significantly more than novices, while novices more often focus on a potential solution](../claims/novice-expert-problem-solving-decision-differences.md) [+M] — learners who differ on it differ in outcomes
+- [Worked example type interacted with prior knowledge: Guided examples benefited low prior knowledge students while Buggy examples benefited high prior knowledge students](../claims/ati-buggy-high-guided-low-prior-knowledge.md) [~S] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

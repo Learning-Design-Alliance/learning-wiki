@@ -69,3 +69,4 @@ Post-survey apprehension item (Figure 6, N = 45); the article describes a polari
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
+- [Unclear university guidelines create a risk that GenAI-using students fear false plagiarism accusations](unclear-guidelines-plagiarism-accusation-risk.md) — related

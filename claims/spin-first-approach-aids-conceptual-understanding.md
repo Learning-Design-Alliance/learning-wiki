@@ -52,3 +52,4 @@ The article cites background studies (reference 53) supporting a spin-first, dis
 - [Discomfort category shows minimal correlation with reported discomfort level in spins-first QM surveys](discomfort-category-level-minimal-correlation.md) — related
 - [Class-wide average self-reported discomfort in a spins-first QM course stays effectively constant near 4/10 across the semester, with no net trend as topics change](qm-class-wide-discomfort-constant-semester.md) — related
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
+- [Study cited by the review found few secondary students taught via the Historical Development Approach used mathematical concepts to demonstrate quantum understanding](historical-approach-few-students-use-mathematics.md) — related

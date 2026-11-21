@@ -50,3 +50,4 @@ Qualitative portion of the mixed-methods study drawing on interviews with staff 
 - [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](school-closings-severed-social-connections-mourning.md) — related
 - Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related
 - [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
+- [Tinkering surfaced an authentic physics research question (additive vs subtractive colour mixing) that the documenting teacher felt unprepared to address](tinkering-surfaces-questions-teachers-unprepared.md) — related

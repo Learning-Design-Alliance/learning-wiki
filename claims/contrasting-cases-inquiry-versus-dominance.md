@@ -50,3 +50,4 @@ Qualitative contrasting-cases analysis of dialogs from the single highest-scorin
 - [Posttest scores were not significantly correlated with the number of micro-failures or with any single dialogic behavior](no-significant-single-behavior-or-failure-count-correlation.md) — related
 - [In a TBL physiology course, higher-level questions were associated with more re-evaluation among student teammates](higher-level-questions-more-re-evaluation.md) — related
 - [Coalitions modeled from teammates' opinions were mostly unstable, explaining negative collaboration scores](unstable-coalitions-explain-negative-collaboration-scores.md) — related
+- [Discourse features—question asking, social curiosity, and explanation giving—correlated with curiosity and learning perceptions in peer dyads](discourse-features-predict-peer-outcomes.md) — related

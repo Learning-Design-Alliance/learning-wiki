@@ -48,3 +48,5 @@ Out-of-sample evaluation of three models (OLS, mixed effects, xgboost gradient b
 ## Related Claims
 - [OLS and hierarchical linear models over-predict post-test scores in the 30-60% range and under-predict higher scores on LASSO data](linear-models-mispredict-posttest-distribution.md) — related
 - [Out-of-sample residual patterns differ across model types: OLS under-predicts low scores, and the mixed-effects model does not produce normally distributed residuals](lasso-residual-patterns-model-type.md) — related
+- [A predictive model using four classroom variables accounts for 49% of the variance in concept-inventory effect sizes across 69 undergraduate science courses](copus-predictive-model-49-percent-variance.md) — related
+- [Model prediction accuracy does not meaningfully vary across scientific disciplines, and shows no significant overfitting due to repeated instructors or institutions](prediction-accuracy-robust-discipline-instructor.md) — related

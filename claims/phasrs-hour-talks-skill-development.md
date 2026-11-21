@@ -47,3 +47,4 @@ Interview-based findings from fall 2021 participant interviews. The hour-long ta
 ## Related Claims
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
 - [LSSDS devotes roughly 43% of program time to mentored group project work, with lectures (~34%) and hands-on labs (~23%) filling the rest.](lssds-time-allocation-lectures-labs-projects.md) — related
+- [Faculty advisors and peer mentors reported that the condensed three-week SIREN format was sustainable and effective](siren-advisor-mentor-sustainability.md) — related

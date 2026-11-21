@@ -58,3 +58,4 @@ Randomized comparison of 118 undergraduates (experimental n = 60, control n = 58
 - [Scores in the basic-medicine and clinical-medicine integrated PBL courses did not differ significantly within the experimental group when comparing the two course stages](two-integrated-pbl-stages-similar-scores.md) — related
 - [No pooled performance differences between curricula in internal medicine, pediatrics, surgery, or obstetrics and gynecology](no-pooled-differences-clinical-areas.md) — related
 - [PBL graduates achieved better average grades in the final written national board examination than conventional graduates](pbl-graduates-better-board-exam-grades.md) — related
+- [Final examination performance did not differ between conditions, placing a boundary at the pathway from prompting skill to achievement](final-exam-null-difference.md) — reports the opposite

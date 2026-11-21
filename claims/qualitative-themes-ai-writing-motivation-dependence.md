@@ -78,3 +78,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
 - [Students report increased clarity about appropriate AI use and its learning effects after the scenario-ranking activity](ai-scenario-activity-student-clarity-reflections.md) — related
 - [Almost-always ChatGPT users' reliance appears habitual, which the authors flag as potential dependency](habitual-reliance-almost-always-users.md) — related
+- [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related

@@ -50,3 +50,4 @@ Domain-by-pressure heatmap analysis of adjudicated sycophancy rates across the s
 - [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — related
 - [Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families](authority-challenge-emotional-manipulation-most-effective.md) — related
 - [Survey respondents rated traditional assignments most vulnerable to AI in Computer Science (19 of 20) compared with Humanities & Social Sciences and Professional Degrees (16 of 20 each)](discipline-divide-ai-vulnerability-cs-highest.md) — related
+- [Classroom observations converge with large-scale findings on sycophancy preference, domain concentration, and confidence-reliability confusion](convergent-observations-sharma-disempowerment.md) — related

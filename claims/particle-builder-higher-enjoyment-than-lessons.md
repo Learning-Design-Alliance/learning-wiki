@@ -54,3 +54,4 @@ Student survey administered alongside the classroom lesson in four Canberra scho
 - [Playing Particle Builder significantly improved high school students' understanding of particle physics concepts](particle-builder-significant-learning-gains.md) — related
 - [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related
 - [68% of students reported learning more than in a normal lesson, while 32% found the game more difficult](particle-builder-self-reported-learning-more-difficulty.md) — related
+- [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — related

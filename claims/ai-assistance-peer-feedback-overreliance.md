@@ -64,3 +64,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](ai-led-assistance-more-descriptive-than-peer-feedback.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — reports the opposite
 - [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related
+- [Over-reliance on genAI led to false model assumptions, wasted time, and skipped learning of modeling fundamentals](genai-over-reliance-risks-modeling-fundamentals.md) — related

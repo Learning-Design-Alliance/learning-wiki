@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 271 claims (173 show a difference, 63 mixed, 35 no difference) · 236 studies (112 causal, 58 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 236 report an effect size · 267 claims rest on one study
+> **Evidence** · 272 claims (173 show a difference, 64 mixed, 35 no difference) · 237 studies (113 causal, 58 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 237 report an effect size · 268 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -328,6 +328,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [No significant differences among chatbot conditions in engagement or perceived interruption](../claims/rr-no-engagement-interruption-differences.md) [-W] — measured as an outcome of the instruction studied
 - [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](../claims/python-skill-retention-three-month-break.md) [~M] — measured as an outcome of the instruction studied
 - [Self-reported time spent on experimental tasks does not significantly differ from time spent on programming tasks](../claims/exp-pro-time-on-task-no-difference.md) [-M] — measured as an outcome of the instruction studied
+- [Code-edit recommendations significantly reduced time-on-task compared to no feedback, while quiz-based feedback did not and involved more feedback time and seeking](../claims/code-rec-reduces-time-on-task.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

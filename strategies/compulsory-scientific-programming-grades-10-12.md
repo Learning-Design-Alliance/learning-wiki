@@ -39,6 +39,7 @@ The article recommends urgently introducing "a compulsory scientiﬁc programmin
 ## Related Strategies
 
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
+- [Make scientific programming a second core subject across all three years of the science-and-technology branch](three-year-scientific-programming-core-subject.md)
 
 ## Examples
 -

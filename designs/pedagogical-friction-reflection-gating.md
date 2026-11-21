@@ -51,3 +51,4 @@ The article introduces pedagogical friction as a first-class architectural primi
 
 ## Key Sources
 - Ran Bi, Shiyao Wei, Yuanyiyi Zhou. (2026). Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing Development. https://arxiv.org/abs/2605.05598
+- Qian Ma, Yingfan Zhou, Shubhang Kaushik, Aamod Joshi, Aditya Majumdar, Noah Apthorpe, Yan Shvartzshnaider, Sarah Rajtmajer, Brett Frischmann. (2026). Pedagogical Friction in Password Creation. https://arxiv.org/abs/2601.06650

@@ -100,3 +100,5 @@ Reliability measured by Cronbach's alpha across the iterative instrument version
 - [Expert validation interviews support that PIQL items represent reasoning experts expect students to develop in introductory physics](piql-expert-validation.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
+- [QCCS Item 15 v2.2, with an added 'CANNOT be written as a single-qubit ket' option, performed adequately with strong discrimination](qccs-item15-v2-2-adequate-performance.md) — a narrower finding that bears on this claim
+- [QCCS Item 15 v2.0 showed unacceptably low discrimination despite excellent difficulty, with non-monotonic performance across overall score](qccs-item15-v2-low-discrimination-non-monotonic.md) — a narrower finding that bears on this claim

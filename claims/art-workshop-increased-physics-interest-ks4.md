@@ -55,3 +55,4 @@ End-of-workshop student feedback collected during the pilot implementation phase
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related
+- [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related

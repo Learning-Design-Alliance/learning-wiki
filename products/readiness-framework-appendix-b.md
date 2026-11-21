@@ -13,7 +13,7 @@ generated:
 # Readiness Framework (Appendix B)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A district-readiness framework developed by Zohal Shah et al. (2024) for implementing competency-based micro-credentials and learning-and-employment-record technologies with K–12 partners.
@@ -21,12 +21,15 @@ A district-readiness framework developed by Zohal Shah et al. (2024) for impleme
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Implementation science framework for assessing district readiness**: The report grounds its conceptual framework in implementation science, a model for understanding how educational interventions are adopted and scaled that focuses on "fidelity, feasibility, and sustainability" rather than real-time effectiveness. Following McKay (2017), the authors examine contextual factors affecting a district's readiness to implement competency-based micro-credentials and LER technologies while centering HSE learners, identifying indicators such as community or institutional partnerships, data privacy and infrastructure, and student advising and career support. This yields a Readiness Framework (Appendix B) for district leaders. (Zohal Shah et al. (2024))
+- **Academic readiness framework for pre-university quantum education**: The framework defines academic readiness as "the degree of development of the academic, institutional, and contextual competences required to integrate quantum computing into high school curricula". It comprises two main components—academic coursework (curricular coverage of linear algebra, complex numbers, probability, modern physics, programming, plus alternative pathways such as IB/AP) and enablers (teacher training, technology infrastructure, institutions and public policies, socioeconomic factors, and student culture)—operationalized as eight indicators scored on a 1–5 ordinal scale. The article applies it to produce a cross-country diagnosis of Peru, Bolivia, Chile, Argentina, Brazil, and Colombia. (Alvarado León et al. (2025))
 
 ### Claims
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](../claims/cross-sector-enthusiasm-competency-recognition-k12.md) [+M]
+- [Academic readiness for quantum education varies substantially across the six studied Latin American countries, with averages from 2.4/5 in Bolivia to 3.7/5 in Chile](../claims/regional-readiness-asymmetries-six-countries.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.org
+- Alvarado León, A. C., Herrera Cueva, O. D., Morales Orvezo, R. M., Vargas Saldaña, D. A. C., & Herrera Cueva, F. (2025). Quantum Readiness in Latin American High Schools: Curriculum Compatibility and Enabling Conditions. https://arxiv.org/abs/2512.16257

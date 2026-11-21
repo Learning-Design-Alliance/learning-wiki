@@ -52,3 +52,4 @@ Bootstrapping mediation analysis (5,000 samples) within the SEM of 357 Chinese f
 - [E-learning motivation partially mediates the relationship between technology access and satisfaction with e-learning (proportion mediated 31.2%)](elearning-motivation-partially-mediate-tech-access-satisfaction.md) — related
 - [Avoidant coping fully mediates the relationship between resilience resources and somatic health symptoms](avoidant-coping-fully-mediates-somatic-symptoms.md) — related
 - [Creative teaching self-efficacy fully mediates the effect of school teamwork climate on teachers' characteristics-and-motivations creative teaching behavior](self-efficacy-fully-mediates-teamwork-creative-teaching.md) — a narrower finding that bears on this claim
+- [Bootstrapped indirect effects confirmed a partial mediation pathway from self-efficacy to Midterm 3 via chatbot usage, but not via proof-review usage](partial-mediation-self-efficacy-chatbot-pathway.md) — related

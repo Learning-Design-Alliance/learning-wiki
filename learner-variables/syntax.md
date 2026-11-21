@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (67 show a difference, 13 mixed, 24 no difference) · 77 studies (51 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 8 of 77 report an effect size · 100 claims rest on one study
+> **Evidence** · 105 claims (67 show a difference, 13 mixed, 25 no difference) · 78 studies (51 causal, 10 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 8 of 78 report an effect size · 101 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -142,6 +142,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [AI-assisted web programming submissions were more complex, employed uncommon syntax and libraries, and were less readable due to generic identifier names](../claims/ai-assisted-submissions-complex-less-readable.md) [+M] — measured as an outcome of the instruction studied
 - [Novice L2 learners using MUDT-Tutor syntax-aware feedback achieved significantly higher learning gains (13.73 points) than a no-feedback control group (7.88 points), t(29)=2.51, p=0.018, d=0.90](../claims/mudt-tutor-syntax-aware-feedback-higher-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Post-learning essays show no significant difference in text complexity or structural measures between LLM and search conditions](../claims/no-essay-text-difference-llm-search.md) [-M] — measured as an outcome of the instruction studied
+- [Correct LLM annotations are marked by higher density of causal connectors in their reasoning, while syntactic complexity (Differentiation) does not distinguish correct from incorrect reasoning](../claims/causal-logic-marks-correct-llm-reasoning.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

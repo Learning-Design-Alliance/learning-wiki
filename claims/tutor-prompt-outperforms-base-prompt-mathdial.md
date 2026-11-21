@@ -50,3 +50,4 @@ Benchmark evaluation on the MathDial dataset simulating tutor-student interactio
 - [In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor](eduguard-pilot-learning-gain-overreliance.md) — related
 - [AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings](pedagogically-designed-ai-tutors-outperform-active-learning.md) — related
 - [In simulation, an adaptive prompt router outperforms two static prompt baselines on pedagogical score across 390 scenarios](prompt-router-beats-static-baselines-simulation.md) — related
+- [ParLD-guided tutoring instructions raise simulated students' correct-answer rate to 72.22% versus 56.48% for Direct Respond on MathDial](parld-tutoring-simulation-higher-correct-rate.md) — related

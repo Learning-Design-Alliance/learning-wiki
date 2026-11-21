@@ -94,3 +94,4 @@ MathDial results from the same benchmark comparison, where existing methods impr
 - [Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points](llms-barely-exceed-trivial-baseline-kt.md) — related
 - [DPO training significantly increases the likelihood of correct next-turn student responses predicted by LLMKT, outperforming prompting, SFT, distillation, GPT-4o and human tutor utterances on the MathDial test set](dpo-tutor-training-raises-predicted-student-correctness.md) — related
 - [Rule-based simulated cognitive structures alone nearly match or slightly surpass classical KT and CD baselines](rule-based-simulation-matches-classical-baselines.md) — related
+- [ParLD (GPT-4.1) outperforms traditional knowledge-tracing baselines on final-turn performance prediction on MathDial and CoMTA](parld-outperforms-kt-baselines-performance-prediction.md) — related

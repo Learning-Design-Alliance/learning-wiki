@@ -169,3 +169,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — related
 - [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related
 - [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related
+- [One participant's department found no measurable learning losses and even some gains when adopting student-centered pedagogies in large classes, though results were mixed across cases](department-case-student-centered-large-sections-no-learning-losses.md) — related

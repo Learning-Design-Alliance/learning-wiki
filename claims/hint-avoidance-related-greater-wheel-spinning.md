@@ -70,3 +70,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.](log-feature-combination-significant-accumulated-difficulty.md) — related
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](its-on-demand-features-significant-effects.md) — related
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
+- [Solving more problems predicts higher outcomes while requesting more hints predicts lower outcomes](problem-count-positive-hints-negative-covariates.md) — related

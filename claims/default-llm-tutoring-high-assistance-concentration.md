@@ -59,3 +59,4 @@ Observational analysis of 14,637 paired turns from 203 students using a GPT-4o-m
 - [Students rate genAI most helpful for explaining domain knowledge and least helpful for verifying solutions, while faculty recommend genAI for fewer than a third of problem-solving uses](student-faculty-misalignment-genai-problem-solving.md) — related
 - [A slight majority of students prompt genAI to directly generate solutions rather than to scaffold their own problem-solving](students-prompt-genai-direct-solutions.md) — related
 - [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — related
+- [Pedagogical prompting increases mathematical problem-solving content and reduces excessive praise in tutor responses](pedagogical-prompting-shifts-tutor-behavior.md) — related

@@ -51,3 +51,4 @@ Theoretical knowledge was assessed at the end of the seminar with a ten-question
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related
 - [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related
+- [Midterm-exam pass-rate differences between AL and TL sections were not statistically supported at the 95% level](cl-al-tl-midterm-differences-not-significant.md) — related

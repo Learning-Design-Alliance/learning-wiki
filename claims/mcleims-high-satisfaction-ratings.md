@@ -77,3 +77,5 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
 - [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related
+- [Students rated the gamified board game very positively, with all survey items averaging above 4.21 out of 5](board-game-survey-items-above-4-21.md) — related
+- [Students who participated in Oxford-style debates rated the didactic tool highly useful and passed the course in the first evaluation round](oxford-debate-usefulness-rating.md) — related

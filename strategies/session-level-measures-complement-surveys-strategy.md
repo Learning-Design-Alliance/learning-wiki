@@ -45,7 +45,8 @@ The article recommends leveraging existing log data to mine session-level engage
 - [In stepwise combined models, relative delayed start, early stop, and idle time each negatively correlate with final math scores beyond prior performance](../claims/stepwise-combined-predictive-models.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Dual-sourcing measurement strategy: pair validated self-report surveys with trace-based proxies validated on labeled subsamples](tala-dual-sourcing-trait-measurement-strategy.md)
 
 ## Examples
 -

@@ -61,4 +61,4 @@ This strategy has early career educators (TAs, teachers-in-training, pre-college
 -
 
 ## Key Sources
-- Ghimire, A. and Singh, C. (2025). Using Unguided Peer Collaboration to Facilitate Early Educators' Pedagogical Development: An Example from Physics TA Training. https://arxiv.org/abs/2510.14046
+- Ghimire, A. and Singh, C. (2025). Using Unguided Peer Collaboration to Facilitate Early Educators' Pedagogical Development: An Example from Physics TA Training. https://arxiv.org/abs/2510.14046. [doi:10.3390/educsci15081038](https://doi.org/10.3390/educsci15081038)

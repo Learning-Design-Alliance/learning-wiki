@@ -49,4 +49,4 @@ FeynCraft offers overlays that add information to a drawn diagram: a possible QC
 -
 
 ## Key Sources
-- Gaunt, J. R. and Owen, A. (2025). FeynCraft: A Game of Feynman Diagrams. https://arxiv.org/abs/2510.14082
+- Gaunt, J. R. and Owen, A. (2025). FeynCraft: A Game of Feynman Diagrams. https://arxiv.org/abs/2510.14082. [doi:10.48550/arxiv.2510.14082](https://doi.org/10.48550/arxiv.2510.14082)

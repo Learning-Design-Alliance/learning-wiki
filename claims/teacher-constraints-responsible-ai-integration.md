@@ -93,3 +93,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Educators proactively raise concerns that LLMs could inhibit student learning, especially critical thinking, and most respond by limiting classroom LLM use](educators-concern-llms-inhibit-student-learning.md) — related
 - [Early-CS instructors widely regulate AI use, cite student over-reliance as their top concern, and rate teaching pedagogical prompting as important for novices](instructors-support-teaching-pedagogical-prompting.md) — related
 - [Professors framed GenAI as a source of knowledge whose reliability they personally vetted and whose output they assigned students to critically evaluate](genai-knowledge-source-vetting-critical-evaluation.md) — related
+- [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related

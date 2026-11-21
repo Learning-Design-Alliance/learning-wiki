@@ -47,6 +47,7 @@ The article recommends that "Curricula and instructional design should aim to pr
 - [Support faculty AI adoption by engaging beliefs about disciplinary thinking, not only access and technical training](engage-faculty-epistemic-beliefs-for-ai-adoption-support.md)
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
 - [Design literature-class tasks in which students critically assess AI-generated content and propose improvements](critical-assessment-of-ai-generated-content-tasks.md)
+- [Design physics tasks that have students critique, compare, and revise AI-generated explanations](critique-and-revise-ai-generated-explanations-strategy.md)
 
 ## Examples
 -

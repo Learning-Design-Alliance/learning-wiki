@@ -55,3 +55,4 @@ Bayesian model comparison across analysis steps in the 317-student sample; the a
 - [General ability, spatial abilities, and in-class attention together explain 83% of individual differences in mathematical competence from 6th to 9th grade](cognitive-factors-explain-83-percent-math-variance.md) — related
 - [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — related
 - [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](short-term-memory-predicts-achievement-rural-bangladesh.md) — related
+- [A sixth-grade student's depiction of the decibel scale's factor-ten increase, absent from textbook and instruction, suggests cognitive transfer from mathematics class](decibel-scale-cognitive-transfer-math-class.md) — related

@@ -48,3 +48,4 @@ Pre/post survey study in which 225 Australian secondary students completed both 
 - [Playing Particle Builder significantly improved high school students' understanding of particle physics concepts](particle-builder-significant-learning-gains.md) — related
 - [Gains were greatest on the anti-matter and leptons-and-quarks questions, which correspond directly to Level 1 game mechanics](particle-builder-largest-gains-antimatter-leptons-quarks.md) — related
 - [94% of students found Particle Builder more enjoyable and 88% found it more engaging than a normal science lesson](particle-builder-more-enjoyable-engaging-than-normal-lesson.md) — related
+- [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — related

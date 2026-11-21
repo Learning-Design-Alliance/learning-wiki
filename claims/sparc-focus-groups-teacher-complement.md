@@ -49,3 +49,4 @@ Qualitative thematic analysis of open-ended survey responses and 4 focus groups 
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
+- [Students most value learning how AI works and prefer hands-on, interactive workshop activities over direct instruction](students-value-how-ai-works-prefer-hands-on.md) — related

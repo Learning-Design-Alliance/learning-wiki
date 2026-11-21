@@ -51,6 +51,7 @@ The ASIMOV Prize encourages large participation through a set of incentives for 
 - [Exercise Contests](exercise_contests.md)
 - [Award participation marks for attempting at least 10 quiz questions per lecture within 14 days and scoring at least 60%](participation-mark-incentive-strategy.md)
 - [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
+- [Award extra credit and small rewards to sustain engagement in an optional review game](extra-credit-incentives-optional-game.md)
 
 ## Examples
 -

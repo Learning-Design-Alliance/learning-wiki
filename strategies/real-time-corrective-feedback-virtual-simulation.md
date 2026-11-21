@@ -43,6 +43,7 @@ The platform "incorporates formative assessments by providing immediate feedback
 - [Provide real-time multimodal feedback during early training, then withdraw guidance for unassisted assessment to prevent over-reliance](guided-practice-then-unassisted-assessment.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Enhance VR-based simulation debriefing with automated checklists, multiplayer platforms, and hybrid feedback approaches](vr-simulation-feedback-enhancement-strategy.md)
+- [Deliver real-time, parameter-specific feedback at the learner's line of sight during live physical-skill practice, then test unassisted](in-situ-ar-guidance-live-skill-training-strategy.md)
 
 ## Examples
 -

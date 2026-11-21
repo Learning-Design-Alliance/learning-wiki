@@ -55,3 +55,5 @@ Transcribed audiovisual data of 14 lab groups solving a context-rich rotational 
 - [Vague-dominated and framework-dominated groups tended to favor collaboration in the F15 class](vague-framework-groups-favor-collaboration.md) — related
 - [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related
 - [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](nested-epistemic-games-laplace-sensemaking.md) — related
+- [The Pictorial Analysis epistemic game is the most prominent game in graduate students' sensemaking on method-of-images problems, with other epistemic games nested within or switched between during solving.](grad-students-pictorial-analysis-dominant-moi.md) — related
+- [No evidence of the Recursive Plug and Chug game appeared in graduate students' sensemaking, though sensemaking showed local coherence without global coherence.](no-recursive-plug-chug-grad-moi.md) — reports the opposite

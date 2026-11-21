@@ -49,3 +49,4 @@ Composite calculation using the course's typical grading weights applied to the 
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
 - [ChatGPT earned 120% on the VPython programming exercise, outperforming all students in the course](chatgpt-vpython-programming-120-percent.md) — related
 - [Most students pass the course exam, with dispersed grades reflecting unfamiliarity with Fermi-question reasoning](exam-pass-rate-fermi-difficulty.md) — related
+- [ChatGPT can pass introductory physics exams while making beginner-like conceptual errors](chatgpt-passes-physics-exams-with-beginner-errors.md) — possibly the same claim (merge candidate)

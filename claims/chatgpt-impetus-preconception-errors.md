@@ -51,3 +51,4 @@ Error analysis of ChatGPT's FCI answer pattern (specifically answers 8A, 9B, 21B
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
 - [ChatGPT correctly reasons within two validated preconceptions (centrifugal force and impetus) when prompted to respond as-if a student held them](chatgpt-reasons-within-preconceptions.md) — related
 - [Prompting ChatGPT with specific physics preconceptions introduces much response variance that approximates real student FCI distributions](preconception-prompting-yields-variance.md) — related
+- [ChatGPT can pass introductory physics exams while making beginner-like conceptual errors](chatgpt-passes-physics-exams-with-beginner-errors.md) — a broader claim this one bears on

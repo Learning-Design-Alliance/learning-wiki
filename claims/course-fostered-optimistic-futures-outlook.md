@@ -57,3 +57,4 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [In a six-student pilot, third-year students rated the QSim quantum simulation as useful and reported improved confidence with quantum concepts](qsim-pilot-evaluation.md) — related
 - [Teachers reported strong positive impacts after the QCaMP teacher camp, including increased confidence delivering quantum, computing, math, and physics instruction](qcamp-teacher-survey-positive-impacts.md) — related
 - [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related
+- [Educators anticipate a near-term quantum 'winter' or contraction in investment while remaining optimistic about long-term QIST impact](quantum-winter-expected-long-term-optimism.md) — related

@@ -53,6 +53,7 @@ The article concludes that students need to be taught how to use genAI tools eff
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
+- [Teach productive genAI use, keep teaching staff available, and restrict genAI access for foundational skill development](teach-productive-genai-use-keep-tas-restrict-access.md)
 
 ## Examples
 -

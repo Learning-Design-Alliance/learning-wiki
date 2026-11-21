@@ -50,3 +50,4 @@ Model comparison (Table 5) of BERT-FYBIO against a five-layer Bi-LSTM architectu
 - [BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75](bert-best-unimodal-f1-075.md) — related
 - [Most student posts in the emoji-annotated biology course contained at least one emoji, with #question and #i-think used most often](emoji-posts-majority-self-report.md) — related
 - [The multimodal BiLSTM fusion model outperformed text-only BERT and prosody-only SVM baselines across accuracy, F1, and Cohen's Kappa](multimodal-fusion-outperforms-unimodal-baselines.md) — related
+- [Bagging ensembles sometimes achieved lower F1 than a single base bi-LSTM model despite higher accuracy on unbalanced learner-state datasets](bagging-lowers-minority-f1-learner-state.md) — related

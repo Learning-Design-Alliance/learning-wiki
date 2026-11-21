@@ -53,6 +53,7 @@ The article describes a concrete two-stage classroom recipe. In stage one, stude
 - [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 - [Sequence the activity from student-captured first-quarter Moon photographs through proportionality, geodesics, and spherical triangles, challenging teams of learners over one or two 60-minute classes per topic](moon-photo-curved-geometry-activity-sequence.md)
 - [Photo elicitation assignment inviting students to photograph and reflect on their identities in STEM](photo-elicitation-stem-identity-assignment.md)
+- [Two-phase classroom session: individual exploration followed by collective competition](two-phase-individual-then-competition-session.md)
 
 ## Examples
 -

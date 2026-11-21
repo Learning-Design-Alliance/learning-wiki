@@ -53,3 +53,4 @@ Pearson correlation analysis of ARPS and RIMMS scores from the same 90-participa
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related
 - [Perceived quality of the VR experience correlates positively with motivation (Attention, Relevance, Confidence, Satisfaction) and sense of virtual presence (p < 0.05)](vr-experience-quality-positive-motivation-correlations.md) — related
 - [Applicability and study motivation correlate positively with perceived importance of basic sciences](cbl-motivational-categories-correlation.md) — related
+- [In Physics Playground's classroom study, IVR raised motivation and presence, and presence correlated positively with sense of positive agency](motivation-presence-agency-physics-classroom.md) — related

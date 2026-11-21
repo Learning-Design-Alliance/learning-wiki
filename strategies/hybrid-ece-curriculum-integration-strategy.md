@@ -65,6 +65,7 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Ensure teacher receptiveness and organise clinical practice so students encounter varied situations before graduating](teacher-receptiveness-and-varied-clinical-exposure-strategy.md)
 - [Use adaptive approaches and support systems, including virtual interprofessional experiences, to buffer disruptions to clinical education](adaptive-support-systems-pandemic-clinical-education-strategy.md)
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
+- [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
 
 ## Examples
 -

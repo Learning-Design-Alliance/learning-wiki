@@ -50,3 +50,4 @@ Intention-to-treat sensitivity analysis with 33 matched pairs after reperforming
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [CACE estimation using a combined dosage-and-fidelity compliance marker increased estimated effects to medium–large for TSI domains and small–medium for emotional and behavioral engagement](cace-compliance-amplifies-interact-effects.md) — related
 - [Instrumental-variable (ITT-AT) analysis corrected for non-compliance shows an even larger effect of the game than standard ITT](itt-at-analysis-larger-gbel-effect.md) — related
+- [The grade advantage for participants persists when students who did not take the exam are excluded (d' = 0.9707)](grade-advantage-persists-excluding-non-exam-takers.md) — related

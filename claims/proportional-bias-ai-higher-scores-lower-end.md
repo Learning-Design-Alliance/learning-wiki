@@ -52,3 +52,4 @@ Mixed-effects Bland-Altman analysis of the 92 paired AI-faculty score sets. Mean
 - [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related
 - [Bland–Altman analysis shows peer and instructor scores agree closely, with limits of agreement from -1.17 to +1.16](bland-altman-agreement-peer-instructor.md) — related
 - [Examiners showed no systematic differences between their live and video-based scoring of the same OSCE performances](no-live-video-scoring-bias-osce.md) — related
+- [Authorship effects do not inflate AI-marking validity estimates; if any bias operates it runs in the conservative direction](authorship-bias-conservative-direction.md) — related

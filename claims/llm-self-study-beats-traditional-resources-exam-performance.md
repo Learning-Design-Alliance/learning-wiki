@@ -61,3 +61,4 @@ Randomized controlled experiment at Texas A&M University with 179 participants, 
 - [AI-assisted group achieved significantly higher post-rotation AI scores than the traditional group (adjusted mean difference 2.058 points, p = 0.041)](ai-assisted-group-higher-post-rotation-scores-ancova.md) — related
 - [In two laboratory experiments, LLM access during learning shows no statistically significant effect on overall learning outcomes in Python coding](llm-access-no-significant-effect-lab-learning.md) — reports the opposite
 - [After propensity adjustment, only two of seven lessons show statistically significant learning benefits from LLM feedback (β = 0.33 and β = 0.28)](llm-feedback-lesson-heterogeneity.md) — related
+- [A brief training intervention increases law students' self-reported use of an LLM in an issue-spotting examination (41.38% vs 26.32%)](training-increases-genai-adoption-issue-spotting.md) — related

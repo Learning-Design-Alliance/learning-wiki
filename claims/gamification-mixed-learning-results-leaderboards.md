@@ -55,3 +55,5 @@ The chapter reports, citing Seaborn & Fels (2015) and Toda, Valle, & Isotani (20
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
 - [Quiz grades stayed similar after gamification, suggesting students engaged meaningfully rather than gaming the leaderboard](meaningful-engagement-quiz-grades-similar.md) — a narrower finding that bears on this claim
 - [Higher-incidence MARSG game elements are search, points, goals/quests, teamwork, narratives, clues, collection, leaderboards, and creation, with only two top-half elements anchored under behaviorism.](marsrg-game-element-incidence-rates.md) — related
+- [Badges were the strongest predictor of learning outcomes among gamification elements (β = 0.54)](badges-strongest-predictor-hijaiyah-outcomes.md) — a narrower finding that bears on this claim
+- [Weekly leaderboard competitions in week 3 produced a clear peak in engagement, suggesting competitive elements can reignite student interest](weekly-leaderboard-competition-engagement-peak.md) — a narrower finding that bears on this claim

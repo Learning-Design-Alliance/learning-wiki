@@ -49,3 +49,4 @@ The quiz problem was given to 26 first-year graduate students in a TA training c
 - [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](partial-diagram-intervention-worse-quiz-performance.md) — related
 - [Among comparison-group students on problem 2, those who drew diagrams scored better but not significantly so](drawing-diagrams-null-difference-comparison-group.md) — related
 - [Students using a mathematical approach who also drew a productive diagram outperformed mathematical-approach students who drew no productive diagram on both quiz and midterm problems](productive-diagram-helps-math-approach.md) — related
+- [Graduate students' problem-solving improved with successive attempts and multiple drawings, including diagrams from different viewing angles that aided comprehension of problem symmetry.](iterative-drawings-improve-moi-solving.md) — related

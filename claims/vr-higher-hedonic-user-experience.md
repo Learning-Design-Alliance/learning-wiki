@@ -52,3 +52,5 @@ UEQ-S data from both conditions of the quantitative study (44 participants). The
 - [The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark](slideshow-higher-sus-than-vr.md) — related
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
 - [Informal programming learners rated the storytelling-centric system's overall user experience slightly positively on the UEQ-S](storytelling-system-ueq-s-slightly-positive.md) — related
+- [Immersive VR yields higher user experience, technology acceptance, and presence than desktop VR and slideshow controls in the RHOME-VR study](ivr-higher-ux-acceptance-presence-rhome-vr.md) — related
+- [Slideshow control participants outperformed both VR conditions on spatial learning tasks in RHOME-VR](rhome-vr-spatial-control-outperformed.md) — related

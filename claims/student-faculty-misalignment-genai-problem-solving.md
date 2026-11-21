@@ -48,3 +48,4 @@ Parallel student and faculty survey items on the same physics problem (Fig. 4). 
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [GenAI services can be used to verify the quality of generated isomorphic problems, identifying and correcting erroneous items](genai-verification-of-generated-item-quality.md) — reports the opposite
+- [Students were skeptical of genAI for physics theory and verified its factual information with trusted sources](student-skepticism-genai-theory-verification.md) — related

@@ -47,3 +47,4 @@ Schoenfeld phase analysis of thinking-trace paragraphs (Table 9, GPT-4o-mini par
 - [On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost](tei4-beats-dtr4-and-greedy-same-base.md) — related
 - [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](dtr-does-not-predict-tutoring-quality.md) — related
 - [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related
+- [Thinking reward combined with pedagogical prompting produces more focused reasoning traces and responsive-teaching patterns in tutor thinking](thinking-reward-reshapes-reasoning-structure.md) — related

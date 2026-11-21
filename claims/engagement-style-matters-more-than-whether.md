@@ -79,3 +79,4 @@ The review attributes to Makransky et al. (2025) that a chatbot prompting studen
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
 - [Students using the Socratic AI Tutor perceived significantly greater support for critical and reflective thinking than students using an uninstructed chatbot](socratic-tutor-perceived-critical-reflective-thinking.md) — related
 - [Chatbot users transition from a 'Chatbot as Machine' mental model to 'Chatbot as Human' after initial prompts](chatbot-mental-model-shift-machine-to-human.md) — related
+- [Intelligent tutoring systems show generally positive effects on learning, whereas naive chatbots delivering pre-digested answers limit reflection and critical engagement](pedagogically-aligned-ai-enhances-outcomes.md) — related

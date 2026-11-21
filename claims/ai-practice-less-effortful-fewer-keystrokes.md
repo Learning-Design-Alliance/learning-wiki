@@ -50,3 +50,4 @@ Same pre-registered experiment (N=2,238). Participants practicing with AI "spent
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
+- [The engagement-level gradient in prompting gains was not attributable to instructional time alone](gradient-not-time-on-task.md) — related
