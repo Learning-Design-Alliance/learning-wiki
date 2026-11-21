@@ -57,3 +57,5 @@ Validation of GPT-5.4-mini scoring against the 50-student human consensus baseli
 - [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](st-and-ct-co-equal-separate-entities.md) — related
 - [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related
 - [LLM reliability on instructional moves varies by construct: stronger on explicit, structurally constrained moves and weaker on socially and metacognitively demanding ones](llm-reliability-varies-by-talk-move-construct.md) — related
+- [A multimodal LLM achieves 84% exact agreement with human consensus in detecting 20 binary computational-thinking sub-practices in student essays](llm-84-percent-agreement-ct-subpractices.md) — related
+- [Students in introductory mechanics showed high CT engagement on CPEs, averaging 16.51 of 20 sub-practices, with systems investigation most common (99%) and modular solutions least common (50%)](student-cpe-ct-engagement-baseline.md) — related

@@ -76,3 +76,4 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related
 - [Knowledge workers using GenAI shift effort from information gathering to verification, and GenAI creates new cognitive tasks such as assessing AI-generated content](genai-shifts-effort-to-verification.md) — a narrower finding that bears on this claim
 - [Iterative prompt-crafting to correct chatbot errors fostered critical reflection and developed pedagogical content knowledge](iterative-prompt-crafting-fosters-pck.md) — related
+- [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — related

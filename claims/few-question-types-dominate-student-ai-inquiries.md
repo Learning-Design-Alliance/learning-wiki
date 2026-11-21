@@ -49,3 +49,4 @@ Descriptive frequency analysis of 830 logged prompts (432 in Session 1, 398 in S
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related
 - [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [CS2 learners jumped directly into implementation without querying any learning support about the algorithm, and GenAI queries shifted toward debugging](learners-skip-pre-implementation-support-queries.md) — related

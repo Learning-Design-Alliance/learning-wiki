@@ -75,3 +75,4 @@ In the Conclusion the review draws this as the second of three conclusions from 
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — related
 - [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](drill-results-corroborate-first-study.md) — related
+- [Students described learning to think like a physicist as a gradual, ongoing process built through repeated practice, curiosity and the social environment, without a fixed threshold](ltp-gradual-practice-curiosity-social.md) — a narrower finding that bears on this claim

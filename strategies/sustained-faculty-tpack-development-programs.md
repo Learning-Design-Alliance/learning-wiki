@@ -53,6 +53,7 @@ Based on the identified importance-performance gap in faculty competence, the ar
 - [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
 - [Faculty development combining technology-adaptation support, contextualized TPACK capacity building, and growth mindset interventions](faculty-development-technostress-tpack-gm-support.md)
 - [Prioritize intervention and comparison studies on PCK/TPACK effects in mathematics classrooms](prioritize-pck-tpack-intervention-comparison-studies.md)
+- [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
 
 ## Examples
 -

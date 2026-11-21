@@ -48,3 +48,4 @@ Google Analytics page-view analysis by site section for 2018. Of 97 published as
 - [PhysPort has substantial international reach, with 31% of Verified Educators and 40% of 2018 visitors from outside the U.S., and 27 of 82 assessments available in additional languages](physport-international-reach-translations.md) — related
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [Users spend substantial time on PhysPort Expert Recommendations, with the most popular recommendation averaging nine minutes on page](physport-recommendations-dwell-time.md) — related
+- [Quantum-based concept inventories developed since the Force Concept Inventory have had far less impact, attributed to existing standards, shortcut development processes, and jargon use](quantum-inventories-limited-impact-causes.md) — related

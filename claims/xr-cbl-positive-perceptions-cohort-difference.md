@@ -52,3 +52,4 @@ Likert-scale feedback survey (5-point, agree/neutral/disagree groupings, Fig. 6)
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
 - [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](ar-obgy-satisfaction-no-difference.md) — related
 - [Students uniformly agreed the CBL session improved understanding, integrated anatomy content, and was well organized](cbl-session-survey-agreement-understanding-integration.md) — related
+- [Perceived benefit of GenAI for learning was positive across all cohorts and by 2025 100% of respondents rated it positive or strongly positive](perceived-benefit-genai-learning-uniformly-positive-2025.md) — related

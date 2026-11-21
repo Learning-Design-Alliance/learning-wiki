@@ -50,3 +50,4 @@ Thematic analysis of the outcome-expectations construct grouped student expectat
 - [Positive class experiences and experimental opportunities significantly impacted undergraduate physics students' interest in different subfields of physics](class-and-research-experiences-shape-physics-subfield-interest.md) — related
 - [Interest formation differs between astrophysics and biomedical physics: astrophysics interest arises from popular culture and coursework, biomedical physics interest from research and practical experiences](astrophysics-versus-biomedical-interest-formation-differences.md) — related
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
+- [Acceptable degree of black-box methodology varies by physics subfield, shaping where AI can assist](black-box-acceptability-varies-by-subfield.md) — related

@@ -47,3 +47,4 @@ Student voices section: a qualitative student observation made while supporting 
 ## Related Claims
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
 - [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
+- [Collaboration with local tradespeople and institutions situated the project in a community of practice, with students moving from peripheral participation to trusted contributors](community-integration-situated-learning-case.md) — related

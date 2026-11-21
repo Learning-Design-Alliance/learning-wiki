@@ -55,3 +55,4 @@ Expert evaluation of 200 conversations on a 3-point scale across four dimensions
 - [The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics](llm-teacher-assessment-outperforms-baselines-teachereval.md) — related
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
 - [GPT-4o-generated student-facing feedback was rated 3 or above on a 5-point scale by two experienced instructors for almost all messages](llm-generated-student-facing-feedback-quality.md) — related
+- [Insight's instructor-verified feedback showed higher selectivity and pedagogical suitability than GPT-4o-generated feedback, while GPT-4o showed higher completeness](insight-feedback-beats-gpt4o-selectivity-suitability.md) — related

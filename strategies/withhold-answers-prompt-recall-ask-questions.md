@@ -54,6 +54,8 @@ A concrete implementable recipe drawn from what students themselves requested an
 - [Never distribute worked solutions to activity worksheets; offer select answers instead](no-worksheet-solutions-strategy.md)
 - [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](socratic-agent-to-think-with-prompting-strategy.md)
 - [Replace complete AI-generated solutions with active-learning scaffolding when students request help during programming practice](active-scaffolding-instead-of-llm-complete-solutions.md)
+- [Activate an assessment-aware mode that refuses complete solutions, offers step-by-step hints, and surfaces an academic-integrity banner for active assignment queries](assessment-aware-homework-guardrail-strategy.md)
+- [Deepening Prompt v1.0: a five-component Socratic tutoring prompt structure for evaluating AI tutors](deepening-prompt-v1-socratic-components.md)
 
 ## Examples
 -

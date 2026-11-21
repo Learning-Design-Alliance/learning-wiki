@@ -58,3 +58,4 @@ In Student B's chat log debugging the common source amplifier (P4), ChatGPT 5.1 
 - [Image generation frequently failed to represent all components of multi-component STEM analogies](image-generation-misses-analogy-components.md) — related
 - [The customized ChatGPT can accurately process graphical information when images are submitted directly through the interface](custom-gpt-direct-image-submission-accurate.md) — related
 - [AI performance on AP Physics FRQs degrades substantially on tasks requiring visual extraction, spatial inference, or integration across sub-parts, despite strong algebraic performance](llm-physics-errors-cluster-visual-spatial-tasks.md) — related
+- [Earlier LLM generations failed spatial-geometry steps in Electromagnetism, such as deducing induced-current direction with the right-hand rule](llm-spatial-geometry-em-bottleneck.md) — related

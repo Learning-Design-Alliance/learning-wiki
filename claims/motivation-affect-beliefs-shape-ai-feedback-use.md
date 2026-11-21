@@ -54,3 +54,4 @@ Conceptual argument drawing on educational psychology: in singing, feedback is t
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](vocal-metrics-lack-fixed-pedagogical-meaning.md) — related
 - [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related
+- [Over-correction by AI systems risks anxiety and reduced fluency by overwhelming learners rather than guiding them](ai-over-correction-feedback-harm.md) — a narrower finding that bears on this claim

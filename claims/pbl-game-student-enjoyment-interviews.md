@@ -88,3 +88,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Student feedback indicated a preference for the physical board game over the online version](students-prefer-physical-particle-builder-over-online.md) — related
 - [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related
 - [Teachers reported the game elicited graph reflections rarely surfacing in traditional lessons and expressed interest in adopting it](missionmotion-teacher-feedback.md) — related
+- [In a preliminary classroom deployment, students rated Insight's feedback neutral-to-somewhat-agreeable, with 53.6% wanting to continue using it](insight-classroom-survey-positive-perceptions.md) — related

@@ -66,3 +66,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
 - [Participants praise the platform's feedback reports for code quality and incremental learning but find them lacking depth and sometimes inconsistent](feedback-reports-praised-lack-depth.md) — related
 - [LLM grading produced multi-sentence diagnostic feedback where human grader comments were typically two to three words](llm-grading-feedback-depth-advantage.md) — related
+- [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](eap-talk-low-stakes-confidence-theme.md) — related

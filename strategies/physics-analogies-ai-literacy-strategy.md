@@ -51,4 +51,4 @@ The activity's educational payload is delivered by mapping observed LLM behavior
 -
 
 ## Key Sources
-- Tufino, E. (2026). Demystifying the oracle: A "20 Questions" game to promote AI ethics and literacy. https://github.com/etufino/AI-20-questions-game
+- Tufino, E. (2026). Demystifying the oracle: A "20 Questions" game to promote AI ethics and literacy. https://github.com/etufino/AI-20-questions-game. [doi:10.48550/arxiv.2602.01254](https://doi.org/10.48550/arxiv.2602.01254)

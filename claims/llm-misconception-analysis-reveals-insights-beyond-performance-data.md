@@ -59,3 +59,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [Rapid ML surrogate experiments let students observe that increasing salt concentration accumulates ions near the interface](salt-concentration-increases-interface-ion-accumulation.md) — related
 - [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related
 - [Analysis of CDPA incorrect responses reveals recurring misconceptions, including prioritizing fitting more points over points with smaller uncertainty and disregarding uncertainties when averaging data](cdpa-distractors-reveal-uncertainty-misconceptions.md) — related
+- [AI systems giving definitive diagnoses without expressing appropriate uncertainty can reinforce rather than correct misconceptions](ai-definitive-diagnoses-reinforce-misconceptions.md) — related

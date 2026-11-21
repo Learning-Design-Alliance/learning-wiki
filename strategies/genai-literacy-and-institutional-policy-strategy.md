@@ -60,6 +60,7 @@ The article recommends that institutions develop policies and formal guidance on
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
 - [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
 - [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
+- [Provide university-level GenAI guidance for students, such as a GenAI policy and workshops, since students explicitly request structured guidance on AI use](university-level-student-genai-guidance-workshops.md)
 
 ## Examples
 -

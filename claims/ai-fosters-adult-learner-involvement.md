@@ -75,3 +75,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
 - [In a within-subjects lab study (n = 12), Glitter improved discussion engagement, sparked new ideas, supported reflection, and increased preparedness for in-class activities](glitter-lab-study-improves-pre-class-engagement.md) — related
 - [Self-directed engagement with LLM-generated skill content fosters positive, engaged responses, including preference for content that leaves room for autonomous thinking](self-direction-fosters-engaged-responses.md) — related
+- [Students perceive the Lightbulb Agent's proactive prompts as warm encouragement that activates disengaged group members](lightbulb-agent-prompts-activate-disengaged-members.md) — a narrower finding that bears on this claim

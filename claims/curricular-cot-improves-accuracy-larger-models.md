@@ -109,3 +109,4 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [LLM judges rate pipeline-generated explanations higher than direct prompting and hand-crafted templates across USML domains](llm-judges-rate-pipeline-explanations-higher.md) — related
 - [Chain-of-thought prompting modestly improves case consistency and completeness but reduces controlled disclosure](cot-prompting-reduces-controlled-disclosure.md) — related
 - [The GPT-4o rubric scorer aligned reasonably well with expert judgments (84.6% accuracy) and its rubric-level judgments matched TAs' final judgments 88.7% of the time](llm-rubric-scorer-validity-84-6-percent.md) — related
+- [Feedback quality rubric criteria showed significant pre-test-to-post-test gains across models after a single judge-guided regeneration step, with self-regulated next steps showing the largest gain, in one single-group pre-post study.](judge-guided-regeneration-improves-feedback-quality.md) — related

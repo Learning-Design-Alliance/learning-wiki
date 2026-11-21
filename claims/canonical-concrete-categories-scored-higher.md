@@ -47,3 +47,4 @@ Scoring result from the three faculty evaluators: the hydrogen atom category sco
 ## Related Claims
 - [Concrete categories naming canonical quantum systems (hydrogen atom, harmonic oscillator) scored higher than those naming infinite square well or free particle](canonical-quantum-system-categories-scored-higher.md) — possibly the same claim (merge candidate)
 - [Only 34% of beginning graduate students correctly identified all three allowed wavefunctions for an infinite square well; 45% rejected A sin³(πx/a) although it satisfies the boundary conditions](grad-qm-possible-wavefunction-difficulty.md) — related
+- [Common introductory strategies for quantum numbers (orbitals, probability clouds, hydrogen atom) are expert representations not optimized for novice sense-making](expert-representations-quantum-numbers-novice-traps.md) — related

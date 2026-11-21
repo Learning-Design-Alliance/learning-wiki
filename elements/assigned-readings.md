@@ -78,6 +78,7 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 **[Hypothesis](https://web.hypothes.is)** — Open web annotation used in courses to make reading a visible, social activity; instructors seed annotations with guiding questions.
 
 **Reading guides with embedded self-explanation prompts** — Instructors insert prompts ("Explain in your own words why this result holds") at intervals in the text, a technique grounded in self-explanation research [Prompting learners to self-explain text improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+- [Reading guides plus pre-class quizzes and think-pair-share discussion of theory papers](../strategies/reading-guide-quiz-think-pair-share-theory-papers.md)
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

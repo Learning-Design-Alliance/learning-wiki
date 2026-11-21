@@ -66,3 +66,4 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [LLM use as a supplementary learning aid yields modest short-term knowledge gains (d = 0.31–0.71) that attenuate without durable retention](llm-shortterm-knowledge-gains-no-retention.md) — related
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — a narrower finding that bears on this claim
 - [The author hypothesizes that changing from open-ended conversational prompts to task-based assignment prompts caused students to frame the activity as homework rather than conversation](framing-hypothesis-prompt-change-homework-frame.md) — related
+- [RL-timed GenAI access yields higher objective post-test scores than unrestricted access in higher education students](rl-timed-genai-access-beats-always-allow-posttest.md) — related

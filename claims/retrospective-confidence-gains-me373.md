@@ -53,3 +53,4 @@ Anonymous post-term Canvas survey of N=159 students (~80% response rate) using a
 - [Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).](domain-interest-large-increase-short-course.md) — related
 - [Train-the-trainer workshops for research mentor training produce significant retrospective gains in facilitator confidence](train-the-trainer-confidence-gains-rmt.md) — related
 - [A short FiPy-based course improved students' self-efficacy related to PDEs, with the greatest boost among students with the least initial confidence](fipy-short-course-improved-pde-self-efficacy.md) — related
+- [Outreach participants showed significant pre/post gains in data-analysis comfort and AI explanation confidence with large effect sizes (r = .80 and .84, n = 10 matched pairs)](self-efficacy-gains-outreach-workshop.md) — related

@@ -57,8 +57,10 @@ The protocol works because it imposes cognitive discipline on a task — interpr
 4. **Act.** Connect inferences to instructional changes, assign follow-ups, and schedule a check-in on the next data cycle.
 
 ## Related Strategies
+
 - [Action research](action-research.md) — data dialogue is the analysis step within a broader inquiry cycle
 - [Check-ins](../principles/check-ins.md) — the follow-up mechanism that closes the loop between dialogue and changed practice
+- [Three-activity predict–observe–explain sequence: multi-metric comparison, metric-driven selection, and tolerance-based transfer](hom-three-activity-sequence-strategy.md)
 
 ## Examples
 - **[Data Wise improvement process](../processes/data-wise-improvement-process.md)** (Harvard Graduate School of Education) — Data Driven Dialogue is a core protocol in the "Examine Student Learning Data" phase; see the [Data Wise Project](https://www.gse.harvard.edu/data-wise).

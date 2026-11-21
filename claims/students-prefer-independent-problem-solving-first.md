@@ -60,3 +60,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Willingness to attempt US-guided cannulation before calling for help increased from 7.5 to 10 after training](us-training-willingness-7-5-to-10.md) — related
 - [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related
 - [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related
+- [Guided hints achieve the largest learning gains over baseline in problem solving, with a frustration reversal as engagement increases](guided-hints-largest-learning-gains.md) — related

@@ -75,3 +75,4 @@ Illustrative failure analysis of network topology interpretation (Figure 1c), de
 - [Image generation frequently failed to represent all components of multi-component STEM analogies](image-generation-misses-analogy-components.md) — a narrower finding that bears on this claim
 - [Graphical GenAI systems failed to produce reliable scientific illustrations for college-level content, with error rates approaching 100%](image-genai-error-rates-approaching-100-percent.md) — related
 - [API-based evaluation fails on graphical and mathematical content because the model cannot parse images, tables, graphs and embedded equations](chatgpt-api-cannot-parse-figures-equations.md) — a broader claim this one bears on
+- [Invalid AI evaluations were mainly associated with restricted access to evidence during text extraction and OCR, particularly for equations, figures, and graphs](invalid-ai-evaluations-evidence-accessibility.md) — related

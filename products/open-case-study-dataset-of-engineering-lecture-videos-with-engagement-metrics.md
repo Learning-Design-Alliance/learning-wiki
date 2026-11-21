@@ -29,4 +29,4 @@ A GitHub-released dataset of 144 engineering lecture videos with video metadata,
 -
 
 ## Key Sources
-- Tolba, Kendall, Tudball Smith, Gregg, Vo, Wordley. (2025). An Open Workflow Model for Improving Educational Video Design: Tools, Data, and Insights. Proceedings of AAEE 2025, The University of Queensland, Australia. https://aaee2025.com.au
+- Tolba, Kendall, Tudball Smith, Gregg, Vo, Wordley. (2025). An Open Workflow Model for Improving Educational Video Design: Tools, Data, and Insights. Proceedings of AAEE 2025, The University of Queensland, Australia. https://aaee2025.com.au. [doi:10.48550/arxiv.2512.16254](https://doi.org/10.48550/arxiv.2512.16254)

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 148 claims (97 for, 39 mixed, 12 against) · 121 studies (51 causal, 27 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 23 of 121 report an effect size · 136 claims rest on one study
+> **Evidence** · 149 claims (98 for, 39 mixed, 12 against) · 122 studies (52 causal, 27 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 23 of 122 report an effect size · 137 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -219,6 +219,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Increasing Intrinsic Load lengthens VR assembly training time and raises perceived workload without degrading retention-test accuracy](../claims/intrinsic-load-training-time-workload-not-retention-vr-assembly.md) [+M] — attached 2026-11-21 from Pharmer et al. (2023), which proposed "Cognitive Load Theory's three-source framework applied to procedural VR skill training"; tests this page's relationship.
 - [Extraneous Load from verbose, displaced instructions shows mixed effects: it reliably lengthens training time, raises workload only under fixed training, and slows the retention trial in Experiment 1 without hurting retention accuracy](../claims/extraneous-load-mixed-effects-vr-instructions.md) [~M] — attached 2026-11-21 from Pharmer et al. (2023), which proposed "Cognitive Load Theory's three-source framework applied to procedural VR skill training"; tests this page's relationship.
 - [No significant interactions occur between Intrinsic, Extraneous, and Germane Load manipulations in VR assembly training](../claims/no-interactions-among-three-cognitive-load-types.md) [~M] — attached 2026-11-21 from Pharmer et al. (2023), which proposed "Cognitive Load Theory's three-source framework applied to procedural VR skill training"; tests this page's relationship.
+- [Text-only conversational AI can create a fluency effect: reduced extraneous load without added germane load inflates perceived understanding without improving learning outcomes](../claims/fluency-effect-illusion-of-learning-text-only-ai.md) [+W] — attached 2026-11-21 from Taneja et al. (2026), which proposed "Cognitive Load Theory account of conversational multimedia learning: conversationality reduces extraneous load while multimodality increases germane load".
 
 ## The evidence by question
 

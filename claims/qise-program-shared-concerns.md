@@ -69,3 +69,4 @@ The article reports, as printed, that "many programs reported uncertainty about 
 - [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — possibly the same claim (merge candidate)
 - [Availability of QISE faculty expertise varies sharply across institutions, shaping what curricula programs can offer](qise-faculty-expertise-inequity.md) — related
+- [No single structural model for graduate QISE training has proven universally superior; the field is best served by deliberate coexistence of multiple program architectures](no-single-structural-model-graduate-qise.md) — related

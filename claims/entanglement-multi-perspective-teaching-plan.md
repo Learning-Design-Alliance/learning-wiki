@@ -46,3 +46,4 @@ The authors describe their instructional approach in the introduction: each conc
 
 ## Related Claims
 - [Instructors most often named quantum information, entanglement, the EPR paradox and Bell inequality as contemporary topics, but reported limited course time](qm-contemporary-topics-limited-course-time.md) — related
+- [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related

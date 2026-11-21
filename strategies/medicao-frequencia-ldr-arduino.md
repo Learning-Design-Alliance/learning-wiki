@@ -37,7 +37,8 @@ Estratégia de calibração de baixo custo: um sensor LDR posicionado atrás do 
 - medir frequência de rotação e relacioná-la à taxa de variação do fluxo magnético
 
 ## Related Strategies
-- 
+
+- [Use an unplanned sensor-bandwidth failure as a productive-failure lesson in which students research semiconductor physics and propose replacement sensors](sensor-bottleneck-productive-failure-strategy.md)
 
 ## Examples
 -

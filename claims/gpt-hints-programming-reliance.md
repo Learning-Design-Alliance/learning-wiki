@@ -53,3 +53,4 @@ generated hints, indicating potential reliance on GAI"
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
 - [University students rated GPT-generated programming hints positively, though a minority found them not useful](gpt-hints-rated-useful-programming.md) — related
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
+- [Without AI assistance many students failed to identify any mistakes, and exposure to AI hints introduced over-reliance and negative influences on revised hints](baseline-failures-and-gpt-hint-negative-influence.md) — related

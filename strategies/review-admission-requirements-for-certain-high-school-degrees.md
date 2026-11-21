@@ -47,6 +47,7 @@ The article recommends that because some regional high school certificates rely 
 ## Related Strategies
 
 - [Institutions considering reduced reliance on standardized testing should validate changes locally and monitor medium- and long-term outcomes](local-validation-admissions-policy-changes.md)
+- [Use a country grading system in applicant selection to contextualise achievements and increase diversity](country-grading-system-selection-diversity.md)
 
 ## Examples
 -

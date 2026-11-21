@@ -55,3 +55,4 @@ Pilot RCT knowledge assessment using a 15-item multiple-choice questionnaire ada
 - [In-person WHO ENC training significantly improves nurses' and midwives' BVM ventilation, knowledge-check and case-scenario scores immediately after the course](enc-inperson-training-immediate-gains-nigeria.md) — related
 - [First-year MBBS students' DOPS skill scores fell significantly from pre-training to immediately post-training after BLS training, in one uncontrolled pre-post study (p < 0.001)](bls-training-improves-dops-skill-scores.md) — related
 - [BLS and ALS knowledge scores rose significantly from pre-test to post-test after KSS training in one uncontrolled pre-post study, with BLS rising 15 points](kss-training-improves-bls-als-scores.md) — related
+- [Immediate post-test scores rose from traditional video instruction to AI-augmented video instruction in a pilot within-subjects study](ai-augmented-video-higher-immediate-post-test-pilot.md) — related

@@ -67,3 +67,5 @@ Discussion of the format results: the animation video was polarising, "it also r
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — related
 - [Adult learners prefer learning from video formats over text materials](adult-learners-prefer-video-over-text.md) — related
+- [Learners ranked live tutoring as the most preferred support overall, with AV rated best only for tracing execution](learners-prefer-live-tutoring-over-genai-and-av.md) — related
+- [Audio-only podcasts were extremely unpopular, ranked last by 18 students, while infographics and reports were the most-used media types](podcasts-unpopular-infographics-reports-preferred.md) — related

@@ -48,3 +48,4 @@ Illustrative use case 2: a rectangular-loop electromagnetic induction problem. T
 - [A role-engineered Gem provides multimodal feedback on hand-drawn force diagrams and enforces course-specific notational rules from a Knowledge file](gem-multimodal-force-diagram-notation-feedback.md) — related
 - [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related
 - [A NotebookLM-based tutor configured with a Training Manual and teacher-curated sources can facilitate Socratic dialogue for conceptual physics problems](notebooklm-socratic-tutor-facilitates-dialogue.md) — related
+- [Earlier LLM generations failed spatial-geometry steps in Electromagnetism, such as deducing induced-current direction with the right-hand rule](llm-spatial-geometry-em-bottleneck.md) — related

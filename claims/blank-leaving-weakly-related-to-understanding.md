@@ -69,3 +69,6 @@ Sub-analysis restricted to students earning B (85% or 3.0) or better on all atte
 - [URM students leave a larger fraction of exam answers blank than non-URM and white students in introductory physics courses](urm-students-leave-more-blank-answers.md) — related
 - [Female students leave more problems blank than male students, a small but significant difference](females-leave-more-blanks-than-males.md) — related
 - [Elimination testing with adapted scoring reduces the number of blank answers compared with negative marking](eta-adapted-scoring-reduces-blank-answers.md) — related
+- [Leaving blanks lowers course grades, with a percent-scale grading regime producing over three times the grade drop of a 4-point scale](blanks-grade-penalty-worse-under-percent-scale.md) — related
+- [Demographic differences in uncollected exam items persist among high-performing students (non-blank average of middle B or higher), suggesting blanks do not simply reflect lack of understanding](blanks-persist-among-high-performers.md) — a narrower finding that bears on this claim
+- [The fraction of blank answers correlates much more weakly with A-grades (r = -0.308) than the fraction of D/F grades does (r = -0.737), suggesting blanks are not simply indicators of not knowing the material](blanks-weakly-correlated-with-a-grades.md) — possibly the same claim (merge candidate)

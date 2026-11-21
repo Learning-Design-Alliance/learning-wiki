@@ -50,4 +50,4 @@ The article offers instructors a graded set of four options occupying ascending 
 -
 
 ## Key Sources
-- Xiao, R., Ye, R., Hou, X., Wen, J., Kumar, H., Liut, M., & Stamper, J. (2026). Bridging GenAI policy and practice: Brief instruction improves learning-oriented prompting in an introductory programming course. https://arxiv.org/abs/2602.16033
+- Xiao, R., Ye, R., Hou, X., Wen, J., Kumar, H., Liut, M., & Stamper, J. (2026). Bridging GenAI policy and practice: Brief instruction improves learning-oriented prompting in an introductory programming course. https://arxiv.org/abs/2602.16033. [doi:10.48550/arxiv.2602.16033](https://doi.org/10.48550/arxiv.2602.16033)

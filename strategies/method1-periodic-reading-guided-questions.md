@@ -55,6 +55,7 @@ Method 1 "makes use of periodic reading assignments to promote student familiari
 - [Four suggested classroom applications of Astrobites: reading assignments, written summaries, in-class presentations, and a website discussion forum](astrobites-classroom-integration-strategies.md)
 - [Three guidelines to encourage completion of targeted pre-class reading](targeted-pre-reading-guidelines.md)
 - [Incorporate Astrobites into astronomy coursework using the collaboration's lesson plans and grading rubrics](astrobites-classroom-lesson-plans-strategy.md)
+- [Reading guides plus pre-class quizzes and think-pair-share discussion of theory papers](reading-guide-quiz-think-pair-share-theory-papers.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Post-graduation pathway tracking of UAT alumni reported in the outcomes section,
 - [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related
+- [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related

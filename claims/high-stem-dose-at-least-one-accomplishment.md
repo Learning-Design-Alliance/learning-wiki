@@ -50,3 +50,4 @@ Combined-cohort (weighted equally) comparison on the composite outcome of at lea
 - [High STEM educational dose is associated with a higher rate of earning a STEM PhD than low dose across three talent-search cohorts combined](high-stem-dose-higher-stem-phd-rate.md) — related
 - [High STEM educational dose is associated with roughly double the rate of STEM publications compared with low dose](high-stem-dose-stem-publications.md) — related
 - [STEM educational dose levels rose across successive talent-search cohorts, with later cohorts showing higher median dose](stem-dose-rose-across-cohorts.md)
+- [More than 50% of LEAPS participants in almost every cohort subsequently undertook a PhD, with 67% of tracked alumni overall](leaps-majority-progress-to-phd.md) — related

@@ -49,3 +49,4 @@ Order-impact analysis comparing response distributions via Mann-Whitney U tests.
 - [Multimodal AI responses show no significant impact on problem-solving performance compared with text-only responses](mudoc-no-performance-impact.md) — related
 - [Learners prefer a multimodal document-grounded AI system over a text-only variant for engagement, interest and memorability in problem-solving while learning](mudoc-preferred-engagement-memorability.md) — related
 - [Navigation to source text and images increases perceived trustworthiness of AI responses by enabling verification](mudoc-trustworthiness-navigation.md) — related
+- [Document-grounded conversational AI with interleaved text-and-image responses (MuDoC) yields significantly higher post-test scores than a text-only conversational AI (TexDoC) in a visually rich STEM topic](mudoc-higher-posttest-than-texdoc.md) — related

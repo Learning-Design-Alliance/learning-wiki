@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (15 for, 14 mixed) · 35 studies (19 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 6 of 35 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (15 for, 15 mixed) · 36 studies (19 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 2 design), `q1`–`q4` · 6 of 36 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learning from a solved isomorphic problem with scaffolding significantly improves introductory students' quiz-problem scores in the algebra-based course (all three interventions) and for the struggle-first intervention in the calculus-based course](../claims/isomorphic-solved-problem-scaffolding-improves-quiz-scores.md) [+W] — attached 2026-11-17 from Lin et al. (2011), which proposed "Scaffolding for analogical transfer should match students' abilities and keep them actively engaged in reasoning"; tests this page's relationship.
 - [Scaffolding with a solved analogical problem raises quiz scores over no scaffolding in intervention 2 in both courses and intervention 1 in the algebra-based course, but not intervention 1 in the calculus-based course](../claims/analogical-scaffolding-raises-quiz-scores-most-groups.md) [~W] — attached 2026-11-17 from Lin et al. (2008), which proposed "When teaching analogical transfer, require students to first attempt the quiz problem before studying the solved analog, and ask them to reproduce and explain the solved problem"; tests this page's relationship.
 - [In intervention 2, average normalized gains from pre-test to post-test were 79% (calculus-based) and 52% (algebra-based) among students who re-solved the quiz problem after studying the solved analog, in a single-group pre-post comparison](../claims/intervention2-normalized-gains-79-52.md) [+W] — attached 2026-11-17 from Lin et al. (2008), which proposed "When teaching analogical transfer, require students to first attempt the quiz problem before studying the solved analog, and ask them to reproduce and explain the solved problem"; tests this page's relationship.
+- [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](../claims/classical-analogies-hinder-quantum-topics.md) [~W] — attached 2026-11-21 from James Day et al. (2026), which proposed "Explicitly constrain and deliberately break analogies rather than avoiding them".
 
 ## Objective and learner-valued goal
 
@@ -169,6 +170,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](../strategies/twa-step-by-step-analogy-teaching-strategy.md)
 - [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](../strategies/post-activity-discussion-static-friction-strategy.md)
 - [Explicitly examine analogies and models as thinking tools, not merely use them to teach circuit ideas](../strategies/explicit-analogy-examination-thinking-tools.md)
+- [Metacognitive activity in which students test, extend, and locate the failures of the analogy](../strategies/analogy-breakdown-metacognitive-activity.md)
 
 ### Illustrative
 

@@ -47,6 +47,7 @@ The article proposes concrete instructional strategies to strengthen students' s
 
 - [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](design-edtech-courses-around-self-efficacy-sources.md)
 - [Peer Coaching](peer_coaching.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Examples
 -

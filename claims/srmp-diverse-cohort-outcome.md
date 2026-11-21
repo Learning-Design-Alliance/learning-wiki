@@ -48,3 +48,4 @@ Descriptive demographic report of the first two cohorts (20 students, excluding 
 ## Related Claims
 - [African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities](african-american-staff-least-positive-instructional-equity-perceptions.md) — related
 - [SRMP participation enriched students and built coding skills across the first two cohorts](srmp-student-testimonials-enrichment.md) — related
+- [A two-day quantum hackathon recruited a majority of participants from underrepresented groups, with 80% of participants identifying as woman/nonbinary and 40% as African Nova Scotian, but failed to recruit indigenous and rural students](quantum-hackathon-underrepresented-recruitment-outcomes.md) — related

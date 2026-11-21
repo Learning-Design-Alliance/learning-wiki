@@ -69,3 +69,4 @@ Thematic analysis of the control-group focus group identified perceived excessiv
 - [Students request clearer course organization, reminders, and more experiential practice opportunities while affirming overall satisfaction with the wellness courses](student-feedback-course-structure-improvements.md) — related
 - [K-12 teachers designing integrated AI curriculum consider four categories of values: evaluation, engagement, logistics, and collaboration](teachers-values-k12-ai-curriculum.md) — related
 - [Students in the CT-based capstone course reported high satisfaction, with choice, learning, structure, and examples as the best elements](student-feedback-choice-learning-structure.md) — related
+- [The assignment created specific pressure points around workload, lecture preparedness, and computational skill gains](quantum-pbl-pressure-points-workload.md) — related

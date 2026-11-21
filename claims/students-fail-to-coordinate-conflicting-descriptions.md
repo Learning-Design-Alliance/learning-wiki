@@ -73,3 +73,4 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — a narrower finding that bears on this claim
 - [Students' conceptual metaphors about the atom mostly fell into Harrison and Treagust's simple analogy category, with some enriched and one extended analogy](cma-metaphor-classification-harrison-treagust.md) — related
 - [SPF makes semiotic misalignments — metaphor misuse, language conflicts, and graph misreads — analyzable where prior framing frameworks could not capture them in detail](spf-makes-semiotic-misalignments-analyzable.md) — related
+- [Analogical reasoning aids initial quantum comprehension for young students and non-specialists, but over-applied classical intuition risks misconceptions](quantum-analogies-aid-comprehension-risk-misconceptions.md) — related

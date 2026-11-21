@@ -79,3 +79,4 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related
 - [In Experiment 1, neither recommendation condition significantly affected physics performance across the whole sample](exp1-whole-sample-null-achievement.md) — related
 - [The ITS and human tutor conditions did not differ significantly at immediate or delayed post-test](guru-no-difference-human-tutors.md) — related
+- [Hint-writing design condition showed no significant difference in learning outcomes on post-test scores](hint-design-no-learning-outcome-difference.md) — related

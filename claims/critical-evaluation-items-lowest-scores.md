@@ -54,3 +54,4 @@ Item-level survey analysis in the Results section. Although students were explic
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — reports the opposite
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — related
 - [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — a broader claim this one bears on
+- [Course activities challenged students to engage critically with responsible AI from multiple perspectives, yielding one of the highest survey ratings (mean = 4.65)](re-ai-course-judgment-oriented-engagement.md) — related

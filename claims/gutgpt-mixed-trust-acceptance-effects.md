@@ -50,3 +50,4 @@ Simulation-center study with 55 enrolled participants randomized across two phas
 - [Perceived ease of use (Effort Expectancy) particularly increased for GutGPT arm participants after simulation](gutgpt-effort-expectancy-increase.md) — related
 - [Participants in both GutGPT and dashboard arms generally improved on the GI bleeding management educational assessment after simulation](gutgpt-content-mastery-improvement.md) — related
 - [PGY1 and PGY2 residents showed statistically significant knowledge gains on treatment of nonvariceal GI bleeds after the simulation (PGY1 p < .001, PGY2 p = .001)](pgy1-pgy2-nonvariceal-bleed-knowledge-gains.md) — related
+- [Students in both conditions trusted simulated pendulums more than physical ones, and simulation users reported a somewhat better lab experience and wanted more simulations in future](student-trust-and-experience-survey-findings.md) — related

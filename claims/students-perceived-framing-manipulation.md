@@ -55,3 +55,4 @@ Manipulation check using a nine-question Likert-style post-tutoring survey aggre
 - [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md) — related
 - [No evidence that framing affected transfer of the surface area principle](no-framing-effect-surface-area-principle-transfer.md) — related
 - No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation — related
+- [Students reported more moderate shifts in perceived post-secondary trajectory expansion (mean = 3.61, SD = 1.12)](re-ai-course-postsecondary-trajectory-expansion.md) — related

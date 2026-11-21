@@ -315,3 +315,5 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — reports the opposite
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
 - [Students who engaged with ChatGPT during a physics problem showed higher learning gains than students who did not use AI](chatgpt-users-higher-physics-gains.md) — reports the opposite
+- [RL-timed GenAI access improves metacognitive accuracy of self-assessment compared with unrestricted access](rl-timed-access-metacognitive-accuracy-vs-always.md) — related
+- [RL-timed GenAI access yields higher objective post-test scores than unrestricted access in higher education students](rl-timed-genai-access-beats-always-allow-posttest.md) — related

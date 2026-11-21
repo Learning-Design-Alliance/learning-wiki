@@ -53,3 +53,4 @@ Automated rubric evaluation (GPT-4o as judge) on the MathDial test set shows DPO
 - [GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall](grpo-sfs-reward-beats-dpo.md) — related
 - [Supervised fine-tuning on misconception-faithful demonstrations sharply improves SFS (up to +0.555 on Malrule for Qwen3-4B)](sft-improves-selective-update-behavior.md) — related
 - [In a human evaluation, the DPO-trained tutor outperforms both human tutors and GPT-4o on perceived student correctness and rubric score, with statistically significant differences](human-evaluation-dpo-beats-human-tutors-and-gpt4o.md) — possibly the same claim (merge candidate)
+- [Fine-tuning on interaction traces narrows an 8B model's gap to GPT-5 on interactive response quality except correctness](refine-finetuning-narrows-gap-to-gpt5.md) — related

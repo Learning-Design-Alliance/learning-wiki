@@ -54,3 +54,4 @@ Documented failure-mode analysis of ChatGPT output screenshots across the benchm
 - [ChatGPT scored 47% on the first-semester final exam, with a realistic hand-graded score between 46% and 50%](chatgpt-exam-47-percent-no-dialogue.md) — related
 - [Performance jumps from ChatGPT-3.5 to ChatGPT-4 and again from ChatGPT-4 to ChatGPT-4/CI, with Code Interpreter enabling accurate symbolic manipulation and numerical calculation](chatgpt4-ci-outperforms-chatgpt4-and-35.md) — related
 - [External plugins such as Wolfram and the Advanced Data Analysis mode significantly improve ChatGPT-4's ability to perform calculations that LLMs cannot reliably do alone](plugins-improve-chatgpt4-calculation-ability.md) — related
+- [ChatGPT's Data Analysis plugin performed competently on well-specified computational tasks but yielded mediocre results overall, with failure modes clustered around judgment](chatgpt-data-analysis-plugin-competent-routine-mediocre-overall.md) — related

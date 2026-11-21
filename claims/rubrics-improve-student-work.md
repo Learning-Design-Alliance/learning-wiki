@@ -130,3 +130,4 @@ Two further open questions for the evidence base: (1) durability — most rubric
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related
 - [Students reported rubric-driven gains in content awareness, paragraph organization, and vocabulary use, but mechanics received the least attention](rubric-category-specific-student-gains.md) — related
 - [Interviewed students reported that rubric use, though initially stressful, helped them appreciate the qualities of good writing](rubric-interviews-appreciation-good-writing.md) — related
+- [Tier 2 assessment tasks are non-standardizable by design, so closing the assessment gap requires trained professional judgment applied repeatedly rather than rubrics alone](tier2-assessment-nonstandardizable.md) — related

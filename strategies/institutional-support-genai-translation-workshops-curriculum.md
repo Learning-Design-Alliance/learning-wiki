@@ -45,6 +45,7 @@ Participants expected institutions to organize regular workshops and training se
 - [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
+- [Provide university-level GenAI guidance for students, such as a GenAI policy and workshops, since students explicitly request structured guidance on AI use](university-level-student-genai-guidance-workshops.md)
 
 ## Examples
 -

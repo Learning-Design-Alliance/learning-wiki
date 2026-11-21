@@ -51,3 +51,4 @@ Paired samples t-tests within each group of the quasi-experiment. Experimental m
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — related
 - [Control-group students' cognitive structures grew in size, richness and integratedness over 8 weeks, but misconceptions did not change significantly](control-group-flowmap-gains-but-misconceptions-unchanged.md) — related
+- [A 19-week regular high-school mechanics course produced large pre/post conceptual learning gains in both MDETs and control groups (d ≈ 1.0 overall)](mdet-mechanics-course-large-learning-gains-both-groups.md) — reports the opposite

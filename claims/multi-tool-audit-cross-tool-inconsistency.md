@@ -73,3 +73,4 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [Among five AI-detection tools, ZeroGPT was most accurate at 98% with precision 1.00 on binary classification](zerogpt-best-ai-detector-98-accuracy.md) — related
 - [Immediate per-trial feedback improves accuracy in distinguishing human-written from AI-generated texts](feedback-improves-ai-text-detection-accuracy.md) — related
 - [GPTZero misclassified 8 of 50 human-written essays as AI, a 16% false positive rate](gptzero-false-positives-human-essays-16-percent.md) — related
+- [AI-text detectors are unreliable: none of 14 tested tools reached 80% accuracy, and OpenAI shut down its own classifier over a 26% true positive rate](ai-detectors-unreliable-bias-nonnative-writers.md) — related

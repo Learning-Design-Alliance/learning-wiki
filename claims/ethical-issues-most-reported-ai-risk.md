@@ -106,3 +106,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Learning bias in early warning systems over-identifies African American and Hispanic students as at-risk due to biased disciplinary and attendance data](ews-learning-bias-over-identifies-minority-students.md) — related
 - [Exploratory quality metrics showed near-ceiling base rates: no biased language in 543 problems, only five non-grounded hallucinations, and one unrealistic-data case](exploratory-metrics-near-ceiling-base-rates.md) — related
 - [Attributions of model errors to training data rose from 20 to 62 mentions, with students adopting discipline-specific language about dataset size and training time](training-data-attributions-rose-20-to-62.md) — related
+- [Applicants to a mixed-cohort AI program converge on ethical and socially oriented motivations despite disciplinary diversity](applicant-motivations-ethics-convergence-data-crossings.md) — related

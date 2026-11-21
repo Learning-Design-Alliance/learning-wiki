@@ -79,3 +79,5 @@ The review reports these reliance findings as consistent with automation-bias re
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
 - [A brief AI literacy intervention did not significantly reduce high school students' over-reliance on incorrect ChatGPT recommendations](brief-ai-literacy-intervention-no-over-reliance-reduction.md) — related
+- [Without AI assistance many students failed to identify any mistakes, and exposure to AI hints introduced over-reliance and negative influences on revised hints](baseline-failures-and-gpt-hint-negative-influence.md) — related
+- [A class-specific confidence prompt reduces LLM confidence in incorrect bias judgments but also lowers confidence in correct ones, without changing accuracy](class-specific-confidence-prompt-reduces-incorrect-confidence.md) — related

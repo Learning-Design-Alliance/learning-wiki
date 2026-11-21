@@ -52,3 +52,4 @@ Test-retest consistency analysis of the two MCQ sessions using Cohen's kappa and
 - [Temporal reliability over a 1-week interval varied across LLMs: Claude 4.5 Sonnet showed very good consistency (kappa = 0.872) while Grok-4 and ChatGPT-5 showed moderate agreement](claude-sonnet-superior-temporal-reliability-radiology-questions.md) — related
 - [Large closed-weights LLMs show high test-retest reliability when scoring clinical summary statements across repeated runs](llm-high-test-retest-reliability-summary-statement-scoring.md) — related
 - [Inter-model agreement is moderate, indicating models do not consistently identify the same questions correctly](moderate-inter-model-agreement-endodontic-questions.md) — related
+- [AI classification accuracy on math cognitive-demand tasks is temporally unstable over a seven-week interval, with Gemini stable at 58% and Coteach declining from 75% to 50%](ai-task-classification-temporal-instability-seven-weeks.md) — related

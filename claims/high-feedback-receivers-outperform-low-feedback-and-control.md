@@ -51,3 +51,4 @@ One-way ANOVA across three groups (control, 8 low-feedback receivers, 7 high-fee
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Posttest grammar scores differed significantly among the three feedback groups (omnibus ANOVA)](posttest-anova-significant-group-difference-grammar.md) — related
 - [Rubikon learners exercised significantly more knowledge components during practice than both baselines](rubikon-more-knowledge-components-exercised.md) — related
+- [In an 8-week study, the Learning in Blocks cohort showed significant pre-post gains across all dimensions and significantly outperformed both feedback-only cohorts](learning-in-blocks-cohort-largest-gains.md) — related

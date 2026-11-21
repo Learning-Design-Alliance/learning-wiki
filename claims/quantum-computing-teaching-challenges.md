@@ -56,3 +56,4 @@ Narrative review-style section (Section 2) enumerating challenges: counter-intui
 - [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related
 - [Deployment of the ENSAR methodology via the Qureka! Box produced an average grade increase of 3.91 points on a 10-point assessment across seven groups](qureka-box-ensar-average-grade-increase-3-91-points.md) — related
 - [Grade 5 students' informal responses about quantum varied widely, ranging from concrete concepts to misconceptions conflating quantum with other science](grade5-student-quantum-conceptions-varied.md) — related
+- [Analogical reasoning aids initial quantum comprehension for young students and non-specialists, but over-applied classical intuition risks misconceptions](quantum-analogies-aid-comprehension-risk-misconceptions.md) — related

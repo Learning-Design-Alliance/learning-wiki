@@ -52,3 +52,4 @@ Analysis of written and interview responses to mechanical wave questions in the 
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — a broader claim this one bears on
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Different student pairs activated different, yet overlapping, resource sets to make sense of simultaneous particle-like and wave-like photon behavior](varied-resource-sets-single-photon-interference.md) — a narrower finding that bears on this claim
+- [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related

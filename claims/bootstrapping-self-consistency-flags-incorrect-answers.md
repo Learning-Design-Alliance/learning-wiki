@@ -68,3 +68,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
 - [GPT-4o's incorrect answers are far from random, gravitating toward specific incorrect answers](gpt4o-consistent-incorrect-answers.md) — related
 - [GPT-5 Thinking scores 27/30 and 25/30 on the author's two comprehensive physics final exams, with errors clustered on ray tracing and circuit interpretation](gpt5-final-exam-scores-27-25-of-30.md) — related
+- [A GPT-4o verification layer reduced the rate of incorrect feedback from 23% to 1.2% in the feedback-matching pipeline](gpt4o-verification-reduces-incorrect-feedback.md) — related

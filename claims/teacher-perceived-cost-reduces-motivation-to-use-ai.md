@@ -133,3 +133,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related
 - [Barriers to blended learning uptake include educator unfamiliarity, material-creation effort and costs, and concerns about student completion](blended-learning-uptake-barriers-educators-costs-completion.md) — a narrower finding that bears on this claim
 - [Department-wide acceptance and integration increased students' willingness to use Learning Moment, with utility rising as peer use rose](lm-department-wide-acceptance-theme.md) — a narrower finding that bears on this claim
+- [Participants entered the program with low to moderate AI confidence despite high interest, framing confidence rather than motivation as the primary barrier](low-entry-confidence-primary-barrier-ai-education.md) — related

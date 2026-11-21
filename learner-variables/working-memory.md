@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 171 claims (97 show a difference, 49 mixed, 25 no difference) · 137 studies (54 causal, 35 associational, 24 review, 12 quant-synthesis, 8 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 25 of 137 report an effect size · 162 claims rest on one study
+> **Evidence** · 173 claims (98 show a difference, 49 mixed, 26 no difference) · 139 studies (55 causal, 35 associational, 24 review, 12 quant-synthesis, 8 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 25 of 139 report an effect size · 164 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -214,6 +214,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [The article reports, citing prior work, that asynchronous forums and discussion boards can cause too much interaction, student overload, dissatisfaction, and backwardness](../claims/asynchronous-forums-overload-dissatisfaction.md) [+W] — measured as an outcome of the instruction studied
 - [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](../claims/working-memory-3-5-slots-30-seconds.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory slots are unlimited for relationships quickly recallable from long-term memory but very limited for other data](../claims/wm-unlimited-for-recallable-relationships.md) [~M] — learners who differ on it differ in outcomes
+- [Higher cognitive load from AI-generated materials was negatively associated with course grades across all assessment stages](../claims/cognitive-load-negative-correlation-grades.md) [+M] — learners who differ on it differ in outcomes
+- [No difference in cognitive load during experiments between groups with and without MDETs, and no evidence of distraction or overload](../claims/no-cognitive-load-difference-mdets.md) [-W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -60,3 +60,4 @@ Thematic analysis of student perceptions in the mixed methods study of 13 peer g
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — related
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — related
+- [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](eap-talk-low-stakes-confidence-theme.md) — related

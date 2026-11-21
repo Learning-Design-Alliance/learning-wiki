@@ -63,3 +63,4 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
 - [Exam-based assessment of teaching outcome in German medical schools is limited by methodological problems and insufficient quality control of summative exams](exam-based-outcome-assessment-limited.md) — a narrower finding that bears on this claim
 - [Few EBP measurement instruments exist, and validation studies using comparison groups are rare](paucity-of-ebp-instruments.md) — related
+- [Quantum education initiatives lack systematic evaluation of learning outcomes](quantum-education-lacks-empirical-evaluation.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ Summary of ANOVA results from the five-condition experiment; the quote reports "
 - [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](text-arithmetic-outperformed-diagram-total-posttest.md) — related
 - [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](extraneous-load-reduction-non-significant-moderator.md) — related
 - [Students found diagrams much easier to remember than equations, but omitted non-salient diagram features such as bar widths encoding relative magnitude](diagrams-easier-to-recall-than-equations.md) — related
+- [Text-only conversational AI can create a fluency effect: reduced extraneous load without added germane load inflates perceived understanding without improving learning outcomes](fluency-effect-illusion-of-learning-text-only-ai.md) — related

@@ -52,3 +52,4 @@ Analysis of institutional case records at one regional Australian university fou
 - [AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024](ai-detection-evidence-near-disappeared-2025.md) — related
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
 - [Adapting situational crime prevention techniques in an Australian business capstone reportedly reduced misconduct cases from 183 to 27 within a year](situational-crime-prevention-reduced-misconduct-183-to-27.md) — related
+- [Students' self-reported GenAI familiarity and active use rose substantially across the 2023–2025 cohorts, with use becoming nearly universal by 2025](genai-familiarity-usage-rise-across-cohorts.md) — related

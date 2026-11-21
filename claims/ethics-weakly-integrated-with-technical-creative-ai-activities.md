@@ -51,3 +51,4 @@ Off-diagonal co-occurrence analysis of AILEs across the 39 reviewed studies (Fig
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
 - Technical reframings of AIED criticism fail to address the fundamental political questions — related
 - [Capacity building on AIED ethics covers 41% of studies, yet only four of 42 training studies assessed impact, and ethics training is largely absent](aied-ethics-capacity-building-gap.md) — related
+- [Ethical awareness precedes technical confidence as an entry condition for non-traditional AI learners](ethical-awareness-entry-condition-non-stem-learners.md) — related

@@ -47,3 +47,4 @@ Student feedback survey in the evaluation section of the first course iteration 
 ## Related Claims
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
 - [Emergency medicine residents spend extracurricular time on education: 97.7% report at least one hour per week and 34.4% report two to four hours](em-residents-extracurricular-education-hours.md) — related
+- [Self-reported weekly workload in the course stayed within the expected effort for a 9 ECTS class](rust-robotics-course-workload-within-9-ects.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (182 show a difference, 46 mixed, 33 no difference) · 150 studies (84 causal, 29 associational, 15 review, 11 quant-synthesis, 5 design, 4 theoretical, 2 qualitative), `q1`–`q4` · 43 of 150 report an effect size · 256 claims rest on one study
+> **Evidence** · 263 claims (183 show a difference, 47 mixed, 33 no difference) · 152 studies (85 causal, 30 associational, 15 review, 11 quant-synthesis, 5 design, 4 theoretical, 2 qualitative), `q1`–`q4` · 43 of 152 report an effect size · 258 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -299,6 +299,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](../claims/ai-writing-quality-productivity-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Student academic writing quality increased after LLM tools became widely available, rising from slightly higher in Phase 1 to substantially higher in Phase 2](../claims/writing-quality-increased-post-llm-availability.md) [+M] — measured as an outcome of the instruction studied
 - [Higher writing-quality students uniquely showed a writing (w) pattern of submitting essay sections for feedback, while lower performers' unique patterns were repeated content-help requests without writing](../claims/ewa-unique-patterns-higher-lower-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Deferred AI assistance leads students to write higher-quality hints than writing independently or with on-demand AI assistance](../claims/deferred-ai-assistance-higher-hint-quality.md) [+M] — measured as an outcome of the instruction studied
+- [Specific VISAR interaction behaviors show differentiated associations with argumentative writing quality in classroom regression analyses](../claims/visar-interaction-behaviors-differentiated-argument-quality.md) [~W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

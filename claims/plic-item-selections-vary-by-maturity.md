@@ -52,3 +52,4 @@ Item-level analysis of pre-instruction PLIC responses (Fig. 2; N(FY)=584, N(BFY)
 - [Beyond-first-year students and first-year physics majors score significantly more expert-like than their comparison groups, supporting concurrent validity](eclass-concurrent-validity-course-level-major.md) — related
 - [Low-scoring quick responders apply answering patterns rather than picking answers at random](answering-patterns-not-random-guessing.md) — related
 - [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — a broader claim this one bears on
+- [Evaluating a large dataset with more visible patterns leads university physics students to select the expert-supported conclusion significantly more often than evaluating a small dataset](large-dataset-expert-conclusion-more-often.md) — related

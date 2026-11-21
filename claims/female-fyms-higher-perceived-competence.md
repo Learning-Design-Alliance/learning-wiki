@@ -54,3 +54,4 @@ Secondary demographic analysis in the rotation study comparing PCS and CS by stu
 - [Final-year medical students undervalue their competence relative to external evaluations](fyms-undervalue-competence-external-ratings.md) — related
 - [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — related
 - [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — reports the opposite
+- [Male and female engineering students differ in self-efficacy and perceived difficulty despite equivalent exam performance](gender-belief-gap-without-performance-gap-engineering-cs1.md) — reports the opposite

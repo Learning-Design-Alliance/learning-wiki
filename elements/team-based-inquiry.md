@@ -13,7 +13,7 @@ generated:
 # Team-Based Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (4 quant-synthesis, 3 causal, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 6 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 12 studies (4 causal, 4 quant-synthesis, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 6 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Team-Based Inquiry places students in small, structured groups that work through carefully sequenced questions or problems, constructing answers collectively rather than receiving them directly. Each team member typically adopts a role, and the group's reasoning — not just its answer — is the object of instruction. The structure distinguishes it from generic group work: tasks are interdependent, roles are assigned, and reflection on the group's process is built in.
@@ -61,6 +61,7 @@ Structured team inquiry improves achievement and peer interaction quality compar
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](../claims/pogil-effect-smaller-in-chemistry.md) [~W]
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](../claims/tips-pd-odr-reduction.md) [+W]
 - [Novel clerkship students articulate established clinical reasoning strategies in TBL discussions without labelling them, but do not describe heuristics](../claims/students-articulate-clinical-reasoning-strategies-unlabelled.md) [+W] — attached 2026-11-06 from N. Mitchell et al. (2025), which proposed "Key-feature-question-based team-based learning session for paediatric clinical reasoning".
+- [POGIL-style and lecture-based instruction produced comparable Bayes' theorem final-exam performance in an introductory statistics quasi-experiment](../claims/pogil-lecture-comparable-bayes-exam-performance.md) [~M] — attached 2026-11-21 from Cheng-Han Yu et al. (2026), which proposed "POGIL-style Bayesian reasoning activity with three two-way-table models and structured team roles"; tests this page's relationship.
 
 ## Related Elements
 

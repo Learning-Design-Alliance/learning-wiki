@@ -68,3 +68,4 @@ Descriptive report that non-engineering roles on the team also yielded career ou
 - [QEL participants continued in quantum research and entrepreneurship after the course, with publications, internships, and nearly half joining follow-up fellowship programs](qel-post-course-student-outcomes.md) — related
 - [An increasing trend toward industry internships in QT master's programs: none offered industry internships before 2019, while greater than 50% of newly launched programs did so as of 2020](qt-masters-industry-internship-trend.md) — related
 - [The PULSE-A team grew to 60 consistently contributing members with over 100 undergraduates participating since inception, which the authors call the mission's greatest accomplishment](pulse-a-team-growth-engagement.md) — related
+- [Over 91% of USEQIP students from 2022-2025 secured a paid research internship](useqip-internship-placement-rate.md) — related

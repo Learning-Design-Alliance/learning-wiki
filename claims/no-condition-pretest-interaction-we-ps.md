@@ -80,3 +80,4 @@ In the graphing MANCOVA (n = 120 students analysed, of 199 who took part, after 
 - [Prior knowledge of the law-related learning topic was low and did not differ between the four experimental groups](prior-knowledge-low-and-equivalent-across-groups.md) — related
 - [Prior VR experience did not interact with condition, indicating VR experience did not improve learning in the VR condition](vr-experience-no-interaction-learning.md) — related
 - [The association between elaborated-feedback use and post-test scores is not moderated by prior knowledge, platform performance, or response confidence](feedback-effect-no-moderation-prior-knowledge.md) — related
+- [The pre-test to mid-test relationship did not differ across conditions: the pre-test by condition interaction was not statistically significant (p=.241)](pretest-midtest-interaction-not-significant.md) — related

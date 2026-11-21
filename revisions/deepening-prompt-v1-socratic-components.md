@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/deepening-prompt-v1-socratic-components.md
+---
+
+# Revision history: [strategies/deepening-prompt-v1-socratic-components](../strategies/deepening-prompt-v1-socratic-components.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2604.27454 (Exploring Applications of Transfer-State Large Language Models: Cognitive Profiling and Socratic AI Tutoring) via eval_harness.py + ingest_extractions.py

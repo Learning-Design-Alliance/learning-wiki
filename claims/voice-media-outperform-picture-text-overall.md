@@ -100,3 +100,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related
 - [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related
 - [Audio is the core carrier of teacher emotional expression: audio-only features outperform text-only and video-description-only variants](audio-core-carrier-teacher-emotion-t-med.md) — related
+- [Algorithm visualization was used sparsely and mostly passively, often failed to help learners progress, and some participants preferred making their own pen-and-paper visualizations](av-used-passively-ineffectively-cs2.md) — related

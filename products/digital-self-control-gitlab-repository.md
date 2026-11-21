@@ -28,4 +28,4 @@ The digital-self-control GitLab repository, released by Bodonhelyi et al., provi
 -
 
 ## Key Sources
-- Bodonhelyi, A., Wang, M., Bozkir, E., Bühler, B., Kasneci, E. (2026). Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education. https://arxiv.org/abs/2602.09904
+- Bodonhelyi, A., Wang, M., Bozkir, E., Bühler, B., Kasneci, E. (2026). Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education. https://arxiv.org/abs/2602.09904. [doi:10.48550/arxiv.2602.09904](https://doi.org/10.48550/arxiv.2602.09904)

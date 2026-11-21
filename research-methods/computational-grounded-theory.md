@@ -32,4 +32,4 @@ Computational grounded theory integrates qualitative research with computational
 
 ## Key Sources
 - Martin, P. P., Kranz, D., & Graulich, N. (2025). Revealing Rubric Relations: Investigating the Interdependence of a Research-Informed and a Machine Learning-Based Rubric in Assessing Student Reasoning in Chemistry. International Journal of Artificial Intelligence in Education, 35, 1465–1503. https://doi.org/10.1007/s40593-024-00440-y
-- Dange, A. and Lopez, R.E. (2026). Chatbot Conversations in Physics Education: Using Artificial Intelligence to Analyze Student Reasoning through Computational Grounded Theory. arXiv:2603.04616. https://arxiv.org/abs/2603.04616
+- Dange, A. and Lopez, R.E. (2026). Chatbot Conversations in Physics Education: Using Artificial Intelligence to Analyze Student Reasoning through Computational Grounded Theory. arXiv:2603.04616. https://arxiv.org/abs/2603.04616. [doi:10.48550/arxiv.2603.04616](https://doi.org/10.48550/arxiv.2603.04616)

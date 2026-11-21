@@ -73,3 +73,4 @@ In the same interview study, the discussion of the second transition reports tha
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related
 - [Introducing peer mentors during career transition periods increases belonging, self-efficacy, and long-term retention](peer-mentors-transition-retention.md) — related
 - [Peer interaction and sense of belonging reach a minimum in year 2, when majors adjust to classes consisting primarily of physics majors](year-2-dip-peer-interaction-belonging.md) — related
+- [The transition from high school to undergraduate quantum education is a critical bottleneck where learners often disengage](hs-to-undergrad-quantum-transition-bottleneck.md) — related

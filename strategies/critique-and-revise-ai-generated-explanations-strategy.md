@@ -48,6 +48,7 @@ The article recommends shifting the pedagogical focus "from locating explanation
 - [Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use](design-projects-for-evaluating-ai-outputs.md)
 - [Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks](critical-engagement-tasks-with-ai-generated-content.md)
 - [Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs](structured-integration-critical-evaluation-ai-physics.md)
+- [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
 
 ## Examples
 -

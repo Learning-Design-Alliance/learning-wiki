@@ -90,3 +90,4 @@ Evaluation-reported problem (N = 26): some students felt "8 weeks were not enoug
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
 - [Students reacted positively to the Modellus activities, found Modellus easy to learn and user-friendly, and preferred working in teams, though they felt content load was too heavy and time insufficient](positive-student-receptivity-modellus-activities.md) — related
 - [Starting novices with code-from-scratch exercises produces a blank-page problem that can frustrate and demotivate students](code-from-scratch-blank-page-novices.md) — related
+- [Trainees largely agreed the material had proper difficulty and enough exercises for interactive learning](trainee-feedback-difficulty-exercises.md) — related

@@ -55,3 +55,4 @@ The authors' stated limitation of their system in the Future Work and Limitation
 - [GPT-4 struggles with diagrammatical and graphical questions, though it can describe visual content accurately in prose.](gpt4-diagrammatic-question-weakness.md) — possibly the same claim (merge candidate)
 - [Graphical GenAI systems failed to produce reliable scientific illustrations for college-level content, with error rates approaching 100%](image-genai-error-rates-approaching-100-percent.md) — related
 - [API-based evaluation fails on graphical and mathematical content because the model cannot parse images, tables, graphs and embedded equations](chatgpt-api-cannot-parse-figures-equations.md) — a broader claim this one bears on
+- [Invalid AI evaluations were mainly associated with restricted access to evidence during text extraction and OCR, particularly for equations, figures, and graphs](invalid-ai-evaluations-evidence-accessibility.md) — related

@@ -75,3 +75,4 @@ In the same paired rating study, accuracy showed no statistically significant di
 - [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related
 - [Teaching agents without knowledge-graph integration improved Socratic dialogue structure but limited the depth and breadth of instructional content](agents-without-kg-limited-content-depth.md) — related
 - [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related
+- [Groups using MIRACLE produce significantly higher-quality collaborative artifacts than groups using a general GPT assistant](miracle-higher-quality-collaborative-artifacts.md) — related

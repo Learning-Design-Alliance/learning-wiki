@@ -98,3 +98,6 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [o1-preview matched overall computational thinking but scored far below humans on problem-solving while exceeding all human groups on the ATTA](o1-preview-ct-problem-solving-deficit-atta-perfect.md) — related
 - [Text alone surpasses human inter-rater reliability for assessing discourse quality, especially on high-inference components](text-modality-surpasses-human-irr-discourse.md) — related
 - [LLM reliability on instructional moves varies by construct: stronger on explicit, structurally constrained moves and weaker on socially and metacognitively demanding ones](llm-reliability-varies-by-talk-move-construct.md) — related
+- [LLM agreement with human raters is lower for holistic CT quality scores (71% exact agreement, MAE 0.29) than for binary sub-practices](llm-71-percent-holistic-quality-agreement.md) — related
+- [A multimodal LLM achieves 84% exact agreement with human consensus in detecting 20 binary computational-thinking sub-practices in student essays](llm-84-percent-agreement-ct-subpractices.md) — related
+- [Students in introductory mechanics showed high CT engagement on CPEs, averaging 16.51 of 20 sub-practices, with systems investigation most common (99%) and modular solutions least common (50%)](student-cpe-ct-engagement-baseline.md) — related

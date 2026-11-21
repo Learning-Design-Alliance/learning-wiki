@@ -64,3 +64,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
 - [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — a narrower finding that bears on this claim
 - [The authors report that digital objective evaluation systems reduced teachers' subjective evaluation bias and enabled students' critical self-assessment](digital-objective-evaluation-systems-reduced-subjective-bias.md) — related
+- [Quantum education initiatives lack systematic evaluation of learning outcomes](quantum-education-lacks-empirical-evaluation.md) — related

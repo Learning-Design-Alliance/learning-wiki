@@ -49,6 +49,7 @@ The article proposes a cognitive-psychology-informed research agenda for generat
 - [Use five conceptual propositions to guide research and professional development on teachers' diagnostic skills in AI-supported formative assessment](five-propositions-teacher-diagnostic-skills-ai-research.md)
 - [Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs](existential-hope-research-agenda.md)
 - [Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes](measure-process-and-delayed-outcomes-ai-learning-research.md)
+- [Strengthen informal micro-challenge evaluation with embedded micro-assessments, process tracing, delayed transfer tasks, mixed-methods probes and controlled sequencing comparisons](informal-micro-challenge-measurement-agenda.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Pearson correlation analysis (N=55) shows strong negative correlations between s
 - [A sequential indirect association runs from usability through extraneous load and flow to engagement](sequential-indirect-association-usability-load-flow-engagement.md) — related
 - [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](load-flow-engagement-associations-nursing-simulation.md) — related
 - [No significant interaction between pre-academic performance and material modality on cognitive load or learning outcomes](no-aptitude-modality-interaction-nursing.md) — related
+- [Higher cognitive load from AI-generated materials was negatively associated with course grades across all assessment stages](cognitive-load-negative-correlation-grades.md) — a narrower finding that bears on this claim

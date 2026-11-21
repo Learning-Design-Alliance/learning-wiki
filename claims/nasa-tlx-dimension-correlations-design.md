@@ -66,3 +66,4 @@ Same correlation analysis of the 133 questionnaires; the authors report performa
 ## Related Claims
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
+- [The problem-solving task acted as a stress test that amplified differences between conditions, with much higher workload than the concept-explanation task](task2-stress-test-workload.md) — related

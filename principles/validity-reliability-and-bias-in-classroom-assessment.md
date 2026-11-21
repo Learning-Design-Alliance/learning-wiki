@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 499 claims (260 for, 211 mixed, 28 against) · 376 studies (116 associational, 98 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 35 of 376 report an effect size · 491 claims rest on one study
+> **Evidence** · 501 claims (262 for, 211 mixed, 28 against) · 378 studies (116 associational, 100 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 378 report an effect size · 493 claims rest on one study
 
 ## Conditional relationship
 
@@ -343,6 +343,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Mistranslations of technical physics terms changed the physical meaning of specific FI questions, causing incorrect LLM answers despite sound reasoning](../claims/technical-term-mistranslations-change-physics-meaning.md) [+W] — attached 2026-11-21 from Marina Babayeva et al. (2025), which proposed "Require physicist expert review of LLM-translated assessments; LLM problem-solving can only indicate, not establish, translation validity"; tests this page's relationship.
 - [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](../claims/chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) [~W] — attached 2026-11-21 from Mrityunjay Kumar (2025), which proposed "Caution against applying goal-setting theory to LLM-driven assessment tasks"; tests this page's relationship.
 - [QCCS Item 15 v2.1 became nearly impossible (3% correct) because students were reticent to choose 'none of these'](../claims/qccs-item15-v2-1-none-of-these-reticence.md) [+W] — attached 2026-11-21 from Josephine C. Meyer et al. (2026), which proposed "Diagnosing why an assessment item misperforms requires triangulating multiple quantitative and qualitative methodologies".
+- [AI-generated scores show weak agreement with instructor grading of physics lab reports (ρ = 0.38, MAE = 1.01), with the AI assigning lower scores on average](../claims/ai-batch-grading-weak-agreement-instructor-scores.md) [+W] — attached 2026-11-21 from Marcos Abreu et al. (2026), which proposed "Use batch-based AI grading to assist, not replace, instructor evaluation, keeping the instructor as the final arbiter"; tests this page's relationship.
+- [In PB1 AI grading with a mark scheme, models showed systemic over-marking, with ChatGPT-o3 the only evaluator closely aligned with human marks](../claims/pb1-ai-grading-over-marking-o3-alignment.md) [+W] — attached 2026-11-21 from Jonah L. Donaldson et al. (2026), which proposed "Provide LLM graders with a formal mark scheme and grade each solution in an isolated context window"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

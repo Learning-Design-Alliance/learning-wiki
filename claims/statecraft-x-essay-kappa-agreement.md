@@ -49,3 +49,4 @@ Reliability analysis of the essay rubric scoring: 20 of 84 scripts (24%) were ra
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — a broader claim this one bears on
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
+- [SU_dir (survival/continuity direction) shows positive transfer-side differences across all three tested model families and is the most reliable cognitive-profile indicator (kappa = 0.83)](su-dir-central-transfer-signature.md) — related

@@ -58,3 +58,4 @@ Pre/post survey comparison of ten institute participants. The article reports th
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
 - [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
+- [Outreach participants showed significant pre/post gains in data-analysis comfort and AI explanation confidence with large effect sizes (r = .80 and .84, n = 10 matched pairs)](self-efficacy-gains-outreach-workshop.md) — related

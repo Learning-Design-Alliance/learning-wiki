@@ -64,3 +64,4 @@ Cross-site finding from focus groups, surveys, and School C observations; the in
 - [Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback](teacher-practices-support-feedback-shape-writing.md) — related
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related
+- [Feedback content steers student inquiry: highlighted rubric components are far more likely to be discussed in follow-up questions](highlighted-feedback-steers-student-inquiry.md) — related

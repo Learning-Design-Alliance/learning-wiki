@@ -65,3 +65,4 @@ The paper cites two audits as evidence that AI errors exist in research and ever
 - [All AI-generated case drafts required expert correction, with a mean of 1.65 medical errors and 2.43 logical inconsistencies per case](genai-cbl-hallucination-audit.md) — a narrower finding that bears on this claim
 - [Hallucination rates ranged from 11% to 20.1% across LLMs without significant intermodel differences](hallucination-rates-11-20-percent-no-model-differences.md) — related
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
+- [LLMs returned false citations, links, or paper summaries about 20% of the time during graduate literature research](llm-false-citations-twenty-percent.md) — related

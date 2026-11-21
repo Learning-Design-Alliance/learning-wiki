@@ -50,6 +50,7 @@ The review finds that prompts requiring learners to engage actively with embedde
 ## Related Strategies
 
 - [Erroneous Examples](erroneous_examples.md)
+- [Calibrate AI-generated material complexity and organize access to avoid overwhelming students, and identify high-cognitive-load students early](calibrate-ai-material-cognitive-load-strategy.md)
 
 ## Examples
 -

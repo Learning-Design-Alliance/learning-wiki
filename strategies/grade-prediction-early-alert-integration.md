@@ -50,6 +50,7 @@ The author proposes running a model like TRACE continuously as student grade dat
 - [Use individualized treatment effect estimates as an early warning system to advise students into an intervention at the start of a course](ite-early-warning-advise-into-intervention.md)
 - [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
 - [Early identification and support of at-risk first-year students using predicted API](early-api-based-at-risk-support-strategy.md)
+- [Move early-warning systems beyond aggregate LMS activity toward richer pedagogical and context-aware representations](richer-pedagogical-early-warning-representations.md)
 
 ## Examples
 -

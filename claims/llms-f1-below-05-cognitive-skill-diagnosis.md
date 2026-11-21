@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2026
-recheck_by: 2029
+newest_evidence: 2025
+recheck_by: 2028
 sources:
-  - id: yoonsu-kim-2026
+  - id: yoonsu-kim-2025
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
-    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
+    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
     author: Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Every evaluated LLM, regardless of capability, achieved macro F1 below 0.5 on MathCog cognitive skill diagnosis, despite moderate overall accuracy. [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
+`q2 i?` Every evaluated LLM, regardless of capability, achieved macro F1 below 0.5 on MathCog cognitive skill diagnosis, despite moderate overall accuracy. [→ Yoonsu Kim 2025](#yoonsu-kim-2025)
 
 ## Evidence
 
-### Yoonsu Kim 2026
+### Yoonsu Kim 2025
 
-Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
+Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
 
 `q2 · i?` · `design · r2`
 
@@ -54,3 +54,4 @@ Benchmark evaluation of 18 closed- and open-source LLMs on MathCog against teach
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
 - [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — a narrower finding that bears on this claim
 - [Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution](few-shot-prompting-no-f1-gain-reduces-overattribution.md) — related
+- [Doing Mathematics task accuracy remained low from pre-test to post-test in one single-group pre-post study with no comparison group involving few-shot prompting; the authors discussed central-tendency bias and shortcut learning](few-shot-fails-doing-mathematics-tasks.md) — related

@@ -69,3 +69,4 @@ Same survey, separate item on time spent preparing the student's own assigned ob
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
 - [CBL/FC students are more satisfied with classes than LBT students without spending more preparation time](cbl-fc-satisfaction-without-extra-burden.md) — related
 - [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related
+- [Students perceived little to no busy work, with time spent directly tied to learning objectives](student-feedback-little-busy-work.md) — related

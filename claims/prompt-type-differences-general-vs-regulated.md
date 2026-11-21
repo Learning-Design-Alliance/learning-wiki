@@ -55,3 +55,4 @@ Transcripts of ChatGPT conversations from both AI groups were coded for collabor
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](regulated-ai-outperforms-independent-originality.md) — related
 - [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](group-interaction-type-profiles-differ.md) — related
 - [The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task](regulated-ai-sustains-originality-across-tasks.md) — related
+- [Prompt specificity showed no relationship with students' first validation judgments of AI-generated solutions](prompt-specificity-unrelated-to-validation-judgments.md) — related

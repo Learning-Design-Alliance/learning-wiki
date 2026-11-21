@@ -51,3 +51,4 @@ Lab experiment with 62 undergraduates; screen-capture recordings of a 40-minute 
 - [SITU use reduced time to first major peer action by more than 50%](situ-reduced-time-to-first-major-peer-action.md) — related
 - [Editing by readiness level: word additions did not differ by group, but deletion patterns differed, with SITU users refraining from deleting words from paragraphs marked ready](situ-editing-by-readiness-level-patterns.md) — related
 - [SITU use more than halved off-document web surfing during the OCW task](situ-reduced-off-document-behavior.md) — related
+- [Limited-access participants concentrate prompts on major revisions while unlimited-access participants concentrate on minor mechanical revisions.](prompt-type-allocation-limited-vs-unlimited.md) — related

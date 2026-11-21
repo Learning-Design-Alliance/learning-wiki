@@ -51,3 +51,4 @@ Idea-level diversity analysis in Experiment-2 using LLM-extracted key points, SB
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — a broader claim this one bears on
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — a broader claim this one bears on
 - [Risk-biased AI assistants offset the AI homogenization effect on portfolio diversity, with risk-seeking assistance offsetting 91% of it](biased-ai-offsets-portfolio-homogenization.md) — related
+- [Unlimited-access essays show higher cosine similarity to LLM output (0.552 vs. 0.444) than limited-access essays, though the difference is not statistically significant.](unlimited-llm-higher-ai-similarity.md) — related

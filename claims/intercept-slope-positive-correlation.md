@@ -50,3 +50,4 @@ Unconditional non-linear LGC model on the BURN11 dataset (101 students). The art
 - [Achievement across the four instructional units followed a non-linear, sinusoid-like pattern with a pronounced drop in the final measure, and a non-linear latent growth model fit better than a linear one](nonlinear-achievement-growth-pattern.md)
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [ADHD has a weaker negative effect on achievement in higher-achieving schools (positive slope–intercept correlation)](weaker-adhd-effect-in-higher-achieving-schools.md) — related
+- [Stronger teammates showed a marginally significant absolute retest decrement for AI-learned tasks, while weaker teammates' decrement was not significant](stronger-teammates-retest-decrement-ai-tasks.md) — reports the opposite

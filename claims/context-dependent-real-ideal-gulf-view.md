@@ -98,3 +98,4 @@ Microanalysis of the interview transcript found that while discussing or solving
 - [A student's epistemological stance privileging formalism over perception can be nuanced and flexible rather than a globally robust belief](epistemological-stance-nuanced-flexible.md) — related
 - [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related
 - [A student’s belief that intuition need not be reconciled with mathematical formalism may have prevented her from checking representational consistency](epistemological-beliefs-block-consistency-check.md) — related
+- [Validation judgments depended on problem-solving success: students who solved the problem examined physics and mathematics, while those who could not follow the mathematics withheld acceptance for that reason](validation-judgments-depend-on-solving-outcome.md) — related

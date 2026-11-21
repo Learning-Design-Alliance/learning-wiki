@@ -53,3 +53,4 @@ Temporal reliability analysis in which the full 100-question set was resubmitted
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
 - [Chatbot answers showed only moderate cross-language agreement and imperfect consistency across repeated measurements](chatbot-response-consistency-varies-by-language-and-measurement.md) — related
+- [AI classification accuracy on math cognitive-demand tasks is temporally unstable over a seven-week interval, with Gemini stable at 58% and Coteach declining from 75% to 50%](ai-task-classification-temporal-instability-seven-weeks.md) — related

@@ -66,3 +66,4 @@ Documentary coding of Bolivia against the eight indicators in Table VII. The ass
 
 ## Related Claims
 - [Most reviewed Latin American curricula omit complex numbers, and coverage of linear algebra and modern physics fundamental to quantum computing remains limited](curricula-lack-quantum-prerequisite-content.md) — related
+- [Sensing-related keyword coverage varies significantly across modern physics, quantum mechanics, and quantum computing textbooks in content and depth](textbook-sensing-coverage-varies-by-subject.md) — related

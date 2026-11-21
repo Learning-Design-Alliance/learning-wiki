@@ -73,3 +73,4 @@ The review's RQ4 synthesis states this is particularly valuable in fields such a
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related
 - [LLM-generated worked examples and practice sets are often rated usable and helpful by novices, with quality varying and benefiting from instructor review](llm-materials-quality-variance.md) — related
+- [Tier 2 assessment tasks are non-standardizable by design, so closing the assessment gap requires trained professional judgment applied repeatedly rather than rubrics alone](tier2-assessment-nonstandardizable.md) — related

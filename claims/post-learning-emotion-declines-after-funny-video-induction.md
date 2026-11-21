@@ -74,3 +74,4 @@ GEE pairwise comparisons within the experimental group across time points; the a
 - [Positive pre-learning emotions induced by funny videos improved knowledge transfer but not knowledge retention in elementary students learning from a video lecture.](positive-pre-learning-emotion-improves-transfer-not-retention.md) — related
 - [Suggesting the SPP at detected boredom did not change its use: students were almost never bored, so SPP use was not reliably different between conditions](spp-boredom-suggestion-null.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
+- [Happiness scores rose from before to after Kinetiq use in one group with no comparison group](kinetiq-happiness-increase-pre-post.md) — related

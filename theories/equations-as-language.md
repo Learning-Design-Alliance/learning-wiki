@@ -60,6 +60,7 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - [Derive the rocket equation jointly with learners, depending on their mathematical background](../strategies/jointly-derive-rocket-equation-strategy.md)
 - [Explicitly demonstrate symbol grouping — temporarily naming a combination of symbols as a single constant — as a component skill for reading functional dependence](../strategies/symbol-grouping-simplification-strategy.md)
 - [Instructors should make explicit the implicit physical meaning embedded in their mathematical reasoning and their model-rejection decisions](../strategies/make-expert-physical-math-connections-explicit.md)
+- [Mathematica programming assignments to build mental representations of mathematical objects](../strategies/mathematica-assignments-mental-representations.md)
 
 ## Key Sources
 - Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)

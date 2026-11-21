@@ -50,6 +50,7 @@ Because relatively few universities operate accelerator research facilities, the
 - [Sustain laboratory practice under wartime online teaching by routing students to operating labs at partner institutions](wartime-online-teaching-partner-labs-strategy.md)
 - [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 - [Prioritize non-coursework, skill-based experiences such as summer internships in quantum workforce development](prioritize-skill-based-internships-quantum-workforce.md)
+- [Adapt the summer research internship model down to high-school level with group research projects and mentoring](downscale-research-internships-to-high-schools.md)
 
 ## Examples
 -

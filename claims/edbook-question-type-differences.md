@@ -50,3 +50,4 @@ Manual coding of LLM questions using Bloom's Taxonomy levels in the within-subje
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related
 - [Participants found it easier to navigate and search tutorial content in the webpage-plus-ChatGPT condition than in EDBook](webpage-easier-navigation-than-edbook.md) — related
+- [Students predominantly used iterative formative feedback (Evaluate My Work) over more solution-revealing tools, with participation declining across assignment problems](evaluate-my-work-dominant-formative-usage.md) — related

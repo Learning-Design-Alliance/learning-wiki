@@ -50,3 +50,4 @@ Same pilot single-cohort study; final course grades matched to engagement cluste
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
+- [Interactive learning students performed only marginally better than traditional students on assignments](interactive-assignment-difference-marginal.md) — related

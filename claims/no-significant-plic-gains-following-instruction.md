@@ -51,3 +51,4 @@ Paired t-tests on matched pre/post PLIC scores from 726 students (FY d = 0.10, p
 - [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](sqi-gains-across-plic-questions.md) — related
 - [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — reports the opposite
 - [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — reports the opposite
+- [Under listwise deletion, PEPPER students scored significantly lower than SALT students on the PLIC](plic-negative-effect-listwise-deletion.md) — related

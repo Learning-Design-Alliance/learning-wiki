@@ -45,6 +45,7 @@ For the learning gain study, the authors reduced hallucination in PromptHive-gen
 
 - [Incorporate pre-delivery LLM-based evaluation approaches into GenAI-powered personalised SRL scaffolding systems to mitigate hallucinations](pre-delivery-llm-evaluation-mitigate-hallucinations.md)
 - [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
+- [Use embedding-based strategy measures to suggest maximally different alternative solution approaches and foster divergent thinking](suggest-maximally-different-alternative-strategies.md)
 
 ## Examples
 -

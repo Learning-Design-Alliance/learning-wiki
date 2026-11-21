@@ -52,3 +52,4 @@ Interpretability analysis (RQ4) correlating Bloom-level classification accuracy 
 - [In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy](cot-outperforms-self-ask-zero-shot.md) — related
 - [High-utility questions are weakly related to exam-question similarity and Bloom's cognitive depth, suggesting they are not paraphrases of exam questions](high-utility-questions-not-exam-paraphrases.md) — related
 - [Chain-of-thought prompting modestly improves case consistency and completeness but reduces controlled disclosure](cot-prompting-reduces-controlled-disclosure.md) — related
+- [Question categories relate differently to performance, though no significant overall score differences by category were detected](question-categories-performance-relation.md) — related

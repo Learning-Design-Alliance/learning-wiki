@@ -70,3 +70,4 @@ Within the same mixed models analysis, all three groups increased in Perceived C
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
+- [No significant group differences emerged on IMI effort/importance or pressure/tension after a single 20-minute play session](tpr-mmf-no-difference-effort-tension.md) — related

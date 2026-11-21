@@ -52,6 +52,7 @@ The article recommends that educational technology instructors design courses to
 - [Structure group work to facilitate collaborative discussions and help-seeking behaviors among peers, particularly for low self-efficacy students](structure-group-work-for-discussion-and-help-seeking.md)
 - [Minimize platform complexity and build instructor self-efficacy through training to support e-learning adoption](minimize-complexity-and-build-self-efficacy-training.md)
 - [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](self-efficacy-support-strategies-clinical-skills.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Examples
 -

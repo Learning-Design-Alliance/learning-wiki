@@ -57,3 +57,4 @@ Interview analysis: Student I alternated between saying the electron and the pro
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Students show inconsistent understanding of the wave nature of particles: about 65% identify electron-wave peaks as probability amplitude but only 35% call the wave nature of a particle a probability wave](inconsistent-probability-wave-understanding.md) — related
 - [A majority of interviewed students found the structure of the atom easier to understand than wave-particle duality, citing historical context as helpful](students-find-soa-easier-than-domr.md) — related
+- [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related

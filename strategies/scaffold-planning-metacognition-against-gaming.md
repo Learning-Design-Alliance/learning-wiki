@@ -48,7 +48,8 @@ Because gaming appears to involve maladaptive self-regulation — students rely 
 - [Students are more likely to engage in Processing Information and Realizing Errors during gaming clips than during non-gaming clips](../claims/more-processing-and-error-realization-during-gaming.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Learning analytics systems should capture and scaffold metacognitive processes in secondary students' online writing](scaffold-metacognitive-processes-la-systems.md)
 
 ## Examples
 -

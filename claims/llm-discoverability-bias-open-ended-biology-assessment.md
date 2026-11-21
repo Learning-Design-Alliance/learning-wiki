@@ -59,3 +59,4 @@ The editorial reports, from a special-issue study of LLM-based formative assessm
 - [The prompt-based method correctly identified subtle mixed-emotion and nuanced-feedback cues that the base model and CoT method missed](prompt-method-captures-subtle-emotion-cues.md) — related
 - [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
 - [Traditional machine learning bias measures fail to transfer to LLM-generated educational content](traditional-bias-measures-fail-for-llm-education.md) — related
+- [Transition-based embeddings are invariant to problem-specific content while state-based embeddings cluster by problem, supporting cross-problem strategy comparison](transition-embeddings-invariant-across-problems.md) — related

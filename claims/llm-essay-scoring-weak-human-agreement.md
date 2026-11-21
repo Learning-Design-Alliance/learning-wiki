@@ -82,3 +82,5 @@ Evaluation of six GPT and Llama models prompted out-of-the-box to score essays o
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — reports the opposite
 - [Expert-graded essay scores increase significantly from pre to post learning with both tools, except flow/organization and spelling/grammar/mechanics](pre-post-gains-both-tools.md) — related
 - [Human inter-rater reliability on short-form holistic physics essays is extremely low, placing a ceiling on AI-human agreement claims](low-human-essay-reliability-ceiling.md) — related
+- [AI-generated scores show weak agreement with instructor grading of physics lab reports (ρ = 0.38, MAE = 1.01), with the AI assigning lower scores on average](ai-batch-grading-weak-agreement-instructor-scores.md) — related
+- [Both LLMs correlate only weakly with human ground-truth scores overall, with agreement strongest for Programming and near-zero for Mathematics](weak-human-llm-grading-agreement.md) — related

@@ -58,3 +58,4 @@ Intersectional comparison of belonging codes among majors by race and gender, an
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related
+- [Physics and computer science have the lowest representation of women among the majors studied, with about 20% women in physics](physics-lowest-women-representation.md) — related

@@ -52,3 +52,4 @@ Guttman chart analysis of the professional staff subgroup (n=26). The authors re
 - [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](students-inverted-genai-competence-profile.md) — related
 - [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
+- [Ethical awareness precedes technical confidence as an entry condition for non-traditional AI learners](ethical-awareness-entry-condition-non-stem-learners.md) — related

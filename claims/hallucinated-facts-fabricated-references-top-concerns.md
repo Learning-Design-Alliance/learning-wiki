@@ -90,3 +90,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [The content team used GenAI sparingly to augment creativity and routine tasks, but found outputs stale, lacking diversity for their context, and raising intellectual-property concerns](content-team-sparingly-creativity-limits.md) — related
 - [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — related
 - [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — related
+- [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — related

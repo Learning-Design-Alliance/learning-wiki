@@ -58,3 +58,4 @@ Statistical test (STATA) on the decade of UC Davis physics course grade data; th
 - [First-generation college students leave more blank answers than non-first-generation students](first-gen-students-leave-more-blank-answers.md) — related
 - [Fraction of answers left blank is a poor predictor of general understanding (R2 = 0.13), and high-achieving students still show group differences in blank-leaving](blank-leaving-weakly-related-to-understanding.md) — related
 - [URM students leave a larger fraction of exam answers blank than non-URM and white students in introductory physics courses](urm-students-leave-more-blank-answers.md) — related
+- [The fraction of blank answers correlates much more weakly with A-grades (r = -0.308) than the fraction of D/F grades does (r = -0.737), suggesting blanks are not simply indicators of not knowing the material](blanks-weakly-correlated-with-a-grades.md) — related

@@ -55,6 +55,7 @@ Because LLM outputs are probabilistic and can contain hallucinations or bias, th
 - [Integrate a teacher or instructor interface to review and correct AI-generated content alongside AI feedback](hybrid-ai-human-feedback-instructor-interface.md)
 - [Structure AI-assisted feedback to prioritize instructor-authored content, then instructor-edited AI suggestions, with pure AI comments only filling gaps](instructor-authored-feedback-priority.md)
 - [Use hybrid AI feedback combining directive guidance with reflective prompts in large-enrolment and online courses](hybrid-ai-feedback-large-courses-strategy.md)
+- [Extend feedback coverage by having instructors verify LLM-generated feedback for uncovered error patterns ad hoc](instructor-verified-llm-feedback-uncovered-errors.md)
 
 ## Examples
 -

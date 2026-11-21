@@ -50,3 +50,4 @@ Qualitative questionnaire with six questions and various options per question, t
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
+- [In a preliminary classroom deployment, students rated Insight's feedback neutral-to-somewhat-agreeable, with 53.6% wanting to continue using it](insight-classroom-survey-positive-perceptions.md) — related

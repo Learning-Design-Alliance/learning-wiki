@@ -53,3 +53,4 @@ Null result from the prespecified ordinal regression models (n=79); the article 
 - [Socratic GenAI dialogue leaves faith and trust in technology largely unchanged](socratic-genai-no-change-trust-in-technology.md) — related
 - [The regression slopes for the Education Management Model and control conditions were not parallel, with a significant interaction between trial conditions and pre-test scores.](emm-slope-interaction-significant.md) — related
 - [The regression slopes for the lesson study and control conditions were not parallel, with a significant interaction between trial conditions and pre-test scores.](lesson-study-slope-interaction-significant.md) — related
+- [The pre-test to mid-test relationship did not differ across conditions: the pre-test by condition interaction was not statistically significant (p=.241)](pretest-midtest-interaction-not-significant.md) — related

@@ -64,3 +64,4 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — a narrower finding that bears on this claim
 - [Individual gains in skills and knowledge were highly heterogeneous, ranging from 13% to 48%](individual-gain-heterogeneity-13-48-percent.md) — a narrower finding that bears on this claim
 - [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](scifablab-172-primary-workshops-2023-24.md) — related
+- [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related

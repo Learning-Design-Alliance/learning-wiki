@@ -83,3 +83,4 @@ Authors' theoretical interpretation in the discussion, drawn from the finding th
 - [Newtonian mechanics misconceptions persist despite extensive training in third-semester extended-programme students](newtonian-misconceptions-persistent-despite-training.md) — a narrower finding that bears on this claim
 - [Adults around the globe hold naive conceptions about the viscous behavior of fluids, consistent with those found in prior qualitative research with children and students](adults-globally-hold-naive-conceptions-viscous-behavior.md) — a narrower finding that bears on this claim
 - [Learners judge field strength by the number of vectors drawn per spatial area, and this density misconception persists after instruction explicitly addressing it](density-misconception-persists-post-test.md) — a narrower finding that bears on this claim
+- [Physics PhD as training in methods for studying complex systems, including AI itself](phd-as-complex-systems-training.md) — related

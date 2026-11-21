@@ -49,3 +49,4 @@ Reflexive narrative from the CAE study: Sally reflects on cognitive stasis and "
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](misconceptions-are-knowledge-elements-refined-not-replaced.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Ethical awareness precedes technical confidence as an entry condition for non-traditional AI learners](ethical-awareness-entry-condition-non-stem-learners.md) — a narrower finding that bears on this claim

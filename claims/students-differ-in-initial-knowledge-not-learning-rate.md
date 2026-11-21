@@ -61,3 +61,4 @@ The authors read the result as a challenge to accounts of large individual diffe
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
 - [Counting practice opportunities only after quiz feedback yields a better-fitting KC model than counting all practice attempts](quiz-adjusted-opportunity-model-better-fit.md) — related
+- [Learning gains with the LLM learning-by-teaching system varied widely across individuals, with one participant scoring 60 percentage points lower than with the baseline](cl-individual-differences-llm-lbt-vocabulary.md) — related

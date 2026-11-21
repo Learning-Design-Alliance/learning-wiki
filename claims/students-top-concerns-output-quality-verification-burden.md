@@ -63,3 +63,4 @@ Questionnaire analysis of problematic aspects, summarized in Table 3 with counts
 - [AI responses do not consistently identify missing clinical information in incomplete student prompts](ai-does-not-identify-missing-prompt-information.md) — related
 - [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related
 - [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — related
+- [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — related

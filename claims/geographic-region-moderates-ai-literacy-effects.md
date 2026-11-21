@@ -70,3 +70,4 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - [Neither geographical location nor assessment timing moderated the comparative effectiveness of GAI-based teaching on knowledge scores](gai-knowledge-no-location-timing-moderation.md) — related
 - [Eastern-region practitioners significantly outperformed western-region practitioners in total score, specimen preparation, and microscopic examination](east-west-regional-competency-gap.md) — related
 - [Total DREEM scores differ by nationality, with Asian students scoring significantly higher than Middle Eastern and North American students](nationality-differences-dreem-scores.md) — related
+- [Regional AI development is independently associated with higher student AI literacy but does not moderate the readiness–literacy association](regional-ai-development-contextual-advantage-no-moderation.md) — related

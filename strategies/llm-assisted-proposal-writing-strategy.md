@@ -48,6 +48,7 @@ The article recommends using large language models to enhance language skills, p
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md)
 - [Revise proposals by removing dead wood, avoiding generic opening statements, writing short clear sentences, and playing the critical reviewer of your own draft](proposal-revision-strategy.md)
 - [On resubmission, never take rejection personally, use reviewer feedback to improve, make the proposal clearer and shorter, strengthen the science case, and spread referee risk across applications](resubmission-improvement-strategy.md)
+- [Verify LLM outputs against primary sources, cross-check models against each other, prompt for reasoning, and start a new chat when errors persist](llm-research-verification-practices-strategy.md)
 
 ## Examples
 -

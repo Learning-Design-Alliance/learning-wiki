@@ -61,3 +61,4 @@ Interview study of 201 college seniors from 16 UNC system campuses; coded belong
 - [Female physics students reported feeling marginalized due to differential gender dynamics in instructor and TA interactions](differential-gender-dynamics-marginalization.md) — related
 - [Male students and non-white students reported higher 'good at science' responses before the astronomy club, but no significant difference remained after it](dsbk-good-at-science-gender-race-gaps-closed.md) — related
 - [Finding a research group holds differential importance for women and non-binary physics students, who screen groups for inclusivity and at times deprioritize preferred research topics](group-search-differential-importance-women-nonbinary.md) — related
+- [Physics and computer science have the lowest representation of women among the majors studied, with about 20% women in physics](physics-lowest-women-representation.md) — related

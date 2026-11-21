@@ -50,3 +50,4 @@ Abstract-level summary of the interview findings framed by Fink's (2013) Integra
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
 - [Stakeholder feedback identified gaps in PBL spanning problem design (misalignment, simplicity, contextual relevance, inter-PBL connection) and delivery (training, assessment alignment)](pbl-gap-taxonomy-design-delivery.md) — related
+- [Participants reported mixed alignment between graduate core courses and their research goals, with some describing clear misalignment and others positive course experiences](core-course-research-misalignment-mixed.md) — related

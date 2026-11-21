@@ -77,3 +77,4 @@ Same RCT; skipping was a deliberate decision not to engage since there was no pe
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — related
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — reports the opposite
+- [RL-timed GenAI access yields higher objective post-test scores than unrestricted access in higher education students](rl-timed-genai-access-beats-always-allow-posttest.md) — related

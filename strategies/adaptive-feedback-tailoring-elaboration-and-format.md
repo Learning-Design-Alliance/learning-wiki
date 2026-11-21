@@ -56,4 +56,4 @@ The article proposes that ITSs and adaptive learning environments should adjust 
 -
 
 ## Key Sources
-- Revenga-Lozano, N., Avila, K. E., Steinert, S., Schweinberger, M., Gómez-Pérez, C. E., Kuhn, J., Küchemann, S. (2026). Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics. https://arxiv.org/abs/2601.09470
+- Revenga-Lozano, N., Avila, K. E., Steinert, S., Schweinberger, M., Gómez-Pérez, C. E., Kuhn, J., Küchemann, S. (2026). Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics. https://arxiv.org/abs/2601.09470. [doi:10.48550/arxiv.2601.09470](https://doi.org/10.48550/arxiv.2601.09470)

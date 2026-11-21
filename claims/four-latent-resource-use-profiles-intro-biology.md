@@ -57,3 +57,4 @@ Survey study of 1944 matched introductory biology students at seven U.S. univers
 - [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
 - [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related
 - [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related
+- [In an online introductory statistics course, the model automatically identified four distinct learner profiles without a prespecified cluster count](four-learner-profiles-coursekata-statistics.md) — related

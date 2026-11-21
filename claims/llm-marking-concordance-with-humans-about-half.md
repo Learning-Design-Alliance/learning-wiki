@@ -76,3 +76,6 @@ Score distribution comparison across the 2209 graded instances in the AI marking
 - [Anchored exemplars shift AI essay means close to the human mean and compress variance below the human standard deviation, but rank-order agreement remains near-zero](anchored-exemplars-fix-distribution-not-ranking.md) — related
 - [Blind AI essay marking is harsher and more variable than human marking, and adding a marking scheme does not improve rank-order agreement](llm-essay-marking-harsh-low-rank-agreement.md) — related
 - [LLM markers show robust rank-order agreement with human markers on blind university exam questions and structured curriculum questions](llm-rank-order-agreement-structured-physics-questions.md) — related
+- [AI-generated scores show weak agreement with instructor grading of physics lab reports (ρ = 0.38, MAE = 1.01), with the AI assigning lower scores on average](ai-batch-grading-weak-agreement-instructor-scores.md) — related
+- [In PB1 AI grading with a mark scheme, models showed systemic over-marking, with ChatGPT-o3 the only evaluator closely aligned with human marks](pb1-ai-grading-over-marking-o3-alignment.md) — related
+- [Both LLMs correlate only weakly with human ground-truth scores overall, with agreement strongest for Programming and near-zero for Mathematics](weak-human-llm-grading-agreement.md) — related

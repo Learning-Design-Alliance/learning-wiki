@@ -60,6 +60,8 @@ The article's central design recommendation is a principled division of labor: a
 - [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
 - [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 - [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
+- [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
+- [Use LLM grading for programmatic assessment and triage, not for unreviewed student-facing feedback](llm-grading-programmatic-assessment-triage.md)
 
 ## Examples
 -

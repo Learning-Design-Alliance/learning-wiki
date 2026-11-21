@@ -54,3 +54,4 @@ Heterogeneity analysis of the 19 included effect size estimates using the Q-stat
 - [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related
 - [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related
 - [Hands-on learning shows a large impact on science achievement](hands-on-learning-science-achievement-effect.md) — related
+- [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related

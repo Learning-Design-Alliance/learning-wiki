@@ -80,3 +80,4 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [Engagement time with AI-generated feedback does not differ significantly across directive, metacognitive, and hybrid conditions](ai-feedback-type-engagement-time-null.md) — related
 - [Resource quality outcomes do not differ significantly across directive, metacognitive, and hybrid AI feedback conditions](ai-feedback-type-resource-quality-null.md) — related
+- [A KLI-informed hybrid LLM agent that adapts scaffolding to the practiced diagnostic strategy is hypothesized to enable better learning gains than globally applied scaffolding](kli-informed-hybrid-llm-agent-hypothesis.md) — related

@@ -42,7 +42,7 @@ The article introduces an angular-statistics framework in which item and test di
 ## Key Sources
 - Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 <!-- merged 2026-10-10 from theories/cosine-similarity-item-test-parameter-framework ("Cosine similarity framework for item and test parameters under classical test theory"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Molavi, Mohammadreza; Moein, Mohammad; Tavakoli, Mohammadreza; Faraji, Abdolali; Mol, Stefan T.; Kismihók, Gábor. (2025). Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance. https://arxiv.org/abs/2512.13658
+- Molavi, Mohammadreza; Moein, Mohammad; Tavakoli, Mohammadreza; Faraji, Abdolali; Mol, Stefan T.; Kismihók, Gábor. (2025). Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance. https://arxiv.org/abs/2512.13658. [doi:10.48550/arxiv.2512.13658](https://doi.org/10.48550/arxiv.2512.13658)
 
 # Cosine similarity framework for item and test parameters under classical test theory
 

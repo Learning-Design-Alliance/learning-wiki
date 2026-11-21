@@ -50,3 +50,4 @@ ANCOVA comparing post-test scores of 32 experimental (MIND) and 32 control (ADDI
 - [Computer-assisted teaching of the passive voice produced significantly higher post-test achievement than traditional instruction among Jordanian first-secondary EFL pupils](call-passive-voice-beats-traditional-jordan.md) — related
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
 - [After baseline adjustment, the BOPPPS group scored significantly higher than controls on all three pre-anesthesia care skill subscales](boppps-skill-subscale-posttest-gains.md) — related
+- [Interactive learning students significantly outperformed traditional learning students on the post-test after adjusting for pre-test scores](interactive-posttest-outperforms-traditional.md) — related

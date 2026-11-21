@@ -90,3 +90,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Participants rated satisfaction with the e-PBL program content 3.5 out of 5](e-pbl-satisfaction-3-5-of-5.md) — related
 - [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related
 - [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — reports the opposite
+- [Course activities challenged students to engage critically with responsible AI from multiple perspectives, yielding one of the highest survey ratings (mean = 4.65)](re-ai-course-judgment-oriented-engagement.md) — related

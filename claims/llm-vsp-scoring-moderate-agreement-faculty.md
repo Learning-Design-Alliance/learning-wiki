@@ -54,3 +54,4 @@ Cross-sectional observational study of 92 fourth-year medical students each comp
 - [A sensitivity analysis in the lowest performance quartile showed attenuated but consistent AI-faculty agreement](lowest-quartile-attenuated-agreement.md) — a narrower finding that bears on this claim
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — related
 - [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related
+- [AI-generated scores show weak agreement with instructor grading of physics lab reports (ρ = 0.38, MAE = 1.01), with the AI assigning lower scores on average](ai-batch-grading-weak-agreement-instructor-scores.md) — related

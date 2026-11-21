@@ -51,6 +51,7 @@ The brief recommends that states and districts form partnerships with universiti
 - [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 - [Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers](support-authentic-principal-professional-learning.md)
 - [Invest in principal retention strategies that address the invisible tax on leaders of color](invest-principal-retention-strategies.md)
+- [University-nonprofit partnership model (NEON) delivering AI instruction while preserving school relationships](neon-partnership-equitable-ai-education-strategy.md)
 
 ## Examples
 -

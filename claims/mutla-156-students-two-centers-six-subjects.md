@@ -46,3 +46,4 @@ Dataset composition reported in the Method participants section: 33 students fro
 
 ## Related Claims
 - [After filtering, the MUTLA video data contain 2170 question segments, with 61.54% having valid face tracking for at least 50% of frames and 18.30% fully tracked](mutla-2170-segments-valid-tracking-percentages.md) — related
+- [Middle school students showed a statistically significant pre-to-post improvement on a five-item BFS knowledge assessment after the I-SAIL activities, with a moderate within-subject effect size](bfs-curriculum-significant-pre-post-gains.md) — related

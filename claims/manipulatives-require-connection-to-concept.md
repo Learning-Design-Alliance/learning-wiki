@@ -200,3 +200,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Analogical bridges were the most frequently used mechanism of interest integration, with illustrative examples and contextualizing scenarios also employed](interest-integration-mechanisms-frequency.md) — related
 - [Undergraduate benefit from the hybrid versus conceptual QuILT differed across classes and depended on prior preparation, consistent with a cognitive-load interpretation](undergraduate-hybrid-quilt-benefit-depends-on-prior-preparation.md) — related
 - [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related
+- [Comics and animation are reported to be effective for physics instruction and to increase motivation and retention](comics-animation-effective-physics-instruction.md) — related

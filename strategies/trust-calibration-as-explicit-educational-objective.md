@@ -47,6 +47,7 @@ The article recommends that school curricula promote transparency, data literacy
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
 - [Use beneficiary framing and algorithm transparency interventions to shape educators' trust and behavioral intentions toward AI systems](beneficiary-framing-algorithm-transparency-interventions.md)
+- [Three theory-grounded instructional levers for AI-automation tooling: instruction-sequencing scaffolds, self-efficacy supports, and trust-calibration interventions](three-instructional-levers-ai-automation-acceptance.md)
 
 ## Examples
 -

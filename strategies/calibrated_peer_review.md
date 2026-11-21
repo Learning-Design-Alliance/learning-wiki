@@ -69,6 +69,7 @@ Calibration addresses the central weakness of peer review — untrained reviewer
 - [Staged hybrid peer-grading pipeline: calibration and back-evaluation first, then consensus, then reputation, with a challenge mechanism](staged-hybrid-peer-grading-strategy.md)
 - [Use structured formative supports such as guided self-assessment checklists, benchmark examples, and mid-course feedback to scaffold novice self-evaluation in ultrasound training](structured-formative-support-self-assessment-ultrasound.md)
 - [Use calibration against expert evaluations to develop and assess student peer-evaluation ability](calibration-against-expert-evaluations-strategy.md)
+- [Retain the conference-style paper with staged scaffolding: checkpoints, draft feedback, sample papers, and scope calibration](conference-paper-scaffolding-strategy.md)
 
 ## Examples
 - **Calibrated Peer Review™ (CPR)** ([https://cpr.molsci.ucla.edu](https://cpr.molsci.ucla.edu)) — UCLA-originated web system originally developed for chemistry writing assignments; implements the full calibrate → review → self-review → back-review cycle.

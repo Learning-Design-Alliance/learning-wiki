@@ -241,3 +241,5 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Most students used ChatGPT to support procedural steps or clarify concepts, while a smaller group used it to verify their work and demonstrated critical thinking by correcting AI errors](supporting-versus-verifying-ai-use.md) — related
 - [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related
 - [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related
+- [Recording written predictions before observation improves conceptual engagement and reduces uncritical acceptance of confirming outcomes (attributed to prior literature)](prediction-before-observation-improves-engagement.md) — related
+- [Single-turn prompts are insufficient for most realistic LLM-assisted data analysis tasks](single-turn-prompts-insufficient-llm-data-analysis.md) — a narrower finding that bears on this claim

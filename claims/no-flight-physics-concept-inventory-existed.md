@@ -46,3 +46,4 @@ The thesis introduction states the research gap motivating the work: "not a sing
 
 ## Related Claims
 - [FliP-CoIn is the first Concept Inventory developed bilingually from scratch, based on an ERIC and Google Scholar search](first-bilingually-developed-concept-inventory.md) — related
+- [Quantum-based concept inventories developed since the Force Concept Inventory have had far less impact, attributed to existing standards, shortcut development processes, and jargon use](quantum-inventories-limited-impact-causes.md) — related

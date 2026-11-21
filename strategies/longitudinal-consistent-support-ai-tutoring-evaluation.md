@@ -45,6 +45,7 @@ The article recommends a longitudinal evaluation design to establish durable eff
 - [Sustain tutoring participation, schedule it close to testing windows, and align content with classroom instruction to preserve gains](sustain-timing-alignment-tutoring-implementation.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
+- [Adopt delayed post-tests and longitudinal designs as standard practice when evaluating LLM writing interventions](delayed-post-tests-standard-evaluation-strategy.md)
 
 ## Examples
 -

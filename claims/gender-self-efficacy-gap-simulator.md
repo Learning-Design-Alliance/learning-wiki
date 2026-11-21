@@ -50,3 +50,4 @@ Quantitative comparison of self-efficacy item 3 between male and female students
 - [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — reports the opposite
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
+- [Male and female engineering students differ in self-efficacy and perceived difficulty despite equivalent exam performance](gender-belief-gap-without-performance-gap-engineering-cs1.md) — related

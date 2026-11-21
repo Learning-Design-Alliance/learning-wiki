@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 291 claims (202 show a difference, 61 mixed, 28 no difference) · 187 studies (65 associational, 59 causal, 19 review, 17 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 41 of 187 report an effect size · 288 claims rest on one study
+> **Evidence** · 292 claims (203 show a difference, 61 mixed, 28 no difference) · 188 studies (65 associational, 60 causal, 19 review, 17 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 41 of 188 report an effect size · 289 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -326,6 +326,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Emotionally enriched AI feedback does not significantly change positive emotions (enjoyment, hope, pride) or most other negative emotions, though boredom was descriptively lower](../claims/enriched-ai-feedback-positive-emotions-unchanged.md) [-W] — measured as an outcome of the instruction studied
 - [Withholding direct answers frustrated some pre-service teachers, while an updated tutor with adaptive scaffolding received an overwhelmingly positive reception from approximately 95 in-service teachers](../claims/socratic-tutor-motivation-frustration-reception.md) [+M] — measured as an outcome of the instruction studied
 - [Students in all feedback groups reported more positive curriculum enjoyment than the control group, with the enjoyment boost most pronounced among younger students](../claims/feedback-groups-greater-enjoyment-and-skill-growth.md) [+M] — measured as an outcome of the instruction studied
+- [Contrastive learning imposes the highest mental demand of all conditions while maintaining high trust and the lowest reported frustration](../claims/contrastive-learning-high-effort-low-frustration.md) [+S] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

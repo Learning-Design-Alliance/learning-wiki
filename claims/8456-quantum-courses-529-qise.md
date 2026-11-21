@@ -70,3 +70,5 @@ Descriptive categorization of the same catalog dataset into dedicated QISE cours
 - [Only 18 identified lab courses contain QISE-relevant experiments, concentrated at PhD-granting institutions](few-qise-lab-courses.md) — related
 - [Electrical and Computer Engineering offers the most quantum and QISE coursework among engineering subdisciplines](ece-leads-engineering-quantum-coursework.md) — related
 - [Nearly half of engineering courses covering QISE topics are not QISE-specific courses](qise-topics-spread-beyond-dedicated-courses.md) — related
+- [121 quantum-related courses from 76 institutions mention sensing or sensor in their title or description](121-courses-mention-quantum-sensing.md) — related
+- [Graduate QISE course offerings are heavily skewed toward quantum computing, with sensing and communication underrepresented](qise-course-pillar-imbalance-computing-dominated.md) — related

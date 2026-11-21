@@ -73,3 +73,4 @@ Interview-based case evidence: the authors' interpretation of Leia's account of 
 - [Educator feedback indicates that peer-facilitated cloud chamber workshops significantly boosted physics course enrollment among secondary students](educator-reported-enrollment-boost-cloud-chamber-workshops.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related
+- [In a retrospective case report, welding phases that placed vocational students in the expert role appeared to normalise subsequent physics-heavy phases and support self-efficacy](welding-role-reversal-self-efficacy-case.md) — related

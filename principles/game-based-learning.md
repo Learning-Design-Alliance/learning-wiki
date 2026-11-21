@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 129 claims (73 for, 53 mixed, 3 against) · 98 studies (45 causal, 19 quant-synthesis, 18 review, 8 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 27 of 98 report an effect size · 123 claims rest on one study
+> **Evidence** · 130 claims (74 for, 53 mixed, 3 against) · 99 studies (45 causal, 19 quant-synthesis, 18 review, 9 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 27 of 99 report an effect size · 124 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [After the embedded-game lesson, students applied force and motion knowledge to transfer situations as successfully as to game-related situations](../claims/embedded-game-lesson-transfer-matches-game-related-performance.md) [~W] — attached 2026-11-19 from Anne van der Linden et al. (2022), which proposed "Embed an educational game in a lesson with a debriefing session, a generalization assignment, and a transfer assignment to foster learning and transfer"; tests this page's relationship.
 - [Motivation, ease of use, required help, and platform integration show no significant difference between face-to-face and online game-based learning](../claims/motivation-usability-no-format-difference.md) [~W] — attached 2026-11-20 from Daniel López-Fernández et al. (2023), which proposed "Teachers combining face-to-face and online formats can rely on teacher-authored educational video games in either format".
 - [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](../claims/face-to-face-more-favorable-perceptions-gbl.md) [~W] — attached 2026-11-20 from Daniel López-Fernández et al. (2023), which proposed "Teachers combining face-to-face and online formats can rely on teacher-authored educational video games in either format".
+- [Participants who completed more levels and in-game quizzes achieved higher post-game scores](../claims/qubitquest-completion-linked-higher-scores.md) [+W] — attached 2026-11-21 from Bella Hill et al. (2026), which proposed "Small learning units of progressive difficulty as a mini-game architecture".
 
 ## Objective and learner-valued goal
 

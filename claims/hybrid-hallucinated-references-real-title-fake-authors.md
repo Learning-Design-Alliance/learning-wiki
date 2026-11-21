@@ -8,10 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: paul-denny-2027
+  - id: paul-denny-2026
     resource: "https://doi.org/10.48550/arxiv.2609.16574"
-    title: "Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)"
+    title: "Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2026). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)"
     author: Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves
     q: 2
     i: "?"
@@ -23,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Thirteen of the 30 hallucinated references had no corresponding publication record, while 17 were hybrids combining a real title with fabricated or incorrect authorship, venue, or year; in all 17 hybrid cases at least some author names were fabricated. [→ Paul Denny 2027](#paul-denny-2027)
+`q2 i?` Thirteen of the 30 hallucinated references had no corresponding publication record, while 17 were hybrids combining a real title with fabricated or incorrect authorship, venue, or year; in all 17 hybrid cases at least some author names were fabricated. [→ Paul Denny 2026](#paul-denny-2026)
 
 ## Evidence
 
-### Paul Denny 2027
+### Paul Denny 2026
 
-Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)
+Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2026). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)
 
 `q2 · i?` · `associational · r2`
 
@@ -59,3 +61,4 @@ Discussion-section analysis of the 30 verified hallucinated references. The arti
 - [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)
 - [ChatGPT users report fabricated references and wrong sources from auto-generated literature content](chatgpt-fabricated-references-wrong-sources.md) — a broader claim this one bears on
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — related
+- [LLMs returned false citations, links, or paper summaries about 20% of the time during graduate literature research](llm-false-citations-twenty-percent.md) — related

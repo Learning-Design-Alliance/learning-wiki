@@ -54,6 +54,7 @@ To fit human trafficking education into an already full third-year curriculum, t
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
 - [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
+- [Develop modular quantum sensing curricular resources that integrate into existing undergraduate quantum-related courses](modular-quantum-sensing-curricular-resources.md)
 
 ## Examples
 -

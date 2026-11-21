@@ -51,3 +51,4 @@ Review reports research on quantum tunneling difficulties, citing studies with w
 - [A transformed curriculum reduces the prevalence of previously documented tunneling difficulties relative to comparable traditional courses](transformed-curriculum-reduces-tunneling-difficulties.md) — related
 - [Interviews in transformed courses reveal three new reasons students think energy is lost in tunneling, beyond the two reported in prior literature](three-new-reasons-energy-loss-tunneling.md) — related
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
+- [Analogical reasoning aids initial quantum comprehension for young students and non-specialists, but over-applied classical intuition risks misconceptions](quantum-analogies-aid-comprehension-risk-misconceptions.md) — a broader claim this one bears on

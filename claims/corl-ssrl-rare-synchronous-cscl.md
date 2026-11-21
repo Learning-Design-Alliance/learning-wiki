@@ -52,3 +52,4 @@ Qualitative coding of 379 segments from 14 groups in the synchronous online Engl
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
 - [Task execution dominates social interactions in synchronous online collaborative learning, mirroring face-to-face and asynchronous findings](task-execution-dominates-synchronous-cscl-interactions.md) — related
 - [Synchronous online discussions improve self-regulation more than asynchronous online discussions](synchronous-discussion-improves-self-regulation.md) — related
+- [GenAI availability shifted group regulation away from predominantly socially shared regulation towards hybrid CoRL&SSRL and CoRL-only organisation](genai-shifts-ssrl-to-hybrid-coregulation.md) — related

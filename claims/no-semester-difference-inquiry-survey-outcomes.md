@@ -47,3 +47,4 @@ Comparison of pre/post survey means between the Spring 2009 (pre-inquiry) and Fa
 ## Related Claims
 - [Post-semester self-efficacy, scientist identity, and career commitment rose significantly in both inquiry and pre-inquiry semesters](post-semester-gains-self-efficacy-identity-commitment.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
+- [Within both lab conditions, scores rose from pre-test to post-test on all five constructs, with the largest Cohen's d for self-efficacy (d > 0.8)](prepost-gains-all-constructs-both-labs.md) — related

@@ -49,6 +49,7 @@ Because regulation of cognition developed more slowly than knowledge under exper
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
 - [Extend self-practice time and delay testing to strengthen AI-guided ultrasound training research](extended-self-practice-and-delayed-testing-for-ai-ultrasound-training.md)
 - [Run cycles of experimentation, discussion, argumentation and re-experimentation to cultivate critical thinking](experimentation-discussion-re-experimentation-cycles.md)
+- [Design lab instruction to strengthen inclusive climates and structured opportunities for student-authored experimental reasoning, foregrounding epistemic quality over participation alone](inclusive-climates-epistemic-decision-making-lab-strategy.md)
 
 ## Examples
 -

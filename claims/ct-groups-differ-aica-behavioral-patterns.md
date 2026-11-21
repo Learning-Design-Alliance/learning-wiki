@@ -54,3 +54,4 @@ LSA of 52 screen recordings coded with a ten-category behavioral scheme (GESQ 5.
 - [Learners in agent interaction became locked in lower-order self-transition loops (e.g., Understand z = 49.08, Application z = 51.48) and rarely transitioned spontaneously to higher-order cognition](lower-order-self-transition-lock.md) — related
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
+- [CS2 learners jumped directly into implementation without querying any learning support about the algorithm, and GenAI queries shifted toward debugging](learners-skip-pre-implementation-support-queries.md) — related

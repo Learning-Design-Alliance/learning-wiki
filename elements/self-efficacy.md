@@ -202,6 +202,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Balance AI integration in SRL so technological advantages are harnessed without undermining student self-efficacy](../strategies/balanced-ai-integration-srl-self-efficacy.md)
 - [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](../strategies/self-efficacy-support-strategies-clinical-skills.md)
 - [Design security education programs to build threat perceptions, safeguard effectiveness beliefs, lower safeguard costs and self-efficacy](../strategies/security-education-threat-perception-self-efficacy-strategy.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](../strategies/confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Key Sources
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.

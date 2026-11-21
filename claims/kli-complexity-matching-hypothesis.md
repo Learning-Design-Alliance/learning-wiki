@@ -72,3 +72,4 @@ The article presents this as a specific instance of the complexity-matching hypo
 - [Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start](model-progression-complexity-boundary.md) — related
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — a narrower finding that bears on this claim
 - [The Google Trends class exhibited 'hypothesis-perplexity', making no hypotheses throughout their researches, unlike the schoolyard class](gt-hypothesis-perplexity.md) — related
+- [A KLI-informed hybrid LLM agent that adapts scaffolding to the practiced diagnostic strategy is hypothesized to enable better learning gains than globally applied scaffolding](kli-informed-hybrid-llm-agent-hypothesis.md) — related

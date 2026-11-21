@@ -49,3 +49,4 @@ In the Findings section organizing the 46 codes, the article reports that "6 of 
 - [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related
 - [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md) — related
 - [Four game design traits of Spiritfarer were consistently reported as positively influencing players' affect and gaming experience](spiritfarer-design-embodiment-traits.md) — related
+- [Participants' preferences for the game versus the simulation depended on the sequence they were assigned to, with the game-first group tending to favor the game](tool-preference-depends-on-sequence.md) — related

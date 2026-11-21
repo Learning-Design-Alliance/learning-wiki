@@ -57,3 +57,4 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 - [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related
 - [Self-estimated workload rises from about twenty to about fifty hours per week in the first lecture weeks and correlates strongly with perceived stress](workload-trajectory-stress-correlation.md) — related
 - [Assignments were rated manageable, with most students spending under two days per assignment](q-beast-assignments-manageable-workload.md) — related
+- [Self-reported weekly workload in the course stayed within the expected effort for a 9 ECTS class](rust-robotics-course-workload-within-9-ects.md) — related

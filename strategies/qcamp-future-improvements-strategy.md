@@ -45,6 +45,7 @@ Based on student feedback, the authors plan concrete changes for future QCaMP it
 - [Run a parallel full-semester business course and reintroduce industry-submitted topics and coaches in a hybrid model](qel-future-improvement-strategies.md)
 - [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
 - [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
+- [Improvements for future iterations: extend the event, add unstructured social and practice time, use physical props, and align content with computational thinking](quantum-hackathon-future-improvement-strategies.md)
 
 ## Examples
 -

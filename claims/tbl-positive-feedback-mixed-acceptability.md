@@ -55,3 +55,4 @@ Survey feedback on eight TBL parameters from 64 students on a 5-point Likert sca
 - [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](fc-tbl-high-satisfaction.md) — related
 - [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](ip-tbl-students-value-interprofessional-learning.md) — related
 - [Research protocol writing in small groups enhanced medical students' critical thinking skills, as perceived by most participants](protocol-writing-enhanced-critical-thinking-perceptions.md) — related
+- [Students generally perceived the hint-writing tasks positively as opportunities to practice debugging and critical thinking, but perceptions diverged from observed outcomes](hint-writing-positive-perceptions-outcome-mismatch.md) — related

@@ -73,3 +73,4 @@ Boundary-condition statement from the Discussion, grounding the earlier observat
 - [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related
 - [The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites](linearity-bias-lowers-computational-prerequisites.md) — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
+- [Under the conditional-independence assumption, per-entity computation in the adapted HSRDM scales linearly in the number of students](hsrdm-linear-scaling-group-size.md) — related

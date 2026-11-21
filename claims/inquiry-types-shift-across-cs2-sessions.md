@@ -75,3 +75,4 @@ Descriptive category counts across sessions from the 830-prompt dataset. Instrum
 - [Session-level effect sizes for the group difference grew to a moderate level approaching Hattie's hinge point](session-level-effect-sizes-approach-hinge-point.md) — related
 - [Dynamic training shifts children's verbal explanations: fewer non-inductive and more full-inductive explanations, but no significant change for no-answer or partial-inductive categories](dynamic-training-verbal-explanation-shifts.md) — related
 - [Verbal teaching adapts to rotation stage: the first month shows less non-procedural teaching and a trend toward more teaching moments per case](first-month-versus-later-teaching-distribution.md) — related
+- [Question categories relate differently to performance, though no significant overall score differences by category were detected](question-categories-performance-relation.md) — related

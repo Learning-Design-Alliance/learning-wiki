@@ -55,3 +55,4 @@ Transformer ablation (Table 5) averaged over the 2 transformer models and hyperp
 - [Class balancing techniques improved fairness in education prediction tasks, with over-sampling also improving accuracy](class-balancing-improves-fairness.md) — related
 - [Reducing BERT to a single encoder layer (BERT (1)) decreases classification performance by .05 points in weighted F1 average compared to the full 12-layer model](bert-encoder-layer-count-affects-classification-performance.md) — related
 - [Class balance and score distribution matter more than overall sample size for training accurate scoring models](class-balance-more-important-than-sample-size.md) — related
+- [Single-layer sequence encoders with 768-dimensional embeddings consistently achieved the best probe performance; added transformer depth degraded results](single-layer-768-dim-encoder-best.md) — related

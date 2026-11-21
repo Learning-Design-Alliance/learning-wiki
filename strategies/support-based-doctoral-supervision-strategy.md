@@ -52,6 +52,7 @@ The article recommends that universities and supervisors support doctoral studen
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Implement psychological support programs, foster intrinsic motivation, integrate psychological assessments, establish support networks, and make tailored curricular adjustments for women doctoral students](psychological-support-programs-women-doctoral-strategy.md)
+- [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
 
 ## Examples
 -

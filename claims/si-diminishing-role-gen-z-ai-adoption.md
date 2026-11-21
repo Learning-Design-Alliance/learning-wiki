@@ -55,3 +55,4 @@ SEM analysis of the extended UTAUT model reports a "diminishing role of Social I
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Social influence positively predicts perceived trust in generative AI](social-influence-predicts-perceived-trust.md) — related
 - [Trust in DeepSeek moderates the relationship between social influence and intention to use, amplifying it at higher trust](trust-moderates-social-influence-intention.md) — related
+- [Construct means ranked PE highest and HM lowest, with a full range of only 0.28 scale points](construct-ranking-pe-highest-hm-lowest.md) — related

@@ -77,3 +77,4 @@ Same OpenMic lab study, evaluated on 180 held-out submissions: autorater overall
 - [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
 - [LLM marking of code-based scientific plots achieves exceptionally strong rank-order agreement with human markers](llm-plot-marking-strong-rank-agreement.md) — related
+- [With individualised grading contexts, Generation 5 models aligned strongly with human grading, Gemini 3.0 Pro reaching r = 0.9191 and MAE of 7.62%](gen5-individualised-grading-alignment.md) — related

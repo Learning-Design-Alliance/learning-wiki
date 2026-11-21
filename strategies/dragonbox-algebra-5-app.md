@@ -56,8 +56,10 @@ The app exemplifies *implicit scaffolding through representational sequencing*: 
 4. Ask learners to explain *why* a move is legal, converting implicit procedure into articulable principle [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ## Related Strategies
+
 - Concrete–representational–abstract sequencing — DragonBox automates the concrete-to-abstract transition that this instructional sequence manages manually
 - Worked-example fading — the app's progressive symbol substitution parallels fading example completeness, though it fades representation rather than steps
+- [Mathematica programming assignments to build mental representations of mathematical objects](mathematica-assignments-mental-representations.md)
 
 ## Examples
 - **DragonBox Algebra 5+ / 12+** ([https://wewanttoknow.com](https://wewanttoknow.com)) — the app itself; the 12+ version introduces notation earlier and covers more equation types for older learners.

@@ -49,6 +49,7 @@ When a struggling student requests help in an AI-supported programming environme
 
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Design AI learning assistants to make the implications of AI use visible rather than restricting assistance](make-ai-use-implications-visible-design-strategy.md)
+- [Provide an optional AI-usage prompt template that requests step-by-step method guidance instead of finished code](ai-usage-guidance-prompt-template.md)
 
 ## Examples
 -

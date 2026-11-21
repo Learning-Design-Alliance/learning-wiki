@@ -56,3 +56,4 @@ Authors' interpretation drawn from teachers' observations, informal comments and
 - [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
 - [Unfavorable survey responses about real-world connection can reflect judgments about the practical necessity of using physics rather than a failure to value or perceive relevance](unfavorable-responses-reflect-judgments-not-disengagement.md) — related
+- [Students describe interest unconditionally when defining a physics person but attach negative qualifiers to their own interest, and describe academic aptitude twice as often for a physics person as for themselves](self-versus-physics-person-contrast.md) — related

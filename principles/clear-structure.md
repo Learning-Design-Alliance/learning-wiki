@@ -155,6 +155,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
 - [Keep lessons simple and be flexibly prescriptive: narrow objectives, chunked code, one way first](../strategies/keep-it-simple-flexibly-prescriptive.md)
+- [Calibrate AI-generated material complexity and organize access to avoid overwhelming students, and identify high-cognitive-load students early](../strategies/calibrate-ai-material-cognitive-load-strategy.md)
 
 ### Illustrative
 

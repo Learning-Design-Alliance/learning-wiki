@@ -52,3 +52,4 @@ GEE model predicting neutral valence monitoring duration from physiological meas
 - [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](equality-and-positive-valence-monitoring-predict-collaborative-performance.md) — related
 - [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related
 - [Neutral-valence segments show a significant negative relationship with physiological activation](neutral-valence-negative-relationship-activation.md) — related
+- [Programming with a human teammate produced significantly more positive and more arousing emotional change than programming with the AI teammate](human-teammate-more-positive-arousing-emotion.md) — related

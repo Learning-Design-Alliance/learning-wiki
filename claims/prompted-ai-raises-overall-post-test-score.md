@@ -52,3 +52,4 @@ Overall post-intervention test (multiple-choice plus open-ended, max 18) in the 
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [PSBLW with open problems yields the highest posttest scores](psblw-open-problems-highest-posttest.md) — related
 - [No significant overall difference in Learner+AI task performance across guidance types or LLM prompting, though examples and metacognitive questioning paired with an unprompted LLM showed exploratory gains](no-overall-performance-difference-guidance-llm-type.md) — reports the opposite
+- [Open-ended LLM-feedback self-explanation shows no significant advantage over control or menu-based conditions on ordinary post-test problem-solving accuracy in calculus.](no-condition-difference-post-test-problem-solving-accuracy.md) — related

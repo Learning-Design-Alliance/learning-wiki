@@ -49,3 +49,4 @@ Friedman test on final preference rankings from the within-subjects counterbalan
 - [The Struggling Student role was rated significantly less favorably than each of the four constructive roles, with large effect sizes](struggling-role-least-preferred-large-effects.md) — a narrower finding that bears on this claim
 - [AI role significantly affects task confidence, perceived AI helpfulness, and ease of interaction, with the Struggling Student rated lowest on all three](ai-role-affects-user-experience-measures.md) — related
 - [Only high design-thinking students preferred the TA role more than low design-thinking students; CT and MMSE groups showed no preference differences](high-dt-prefers-ta-role.md) — related
+- [Learners ranked live tutoring as the most preferred support overall, with AV rated best only for tracing execution](learners-prefer-live-tutoring-over-genai-and-av.md) — related

@@ -60,3 +60,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
 - [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related
 - [Participants perceived the LLM-generated feedback as highly correct (M = 4.4, SD = 1.0 by rating)](llm-feedback-perceived-correct.md) — related
+- [Course activities challenged students to engage critically with responsible AI from multiple perspectives, yielding one of the highest survey ratings (mean = 4.65)](re-ai-course-judgment-oriented-engagement.md) — related

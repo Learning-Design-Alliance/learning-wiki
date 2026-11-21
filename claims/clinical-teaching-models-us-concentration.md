@@ -63,3 +63,4 @@ Geographical frequency analysis in the scoping review's characteristics of inclu
 - Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
 - [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related
 - [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim
+- [Access to quantum education remains uneven, concentrated in North America and Europe with limited access elsewhere](quantum-education-inequitable-global-access.md) — a narrower finding that bears on this claim

@@ -46,6 +46,7 @@ The article's prompt engineering strategy specifies that prompts should meet "th
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 - [Provide diverse, representative examples in prompts to unlock latent LLM performance on discourse classification](example-driven-prompting-unlock-llm-performance.md)
+- [Use POP cycles (prompt–output–prompt) with retrieval-augmented generation as the vehicle for exercising human core competencies in the GAI medium](pop-cycle-rag-human-core-vehicle.md)
 
 ## Examples
 -

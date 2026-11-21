@@ -51,3 +51,4 @@ Two-way ANCOVA (N=55) shows significant modality main effects on NASA-TLX in all
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [High pre-academic performance nursing students report lower subjective cognitive load and higher achievement scores than low performers](high-pre-academic-performance-lower-load-higher-achievement.md) — related
+- [Higher cognitive load from AI-generated materials was negatively associated with course grades across all assessment stages](cognitive-load-negative-correlation-grades.md) — related

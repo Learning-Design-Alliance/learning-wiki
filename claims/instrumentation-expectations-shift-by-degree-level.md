@@ -48,3 +48,5 @@ Qualitative interview findings on the instrumentation category across the 22 pos
 ## Related Claims
 - [Bachelor's-level quantum industry roles emphasize instrumentation, computation and data analysis, and experimental and project design, while master's-level roles additionally emphasize communication and collaboration skills](bachelors-versus-masters-skill-emphasis-quantum-industry.md) — related
 - [CFQT proficiency levels are aligned with the EQF, linking level B2 to bachelor, C1 to master and C2 to doctoral programs, though the mapping is not one-to-one](cfqt-eqf-alignment-levels-to-degree-cycles.md) — related
+- [U.S. quantum master's programs share a common foundation in quantum theory but diverge substantially in how applied, computational, experimental, and specialized skills are integrated.](heterogeneous-us-quantum-masters-landscape.md) — related
+- [Experimental skills needed for bachelor's-level quantum industry positions thematically synthesize into four categories: instrumentation, computation and data analysis, experimental and project design, and communication and collaboration](qise-bachelors-experimental-skills-four-categories.md) — related

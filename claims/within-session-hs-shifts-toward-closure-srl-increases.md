@@ -100,3 +100,4 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Students showed increasing metacognitive regulation across the semester, moving from copying GPT suggestions to predicting and challenging its responses](gpt-metacognitive-regulation-growth.md) — related
 - [Dashboard use shifts learner-GenAI dialogue toward reflective, evaluative questioning rather than transactional information-seeking](srl-lad-shifts-dialogue-reflective-evaluative.md) — reports the opposite
 - [Knowledge workers using GenAI shift effort from information gathering to verification, and GenAI creates new cognitive tasks such as assessing AI-generated content](genai-shifts-effort-to-verification.md) — related
+- [In the pre-guardrail baseline corpus, self-regulated-learning behaviors were nearly absent: hint utilization was not observed and self-evaluation appeared in only two messages](srl-behaviors-absent-baseline-corpus.md) — related

@@ -65,3 +65,4 @@ The author's own exam data over four years of including simple conceptual questi
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related
 - [Peer Instruction improved student performance on conceptual problems significantly, and slightly improved quantitative performance when quantitative problems counted toward the grade](peer-instruction-improves-conceptual-performance.md) — related
 - [SLM performance degrades sharply from conceptual to problem-solving physics questions, with reasoning-optimized training improving but not eliminating the gap](slm-conceptual-problem-solving-performance-gap.md) — related
+- [Graduate physics core courses, particularly electricity and magnetism, were perceived to emphasize mathematical technique and rapid pacing at the expense of conceptual engagement](core-courses-math-focused-hinder-ltp.md) — related

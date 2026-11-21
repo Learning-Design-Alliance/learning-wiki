@@ -66,6 +66,7 @@ Movement-based instruction works when the physical activity is *semantically con
 - [Create physical learning activities with gesture recognition for preschoolers by strengthening connections between life experiences and tasks](gesture-recognition-physical-activity-life-experience-connection.md)
 - [Incorporate outdoor school ground lessons into primary science teaching and curriculum as an additional instructional method](outdoor-school-ground-lessons-in-science-curriculum.md)
 - [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
+- [Offer seated and low-amplitude gesture alternatives so embodied learning systems remain accessible to all participants](seated-low-amplitude-gesture-alternatives.md)
 
 ## Examples
 - **Math**: students walk a floor number line to locate fractions, or form acute, right, and obtuse angles with their arms before drawing them.

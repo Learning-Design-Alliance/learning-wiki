@@ -60,3 +60,4 @@ The review tallies feedback-quality comparisons separately from grading comparis
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — a narrower finding that bears on this claim
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim
 - [Both instructors reported that short, vague student reflections made it difficult to write good feedback, and structure feedback sometimes failed to change this](short-reflections-hinder-grf-feedback.md) — related
+- [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](eap-talk-low-stakes-confidence-theme.md) — related

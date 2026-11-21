@@ -48,3 +48,4 @@ Two-sample t-test among 4,498 students who passed all quizzes, comparing 3,885 M
 - [Active KSX behaviors (stock trading, initiating and replying to discussions) reduce dropout hazard in discrete-time survival analysis](ksx-activity-reduces-dropout-hazard.md) — related
 - [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related
 - [MOOC∩KSX students interact far more in forums than MOOC-only students on both platforms](ksx-students-more-forum-interaction.md) — related
+- [Participants who completed more levels and in-game quizzes achieved higher post-game scores](qubitquest-completion-linked-higher-scores.md) — related

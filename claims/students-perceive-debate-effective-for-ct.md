@@ -51,3 +51,4 @@ Descriptive analysis of open-ended questionnaire responses showed 93.18% of expe
 - [Instructing critical thinking through debate significantly improves EFL learners' critical thinking skills compared to lecturing](debate-improves-efl-critical-thinking-skills.md) — related
 - [Learners in an EFL academic-writing course reported positive responses on most critical-thinking indicators after peer review, with mixed answers on identifying proper academic writing](peer-review-critical-thinking-perception.md) — related
 - [A CT-focused CS0 course improved students' analytical skills by over 18 percentage points on average](cs0-course-improved-analytical-skills.md) — related
+- [Students generally perceived the hint-writing tasks positively as opportunities to practice debugging and critical thinking, but perceptions diverged from observed outcomes](hint-writing-positive-perceptions-outcome-mismatch.md) — related

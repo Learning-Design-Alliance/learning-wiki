@@ -62,3 +62,4 @@ This is a theoretical argument in a position paper, not an empirical test. The a
 - [The authors argue pre-GenAI acceptance frameworks such as TAM cannot account for student agency complexities with GenAI](tam-insufficient-pre-genai-frameworks.md) — related
 - [AIED's Open Learner Models tradition has, since the early 1990s, developed and evaluated designs giving users agency and control over system data, pre-figuring Russell's human-centred AI proposals.](olm-user-agency-predates-human-centred-ai-proposals.md) — related
 - [AI integration amplifies the positive effects of flourishing and engagement on English learning motivation](ai-integration-moderates-motivation-pathways.md) — related
+- [Behavioural architecture risks a Solaria effect: improving individual outcomes while dismantling collective learning capacity that current metrics cannot detect](solaria-risk-collective-capacity-loss.md) — related

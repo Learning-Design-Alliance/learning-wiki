@@ -77,3 +77,4 @@ Descriptive comparison of context misinterpretation error rates across modalitie
 - [Radiology-related questions demonstrated the highest error rate among all question categories](radiology-questions-highest-error-rate.md) — related
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — related
 - [AI performance on AP Physics FRQs degrades substantially on tasks requiring visual extraction, spatial inference, or integration across sub-parts, despite strong algebraic performance](llm-physics-errors-cluster-visual-spatial-tasks.md) — related
+- [Enabling reasoning in GPT-5.2 resolves physics-error items but not visual-error items, with non-monotonic degradation on visually demanding items](reasoning-depth-interaction-error-type.md) — related

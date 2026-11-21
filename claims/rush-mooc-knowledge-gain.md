@@ -51,3 +51,4 @@ Pre/post analysis of 679 (67.4%) of 1,008 enrolled participants who completed bo
 - [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — a broader claim this one bears on
 - [Intervention completers' mental health knowledge scores rose from baseline to post-course on the embedded course quiz in one uncontrolled pre-post study](mhfa-elearning-improves-course-quiz-knowledge.md) — possibly the same claim (merge candidate)
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
+- [A one-week VISAR deployment improved quiz-measured conceptual understanding of argumentative writing in one course section](visar-pre-post-quiz-conceptual-gains.md) — a narrower finding that bears on this claim

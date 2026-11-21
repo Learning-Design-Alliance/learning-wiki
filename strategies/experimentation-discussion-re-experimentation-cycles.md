@@ -48,6 +48,7 @@ The article's closing recommendation is that teachers "Encourag[e] cycles of exp
 - [Reaffirm learning-by-making through STEAM tinkering and critical AI literacy to cultivate epistemic resilience](steam-tinkering-critical-ai-literacy-strategy.md)
 - [Use ChatGPT's mistakes as material for cultivating critical thinking rather than banning the chatbot](chatgpt-mistakes-critical-thinking-strategy.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
+- [Design lab instruction to strengthen inclusive climates and structured opportunities for student-authored experimental reasoning, foregrounding epistemic quality over participation alone](inclusive-climates-epistemic-decision-making-lab-strategy.md)
 
 ## Examples
 -

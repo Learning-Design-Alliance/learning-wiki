@@ -55,3 +55,4 @@ This is the authors' synthesis of multiple studies using the Force Concept Inven
 - [ChatGPT scored 60% on the Force Concept Inventory, at the suggested entry threshold for Newtonian physics](chatgpt-fci-score-60-percent-entry-threshold.md) — related
 - [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related
 - [Bogotá engineering students show predominantly Aristotelian and Galilean conceptions of falling bodies on the FCI](fci-bogota-falling-body-conceptions-distribution.md) — a narrower finding that bears on this claim
+- [Quantum-based concept inventories developed since the Force Concept Inventory have had far less impact, attributed to existing standards, shortcut development processes, and jargon use](quantum-inventories-limited-impact-causes.md) — related

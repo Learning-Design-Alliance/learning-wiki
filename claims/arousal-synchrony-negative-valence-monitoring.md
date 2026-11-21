@@ -74,3 +74,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — related
 - [On a multimodal transfer task, 33.1% of students recognized a deliberately reduced-valency humanitarian poster issue and linked it to an appropriate rhetorical effect](multimodal-poster-valency-rhetorical-transfer.md) — related
 - [EDA changepoint and autocorrelation values are high for PE and low for Assembly, with Assembly showing fewer SCR peaks](eda-changepoint-autocorrelation-course-differences.md) — related
+- [Programming with a human teammate produced significantly more positive and more arousing emotional change than programming with the AI teammate](human-teammate-more-positive-arousing-emotion.md) — related

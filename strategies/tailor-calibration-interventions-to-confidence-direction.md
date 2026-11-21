@@ -45,6 +45,7 @@ The authors recommend that interventions to improve children's calibration be ma
 
 - [Calibration interventions for secondary school students should target subjective confidence as well as functional confidence](calibration-interventions-target-subjective-confidence-secondary.md)
 - [Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges](belief-level-interventions-ai-use-calibration.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Examples
 -

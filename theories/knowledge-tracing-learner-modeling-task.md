@@ -17,7 +17,7 @@ sources:
 # Knowledge Tracing as a Learner-Modeling Task
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The survey defines knowledge tracing (KT) as a learner-modeling task over sequences of exercise interactions: "knowledge tracing aims to monitor students’ evolving knowledge states during the learning process and predict their performance on future exercises." Each interaction pairs an exercise, its knowledge concepts, a correctness label and side information, and the traced states can then be used to individualize students' learning schemes.
@@ -39,6 +39,7 @@ The survey defines knowledge tracing (KT) as a learner-modeling task over sequen
 ### Claims
 
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](../claims/standard-knowledge-tracing-lacks-individualization.md) [~W]
+- [Feeding the entire response history without filtering sharply degrades concept-level deficiency prediction (Macro-F1 of only 5.43% for Llama-4 and 2.16% for o3-mini)](../claims/all-responses-degrades-deficiency-prediction.md) [~W] — attached 2026-11-21 from Yu-Chen Kang et al. (2026), which proposed "Concept-level deficiency prediction task formulation with three-step in-context reasoning".
 
 ## Related Theories
 - Adaptive Learning

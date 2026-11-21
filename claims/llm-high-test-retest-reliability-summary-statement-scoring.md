@@ -58,3 +58,4 @@ Experimental comparative study running each of 4 LLMs 5 times per prompting cond
 - [GPT-4o self-consistency mode grading of physics explanations reaches agreement with human graders almost identical to the agreement between the human graders themselves](gpt4o-self-consistency-human-level-grading-agreement.md) — related
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
 - [Gemini-2.5-Flash showed weaker grading consistency than Claude-3.7-Sonnet (R² = 0.63, residual SD 1.51 vs 1.17), limiting its utility for formal assessment](gemini-flash-grading-inconsistency.md) — related
+- [AI classification accuracy on math cognitive-demand tasks is temporally unstable over a seven-week interval, with Gemini stable at 58% and Coteach declining from 75% to 50%](ai-task-classification-temporal-instability-seven-weeks.md) — related

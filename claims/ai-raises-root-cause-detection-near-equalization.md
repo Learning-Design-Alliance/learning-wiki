@@ -54,3 +54,4 @@ Preregistered "detected root cause" indicator analysis in the results section of
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
 - [Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging](hardware-debugging-takes-multiple-prompts.md) — related
 - [ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)](chatgpt-near-passing-threshold-usmle.md) — related
+- [Twenty-six Year 12 students with no engineering background achieved 100% root-cause identification across two adapted scenarios, replicating the undergraduate convergence pattern](transferability-non-specialist-root-cause.md) — related

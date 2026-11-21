@@ -13,7 +13,7 @@ generated:
 # Individual Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 17 studies (5 quant-synthesis, 5 review, 3 causal, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 17 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 18 studies (5 quant-synthesis, 5 review, 4 causal, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 18 report an effect size · 9 claims rest on one study
 
 ## Description
 Individual reflection asks learners to step back from a task or experience and deliberately analyze their own thinking, decisions, and learning progress. It converts experience into articulated insight — learners examine *what* they did, *why* it worked or failed, and *what* to change next time — rather than simply moving on to the next activity.
@@ -59,6 +59,8 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 - [Guided reflection was the most frequently applied individual support activity in the included interventions](../claims/guided-reflection-most-frequent-support-activity.md) [~W]
 - [Thematic analysis of reflection chats identified four LLM support behaviors: positive affirmations, expanding on answers, offering guidance, and encouraging reflection](../claims/llm-reflection-interaction-themes.md) [+W] — attached 2026-11-20 from Harsh Kumar et al. (2024), which proposed "LLM-guided self-reflection chatbot (GPT-3 / GPT-3.5-Turbo)".
 - [Students' self-reported self-confidence in the subject rose from before to after the assignment within the LLM-guided reflection group (Study 1)](../claims/llm-reflection-confidence-increase-study1.md) [+W] — attached 2026-11-20 from Harsh Kumar et al. (2024), which proposed "LLM-guided self-reflection chatbot (GPT-3 / GPT-3.5-Turbo)".
+- [Explicit CPT-oriented scaffolding during tool use significantly improves reflective writing depth in both AI-supported and static-scaffold conditions](../claims/cpt-scaffolding-improves-reflection-depth-during-tool-use.md) [+W] — attached 2026-11-21 from Seyed Parsa Neshaei et al. (2026), which proposed "Pensée: a CPT-aligned reflective writing environment with LLM planning, translation, and review support".
+- [AI-supported planning and translation shows no significant advantage over static non-AI scaffolding for reflection depth or structure](../claims/ai-support-no-advantage-over-static-scaffolding.md) [~W] — attached 2026-11-21 from Seyed Parsa Neshaei et al. (2026), which proposed "Pensée: a CPT-aligned reflective writing environment with LLM planning, translation, and review support".
 
 ## The evidence by question
 - *Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]

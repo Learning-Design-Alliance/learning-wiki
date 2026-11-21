@@ -73,3 +73,4 @@ Wilcoxon signed-rank pre-post comparisons in the same study showed significant l
 - [Bloch sphere learners complete application-oriented quantum tasks significantly faster than Quantum Bead learners](bloch-sphere-faster-task-time.md) — related
 - [Experts judge the Circle Notation least likely to cause understanding difficulties among the four qubit representations](circle-notation-fewest-understanding-difficulties.md) — related
 - [Experts rate the Bloch sphere as differing in effort in explanation from the Circle Notation and Qake, while generability shows no significant pairwise differences after correction](effort-explanation-generability-expert-ratings.md) — related
+- [The Bloch sphere mini-game ranked highest for preference, teaching effectiveness and motivation, while quantum circuits ranked lowest across all criteria](qubitquest-mini-game-rankings.md) — related

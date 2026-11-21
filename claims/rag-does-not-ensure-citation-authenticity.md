@@ -55,3 +55,4 @@ Consensus ratings (Table 2) show Authenticity of References scored 0/3 for all s
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
 - [A three-layer mitigation strategy reduced Whisper hallucination loops from 6.4% of segments to 0.02% across a lecture corpus](whisper-hallucination-loop-mitigation-transcripts.md) — related
+- [LLMs returned false citations, links, or paper summaries about 20% of the time during graduate literature research](llm-false-citations-twenty-percent.md) — related

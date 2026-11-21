@@ -108,3 +108,4 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [Model-expert agreement on question diversity is very weak, with the model systematically overestimating diversity relative to experts](genai-question-diversity-weak-agreement.md) — related
 - [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — a narrower finding that bears on this claim
 - [Authorship effects do not inflate AI-marking validity estimates; if any bias operates it runs in the conservative direction](authorship-bias-conservative-direction.md) — related
+- [An LLM grader using a four-level explanation-quality rubric achieved substantial agreement with human consensus scores (quadratic-weighted κ=0.78).](llm-grader-substantial-agreement-human-consensus.md) — a narrower finding that bears on this claim

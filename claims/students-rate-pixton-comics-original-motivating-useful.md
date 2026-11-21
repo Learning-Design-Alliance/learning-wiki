@@ -49,3 +49,4 @@ Descriptive post-questionnaire results from the experimental group reported in s
 - [Experimental-group students perceived Pixton comic strips as useful for learning EFL grammar and vocabulary](students-perceive-pixton-useful-grammar-vocabulary.md) — related
 - [Teachers perceived Pixton comic strips as an innovative teaching aid and reported no difficulty creating comics or giving clear explanations](teachers-perceive-pixton-innovative-teaching-aid.md) — related
 - [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](students-report-scarce-technology-use-but-motivated-by-it.md) — related
+- [Positively worded motivation items increased after the comic-based workshops, largest for \"I learn Physics easily\" (1.53 to 2.38)](positive-motivation-items-increased-comics-physics.md) — related

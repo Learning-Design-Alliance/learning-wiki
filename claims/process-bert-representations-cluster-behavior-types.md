@@ -74,3 +74,5 @@ Qualitative t-SNE visualization of student-level vectors from a modified model w
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Clustering practice behavior in an open-ended task yields five behavior types that differ significantly in normalized learning gain](five-practice-behavior-clusters-differ-learning-gain.md) — related
 - [Unsupervised clustering of grading data shows Classical Mechanics problems are graded differently from other physics topics](clustering-classical-mechanics-graded-differently.md) — related
+- [In an online introductory statistics course, the model automatically identified four distinct learner profiles without a prespecified cluster count](four-learner-profiles-coursekata-statistics.md) — related
+- [In simulation, the MFM prior recovered the true number of latent learner clusters without pre-specification in 90% of replications](mfm-prior-cluster-enumeration-recovery.md) — related

@@ -62,9 +62,11 @@ The game leverages embodied cognition: bodily states and postures feed back into
 6. **Assess informally:** note accuracy and range of portrayal over time ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a seated sibling activity using the same emotion-labeling goal
 - [Acting-Role-Play](acting-role-play.md) — extended embodiment of characters and situations rather than single emotions
 - [Act It Out](act_it_out.md) — dramatization of content scenarios with an emotional dimension
+- [Offer seated and low-amplitude gesture alternatives so embodied learning systems remain accessible to all participants](seated-low-amplitude-gesture-alternatives.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the facilitator's modeled walk gives learners a reference before they attempt their own

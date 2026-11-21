@@ -48,4 +48,4 @@ In the studied course, the instructor used AI to generate homework assignments i
 -
 
 ## Key Sources
-- Dange, A. and Lopez, R.E. (2026). Chatbot Conversations in Physics Education: Using Artificial Intelligence to Analyze Student Reasoning through Computational Grounded Theory. arXiv:2603.04616. https://arxiv.org/abs/2603.04616
+- Dange, A. and Lopez, R.E. (2026). Chatbot Conversations in Physics Education: Using Artificial Intelligence to Analyze Student Reasoning through Computational Grounded Theory. arXiv:2603.04616. https://arxiv.org/abs/2603.04616. [doi:10.48550/arxiv.2603.04616](https://doi.org/10.48550/arxiv.2603.04616)

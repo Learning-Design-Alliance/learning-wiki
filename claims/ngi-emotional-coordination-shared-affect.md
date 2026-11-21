@@ -52,3 +52,4 @@ Case study observation plus post-task interview triangulation. Tim's Joy–Sadne
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](ngi-not-distracting-attention-returns.md) — related
 - [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](affective-reinforcement-stabilizes-engagement-structure.md) — related
 - [Social flow and group flow were sustained and even strengthened as task challenge increased in the game's algebraic stages](flow-sustained-as-challenge-increases.md) — related
+- [Interactive learning increased positive emotion and flow and reduced negative emotion relative to traditional learning](interactive-positive-emotion-flow-negative-emotion-reduced.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/career-awareness-least-articulated.md
+---
+
+# Revision history: [claims/career-awareness-least-articulated](../claims/career-awareness-least-articulated.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2606.00841 (Program-Level Curriculum Analysis of U.S. Quantum Masters Degrees; Implications for Workforce Preparation) via eval_harness.py + ingest_extractions.py

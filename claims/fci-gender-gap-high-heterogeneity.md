@@ -56,3 +56,4 @@ Heterogeneity assessment of the 38-study random effects meta-analysis. The artic
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - [Most individual studies report positive gender gaps in mean FCI scores, with effect sizes ranging from -0.15 to 1.5](fci-individual-study-gaps-range.md) — related
 - [Study location (NA vs non-NA) significantly moderates the FCI gender gap, with wider gaps in NA-based studies](study-location-moderates-fci-gender-gap.md) — related
+- [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related

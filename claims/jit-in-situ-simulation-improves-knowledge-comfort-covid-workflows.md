@@ -54,3 +54,4 @@ Pre/post survey of 110 of 428 simulation participants (25.7%) using 1-tailed sig
 - [Simulation comfort gains did not differ significantly between providers who had and had not previously performed an AGP on a suspected COVID-19 patient](insitu-sim-comfort-gain-independent-of-prior-agp.md) — related
 - [In-situ simulation significantly increases physician comfort with PPE donning and doffing for COVID-19 aerosol-generating procedures](insitu-sim-ppe-comfort-gain.md) — related
 - [In-situ simulation significantly increases physician comfort in understanding their role in COVID-19 airway management](insitu-sim-role-comfort-gain.md) — related
+- [Self-reported comfort with AI technology rose within one month, with the largest gains among initially least comfortable participants](comfort-with-ai-rose-first-month-data-crossings.md) — related

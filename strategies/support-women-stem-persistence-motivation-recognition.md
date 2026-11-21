@@ -50,6 +50,8 @@ The article recommends that instructors support persistence of all students, esp
 - [Instructor practices to support women in physics: prevent isolation, recognize students, monitor social dynamics, and advocate for smaller classes and affinity groups](instructor-practices-support-women-physics-courses.md)
 - [Foster positive recognition of physics students throughout the curriculum, especially during year 1 and year 4 transition periods](positive-recognition-throughout-curriculum-strategy.md)
 - [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
+- [Intentional recruitment and retention efforts centering student assets and addressing stereotypes, especially in early introductory courses](intentional-recruitment-retention-physics-majors.md)
+- [Provide targeted support strengthening identity and perceived recognition for women earning lower grades, and foster a climate where students see themselves as physics people regardless of final grade](targeted-recognition-support-women-lower-grades.md)
 
 ## Examples
 -

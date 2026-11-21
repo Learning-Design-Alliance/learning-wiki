@@ -81,3 +81,5 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [AR workshop students reported significantly higher physical demand and effort on NASA-TLX than non-AR students](ar-higher-physical-demand-effort-nasa-tlx.md) — related
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
 - [Using the system reduces learners' mental workload on Temporal Demand and Effort dimensions but not on Performance](system-reduces-workload-temporal-effort.md) — related
+- [Mental demand, temporal demand, and effort were significantly lower with the AI teammate, while frustration did not differ significantly](ai-teammate-lower-workload-except-frustration.md) — related
+- [Contrastive learning imposes the highest mental demand of all conditions while maintaining high trust and the lowest reported frustration](contrastive-learning-high-effort-low-frustration.md) — related

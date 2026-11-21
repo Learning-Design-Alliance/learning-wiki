@@ -51,3 +51,4 @@ Fisher's exact tests compared image-based versus text-only accuracy per model; t
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [All seven LLMs showed markedly lower accuracy on image-based than text-based DUS questions, with significant text-image gaps for five models but not Gemini or Claude](llms-lower-accuracy-image-based-dus-questions.md) — related
+- [For one student's dynamical simulation, Claude Opus 4 was more successful at generating and debugging code than Gemini Pro 3 and the ChatGPT-5 thinking model, though its lower usage limit constrained its use](claude-opus-4-outperformed-peers-simulation-code.md) — related

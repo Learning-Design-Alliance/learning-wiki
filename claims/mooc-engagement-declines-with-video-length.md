@@ -74,3 +74,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Tutorly's video segmentation by learning goal achieved 73.7% overall accuracy within a five-second margin, with accuracy decreasing for longer videos](tutorly-segmentation-accuracy-73-7.md) — related
 - [Video duration and word count show the strongest negative linear correlations with viewer engagement in a lecture-video dataset](duration-word-count-negative-correlation-engagement.md) — related
 - [LOESS curves reveal non-linear feature–engagement patterns: shorter videos and moderate speaking speed and scene values are associated with higher retention](loess-nonlinear-video-feature-engagement-patterns.md) — a narrower finding that bears on this claim
+- [Time-on-task rose from 31.8 minutes under traditional video to 54.5 minutes with the AI tutor (71.1%), measured sequentially within the same group](ai-tutor-increased-engagement-duration-71-percent.md) — related

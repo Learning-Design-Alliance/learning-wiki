@@ -49,3 +49,4 @@ Program-scale report in the Training Events section of this descriptive program 
 - [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related
 - [The HSF/IRIS-HEP training events have trained about 1500 people over the last 3-4 years, with virtual events held in 2020 due to COVID-19](hep-software-training-1500-trained-3-4-years.md) — related
 - [Rough estimates put the HEP community needing software training at about 10K people per year, and training is fully voluntary for mentors and participants](hep-training-scale-10k-annual-voluntary.md) — related
+- [The Apptainer module reached 360 registered participants across training events between 2023 and 2025](module-reached-360-participants.md) — a narrower finding that bears on this claim

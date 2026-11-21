@@ -51,3 +51,4 @@ Out-of-domain evaluation on the OpenLearnLM benchmark (N=3,714) across Skills, C
 - [Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge](skills-independent-of-knowledge-scores-llms.md) — related
 - [Knowledge, Skills, and Attitude scores are largely independent across frontier LLMs, with Knowledge–Skills correlation r=−0.51 and Knowledge–Attitude r=−0.63](ksa-dimensions-weakly-negative-correlated-llms.md) — related
 - [Dialogue-based RL training on mathematics tutoring dialogues generalizes to unseen educational benchmarks while largely preserving factual knowledge](dialogue-rl-out-of-distribution-generalization.md) — related
+- [Explicit thinking mechanisms degrade rubric-aligned conversation scoring but improve recommendation acceptability](thinking-degrades-scoring-improves-recommendations.md) — related

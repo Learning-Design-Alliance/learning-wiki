@@ -61,3 +61,4 @@ ANCOVA was applied to the final speaking-skill score with pre-test scores partia
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
+- [Interactive learning students significantly outperformed traditional learning students on the post-test after adjusting for pre-test scores](interactive-posttest-outperforms-traditional.md) — related

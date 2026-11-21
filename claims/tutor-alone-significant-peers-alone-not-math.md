@@ -54,3 +54,4 @@ Exploratory pairwise chi-square tests on unassisted test accuracy in the pre-reg
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](tutor-tutee-synergistic-effect.md) — related
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — related
+- [Open-ended LLM-feedback self-explanation shows no significant advantage over control or menu-based conditions on ordinary post-test problem-solving accuracy in calculus.](no-condition-difference-post-test-problem-solving-accuracy.md) — related

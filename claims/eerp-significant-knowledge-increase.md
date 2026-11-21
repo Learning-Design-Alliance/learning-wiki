@@ -51,3 +51,4 @@ Raw-data pre/post analysis of 25 first-semester veterinary medicine students usi
 - [Students earned on average ≈ 20.1 victory points per player in the eEERP, far below the maximum of 166 VP](eerp-vp-earned-per-player.md) — related
 - [A remote educational escape room for databases produced a statistically significant pre-to-post knowledge increase with a large effect size (r=0.69)](remote-escape-room-database-learning-gains.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
+- [Participants who completed more levels and in-game quizzes achieved higher post-game scores](qubitquest-completion-linked-higher-scores.md) — related

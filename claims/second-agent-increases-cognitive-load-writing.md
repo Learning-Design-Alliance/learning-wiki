@@ -59,3 +59,5 @@ Post-task self-report perceptions in Experiment-2 (confidence, helpfulness, idea
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
 - [The article reports open questions on cognitive load, disorientation, and automated learning-object recommendation in SWBL](swbl-future-research-cognitive-load-disorientation.md) — related
+- [A standard single-agent LLM baseline produces high perceived understanding despite the lowest objective learning (an overconfidence effect)](baseline-llm-overconfidence-misalignment.md) — related
+- [No difference in cognitive load during experiments between groups with and without MDETs, and no evidence of distraction or overload](no-cognitive-load-difference-mdets.md) — related

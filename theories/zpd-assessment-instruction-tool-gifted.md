@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development as an assessment and instruction tool
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 10 studies (5 causal, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 11 studies (5 causal, 3 design, 2 theoretical, 1 review), `q1`–`q3` · 2 of 11 report an effect size · 15 claims rest on one study
 
 ## Description
 The ZPD is defined by Vygotsky as "the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." The essay presents it as "an analytical tool necessary to plan instruction and to explain its results," applicable to assessment, individualizing learning, monitoring progress, and addressing gifted children's social and emotional needs.
@@ -52,6 +52,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [G-DA instruction improved L2 writing performance: the experimental group outperformed the control group on the posttest](../claims/gda-outperformed-control-writing-posttest.md) [+W]
 - [Peer-assisted mediation within dynamic assessment produced significantly greater writing development than tutor-intervention for intermediate EFL learners.](../claims/peer-mediation-beats-tutor-intervention-writing.md) [~W]
 - [Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding](../claims/asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md) [+W] — attached 2026-11-03 from Pishghadam et al. (2011), which proposed "Zone of Proximal Development and symmetrical vs. asymmetrical peer interaction"; tests this page's relationship.
+- [Additional scaffolding on a twelve-fold symmetry problem in the tutorial improved interviewed students' performance on the six-fold symmetry posttest problem](../claims/twelve-fold-scaffolding-improved-six-fold-posttest.md) [+W] — attached 2026-11-21 from Kashyap et al. (2026), which proposed "Vygotsky's Zone of Proximal Development as the framework for scaffolding inquiry-based physics tutorials".
 
 ## Related Theories
 

@@ -47,3 +47,4 @@ Cross-sectional semistructured online survey of 102 frontline HBB users (65% phy
 ## Related Claims
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — a broader claim this one bears on
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — a broader claim this one bears on
+- [Cohort caps and low student-to-facilitator ratios are used to guarantee hands-on equipment time](useqip-cohort-cap-hands-on-time.md) — related

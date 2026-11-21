@@ -80,3 +80,4 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Students recognize the social nature of code through commenting, formatting, and documentation practices](code-etiquette-as-social-computational-literacy.md) — related
 - [How students approach developing social computational literacy varies across individuals and is driven by unspoken assumptions](social-computational-literacy-variable-unspoken-assumptions.md) — related
 - [Students prioritize cognitive over material computational literacy when advising understanding over finishing assignments](understanding-prioritized-over-finishing-assignments.md) — related
+- [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related

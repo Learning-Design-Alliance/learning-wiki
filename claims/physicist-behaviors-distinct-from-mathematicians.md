@@ -54,3 +54,4 @@ Qualitative replication comparing physics graduate students' interview behavior 
 - [Physics experts solving graphing tasks use mathematics mental actions MMA 1-4 but show no evidence of MMA 5 (Smooth Continuous)](physics-experts-use-mma1-4-not-mma5.md) — related
 - [In a preliminary experiment, physics graduate students used quantities not given in the task and applied known models, behaviors distinct from mathematics graduate students](physics-grad-students-proxy-and-compiled-models-preliminary.md) — possibly the same claim (merge candidate)
 - [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — a broader claim this one bears on
+- [Physics graduate students define thinking like a physicist as concept-first reasoning in which concepts are considered before applying mathematics](graduate-students-define-ltp-concept-first.md) — related

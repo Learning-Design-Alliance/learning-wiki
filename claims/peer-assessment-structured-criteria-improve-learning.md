@@ -88,3 +88,4 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
 - [Video-feedback interventions that structure annotations with an observation form show larger effects on communication skills than unstructured formats, according to a cited meta-analysis](observation-form-structures-video-annotation-effects.md) — related
 - [Peer reviewers inflate grades when they recognize the grade they are giving as final, so rubric-based training is needed for peer review to serve as assessment](peer-grade-inflation-final-assessment-video-project.md) — related
+- [Tier 2 assessment tasks are non-standardizable by design, so closing the assessment gap requires trained professional judgment applied repeatedly rather than rubrics alone](tier2-assessment-nonstandardizable.md) — related

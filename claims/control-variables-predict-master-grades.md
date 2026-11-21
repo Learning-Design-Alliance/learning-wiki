@@ -52,3 +52,4 @@ Control-variable results in Table 4: bachelor grade 0.331***–0.388***, word co
 - [Writing more about the interest to learn ('interest to learn' move) predicts higher master grades](interest-to-learn-move-predicts-higher-grades.md) — related
 - [Writing more about research skills predicts lower master grades](research-skills-move-predicts-lower-grades.md) — related
 - [Writing more about desired societal impact predicts lower master grades](societal-impact-move-predicts-lower-grades.md) — related
+- [Access to quantum education remains uneven, concentrated in North America and Europe with limited access elsewhere](quantum-education-inequitable-global-access.md) — related

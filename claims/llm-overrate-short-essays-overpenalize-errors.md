@@ -55,3 +55,5 @@ Manual inspection of essays with large LLM-human score differences plus essay-fe
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related
 - [Wise-crowd content models for summary assessment correlate well with an educational rubric, manually and via two automated NLP methods](wise-crowd-content-model-summary-assessment.md) — related
 - [Expert-graded essay scores increase significantly from pre to post learning with both tools, except flow/organization and spelling/grammar/mechanics](pre-post-gains-both-tools.md) — related
+- [Informal language receives the heaviest grading penalty among perturbation types, with deductions up to 1.90 points on a 10-point scale](informal-language-heaviest-grading-penalty.md) — related
+- [Explicit prompt-level anti-bias instructions fail to prevent style-based grading bias in LLMs](prompt-instructions-fail-to-debias-llm-grading.md) — related

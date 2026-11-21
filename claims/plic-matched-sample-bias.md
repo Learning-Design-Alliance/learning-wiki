@@ -48,3 +48,4 @@ Partial-sample reliability comparison of 1911 matched respondents against studen
 - [Low response rates over-represent higher-performing students, a selection effect for interpreting E-CLASS results](eclass-selection-effect-low-response.md) — related
 - [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related
 - [PLIC shows course-level test-retest reliability: pre-survey means do not differ across semesters after correction](plic-test-retest-reliability.md) — related
+- [A two-profile latent solution best characterizes students' PLIC critical thinking responses at both pre- and post-instruction in a large multi-institutional dataset](two-profile-plic-latent-structure.md) — related

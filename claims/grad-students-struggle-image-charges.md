@@ -48,3 +48,4 @@ Qualitative interview analysis of graduate students solving MoI problems; the au
 ## Related Claims
 - [A graduate student inappropriately judged the method of images appropriate for a channel problem and placed image charges satisfying boundary conditions only to their own satisfaction](method-of-images-misapplied-channel-problem.md) — a narrower finding that bears on this claim
 - [Identifying problems that can be solved effectively using Laplace’s equation was challenging for advanced students when not explicitly told which method would be effective](identifying-laplace-effectiveness-challenge.md) — related
+- [Additional scaffolding on a twelve-fold symmetry problem in the tutorial improved interviewed students' performance on the six-fold symmetry posttest problem](twelve-fold-scaffolding-improved-six-fold-posttest.md) — related

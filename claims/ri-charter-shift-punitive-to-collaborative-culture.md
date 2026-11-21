@@ -66,3 +66,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Organizational culture, communication and motivational efforts are identified as organizational behaviour factors in department chair performance improvement](dc-organizational-culture-communication-motivation.md) — related
 - [Official top-down support from the dean is associated with faster curriculum-mapping progress, and its absence with very slow progress](dean-top-down-support-mapping-progress.md) — related
 - [Lack of regular, open communication is the most common reason NITARP teams break](nitarp-team-break-communication.md) — related
+- [Collaboration with local tradespeople and institutions situated the project in a community of practice, with students moving from peripheral participation to trusted contributors](community-integration-situated-learning-case.md) — related

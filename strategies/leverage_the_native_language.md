@@ -66,6 +66,7 @@ Allowing learners to process new content through their strongest language reduce
 - [Integrate students' home languages into math instruction to build trust and participation](multilingualism-integration-math-trust.md)
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 - [Lower barriers to access through free entry and multilingual content](free-entry-multilingual-exhibition-content.md)
+- [Offer a flexible primary language of instruction with a secondary support language in multilingual EdTech](primary-language-secondary-support-multilingual-edtech.md)
 
 ## Examples
 - **Dual-language project-based schools** (e.g., Two-Way Immersion programs documented by the Center for Applied Linguistics) have students produce community-issue projects in both program languages, with final presentations to bilingual community audiences.

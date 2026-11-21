@@ -55,3 +55,5 @@ Human-LLM alignment analysis (Pearson r, MAE, Bland-Altman bias) of five LLMs ag
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
 - [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related
 - [Claude-3.7-Sonnet LLM grading preserved student performance rankings relative to human graders (R² = 0.83) while being systematically more stringent](claude-llm-grading-rank-preservation.md) — reports the opposite
+- [LLM confidence is strongly aligned with its reasoning explanations and student-facing feedback in incorrect bias judgments, with most cases rated highly coherent by human raters](confidence-coherent-with-reasoning-and-feedback.md) — related
+- [With individualised grading contexts, Generation 5 models aligned strongly with human grading, Gemini 3.0 Pro reaching r = 0.9191 and MAE of 7.62%](gen5-individualised-grading-alignment.md) — related

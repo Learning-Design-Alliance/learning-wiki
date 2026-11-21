@@ -35,4 +35,4 @@ PromptHive is an open-source collaborative prompt-authoring interface developed 
 
 ## Key Sources
 - Mohi Reza, Ioannis Anastasopoulos, Shreya Bhandari, Zachary A Pardos. (2024). PromptHive: Bringing Subject Matter Experts Back to the Forefront with Collaborative Prompt Engineering for Educational Content Creation. arXiv preprint. https://arxiv.org/abs/2410.16547
-- Kwak, Y., Pardos, Z.A. (2026). The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design. https://arxiv.org/abs/2603.12781
+- Kwak, Y., Pardos, Z.A. (2026). The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design. https://arxiv.org/abs/2603.12781. [doi:10.48550/arxiv.2603.12781](https://doi.org/10.48550/arxiv.2603.12781)

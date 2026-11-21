@@ -54,6 +54,7 @@ The article's third session opened with a detailed prompt instructing the chatbo
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Socratic Questioning](socratic_questioning.md)
 - [Structure chatbot teacher-training activities as find a right and a wrong answer, guide improvement with questions, then reflect](chatgpt-socratic-activity-three-task-structure.md)
+- [Deepening Prompt v1.0: a five-component Socratic tutoring prompt structure for evaluating AI tutors](deepening-prompt-v1-socratic-components.md)
 
 ## Examples
 -

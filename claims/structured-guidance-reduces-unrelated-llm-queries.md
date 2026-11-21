@@ -45,3 +45,4 @@ Formative randomized factorial classroom study (N=145 enrolled, 138 LLM users) i
 - [Guidance strategies G1, G2 and G4 reduce verbatim copy-pasting of assignment questions to the LLM, while G3 increases rephrasing](guidance-reduces-verbatim-question-copying.md) — related
 - [Solve-then-refine guidance (G4) may not have helped homework performance as much as other guidance forms in the classroom study](solve-then-refine-lower-homework-performance.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [Learning post-test scores differed by class group (ηt² = 0.10) and by learning pre-test (ηt² = 0.06), with no significant effects of gender or other predictors](class-group-and-prior-knowledge-predict-learning-post-test.md) — related

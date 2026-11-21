@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 recheck_by: 2030
 sources:
   - id: shams-el-adawy-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analysis of interviews with quantum industry employers identifies experimental skills needed for non-PhD positions, organized into four categories: instrumentation, computation and data analysis, experimental and project design, and communication and collaboration. [→ Shams El-Adawy 2025](#shams-el-adawy-2025)
@@ -53,3 +54,7 @@ Qualitative interview study: the authors conducted semi-structured interviews wi
 - [An earlier interview study of 21 quantum companies found engineering and experimental physicist roles most common and classical programming, statistics, and lab experience most valued](fox-2020-quantum-workforce-interview-findings.md) — related
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
 - [Coding skills and statistical data-analysis experience are the most widely valued skills across the quantum industry, with laboratory experience, electronics, troubleshooting, materials knowledge, and quantum algorithms also frequently cited](quantum-industry-coding-data-analysis-skills-valued.md) — related
+- [Communication and collaboration is the only experimental skill category that appears in every bachelor's-level position in the dataset](communication-collaboration-in-every-qise-position.md) — a narrower finding that bears on this claim
+- [Experimental skills needed for bachelor's-level quantum industry positions thematically synthesize into four categories: instrumentation, computation and data analysis, experimental and project design, and communication and collaboration](qise-bachelors-experimental-skills-four-categories.md) — related
+- [Bachelor's-level quantum industry positions span hardware, bridging, software, and public-facing/business role types, with physics, engineering, and computer science the most frequently described disciplinary backgrounds](qise-bachelors-positions-role-types.md) — related
+- [Experimental skills cluster by role type: hardware roles emphasize instrumentation, software roles emphasize computation and data analysis, bridging roles draw on all four categories, and public-facing roles rely most on communication and collaboration](qise-skills-cluster-by-role-type.md) — related

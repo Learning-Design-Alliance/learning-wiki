@@ -57,3 +57,4 @@ Spearman correlation in the cross-sectional survey among 271 students with prior
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Combining spaced education with face-to-face lectures levels learning-style-related differences in examination results](spaced-education-levels-learning-style-exam-correlations.md) — related
+- [Video preference correlated positively with total academic scores and especially with the oral presentation component](video-preference-positive-correlation-scores.md) — related

@@ -51,3 +51,4 @@ Codebook category distribution (Table 8, sentence-multilabel %, four-category vi
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
 - [Guided Socratic worked examples carry the chapter's mathematical content, with the learner supplying each intermediate step](socratic-worked-examples-spherical-geometry.md) — related
 - [A fine-tuned LLM (FT2) responds Socratically and informally where GPT-3.5 states solutions instructively, in an evaluation of fifty real student questions](fine-tuned-llm-socratic-responses-vs-gpt35.md) — related
+- [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related

@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 387 claims (296 show a difference, 49 mixed, 42 no difference) · 305 studies (99 causal, 99 associational, 34 review, 31 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 305 report an effect size · 383 claims rest on one study
+> **Evidence** · 389 claims (297 show a difference, 50 mixed, 42 no difference) · 307 studies (100 causal, 100 associational, 34 review, 31 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 307 report an effect size · 385 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -418,6 +418,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](../claims/sd-baseline-exponential-growth-positive-constructs.md) [+W] — measured as an outcome of the instruction studied
 - [CS novices' self-confidence in LLM-based learning initially misaligns with actual prompting skill, and the intervention corrects and increases perceived ability](../claims/llm-confidence-misalignment-corrected-by-intervention.md) [+M] — measured as an outcome of the instruction studied
 - [Peer and Challenger agents raise perceived competence relative to Control, and all three role-based agents raise perceived critical thinking relative to Control](../claims/roles-raise-perceived-competence-and-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](../claims/eap-talk-low-stakes-confidence-theme.md) [~M] — measured as an outcome of the instruction studied
+- [Physics self-efficacy is a strong predictor of peer influence on self-efficacy (PISE)](../claims/self-efficacy-strong-predictor-of-pise.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-21
 sources:
   - id: alexander-s-browman-2025
     resource: "https://doi.org/10.1007/s10648-025-10009-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative studies with students of color, working-class students, and other marginalized groups find belonging depends on whether school environments support enactment of valued identities, not solely on social connections. [→ Alexander S. Browman 2025](#alexander-s-browman-2025)
@@ -63,3 +63,5 @@ The review's synthesis of qualitative studies (e.g., Faircloth 2009 with ethnica
 - [Strength-based learning groups support educators to create equitable learning environments for economically marginalized students](strength-based-learning-groups-equitable-environments.md) — related
 - [No significant difference between flipped and classroom-only groups in belonging or usability ratings](duda-flipped-classroom-no-difference.md) — related
 - [TEAM-UP attributes success or failure of Black students in physics to belonging, physics identity, academic support, financial support, and leadership and structures](team-up-factors-black-student-success-physics.md) — related
+- [Students’ gender appraisal discrepancies relate to belonging through feeling not personally known by physics peers and through pressure to alter gender expression to fit in](discrepancies-belonging-not-known-pressure-to-fit-in.md) — a narrower finding that bears on this claim
+- [Undergraduate women explain their own physics identities more frequently through personal and social lenses (multiple identities, self-image, belonging) than through academic ability](self-identity-personal-social-lens.md) — related

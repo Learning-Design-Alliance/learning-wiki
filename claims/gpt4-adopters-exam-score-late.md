@@ -69,3 +69,4 @@ Hypothesis test comparing exam scores of control students versus experiment-grou
 - [Within individuals, adopting the Exam Playbook tracks better subsequent exam performance and dropping it tracks worse](exam-playbook-adopt-drop-intraindividual.md) — related
 - [Only 14.2% of students offered the course GPT-4 interface chose to use it](low-gpt4-adoption-rate-14-percent.md) — related
 - [GPT-4 advertisement also reduced week-6 homework completion, with section attendance showing a smaller, non-significant decrease](gpt4-advertisement-lowered-homework-completion.md) — related
+- [Engagement remained a significant predictor of final exam scores after adjusting for prior performance, with an adjusted difference corresponding to Cohen's d of approximately 0.81](ancova-engagement-final-exam-adjusted.md) — related

@@ -87,3 +87,4 @@ Figure 2 depicts the departmental distribution of the sampled programs: "Almost 
 - [QISE program representatives reported shared concerns about student and industry demand, unknown industry needs, and admitting students from broad majors](qise-program-shared-concerns.md) — related
 - [A 2009 European TIARA survey found that although 75 organizations provide some accelerator training, only a handful of dedicated full-time formal training programs exist](tiara-survey-75-organizations-handful-full-programs.md) — related
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related
+- [No single structural model for graduate QISE training has proven universally superior; the field is best served by deliberate coexistence of multiple program architectures](no-single-structural-model-graduate-qise.md) — related

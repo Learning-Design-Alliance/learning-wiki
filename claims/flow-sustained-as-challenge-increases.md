@@ -50,3 +50,4 @@ Interaction network diagrams over 5-min intervals (Figs. 3–4) of the 40-min ga
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
 - [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](ngi-emotional-coordination-shared-affect.md) — related
 - [A majority (90%) of participants described learning with desktop VE-based simulation as an integrative process of cognitive attention and affective emotion, suggesting a flow state](dvsim-flow-state-cognitive-affective.md) — related
+- [Interactive learning increased positive emotion and flow and reduced negative emotion relative to traditional learning](interactive-positive-emotion-flow-negative-emotion-reduced.md) — related

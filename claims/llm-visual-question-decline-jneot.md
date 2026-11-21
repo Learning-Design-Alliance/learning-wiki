@@ -94,3 +94,4 @@ The authors' summary of the format effect: "accuracy on visual-based questions d
 - [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](chatgpt-tug-k-reasoning-versus-vision-correctness.md) — a narrower finding that bears on this claim
 - [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — a narrower finding that bears on this claim
 - [ChatGPT can be unreliable even on basic conceptual physics tasks when vision is correct, as on item 17 (5% correct vs 70% for students)](chatgpt-uncanny-reasoning-failures.md) — a narrower finding that bears on this claim
+- [Enabling reasoning in GPT-5.2 resolves physics-error items but not visual-error items, with non-monotonic degradation on visually demanding items](reasoning-depth-interaction-error-type.md) — related

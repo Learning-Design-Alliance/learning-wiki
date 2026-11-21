@@ -49,6 +49,7 @@ A structured end-of-session discussion drives home the main points: sequences we
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 - [Three Act Tasks](three-act-tasks.md)
 - [Withhold species identities until activities are complete to reduce intellectual resistance to human evolution](withhold-species-identity-strategy.md)
+- [Three-activity predict–observe–explain sequence: multi-metric comparison, metric-driven selection, and tolerance-based transfer](hom-three-activity-sequence-strategy.md)
 
 ## Examples
 -

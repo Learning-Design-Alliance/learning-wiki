@@ -50,3 +50,4 @@ Four-year pooled FCI results for 66 students across four cohorts (n = 11, 18, 18
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
 - [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — related
+- [FCI scores for items aligned with the comic intervention rose from pre-test to post-test, with normalized gain ⟨g⟩ ≈ 0.23, while non-intervention items rose from pre-test to post-test, with ⟨g⟩ ≈ 0.19, in one uncontrolled pre-post study](comics-intervention-items-gain-023-vs-019.md) — related

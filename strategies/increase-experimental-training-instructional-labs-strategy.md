@@ -51,6 +51,7 @@ The report recommends increasing opportunities for experimental skill developmen
 - [Embed communication and collaboration skills within QISE courses and programs](embed-professional-skills-in-qise-education-strategy.md)
 - [Prioritize discussion of the theory behind quantum hardware in QISE theory courses to prepare students for entry-level industry positions](prioritize-hardware-theory-in-qise-courses-strategy.md)
 - [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
+- [Use skills-focused instructional laboratories, including project-based and open-ended labs, to develop experimental skills aligned with quantum workforce needs](skills-focused-labs-for-qise-career-preparation.md)
 
 ## Examples
 -

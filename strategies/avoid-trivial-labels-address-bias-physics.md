@@ -52,6 +52,7 @@ The article advises instructors and advisors never to label problems students st
 - [Instructor practices to support women in physics: prevent isolation, recognize students, monitor social dynamics, and advocate for smaller classes and affinity groups](instructor-practices-support-women-physics-courses.md)
 - [Instructors and TAs should avoid propagating gender stereotypes and message that physics success comes from effort and deliberate practice](instructors-avoid-propagating-gender-stereotypes-strategy.md)
 - [Actively support student community formation through counterspaces, cohort-bonding, and affinity groups, with implicit bias training for advisors](counterspaces-cohort-bonding-inclusive-community.md)
+- [Intentional recruitment and retention efforts centering student assets and addressing stereotypes, especially in early introductory courses](intentional-recruitment-retention-physics-majors.md)
 
 ## Examples
 -

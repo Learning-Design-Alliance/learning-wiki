@@ -68,3 +68,4 @@ Study 3 replicates Study 2 with copy and paste enabled (69 subjects). The covari
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Adaptive web-based system treatment showed a small, statistically non-significant advantage over control on elementary algebra post-test scores (Hedges' g = .12)](adaptive-system-small-nonsignificant-algebra-posttest-effect.md) — related
+- [Two-person teams scored significantly higher on timed Python tasks when the teammate was the AI (Copilot) rather than a human, with a large effect](ai-teammate-higher-team-performance-score.md) — related

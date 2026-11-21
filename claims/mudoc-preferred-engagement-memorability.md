@@ -50,3 +50,6 @@ Within-subjects survey with 30 graduate students comparing MuDoC and text-only T
 - [Multimodal AI responses show no significant impact on problem-solving performance compared with text-only responses](mudoc-no-performance-impact.md) — related
 - [Navigation to source text and images increases perceived trustworthiness of AI responses by enabling verification](mudoc-trustworthiness-navigation.md) — related
 - [Solving the easier problem (INC) with the multimodal system produced more favorable engagement, memorability and confidence ratings than solving the harder problem (ANA) with it](problem-order-effect-mudoc-ratings.md) — related
+- [Document-grounded conversational AI with interleaved text-and-image responses (MuDoC) yields significantly higher post-test scores than a text-only conversational AI (TexDoC) in a visually rich STEM topic](mudoc-higher-posttest-than-texdoc.md) — related
+- [Only MuDoC maintained a significant advantage over DocSearch on the 'makes me think' measure, suggesting visuals help learners integrate two modalities](mudoc-only-significant-makes-me-think.md) — related
+- [No statistically significant differences in learning behaviors or system behavior between MuDoC and TexDoC, leaving response visuals as the likely driver of MuDoC's outcome advantage](mudoc-texdoc-no-behavioral-differences.md) — related

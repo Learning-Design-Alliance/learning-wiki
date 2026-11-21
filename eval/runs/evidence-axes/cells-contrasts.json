@@ -131630,5 +131630,369 @@
  "media-design\ttext+audio with video-description text\ttext+audio with raw video": {
   "label": "text+audio with video-description text vs text+audio with raw video",
   "treatment_is_a": true
+ },
+ "active-learning\tPOGIL-style activity\tlecture-based instruction": {
+  "label": "active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPhysics in the Public Square outreach event\tno activity comparator": {
+  "label": "public-square outreach activity vs no activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase analyses, debates, role-plays, and reflective writing\tnot stated": {
+  "label": "active-learning intervention vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\teducational comics intervention\tpre-intervention survey baseline": {
+  "label": "educational comics intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\teducational comics targeting selected physics domains\tnon-intervention-related FCI items": {
+  "label": "educational comics targeting selected domains vs non-targeted content",
+  "treatment_is_a": true
+ },
+ "active-learning\teducational comics with guided reading, group discussion, and contextualized activities\tpre-intervention baseline": {
+  "label": "educational comics intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on full-stack robotics course\tno comparison reported": {
+  "label": "active-learning intervention vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on low-cost experiments in a public square\tno activity comparator": {
+  "label": "public-square outreach activity vs no activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with active participation, real-time interaction, and gamified tools\tlecture-based traditional learning": {
+  "label": "active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with digital tools and active activities\ttraditional lecture-based learning": {
+  "label": "active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with digital tools, games, polls, and feedback\tlecture-based learning with notes and structured discussion": {
+  "label": "active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpublic-square activity with explanations and experiments\tno activity comparator": {
+  "label": "public-square outreach activity vs no activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tpublic-square activity with hands-on experiments\tno activity comparator": {
+  "label": "public-square outreach activity vs no activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam co-creation activity\tno comparison reported": {
+  "label": "active-learning intervention vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\ttypically worked with peers\ttypically worked alone": {
+  "label": "peer collaboration vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\twritten predictions before observation\tobservation without recording predictions first": {
+  "label": "prediction generation before observation vs observation without prior prediction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tenvironments supporting student autonomy\tcontrolling environments": {
+  "label": "autonomy-supportive environments vs controlling environments",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toption to choose Hybrid instruction in English and Leb-Lango\toption to choose English-only or Leb-Lango-only instruction": {
+  "label": "choice of hybrid instruction vs choice of single-language instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent agency with structured ownership of program elements\tformal coursework alone": {
+  "label": "student agency with structured ownership vs formal coursework alone",
+  "treatment_is_a": true
+ },
+ "case-comparison\tchecking resource B with resource A\tusing resource B without successful checking": {
+  "label": "successful checking vs unsuccessful checking",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tApptainer training with lectures and hands-on exercises\tpre-event familiarity before training": {
+  "label": "Apptainer instruction and practice vs pre-event familiarity",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTPR-MMF implicit-mechanics game\texplicit educational dialogue game": {
+  "label": "Explicit instruction vs implicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tTPR-MMF-based implicit-mechanics game\ttraditional explicit educational dialogue game": {
+  "label": "Explicit instruction vs implicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tdimensionless-resistance feature using VacOhms\tfamiliar Ohm units": {
+  "label": "Dimensionless-resistance notation vs familiar Ohm-unit notation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system convention and derivations\tscale midpoint of 3": {
+  "label": "Nu-system instruction vs no nu-system instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system derivations\tscale midpoint of 3": {
+  "label": "Nu-system instruction vs no nu-system instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system derivations after instruction\tbaseline SI wave-equation derivation before nu-system instruction": {
+  "label": "Post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system derivations after instruction\tscale midpoint of 3": {
+  "label": "Nu-system instruction vs no nu-system instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system dimensionless-resistance feature\tneutral or preference for familiar Ohm units": {
+  "label": "Dimensionless-resistance notation vs familiar Ohm-unit notation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system instruction\tscale midpoint of 3": {
+  "label": "Nu-system instruction vs no nu-system instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system lecture and reading guide\tbaseline before nu-system instruction": {
+  "label": "Nu-system instruction vs no nu-system instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnu-system wave-equation derivation after instruction\tSI wave-equation derivation at baseline": {
+  "label": "Post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction administration\tpre-instruction administration": {
+  "label": "Post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tdeferred AI assistance\ton-demand AI assistance": {
+  "label": "delayed vs immediate feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4o-generated feedback\tInsight instructor-verified feedback": {
+  "label": "instructor-verified feedback vs GPT-4o-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tHeteroMAD CEFR-aligned scores and feedback\tSelf-Consistency CEFR-aligned scores and feedback": {
+  "label": "HeteroMAD feedback vs Self-Consistency feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHeteroMAD CEFR-aligned scores and feedback\tWeek 2 baseline after Self-Consistency feedback": {
+  "label": "HeteroMAD feedback vs Self-Consistency-feedback baseline",
+  "treatment_is_a": true
+ },
+ "feedback-type\tInsight instructor-authored feedback\tGPT-4o-generated feedback": {
+  "label": "instructor-authored feedback vs GPT-4o-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tInsight instructor-verified feedback\tGPT-4o-generated feedback": {
+  "label": "instructor-verified feedback vs GPT-4o-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcorrecting every minor error\tprioritised feedback that distinguishes critical issues from minor ones": {
+  "label": "prioritised feedback vs correcting every minor error",
+  "treatment_is_a": false
+ },
+ "feedback-type\tcorrecting every minor error\tprioritised feedback that guides learners toward the most critical issues": {
+  "label": "prioritised feedback vs correcting every minor error",
+  "treatment_is_a": false
+ },
+ "feedback-type\tdefinitive diagnoses without appropriate uncertainty\tfeedback expressing appropriate uncertainty": {
+  "label": "feedback expressing appropriate uncertainty vs definitive diagnoses without appropriate uncertainty",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback highlighting particular rubric aspects\tfeedback highlighting other rubric aspects": {
+  "label": "feedback highlighting particular rubric aspects vs feedback highlighting other rubric aspects",
+  "treatment_is_a": true
+ },
+ "feedback-type\titerative formative feedback via Evaluate My Work\tmore directive, solution-revealing assistance": {
+  "label": "iterative formative feedback vs directive solution-revealing assistance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tjudge-guided feedback refinement\tinitial feedback before refinement": {
+  "label": "judge-guided feedback refinement vs initial feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tone judge-guided feedback refinement step\tinitial generated feedback": {
+  "label": "judge-guided feedback refinement vs initial generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tone judge-guided refinement step\tinitial feedback before refinement": {
+  "label": "judge-guided feedback refinement vs initial feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trubric component highlighted in feedback\trubric component not highlighted in feedback": {
+  "label": "rubric component highlighted in feedback vs rubric component not highlighted in feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tQ2 evidence-structuring temporal-pattern poll\tnon-target responses": {
+  "label": "evidence-structuring temporal-pattern polls vs non-target responses",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tQ3 evidence-structuring structural-classification poll\tnon-target pattern classifications": {
+  "label": "evidence-structuring structural-classification polls vs non-target pattern classifications",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfirst-time HRCF use\tno HRCF use": {
+  "label": "HRCF use vs no HRCF use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfirst-time HRCF use\tnon-HRCF course offering": {
+  "label": "HRCF use vs non-HRCF course offering",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfirst-time HRCF use in large-enrollment offerings (≥250 students)\tnon-HRCF offerings": {
+  "label": "HRCF use in large-enrollment offerings vs non-HRCF offerings",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlater staged evidence and causal-integration polls (Q2–Q4)\tinitial hypothesis-activation poll (Q1)": {
+  "label": "later staged evidence-and-causal-integration polls vs initial hypothesis-activation poll",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone additional prior term of HRCF use in courses under 250 enrollment\tone fewer prior term of HRCF use": {
+  "label": "more prior terms of HRCF use vs fewer prior terms",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trepeat HRCF use\tfirst-time HRCF use or no prior HRCF use": {
+  "label": "repeated HRCF use vs first-time or no prior HRCF use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trepeated HRCF use in large-enrollment offerings (≥250 students)\tofferings with no or fewer prior HRCF uses": {
+  "label": "repeated HRCF use in large-enrollment offerings vs no or fewer prior HRCF uses",
+  "treatment_is_a": true
+ },
+ "gamification\tQubitQuest mini-games\tpre-game questionnaire": {
+  "label": "Gamified mini-games vs pre-game questionnaire",
+  "treatment_is_a": true
+ },
+ "gamification\tTPR-MMF side-scrolling serious game “World + You - World”\tdialogue-driven serious game NeuroQuest": {
+  "label": "Side-scrolling serious game vs dialogue-driven serious game",
+  "treatment_is_a": true
+ },
+ "gamification\tinteractive learning tools\ttraditional learning": {
+  "label": "Interactive learning tools vs traditional learning",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based method-of-images tutorial\ttraditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based tutorial\ttraditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based tutorial with scaffolding\ttraditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\t2025 calendar deployment\t2024 calendar deployment": {
+  "label": "not applicable (no interleaving contrast)",
+  "treatment_is_a": false
+ },
+ "interleaving\t2025 calendar iteration\t2024 calendar iteration": {
+  "label": "not applicable (no interleaving contrast)",
+  "treatment_is_a": false
+ },
+ "interleaving\t2025 interleaved curriculum\t2024 blocked curriculum": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\t2025 interleaved curriculum\t2024 blocked-by-topic curriculum": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved theory and practice\tblocked conceptual and application chapters": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10th-grade boys\t10th-grade girls": {
+  "label": "boys vs girls",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tHeteroMAD feedback plus targeted spaced review and mastery-based progression\tHeteroMAD feedback without targeted review or mastery gating": {
+  "label": "Targeted spaced review with mastery-based progression vs feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tHeteroMAD feedback with targeted spaced review and mastery-gated progression\tHeteroMAD feedback alone without targeted review or mastery gating": {
+  "label": "Targeted spaced review with mastery-based progression vs feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with HeteroMAD feedback, targeted review, and mastery-based progression\tHeteroMAD feedback without targeted review or mastery-gated progression": {
+  "label": "Targeted review with mastery-based progression vs feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with HeteroMAD feedback, targeted review, and mastery-based progression\tSelf-Consistency feedback without targeted review or mastery-gated progression": {
+  "label": "HeteroMAD feedback with targeted review and mastery-based progression vs Self-Consistency feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with HeteroMAD, targeted review, spaced review, and mastery-gated progression\tHeteroMAD scoring and feedback without targeted review": {
+  "label": "HeteroMAD feedback with targeted and spaced review and mastery-gated progression vs HeteroMAD feedback without targeted review",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with HeteroMAD, targeted review, spaced review, and mastery-gated progression\tSelf-Consistency scoring and feedback without targeted review or mastery gating": {
+  "label": "HeteroMAD feedback with targeted and spaced review and mastery-gated progression vs Self-Consistency feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with HeteroMAD, targeted review, spaced review, and mastery-gated progression\tSelf-Consistency scoring and feedback without targeted review or mastery-gated progression": {
+  "label": "HeteroMAD feedback with targeted and spaced review and mastery-gated progression vs Self-Consistency feedback without targeted review or mastery-gated progression",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with targeted review and mastery-based progression\tHeteroMAD CEFR-aligned feedback without targeted review": {
+  "label": "Targeted review with mastery-based progression vs HeteroMAD feedback without targeted review",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with targeted review and mastery-based progression\tSelf-Consistency feedback without targeted review or mastery-gated progression": {
+  "label": "Targeted review with mastery-based progression vs Self-Consistency feedback without targeted review or mastery-gated progression",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with targeted review and mastery-based progression\tthe same cohort's Week 2 baseline before intervention": {
+  "label": "Targeted review with mastery-based progression vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with targeted review and mastery-gated progression\tHeteroMAD scoring and feedback without targeted review": {
+  "label": "Targeted review with mastery-gated progression vs HeteroMAD feedback without targeted review",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tLearning in Blocks with targeted review and mastery-gated progression\tSelf-Consistency scores and feedback without targeted review or mastery gating": {
+  "label": "Targeted review with mastery-gated progression vs Self-Consistency feedback without targeted review or mastery gating",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmicrocycle-based lectures and integrated activities\tno explicit comparison": {
+  "label": "Microcycle-based lectures and integrated activities vs no explicit comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tInfographics and reports\tPodcast audio": {
+  "label": "Infographics and reports vs podcast audio",
+  "treatment_is_a": true
+ },
+ "media-design\tanalogical reasoning, storytelling, and thought experiments\tinstruction without these analogical approaches": {
+  "label": "Analogical, story-based, and thought-experiment instruction vs instruction without these approaches",
+  "treatment_is_a": true
+ },
+ "media-design\tbuilding analogy and cartoon\torbitals, probability clouds, and hydrogen atom models": {
+  "label": "Building analogy and cartoon representations vs orbital, probability-cloud, and hydrogen-atom models",
+  "treatment_is_a": true
+ },
+ "media-design\tclassical analogies\tno classical analogies": {
+  "label": "Classical analogies vs no classical analogies",
+  "treatment_is_a": true
+ },
+ "media-design\tclassical intuition over-applied to quantum phenomena\tclassical intuition not over-applied": {
+  "label": "Over-applied classical intuition in quantum phenomena vs classical intuition not over-applied",
+  "treatment_is_a": true
+ },
+ "media-design\teducational comics in physics workshops\tpre-intervention FCI": {
+  "label": "Educational comics vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "media-design\teducational comics in physics workshops\tpre-intervention motivational survey": {
+  "label": "Educational comics vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "media-design\teducational comics in physics workshops\tpre-intervention negatively worded attitude survey": {
+  "label": "Educational comics vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "media-design\teducational comics in physics workshops\tpre-intervention survey": {
+  "label": "Educational comics vs pre-intervention baseline",
+  "treatment_is_a": true
  }
 }

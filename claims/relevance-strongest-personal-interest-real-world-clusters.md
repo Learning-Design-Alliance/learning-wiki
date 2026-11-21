@@ -57,3 +57,4 @@ Item-cluster analysis of the CLASS survey comparing relevance groups; the author
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
 - [Problem-solving-general favorability (PSGeneralFav) is the strongest and most significant CLASS predictor of change in TUG-K scores, while real-world connection and sensemaking variables are not significant](psgeneralfav-strongest-predictor-tug-k-change.md) — related
 - [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related
+- [Agreement increased on two negative relevance items (\"I find nothing interesting in Physics classes\"; \"For me, studying Physics is a waste of time\"), contrary to the overall pattern](negative-relevance-items-increased-comics-physics.md) — related

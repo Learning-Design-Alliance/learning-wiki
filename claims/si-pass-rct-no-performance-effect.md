@@ -60,3 +60,4 @@ Signs restored: the PDF's extracted text had lost its minus signs.
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — reports the opposite
 - [Students volunteering to participate had higher prior study results than non-participants, limiting generalizability](participant-selection-higher-prior-results.md) — reports the opposite
+- [POGIL-style and lecture-based instruction produced comparable Bayes' theorem final-exam performance in an introductory statistics quasi-experiment](pogil-lecture-comparable-bayes-exam-performance.md) — related

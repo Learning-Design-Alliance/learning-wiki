@@ -62,6 +62,7 @@ The article recommends positioning AI-assisted observation as a complement to, n
 - [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 - [Position AI writing-support systems as adjuncts to supervision and prompts for reflective dialogue rather than authoritative sources of truth](ai-writing-support-as-adjunct-to-supervision.md)
 - [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
+- [Use LLM grading for programmatic assessment and triage, not for unreviewed student-facing feedback](llm-grading-programmatic-assessment-triage.md)
 
 ## Examples
 -

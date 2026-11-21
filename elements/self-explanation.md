@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 19 studies (13 causal, 3 associational, 2 quant-synthesis, 1 review), `q1`–`q4` · 3 of 19 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 20 studies (14 causal, 3 associational, 2 quant-synthesis, 1 review), `q1`–`q4` · 4 of 20 report an effect size · 23 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -62,6 +62,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - [High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts](../claims/hp-students-score-higher-se-prompts.md) [~W]
 - [Restudy fostered surface-level knowledge compared to learning by digital explaining](../claims/restudy-fosters-surface-level-knowledge.md) [+W]
 - [A new form of self-explanation was observed in which students compare their own solution to the expert's example solution](../claims/comparative-self-explanation-new-form.md) [+W] — attached 2026-11-10 from Hausmann et al. (2006), which proposed "Andes-based problem-example alternation procedure with self-explanation prompting".
+- [Open-ended self-explanation with LLM feedback produces significantly higher-quality explanations than control on NEI transfer problems in calculus (β=+11.9 percentage points, p=.030, d=0.44).](../claims/llm-open-ended-self-explanation-nei-transfer-explanation-quality.md) [+M] — attached 2026-11-21 from Eason Chen et al. (2026), which proposed "LLM-supported open-ended self-explanation activity with color-coded iterative feedback and reference explanations"; tests this page's relationship.
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

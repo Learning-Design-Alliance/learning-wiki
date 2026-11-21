@@ -54,6 +54,8 @@ The article's future directions section recommends four research and development
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 - [Future course evolution: multimodal integration, agent-based systems, responsible AI, and industry partnerships](future-directions-multimodal-agents-responsible-ai.md)
 - [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
+- [Govern behavioural architecture in education at EU level through three mechanisms: portable inferred data, independent certification, and interoperability standards](eu-level-governance-behavioural-architecture.md)
+- [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
 
 ## Examples
 -

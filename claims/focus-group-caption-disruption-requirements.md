@@ -51,3 +51,4 @@ Qualitative online focus group with six native German speakers who discussed eig
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [Higher perceived cognitive load during IVR teaching is associated with worse visual attention performance on disruptions](cognitive-load-lower-visual-attention.md) — related
+- [No difference in cognitive load during experiments between groups with and without MDETs, and no evidence of distraction or overload](no-cognitive-load-difference-mdets.md) — related

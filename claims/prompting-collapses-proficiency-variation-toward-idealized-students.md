@@ -72,3 +72,4 @@ Essay-length distribution analysis on the test set (Qwen2.5-7B-Instruct, fold 1;
 - [GRPO-with-PAR gains over SFT transfer to independent evaluators never used during policy optimization](par-gains-transfer-to-independent-evaluators.md) — related
 - [Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation](sft-improves-proficiency-alignment-over-prompting.md) — related
 - [Supervised fine-tuning does not outperform zero-shot prompting on rubric score for math feedback generation, and ROUGE-L and BERTScore are unreliable estimates of feedback quality.](sft-ineffective-reference-metrics-unreliable.md) — related
+- [Doing Mathematics task accuracy remained low from pre-test to post-test in one single-group pre-post study with no comparison group involving few-shot prompting; the authors discussed central-tendency bias and shortcut learning](few-shot-fails-doing-mathematics-tasks.md) — related

@@ -43,6 +43,7 @@ The article recommends that persistence analytics move beyond detecting disengag
 
 - [Embed factor-aware guidance directly within analytics tools at the point of interpretation](embed-factor-aware-guidance-in-analytics-tools.md)
 - [Learning Dashboards](learning-dashboards.md)
+- [Move early-warning systems beyond aggregate LMS activity toward richer pedagogical and context-aware representations](richer-pedagogical-early-warning-representations.md)
 
 ## Examples
 -

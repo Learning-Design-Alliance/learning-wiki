@@ -79,3 +79,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [Students report increased clarity about appropriate AI use and its learning effects after the scenario-ranking activity](ai-scenario-activity-student-clarity-reflections.md) — related
 - [Almost-always ChatGPT users' reliance appears habitual, which the authors flag as potential dependency](habitual-reliance-almost-always-users.md) — related
 - [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related
+- [Qualitative: RL-condition participants valued initial failure before AI access, while Always-condition participants reported laziness and dependence](qualitative-themes-initial-failure-vs-dependence.md) — related

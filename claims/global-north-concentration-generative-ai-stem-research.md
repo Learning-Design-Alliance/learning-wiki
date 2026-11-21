@@ -84,3 +84,5 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related
 - [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — related
 - [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim
+- [A majority (61%) of LEAPS participants who pursued a PhD did so in a different country than their pre-LEAPS affiliation](leaps-participants-moved-country-for-phd.md) — related
+- [Access to quantum education remains uneven, concentrated in North America and Europe with limited access elsewhere](quantum-education-inequitable-global-access.md) — a narrower finding that bears on this claim

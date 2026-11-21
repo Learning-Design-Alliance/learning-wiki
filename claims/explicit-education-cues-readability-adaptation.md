@@ -72,3 +72,4 @@ Cross-condition comparison of the QA readability results: under implicit conditi
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [The EBMQ is readable at Flesch reading ease 61.2, within the average-document range](ebmq-flesch-reading-ease-612.md) — related
 - [Participants misjudge readability, treating more readable texts as human-written; feedback partially corrects this misconception](readability-misattribution-ai-texts.md) — related
+- [LLM chatbots adapt response complexity and length to student grade level but show no significant sensitivity to gender, race, or state cues](grade-level-adaptation-minimal-demographic-sensitivity.md) — related

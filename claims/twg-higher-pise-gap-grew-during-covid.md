@@ -48,3 +48,5 @@ Comparison of PISE survey scores between TWA and TWG students before and during 
 - [Students who collaborated during COVID had higher grades, PISE, and physics self-efficacy than pre-COVID TWG students, while TWA students improved only in PISE](covid-twg-students-higher-than-pre-covid-twg-peers.md) — related
 - [No statistically significant difference in physics self-efficacy between TWA and TWG students before or during the pandemic](no-self-efficacy-difference-twa-twg.md) — related
 - [Men reported higher PISE and higher physics self-efficacy than women across all TWA/TWG groups and both periods, with the self-efficacy gap widest for TWA students during COVID (d ~ 0.66)](men-higher-pise-and-self-efficacy-across-groups.md) — related
+- [Physics self-efficacy is a strong predictor of peer influence on self-efficacy (PISE)](self-efficacy-strong-predictor-of-pise.md) — related
+- [Students who typically worked in groups reported higher peer influence on self-efficacy than those working alone before and during COVID-19](twg-higher-pise-than-twa-both-periods.md) — related

@@ -72,3 +72,4 @@ BERTScore F1 regression using the model default as reference in the QA task: res
 - [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — related
 - [Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation](explicit-education-cues-readability-adaptation.md) — related
 - [Longer APSS responses received higher scores, particularly for the scenario-application question (r = 0.70)](response-length-score-correlation-apss.md) — related
+- [LLM chatbots adapt response complexity and length to student grade level but show no significant sensitivity to gender, race, or state cues](grade-level-adaptation-minimal-demographic-sensitivity.md) — related

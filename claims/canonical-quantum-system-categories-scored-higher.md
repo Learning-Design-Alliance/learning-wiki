@@ -50,3 +50,4 @@ Scoring analysis of the categorization task, in which four of the 20 problems be
 - [Physics faculty members' categorizations of quantum mechanics problems were rated higher overall than those of undergraduate students by faculty evaluators](faculty-qm-categorizations-rated-higher-than-students.md) — related
 - [Faculty evaluators found scoring others' quantum mechanics categorizations very challenging and sometimes preferred others' categorizations to their own](faculty-scoring-qm-categorizations-challenging.md) — related
 - [Abstract operator methods produce better student reactions than the series solution of the harmonic oscillator](operator-method-better-student-reactions-than-series-solution.md) — related
+- [Common introductory strategies for quantum numbers (orbitals, probability clouds, hydrogen atom) are expert representations not optimized for novice sense-making](expert-representations-quantum-numbers-novice-traps.md) — related

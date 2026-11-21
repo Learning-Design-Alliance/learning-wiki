@@ -49,3 +49,4 @@ A small trial reported in the authors' discussion: ten real student essays and C
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — reports the opposite
+- [AI-text detectors are unreliable: none of 14 tested tools reached 80% accuracy, and OpenAI shut down its own classifier over a 26% true positive rate](ai-detectors-unreliable-bias-nonnative-writers.md) — reports the opposite

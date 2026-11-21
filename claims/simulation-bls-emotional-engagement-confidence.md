@@ -70,3 +70,4 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](physics-problems-build-confidence.md) — related
 - [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related
 - [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — related
+- [Students described learning to think like a physicist as a gradual, ongoing process built through repeated practice, curiosity and the social environment, without a fixed threshold](ltp-gradual-practice-curiosity-social.md) — a narrower finding that bears on this claim

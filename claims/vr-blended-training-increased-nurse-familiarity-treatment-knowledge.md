@@ -52,3 +52,4 @@ A pre- and post-intervention comparison study of 26 primary nurses in the oral c
 - [Treatment-decision knowledge scores increased progressively across the first, second, and third bedside assignments](knowledge-scores-increased-across-successive-bedside-assignments.md) — related
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
 - [Specific knowledge items showed very low correct-response rates, including effects of high-dose therapy on child development (17.2%) and pre-radiotherapy oral care benefits (15.8%)](lowest-scoring-knowledge-items-cancer-therapy.md) — related
+- [Post-training surveys showed a visible increase in participants' self-reported familiarity with core Apptainer commands](post-survey-familiarity-increase.md) — related

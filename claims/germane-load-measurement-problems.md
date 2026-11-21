@@ -77,3 +77,4 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 - [Subjective difficulty ratings differentiate high- from low-germane-load students but not redundant from non-redundant conditions](difficulty-rating-sensitive-to-germane-load.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
 - [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related
+- [Germane load showed a degree of negative correlation with total score and CA2, suggesting assessment policies may not reward deep reflection](germane-load-negative-correlation-ca2.md) — related

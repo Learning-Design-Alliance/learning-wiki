@@ -46,3 +46,5 @@ Analysis of which broadcast (English at 12 PM vs Leb Lango at 2 PM) each languag
 
 ## Related Claims
 - [Leb Lango learners tuned in to live radio broadcasts at higher rates than English learners, while engagement declined over time equally across language groups](local-language-higher-live-broadcast-engagement.md) — related
+- [Some log-identified single-language learners used hidden bilingual strategies, listening in Leb-Lango while responding in English](hidden-bilingual-strategies-modality-split.md) — related
+- [Hybrid learners reported reciprocal language complexities: difficult English terminology and limited Leb-Lango literacy and terminology](hybrid-learners-reciprocal-language-complexities.md) — related

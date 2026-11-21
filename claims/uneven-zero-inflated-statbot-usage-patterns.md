@@ -88,3 +88,4 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related
 - [Higher-engagement user quartiles show greater chat reliance, with Q3 users showing the highest chat reliance and strong success rates](engagement-quartiles-chat-reliance.md) — related
 - [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related
+- [Despite substantial changes in GenAI adoption and interaction patterns, weekly assignment scores and final grades showed no statistically significant differences across cohorts and remained broadly comparable to the pre-GenAI baseline](assignment-and-final-grades-stable-across-cohorts.md) — related

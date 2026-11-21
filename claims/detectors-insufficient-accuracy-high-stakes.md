@@ -83,3 +83,4 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [Immediate per-trial feedback improves accuracy in distinguishing human-written from AI-generated texts](feedback-improves-ai-text-detection-accuracy.md) — related
 - [GPTZero fails entirely on ambiguous responses, scoring an F1 of 0.00 on the uncertain class in the in-domain test set](gptzero-fails-uncertain-class.md) — a narrower finding that bears on this claim
 - [GPTZero misclassified 8 of 50 human-written essays as AI, a 16% false positive rate](gptzero-false-positives-human-essays-16-percent.md) — a narrower finding that bears on this claim
+- [AI-text detectors are unreliable: none of 14 tested tools reached 80% accuracy, and OpenAI shut down its own classifier over a 26% true positive rate](ai-detectors-unreliable-bias-nonnative-writers.md) — possibly the same claim (merge candidate)

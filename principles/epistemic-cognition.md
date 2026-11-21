@@ -191,6 +191,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - Physics learners weighing competing motion models using a shared evidence set.
 - Biology learners comparing causal explanations for a phenomenon and revising their reasoning.
 - [Teach students careful reasoning about data, using the flawed causal claims in physics-recruitment materials as an object lesson](../strategies/careful-reasoning-about-data-lessons-strategy.md)
+- [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](../strategies/assessment-formats-evaluate-reasoning-not-answers.md)
 
 ### Illustrative
 

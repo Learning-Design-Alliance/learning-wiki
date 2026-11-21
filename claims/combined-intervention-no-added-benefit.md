@@ -48,3 +48,4 @@ One-way ANOVA across four groups on three dependent variables. G3 scored signifi
 ## Related Claims
 - [Distributed pair programming significantly lowers programming skills and shows no benefit for enjoyment or intention to learn](distributed-pair-programming-lowers-programming-skills.md) — related
 - [Online peer-facilitated learning significantly improves programming skills, enjoyment of learning, and intention to learn compared to non-peer-facilitated learning](peer-facilitated-learning-improves-programming-outcomes.md) — related
+- [Learning post-test scores differed by class group (ηt² = 0.10) and by learning pre-test (ηt² = 0.06), with no significant effects of gender or other predictors](class-group-and-prior-knowledge-predict-learning-post-test.md) — related

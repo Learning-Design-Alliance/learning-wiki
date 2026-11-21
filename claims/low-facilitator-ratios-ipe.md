@@ -70,3 +70,4 @@ Review synthesis noting variability in facilitation models. The review reports o
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related
+- [Cohort caps and low student-to-facilitator ratios are used to guarantee hands-on equipment time](useqip-cohort-cap-hands-on-time.md) — related

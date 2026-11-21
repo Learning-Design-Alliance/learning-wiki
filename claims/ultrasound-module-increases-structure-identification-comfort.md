@@ -47,3 +47,4 @@ Pre/post Likert survey of interns after the orientation ultrasound module; 61 (8
 ## Related Claims
 - [The largest comfort improvements were for internal jugular vein and thyroid, structures practiced on resident volunteers](largest-gains-internal-jugular-vein-thyroid-volunteers.md) — related
 - [Internal medicine residents' self-reported confidence in understanding ultrasound principles rose from pre-test to post-test after a simulation-based ultrasound training module, in one uncontrolled pre-post study](ultrasound-module-increases-confidence-principles.md) — related
+- [Outreach participants showed significant pre/post gains in data-analysis comfort and AI explanation confidence with large effect sizes (r = .80 and .84, n = 10 matched pairs)](self-efficacy-gains-outreach-workshop.md) — related

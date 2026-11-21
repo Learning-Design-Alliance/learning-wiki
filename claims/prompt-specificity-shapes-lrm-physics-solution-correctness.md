@@ -58,3 +58,4 @@ Phase I analysis of o4-mini outputs to three prompt variants (five submissions e
 - [Priming with an advanced prompt led Claude and ChatGPT (GPT-4 with Wolfram plugin) to produce completely correct annotated general solutions to the PhO problem](priming-yields-correct-general-solutions.md) — related
 - [Assessments more resistant to ChatGPT are open-ended, involve images or student-specific outputs, or do not specify expected output in detail](assessment-features-resistant-to-chatgpt.md) — related
 - [Prompt quality was significantly correlated with the effectiveness of CodeTutor's responses](prompt-quality-correlates-response-effectiveness.md) — related
+- [ChatGPT's Data Analysis plugin performed competently on well-specified computational tasks but yielded mediocre results overall, with failure modes clustered around judgment](chatgpt-data-analysis-plugin-competent-routine-mediocre-overall.md) — related

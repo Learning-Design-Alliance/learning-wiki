@@ -50,3 +50,4 @@ A randomized controlled experiment with 72 Master's students in a data visualiza
 - [Higher performing students wrote more usable hints](course-performance-hint-utility.md) — related
 - [Hints written for reflection-1 had significantly higher Utility than those written for reflection-2](reflection-one-higher-utility.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
+- [Deferred AI assistance leads students to write higher-quality hints than writing independently or with on-demand AI assistance](deferred-ai-assistance-higher-hint-quality.md) — related

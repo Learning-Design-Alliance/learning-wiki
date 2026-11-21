@@ -69,3 +69,4 @@ Simple regression without covariates, with regression dilution bias correction r
 - [K-12 students' absolute error rate on teacher-assigned mathematics problem sets in Bettermarks was lower during the 2020 school shutdown than in the same period of 2019](lower-absolute-error-rate-during-shutdown-bettermarks.md) — related
 - [Teachers did not assign less difficult mathematics problem sets during the 2020 shutdown; difficulty did not differ significantly between time windows](no-difference-problem-set-difficulty-between-time-windows.md) — related
 - [More repetitions and more total assignments on a problem set led to lower absolute and relative error rates](repetitions-and-assignments-lower-error-rates.md) — related
+- [Stronger teammates showed a marginally significant absolute retest decrement for AI-learned tasks, while weaker teammates' decrement was not significant](stronger-teammates-retest-decrement-ai-tasks.md) — related

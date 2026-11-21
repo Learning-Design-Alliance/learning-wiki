@@ -60,6 +60,7 @@ The article recommends that interventions to strengthen students' sense of coher
 - [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
 - [Integrate data science as a tool that enhances the existing physics curriculum rather than replacing it](data-science-as-enhancing-tool-not-replacement.md)
 - [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
+- [Develop modular quantum sensing curricular resources that integrate into existing undergraduate quantum-related courses](modular-quantum-sensing-curricular-resources.md)
 
 ## Examples
 -

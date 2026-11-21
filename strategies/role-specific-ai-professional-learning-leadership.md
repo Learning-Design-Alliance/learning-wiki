@@ -57,6 +57,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 - [Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics](adopt-innovative-models-pd-math-statistics.md)
 - [Large science collaborations can support researcher EPO engagement via shared repositories, dedicated funding, infrastructure credit, dedicated staff, and communication training](collaboration-support-for-epo-engagement.md)
+- [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
 
 ## Examples
 -

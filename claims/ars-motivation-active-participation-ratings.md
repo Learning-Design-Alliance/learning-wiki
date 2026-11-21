@@ -46,3 +46,4 @@ Evaluation survey with 18 questions on a 6-point Likert scale administered after
 
 ## Related Claims
 - [Peer competition and focus on the activity were the most highly rated engagement aspects of gamified TP ARS games, with most flow-related prompts endorsed by at least 85% of respondents.](peer-competition-focus-top-engagement-aspects.md) — related
+- [Students enjoyed the first day's microcycle lectures and activities (lecture ratings 3.71–4.42 on a 5-point scale), but second-day competition participants were neutral on feeling motivated to complete challenges](quantum-hackathon-enjoyment-motivation-ratings.md) — related

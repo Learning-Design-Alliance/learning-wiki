@@ -53,3 +53,4 @@ Planned comparison between the problematizing and structuring conditions on the 
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related
 - [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](scaffolds-increase-metacognitive-activities-equally.md) — reports the opposite
 - [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — related
+- [A between-groups study with 173 pharmacy technician apprentices comparing structuring, problematizing, and hybrid scaffolding was conducted in January 2026, with results under analysis](pharmasim-between-groups-study-173-apprentices.md) — related

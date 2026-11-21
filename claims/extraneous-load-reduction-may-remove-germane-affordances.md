@@ -58,3 +58,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)](worked-examples-increase-germane-cl-special-issue.md) — related
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related
 - [Self-constructed representations can be easier for students to use effectively than externally provided representations](self-constructed-beats-provided-representations.md) — related
+- [Text-only conversational AI can create a fluency effect: reduced extraneous load without added germane load inflates perceived understanding without improving learning outcomes](fluency-effect-illusion-of-learning-text-only-ai.md) — related

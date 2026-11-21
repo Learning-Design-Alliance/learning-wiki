@@ -52,3 +52,4 @@ Likert survey of 188 fourth-year medical students after the 4-week protocol writ
 - [Collaborative research protocol writing enhanced medical students' team working skills, as perceived by participants](protocol-writing-enhanced-teamwork-perceptions.md) — related
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
+- [Students generally perceived the hint-writing tasks positively as opportunities to practice debugging and critical thinking, but perceptions diverged from observed outcomes](hint-writing-positive-perceptions-outcome-mismatch.md) — related

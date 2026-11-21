@@ -56,6 +56,7 @@ The article recommends classroom interventions as one way to improve the learnin
 - [Use targeted randomized interventions on perceived recognition, self-efficacy, and interest, combined via meta-analysis, to distinguish statistically equivalent SEM models](experiments-distinguish-equivalent-sem-models.md)
 - [Use introductory physics courses as a venue for improving calculus fluency and transfer skills, with attention to self-efficacy effects on women](calculus-emphasis-introductory-physics-strategy.md)
 - [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Examples
 -

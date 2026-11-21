@@ -48,3 +48,4 @@ Authors' interpretive comparison in the Discussion mapping their survey's umbrel
 - [Core Qise Topics Covered In 80 Percent Of Intro Courses](core-qise-topics-covered-in-80-percent-of-intro-courses.md)
 - [A subset of QISE topics assessed in at least 80% of introductory courses (marked in Table 1) is compiled as a starting list for developing a research-based postsecondary QISE assessment](assessable-qise-topics-for-assessment-development.md) — related
 - [Physical implementations of quantum computing was covered in 71% of introductory QISE courses, a lower percentage than any comparable umbrella topic](physical-implementations-lowest-umbrella-coverage.md) — related
+- [A preliminary expert-consulted list of core quantum computing concepts comprises ten concepts, with entanglement and superposition mentioned by the most experts](preliminary-quantum-core-concept-list.md) — related

@@ -48,3 +48,4 @@ Anonymous pre/post surveys of Astro 1L students in Spring 2009 (without inquiry)
 - [No statistically significant difference between inquiry and pre-inquiry semesters on survey constructs, with only two inquiry activities among 18 labs](no-semester-difference-inquiry-survey-outcomes.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
 - [Content knowledge increased significantly across the semester in both classroom types, with the Traditional section showing greater gains](content-knowledge-gains-both-sections.md) — related
+- [Within both lab conditions, scores rose from pre-test to post-test on all five constructs, with the largest Cohen's d for self-efficacy (d > 0.8)](prepost-gains-all-constructs-both-labs.md) — related

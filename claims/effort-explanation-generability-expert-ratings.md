@@ -71,3 +71,4 @@ Expert rating of how readily learners can reproduce each representation; after a
 - [Qubit representations differ strongly in colour dependence: the Qake model is rated highly colour dependent, the Bloch sphere colour independent](qubit-representations-colour-dependence-differences.md) — related
 - [Pairs of qubit representations with the same dimensionality receive the highest expert ratings for overlap/redundancy](same-dimension-pairs-highest-overlap-redundancy.md) — related
 - [Type of visual qubit representation (Bloch sphere vs. Quantum Bead) has no significant effect on post-test conceptual learning outcomes in secondary students](qubit-representation-no-posttest-outcome-effect.md) — related
+- [The Bloch sphere mini-game ranked highest for preference, teaching effectiveness and motivation, while quantum circuits ranked lowest across all criteria](qubitquest-mini-game-rankings.md) — related

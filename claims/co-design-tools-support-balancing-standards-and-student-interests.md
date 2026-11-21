@@ -60,3 +60,4 @@ This is a qualitative case study of a single, well-resourced co-design partnersh
 - [Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences](student-hat-planning-tools-support-sensemaking.md) — related
 - [Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity](reflection-stakeholder-perspectives-two-thirds.md) — related
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
+- [The co-designing teacher reported that the BFS module fit well within the health science unit and supported both science and AI learning outcomes](teacher-interview-curriculum-fit.md) — related

@@ -49,3 +49,4 @@ In the same experiment, aggregated acceptance means were 4.12 (control), 4.27 (t
 - [The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection](disclosure-format-no-effect-confidence.md) — related
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
 - [Students believe private companies neither have nor should have access to their educational data](students-oppose-private-company-data-access.md) — related
+- [Between-session acceptance profiles were statistically indistinguishable across the three workshops](between-session-acceptance-indistinguishable.md) — related

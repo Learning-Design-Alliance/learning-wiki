@@ -46,3 +46,4 @@ Descriptive comparison of homework scores across guidance conditions in the clas
 - [Structured guidance strategies (G1, G3, G4) reduce unrelated student queries to an LLM tutor, while example-based instruction increases them](structured-guidance-reduces-unrelated-llm-queries.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — related
+- [Learning post-test scores differed by class group (ηt² = 0.10) and by learning pre-test (ηt² = 0.06), with no significant effects of gender or other predictors](class-group-and-prior-knowledge-predict-learning-post-test.md) — related

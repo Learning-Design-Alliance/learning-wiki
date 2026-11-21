@@ -58,3 +58,4 @@ Mann–Whitney U comparison of post-intervention perception questionnaire scores
 - [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related
 - [No statistical differences were found across feedback methods in survey results for clarity, perceived utility, and skill building](no-statistical-difference-across-feedback-methods.md) — related
 - [Students rate AI-generated and student-generated learning resources as statistically equivalent in code correctness, explanation correctness and helpfulness after blind peer review](ai-resources-rated-equivalent-to-student-resources.md) — related
+- [The AI-supported group rated all six perception metrics more positively, but no difference was significant after multiple-comparison correction](perception-advantage-non-significant.md) — related

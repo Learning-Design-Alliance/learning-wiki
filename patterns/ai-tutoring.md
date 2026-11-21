@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 450 claims (200 for, 193 mixed, 57 against) · 310 studies (126 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 67 of 310 report an effect size · 433 claims rest on one study
+> **Evidence** · 452 claims (201 for, 194 mixed, 57 against) · 311 studies (127 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 68 of 311 report an effect size · 435 claims rest on one study
 
 ## Description and scope
 
@@ -322,6 +322,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Earlier access to GPTutor was associated with higher homework scores but this benefit did not transfer to exam scores](../claims/gptutor-earlier-access-homework-not-exam.md) [~M] — attached 2026-11-21 from Chen et al. (2026), which proposed "LLM integration in proof learning should move beyond generic chat interfaces toward designs that anchor feedback in student work"; tests this page's relationship.
 - [Agent pedagogical role shapes engagement in learning-by-explaining: Tutee and Challenger roles elicit longer explanations, and the Tutee role drives more frequent and longer material review than the Peer role](../claims/agent-role-shapes-explanation-engagement.md) [+W] — attached 2026-11-21 from Zhengtao Xu et al. (2026), which proposed "Deploy the right agent role for the right pedagogical goal and learning phase rather than searching for a single best agent".
 - [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](../claims/agent-role-experience-tradeoffs.md) [~W] — attached 2026-11-21 from Zhengtao Xu et al. (2026), which proposed "Deploy the right agent role for the right pedagogical goal and learning phase rather than searching for a single best agent".
+- [Open-ended self-explanation with LLM feedback produces significantly higher-quality explanations than control on NEI transfer problems in calculus (β=+11.9 percentage points, p=.030, d=0.44).](../claims/llm-open-ended-self-explanation-nei-transfer-explanation-quality.md) [+W] — attached 2026-11-21 from Eason Chen et al. (2026), which proposed "When total practice time is fixed, use open-ended self-explanation with adaptive LLM feedback to trade practice volume for deeper reasoning per problem.".
+- [Under fixed 60-minute practice time, the open-ended condition completed roughly one-quarter as many problems as control (16.9 vs. 58.9) yet showed similar learning gains (+9.3% vs. +9.4%).](../claims/fixed-time-fewer-problems-similar-gains.md) [~W] — attached 2026-11-21 from Eason Chen et al. (2026), which proposed "When total practice time is fixed, use open-ended self-explanation with adaptive LLM feedback to trade practice volume for deeper reasoning per problem.".
 
 ## Illustrative design instance and observation record
 

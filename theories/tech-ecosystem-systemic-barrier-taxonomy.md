@@ -52,6 +52,7 @@ The scan organizes barriers to Black learners' and workers' technology career en
 
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](../strategies/three-strategic-actions-tech-equity.md)
 - [Co-designed recommendations for education/training providers: partnerships, wrap-around supports, and equitable recruitment](../strategies/provider-codesigned-tech-pathway-supports.md)
+- [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](../strategies/quantum-education-ecosystem-future-directions.md)
 
 ## Key Sources
 - Carter, B., Shah, Z., Tinsley, B., LeGrand-Dunn, J., Luke Luna, C. (2023, August). Understanding the supports and skills that enable successful pathways for Black learners and workers into non-four-year degree technology careers: A landscape scan. Digital Promise. https://doi.org/10.51388/20.500.12265/189

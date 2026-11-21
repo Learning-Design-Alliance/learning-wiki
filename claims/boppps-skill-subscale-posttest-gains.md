@@ -54,3 +54,4 @@ ANCOVA with post-test scores as dependent variables and pre-test scores as covar
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [Traditionally taught control students showed no significant pre-to-post gains in patient preparation or drug preparation skills](control-group-limited-skill-gains.md) — related
 - [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](mind-model-outperforms-addie-learning-outcomes.md) — related
+- [Interactive learning students significantly outperformed traditional learning students on the post-test after adjusting for pre-test scores](interactive-posttest-outperforms-traditional.md) — related

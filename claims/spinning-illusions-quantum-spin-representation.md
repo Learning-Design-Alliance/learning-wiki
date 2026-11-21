@@ -47,3 +47,4 @@ Design argument from the spin section: the illusion of movement arises from a pa
 ## Related Claims
 - [Bi-stable drawings provide a point-by-point correspondence for core quantum concepts including superposition, collapse, measurement and orthogonality](bi-stable-correspondence-quantum-concepts.md) — related
 - [Quantum physics instructors report recurring student misconceptions including faster-than-light entanglement, spin as literal rotation, and conscious-observer collapse](instructor-reported-quantum-misconceptions.md) — related
+- [Analogical reasoning aids initial quantum comprehension for young students and non-specialists, but over-applied classical intuition risks misconceptions](quantum-analogies-aid-comprehension-risk-misconceptions.md) — a broader claim this one bears on

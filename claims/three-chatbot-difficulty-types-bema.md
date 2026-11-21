@@ -52,3 +52,5 @@ Qualitative coding of 420 ChatGPT-4o responses on 14 below-average items (3%–6
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
+- [LLM failures on the CRCI stem predominantly from visual misinterpretation rather than deficits in physics knowledge](llm-crcl-errors-predominantly-visual.md) — related
+- [Earlier LLM generations failed spatial-geometry steps in Electromagnetism, such as deducing induced-current direction with the right-hand rule](llm-spatial-geometry-em-bottleneck.md) — related

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 485 claims (317 show a difference, 117 mixed, 51 no difference) · 349 studies (134 associational, 113 causal, 42 review, 17 qualitative, 16 theoretical, 14 quant-synthesis, 13 design), `q1`–`q4` · 92 of 349 report an effect size · 473 claims rest on one study
+> **Evidence** · 486 claims (318 show a difference, 117 mixed, 51 no difference) · 350 studies (134 associational, 113 causal, 42 review, 17 qualitative, 16 theoretical, 14 quant-synthesis, 14 design), `q1`–`q4` · 92 of 350 report an effect size · 474 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -535,6 +535,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Autonomy does not amplify the belonging–persistence relationship; low-autonomy students show a steeper belonging–intent-to-persist slope, suggesting a compensatory pattern](../claims/autonomy-compensatory-sb-ip.md) [~M] — an instructional effect differs with it
 - [Most Pathways participants retained STEM career interest, with 15 of 45 students indicating interest in a QIS-related career](../claims/pathways-stem-retention-15-of-45-qis-interest.md) [+M] — measured as an outcome of the instruction studied
 - [DEC improves grade prediction beyond engagement (ΔR² = 7.8%), and DECI moderates the engagement–grade relationship, with the engagement effect reduced for high-DECI students](../claims/dec-moderates-engagement-grade-effect.md) [+M] — an instructional effect differs with it
+- [The mini-game participants played most was typically the one they rated most motivating, suggesting a motivation–engagement relationship](../claims/qubitquest-motivation-engagement-relationship.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

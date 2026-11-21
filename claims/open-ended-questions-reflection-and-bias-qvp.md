@@ -50,3 +50,4 @@ In the think-aloud interviews, students valued free-text opportunities for "deep
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Undergraduate nursing students perceived the QVP as clear, well-constructed, and easy to understand](qvp-perceived-clear-well-constructed-nursing-students.md) — related
 - [Written responses tracked Likert scores less closely after the intervention, reflecting greater nuance available in written responses](astrobites-consistency-likert-written-divergence.md) — related
+- [Students underreport their own LLM use on graded assignments, reporting substantially lower personal use than the use they attribute to peers](students-underreport-llm-use-graded-assignments.md) — related

@@ -65,6 +65,7 @@ Translanguaging reframes home languages as an asset rather than a deficit, which
 - [Accessible syntax](accessible_syntax.md) — complements translanguaging by lowering the linguistic barrier of English input
 - [Address mother tongue interference](address_mother_tongue_interference.md) — the deficit-framed counterpart; translanguaging reframes the same phenomenon as repertoire use
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
+- [Offer a flexible primary language of instruction with a secondary support language in multilingual EdTech](primary-language-secondary-support-multilingual-edtech.md)
 
 ## Examples
 - **The CUNY-NYSIEB project** (City University of New York) — a New York State initiative that helped schools adopt translanguaging pedagogies, including bilingual co-drafting and multilingual writing centers. https://www.cuny-nysieb.org

@@ -46,6 +46,7 @@ Because longer weekly training duration was positively correlated with students'
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
 
 ## Examples
 -

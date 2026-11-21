@@ -58,3 +58,4 @@ The article's investigations show "students do not auto- matically transfer the 
 - [Schrödinger equation (98%) and three-dimensional quantum mechanics (94%) are the most taught themes; the Stern-Gerlach experiment appears in only 28% of curricula](quantum-curriculum-themes-sge-rare.md) — related
 - [Quantum information textbooks based on finite-dimensional Hilbert spaces were more accessible to a non-physicist learner than standard wave-mechanics textbooks](finite-dimensional-textbooks-non-physicists.md) — related
 - [BERTopic clustering of September student-chatbot messages yielded nine coherent topic clusters, including relativistic energy confusion and quantum transition difficulties](bertopic-september-nine-clusters-misconceptions.md) — related
+- [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related

@@ -70,3 +70,4 @@ Mann-Whitney U test on the Pressure/Tension dimension in the same quasi-experime
 - [The sports education model raises students' interest/enjoyment in physical education lessons more than the direct teaching model](sem-raises-interest-enjoyment-over-direct-teaching.md) — related
 - [The sports education model raises students' value/benefit and effort/importance attitudes more than the direct teaching model](sem-raises-value-benefit-and-effort-importance.md) — related
 - [Webinar training induces more perceived pressure/tension than learning-platform training, while perceived competence is equal](webinar-more-pressure-equal-competence.md) — reports the opposite
+- [No significant group differences emerged on IMI effort/importance or pressure/tension after a single 20-minute play session](tpr-mmf-no-difference-effort-tension.md) — related

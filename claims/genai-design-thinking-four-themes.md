@@ -69,3 +69,4 @@ Qualitative thematic analysis of 112 student reflections from the 12-week course
 - [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — possibly the same claim (merge candidate)
 - [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](ai-use-transition-routine-to-innovation.md) — related
 - [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related
+- [Qualitative themes converged with the quantitative profile on usefulness and enthusiasm but diverged on output quality, surfacing a reliability-sceptical minority](qualitative-divergence-output-quality-reliability-sceptics.md) — related

@@ -49,6 +49,7 @@ Based on the finding that agreeing with the gender stereotype correlates with de
 ## Related Strategies
 
 - [Instructors and TAs should avoid propagating gender stereotypes and message that physics success comes from effort and deliberate practice](instructors-avoid-propagating-gender-stereotypes-strategy.md)
+- [Intentional recruitment and retention efforts centering student assets and addressing stereotypes, especially in early introductory courses](intentional-recruitment-retention-physics-majors.md)
 
 ## Examples
 -

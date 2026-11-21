@@ -53,3 +53,4 @@ Theoretical argument in the review's self-regulation section, building on the mo
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
 - [A metacognitive awareness-raising program improves the repair fluency of TEFL students' task-based oral output](metacognitive-awareness-improves-repair-fluency.md) — related
+- [GenAI raised learners' confidence more than live tutoring while producing the worst learning outcomes, which the authors interpret as a metacognition failure extending to advanced CS courses](genai-confidence-outcome-mismatch-metacognition-cs2.md) — a narrower finding that bears on this claim

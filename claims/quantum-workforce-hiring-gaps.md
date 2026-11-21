@@ -60,3 +60,4 @@ Hiring-challenge data from the interview study: 33% of companies found it hard t
 - [Quantum industry representatives widely report talent scarcity as a major workforce development challenge](qt-industry-talent-scarcity.md) — a broader claim this one bears on
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related
 - [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](higher-expertise-roles-specialization.md) — related
+- [The QISE workforce gap is concentrated in the quantum-proficient tier, where graduate supply falls furthest below projected demand](workforce-gap-concentrated-quantum-proficient-tier.md) — related

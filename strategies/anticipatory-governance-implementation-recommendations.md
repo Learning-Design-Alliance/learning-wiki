@@ -61,6 +61,7 @@ The review's practical recommendations translate its findings into implementable
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
 - [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
+- [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
 
 ## Examples
 -

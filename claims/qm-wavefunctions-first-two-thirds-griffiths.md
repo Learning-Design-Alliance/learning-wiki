@@ -48,3 +48,4 @@ Survey item on textbook usage among 76 instructors; 71 reported following a text
 - [Griffiths' textbook is used by 55.6% of quantum mechanics courses, and Townsend is the only textbook used with both paradigms](quantum-textbook-usage-griffiths-townsend.md) — related
 - [All modern physics courses use a position-first approach, and position-first remains dominant (73.7%) in quantum mechanics courses](position-first-dominant-paradigm.md) — related
 - [Spins-first and wavefunctions-first QM1/single-semester courses show a large degree of topical overlap, with 30 significant topics shared and 8 topics significant in only one group](spins-vs-wavefunctions-first-topic-overlap.md) — related
+- [Textbook choice correlates with spin-first versus position-first instructional approach in quantum mechanics courses](textbook-choice-correlates-instructional-approach.md) — related
