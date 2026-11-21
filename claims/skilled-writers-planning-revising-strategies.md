@@ -57,3 +57,4 @@ Interview findings on revising strategies of the nine skilled EFL writers, who c
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — related
 - [Interviewees reported depicting triggers idea flow and motivation while outlining supports systematic organization and saves time](interview-viewpoints-strengths-of-both-strategies.md) — related
 - [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](supplementary-exercises-improve-organized-efl-writing.md) — related
+- [Problem detection and diagnosis are the hardest revision steps, and novices focus on surface changes](revision-problem-detection-novice-difficulty.md) — related

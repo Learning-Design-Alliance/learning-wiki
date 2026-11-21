@@ -47,6 +47,7 @@ The discussion identifies a design contributor to extraneous load: prompts chang
 - [Reducing Distractions](reducing-distractions.md)
 - [Reducing Visual Clutter](reducing_visual_clutter.md)
 - [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
+- [Future pacing design should explore pausing at key moments rather than evenly slowing visuals](pacing-design-pause-at-key-moments-strategy.md)
 
 ## Examples
 -

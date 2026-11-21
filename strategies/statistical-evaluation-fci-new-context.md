@@ -50,6 +50,7 @@ Before using the FCI with a new student population, evaluate its reliability and
 
 - [Assess conceptual learning from programming exercises with an animated Force Concept Inventory administered immediately before and after each exercise](animated-fci-pre-post-assessment-strategy.md)
 - [Recast and animate concept-inventory-style assessment questions to match the look and feel of the programming exercises](animated-recast-bema-assessment-strategy.md)
+- [Expand the FCI item bank with highly discriminative items exhibiting sufficient difficulty variability](expand-fci-item-bank-high-discrimination.md)
 
 ## Examples
 -

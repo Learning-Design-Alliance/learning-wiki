@@ -56,3 +56,4 @@ Qualitative case-study interview data reported in the Teaching is My Favorite Co
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related

@@ -81,3 +81,4 @@ Cochran's Q test for paired proportions comparing the three models on the 44 mul
 - [ChatGPT can be unreliable even on basic conceptual physics tasks when vision is correct, as on item 17 (5% correct vs 70% for students)](chatgpt-uncanny-reasoning-failures.md) — a narrower finding that bears on this claim
 - [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — a narrower finding that bears on this claim
 - [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](chatgpt-tug-k-reasoning-versus-vision-correctness.md) — a narrower finding that bears on this claim
+- [ChatGPT-4o's BEMA errors fall into three difficulty types, with spatial coordination of representations and rules the most prevalent](three-chatbot-difficulty-types-bema.md) — related

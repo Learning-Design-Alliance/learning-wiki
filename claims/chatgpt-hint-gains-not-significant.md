@@ -51,3 +51,4 @@ Within-condition pre-to-post comparisons in the same 77-participant randomized e
 - [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](chatgpt-gains-equivalent-human-tutor-hints.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Participants requested far fewer ChatGPT hints than manual hints, but this yielded no time savings](fewer-chatgpt-hints-no-time-savings.md) — related
+- [Hints generated with PromptHive produced learning gains on par with hints manually authored by subject matter experts without generative AI](prompthive-hints-learning-gains-on-par-with-human.md) — related

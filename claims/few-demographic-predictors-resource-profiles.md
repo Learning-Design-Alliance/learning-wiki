@@ -61,3 +61,4 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [Demographic, departmental, and institutional factors are less useful predictors of faculty experience teaching computation](demographic-departmental-factors-less-predictive.md) — related
 - [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — reports the opposite
 - [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — reports the opposite
+- [AI-generated hint use was equitable across gender and race/ethnicity groups, with most students trying at least one hint](ai-hints-use-equitable-across-groups.md) — related

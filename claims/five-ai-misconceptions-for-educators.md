@@ -58,3 +58,4 @@ This is an author position statement in the misconceptions brief, offered with n
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — a narrower finding that bears on this claim
 - [Forced integration of ICT into classroom teaching strategies can be extremely dangerous and mere ICT use does not guarantee results](forced-ict-integration-dangerous.md) — related
+- [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — related

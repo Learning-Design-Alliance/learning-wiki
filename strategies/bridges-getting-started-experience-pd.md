@@ -49,6 +49,7 @@ With adoption of Bridges in Mathematics, schools and districts receive "a compre
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids](superkids-no-cost-pd-support-strategy.md)
+- [Curated repository of vetted QISE curricula plus multi-mechanism access to laboratory equipment](qise-curriculum-repository-and-equipment-access-strategy.md)
 
 ## Examples
 -

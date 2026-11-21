@@ -60,3 +60,4 @@ Descriptive comparison of final-test means from the results section, with 31 res
 - [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — related
 - [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
+- [Students whose TA used ChatGPT with structured prompts scored 16.50 points higher on average than students in traditional TA-only instruction](ta-chatgpt-hybrid-16-point-score-gain.md) — related

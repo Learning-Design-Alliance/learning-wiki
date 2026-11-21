@@ -63,3 +63,4 @@ RQ4 theme on concerns about overreliance and degradation of core scientific abil
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
 - [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

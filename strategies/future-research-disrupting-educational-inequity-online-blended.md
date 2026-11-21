@@ -44,6 +44,7 @@ The article closes with a forward-looking recommendation: "Future research in th
 
 - [Teachers develop critical pedagogy capacity through practical actions from both a TPD for OBL lens and an equity lens](practical-actions-critical-pedagogy-tpd-equity-lens.md)
 - [Combine quick response research approaches with meta-aggregative review methodology to capture educator experiences of rapid digital shifts and extend the TPD-for-OBL framework](quick-response-research-tpd-ob-framework-extension.md)
+- [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
 
 ## Examples
 -

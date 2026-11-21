@@ -51,3 +51,4 @@ Descriptive report of the running lecture series' scale as stated in the abstrac
 - [QuCS attendees were predominantly doctoral-level and showed a substantial gender imbalance (83.85% male, 14.62% female)](qucs-attendee-demographics-doctoral-gender-imbalance.md) — related
 - [Most existing quantum computing courses offer only general introductions and neglect software and system level support, motivating the QuCS series](quantum-courses-neglect-software-system-level.md) — related
 - [Most respondents reported QuCS enhanced their understanding of basic concepts and helped them find collaboration partners](qucs-perceived-impact-understanding-collaboration.md) — related
+- [OruMbya webinars reached over 1000 total views and gathered reflections from 202 questionnaire respondents](orumbya-webinar-reach-and-questionnaire.md) — related

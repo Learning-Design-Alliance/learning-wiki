@@ -50,3 +50,4 @@ Log-file analysis across 10 workshop groups in the quasi-experimental pilot show
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — a narrower finding that bears on this claim
 - [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — a broader claim this one bears on
 - [Mathematics functions as a barrier to entry that excludes non-specialists from quantum computing knowledge](mathematics-barrier-quantum-entry.md) — related
+- [Preliminary classroom use in the Ferrara M.Sc. quantum computing course received encouraging feedback from both theoretical and coding-skilled students](ferrara-msc-course-encouraging-feedback.md) — related

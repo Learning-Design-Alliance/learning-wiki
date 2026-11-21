@@ -175,6 +175,7 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 - [Design teams and student advisory committees for student voice in decision-making](../designs/design-teams-and-student-advisory-committees.md)
 - [Participatory online co-design cycle embedded in design science research](../designs/online-codesign-cycle-embedded-dsr.md)
 - [Undergraduate leadership and iterative refinement of program design](../strategies/undergraduate-leadership-iterative-program-refinement.md)
+- [Co-creating astronomy outreach with marginalised community leaders and cultural agents](../strategies/co-created-astronomy-outreach-marginalised-communities.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

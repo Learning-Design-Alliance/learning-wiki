@@ -66,3 +66,4 @@ A quasi-experimental classroom study in which 109 seventh-grade mathematics stud
 - [Net force performance declined from pre-test to post-test in one uncontrolled pre-post study; classroom-analogous questions were answered correctly, distant transfer questions were answered incorrectly, and the context-bound state of reasoning was absent by post-test](net-force-context-bound-decline.md) — related
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — reports the opposite
 - [FCP produced significantly higher post-test scores than CTM for rational expressions, while CTM produced significantly higher scores for factorization](fcp-beats-ctm-rational-expressions-loses-factorization.md) — related
+- [PF students show better knowledge retention than DI students on a delayed post-test two weeks later](pf-better-retention-delayed-post-test-python.md) — related

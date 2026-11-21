@@ -46,7 +46,8 @@ The oriented globe, also called self-centered or day-night globe, simulates Eart
 - [General Public Astronomy Misconceptions Kahoot 2020](../claims/general-public-astronomy-misconceptions-kahoot-2020.md) [+M]
 
 ## Related Designs
-- 
+
+- [Seasonal four-part scaffold: structuring a show as one step outward into the cosmos per Earth season](seasonal-four-part-cosmic-scaffold.md)
 
 ## Examples
 -

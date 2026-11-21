@@ -46,6 +46,7 @@ The paper recommends deploying training efforts holistically and cross-experimen
 - [Distribute real-patient video production costs through interschool partnerships and shared digital repositories](shared-repositories-video-production-scalability.md)
 - [Web-based training platform with incremental contribution and persistent container environments](web-based-hep-training-platform-strategy.md)
 - [Curate and coordinate DS/ML physics-education materials and share teaching experiences through community forums](curation-coordination-dsml-physics-education-materials.md)
+- [Use repository management and continuous integration to keep community tutorials current as software evolves](continuous-integration-tutorial-maintenance.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Author's interpretation of the removed items: students did not appear to believe
 - [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — related
 - [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related
 - The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power — related
+- [The structural and measurement models fit satisfactorily, but the programming latent variable showed low loadings and convergent validity (AVE = 0.188), with ASC and INH items removed](cfa-model-fit-low-prog-convergent-validity.md) — related

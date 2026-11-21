@@ -244,3 +244,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — a narrower finding that bears on this claim
 - [A game mechanic's motivational potential depends on how it is implemented and perceived, not only on which mechanic is chosen](mechanic-motivational-potential-context-dependent.md) — a narrower finding that bears on this claim
+- [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — a narrower finding that bears on this claim

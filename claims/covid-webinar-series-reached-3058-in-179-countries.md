@@ -47,3 +47,4 @@ Observational participation analysis of registration and attendance data for the
 ## Related Claims
 - [51.9% of post-series respondents participated in all three training formats (mobile channels, OpenWHO MOOCs, webinars), and low-income-country respondents were more likely to do so (68.0% vs 43.3%, P < 0.001)](three-format-participation-low-income-countries.md) — related
 - [The interactive format served as a real-time feedback mechanism that WHO used to identify stakeholder needs and develop new guidance resources](webinar-series-real-time-feedback-mechanism.md) — related
+- [OruMbya webinars reached over 1000 total views and gathered reflections from 202 questionnaire respondents](orumbya-webinar-reach-and-questionnaire.md) — related

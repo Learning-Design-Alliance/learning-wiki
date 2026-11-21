@@ -79,3 +79,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [ChatGPT cannot correctly solve the ID-integrated physics problems due to difficulty handling personalized variables and non-standard angle conventions](chatgpt-fails-id-integrated-problems.md) — a narrower finding that bears on this claim
 - [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related
 - [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a narrower finding that bears on this claim
+- [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related

@@ -55,6 +55,7 @@ To implement digitally enhanced certification equitably, the statement recommend
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 - [Harmonize European HF nurse education, training and career pathways through an updated curriculum, accreditation and certification](harmonize-hf-nurse-education-career-pathway.md)
 - [Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT](regional-and-in-situ-simulation-cost-sharing-strategy.md)
+- [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
 
 ## Examples
 -

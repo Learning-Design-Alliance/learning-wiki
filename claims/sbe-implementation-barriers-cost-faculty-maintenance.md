@@ -79,3 +79,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [High staff SBMT involvement is associated with French-speaking Switzerland, low-technology equipment and less instructor protected time, while low involvement units use high-technology equipment and more protected instructor time](high-vs-low-staff-involvement-sbmt-differences.md) — related
 - [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related
 - [Time and content knowledge were the primary barriers to engaging in cognitive tasks during UREs](time-and-content-knowledge-barriers-ure.md) — a narrower finding that bears on this claim
+- [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related

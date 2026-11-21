@@ -58,6 +58,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use](phased-ai-osce-adoption-pathway.md)
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 - [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](incremental-testing-confirmatory-exploratory.md)
+- [Implement GenAI literacy in teacher education through a scaffolded four-step approach](scaffolded-genai-literacy-implementation-strategy.md)
 
 ## Examples
 -

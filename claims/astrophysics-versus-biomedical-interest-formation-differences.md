@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-20
 sources:
   - id: dina-zohrabi-alaee-and-benjamin-m-zwickl-2025
     resource: "https://doi.org/10.1103/cgcb-4k6z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Astrophysics interest was attributed to popular-culture portrayal, high school and college course exposure, inherent interest, and visible sky objects, while biomedical physics interest relied mainly on research and practical experiences that typically occur later in undergraduate study. [→ Dina Zohrabi Alaee and Benjamin M. Zwickl 2025](#dina-zohrabi-alaee-and-benjamin-m-zwickl-2025)
@@ -72,3 +73,5 @@ Comparison of outcome expectations between the two subfields found astrophysics 
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related
 - [Positive class experiences and experimental opportunities significantly impacted undergraduate physics students' interest in different subfields of physics](class-and-research-experiences-shape-physics-subfield-interest.md) — related
 - [Outcome expectations — career-path exploration, skill development, and work-life integration — shape students' subfield choices in physics](outcome-expectations-shape-physics-subfield-choice.md) — related
+- [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](popular-culture-astronomy-interest.md) — related
+- [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related

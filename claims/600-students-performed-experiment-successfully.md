@@ -47,3 +47,4 @@ Institutional deployment report from the authors' own student laboratories. The 
 ## Related Claims
 - [Students gain direct understanding of the finiteness of the speed of light and of refraction slowing light](finiteness-of-light-understanding-outcome.md) — related
 - The tabletop experiment measures the speed of light to a few percent accuracy at a one-meter path length — possibly the same claim (merge candidate)
+- [ALICE Instagram LIVE sessions typically gather about 500 to 600 people per hour of live session](alice-instagram-live-500-600-people-per-hour.md) — related

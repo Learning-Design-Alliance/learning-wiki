@@ -311,3 +311,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — related
 - [The article reports a proposed exploratory between-subjects study of Claude.ai predicting improved comprehension and engagement over independent study](claude-ai-exploratory-study-design-predicts-gains.md) — related
 - [In the field study, substitutive LLM use (submitting ChatGPT-like solutions) significantly decreases grades on subsequent questions](substitutive-llm-use-lowers-subsequent-grades-field.md) — related
+- [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related

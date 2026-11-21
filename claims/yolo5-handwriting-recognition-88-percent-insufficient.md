@@ -47,3 +47,4 @@ The article reports its authors' earlier implementation, a YOLO-5-based recogniz
 
 ## Related Claims
 - [In the authors' practical test, vision-capable LLMs recognized handwritten examination letters with high accuracy, with Gemini 3 Flash best at about 98.84% (35 errors in 3009 letters)](vision-llm-letter-recognition-98-84-percent.md) — related
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

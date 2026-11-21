@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-20
 sources:
   - id: noa-perlmutter-and-zosia-krusberg-2022
     resource: "https://doi.org/10.48550/arXiv.2211.00694"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Developing the ability to distinguish between fundamental principles and surface features is a critical aspect of the problem-solving process, because superficially similar problems may require entirely different underlying physics. [→ Noa Perlmutter and Zosia Krusberg 2022](#noa-perlmutter-and-zosia-krusberg-2022)

@@ -47,3 +47,4 @@ Survey assessment of major corpora (Table 2, Section 6) against four criteria: L
 ## Related Claims
 - [No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously](no-system-covers-all-five-coaching-dimensions.md) — related
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related
+- [Existing public L2 English corpora cover narrower speaker ranges than the S&I Corpus 2025](si-corpus-breadth-versus-existing-corpora.md) — related

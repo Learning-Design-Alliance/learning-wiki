@@ -46,7 +46,8 @@ A lesson-level pattern that emulates an ethological research situation: the teac
 - [Robot Exercise Hypothesis Goal Met No Group Solved](../claims/robot-exercise-hypothesis-goal-met-no-group-solved.md) [+M]
 
 ## Related Designs
-- 
+
+- [Open-inquiry light-decay laboratory pattern: model proposal, measurement with accessible devices, and validity-range discussion](open-inquiry-light-decay-lab-pattern.md)
 
 ## Examples
 -

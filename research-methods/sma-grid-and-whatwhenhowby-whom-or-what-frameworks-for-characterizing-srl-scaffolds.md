@@ -28,7 +28,8 @@ The introduction uses two frameworks to compare the special-issue studies. The S
 ### Claims
 
 ## Related Research Methods
--
+
+- [Four-dimension classification framework for fNIRS-enabled game-integrated learning systems](four-dimension-classification-framework-for-fnirs-enabled-game-integrated-learning-systems.md)
 
 ## Key Sources
 - Joep van der Graaf, Michelle Taub, Yizhou Fan. (2023). Introduction to special issue on facilitating self-regulated learning with scaffolds: Recent advances and future directions. Metacognition and Learning. https://doi.org/10.1007/s11409-023-09364-9

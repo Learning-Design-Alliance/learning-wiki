@@ -50,3 +50,4 @@ Comparison of ending and starting HR across 10 between-class breaks with the sam
 - [Student heart rate decreases significantly over the course of a 50-minute lecture class](hr-decreases-over-lecture.md) — related
 - [Heart rate decreases significantly during short videos and returns to pre-video levels immediately afterward](hr-drops-during-videos.md) — reports the opposite
 - [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](no-attention-reset-after-al.md) — related
+- [Mean heart rate is higher in Assembly (109.4 bpm) than in PE (101.3 bpm), with both courses showing shorter NNI intervals than other courses](assembly-heart-rate-exceeds-pe.md) — related

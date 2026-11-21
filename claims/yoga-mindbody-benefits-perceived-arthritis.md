@@ -51,3 +51,4 @@ In the interviews, providers described yoga as "a holistic practice" whose compo
 - [Providers identify attendee-level and system-level challenges to yoga delivery in arthritis, led by lack of UK regulation](yoga-delivery-challenges-arthritis-uk.md) — related
 - [Providers tailor yoga through gentle modifications and prefer inclusive group delivery (teachers) versus goal-focused one-to-one delivery (therapists)](yoga-modification-teacher-therapist-styles.md) — related
 - [Yoga providers feel reasonably confident delivering yoga to attendees with arthritis and perceive their role as important](yoga-provider-confidence-role-arthritis.md) — related
+- [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related

@@ -43,7 +43,8 @@ The article proposes comparing the level of instruction at which a tutorial cove
 - [A peer-teaching tutorial program covered 65.9% of all learning objectives and 73.7% of core objectives of the Practical Skills consensus statement.](../claims/tutorials-cover-65-9-percent-objectives-73-7-core.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design tutorial sites as a miniaturized research literature with contributor-controlled linking rather than an imposed order](tutorials-as-miniature-research-literature.md)
 
 ## Examples
 -

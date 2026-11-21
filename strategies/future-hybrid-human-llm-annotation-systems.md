@@ -39,6 +39,7 @@ The authors recommend two directions to improve scalability and annotation suppo
 ## Related Strategies
 
 - [Incorporate an expert human in the loop to support LLM coding of difficult adjacent coding categories](expert-human-in-loop-for-llm-pck-coding.md)
+- [Refine fine-tuning datasets by selecting teachers who write personalized feedback and supplementing with GPT-generated feedback](refine-feedback-training-dataset-strategy.md)
 
 ## Examples
 -

@@ -80,3 +80,4 @@ Comparison of FCI pre/post scores and normalized gains between 50 irrelevant-per
 - [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — related
 - [Perceived relevance particularly matters for Performance-oriented students' CLASS attitudinal shifts, with a large significant effect on gains, but not for Framework- or Vague-oriented students](performance-orientation-relevance-novice-shift.md) — related
 - [Perceived relevance relates to expert-like CLASS gains for biology majors but not statistically for health science majors](relevance-gains-biology-not-health-majors.md) — related
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

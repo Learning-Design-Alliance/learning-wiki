@@ -50,3 +50,4 @@ Paired mixed-model ANOVA comparisons of initial ratings across matched conversat
 - [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related
 - [Human-clinician dialogues yield higher user experience ratings than GPT self-chat dialogues, with similar authenticity](human-clinician-higher-experience-than-self-chat.md) — related
 - [Resident-persona dialogues rated higher than poor-medical-student persona for authenticity and experience](resident-persona-outperforms-poor-student-persona.md) — related
+- [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related

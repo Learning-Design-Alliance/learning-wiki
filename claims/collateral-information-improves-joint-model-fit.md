@@ -67,3 +67,4 @@ Same LR-test analysis for the reading test (Table 2): the gender-only model 8 ha
 ## Related Claims
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa](cross-test-scores-as-collateral-information.md) — related
+- [Collateral information significantly improves the accuracy of short CAT administrations across progression models](collateral-information-improves-cat-accuracy.md) — related

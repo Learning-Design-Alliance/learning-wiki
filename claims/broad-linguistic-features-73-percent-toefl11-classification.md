@@ -49,3 +49,4 @@ Classification experiment on TOEFL11SUBSET (1069 texts per proficiency category,
 - [Removing native language (L1) sharply degrades discourse-feature scoring on TOEFL11 but not on FCE](l1-feature-influences-discourse-features-toefl11.md) — related
 - [Regression on TOEFL11SUBSET reaches a Pearson correlation of 0.8 with proficiency scores](toefl11-regression-correlation-0-8.md) — related
 - [The most predictive linguistic features differ across datasets, overlapping only in lexical diversity measures](aes-predictive-features-not-generalizable-across-corpora.md) — related
+- [GPT-3 achieved reliable accuracy in automated essay scoring on TOEFL11 essays](gpt3-automated-essay-scoring-toefl.md) — related

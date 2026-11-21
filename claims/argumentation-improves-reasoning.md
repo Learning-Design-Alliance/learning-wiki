@@ -124,3 +124,4 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Conference participants concluded that central to science is argumentation, criticism, and analysis, and students need to understand this](central-to-science-argumentation-criticism-analysis.md) — related
 - [Consonant interactions are not necessarily better than dissonant interactions for group work](consonant-not-necessarily-better.md) — related
 - [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related
+- [Chatbot-assisted classroom debates helped students anticipate counterarguments, producing more organized arguments and higher motivation](chatbot-assisted-debate-argumentation.md) — a narrower finding that bears on this claim

@@ -62,6 +62,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
 - [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 - [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
+- [Implement GenAI literacy in teacher education through a scaffolded four-step approach](scaffolded-genai-literacy-implementation-strategy.md)
 
 ## Examples
 -

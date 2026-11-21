@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/genai-chain-reaction-secondary-challenges.md
+---
+
+# Revision history: [claims/genai-chain-reaction-secondary-challenges](../claims/genai-chain-reaction-secondary-challenges.md)
+
+### 2026-11-20 · ingest · process:wiki-ingest
+Ingested from arxiv-2411.10718 (Transforming Teacher Education in Developing Countries: The Role of Generative AI in Bridging Theory and Practice) via eval_harness.py + ingest_extractions.py

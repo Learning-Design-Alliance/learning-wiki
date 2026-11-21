@@ -98,3 +98,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Pre-service teachers successfully guided ChatGPT-3.5 to improve most wrong initial answers in a pilot study](pilot-teachers-guide-chatgpt35-successfully.md) — related
 - [Structured guidance strategies (G1, G3, G4) reduce unrelated student queries to an LLM tutor, while example-based instruction increases them](structured-guidance-reduces-unrelated-llm-queries.md) — related
 - [Copy-and-paste-enabled substitutive LLM use trades topic volume for understanding: volume rises while understanding falls, leaving overall outcomes unchanged](substitution-volume-understanding-tradeoff.md) — related
+- [LLM question types differed by condition: EDBook prompted more applying and analyzing questions, while webpage-plus-ChatGPT prompted more evaluating and solution-requesting questions](edbook-question-type-differences.md) — related

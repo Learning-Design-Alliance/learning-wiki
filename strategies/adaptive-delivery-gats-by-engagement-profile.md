@@ -42,6 +42,7 @@ The article recommends moving beyond a single representation for all learners: "
 - [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 - [Future research should identify student populations and contexts differentially affected by representational visuals in mathematics materials](identify-populations-differentially-affected-by-representational-visuals.md)
+- [Involve stakeholders in dashboard co-design and select visualizations that avoid ineffective practices](dashboard-stakeholder-co-design-strategy.md)
 
 ## Examples
 -

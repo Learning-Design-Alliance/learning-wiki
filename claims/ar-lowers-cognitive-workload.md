@@ -83,3 +83,4 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [Perceived task load (NASA-TLX) was significantly lower with 3D than 4K for all experience levels](3d-display-lower-nasa-tlx-task-load.md) — related
 - [Debriefing after a surgical crisis reduces cognitive workload and improves performance before the next case](debriefing-reduces-cognitive-workload-surgical-crisis.md) — related
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
+- [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](d-illustrate-most-consistent-tlx-gains.md) — related

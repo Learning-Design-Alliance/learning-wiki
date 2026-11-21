@@ -50,3 +50,4 @@ Authors' interpretive conclusion (type e) from the overall conclusions section, 
 - [Joint IRT models including collateral information (raw score, gender, ethnicity) fit better than item-only base models for both tests](collateral-information-improves-joint-model-fit.md) — related
 - [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](bidirectional-coupling-vocabulary-reasoning-gains.md) — related
 - [Most reading tests fail to differentiate rate from comprehension](most-tests-do-not-differentiate-rate-comprehension.md) — related
+- [Collateral information significantly improves the accuracy of short CAT administrations across progression models](collateral-information-improves-cat-accuracy.md) — related

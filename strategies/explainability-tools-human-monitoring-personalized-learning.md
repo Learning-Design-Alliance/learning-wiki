@@ -46,6 +46,7 @@ The article recommends pairing AI-driven learning predictions with interpretabil
 - [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 - [Use explainable AI methods (LIME, SHAP) to investigate the relation between individual features and model predictions](explainable-ai-lime-shap-validity-evidence.md)
+- [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
 
 ## Examples
 -

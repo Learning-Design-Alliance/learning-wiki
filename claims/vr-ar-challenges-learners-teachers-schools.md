@@ -90,3 +90,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
 - [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — related
 - [In-service teachers implementing STEAM face challenges including lack of planning time, inadequate school structure, and difficulty assessing STEAM achievements](shernoff-2017-steam-teacher-challenges.md) — related
+- [Institutional barriers — inadequate training in innovative pedagogies, high course loads, resistance to change, and lacking resources — impede pedagogical modeling in Ghanaian teacher education](institutional-barriers-pedagogical-modeling-ghana.md) — related

@@ -76,3 +76,5 @@ The review reports, citing Hoq, that in Saudi Arabia universities hired new ICT 
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [A peer role-play communication course for preclinical students can be implemented without additional financial or human resources](role-play-course-no-additional-resources.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related
+- [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — related

@@ -47,6 +47,7 @@ The paper recommends that researchers studying AI-enhanced DLPs go beyond aggreg
 - [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
+- [Developers should prioritize user understanding and bias mitigation, while policymakers should mandate explainability, accountability, and educator AI training](developer-policymaker-recommendations-hcxai.md)
 
 ## Examples
 -

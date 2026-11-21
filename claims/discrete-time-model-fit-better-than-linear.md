@@ -48,3 +48,4 @@ Likelihood ratio model comparison on the longitudinal sample after irregularitie
 - [COVID-19 third-grade school closures in Southern Germany showed no significant short-term or long-term effect on reading fluency](covid-closures-no-reading-fluency-effect-third-grade-bavaria.md) — related
 - [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](yao-linear-growth-mck-vk.md) — related
 - [The dose–response relation for K-3 intensive mathematics interventions is linear, with no support for a nonlinear (quadratic) curve](linear-dose-response-early-math-interventions.md) — related
+- [Education level moderates the practice–exam score relationship: the interactive model fits better, with a descriptive trend toward steeper practice slopes at lower education levels](education-moderates-practice-exam-relationship.md) — related

@@ -44,7 +44,8 @@ A pipeline for AI-assisted grading of handwritten exam solutions, starting with 
 - [Wf1 Wf2 Outperform Wf3 Grading](../claims/wf1-wf2-outperform-wf3-grading.md) [+M]
 
 ## Related Designs
-- 
+
+- [LLM-assisted partial-credit grading and feedback workflow with grading confidence index](llm-partial-credit-grading-confidence-workflow.md)
 
 ## Examples
 -

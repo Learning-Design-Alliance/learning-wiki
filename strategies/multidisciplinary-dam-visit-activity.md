@@ -43,6 +43,7 @@ The visit and follow-up model building were carried out "as a part of a multidis
 - [Three-phase educational trip procedure: preliminary preparation, site visit with observation, follow-up evaluation](educational-trips-three-phase-procedure.md)
 - [Schedule special contextualization seminars each semester, taught by economics, philosophy, geography, history and sociology professors, aligned with the science content in progress](per-semester-humanities-contextualization-seminars.md)
 - [Two-researcher cross-disciplinary dialogue format with moderator and live audience interaction](cross-disciplinary-dialogue-seminar-format.md)
+- [Bring physics–environment relations into teaching practice through interdisciplinarity, contextualization of concepts, complex thinking and critical thinking](physics-environment-teaching-four-emergent-categories.md)
 
 ## Examples
 -

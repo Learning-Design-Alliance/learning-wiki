@@ -53,3 +53,4 @@ After reflection-2, students who completed both reflections were asked which des
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](gpt4-feedback-no-superior-linguistic-progress-enl.md) — related
 - [Students revising GPT-4-generated hints wrote hints with higher mean Full Accuracy, Specificity, and Utility than students writing hints independently](ai-hint-revision-higher-mean-hint-quality.md) — related
 - [Stating a preference for equipment use did not significantly predict equipment group fraction in either course, with or without partner agreements](equipment-preference-no-significant-behavior-effect.md) — related
+- [Hints generated with PromptHive produced learning gains on par with hints manually authored by subject matter experts without generative AI](prompthive-hints-learning-gains-on-par-with-human.md) — related

@@ -58,6 +58,8 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
 - [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 - [Involve the course instructor in rating and tuning visualization and model parameters](instructor-in-the-loop-visualization-tuning.md)
+- [Developers should prioritize user understanding and bias mitigation, while policymakers should mandate explainability, accountability, and educator AI training](developer-policymaker-recommendations-hcxai.md)
+- [Educators should engage with explainable AI tools, teach critical evaluation of AI outputs, and feed usability insights back to developers](educator-recommendations-explainable-ai.md)
 
 ## Examples
 -

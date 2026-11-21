@@ -48,3 +48,4 @@ Author assertion from the conclusion, offered with no evidence or argument: the 
 - [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — possibly the same claim (merge candidate)
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [The proposed system adjusts tutoring method to a learner level graded as weak, slow learner, smart or genius and updates it from feedback during training](learner-level-feedback-adaptive-method-proposal.md) — related
+- [GEM's impact on learner achievement is undetermined until empirically tested](gem-untested-exploratory-model.md) — related

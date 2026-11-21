@@ -48,3 +48,4 @@ Printed post-test attitude results of the exploratory case study (N=59): "92% of
 - [A 90-minute teaching intervention with 3D-printed height models increased correct determination of voltages in simple and series circuits among year-8 students](3d-height-models-improve-voltage-determination-simple-series.md) — related
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
 - [3D printed models served as an additional modality helping learners connect knowledge across different sources and knowledge types](3d-printed-models-connecting-knowledge.md) — related
+- [Students can determine a trapped particle's charge-to-mass ratio by two methods whose results agree with each other and with an analytic trap model](charge-to-mass-ratio-two-methods-agree.md) — related

@@ -55,3 +55,4 @@ CLASS normalized gains, Relevant (n = 168) vs Irrelevant (n = 50): overall +0.04
 - [Students perceiving irrelevance scored significantly less expert-like on the CLASS posttest overall and within almost every item cluster, with moderate effect sizes](class-posttest-significant-relevance-differences.md) — related
 - [Perceived relevance vs. irrelevance shows no statistically significant differences on FCI pretest, posttest, or normalized gains](perceived-relevance-no-fci-differences.md) — related
 - [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — a narrower finding that bears on this claim
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

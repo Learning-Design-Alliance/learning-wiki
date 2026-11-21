@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 recheck_by: 2026
 sources:
   - id: jean-vassoyan-2023
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across six semi-synthetic corpora, the GNN RL policy recovered a significant part of each corpus's original document order, achieving average episodic return over 10 on most corpora while the uniform random policy stayed at an expected return of 1. [→ Jean Vassoyan 2023](#jean-vassoyan-2023)
@@ -51,3 +52,6 @@ Simulation study (§5.2): the GNN policy trained with REINFORCE over 50 episodes
 - [A semi-supervised deep learning architecture recovers the ability distribution of anchor students more accurately than direct 2PL-IRT fitting under simulated nonignorable missingness](semi-supervised-deep-learning-unbiased-ability-estimates.md) — related
 - [Policy performance varies strongly across corpora and shows extremely high variance, with only Corpus 2 reliably reaching the maximum achievable return](high-variance-variable-corpus-performance.md) — related
 - [Wikipedia2Vec keyword embeddings yield higher episodic returns than one-hot keyword encodings, but the model appears to overfit each corpus rather than leverage entity relationships](wikipedia2vec-embeddings-beat-onehot-overfit.md) — related
+- [The pre-trained model outperformed all baselines in all three prior-knowledge scenarios on final episodic returns](pretrained-model-outperforms-baselines-all-scenarios.md) — related
+- [Moodle's built-in randomization is insufficient for Statistics courses, while moodlequizR provides far greater randomization](moodlequizr-randomization-exceeds-moodle-builtin.md) — related
+- [Pre-training a recommender system on sequential corpora improves sample efficiency for adaptive learning path personalization in the small data regime](pretraining-improves-sample-efficiency-adaptive-sequencing.md) — related

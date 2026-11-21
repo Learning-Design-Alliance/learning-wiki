@@ -56,3 +56,5 @@ UEQ analysis across all dimensions showed significant differences favouring the 
 - [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — reports the opposite
 - [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — related
+- [The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark](slideshow-higher-sus-than-vr.md) — related
+- [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related

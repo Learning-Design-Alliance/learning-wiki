@@ -71,6 +71,7 @@ Family engagement research consistently shows that *specific* invitations — na
 - [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
 - [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
 - [Segment security-training content by learner age group to maximize personal relevance](age-segmented-security-training-content.md)
+- [Tailor each communication channel to a specific audience and purpose](audience-tailored-channel-selection.md)
 
 ## Examples
 - **[TalkingPoints](../products/talkingpoints.md)** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.

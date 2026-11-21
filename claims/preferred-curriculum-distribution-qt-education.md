@@ -48,3 +48,4 @@ Main 2 percentage-allocation question with N = 67 responses, clustered into >30,
 - [Experts most strongly agree that QT relevance for industry will increase significantly and that special educational programs for the quantum workforce are necessary](experts-agree-qt-industry-relevance-and-education-programs.md) — related
 - [Competence responses show a strong focus on quantum computing, with more than twice as many application answers as the other three QT areas combined](quantum-computing-focus-in-competence-responses.md) — reports the opposite
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
+- [In PED, APT output divides equally between theoretical (TAPT) and practical (PAPT) work](apt-equal-split-tapt-papt-ped.md) — related

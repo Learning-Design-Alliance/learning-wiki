@@ -55,3 +55,4 @@ Multivariate logistic regression in the 1916-participant cross-sectional study f
 - [Doctoral postgraduates found it harder to relax in the COVID-19 environment and were more worried about not meeting graduation standards than master's postgraduates](covid19-doctoral-postgraduates-greater-academic-stress.md) — related
 - [Teachers lacking nutrition education background were less likely to teach nutrition](nutrition-education-background-predicts-teaching.md) — related
 - [Higher education level and intention to receive training are associated with lower confidence in coping with patient aggression](education-level-lower-confidence-coping.md) — related
+- [CFQT proficiency levels are aligned with the EQF, linking level B2 to bachelor, C1 to master and C2 to doctoral programs, though the mapping is not one-to-one](cfqt-eqf-alignment-levels-to-degree-cycles.md) — related

@@ -70,6 +70,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Use ChatGPT's mistakes as material for cultivating critical thinking rather than banning the chatbot](chatgpt-mistakes-critical-thinking-strategy.md)
 - [Teachers should diagnose students' prompting purposes and provide tailored, scaffolded prompt-engineering instruction](tailored-prompt-engineering-instruction.md)
 - [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
+- [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 
 ## Examples
 -

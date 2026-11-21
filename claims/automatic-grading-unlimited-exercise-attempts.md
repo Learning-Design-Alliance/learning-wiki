@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-20
 sources:
   - id: c-netzer-and-a-mittelstädt-2021
     resource: "https://doi.org/10.48550/arXiv.2108.01385"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Automatic grading allowed students to attempt exercises at any time and as often as they preferred, and timestamps in the attempts showed this possibility was frequently used. [→ C. Netzer and A. Mittelstädt 2021](#c-netzer-and-a-mittelstadt-2021)

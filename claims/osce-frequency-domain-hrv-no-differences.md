@@ -48,3 +48,4 @@ Null result from the same 86-student OSCE study. Table 3 reports F = 1.475 (LF/H
 ## Related Claims
 - [Physiotherapy students show significant differences in time-domain HRV across OSCE scenarios, indicating a large anticipatory stress response maintained during the entire evaluation](osce-anticipatory-stress-response-physiotherapy-hrv.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — a broader claim this one bears on
+- [Frequency-domain HRV features differ by course: Assembly shows high VLF and HF activation while PE has the lowest HF value](frequency-domain-hrv-course-differences.md) — related

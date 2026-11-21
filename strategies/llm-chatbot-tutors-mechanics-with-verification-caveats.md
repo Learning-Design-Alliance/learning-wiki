@@ -57,6 +57,7 @@ The article recommends deploying LLM-based chatbots as dynamic tutors in mechani
 - [Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment](infrastructure-mechanisms-for-llm-response-consistency.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
+- [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
 
 ## Examples
 -

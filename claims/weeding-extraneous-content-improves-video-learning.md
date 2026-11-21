@@ -55,3 +55,4 @@ The essay reports, citing Ibrahim et al. (2012), that weeding "can improve reten
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
 - [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim
 - [More benchmark videos at varied performance levels may clarify the expected standard, but increasing video number or explanation complexity risks overload that reduces engagement; examiners judged two to three videos an optimal compromise](more-benchmark-videos-help-but-risk-overload.md) — related
+- [Digital reading introduces disorientation and cognitive overload that can hinder comprehension relative to paper reading](digital-reading-disorientation-cognitive-overload.md) — related

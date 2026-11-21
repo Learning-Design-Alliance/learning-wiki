@@ -42,7 +42,8 @@ The guide sketches a nine-lesson sequence (approximately 45 minutes each) driven
 - 
 
 ## Related Designs
-- 
+
+- [Popcorn-with-a-hair-straightener context as an interdisciplinary, multi-sensory phenomenon for inclusive science lessons](popcorn-hair-straightener-context.md)
 
 ## Examples
 -

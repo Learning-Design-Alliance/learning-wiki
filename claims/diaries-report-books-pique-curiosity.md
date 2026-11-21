@@ -53,3 +53,4 @@ Content analysis of the semi-structured diaries the 30 experimental-group studen
 - [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](science-fiction-books-increase-science-curiosity.md) — a broader claim this one bears on
 - [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related
 - [Secondary schools are where many students lose interest in science](secondary-schools-lose-science-interest.md) — related
+- [The course significantly increases curiosity state (d = 0.46) and shows a small, non-significant increase in self-concept (d = 0.26)](cosmology-course-curiosity-self-concept-gains.md) — related

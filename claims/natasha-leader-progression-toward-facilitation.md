@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-20
 recheck_by: 2022
 sources:
   - id: kristina-griswold-2019
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
+> **Currency** · newest study 2019 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Natasha's leadership codes shifted from a large portion of Prior Experience occurrences in Week 1 to codes like Creating a Plan and Bought into Group in Week 4, indicating facilitation rather than leading by doing much of the work. [→ Kristina Griswold 2019](#kristina-griswold-2019)

@@ -50,6 +50,8 @@ The article recommends integrating ChatGPT into teaching and learning instead of
 - [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Explicitly integrate ChatGPT into take-home assessments rather than banning or detecting it](explicitly-integrate-chatgpt-in-take-home-assessment.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Run cycles of experimentation, discussion, argumentation and re-experimentation to cultivate critical thinking](experimentation-discussion-re-experimentation-cycles.md)
 
 ## Examples
 -

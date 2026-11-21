@@ -54,3 +54,4 @@ A between-groups classroom comparison of 49 9th- and 10th-grade students in the 
 - [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related
 - [Low pretest knowledge, hospital work and motivation predict better learning outcome, while sex, hospital work and low pretest scores predict reduced risk of error](predictors-learning-outcome-risk-error-drug-calculations.md) — related
+- [Conceptual learning scores rose from pre-test to post-test in one group with no comparison group; prior physics grade was associated with the gains, while class and gender were not, and no significant associations were found between the predictors and affective outcomes](predictors-cosmology-course-outcomes.md) — related

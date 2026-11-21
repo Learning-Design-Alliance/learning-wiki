@@ -118,3 +118,4 @@ Same Table 5 within-orientation analysis: Framework gains d = 0.26 (p = 0.35) an
 - [Students who perceive relevance of physics to their majors show more expert-like CLASS attitudinal shifts than students who perceive none](relevance-expert-like-class-shifts.md) — related
 - [Within biology majors, perceived relevance shows a large significant effect on CLASS posttest scores and normalized gains; for health science majors the posttest effect is significant but the gains effect is not](relevance-class-effect-within-life-science-majors.md) — related
 - [Perceived relevance relates to expert-like CLASS gains for biology majors but not statistically for health science majors](relevance-gains-biology-not-health-majors.md) — related
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

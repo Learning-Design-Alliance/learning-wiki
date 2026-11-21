@@ -55,3 +55,4 @@ Interview excerpt (Nora) illustrating the theme 'Technology and STEM careers cre
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
 - [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related
+- [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related

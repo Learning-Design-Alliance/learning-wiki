@@ -61,3 +61,4 @@ Null check before hypothesis testing in the 100-student study. The ART ANOVA on 
 - [Dyads requested nearly half as many total on-demand hints as individual self-explainers while solving Andes physics problems](joint-explanation-fewer-on-demand-hints.md) — reports the opposite
 - [HNU Adaptive students received significantly more total hints than Control, with no difference in on-demand hints or overall hint justification rate](hnu-adaptive-hint-counts-and-justification.md) — related
 - [Participants requested far fewer ChatGPT hints than manual hints, but this yielded no time savings](fewer-chatgpt-hints-no-time-savings.md) — related
+- [Adaptivity condition shows no significant association with optional verbal interaction with the AI tutor](adaptivity-no-effect-verbal-interaction.md) — related

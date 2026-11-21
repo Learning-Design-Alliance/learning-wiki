@@ -57,3 +57,4 @@ The review's analysis identifies usability problems as the first of four reasons
 - [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](social-media-educational-challenges-overload-misinformation-privacy.md) — related
 - [Lack of autonomous learning habits hinders success in fully online writing instruction](learner-autonomy-hindrance-online-instruction.md) — a narrower finding that bears on this claim
 - [Low fidelity prototypes support design learning while high fidelity prototypes can hinder fluency](low-fidelity-prototyping-supports-design-learning.md) — related
+- [Digital reading introduces disorientation and cognitive overload that can hinder comprehension relative to paper reading](digital-reading-disorientation-cognitive-overload.md) — related

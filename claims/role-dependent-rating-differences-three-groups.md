@@ -47,3 +47,4 @@ Descriptive group-level comparison among residents, postgraduates, and faculty i
 ## Related Claims
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Students perceived foundational robotic knowledge as important to their OR role and their performance ratings from residents and faculty](foundational-robotic-knowledge-or-expectations.md) — related
+- [Experimental tasks were rated higher than programming tasks on goal clarity, with no significant difference in feasibility at home](exp-goal-clarity-higher-than-pro.md) — related

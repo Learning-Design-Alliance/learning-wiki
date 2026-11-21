@@ -67,3 +67,4 @@ Figure 5 shows strategy-type proportions by grade: "the proportion of concrete s
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
 - [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related
 - [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](pfo-progression-micro-to-macro.md) — related
+- [STEM interest and belonging differ by decision stage: students aged 14-15 before the physics choice report a balanced profile, while students aged 16+ who chose physics show a positive STEM orientation](stem-identity-differs-before-after-physics-choice.md) — related

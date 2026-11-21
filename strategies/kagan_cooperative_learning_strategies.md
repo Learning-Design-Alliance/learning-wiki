@@ -66,6 +66,7 @@ Kagan structures operationalize [Active Learning](../principles/active-learning.
 - [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 - [Use structured Cooperative Learning activities — Think-Pair-Share, Numbered Heads Together, Jigsaw, and Circle the Sage — to maximize learner interaction](cl-activity-structures-strategy.md)
 - [Assign a random pair member as reporter in think-pair-share to broaden verbal participation](random-reporter-think-pair-share-strategy.md)
+- [Enlarge lab groups and add structured communication tasks to foster peer communication](enlarged-group-work-communication-tasks.md)
 
 ## Examples
 - **Kagan Publishing & Professional Development** (https://www.kaganonline.com) — the source catalog of structures with training materials.

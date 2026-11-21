@@ -79,3 +79,4 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [In detecting teacher questions with zero-shot GPT-3.5-turbo, chain-of-thought prompting had slightly higher F1 and precision than Self-Ask but slightly lower recall and balanced accuracy](cot-outperforms-self-ask-zero-shot.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
 - [Three-level skill classification provides more informative feedback than binary high/low classification but makes the task harder](three-class-skill-grading-more-informative-than-binary.md) — related
+- [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related

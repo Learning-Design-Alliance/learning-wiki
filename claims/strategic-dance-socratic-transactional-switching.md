@@ -52,3 +52,4 @@ Descriptive per-student timeline reconstruction aligning prompts and commits to 
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](large-prediction-window-real-time-intervention.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related
+- [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related

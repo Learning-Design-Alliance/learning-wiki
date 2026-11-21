@@ -48,7 +48,8 @@ Vygotsky's approach treats higher mental processes as functions of mediated acti
 - [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
--
+
+- [Use an RPG as a Vygotskian mediating instrument for investigative teaching of Modern Physics](../strategies/rpg-as-vygotskian-mediating-instrument-strategy.md)
 
 ## Key Sources
 - Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202

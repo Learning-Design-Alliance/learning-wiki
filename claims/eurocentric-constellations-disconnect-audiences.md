@@ -47,3 +47,4 @@ Authors' argument in Section V about planetarium practice, illustrated with Aote
 ## Related Claims
 - [Role-play cultural perspectives produced visibly different constellations from the same stars, showing cultural background shapes constellation design](role-play-constellations-reflect-cultural-background.md) — related
 - [The activity shifted pupils' justifications for why constellation stories change toward cultural change rather than star locations](constellation-activity-shifts-cultural-justification-q6.md) — related
+- [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related

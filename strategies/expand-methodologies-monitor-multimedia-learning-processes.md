@@ -42,6 +42,7 @@ To incorporate social, affective, motivational, and metacognitive components int
 - [Incorporate potential moderators into experimental designs for multimedia testing research](moderator-focused-mmt-research-design.md)
 - [Collaborate with stakeholders and with ethicists and lawyers to enable classroom eye-tracking under data-protection law](stakeholder-ethicist-collaboration-classroom-eye-tracking-data.md)
 - [Incorporate multimedia elements and learner autonomy into e‐learning design for ENT education](elearning-ent-multimedia-autonomy-design-strategy.md)
+- [Include formal instruction on CTML in university physics teacher education courses](include-ctml-in-physics-teacher-education.md)
 
 ## Examples
 -

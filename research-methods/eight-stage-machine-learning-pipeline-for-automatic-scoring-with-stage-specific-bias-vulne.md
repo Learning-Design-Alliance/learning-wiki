@@ -25,7 +25,7 @@ The article describes a machine-learning pipeline for automatic short-answer sco
 - [Demographic disparities in automatic scoring are concentrated at the item level, tied to class distributions and item difficulty](../claims/item-level-disparity-class-distribution-difficulty.md) [+M]
 
 ## Related Research Methods
--
+
 
 ## Key Sources
 - Nico Andersen, Julia Mang, Frank Goldhammer, Fabian Zehner. (2025). Algorithmic Fairness in Automatic Short Answer Scoring. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-025-00495-5

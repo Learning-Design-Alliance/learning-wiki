@@ -53,6 +53,7 @@ The article concludes that institutions should clarify regulations and teach stu
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Use the classification tool to shape AI-in-education guidelines, professional development, and teacher adaptation of ChatGPT activities](use-classification-tool-policy-pd.md)
 - [Rather than prohibiting ChatGPT, educators can allow classroom use and facilitate dialogue about its benefits and drawbacks](chatgpt-classroom-dialogue-not-prohibition.md)
+- [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 
 ## Examples
 -

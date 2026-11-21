@@ -77,3 +77,4 @@ Descriptive analysis of the structured reflection instrument (Table 4): AI impro
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](minority-health-students-genai-reflective-writing.md) — a narrower finding that bears on this claim
 - [AI ghostwriter effect: users do not claim ownership of AI-generated texts yet fail to publicly acknowledge the AI's contribution](ai-ghostwriter-effect-nonacknowledgment.md) — reports the opposite
 - [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — possibly the same claim (merge candidate)
+- [Experts perceived AI-assisted hints as more consistent than human-only hints and reported retaining control over generation](experts-perceived-consistency-and-control.md) — related

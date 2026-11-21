@@ -50,3 +50,4 @@ Benchmark evaluation of two fine-tuned models (GPT-4o, LLaMA-3.3-70B-Instruct) o
 - [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — related
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
+- [A shared-backbone framework with task-specific LoRA adapters achieves average QWK of 0.848 across 27 scoring tasks versus 0.888 for fully fine-tuned models](shared-backbone-lora-qwk-0-848-vs-0-888.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-20
 sources:
   - id: julia-stoyanovich-2025
     resource: "https://doi.org/10.1609/aaai.v39i28.35177"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the post-workshop survey, 77% of respondents reported being engaged by participant-to-participant interaction in small case study discussion groups, and 100% agreed the case study format was effective for understanding RAI concepts. [→ Julia Stoyanovich 2025](#julia-stoyanovich-2025)

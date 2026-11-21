@@ -43,6 +43,7 @@ The article describes training students in high-quality prompt writing, stepwise
 - [Use prompt-based LLM simulation and reflection via a web interface as a pre-class rehearsal for teaching plan refinement](prompt-based-web-interface-plan-enhancement.md)
 - [Teach prompt structures and prompt literacy to all future organization members](prompt-literacy-for-all-future-organization-members.md)
 - [Apply effective zero-shot prompting practices — CoT, label definitions, survey-question context, function calling, and persona — when using LLMs for survey analysis](zero-shot-llm-prompting-practices-for-survey-analysis.md)
+- [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 
 ## Examples
 -

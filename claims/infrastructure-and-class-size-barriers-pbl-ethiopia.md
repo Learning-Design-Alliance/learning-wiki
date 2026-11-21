@@ -56,3 +56,4 @@ Qualitative interview finding under the institutional theme. Participants report
 - [University teachers report difficulty applying active teaching practices in large groups of more than 50 students](teachers-report-active-teaching-difficult-large-groups.md) — possibly the same claim (merge candidate)
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
 - [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related
+- [Institutional barriers — inadequate training in innovative pedagogies, high course loads, resistance to change, and lacking resources — impede pedagogical modeling in Ghanaian teacher education](institutional-barriers-pedagogical-modeling-ghana.md) — related

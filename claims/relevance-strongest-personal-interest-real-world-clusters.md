@@ -56,3 +56,4 @@ Item-cluster analysis of the CLASS survey comparing relevance groups; the author
 - [Personal Interest and Real World Connection categories shift differently across courses in response to instruction](personal-interest-and-real-world-shift-differently-by-course.md) — related
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
 - [Problem-solving-general favorability (PSGeneralFav) is the strongest and most significant CLASS predictor of change in TUG-K scores, while real-world connection and sensemaking variables are not significant](psgeneralfav-strongest-predictor-tug-k-change.md) — related
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related

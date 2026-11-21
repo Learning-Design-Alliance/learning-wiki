@@ -58,6 +58,7 @@ The Kantian Effect is the article's proposed metaphor for the scholarship of int
 ## Examples
 
 - [Four architectonic guiding principles for integrating teaching, learning, and technology](architectonic-guiding-principles-integration.md)
+- [Bring physics–environment relations into teaching practice through interdisciplinarity, contextualization of concepts, complex thinking and critical thinking](../strategies/physics-environment-teaching-four-emergent-categories.md)
 
 ## Key Sources
 - Dennis, J. K. (2020). The Kantian Effect: Reconceiving the Integration of Knowledge in Interdisciplinary Theory. JIS Journal of Interdisciplinary Sciences, 4(2). https://eric.ed.gov/?id=ED608667

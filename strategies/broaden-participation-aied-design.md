@@ -43,6 +43,7 @@ The chapter recommends involving diverse educational stakeholders — students, 
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
+- [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
 
 ## Examples
 -

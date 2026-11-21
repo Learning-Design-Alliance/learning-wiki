@@ -52,6 +52,7 @@ The authors integrated Python data analysis into an existing first-semester labo
 ## Related Strategies
 
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
+- [Embed ED problems in parallel with scaffolded lab experiments using physics principles](ed-parallel-scaffolded-labs-strategy.md)
 
 ## Examples
 -

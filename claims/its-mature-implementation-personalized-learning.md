@@ -70,3 +70,4 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 - [Earlier research on writing-support technology centred on Automated Writing Evaluation, Automated Essay Scoring and rarer Intelligent Tutoring Systems, mainly for US secondary school essay writing](strobl-2019-prior-research-awe-aes-its.md) — related
 - [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](personalized-feedback-top-benefit.md) — related
 - [The prototype offers more comprehensive support to diverse learners than existing AI tutors such as Quizlet's Q-Chat](prototype-more-comprehensive-than-qchat.md) — related
+- [Explainable AI contributes to improved learning outcomes by helping educators identify student strengths and weaknesses and tailor interventions](explainable-ai-supports-tailored-learning-interventions.md) — a narrower finding that bears on this claim

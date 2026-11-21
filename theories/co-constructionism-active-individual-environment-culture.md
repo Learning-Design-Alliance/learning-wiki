@@ -55,6 +55,7 @@ The article reports Cole and Wertsch's (1996) argument that researchers overfocu
 ## Examples
 
 - [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](../principles/teacher-as-mediator-not-content-disseminator.md)
+- [Use an RPG as a Vygotskian mediating instrument for investigative teaching of Modern Physics](../strategies/rpg-as-vygotskian-mediating-instrument-strategy.md)
 
 ## Key Sources
 - Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier

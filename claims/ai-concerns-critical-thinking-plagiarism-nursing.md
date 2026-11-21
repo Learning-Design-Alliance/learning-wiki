@@ -107,3 +107,5 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Pre-service teachers anticipated ChatGPT would support questioning (16/29), individualized learning support (9/29), formative evaluation (8/29), critical thinking (5/29), and digital literacy (4/29)](anticipated-benefits-chatgpt-science-learning.md) — related
 - [GenAI was less fruitful in the definition stage of design, where students reflected it did not support critical thinking and risked shallow learning](genai-definition-stage-shallow-learning-risk.md) — related
 - [A small minority of participants (about 5%) explicitly disliked AI-generated content, raising ethical design concerns](minority-dislike-ai-generated-content.md) — related
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related
+- [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related

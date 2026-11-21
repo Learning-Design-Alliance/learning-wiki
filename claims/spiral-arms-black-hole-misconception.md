@@ -50,3 +50,4 @@ Survey 1 open-ended responses about a spiral galaxy photograph (Figure 3): most 
 - [Galaxy and spectra misconceptions persist after instruction, with similar patterns across two different classes](misconceptions-persist-after-instruction.md) — related
 - [Students misattribute foreground stars in an Andromeda photograph to the Andromeda galaxy rather than the Milky Way](foreground-stars-attribution-misconception.md) — related
 - [Teachers' language reflected a substance-based, agentive ontology of gravity, treating gravity as an active noun participant capable of pulling](gravity-agent-metaphor-teacher-talk.md) — related
+- [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — related

@@ -49,3 +49,4 @@ Sensitivity analysis of the matched observational study using the Hosman et al. 
 - [The estimated direct effect of CTA1 assignment holding hint usage at control levels is 0.18 standard deviations when covariate-adjusted, with confidence intervals crossing zero](mediation-direct-effect-cta1.md) — related
 - [Mediation analysis estimates that hint availability lowers the CTA1 treatment effect, with an average indirect effect of -0.04 standard deviations](mediation-indirect-hint-effect-negative.md) — related
 - [In a matched observational study within the CTA1 trial, being a high hint user is associated with posttest scores around 0.15 standard deviations lower](high-hint-users-lower-posttest-observational.md) — related
+- [AI-generated hint use was equitable across gender and race/ethnicity groups, with most students trying at least one hint](ai-hints-use-equitable-across-groups.md) — related

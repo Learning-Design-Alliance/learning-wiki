@@ -77,3 +77,4 @@ After applying ThresholdOptimizer, the article observed "a slight drop in perfor
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — related
 - [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related
 - [Most reviewed education-fairness studies found no strict tradeoff between fairness and accuracy](no-strict-fairness-accuracy-tradeoff.md) — related
+- [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related

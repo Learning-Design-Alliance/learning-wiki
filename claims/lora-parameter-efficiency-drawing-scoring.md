@@ -51,3 +51,4 @@ Model complexity analysis (Table 3): all approaches share the same 86.4M ViT bac
 - [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
+- [A shared-backbone framework with task-specific LoRA adapters achieves average QWK of 0.848 across 27 scoring tasks versus 0.888 for fully fine-tuned models](shared-backbone-lora-qwk-0-848-vs-0-888.md) — related

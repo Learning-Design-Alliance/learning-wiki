@@ -49,3 +49,4 @@ Weighted independent-samples t-tests (FDR-corrected) on verbal (AUT) and figural
 
 ## Related Claims
 - [Design majors outperform matched non-design majors on visual artistic creativity task performance, with medium to large effect sizes](design-majors-higher-visual-artistic-creativity.md) — related
+- [o1-preview outperformed university students on both divergent (AUT originality) and convergent (RAT accuracy) creative thinking tasks](o1-preview-creative-thinking-aut-rat.md) — related

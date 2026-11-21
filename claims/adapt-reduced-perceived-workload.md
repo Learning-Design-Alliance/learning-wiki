@@ -59,3 +59,4 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
 - [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
+- [Teachers agreed AI can assist with planning tasks such as preparing lessons and activities before class and improving professional training](teachers-agree-ai-assists-planning-tasks.md) — related

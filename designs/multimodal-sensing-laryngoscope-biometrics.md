@@ -43,7 +43,9 @@ The system's data-acquisition layer streams real-time performance and physiologi
 - 
 
 ## Related Designs
+
 - Hybrid Vr Airway Management Training System
+- [Wearable GSR and heart rate physiological collection system on Raspberry Pi](raspberry-pi-gsr-hr-physiological-collection-system.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](abrupt-transition-disparate-counterproductive-effects.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
+- [Robustness checks on longer and more important writing assignments showed larger SES gaps, reinforcing the digital-inequality finding](robustness-longer-submissions-larger-inequality.md) — a narrower finding that bears on this claim

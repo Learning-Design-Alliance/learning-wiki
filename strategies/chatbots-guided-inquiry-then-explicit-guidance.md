@@ -42,6 +42,7 @@ Based on the finding that combination-preferring students showed nominally more 
 - [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](eeg-triggered-socratic-fallback-hybrid-tutoring.md)
 - [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
 - [Run the brachistochrone activity in groups of four with learning assistants, allow fifty minutes, give hints, and provide the correct graphs at the end](brachistochrone-activity-implementation-recommendations.md)
+- [Escalate explanation scope and simplicity on repeated clarification requests](escalate-explanation-level-repeated-requests.md)
 
 ## Examples
 -

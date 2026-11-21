@@ -55,3 +55,4 @@ The review reports, citing Yaneva et al. (2019), that readability measures under
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — a broader claim this one bears on
 - [AI assistance was typically positive in tone and of college-level reading difficulty](ai-assistance-positive-tone-college-reading-difficulty.md) — related
 - [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related
+- [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — a broader claim this one bears on

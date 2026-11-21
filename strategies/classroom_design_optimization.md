@@ -56,8 +56,10 @@ Physical conditions function as a baseline [Cognitive Load Management](../princi
 5. Re-audit and iterate — track on-task behavior and attainment alongside physical measurements to confirm the changes are working.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the acoustic-specific subset of this strategy
 - [Chunking](../principles/chunking.md) — both strategies manage working memory load, one through content design, one through environment design
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - **The HEAD Study ([Barrett et al., 2015](https://doi.org/10.1016/j.buildenv.2015.02.013))** — studied 153 classrooms in 27 UK schools and found that naturalness factors (light, temperature, air quality) accounted for the largest share of explained variation in pupil progress over a year.

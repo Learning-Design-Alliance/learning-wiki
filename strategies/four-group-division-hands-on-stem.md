@@ -48,4 +48,4 @@ For one-off hands-on STEM sessions with a single educator, the article recommend
 -
 
 ## Key Sources
-- Fior, G., Fonda, C. and Canessa, E. (2025). Hands-on STEM learning experiences using digital technologies. https://arxiv.org/abs/2408.00781
+- Fior, G., Fonda, C. and Canessa, E. (2025). Hands-on STEM learning experiences using digital technologies. https://arxiv.org/abs/2408.00781. [doi:10.3934/steme.2025009](https://doi.org/10.3934/steme.2025009)

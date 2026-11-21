@@ -46,6 +46,7 @@ A constructionist pedagogical framework that structures student engagement with 
 
 - [A design-oriented pedagogical framework for integrating LLMs to scaffold critical thinking in higher education](llm-critical-thinking-pedagogical-framework.md)
 - [Prompt Literacy Cycle: a five-stage recursive structure for daily prompting practice](prompt-literacy-cycle.md)
+- [Six design requirements for expert-driven prompt-authoring interfaces grounded in the Human-Centered AI framework](prompthive-design-requirements-hcai.md)
 
 ## Examples
 -

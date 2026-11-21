@@ -41,7 +41,9 @@ The article adopts the inquiry-based learning strategy (Aprendizaje Basado en In
 - 
 
 ## Related Designs
+
 - Graasp Ode Pendulum Ils
+- [Inquiry-based learning cycle as the organizing framework for AI-assisted lesson design](ibl-five-phase-cycle-framework.md)
 
 ## Examples
 -

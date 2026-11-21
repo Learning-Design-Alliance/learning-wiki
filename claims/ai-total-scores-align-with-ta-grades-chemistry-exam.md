@@ -80,3 +80,5 @@ Per-problem scatterplots and linear regressions of AI-assigned versus TA-assigne
 - [AI grades more leniently than teaching assistants and clusters rubric item grades more strongly, indicating holistic rather than differentiated grading](ai-grades-leniently-and-holistically.md) — related
 - [AI-assisted grading achieves high precision for identifying passing exams but low recall, meaning failing grades still require human grading](high-precision-low-recall-ai-pass-fail.md) — related
 - [Rubric-based and parts-based grading workflows outperform problem-based grading, possibly because GPT-4-32k cannot reliably add numbers](wf1-wf2-outperform-wf3-grading.md) — related
+- [AI-assisted grading of a high-stakes physics exam achieves R² ≈ 0.91 agreement with human grades when handling half of the grading load and R² ≈ 0.96 at one-fifth of the load](ai-grading-accuracy-workload-tradeoff.md) — related
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

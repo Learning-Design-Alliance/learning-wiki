@@ -53,3 +53,4 @@ Longitudinal ML analysis of the same matched cohort testing each well-being comp
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
 - [Greater composite youth subjective well-being predicts higher NAPLAN Numeracy scores 7–8 months later, controlling for prior scores and confounders, but does not significantly predict Reading scores](wellbeing-index-predicts-numeracy-not-reading.md) — related
 - [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related
+- [NAPLAN testing elevates student stress and anxiety, with feelings intense among older students](naplan-student-anxiety-stress.md) — related

@@ -65,6 +65,7 @@ Segmenting works because working memory is severely limited; when a continuous a
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Chunking lecture content and using the pause procedure to improve student concentration](chunking-pause-procedure-concentration.md)
 - [Combine thought experiments with computer-generated animation, and sequence visualizations from simple to complex, when teaching Special Relativity](combine-thought-experiments-with-sr-animation.md)
+- [Future pacing design should explore pausing at key moments rather than evenly slowing visuals](pacing-design-pause-at-key-moments-strategy.md)
 
 ## Examples
 - **Mayer & Chandler (2001)** — the canonical experiment: a lightning-formation animation split into user-paced segments produced substantially better transfer than the continuous version.

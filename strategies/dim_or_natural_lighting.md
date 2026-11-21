@@ -56,8 +56,10 @@ Lighting is part of the physical environment's contribution to cognitive load: g
 5. Combine with other environmental controls — [Acoustics and Noise Management](acoustics_and_noise_management.md) — since sensory load is cumulative.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory counterpart; sensory load from noise and light compounds
 - Flexible Seating — often co-implemented; both give learners control over their physical conditions
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — lighting adjustments are frequently formalized as accommodations for sensory-sensitive learners

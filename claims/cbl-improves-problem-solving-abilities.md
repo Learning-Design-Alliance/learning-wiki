@@ -54,3 +54,4 @@ Meta-analysis of two of six questionnaire-survey studies (535 students assessed 
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related
+- [Integrating physics into pharmacy education can significantly enhance students' problem-solving and analytical skills](physics-integration-enhances-pharmacy-student-analytical-skills.md) — related

@@ -40,6 +40,7 @@ The authors' design recommendations for future AI-audio tools, drawn from the qu
 
 - [Reflection](reflection.md)
 - [Add visual elements, improve audio quality, and explore multimodal generative lessons when designing AI-generated educational content](ai-podcast-multimodal-design-strategy.md)
+- [Include deliberate gaps (__FILL__) in example input files to force engagement with documentation](fill-gaps-in-example-input-files.md)
 
 ## Examples
 -

@@ -55,6 +55,7 @@ The pilot activity asked pre-service teachers to engage with ChatGPT as part of 
 - [Paired-question technique: matching questions so students get one right and one wrong, then guiding refinement of raw intuition](paired-question-technique-elby.md)
 - [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](socratic-agent-to-think-with-prompting-strategy.md)
 - [Reflection Prompts](reflection_prompts.md)
+- [Configure ChatGPT prompts to act as a teacher who guides students toward correct answers without revealing them](chatgpt-teacher-guidance-prompting-strategy.md)
 
 ## Examples
 -

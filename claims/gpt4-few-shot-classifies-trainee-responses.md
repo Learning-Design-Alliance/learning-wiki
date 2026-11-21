@@ -52,3 +52,5 @@ Evaluation of zero-shot and two-way few-shot GPT-4 classifiers on 383 analyzed t
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — related
 - [The authors report that instant binary Correct/Incorrect feedback on programming exercises can demotivate beginners and promote cheating](binary-feedback-demotivation-cheating-concern.md) — related
 - [Zero-shot MeNSP scored science written responses without training data at Cohen's Kappa 0.30–0.57, improvable to 0.38 at the lower end with few-shot samples](mensp-zero-shot-scoring-kappa-range.md) — related
+- [GPT-4o with few-shot learning offers the best balance of performance, cost, and speed for large-scale assessment, far cheaper than human grading](gpt4o-fewshot-preferred-cost-speed.md) — related
+- [GPT-4o and GPT-4-turbo assessed tutors' open-ended equity responses proficiently, with few-shot prompting outperforming zero-shot](llm-few-shot-outperforms-zero-shot-equity-assessment.md) — related

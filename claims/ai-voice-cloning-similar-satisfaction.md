@@ -50,3 +50,4 @@ Satisfaction was measured on a 4-point Likert scale immediately after viewing. O
 - [AI voice cloning reduces audio production time by approximately one-third compared to traditional recording](ai-voice-cloning-reduces-production-time.md) — related
 - [Student perceptions of AI technology may negatively influence satisfaction with synthetic voices](ai-perception-affects-satisfaction.md) — related
 - [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related
+- [Adult learners report similar affect toward the human instructor video and the AI synthetic video](affect-similar-human-and-ai-video.md) — related

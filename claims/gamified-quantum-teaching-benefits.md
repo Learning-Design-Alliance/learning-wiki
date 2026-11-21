@@ -51,3 +51,4 @@ This is a narrative review statement in which the article attributes the finding
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Students with no prior quantum computing background can solve entry-level quantum compilation puzzles using Quantum Odyssey's visual puzzle interface](quantum-odyssey-untrained-students-solve-quantum-puzzles.md) — a narrower finding that bears on this claim
+- [Preliminary classroom use in the Ferrara M.Sc. quantum computing course received encouraging feedback from both theoretical and coding-skilled students](ferrara-msc-course-encouraging-feedback.md) — related

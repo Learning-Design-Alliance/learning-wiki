@@ -57,9 +57,11 @@ The physical environment functions as a precondition for instruction: even well-
 6. **Monitor and maintain.** Re-audit annually and tie findings to facility budgets.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the acoustic component of facility optimization, with classroom-specific tactics
 - [Check-Ins](../principles/check-ins.md) — surface comfort and environmental complaints that formal audits miss
 - [Active Learning](../principles/active-learning.md) — reconfigurable space is a prerequisite for many active-learning formats
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - **Wargocki & Wyon's classroom intervention studies** — controlled experiments in Danish and English primary schools showed that improving ventilation and lowering classroom temperature improved speed and accuracy on schoolwork tasks [doi:10.1111/ina.12032](https://doi.org/10.1111/ina.12032) [+S]

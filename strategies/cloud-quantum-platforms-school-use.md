@@ -44,9 +44,11 @@ At a symbolic, language-based level, the article describes platforms offering fr
 - [Use two access tiers (pulse-level and circuit-level) when teaching with an on-premises quantum computer](on-premises-quantum-two-access-tiers-education.md)
 - [Use real-hardware experiment results that deviate from theory to motivate a discussion of quantum error correction](real-hardware-error-observation-strategy.md)
 - [Use no-code interactive circuit simulators as an on-ramp to quantum computing frameworks and hardware](no-code-simulator-onramp-quantum-computing.md)
+- [Design quantum courses around cloud-based platforms and simulators where hardware access is limited](cloud-based-quantum-platforms-course-design.md)
+- [Sequence Qiskit instruction from environment setup through real-QPU job submission with multi-platform examples](qiskit-qpu-job-submission-sequence.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Paparo, G., Finsterhoelzl, R., Waldvogel, B., and Grillenberger, M. (2024). Teaching Quantum Informatics at School: Computer Science Principles and Standards. arXiv preprint. https://arxiv.org/abs/2407.12340
+- Paparo, G., Finsterhoelzl, R., Waldvogel, B., and Grillenberger, M. (2024). Teaching Quantum Informatics at School: Computer Science Principles and Standards. arXiv preprint. https://arxiv.org/abs/2407.12340. [doi:10.48550/arxiv.2407.12340](https://doi.org/10.48550/arxiv.2407.12340)

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-20
 sources:
   - id: tetiana-zubenko-2019
     resource: "https://doi.org/10.20535/2410-8286.165717"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Tetiana Zubenko 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -51,3 +52,4 @@ Correlational analysis within the LWPA group (n = 14) of average time spent list
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](lwpa-by-exam-subsection-interaction.md) — related
 - [Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training](l1-to-l2-audio-training-improves-translation.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — a broader claim this one bears on
+- [A Doer Effect is observed in the non-WEIRD sample: practice remains significantly related to exam scores while accounting for prior radio listening, whereas prior listening alone is not](doer-effect-radio-phone-uganda.md) — related

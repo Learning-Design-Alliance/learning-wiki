@@ -39,7 +39,8 @@ The article recommends seizing the reform's change and adaptation period to sow 
 - teaching physical concepts such as movement and force in secondary school
 
 ## Related Strategies
-- 
+
+- [Four-part didactic sequence structure for curvature-based mechanics problems](four-part-curvature-problem-sequence.md)
 
 ## Examples
 -

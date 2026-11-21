@@ -50,3 +50,4 @@ Logistic regression on transcript data from 1909 community college astronomy stu
 - [Mathematics preparation predicts astronomy outcomes: each math grade point raises pass odds 54%, while repeating math and developmental math enrollment lower them](mathematics-preparation-predicts-astronomy-outcomes.md) — a narrower finding that bears on this claim
 - [A logistic regression model using SNA indicators classifies high versus low achievers with 93.3% accuracy (AUC 0.92) in the study dataset](logistic-regression-classifies-achievement-93-percent.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — related
+- [The type of physics-related course taken was the most significant factor correlated with students' physics course grades and with passing versus failing](physics-course-type-predicts-grades.md) — related

@@ -32,7 +32,8 @@ DIALANG is a free adaptive web-based diagnostic language assessment system that 
 - [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](../claims/dialang-cefr-levels-miss-zpd-differences.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [Speak & Improve](speak-improve.md)
 
 ## Key Sources
 - Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925

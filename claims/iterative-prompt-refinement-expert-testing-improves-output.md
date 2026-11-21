@@ -55,3 +55,5 @@ Author interpretation from the discussion section, supported by other studies sh
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
 - [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — related
+- [Experts iterated extensively on prompts, averaging 30 executions and 10 library commits, with most reaching their final textbook-level prompt in 3 to 6 iterations](prompthive-prompt-iteration-behavior.md) — related
+- [Most lesson-level prompts needed tailoring: only 8 of 59 were verbatim textbook-level clones](lesson-level-prompts-needed-tailoring.md) — related

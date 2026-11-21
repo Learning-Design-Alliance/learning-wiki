@@ -61,3 +61,4 @@ Process-level analysis addressing RQ2 in the same within-subjects study: JVA agg
 - [Proactive multimodal feedback significantly reduces debugging time on task compared to control](propact-feedback-reduces-debugging-time.md) — related
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
+- [Before feedback, no significant physical-virtual difference existed; after ChatGPT feedback on the procedural question (Q3), students' normalized total fixation duration was higher on physical experimental components than on virtual representations, in one pre-post study with no comparison group](feedback-redirects-attention-physical-components.md) — related

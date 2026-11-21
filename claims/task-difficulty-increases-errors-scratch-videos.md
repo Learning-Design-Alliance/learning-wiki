@@ -51,3 +51,4 @@ Poisson GLMM analysis of error counts from the within-subjects study (N=162 obse
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
+- [Task achievement rates showed no significant decrements across VRT sessions, supporting the appropriateness of the difficulty progression design](vr-pmt-no-achievement-decrement-sessions.md) — related

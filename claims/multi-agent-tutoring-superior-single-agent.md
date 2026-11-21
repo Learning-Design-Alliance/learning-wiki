@@ -54,3 +54,5 @@ The review attributes this comparative conclusion to Gupta and Heggond's (2026) 
 - [Pairing several children per computer did not lower learning gains despite weaker individualisation](two-children-per-computer-gains-not-lower.md) — related
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — related
 - [The population-based engagement model outperforms per-learner personalised models when individual training data is limited (around 60 events)](population-model-better-in-cold-start.md) — related
+- [The AutoFeedback multi-agent system significantly outperforms a single GenAI agent by reducing over-praise and over-inference in generated feedback](autofeedback-multi-agent-reduces-over-praise-over-inference.md) — a narrower finding that bears on this claim
+- [A single GenAI agent generating feedback on science constructed responses produces over-praise in 15.42% of feedback and over-inference in 27.20%, with 9.58% exhibiting both](single-agent-genai-feedback-over-praise-over-inference-rates.md) — related

@@ -40,7 +40,8 @@ The author's teaching units pair each machine learning theme, such as a new algo
 - 
 
 ## Related Designs
-- 
+
+- [Computational thinking tasks using Jupyter Notebooks in the physics laboratory](ct-jupyter-notebook-physics-lab-element.md)
 
 ## Examples
 -

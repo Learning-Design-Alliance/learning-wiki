@@ -65,3 +65,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Elementary students' internal thinking in geometry involves two types of abstraction: process and product](abstraction-process-product-types.md) — related
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related
 - [Students' metacognitive reflections recommend instructors use concrete experiments and practical movement situations when teaching graphical representation](instructor-concrete-experiments-recommendation.md) — related
+- [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related

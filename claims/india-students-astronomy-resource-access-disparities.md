@@ -89,3 +89,4 @@ Survey question asking students to estimate the number of stars they had observe
 - [Indian grade 9 students show large socioeconomic and gender gaps in correctly ordering celestial sizes, with only 65% answering correctly overall](india-grade9-celestial-size-ordering-gaps.md) — related
 - [Only 35% of Indian grade 9 students correctly order distances from Earth, with students unsure where stars belong in the sequence](india-grade9-astronomical-distance-scale-deficiency.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [Early astronomy interest among undergraduates is typically rooted in directly observing astronomical phenomena with family](early-interest-observing-night-sky-family.md) — related

@@ -48,3 +48,4 @@ Analysis of the polarising-question response distributions in table 2. The autho
 - [FCI polarising effect most pronounced in classes where physics comprehension is assumed to be greatest](fci-polarising-pronounced-higher-aptitude.md) — related
 - [FCI questions 5, 11, 13, 18, 29 and 30 showed polarisation between the correct answer and one dominant incorrect answer at UJ, consistent with prior studies](fci-polarising-questions-dominant-incorrect-answers-uj.md) — related
 - [Polarising effect fairly consistent for FCI questions 18, 29 and 30 but answers far more scattered for questions 5, 11 and 13](fci-polarising-consistency-varies-across-questions.md) — related
+- [The 30-item FCI bank is insufficient for Chain-CAT: high-discrimination items dominate administration while many low-discrimination items are never used](fci-item-bank-insufficient-chain-cat.md) — related

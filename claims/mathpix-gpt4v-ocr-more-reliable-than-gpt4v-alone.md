@@ -48,3 +48,4 @@ Operational comparison of two OCR approaches across the exam corpus. The GPT-4V-
 ## Related Claims
 - [Converting handwritten exam answers into machine-readable format is the greatest challenge for AI-assisted grading](ocr-conversion-greatest-challenge-ai-grading.md) — a broader claim this one bears on
 - [Students rated Ethel's handwritten-homework feedback helpful and correct in 3/4th of cases, but the system tended to underestimate solution correctness, mostly due to handwriting recognition](ethel-homework-feedback-ratings.md) — related
+- [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related

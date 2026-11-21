@@ -50,4 +50,4 @@ The article recommends that, assuming students will use generative AI, "students
 -
 
 ## Key Sources
-- Borges, et al. (2024). Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants. https://arxiv.org/abs/2408.11841
+- Borges, et al. (2024). Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants. https://arxiv.org/abs/2408.11841. [doi:10.1073/pnas.2414955121](https://doi.org/10.1073/pnas.2414955121)

@@ -70,3 +70,4 @@ Pooled estimators (median and mean of three passes, and a cross-model pool) agai
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a broader claim this one bears on
 - [Statistical independence of repeated measurements does not hold for course grades, invalidating a posteriori error estimates](statistical-independence-violated-for-grades.md) — related
+- [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related

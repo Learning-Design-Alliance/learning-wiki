@@ -52,3 +52,5 @@ This is the authors' theoretical position statement in the introduction, offered
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
 - [Enhancing information with visual data and stories is associated with a statistically significant difference in engagement levels in quantum computing education](visual-narrative-engagement-significant-difference.md) — related
 - [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related
+- [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related
+- [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related

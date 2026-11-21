@@ -48,3 +48,4 @@ Mann–Whitney U test comparing post-test scores of the two quasi-experimental g
 - [Conducting the LEGO Serious Play Scrum activity produced a statistically significant, medium pre-to-post knowledge gain in Scrum](lego-serious-play-medium-gain-scrum.md) — related
 - [Students' Scrum knowledge scores rose significantly from pre-test to post-test, with a large effect size, after playing the ScrumVR virtual reality serious game](vr-serious-game-large-gain-scrum.md) — related
 - [About a third of VR game players reported dizziness, but dizziness did not correlate with their intention to use similar VR games or any other perception](vr-dizziness-no-perception-correlation.md) — related
+- [Learning gains do not differ significantly between VR-based and computer-based pedagogical agents](no-significant-learning-gain-difference-vr-vs-desktop-pas.md) — related

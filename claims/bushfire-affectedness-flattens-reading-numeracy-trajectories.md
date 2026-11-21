@@ -51,3 +51,4 @@ Multilevel random-slope analysis of 24,642 students' NAPLAN scores, controlling 
 - [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related
 - [Year level is a significant predictor of NAPLAN performance across all five academic domains, with Grade 5 students scoring higher than Grade 3](year-level-predicts-naplan-all-domains.md) — related
 - [The authors hypothesize that the observed reading and numeracy deficits may be cognitively mediated, directly or through PTSD development](cognitively-mediated-academic-deficits-hypothesis.md) — related
+- [NAPLAN implementation is associated with an uptrend in reading and numeracy scores among Australian primary school students](naplan-primary-reading-numeracy-uptrend.md) — related

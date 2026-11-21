@@ -53,3 +53,4 @@ This is the Guide's own interpretive account (type e) of why isolation is common
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — related
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
+- [Masking autistic traits consumes substantial cognitive energy and contributes to social isolation, burnout, and mental health problems](masking-costs-burnout-autistic-trainees.md) — related

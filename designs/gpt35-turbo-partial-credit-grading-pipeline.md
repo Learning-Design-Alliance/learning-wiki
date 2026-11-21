@@ -40,7 +40,8 @@ The system is a GPT-3.5 Turbo deployment in completion mode, accessed via the Mi
 - [Scaffolded Cot Human Level Agreement Gpt35 Grading](../claims/scaffolded-cot-human-level-agreement-gpt35-grading.md) [+M]
 
 ## Related Designs
-- 
+
+- [LLM-assisted partial-credit grading and feedback workflow with grading confidence index](llm-partial-credit-grading-confidence-workflow.md)
 
 ## Examples
 -

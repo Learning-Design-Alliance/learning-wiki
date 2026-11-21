@@ -47,3 +47,4 @@ Pearson correlations between final grade and total contributions (Posts, Polls, 
 ## Related Claims
 - [Forum network centrality is positively correlated with final course grade in the two semesters with denser forum networks](forum-centrality-correlated-with-grade-dense-semesters.md) — related
 - [Network analysis reveals semester differences in forum structure that participation statistics do not show](network-analysis-reveals-structure-participation-stats-miss.md) — related
+- [No significant changes in grade performance were observed, because forum-based writing contributes only marginally to final course grades](no-grade-performance-change-forum-writing.md) — related

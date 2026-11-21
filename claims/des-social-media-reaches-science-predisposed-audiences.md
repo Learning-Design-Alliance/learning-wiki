@@ -69,3 +69,4 @@ Twitter analytics on DES follower interests. According to Twitter metrics, most 
 - [The popularity of individual DES social media posts was unpredictable, with the most popular posts featuring science-art and popular-culture intersections and observatory photographs](des-post-popularity-unpredictable-science-art-popular-culture.md) — related
 - [Social-media close-up picture game posts reached on average 1400 people, with a maximum of 43301](closer-look-social-media-reach.md) — related
 - [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — reports the opposite
+- [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](popular-culture-astronomy-interest.md) — related

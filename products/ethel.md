@@ -29,4 +29,4 @@ Ethel is an ETH Zurich virtual teaching assistant system combining a course-grou
 -
 
 ## Key Sources
-- Kortemeyer, G. (2024). Ethel: A Virtual Teaching Assistant. arXiv. https://arxiv.org/abs/2407.19452
+- Kortemeyer, G. (2024). Ethel: A Virtual Teaching Assistant. arXiv. https://arxiv.org/abs/2407.19452. [doi:10.1119/5.0231187](https://doi.org/10.1119/5.0231187)

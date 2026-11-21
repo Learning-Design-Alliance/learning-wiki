@@ -46,7 +46,8 @@ The article recommends that placement programs and instructors examine which spe
 - [Specific items show stable, interpretable associations with course outcomes across years, e.g. a basic quotient-of-powers item and an advanced piecewise-function item](../claims/per-item-worked-examples-stable-across-years.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use CDPA response distributions as a remediation tool and report program-level data back to course professors for interpretation](cdpa-remediation-and-professor-feedback-strategy.md)
 
 ## Examples
 -

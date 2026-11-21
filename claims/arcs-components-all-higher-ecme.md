@@ -69,3 +69,5 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — related
 - [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](cgbi-higher-motivation-availability.md) — related
 - [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related
+- [Achievement groups differ significantly in Attention, Relevance, and Confidence but not Satisfaction on the IMMS](anova-imms-achievement-groups.md) — reports the opposite
+- [Self-rated learning motivation scores across all four ARCS dimensions rose significantly from pre-test to post-test in one uncontrolled pre-post study of Code.org instruction](codeorg-imms-motivation-gains.md) — related

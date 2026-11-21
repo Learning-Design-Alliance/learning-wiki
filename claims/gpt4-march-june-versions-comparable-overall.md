@@ -52,3 +52,4 @@ Version comparison from the Discussion's re-analysis of Table 1 and Table 2 data
 - [Self-consistency did not improve GPT-4's answer accuracy on these exams, unlike in chain-of-thought tasks](self-consistency-no-accuracy-gain-reading-exams.md) — related
 - [Including ethnicity does not significantly change mean question facility, but shifts facility in both directions for individual items](ethnicity-inclusion-facility-effects.md) — a narrower finding that bears on this claim
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
+- [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related

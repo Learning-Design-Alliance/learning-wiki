@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (129 show a difference, 41 mixed, 31 no difference) · 144 studies (68 causal, 24 associational, 16 review, 13 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 33 of 144 report an effect size · 200 claims rest on one study
+> **Evidence** · 202 claims (130 show a difference, 41 mixed, 31 no difference) · 145 studies (68 causal, 25 associational, 16 review, 13 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 33 of 145 report an effect size · 201 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -243,6 +243,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Students reported communication with other members as the major difficulty of the project, and the most motivated student began to think critically about the research plan and physics itself](../claims/communication-major-difficulty-critical-thinking.md) [+W] — measured as an outcome of the instruction studied
 - [Incentivized students' improvement is specific to problems they self-diagnosed and corrected, not a general improvement in self-monitoring skills](../claims/incentive-improvement-limited-to-diagnosed-problems.md) [-M] — measured as an outcome of the instruction studied
 - [No significant difference between IP and IA lectures in judgement of learning or comprehension](../claims/no-ip-ia-difference-jol-comprehension.md) [-M] — measured as an outcome of the instruction studied
+- [Metacognitive awareness was positively and significantly associated with performance in object-oriented programming (γ1 = 0.21, p < 0.05) in second introductory programming students](../claims/metacognitive-awareness-positive-effect-oop-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

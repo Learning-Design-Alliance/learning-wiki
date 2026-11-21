@@ -42,7 +42,8 @@ The CCPS model (Chevalier et al., 2020, 2021) is a framework for structuring the
 - [Microintervention Posttest Differences Three Dimensions](../claims/microintervention-posttest-differences-three-dimensions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Design-based thinking operationalized through Capobianco et al.'s iterative phases](design-based-thinking-phases-element.md)
 
 ## Examples
 -

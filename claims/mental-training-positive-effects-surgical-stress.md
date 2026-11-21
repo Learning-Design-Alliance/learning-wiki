@@ -82,3 +82,4 @@ Review synthesis noting a dissociation between subjective and physiological outc
 - [Surgical trainees show a dual emotional pattern of high engagement alongside early signs of burnout](surgical-trainees-emotional-strain-burnout-signs.md) — related
 - [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](stress-skills-psychoeducation-grounding.md) — a narrower finding that bears on this claim
 - [Trauma care training on the job is suboptimal for 3 stated reasons: variable trainee experience, unmanaged stress exposure, and inadequate leadership training](on-the-job-trauma-training-suboptimal.md) — related
+- [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related

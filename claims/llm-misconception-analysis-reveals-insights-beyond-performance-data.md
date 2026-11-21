@@ -58,3 +58,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [GBC gives instructors a quantitative report of common student errors, revealing class-wide misconceptions beyond per-problem averages](gbc-quantitative-error-report.md) — a narrower finding that bears on this claim
 - [Rapid ML surrogate experiments let students observe that increasing salt concentration accumulates ions near the interface](salt-concentration-increases-interface-ion-accumulation.md) — related
 - [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related
+- [Analysis of CDPA incorrect responses reveals recurring misconceptions, including prioritizing fitting more points over points with smaller uncertainty and disregarding uncertainties when averaging data](cdpa-distractors-reveal-uncertainty-misconceptions.md) — related

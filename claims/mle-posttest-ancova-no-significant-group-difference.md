@@ -47,3 +47,4 @@ ANCOVA on post-test RCPM scores with pre-test scores as covariates, comparing 28
 ## Related Claims
 - [The pre-test score gap between the experimental and control groups narrowed from pre-test to post-test in favour of the experimental group](mle-gap-narrowed-favouring-experimental-group.md) — reports the opposite
 - [Within the experimental group, RCPM scores improved significantly from pre-test to post-test following MLE intervention, while the control group showed no significant improvement](mle-intervention-significant-within-group-rcpm-gain.md) — related
+- [No statistically significant difference in learning gains between the AI and Excel groups at the overall level or in any domain after controlling for pre-test scores](no-learning-gain-difference-ai-vs-excel-ancova.md) — a narrower finding that bears on this claim

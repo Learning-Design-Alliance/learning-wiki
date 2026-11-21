@@ -47,3 +47,4 @@ Comparison of Spearman correlation matrices (Fig. 5A data-driven, Fig. 5B domain
 ## Related Claims
 - [Domain-driven explanations significantly increase teachers' understandability, trust, and acceptance compared to data-driven explanations](domain-driven-explanations-increase-understandability-trust-acceptance.md) — related
 - [Teachers' understandability, trust, and acceptance of AI-EdTech recommendations are positively and significantly correlated](understandability-trust-acceptance-positive-correlation.md) — related
+- [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — related

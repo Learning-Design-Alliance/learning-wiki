@@ -68,3 +68,4 @@ E-CLASS result from the same Spring 2012 administration (mean 3.13 for thinking 
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
 - [Students' non-expert beliefs about error analysis persist despite high grade importance and regular practice](grade-incentive-and-practice-do-not-fix-error-analysis-beliefs.md) — related
 - [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — related
+- [E-CLASS survey results show the transformed course had a positive impact on students' confidence in data analysis and equipment use but a negative impact on the perceived importance of communicating scientific results to peers](eclass-guided-lab-transformation-communication-gap.md) — related

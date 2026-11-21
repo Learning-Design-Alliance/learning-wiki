@@ -52,3 +52,4 @@ One-way repeated measures ANOVA on the Learning Preferences Questionnaire respon
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [Science learning-preference levels did not differ significantly between students with and without learning disabilities](no-preference-differences-by-learning-disability.md) — related
 - [Visual feedback was the most preferred feedback modality and acoustic feedback the least preferred](visual-feedback-most-preferred-modality.md) — related
+- [Middle-school students prefer science texts rewritten by GPT-4 to align with their learning-preference profile over generic texts](gpt4-aligned-texts-preferred-over-generic.md) — related

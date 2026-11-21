@@ -51,6 +51,8 @@ The article recommends that business programmes move towards structured AI liter
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 - [Supersede restriction-based education and advance toward education that makes new generations aware of the negative consequences of technology use.](move-beyond-restriction-based-screen-education.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
+- [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

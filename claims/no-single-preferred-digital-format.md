@@ -66,3 +66,4 @@ Discussion of the format results: the animation video was polarising, "it also r
 - [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](stable-mean-rank-ordering-four-video-types.md) — related
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — related
+- [Adult learners prefer learning from video formats over text materials](adult-learners-prefer-video-over-text.md) — related

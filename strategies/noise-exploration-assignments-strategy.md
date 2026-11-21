@@ -41,6 +41,7 @@ Noise exploration assignments introduce students to quantum noise and the differ
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 - [Resource estimation assignments comparing the resources of alternative quantum algorithm implementations](resource-estimation-assignments-strategy.md)
 - [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
+- [Classroom discussion of statistical error versus hardware noise when simulating on quantum devices](statistics-versus-noise-classroom-discussion.md)
 
 ## Examples
 -

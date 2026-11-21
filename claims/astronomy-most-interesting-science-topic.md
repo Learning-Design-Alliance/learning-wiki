@@ -67,3 +67,4 @@ The review attributes to Liberman (2012) the finding that "learning about astron
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
 - [About one third of Belgian respondents declare an interest in astronomy, with interest rising with cultural level, ecological concern and science background](belgium-astronomy-interest-one-third.md) — related
 - [Indian secondary students show high interest in astronomy, but career aspiration is higher among resource-poor students (46% vs 30%) and awareness of the astronomer pathway is poor](india-students-astronomy-interest-career-aspirations.md) — a narrower finding that bears on this claim
+- [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](popular-culture-astronomy-interest.md) — related

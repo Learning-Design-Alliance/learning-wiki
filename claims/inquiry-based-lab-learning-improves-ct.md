@@ -58,3 +58,4 @@ Narrative review section on biological sciences and CT, reporting (citing [36]) 
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — a broader claim this one bears on
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [The article attributes the recycle-materials advantage to problem-solving challenge, motivation, and creativity, and notes control-class students without worksheets scored lower](recycle-practicum-attributed-mechanisms.md) — related
+- [Using the IBL Educator GPT improved science educators' perspectives on adopting AI-based tools for personalizing teaching](ibl-gpt-improves-ai-adoption-perspectives.md) — related

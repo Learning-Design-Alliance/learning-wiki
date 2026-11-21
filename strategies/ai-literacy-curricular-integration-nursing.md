@@ -54,6 +54,7 @@ The article recommends that nursing curricula address specific educational needs
 - [Support AI literacy, safe AI use, team-based learning, and innovation-supportive work environments, with mentoring for low-support settings](ai-literacy-innovation-support-nursing-management-strategy.md)
 - [Integrate structured, tailored AI training into medical education and continuing professional development](structured-ai-training-in-medical-education-strategy.md)
 - [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

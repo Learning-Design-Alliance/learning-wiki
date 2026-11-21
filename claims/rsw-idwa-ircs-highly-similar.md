@@ -49,3 +49,4 @@ Dot product analysis of IRCs from 6,584 American students (RSW) against the IDW 
 - [American and Japanese students' FMCE item response curves differ meaningfully for many items, mostly in incorrect-answer choices rather than correct-answer rates](american-japanese-irc-differences-incorrect-answers.md) — related
 - [Quantitative IRC dot product comparison reveals differences (e.g., item 21, item 38) that qualitative visual comparison missed, revising which items IDW highlighted](dot-product-reveals-non-salient-irc-differences.md) — related
 - [Item 32 shows the largest American-Japanese IRC difference: American students mostly choose action-dependence answer B while Japanese students mostly choose F](item-32-largest-irc-difference.md) — related
+- [NRM rankings of incorrect responses differ noticeably between independent data sets for most FMCE items](nrm-rankings-inconsistent-across-datasets.md) — related

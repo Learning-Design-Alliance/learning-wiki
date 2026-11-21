@@ -48,3 +48,4 @@ Observational finding from the section-by-assessment score comparison (Figure 2)
 - [The section whose final exam combined all four question formats had the highest final exam median, while the essay-only section had the lowest](combined-format-section-highest-final-exam-median.md) — related
 - [The online (DL) section performed worse in lab assignments than the in-class sections, attributed to lack of on-site help](dl-section-labs-worse-than-in-class.md) — related
 - [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — a broader claim this one bears on
+- [A hybrid take-home/in-class exam produced lower self-reported stress while completing the exam than a traditional in-class exam in introductory physics (pMW = 0.019)](hybrid-exam-lower-completion-stress.md) — related

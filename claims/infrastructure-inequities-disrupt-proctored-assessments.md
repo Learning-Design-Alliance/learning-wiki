@@ -76,3 +76,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [E-learning in Nigeria is argued to offer increased access, convenience of time and place, varied resources and individualised learning, but few universities use ICT](e-learning-nigeria-access-benefits-low-adoption.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
 - [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related
+- [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — related

@@ -74,3 +74,4 @@ The brief's summary of its review of preventive self-regulation interventions re
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [Mindfulness shows no significant direct relationship with school results or well-being in adolescents](mindfulness-no-direct-effect-school-results-well-being.md) — related
 - [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — related
+- [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related

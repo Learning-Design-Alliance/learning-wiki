@@ -91,3 +91,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Environmental design is the most used presence-enhancement method (89.7% of studies), followed by multimodal sensory and avatar design (57.7% each)](environment-design-dominant-presence-method.md) — related
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](qualitative-embodiment-and-motivational-language-benefits.md) — a narrower finding that bears on this claim
+- [Moderate adaptivity, but not high adaptivity, significantly increases visual attention to the AI tutor avatar relative to a non-adaptive baseline](moderate-adaptivity-increases-avatar-dwell-time.md) — related

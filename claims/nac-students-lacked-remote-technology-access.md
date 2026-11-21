@@ -52,3 +52,4 @@ Survey item from the NAC Alumni Survey on technological barriers. The article re
 - [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related
 - [Graduates use computers for data analysis often or all the time, Python almost universally, and want more advanced technical skills](graduates-routine-computation-python-default-advanced-skill-gaps.md) — related
 - [A third-year undergraduate with minimal background could install and run deMon2k and complete guided basis-set lessons using only her personal computer](undergraduate-beta-test-lessons-0-1.md) — related
+- [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related

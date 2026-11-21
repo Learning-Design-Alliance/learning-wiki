@@ -52,6 +52,7 @@ The article recommends introducing gauge theory through intuitive analogue model
 ## Related Strategies
 
 - [For SU(2) and SU(3) symmetries, skip analogy-seeking and introduce the symmetries directly, stating that they give rise to forces when gauged](introduce-su2-su3-without-analogy.md)
+- [Combine conceptual-qualitative understanding with accessible mathematical treatment and active learning tasks when teaching modern physics to non-specialists](conceptual-plus-accessible-math-active-learning-modern-physics.md)
 
 ## Examples
 -

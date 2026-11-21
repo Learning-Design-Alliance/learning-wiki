@@ -79,3 +79,4 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [ID learners' initial theoretical understanding is basic, perfunctory, and reliant on expert sources](initial-theoretical-understanding-basic-perfunctory.md) — related
 - [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related
 - [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
+- [Students rate genAI most helpful for explaining domain knowledge and least helpful for verifying solutions, while faculty recommend genAI for fewer than a third of problem-solving uses](student-faculty-misalignment-genai-problem-solving.md) — related

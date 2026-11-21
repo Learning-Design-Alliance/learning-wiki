@@ -72,8 +72,10 @@ Physical environment features account for measurable variance in learning progre
 5. Establish belonging signals — learner work displayed, names and ownership of shared spaces — and check in regularly via [Check-Ins](../principles/check-ins.md) to verify the space actually feels comfortable to the learners using it.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory component of environmental comfort
 - [Accessible Syntax](accessible_syntax.md) — the parallel linguistic-comfort strategy: lowering threat in how instructions are phrased
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - **HEAD/TLE classroom design study (UK)** — Barrett et al. studied 153 classrooms across 27 schools, finding that light, temperature, air quality, and ownership/flexibility of space predicted measurable gains in pupil progress in reading, writing, and mathematics ([Salford University summary](https://www.salford.ac.uk/research/health-and-society)).

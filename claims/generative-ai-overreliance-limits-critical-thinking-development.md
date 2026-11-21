@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-20
 sources:
   - id: aldighrir-wafa-mohammed-2026
     resource: "https://doi.org/10.1038/s41598-026-65021-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overreliance on generative AI may limit students' chances to cultivate analysis, inference, verification, argumentation, and metacognitive monitoring when AI replaces the learner's own interpretation and judgment. [→ Aldighrir Wafa Mohammed 2026](#aldighrir-wafa-mohammed-2026)

@@ -181,6 +181,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - **Audio plus visual explainer**: Learners create a narrated slide deck or short screencast teaching a concept.
 - **Advocacy video or campaign artifact**: Learners synthesize evidence into a public-facing multimedia message.
 - **Photo-essay or annotated image sequence**: Learners use curated visuals and captions to communicate analysis or reflection.
+- [Budget extra schedule time for scripting and coding in media-production projects](../strategies/budget-extra-time-for-scripting-and-coding.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

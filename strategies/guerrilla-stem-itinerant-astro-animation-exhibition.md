@@ -49,6 +49,7 @@ A proposed future direction extending astro-animation beyond the classroom into 
 - [Exhibition](exhibition.md)
 - [Scientific Method of Animation: a five-step intentional process for animation as inquiry in a scientific research setting](scientific-method-of-animation-five-steps.md)
 - [Partner with a wide range of US music festivals to reach distinct audience communities](partner-wide-range-of-us-festivals.md)
+- [Run a comprehensive K-12 public engagement and outreach strategy for fusion](k12-fusion-outreach-strategy.md)
 
 ## Examples
 -

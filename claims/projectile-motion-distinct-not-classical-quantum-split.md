@@ -54,3 +54,4 @@ Cross-scenario comparison of response distributions and explanation codes from t
 - [Across all four experimental scenarios regardless of paradigm, most upper-level students list at least one limitations source of uncertainty](limitations-listed-across-all-scenarios.md) — related
 - [When interpreting data distributions, students draw on more varied uncertainty sources than for generic questions, softening the classical-quantum polarization](data-context-broader-uncertainty-sources.md) — related
 - [Many students attribute uncertainty to quantum principles even in a quantum experiment whose theory predicts a single-value outcome, which the authors suggest may be detrimental to reasoning](quantum-principles-accessible-even-when-irrelevant.md) — related
+- [Randomized projectile motion exercises yield non-uniform output distributions even with uniform inputs](uniform-inputs-nonuniform-outputs-projectile.md) — related

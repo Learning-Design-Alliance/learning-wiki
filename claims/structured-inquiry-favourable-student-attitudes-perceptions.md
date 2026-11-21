@@ -50,3 +50,4 @@ Descriptive comparison of a 20-question attitude and perception questionnaire (i
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
 - [PBLCCS shows no significant advantage over EDI for mathematical curiosity attitude gains](pblccs-no-mca-advantage-over-edi.md) — related
 - [The inquiry-based integrated thematic model was implemented at a very good level (mean RPP implementation score 92) versus good (83) for thematic instruction](implementation-fidelity-inquiry-thematic-model.md) — related
+- [Affective responses favour standard recitation tasks: curiosity and interest were higher for Rec than for Exp and Pro tasks, and reference to reality was higher for Rec and Exp than Pro](affective-responses-rec-favoured.md) — related

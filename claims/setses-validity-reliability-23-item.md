@@ -69,3 +69,4 @@ HTMT analysis of SETSES sub-scales in the same 144-participant sample showed mas
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [The structural and measurement models fit satisfactorily, but the programming latent variable showed low loadings and convergent validity (AVE = 0.188), with ASC and INH items removed](cfa-model-fit-low-prog-convergent-validity.md) — related

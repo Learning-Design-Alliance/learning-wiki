@@ -56,3 +56,4 @@ Think-aloud interviews with six introductory students who learned from the solve
 - [Students given a complete worked-out solution during self-diagnosis fared worse on a subsequent isomorphic midterm problem than students with only notes and textbooks, plausibly because the elaborated solution permitted superficial diagnosis](minimal-support-group-outperformed-worked-example-on-transfer.md) — related
 - [Problem-solving strategy maps were unsuccessful with introductory physics students and judged not developmentally appropriate](strategy-maps-unsuccessful-intro-physics.md) — related
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
+- [Problem detection and diagnosis are the hardest revision steps, and novices focus on surface changes](revision-problem-detection-novice-difficulty.md) — related

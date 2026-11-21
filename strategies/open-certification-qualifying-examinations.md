@@ -44,6 +44,7 @@ Responding to PhD overproduction relative to faculty positions and the difficult
 
 - [Alternative generalist-training formats include extending question-list oral qualifying examinations across departments, postdoctoral laboratory rotations, and topic-specific mini-courses or summer schools.](alternative-generalist-training-formats.md)
 - [Embed software skills training in degree programs so students contribute earlier and gain transferable career skills](software-skills-during-degrees-workforce-readiness.md)
+- [Offer core fusion topics as micro-credentials, certificates, and publicly available courses to broaden access](fusion-microcredentials-certificates-access.md)
 
 ## Examples
 -

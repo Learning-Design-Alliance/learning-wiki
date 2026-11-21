@@ -50,3 +50,4 @@ Evaluation of supervised models on the authors' annotated NCTE transcript sample
 - [The unsupervised forwards-range measure correlates negatively with human labels on the UNFILTERED set (ρ = -.130) and positively on the FILTERED set (ρ = .159)](forwards-range-unsupervised-correlations.md) — related
 - [Supervised models outperform the unsupervised uptake measures by less than .08 correlation, indicating their competitiveness](supervised-models-competitiveness-uptake.md) — related
 - [RoBERTa classifiers detect annotated discourse moves in math classroom transcripts with moderate to high accuracy, best for on vs off task instruction](roberta-classifiers-discourse-moves-moderate-high-accuracy.md) — related
+- [Manual quality filtering retained 528 of 2,500 forum question/answer pairs (21%), and an earlier unfiltered fine-tune (FT1) suffered prohibitive quality issues](forum-finetune-manual-filtering-21-percent.md) — related

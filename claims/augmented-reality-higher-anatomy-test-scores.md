@@ -48,3 +48,4 @@ The review reports, citing Kucuk et al. (2016), that mobile augmented reality pr
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
+- [Prior study: VR metric visualization yielded accuracy comparable to 2D dashboards with an edge on intricate tasks (as reported by the article, citing Moreno-Lumbreras et al.)](prior-vr-comparable-accuracy-intricate-task-advantage.md) — related

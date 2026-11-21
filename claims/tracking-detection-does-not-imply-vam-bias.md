@@ -58,3 +58,4 @@ Theoretical and simulation analysis reported by the authors, showing that the te
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — related
 - [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim
 - [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
+- [A fictional-news correlation activity helped high-school physics students understand that correlation does not necessarily imply causation](fictional-news-correlation-activity-causation-understanding.md) — related

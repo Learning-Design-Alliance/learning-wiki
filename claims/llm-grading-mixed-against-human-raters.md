@@ -103,3 +103,4 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [AI grades more leniently than teaching assistants and clusters rubric item grades more strongly, indicating holistic rather than differentiated grading](ai-grades-leniently-and-holistically.md) — a narrower finding that bears on this claim
 - [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — a narrower finding that bears on this claim
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
+- [Blind LLM grading of undergraduate physics solutions is substantially more lenient than human grading, driven by mathematical hallucinations](llm-blind-grading-lenient-hallucinations.md) — related

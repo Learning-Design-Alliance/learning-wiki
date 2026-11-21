@@ -52,3 +52,4 @@ Quasi-experiment with two intact vocational high school classes, one using video
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — a broader claim this one bears on
 - [Both computer game practice and classical homework practice produce statistically significant pretest-to-posttest achievement gains in basic mathematics skills](both-practice-methods-significant-pre-post-gains.md) — related
+- [Learners using both VR-based and computer-based pedagogical agents achieve statistically significant learning gains](pa-vr-significant-learning-gains-both-modalities.md) — related

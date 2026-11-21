@@ -44,6 +44,7 @@ A specific outreach recipe: run ADL analyses through the CutLang Jupyter kernel 
 ## Related Strategies
 
 - [Structure analysis schools as short lectures followed by group implementation of a real ATLAS or CMS analysis](adl-cutlang-school-group-analysis-exercises.md)
+- [Deliver outreach data-analysis activities through the browser to remove installation barriers](browser-based-no-install-outreach-strategy.md)
 
 ## Examples
 -

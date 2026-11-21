@@ -56,3 +56,4 @@ Inductive thematic analysis of open-ended responses. Theme 1 (low content qualit
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
 - [Student thematic analysis yielded three themes: educational applications, opportunities of AI use, and challenges and suggestions](student-themes-ai-scenario-feedback.md) — related
 - [Reflective narratives reveal five themes: student learning, perceived utility of videos, information and digital skills, teamwork and problem-solving, and challenges](five-themes-video-creation-reflections.md) — related
+- [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related

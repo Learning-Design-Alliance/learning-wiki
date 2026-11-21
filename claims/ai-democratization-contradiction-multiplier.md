@@ -54,3 +54,4 @@ Theoretical argument acknowledging AI's genuine democratizing potential: expert 
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — reports the opposite
 - [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — related
 - [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — related
+- [Linguistically disadvantaged students improved significantly more than their peers after LLM availability, narrowing or reversing pre-existing writing gaps](linguistically-disadvantaged-students-larger-writing-gains.md) — reports the opposite

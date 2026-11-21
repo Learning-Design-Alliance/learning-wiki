@@ -44,6 +44,7 @@ The authors' stated future directions for the pipeline. First, the retrieval lay
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
 - [Design AI-enhanced learning management systems that explicitly target engagement across cognitive, emotional, behavioral, and social domains](ai-enhanced-lms-four-engagement-domains.md)
 - [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
+- [Tailor the emotional tone of AI feedback to the type of task](tailor-ai-feedback-emotional-tone-to-task-type.md)
 
 ## Examples
 -

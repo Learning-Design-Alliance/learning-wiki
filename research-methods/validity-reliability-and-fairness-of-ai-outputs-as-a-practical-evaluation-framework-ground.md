@@ -48,7 +48,8 @@ The article proposes a practical framework for evaluating AI-generated outputs i
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](../claims/llm-accuracy-hallucination-coaching-risk.md) [+W]
 
 ## Related Research Methods
--
+
+- [Grading validity](grading-validity.md)
 
 ## Key Sources
 - Li, W., Kurimchak, M., & Whitmer, J. (2026). ATS Field Note: AI Model Evaluation. ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/300

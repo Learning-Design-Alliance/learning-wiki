@@ -47,3 +47,5 @@ Section 2 reports follow-on outcomes of LSSDS group projects: "success ful obser
 ## Related Claims
 - [LSSDS devotes roughly 43% of program time to mentored group project work, with lectures (~34%) and hands-on labs (~23%) filling the rest.](lssds-time-allocation-lectures-labs-projects.md) — related
 - [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related
+- [LSSDS legacy includes alumni returning as TAs and faculty, and observing proposals and scientific publications enabled by the school](lssds-legacy-alumni-outcomes.md) — related
+- [Among LSSDS program modifications, alumni teaching assistants succeeded while a pre-school coding bootcamp and highly specialized lectures failed](lssds-modification-lessons-tas-success-bootcamp-failed.md) — related

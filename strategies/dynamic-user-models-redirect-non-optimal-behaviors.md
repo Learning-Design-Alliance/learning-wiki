@@ -51,6 +51,8 @@ The article recommends embedding dynamic user models that monitor students' inte
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
 - [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
 - [Nudge learners toward active practice and mitigate gaming behavior in LLM-based conversational tutoring](nudge-active-practice-mitigate-gaming.md)
+- [Update student profiles dynamically as learners interact with an LLM-powered environment](dynamic-student-profile-updates-llm-tutoring.md)
+- [Four-step process: identify behaviors, explore context, integrate support, surface just-in-time recommendations](gem-four-step-support-process.md)
 
 ## Examples
 -

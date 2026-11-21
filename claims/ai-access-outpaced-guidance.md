@@ -92,3 +92,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — related
+- [College STEM students report high adoption of generative AI tools, predominantly free versions of frontier LLMs](high-student-genai-adoption-free-llms.md) — related

@@ -63,6 +63,7 @@ Brainstorming topics of interest leverages situational interest as an entry poin
 - [KWL](../strategies/kwl.md) — the "W" (want to know) column is a structured, individual version of the same move
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 - [Use current-events interest (e.g., a nuclear accident) and general-interest seminars to motivate students to engage with nuclear physics topics](current-events-seminar-motivation-strategy.md)
+- [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the opening move that surfaces interests and curiosity

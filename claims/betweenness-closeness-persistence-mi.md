@@ -51,3 +51,4 @@ Univariate logistic regression of persistence in the electricity and magnetism M
 - [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — reports the opposite
 - [Higher indegree, outdegree, and closeness at the end of a first-semester Modeling Instruction course predict enrolling in the second MI course](centrality-predicts-mi-persistence.md) — reports the opposite
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
+- [Eight centrality measures yield highly consistent rankings across the Physics, Mathematics, and integrated networks, so degree centrality alone suffices to rank content importance](centrality-measures-consistent-degree-suffices.md) — related

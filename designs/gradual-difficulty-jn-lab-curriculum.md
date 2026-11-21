@@ -42,7 +42,10 @@ The intervention's instructional pattern is a graded sequence of Jupyter Noteboo
 - [Second Semester Python Skill Retention](../claims/second-semester-python-skill-retention.md) [+M]
 
 ## Related Designs
-- 
+
+- [Computational thinking tasks using Jupyter Notebooks in the physics laboratory](ct-jupyter-notebook-physics-lab-element.md)
+- [Upper-level laboratory course design combining small enrollment, extended lab time, precision experiments, a self-paced Python curve-fitting module, and grade weight on uncertainty skills](phys359-uncertainty-course-design-pattern.md)
+- [Scaffolded lab curriculum that staggers learning outcomes and gradually reduces instructional guidance](scaffolded-lab-curriculum-staggered-outcomes.md)
 
 ## Examples
 -

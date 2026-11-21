@@ -56,3 +56,4 @@ Kruskal–Wallis testing of estimated blood loss across the three groups (means 
 - [Within the audit period, completed laparoscopic surgery showed less blood loss and shorter stay than open surgery, with no significant difference in operative time, node yield or leak rate](laparoscopic-vs-open-within-audit.md) — related
 - [Conversion to open surgery decreased across the training periods, reaching the lowest rate after SLSST](slsst-era-lower-conversion-rate.md) — related
 - [SILC conversion to multiport or open surgery occurred in 3.1% of cases, with no significant relationship between complications and surgeon experience](silc-conversion-rate-3-percent.md) — related
+- [Task achievement rates showed no significant decrements across VRT sessions, supporting the appropriateness of the difficulty progression design](vr-pmt-no-achievement-decrement-sessions.md) — related

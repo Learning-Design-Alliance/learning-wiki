@@ -47,3 +47,4 @@ Theoretical argument in the literature review: the authors state that a framewor
 ## Related Claims
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
 - [In-class video of high school student interactions serves as existence proofs of the framework's computational thinking practices](video-existence-proofs-ct-practices.md) — related
+- [Prior WoT frameworks omit computational thinking and lack practical guidance for physics contexts](prior-wot-frameworks-gap-ct-guidance.md) — related

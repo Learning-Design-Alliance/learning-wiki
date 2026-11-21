@@ -52,3 +52,4 @@ The authors' stated limitation of their system in the Future Work and Limitation
 - [Conventionally taught students struggled to differentiate broken from smooth lines and to shade out unwanted regions, while both groups could form inequalities and equations](conventional-methods-graphing-shading-difficulties.md) — related
 - [Iterative prompt engineering of GPT-4 achieved meaningful contextualization of algebra problems that preserved difficulty and original intent](gpt4-prompt-engineering-contextualization-preserves-intent.md) — reports the opposite
 - [GPT-4 tends to excel on questions where students also perform well, but struggles on some mathematical-derivation problems students handle well](gpt4-excells-where-students-excel.md) — related
+- [GPT-4 struggles with diagrammatical and graphical questions, though it can describe visual content accurately in prose.](gpt4-diagrammatic-question-weakness.md) — possibly the same claim (merge candidate)

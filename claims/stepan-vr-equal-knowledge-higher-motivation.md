@@ -78,3 +78,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related
 - [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — related
 - [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related
+- [Slideshow learning was slightly more effective than VR learning in enhancing physics knowledge in this study](slideshow-outperformed-vr-physics-knowledge.md) — related

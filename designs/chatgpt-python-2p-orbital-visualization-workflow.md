@@ -41,7 +41,8 @@ A workflow in which ChatGPT-4o first solves the 2p orbitals of the hydrogen atom
 - 
 
 ## Related Designs
-- 
+
+- [ExperiMentor: a custom GPT-based chatbot that generates and executes Python code for guided physics data analysis](experimentor-custom-gpt-physics-chatbot.md)
 
 ## Examples
 -

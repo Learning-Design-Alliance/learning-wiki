@@ -51,3 +51,4 @@ Quasi-experimental pre- and post-test study with 43 junior-year teacher trainees
 - [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](cooperative-learning-activities-improve-efl-oral-fluency.md) — related
 - [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related
 - [The control group showed no significant change in speaking fluency from pre-test to post-test](control-group-no-fluency-change.md) — related
+- [S&I test scores reflect holistic speaking constructs including language resource, coherence, hesitation and task achievement](si-holistic-speaking-score-constructs.md) — related

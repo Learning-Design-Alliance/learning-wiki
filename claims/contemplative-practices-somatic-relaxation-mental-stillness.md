@@ -51,3 +51,4 @@ Theme from the qualitative coding of written reflections on the contemplative pr
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related
 - [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related
 - [Most students expressed appreciation for the somatic, affective, and cognitive effects of the practice, while a minority reported initial skepticism](em-practice-appreciation-skepticism.md) — related
+- [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related

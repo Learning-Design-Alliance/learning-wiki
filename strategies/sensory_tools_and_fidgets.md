@@ -58,9 +58,11 @@ The evidence base is narrower and more conditional than popular adoption suggest
 5. Review after 2–3 weeks: is on-task time or participation improving? Withdraw or swap tools that have become distractions
 
 ## Related Strategies
+
 - [Brain Breaks](../strategies/brain-breaks.md) — movement-based alternative with stronger attention evidence
 - [Flexible Seating](../strategies/flexible-seating.md) — environmental variant addressing the same regulation need
 - [Accommodations](../elements/accommodations.md) — the broader framework into which individual sensory tools fit
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - A learner with ADHD keeps a silent putty tin on their desk during independent reading, per their support plan; the teacher tracks on-task intervals to verify benefit.

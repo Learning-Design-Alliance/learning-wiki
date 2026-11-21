@@ -46,6 +46,7 @@ The authors deliberately avoided VR deployment so that "any future employee [can
 
 - [Platform Agnostic Design](platform_agnostic_design.md)
 - [Deploy Amira as a browser-based program integrated with district systems through Single Sign-On and automated rostering](amira-browser-deployment-sso-rostering.md)
+- [Deliver outreach data-analysis activities through the browser to remove installation barriers](browser-based-no-install-outreach-strategy.md)
 
 ## Examples
 -

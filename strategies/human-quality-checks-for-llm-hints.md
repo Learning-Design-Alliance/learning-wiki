@@ -50,6 +50,8 @@ The article recommends human oversight of LLM hint generation: its quality check
 - [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
+- [Mitigate LLM hallucination in generated hint pathways by generating 30 responses per question and selecting the response closest to the centroid embedding](centroid-selection-hallucination-mitigation-strategy.md)
+- [Radical constructivist MARSGs require mindful development and instructor oversight to ensure learning](radical-constructivist-marsg-oversight.md)
 
 ## Examples
 -

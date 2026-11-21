@@ -51,3 +51,5 @@ Think-aloud interviews with twelve students from different sections about equili
 - [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related
 - [Preliminary evaluations show that a majority of students unable to solve tutorial problems without help can solve similar problems after working through the video tutorial](video-tutorials-enable-solving-similar-problems.md) — related
 - [Action-reaction language for Newton's third law implies causality and can mislead learners](action-reaction-language-implies-causality.md) — related
+- [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — a broader claim this one bears on
+- [A wall-pressing activity makes Newton's-third-law mutual interaction observable to students](wall-press-activity-reveals-mutual-interaction.md) — related

@@ -52,3 +52,4 @@ Practice-session three-way ANOVA (timing x frequency x session) showed a signifi
 - [Mental practice shows no effect on movement duration, and feedback timing shows no significant effect on post-acquisition or retention performance](movement-duration-and-feedback-null-findings.md) — reports the opposite
 - [In a 2x2x3 repeated-measures ANOVA, feedback timing and frequency showed no significant main effects or interaction on test-session CPR scores; only measurement sequence was significant](no-timing-frequency-main-effects-test-sessions.md) — related
 - [Task-specific checklist performance improves in both feedback groups with only a non-significant trend favoring high-frequency feedback](checklist-performance-no-significant-group-difference.md) — related
+- [No carry-over effect was found between feedback and non-feedback conditions, and score differences vanished when feedback was excluded](no-carryover-effect-feedback-crossover.md) — related

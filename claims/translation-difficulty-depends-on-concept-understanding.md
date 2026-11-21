@@ -71,3 +71,4 @@ Analysis of normalized gains by source representation mode in electromagnetism (
 - [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
 - [In interviews, students understood real-and-imaginary wave-function representations but the phase-color representation caused significant problems for most students](wave-function-representation-phase-color-problems.md) — related
 - [Some students who fail to write a differential equation can still represent the force descriptions mathematically, indicating difficulty moving from force to differential equation](difficulty-moving-from-force-to-differential-equation.md) — a narrower finding that bears on this claim
+- [Different but valid data representations led students to different, yet logical, conclusions, illustrating subjectivity in evidence-based conclusions](data-representation-subjectivity-conclusions.md) — related

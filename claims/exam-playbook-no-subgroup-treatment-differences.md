@@ -67,3 +67,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [No significant difference in recall between video podcast and live lecture holds across topics, genders and prior academic performance subgroups](recall-equivalence-robust-across-subgroups.md) — related
 - [The peer assessment effect was homogeneous: no subgroup differences by gender, race, prior coursework, class year or aptitude](peer-assessment-effect-homogeneous-across-subgroups.md) — related
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
+- [Completing supplemental math material 1 might benefit PEER students more than WA students, per a marginally significant interaction](math-material1-peer-interaction-tentative.md) — related

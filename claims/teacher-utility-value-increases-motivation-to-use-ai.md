@@ -99,3 +99,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Teachers' disbelief about curricular change effectiveness reduces willingness to implement it](micro-teacher-disbelief-reduces-implementation-willingness.md) — a narrower finding that bears on this claim
 - [Greater familiarity with SBE is associated with more positive attitudes, stronger motivation, and fewer perceived resource and cost barriers](sbe-familiarity-attitudes-motivation-association.md) — a narrower finding that bears on this claim
 - [Department-wide acceptance and integration increased students' willingness to use Learning Moment, with utility rising as peer use rose](lm-department-wide-acceptance-theme.md) — a narrower finding that bears on this claim
+- [Teachers agreed AI can assist with planning tasks such as preparing lessons and activities before class and improving professional training](teachers-agree-ai-assists-planning-tasks.md) — related

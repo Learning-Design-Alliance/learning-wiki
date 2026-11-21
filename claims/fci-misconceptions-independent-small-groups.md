@@ -51,3 +51,4 @@ Threshold-relaxation analysis of the incorrect-answer correlation networks; the 
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — related
 - [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — related
 - [At less restrictive sparsification thresholds the FMCE yields many more communities, including misconceptions outside the FCI taxonomy](fmce-low-threshold-richer-misconceptions.md) — related
+- [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related

@@ -66,3 +66,5 @@ The review reports, citing Manning et al. (2025), automated essay scoring experi
 - [Extreme deviations and invalid outputs from LLM raters are rare but more frequent in ternary components and the smaller local model](rare-extreme-deviations-invalid-outputs.md) — related
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — reports the opposite
 - [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](distilbert-fairness-violations-across-topics.md) — related
+- [GPT-3 achieved reliable accuracy in automated essay scoring on TOEFL11 essays](gpt3-automated-essay-scoring-toefl.md) — related
+- [GPT-4's grading accuracy correlates with its problem-solving ability, and a mark scheme removes this dependence](gpt4-solving-grading-correlation.md) — related

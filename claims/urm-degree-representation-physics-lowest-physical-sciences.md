@@ -82,3 +82,4 @@ Figure-based descriptive comparison of doctorate degrees earned 1973-2015 by dem
 - [The plotted ratio of physics degrees shows fluctuation with a recent decrease described as clearly obvious](physics-degree-ratio-recent-decrease.md) — related
 - [Self-reported URM fractions in recent USPAS sessions ranged from 14% to 16%, with Black/African American counts chronically low](uspas-urm-fractions-recent-sessions.md) — related
 - [The fraction of women attendees at USPAS sessions grew from approximately 8% in 1987 to approximately 20% in 2016, then plateaued within a 5% band](uspas-women-fraction-growth-plateau.md) — related
+- [The workshop proposed center outcomes targeting diversity because QISE fields currently have among the lowest percentages of women and of people who are African-American, Black, and/or Latine](qise-diversity-gap-motivates-center.md) — related

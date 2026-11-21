@@ -49,3 +49,4 @@ Alluvial analysis of paired responses for six FCI questions (Figures 3, 4, 5, 6,
 - [Dominant misconceptions persisted from pre-test to post-test, concentrated in questions on Newton's second and third laws, zero vector-sum of forces, and circular motion](persistent-dms-newton-laws-vector-circular.md) — related
 - [Transition matrix analysis of FCI Question 18 shows post-instruction movement to better incorrect answer choices that dichotomous scoring does not reveal](transition-matrices-richer-than-dichotomous-scoring.md) — related
 - [UJ pre-test nDMs matched international trends for Q4, Q28, Q19, and Q9, but were lower for Q2 and Q14 compared with Spanish and Saudi cohorts](uj-ndm-cross-country-q2-q14-difference.md) — related
+- [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related

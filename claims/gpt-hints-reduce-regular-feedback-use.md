@@ -69,3 +69,4 @@ Same analysis on the 8 tasks without GPT hints: no significant difference in cli
 - [University students rated GPT-generated programming hints positively, though a minority found them not useful](gpt-hints-rated-useful-programming.md) — related
 - [When GPT hints were unavailable on harder tasks, the experimental group solved correctly less often in the initial attempts but reached comparable correctness by the seventh attempt](gpt-hint-removal-initial-performance-drop.md) — related
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
+- [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related

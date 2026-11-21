@@ -43,7 +43,8 @@ Scaffolded COT is a prompt-engineering structure the authors name and develop fo
 - [Scaffolded Cot Significance By Rater](../claims/scaffolded-cot-significance-by-rater.md) [+M]
 
 ## Related Designs
-- 
+
+- [LLM-assisted partial-credit grading and feedback workflow with grading confidence index](llm-partial-credit-grading-confidence-workflow.md)
 
 ## Examples
 -

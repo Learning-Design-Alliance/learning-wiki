@@ -59,9 +59,11 @@ Visual clutter and decorative displays measurably draw young learners' attention
 7. Evaluate: observe on-task behavior and emotional state before and after each change, and adjust — the goal is regulation, not stimulus deprivation.
 
 ## Related Strategies
+
 - Acoustics and Noise Management — the auditory counterpart; overstimulation is usually multisensory, and visual calming works best alongside sound management
 - Active Recess — scheduled high-input periods balance low-input work environments rather than eliminating stimulation entirely
 - [Accommodations](../elements/accommodations.md) — calming visual input is typically implemented as an environmental accommodation within a broader support plan
+- [Audit and adjust the sensory environment of the research group, offering concrete accommodations](sensory-environment-accommodations-research-groups.md)
 
 ## Examples
 - **Head Start / early childhood classrooms using the environmental rating scale (ECERS-3)** — assess visual clutter and display relevance as part of quality rating; decluttered, organized visual environments are a scored quality indicator ([ECERS-3](https://www.ersdata.com/ecers3.cfm)).

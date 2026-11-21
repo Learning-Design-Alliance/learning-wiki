@@ -72,3 +72,4 @@ Accurate-match analysis of the same main-study data, allowing semantically equiv
 - [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — related
 - [AI tools accelerate orthopaedic research through literature review, data extraction and evidence synthesis](ai-accelerates-ortho-research-workflows.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
+- [An LLM (GPT3.5) analysis of 30 anonymized interview transcripts extracted ten typical job roles to refine the qualification profile categories](llm-gpt35-job-role-extraction-qt-interviews.md) — a narrower finding that bears on this claim

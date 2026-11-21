@@ -52,3 +52,4 @@ Explainable error analysis of counterfactual fine-tuned model replies using TIGE
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
 - [The special issue reports that a GPT-2 model could provide supportive and contextual replies to MOOC learners to a similar extent as humans](gpt2-mooc-forum-replies-similar-to-humans.md) — related
 - [GPT-2 outperformed an LSTM-based RNN on word perplexity, readability, and cosine-similarity coherence when generating MOOC forum replies](gpt2-outperformed-rnn-mooc-nlg.md) — related
+- [LLMs support HCXAI in education through natural-language explanations, interactive dialogues, and explained content generation](llms-provide-natural-language-explanations-dialogues-content.md) — related

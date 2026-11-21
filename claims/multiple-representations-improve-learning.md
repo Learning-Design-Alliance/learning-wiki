@@ -143,3 +143,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Students self-reported increased conceptual understanding of the physical systems they modeled, including mechanisms, vector-field intuition, and physically reasonable magnitudes](self-reported-conceptual-gains-from-essays.md) — related
 - [Using graphs effectively in physics requires four general skills](four-skills-graphs-physics.md) — related
 - [Tasks cuing students to engage with multiple representations facilitate generation and connection of ideas and establishing coherence between them](multiple-representations-facilitate-idea-generation-and-coherence.md) — related
+- [Completing supplemental math material 1 (vectors) is associated with better exam performance, and the association grows with the material's relevance to exam content](vectors-material-completion-better-exam-performance.md) — related

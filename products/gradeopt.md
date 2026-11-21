@@ -30,7 +30,8 @@ GradeOpt is a multi-agent LLM coding framework developed by Copur-Gencturk et al
 - [Grading recipes without calibration examples perform substantially worse on MAE, though multi-step without examples ranks second on QWK](../claims/no-example-recipes-worse-mae.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [AutoFeedback](autofeedback.md)
 
 ## Key Sources
 - Copur-Gencturk, Y., Moreno, K., Chu, Y., Li, H., & Tang, J. (2026). Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model. ZDM – Mathematics Education. https://doi.org/10.1007/s11858-026-01796-2

@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 256 claims (165 show a difference, 59 mixed, 32 no difference) · 211 studies (85 associational, 49 causal, 27 review, 24 quant-synthesis, 12 theoretical, 8 design, 6 qualitative), `q1`–`q4` · 32 of 211 report an effect size · 254 claims rest on one study
+> **Evidence** · 257 claims (166 show a difference, 59 mixed, 32 no difference) · 212 studies (85 associational, 50 causal, 27 review, 24 quant-synthesis, 12 theoretical, 8 design, 6 qualitative), `q1`–`q4` · 32 of 212 report an effect size · 255 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -288,6 +288,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older distance students agree more that virtual and remote experiments make practical science enjoyable, while younger students prefer co-location with equipment](../claims/age-trend-remote-lab-enjoyment.md) [+M] — an instructional effect differs with it
 - [Computational modeling makes complex phenomena accessible to much younger learners](../claims/computational-modeling-accessibility-younger-learners.md) [+W] — an instructional effect differs with it
 - [Older players show higher posttest and transfer scores, suggesting the game fosters learning more for older students](../claims/newtons-race-age-positive-correlation-posttest.md) [+W] — an instructional effect differs with it
+- [Adult learners prefer learning from video formats over text materials](../claims/adult-learners-prefer-video-over-text.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

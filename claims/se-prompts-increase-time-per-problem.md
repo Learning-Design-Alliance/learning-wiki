@@ -56,3 +56,4 @@ Log data from 63 participants showed the experimental group spent on average 48 
 - [Successfully completed e-learning cases were worked through faster and with higher performance scores than unsuccessfully completed cases](successful-cases-faster-higher-performance.md) — related
 - [Smartphone application users completed the exam simulation faster than controls, significantly in complete-case analyses but not intention-to-treat](smartphone-app-reduces-test-completion-time.md) — related
 - [Interactive learning is more time consuming than reproductive learning: interactive participants completed far fewer tasks in the fixed 45 minutes](interactive-learning-more-time-consuming-anatomy.md) — related
+- [Self-reported time spent on experimental tasks does not significantly differ from time spent on programming tasks](exp-pro-time-on-task-no-difference.md) — related

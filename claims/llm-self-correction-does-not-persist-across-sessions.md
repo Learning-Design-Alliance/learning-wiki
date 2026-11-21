@@ -48,3 +48,4 @@ An exploratory experiment in which the researchers corrected three LLMs' incorre
 ## Related Claims
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [A single correction by ChatGPT-4 is insufficient: the same physics error re-emerges after further probing questions](chatgpt4-error-reemerges-after-probing.md) — a narrower finding that bears on this claim
+- [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related

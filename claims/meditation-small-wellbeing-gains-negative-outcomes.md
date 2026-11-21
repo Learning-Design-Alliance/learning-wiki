@@ -90,3 +90,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [Two small pilot RCTs measuring resilience with validated scales reported significant improvement](pilot-rcts-significant-resilience-gains.md) — related
 - [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — a narrower finding that bears on this claim
 - [Higher stress significantly lowers students' well-being, interest in learning, and mathematics achievement](stress-negative-effects-wellbeing-interest-achievement.md) — related
+- [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related

@@ -50,3 +50,4 @@ Authors' interpretation (type e) in the Discussion section, contrasting the trad
 ## Related Claims
 - [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related
 - [Providing limited instruction on media type nurtured a wide spread of teaching strategies and creative video formats](limited-media-instruction-nurtures-creativity.md) — related
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

@@ -49,6 +49,7 @@ Based on the finding that integrated PBL variants showed descriptively higher ef
 - [Design guidelines for game-based and gamified robotics education: balance approaches across contexts, integrate hardware-software skills, and extend study horizons](robotics-gbl-gamification-design-guidelines.md)
 - [Integrate game-thinking strategies to enhance engagement and academic performance in nursing education](integrate-game-thinking-strategies-nursing-education.md)
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
+- [Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone](integrate-vr-into-broader-teaching-strategies.md)
 
 ## Examples
 -

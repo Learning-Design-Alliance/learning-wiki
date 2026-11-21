@@ -49,3 +49,4 @@ Study 2 weekly Qualtrics survey with 43 ENL students receiving both feedback typ
 - [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
 - [Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice](human-feedback-preference-face-to-face-reasons.md) — related
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](ai-feedback-preference-clarity-availability-reasons.md) — related
+- [Student preferences between PF and DI are roughly evenly split, organised around effort, feedback, and enjoyment](pf-di-preferences-effort-feedback-enjoyment.md) — related

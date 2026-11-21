@@ -46,6 +46,7 @@ A custom-built web application integrated a GPT-4o-powered AI chatbot into a thr
 - [Jordan Chatbot: a unit-specific GPT-4o pedagogical support agent grounded in constructivist and socio-cultural learning theory](jordan-chatbot-unit-specific-gpt4o-agent.md)
 - [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
 - [Custom LLM practice platform with validated offloading classifier for extent-of-support labeling](llm-practice-platform-offloading-classifier.md)
+- [ExperiMentor: a custom GPT-based chatbot that generates and executes Python code for guided physics data analysis](experimentor-custom-gpt-physics-chatbot.md)
 
 ## Examples
 -

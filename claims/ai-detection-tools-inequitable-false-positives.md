@@ -72,3 +72,4 @@ Finding from the thematic analysis of institutional and scholarly documents, rep
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — a narrower finding that bears on this claim
 - [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related
+- [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](naplan-lbote-inequity.md) — related

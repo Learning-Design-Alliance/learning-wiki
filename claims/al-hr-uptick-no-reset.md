@@ -52,3 +52,4 @@ Averaged HR during 22 AL sessions from 13 classes, compared with four minutes be
 - [Heart rate changes approximately 10-fold faster in the first and last three minutes of lecture than in the middle](hr-rapid-ends-of-lecture.md) — related
 - [Starting heart rate decreases across morning classes, with a partial reset after lunch](starting-hr-declines-morning.md) — related
 - [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related
+- [Mean heart rate is higher in Assembly (109.4 bpm) than in PE (101.3 bpm), with both courses showing shorter NNI intervals than other courses](assembly-heart-rate-exceeds-pe.md) — related

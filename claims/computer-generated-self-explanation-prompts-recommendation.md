@@ -49,3 +49,4 @@ Authors' forward-looking recommendation in the meta-analysis abstract; it is an 
 - [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](leap-prompt-design-generates-cognitively-activating-feedback.md) — related
+- [GAI-generated customized prompts in an ITS, supplemented with Wikipedia-based explanations, empirically boosted student performance significantly](korbit-customized-prompts-performance.md) — related

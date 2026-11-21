@@ -47,3 +47,4 @@ Self-reported feedback from students at different school levels after planetariu
 ## Related Claims
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
 - [Before-and-after Astronomy Questionnaire responses showed almost all students left with heightened scientific curiosity and desire to learn more](pre-post-questionnaire-curiosity-gains.md) — related
+- [Early astronomy interest among undergraduates is typically rooted in directly observing astronomical phenomena with family](early-interest-observing-night-sky-family.md) — related

@@ -45,6 +45,7 @@ When learners develop creative projects, let them choose between a handcrafted a
 - [Arts and Crafts](arts_and_crafts.md)
 - [Makerspaces](makerspaces.md)
 - [Exploration Station](exploration_station.md)
+- [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
 
 ## Examples
 -

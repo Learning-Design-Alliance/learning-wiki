@@ -71,6 +71,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Integrate AI into core curricula by using data that students already produce in subject activities to teach data-related AI competencies](student-produced-data-ai-integration-strategy.md)
 - [Design recommendations for art-science collaboration courses](astro-animation-recommendations-strategy.md)
 - [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
+- [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 
 ## Examples
 -

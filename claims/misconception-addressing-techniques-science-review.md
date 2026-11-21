@@ -60,3 +60,4 @@ The review's coding found misconception-addressing work concentrated in science,
 - [Using analogies to teach general relativity entails a considerable risk of misconception formation](gr-analogies-misconception-risk.md) — related
 - [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — a narrower finding that bears on this claim
 - [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
+- [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — a narrower finding that bears on this claim

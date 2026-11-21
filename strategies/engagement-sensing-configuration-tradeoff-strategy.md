@@ -43,7 +43,8 @@ The article recommends treating sensing configuration as a design decision balan
 - [Combining more modalities does not always improve detection of learner mental states](../claims/more-modalities-not-always-better-mental-state-detection.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use unobtrusive wearable sensing of physiological signals to tailor educational strategies and group students by synchronized responses](wearable-sensing-tailored-strategies-strategy.md)
 
 ## Examples
 -

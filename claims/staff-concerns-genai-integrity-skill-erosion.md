@@ -64,3 +64,4 @@ Survey of academic staff at an Australian university administered in 2023 explor
 - [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related
 - [Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers](country-specific-genai-concern-profiles-qatar-india.md) — related
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
+- [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related

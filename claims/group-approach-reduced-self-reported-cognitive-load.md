@@ -47,3 +47,4 @@ Self-report cognitive load questionnaire (Paas, Van Merriënboer & Adams instrum
 ## Related Claims
 - [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md) — related
 - [Perceived difficulty of physics showed the greatest pre-post shift in the interactive multimedia group](perceived-difficulty-greatest-shift-esa.md) — related
+- [PF students exhibit a larger decrease in cognitive load from pre-instruction practice to post-instruction programming than DI students](pf-larger-cognitive-load-reduction-after-instruction.md) — related

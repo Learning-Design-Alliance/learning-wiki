@@ -73,3 +73,4 @@ Descriptive analysis of degree attainment by racial/ethnic group (Fig. 3, top pa
 - [Harassment is high in the Brazilian physics community and more pronounced among women](harassment-high-more-pronounced-among-women.md) — related
 - [Most physics PhDs in Brazil are employed, but 12% of physicists hold multiple jobs and many undergraduates lack scholarships](physics-job-market-employment-multiple-jobs.md) — related
 - [About 90% of women physics graduates (20 of 22) entered and persisted in STEM-advancement careers up to eight years post-graduation](women-graduates-90-percent-stem-advancement-careers.md) — related
+- [The workshop proposed center outcomes targeting diversity because QISE fields currently have among the lowest percentages of women and of people who are African-American, Black, and/or Latine](qise-diversity-gap-motivates-center.md) — related

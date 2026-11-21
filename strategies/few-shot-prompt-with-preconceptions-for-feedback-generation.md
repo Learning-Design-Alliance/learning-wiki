@@ -52,6 +52,7 @@ The article's prompt-engineering recipe combines few-shot prompting with physics
 - [Rule-constrained GPT-4 prompt for interest-based problem contextualization](rule-constrained-gpt4-contextualization-prompt.md)
 - [Use a simulated multiagent prompt combining role, instruction-based, chain, and few-shot prompting to generate OSCE stations with an LLM](simulated-multiagent-prompting-for-osce-generation.md)
 - [Improve LLM feedback quality via JSON-schema prompts with hidden scoring keys and preprocessing code into structured dictionaries](llm-prompt-schema-and-preprocessing-strategy.md)
+- [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 
 ## Examples
 -

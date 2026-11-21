@@ -83,6 +83,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - [Scaffolded Practice](scaffolded-practice-sequences.md) — completion problems are a form of scaffolded practice with the scaffold defined by solution completeness
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
 - [Design hypothesis-testing tasks that require students to reason about relations between steps rather than fill in pre-given steps](tasks-addressing-logical-reasoning-between-steps.md)
+- [Use fill-in-the-blank and copy-paste-modify coding prompts so students can complete programming exercises without prior coding knowledge](fill-in-blank-copy-paste-modify-coding-prompts.md)
 
 ## Examples
 - **van Merriënboer's 4C/ID task sequences** — complex-skill curricula (e.g., technical training) begin each task class with completion tasks and fade to conventional tasks ([Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md))

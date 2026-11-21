@@ -50,3 +50,4 @@ Log-file analysis of eight novice designers working five days on a simulator-spe
 - [Novice designers produced acceptable training program designs with the MASTER-TPD method and accompanying support](novices-produce-acceptable-designs-with-tpd-support.md)
 - [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](scheduled-cycles-and-peer-review-evoked-iteration-most.md)
 - [Subjects most often attributed their iteration to new insights or discovering that initial choices were not the best](subjects-attribute-iteration-to-new-insights.md)
+- [Experts iterated extensively on prompts, averaging 30 executions and 10 library commits, with most reaching their final textbook-level prompt in 3 to 6 iterations](prompthive-prompt-iteration-behavior.md) — related

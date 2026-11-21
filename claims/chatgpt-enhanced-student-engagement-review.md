@@ -47,3 +47,4 @@ Narrative review attribution: the review reports, citing Dwivedi et al. (2023), 
 ## Related Claims
 - [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — a narrower finding that bears on this claim
 - [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](chatgpt-education-benefits-taxonomy.md) — related
+- [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — a narrower finding that bears on this claim

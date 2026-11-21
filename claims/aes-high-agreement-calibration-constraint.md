@@ -60,3 +60,4 @@ The review reports this single study's agreement figures and notes the authors' 
 - [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — a broader claim this one bears on
+- [GPT-3 achieved reliable accuracy in automated essay scoring on TOEFL11 essays](gpt3-automated-essay-scoring-toefl.md) — a narrower finding that bears on this claim

@@ -24,7 +24,8 @@ The review proposes an organizing framework for systematically analysing studies
 ### Claims
 
 ## Related Research Methods
--
+
+- [Three-dimension learning-experience evaluation framework](three-dimension-learning-experience-evaluation-framework.md)
 
 ## Key Sources
 - Santilli T.; Ceccacci S.; Mengoni M.; Giaconi C. (2025). Virtual vs. traditional learning in higher education: A systematic review of comparative studies. COMPUTERS & EDUCATION. https://doi.org/10.1016/j.compedu.2024.105214

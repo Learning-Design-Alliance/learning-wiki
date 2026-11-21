@@ -70,3 +70,5 @@ Interview-based case evidence: the authors' interpretation of Leia's account of 
 - [Formal leadership experiences help women in physics feel more confident and recognize themselves as physics people](leadership-experiences-confidence-physics-recognition.md) — related
 - [Mentorship, leadership, and career conceptualization supported competence and recognition but showed no direct connections to interest or performance in this preliminary data](no-direct-connections-interest-performance.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Educator feedback indicates that peer-facilitated cloud chamber workshops significantly boosted physics course enrollment among secondary students](educator-reported-enrollment-boost-cloud-chamber-workshops.md) — related
+- [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related

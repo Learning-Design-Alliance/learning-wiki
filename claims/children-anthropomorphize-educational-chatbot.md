@@ -61,3 +61,4 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
 - [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related
 - [Anthropomorphizing chatbots has both positive effects on engagement and motivation and negative effects through unrealistic expectations and frustration](anthropomorphism-dual-engagement-frustration-effects.md) — related
+- [Students generally trusted ChatGPT's theoretical answers without fact-checking, and some anthropomorphized the tool as possessing knowledge](student-trust-and-anthropomorphizing-chatgpt.md) — related

@@ -47,6 +47,7 @@ The authors recommend that HEPA create its own focused internship opportunities 
 - [Summer internships at national laboratories and industrial affiliates provide hands-on training and mentoring that enrich on-campus coursework](national-lab-summer-internship-mentoring-strategy.md)
 - [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
 - [Provide career development support for diverse pathways, especially non-academic careers, through skills workshops, alumni networks, and funded internships](non-academic-career-pathway-support.md)
+- [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 
 ## Examples
 -

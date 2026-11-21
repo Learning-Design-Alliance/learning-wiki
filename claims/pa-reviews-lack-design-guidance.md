@@ -45,3 +45,4 @@ Theoretical argument in the introduction motivating the systematic review: the a
 ## Related Claims
 - [Existing ACLS taxonomies describe support dimensions but fall short of an integrated instructional framework grounded in learning theory](acls-taxonomies-lack-integrated-framework.md) — related
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related
+- [Prior WoT frameworks omit computational thinking and lack practical guidance for physics contexts](prior-wot-frameworks-gap-ct-guidance.md) — related

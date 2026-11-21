@@ -53,3 +53,4 @@ Robust ANCOVA (OLS with HC3 robust standard errors) on 35 students (18 instructo
 - [The ChatGPT group achieves significantly greater essay score improvement than the other three groups](chatgpt-greater-essay-score-improvement.md) — related
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — reports the opposite
+- [ChatGPT feedback significantly improved university students' answer scores in an AR quantum cryptography lab experiment, with a large effect](chatgpt-feedback-improves-ar-quantum-crypto-lab-scores.md) — related

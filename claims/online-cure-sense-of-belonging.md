@@ -50,3 +50,4 @@ Post-course survey (Question 19, adapted from Estrada et al. 2011) of the SES 29
 ## Related Claims
 - [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](remote-reu-mentees-belonging-growth.md) — related
 - [No evidence of change in students' perceived science communication ability or sense of belonging in astronomy](astrobites-reading-no-change-communication-belonging.md) — related
+- [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related

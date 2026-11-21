@@ -46,7 +46,8 @@ The thesis's first strategic line is to strengthen cohesion within the learning 
 - [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](../claims/ai-pd-cognitive-strain-isolation.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 
 ## Examples
 -

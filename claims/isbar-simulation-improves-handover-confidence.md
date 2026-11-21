@@ -57,3 +57,4 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [In post-scenario self-assessments, ABCDE primary survey was performed in 18 of 21 scenarios but history-taking and handover schemes were applied only partly and communication aids mostly unused](abcde-used-history-schemes-incomplete.md) — related
 - [The training intervention significantly increases participants' confidence to consult with and communicate with adolescents](gp-adolescent-health-workshop-confidence-communicating-increase.md) — related
 - [The training intervention significantly increases participants' confidence to teach and facilitate small groups](gp-adolescent-health-workshop-confidence-teaching-increase.md) — related
+- [Tutors' self-reported confidence in responding to students experiencing potential inequities increased significantly from pretest to posttest](tutor-confidence-increase-equity-training.md) — related

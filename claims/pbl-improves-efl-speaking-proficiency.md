@@ -55,3 +55,4 @@ Narrative synthesis of five studies (Studies 7, 16, 20, 22, 26) on speaking flue
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
 - [The Small Group Activity group outperformed the Individual Activity group on all five measured speaking aspects (vocabulary, fluency, grammar, pronunciation, comprehension)](small-group-video-all-five-speaking-aspects.md) — related
 - [In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change](clil-gains-vocabulary-pronunciation-only.md) — related
+- [S&I test scores reflect holistic speaking constructs including language resource, coherence, hesitation and task achievement](si-holistic-speaking-score-constructs.md) — related

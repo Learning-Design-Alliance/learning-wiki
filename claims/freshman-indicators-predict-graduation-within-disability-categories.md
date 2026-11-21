@@ -87,3 +87,4 @@ Chapter 3 analysis (Figure 10) relating semester absences to five-year graduatio
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
 - [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](freshman-gpa-predicts-80-percent-ontime-graduation.md) — related
 - [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related
+- [The share of the population with three or more risk factors significantly and negatively predicts graduation rate, with each percentage point associated with a 0.25 percentage point drop](community-risk-factors-negative-predictor-graduation.md) — related

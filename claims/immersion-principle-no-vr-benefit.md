@@ -120,3 +120,5 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](immersive-vr-no-advantage-exp2.md) — a narrower finding that bears on this claim
 - [Immersive VR assembly training produced significantly higher delayed post-test scores than desktop virtual and physical assembly training among novices](vr-assembly-training-higher-posttest.md) — reports the opposite
 - [VR training produced significantly higher presence than desktop training on sensory and realism factors, but not on control, distraction, or ergonomic factors](vr-desktop-presence-sf-rf-differences.md) — related
+- [Learning gains do not differ significantly between VR-based and computer-based pedagogical agents](no-significant-learning-gain-difference-vr-vs-desktop-pas.md) — a narrower finding that bears on this claim
+- [Learners using both VR-based and computer-based pedagogical agents achieve statistically significant learning gains](pa-vr-significant-learning-gains-both-modalities.md) — related

@@ -67,3 +67,5 @@ Benchmark evaluation of four chatbots on 70 IVDA MCQs across 12 prompt variants 
 - [Asking \"Are you sure?\" reduced correct answers for both models; ChatGPT-3.5 Turbo's answer changes approached but did not reach significance](are-you-sure-prompt-reduced-correct-answers.md) — related
 - [The open-source Mistral-7B model achieves much lower comparative difficulty-ranking correlation (17.5%) than ChatGPT](mistral-7b-weaker-comparative-ranking.md) — related
 - [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related
+- [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related
+- [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related

@@ -49,3 +49,4 @@ Interview-based regional comparison across grassroots organizations from Africa,
 - [Quantum education and creating opportunities are the most frequently stated goals of grassroots quantum organizations](grassroots-quantum-goals-education-opportunities.md) — related
 - [Grassroots quantum organizations are vulnerable due to volunteer dependence and little evidence of transition structures for members in key positions](grassroots-quantum-volunteer-transition-vulnerability.md) — related
 - [Grassroots quantum organizations employ a broad mix of teaching and learning methods including lectures, journal clubs, hackathons, games, and online and offline events](grassroots-quantum-teaching-methods-mix.md) — related
+- [Latin America faces structural barriers to quantum computing education: no significant regional QC investment and a shortage of trained faculty](latam-structural-barriers-qc-education.md) — related

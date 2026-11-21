@@ -50,3 +50,4 @@ Episode Section 1, Part 3: Lisa revised the question to ask for "the strengths a
 - [Generative instructors used pedagogical knowledge while teaching, creating opportunities to develop new pedagogical content knowledge in the moment](generative-instructors-develop-new-pck-while-teaching.md) — related
 - [Analysis of one PD episode identifies four types of comfort-building moves that mitigate socio-emotional risk](four-comfort-building-move-types.md) — related
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
+- [In an embodied rating task, most teachers repositioned themselves toward the open-ended end of the structured–open-ended continuum when asked where they desired to be.](embodied-rating-task-movement-toward-open-ended.md) — related

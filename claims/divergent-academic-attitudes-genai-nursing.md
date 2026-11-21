@@ -74,3 +74,4 @@ Participant quote (P14) within the divergent-attitudes theme. Academics recognis
 - [First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks](ma-students-cautious-pragmatic-genai-use.md) — related
 - [Parental attitudes transformed from scepticism to high trust over the three cycles, with parents of low performers developing high confidence by Cycle 3](tprs-mtss-parental-trust-transformation.md) — related
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](minority-health-students-genai-reflective-writing.md) — related
+- [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related

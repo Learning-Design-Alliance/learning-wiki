@@ -47,3 +47,4 @@ The article's review of MOOC quality mechanisms states "there is a lack of  form
 ## Related Claims
 - [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
 - [Australian universities' quality assurance of graduate attributes relies on a narrow range of strategies, and assessment data remain largely underutilised](quality-assurance-graduate-attributes-underutilised.md) — related
+- [Misinterpretation of My School data by parents and media has produced league tables that distort perceptions of school quality](my-school-data-misinterpretation-league-tables.md) — related

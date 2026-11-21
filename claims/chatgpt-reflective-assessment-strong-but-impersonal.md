@@ -51,3 +51,4 @@ Blinded rubric marking of AI reflective submissions versus student submissions i
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — reports the opposite
 - [Participants who used ChatGPT V4 consistently reported higher post-session ratings than those who used V3.5 across enjoyment, comfort, clarity, quality, and classroom-integration preferences.](gpt4-users-rate-experience-higher-than-gpt35.md) — related
 - [A randomly chosen GPT-4 essay from the study's prompts would achieve a First or Upper Second-Class grade 81.43% of the time, potentially advantaging weaker students](random-ai-essay-first-or-2-1-81-percent.md) — related
+- [o1-preview achieved a near-perfect TOSLS score surpassing all human cohorts including biology experts](o1-preview-tosls-near-perfect.md) — related

@@ -13,7 +13,7 @@ generated:
 # Informal Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 5 studies (2 review, 2 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 6 studies (3 associational, 2 review, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 Boileau (2019), drawing on Jay Cross, frames formal and informal learning as opposite ends of a continuum rather than a strict dichotomy. Formal learning is "pushed" to learners according to a predetermined curriculum decided by someone else — "like riding a bus: the driver decides where the bus is going; the passengers are along for the ride" (Cross, 2007, p. 236). Informal learning is "pulled" by the learner's own perceived need — "like riding a bike; the rider chooses the destination, the speed, and the route" (Cross, 2007, p. 236) — and is unofficial, self-directed, and situated in meaningful, performance-linked experience rather than separated in time and place from its application.
@@ -56,6 +56,8 @@ Boileau also notes a cultural dimension: informal, experiential learning is unde
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](../claims/digital-competence-positive-association-dil-engagement.md) [+W]
 - [Cultural competence in Family Medicine is largely agreed to be gained informally, and a large U.S. survey found most residency programs identify it as part of the informal curriculum](../claims/cultural-competence-learned-informally-fm.md) [+W]
 - [Informal observation of mentors is the sole source of communication training for 73.9% of surgical trainees](../claims/informal-observation-sole-communication-training-source.md) [~W]
+- [Informal training in visual inspection is more common than formal training among observational astronomers, with 60% reporting informal and only 21% reporting formal training](../claims/informal-training-dominates-visual-inspection.md) [+M] — attached 2026-11-20 from Walsh et al. (2024), which proposed "Two-mode categorisation of training: structured formal training with assessable outcomes versus unstructured, needs-specific informal training".
+- [Pilot interviews indicate visual-inspection training begins with informal mentor-mentee experiences, and trainees report dissatisfaction with being 'thrown in the deep end'](../claims/interview-training-experiences-mentor-mentee.md) [+W] — attached 2026-11-20 from Walsh et al. (2024), which proposed "Two-mode categorisation of training: structured formal training with assessable outcomes versus unstructured, needs-specific informal training".
 
 ## Related Principles
 - [Performance Technology](performance-technology.md) — Performance Support Tools (sidekicks and planners) are one of the concrete mechanisms through which informal learning is supported and mediated

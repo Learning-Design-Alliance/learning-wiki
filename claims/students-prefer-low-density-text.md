@@ -51,3 +51,4 @@ ANOVA on the number of low-density selections (out of 5) made by LC subjects fou
 - [Low-density text is as effective as high-density text for achievement in expository CBI and print lessons](low-density-text-equal-achievement.md)
 - [Less skilled readers are more likely to select high-density text under learner control](reading-rate-predicts-density-selection.md)
 - [CBI subjects outperform print subjects on the delayed posttest only](cbi-superior-print-delayed-posttest.md) — related
+- [Middle-school students prefer science texts rewritten by GPT-4 to align with their learning-preference profile over generic texts](gpt4-aligned-texts-preferred-over-generic.md) — related

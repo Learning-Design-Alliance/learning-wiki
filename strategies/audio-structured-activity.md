@@ -67,6 +67,7 @@ Audio alone is a transient, single-channel medium; without structure, listeners 
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 - [Set up peer tutoring stations with audio prompting as a low-cost supplement to teacher-led instruction](peer-tutoring-stations-audio-prompting-supplement.md)
 - [Deliver video-based listening exercises through a structured online platform with limited replay attempts](moodle-video-listening-exercises.md)
+- [Leverage hearing and everyday audio to build qualitative understanding of the Fourier transform](audio-multisensory-ft-qualitative-entry.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured activity most commonly paired with audio; converts listening into retrieval and application

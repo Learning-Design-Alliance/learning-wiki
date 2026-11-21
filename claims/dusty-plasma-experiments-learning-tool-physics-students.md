@@ -51,3 +51,4 @@ A perspective argument stated in the article's abstract, not an empirical test. 
 - [Asking students to express physical ideas in a functional programming language deepens their understanding of basic physics](haskell-programming-deepens-physics-understanding.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [Physics TAs state that grading serves as a learning opportunity for the student and feedback for the instructor, and these stated purposes are stable across a semester](ta-stated-grading-purposes-learning-feedback.md) — related
+- [Fusion academic programs are small and plasma-physics-heavy, with about 3 faculty per institution and only 15% focused on materials or fusion technology](fusion-faculty-imbalance-small-programs.md) — related

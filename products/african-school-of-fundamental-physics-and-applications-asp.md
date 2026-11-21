@@ -27,7 +27,8 @@ A biennial three-week physics capacity-building school run for selected African 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [African School of Fundamental Physics (ASP)](african-school-of-fundamental-physics-asp.md)
 
 ## Key Sources
 - Kétévi Adiklè Assamagan, Mounia Laassiri. (2019). The African School of Fundamental Physics and Applications (ASP). https://arxiv.org/abs/1909.06309

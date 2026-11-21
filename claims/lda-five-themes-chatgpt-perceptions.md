@@ -58,3 +58,4 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - [Students' spontaneous associations with the Planetary Health Diet were mostly nutrition-related, with sustainability terms third-largest](planetary-health-diet-associations-nutrition-related.md) — related
 - [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related
 - [Students' reflections on ChatGPT use yielded eight positive themes (e.g., efficiency, addressing knowledge gaps) and eight negative themes (e.g., generic responses, harming self-discipline and thinking)](chatgpt-reflection-themes-positive-negative.md) — related
+- [Three perspectives on further ChatGPT use emerged: extreme negative, extreme positive, and balanced](three-perspectives-future-chatgpt-use.md) — related

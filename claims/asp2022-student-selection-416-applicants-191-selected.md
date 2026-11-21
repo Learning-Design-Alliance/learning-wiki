@@ -47,3 +47,5 @@ The participant profiles section reports the application pool for ASP2022, stati
 
 ## Related Claims
 - [ASP2022 was the largest ASP event to date, with 231 high school pupils, 76 high school teachers, and 191 university students attending](asp2022-largest-asp-event-participation.md) — a broader claim this one bears on
+- [ASP2024 received 534 student applications from 50 countries, the largest application count of any ASP edition, with about 200 students selected through a 25-member committee review](asp2024-534-applications-200-selected.md) — related
+- [Among selected ASP2024 students the female-to-male ratio exceeded 7:10, and in-person participants included more female than male students](asp2024-selected-students-female-ratio.md) — related

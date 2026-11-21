@@ -48,3 +48,4 @@ Participation counts reported in the Methods section: the messaging group "chego
 ## Related Claims
 - [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — a broader claim this one bears on
 - [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related
+- [ALICE Instagram LIVE sessions typically gather about 500 to 600 people per hour of live session](alice-instagram-live-500-600-people-per-hour.md) — related

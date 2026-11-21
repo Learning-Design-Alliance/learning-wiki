@@ -28,7 +28,8 @@ A workshop implementation package that provides the structure, materials, and se
 - [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](../claims/algebra-toolkit-space-technology-requirements.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Qureka! Box](qureka-box.md)
 
 ## Key Sources
 - Giasemi N. Vavoula and Mike Sharples. (2007). Future Technology Workshop: A Collaborative Method for the Design of New Learning Technologies and Activities. Pre-print, to appear in International Journal of Computer Supported Collaborative Learning, Volume 2, Issue 4, December 2007. https://www.ftw.org.uk

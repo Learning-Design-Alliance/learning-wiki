@@ -49,3 +49,4 @@ Cumulative-reward curves during training for the ALPN system with EPPO, PPO and 
 - [ALPN-EPPO enables students to achieve their learning goals with the fewest number of learning activities among the compared systems](alpn-eppo-fewest-learning-activities.md) — related
 - [ALPN systems generate more diverse learning paths than KT-KDM, with ALPN-EPPO the most diverse (10.5% higher rate)](alpn-eppo-higher-learning-path-diversity.md) — related
 - [The ALPN-EPPO system outperforms the KT-KDM baseline in maximizing students' learning outcomes, by 8.2% on average](alpn-eppo-outperforms-ktkdm-learning-outcomes.md) — related
+- [The pre-trained model showed relatively low variance despite using REINFORCE, which typically suffers from high variance](pretrained-model-low-variance-reinforce.md) — related

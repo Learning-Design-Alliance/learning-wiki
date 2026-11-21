@@ -59,3 +59,4 @@ Ethnographic case study of one participant (Malek) at the Digital Café over a y
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [Half of the pilot's users forgot the password protecting their private key between installation and actual use](half-of-users-forgot-pki-passwords.md) — a narrower finding that bears on this claim
 - [One year after ChatGPT's release, introductory physics students still mostly use traditional internet resources rather than AI tools for homework](traditional-sites-beat-ai-in-help-seeking.md) — related
+- [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — a narrower finding that bears on this claim

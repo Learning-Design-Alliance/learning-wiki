@@ -52,3 +52,4 @@ Descriptive report from the Background section of the whitepaper on the Detroit-
 - [After the courses, host sites sustained the project by running their own outreach, forming a data-sharing collaboration, and replicating the detector design](post-course-sites-sustain-escaramujo-network.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
 - [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related
+- [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related

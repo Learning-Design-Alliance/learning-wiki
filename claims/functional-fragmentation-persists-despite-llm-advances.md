@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
-newest_evidence: 2025
-recheck_by: 2030
+newest_evidence: 2026
+recheck_by: 2031
 sources:
-  - id: sudarshan-vk-2025
+  - id: sudarshan-vk-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14266"
-    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
+    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2026). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 Originally published 2025. [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
     author: Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J.
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Functional fragmentation of AI systems persists in higher education: systems specialize in discrete tasks such as feedback generation, scheduling, or content delivery with limited integration across learning processes. [→ Sudarshan VK 2025](#sudarshan-vk-2025)
+`q2 i?` Functional fragmentation of AI systems persists in higher education: systems specialize in discrete tasks such as feedback generation, scheduling, or content delivery with limited integration across learning processes. [→ Sudarshan VK 2026](#sudarshan-vk-2026)
 
 ## Evidence
 
-### Sudarshan VK 2025
+### Sudarshan VK 2026
 
-Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
+Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2026). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 Originally published 2025. [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
 
 `q2 · i?` · `review · r1`
 
@@ -62,3 +62,4 @@ Theme 1 of the article's thematic analysis of studies in its Tables 2 and 3, an 
 - [The deficit model of education remains the most common paradigm in AIED systems and falls short in promoting inclusive practices.](aied-deficit-model-limits-inclusion.md) — related
 - [The gold standard for advanced cyberlearning technology shifted from one-on-one tutoring parity to empowering individuals and teams in dynamic configurations (authors' historical account)](new-gold-standard-beyond-its-parity.md) — related
 - [The three-skill framework helps instructors diagnose whether student problems stem from discrete skill deficits or meta-strategic deficits (authors' experience)](framework-diagnoses-student-problems.md) — related
+- [GPT-2-based generation of narrative fragments integrated into learning paths showed excellent results in empirical research on learner engagement](gpt2-narrative-fragments-learning-path.md) — related

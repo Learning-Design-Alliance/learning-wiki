@@ -29,4 +29,4 @@ Gather is a 2D virtual workspace platform made by Gather Presence that supports 
 -
 
 ## Key Sources
-- Alizadeh, M. (2024). Exploring Engagement and Perceived Learning Outcomes in an Immersive Flipped Learning Context. International Journal in Information Technology in Governance, Education and Business, 6(2), 1-14. https://portal.issn.org/resource/ISSN/2721-0030
+- Alizadeh, M. (2024). Exploring Engagement and Perceived Learning Outcomes in an Immersive Flipped Learning Context. International Journal in Information Technology in Governance, Education and Business, 6(2), 1-14. https://portal.issn.org/resource/ISSN/2721-0030. [doi:10.32664/ijitgeb.v6i2.155](https://doi.org/10.32664/ijitgeb.v6i2.155)

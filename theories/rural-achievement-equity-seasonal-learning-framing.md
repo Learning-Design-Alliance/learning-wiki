@@ -49,6 +49,7 @@ The brief situates rural achievement within an equity framing and connects it to
 ## Examples
 
 - [Use national rural-school achievement and growth analyses to help educators and policymakers understand and support rural schools' potential needs](../strategies/use-rural-achievement-analyses-to-support-rural-schools.md)
+- [Fictional sensationalist news article framing with AI-generated seasonal dataset for correlation-causation analysis](../designs/fictional-news-correlation-activity-pattern.md)
 
 ## Key Sources
 - Johnson, A., Kuhfeld, M., & Soland, J. (2022). The forgotten 20 percent: Achievement and growth in rural schools across the nation. NWEA Research Brief. https://www.nwea.org/research-publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/

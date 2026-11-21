@@ -57,3 +57,4 @@ SHAP analysis of the Random Forest on held-out windows (Figures 3–4). Local ex
 - [Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax](humanization-suppresses-detector-salient-cues.md) — related
 - [The most predictive linguistic features differ across datasets, overlapping only in lexical diversity measures](aes-predictive-features-not-generalizable-across-corpora.md) — related
 - [Machine-learning SHAP analysis identifies age and extraversion as the most important single predictors for students, and learning-based memory and motor response capabilities for physicians](shap-single-variable-importance-students-physicians.md) — related
+- [Traditional readability formulas rely on surface features and predict comprehension judgments poorly](readability-formulas-surface-limitations.md) — related

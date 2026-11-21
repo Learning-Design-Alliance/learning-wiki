@@ -63,3 +63,4 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — a narrower finding that bears on this claim
 - [Students spent more time preparing all learning objectives under PBL 2.0, but less or equal time on their own assigned objective](pbl2-0-more-preparation-time-all-objectives.md) — related
+- [Both moderate and high adaptivity significantly increase total VR session time compared with a non-adaptive baseline in Neapolitan Pizza VR](adaptive-gen-ai-increases-session-duration-vr.md) — related

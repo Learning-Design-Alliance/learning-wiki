@@ -59,3 +59,4 @@ Qualitative analysis of the third session, a Socratic-type dialogue about forces
 - [A rapid review reports that ChatGPT in higher education can provide individualized instruction, prompt feedback, facilitated access to learning, and promoted student interaction](chatgpt-benefits-individualized-feedback-access-interaction.md) — related
 - [The review reports, citing Dwivedi et al. (2023), that ChatGPT provides students with an engaging and dynamic approach to learning](chatgpt-enhanced-student-engagement-review.md) — a broader claim this one bears on
 - [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related
+- [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — possibly the same claim (merge candidate)

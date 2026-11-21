@@ -55,3 +55,4 @@ Interview transcript segment at 28:20–29:15 in which Jim explains choosing the
 - [Students in open-ended experiments treat the professor as the primary epistemological authority](professor-as-epistemological-authority-open-ended.md) — related
 - [Student difficulties using graphs in physics are often epistemological framing errors, not just transferred math difficulties](framing-errors-graphs-physics.md) — related
 - [Eleven of fourteen students reported making a math–experiment connection through the single-photon experiments](math-experiment-connection-single-photon.md) — related
+- [Students' ability to gauge the trustworthiness of ChatGPT's answers during physics lab work is closely linked to their prior knowledge of the underlying physics](prior-knowledge-gauging-chatgpt-answers-trustworthiness.md) — related

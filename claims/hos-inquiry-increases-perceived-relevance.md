@@ -51,3 +51,4 @@ Paired t-test on the four-item relevance scale for 238 HoS students shows a smal
 - [Preservice teachers in inquiry-based courses became significantly less anxious about science, the largest change observed](hos-inquiry-decreases-science-anxiety.md) — related
 - [Preservice teachers in inquiry-based courses significantly increased their enjoyment of science](hos-inquiry-increases-science-enjoyment.md) — related
 - [Preservice elementary teachers in inquiry-based science content courses significantly increased their science confidence over two semesters](hos-inquiry-increases-science-confidence.md) — related
+- [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — reports the opposite

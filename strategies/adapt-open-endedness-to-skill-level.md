@@ -50,6 +50,7 @@ The article proposes personalizing open-endedness by learner proficiency and sca
 - [Integrate AI-driven scaffolding with teacher-led offloading and refine feedback granularity to prevent over-scaffolding](ai-scaffolding-teacher-offloading-strategy.md)
 - [Support low-ability students in open inquiry with graduated scaffolds such as general procedures and worked examples](graduated-scaffolds-low-ability-open-inquiry.md)
 - [Pair interactive computer simulations with InkSurvey probe questions to guide student re-exploration of the sim without over- or under-scaffolding](sims-with-inksurvey-guided-refinement-strategy.md)
+- [Phase-specific adaptivity: strong AI guidance during critical procedural phases and lighter guidance during open-ended exploration](phase-specific-adaptivity-strategy.md)
 
 ## Examples
 -

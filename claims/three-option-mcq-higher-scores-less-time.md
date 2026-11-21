@@ -50,3 +50,4 @@ Randomized study of 132 second professional M.B.B.S. students assigned to three-
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — reports the opposite
 - [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related
 - [Physicians spent less time per item on 3-option than 4-option items on both subspecialty exams, but response speed per word showed exam-dependent patterns](three-option-mci-faster-response-time.md) — related
+- [MCQ-only practice takes significantly less completion time than open-response-only or combined practice, with roughly 29–35% practice-time reductions](mcq-only-faster-completion-time.md) — related

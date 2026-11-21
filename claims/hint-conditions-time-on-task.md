@@ -55,3 +55,5 @@ Time-on-task analysis of session times in the randomized experiment, using Krusk
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
 - [Within-condition pre-to-post differences were statistically significant in the manual-hint conditions, but not in the ChatGPT conditions](chatgpt-hint-gains-not-significant.md) — related
 - [Students using ChatGPT complete programming tests about two times faster than students without ChatGPT, while their programming performance is comparable](chatgpt-halves-completion-time-comparable-marks.md) — related
+- [Both moderate and high adaptivity significantly increase total VR session time compared with a non-adaptive baseline in Neapolitan Pizza VR](adaptive-gen-ai-increases-session-duration-vr.md) — related
+- [Learners spent significantly more time on learning materials in EDBook than with equivalent webpage content plus ChatGPT](edbook-more-time-on-learning-materials.md) — related

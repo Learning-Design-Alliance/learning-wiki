@@ -32,6 +32,7 @@ Edaq530 is a low-cost, open-source USB-to-sensor interface and measurement softw
 
 - [TEEMSS](teemss.md)
 - [Ciênsação](ciensacao.md)
+- [Open-source Python library for plug-and-play wearable heart-rate data in programming lessons](open-source-python-library-for-plug-and-play-wearable-heart-rate-data-in-programming-lesso.md)
 
 ## Key Sources
 - Katalin Kopasz, Péter Makra and Zoltán Gingl. (2012). Edaq530: a transparent, open-end and open-source measurement solution in natural science education. arXiv preprint. https://arxiv.org/abs/1009.0432

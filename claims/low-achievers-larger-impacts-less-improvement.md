@@ -55,3 +55,4 @@ Longitudinal follow-up of a subset of 1 million students whose pre-pandemic achi
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — reports the opposite
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
 - [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
+- [Bachelor enrollments in physics at German universities declined 15% in the three years following the onset of the COVID-19 pandemic](germany-physics-enrollment-decline-15-percent-covid.md) — related

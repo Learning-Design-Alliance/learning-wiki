@@ -55,3 +55,4 @@ The article reports, citing Shen et al. (2009), a survey of 3000 participants fr
 - [Canadian anesthesiology residents preferred 15- to 30-minute didactic podcasts and 5- to 15-minute formats for other modalities, with little interest beyond 45 minutes](resident-length-preference-15-30-minutes.md) — reports the opposite
 - [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
 - [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related
+- [Adult learners prefer learning from video formats over text materials](adult-learners-prefer-video-over-text.md) — related

@@ -73,3 +73,4 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Individual and distributed/situated cognition accounts are theoretically continuous, differing in the scale of dynamics of interest](cognition-accounts-continuous-across-scales.md) — related
 - [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related
 - [Timely responses to learner confusion are crucial for constructive-struggle strategies, and failing to respond in time causes frustration or stops participation](timely-confusion-response-crucial.md) — related
+- [Affective responses favour standard recitation tasks: curiosity and interest were higher for Rec than for Exp and Pro tasks, and reference to reality was higher for Rec and Exp than Pro](affective-responses-rec-favoured.md) — related

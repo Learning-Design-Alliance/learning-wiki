@@ -54,3 +54,4 @@ The review reports this survey of undergraduate health science students' self-re
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — a broader claim this one bears on
 - [Educational HRV research is concentrated on stress and on undergraduate, largely health-science, participants](hrv-research-concentrated-stress-undergraduates.md)
 - [Only 58.3% of undergraduate public health students have participated in research projects, with opportunities concentrated among academically strong students](research-participation-prevalence-58-percent-selective-barriers.md) — related
+- [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on

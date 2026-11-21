@@ -48,6 +48,7 @@ The article describes a hierarchical instruction processing pipeline in which na
 
 - Edusim Llm Platform
 - [Precompiled-plan planning and execution framework for course sequencing and delivery](precompiled-plans-course-generation.md)
+- [Three-module speech-to-sign-language translation architecture with a rule-based translation core](speech-to-sign-translation-three-module-architecture.md)
 
 ## Examples
 -

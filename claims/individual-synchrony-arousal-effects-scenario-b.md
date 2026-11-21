@@ -87,3 +87,4 @@ Individual-level LMM on Scenario B collaboration satisfaction: the null model re
 - [In structured Scenario B simulations, higher group-level physiological synchrony is associated with lower post-simulation stress levels](group-synchrony-lower-post-stress-scenario-b.md) — related
 - [Physiological synchrony and arousal show no significant effects on stress or satisfaction outcomes in Scenario A](physiological-indicators-null-scenario-a.md) — related
 - [In Scenario B, higher group-level physiological synchrony is associated with lower collaboration performance satisfaction ratings](group-synchrony-lower-collaboration-satisfaction-scenario-b.md) — related
+- [Individual students exhibit unique physiological synchrony patterns across courses](unique-per-student-synchrony-patterns.md) — related

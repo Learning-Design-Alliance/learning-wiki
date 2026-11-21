@@ -59,3 +59,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [Intentional recruitment produced a diverse invited-speaker slate: twelve of twenty-five speakers over eight years were women](intentional-speaker-recruitment-diversity-ncnaapt.md) — related
 - [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](girls-questionnaire-care-type-professions-tendency.md) — related
 - [Men reported greater interest in quantum careers than women across all majors, but this gender difference disappeared among physical science and computer science majors](gender-interest-quantum-careers-major-dependent.md) — related
+- [STEM interest and belonging differ by decision stage: students aged 14-15 before the physics choice report a balanced profile, while students aged 16+ who chose physics show a positive STEM orientation](stem-identity-differs-before-after-physics-choice.md) — related

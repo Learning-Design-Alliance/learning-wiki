@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 437 claims (194 for, 186 mixed, 57 against) · 300 studies (118 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 64 of 300 report an effect size · 421 claims rest on one study
+> **Evidence** · 438 claims (194 for, 187 mixed, 57 against) · 302 studies (120 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 65 of 302 report an effect size · 421 claims rest on one study
 
 ## Description and scope
 
@@ -309,6 +309,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Students in the ChatGPT condition mistakenly assumed incorrect ChatGPT answers were correct (false positive rate 57%)](../claims/chatgpt-answer-overtrust-fpr-57-percent.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](../claims/copy-paste-dominant-chatgpt-strategy.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
 - [Mode-shifting improves the density of knowledge-building messages in LBT conversations (Cohen's d = 0.71)](../claims/mode-shifting-improves-knowledge-building-density.md) [+M] — attached 2026-11-20 from Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Educ, which proposed "Mode-shifting: a tutee agent alternating between help-receiver and questioner modes".
+- [Score improvements with ChatGPT feedback varied by question, reaching significance on Q2, Q3 and Q4 but not Q1](../claims/feedback-score-gains-vary-by-question.md) [~W] — attached 2026-11-20 from Atakan Coban et al. (2024), which proposed "Structure answer sub-parts clearly within ChatGPT prompts so that incomplete answers receive feedback"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

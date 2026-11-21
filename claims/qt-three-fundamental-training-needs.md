@@ -67,3 +67,4 @@ Descriptive analysis of the 55-response follow-up questionnaire shown as Divergi
 ## Related Claims
 - [Industry leaders identified foundational skills — linear algebra, programming and software engineering, lab skills, statistics, and introductory quantum information — plus teamwork and communication as workforce essentials](industrial-skill-needs-for-qise-workforce.md) — related
 - [Experts most strongly agree that QT relevance for industry will increase significantly and that special educational programs for the quantum workforce are necessary](experts-agree-qt-industry-relevance-and-education-programs.md) — related
+- [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related

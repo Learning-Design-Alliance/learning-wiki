@@ -49,3 +49,4 @@ Analysis of interview transcripts from the same 45-student think-aloud study. Th
 - [Some students resolved the ATP conflict by abandoning correct biology knowledge in favor of physics reasoning about bond breaking](ava-abandoned-biology-knowledge-overshoot.md) — related
 - [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](walking-disrupts-misconceptions-which-resurface.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
+- [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related

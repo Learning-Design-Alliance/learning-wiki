@@ -43,6 +43,7 @@ The article recommends that learning analytics systems track impasse depth and t
 ## Related Strategies
 
 - [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](eeg-triggered-socratic-fallback-hybrid-tutoring.md)
+- [Escalate explanation scope and simplicity on repeated clarification requests](escalate-explanation-level-repeated-requests.md)
 
 ## Examples
 -

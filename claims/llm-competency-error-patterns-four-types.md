@@ -102,3 +102,5 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Exam responses frequently exhibit combinations of the four errors in a single response, so instructors must be prepared to identify multiple errors at once](students-combine-multiple-vector-errors.md) — related
 - [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
+- [A single GenAI agent generating feedback on science constructed responses produces over-praise in 15.42% of feedback and over-inference in 27.20%, with 9.58% exhibiting both](single-agent-genai-feedback-over-praise-over-inference-rates.md) — related
+- [The AutoFeedback multi-agent system significantly outperforms a single GenAI agent by reducing over-praise and over-inference in generated feedback](autofeedback-multi-agent-reduces-over-praise-over-inference.md) — related

@@ -51,3 +51,4 @@ Qualitative interview study: the team conducted online semi-structured interview
 - [Faculty role (department head versus faculty member) shapes assessment perceptions more than school size, with department heads dominating broader-context discussions.](role-and-institution-size-shape-assessment-perceptions.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Faculty consensus produced four categories of learning goals for the advanced lab: modeling, design, communication, and technical lab skills](four-learning-goal-categories-modeling-design-communication-technical.md) — related
+- [An LLM (GPT3.5) analysis of 30 anonymized interview transcripts extracted ten typical job roles to refine the qualification profile categories](llm-gpt35-job-role-extraction-qt-interviews.md) — related

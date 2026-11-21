@@ -47,6 +47,7 @@ The article's implementable recipe is to break procedures down into component ba
 
 - [Apply deliberate practice in microsurgery by setting measurable goals, deconstructing skills, planning practice time, and seeking expert guidance](apply-deliberate-practice-microsurgery-steps.md)
 - [Part-Task Practice](part-task_practice.md)
+- [Stepped evaluation exercise for assessing pseudoscientific claims at increasing levels of difficulty](stepped-pseudoscience-evaluation-exercise-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The authors recommend that future iterations move beyond standalone use: "future
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Integrate obesity simulation suits into broader multimodal designs with structured prebriefing, guided reflection, and debriefing rather than using them as standalone interventions](oss-embed-in-multimodal-design.md)
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
+- [Integrate VR learning applications into broader teaching strategies with teacher introduction and gamification rather than using them standalone](integrate-vr-into-broader-teaching-strategies.md)
 
 ## Examples
 -

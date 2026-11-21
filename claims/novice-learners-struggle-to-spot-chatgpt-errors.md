@@ -54,3 +54,4 @@ Authors' interpretation from their interaction study, not a tested result: Appro
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md) — a narrower finding that bears on this claim
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
+- [ChatGPT provided vague, partially incorrect, or irrelevant guidance on lab-specific procedures, leading some groups to abandon it](chatgpt-unreliable-lab-procedure-guidance.md) — related

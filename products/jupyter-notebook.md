@@ -27,7 +27,8 @@ Jupyter Notebook is an open-source interactive computational notebook environmen
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Bell inequalities simulation code in Qibo](bell-inequalities-simulation-code-in-qibo.md)
 
 ## Key Sources
 - Tor Ole B. Odden and John Burk. (2019). Computational Essays in the Physics Classroom. https://uio-ccse.github.io/computational-essay-showroom/

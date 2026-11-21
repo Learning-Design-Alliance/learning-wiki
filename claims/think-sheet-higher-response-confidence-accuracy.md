@@ -49,3 +49,4 @@ Contrast analysis (weights: think-sheet +2, refutation-text −1, control −1) 
 - [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
 - [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
+- [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — related

@@ -54,3 +54,4 @@ Three-level meta-analysis with CHERVE of PA-versus-non-PA comparisons measuring 
 - [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related
+- [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — reports the opposite

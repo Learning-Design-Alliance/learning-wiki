@@ -45,7 +45,8 @@ The article's design guidance is that a single open-ended affective question, an
 - [Topic Classification Null Affective More Signal](../claims/topic-classification-null-affective-more-signal.md) [+W]
 
 ## Related Designs
-- 
+
+- [Wearable GSR and heart rate physiological collection system on Raspberry Pi](raspberry-pi-gsr-hr-physiological-collection-system.md)
 
 ## Examples
 -

@@ -31,4 +31,4 @@ A four-item Likert-scale instrument developed by Diane Vassallo to measure unive
 
 ## Key Sources
 - Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3
-- Chan, C. K. Y. (2024). Exploring the Factors of “AI Guilt” Among Students – Are You Guilty of Using AI in Your Homework? https://scholar.google.com
+- Chan, C. K. Y. (2024). Exploring the Factors of “AI Guilt” Among Students – Are You Guilty of Using AI in Your Homework? https://scholar.google.com. [doi:10.48550/arxiv.2407.10777](https://doi.org/10.48550/arxiv.2407.10777)

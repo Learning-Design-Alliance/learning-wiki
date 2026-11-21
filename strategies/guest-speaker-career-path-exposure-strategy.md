@@ -45,6 +45,7 @@ In the IceCube AfterSchool program, eight speakers gave guest lectures on their 
 ## Related Strategies
 
 - [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
+- [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 
 ## Examples
 -

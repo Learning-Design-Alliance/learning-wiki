@@ -48,3 +48,4 @@ Spring 2015 controlled replication with about 160 students: voting needed heavy 
 ## Related Claims
 - [Approximately 82.1% of web-facilitated section students completed an extra credit assignment compared to about 37.5% of online section students](extra-credit-completion-web-facilitated-vs-online.md) — related
 - [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](il-biology-engagement-higher.md) — related
+- [Offering scaled extra credit is associated with higher completion of supplemental math assignments and reduced PEER/WA completion disparities](scaled-extra-credit-higher-math-completion-reduced-disparity.md) — reports the opposite

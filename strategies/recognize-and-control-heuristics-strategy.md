@@ -52,6 +52,7 @@ Because the study found that heuristics "act in tandem or conjunction when stude
 - [IDEAL Problem-Solving Model](ideal-problem-solving-model.md)
 - [Direct Instruction: Problem-Solving Strategies](direct_instruction-problem-solving_strategies.md)
 - [Strategy Identification and Application](strategy_identification_and_application.md)
+- [Use GAI across educational processes as direct solutions, hints and instructional cues, and heuristic dialogues, with learner double-checking of outputs](gai-learner-support-three-modes.md)
 
 ## Examples
 -

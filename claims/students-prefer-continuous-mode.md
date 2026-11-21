@@ -54,3 +54,4 @@ Behavioral observation and qualitative interviews during the three-month MAIC pi
 - [Students' technology acceptance increased significantly after taking a MAIC course](technology-acceptance-increased-maic.md)
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related
 - [Students overwhelmingly believed active learning outperforms lecture but thought having ideas explained first would be more effective](students-predict-explanation-first-most-effective.md) — related
+- [Participants preferred EDBook content when learning material for the first time and standard LLM interactions when already familiar with the material](edbook-preferred-for-first-time-learning.md) — related

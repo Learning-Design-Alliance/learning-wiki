@@ -72,3 +72,4 @@ Same descriptive comparison extended to speed parameters (Figures 3-4) and item 
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
 - [Guessing parameters were at or near zero for most items in both ChatGPT and instructor tests](guessing-near-zero-both-item-sets.md) — related
+- [Collateral information significantly improves the accuracy of short CAT administrations across progression models](collateral-information-improves-cat-accuracy.md) — related

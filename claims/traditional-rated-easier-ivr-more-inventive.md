@@ -71,3 +71,4 @@ On the hedonic quality dimension of the UEQ-S, the iVR methodology scored higher
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — reports the opposite
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
 - [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
+- [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related

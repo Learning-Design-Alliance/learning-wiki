@@ -57,3 +57,4 @@ Feasibility RCT in which 18 novice robotic surgeons were randomised 1:1 to 3D VR
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — reports the opposite
 - [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
 - [Video-prepared trainees committed fewer penalties, particularly instrument collisions and out-of-view instruments](educational-video-lowers-robotic-simulation-penalty-score.md) — related
+- [Prior study: VR metric visualization yielded accuracy comparable to 2D dashboards with an edge on intricate tasks (as reported by the article, citing Moreno-Lumbreras et al.)](prior-vr-comparable-accuracy-intricate-task-advantage.md) — related

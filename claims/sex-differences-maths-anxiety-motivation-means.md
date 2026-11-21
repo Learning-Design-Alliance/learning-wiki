@@ -85,3 +85,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
 - [Female students express significantly less interest in physics than male students, regardless of introductory course format](female-students-less-physics-interest.md) — related
 - [All six female ISS project participants succeeded in a STEM major, suggesting the contest helped reduce the gender gap](iss-female-participants-stem-success.md) — related
+- [Female students rated aesthetic pictures higher than male students (d around 0.4), while motivation and interest in physics showed only weak correlations with aesthetic ratings](gender-motivation-interest-predictors-picture-ratings.md) — related

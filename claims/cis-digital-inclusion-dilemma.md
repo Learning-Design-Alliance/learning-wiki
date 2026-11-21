@@ -75,3 +75,5 @@ Cross-case discussion identifies the inclusion dilemma: greater inclusion via di
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
+- [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — related
+- [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](naplan-lbote-inequity.md) — related

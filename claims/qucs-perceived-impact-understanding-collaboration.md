@@ -49,3 +49,4 @@ Perceived-impact voting from the 28-respondent detailed survey (Fig. 2(b)): 26 o
 - [Most integrated-course participants reported the format maximized learning time, inspired interest, enhanced understanding of key concepts, and allotted theory-practice time appropriately](integrated-histology-student-feedback.md) — related
 - [The QuCS lecture series reached a large global audience, hosting nearly 40 lectures with over 40 speakers from more than eight countries and over 1000 subscribers](qucs-global-reach-40-lectures-1000-subscribers.md) — related
 - [Half of detailed-survey respondents rated themselves as beginners, and quantum machine learning was the most popular topic (20 of 28 votes)](qucs-knowledge-levels-and-topic-interest.md) — related
+- [OruMbya webinars reached over 1000 total views and gathered reflections from 202 questionnaire respondents](orumbya-webinar-reach-and-questionnaire.md) — related

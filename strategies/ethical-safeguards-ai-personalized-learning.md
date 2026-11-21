@@ -69,6 +69,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
 - [Establish a centralized database of anonymized simulation data accessible to global research groups](centralized-anonymized-simulation-database.md)
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
+- [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Detailed item-level examination of pre-to-post response transitions on the six p
 - [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
 - [The six PFI questions polarize student responses between two choices and rank among the most challenging FCI items, with five of six in the top-10 hardest](pfi-questions-polarize-and-are-hardest.md) — related
+- [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related

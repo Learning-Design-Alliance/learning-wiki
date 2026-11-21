@@ -52,3 +52,4 @@ Descriptive comparison of the same 21 participants' pre- and post-test scores ma
 - [No statistically significant treatment–contrast differences emerged when students were compared within similar initial CEFR ability sub-groups](no-subgroup-differences-cefr-levels.md) — related
 - [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
 - [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related
+- [CFQT proficiency levels are aligned with the EQF, linking level B2 to bachelor, C1 to master and C2 to doctoral programs, though the mapping is not one-to-one](cfqt-eqf-alignment-levels-to-degree-cycles.md) — related

@@ -54,3 +54,5 @@ First-person reflective vignette by Dr. Weronika Walkosz, who participated in FP
 - [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related
 - [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](family-support-pathway-physics-major.md) — related
 - [Outcome expectations — career-path exploration, skill development, and work-life integration — shape students' subfield choices in physics](outcome-expectations-shape-physics-subfield-choice.md) — related
+- [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Direct messages from followers indicate Neutralina inspired young women in Latin America to view science as an attainable career path](neutralina-inspired-young-women-peru.md) — related

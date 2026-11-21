@@ -66,3 +66,4 @@ Authors' interpretation of the interaction plotted in Figure 1: both groups incr
 - [Pairwise comparisons show significant self-directed learning gains from pre-test to both post-tests, but no significant change between post-test one and post-test two](pairwise-gains-pre-to-posttests-not-between-posttests.md) — related
 - [Educational technology students taught with project-based learning show significantly higher self-directed learning than students taught with conventional teaching](pobl-improves-self-directed-learning-versus-conventional-teaching.md) — related
 - [Self-directed learning scores increase significantly across the three measurements over the semester](self-directed-learning-increases-across-three-measurements.md) — related
+- [Condition-by-lesson interaction: posttest differences by condition depend on the lesson, with significant pairwise contrasts in only two lessons](condition-by-lesson-interaction-posttest.md) — related

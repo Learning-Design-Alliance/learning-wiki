@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 120 claims (52 for, 64 mixed, 4 against) · 96 studies (62 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 24 of 96 report an effect size · 110 claims rest on one study
+> **Evidence** · 123 claims (54 for, 65 mixed, 4 against) · 97 studies (63 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 24 of 97 report an effect size · 113 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,9 @@ Claims linked to this page later go here until they are read against the model.
 - [Watching a novel lecture at 1.5× speed significantly reduced immediate quiz performance compared with 1.0× speed for the artifacts video](../claims/one-point-five-speed-significant-detriment-artifacts-quiz.md) [+M] — attached 2026-11-09 from Song K et al. (2018), which proposed "Do not assume faster podcast playback speeds save learners time when novel material must be retained"; tests this page's relationship.
 - [Animated-media instruction (video or animation-enriched VP) yields better adherence to temporal demands of PBLS than static-media VP in a randomized trial](../claims/animated-media-better-temporal-demands-pbls.md) [+W] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Combine animation with interactivity in self-instruction materials for complex procedural skills"; tests this page's relationship.
 - [No significant difference between video, animation-enriched VP, and static VP groups in adherence to the correct PBLS algorithm](../claims/no-group-difference-pbls-algorithm-adherence.md) [~W] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Combine animation with interactivity in self-instruction materials for complex procedural skills"; tests this page's relationship.
+- [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](../claims/d-illustrate-most-consistent-tlx-gains.md) [+W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown"; tests this page's relationship.
+- [D-Illustrate is rated best among the four design ideas for supporting multimedia learning cognitive demands](../claims/d-illustrate-best-lcd-ratings.md) [+W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown".
+- [D-Slowdown produced no significant changes in any TLX dimension, despite participants elsewhere calling for slower visuals](../claims/d-slowdown-null-tlx-effect.md) [~W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

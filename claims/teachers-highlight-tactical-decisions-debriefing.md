@@ -73,3 +73,4 @@ Transcript analysis of an end-of-day debriefing where students lost a radar heli
 - [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related
+- [The reasons students gave for color's benefits were aligned with the study's motivations: separating/distinguishing information was the most popular reason, and specific reasons were as common as generic ones](reasons-for-color-benefit-aligned.md) — related

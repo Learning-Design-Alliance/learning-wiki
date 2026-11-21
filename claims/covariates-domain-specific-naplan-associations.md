@@ -49,3 +49,5 @@ Adjusted fixed effects regression results for the linked cohort. Housing crowded
 - [Mild hearing impairment is associated with lower Year 3 Writing and Spelling scores in remote-living Aboriginal children](mild-hi-lower-writing-spelling-naplan.md) — related
 - [Lower Year 2 school attendance is a strong predictor of poorer Year 3 NAPLAN outcomes, with larger effects below 60% attendance](year2-attendance-predicts-naplan.md) — related
 - [Moderate or worse hearing impairment is associated with lower Year 3 Writing and Numeracy scores in remote-living Aboriginal children](moderate-worse-hi-lower-writing-numeracy.md) — related
+- [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](naplan-lbote-inequity.md) — related
+- [NAPLAN implementation is associated with an uptrend in reading and numeracy scores among Australian primary school students](naplan-primary-reading-numeracy-uptrend.md) — related

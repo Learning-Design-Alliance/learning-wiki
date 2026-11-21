@@ -84,3 +84,4 @@ For retraining existing employees, "Companies report a desire for on-demand shor
 - [Program organisers intend QT master's graduates predominantly for industry careers: 82.3% of indicated career outcomes refer to industry versus 17.6% to academic paths](qt-masters-career-outcomes-industry-82-percent.md) — related
 - [An increasing trend toward industry internships in QT master's programs: none offered industry internships before 2019, while greater than 50% of newly launched programs did so as of 2020](qt-masters-industry-internship-trend.md) — related
 - [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related
+- [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related

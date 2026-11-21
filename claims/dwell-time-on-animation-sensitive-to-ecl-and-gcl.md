@@ -51,3 +51,4 @@ Eye-tracking analysis with an EyeLink 1000+ during the multimedia lesson. The EC
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
+- [Moderate adaptivity, but not high adaptivity, significantly increases visual attention to the AI tutor avatar relative to a non-adaptive baseline](moderate-adaptivity-increases-avatar-dwell-time.md) — related

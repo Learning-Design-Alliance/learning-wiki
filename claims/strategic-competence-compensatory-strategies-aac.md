@@ -51,3 +51,4 @@ Conceptual statement of the strategic competence domain. The article lists examp
 - [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — related
 - [Psychosocial factors of motivation, attitude, confidence, and resilience influence attainment of communicative competence via AAC](psychosocial-factors-aac-communicative-competence.md) — related
 - [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related
+- [GEM augments UDL by adding sensory processing, social connection, and environmental factors](gem-augments-udl.md) — related

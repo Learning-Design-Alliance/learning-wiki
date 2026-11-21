@@ -49,3 +49,4 @@ Platform experiment on Korbit in which Wikipedia-based explanations, extracted a
 - [Students rate pairs of extracted and generated Wikipedia-based explanations as helpful 83.33% of the time, more than either type alone](wikipedia-explanations-both-types-preferred.md) — related
 - [Wikipedia-based explanation success rates (17.65%) are far lower than personalized hints (60.47%), with no significant difference between extracted and generated types](wikipedia-explanations-low-success-rate.md) — reports the opposite
 - [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related
+- [GAI-generated customized prompts in an ITS, supplemented with Wikipedia-based explanations, empirically boosted student performance significantly](korbit-customized-prompts-performance.md) — related

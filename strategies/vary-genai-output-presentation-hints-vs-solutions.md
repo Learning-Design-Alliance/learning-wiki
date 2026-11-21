@@ -46,6 +46,7 @@ The article recommends that future research on GenAI as tutoring systems should 
 - [Future research should identify the instructional, learner, and contextual conditions under which GenAI most effectively supports motivation](future-research-genai-motivation-boundary-conditions.md)
 - [Sequence CSCL research on human-AI knowledge construction from exploratory observation to experimental variable manipulation](human-ai-research-program-sequence.md)
 - [Design experiments contrasting direct learner offloading versus indirect transience reduction by the presenter](contrast-direct-and-indirect-transience-reduction.md)
+- [Use GAI across educational processes as direct solutions, hints and instructional cues, and heuristic dialogues, with learner double-checking of outputs](gai-learner-support-three-modes.md)
 
 ## Examples
 -

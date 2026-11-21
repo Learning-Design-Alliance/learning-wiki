@@ -44,6 +44,7 @@ A specific future-direction recommendation: because a fully automated system may
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Integrate AI tools into A-SPIRE's practical stages as an adjunct to human expertise, with ethical oversight](ai-integration-into-a-spire-practical-stages.md)
+- [Prioritize standardized fNIRS methods, ecologically valid learning settings, and evaluation of real-time neural adaptation feasibility](prioritize-standardized-methods-and-ecological-validity-fnirs-gils.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The review's guidance for future multimodal sensing work is to prioritize minima
 ## Related Strategies
 
 - [Prioritize transparency, ethical guidelines, and researcher-educator collaboration when conducting K–8 MMLA research](mmla-k8-transparency-ethics-strategy.md)
+- [Use unobtrusive wearable sensing of physiological signals to tailor educational strategies and group students by synchronized responses](wearable-sensing-tailored-strategies-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article recommends customizing osteoporosis education to each postgraduate t
 
 - [Hybrid curriculum model combining standardized core competencies with customizable case-based and modular delivery](hybrid-standardized-customized-digital-health-curriculum.md)
 - [Integrate experiential learning activities — community outreach projects, collaborative policy simulations, and applied research opportunities — into dental hygiene curricula](dh-experiential-learning-policy-research-advocacy.md)
+- [Tailor each communication channel to a specific audience and purpose](audience-tailored-channel-selection.md)
 
 ## Examples
 -

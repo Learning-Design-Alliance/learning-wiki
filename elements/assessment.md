@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (20 for, 24 mixed, 3 against) · 43 studies (12 causal, 9 design, 8 review, 6 quant-synthesis, 4 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 43 report an effect size · 45 claims rest on one study
+> **Evidence** · 50 claims (22 for, 25 mixed, 3 against) · 44 studies (13 causal, 9 design, 8 review, 6 quant-synthesis, 4 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 44 report an effect size · 48 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -98,6 +98,9 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Students' novelty judgments of assessment questions differ sharply by module, with classical dynamics questions judged novel by most students](../claims/question-novelty-judgments-vary-by-module.md) [~W] — attached 2026-11-19 from Qingyong Meng (2021), which proposed "15-question assessment protocol with dependent measures and a 3-point rubric".
 - [Incoming Stanford students intending calculus-based physics showed no statistically significant change in diagnostic scores between 2019 and 2021](../claims/calculus-based-physics-diagnostic-no-change-2019-2021.md) [~W] — attached 2026-11-19 from Eric W. Burkholder (2022), which proposed "Stanford validated physics diagnostic exam for introductory course placement".
 - [Requiring ChatGPT use in a take-home exam showed no noticeable overlap in answers across 13 groups given the same questions](../claims/ai-integrated-exam-no-overlap-across-groups.md) [~W] — attached 2026-11-19 from P G Kubendran Amos (2023), which proposed "Trial implementation of the AI-integrated take-home exam in a Metallurgical and Materials Engineering course".
+- [A hybrid take-home/in-class exam produced lower self-reported stress while completing the exam than a traditional in-class exam in introductory physics (pMW = 0.019)](../claims/hybrid-exam-lower-completion-stress.md) [+W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
+- [Completing a hybrid take-home/in-class exam was rated as increasing mastery more than completing a traditional exam (pMW = 0.035)](../claims/hybrid-exam-completion-mastery.md) [+W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
+- [The hybrid exam did not induce significantly more preparation stress than traditional testing (pMW = 0.492)](../claims/hybrid-exam-preparation-stress-null.md) [~W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

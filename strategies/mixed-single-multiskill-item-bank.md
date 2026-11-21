@@ -45,7 +45,8 @@ The article recommends that cognitive diagnostic item banks combine single-skill
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](../claims/rba-item-bank-covers-14-los.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Expand the FCI item bank with highly discriminative items exhibiting sufficient difficulty variability](expand-fci-item-bank-high-discrimination.md)
 
 ## Examples
 -

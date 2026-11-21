@@ -48,6 +48,7 @@ The authors recommend expanding the weekly case-based tele-education program to 
 
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
+- [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
 
 ## Examples
 -

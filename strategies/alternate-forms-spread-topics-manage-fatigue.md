@@ -46,6 +46,7 @@ In a month-long intensive program, the authors managed mental and physical fatig
 - [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 - [Physical Activity Breaks](physical-activity-breaks.md)
 - [Structure intensive schools with plenary lectures for general topics and parallel sessions for advanced topics matched to participants' academic concentrations](plenary-parallel-lecture-structure-strategy.md)
+- [Improve future ASP editions by expanding hands-on activities, pre-distributing course summaries, and adding practical sessions, group projects, and field trips](asp2024-future-improvement-strategy.md)
 
 ## Examples
 -

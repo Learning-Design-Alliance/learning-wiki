@@ -48,3 +48,4 @@ Unsupervised evaluation on the annotated NCTE sample. The results section report
 ## Related Claims
 - [The question words \"why\", \"how do\", and \"what else\" correlate positively with focusing labels while \"when\" correlates negatively on the FILTERED set](question-word-lexical-patterns-focusing.md) — related
 - [A supervised RoBERTa model fine-tuned on the annotated dataset reaches a Spearman correlation of .761 with human expert labels for funneling and focusing questions on the UNFILTERED set](roberta-funneling-focusing-correlation-761.md) — related
+- [Manual quality filtering retained 528 of 2,500 forum question/answer pairs (21%), and an earlier unfiltered fine-tune (FT1) suffered prohibitive quality issues](forum-finetune-manual-filtering-21-percent.md) — related

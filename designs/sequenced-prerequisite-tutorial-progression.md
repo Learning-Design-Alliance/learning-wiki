@@ -40,7 +40,8 @@ The eight tutorials form a deliberate skill ladder: each tutorial lists explicit
 - 
 
 ## Related Designs
-- 
+
+- [Directed-graph navigation and transitive-reduction ordering of tutorials as a mastery path](plumed-tutorials-directed-graph-navigation.md)
 
 ## Examples
 -

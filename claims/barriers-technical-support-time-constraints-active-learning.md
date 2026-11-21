@@ -54,3 +54,4 @@ Survey item on reasons for not adopting active learning, compared by gender and 
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
 - [Open-project students more often cited lack of time, while requests for better equipment were similar across both lab formats](open-project-students-cite-lack-of-time.md) — related
+- [Time was the most frequently cited structural barrier to open-ended labs, and teachers' reports showed multiple structural and perception-related barriers stacking and interweaving.](time-most-frequent-barrier-open-ended-labs.md) — related

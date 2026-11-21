@@ -54,6 +54,8 @@ The article recommends that although AI provides scalable educational support, "
 - [Use ChatGPT 4.0 as a multilingual auxiliary learning-assistance tool for nursing education, with user quality review and institutional regulation](chatgpt-4-nursing-learning-assistance-strategy.md)
 - [Preserve data integrity through input checks, deduplication, backups and access controls before deploying IoT](data-integrity-practices-iot-education.md)
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
+- [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
 
 ## Examples
 -

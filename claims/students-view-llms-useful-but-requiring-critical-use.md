@@ -82,3 +82,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Student trust concerns about ChatGPT's accuracy present before the standardized-patient interaction disappeared after it, with no hallucinations observed by faculty](trust-theme-disappeared-postinteraction.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
 - [Interviews identify CV creation and review challenges: structure confusion, over-describing of skills, inaccuracies and trust issues](interview-cv-creation-review-challenges.md) — related
+- [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related

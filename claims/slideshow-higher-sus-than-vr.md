@@ -1,0 +1,53 @@
+---
+type: claim
+title: The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark
+description: The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark
+id: slideshow-higher-sus-than-vr
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-20
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: battipede-2025
+    resource: "https://doi.org/10.1007/978-3-031-88881-6_8"
+    title: "Battipede, E., Giangualano, A., Boffi, P., Clerici, M., Calvi, A., Cassenti, L., Cialini, R., Van Den Weghe, T. L. A., Addimando, L., Lanzi, P. L., Gallace, A. (2025). Physics Playground: Insights from a Qualitative-Quantitative Study about VR-Based Learning. Originally published 2024. [doi:10.1007/978-3-031-88881-6_8](https://doi.org/10.1007/978-3-031-88881-6_8)"
+    author: Battipede, E., Giangualano, A., Boffi, P., Clerici, M., Calvi, A., Cassenti, L., Cialini, R., Van Den Weghe, T. L. A., Addimando, L., Lanzi, P. L., Gallace, A.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` SUS scores were significantly higher for the slideshow than for the VR application, though the VR application still scored above the usability benchmark. [→ Battipede 2025](#battipede-2025)
+
+## Evidence
+
+### Battipede 2025
+
+Battipede, E., Giangualano, A., Boffi, P., Clerici, M., Calvi, A., Cassenti, L., Cialini, R., Van Den Weghe, T. L. A., Addimando, L., Lanzi, P. L., Gallace, A. (2025). Physics Playground: Insights from a Qualitative-Quantitative Study about VR-Based Learning. Originally published 2024. [doi:10.1007/978-3-031-88881-6_8](https://doi.org/10.1007/978-3-031-88881-6_8)
+
+`q2 · i?` · `causal · r2`
+
+Exploratory SUS measure in the quantitative study; the "control group having a higher mean" than the VR group. SUS scores positively correlated with Presence scores (r = .590, p = .004).
+
+> "A Mann-Whitney U test revealed a significant difference between conditions (U = 135, p = .019), with the control group having a higher mean (M = 84.6, SD = 10.2), than the VR one (M = 78.6, SD = 9.28)."
+
+## Discussion
+
+
+## Related Claims
+- [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related
+- [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
+- [The VirSam ABCDE VR application received higher System Usability Scale scores than practicing with traditional equipment](virsam-abcde-higher-sus-score.md) — related
+- [Slideshow learning was slightly more effective than VR learning in enhancing physics knowledge in this study](slideshow-outperformed-vr-physics-knowledge.md) — related
+- [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
+- [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related

@@ -50,3 +50,4 @@ Trend reported in the diversity section based on USPAS session data plotted in F
 - [Self-reported URM fractions in recent USPAS sessions ranged from 14% to 16%, with Black/African American counts chronically low](uspas-urm-fractions-recent-sessions.md) — related
 - [Female participation in the European Researchers' Night grew until it matched or slightly exceeded male participation by 2015](ern-gender-balance-shift-2015.md) — related
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related
+- [The workshop proposed center outcomes targeting diversity because QISE fields currently have among the lowest percentages of women and of people who are African-American, Black, and/or Latine](qise-diversity-gap-motivates-center.md) — related

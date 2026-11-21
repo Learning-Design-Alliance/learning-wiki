@@ -71,3 +71,4 @@ A shipped LLM grading prompt scored public, teacher-graded corpora, and its agre
 - [Held-out grading criteria create an informational asymmetry between the LLM evaluator and the student](freetext-held-out-criteria-informational-asymmetry.md) — related
 - [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
 - [The human teacher's reference responses were ranked lower than the top three AI systems, contradicting the earlier AI Teacher Test result, possibly because raters from education found the teacher's non-standard chatroom language less professional.](teacher-reference-ranked-below-top-ai-systems.md) — related
+- [IRT-predicted partial credit provides a ground-truth-free, per-student-per-item uncertainty measure for AI grading judgements](ground-truth-free-irt-grading-uncertainty.md) — related

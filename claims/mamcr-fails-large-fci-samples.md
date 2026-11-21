@@ -69,3 +69,4 @@ Sample-size probe drawing 100 subsamples of 143 students to match Study 1's samp
 - [Relaxing sparsification thresholds did not merge FCI misconceptions into a coherent non-Newtonian framework; they appear to exist relatively independently as small groups of consistent answers](fci-misconceptions-independent-small-groups.md) — related
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — reports the opposite
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
+- [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related

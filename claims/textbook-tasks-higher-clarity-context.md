@@ -67,3 +67,4 @@ The same group comparison found a large difference in how often tasks were embed
 ## Related Claims
 - [Tasks developed with ChatGPT 3.5 and with a textbook show no significant difference in specificity, correctness, misleadingness, or adequate difficulty, but both groups produced tasks with low specificity](chatgpt-vs-textbook-task-quality-comparable.md) — reports the opposite
 - [A few prospective teachers' adaptations of textbook tasks resulted in incorrect tasks, which the authors suggest could be compensated by having a large language model solve the task first](textbook-task-adaptations-sometimes-incorrect.md) — related
+- [Prospective physics teachers recognized ChatGPT’s failure to use measurable operational verbs in learning goals, but 38 of 39 missed its lack of context orientation](students-detect-operational-verbs-not-missing-context.md) — related

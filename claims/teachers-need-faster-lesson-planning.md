@@ -52,3 +52,4 @@ Qualitative thematic analysis of responses from 410 Brazilian teachers; Lesson P
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
+- [Teachers agreed AI can assist with planning tasks such as preparing lessons and activities before class and improving professional training](teachers-agree-ai-assists-planning-tasks.md) — related

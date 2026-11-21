@@ -44,7 +44,8 @@ The article applies co-design, defined as "a collaborative process of joint inqu
 - [Codesign 89 Stakeholders Produced Irish Qps Framework](../claims/codesign-89-stakeholders-produced-irish-qps-framework.md) [+M]
 
 ## Related Designs
-- 
+
+- [Design-based thinking operationalized through Capobianco et al.'s iterative phases](design-based-thinking-phases-element.md)
 
 ## Examples
 -
