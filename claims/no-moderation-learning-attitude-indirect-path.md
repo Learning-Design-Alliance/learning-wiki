@@ -49,3 +49,4 @@ Moderated mediation Model 5 in the PROCESS macro on the 824-student CEPS sample.
 - [Learning attitude partially mediates the negative link between video game playing and academic achievement](learning-attitude-mediation-video-games-achievement.md) — related
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
 - [Parental control does not appear linked to adolescents' use of games](parental-control-not-linked-game-use.md) — related
+- [Continuous evaluation does not significantly moderate the relationship between gamification and course total score (Hypothesis 3 not supported)](continuous-evaluation-moderation-null-result.md) — related

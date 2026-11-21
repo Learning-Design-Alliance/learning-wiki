@@ -72,3 +72,4 @@ Task-performance analysis for RQ1 on CogMath-948 reports Mistake Precision of 76
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](educlaw-bench-simulator-calibration.md) — related
 - [Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation](prototype-mapping-outperforms-behavior-prediction-baselines.md) — related
 - [GRATE outperforms state-of-the-art knowledge tracing baselines in student performance prediction on three real-world datasets](grate-outperforms-kt-baselines-performance-prediction.md) — related
+- [CSG-KT significantly outperforms classical, graph-based and SOTA knowledge tracing baselines across four real-world datasets](csg-kt-outperforms-kt-baselines.md) — related

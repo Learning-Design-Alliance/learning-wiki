@@ -50,3 +50,4 @@ Item-level analysis across all languages, with each item coded as text-only, unn
 - [ChatGPT performs poorly on image-based data interpretation across DNA footprinting and BLI questions regardless of image detail](chatgpt-poor-image-inference-scientific-graphs.md) — related
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — related
 - [GPT-4o's performance is weaker in Laboratory skills (35.0%), which include strategies for data collection and analysis](gpt4o-subject-category-variation-lab-weakest.md) — related
+- [GPT-4o accuracy on image-required FCI questions (36–38%) is substantially weaker than on text-only and image-optional questions (97–100%)](image-required-questions-low-llm-accuracy.md) — a narrower finding that bears on this claim

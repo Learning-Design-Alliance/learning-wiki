@@ -51,3 +51,4 @@ Randomized three-condition field experiment in a first-year CS1 programming cour
 - [Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance](no-multiple-choice-difference-prompted-ai-learning.md) — related
 - [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
+- [Embedding LLM-guided reflection prompts in an interactive AI-generated podcast did not significantly improve learning outcomes compared to a standard interactive podcast](reflection-prompts-no-learning-gain-ai-podcasts.md) — related

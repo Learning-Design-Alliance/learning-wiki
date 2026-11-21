@@ -76,3 +76,4 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [Outcome expectations have a stronger direct influence on technology integration intentions than self-efficacy, and interests contribute directly](outcome-expectations-stronger-than-self-efficacy-on-intentions.md) — a narrower finding that bears on this claim
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](self-efficacy-predicts-negative-online-teaching-experiences.md) — related
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related
+- [High school science achievement, but not science interest, directly predicted AI use at age 24 (β = .18, p < .001)](science-achievement-predicts-adult-ai-use.md) — related

@@ -77,3 +77,4 @@ Forced-choice comparative attributions collected once after all three tasks from
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](contingency-working-time-task-effort-interaction.md) — related
+- [The Socratic AI Tutor produced a large perceived effect on support for independent thinking compared with the uninstructed chatbot](socratic-tutor-perceived-independent-thinking.md) — related

@@ -46,7 +46,8 @@ A pedagogical model representing the relationship between community-based learni
 - [Citizenship competence comprises three interrelated components: civic knowledge, civic skills, and civic dispositions or virtues](citizenship-competence-three-components.md)
 
 ## Examples
--
+
+- [Add a service-learning element to a science course to connect learning to practical action for others](../strategies/service-learning-action-element-strategy.md)
 
 ## Key Sources
 - Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983

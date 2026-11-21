@@ -58,3 +58,4 @@ Interview, interaction-log, and Git-history analysis of experienced AI-section s
 - [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](shallow-acceptance-originality-rarely-invoked.md) — related
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a broader claim this one bears on
 - [Exit interviews showed limited reflection: most ChatGPT users showed no sign of actively engaging with the physics exercises](exit-interviews-limited-reflection-chatgpt.md) — related
+- [Physics educators without programming experience can use ChatGPT and Cursor to generate a functional interactive Python teaching tool for square wave synthesis](llm-assisted-tool-development-non-programmer-educators.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use AI tutor prompts that push students to generate their own answers rather than receive solutions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
 
 ## Description
 The paper's AI-tutor prompt instructs the AI to explain ideas and ask questions without giving immediate answers: "Do not provide immediate answers or solutions to problems but help students generate their own answers by asking leading questions." The tutor ascertains prior knowledge, tailors explanations and analogies to learning level, and asks students to explain the concept in their own words as evidence of understanding. This design reflects the paper's account of tutoring, in which effective tutors prompt active knowledge construction over passive reception.

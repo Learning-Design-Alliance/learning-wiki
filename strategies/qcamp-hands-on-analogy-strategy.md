@@ -47,6 +47,7 @@ QCaMP lessons repeatedly ground abstract quantum ideas in physical experience an
 - [Teach AI concepts through everyday-context, unplugged and hands-on activities](everyday-context-unplugged-ai-activities.md)
 - [Ten-lecture one-credit course sequence introducing quantum formalism through vectors, Dot-Vec notation, and Bloch cubes](one-credit-quantum-formalism-lecture-sequence.md)
 - [Use varied instructional formats — pictorial learning, games, hackathons, and summer schools — to introduce quantum computing to high-school students](quantum-outreach-formats-strategy.md)
+- [Use illustrated books and interactive games to introduce abstract quantum concepts to elementary students](illustrated-books-games-quantum-elementary.md)
 
 ## Examples
 -

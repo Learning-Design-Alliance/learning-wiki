@@ -65,3 +65,5 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related
 - [Students report increased clarity about appropriate AI use and its learning effects after the scenario-ranking activity](ai-scenario-activity-student-clarity-reflections.md) — related
 - [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related
+- [Qualitative student feedback attributed increased motivation, sustained attention, and easier comprehension to the immersive 3D presentation and interactive AI support](qualitative-feedback-motivation-immersive-3d-ai-support.md) — related
+- [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related

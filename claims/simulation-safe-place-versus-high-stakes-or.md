@@ -53,3 +53,4 @@ Finding from inductive thematic analysis of three 30-min focus groups with 13 of
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim
+- [KSP lets students see orbital mechanics happen in real time, experiment with complex missions independently, and learn from mistakes in a low-stakes environment](ksp-real-time-sandbox-conclusion.md) — related

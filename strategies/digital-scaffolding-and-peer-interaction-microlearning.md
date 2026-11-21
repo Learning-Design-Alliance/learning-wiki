@@ -48,6 +48,7 @@ Based on the age-group difference and the reported lack of peer interaction, the
 - [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 - [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](prepare-test-technology-before-launch-scaffold.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Improve AI-assisted microlearning tools with transparency, instructor review, and navigation and note-taking features](reelsed-design-improvement-strategies.md)
 
 ## Examples
 -

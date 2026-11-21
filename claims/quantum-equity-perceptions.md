@@ -46,3 +46,4 @@ Thematic analysis of exit surveys, field notes, artifacts, and interviews from t
 
 ## Related Claims
 - [Most K-12 teachers who attended quantum professional learning workshops expressed excitement about and interest in teaching quantum](teacher-enthusiasm-quantum-k12.md) — related
+- [Elementary teachers believe early quantum education creates future possibilities for students, especially those at risk of leaving the STEM pipeline](teachers-believe-early-quantum-creates-possibilities.md) — related

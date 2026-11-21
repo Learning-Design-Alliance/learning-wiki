@@ -49,3 +49,4 @@ Research Question 1 analysis of Study 2 gameplay logs examined whether dichotomo
 - [Improvement in conceptually-laden in-game challenges over gameplay is strongly moderated by prior physics knowledge](challenge-improvement-moderated-by-prior-knowledge.md)
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders](study2-significant-prepost-gains-epigame.md)
+- [Instructors who balance interactive and vicarious interactive activities show larger conceptual learning gains than instructors predominantly using one strategy](balanced-interactive-vicarious-larger-gains.md) — related

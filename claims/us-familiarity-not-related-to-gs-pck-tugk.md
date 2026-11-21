@@ -78,3 +78,4 @@ Group comparison in the Results section of a study of twenty-five first-year gra
 - [American, Chinese and other foreign graduate students show very similar average FCI-related PCK scores](graduate-student-nationality-fci-pck.md) — possibly the same claim (merge candidate)
 - [Physics instructors and graduate TAs perform better than random guessing at identifying introductory students' most common incorrect FCI answers, but both average only about two-thirds of the maximum possible PCK score](instructors-tas-above-chance-fci-pck.md) — related
 - [Physics instructors perform better than random guessing at identifying introductory students' common incorrect FCI answers, but do not identify many common difficulties](instructors-better-than-random-but-miss-fci-difficulties.md) — related
+- [GPT-5 Thinking scores 24/26 (92.3%) on the TUG-K v4.0 test of understanding graphs in kinematics](gpt5-thinking-tug-k-92-percent.md) — related

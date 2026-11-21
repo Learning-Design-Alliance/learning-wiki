@@ -48,3 +48,4 @@ Correlational analysis in Study 2 of recorded time spent on the pre and post tes
 - [Course grades correlated with QR post-test scores in the Study 2 PT section but not in Study 1 sections](course-grades-correlate-qr-study2.md) — related
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related
 - [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — related
+- [Feedback checks correlate moderately positively with project scores (cor = 0.273)](feedback-checks-correlate-with-project-scores.md) — a narrower finding that bears on this claim

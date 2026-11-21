@@ -54,3 +54,4 @@ Semi-structured empathetic interviews with 16 undergraduate women physics and as
 - [In the medium-sized department (Study 3), a woman of color reported feeling judged as not up to par by both male and female White peers due to her racial background, leading to isolation](study3-woman-of-color-intersectional-isolation.md) — related
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
+- [Some female students report exclusion, stereotype threat, and reluctance to speak up in male-dominated lab groups](qualitative-gender-barriers-lab-groups.md) — related

@@ -63,7 +63,7 @@ A lesson-level design in which tutors work through authentic scenarios following
 
 ## Key Sources
 - Danielle R. Thomas, Conrad Borchers, Sanjit Kakarla, Jionghao Lin, Shambhavi Bhushan, Boyuan Guo, Erin Gatz, and Kenneth R. Koedinger. 2025. Do Tutors Learn from Equity Training and Can Generative AI Assess It?. In LAK25: The 15th International Learning Analytics and Knowledge Conference (LAK 2025), March 03–07, 2025, Dublin, Ireland. ACM, New York, NY, USA. https://doi.org/10.1145/3706468.3706531
-- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006
+- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006. [doi:10.1007/978-3-032-03870-8_33](https://doi.org/10.1007/978-3-032-03870-8_33)
 
 <!-- merged 2026-11-21 from designs/predict-observe-explain-scenario-tutor-lessons ("Scenario-based lessons with a modified predict-observe-explain cycle for tutor training"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -98,5 +98,5 @@ The article's seven lessons follow "a modified predict-observe-explain model", w
 -
 
 ## Key Sources
-- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006
+- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006. [doi:10.1007/978-3-032-03870-8_33](https://doi.org/10.1007/978-3-032-03870-8_33)
 -->

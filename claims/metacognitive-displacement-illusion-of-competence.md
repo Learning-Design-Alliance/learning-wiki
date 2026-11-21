@@ -59,3 +59,4 @@ Theoretical argument from the cross-cutting theme synthesis concerning self-expl
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
 - [Miscalibrated self-assessment in learners risks cognitive bias, clinical reasoning errors, and adverse patient outcomes (theoretical argument)](dunning-kruger-overconfidence-clinical-risk.md) — related
+- [Combining LLM use with self-made note-taking: LLMs aid initial understanding and reduce cognitive load, while making one's own notes requires more effort but deepens engagement and memory](llm-plus-note-taking-effort-benefits.md) — related

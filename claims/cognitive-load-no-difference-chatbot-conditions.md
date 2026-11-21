@@ -50,3 +50,4 @@ Mann-Whitney U tests on NASA TLX ratings in the between-subjects study found no 
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
 - [D-Slowdown produced no significant changes in any TLX dimension, despite participants elsewhere calling for slower visuals](d-slowdown-null-tlx-effect.md) — related
 - [Perceived cognitive load did not differ between VR and slideshow learning conditions](no-cognitive-load-difference-vr-slideshow.md) — related
+- [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related

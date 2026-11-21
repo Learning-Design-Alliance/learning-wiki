@@ -49,3 +49,4 @@ Cross-sectional study at one midwestern DPT program; after optimization discardi
 ## Related Claims
 - [The SCT significantly differentiates first-year DPT students from an experienced physical therapist reference panel, with the panel scoring higher](sct-differentiates-students-reference-panel.md) — related
 - [First-year DPT student SCT scores show no significant correlation with academic records including GPA, OSCE, benchmark exam, and course grades](sct-scores-uncorrelated-academic-records-dpt.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

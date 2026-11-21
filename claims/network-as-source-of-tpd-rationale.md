@@ -54,3 +54,4 @@ Systematic review synthesis of 51 empirical studies (2000–2024) identified via
 - [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related
 - [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related
+- [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — a narrower finding that bears on this claim

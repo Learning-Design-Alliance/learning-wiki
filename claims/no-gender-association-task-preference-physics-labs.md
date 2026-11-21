@@ -50,3 +50,4 @@ Survey-based chi-square analysis of self-identified gender against preferred lab
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [Men behaved differently depending on group gender composition: men in single-gender groups were more often high Equipment users, while men in mixed-gender groups were more often high Other users](men-behavior-group-composition.md) — related
+- [Task preference differs significantly by gender: male students prefer equipment setup and data collection, female students prefer note-taking/calculations and report writing](gendered-task-preference-physics-labs.md) — reports the opposite

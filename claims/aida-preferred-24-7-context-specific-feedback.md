@@ -58,3 +58,5 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 - [In an exploratory randomised trial, the AIDA-supported group showed a higher learning gain than the control group, though the authors caution about the small volunteer sample](aida-experimental-group-higher-learning-gain.md) — related
 - [Most students would reengage with context-personalized tasks and prefer them over standard tasks, across both experimental conditions](gai-reengagement-task-preference.md) — related
 - [Over 250 feedback forms from the school campaign informed improvements to the tools and use cases](over-250-feedback-forms-informed-tools.md) — related
+- [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related
+- [Most intervention students preferred exclusive ChatGPT use over the structured interface, citing habit and perceived lack of added value](students-preferred-chatgpt-over-structured-interface.md) — related

@@ -68,3 +68,4 @@ GPT-4-turbo's weakest results were Helping Students Manage Inequity predict resp
 - [GPT-4.0-Turbo outperformed GPT-3.5-Turbo in dialogue authenticity, user experience, and feedback quality](gpt4-outperforms-gpt35-vp-quality.md) — related
 - [On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation](phinetuned-benchmark-comparison-gpt.md) — related
 - [GPT-4o with few-shot learning offers the best balance of performance, cost, and speed for large-scale assessment, far cheaper than human grading](gpt4o-fewshot-preferred-cost-speed.md) — related
+- [LLM-scored open responses show predictive validity comparable to human scoring via correlation with MCQ scores on the same learning objectives](predictive-validity-llm-scoring-mcq-correlation.md) — related

@@ -62,6 +62,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
 - [Rebalance assessment toward mixed formats and reduce workload density to diversify students' reasoning structure](shift-to-half-mc-half-oe-exams.md)
+- [Implement a range of frequent formative assessments that each count for a small portion of the grade](range-of-frequent-formative-assessments-low-anxiety.md)
 
 ## Examples
 -

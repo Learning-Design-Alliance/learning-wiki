@@ -59,3 +59,4 @@ Observational data from three instructors teaching in VR with LumiNote, drawing 
 - [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](llm-feedback-systems-data-science-engagement-outcomes.md) — related
 - [University instructors' design process did not appear to draw on instructional design models](instructors-design-not-draw-on-id-models.md) — related
 - [Learners attempt to share personal values with LLM-generated learning materials as they would with human instructors, raising design questions about AI versus human disclosure](sharing-personal-values-with-llm-materials.md) — related
+- [Instructors were open to AI grading assistance but emphasized maintaining human control over key parts of the grading workflow](ai-suitable-standardized-not-subjective-grading.md) — a narrower finding that bears on this claim

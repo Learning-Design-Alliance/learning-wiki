@@ -68,3 +68,4 @@ Inter-rater reliability study in which 90 version-4 exams (CU N=47, a 4-yr colle
 - [The average CURrENT post-test score is 56.8% (N=500), with total scores ranging from 15% to 100%](current-posttest-average-56-8-percent.md) — related
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — possibly the same claim (merge candidate)
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

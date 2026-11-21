@@ -51,3 +51,5 @@ Qualitative strand findings on AI-supported learning design from lesson plans an
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — related
 - [FIMA-light automatically builds goal-decomposition trees from teachers' lesson plans with about 90% accuracy of estimated hidden sub-goals](fima-light-decomposition-tree-accuracy.md) — related
+- [The article argues that QIS education needs design-based research, which promotes iterative design, theory building, and evidence-based refinement in authentic learning contexts, beyond simply evaluating whether learning happened.](dbr-needed-for-qis-education.md) — related
+- [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related

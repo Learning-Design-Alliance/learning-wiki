@@ -49,3 +49,4 @@ Stated limitation in the Challenges and Limitations section. The article adds th
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
 - Special issue findings are soft: small-scale case studies limit generalizability — related
 - [Findings are limited to a single-site business school sample, and generalizability across educational systems remains untested](single-site-limitation-mindset-trajectory-findings.md) — related
+- [The authors found no example use case demonstrating external validity within educational AI](no-external-validity-examples-educational-ai.md) — related

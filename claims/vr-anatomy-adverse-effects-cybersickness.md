@@ -68,3 +68,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [Continuous online class screen exposure caused frequent health complaints, most commonly eyestrain (56.1%) and headache (31.1%)](screen-exposure-health-complaints-eyestrain.md) — related
 - [Medical students generally prefer and enjoy 3D visualizations for learning anatomy, though some found them disorienting for complicated anatomical configurations](students-prefer-3d-anatomy-visualizations.md) — related
 - [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related
+- [MetaRoundWorm users reported moderate simulator sickness, with disorientation most prominent](vr-condition-moderate-simulator-sickness.md) — related

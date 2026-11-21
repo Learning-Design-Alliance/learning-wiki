@@ -70,3 +70,5 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related
 - [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related
 - [Modified SANN outperforms baseline models in predicting program correctness](sann-outperforms-baselines-correctness-prediction.md) — related
+- [Visual diagnostics show CatBoost predictions align tightly with actual scores, with regression-to-the-mean errors at the score extremes, while ANN predictions show greater scatter](catboost-hexbin-tight-alignment-tail-errors.md) — related
+- [Non-linear ML models (RF, CatBoost, ANN) consistently outperform multiple linear regression in predicting PISA 2018 math scores across ten countries](nonlinear-ml-outperforms-mlr-pisa-math.md) — related

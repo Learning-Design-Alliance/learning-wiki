@@ -50,3 +50,4 @@ Experiment by Inglis and Mejia-Ramos with 190 research-active mathematicians rat
 - [Authority figures do not increase persuasion for formal proofs, regardless of proof complexity or author eminence](no-authority-effect-formal-proofs.md) — related
 - [Authority effects on heuristic and visual arguments persist when instructions push participants toward evaluating conviction, ruling out an instruction-interpretation artifact](authority-effect-survives-conviction-instructions.md) — related
 - [A majority of surveyed mathematicians report believing proofs are correct because of journal publication, journal quality, or a trusted authoritative source](mathematicians-authoritarian-conviction-survey.md) — related
+- [Simulated learners respond differently to peer influence in debates: Deep Learner is persuasive and resilient, Lazy Learner is prone to misinformation](learneragent-peer-influence-differences.md) — related

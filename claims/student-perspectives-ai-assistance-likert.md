@@ -109,3 +109,4 @@ Participants were "fairly neutral about recommending the use of AI assistance fo
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [AI-assisted web programming submissions were more complex, employed uncommon syntax and libraries, and were less readable due to generic identifier names](ai-assisted-submissions-complex-less-readable.md) — related
+- [Students perceived the AI Hub as most helpful for understanding concepts and completing homework, and were more ambivalent about its effect on grades and studying](ai-hub-helpfulness-concepts-homework-grades.md) — related

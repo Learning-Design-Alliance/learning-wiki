@@ -108,3 +108,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — related
 - [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related
+- [Alternative midterm exam aggregation methods show no consistent differential benefit for female versus male students, leaving sex grade gaps unchanged](aggregation-methods-no-sex-equity-effect.md) — related

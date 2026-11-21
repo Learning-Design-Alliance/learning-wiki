@@ -47,3 +47,4 @@ Coding of textbooks used by the 99 quantum mechanics courses, with a heatmap (Fi
 ## Related Claims
 - [All modern physics courses use a position-first approach, and position-first remains dominant (73.7%) in quantum mechanics courses](position-first-dominant-paradigm.md) — related
 - [Schrödinger equation (98%) and three-dimensional quantum mechanics (94%) are the most taught themes; the Stern-Gerlach experiment appears in only 28% of curricula](quantum-curriculum-themes-sge-rare.md) — related
+- [Griffiths is the most used QM textbook, and roughly two-thirds of surveyed courses take a wavefunctions-first approach while roughly a third use a spins-first approach](qm-wavefunctions-first-two-thirds-griffiths.md) — related

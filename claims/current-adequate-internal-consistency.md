@@ -56,3 +56,4 @@ Internal consistency analysis using Cronbach's alpha on 271 student responses. T
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
 - [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related
 - [The CURrENT shows adequate internal consistency (α=0.74) and very high inter-rater reliability](current-reliability-alpha-and-irr.md) — possibly the same claim (merge candidate)
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

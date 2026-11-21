@@ -73,3 +73,6 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — related
 - [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related
 - [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — a narrower finding that bears on this claim
+- [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related
+- [Knowledge workers using GenAI shift effort from information gathering to verification, and GenAI creates new cognitive tasks such as assessing AI-generated content](genai-shifts-effort-to-verification.md) — a narrower finding that bears on this claim
+- [Iterative prompt-crafting to correct chatbot errors fostered critical reflection and developed pedagogical content knowledge](iterative-prompt-crafting-fosters-pck.md) — related

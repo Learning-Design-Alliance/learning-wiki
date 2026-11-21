@@ -73,3 +73,4 @@ Robustness check using the Latent Moderated Structural Equations method in Mplus
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [The relationship between teacher self-efficacy and self-reported cognitive activation does not vary across investigated school characteristics](no-cross-level-interactions-cognitive-activation.md) — related
 - [General self-efficacy neither mediated nor moderated the smartphone addiction–academic achievement relationship](general-self-efficacy-no-mediation-moderation.md) — related
+- [Continuous evaluation does not significantly moderate the relationship between gamification and course total score (Hypothesis 3 not supported)](continuous-evaluation-moderation-null-result.md) — related

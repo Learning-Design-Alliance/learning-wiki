@@ -51,3 +51,4 @@ Analysis of cumulative likelihood distributions of total three-point scores (ran
 - [GE-CLASS students know experts' views better than their personal views show, and the E-/GE-CLASS gap on EXPERT-questions narrows after instruction](you-expert-gap-and-narrowing.md) — related
 - [Potsdam students' personal views (YOU-questions) shift positively upon instruction with a very small effect size](ge-class-you-pre-post-small-positive-shift.md) — related
 - [Respondents know expert views better than they hold them: overall Expert scores exceed YOU scores on the E-CLASS](expert-scores-exceed-you-scores.md) — related
+- [Student scores clustered at the low end, with 72% scoring between 2 and 6 points out of 20](score-distribution-clustered-low-72-percent.md) — related

@@ -74,6 +74,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) [+W] — a "sandwich"-sequence content-dilemma response at the middle-school humanities level, with the strongest quantitative evidence among the studies this paradigm draws on
 - [Co-construct Orrery sequences with teachers across subjects and extend toward interdisciplinary STEAM approaches](../strategies/co-constructed-orrery-sequences-steam.md)
+- [Build QIS-LS collaboration through interdisciplinary groups within departments and centers that use shared empirical data exploration as a common ground](../strategies/qis-ls-collaboration-mechanisms.md)
 
 ## Key Sources
 - Kali, Y. (2024). An ecological paradigm of interdisciplinary learning: Implications for design. *Journal of the Learning Sciences, 33*(2), 450-464. [https://doi.org/10.1080/10508406.2024.2354152](https://doi.org/10.1080/10508406.2024.2354152)

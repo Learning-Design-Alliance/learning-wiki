@@ -51,6 +51,7 @@ A summary blueprinted report of average performance for the whole cohort gives t
 
 - [Use blinded peer review of blueprinted feedback from formative e-assessment to encourage reflection before summative assessment](peer-reviewed-formative-blueprinted-feedback-strategy.md)
 - [Use scale results to give GPs individualised feedback reports and design targeted continuing education on identified competency gaps](gp-depression-scale-feedback-driven-continuing-education-strategy.md)
+- [Provide teachers with LLM-generated performance summaries of class and per-question outcomes to guide instructional decisions](teacher-performance-summary-strategy.md)
 
 ## Examples
 -

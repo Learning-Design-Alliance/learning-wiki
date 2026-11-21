@@ -66,3 +66,4 @@ Repeated-measures ANOVA (Table 3) on mutual-assessment scores of intervention-gr
 ## Related Claims
 - [Integrating jigsaw teaching into SRL cycle instruction improves nursing students' total self-regulated learning ability more than traditional lecture teaching](jigsaw-srl-instruction-raises-srl-ability-nursing.md) — related
 - [Jigsaw-plus-SRL instruction improves nursing students' learning engagement, especially vitality and dedication, but not concentration](jigsaw-srl-raises-learning-engagement.md) — related
+- [Qualitative trends point to cognitive and metacognitive gains supported by peer teaching under the Jigsaw method](jigsaw-qualitative-metacognitive-gains.md) — related

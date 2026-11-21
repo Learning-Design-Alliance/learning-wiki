@@ -74,3 +74,4 @@ Linear regression on postcourse knowledge from the same two-section study found 
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — related
 - [Students in both sections believed SCALE-UP infrastructure would enhance their performance even though measured performance did not differ](students-prefer-scale-up-perceptions.md) — related
+- [Class size and classroom layout do not seem related to conceptual learning gains in this Peer Instruction sample](class-size-layout-not-related-to-gains.md) — related

@@ -53,3 +53,4 @@ The randomized experiment comparing online and paper administration found perfor
 - [Online and in-class paper administration of low-stakes RBAs yield comparable participation rates when recommended practices are used](online-rba-participation-comparable-to-paper.md) — related
 - [CBT condition was not meaningfully related to RBA posttest scores, with the largest predicted effect (E&M, 2.2 points) not statistically reliable](cbt-condition-nonsignificant-posttest-hlm.md) — a narrower finding that bears on this claim
 - [Online RBA scores were 4–5% lower than historical in-class scores in the same courses, a non-significant difference driven by a larger lower tail](online-vs-inclass-rba-scores-comparable.md) — a narrower finding that bears on this claim
+- [Research-based assessments were used by only 12 of 76 surveyed upper-level QM instructors, suggesting low uptake of existing QM RBAs](qm-rba-low-uptake-12-of-76-instructors.md) — related

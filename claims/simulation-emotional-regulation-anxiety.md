@@ -68,3 +68,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Students new to video feedback found their expected self-image differed from their actual video image, causing anxiety and distress](video-self-image-discrepancy-causes-anxiety.md) — related
 - [Student explanations of active-learning anxiety align with communication apprehension, social anxiety, and test anxiety](active-learning-anxiety-evaluative-types.md) — related
 - [STEM courses increased the frequency and intensity of anxiety episodes for students with anxiety-related diagnoses, and testing accommodations reduced test anxiety](stem-course-anxiety-testing-accommodations.md) — related
+- [Students in three courses reported generally positive reactions to oral exams after initial anxiety](oral-exam-student-feedback-positive.md) — related

@@ -48,6 +48,7 @@ Beyond in-house research experiences and capstone courses, the article recommend
 - [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 - [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 - [Prioritize non-coursework, skill-based experiences such as summer internships in quantum workforce development](prioritize-skill-based-internships-quantum-workforce.md)
+- [Prioritize authentic engagement with experts and career exploration to develop informed career goals](authentic-expert-engagement-career-exploration-strategy.md)
 
 ## Examples
 -

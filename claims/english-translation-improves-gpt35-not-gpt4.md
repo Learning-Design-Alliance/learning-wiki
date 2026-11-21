@@ -49,3 +49,4 @@ Qualitative comparison of 9 studies that tested both original-language and Engli
 - [LLM accuracy does not differ significantly across question languages, ranging from 62% in Polish to 77% in German](llm-accuracy-language-differences-nonsignificant.md) — related
 - [GPT-4 performs significantly better on English-translated than original Korean anesthesiology questions](gpt4-english-translation-advantage-korean-questions.md) — related
 - [Language input affects accuracy: English input yields higher NCLEX-RN accuracy, while NNLE results show no significant language difference for ChatGPT 4.0](language-input-effect-llm-nursing-mcq-accuracy.md) — related
+- [The majority of the 53 translated language versions score 70% or more correct answers, comparable to the original English version](majority-languages-70-percent-comparable.md) — related

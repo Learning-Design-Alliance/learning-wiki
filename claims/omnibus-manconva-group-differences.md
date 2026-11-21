@@ -52,3 +52,4 @@ Omnibus MANCOVA (Willis' lambda) on the postponed administration of the science 
 - [Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups](ai-ibi-multivariate-group-effect-positive-correlations.md) — related
 - [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
+- [A significant multivariate group effect emerged on post-test cognitive and affective variables after groups were confirmed equivalent at pre-test](manova-multivariate-group-effect-post-test-support-conditions.md) — related

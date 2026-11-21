@@ -42,6 +42,7 @@ The authors recommend administering the PIQL before and after instruction so ins
 ## Related Strategies
 
 - [Use the TOSLS as a pre/post or diagnostic assessment to reveal skill gaps and guide instructional planning](tosls-diagnostic-use-strategy.md)
+- [Embed physics quantitative literacy into the introductory physics sequence instead of requiring remedial math prerequisites](embed-pql-into-physics-sequence.md)
 
 ## Examples
 -

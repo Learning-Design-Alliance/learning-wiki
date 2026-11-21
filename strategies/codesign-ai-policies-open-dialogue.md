@@ -45,6 +45,7 @@ This strategy recommends that instructors move away from enforcement- and survei
 - [Establishing Classroom Norms](establishing_classroom_norms.md)
 - [Classroom Norms Co Construction](classroom-norms-co-construction.md)
 - [Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement](structural-support-educator-wellbeing-ai.md)
+- [Make self-regulation support features optional and learner-initiated rather than imposed](learner-driven-optional-self-regulation-features.md)
 
 ## Examples
 -

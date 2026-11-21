@@ -50,3 +50,4 @@ Thematic finding from reflective essays and focus group interviews in the case s
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — a broader claim this one bears on
 - [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
+- [A single learner→teacher→evaluator iteration yields sufficiently accurate output; additional refinement iterations did not improve results](facet-single-iteration-sufficient.md) — related

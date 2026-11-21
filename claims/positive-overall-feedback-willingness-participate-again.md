@@ -51,3 +51,4 @@ Descriptive feedback from the 76-answer questionnaire: 66 students (86.8%) would
 - [Midwives rated the compact training highly, with 81% rating it excellent and all stating they would recommend it](high-satisfaction-compact-training.md) — related
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
 - [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related
+- [98.7% of participants were willing to apply the virtual-environment technology in other subjects, and 93.5% rated the material as excellent or good](virtual-material-high-ratings-and-transfer-willingness.md) — related

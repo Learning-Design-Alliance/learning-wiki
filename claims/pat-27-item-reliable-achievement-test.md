@@ -54,3 +54,4 @@ Test development with a pilot on 128 10th-grade students from three schools; a 3
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related
 - [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

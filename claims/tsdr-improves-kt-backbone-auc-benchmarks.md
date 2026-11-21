@@ -53,3 +53,4 @@ Empirical benchmark study (RQ1, Table 1) applying TSDR to DKT, AKT, simpleKT, Fo
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
 - [TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias](tsdr-gain-magnitude-depends-on-collection-mechanism.md) — a narrower finding that bears on this claim
 - [GRATE outperforms state-of-the-art knowledge tracing baselines in student performance prediction on three real-world datasets](grate-outperforms-kt-baselines-performance-prediction.md) — related
+- [CSG-KT significantly outperforms classical, graph-based and SOTA knowledge tracing baselines across four real-world datasets](csg-kt-outperforms-kt-baselines.md) — related

@@ -50,3 +50,4 @@ Within-cluster correlation analysis (Fig. 8, significant correlations at p < 0.0
 - [In a linear regression, the supervised on-campus exam score is the only statistically significant predictor of the final exam score](campus-exams-only-significant-final-predictor.md) — possibly the same claim (merge candidate)
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Concept videos and problem-solving (recitation) videos showed no statistically significant association with E&M exam performance](concept-recitation-videos-not-significant.md) — related

@@ -76,3 +76,4 @@ Correlation analysis (Table 3) showed "positive correlations between students' P
 - [More than half of midwifery students in clinical learning report severe perceived stress](midwifery-students-severe-clinical-stress.md) — related
 - [Emotionally enriched AI feedback does not significantly change positive emotions (enjoyment, hope, pride) or most other negative emotions, though boredom was descriptively lower](enriched-ai-feedback-positive-emotions-unchanged.md) — related
 - [Emotionally enriched AI feedback reduces students' anger toward receiving feedback, particularly annoyance at having to address AI suggestions](enriched-ai-feedback-reduces-anger.md) — related
+- [Higher intrinsic cognitive load is associated with lower enjoyment and hope and higher hopelessness during physics problem solving](intrinsic-load-negative-affect-correlations-physics.md) — related

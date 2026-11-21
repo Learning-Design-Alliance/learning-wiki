@@ -69,3 +69,4 @@ Table 4 oculomotor subscale differences: arm A 2.64 (P=.58), arm B 8.03 (P=.15),
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
+- [MetaRoundWorm users reported moderate simulator sickness, with disorientation most prominent](vr-condition-moderate-simulator-sickness.md) — related

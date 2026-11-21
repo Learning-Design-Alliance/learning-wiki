@@ -48,3 +48,4 @@ Website visitor statistics collected from the PERbites site, reported alongside 
 ## Related Claims
 - [Astrobites reaches a large international readership, but only a small fraction are undergraduates, its intended focus audience](astrobites-readership-broader-than-undergrads.md) — related
 - [PhysPort has substantial international reach, with 31% of Verified Educators and 40% of 2018 visitors from outside the U.S., and 27 of 82 assessments available in additional languages](physport-international-reach-translations.md) — related
+- [The nox-minima website generated over 800 dome images accessed over 1,500 times from 35 countries since July 2024](nox-minima-website-usage.md) — related

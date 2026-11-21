@@ -55,3 +55,4 @@ Principal component analysis (Varimax rotation) of the four predictor measures i
 - [Cognitive predictors explained more spelling variance in English (34.7%) than in the other orthographies (8.9 to 16.2%), and English was the only orthography where RAN made a significant and highest contribution to spelling](spelling-predictors-english-outlier-beyond-grade-2.md) — related
 - [Wagner and Torgesen's (1987) tripartite phonological processing model transfers to German and its transparent orthography](phonological-processing-model-transfers-german.md) — related
 - Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

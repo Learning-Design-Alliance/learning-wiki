@@ -48,3 +48,4 @@ RAGAS evaluation of the prototype's RAG assistant on 52 question-answer pairs de
 ## Related Claims
 - [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related
 - [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related
+- [Retrieval-augmented generation grounding achieves near-perfect correctness compared to untuned LLM baseline](rag-grounding-near-perfect-correctness.md) — related

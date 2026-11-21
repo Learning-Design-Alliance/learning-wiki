@@ -73,3 +73,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
 - [Tutor communication engagement correlated positively with students' motivation to pursue a STEM career](tutor-engagement-stem-motivation-correlation.md) — related
+- [Participation in the Pathways to Quantum immersion program increased high school students' awareness of and interest in QIS and QIS-adjacent careers](pathways-quantum-increased-qis-career-awareness-interest.md) — related
+- [Most Pathways participants retained STEM career interest, with 15 of 45 students indicating interest in a QIS-related career](pathways-stem-retention-15-of-45-qis-interest.md) — related

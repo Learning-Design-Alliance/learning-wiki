@@ -54,3 +54,4 @@ Structural equation modeling using the Lavaan package in R (Appendix B), testing
 - [Students' incoming FCI and calculus understanding predict within-group grade differences but do not explain between-group demographic gaps, making a student deficit model untenable for these data](incoming-preparation-within-not-between-groups.md) — reports the opposite
 - [Controlling for incoming calculus grades and FCI scores did not reduce URM gaps as a Student Deficit model predicts](preparation-controls-fail-to-explain-urm-gaps.md) — reports the opposite
 - [Exam gender gaps that depend on exam stakes indicate that high-stakes exams are not measuring differences in physics knowledge or ability between demographic groups](stakes-gap-invalidates-exam-measure.md) — related
+- [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related

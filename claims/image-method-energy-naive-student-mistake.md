@@ -47,3 +47,4 @@ Pedagogical expository article identifying a documented pitfall in electrostatic
 ## Related Claims
 - Theorem: the electrostatic energy of a point charge near any number of neutral or grounded perfect conductors of arbitrary shapes is half the Coulombic energy between the charge and each image charge. — a broader claim this one bears on
 - For M source charges near arbitrary neutral or grounded perfect conductors, the electrostatic energy is the real-charge interaction energy plus half the sum of the charge-image Coulombic energies. — a broader claim this one bears on
+- [A graduate student inappropriately judged the method of images appropriate for a channel problem and placed image charges satisfying boundary conditions only to their own satisfaction](method-of-images-misapplied-channel-problem.md) — related

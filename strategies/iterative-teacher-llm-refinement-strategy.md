@@ -57,6 +57,7 @@ The article recommends that teachers treat LLM output as a starting point for co
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 - [Iteratively develop and refine a pedagogical Training Manual by observing the tutor's actual behavior in preliminary tests](iterative-training-manual-refinement-strategy.md)
+- [Stepwise prompt-dialogue workflow: start with a comprehensive prompt, then refine through focused interactive dialogue](stepwise-mllm-prompt-dialogue-analysis.md)
 
 ## Examples
 -

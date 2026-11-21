@@ -59,3 +59,4 @@ Focus group interviews with 35 graduate students in seven cross-institutional te
 - [Teachers perceived the Task-First Approach as providing an authentic assessment opportunity revealing student knowledge without scaffolding](task-first-authentic-assessment.md) — related
 - [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related
 - [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](disha-socratic-hints-foster-independent-thinking.md) — related
+- [The Socratic AI Tutor produced a large perceived effect on support for independent thinking compared with the uninstructed chatbot](socratic-tutor-perceived-independent-thinking.md) — related

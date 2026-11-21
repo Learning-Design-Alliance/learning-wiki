@@ -52,3 +52,4 @@ Score-distribution analysis of the 60 ChatGPT surveys shown in Fig. 1: ChatGPT's
 - [GPT-4o answers were highly consistent across attempts, whereas GPT-3.5's answers a year earlier were mostly unreliable](gpt-4o-answer-consistency-versus-gpt-3-5.md) — related
 - [Prompting ChatGPT with specific physics preconceptions introduces much response variance that approximates real student FCI distributions](preconception-prompting-yields-variance.md) — related
 - [TUG-K performance among Bogotá Physics I students fits a two-group model with proportions 0.6 and 0.4](tug-k-two-group-fit-bogota.md) — related
+- [GPT-5 Thinking scores 24/26 (92.3%) on the TUG-K v4.0 test of understanding graphs in kinematics](gpt5-thinking-tug-k-92-percent.md) — related

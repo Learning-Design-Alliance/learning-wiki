@@ -65,3 +65,4 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
 - [The SAFT shows excellent test-retest and inter-rater reliability for total scores](saft-excellent-reliability.md) — related
+- [CSCS total score shows high internal consistency, with most reliable variance attributable to a general factor](cscs-total-score-reliability.md) — related

@@ -88,3 +88,4 @@ Qualitative analysis of verbatim transcriptions of the novices' blood cell discu
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — possibly the same claim (merge candidate)
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — a narrower finding that bears on this claim
 - [The review reports that novices categorize physics problems by surface features while experts categorize them by deep principles, with later studies finding student categorization ability on a continuum](expert-novice-problem-categorization-review.md) — related
+- [Pre-service teachers generate a more diverse set of AI-produced representations when acting as teachers than as students](teacher-role-more-diverse-ai-representations.md) — related

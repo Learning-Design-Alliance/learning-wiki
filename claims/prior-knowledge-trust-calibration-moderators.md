@@ -76,3 +76,4 @@ The review attributes to Shoufan's study that "students valued ChatGPT’s expla
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)
+- [Simulated learners respond differently to peer influence in debates: Deep Learner is persuasive and resilient, Lazy Learner is prone to misinformation](learneragent-peer-influence-differences.md) — related

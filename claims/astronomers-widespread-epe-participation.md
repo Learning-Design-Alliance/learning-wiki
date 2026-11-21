@@ -66,3 +66,4 @@ The review reports a 2004 National Science Board survey finding that "58% of sci
 ## Related Claims
 - [Lack of time is the most cited barrier to EPO engagement, and allocated work-week time and explicit job-description recognition are the most requested enablers](epo-barrier-lack-of-time.md) — related
 - [Temporary-position researchers are more likely than permanent-position researchers to engage in EPO only during free time](epo-free-time-temporary-position.md) — related
+- [Most Americans cannot name a living scientist yet a large majority say informing the public should be part of a scientist's job](ipe-public-wants-scientist-engagement.md) — related

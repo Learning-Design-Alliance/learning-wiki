@@ -49,4 +49,4 @@ The article proposes a conceptual framework in which four VR-related variables â
 -
 
 ## Key Sources
-- Figueroa, R. B., Jr., & Jung, I. (2025). Integrating VR tours in online language learning: A design-based research study. Australasian Journal of Educational Technology, 41(1). https://ajet.org.au
+- Figueroa, R. B., Jr., & Jung, I. (2025). Integrating VR tours in online language learning: A design-based research study. Australasian Journal of Educational Technology, 41(1). https://ajet.org.au. [doi:10.14742/ajet.9498](https://doi.org/10.14742/ajet.9498)

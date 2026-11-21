@@ -49,3 +49,4 @@ Principal components analysis with varimax rotation on a larger group of postcou
 - [The Japanese SPRAT shows a two-factor structure (clinical care and psychosocial skills) congruent with the UK original](japanese-sprat-two-factor-uk-congruence.md) — related
 - [Exploratory factor analysis of the colleague and coworker questionnaires yields a two-factor solution (clinical management with leadership; accountability) explaining at least 75% of variance with Cronbach's α above 0.9 and high generalizability coefficients](msf-two-factor-solution-management-accountability.md) — related
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

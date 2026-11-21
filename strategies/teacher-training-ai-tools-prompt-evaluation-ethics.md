@@ -71,6 +71,8 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Teachers should diagnose students' prompting purposes and provide tailored, scaffolded prompt-engineering instruction](tailored-prompt-engineering-instruction.md)
 - [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
+- [Train pre-service teachers' AI-related evaluative skills by comparing AI-generated and human feedback on the same artefact with sources disclosed only after initial evaluation](disclose-source-after-evaluation-strategy.md)
+- [Train pre-service teachers in epistemic verification protocols for AI-generated content](epistemic-verification-protocols-strategy.md)
 
 ## Examples
 -

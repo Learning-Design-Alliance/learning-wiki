@@ -50,3 +50,4 @@ ANCOVA on conceptual understanding in the randomized 2×2 experiment (N = 181). 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](micro-productive-failure-improves-isomorphic-procedural-problems.md) — reports the opposite
 - [Most students did not fully understand staging and grading until the attendance-phase case discussions, and 79.6% invested more than one day of self-study](icm-module-self-study-burden-and-attendance-phase-understanding.md) — related
+- [The I-PS group did not outperform a no-instruction baseline, and its gains appeared only after Phase 2](i-ps-no-better-than-no-instruction-baseline.md) — related

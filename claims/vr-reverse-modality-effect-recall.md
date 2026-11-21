@@ -58,3 +58,4 @@ ANCOVA in a between-subjects experiment (N = 61) comparing visual-only (n = 31) 
 - [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](ivr-vocabulary-beats-association-strugglers-gain-more.md) — related
 - Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view — related
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
+- [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related

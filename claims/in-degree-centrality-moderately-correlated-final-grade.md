@@ -52,3 +52,4 @@ Kendall's Tau-b correlation analysis (permutation-based, 9999 replicates) of SNA
 - [Multigraph closeness centrality is the most consistent of the three configurations for correlating closeness with performance, though less robust than degree and eigenvector centralities](multigraph-closeness-most-consistent-configuration.md) — related
 - [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md) — related
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — related
+- [The Collaborative Learning Index showed no significant correlation with final grades](cli-no-significant-correlation-final-grades.md) — related

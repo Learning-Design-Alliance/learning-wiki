@@ -65,6 +65,7 @@ Reflection converts experience into usable knowledge only when it is structured 
 - [Action Planning](action_planning.md) — converts reflective insight into forward commitment, preventing reflection from ending in rumination
 - [Achievable Micro-Goals](achievable_micro-goals.md) — gives reflection a concrete target ("Did I meet my micro-goal?") that makes self-monitoring tractable
 - [Implement study-habit improvement programs for children before age 8 to support stable academic performance](study-habits-programs-before-age-8.md)
+- [Combine interface-level scaffolding with explicit instruction and motivational support for durable LLM interaction habits](combine-interface-scaffolding-with-explicit-llm-instruction.md)
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — the core private processing step

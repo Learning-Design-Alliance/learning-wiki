@@ -79,3 +79,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
 - [Psychometric measures can be used, without reference to ground truth, to iteratively improve an AI grading rubric by identifying outlier rubric items](psychometric-rubric-refinement-ai-grading.md) — related
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
+- [Core problem-statement metrics show only moderate judge agreement, and multi-class metrics (Bloom level, difficulty) perform poorly](problem-statement-metrics-moderate-categorical-poor.md) — related

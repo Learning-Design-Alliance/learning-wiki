@@ -67,3 +67,4 @@ Researchers traced prerequisite course codes through course catalogs iteratively
 ## Related Claims
 - [Students who leave the physics major take required introductory courses later than the recommended schedule, while physics degree earners take them earlier](course-timing-differentiates-physics-degree-earners.md) — related
 - [Mathematically underprepared students who expressed physics or engineering interest at orientation were recaptured into Analytical Physics I and Calculus I in their sophomore year](advising-recaptured-underprepared-students-sophomore-year.md) — related
+- [Modern physics is the most common explicitly listed prerequisite for QM1 and single-semester/quarter QM courses, followed by differential equations, math methods, and linear algebra](qm-course-prerequisites-modern-physics-most-common.md) — related

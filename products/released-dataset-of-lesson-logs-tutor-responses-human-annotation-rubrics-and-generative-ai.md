@@ -36,5 +36,5 @@ An openly released dataset from the study containing equity-lesson logs, tutor r
 
 ## Key Sources
 - Danielle R. Thomas, Conrad Borchers, Sanjit Kakarla, Jionghao Lin, Shambhavi Bhushan, Boyuan Guo, Erin Gatz, and Kenneth R. Koedinger. 2025. Do Tutors Learn from Equity Training and Can Generative AI Assess It?. In LAK25: The 15th International Learning Analytics and Knowledge Conference (LAK 2025), March 03–07, 2025, Dublin, Ireland. ACM, New York, NY, USA. https://doi.org/10.1145/3706468.3706531
-- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006
+- Thomas, D. R., Borchers, C., Bhushan, S., Gatz, E., Gupta, S., & Koedinger, K. R. (2025). LLM-Generated Feedback Supports Learning If Learners Choose to Use It. arXiv. https://arxiv.org/abs/2506.17006. [doi:10.1007/978-3-032-03870-8_33](https://doi.org/10.1007/978-3-032-03870-8_33)
 - Danielle R. Thomas, Conrad Borchers, Jionghao Lin, Sanjit Kakarla, Shambhavi Bhushan, Erin Gatz, Shivang Gupta, Ralph Abboud, and Kenneth R. Koedinger. (2025). Leveraging LLMs to Assess Tutor Moves in Real-Life Dialogues: A Feasibility Study. arXiv preprint. https://arxiv.org/abs/2506.17410

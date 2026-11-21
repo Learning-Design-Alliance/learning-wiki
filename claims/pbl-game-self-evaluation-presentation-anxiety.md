@@ -72,3 +72,4 @@ Content analysis of self-evaluation form themes: presentation was coded 12 times
 - [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) — related
 - [Group innovation project presentations scored a mean of 80.57 ± 11.29 out of 100, with teamwork the highest-rated dimension](innovation-demonstration-scores-descriptive.md) — related
 - [Student-written experiment reports scored an average of 4.2 out of 5, which the authors took as positive evidence of experimental competence](lidyef2018-experiment-reports-4-2.md) — related
+- [Students reported reduced assessment anxiety and high satisfaction, with SETU assessment-item ratings averaging above 4 of 5 (combined mean 4.27)](psa-student-feedback-reduced-anxiety-high-setu.md) — related

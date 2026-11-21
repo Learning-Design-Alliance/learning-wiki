@@ -62,3 +62,4 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 - [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — related
 - [High school mathematics preparation, not science coursework, correlates more strongly with success in college science courses (as reported by the chapter, citing Sadler & Tai 2007)](high-school-math-preparation-predicts-college-science-success.md) — related
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related
+- [Far fewer girls than boys choose physics at age 16 across all four UK nations](uk-age16-physics-gender-uptake-gap.md) — related

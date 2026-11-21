@@ -54,3 +54,4 @@ ANCOVA on transfer in the VR modality experiment, controlling for prior knowledg
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
+- [A multimodal combination of L2 text, L2 audio, and image yields the highest recall and is preferred over text-only presentation during mobile multitasking](multimodal-text-audio-image-highest-recall.md) — related

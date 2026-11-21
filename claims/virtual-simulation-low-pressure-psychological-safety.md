@@ -82,3 +82,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — reports the opposite
 - [The article reports that AR-supported experiments offer a safe way to run experiments teacher-guided or independently, addressing risks of hazardous materials and time/material constraints in classroom research](ar-safe-remote-experiments-physics.md) — related
 - [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related
+- [KSP lets students see orbital mechanics happen in real time, experiment with complex missions independently, and learn from mistakes in a low-stakes environment](ksp-real-time-sandbox-conclusion.md) — related

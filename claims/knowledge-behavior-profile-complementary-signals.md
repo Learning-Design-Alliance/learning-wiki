@@ -54,3 +54,4 @@ Profile-content ablation (Table 2) splitting the profile into knowledge sections
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related
 - [GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation](grpo-refines-profiles-toward-diagnostic-representations.md) — related
+- [Static onboarding metadata personalization yields the highest adaptability scores in AI tutoring responses](static-onboarding-metadata-highest-adaptability.md) — related

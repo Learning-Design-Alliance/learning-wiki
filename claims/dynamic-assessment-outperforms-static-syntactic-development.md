@@ -51,3 +51,4 @@ Two-group experiment with 60 male Iranian college-preparatory learners (aged 17-
 ## Related Claims
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](gcr-activities-significant-posttest-advantage-young-efl.md) — related
+- [Novice L2 learners using MUDT-Tutor syntax-aware feedback achieved significantly higher learning gains (13.73 points) than a no-feedback control group (7.88 points), t(29)=2.51, p=0.018, d=0.90](mudt-tutor-syntax-aware-feedback-higher-gains.md) — related

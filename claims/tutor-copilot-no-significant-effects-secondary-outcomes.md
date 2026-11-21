@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2024
 sources:
-  - id: rose-e-wang-2025
+  - id: rose-e-wang-2024
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q4 i?` The study did not find statistically significant improvements in end-of-year math test scores, which the authors attribute to little variation in treatment exposure and the two-month duration. [→ Rose E. Wang 2025](#rose-e-wang-2025)
+`q4 i?` The study did not find statistically significant improvements in end-of-year math test scores, which the authors attribute to little variation in treatment exposure and the two-month duration. [→ Rose E. Wang 2024](#rose-e-wang-2024)
 
 ## Evidence
 
-### Rose E. Wang 2025
+### Rose E. Wang 2024
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r3`
 
@@ -49,3 +49,4 @@ Null result on end-of-year NWEA MAP math scores, stated in the Limitations secti
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related
 - [Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases](tutor-copilot-benefits-concentrated-among-lower-rated-tutors.md) — related
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — a narrower finding that bears on this claim
+- [Tutor CoPilot access increased tutors' use of high-quality teaching strategies and produced significant student mastery gains, especially for lower-rated tutors' students](tutor-copilot-close-the-loop-learning-gains.md) — related

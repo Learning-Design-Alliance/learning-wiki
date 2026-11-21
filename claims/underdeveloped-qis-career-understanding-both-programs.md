@@ -66,3 +66,5 @@ Discussion-section synthesis of the interview findings, noting the result suppor
 ## Related Claims
 - [Eleven of twelve interviewed students expressed unequivocal confidence they could succeed at their degree and finding a job, and both programs produced positive affective outcomes](positive-self-efficacy-both-quantum-programs.md) — related
 - [Students across both programs strongly appreciated face-to-face events with quantum professionals and the communities built within their programs](face-to-face-industry-engagement-appreciation.md) — related
+- [Participation in the Pathways to Quantum immersion program increased high school students' awareness of and interest in QIS and QIS-adjacent careers](pathways-quantum-increased-qis-career-awareness-interest.md) — reports the opposite
+- [Interacting with QIS professionals helped students adjust academic and career expectations to be more realistic and flexible](professional-interaction-adjusted-career-expectations.md) — related

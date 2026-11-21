@@ -52,6 +52,8 @@ Because LLM outputs are probabilistic and can contain hallucinations or bias, th
 - [Validate ChatGPT-generated learning content through instructor review before giving it to residents](instructor-validation-of-chatgpt-content.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
+- [Integrate a teacher or instructor interface to review and correct AI-generated content alongside AI feedback](hybrid-ai-human-feedback-instructor-interface.md)
+- [Structure AI-assisted feedback to prioritize instructor-authored content, then instructor-edited AI suggestions, with pure AI comments only filling gaps](instructor-authored-feedback-priority.md)
 
 ## Examples
 -

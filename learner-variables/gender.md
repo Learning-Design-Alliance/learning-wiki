@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 776 claims (415 show a difference, 191 mixed, 170 no difference) · 541 studies (285 associational, 180 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 541 report an effect size · 768 claims rest on one study
+> **Evidence** · 777 claims (416 show a difference, 191 mixed, 170 no difference) · 542 studies (286 associational, 180 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 542 report an effect size · 769 claims rest on one study
 
 ## How to read this page
 
@@ -815,6 +815,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The high-stakes final exam gender gap is about 50% larger than the medium-stakes in-term exam gap and is not removed by controlling for in-term exam scores](../claims/final-exam-higher-stakes-larger-gap.md) [+M] — an instructional effect differs by group
 - [Female and male students’ IPLS drawings differ in element centrality with large effect sizes: female drawings centralize self and group members, male drawings centralize the instructor](../claims/gender-differences-drawing-centrality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender differences were more pronounced in grade anomalies than in grades, with men having smaller grade penalties than women in most courses](../claims/gender-differences-more-in-agas-than-grades.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Comfort levels differ significantly by gender: male students report highest comfort with equipment handling, female students with note-taking/calculations/data visualization](../claims/gendered-comfort-physics-lab-tasks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

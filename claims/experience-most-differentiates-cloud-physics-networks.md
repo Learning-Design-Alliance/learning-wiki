@@ -48,3 +48,4 @@ Cross-sectional network analysis of hand-drawn concept maps comparing participan
 - [Conceptual understanding of cloud physics develops from a water-cycle focus toward cloud microphysical processes as experience increases](water-cycle-to-microphysics-shift.md) — related
 - [Average degree, number of cycles, and average cycle lengths show no significant differences across cloud physics experience groups](no-group-differences-graph-level-metrics.md) — reports the opposite
 - [Centrality measures related differentially to the sources of self-efficacy: PageRank to mastery experiences, inDegree and outDegree to verbal persuasion, and outDegree to vicarious learning](centrality-sources-mastery-verbal-vicarious.md) — related
+- [Disciplinary experience is the learner characteristic that best explains variance in concept-map graph metrics](experience-best-explains-concept-map-graph-variance.md) — possibly the same claim (merge candidate)

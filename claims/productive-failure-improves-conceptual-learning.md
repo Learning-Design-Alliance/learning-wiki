@@ -256,3 +256,5 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [PF students show better knowledge retention than DI students on a delayed post-test two weeks later](pf-better-retention-delayed-post-test-python.md) — a narrower finding that bears on this claim
 - [PF and DI produce similar initial programming performance on Python list tasks immediately after instruction](pf-di-similar-initial-python-list-performance.md) — related
 - [PF students exhibit a larger decrease in cognitive load from pre-instruction practice to post-instruction programming than DI students](pf-larger-cognitive-load-reduction-after-instruction.md) — related
+- [The I-PS group did not outperform a no-instruction baseline, and its gains appeared only after Phase 2](i-ps-no-better-than-no-instruction-baseline.md) — reports the opposite
+- [Problem-solving before instruction (PS-I) maintains diagnostic performance in a complex far-transfer scenario where instruction-first (I-PS) students decline](ps-i-maintains-far-transfer-diagnostic-performance.md) — a narrower finding that bears on this claim

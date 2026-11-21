@@ -48,3 +48,4 @@ Coding of exit-survey concern responses in the workshop study. The article repor
 - [Teachers' most common concern about teaching quantum was uncertainty about alignment to content standards, often accompanied by concerns about time](standards-alignment-barrier-quantum.md) — related
 - [Pre-service teachers are uncertain whether their interpretations reflect students' actual conceptions or their own reading of clumsy or vocabulary-limited expressions](interpretation-validity-uncertainty-vocabulary.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Teachers' concerns about teaching quantum center on understanding quantum fundamentals and devising effective methods for young learners](teacher-concerns-quantum-content-and-pedagogy.md) — related

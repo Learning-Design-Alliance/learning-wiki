@@ -51,3 +51,4 @@ Semi-structured face-to-face interviews with 43 clinical psychologists at Indone
 - [Participants recommended experiential learning strategies — role-plays and contact with CAM practitioners — for teaching CAM to clinical psychologists](experiential-cam-learning-role-plays-practitioners.md) — related
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [Participants recommended teaching only CAM treatments that fit brief psychotherapy sessions, favoring NLP, hypnotherapy, brain gym, and EMDR](brief-session-cam-treatments-endorsed.md) — related
+- [Elementary teachers had limited prior quantum knowledge, largely derived from popular culture rather than formal education](elementary-teachers-limited-quantum-knowledge-pop-culture.md) — related

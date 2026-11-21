@@ -59,3 +59,4 @@ Qualitative interview strand of the convergent mixed-methods study, in which 15 
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
+- [Ethical uncertainty around academic integrity and misconduct accusations was a key barrier to full student engagement with the AI learning assistant](ai-ethical-uncertainty-engagement-barrier.md) — related

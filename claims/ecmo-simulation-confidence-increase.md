@@ -49,3 +49,4 @@ Likert five-point scale feedback on the simulation experience from all 14 delega
 - [Delegates endorsed simulation as a learning experience for teamwork and communication and as a means to assess ECMO competency](ecmo-simulation-endorsed-teamwork-competency.md) — related
 - [After the ECMO simulation course, most delegates perceived improvements in nontechnical skills including communication and leadership](ecmo-simulation-nontechnical-skill-gains.md) — related
 - [Descriptive pre/post survey results show trainees shifted toward agreement on ECMO knowledge and role items after team-based simulation training](ecmo-sim-descriptive-prepost-survey-shift.md) — related
+- [Attending the CUWiP+ conference was followed by a rise in attendees feeling confident to apply for postgraduate study, from 32% to 53%](cuwip-confidence-postgraduate-rise.md) — related

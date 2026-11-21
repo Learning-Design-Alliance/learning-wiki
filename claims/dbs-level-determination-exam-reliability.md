@@ -53,3 +53,4 @@ The DBS was piloted on 150 students in the 2009-2010 school year; low-reliabilit
 - [The Turkish-adapted tool shows good total internal consistency (Cronbach's α = 0.822) but low reliability for the extraneous load subdimension (α = 0.572)](turkish-clt-tool-total-alpha-0822.md) — related
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
 - [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

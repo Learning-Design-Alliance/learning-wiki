@@ -61,3 +61,4 @@ Linear multilevel model of 2,866 course grades from nine undergraduate STEM cour
 - [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](women-higher-overall-gpa-all-groups.md) — related
 - [Mean grade versus math test score is concave up in introductory physics but concave down in comparison STEM courses, with physics intercepts about 0.7 grade points lower at the physics median test score](physics-grade-penalty-concave-test-score.md) — related
 - [Gender differences were more pronounced in grade anomalies than in grades, with men having smaller grade penalties than women in most courses](gender-differences-more-in-agas-than-grades.md) — related
+- [Gender differences in high-stakes exam scores appear in Physics 1 but not Physics 2, with no gender differences in low-stakes homework in either course](gender-exam-gaps-physics1-not-physics2.md) — related

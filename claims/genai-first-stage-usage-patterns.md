@@ -79,3 +79,4 @@ LLM-classified ChatGPT conversation logs from treated students, complemented by 
 - [Students used ChatGPT mainly for summarizing information, literature research, and clarifying concepts](chatgpt-used-for-summarizing-research-clarifying.md) — related
 - [Students most commonly use genAI in STEM coursework for finding explanations, exploring topics, summarizing readings, and helping with problem sets, mainly to save time](genai-stem-coursework-use-cases-save-time.md) — related
 - [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related
+- [Students perceived the AI Hub as most helpful for understanding concepts and completing homework, and were more ambivalent about its effect on grades and studying](ai-hub-helpfulness-concepts-homework-grades.md) — related

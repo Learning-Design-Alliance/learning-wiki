@@ -72,3 +72,4 @@ Qualitative inductive content analysis of participants' open-ended responses in 
 - [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](qualitative-embodiment-and-motivational-language-benefits.md) — related
 - [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related
 - [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related
+- [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related

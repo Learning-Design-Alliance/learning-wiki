@@ -52,3 +52,4 @@ Expert rating of concept adequacy (quantum measurement, superposition, probabili
 - [Qubit representations differ strongly in colour dependence: the Qake model is rated highly colour dependent, the Bloch sphere colour independent](qubit-representations-colour-dependence-differences.md) — related
 - [Pairs of qubit representations with the same dimensionality receive the highest expert ratings for overlap/redundancy](same-dimension-pairs-highest-overlap-redundancy.md) — related
 - [Dutch quantum experts rated the coin metaphor highest for superposition and the dice metaphor highest for entanglement, and reported high likelihood of using metaphors with non-experts](quantum-experts-rate-coin-dice-metaphors-most-accurate.md) — related
+- [Type of visual qubit representation (Bloch sphere vs. Quantum Bead) has no significant effect on post-test conceptual learning outcomes in secondary students](qubit-representation-no-posttest-outcome-effect.md) — related

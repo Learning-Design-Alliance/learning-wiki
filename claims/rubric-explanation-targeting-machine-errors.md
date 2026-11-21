@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: zhongzhou-chen-and-tong-wan-2025
     resource: "https://doi.org/10.1103/physrevphyseducres.21.010126"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A revised Detailed Compare 2 rubric explaining two ambiguous student answer patterns significantly improved every metric, dropping diff-both from 21.7% to 9.6%. [→ Zhongzhou Chen and Tong Wan 2025](#zhongzhou-chen-and-tong-wan-2025)
@@ -55,3 +56,4 @@ human graders from 21.7 % to only 9 .6%."
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — a broader claim this one bears on
 - [GPT-4o self-consistency mode grading of physics explanations reaches agreement with human graders almost identical to the agreement between the human graders themselves](gpt4o-self-consistency-human-level-grading-agreement.md) — related
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
+- [GPT-4o grades students' written explanations on EMCS conceptual physics questions with accuracy comparable to a human grader (0-3% discrepancy, mean Cohen's kappa 0.77)](gpt4o-grades-written-physics-explanations-comparable-to-human-graders.md) — related

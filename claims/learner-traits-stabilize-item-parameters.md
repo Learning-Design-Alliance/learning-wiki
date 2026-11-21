@@ -71,3 +71,4 @@ Distribution of estimated discrimination parameters for the homework items (Fig.
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [Choice of attempt threshold N has almost no influence on the quality of homework-based learner ability estimates](ability-estimate-independent-of-attempt-threshold.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Selecting 2PL items near ability equal to difficulty maximizes Fisher information, which EDGE respects while adding misconception-corrective gains](item-selection-near-ability-maximizes-information.md) — related

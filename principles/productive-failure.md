@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (26 for, 29 mixed, 7 against) · 37 studies (22 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 13 of 37 report an effect size · 59 claims rest on one study
+> **Evidence** · 64 claims (28 for, 29 mixed, 7 against) · 38 studies (23 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 13 of 38 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,8 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [Learning strategy made no difference in routine expertise on familiar head CT cases](../claims/no-difference-routine-expertise-emt.md) [~M] — attached 2026-11-07 from Aliaga L et al. (2024), which proposed "Use error management training — guiding learners to make errors before instruction — to develop adaptive expertise with cognitive skills"; tests this page's relationship.
 - [Introducing Physics Invention Tasks into a large-enrollment calculus-based mechanics course coincided with an improvement in FCI normalized gain in a historical comparison](../claims/pit-introduction-improved-fci-normalized-gain.md) [+W] — attached 2026-11-17 from Suzanne White Brahmia et al. (2017), which proposed "Inventing with Contrasting Cases: students invent an invariant quantity under imposed constraints before formal instruction".
 - [PF problem-solving before instruction activates prior knowledge and generates multiple, non-canonical solution pathways](../claims/pf-activates-prior-knowledge-multiple-pathways.md) [+W] — attached 2026-11-20 from Investigating the Use of Productive Failure as a Design Paradigm for Learning Introductory, which proposed "PF-based programming activity design: open-ended sliding-window task that tolerates suboptimal solutions".
+- [Problem-solving before instruction (PS-I) maintains diagnostic performance in a complex far-transfer scenario where instruction-first (I-PS) students decline](../claims/ps-i-maintains-far-transfer-diagnostic-performance.md) [+W] — attached 2026-11-21 from Fatma Betül Güreş et al. (2025), which proposed "Sequence problem-solving before instruction and ground the instruction in students' own solutions when teaching diagnostic strategies for transfer"; tests this page's relationship.
+- [PS-I outperforms I-PS on the interpersonal-relationship strategy in the near-transfer scenario (Client B)](../claims/ps-i-better-interpersonal-strategy-near-transfer.md) [+W] — attached 2026-11-21 from Fatma Betül Güreş et al. (2025), which proposed "Sequence problem-solving before instruction and ground the instruction in students' own solutions when teaching diagnostic strategies for transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

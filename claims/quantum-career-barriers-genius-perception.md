@@ -71,3 +71,5 @@ Focus group participants also identified opportunities: anticipated growth in qu
 - [The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed](multiple-entry-points-quantum-careers.md) — related
 - [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](biased-treatment-explains-gender-gap-entry.md) — related
 - [The article argues that physics-only access to continuous-variable quantum computing harms both learners and the field by homogenising researcher backgrounds](cvqc-single-entry-point-homogenising.md) — related
+- [Through independent project exploration, students developed the ability to explain quantum technologies and their limitations, going further than directed assignments would likely have achieved](independent-projects-built-technology-understanding.md) — related
+- [Researching medical applications for a quantum vision poster shifted some premed-oriented high-school students' career perspectives toward quantum technologies in medicine](vision-poster-shifted-premed-perspectives.md) — related

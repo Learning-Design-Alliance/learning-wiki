@@ -60,3 +60,4 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](digital-competence-positive-association-dil-engagement.md) — related
 - [Learning engagement is positively correlated with mathematics achievement among high school students.](learning-engagement-positive-correlation-math-achievement.md) — related
 - [Digital technology use, emotional intelligence, and learning engagement are each significantly positively correlated with English academic performance](correlations-digital-technology-ei-engagement-english-performance.md) — related
+- [High school science achievement, but not science interest, directly predicted AI use at age 24 (β = .18, p < .001)](science-achievement-predicts-adult-ai-use.md) — related

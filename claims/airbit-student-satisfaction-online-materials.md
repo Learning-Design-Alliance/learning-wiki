@@ -53,3 +53,4 @@ Student survey (90 responses). 94% used the online materials while building and 
 - [Weekly surveys found 83% of students thought Mathematica and LabVIEW activities were very helpful but only 65% enjoyed them due to short time](weekly-survey-83-percent-helpful-65-percent-enjoyed.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Students self-report increased knowledge of programming, electronics and the scientific method after the air:bit project](airbit-student-self-assessed-knowledge-gains.md) — related
+- [Most 2024/2025 students rated the project very helpful for collaborative learning (95.8%)](survey-collaborative-learning-very-helpful-95-8.md) — related

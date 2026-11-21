@@ -52,3 +52,4 @@ Network analysis of the students' and researchers' forma mentis networks against
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
 - [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — related
 - [KPNs of NCEE physics examinations are scale-free, strongly assortative, and mostly small-world networks](kpn-topological-properties.md) — related
+- [The physics-term network has power-law exponent γ = 4.08, resembling a random network without prominent hub nodes](physics-term-network-gamma-4-08-random-like.md) — related

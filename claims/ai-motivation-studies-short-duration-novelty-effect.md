@@ -69,3 +69,4 @@ The review's analysis of statistical approaches used in the included studies. It
 - Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common — related
 - ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns — related
 - [Most gamification-in-English-education studies lasted between one and twelve weeks, with six weeks the most common duration.](gamification-elt-studies-duration-six-to-twelve-weeks.md) — related
+- [A novelty-biased AI tutor raises graduate coding grades relative to a default tutor, with the advantage concentrating in more demanding weeks](novelty-biased-tutor-raises-coding-grades.md) — related

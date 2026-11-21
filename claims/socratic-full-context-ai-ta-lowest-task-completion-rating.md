@@ -54,3 +54,5 @@ Post-survey perception data from the 2x2 randomized controlled experiment in an 
 - [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type](socratic-feedback-comprehension-monitoring-task-orientation.md) — related
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — related
 - [Post-course survey medians indicated maintained problem-solving independence despite LLM use and a positively impactful documentation requirement](survey-medians-ai-literacy-dimensions.md) — related
+- [Students using the Socratic AI Tutor perceived significantly greater support for critical and reflective thinking than students using an uninstructed chatbot](socratic-tutor-perceived-critical-reflective-thinking.md) — related
+- [The Socratic AI Tutor produced a large perceived effect on support for independent thinking compared with the uninstructed chatbot](socratic-tutor-perceived-independent-thinking.md) — related

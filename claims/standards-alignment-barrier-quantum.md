@@ -68,3 +68,4 @@ Same exit-survey concern coding. The article reports that among the 14 teachers 
 - [About half of participating teachers identified explicit curriculum connections to quantum, most often in science and mathematics and rarely in computing](curricular-connections-quantum.md) — related
 - [Some teachers expressed concern about whether their students were able to learn quantum content, including vocabulary barriers for English Learners and missing background in probabilistic thinking](student-ability-concerns-quantum.md) — related
 - [Most K-12 teachers who attended quantum professional learning workshops expressed excitement about and interest in teaching quantum](teacher-enthusiasm-quantum-k12.md) — related
+- [Teachers' concerns about teaching quantum center on understanding quantum fundamentals and devising effective methods for young learners](teacher-concerns-quantum-content-and-pedagogy.md) — related

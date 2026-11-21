@@ -49,3 +49,4 @@ Logistic regression on the 359 applicants who received an oral assessment interv
 - [Each additional preparatory activity undertaken for the UMAT increases the odds of being offered an interview](additional-umat-prep-activity-increases-interview-odds.md) — related
 - [No difficulty identified with the oral assessment interview significantly decreased the likelihood of being offered a place](no-oral-assessment-difficulty-significantly-decreased-place-odds.md) — related
 - [Specific UMAT preparatory activities — private training courses, private online services, and familiarisation with the process — are associated with receiving an interview offer](umat-specific-activities-associated-with-interview-offer.md) — related
+- [CS students prepare lightly to moderately for career fairs, most commonly by updating resumes, and none sought advice from faculty or career offices](cs-career-fair-preparation-resume-updating.md) — related

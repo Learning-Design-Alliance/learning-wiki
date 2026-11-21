@@ -59,3 +59,4 @@ Reliability testing on pilot data from 10 trainee nurses and 10 clinical instruc
 - [A training intervention improved only the Results Orientation competency among hospital personnel, with no significant change in the other trained competencies](training-intervention-improved-only-results-orientation.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
 - [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
+- [The researcher-developed five-question SOLO test achieved a Cronbach's alpha of 0.74 in a 30-student pilot](solo-pd-test-reliability-alpha-074.md) — related

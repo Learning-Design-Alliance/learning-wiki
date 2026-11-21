@@ -8,27 +8,27 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: eric-matthew-hickok-2015
+  - id: eric-matthew-hickok-2016
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
-    title: "Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
+    title: "Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
     author: Eric Matthew Hickok
     q: 2
     i: "?"
     kind: associational
     rigour: 1
-  - id: eric-matthew-hickok-2015-2
+  - id: eric-matthew-hickok-2016-2
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
-    title: "Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
+    title: "Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
     author: Eric Matthew Hickok
     q: 2
     i: "?"
     kind: associational
     rigour: 1
-  - id: eric-matthew-hickok-2015-3
+  - id: eric-matthew-hickok-2016-3
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
-    title: "Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
+    title: "Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
     author: Eric Matthew Hickok
     q: 2
     i: "?"
@@ -40,18 +40,18 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` For both SJSU courses, the percentage of small-group time spent Not Interacting was much higher than in the UC Davis CLASP course. [→ Eric Matthew Hickok 2015](#eric-matthew-hickok-2015)
-`q2 i?` SJSU students were never provided the opportunity to Share their Ideas or Present their findings, interactions that appear in CLASP observations. [→ Eric Matthew Hickok 2015 (2)](#eric-matthew-hickok-2015-2)
-`q2 i?` The author concludes neither SJSU course as currently standing could fairly be classified as an interactive course. [→ Eric Matthew Hickok 2015 (3)](#eric-matthew-hickok-2015-3)
+`q2 i?` For both SJSU courses, the percentage of small-group time spent Not Interacting was much higher than in the UC Davis CLASP course. [→ Eric Matthew Hickok 2016](#eric-matthew-hickok-2016)
+`q2 i?` SJSU students were never provided the opportunity to Share their Ideas or Present their findings, interactions that appear in CLASP observations. [→ Eric Matthew Hickok 2016 (2)](#eric-matthew-hickok-2016-2)
+`q2 i?` The author concludes neither SJSU course as currently standing could fairly be classified as an interactive course. [→ Eric Matthew Hickok 2016 (3)](#eric-matthew-hickok-2016-3)
 
 ## Evidence
 
-### Eric Matthew Hickok 2015
+### Eric Matthew Hickok 2016
 
-Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
+Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
 
 `q2 · i?` · `associational · r1`
 
@@ -59,9 +59,9 @@ Normalized comparison of SJSU Physics 50 and 50W observations against West et al
 
 > "Looking at “Small Group” time, it is clear that for both of the SJSU courses, the percentage of time spent Not Interacting is much higher than the Davis course."
 
-### Eric Matthew Hickok 2015 (2)
+### Eric Matthew Hickok 2016 (2)
 
-Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
+Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
 
 `q2 · i?` · `associational · r1`
 
@@ -69,9 +69,9 @@ Comparison of whole-class and small-group interaction distributions (Fig. 5.2) s
 
 > "Students in both SJSU courses were never provided the opportunity to Share their Ideas , leading the conversation to collectively challenge their own ideas regarding physics concepts. They also never Presented their lab ﬁndings and rarely Presented to each other or Talked Serially to build each others’ ideas."
 
-### Eric Matthew Hickok 2015 (3)
+### Eric Matthew Hickok 2016 (3)
 
-Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
+Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
 
 `q2 · i?` · `associational · r1`
 
@@ -85,3 +85,4 @@ The author's interpretive conclusion from the UC Davis comparison, noting SJSU s
 ## Related Claims
 - [Instructor interaction types during small group time vary widely, from explaining to student-shared dialogue](small-group-interaction-type-variation.md) — related
 - [Instructor-student interactions vary greatly across instructors teaching the same interactive-engagement physics course](vast-instructor-interaction-variation-clasp.md) — a broader claim this one bears on
+- [Traditional lab and recitation students rarely presented work or built on each other's ideas, unlike CLASP students](no-student-presentations-traditional-sections.md) — related

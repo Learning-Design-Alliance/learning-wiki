@@ -126,7 +126,9 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
+
 - Recurrent low-stakes review of vocabulary or formulas at increasing intervals.
+- [Schedule practice by a priority index over topics and run sessions with a difficulty ramp](../strategies/edge-priority-index-scheduling-strategy.md)
 
 ## Key Sources
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

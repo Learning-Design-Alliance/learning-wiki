@@ -50,4 +50,4 @@ Based on the finding that CPP benefits fade as students advance, the article rec
 -
 
 ## Key Sources
-- Wei, Y., Peng, X., Zhong, Y., Pi, F., Zhai, Y., & Bao, L. (2025). Can Contextualized Physics Problems Enhance Student Motivation? Uncovering a Student-Teacher Perception Gap through a Large-Scale Survey. https://arxiv.org/abs/2507.05586
+- Wei, Y., Peng, X., Zhong, Y., Pi, F., Zhai, Y., & Bao, L. (2025). Can Contextualized Physics Problems Enhance Student Motivation? Uncovering a Student-Teacher Perception Gap through a Large-Scale Survey. https://arxiv.org/abs/2507.05586. [doi:10.1103/2g1b-hmhq](https://doi.org/10.1103/2g1b-hmhq)

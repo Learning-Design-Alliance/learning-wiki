@@ -55,3 +55,4 @@ Bivariate correlational analysis of 482 students' trace frequencies and first-un
 - [Students who submitted their own solutions for rating and feedback rated recitation effectiveness significantly higher than students who did not](graded-feedback-own-solutions-recitations.md) — related
 - [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related
 - [Post-test scores correlated with PLC, shorter learning duration, feedback frequency, and behavioral engagement, but not with cognitive or emotional engagement](posttest-correlations-plc-behavioral-indicators.md) — related
+- [Students preferred the Munich Quantum Portal over the HPCQC access path for job submission](students-prefer-mqp-over-hpcqc-submission.md) — related

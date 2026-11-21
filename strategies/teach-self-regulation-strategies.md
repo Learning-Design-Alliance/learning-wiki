@@ -95,6 +95,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
 - [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 - [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](scaffold-reflection-prompts-assessment-tasks.md)
+- [Combine interface-level scaffolding with explicit instruction and motivational support for durable LLM interaction habits](combine-interface-scaffolding-with-explicit-llm-instruction.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.

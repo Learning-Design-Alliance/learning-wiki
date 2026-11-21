@@ -86,3 +86,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
 - [Fear of delay increases doctoral students' stress levels but does not significantly improve their academic performance](fear-of-delay-raises-stress-not-performance.md) — related
 - [NITARP educators report feeling more comfortable talking with scientists and speaking the language of science because of the experience](nitarp-educators-comfortable-with-scientists.md) — related
+- [Students in three courses reported generally positive reactions to oral exams after initial anxiety](oral-exam-student-feedback-positive.md) — related

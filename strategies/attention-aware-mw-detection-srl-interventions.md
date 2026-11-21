@@ -51,6 +51,7 @@ The review recommends that automated, unobtrusive mind-wandering detection via m
 ## Related Strategies
 
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
+- [Teach students a set of attentiveness strategies, including digital detox, to increase classroom attentiveness](attentiveness-strategies-digital-detox-strategy.md)
 
 ## Examples
 -

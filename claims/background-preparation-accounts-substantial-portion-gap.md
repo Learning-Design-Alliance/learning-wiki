@@ -62,3 +62,5 @@ Kost et al.'s regression models on FMCE and BEMA posttest scores used predictive
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
 - [Conceptual learning scores rose from pre-test to post-test in one group with no comparison group; prior physics grade was associated with the gains, while class and gender were not, and no significant associations were found between the predictors and affective outcomes](predictors-cosmology-course-outcomes.md) — related
 - [Prior physics and math preparation differed significantly by gender and race/ethnicity at course entry](prior-preparation-gaps-gender-race.md) — related
+- [Controlling for SES or SAT scores largely eliminated ethnic disparities in physics learning gains](controlling-ses-sat-eliminates-ethnic-learning-gaps.md) — related
+- [Including test anxiety or self-efficacy in regression models eliminates the significant gender difference in Physics 1 high-stakes scores](motivational-constructs-account-for-gender-exam-gap.md) — related

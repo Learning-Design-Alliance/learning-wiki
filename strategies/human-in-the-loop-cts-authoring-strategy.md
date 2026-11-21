@@ -47,6 +47,7 @@ The authors recommend extending the fully automated LLM authoring workflow with 
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 - [Design GenAI-in-the-loop XR tools with editable components, reproducible generation, continuity with existing artifacts, and shared-attention cues](genai-xr-tool-design-strategy.md)
 - [Embed the tool in the subject's workflow and design feed-forward prompts, symbolic-answer handling, and progress tracking before full release](embed-genai-practice-tool-in-subject-workflow.md)
+- [Structure AI-assisted feedback to prioritize instructor-authored content, then instructor-edited AI suggestions, with pure AI comments only filling gaps](instructor-authored-feedback-priority.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The authors propose that cardiology training programs help novices develop targe
 - [Integrate AOI-dependent eye-tracking and motion metrics into training sessions for real-time formative feedback and personalized training](eye-tracking-real-time-formative-feedback-laparoscopic-training.md)
 - [Use validated EEG and eye-tracking models to provide objective, expert-free performance and learning-rate feedback in surgical residency training](eeg-eye-tracking-objective-ras-training-assessment.md)
 - [Use eye tracking and neurophysiological measures to assess expertise and human factors in simulated medical emergencies](eye-tracking-assessment-simulated-emergencies.md)
+- [Use gaze-based network metrics for real-time self-assessment feedback and personalized learning interventions in visual tasks](gaze-network-metrics-self-assessment-feedback-strategy.md)
 
 ## Examples
 -

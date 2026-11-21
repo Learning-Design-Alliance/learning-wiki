@@ -49,3 +49,4 @@ The article attributes this assertion to the card designers (Epstein et al. cita
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [Introductory accounting students who completed a group-based IF-AT scratch-off card review scored significantly higher on midterm objective exams than students in lecture-review control sections](if-at-scratch-off-review-improves-midterm-scores.md) — related
 - [An incorrect solution that yields an apparently correct answer can prevent students from learning from their mistakes](plausible-wrong-answer-blocks-mistake-learning.md) — related
+- [KSP lets students see orbital mechanics happen in real time, experiment with complex missions independently, and learn from mistakes in a low-stakes environment](ksp-real-time-sandbox-conclusion.md) — related

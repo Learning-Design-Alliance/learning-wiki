@@ -57,3 +57,4 @@ In-class recitation-quiz study with 410 students in calculus-based (183) and alg
 - [Scaffolding supports roughly doubled the percentage of students who correctly used Newton's second law along the incline to solve for static friction](scaffolding-doubles-correct-newton-second-law-use.md) — related
 - [Providing the solved problem only after students attempt the quiz problem on their own was the most beneficial scaffolding in both course types](solved-example-after-self-attempt-most-beneficial.md) — reports the opposite
 - [The authors' own experience indicates students who received extra help after a concept test did better than those who did not](concept-test-early-intervention-authors-experience.md) — related
+- [Most US students do little actual calculus problem-solving in introductory physics courses, even ones designated as calculus-based](little-calculus-problem-solving-intro-physics.md) — related

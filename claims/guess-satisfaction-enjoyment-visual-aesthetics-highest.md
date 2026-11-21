@@ -49,3 +49,4 @@ Reaction-level survey of the gamification participants using the 18-item GUESS s
 - [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
+- [In a pilot with 54 ninth-grade students, MEEGA+ responses were largely positive across design, challenge, perceived learning, and social interaction](missionmotion-pilot-meega-positive-ratings.md) — related

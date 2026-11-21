@@ -78,3 +78,4 @@ Linguistic similarity analysis comparing each final training answer with the cha
 - [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related
 - [Enabling copy and paste increases LLM use during learning, and specifically increases substitutive solution requests but not explanation requests](copy-paste-increases-substitutive-llm-use.md) — related
 - [Some students given complete LLM-generated solutions copied and submitted answers within minutes without engaging with the practice](complete-solution-students-copy-submit-quickly.md) — related
+- [Chatbot messaging dominated usage of the Educational AI Hub, and most student queries concerned software help and conceptual/theory help](ai-hub-chatbot-dominant-usage-query-topics.md) — related

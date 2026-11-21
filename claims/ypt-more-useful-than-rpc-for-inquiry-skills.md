@@ -50,3 +50,5 @@ Survey of 308 students (responses per hard skill between 140 and 280) with t-tes
 - [Students and teachers rate the YPT-versus-RPC usefulness difference in the same direction for most hard skills, with mathematics the main exception](students-teachers-same-direction-ypt-rpc.md) — related
 - [Teachers rate YPT-related activities as more useful than RPC across all hard-skill types, with a self-selection caveat](teachers-rate-ypt-above-rpc.md) — related
 - [YPT-related activities show the most holistic impact on hard skills, with the highest cross-skill correlations of perceived usefulness](ypt-holistic-impact-correlations.md) — related
+- [Aggregated scores show teachers rate YPT's development of high-level hard and soft skills at about twice the students' rate, and both groups see no significant role for solving close-ended problems](ypt-aggregated-scores-teacher-student-gap.md) — related
+- [Teachers perceive that YPT develops students' high-level hard skills considerably more than regular physics classes or other physics competitions](ypt-teachers-high-level-hard-skills.md) — related

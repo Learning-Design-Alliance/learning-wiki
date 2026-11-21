@@ -69,3 +69,4 @@ In the same reviewed study, as reported in the article's running text about Fig.
 ## Related Claims
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related
+- [Modules using only video showed lower post-test scores, suggesting passive formats were less effective for learning new concepts](passive-video-modules-lower-posttest.md) — related

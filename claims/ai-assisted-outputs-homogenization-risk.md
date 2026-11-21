@@ -63,3 +63,4 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — related
 - [Students used GenAI brainstorming output as a creativity baseline that raised the bar for what counts as a new idea](genai-brainstorm-baseline-raise-bar.md) — related
 - [The content team used GenAI sparingly to augment creativity and routine tasks, but found outputs stale, lacking diversity for their context, and raising intellectual-property concerns](content-team-sparingly-creativity-limits.md) — a narrower finding that bears on this claim
+- [Risk-biased AI assistants offset the AI homogenization effect on portfolio diversity, with risk-seeking assistance offsetting 91% of it](biased-ai-offsets-portfolio-homogenization.md) — a narrower finding that bears on this claim

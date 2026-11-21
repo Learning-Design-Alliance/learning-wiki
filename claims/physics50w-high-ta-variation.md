@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: eric-matthew-hickok-2015
+  - id: eric-matthew-hickok-2016
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
-    title: "Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
+    title: "Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
     author: Eric Matthew Hickok
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In seven Physics 50W observations, Not Interacting was 29.8% of time, followed by Small Groups, Whole Class, and Individual at 26.0%, 23.3%, and 20.9%, with large spreads across TAs. [→ Eric Matthew Hickok 2015](#eric-matthew-hickok-2015)
+`q2 i?` In seven Physics 50W observations, Not Interacting was 29.8% of time, followed by Small Groups, Whole Class, and Individual at 26.0%, 23.3%, and 20.9%, with large spreads across TAs. [→ Eric Matthew Hickok 2016](#eric-matthew-hickok-2016)
 
 ## Evidence
 
-### Eric Matthew Hickok 2015
+### Eric Matthew Hickok 2016
 
-Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
+Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
 
 `q2 · i?` · `associational · r1`
 
@@ -51,3 +51,5 @@ Observational analysis of seven Physics 50W workshop observations (Fig. 4.3). Th
 - [Instructor-student interactions vary greatly across instructors teaching the same interactive-engagement physics course](vast-instructor-interaction-variation-clasp.md) — a broader claim this one bears on
 - [Across four TA-taught courses, TAs spent about a third of observed time talking at students, under a fifth talking with or observing them, and nearly 45% not interacting](ta-default-interaction-breakdown-riot.md) — related
 - [Physics 50 problem-solving sessions ran similarly to regular lab sessions, with no Observing occurring, but only two observations of one TA prevent generalization](problem-solving-days-no-observing-limited.md) — related
+- [Recitation TAs were more interactive than lab TAs but still spent about a third of time not interacting, with roughly half of interaction time spent explaining content](recitation-tas-more-interactive-but-explaining-heavy.md) — related
+- [Recitation sections show much greater variation in TA interaction patterns than lab sections, confirming West et al.](recitation-variation-greater-than-lab-variation.md) — related

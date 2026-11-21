@@ -105,3 +105,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related
 - [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — related
 - [Focus-group participants report that VR-based pedagogical agents positively impacted their learning through engagement and deep understanding](vr-pas-focus-groups-positive-learning-experience.md) — related
+- [Qualitative student feedback attributed increased motivation, sustained attention, and easier comprehension to the immersive 3D presentation and interactive AI support](qualitative-feedback-motivation-immersive-3d-ai-support.md) — related

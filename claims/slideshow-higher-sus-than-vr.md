@@ -51,3 +51,4 @@ Exploratory SUS measure in the quantitative study; the "control group having a h
 - [Slideshow learning was slightly more effective than VR learning in enhancing physics knowledge in this study](slideshow-outperformed-vr-physics-knowledge.md) — related
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
 - [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related
+- [Informal programming learners rated the storytelling-centric system's overall user experience slightly positively on the UEQ-S](storytelling-system-ueq-s-slightly-positive.md) — related

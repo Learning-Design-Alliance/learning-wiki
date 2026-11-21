@@ -61,3 +61,4 @@ Quality evaluation of 442 natural language feedback instances using GPT-4.1 as a
 - [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
 - [Learners overwhelmingly rated LLM-generated feedback as helpful](llm-feedback-rated-helpful.md) — related
+- [GenAI-generated question-specific and overall test feedback is rated 98-99% positive, helpful, and accurate by both model and expert evaluators](genai-feedback-high-quality-ratings.md) — related

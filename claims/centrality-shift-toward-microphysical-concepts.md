@@ -66,3 +66,4 @@ Same node-level comparison of Adept and Advanced graphs. The general water-cycle
 ## Related Claims
 - [Conceptual understanding of cloud physics develops from a water-cycle focus toward cloud microphysical processes as experience increases](water-cycle-to-microphysics-shift.md) — a broader claim this one bears on
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related
+- [Clustering favours merging Proficient and Expert learners into one Advanced level while Novice and Adept remain unseparated](clustering-favors-advanced-merge-novice-adept-unseparated.md) — related

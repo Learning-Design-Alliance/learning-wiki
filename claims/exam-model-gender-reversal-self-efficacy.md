@@ -88,3 +88,4 @@ Model comparison in the exam analysis: 'the inclusion of self-efﬁcacy explaine
 - [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](test-anxiety-not-significant-predictor.md) — possibly the same claim (merge candidate)
 - [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related
 - [Models adding midterm exam and affective attribute give the lowest AIC fit at both two-level (model 5) and three-level (model 6) specifications](best-fit-models-midterm-affective-aic.md) — related
+- [Including test anxiety or self-efficacy in regression models eliminates the significant gender difference in Physics 1 high-stakes scores](motivational-constructs-account-for-gender-exam-gap.md) — reports the opposite

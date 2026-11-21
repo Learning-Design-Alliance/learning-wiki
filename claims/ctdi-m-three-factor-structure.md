@@ -48,3 +48,4 @@ Exploratory factor analysis (principal component analysis with varimax rotation)
 - [Exploratory factor analysis with 350 ICU nurses identified a three-factor structure (AECR, PCER, ROPR) explaining 57.34% of variance, with all 19 items loading strongly (0.633–0.853) and no substantial cross-loadings.](crcdc-efa-three-factor-structure.md) — related
 - [CTDI-M subscales correlate with CTDI-CV subscales, but the two instruments' total scores show no significant correlation](ctdi-m-ctdi-cv-criterion-validity-mixed.md) — related
 - [Medical students score higher than nursing students on open-mindedness and systematicity/analyticity](medical-higher-than-nursing-open-mindedness-systematicity.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

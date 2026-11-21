@@ -51,3 +51,4 @@ Pre/post survey of 501 students (35% male, 65% female) in physics 1 for bioscien
 - [The gender gap in self-efficacy and interest remains stable from physics 1 to physics 2 in algebra-based courses, unlike calculus-based courses where it grows](gender-gap-stable-physics1-physics2-algebra-based.md) — related
 - [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related
 - [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related
+- [Test anxiety increased over the duration of both physics courses for men and women, with women higher in anxiety throughout; self-efficacy declined over Physics 1, and over Physics 2 for women only](test-anxiety-increases-over-course-duration.md) — related

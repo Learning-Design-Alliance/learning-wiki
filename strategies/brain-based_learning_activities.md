@@ -67,6 +67,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 - [Deliver explicit nursery rhyme instruction through multisensory visual, auditory, tactile-kinesthetic and hands-on activities in short weekly sessions](multisensory-nursery-rhyme-instruction-sessions.md)
 - [Use colourful, attractive, and purposeful multisensory materials at the pre-reading phase to draw students' attention to the reading text.](multisensory-materials-pre-reading-phase.md)
 - [Multi-channel activation of students before and during class](oamas-multi-channel-activation-strategy.md)
+- [Pre-distribute all lecture materials with a Book of Diagrams of tactile diagrams before class sessions](pre-distributed-lecture-materials-tactile-diagrams.md)
 
 ## Examples
 - **[Gallery Walk](gallery-walk.md)** — learners post work on walls, circulate in small groups, and leave written feedback; combines movement, visual encoding, and peer critique

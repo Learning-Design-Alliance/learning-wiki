@@ -55,3 +55,4 @@ The review reports, citing Stadler et al., an experiment comparing LLM-supported
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — a broader claim this one bears on
 - [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
 - [Contradictory findings on ChatGPT for scientific writing: lower writing quality but higher knowledge scores](contradictory-chatgpt-scientific-writing-findings.md) — related
+- [Combining LLM use with self-made note-taking: LLMs aid initial understanding and reduce cognitive load, while making one's own notes requires more effort but deepens engagement and memory](llm-plus-note-taking-effort-benefits.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 445 claims (199 for, 189 mixed, 57 against) · 306 studies (123 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 306 report an effect size · 428 claims rest on one study
+> **Evidence** · 445 claims (199 for, 189 mixed, 57 against) · 307 studies (124 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 307 report an effect size · 428 claims rest on one study
 
 ## Description and scope
 

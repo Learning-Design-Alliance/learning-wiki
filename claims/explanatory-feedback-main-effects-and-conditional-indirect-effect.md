@@ -71,3 +71,4 @@ Conditional indirect effects from the PROCESS analysis (5000 bootstrap resamples
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
 - [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — a narrower finding that bears on this claim
+- [LLM-generated feedback was rated as fairer, more useful and more acceptable when perceived as coming from a human source rather than from an LLM](llm-feedback-rated-higher-when-ascribed-human.md) — related

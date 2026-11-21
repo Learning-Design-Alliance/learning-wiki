@@ -48,3 +48,4 @@ Descriptive usage report from the Diskussion section: since going online on 01.1
 ## Related Claims
 - [RehAmpTT was fully developed and implemented within 10 months, comprising 78 web pages and about 85 pages of text](rehamptt-developed-10-months-78-pages.md) — related
 - [No evaluation of use, comprehensibility or effectiveness of RehAmpTT has been conducted in the main target group](rehamptt-no-evaluation-conducted.md) — related
+- [The nox-minima website generated over 800 dome images accessed over 1,500 times from 35 countries since July 2024](nox-minima-website-usage.md) — related

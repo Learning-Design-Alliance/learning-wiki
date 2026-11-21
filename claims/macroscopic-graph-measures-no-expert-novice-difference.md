@@ -109,3 +109,4 @@ KS test of average path length distributions, a measure the authors chose to set
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Expert and novice teachers do not differ significantly in the number of alternative teaching strategies they mention when reflecting on their own MET videos](expert-novice-no-difference-alternatives-count.md) — related
 - [Average degree, number of cycles, and average cycle lengths show no significant differences across cloud physics experience groups](no-group-differences-graph-level-metrics.md) — a broader claim this one bears on
+- [Node-level metrics are the most significant graph-derived metrics distinguishing learner experience groups](node-level-metrics-distinguish-experience-clusters.md) — related

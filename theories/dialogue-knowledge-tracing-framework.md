@@ -57,7 +57,8 @@ DialogueKT is the task the article proposes, which "analyzes student discourse w
 - Mastery Learning
 
 ## Examples
--
+
+- [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](../strategies/process-tracing-ai-dialogue-assessment-strategy.md)
 
 ## Key Sources
 - Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490

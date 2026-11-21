@@ -87,3 +87,4 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 - [Theorists use analogies to generate new project ideas and to overcome conceptual challenges](theorists-analogies-generate-ideas-overcome-challenges.md) — related
 - [Eight students' common purpose for prompting was overcoming writer's block or generating new ideas when stuck](overcoming-writers-block-theme.md) — related
 - [Students used GenAI brainstorming output as a creativity baseline that raised the bar for what counts as a new idea](genai-brainstorm-baseline-raise-bar.md) — related
+- [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — a narrower finding that bears on this claim

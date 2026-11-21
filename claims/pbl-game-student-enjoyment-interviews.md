@@ -83,3 +83,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related
 - [The GenAI evaluation laboratory fostered high engagement, initiative, and voluntary continuation beyond classroom requirements among non-science majors](genai-astronomy-lab-high-engagement-voluntary-continuation.md) — related
 - [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related
+- [Students completing the KSP Mün-landing project express satisfaction, frustration at physics restrictions, and demonstrate deep understanding of their orbital maneuvers in reflections](ksp-project-student-reflections.md) — related

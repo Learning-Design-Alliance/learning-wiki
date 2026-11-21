@@ -48,3 +48,4 @@ Result of the model-selection pipeline across the six analyses (RQ1/RQ2/RQ3 for 
 ## Related Claims
 - A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis — related
 - [Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist](bmm-selects-ten-to-twelve-clusters.md) — related
+- [Spectral clustering outperforms the other models in the low-variance threshold region](spectral-clustering-outperforms-low-variance-region.md) — related

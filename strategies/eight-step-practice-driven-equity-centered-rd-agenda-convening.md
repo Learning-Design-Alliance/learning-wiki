@@ -43,6 +43,7 @@ The article describes a full-day convening process with eight steps: inviting a 
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D](role-investments-for-inclusive-rd-participation.md)
 - [Synthesize cross-disciplinary evidence on education to guide policy-making beyond the 2030 education agenda](cross-disciplinary-evidence-synthesis-for-education-policy.md)
+- [Human-Centered Design co-design process for developing a departmental-culture survey](hcd-co-design-survey-development-strategy.md)
 
 ## Examples
 -

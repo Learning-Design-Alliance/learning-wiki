@@ -77,3 +77,4 @@ In its What Does the Research Say? section, the primer attributes this synthesis
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — a narrower finding that bears on this claim
 - [The hypothesized mediated moderation was not supported because motivation did not increase](mediated-moderation-not-supported.md) — related
+- [Sense of belonging significantly predicts intent to persist among physics and astronomy graduate students](sb-significantly-predicts-ip-physics-grad.md) — a narrower finding that bears on this claim

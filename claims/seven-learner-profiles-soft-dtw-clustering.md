@@ -55,3 +55,4 @@ Soft-DTW clustering restricted to successful learners (N = 476; 85% learner rate
 - [In visuomotor rotation learning, constrained outer-target geometry slows learning at trained targets but yields more consistent generalization to a probe target than unconstrained inner-target geometry](target-geometry-dissociation-learning-generalization-exp1.md) — related
 - [Three post-graduation profiles differ across outcomes; academically successful 'Bright' report lowest income and life satisfaction](three-post-graduation-profiles-bright-clever-committed.md) — a narrower finding that bears on this claim
 - [Unsupervised clustering on realistic speech converges on short context-sensitive acoustic clusters rather than phonemes](clustering-speech-converges-acoustic-clusters-not-phonemes.md) — related
+- [Time series clustering of network metrics identifies distinct developmental trajectories of visual search](time-series-clustering-distinct-gaze-trajectories.md) — related

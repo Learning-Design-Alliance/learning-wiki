@@ -52,3 +52,4 @@ Anonymous 5-point Likert survey (n = 92) of workshop attendees: "97.8% of studen
 - [Thematic analysis of open-ended feedback found students valued interactive 3D models, concise case presentation, and clinical context, while requesting labeled structures, step-by-step platform guidance, videos, technical fixes, and embedded quizzes](xr-cbl-feedback-thematic-analysis.md) — related
 - [Attendees reported the workshops reduced their stress from studying anatomy and increased their motivation to study anatomy](stress-reduction-motivation-near-peer-anatomy.md) — related
 - [Quiz improvement is interpreted by the authors as retention of workshop content, since students received no performance feedback between quizzes](quiz-gain-interpreted-as-content-retention.md) — related
+- [Integrating assessments into weekly workshops elevated their perceived value and sustained engagement throughout the semester](workshop-embedded-assessment-sustains-engagement.md) — related

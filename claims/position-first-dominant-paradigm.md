@@ -46,3 +46,4 @@ Syllabus coding of 112 modern physics courses and 99 quantum mechanics courses u
 
 ## Related Claims
 - [Griffiths' textbook is used by 55.6% of quantum mechanics courses, and Townsend is the only textbook used with both paradigms](quantum-textbook-usage-griffiths-townsend.md) — related
+- [Griffiths is the most used QM textbook, and roughly two-thirds of surveyed courses take a wavefunctions-first approach while roughly a third use a spins-first approach](qm-wavefunctions-first-two-thirds-griffiths.md) — related

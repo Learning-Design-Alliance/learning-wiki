@@ -39,6 +39,7 @@ Based on the finding that both humans and the LLM were least reliable on multi-c
 ## Related Strategies
 
 - [Define correctness explicitly in LLM-as-a-judge prompts, offering behavior-focused and construction-focused rubric variants](llm-judge-correctness-definition-prompts.md)
+- [Use appropriately prompted LLMs to assess students' written explanations at scale in large-enrollment courses](llm-written-explanation-assessment-at-scale-strategy.md)
 
 ## Examples
 -

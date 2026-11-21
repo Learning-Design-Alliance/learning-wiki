@@ -55,3 +55,4 @@ Authors' qualitative observation from analyzing model responses in this evaluati
 - [GPT-4 could not reproduce novice reasoning when prompted, and failed on physics questions not phrased in canonical physics tone and nomenclature](gpt4-limitations-novice-emulation-informal-prompts.md) — related
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
 - [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — related
+- [Pre-service physics teachers found chatbot explanations useful entry points but frequently identified conceptual inaccuracies and flawed analogies](chatbot-explanations-entry-points-with-inaccuracies.md) — related

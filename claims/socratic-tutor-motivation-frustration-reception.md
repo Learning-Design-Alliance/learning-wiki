@@ -53,3 +53,4 @@ Two sequential demonstration settings: an in-depth activity with pre-service tea
 - [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — a broader claim this one bears on
 - [Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor](contingent-tutor-frustration-between-baselines.md) — related
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
+- [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related

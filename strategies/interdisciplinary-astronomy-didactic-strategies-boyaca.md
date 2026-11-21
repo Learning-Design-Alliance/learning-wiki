@@ -54,4 +54,4 @@ The article's concluding recommendation is to strengthen scientific concepts thr
 -
 
 ## Key Sources
-- Valderrama, D. A., Guzmán Rodríguez, J. C., Umbarila Benavides, J. D., Camino, N. E., & González Pardo, L. M. (2024). Conocimientos sobre astronomía en estudiantes de educación secundaria en Colombia: una evaluación desde la fundación AstrodidaXis. Revista Internacional de Pedagogía e Innovación Educativa, 4(2). https://portal.issn.org/resource/ISSN/2745-0341
+- Valderrama, D. A., Guzmán Rodríguez, J. C., Umbarila Benavides, J. D., Camino, N. E., & González Pardo, L. M. (2024). Conocimientos sobre astronomía en estudiantes de educación secundaria en Colombia: una evaluación desde la fundación AstrodidaXis. Revista Internacional de Pedagogía e Innovación Educativa, 4(2). https://portal.issn.org/resource/ISSN/2745-0341. [doi:10.51660/ripie42173](https://doi.org/10.51660/ripie42173)

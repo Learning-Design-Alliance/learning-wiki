@@ -49,3 +49,4 @@ Comparison of exercise times between the two video-based groups (MA and MV) duri
 - [Module-plus-animation video produces significantly higher self-evaluation score improvements than both traditional teaching and module-only video for six of twelve suturing techniques](ma-video-higher-self-eval-improvement-six-sutures.md) — related
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
 - [Module-plus-animation video outperformed traditional teaching on post-course self-evaluation improvement for all suturing methods except SIS, FIS, CMS, and PSS, while module-only video showed no advantage over traditional teaching](ma-beats-te-all-but-four-sutures-mv-does-not.md) — related
+- [Modules using only video showed lower post-test scores, suggesting passive formats were less effective for learning new concepts](passive-video-modules-lower-posttest.md) — related

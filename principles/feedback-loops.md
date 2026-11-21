@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (26 for, 15 mixed, 2 against) · 59 studies (18 causal, 12 review, 11 quant-synthesis, 5 associational, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 10 of 59 report an effect size · 34 claims rest on one study
+> **Evidence** · 44 claims (27 for, 15 mixed, 2 against) · 60 studies (19 causal, 12 review, 11 quant-synthesis, 5 associational, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 10 of 60 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims this page has read and does not use in the model above, with how far each
 - [Only 39% of learners used blueprinted feedback to direct further learning, and usefulness ratings declined through the course](../claims/low-use-declining-usefulness-blueprinted-feedback.md) [+W] — attached 2026-11-10 from Burr Steven A et al. (2013), which proposed "Integrate education on giving and receiving feedback into the curriculum so learners use individualised feedback effectively".
 - [Quality of individual contributions in PBL tutorial groups rose from pre-test to post-test only for students with a below-average initial score after midterm peer process feedback combined with goal setting, in one pre-post study with no comparison group](../claims/peer-process-feedback-improves-low-pretest-contributors.md) [~M] — attached 2026-11-10 from Kamp Rachelle J. A. et al. (2012), which proposed "Combine midterm peer process feedback with feed up, personalized improvement tips, and actively stimulated goal setting and reflection to strengthen its impact"; tests this page's relationship.
 - [Students' ability to elicit and make use of feedback varied across groups, with the LL student and HL group less able than the HH group](../claims/feedback-use-expertise-varies-by-student-group.md) [+W] — attached 2026-11-19 from Feedback and Engagement on an Introductory Programming Module, which proposed "Blend human and automated feedback in programming modules and differentiate it by student type".
+- [Coded feedback quality was the only significant predictor of feedback uptake, while perceived source, recognition accuracy and perceptions were unrelated to uptake](../claims/feedback-quality-only-predictor-of-uptake.md) [+W] — attached 2026-11-21 from Jacobsen et al. (2026), which proposed "Design and implement AI-generated feedback guided by feedback quality, since quality drove uptake while perceived source did not".
 
 ## Objective and learner-valued goal
 

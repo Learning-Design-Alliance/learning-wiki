@@ -63,3 +63,5 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 - [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](under-10-percent-arab-he-formal-ai-training.md) — related
 - [More than 90% of students report knowing about or having used an AI chatbot, a substantial increase in exposure compared to the prior year](ai-chatbot-exposure-over-90-percent-second-year.md) — related
 - [Most editors hold that authorship experience is key to high-quality reviews while formal training is not, though evidence does not support this view](authorship-not-training-view-of-review-quality.md) — related
+- [Ethical uncertainty around academic integrity and misconduct accusations was a key barrier to full student engagement with the AI learning assistant](ai-ethical-uncertainty-engagement-barrier.md) — possibly the same claim (merge candidate)
+- [Distrust in AI was negatively correlated with system usage, while comfort and perceived homework helpfulness were positively correlated with engagement](distrust-comfort-correlate-ai-usage.md) — related

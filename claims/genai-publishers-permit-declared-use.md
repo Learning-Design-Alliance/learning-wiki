@@ -70,3 +70,4 @@ In its summary the article reports that "recent studies have highlighted signifi
 - [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](ai-detector-skepticism-convergence.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related
 - [AI detection tools have low precision and are circumvented by adversarial techniques](ai-detection-tools-low-precision-adversarial-circumvention.md) — related
+- [Students viewed AI as an ethical academic aid and favored flexible rather than restrictive course policies, with none supporting an outright ban](student-ai-policy-preferences-flexibility.md) — related

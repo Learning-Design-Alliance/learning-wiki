@@ -68,6 +68,7 @@ Mindfulness practice functions as attention training: repeated practice in notic
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
 - [Strategic interventions focused on attention to consistent context and self-monitoring of performance to offset age-related VSTM decline](context-and-self-monitoring-strategies-for-aging-vstm.md)
+- [Teach students a set of attentiveness strategies, including digital detox, to increase classroom attentiveness](attentiveness-strategies-digital-detox-strategy.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed SEL curriculum embedding daily "Core Practice" breathing sessions across K–8 classrooms.

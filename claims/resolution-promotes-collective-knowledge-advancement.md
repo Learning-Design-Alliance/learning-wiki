@@ -52,3 +52,4 @@ The article's summary finding, stated by the authors as their overall conclusion
 - [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
 - [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](mixed-soft-episodes-longer-more-perspectives.md) — related
 - [Analysis of one PD episode identifies four types of comfort-building moves that mitigate socio-emotional risk](four-comfort-building-move-types.md) — related
+- [Social EERs helped a newly formed group form and maintain collaboration during data-collection waiting periods](social-eers-forming-new-collaborative-group.md) — related

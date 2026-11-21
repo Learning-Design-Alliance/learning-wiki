@@ -71,3 +71,4 @@ ALM models recomputed using midterm-period network data. The article reports "AL
 - [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — a broader claim this one bears on
 - [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related
+- [The Collaborative Learning Index showed no significant correlation with final grades](cli-no-significant-correlation-final-grades.md) — related

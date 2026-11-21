@@ -54,3 +54,4 @@ Preliminary analyses of the longitudinal sample (59.7% women) examined gender di
 - [Agentic goal incongruity negatively predicts Indigenous students' persistence intentions indirectly through reduced sense of belonging](agentic-incongruity-belonging-mediation.md) — related
 - [Perceived communal goal affordances in STEM roles positively predict later persistence intentions among Indigenous STEM students, controlling for baseline](communal-affordances-direct-effect-indigenous-persistence.md) — related
 - [Communal goal incongruity shows a significant negative indirect effect on persistence intentions through belonging, though weaker than expected](communal-incongruity-indirect-effect.md) — related
+- [Gender moderates the belonging–persistence relationship: women report lower intent to persist at low belonging but exceed men when belonging is strong](gender-moderates-sb-ip.md) — related

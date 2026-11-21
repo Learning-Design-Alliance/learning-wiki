@@ -50,3 +50,4 @@ Optimization result under the mean-recall approximation (Fig. 11). The convexity
 - [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.](optimal-leitner-schedule-expands-intervals-between-reviews.md) — related
 - [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](leitner-queue-network-phase-transition-in-learning-rate.md) — related
 - [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](optimal-leitner-deck-allocation-depends-on-item-difficulty.md) — related
+- [Additional AI-assisted learning budget yields diminishing returns in final mastery](diminishing-returns-ai-budget.md) — related

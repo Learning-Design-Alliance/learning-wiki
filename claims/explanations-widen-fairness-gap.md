@@ -50,3 +50,4 @@ Follow-up simple-effect analyses after the significant two-way interaction on pe
 - [Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance](explanatory-feedback-moderates-only-fairness-path.md) — a broader claim this one bears on
 - [Perceived fairness partially mediates the effect of decision-making agent on decision acceptance, accounting for 67.52% of the total effect](perceived-fairness-mediates-agent-acceptance.md) — related
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
+- [LLM-generated feedback was rated as fairer, more useful and more acceptable when perceived as coming from a human source rather than from an LLM](llm-feedback-rated-higher-when-ascribed-human.md) — related

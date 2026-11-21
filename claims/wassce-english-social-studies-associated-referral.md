@@ -52,3 +52,4 @@ Chi-square tests of independence between WASSCE core subject grades and academic
 ## Related Claims
 - [No statistically significant associations were observed between last-semester GPA and WASSCE core subject grades](wassce-grades-not-associated-semester-gpa.md) — related
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — reports the opposite
+- [Chi-square and Cramér's V analyses indicate notetaking-section scores concentrated in higher grade bins (V = 0.367) while no-notetaking scores were near uniform (V = 0.180)](cramers-v-notetaking-score-distribution.md) — related

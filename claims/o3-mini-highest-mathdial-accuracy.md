@@ -51,3 +51,4 @@ Model-selection evaluation testing problem-solving accuracy of various LLMs with
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
 - [Neuro-symbolic feedback frameworks improved LLM translation accuracy only when the model received specific feedback on how to fix its responses; SymPy-based feedback barely improved performance](llm-modulo-specific-feedback-improves-equation-translation.md) — related
+- [The reasoning model o3-mini/low wins most often among judge models but does not significantly outperform the non-reasoning GPT-4o models](reasoning-model-no-significant-judge-advantage.md) — related

@@ -56,3 +56,4 @@ Multivariate analysis of variance (Table 3) on the two dependent measures across
 - [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — related
 - [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
 - [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related
+- [A significant multivariate group effect emerged on post-test cognitive and affective variables after groups were confirmed equivalent at pre-test](manova-multivariate-group-effect-post-test-support-conditions.md) — related

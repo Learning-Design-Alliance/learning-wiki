@@ -96,3 +96,4 @@ In the same ablation study, removing the Cognitive Clarity module lowered the Lo
 - [Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science](expert-evaluation-pivot-outperforms-baseline.md) — related
 - [Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required](structure-and-layout-required-for-ai-grading.md) — related
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
+- [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related

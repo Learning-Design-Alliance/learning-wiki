@@ -57,3 +57,4 @@ Re-estimated main models testing whether pandemic effects vary by socioeconomic 
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
+- [Socio-economic status (ESCS) is the most influential predictor of math performance in virtually all countries studied](escs-top-predictor-pisa-math-xai.md) — related

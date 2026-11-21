@@ -74,3 +74,4 @@ Within-group dependent t test in the traditionally taught control group (n=23): 
 - [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related
 - [Both conventional tutorials and the jigsaw peer learning module significantly improved first-year medical students' pre-to-post test scores](plm-and-ct-both-improve-pre-post-scores.md) — related
 - [In a controlled study, introductory students taught with tutorials performed significantly better on post-tests than traditionally taught students, who showed no significant improvement from pre-test to post-test](tutorials-improve-conductor-insulator-posttest-performance.md) — reports the opposite
+- [Qualitative trends point to cognitive and metacognitive gains supported by peer teaching under the Jigsaw method](jigsaw-qualitative-metacognitive-gains.md) — related

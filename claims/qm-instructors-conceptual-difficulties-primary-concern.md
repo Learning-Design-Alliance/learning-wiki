@@ -75,3 +75,5 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
 - [First-year students' conceptual grasp of linear-algebra-related quantum concepts appeared on average stronger than that of senior-level students, per anecdotal instructor observation](pictorial-course-conceptual-grasp-stronger-than-senior-course.md) — related
 - [Single-photon experiments are used mainly in beyond-first-year lab courses and upper-level quantum mechanics courses](single-photon-experiments-course-types-survey.md) — related
+- [Traditional lecture is the plurality teaching method in upper-level undergraduate QM courses, but many instructors use interactive lecture or other non-traditional methods](qm-upper-level-traditional-lecture-plurality.md) — related
+- [Teachers' concerns about teaching quantum center on understanding quantum fundamentals and devising effective methods for young learners](teacher-concerns-quantum-content-and-pedagogy.md) — related

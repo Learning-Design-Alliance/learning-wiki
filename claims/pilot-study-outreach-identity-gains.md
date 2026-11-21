@@ -49,3 +49,4 @@ Mixed-methods pilot study at a single institution (117 survey responses, 35 inte
 - [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — related
 - [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related
 - [Undergraduate participation in informal physics outreach is positively associated with growth mindset and sense of belonging in a national survey](outreach-participation-growth-mindset-belonging.md) — related
+- [Facilitating informal physics education benefits student volunteers' physics identity, sense of belonging, and communication, teamwork, networking, and design skills](ipe-facilitator-identity-and-skills-benefits.md) — a broader claim this one bears on

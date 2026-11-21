@@ -68,3 +68,4 @@ The same survey analysis finds that outside the three advanced topics, "the perc
 - [Deutsch's algorithm and quantum error correcting codes were statistically more likely to be taught in physics-listed than non-physics introductory QISE courses](physics-courses-deutsch-algorithm-error-correction.md) — related
 - [Engineering quantum and QISE content is more prevalent at the graduate level, with undergraduate QISE courses a minority (27%)](engineering-qise-courses-graduate-level.md) — related
 - [Quantum algorithms and computing are the most commonly covered QISE topics in engineering courses, while density matrices and measurement are rare](qise-topic-frequency-engineering-courses.md) — related
+- [Rubric-based collaborative evaluation increased grade dispersion and Shannon entropy across three cohorts](rubric-collab-eval-increased-grade-entropy.md) — related

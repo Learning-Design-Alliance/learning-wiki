@@ -47,3 +47,4 @@ Instructor observational note on parcial resolutions in the first-year course, r
 
 ## Related Claims
 - [In one first-year physics teacher-training course, students positively valued the Algoritmos-Rayuela strategy for ordering information, orienting the solution steps and making their work comprehensible to a third party.](algoritmos-rayuela-positively-valued-testimonies.md) — related
+- [Instructor and independent parties reported better-than-usual conceptual understanding and decision-making behaviors in the intervention cohort](instructor-reported-deeper-conceptual-understanding.md) — related

@@ -48,3 +48,6 @@ Design argument from the teleportation section: photon B carried to destination 
 - [Bi-stable drawings provide a point-by-point correspondence for core quantum concepts including superposition, collapse, measurement and orthogonality](bi-stable-correspondence-quantum-concepts.md) — related
 - [The diagrammatically matched game design allows jargon-free teaching and implicit learning of quantum teleportation](quantum-port-jargon-free-implicit-learning.md) — related
 - [A pictorial 'images' method allows teleportation to be explained to laypeople using only the simplest mathematics](pictorial-images-method-explains-teleportation-laypeople.md) — related
+- [Educators recommend emphasizing that entanglement cannot send signals faster than light and that teleportation moves a quantum state, not material](emphasize-no-ftl-and-quantum-state-teleportation.md) — related
+- [College QIST educators identify persistent misinformation about entanglement, teleportation, and quantum computers among students and the public](qist-educators-identify-persistent-misinformation.md) — related
+- [Over-simplification of QIST concepts can lead early learners to incorrect mental models, as teleportation demonstrations may suggest material transport](qist-oversimplification-incorrect-mental-models.md) — related

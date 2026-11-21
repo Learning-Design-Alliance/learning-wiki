@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 123 claims (54 for, 65 mixed, 4 against) · 97 studies (63 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 24 of 97 report an effect size · 113 claims rest on one study
+> **Evidence** · 124 claims (55 for, 65 mixed, 4 against) · 98 studies (64 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 24 of 98 report an effect size · 114 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,7 @@ Claims linked to this page later go here until they are read against the model.
 - [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](../claims/d-illustrate-most-consistent-tlx-gains.md) [+W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown"; tests this page's relationship.
 - [D-Illustrate is rated best among the four design ideas for supporting multimedia learning cognitive demands](../claims/d-illustrate-best-lcd-ratings.md) [+W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown".
 - [D-Slowdown produced no significant changes in any TLX dimension, despite participants elsewhere calling for slower visuals](../claims/d-slowdown-null-tlx-effect.md) [~W] — attached 2026-11-20 from Si Chen et al. (2025), which proposed "Four motion-driven design ideas for DHH video learning: D-Illustrate, D-Align, D-Declutter, D-Slowdown"; tests this page's relationship.
+- [Pedagogical experts rated all Learn Your Way components highly (overall experience above 0.90), with Visual Illustration lowest and narrated slides more engaging than slides alone](../claims/expert-pedagogy-ratings-components.md) [+W] — attached 2026-11-21 from LearnLM Team (2025), which proposed "Immersive Text: interleaving a coherent full text with timelines, mnemonics, and personalized visual illustrations".
 
 ## Illustrative design instance and observation record
 

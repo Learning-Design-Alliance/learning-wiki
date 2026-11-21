@@ -73,3 +73,4 @@ Qualitative judgement of GPT-3.5's explanations: ten were exactly correct, five 
 - [Requiring explanations before answers increases the randomness of LLM incorrect answers and the confidence of correct ones](explanations-randomize-incorrect-boost-confidence.md) — related
 - [Humans and GPT-3.5 show guessing preferences among options while GPT-4 shows no discernible preference](guessing-preference-humans-gpt35-gpt4-no-bias.md) — related
 - [Expert annotation found nearly 20% of AI interactions contained a definitively incorrect statement, yet 86% of students accepted the AI explanation](ai-peer-interaction-quality-annotations.md) — related
+- [Five independent CLASS runs by GPT-5 Thinking yield 100% favorable responses, an entirely expert-like simulated stance](gpt5-class-100-percent-favorable.md) — related

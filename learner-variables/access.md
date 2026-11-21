@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (103 show a difference, 28 mixed, 11 no difference) · 112 studies (41 associational, 19 causal, 16 review, 14 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 112 report an effect size · 137 claims rest on one study
+> **Evidence** · 145 claims (106 show a difference, 28 mixed, 11 no difference) · 113 studies (41 associational, 19 causal, 16 review, 15 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 113 report an effect size · 140 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -186,6 +186,9 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Traditional astronomy research, education and outreach relies heavily on visual presentation, which is a barrier to participation by blind and visually impaired persons](../claims/visual-reliance-barrier-bvi-astronomy.md) [+W] — learners who differ on it differ in outcomes
 - [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](../claims/giant-arduino-replica-inclusive-handling.md) [+W] — measured as an outcome of the instruction studied
 - [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](../claims/infrastructure-deficiencies-hinder-digital-integration.md) [+M] — learners who differ on it differ in outcomes
+- [An accessibility audit found all endorsed AP Computer Science Principles curricula are not fully accessible, per the review citing Stefik et al.](../claims/ap-csp-curricula-not-fully-accessible-audit.md) [+M] — measured as an outcome of the instruction studied
+- [Block-based programming environments rely on visual metaphors and are not fully accessible to children with visual impairments, per the review citing Milne and Ladner](../claims/block-environments-visual-metaphors-inaccessible-vi.md) [+M] — measured as an outcome of the instruction studied
+- [University library accessibility provision for students with visual impairments is low, with 22.07% offering assistive technology and 0.54% tactile STEM pathways](../claims/india-university-libraries-assistive-tech-22-percent.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -54,6 +54,7 @@ The authors' forward-looking recommendation for university educators: because wo
 - [Recruit female instructors and explicitly request female nominations to improve gender balance in outreach](female-instructors-role-models-outreach-gender-balance.md)
 - [Target perceived recognition, not received recognition, when designing interventions to close gender gaps in perceived peer recognition](target-perceived-recognition-interventions.md)
 - [Gather undergraduate women's own suggestions, separated into personal advice for peers and suggestions for physics instructors](women-suggestions-peers-and-instructors-strategy.md)
+- [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
 
 ## Examples
 -

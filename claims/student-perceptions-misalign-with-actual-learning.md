@@ -50,3 +50,4 @@ Authors' interpretation (type e) in the Discussion, contrasting the strong TT pr
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — related
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [Students prefer traditional teaching over Jigsaw and believe it will improve their grades more](students-prefer-traditional-teaching-over-jigsaw.md) — a narrower finding that bears on this claim
+- [Qualitative trends point to cognitive and metacognitive gains supported by peer teaching under the Jigsaw method](jigsaw-qualitative-metacognitive-gains.md) — related

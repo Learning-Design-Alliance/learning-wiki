@@ -157,6 +157,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Assess game-based learning outcomes using pre/post knowledge tests and satisfaction surveys](../strategies/pre-post-tests-and-satisfaction-surveys-for-game-based-learning.md)
 - [Use open-ended self-assessment with graded recall to drive content prioritization](../strategies/open-ended-self-assessment-drives-prioritization.md)
 - [Use automated assessment across MCQs, short free-text answers, and essay marking to increase feedback during learning](../strategies/automated-assessment-three-approaches-strategy.md)
+- [Use appropriately prompted LLMs to assess students' written explanations at scale in large-enrollment courses](../strategies/llm-written-explanation-assessment-at-scale-strategy.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

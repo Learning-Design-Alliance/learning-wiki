@@ -49,3 +49,4 @@ Phase 1 content-validity evidence: nine expert SBME instructors (physicians, nur
 - [Single-rater G-OSAD ratings are less reliable than averaged ratings, indicating two or three raters are needed for highly reliable debriefing-quality measurement](gosad-single-rater-reliability-lower-than-averaged.md) — related
 - [Average ratings of three trained raters using the G-OSAD show excellent interrater reliability for total debriefing quality scores (ICC = 0.848)](gosad-three-rater-average-interrater-reliability-excellent.md) — related
 - [Confirmatory factor analysis supports the unidimensionality of the G-OSAD, indicating its ratings measure debriefing quality as a single construct](gosad-cfa-unidimensionality-debriefing-quality.md) — related
+- [Instructors rated the automatic analysis of report requirements (Report Objective Metrics) as acceptably reliable (mean 5.91 on a 7-point scale)](cograder-report-objective-metrics-reliability-rating.md) — related

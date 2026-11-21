@@ -58,3 +58,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
 - [VR-trained students showed a significantly smaller gain in self-efficacy for understanding the material than control students, despite better objective performance](vr-smaller-self-efficacy-understanding-gain.md) — reports the opposite
+- [A voice-based assistant combined with a VR tool (SelVReflect) using voice-prompt constraints helped participants better understand a personal challenge and themselves](selvreflect-voice-vr-fosters-reflection.md) — related

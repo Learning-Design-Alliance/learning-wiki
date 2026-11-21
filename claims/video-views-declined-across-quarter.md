@@ -71,3 +71,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Participation in YWYL attenuates sharply across the first five weeks, with homework participation falling from 15% to 2% and only 2% and 1% completing the first two labs](ywyl-participation-attenuation-labs.md) — related
 - [Weekly video views and scores diverged: a week of low video views preceded a fourfold surge in views with underperforming scores, then higher scores with less video attention](video-views-score-divergence-circuit-course.md) — related
 - [Before gamification, engagement with pre-lecture quizzes in the flipped statistics course was extremely low and declined across the semester](low-baseline-pre-lecture-quiz-engagement.md) — related
+- [Assignment completion declined over the semester, but post-test completers largely completed all assignments, so low participation does not explain the null result](assignment-completion-declined-but-completers-did-all.md) — related

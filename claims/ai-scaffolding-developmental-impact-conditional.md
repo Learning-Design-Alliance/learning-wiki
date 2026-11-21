@@ -56,3 +56,4 @@ Conceptual analysis of AI tutoring support (Section 4.1). The authors argue AI s
 - [Students envision dual feedback utilization: real-time feedback for immediate adjustment during collaboration and post hoc feedback for reflective, long-term skill development](dual-real-time-post-hoc-feedback-utilization.md) — related
 - [Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity](restrictive-policies-reduce-exposure-not-capacity.md) — related
 - [Students who engaged in LLM-guided reflection reported higher willingness to interact with the LLM tutor again (Study 1)](llm-reflection-willingness-interact-again.md) — a narrower finding that bears on this claim
+- [Scaffolded written reflections in physics courses help students reflect at higher levels](scaffolded-reflections-raise-reflection-levels.md) — a narrower finding that bears on this claim

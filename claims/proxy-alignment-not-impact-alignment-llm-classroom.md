@@ -51,3 +51,4 @@ Kendall's tau concordance analysis juxtaposing each LLM's alignment with expert 
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — reports the opposite
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — reports the opposite
 - [LLM-generated difficulty ratings show only moderate rank alignment with empirical student performance on basic arithmetic items](llm-difficulty-moderate-rank-alignment-arithmetic.md) — related
+- [Model-expert agreement on question diversity is very weak, with the model systematically overestimating diversity relative to experts](genai-question-diversity-weak-agreement.md) — related

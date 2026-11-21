@@ -50,3 +50,4 @@ Three-level hierarchical linear model (students within classes within course ser
 - [The zero gender gap in retake classes is not explained by women being more likely to take retakes: men and women retook exams at similar rates](retake-uptake-no-gender-difference.md) — related
 - [Offering optional retake exams eliminated the gender gap in course grades in introductory physics for biological science students](retake-exams-eliminate-gender-grade-gap.md) — related
 - [Controlling for incoming GPA does not significantly change the gender gap in either retake or non-retake classes](gpa-control-does-not-explain-gender-gap.md) — related
+- [Gender differences in high-stakes exam scores appear in Physics 1 but not Physics 2, with no gender differences in low-stakes homework in either course](gender-exam-gaps-physics1-not-physics2.md) — related

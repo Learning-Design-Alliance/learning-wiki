@@ -52,3 +52,5 @@ Cluster-analysis study comparing bottom-up clusters from three LLM embedding mod
 - [A small monolingual embedding model (AlephBERT) outperformed larger multilingual models on KP retrieval in both ARI and per-KP F1 analyses](monolingual-small-model-outperforms-multilingual-kp-retrieval.md) — a broader claim this one bears on
 - [HDBSCAN clustering of BERT embeddings yielded fifteen clusters capturing the content and complexity of students' mechanistic reasoning](hdbscan-clusters-capture-reasoning-content-and-complexity.md) — related
 - [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related
+- [Clustering fine-tuned BERT embeddings of award descriptions yields an accurate automatic award labeler, with Agglomerative Clustering using Ward linkage performing best (Rand Index 0.990)](finetuned-bert-clustering-award-autolabeler.md) — reports the opposite
+- [The 3-clusters analysis yields better clustering performance than the 4-clusters analysis](three-experience-levels-clustering-outperforms-four.md) — related

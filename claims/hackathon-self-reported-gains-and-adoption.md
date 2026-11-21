@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: megan-t-valentine-and-rae-m-robertson-anderson-2025
     resource: "https://doi.org/10.48550/arXiv.2505.01365"
@@ -48,7 +49,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · design `r2`–`r3` · `q1`–`q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three annual hackathons, end-of-hackathon survey respondents consistently reported increases in understanding, interest, skills, and confidence. [→ Megan T. Valentine and Rae M. Robertson-Anderson 2025](#megan-t-valentine-and-rae-m-robertson-anderson-2025)

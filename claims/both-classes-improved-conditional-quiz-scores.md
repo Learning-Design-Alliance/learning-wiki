@@ -51,3 +51,4 @@ Two-tailed paired samples t test comparing quiz I and quiz II means. Experimenta
 - [Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)](writing-score-trajectories-feedback-modes.md) — related
 - [Students taught the Probability Approach improved conditional-sentence quiz scores about 6 points more than controls](probability-approach-improves-conditional-quiz-scores.md) — related
 - [Experimental-group quiz performance improved continuously from 2008 to 2010 as the concept tests were refined](concept-test-refinement-yearly-improvement.md) — related
+- [Student performance improved significantly from first to second submission after AI feedback, with 15.18% of responses improving and only 0.31% declining](attempt-two-improvement-after-ai-feedback.md) — related

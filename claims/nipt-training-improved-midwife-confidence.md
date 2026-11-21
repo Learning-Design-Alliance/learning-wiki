@@ -68,3 +68,4 @@ Post-training questionnaire (Q2) completed by 374 attendees (95% response rate) 
 - [Confidence and knowledge differed by clinical work area before training, with fetal medicine midwives highest, but these differences were no longer statistically significant at follow-up](nipt-training-confidence-varied-by-work-area.md) — related
 - [NIPT training significantly improved midwives' self-perceived knowledge about NIPT at one-month follow-up](nipt-training-improved-perceived-knowledge.md) — related
 - [NIPT training significantly improved actual knowledge test scores, but knowledge remained weak in four areas: gestation-dependent cffDNA levels, turnaround time, placental origin of cffDNA, and false positive rate](nipt-training-knowledge-gaps-four-areas.md) — related
+- [Attending the CUWiP+ conference was followed by a rise in attendees feeling confident to apply for postgraduate study, from 32% to 53%](cuwip-confidence-postgraduate-rise.md) — related

@@ -119,3 +119,4 @@ One student's account in the ethics theme of the same 25-student interview study
 - [Students articulate context-dependent ethical decision-making about AI rather than a permissible/impermissible binary](ai-ethical-complexity-context-dependent.md) — related
 - [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related
 - [Students shift from viewing AI as a shortcut toward viewing it as a learning tool whose value depends on how it is used](ai-shortcut-to-learning-tool-shift.md) — related
+- [An AI assistant requiring users to state their own rationale first (ExtendAI) integrated better into decision-making than one giving direct recommendations (RecommendAI), though the extra effort was found burdensome](extendai-rationale-first-beats-recommendations.md) — related

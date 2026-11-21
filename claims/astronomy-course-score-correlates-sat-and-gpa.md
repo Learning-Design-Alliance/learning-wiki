@@ -76,3 +76,4 @@ Observational density-distribution analysis (Fig. 5) of overall GPA versus ASTR1
 - [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related
 - [College One showed a clear increase in AS-level Physics grades versus predicted grades, averaging +0.86 grade per student, as tentative evidence of improved attainment](outreach-tentative-as-grade-improvement.md) — related
 - [In-term exam averages correlate with final exam scores more strongly than incoming GPA does](in-term-final-correlation-stronger-than-gpa.md) — related
+- [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related

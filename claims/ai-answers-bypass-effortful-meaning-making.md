@@ -55,3 +55,4 @@ The article asserts, citing Zhai et al. (2024), that "students often adopt AI-ge
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related
 - [High school students used Google page rank as a first-order heuristic for relevance](google-page-rank-first-order-relevance-heuristic.md) — a narrower finding that bears on this claim
 - [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — a narrower finding that bears on this claim
+- [Without scaffolding, students risk becoming overly reliant on AI explanations in ways that bypass deeper physics engagement](overreliance-risk-without-scaffolding.md) — a narrower finding that bears on this claim

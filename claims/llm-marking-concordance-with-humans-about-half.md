@@ -71,3 +71,5 @@ Score distribution comparison across the 2209 graded instances in the AI marking
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
 - [AI-generated short-form physics essays marked by five independent markers averaged 71 ± 2%, in strong agreement with the module average of 71 ± 5%](ai-essays-first-class-physics-essay-marks.md) — related
 - [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — related
+- [AAG system scores align closely with human TA scores on open-ended statistics questions, with Pearson correlations of 0.75 and 0.82](aag-ta-score-correlation-open-ended.md) — related
+- [The LLM was less likely than the human grader to mark a student as completely correct](llm-less-likely-to-mark-completely-correct.md) — related

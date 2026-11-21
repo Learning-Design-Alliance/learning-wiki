@@ -71,3 +71,5 @@ Benchmark evaluation of four chatbots on 70 IVDA MCQs across 12 prompt variants 
 - [GPT-4o significantly outperformed GPT-3.5 on every grading measure under all prompt versions for Question 1, and outperformed it across all conditions for Questions 2 and 3](gpt4o-outperforms-gpt35-grading.md) — related
 - [LLMs can identify the intended EVP meaning of polysemous words in context, with accuracy decreasing as the number of candidate meanings increases](llm-evp-sense-disambiguation-accuracy.md) — related
 - [Smaller LLMs more often used undefined symbols, missed equations, and hallucinated equations; a 14B parameter model (Phi4) achieved only about 70% accuracy on the task](small-llms-undefined-symbols-phi4-70-percent.md) — related
+- [Text-only accuracy across 19 LLMs spans 0.20 to 0.88 with a grand mean of 0.67, stratified by model generation and reasoning budget](cross-model-text-only-accuracy-stratified.md) — related
+- [Degraded logical clarity causes the largest accuracy losses for gpt-4o, while moderate spelling and terminology noise is tolerated](linguistic-degradation-clarity-largest-loss.md) — related

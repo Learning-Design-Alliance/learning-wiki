@@ -87,3 +87,5 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related
 - [Peer assessments of non-technical skills show inter-rater agreement on four of five dimensions, but self- and peer-assessments do not agree](peer-interrater-reliability-no-self-peer-agreement.md) — related
 - [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related
+- [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
+- [GenAI-generated driving theory questions show strong model-expert agreement on accuracy and relevancy, with the model slightly outperforming the expert on weighted average](genai-question-accuracy-relevancy-strong-agreement.md) — related

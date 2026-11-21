@@ -55,3 +55,4 @@ Regression-based mediation model with bias-corrected bootstrapping (5000 repetit
 - [Indigenous STEM students endorse communal goals more strongly than agentic goals, but perceive similar levels of communal and agentic affordances in STEM](communal-endorsement-exceeds-agentic.md) — related
 - [Goal affordances, goal incongruity, and belonging show no association with global life satisfaction among Indigenous STEM students](life-satisfaction-null-goal-congruity.md) — related
 - [No significant gender differences in communal or agentic goal affordances, endorsements, or incongruity among Indigenous STEM students](no-gender-differences-goal-congruity-indigenous.md) — related
+- [Sense of belonging significantly predicts intent to persist among physics and astronomy graduate students](sb-significantly-predicts-ip-physics-grad.md) — related

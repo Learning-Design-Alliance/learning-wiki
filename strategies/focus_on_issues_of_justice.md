@@ -113,6 +113,7 @@ Justice-focused projects draw their motivational power from authenticity and per
 - [Use integrated-skills project work on environmental topics to raise awareness and language skills](integrated-skills-project-work-environmental-topics.md)
 - [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 - [Use authentic interdisciplinary learning projects with real social impact to develop students’ empathetic understanding before professional practice](authentic-interdisciplinary-social-impact-project-strategy.md)
+- [Add a service-learning element to a science course to connect learning to practical action for others](service-learning-action-element-strategy.md)
 
 ## Examples
 - **Mikva Challenge** (https://www.mikvachallenge.org) — Chicago-area students investigate community problems and run "action civics" campaigns addressing real policy issues with elected officials.

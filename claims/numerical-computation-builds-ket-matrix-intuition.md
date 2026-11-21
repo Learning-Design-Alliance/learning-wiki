@@ -71,3 +71,4 @@ The authors' interpretation drawn from one year of classroom use at WPI; no meas
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
 - [Composer used alongside mathematical expressions helped students reason about the imaginary part of wavefunctions](composer-and-math-support-imaginary-part-reasoning.md) — related
 - [The lesson uses a simplified qubit model with real coefficients interpretable as circle coordinates, deliberately avoiding complex-number formalism](simplified-real-coefficient-qubit-model.md) — related
+- [Numeric Huygens-Fresnel simulations help introductory students build intuition about coherent light in diffraction and interference experiments](huygens-fresnel-simulations-build-coherent-optics-intuition.md) — related

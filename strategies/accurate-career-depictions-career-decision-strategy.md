@@ -50,6 +50,7 @@ The article recommends that educators give students an accurate picture of the s
 - [Graduate programs should provide formal training modes for skills where self-teaching is inadequate, including a standard undergraduate statistics course and industry partnerships](formal-skills-training-recommendations-snowmass.md)
 - [Combine accurate AI labor-market information, employability-building activities, and growth-oriented career support for students facing AI employment threat](ai-threat-career-education-support-strategy.md)
 - [Use Career Development Events to develop transferable skills alongside career-specific preparation](cde-participation-develops-transferable-skills-strategy.md)
+- [Prioritize authentic engagement with experts and career exploration to develop informed career goals](authentic-expert-engagement-career-exploration-strategy.md)
 
 ## Examples
 -

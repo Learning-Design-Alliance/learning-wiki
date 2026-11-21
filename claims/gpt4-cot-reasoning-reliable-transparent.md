@@ -72,3 +72,4 @@ The chain-of-thought section states reliability was model-dependent: "Only the r
 - [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — related
 - [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — reports the opposite
 - [Tailored prompt engineering consistently outperforms base models and chain-of-thought prompting across four LLMs for educational emotion and behavior analysis](prompt-engineering-outperforms-baselines-llm-emotion-analysis.md) — related
+- [Storing intermediate outputs in table format increases the reliability of passing information between prompts in a chain](data-table-intermediate-storage-prompt-chain-reliability.md) — related

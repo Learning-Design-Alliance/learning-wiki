@@ -62,3 +62,4 @@ The report's narrative review of in-service learning describes networks and prof
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
 - [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
 - [Giving teachers opportunities to design and run PD workshops brought resource-sharing helpful for novice, experienced, and out-of-field teachers](teacher-co-design-workshops-bring-resource-sharing.md) — related
+- [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related

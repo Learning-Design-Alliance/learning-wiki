@@ -48,3 +48,4 @@ Graph-level metric boxplots computed for each participant and grouped by cloud p
 - [Disciplinary experience in cloud physics is the participant characteristic that most strongly differentiates conceptual-network structure](experience-most-differentiates-cloud-physics-networks.md) — reports the opposite
 - [Expert and novice card sorters are not distinguishable by macroscopic graph measures: 3-cycles, maximum clique size, diameter, and average path length](macroscopic-graph-measures-no-expert-novice-difference.md) — a narrower finding that bears on this claim
 - [Conceptual understanding of cloud physics develops from a water-cycle focus toward cloud microphysical processes as experience increases](water-cycle-to-microphysics-shift.md) — related
+- [Node-level metrics are the most significant graph-derived metrics distinguishing learner experience groups](node-level-metrics-distinguish-experience-clusters.md) — reports the opposite

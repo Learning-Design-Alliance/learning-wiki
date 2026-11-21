@@ -48,3 +48,5 @@ In-class post-test comparison at the introductory level (N2=60 in 2014, N1=82 in
 - [Revised simulation and activity significantly improved introductory students' answers on actions Alice and Bob can take to detect Eve (78.0% vs 58.9% correct)](revised-sim-improved-detect-eve-answers.md) — related
 - [Revised simulation and activity significantly improved introductory students' answers on how the 25% error fraction comes about (78.0% vs 41.1% correct)](revised-sim-improved-error-fraction-answers.md) — related
 - [A common student difficulty is the incorrect idea that errors occur every time Eve chooses the wrong basis](errors-every-wrong-basis-misconception.md) — related
+- [The adversarial group project is popular with students and deepens their understanding of practical QKD](adversarial-qkd-project-engagement-and-understanding.md) — related
+- [Common student missteps cluster around protocol obfuscation, check-bit sampling, and parameter tuning](qkd-project-common-missteps.md) — related

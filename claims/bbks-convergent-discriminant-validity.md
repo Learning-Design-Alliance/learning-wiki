@@ -52,3 +52,4 @@ External validity analysis of the BBKS using AVE and composite reliability for c
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
+- [CSCS factors show convergent and discriminant validity by Fornell–Larcker criteria](cscs-convergent-discriminant-validity.md) — related

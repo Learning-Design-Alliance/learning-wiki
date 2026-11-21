@@ -48,3 +48,4 @@ Descriptive usability ratings from 30 of 31 participants (97%) in the validation
 - [Prior exposure to EBP training or reporting guidelines did not significantly affect ease-of-use ratings or agreement with criterion ratings](greet-no-effect-prior-ebp-experience.md) — related
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
 - [Students rated the intervention elements favorably, with annotated digital slides valued most and the entrance examination rated poor or fair by about one-fourth of students](favorable-evaluations-annotated-slides.md) — related
+- [CS students generally rate their career fair experience positively, with most rating it Good or higher](cs-career-fair-experience-positive-ratings.md) — related

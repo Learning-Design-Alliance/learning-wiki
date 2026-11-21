@@ -47,3 +47,5 @@ Unannounced 1-day in-class check categorizing lecture notes for 154 hybrid-secti
 ## Related Claims
 - [Students who reported frequent use of both social and material resources earned significantly lower grades than students in other resource-use profiles.](high-frequency-resource-use-lower-grades.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
+- [Allowing students to prepare and use handwritten notes in exams more than triples the share earning an A and cuts the failure rate from 14.3% to 4.6% in introductory physics midterms](handwritten-notes-exam-use-improves-physics-letter-grades.md) — related
+- [Notetaking sections showed a roughly 10-point higher average midterm score and a lower score spread than no-notetaking sections](notetaking-higher-average-midterm-score-physics.md) — related

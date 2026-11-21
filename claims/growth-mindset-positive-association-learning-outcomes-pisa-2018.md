@@ -56,3 +56,4 @@ Three-level hierarchical linear modelling of the PISA 2018 database with 612,004
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — a broader claim this one bears on
 - [Peer (school-aggregate) growth mindset is positively associated with students' odds of academic resilience, over and above individual mindset](cl-peer-growth-mindset-resilience.md) — related
 - [Country affluence significantly moderated the growth mindset associations with all three outcomes, providing strong support for the rich get richer hypothesis](country-affluence-moderates-mindset-all-outcomes.md) — related
+- [Student engagement and motivation factors, especially test-taking effort, rank among the strongest predictors of math scores](student-effort-engagement-top-predictors.md) — related

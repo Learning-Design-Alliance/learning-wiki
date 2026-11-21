@@ -60,3 +60,4 @@ Review-level synthesis of the studies' score accuracy and reliability evaluation
 - [Teachers' scores for identical LLM-generated clinical cases differed significantly, with a tiered distribution linked to teaching experience](inter-rater-discrepancies-llm-case-scoring.md) — related
 - [Alignment of LLM recommendations with individual student data showed more variability than clarity or actionability ratings](llm-recommendation-alignment-variable.md) — related
 - [Self-assessment of theoretical and practical competences agreed with externally assessed exam results at moderate rates (64.3–82.5%), differing only slightly between courses](self-external-assessment-agreement-dental-propaedeutics.md) — related
+- [AI and teacher grades were identical for 83.63% of Attempt I responses, with discrepancies mostly showing more conservative AI grades](ai-teacher-grading-alignment-83-percent.md) — a narrower finding that bears on this claim

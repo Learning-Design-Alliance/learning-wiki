@@ -51,3 +51,4 @@ Qualitative interview analysis of mentee and mentor accounts. A precondition was
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — related
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — a broader claim this one bears on
 - [Scholars especially value mentors who attend to their well-being as a whole person, and identity-matched mentoring relationships can be especially meaningful or transformative](whole-person-and-identity-matched-mentoring-valued.md) — related
+- [A live meet-up where teachers visit each other's courses acts as a pivoting point in understanding the similarities between their open-inquiry courses](live-course-visits-pivoting-point.md) — related

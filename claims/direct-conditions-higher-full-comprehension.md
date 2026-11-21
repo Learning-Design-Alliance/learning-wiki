@@ -53,3 +53,4 @@ Inductive coding of open-ended post-task explanations of the matrix debugging bu
 - [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](context-effect-depends-on-guidance-style.md) — related
 - [Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course](socratic-ai-chatbot-survey-ratings-physics-problem-solving.md) — related
 - [Post-course survey medians indicated maintained problem-solving independence despite LLM use and a positively impactful documentation requirement](survey-medians-ai-literacy-dimensions.md) — related
+- [The Socratic AI Tutor produced a large perceived effect on support for independent thinking compared with the uninstructed chatbot](socratic-tutor-perceived-independent-thinking.md) — related

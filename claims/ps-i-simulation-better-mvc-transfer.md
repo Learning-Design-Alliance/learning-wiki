@@ -52,3 +52,4 @@ The editorial reports, citing Saba et al. (2025), a comparison of PS-I and I-PS 
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [Instruction before exploration yields immediate MVC-strategy advantages in the first exploration task, driven by shorter exploration time](instruction-first-immediate-mvc-strategy-task1.md) — related
 - [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
+- [Problem-solving before instruction (PS-I) maintains diagnostic performance in a complex far-transfer scenario where instruction-first (I-PS) students decline](ps-i-maintains-far-transfer-diagnostic-performance.md) — related

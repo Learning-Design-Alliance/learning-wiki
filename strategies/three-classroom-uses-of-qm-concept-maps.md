@@ -47,6 +47,7 @@ The article suggests "three different ways to use the maps in teaching". First, 
 
 - [Guide a teacher-led classroom discussion of concept-map differences before students answer reflection prompts individually](teacher-guided-discussion-before-individual-reflection-prompts.md)
 - [Four classroom uses: visualization, exploration, student-driven discussion, and guided-inquiry assignments](composer-classroom-uses-strategy.md)
+- [Assign mind-map notetaking homework connecting concepts across all chapters of the course](mind-map-notetaking-homework-strategy.md)
 
 ## Examples
 -

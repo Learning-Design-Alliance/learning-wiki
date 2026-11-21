@@ -71,3 +71,4 @@ Descriptive analysis of math growth distributions (figures 3–4): unstabilized 
 - [Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools](stabilization-changes-csi-designations.md) — related
 - [Gaps in the scale's sample range produce distribution anomalies, with fewer ratings in the 4 to 4.99 band than in the 3 to 3.99 band](scale-sample-gaps-distort-score-distribution.md) — related
 - [Ability distributions in grade-school children are non-normal, with ability clustering in the extreme ranks rather than the median](non-normal-end-heavy-ability-distributions.md) — related
+- [Standardized intervention-based scoring yields a distribution with a mean in the high 80% range](oral-exam-scoring-distribution-high-80s.md) — related

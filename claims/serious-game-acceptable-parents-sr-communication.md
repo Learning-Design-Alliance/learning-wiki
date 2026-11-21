@@ -51,3 +51,4 @@ Factor analysis of acceptability items from the randomised evaluation (game n = 
 - [Cognitive acceptability of the game is significantly higher for parents of younger children](cognitive-acceptability-higher-younger-children.md) — reports the opposite
 - [The game showed a small improvement over time in Theory of Planned Behaviour variables but no significant condition effect on attitudes, intentions or behaviour](tpb-time-effect-no-condition-effect.md) — related
 - [Attrition before follow-up was significantly more likely in the game condition than the control condition](higher-attrition-game-condition.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

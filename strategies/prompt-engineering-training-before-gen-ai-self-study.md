@@ -53,6 +53,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 - [Introduce SDM training with an explanatory flowchart of SDM steps before chatbot practice](sdm-flowchart-orientation-before-chatbot-practice.md)
 - [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
+- [Integrate principles of effective feedback into AI feedback design and incorporate prompt engineering instruction into introductory physics courses](integrate-effective-feedback-and-prompt-engineering-in-physics-courses.md)
 
 ## Examples
 -

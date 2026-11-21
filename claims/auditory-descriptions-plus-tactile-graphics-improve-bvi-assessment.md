@@ -54,3 +54,4 @@ The review reports preliminary results from Ferrell et al. (2017) on auditory im
 - [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related
 - [Traditional astronomy research, education and outreach relies heavily on visual presentation, which is a barrier to participation by blind and visually impaired persons](visual-reliance-barrier-bvi-astronomy.md) — a broader claim this one bears on
+- [University library accessibility provision for students with visual impairments is low, with 22.07% offering assistive technology and 0.54% tactile STEM pathways](india-university-libraries-assistive-tech-22-percent.md) — related

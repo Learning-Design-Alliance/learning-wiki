@@ -47,3 +47,4 @@ Mann-Whitney comparison of 77 students (rescaled to the 1-10 teacher scale) with
 ## Related Claims
 - [Teachers rate YPT-related activities as more useful than RPC across all hard-skill types, with a self-selection caveat](teachers-rate-ypt-above-rpc.md) — related
 - [Students perceive YPT-related activities as more useful than regular physics classes for inquiry-oriented hard skills, while RPC is more useful for solving close-ended problems](ypt-more-useful-than-rpc-for-inquiry-skills.md) — related
+- [Teachers and students diverge in perceived YPT contributions for high-school mathematics, cookbook experiments, teamwork, information location and creativity](ypt-teacher-student-perception-divergence.md) — possibly the same claim (merge candidate)

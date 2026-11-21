@@ -60,3 +60,4 @@ End-of-semester survey of students in the gamified course. "Seventy-two percent 
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — a narrower finding that bears on this claim
 - [Gamifying the overtaking task engaged almost all learners, including those initially uninterested](gamification-overtaking-engagement.md) — a narrower finding that bears on this claim
 - [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](face-to-face-more-favorable-perceptions-gbl.md) — related
+- [Student-rated course quality in the gamified nanotechnology course rose from 3.6 in the control year to a peak of 5.0 and remained above 4.5 in later years](gamification-course-quality-faculty-survey-ratings.md) — related

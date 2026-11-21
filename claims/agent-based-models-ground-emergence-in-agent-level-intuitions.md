@@ -52,3 +52,4 @@ The authors' design rationale, attributed to prior studies they cite (including 
 - [Public code play supports visitors' multi-level explanations of emergent patterns in agent-level terms](public-code-play-supports-agent-level-explanations.md) — a narrower finding that bears on this claim
 - [Embodied modeling followed by agent-based simulation supported progressively more complex mechanistic explanations of emergence (3rd-grade study)](embodied-modeling-mechanistic-explanations.md) — a narrower finding that bears on this claim
 - [Computational modeling makes complex phenomena accessible to much younger learners](computational-modeling-accessibility-younger-learners.md) — related
+- [Numeric Huygens-Fresnel simulations help introductory students build intuition about coherent light in diffraction and interference experiments](huygens-fresnel-simulations-build-coherent-optics-intuition.md) — a narrower finding that bears on this claim

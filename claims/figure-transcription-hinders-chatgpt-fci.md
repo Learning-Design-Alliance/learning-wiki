@@ -48,3 +48,4 @@ Item-level analysis in the Discussion (RQ1) based on Table I: "eleven items that
 ## Related Claims
 - [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related
 - [ChatGPT3.5 answers 15 of 23 modified FCI questions correctly, scoring near or above the median end-of-semester student](chatgpt35-fci-15-of-23-near-median-student.md) — related
+- [Translation and back-translation subtly shift FCI terminology, with \"speed\" appearing 1,514 times and \"velocity\" 702 times in back-translations](speed-velocity-terminology-shift-back-translation.md) — related

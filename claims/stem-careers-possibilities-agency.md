@@ -56,3 +56,4 @@ Interview excerpt (Nora) illustrating the theme 'Technology and STEM careers cre
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
 - [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related
 - [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related
+- [Participation in the Pathways to Quantum immersion program increased high school students' awareness of and interest in QIS and QIS-adjacent careers](pathways-quantum-increased-qis-career-awareness-interest.md) — related

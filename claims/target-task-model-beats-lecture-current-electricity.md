@@ -67,3 +67,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
 - [Demonstration method was more effective than lecture method in learning economics concepts among secondary school students in Borno State](demonstration-more-effective-than-lecture-economics-borno.md) — related
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — related
+- [GLBCC instruction produced significantly higher science literacy scores than expository learning in Grade XI physics (p < 0.001)](glbcc-higher-science-literacy-than-expository.md) — related

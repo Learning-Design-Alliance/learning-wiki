@@ -132,6 +132,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 - [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 - [Divide lectures into 10-15-minute segments ending with low-stakes LLM-generated MCQ retrieval practice and immediate feedback](segmented-lecture-llm-retrieval-practice-immediate-feedback.md)
+- [Implement a range of frequent formative assessments that each count for a small portion of the grade](range-of-frequent-formative-assessments-low-anxiety.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

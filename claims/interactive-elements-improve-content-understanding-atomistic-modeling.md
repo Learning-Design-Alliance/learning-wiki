@@ -76,3 +76,4 @@ Analysis of the graded module exam for "Atomare Materialmodellierung": one quest
 - [Line graphs are the most common engagement element in the PICUP Collection, followed by three-dimensional graphics](picup-es-engagement-element-line-graphs.md) — related
 - [Students reported that individual exercise assignments helped them plan and monitor their learning but did not necessarily increase learning motivation](assignments-support-self-regulation-not-motivation.md) — related
 - [More than half of students gave satisfactory answers to an essay question on the value of telling the story under exam pressure](essay-question-story-value-satisfactory-answers.md) — related
+- [Instructor and independent parties reported better-than-usual conceptual understanding and decision-making behaviors in the intervention cohort](instructor-reported-deeper-conceptual-understanding.md) — related

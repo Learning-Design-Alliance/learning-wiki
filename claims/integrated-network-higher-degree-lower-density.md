@@ -49,3 +49,4 @@ Network analysis of the combined Physics and Mathematics curriculum network (90 
 - [The final-year Physics curriculum concept network is dense, connected, and highly clustered (density 0.29, diameter 2, clustering 0.65)](physics-curriculum-network-dense-connected.md) — related
 - [Different question types exhibit distinct KPN structures and difficulty levels](question-type-network-differences.md) — related
 - [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related
+- [Middle school Science serves as a core component connecting elementary school Science to high school physics subjects](middle-school-science-core-connector.md) — related

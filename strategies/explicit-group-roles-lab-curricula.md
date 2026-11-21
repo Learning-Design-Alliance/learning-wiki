@@ -50,6 +50,7 @@ The article proposes building explicit group roles into lab curricula, similar t
 - [Establish Group Roles](establish-group-roles.md)
 - [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
 - [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
+- [Promote gender equity in physics labs through structured role rotation, intentional group composition, instructor facilitation, and bias awareness training](equitable-physics-lab-engagement-strategies.md)
 
 ## Examples
 -

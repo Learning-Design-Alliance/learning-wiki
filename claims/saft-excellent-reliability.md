@@ -52,3 +52,4 @@ Reliability study (Study 1) in which 21 of 26 recruited occupational therapists 
 - [Inter-rater reliability of the modified MISTELS score with a low-cost trainer box is excellent (ICC = 1)](modified-mistels-low-cost-box-inter-rater-reliability.md) — related
 - [Test-retest reliability of the modified MISTELS score with a low-cost trainer box is excellent (ICC = 0.95)](modified-mistels-low-cost-box-test-retest-reliability.md) — related
 - [SAFT total scores increase significantly after an interactive educational intervention, with a moderate effect size](saft-responsive-to-change.md) — related
+- [CSCS total score shows high internal consistency, with most reliable variance attributable to a general factor](cscs-total-score-reliability.md) — related

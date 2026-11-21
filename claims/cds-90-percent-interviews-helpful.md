@@ -49,3 +49,4 @@ Anonymous survey of 20 pilot students on the relevance of the interviews, report
 - [Most interns (90%, 18 of 20) found resident feedback somewhat or very helpful for improving future consult calls](interns-rate-resident-feedback-helpful.md) — related
 - [Student responses to the AI chatbot standardized patient experience were bimodal, with 65% agreeing it helped practice interview skills while 35% disagreed](ai-chatbot-sp-bimodal-acceptability.md) — related
 - [In the CDS pilot, 85% of surveyed students (17/20) found the subject valuable or very valuable](cds-pilot-85-percent-subject-value.md) — related
+- [Most 2024/2025 students rated the project very helpful for collaborative learning (95.8%)](survey-collaborative-learning-very-helpful-95-8.md) — related

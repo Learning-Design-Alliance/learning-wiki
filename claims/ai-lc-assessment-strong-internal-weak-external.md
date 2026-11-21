@@ -97,3 +97,4 @@ The discussion notes that "AI-based CVS detection systems are the only tools to 
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — related
 - [The feedback group achieves the critical view of safety more often than the control group across all four laparoscopic cholecystectomies](cvs-annotation-increases-cvs-achievement.md) — related
 - [Evidence supporting the effectiveness of mentorship is limited, attributed to weak evaluation data](mentorship-effectiveness-evidence-limited.md) — related
+- [The authors found no example use case demonstrating external validity within educational AI](no-external-validity-examples-educational-ai.md) — a broader claim this one bears on

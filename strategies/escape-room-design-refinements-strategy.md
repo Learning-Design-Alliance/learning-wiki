@@ -49,6 +49,7 @@ Based on pilot findings, the authors recommend design refinements for digital es
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
 - [Provide more direct instructions and adapt game difficulty and content to the setting and audience](setting-specific-game-instructions-and-difficulty.md)
 - [Nine practical guidelines for designing and conducting educational escape rooms](escape-room-design-guidelines-nine.md)
+- [Deepen personalization for low-motivation learners with narrative elements, everyday-life relevance, and fewer tasks to prevent overload](narrative-relevance-reduced-tasks-low-motivation.md)
 
 ## Examples
 -

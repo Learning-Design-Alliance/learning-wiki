@@ -88,3 +88,4 @@ Thematic analysis found overload and resistance codes more prevalent in directiv
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [Teaching using comprehension and reflective reading techniques predicts greater likelihood of resilience than routine, systematic, repetitive reading practices](comprehension-reflective-teaching-beats-routine-practices-for-resilience.md) — related
 - [Socratic questioning is the most frequently used ED teaching method, with broadening, targeting, and up-the-ladder question types most effective for learning](socratic-questioning-types-effective.md) — related
+- [A proactive Proberbot (VoiceViz) that intervenes with open-ended questions when teams appear stuck engendered more collaborative interactions, deeper discussions and more hypotheses](proberbot-probing-engenders-deeper-discussion.md) — related

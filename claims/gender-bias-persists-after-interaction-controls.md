@@ -52,3 +52,4 @@ ERGM analysis included lab group homophily, lab section homophily, discussion se
 - [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related
 - [For students receiving the same amount of peer recognition, women report significantly lower perceived recognition than men in both lab and lecture contexts](women-lower-perceived-recognition-same-received.md) — related
 - [Gender-based inequities in educational physics labs are salient and persistent across curricula and contexts](persistent-gender-inequities-physics-labs.md) — a broader claim this one bears on
+- [Gender moderates the belonging–persistence relationship: women report lower intent to persist at low belonging but exceed men when belonging is strong](gender-moderates-sb-ip.md) — related

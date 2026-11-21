@@ -30,4 +30,4 @@ A twelve-item yes/no checklist developed for medical educators and item writers 
 
 ## Key Sources
 - Magzoub Mohi Eldin, Zafar Imran, Munshi Fadi, Shersad Fouzia. (2025). Ten tips to harnessing generative AI for high-quality MCQs in medical education assessment. Medical Education Online. https://doi.org/10.1080/10872981.2025.2532682
-- An, Y., Liu, J., Acharya, N., and Hashmi, R. (2025). Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses. arXiv:2507.05629v2 [cs.AI]. https://arxiv.org/abs/2507.05629v2
+- An, Y., Liu, J., Acharya, N., and Hashmi, R. (2025). Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses. arXiv:2507.05629v2 [cs.AI]. https://arxiv.org/abs/2507.05629v2. [doi:10.48550/arxiv.2507.05629](https://doi.org/10.48550/arxiv.2507.05629)

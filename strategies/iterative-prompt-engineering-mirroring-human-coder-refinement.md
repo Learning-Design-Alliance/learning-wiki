@@ -53,6 +53,7 @@ The article describes an iterative prompt engineering process that mirrors human
 - [Incorporate an expert human in the loop to support LLM coding of difficult adjacent coding categories](expert-human-in-loop-for-llm-pck-coding.md)
 - [Design GPT feedback prompts with few-shot examples covering each response category and documented student preconceptions as context](few-shot-prompt-with-preconceptions-for-feedback-generation.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
+- [Stepwise prompt-dialogue workflow: start with a comprehensive prompt, then refine through focused interactive dialogue](stepwise-mllm-prompt-dialogue-analysis.md)
 
 ## Examples
 -

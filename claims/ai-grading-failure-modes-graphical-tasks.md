@@ -80,3 +80,4 @@ Qualitative false-negative example (Fig. 6, problem 6-C-b): the leftmost arrow w
 - [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related
 - [Students rated Ethel's handwritten-homework feedback helpful and correct in 3/4th of cases, but the system tended to underestimate solution correctness, mostly due to handwriting recognition](ethel-homework-feedback-ratings.md) — related
 - [AI grading of hand-drawn graphics shows no correlation with TA grades, unlike mathematical derivation parts](hand-drawn-graphics-ai-grading-unreliable.md) — related
+- [Qualitative analysis attributes some human–AAG scoring discrepancies to human grading errors such as overlooking a missing zero or incorrect calculation processes](ta-grading-errors-discrepancy-analysis.md) — related

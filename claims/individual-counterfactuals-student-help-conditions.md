@@ -50,3 +50,4 @@ Individualised counterfactual inference for a single student from the CAT assess
 - [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](pn-ps-counterfactuals-help-and-skill-effects.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related
 - Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — a broader claim this one bears on
+- [A correctly and quickly answered counterfactual item strictly decreases the posterior probability of the targeted misconception (proven under the model)](counterfactual-items-reduce-misconception-posterior.md) — related

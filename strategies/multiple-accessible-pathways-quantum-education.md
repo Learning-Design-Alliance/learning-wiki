@@ -46,6 +46,7 @@ The article recommends developing information and pathways into quantum that mee
 
 - [Keep smartphone e-learning videos short and ensure good Internet access so they stream smoothly on any device](keep-elearning-videos-short-smooth-streaming.md)
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
+- [Integrate application-oriented QISE content into existing academic pathways, including a quantum applications course for all STEM majors and upskilling certificates](application-oriented-qise-pathways-strategy.md)
 
 ## Examples
 -

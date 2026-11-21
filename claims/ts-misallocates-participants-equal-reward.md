@@ -81,3 +81,4 @@ Authors' interpretation (type e) from the Discussion section of the case study, 
 - [Thompson Sampling drastically shifted assignment toward a favoured arm with minimal exploration room, but the favoured arm varied across weeks](ts-drastic-shift-inconsistent-favoured-arm.md) — a narrower finding that bears on this claim
 - [Students shown a self-explanation prompt scored higher on the next problem than students shown no prompt in a traditional CS1 experiment](self-explanation-prompt-improves-subsequent-cs1-accuracy.md) — related
 - [An adaptive experiment served the self-explanation prompt condition to 82.6% of its students, a more than 30% reallocation toward the better outcome](adaptive-bandit-reallocates-majority-to-better-condition.md) — related
+- [Random reviewer assignment produces inconsistent grading and fairness concerns, though calibration and dynamic allocation can mitigate specific problems](random-assignment-fairness-and-accuracy-problems.md) — related

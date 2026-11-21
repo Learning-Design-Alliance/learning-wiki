@@ -86,6 +86,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
 - [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
 - [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
+- [Integrate AI literacy into curricula with clear expectations to guide ethical engagement across the usage continuum](ai-literacy-integration-clear-expectations-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Cross-sectional UEQ evaluation with 72 nursing students from three cohorts (27, 
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — related
 - [The PediAppRREST app received positive usability evaluations across all six UEQ scales in a simulation pilot with pediatric residents](pediaprrrest-positive-usability-ueq-pilot.md) — related
+- [Informal programming learners rated the storytelling-centric system's overall user experience slightly positively on the UEQ-S](storytelling-system-ueq-s-slightly-positive.md) — related

@@ -53,3 +53,4 @@ Regression analysis in the 120-participant study: "ratings of interest were foun
 - [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Monitoring judgments are positively associated with learning outcomes (β = 0.29)](monitoring-judgments-positively-related-to-learning-outcomes-masem.md) — related
+- [A feature-level analysis found Valence associated with perceptions only, while an instructional composite was associated with both perceptions and uptake, most strongly with uptake](valence-versus-instructional-composite-dissociation.md) — related

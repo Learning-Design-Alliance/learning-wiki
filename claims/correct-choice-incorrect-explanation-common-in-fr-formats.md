@@ -53,3 +53,4 @@ Results section, Problem A numerical analysis for the calculus-based course acro
 - [A common student difficulty is the incorrect idea that errors occur every time Eve chooses the wrong basis](errors-every-wrong-basis-misconception.md) — related
 - [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](wrong-answer-students-generate-correct-explanations.md) — related
 - [Fewer than half of participants answered even the most standard EMI questions correctly with sufficient explanations, with correct-plus-explained rates falling to 4–6% on non-standard questions](emi-low-correct-explanation-percentages.md) — related
+- [Students can reach the correct claim via incorrect explanations, so MC scoring alone masks unproductive conceptual resources](correct-claim-incorrect-explanation-masked-by-mc.md) — related

@@ -80,3 +80,6 @@ The review synthesized accuracy figures from studies (Table 7) comparing ANN, RF
 - [Machine learning on discussion-dialog indicators predicts group learning outcome as High, Mid, or Low with best accuracy of 78.9%](ml-prediction-group-outcome-78-9-percent.md) — related
 - [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related
 - [Modified SANN outperforms baseline models in predicting program correctness](sann-outperforms-baselines-correctness-prediction.md) — a narrower finding that bears on this claim
+- [Non-linear ML models (RF, CatBoost, ANN) consistently outperform multiple linear regression in predicting PISA 2018 math scores across ten countries](nonlinear-ml-outperforms-mlr-pisa-math.md) — related
+- [A five-class XGBoost classifier predicts ChatGPT assignment-use frequency at 64.5% test accuracy, indicating data scarcity challenges](xgboost-multiclass-usage-frequency-accuracy.md) — related
+- [XGBoost slightly outperformed a logistic regression baseline in predicting ChatGPT assignment use](xgboost-slightly-outperforms-logistic-baseline.md) — a narrower finding that bears on this claim

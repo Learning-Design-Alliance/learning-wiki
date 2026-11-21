@@ -109,3 +109,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](d-illustrate-most-consistent-tlx-gains.md) — related
 - [Subject matter experts rated PromptHive as highly usable (SUS 89/100) with a large reduction in perceived cognitive workload versus manual authoring](prompthive-high-usability-reduced-cognitive-load.md) — a narrower finding that bears on this claim
 - [Teams that learn better use AR less as the activity progresses, while robot usage does not significantly affect learning gain](less-ar-use-signals-abstraction-learning.md) — related
+- [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related

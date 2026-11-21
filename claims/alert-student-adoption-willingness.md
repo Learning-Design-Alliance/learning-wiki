@@ -53,3 +53,5 @@ Adoption survey administered after the second classroom session to the same 48 F
 - [In individual user testing, four of five junior oncologists expressed a willingness to use a digital training tool to acquire information-provision skills](junior-oncologists-willing-to-use-digital-cst.md) — related
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Medical students rate the ALERT STUDENT tools as useful and easy to use in both of two classroom sessions](alert-student-usability-survey-positive.md) — related
+- [Most student participants are extremely willing to use pedagogical prompts in future learning, though a minority express reluctance](student-willingness-to-use-pedagogical-prompts.md) — related
+- [98.7% of participants were willing to apply the virtual-environment technology in other subjects, and 93.5% rated the material as excellent or good](virtual-material-high-ratings-and-transfer-willingness.md) — related

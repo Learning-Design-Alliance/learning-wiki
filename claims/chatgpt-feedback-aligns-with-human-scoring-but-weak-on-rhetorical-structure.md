@@ -62,3 +62,4 @@ Mixed-methods comparison in which 30 first-year EAP students each submitted two 
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim
 - [The prompt-based method correctly identified subtle mixed-emotion and nuanced-feedback cues that the base model and CoT method missed](prompt-method-captures-subtle-emotion-cues.md) — related
+- [AI models show contextual intuitiveness by correctly inferring missing task context from ambiguous student prompts, but their feedback is not always fully appropriate or correct](ai-contextual-intuitiveness-ambiguous-prompts.md) — related

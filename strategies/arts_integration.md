@@ -68,6 +68,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 - [Use creative drama techniques across different grades and courses to support achievement and affective outcomes](use-creative-drama-across-grades-and-courses.md)
 - [Five design principles for integrating music into EMI instruction](emi-music-design-principles.md)
 - [Use mind mapping, group discussion, music and brain games, and celebration across BBL stages to support conceptual understanding](bbl-stage-activities-strategy.md)
+- [Use 19th-century American landscape painting to demonstrate the link between art and science in teaching](landscape-painting-art-science-link.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — exemplar products show learners how artistic choices carry content meaning

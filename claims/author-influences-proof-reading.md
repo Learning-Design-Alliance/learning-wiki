@@ -67,3 +67,4 @@ Survey of 54 mathematicians experienced in refereeing manuscripts, asking whethe
 - [An argument's named authoritative author increased mathematicians' persuasiveness ratings, but the authority effect vanished for deductive proofs](author-reputation-persuasiveness-rating.md) — related
 - [A majority of surveyed mathematicians report believing proofs are correct because of journal publication, journal quality, or a trusted authoritative source](mathematicians-authoritarian-conviction-survey.md) — related
 - [Mathematicians accept published proofs as correct without personally verifying them, and often read proofs to increase understanding rather than to check correctness](mathematicians-accept-published-proofs-unchecked.md) — related
+- [Simulated learners respond differently to peer influence in debates: Deep Learner is persuasive and resilient, Lazy Learner is prone to misinformation](learneragent-peer-influence-differences.md) — related

@@ -56,3 +56,4 @@ Quasi-experimental comparison across undergraduate QM courses, with N = 43 stude
 - [Upper-level undergraduate and Ph.D. student performance rose from pretest to posttest after the MZI QuILT, with average normalized gain of 0.78, in one single-group pre-post study](quilt-mzi-normalized-gain-0-78.md) — related
 - [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related
 - [Group performance on the QMFPS exceeded individual performance (72% vs 53%) after lecture-based instruction](qm-peer-group-beats-individual-qmfps.md) — related
+- [The most used pedagogical resources in surveyed upper-level QM courses are in-class group work, pre-class readings, and simulations](qm-pedagogical-resources-top-three.md) — related

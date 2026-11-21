@@ -65,3 +65,4 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [VR-trained groups reported significantly higher real-task workload than the real-only control group, with no significant difference between the two VR groups](vr-trained-groups-higher-real-task-workload.md) — related
 - [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related
 - [D-Illustrate shows the most consistent impact, significantly reducing multiple types of cognitive demand and enhancing satisfaction](d-illustrate-most-consistent-tlx-gains.md) — related
+- [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related

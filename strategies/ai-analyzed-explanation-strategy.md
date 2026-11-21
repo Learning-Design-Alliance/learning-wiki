@@ -52,6 +52,7 @@ This strategy adapts existing multiple-choice or concept-inventory questions by 
 - [Pair clicker questions with at-home follow-up reflections asking students to explain each statement](pair-clickers-with-at-home-reflection-explanations.md)
 - [Emphasis on Reasoning over Answers](emphasis_on_reasoning_over_answers.md)
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
+- [Use appropriately prompted LLMs to assess students' written explanations at scale in large-enrollment courses](llm-written-explanation-assessment-at-scale-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Interview coding in the phenomenological study found "All 13 teachers included s
 - [Mentorship in the responsive PD community was bidirectional: both novice and veteran teachers benefited from interactions, transcending the typical mentor-mentee dyad](bidirectional-mentorship-in-responsive-cop.md) — related
 - [Giving teachers opportunities to design and run PD workshops brought resource-sharing helpful for novice, experienced, and out-of-field teachers](teacher-co-design-workshops-bring-resource-sharing.md) — related
 - [Teachers across career stages valued the practicality of instructional materials, meaning they could implement activities with few or no modifications](practicality-of-materials-valued-across-career-stages.md) — related
+- [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related

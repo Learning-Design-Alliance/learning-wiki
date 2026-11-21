@@ -73,3 +73,4 @@ SDT analysis of the same Turing test (N=71) separated sensitivity from response 
 - [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — related
 - [Students cannot reliably distinguish AI-generated slides from human-created slides](students-cannot-identify-ai-slides.md) — related
 - [Graduate graders can distinguish LLM-generated assessment responses from student responses with accuracy better than random guessing, and experience with generative AI improves detection accuracy](graders-detect-llm-responses-neuroscience.md) — reports the opposite
+- [Pre-service teachers cannot reliably identify feedback sources, with LLM feedback detected only slightly above chance (36%) and judgements tracking message length rather than coded quality](preservice-teachers-poor-feedback-source-recognition.md) — related

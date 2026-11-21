@@ -51,3 +51,4 @@ Subgroup meta-regression across six ITS support types (Table 6). Worked-out exam
 - [Time spent with bottom-out hints correlates positively with learning, consistent with spontaneous self-explanation](bottom-out-hint-time-positive-learning-relation.md) — related
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](ineffective-help-seeking-log-data-findings.md) — reports the opposite
 - [Single log-file features per task show very small p-values but weak fit, with number of hints seen the strongest single predictor of perceived task-difficulty.](single-per-task-features-weak-fit.md) — related
+- [Student choice correlates positively with solution-strategy hints and cognitive-depth metrics, and radio problem type is a negative hub against Cluster A](choice-correlates-with-strategy-and-depth.md) — related

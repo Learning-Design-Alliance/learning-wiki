@@ -53,3 +53,4 @@ Descriptive per-student timeline reconstruction aligning prompts and commits to 
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
+- [A proactive Proberbot (VoiceViz) that intervenes with open-ended questions when teams appear stuck engendered more collaborative interactions, deeper discussions and more hypotheses](proberbot-probing-engenders-deeper-discussion.md) — related

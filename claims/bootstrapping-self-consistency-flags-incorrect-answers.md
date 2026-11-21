@@ -67,3 +67,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
 - [GPT-4o's incorrect answers are far from random, gravitating toward specific incorrect answers](gpt4o-consistent-incorrect-answers.md) — related
+- [GPT-5 Thinking scores 27/30 and 25/30 on the author's two comprehensive physics final exams, with errors clustered on ray tracing and circuit interpretation](gpt5-final-exam-scores-27-25-of-30.md) — related

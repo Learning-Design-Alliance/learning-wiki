@@ -50,3 +50,4 @@ Observational time-allocation results from RIOT-coded discussion/lab sections; t
 - [Physics 50W workshop TAs showed much greater variation in time allocation than lab TAs, splitting time nearly evenly between whole class, small groups, individuals, and not interacting](physics50w-high-ta-variation.md) — related
 - [Studio physics students interacted 2.7 times more with their TA in lecture sessions than non-studio students did with their instructors, but lab interaction rates were greater in non-studio physics](studio-vs-nonstudio-interaction-rates.md) — related
 - [Studio LAs, but few lab or recitation LAs, reported learning about teamwork, tracking each context's emphasis on student group work](la-teamwork-learning-context-difference.md) — related
+- [Recitation sections show much greater variation in TA interaction patterns than lab sections, confirming West et al.](recitation-variation-greater-than-lab-variation.md) — a narrower finding that bears on this claim

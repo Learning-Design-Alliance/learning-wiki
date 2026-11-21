@@ -68,3 +68,5 @@ Same descriptive DBH cumulative-distribution analysis, read at the grade B thres
 - [In a core pedagogy course assessed by a six-hour written examination, male and female cumulative grade distributions are nearly overlapping, with small and inconsistent threshold differences](no-gender-gap-written-exam-pedagogy-course.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Female learners show a small but statistically significant advantage over males in L2 learning achievement (g = 0.17)](small-female-advantage-l2-achievement-meta-analysis.md) — related
+- [Alternative midterm exam aggregation methods show no consistent differential benefit for female versus male students, leaving sex grade gaps unchanged](aggregation-methods-no-sex-equity-effect.md) — related
+- [Chi-square and Cramér's V analyses indicate notetaking-section scores concentrated in higher grade bins (V = 0.367) while no-notetaking scores were near uniform (V = 0.180)](cramers-v-notetaking-score-distribution.md) — related

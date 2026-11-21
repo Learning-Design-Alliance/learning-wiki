@@ -47,3 +47,4 @@ Post-course interviews with the cohort. Stella said she "found out... about all 
 ## Related Claims
 - [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related
 - [Quantum companies report difficulty hiring quantum information theorists with application understanding (33%), engineers with analog electronics experience (29%), and experienced senior-level employees (19%)](quantum-workforce-hiring-gaps.md) — related
+- [Students are largely unaware of what QISE industry roles exist, and articulating the variety of roles could help address this](students-unaware-of-qise-roles.md) — related

@@ -80,3 +80,6 @@ As the article emphasizes, "all industry leaders spoke about the importance of b
 - [Industry reports three fundamental training needs — basic awareness, targeted training and study programs — with group-specific priorities](qt-three-fundamental-training-needs.md) — related
 - [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related
 - [Educators see industry-driven curriculum revisions as a major opportunity for QISE course development](industry-driven-qise-curriculum-revisions.md) — related
+- [Managers report foundational disciplines — physics, engineering, and computer science — remain indispensable to quantum technology development](foundational-disciplines-still-indispensable-quantum.md) — related
+- [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
+- [Quantum KSAs required for QISE industry tasks fall into three categories: experimental; theory and knowledge of experiment; and theory only](qise-task-knowledge-three-categories.md) — related

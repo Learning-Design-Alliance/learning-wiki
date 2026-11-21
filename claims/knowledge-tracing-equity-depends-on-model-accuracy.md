@@ -52,3 +52,4 @@ For an adaptive course that uses [mastery-based progression](../elements/adaptiv
 
 ## Related Claims
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — another simulation comparison of knowledge-tracing approaches for mastery decisions
+- [Optimal AI allocation concentrates resources on components above a common residual-gap threshold, yielding over 14% greater gain than proportional allocation](optimal-ai-allocation-exceeds-proportional.md) — related

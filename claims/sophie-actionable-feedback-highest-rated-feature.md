@@ -76,3 +76,4 @@ Post-study UI/UX survey of SOPHIE participants (23 of 26 completed) reported in 
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
 - [In a randomized controlled trial, SOPHIE training produced significantly greater pre-post gains in serious illness communication skills than a written reading module, with large effect sizes for the SOPHIE arm](sophie-rct-greater-sic-gains-than-reading-control.md) — related
+- [The storytelling feature received the highest agreement among the system components evaluated](storytelling-feature-highest-agreement.md) — related

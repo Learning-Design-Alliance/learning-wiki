@@ -115,3 +115,4 @@ Within the same interview study, the two error-making students then solved the n
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
 - [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related
 - [Some students mentally convert between numerical and pictorial representations, and their reasoning can change with representation](students-switch-representations-when-comparing-measurements.md) — related
+- [GPT-5 Thinking solves the elevator problem symbolically, avoiding both plug-and-chug pitfalls, and resists prompts eliciting novice-like behavior](gpt5-elevator-symbolic-novice-resistant.md) — related

@@ -52,3 +52,4 @@ Theoretical argument in the discussion section, grounded in Pickering's account 
 - [Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies](data-infrastructure-alone-insufficient-for-data-driven-decisions.md) — related
 - [Popular descriptions of particle physics are largely flawed and often simply wrong, and the inaccuracies extend through high school into university-level physics books](popular-particle-physics-accounts-largely-flawed.md) — related
 - [The authors argue the 'two cultures' divide can be addressed with cultural and social tools such as science popularisation books and school-research collaboration](asimov-prize-two-cultures-addressed.md) — related
+- [Public trust in scientists is moderately high but below pre-pandemic levels, with partisan divides that engagement through IPE can help bridge](ipe-trust-in-scientists-pew-and-global.md) — related

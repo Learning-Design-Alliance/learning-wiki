@@ -50,6 +50,7 @@ The authors recommend that in courses whose goals include engaging students in t
 ## Related Strategies
 
 - [Assessments of modeling ability should include test items focused on experimental processes, with coupled multiple-response formats](modeling-assessments-focus-experimental-processes-strategy.md)
+- [Design lab courses so computation, experimentation, and theory iterate and inform each other across multiple lab periods](iterate-theory-computation-experiment-strategy.md)
 
 ## Examples
 -

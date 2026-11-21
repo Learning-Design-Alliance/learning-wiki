@@ -283,6 +283,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
 - [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](../strategies/la-timely-feedback-and-instructor-communication-strategy.md)
 - [Inquiry as teaching science as science is done, with facilitator-guided student investigation](../designs/inquiry-as-science-is-done-with-facilitation.md)
+- [Use accessible graphite-on-paper experiments as investigatively oriented activities in Electricity courses](../strategies/accessible-graphite-experiment-electricity-courses.md)
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)

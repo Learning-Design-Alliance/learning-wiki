@@ -49,3 +49,4 @@ Quasi-experiment with two intact seventh-grade classes (36 students each) at SMP
 - [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related
 - [No significant interaction between learning method and initial ability category on mathematical analogical gain](no-method-ability-interaction-analogical-gain.md) — related
 - [CPS-ALM instruction produces greater statistical literacy enhancement than expository learning in elementary school student teachers](cps-alm-beats-expository-statistical-literacy-n-gain.md) — related
+- [GLBCC instruction produced significantly higher science literacy scores than expository learning in Grade XI physics (p < 0.001)](glbcc-higher-science-literacy-than-expository.md) — a narrower finding that bears on this claim

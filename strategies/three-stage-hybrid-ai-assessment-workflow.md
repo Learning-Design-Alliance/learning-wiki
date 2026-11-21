@@ -47,6 +47,7 @@ For large courses, the article proposes a combined workflow in three stages: (1)
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 - [Per-criterion guidance for instructors using AI feedback on lab reports](../designs/rubric-item-ai-feedback-guidance-table.md) — which rubric items to delegate, verify or review by hand
 - [Three solutions for data costs in mobile learning: avoid data, batch data, and transfer data locally](data-cost-mitigation-three-solutions.md)
+- [Stepwise prompt-dialogue workflow: start with a comprehensive prompt, then refine through focused interactive dialogue](stepwise-mllm-prompt-dialogue-analysis.md)
 
 ## Examples
 -

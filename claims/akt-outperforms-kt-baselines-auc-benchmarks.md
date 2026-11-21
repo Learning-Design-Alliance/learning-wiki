@@ -63,3 +63,5 @@ Robustness check on ASSISTments2009 under an alternative setting that averages c
 - [AKT's monotonic attention mechanism outperforms positional-encoding attention variants by about 1% to 6% AUC](akt-monotonic-attention-beats-positional-encoding.md) — a narrower finding that bears on this claim
 - [Context-aware question and response representations improve AKT's prediction over raw embeddings](akt-context-aware-representations-improve-prediction.md) — a narrower finding that bears on this claim
 - [DKT-based environments converge faster in training, but DKT struggles to estimate higher knowledge levels, unlike the more comprehensive AKT assessments](dkt-faster-convergence-but-poor-high-level-estimates.md) — related
+- [AKT-MLd achieves the best overall performance across benchmarks, with gains most pronounced on high-KC datasets](akt-mld-best-overall-benchmarks.md) — related
+- [CSG-KT significantly outperforms classical, graph-based and SOTA knowledge tracing baselines across four real-world datasets](csg-kt-outperforms-kt-baselines.md) — related

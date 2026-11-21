@@ -68,3 +68,4 @@ The same interview study yielded mixed evidence on computational utility: one st
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
 - [Working with live, real-world datasets promoted students' perception of real-world authenticity and career transferability in a high school data science curriculum](live-real-world-datasets-real-world-authenticity.md) — related
 - [Terms not initially recognized by some group members are quickly taken in, as shown by later recognition of those and similar terms](unrecognized-terms-quickly-taken-in.md) — related
+- [Managers value cross-domain fluency connecting quantum computation with domain areas such as chemistry, finance, AI, and optimization](cross-domain-fluency-quantum-applications-valued.md) — related

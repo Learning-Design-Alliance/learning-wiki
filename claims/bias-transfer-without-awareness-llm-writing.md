@@ -55,3 +55,5 @@ Post-task survey (5-point Likert items on perceived AI influence, counterfactual
 - [The video-task awareness measure did not correlate with misconceptions or conceptual change and is considered exploratory](awareness-video-task-null-correlations.md) — related
 - [The American Mock WHO simulation reported 90%–98% participant approval and perceived career influence](amwho-simulation-90-98-percent-approval.md) — related
 - [Workshop participants reported increased awareness of their decision-making processes and of decision-making biases](workshop-increased-decision-making-awareness-self-report.md) — related
+- [Dual-AI configurations whose biases bracket the participant's own view preserve performance gains while avoiding the subjective penalty and one-sided influence](balanced-dual-ai-preserves-gains-mitigates-costs.md) — related
+- [Participants systematically undervalue biased AI, rating it less helpful and less recommendable even when it improves their performance](perceived-helpfulness-penalty-for-biased-ai.md) — related

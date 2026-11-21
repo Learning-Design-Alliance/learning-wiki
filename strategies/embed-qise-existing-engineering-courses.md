@@ -50,6 +50,7 @@ The article recommends four growth opportunities for engineering programs: "Embe
 ## Related Strategies
 
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
+- [Integrate application-oriented QISE content into existing academic pathways, including a quantum applications course for all STEM majors and upskilling certificates](application-oriented-qise-pathways-strategy.md)
 
 ## Examples
 -

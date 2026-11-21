@@ -50,6 +50,7 @@ Worker and learner participants co-designed recommendations for employers across
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
 - [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
 - [Ensure equitable access to patient safety education across employment groups](equitable-training-access-employment-groups.md)
+- [Employers should clearly communicate job roles and hiring expectations and offer on-site resume feedback at career fairs](employer-clear-roles-resume-feedback-strategy.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The article recommends the game as a learning and outreach resource, stating "Qu
 ## Related Strategies
 
 - [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
+- [Use illustrated books and interactive games to introduce abstract quantum concepts to elementary students](illustrated-books-games-quantum-elementary.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Wilcoxon signed rank comparison of pre- and post-test scores (same 10 MCQs) afte
 - [Post-test performance categories differed significantly between PLM and CT, with far more exceptional performers after PLM (44 vs 20)](posttest-category-difference-plm-ct.md) — related
 - [Pretest score-category distributions did not differ significantly between the PLM and CT groups](pretest-equivalence-plm-ct.md) — related
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related
+- [Qualitative trends point to cognitive and metacognitive gains supported by peer teaching under the Jigsaw method](jigsaw-qualitative-metacognitive-gains.md) — related

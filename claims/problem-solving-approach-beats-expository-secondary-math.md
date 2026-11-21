@@ -67,3 +67,4 @@ Pre-test/post-test equivalent-group study of 48 tenth-grade girls (24 per group)
 - [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](cbpsi-improves-problem-solving-performance-grade-10.md) — a narrower finding that bears on this claim
 - [PSBLW improves mathematical problem-solving ability more than direct instruction](psblw-improves-math-problem-solving-ability.md) — related
 - [Students show fear of solving problems outside taught methods, limiting creative thinking performance](student-fear-of-untaught-methods-limits-creativity.md) — related
+- [GLBCC instruction produced significantly higher science literacy scores than expository learning in Grade XI physics (p < 0.001)](glbcc-higher-science-literacy-than-expository.md) — a narrower finding that bears on this claim

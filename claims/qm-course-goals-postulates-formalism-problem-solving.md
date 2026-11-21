@@ -69,3 +69,4 @@ In written responses and individual discussions, some instructors judged it "unl
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
 - [Instructors' approaches to helping students make sense of the wavefunction varied widely](qm-wavefunction-teaching-approaches-varied.md) — related
 - [Categorizing upper-level quantum mechanics problems mainly involves identifying concepts and procedures, whereas introductory physics categorization involves identifying fundamental principles](qm-categorization-concepts-procedures-not-principles.md) — related
+- [Traditional lecture is the plurality teaching method in upper-level undergraduate QM courses, but many instructors use interactive lecture or other non-traditional methods](qm-upper-level-traditional-lecture-plurality.md) — related

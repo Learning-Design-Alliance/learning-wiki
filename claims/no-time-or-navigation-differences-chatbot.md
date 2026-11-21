@@ -47,3 +47,4 @@ Behavioral/process measures from the same randomized test comparison, analyzed w
 ## Related Claims
 - [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related
 - [The chatbot's advantage was largest on questions about attendance requirements, midterm passing scores, and the course passing grade](chatbot-largest-gaps-logistics-questions.md) — related
+- [Number of video revisits did not differ significantly between the reels and long-form conditions](reelsed-video-revisits-not-significant.md) — related

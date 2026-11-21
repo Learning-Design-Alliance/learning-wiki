@@ -43,6 +43,7 @@ The article used a standardized protocol in which "A new conversation thread was
 ## Related Strategies
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Use a binary one-shot LLM evaluation of spoken reflections as a gate on podcast progress](binary-llm-reflection-gate-strategy.md)
 
 ## Examples
 -

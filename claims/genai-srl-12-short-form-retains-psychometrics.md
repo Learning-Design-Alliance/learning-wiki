@@ -80,3 +80,4 @@ p < 0.001) followed the correlational pattern of the full scale."
 - [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
+- [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related

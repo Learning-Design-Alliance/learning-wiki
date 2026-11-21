@@ -51,3 +51,4 @@ The essay reports, citing Kosch et al. (2023), a study in which "participants es
 - [People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — a broader claim this one bears on
 - [Anthropomorphic language about AIED tools misleads people into overestimating what the tools can do](anthropomorphic-language-misleads-about-aied.md) — related
+- [The performance benefit of biased AI requires actual biased content, not merely the belief that the AI is biased](bias-benefit-requires-actual-biased-content.md) — related

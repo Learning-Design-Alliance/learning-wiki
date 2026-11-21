@@ -12,7 +12,7 @@ generated:
 # Teaching-over-solving diagnostic
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes a lightweight diagnostic that reaggregates public tutoring benchmark scores into two composites: a solving composite (problem solving, solution correctness, mistake location, mistake correction) and a pedagogy composite (socratic questioning, scaffolding win rate, pedagogy instruction-following win rate, hard scaffolding, hard pedagogy instruction-following). For each model it defines "Gap(m) = Teach(m)−Solve(m)", where positive values indicate models relatively stronger on pedagogy than on solving. It is intended for education-oriented NLP work that lacks private classroom data.

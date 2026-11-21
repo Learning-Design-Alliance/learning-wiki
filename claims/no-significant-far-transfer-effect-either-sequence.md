@@ -52,3 +52,5 @@ General discussion of the two randomized classroom experiments: far-transfer Qua
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related
+- [PS-I outperforms I-PS on the interpersonal-relationship strategy in the near-transfer scenario (Client B)](ps-i-better-interpersonal-strategy-near-transfer.md) — related
+- [Problem-solving before instruction (PS-I) maintains diagnostic performance in a complex far-transfer scenario where instruction-first (I-PS) students decline](ps-i-maintains-far-transfer-diagnostic-performance.md) — reports the opposite

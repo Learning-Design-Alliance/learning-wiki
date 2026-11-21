@@ -28,4 +28,4 @@ An open-source Python package developed by Goscinski et al. for building Jupyter
 -
 
 ## Key Sources
-- Goscinski, A., Baird, T. J., Du, D., Prado, J., Suman, D., Sodjargal, T.-E., Bonella, S., Pizzi, G., & Ceriotti, M. (2025). scicode-widgets: Bringing Computational Experiments to the Classroom with Jupyter Widgets. https://arxiv.org/abs/2507.05734
+- Goscinski, A., Baird, T. J., Du, D., Prado, J., Suman, D., Sodjargal, T.-E., Bonella, S., Pizzi, G., & Ceriotti, M. (2025). scicode-widgets: Bringing Computational Experiments to the Classroom with Jupyter Widgets. https://arxiv.org/abs/2507.05734. [doi:10.48550/arxiv.2507.05734](https://doi.org/10.48550/arxiv.2507.05734)

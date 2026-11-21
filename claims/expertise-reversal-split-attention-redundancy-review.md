@@ -110,3 +110,4 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — related
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
 - [LM-based simulated expert evaluations replicate the Expertise Reversal Effect: low-expertise learners benefit more from worked examples than practice, with no such difference among high-expertise learners](see-replicates-expertise-reversal-effect.md) — related
+- [Concise expert-written explanations significantly outperform both self-learning and pipeline-generated explanations among high-baseline learners](expert-explanations-benefit-high-baseline-learners.md) — related

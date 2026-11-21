@@ -29,4 +29,4 @@ A curriculum-planning framework adapted by El-Adawy et al. for organizing quantu
 -
 
 ## Key Sources
-- El-Adawy, S., Piña, A. R., Zwickl, B. M., & Lewandowski, H. J. (2025). Insights from Educators on Building a More Cohesive Quantum Information Science and Engineering Education Ecosystem. arXiv. https://arxiv.org/abs/2507.01578
+- El-Adawy, S., Piña, A. R., Zwickl, B. M., & Lewandowski, H. J. (2025). Insights from Educators on Building a More Cohesive Quantum Information Science and Engineering Education Ecosystem. arXiv. https://arxiv.org/abs/2507.01578. [doi:10.1103/tfmb-hnvz](https://doi.org/10.1103/tfmb-hnvz)

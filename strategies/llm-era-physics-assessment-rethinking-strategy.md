@@ -49,9 +49,10 @@ Based on the finding that tested LLMs solve advanced Olympiad physics problems a
 ## Related Strategies
 
 - [Use physics competition tasks as authentic problem sources spanning beginner to highly complex levels](competition-tasks-authentic-problem-sources.md)
+- [Retire unsupervised closed-response online assessment and shift credit toward process evidence, supervised settings, and AI-transparent work](retire-unsupervised-online-assessment-shift-process-evidence.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Tschisgale, P., Maus, H., Kieser, F., Kroehs, B., Petersen, S., & Wulff, P. (2025). Evaluating GPT- and Reasoning-based Large Language Models on Physics Olympiad Problems: Surpassing Human Performance and Implications for Educational Assessment. https://arxiv.org/abs/2505.09438
+- Tschisgale, P., Maus, H., Kieser, F., Kroehs, B., Petersen, S., & Wulff, P. (2025). Evaluating GPT- and Reasoning-based Large Language Models on Physics Olympiad Problems: Surpassing Human Performance and Implications for Educational Assessment. https://arxiv.org/abs/2505.09438. [doi:10.1103/6fmx-bsnl](https://doi.org/10.1103/6fmx-bsnl)

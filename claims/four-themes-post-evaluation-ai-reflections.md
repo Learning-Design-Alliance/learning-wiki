@@ -84,3 +84,4 @@ Context-specific sentiment analysis with a custom lexicon and LDA topic modellin
 - [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related
 - [No themes in the thematic analysis related to the Evaluation and Feedback step of Kern's curriculum design process.](no-themes-evaluation-feedback-step.md) — related
 - [Students' willingness to use AI varies by task type: greater acceptance for research and idea generation, hesitation for writing and homework](ai-willingness-varies-by-task-type.md) — related
+- [Students attribute the usefulness of AI-generated feedback to twelve features spanning four themes: Evaluation, Content, Presentation, and Depth](twelve-valued-ai-feedback-features-four-themes.md) — related

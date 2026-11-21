@@ -41,7 +41,8 @@ The article recommends that future work broaden how learners interact with textb
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Extend AI-augmented textbooks with dynamic adaptivity, richer learner attributes, and teacher-facing integration](future-adaptivity-and-teacher-integration-strategy.md)
 
 ## Examples
 -

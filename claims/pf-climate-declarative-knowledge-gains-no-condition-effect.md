@@ -50,3 +50,4 @@ Linear mixed-model analysis of the five declarative climate items (subject neste
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
 - [PF students scored significantly higher than DI students on climate explanatory knowledge](pf-beats-di-climate-explanatory-knowledge.md) — related
 - [Both treatment groups significantly improved complex systems explanatory knowledge, and students taught by the content-expert teacher learned more than those taught by less expert teachers](pf-complex-systems-knowledge-teacher-expertise-effect.md) — related
+- [No effect of instructional condition, pretest, or condition-by-scenario interaction across diagnostic strategies](no-condition-effect-across-strategies.md) — related

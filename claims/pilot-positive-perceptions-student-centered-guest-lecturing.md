@@ -57,3 +57,4 @@ Pilot implementation of study period 1 in an online graduate-level course: a web
 - [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related
 - [Weekly surveys found 83% of students thought Mathematica and LabVIEW activities were very helpful but only 65% enjoyed them due to short time](weekly-survey-83-percent-helpful-65-percent-enjoyed.md) — related
 - [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related
+- [In the 2024 pilot, most students reported increased STEM interest and rated SPARC effective or superior to traditional instruction](sparc-2024-pilot-engagement-perceptions.md) — related

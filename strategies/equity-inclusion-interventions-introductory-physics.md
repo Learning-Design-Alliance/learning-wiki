@@ -55,6 +55,7 @@ The article recommends that physics departments direct equity and inclusion effo
 - [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
 - [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 - [Use introductory physics courses as a venue for improving calculus fluency and transfer skills, with attention to self-efficacy effects on women](calculus-emphasis-introductory-physics-strategy.md)
+- [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 224 claims (144 show a difference, 47 mixed, 33 no difference) · 169 studies (61 causal, 42 associational, 27 review, 15 quant-synthesis, 10 qualitative, 8 design, 6 theoretical), `q1`–`q4` · 31 of 169 report an effect size · 218 claims rest on one study
+> **Evidence** · 226 claims (146 show a difference, 47 mixed, 33 no difference) · 171 studies (61 causal, 42 associational, 27 review, 15 quant-synthesis, 11 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 31 of 171 report an effect size · 220 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -262,6 +262,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](../claims/online-rba-distraction-no-score-impact.md) [-M] — learners who differ on it differ in outcomes
 - [Instructor-present video lectures improved self-reported attention among honest students relative to instructor-absent lectures](../claims/instructor-present-videos-improved-attention.md) [+W] — measured as an outcome of the instruction studied
 - [Mind wandering occupies roughly 30% of time in educational activities and accounts for approximately 7% of variability in learning outcomes, per the literature the dissertation reviews](../claims/mind-wandering-30-percent-time-7-percent-outcome-variability.md) [+M] — learners who differ on it differ in outcomes
+- [A combined motivation and behavior EER re-engaged distracted group members and adjusted the thermometer unit](../claims/motivation-behavior-eer-reengagement-thermometer.md) [+W] — measured as an outcome of the instruction studied
+- [Qualitative student feedback attributed increased motivation, sustained attention, and easier comprehension to the immersive 3D presentation and interactive AI support](../claims/qualitative-feedback-motivation-immersive-3d-ai-support.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]
