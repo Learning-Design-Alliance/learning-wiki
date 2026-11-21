@@ -28,4 +28,4 @@ A released SQLite3 dataset of English subtitled YouTube educational resources ac
 -
 
 ## Key Sources
-- Molavi, Mohammadreza; Moein, Mohammad; Tavakoli, Mohammadreza; Faraji, Abdolali; Mol, Stefan T.; Kismihók, Gábor. (2025). Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance. https://arxiv.org/abs/2512.13658
+- Molavi, Mohammadreza; Moein, Mohammad; Tavakoli, Mohammadreza; Faraji, Abdolali; Mol, Stefan T.; Kismihók, Gábor. (2025). Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance. https://arxiv.org/abs/2512.13658. [doi:10.48550/arxiv.2512.13658](https://doi.org/10.48550/arxiv.2512.13658)

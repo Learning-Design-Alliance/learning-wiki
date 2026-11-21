@@ -48,6 +48,7 @@ The article recommends that instructors who wish to eliminate the use of behavio
 
 - [Rethinking Accountability](rethinking_accountability.md)
 - [Eliminate Homework and Extra Credit](eliminate_homework_and_extra_credit.md)
+- [Instructors can reduce blank-related grade inequity by minimizing opportunities for blank leaving or using grading practices that limit the impact of blanks](minimize-blank-impacts-grading-practices.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Post-test independent t-tests (n = 36 per group) on the Pintrich et al. value co
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — a broader claim this one bears on
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — related
+- [Interactive learning raised extrinsic and general motivation but left intrinsic motivation unaffected](interactive-motivation-extrinsic-up-intrinsic-null.md) — related

@@ -51,3 +51,4 @@ RL training experiment on the BigMath tutoring task with a Llama-3.1-8B-Instruct
 - [GRPO pedagogical alignment of a reasoning LLM lowers actual student learning while raising judge-rated helpfulness (a multi-dimensional alignment tax)](grpo-pedagogical-alignment-tax-lowers-learning.md) — related
 - [On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost](tei4-beats-dtr4-and-greedy-same-base.md) — related
 - [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](dtr-does-not-predict-tutoring-quality.md) — related
+- [The positive correlation between tutor Praise rate and total reward is concentrated in NoThink dialogs and localized to closing turns, with null or negative effects under Think variants](praise-reward-correlation-nothink-late-turns.md) — related

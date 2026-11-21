@@ -50,3 +50,4 @@ Observational analysis of 10 years of institutional records at one large public 
 - [URM students consistently earn lower GPAs than non-URM peers, roughly 0.3 grade points lower among chemistry, computer science, engineering, mathematics, and physics majors](urm-lower-gpa-across-majors.md) — related
 - [In the second STEM major cluster, URM students who earn a degree earn on average the same grades as Asian and White students who drop the major](urm-degree-earners-grades-match-non-urm-droppers.md) — related
 - [GPA differences between degree-earners and major-droppers vary by major cluster, from roughly 0.6 grade points in the first STEM cluster to roughly 0.2 in the second](gpa-gap-earners-vs-droppers-by-cluster.md) — related
+- [Physics has the highest attrition rate of all majors, with more than one third of declared majors dropping it](physics-highest-attrition-rate.md) — related

@@ -81,3 +81,4 @@ Topic-level analysis of the same survey found Asymptotic Analysis (Comfort media
 - [B-range students in high-comfort or high-activity software-matched groups had significantly higher final exam scores](b-range-students-high-comfort-groups-higher-exam-scores.md) — related
 - [Students' self-reported self-confidence in the subject rose from before to after the assignment within the LLM-guided reflection group (Study 1)](llm-reflection-confidence-increase-study1.md) — related
 - [Students reported transferring confidence-rating and explanation strategies from the practice tool to actual midterms and future courses](metacognitive-strategies-transferred-to-real-exams.md) — related
+- [Outreach participants showed significant pre/post gains in data-analysis comfort and AI explanation confidence with large effect sizes (r = .80 and .84, n = 10 matched pairs)](self-efficacy-gains-outreach-workshop.md) — related

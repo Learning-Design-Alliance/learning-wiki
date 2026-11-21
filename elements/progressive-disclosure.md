@@ -80,6 +80,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 - [Search for techniques such as sufficient learning time, navigational guidance, interface design, and progressive or controlled disclosure of details to increase supplantation and attenuate overload in desktop VR](../strategies/techniques-increase-supplantation-attenuate-overload-desktop-vr.md)
 - [Hide information in early representations to reduce cognitive load before introducing more complex ones](../strategies/black-box-hiding-reduce-cognitive-load-sequencing.md)
 - [Decompose complex open statistics exercises into path-dependent stages with fallback stages and accepted input corridors](../strategies/staged-path-dependent-exercise-decomposition.md)
+- [Calibrate AI-generated material complexity and organize access to avoid overwhelming students, and identify high-cognitive-load students early](../strategies/calibrate-ai-material-cognitive-load-strategy.md)
 
 ## Key Sources
 - Mayer, R. E., & Chandler, P. (2001). When learning is harder than it has to be: Simultaneous, successive, and segmented multimedia presentations. *Journal of Educational Psychology, 93*(3), 638–650.

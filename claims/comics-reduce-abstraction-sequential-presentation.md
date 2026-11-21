@@ -52,3 +52,4 @@ The author's interpretation in the discussion section about why comic materials 
 - [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — related
 - [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Comics and animation are reported to be effective for physics instruction and to increase motivation and retention](comics-animation-effective-physics-instruction.md) — related

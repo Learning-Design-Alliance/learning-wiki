@@ -51,3 +51,4 @@ A theoretical argument in the introduction, citing prior empirical work (Cronin 
 - [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](st3-feedback-universal-across-st-literature.md)
 - [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — a broader claim this one bears on
 - [Implementing a multi-type particle interaction model as an interdisciplinary project is proposed to develop STEM competencies including computational thinking, mathematical modeling, and understanding of complex systems](particle-model-project-stem-competencies.md) — related
+- [Physics PhD as training in methods for studying complex systems, including AI itself](phd-as-complex-systems-training.md) — related

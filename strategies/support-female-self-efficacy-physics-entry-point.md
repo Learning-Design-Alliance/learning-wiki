@@ -51,6 +51,7 @@ The article recommends intervening at students' entry point into physics educati
 - [Run a pre-matriculation summer bridge program with an open-ended inquiry curriculum to build community before freshman year](summer-bridge-open-ended-inquiry-community-strategy.md)
 - [Counter-programming in secondary schools to address physics stereotypes and improve women's physics self-efficacy before engineering coursework](secondary-school-counter-programming-physics-self-efficacy.md)
 - [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
+- [Build confidence and early mastery experiences to address self-efficacy gaps and miscalibrated difficulty perceptions in introductory programming](confidence-building-mastery-experiences-cs1-strategy.md)
 
 ## Examples
 -

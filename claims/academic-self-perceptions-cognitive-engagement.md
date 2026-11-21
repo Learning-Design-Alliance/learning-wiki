@@ -49,3 +49,4 @@ Path analysis of the 554-student SEM model. Academic Self-Perceptions was the on
 - [Four educational environment subscales directly and positively affect emotional engagement, explaining 48% of its variance in HPE students](environment-subscales-predict-emotional-engagement.md) — related
 - [A regression model combining self-regulation, engagement and self-efficacy explains 36% of variance in perceived academic success](three-predictors-explain-36-percent-variance-academic-success.md) — related
 - [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](academic-self-concept-strongest-motivational-predictor.md) — related
+- [Personality, motivation and emotion shape learning outcomes as strongly as cognitive ability, yet are ignored in AI-in-education design](engagement-dimensions-shape-learning-as-strongly-as-cognition.md) — related

@@ -50,3 +50,4 @@ Observational analysis of UW student database records (Table 2) comparing STEM g
 - [Pre-MAP graduates earn cumulative GPAs not significantly different from UW, STEM, Physics, or Astronomy majors, but underperform in upper-level physics while excelling in astronomy courses](premap-gpa-physics-astronomy-course-performance.md) — related
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
 - [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related
+- [A propensity-matched evaluation of the Freshman Research Initiative found measurable gains in STEM graduation and on-time completion for students completing the full three-course sequence](fri-propensity-matched-stem-gains.md) — related

@@ -49,6 +49,7 @@ Whenever AI-supported teacher-development systems involve affective, behavioral,
 - [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](three-trends-safeguarding-student-privacy-analytics.md)
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 - [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
+- [Govern behavioural architecture in education at EU level through three mechanisms: portable inferred data, independent certification, and interoperability standards](eu-level-governance-behavioural-architecture.md)
 
 ## Examples
 -

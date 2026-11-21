@@ -71,3 +71,4 @@ Overall performance of the grading system on the same exam: "high pre- cision in
 - [Students rated Ethel's handwritten-homework feedback helpful and correct in 3/4th of cases, but the system tended to underestimate solution correctness, mostly due to handwriting recognition](ethel-homework-feedback-ratings.md) — related
 - [LLM handwriting recognition of scanned physics solutions is decent but not sufficiently reliable for grading real exam papers](llm-handwriting-recognition-unreliable-for-grading.md) — related
 - [Graphical GenAI systems failed to produce reliable scientific illustrations for college-level content, with error rates approaching 100%](image-genai-error-rates-approaching-100-percent.md) — related
+- [LLM grading of handwritten physics is reliable for fully correct scripts but substantially less accurate for imperfect scripts requiring partial credit](handwritten-partial-credit-remains-hard.md) — related

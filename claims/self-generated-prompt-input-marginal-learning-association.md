@@ -69,3 +69,4 @@ T-test comparing conditions on annotated proportions of personally written promp
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
 - [A structured prompting interface produced no significant differences in learning or performance compared with free ChatGPT use in graduate robotics labs](structured-prompting-interface-no-learning-performance-difference.md) — related
+- [Interactive learning students performed only marginally better than traditional students on assignments](interactive-assignment-difference-marginal.md) — related

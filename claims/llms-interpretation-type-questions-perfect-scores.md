@@ -70,3 +70,4 @@ One-sample Wilcoxon signed-rank test on interpretation-type scores versus all tr
 - [On recall-type questions, all four LLMs outperformed both residents and fellows, with ChatGPT-5 highest at 92.59%](llms-outperform-trainees-recall-type-questions.md) — related
 - [On problem-solving-type questions, all LLMs scored lower than average fellows and none significantly outperformed trainees](llms-weaker-on-problem-solving-type-questions.md) — related
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
+- [Generation 5 LLMs reach near-perfect scores on text-based undergraduate physics benchmarks, with standard errors near zero](gen5-llms-saturate-text-physics-benchmarks.md) — related

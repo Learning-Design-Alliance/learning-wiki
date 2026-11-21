@@ -61,8 +61,10 @@ Movement-based counting exploits two supports for memory: rhythmic grouping, whi
 6. Fade support: drop the whispers, then the movement, and check that students can produce the sequence unaided.
 
 ## Related Strategies
+
 - [Counting Circles](counting_circles.md) — oral count-around-the-circle routine targeting the same fluency goal without movement
 - [Choral Counting](choral-counting.md) — public recording of count-bys that makes the pattern visible on the board, complementing the embodied version
+- [Offer seated and low-amplitude gesture alternatives so embodied learning systems remain accessible to all participants](seated-low-amplitude-gesture-alternatives.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the routine is repeated, low-stakes practice toward automaticity

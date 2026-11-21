@@ -50,3 +50,4 @@ Qualitative content analysis of open-ended questionnaire responses from 97 Hong 
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — related
+- [Qualitative: RL-condition participants valued initial failure before AI access, while Always-condition participants reported laziness and dependence](qualitative-themes-initial-failure-vs-dependence.md) — related

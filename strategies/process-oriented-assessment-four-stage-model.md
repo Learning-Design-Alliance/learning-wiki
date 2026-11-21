@@ -68,6 +68,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 - [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
 - [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](process-tracing-ai-dialogue-assessment-strategy.md)
+- [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 - [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
 - [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](phase-matched-cfc-analogy-template-usage.md)
 - [Instructor-provided physical artifacts plus gesture prompts to help students translate between representations](instructor-physical-artifact-gesture-translation-strategy.md)
+- [Mathematica programming assignments to build mental representations of mathematical objects](mathematica-assignments-mental-representations.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — manipulation must be followed by practice that consolidates the concept

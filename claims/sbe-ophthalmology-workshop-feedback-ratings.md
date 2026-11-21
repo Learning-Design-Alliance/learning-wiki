@@ -62,3 +62,4 @@ Immediate post-workshop Likert feedback survey (Kirkpatrick level 1) in the pilo
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
 - [Students rated educational workshops the most desired program development, above higher stipends](konkoly-survey-workshops-most-wanted.md) — related
+- [Students rate USEQIP lab activities highly on interest, relevance, and novelty](useqip-lab-likert-ratings-high.md) — related

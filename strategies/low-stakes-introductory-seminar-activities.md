@@ -50,6 +50,7 @@ The guide recommends that beginners start seminar participation with bounded, lo
 - [Progressively answer three questions while reading: what problem, how addressed, what was found](three-question-paper-reading-scaffold.md)
 - [Walk through plots slowly: axes first, then legend, then scientific meaning, privileging the paper's own dataset](plot-walkthrough-axes-legend-meaning-strategy.md)
 - [Retrieval Practice Openers](retrieval-practice-openers.md)
+- [Reading guides plus pre-class quizzes and think-pair-share discussion of theory papers](reading-guide-quiz-think-pair-share-theory-papers.md)
 
 ## Examples
 -

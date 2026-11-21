@@ -71,6 +71,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 - [Structure discussion section time with a short objectives review, a structured activity, and follow-up review](structured-discussion-section-time-recipe.md)
 - [Keep lessons simple and be flexibly prescriptive: narrow objectives, chunked code, one way first](keep-it-simple-flexibly-prescriptive.md)
 - [Structure MicroSim lesson plans as a PRIMM progression: Predict, Run, Investigate, Modify, Make](microsim-primm-lesson-progression.md)
+- [Deploy the module in full, partial, or flipped modes with a minute-by-minute 50-minute timing plan](superposition-module-deployment-modes.md)
 
 ## Examples
 - **[Success for All](../products/success-for-all.md)** reading program — tightly scripted daily lesson plans with built-in regrouping based on assessment data; one of the most extensively evaluated structured-planning interventions in K–12 research

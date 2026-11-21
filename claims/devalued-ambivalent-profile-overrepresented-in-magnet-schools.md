@@ -71,3 +71,4 @@ Post hoc multiple comparisons test following the chi-square analysis: "the Deval
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
 - [Magnet schools show significantly lower cultural and critical mathematics instruction and higher racial stereotyping than neighborhood schools](magnet-schools-lower-ccmi-higher-stereotyping.md) — related
+- [Course type is statistically associated with PLIC profile membership at both timepoints, but the effect is small (Cramér's V ≈ 0.10)](course-type-small-effect-plic-profiles.md) — related

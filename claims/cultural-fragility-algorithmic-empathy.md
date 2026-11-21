@@ -84,3 +84,4 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [Cultural factors shape PBL processes, experiences and outcomes, requiring careful consideration in implementation](cultural-factors-shape-pbl-processes.md) — related
 - [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — related
 - [Faculty in this study displayed cognitive rather than emotional empathy toward struggling students](cognitive-not-emotional-empathy-faculty.md) — related
+- [AI systems giving definitive diagnoses without expressing appropriate uncertainty can reinforce rather than correct misconceptions](ai-definitive-diagnoses-reinforce-misconceptions.md) — related

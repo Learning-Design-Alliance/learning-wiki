@@ -76,3 +76,4 @@ Same correlational analysis, CLM extraneous subscale against QCM: "extraneous co
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related
+- [Germane load showed a degree of negative correlation with total score and CA2, suggesting assessment policies may not reward deep reflection](germane-load-negative-correlation-ca2.md) — related

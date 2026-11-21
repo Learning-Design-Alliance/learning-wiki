@@ -97,3 +97,4 @@ In the same ablation study, removing the Cognitive Clarity module lowered the Lo
 - [Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required](structure-and-layout-required-for-ai-grading.md) — related
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
 - [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related
+- [Ablating the inductive bias components monotonically weakens the correlation between annotated mechanistic-reasoning evidence and posterior mass on state S1](inductive-bias-ablation-weakens-s1-correlation.md) — related

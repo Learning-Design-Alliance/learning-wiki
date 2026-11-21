@@ -53,3 +53,4 @@ Expert rating of concept adequacy (quantum measurement, superposition, probabili
 - [Pairs of qubit representations with the same dimensionality receive the highest expert ratings for overlap/redundancy](same-dimension-pairs-highest-overlap-redundancy.md) — related
 - [Dutch quantum experts rated the coin metaphor highest for superposition and the dice metaphor highest for entanglement, and reported high likelihood of using metaphors with non-experts](quantum-experts-rate-coin-dice-metaphors-most-accurate.md) — related
 - [Type of visual qubit representation (Bloch sphere vs. Quantum Bead) has no significant effect on post-test conceptual learning outcomes in secondary students](qubit-representation-no-posttest-outcome-effect.md) — related
+- [The Bloch sphere mini-game ranked highest for preference, teaching effectiveness and motivation, while quantum circuits ranked lowest across all criteria](qubitquest-mini-game-rankings.md) — related

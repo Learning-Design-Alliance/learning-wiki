@@ -65,3 +65,4 @@ Human evaluation (RQ3): two annotators independently rated 100 solution-feedback
 - [Automated analysis found AI-mediated feedback offered significantly greater actionability and stronger support for independent learning than human-only feedback](ai-mediated-feedback-actionability-independent-learning.md) — reports the opposite
 - [Human raters judge ParLD's inferred cognitive states more accurate and coherent than Direct Analyze](parld-diagnostic-quality-ratings-beat-da.md) — related
 - [TAs found AI suggestions generally accurate and helpful for uncovering overlooked errors, understanding rubrics, and framing feedback](tas-found-ai-suggestions-accurate-and-helpful.md) — reports the opposite
+- [In exploratory conversational mode, directing prompts at specific rubric items and report elements allowed the model to incorporate evidence missed in batch grading](conversational-mode-recovers-missed-evidence.md) — related

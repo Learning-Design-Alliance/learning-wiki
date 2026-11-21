@@ -51,3 +51,4 @@ Known-groups comparison on the collaboration scale (n = 141: 73 CURE, 68 traditi
 - [CURE students give higher overall LCAS total ratings than traditional lab students](lcas-total-score-cures-higher.md) — related
 - [Students and instructors show high agreement in designating courses as CUREs or traditional labs, supporting the LCAS as a measure of course design](student-instructor-agreement-course-designation.md) — related
 - [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related
+- [Students in the CURE-like PEPPER lab and the SALT lab show no statistically significant differences in postsurvey scores on five measured constructs](pepper-salt-no-significant-outcome-differences.md) — related

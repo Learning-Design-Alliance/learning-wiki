@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-21
 sources:
   - id: junaid-qadir-and-muhammad-salman-khan-2026
     resource: "https://doi.org/10.1109/educon67543.2026.11574210"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 140 students in two engineering courses, "Group work + AI (GCI)" was the most preferred learning method (50% overall), while group work without AI was least preferred (4%). [→ Junaid Qadir and Muhammad Salman Khan 2026](#junaid-qadir-and-muhammad-salman-khan-2026)

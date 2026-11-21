@@ -48,3 +48,4 @@ Spearman correlation analysis of TA versus AI part grades across all four proble
 ## Related Claims
 - [Automated grading was substantially less reliable for graphical solutions than mathematical derivations, and showed high precision but low recall in identifying passing exam solutions](ethel-grading-reliability-format-precision-recall.md) — possibly the same claim (merge candidate)
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
+- [Across models, higher problem-solving accuracy is associated with lower grading error on imperfect handwritten scripts, more strongly for text-based than diagram-based accuracy](reasoning-accuracy-predicts-grading-reliability.md) — related

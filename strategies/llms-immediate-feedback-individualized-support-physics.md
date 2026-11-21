@@ -51,6 +51,7 @@ Based on their finding that LLMs underperform students on physics exams yet rema
 - [Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators](automated-reflection-preliminary-feedback-educator-final.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Combine ChatGPT with human teachers in dialogic teaching rather than replacing human teachers](combine-chatgpt-with-human-teachers-strategy.md)
+- [Devote early course time to LLM capabilities, limitations, and best practices, then let students decide for themselves whether to use LLMs in their research](early-llm-onboarding-course-design-strategy.md)
 
 ## Examples
 -

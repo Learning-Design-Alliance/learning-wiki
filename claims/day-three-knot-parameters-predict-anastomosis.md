@@ -69,3 +69,4 @@ ROC-based odds ratios from day-3 knot results (Tables 5 and Fig. 6) show analyti
 - [Anastomosis success was not significantly associated with participants' experience level, healthcare facility reference level, or specialization](anastomosis-success-independent-of-experience-and-specialty.md) — related
 - [Intensive three-day simulator training significantly improves single surgical knot performance across time, movement economy, smoothness, acceleration, instrument activity and overall score](intensive-simulator-training-improves-single-surgical-knot-metrics.md) — related
 - [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related
+- [Progression stabilized after the calendar midpoint: among users active on Day 12 in 2025, over 76% stayed until the final challenge](ki-adventskalender-midpoint-persistence.md) — related

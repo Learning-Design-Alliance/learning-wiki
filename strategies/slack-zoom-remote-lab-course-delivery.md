@@ -48,6 +48,7 @@ To convert the course to remote teaching, the instructors used a Slack workspace
 - [Deliver virtual labs synchronously via live video conference and post recordings to the LMS](synchronous-video-labs-with-lms-recordings.md)
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Fully web-enhanced lab delivery through an LMS with recorded sessions in synchronous and asynchronous modes](lms-recorded-synchronous-asynchronous-lab-delivery.md)
+- [Live mentoring sessions and Slack support to tailor containerization training to participants' computing environments](live-mentoring-slack-support-tailoring.md)
 
 ## Examples
 -

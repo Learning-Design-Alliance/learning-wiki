@@ -50,3 +50,4 @@ An exploratory experiment in which the researchers corrected three LLMs' incorre
 - [A single correction by ChatGPT-4 is insufficient: the same physics error re-emerges after further probing questions](chatgpt4-error-reemerges-after-probing.md) — a narrower finding that bears on this claim
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
 - [LLM-generated incorrect-explanation categories persisted across multiple API runs, indicating consistent grading performance](llm-categories-persist-across-runs.md) — related
+- [Single-turn prompts are insufficient for most realistic LLM-assisted data analysis tasks](single-turn-prompts-insufficient-llm-data-analysis.md) — related

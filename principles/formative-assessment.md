@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (41 for, 24 mixed) · 71 studies (23 causal, 14 review, 13 quant-synthesis, 7 design, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 19 of 71 report an effect size · 52 claims rest on one study
+> **Evidence** · 66 claims (42 for, 24 mixed) · 72 studies (23 causal, 14 review, 13 quant-synthesis, 8 design, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 19 of 72 report an effect size · 53 claims rest on one study
 
 ## Description
 
@@ -154,6 +154,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Student-produced physics videos reveal learning difficulties that formal assessments such as tests and questionnaires do not expose](../claims/videos-reveal-difficulties-hidden-from-tests.md) [+W] — attached 2026-11-17 from Eduardo Gama (2013), which proposed "Use student video production as a formative assessment tool in high school physics".
 - [Singaporean secondary students using the real-and-virtual measurement lesson scored an average of 88% correct on seven formative measurement questions](../claims/students-88-percent-average-correct-measurement-questions.md) [+W] — attached 2026-11-17 from Wee et al. (2014), which proposed "Design assessment-for-learning input fields with differentiated automated feedback so students practise, test and evaluate their understanding".
 - [Informal one-to-one evaluation during the workshop showed growing student understanding of detector operation, particle families, and force carriers](../claims/informal-growing-understanding-detector-particles.md) [+W] — attached 2026-11-18 from I. Andrews (2018), which proposed "Conclude art-science workshops with a group critique that reinforces concepts and dispels misconceptions".
+- [At one intermediate stage, textbook-correct and analytically valid responses diverged: strict Q3 accuracy was 10% but rose to 62% when structurally defensible step-change responses were credited](../claims/dual-accuracy-divergence-q3.md) [+W] — attached 2026-11-21 from Haolin Feng et al. (2026), which proposed "Evaluate in-class polls as Evidence-Centred Design evidence probes rather than quiz items, using inclusive dual-accuracy scoring that credits analytically defensible responses".
 
 ## Source verification and open tests
 

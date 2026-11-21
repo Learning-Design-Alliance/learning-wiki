@@ -65,3 +65,4 @@ Random effects meta-analysis of 38 PER studies reporting mean FCI scores by gend
 - [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related
 - [Female and male participants scored similarly on quantum outreach satisfaction measures](gender-similar-scores-quantum-outreach.md) — related
 - [No statistically significant difference between male and female students in FCI pre-test % correct or %nDM means](fci-pretest-gender-no-significant-difference.md) — reports the opposite
+- [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related

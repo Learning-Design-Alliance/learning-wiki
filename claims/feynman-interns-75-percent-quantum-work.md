@@ -48,3 +48,4 @@ Alumni outcome tracking reported in the article's conclusion, based on the progr
 ## Related Claims
 - [The Feynman Quantum Academy supported 60 student internships between 2016 and 2024, serving students from a range of educational levels.](feynman-academy-60-internships-2016-2024.md) — related
 - [Most former Feynman Academy interns progressed to doctoral study: 48 of 60 (81%) had completed or were enrolled in a PhD.](feynman-interns-81-percent-doctorate.md) — related
+- [75% of USEQIP alumni with completed undergraduate degrees and findable information continued into quantum-related graduate studies](useqip-alumni-75-percent-quantum-graduate-studies.md) — related

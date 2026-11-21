@@ -50,3 +50,4 @@ Self-report from anonymous end-of-semester surveys across seminar iterations, wh
 - [Each essay rubric dimension separately favored seminar students: structure d = 0.76, accuracy d = 0.74, understanding d = 0.97](essay-rubric-subcomponent-differences.md) — related
 - [Most students reported transferring Mathematica use into their other coursework that semester, mostly in graphing-calculator or math-handbook modes rather than extensive programming](mathematica-transfer-to-other-coursework.md) — related
 - [Students rated the first-year nanoengineering seminar favorably across instruction effectiveness, understanding, organization, and instructional methods in two offerings](favorable-student-ratings-nano-seminar.md) — related
+- [Students reported positive perceptions of VISAR, particularly for visual reasoning and argument-structure features](visar-positive-perceived-utility.md) — related

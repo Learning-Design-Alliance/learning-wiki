@@ -67,3 +67,4 @@ Teaching condition showed no effect on post-test performance (β = −0.00, p = 
 ## Related Claims
 - [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — related
 - [Co-teaching does not differ from solo teaching in the development of students' mathematics self-concept and interest](co-teaching-no-motivation-development-benefit.md) — related
+- [Co-teachers rated the course as more meaningful and engaging for students than teaching fellows did (4.88 vs. 3.92 meaningful; 4.25 vs. 3.92 engaging)](educator-divergence-meaningfulness-engagement-ratings.md) — related

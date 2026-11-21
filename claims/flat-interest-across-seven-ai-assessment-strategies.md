@@ -49,3 +49,4 @@ Registration data from the 28 July 2026 workshop: of 118 registrants, interest d
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related
+- [Among instructors who redesigned courses, the most common estimate was that 20-40% of assignments changed due to generative AI concerns, with some reporting more than 60%](assignment-redesign-proportion-20-40-percent.md) — related

@@ -49,3 +49,4 @@ The editorial summarizes the Molenaar, Chiu, Sleegers, and van Boxtel controlled
 - [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related
 - [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related
 - [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](problematizing-scaffolds-better-group-performance.md) — related
+- [A between-groups study with 173 pharmacy technician apprentices comparing structuring, problematizing, and hybrid scaffolding was conducted in January 2026, with results under analysis](pharmasim-between-groups-study-173-apprentices.md) — related

@@ -69,3 +69,4 @@ Coded chat messages in the Control condition showed disengagement beginning by t
 - [The Peer role fosters the deepest learning absorption, exceeding the Tutee role, and Peer and Challenger roles exceed Control in absorption and fluency](peer-role-fosters-absorption-and-fluency.md) — related
 - [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Sustained scaffolding—continuing to guide rather than execute on the student's behalf—differentiates high- from low-performing optimization methods across dialog turns](sustained-scaffolding-differentiates-method-performance.md) — related

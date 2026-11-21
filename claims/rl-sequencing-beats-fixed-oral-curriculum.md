@@ -59,3 +59,4 @@ Controlled eight-week training experiment comparing RL-optimized sequencing agai
 - [Adaptive navigation support is less directive and more cooperative than traditional curriculum sequencing](adaptive-navigation-support-less-directive-than-sequencing.md) — related
 - [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](reinforcement-learning-micro-adaptation-gains.md) — related
 - [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — a narrower finding that bears on this claim
+- [A personality- and emotion-adaptive GenAI content system produced higher task completion and study duration in a 200-student quasi-experiment](page-system-personality-emotion-adaptive-quasi-experiment.md) — related

@@ -51,3 +51,4 @@ Analysis of variance in the 36-participant mixed-design experiment revealed medi
 - [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — related
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related
+- [Algorithm visualization was used sparsely and mostly passively, often failed to help learners progress, and some participants preferred making their own pen-and-paper visualizations](av-used-passively-ineffectively-cs2.md) — related

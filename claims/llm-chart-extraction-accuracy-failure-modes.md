@@ -53,3 +53,4 @@ Informal assessment of the optional Layer 3 extraction over textbook chart image
 - [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
 - [MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values](mllm-fine-grained-quantitative-misestimation-scivis.md) — related
+- [Invalid AI evaluations were mainly associated with restricted access to evidence during text extraction and OCR, particularly for equations, figures, and graphs](invalid-ai-evaluations-evidence-accessibility.md) — related

@@ -74,3 +74,4 @@ Discouragement item (n=219 responses). The inaccuracy reason was rated 'a lot' b
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
 - [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related
 - [Interviews identify CV creation and review challenges: structure confusion, over-describing of skills, inaccuracies and trust issues](interview-cv-creation-review-challenges.md) — related
+- [Perceived benefit of GenAI for learning was positive across all cohorts and by 2025 100% of respondents rated it positive or strongly positive](perceived-benefit-genai-learning-uniformly-positive-2025.md) — related

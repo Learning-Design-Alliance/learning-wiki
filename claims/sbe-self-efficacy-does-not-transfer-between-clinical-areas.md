@@ -51,3 +51,4 @@ Comparison of baseline (pre-session) scores across the three scenarios in the co
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Communication and interprofessional skills showed the smallest self-efficacy improvements after SBE, possibly due to a ceiling effect](sbe-smallest-gains-communication-interprofessional-skills.md) — related
 - [Pre/post survey assessment of the MS CIS IT Project Management program was followed by curriculum changes including a new Agile Software Development course](pm-pre-post-survey-curriculum-changes.md) — related
+- [Connection-making gains from scaffolding do not persist at delayed post-test, while metacognition gains persist only in the control group](connection-gains-not-persistent-metacognition-mixed.md) — related

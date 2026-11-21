@@ -55,6 +55,7 @@ The article recommends using ChatGPT as a thesis-writing assistant while verifyi
 - [Use LLMs to improve and proofread your own writing while keeping your voice, define prompts carefully, and treat all LLM output as a draft to edit critically](llm-assisted-proposal-writing-strategy.md)
 - [Require literature citations on every substantive AI claim to build trust-but-verify habits](ai-claims-with-citations-strategy.md)
 - [Peer review of AI-assisted writing with hallucination-flagging to build awareness of fabricated content](peer-review-hallucination-flagging-strategy.md)
+- [Verify LLM outputs against primary sources, cross-check models against each other, prompt for reasoning, and start a new chat when errors persist](llm-research-verification-practices-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Questionnaire results on critical thinking indicators from 44 participants who u
 ## Related Claims
 - [The vast majority of EFL learners perceive debate instruction as effective for developing critical thinking skills](students-perceive-debate-effective-for-ct.md) — related
 - [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](ofd-learner-perceptions-seven-themes.md) — related
+- [Students generally perceived the hint-writing tasks positively as opportunities to practice debugging and critical thinking, but perceptions diverged from observed outcomes](hint-writing-positive-perceptions-outcome-mismatch.md) — related

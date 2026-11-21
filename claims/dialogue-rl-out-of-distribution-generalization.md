@@ -67,3 +67,5 @@ WBEB subject-knowledge accuracy comparison between the original Qwen3-8B and the
 ## Related Claims
 - [Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM](sped-training-no-ood-knowledge-cost.md) — related
 - [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) — related
+- [In-domain reward maximization is essentially uncorrelated with out-of-distribution tutoring performance across methods](indomain-reward-uncorrelated-with-ood-tutoring.md) — related
+- [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related

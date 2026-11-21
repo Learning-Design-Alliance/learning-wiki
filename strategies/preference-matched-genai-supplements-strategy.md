@@ -52,6 +52,7 @@ The article's third contribution is a design guideline for AI-driven educational
 - [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md)
 - [Customizing Display of Information](customizing_display_of_information.md)
 - [Customizable Display of Information](customizable_display_of_information.md)
+- [Include relevant textbook-based visuals alongside textual explanations in conversational AI for visually rich STEM domains](textbook-visuals-alongside-text-in-stem-conversational-ai.md)
 
 ## Examples
 -

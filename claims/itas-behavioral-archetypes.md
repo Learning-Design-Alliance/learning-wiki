@@ -68,3 +68,4 @@ Aggregate observation from the pilot deployment's module-level engagement distri
 - [Behavior-aware AI-tutor prompting was associated with a decrease in Passive inter-query windows from 50.0% to 20.7% in a nonrandomized between-deployment comparison](behavior-aware-prompting-reduces-passive-inter-query-windows.md) — related
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
 - [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)
+- [Classroom interaction logs reveal three distinct student engagement archetypes with VISAR](visar-three-engagement-archetypes.md) — related

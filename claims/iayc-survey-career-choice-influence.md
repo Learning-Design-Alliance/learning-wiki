@@ -49,3 +49,4 @@ Retrospective survey of 307 former IAYC participants (58 nationalities, ages 16-
 - [Former IAYC participants report long-term friendships, with most remaining in contact monthly or more often](iayc-long-term-friendships.md) — related
 - [A majority of surveyed minority-group members, and about a third of those with impostor syndrome, felt the camp helped them reach their goals](iayc-minority-impostor-syndrome-support.md) — related
 - [Former participants report international outcomes including travel abroad, international collaboration and living in a different country](iayc-international-outcomes.md) — related
+- [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related

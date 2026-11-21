@@ -172,6 +172,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](../strategies/part-whole-variability-self-explanation-raise-germane-load.md)
 - [Apply CLT-derived design principles in medical education: integrated information sources, oral explanations for animations, completion tasks, worked examples, and variable practice](../strategies/clt-design-recommendations-medical-education.md)
 - [Refine program materials based on teacher process evaluation to reduce preparation burden and content density](../strategies/process-evaluation-driven-material-refinement.md)
+- [Calibrate AI-generated material complexity and organize access to avoid overwhelming students, and identify high-cognitive-load students early](../strategies/calibrate-ai-material-cognitive-load-strategy.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

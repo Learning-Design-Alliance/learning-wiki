@@ -48,3 +48,4 @@ Authors' argument in the section on what ML/DS education offers HEP research, wi
 - [Rapid DS/ML development makes some course tools and approaches obsolete within years or between semesters, so undergraduate curriculum should focus on reasonably established applications](rapid-ml-development-obsoletes-course-tools.md) — related
 - [Instructors' oral evaluations at final presentations indicated junior and senior undergraduates could access HEP data analysis](cutlang-school-oral-evaluations-accessibility.md) — related
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related
+- [Team teaching with instructor disagreement refined the material, though some students disliked watching professors disagree](team-teaching-instructor-disagreement.md) — related

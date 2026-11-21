@@ -65,3 +65,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Prior AI usage frequency and general attitudes toward AI do not predict AI-text detection accuracy](ai-usage-attitudes-null-detection.md) — related
 - [Students report high baseline GenAI usage frequency, with 61% using AI tools Often or Always](high-baseline-genai-usage-frequency.md) — related
 - [AI-supported SDP students showed more consistent exam performance than a lower-performing baseline, but not greater score uniformity than the high-performing non-AI cohort.](sdp-ai-group-score-consistency-mixed.md) — related
+- [Despite substantial changes in GenAI adoption and interaction patterns, weekly assignment scores and final grades showed no statistically significant differences across cohorts and remained broadly comparable to the pre-GenAI baseline](assignment-and-final-grades-stable-across-cohorts.md) — related

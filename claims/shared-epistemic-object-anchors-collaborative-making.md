@@ -52,3 +52,4 @@ Cross-case comparison of the five teams at the intermediate analysis level, whic
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
+- [A substantial share of physics teachers are skeptical of science education research and perceive research–practice collaboration as largely unsuccessful](physics-teacher-skepticism-toward-research.md) — related

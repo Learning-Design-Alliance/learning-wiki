@@ -66,6 +66,7 @@ Community building supports learning indirectly but powerfully: sense of belongi
 - [Structure in-class peer-discussion activities purposefully to promote equitable participation](structure-peer-discussions-for-equity.md)
 - [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
 - [Offer flexible group and individual work options, structured peer-support opportunities, and low-stakes group activities to build confidence](flexible-group-options-structured-peer-support-low-stakes-start.md)
+- [Pair lectures that support upcoming labs with social activities that build belonging in a research community](lectures-support-labs-plus-social-belonging.md)
 
 ## Examples
 - **PBL networks** (e.g., problem-based learning in medical curricula such as at McMaster and Maastricht) use persistent small tutorial groups whose repeated interdependent work builds strong cohort community alongside content learning.

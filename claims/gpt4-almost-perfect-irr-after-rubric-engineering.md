@@ -73,3 +73,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
 - [Prompt refinement significantly improves GPT-3.5 agreement with human rater 1 but not, statistically, with rater 2](scaffolded-cot-significance-by-rater.md) — a broader claim this one bears on
 - [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) — reports the opposite
+- [An LLM grader using a four-level explanation-quality rubric achieved substantial agreement with human consensus scores (quadratic-weighted κ=0.78).](llm-grader-substantial-agreement-human-consensus.md) — related

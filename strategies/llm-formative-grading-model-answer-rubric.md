@@ -53,6 +53,7 @@ The article recommends deploying LLMs to grade student science writing at scale,
 - [Instructors should adhere to assessment best practices: rubrics, grading by category, item-bias analysis, and universal design](assessment-best-practices-rubrics-item-bias-universal-design.md)
 - [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 - [Use appropriately prompted LLMs to assess students' written explanations at scale in large-enrollment courses](llm-written-explanation-assessment-at-scale-strategy.md)
+- [Use LLM grading for programmatic assessment and triage, not for unreviewed student-facing feedback](llm-grading-programmatic-assessment-triage.md)
 
 ## Examples
 -

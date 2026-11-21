@@ -68,3 +68,7 @@ Degree-earning rates among declared majors (Fig. 7a) show "fairly wide diﬀeren
 - [In every major except psychology, women who drop a major are more likely than men to earn a degree in another major, while men are more likely to leave without a degree](women-who-drop-earn-another-degree-men-leave-no-degree.md) — related
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
+- [Attrition rates by gender appear comparable in most STEM disciplines including physics, but interviews hint women may decide against physics after first-year courses](comparable-gender-attrition-with-interview-hint.md) — related
+- [Degree-earning rates range from about 65% in physics to about 94% in psychology and non-STEM, with few gender differences](degree-earning-rates-by-major.md) — related
+- [Physics has the highest attrition rate of all majors, with more than one third of declared majors dropping it](physics-highest-attrition-rate.md) — a narrower finding that bears on this claim
+- [Migration out of physics is primarily uni-directional: students leave physics but few transfer in](physics-uni-directional-migration.md) — related

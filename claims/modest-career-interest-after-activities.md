@@ -48,3 +48,4 @@ Survey results for Statement 7 (student interest in quantum-related careers), re
 - [Large majorities of teachers would like to repeat QuanTime and quantum-related activities the following year (87% of high school, 82% of pre-high school)](teachers-would-repeat-quantum-activities.md) — related
 - [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
+- [The hackathon shifted several students away from neutral on interest in working with quantum computers and STEM fields, though not all shifts were positive](quantum-hackathon-opinion-shifts.md) — related

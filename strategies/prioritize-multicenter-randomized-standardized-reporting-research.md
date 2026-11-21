@@ -58,6 +58,7 @@ The review identifies key methodological gaps in the current evidence base and s
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 - [Fund a multi-institutional study to identify optimal duty hours balancing curriculum objectives, continuity of care, and team training](multi-institutional-optimal-duty-hours-study.md)
+- [Adopt delayed post-tests and longitudinal designs as standard practice when evaluating LLM writing interventions](delayed-post-tests-standard-evaluation-strategy.md)
 
 ## Examples
 -

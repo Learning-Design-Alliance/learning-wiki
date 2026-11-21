@@ -41,6 +41,7 @@ The article's discussion and future-work section recommend concrete mitigations 
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
+- [Use Rust as a single programming language for both PC simulation and microcontroller deployment](single-language-rust-sim-and-deployment.md)
 
 ## Examples
 -

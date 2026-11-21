@@ -74,3 +74,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related
 - [Perceived ease of use strongly influences perceived usefulness and enjoyment, and exerts significant indirect effects on attitude and usage intention](peu-indirect-effects-attitude-intention.md) — reports the opposite
 - [Perceived Usefulness, Perceived Ease of Use, and Behavioral Intention toward ABCD technologies show no significant relationship among college students](pu-peou-bi-no-relationship-abcd-assessments.md) — reports the opposite
+- [All six TAM/UTAUT construct scores were significantly above the neutral midpoint 3.0 with large effect sizes (r = 0.68 to 0.81)](ai-automation-acceptance-above-midpoint-large-effects.md) — related

@@ -48,3 +48,4 @@ Iterative prompt-engineering experiments in GPT-4 (OpenAI Playground, July 2023)
 ## Related Claims
 - [Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words](test-item-construction-affects-kvl-difficulty-scores.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
+- [Explicit prompt-level anti-bias instructions fail to prevent style-based grading bias in LLMs](prompt-instructions-fail-to-debias-llm-grading.md) — related

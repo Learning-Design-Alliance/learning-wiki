@@ -92,3 +92,4 @@ Same latent profile solution: "The largest group we identified, The Undersupplie
 - [The four acceptance profiles differ substantially in behavioral intention to use ChatGPT](profiles-differ-in-behavioral-intention.md) — related
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Interviewed physiotherapists were initially sceptical of online training but found iBeST acceptable, reporting external and internal barriers and facilitators](interviews-scepticism-to-acceptability-barriers.md) — related
+- [A substantial share of physics teachers are skeptical of science education research and perceive research–practice collaboration as largely unsuccessful](physics-teacher-skepticism-toward-research.md) — possibly the same claim (merge candidate)

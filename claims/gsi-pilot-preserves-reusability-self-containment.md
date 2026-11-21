@@ -50,3 +50,4 @@ Qualitative technical evaluation from a 4-hour workshop case study with 22 teach
 - [Teachers judged the GSI adaptive example useful for real scenarios but not feasible to deploy effectively](gsi-example-useful-but-not-feasible.md) — related
 - [Teachers rated the GSI example comprehensible, but perceived the difficulty of creating adaptive material as significantly higher after attempting authoring](gsi-authoring-difficulty-increases-after-experience.md) — related
 - [Spreadsheet-based management of questionnaire data lowered the perceived threshold of IMS LD condition authoring](spreadsheet-management-lowers-authoring-threshold.md) — related
+- [GUIDE units have been assembled into multiple deployed course instances and a hackathon with reported enrollments](guide-course-instances-deployed-enrollments.md) — related

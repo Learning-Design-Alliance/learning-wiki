@@ -49,3 +49,4 @@ Same pre/post festival survey (N = 812); paired t-tests on the interest composit
 - [Visitors' self-reported attitude towards quantum technologies rose by a significant but very small amount from pre-test to post-test in one uncontrolled pre-post study of the quantum exhibit (d = 0.08).](festival-exhibit-negligible-attitude-shift-quantum.md) — related
 - [Student interest in quantum mechanics typically declines after instruction in modern physics, with negative responses increasing significantly (p < 0.001).](interest-in-quantum-mechanics-declines-after-typical-instruction.md) — related
 - [Visiting the quantum exhibit significantly but slightly increases visitors' concern about quantum technologies (d = 0.18).](festival-exhibit-increases-concern-quantum.md) — related
+- [The hands-on experience was rated very interesting by 96.9% of surveyed visitors, with no negative ratings](public-square-hands-on-very-interesting.md) — related

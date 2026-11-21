@@ -68,3 +68,4 @@ Descriptive outcome reported in the Outcomes section for the 2024 cohort: "nearl
 - [PULSE-A participation is associated with professional and academic outcomes for students, including internships at research institutions and engineering companies and continued academic work in laser communication and related fields](pulse-a-student-career-outcomes.md) — related
 - [The Feynman Quantum Academy supported 60 student internships between 2016 and 2024, serving students from a range of educational levels.](feynman-academy-60-internships-2016-2024.md) — related
 - [Students transferred course knowledge to later coursework, theses, internships, graduate programs, and jobs, including continued use of R/Rcmdr](knowledge-transfer-beyond-course.md) — related
+- [Over 91% of USEQIP students from 2022-2025 secured a paid research internship](useqip-internship-placement-rate.md) — related

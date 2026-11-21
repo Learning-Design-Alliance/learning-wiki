@@ -46,6 +46,7 @@ The scan's executive summary distills its findings into three actions for techno
 - [Six recommendations for moving toward a data-driven, worker-centered learning ecosystem](six-recommendations-worker-centered-data-ecosystem.md)
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
+- [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
 
 ## Examples
 -

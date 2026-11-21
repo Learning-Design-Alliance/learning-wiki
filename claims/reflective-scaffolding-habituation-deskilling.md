@@ -55,3 +55,4 @@ Theoretical argument in Section 4, consistent with the paper's cited broader fin
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related
 - [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — reports the opposite
 - [Inquiry-based learning has the potential to develop critical thinking, especially when supported by discussion, open-ended questioning and metacognitive reflection (attributed to cited research)](ibl-discussion-questioning-reflection-critical-thinking.md) — related
+- [Learners commonly become dependent on AI tools without developing their own metacognitive capabilities](ai-dependency-undermines-metacognition.md) — related

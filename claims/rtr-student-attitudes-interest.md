@@ -50,3 +50,4 @@ Survey of a 200-student sample from ANU and UQ who had completed the RTR lab, re
 - [Students who completed the RTR lab were less likely to regard special relativity as abstract than students who had not done the lab](rtr-reduces-perceived-abstractness.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — a broader claim this one bears on
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
+- [Students in both conditions trusted simulated pendulums more than physical ones, and simulation users reported a somewhat better lab experience and wanted more simulations in future](student-trust-and-experience-survey-findings.md) — related

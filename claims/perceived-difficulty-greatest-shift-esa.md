@@ -50,3 +50,4 @@ Item 3 measured perceived difficulty of physics. Pre-test: ESA median 2, with 50
 - [Multimedia-assisted physics teaching significantly reduced students' negative attitudes to physics across all five measured aspects](multimedia-teaching-reduced-negative-physics-attitudes.md) — a broader claim this one bears on
 - [Learners' self-reported cognitive load decreased after the group approach intervention, from 'quite difficult' to 'easy' ratings](group-approach-reduced-self-reported-cognitive-load.md) — related
 - [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md) — related
+- [Perceived difficulty of learning physics decreased sharply after the comic-based workshops (\"I find it difficult to learn Physics\" 2.77 to 0.92)](perceived-difficulty-decreased-comics-physics.md) — related

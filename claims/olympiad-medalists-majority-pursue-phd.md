@@ -49,3 +49,5 @@ The article reports a 25-year track record of career choices of Indian Astronomy
 - [UAT alumni report increased research interest and self-knowledge, and 91% of alumni with known status pursue STEM careers](uat-alumni-outcomes-interest-and-stem-retention.md) — related
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
+- [More than 50% of LEAPS participants in almost every cohort subsequently undertook a PhD, with 67% of tracked alumni overall](leaps-majority-progress-to-phd.md) — related
+- [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related

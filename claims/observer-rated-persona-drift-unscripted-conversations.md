@@ -54,3 +54,4 @@ LMM analysis of Experiment II unscripted education conversations with observer r
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6](rpla-failure-onset-second-half-of-dialogue.md) — related
 - [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) — related
+- [Learners largely used the conversational agent like a static worksheet: response length declined sharply over turns and follow-up questions were rare](ca-used-like-static-worksheet-response-decline.md) — related

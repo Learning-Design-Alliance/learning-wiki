@@ -65,6 +65,7 @@ The review recommends that future research focus on large-scale, well-controlled
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Standardize educational video production methodologies and conduct further studies on process organization](standardize-educational-video-production-methodologies.md)
+- [Adopt delayed post-tests and longitudinal designs as standard practice when evaluating LLM writing interventions](delayed-post-tests-standard-evaluation-strategy.md)
 
 ## Examples
 -

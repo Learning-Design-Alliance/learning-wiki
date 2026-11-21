@@ -52,6 +52,7 @@ As a future research direction, the article proposes examining "how augmenting L
 - [Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module](gsr-knowledge-technical-integration-strategies.md)
 - [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
 - [Use retrieval-augmented generation over a curated domain corpus as a resource-efficient alternative to fine-tuning for specializing LLMs in niche domains](rag-curated-corpus-domain-specialization.md)
+- [Use a hierarchical RAG approach combining local timestamped metadata with a global thematic discourse map for abstract topics](hierarchical-rag-global-discourse-map-strategy.md)
 
 ## Examples
 -

@@ -120,3 +120,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](vp-pbl-video-suited-procedures-perception.md) — related
 - [Human embodiment findings: learners prefer human over robot presenters, and face presence shows no significant learning difference (as reported by the review)](human-embodiment-presence-findings.md) — possibly the same claim (merge candidate)
 - [Adult learners report similar affect toward the human instructor video and the AI synthetic video](affect-similar-human-and-ai-video.md) — related
+- [Video preference correlated positively with total academic scores and especially with the oral presentation component](video-preference-positive-correlation-scores.md) — related

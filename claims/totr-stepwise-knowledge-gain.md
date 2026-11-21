@@ -49,3 +49,4 @@ Retrospective before-after analysis of 115 clinical teachers who took all three 
 - [Mid-test scores and session of TOTR are the only significant predictors of final post-test scores in multivariate GLM analysis](mid-test-score-predicts-flipped-outcome.md) — related
 - [Final knowledge gain was not significantly associated with hours spent on pre-class learning in TOTR, in a single-group pre-post study with no comparison group](pre-class-hours-not-significant-predictor.md) — related
 - [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Assessment scores rose across the three tests in both groups, from pre-test means of 62.7% and 74.8% to post-test means of 86.5% and 87.0%](assessment-scores-rose-both-sequences.md) — related

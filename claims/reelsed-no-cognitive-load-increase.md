@@ -53,3 +53,4 @@ NASA-TLX comparison in the 62-student between-subjects study (Table 1): the arti
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [Learners using LLM-generated reels reported higher perceived learning effectiveness and learning experience than long-form video learners](reelsed-perceived-effectiveness-experience.md) — related
 - [Adding scratch-off interaction to LLM scaffolding did not increase perceived workload and the interface was rated highly usable](interactive-scaffolding-no-workload-increase.md) — related
+- [Mental demand, temporal demand, and effort were significantly lower with the AI teammate, while frustration did not differ significantly](ai-teammate-lower-workload-except-frustration.md) — related

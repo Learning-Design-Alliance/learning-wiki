@@ -49,3 +49,4 @@ Parallel student and faculty survey items on the same physics problem (Fig. 4). 
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [GenAI services can be used to verify the quality of generated isomorphic problems, identifying and correcting erroneous items](genai-verification-of-generated-item-quality.md) — reports the opposite
 - [Students were skeptical of genAI for physics theory and verified its factual information with trusted sources](student-skepticism-genai-theory-verification.md) — related
+- [AI response quality was consistently high across cohorts, with Correct & Helpful responses between 89.39% and 94.67%, and quality loss stemming mainly from correct-but-unhelpful misalignment rather than incorrectness](ai-response-quality-high-and-stable.md) — related

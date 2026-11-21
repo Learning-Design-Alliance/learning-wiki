@@ -120,3 +120,5 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related
 - [College students envisioned over 100 AI usages in project-based learning serving six purposes, from automating tedious tasks to guiding learning](envisioned-ai-usage-six-purposes-pbl.md) — related
 - [Counselors rate AI feedback highly for awareness, direction, and confidence in interviews](counselor-interview-ratings-ai-feedback.md) — related
+- [Students' expected uses of GenAI shifted from a single-purpose debugging tool toward a general programming helper, with debugging/correction expectations declining from 91.7% (2023) to 59.6% (2025)](debugging-expectations-decline-general-helper.md) — related
+- [Course activities challenged students to engage critically with responsible AI from multiple perspectives, yielding one of the highest survey ratings (mean = 4.65)](re-ai-course-judgment-oriented-engagement.md) — related

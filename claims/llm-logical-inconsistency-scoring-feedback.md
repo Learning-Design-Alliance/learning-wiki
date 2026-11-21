@@ -73,3 +73,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [AI models show contextual intuitiveness by correctly inferring missing task context from ambiguous student prompts, but their feedback is not always fully appropriate or correct](ai-contextual-intuitiveness-ambiguous-prompts.md) — related
 - [ChatGPT can perform worse when given more relevant evaluative information, suggesting a structural limitation in input integration](chatgpt-worse-with-more-information-structural-limitation.md) — related
 - [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](llm-feedback-20-percent-errors.md) — related
+- [AI feedback across rubric items was mostly correct application but included a non-negligible share of reasonable-but-superficial and invalid evaluations](ai-feedback-item-level-classification.md) — related

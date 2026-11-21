@@ -48,3 +48,4 @@ Auxiliary semantic-level analysis (Fig. 5b) using all-MiniLM-L6-v2 embeddings to
 ## Related Claims
 - [RACES configurations improve QWK essay-scoring agreement over evaluated pretrained baselines on ASAP 2.0, with LLaMA2-7B-based configurations slightly outperforming Qwen2.5-Instruct-7B-based ones](races-improves-qwk-over-evaluated-baselines.md) — related
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
+- [SimCSE-trained sequence embeddings outperform mean-pooled pretrained-encoder baselines on action content prediction and action sequence reconstruction](simcse-sequence-embeddings-beat-mean-pooling-probes.md) — related

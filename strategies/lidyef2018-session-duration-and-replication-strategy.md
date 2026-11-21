@@ -55,6 +55,7 @@ Based on observations during the school, the authors recommend extending experim
 - [Recommend dedicated weekly programming lab time and explicit prerequisites in future quantum programming courses](recommend-lab-time-and-prerequisites-quantum-course.md)
 - [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
 - [Extend workshop duration and emphasize practical, enterprise-relevant applications in future iterations](extend-duration-enterprise-applications-strategy.md)
+- [Improvements for future iterations: extend the event, add unstructured social and practice time, use physical props, and align content with computational thinking](quantum-hackathon-future-improvement-strategies.md)
 
 ## Examples
 -

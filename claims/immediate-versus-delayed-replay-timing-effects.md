@@ -60,3 +60,4 @@ In the same models, Delayed Replay was not beneficial and in some cases predicte
 
 ## Related Claims
 - [Replay-dominant and optimal-ending latent states predict higher conceptual knowledge, flexibility, and state test performance relative to the Incomplete-dominant state](replay-dominant-optimal-ending-states-predict-outcomes.md) — related
+- [Embedding-derived strategy uniqueness, diversity, and conformity are positive, statistically significant predictors of short-term algebra outcomes, with conformity the largest](strategy-measures-predict-short-term-outcomes.md) — related

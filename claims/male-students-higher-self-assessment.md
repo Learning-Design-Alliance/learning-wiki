@@ -53,3 +53,4 @@ Gender comparison of self-evaluation scores among the 193 participants (64.8% fe
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — possibly the same claim (merge candidate)
 - [Gender differences in self-assessment were not significant for general programme questions, but only female students showed a significant pre-programme gap between female and male examination skill ratings](gender-analysis-mixed-significance.md) — related
+- [Male and female engineering students differ in self-efficacy and perceived difficulty despite equivalent exam performance](gender-belief-gap-without-performance-gap-engineering-cs1.md) — related

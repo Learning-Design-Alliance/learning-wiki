@@ -93,6 +93,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
 - [Structure in-class peer-discussion activities purposefully to promote equitable participation](structure-peer-discussions-for-equity.md)
 - [Offer flexible group and individual work options, structured peer-support opportunities, and low-stakes group activities to build confidence](flexible-group-options-structured-peer-support-low-stakes-start.md)
+- [Pair lectures that support upcoming labs with social activities that build belonging in a research community](lectures-support-labs-plus-social-belonging.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

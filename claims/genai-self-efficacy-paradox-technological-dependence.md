@@ -83,3 +83,4 @@ Narrative review attribution: the review reports, citing L. Zhang and Xu (2025),
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
+- [Learners commonly become dependent on AI tools without developing their own metacognitive capabilities](ai-dependency-undermines-metacognition.md) — a broader claim this one bears on

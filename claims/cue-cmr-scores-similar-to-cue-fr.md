@@ -50,3 +50,4 @@ Upper-level E&M overview section (type d/e descriptive report). The CUE-CMR asks
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
 - [Couplet scoring reduced, and for SPRUCE largely eliminated, the need for partial credit scoring](couplet-scoring-reduces-partial-credit-need.md) — related
+- [At one intermediate stage, textbook-correct and analytically valid responses diverged: strict Q3 accuracy was 10% but rose to 62% when structurally defensible step-change responses were credited](dual-accuracy-divergence-q3.md) — related

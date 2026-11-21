@@ -50,3 +50,4 @@ Between-subjects experiment with 54 participants randomly assigned to No (M = 30
 - [Adaptivity condition shows no significant association with optional verbal interaction with the AI tutor](adaptivity-no-effect-verbal-interaction.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
+- [Time-on-task rose from 31.8 minutes under traditional video to 54.5 minutes with the AI tutor (71.1%), measured sequentially within the same group](ai-tutor-increased-engagement-duration-71-percent.md) — related

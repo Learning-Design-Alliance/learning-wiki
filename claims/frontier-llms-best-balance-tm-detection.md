@@ -88,3 +88,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
 - [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related
 - [Fine-tuned GPT-3.5 surpassed fine-tuned BERT in automatic scoring of science written responses, with a statistically significant 9.1% average accuracy increase](finetuned-gpt35-surpasses-bert-science-scoring.md) — related
+- [Randomized multi-task fine-tuning shows inconsistent benefits, achieving the best Position F1 but performing poorly on Lead](randomized-multitask-inconsistent-aes-benefits.md) — related

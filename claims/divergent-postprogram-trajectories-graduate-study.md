@@ -68,3 +68,4 @@ Interview analysis of six QRX students: three of four transferring students expr
 - [Critical program feedback diverged: Quantum Scholars students most often wanted a more academic perspective on QIS, while QRX students most often wanted more in-person events](divergent-critical-feedback-program-design.md) — related
 - [Pathways participants developed intentional action steps toward QIS goals, including coursework plans, university selection, and clubs](pathways-intentional-action-steps.md) — related
 - [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related
+- [75% of USEQIP alumni with completed undergraduate degrees and findable information continued into quantum-related graduate studies](useqip-alumni-75-percent-quantum-graduate-studies.md) — related

@@ -48,6 +48,7 @@ During the pilot, observations revealed that students had difficulty asking ques
 - [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
 - [Encouraging Students to Ask for Help](encouraging_students_to_ask_for_help.md)
 - [Apply real-time question detection to provide feedback on questioning across lesson phases](real-time-questioning-feedback-adaptive-teaching.md)
+- [Provide an optional AI-usage prompt template that requests step-by-step method guidance instead of finished code](ai-usage-guidance-prompt-template.md)
 
 ## Examples
 -

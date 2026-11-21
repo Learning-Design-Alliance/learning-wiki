@@ -74,3 +74,4 @@ Same §4.4 case-study analysis of GPT-4 annotation errors; the diagnostic label'
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
 - [Expert annotation found nearly 20% of AI interactions contained a definitively incorrect statement, yet 86% of students accepted the AI explanation](ai-peer-interaction-quality-annotations.md) — related
 - [GenAI services can be used to verify the quality of generated isomorphic problems, identifying and correcting erroneous items](genai-verification-of-generated-item-quality.md) — related
+- [AI feedback across rubric items was mostly correct application but included a non-negligible share of reasonable-but-superficial and invalid evaluations](ai-feedback-item-level-classification.md) — related

@@ -50,6 +50,7 @@ The authors recommend deploying the model as a decision-support complement to ad
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 - [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
 - [Time advising interventions using predicted attrition risk and modeled STEM-affinity transitions](timely-advising-stem-affinity-interventions.md)
+- [Use LLM grading for programmatic assessment and triage, not for unreviewed student-facing feedback](llm-grading-programmatic-assessment-triage.md)
 
 ## Examples
 -

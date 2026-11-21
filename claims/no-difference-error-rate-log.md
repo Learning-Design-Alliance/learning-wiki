@@ -65,3 +65,4 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Receiving LLM feedback did not significantly increase lesson completion time](llm-feedback-no-completion-time-cost.md) — related
 - [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](feedback-does-not-hinder-post-learning-problem-solving.md) — related
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
+- [Exploratory: RL-timed access reduces task errors and time per question relative to full withholding, but not after controlling for gender](rl-vs-never-errors-time-exploratory.md) — related

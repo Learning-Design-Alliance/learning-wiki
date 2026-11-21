@@ -49,6 +49,7 @@ The authors propose extending the low-cost Arduino approach beyond the project l
 
 - [Align course assessment with modified labs by modifying semester exams and explicitly framing the long-term value of design work](align-exams-and-framing-with-modified-labs.md)
 - [Adapt the forest physics exercise to other settings and disciplines by preserving its salient points](adapt-forest-physics-exercise-local-context.md)
+- [Use an unplanned sensor-bandwidth failure as a productive-failure lesson in which students research semiconductor physics and propose replacement sensors](sensor-bottleneck-productive-failure-strategy.md)
 
 ## Examples
 -

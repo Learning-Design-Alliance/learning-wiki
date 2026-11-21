@@ -50,3 +50,4 @@ Descriptive analysis of the 349-sample survey shows "construct SI having the low
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related
 - [Course major moderates the predictive effects on Gen Z students' AI adoption](course-major-moderates-gen-z-ai-adoption.md) — related
 - [Experience influences all predictive factors of AI adoption, but its impact diminishes as experience increases](experience-moderates-diminishes-gen-z-ai.md) — related
+- [Construct means ranked PE highest and HM lowest, with a full range of only 0.28 scale points](construct-ranking-pe-highest-hm-lowest.md) — related

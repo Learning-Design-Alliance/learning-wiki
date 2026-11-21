@@ -143,3 +143,4 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Students at all performance levels sought peer feedback on their own, facilitated by prior knowledge of learning objectives, though lower performers preferred tutor feedback](feedback-seeking-objectives-and-tutor-preference.md) — related
 - [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — related
 - [Student peer review scoring of the formative MEQ* does not differ significantly from expert post-evaluation and correlates highly with it](peer-review-scoring-matches-expert-meq-evaluation.md) — related
+- [Tier 2 assessment tasks are non-standardizable by design, so closing the assessment gap requires trained professional judgment applied repeatedly rather than rubrics alone](tier2-assessment-nonstandardizable.md) — related

@@ -53,3 +53,4 @@ Theoretical argument in the article's section on automation bias and the fluency
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
 - [AI tools can reinforce confirmation bias, leading therapists to misinterpret adaptive outputs as objective truths](ai-tools-reinforce-confirmation-bias-cmft.md) — a narrower finding that bears on this claim
+- [A class-specific confidence prompt reduces LLM confidence in incorrect bias judgments but also lowers confidence in correct ones, without changing accuracy](class-specific-confidence-prompt-reduces-incorrect-confidence.md) — related

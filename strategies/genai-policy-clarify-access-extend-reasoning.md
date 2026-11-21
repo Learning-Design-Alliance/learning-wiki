@@ -47,6 +47,7 @@ The article's concluding recommendation is that educators should design GenAI co
 - [Standardise the GenAI tools permitted in assessments, or limit advanced tools, to maintain equitable access](standardise-genai-tools-equitable-access.md)
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 - [Teach productive genAI use, keep teaching staff available, and restrict genAI access for foundational skill development](teach-productive-genai-use-keep-tas-restrict-access.md)
+- [Provide university-level GenAI guidance for students, such as a GenAI policy and workshops, since students explicitly request structured guidance on AI use](university-level-student-genai-guidance-workshops.md)
 
 ## Examples
 -

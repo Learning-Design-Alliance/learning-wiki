@@ -48,6 +48,7 @@ Based on the finding that teachers' lowest-rated skills were help-seeking and go
 ## Related Strategies
 
 - [Strengthen all facets of teachers' SRL knowledge through sustained, theory-informed professional development](sustained-pd-for-all-tk-srl-facets.md)
+- [Teacher education should develop teachers' theoretical understanding and train theory-based reflection on practice](teacher-education-theory-based-reflection.md)
 
 ## Examples
 -

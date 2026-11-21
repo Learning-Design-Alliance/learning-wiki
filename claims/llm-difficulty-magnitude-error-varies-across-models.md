@@ -65,3 +65,4 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [Absolute prevalence estimates differ across models and generally do not agree within uncertainties, despite similar trends](model-prevalence-estimates-differ-within-uncertainties.md) — a narrower finding that bears on this claim
 - [False reference solutions degrade LLM absolute marking accuracy but leave rank-order agreement largely intact](false-solutions-degrade-accuracy-not-ranking.md) — related
 - [Simulated-response difficulty estimates match the accuracy of a traditional 1PL analysis using approximately 5,818 real student answers (about 22.87% of available data)](rmse-efficiency-5818-real-answers.md) — related
+- [With individualised grading contexts, Generation 5 models aligned strongly with human grading, Gemini 3.0 Pro reaching r = 0.9191 and MAE of 7.62%](gen5-individualised-grading-alignment.md) — a narrower finding that bears on this claim

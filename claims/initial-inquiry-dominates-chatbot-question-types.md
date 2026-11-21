@@ -102,3 +102,6 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [ChatGPT was the dominant LLM tool with AstroTutor second, used in complementary roles for coding versus theory](chatgpt-dominant-astrotutor-complementary.md) — related
 - [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related
 - [Chatbot messaging dominated usage of the Educational AI Hub, and most student queries concerned software help and conceptual/theory help](ai-hub-chatbot-dominant-usage-query-topics.md) — related
+- [Students predominantly used iterative formative feedback (Evaluate My Work) over more solution-revealing tools, with participation declining across assignment problems](evaluate-my-work-dominant-formative-usage.md) — related
+- [Student follow-up questions cluster into five engagement categories, with feedback-focused questions most common](follow-up-questions-five-engagement-categories.md) — related
+- [CS2 learners jumped directly into implementation without querying any learning support about the algorithm, and GenAI queries shifted toward debugging](learners-skip-pre-implementation-support-queries.md) — related

@@ -58,3 +58,4 @@ Process-mining analysis (Fuzzy Miner, Fluxicon Disco) of the coded regulatory ac
 - [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — related
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
 - [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related
+- [GenAI availability shifted group regulation away from predominantly socially shared regulation towards hybrid CoRL&SSRL and CoRL-only organisation](genai-shifts-ssrl-to-hybrid-coregulation.md) — related

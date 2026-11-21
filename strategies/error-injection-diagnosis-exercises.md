@@ -42,6 +42,7 @@ The article recommends giving students a subtly wrong simulation—sign error in
 - [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
 - [Emphasize Reasoning over Answers](de-emphasize-answers-emphasize-reasoning.md)
 - [White-box-then-black-box sequencing: transparent study of a method before opaque delegation](white-box-then-black-box-sequencing.md)
+- [Inject concept-aligned objective drift with predefined failure signatures to train diagnosis and recovery](injected-concept-aligned-drift-strategy.md)
 
 ## Examples
 -

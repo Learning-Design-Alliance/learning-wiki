@@ -51,3 +51,4 @@ Pre/post survey in an undergraduate engineering mechanics course (pre n=100, pos
 - [Students' mean self-rated impact of AI on their mechanics learning rose from 5.85 to 6.35 on a 0-10 scale](perceived-ai-impact-rating-rose.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets](kt1-sustained-engagement-research-homework.md) — related
+- [Despite substantial changes in GenAI adoption and interaction patterns, weekly assignment scores and final grades showed no statistically significant differences across cohorts and remained broadly comparable to the pre-GenAI baseline](assignment-and-final-grades-stable-across-cohorts.md) — related

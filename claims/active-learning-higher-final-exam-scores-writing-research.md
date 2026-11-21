@@ -61,3 +61,4 @@ Quasi-experimental comparison of two groups of female students (n=137 control, n
 - [Students taught with identical flipped active-learning instruction show no performance difference between a SCALE-UP–type classroom and a traditional lecture hall](scale-up-classroom-no-performance-advantage.md) — related
 - [The vast majority of students scored higher on their group exam than on their individual exam](93-point-9-percent-group-score-higher.md) — related
 - [Students in the reformed active-learning section outperformed students in the traditional lecture section on common exam items, even after removing items flagged as biased toward the reformed section](reformed-section-outperformed-traditional-on-common-exam-items.md) — related
+- [POGIL-style and lecture-based instruction produced comparable Bayes' theorem final-exam performance in an introductory statistics quasi-experiment](pogil-lecture-comparable-bayes-exam-performance.md) — related

@@ -54,3 +54,4 @@ Readability analysis of translated LLM responses to the 84 EUS questions (Table 
 - [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
 - [Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation](explicit-education-cues-readability-adaptation.md) — related
 - [Readability of HCP-addressed oral cancer screening websites is difficult, with reading grade level well above that recommended for patient health materials](oral-cancer-websites-difficult-readability.md) — related
+- [LLM chatbots adapt response complexity and length to student grade level but show no significant sensitivity to gender, race, or state cues](grade-level-adaptation-minimal-demographic-sensitivity.md) — related

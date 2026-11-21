@@ -46,6 +46,7 @@ The second framework component has institutions deploy wrapper applications gove
 - [Hint Design](hint-design.md)
 - [Self Correction_Routines](self-correction_routines.md)
 - [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
+- [Activate an assessment-aware mode that refuses complete solutions, offers step-by-step hints, and surfaces an academic-integrity banner for active assignment queries](assessment-aware-homework-guardrail-strategy.md)
 
 ## Examples
 -

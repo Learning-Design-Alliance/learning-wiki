@@ -50,3 +50,4 @@ Observational analysis of institutional records; degree-earning rates by major a
 - [URM students drop the physics major at roughly twice the rate of White students (65% vs 34%) at the studied university](urm-physics-attrition-65-vs-34-percent.md) — related
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related
 - [URM students consistently earn lower GPAs than non-URM peers, roughly 0.3 grade points lower among chemistry, computer science, engineering, mathematics, and physics majors](urm-lower-gpa-across-majors.md) — related
+- [Degree-earning rates range from about 65% in physics to about 94% in psychology and non-STEM, with few gender differences](degree-earning-rates-by-major.md) — related

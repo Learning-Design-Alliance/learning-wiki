@@ -49,3 +49,4 @@ Observational report from the paper's conclusion section on enrollment trends ac
 - [4th-grade gifted 'physicists' perform on average at grammar-school level on PISA science but with roughly three times the concentration of top performances](physicists-top-performance-concentration-pisa.md) — related
 - [The article claims inquiry-based learning increases pupil motivation and develops practical and research skills](inquiry-learning-motivation-and-research-skills.md) — related
 - [Stability of decades-long astroparticle experiments requires maintaining human aspects of attracting, learning and continuity alongside the data life cycle](experiment-stability-requires-human-aspects-maintenance.md) — related
+- [AP Research enrollment grew 15-fold between 2016 and 2025, from roughly 2,800 to over 43,000 exam takers](ap-research-enrollment-growth.md) — related

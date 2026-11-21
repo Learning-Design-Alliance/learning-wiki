@@ -58,4 +58,4 @@ The paper proposes a practical checklist (Table 1) to help key stakeholders—AI
 -
 
 ## Key Sources
-- Favero, L., Pérez-Ortiz, J.A., Käser, T., Oliver, N. (2026). AI in Education Beyond Learning Outcomes: Cognition, Agency, Emotion, and Ethics. https://arxiv.org/abs/2602.04598
+- Favero, L., Pérez-Ortiz, J.A., Käser, T., Oliver, N. (2026). AI in Education Beyond Learning Outcomes: Cognition, Agency, Emotion, and Ethics. https://arxiv.org/abs/2602.04598. [doi:10.48550/arxiv.2602.04598](https://doi.org/10.48550/arxiv.2602.04598)

@@ -73,3 +73,4 @@ Wilcoxon test comparing the distribution of modules each student revisited in th
 - [The proportion of Short First Attempts (under 15 seconds) on each OLM increased significantly more rapidly after campus closure in Spring 2020, but a similar, lesser trend appeared in Fall 2019](short-first-attempts-slope-increase-post-closure.md) — reports the opposite
 - [Second-semester course marks in 2020 were not appreciably different from 2019 despite the online transition, though the exam entrance threshold was lowered](2020-marks-comparable-to-2019-online-transition.md) — related
 - [Number of video revisits did not differ significantly between the reels and long-form conditions](reelsed-video-revisits-not-significant.md) — related
+- [Assignment redesign severity was minor before 2020, rose during the COVID-19 transition, and shows a renewed upward trend after Spring 2023 when GenAI became widely available](redesign-severity-timeline-covid-genai.md) — related

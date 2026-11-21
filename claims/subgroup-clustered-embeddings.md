@@ -50,3 +50,4 @@ Qualitative t-SNE visualization of attention-module hidden states on the QDS dat
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
+- [Transition-based embeddings are invariant to problem-specific content while state-based embeddings cluster by problem, supporting cross-problem strategy comparison](transition-embeddings-invariant-across-problems.md) — related

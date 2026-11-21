@@ -65,3 +65,4 @@ Same multinomial regression: neighborhood type was significantly associated with
 
 ## Related Claims
 - [Learners with lower Week 1 prior knowledge were more likely to choose Leb Lango instruction over English or Hybrid](lower-prior-knowledge-chose-local-language.md) — related
+- [A plurality of enrolled learners initially chose the Hybrid language option in a remote Ugandan EdTech course](hybrid-language-option-initial-majority-choice.md) — related

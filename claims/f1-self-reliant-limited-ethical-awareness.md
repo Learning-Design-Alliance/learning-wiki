@@ -55,3 +55,4 @@ Q factor analysis of 22 Q sorts from student teachers in a classroom management 
 - [AI ethics can serve as a compelling entry point for teacher AI education, increasing teacher confidence and engaged classroom discussions](ai-ethics-entry-point-teacher-training.md) — related
 - [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related
 - [Exit interviews showed limited reflection: most ChatGPT users showed no sign of actively engaging with the physics exercises](exit-interviews-limited-reflection-chatgpt.md) — related
+- [Ethical awareness precedes technical confidence as an entry condition for non-traditional AI learners](ethical-awareness-entry-condition-non-stem-learners.md) — reports the opposite

@@ -72,3 +72,4 @@ Think-aloud interviews: despite the LED's roughly 45 nm spectral width, students
 - [In the photometer activity, students proposed a broader range of revisions than they performed, with performed revisions concentrated on the easiest-to-implement assumptions](photometer-proposals-broader-than-revisions.md) — related
 - [Students' unarticulated assumptions and unfamiliar concepts act as barriers to modeling during experiments](student-barriers-assumptions-model-limitations.md) — a broader claim this one bears on
 - [Most students can perform reflective checks when prompted, with 72% correctly articulating the 1/r fall-off of the potential in the large-r limit](prompted-reflection-mostly-successful.md) — related
+- [LLMs made implicit, overly simplifying assumptions without justification and often doubled down after being corrected, including fabricating measurement uncertainties](llm-implicit-assumptions-doubling-down.md) — related

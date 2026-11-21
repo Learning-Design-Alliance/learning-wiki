@@ -52,3 +52,4 @@ Pre/post survey analysis of 446 family participants at two museums and two libra
 - [Phase 1 participants' additional qualitative research activities did not change the distribution of pre-to-post learning gains.](venomventure-phase-qualitative-null.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related
+- [Playing QubitQuest mini-games improved undergraduate students' post-game QC quiz scores over pre-game scores in a small no-control study](qubitquest-pre-post-score-improvement.md) — related

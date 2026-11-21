@@ -52,6 +52,8 @@ The article recommends that the educational value of future AI assistants lies i
 - [Use four assessment types — computer-based, tutor-, self- and peer-assessment — within e-Learning scenarios](unite-four-assessment-techniques.md)
 - [Design LLM deployments as sustained, tutor-like, scaffolded activities rather than one-off answer-provision tools](sustained-tutor-like-llm-design.md)
 - [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
+- [Embed structured planning and targeted-generation supports in AI writing tools so students engage with cognition-preserving scaffolds](cognition-preserving-scaffolds-ai-writing-strategy.md)
+- [Three theory-grounded instructional levers for AI-automation tooling: instruction-sequencing scaffolds, self-efficacy supports, and trust-calibration interventions](three-instructional-levers-ai-automation-acceptance.md)
 
 ## Examples
 -

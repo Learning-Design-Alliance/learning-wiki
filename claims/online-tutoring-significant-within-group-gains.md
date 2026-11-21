@@ -68,3 +68,4 @@ Paired-samples t-test for 50 tutored Grade 7 and 8 students in a rural Kansas sc
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
 - [Tutors described ongoing progress monitoring, guided practice, and multiple explanations and representations as core practices in synchronous online mathematics tutoring sessions](tutor-practices-progress-monitoring-guided-practice.md) — related
 - [The RMEP Project had no statistically detectable impact on students' mathematics achievement as measured by SOL exams](rmep-no-impact-student-achievement.md) — related
+- [Middle school students showed a statistically significant pre-to-post improvement on a five-item BFS knowledge assessment after the I-SAIL activities, with a moderate within-subject effect size](bfs-curriculum-significant-pre-post-gains.md) — related

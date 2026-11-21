@@ -50,3 +50,4 @@ Comparison of grading on two open-ended STAT1011 questions: both the TA and the 
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
 - [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — related
 - [Qualitative analysis attributes some human–AAG scoring discrepancies to human grading errors such as overlooking a missing zero or incorrect calculation processes](ta-grading-errors-discrepancy-analysis.md) — related
+- [Both LLMs correlate only weakly with human ground-truth scores overall, with agreement strongest for Programming and near-zero for Mathematics](weak-human-llm-grading-agreement.md) — related

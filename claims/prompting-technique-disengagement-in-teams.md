@@ -51,3 +51,4 @@ Multi-select survey measure of prompting techniques across individual and team a
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Within-student transitions are asymmetric: 18.9% of consistent individual users stop using LLMs in teams while only 3.2% start, with framing shifts concentrated in movement to non-use](asymmetric-within-student-llm-disengagement-in-teams.md) — related
 - [Team method choices shifted between years: density matrix selections rose from 1 to 4 teams while matrix product state selections fell from 4 to 2](method-selection-shifted-2023-2024.md) — related
+- [Student prompt types shifted from implementation-driven (2023, 42.67% Code Implementation) to verification-driven (2024, 52.25% Code Verification) to a balanced debug–verify–implement pattern (2025, 36.18% Error Message Interpretation)](prompt-types-implementation-to-verification-to-debug.md) — related

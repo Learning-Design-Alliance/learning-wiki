@@ -50,6 +50,7 @@ The article recommends that physiotherapy programs embed psychological-health an
 - [Use knowledge of salient psychosocial determinants to design curricula that identify struggling students early and foster adaptability and self-efficacy before and during placements](psychosocial-determinants-inform-placement-curriculum.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
+- [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Prospective observational study of the training program's applicability and effe
 ## Related Claims
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
 - [The majority of participants experienced problems with simulated self-contamination during PPE doffing](majority-participants-self-contamination-doffing.md) — related
+- [Nearly 180 students from 12 U.S. schools completed the R&E AI course in its inaugural year, with a 97.8% completion rate](re-ai-course-completion-rate-97-8.md) — related

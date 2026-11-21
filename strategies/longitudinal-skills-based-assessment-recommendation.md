@@ -53,6 +53,7 @@ Based on their pilot's limitations, the authors recommend more comprehensive and
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
 - [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
+- [Adopt delayed post-tests and longitudinal designs as standard practice when evaluating LLM writing interventions](delayed-post-tests-standard-evaluation-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Linear mixed-effects model (Python statsmodels) of solution scores (0-12) with s
 ## Related Claims
 - [Learners prefer a multimodal document-grounded AI system over a text-only variant for engagement, interest and memorability in problem-solving while learning](mudoc-preferred-engagement-memorability.md) — related
 - [Solving the easier problem (INC) with the multimodal system produced more favorable engagement, memorability and confidence ratings than solving the harder problem (ANA) with it](problem-order-effect-mudoc-ratings.md) — related
+- [Document-grounded conversational AI with interleaved text-and-image responses (MuDoC) yields significantly higher post-test scores than a text-only conversational AI (TexDoC) in a visually rich STEM topic](mudoc-higher-posttest-than-texdoc.md) — reports the opposite

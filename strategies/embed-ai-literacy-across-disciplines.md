@@ -74,6 +74,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
 - [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 - [Structured cross-disciplinary mechanisms: interdisciplinary laboratories and 'AIGC + discipline' micro-programmes](interdisciplinary-labs-aigc-microprogrammes.md)
+- [Develop modular quantum sensing curricular resources that integrate into existing undergraduate quantum-related courses](modular-quantum-sensing-curricular-resources.md)
 
 ## Examples
 -

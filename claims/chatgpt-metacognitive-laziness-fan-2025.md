@@ -88,3 +88,4 @@ A conceptual framework paper (a five-stage AI-literacy continuum, with a design-
 - [The divergence between attendance and anxiety effects may reflect increased school exposure, which improves attendance quickly but may raise anxiety short-term](school-exposure-explains-attendance-anxiety-divergence.md) — a narrower finding that bears on this claim
 - [Motivation and self-efficacy showed no impact on source-based essay scores in preliminary analyses](motivation-self-efficacy-no-impact-source-based-essays.md) — related
 - [NeuroChat produced no significant difference in short-term learning outcomes (quiz and essay scores) compared to the control chatbot](neurochat-no-learning-outcome-difference.md) — related
+- [VISAR use was associated with short-term metacognitive engagement in noticing and evaluating alignment with writing goals](visar-short-term-metacognitive-engagement.md) — related

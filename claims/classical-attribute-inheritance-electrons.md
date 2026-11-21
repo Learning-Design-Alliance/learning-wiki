@@ -58,3 +58,5 @@ Interview and written-survey evidence: three students remained committed to a st
 - [Students attribute bending of light to classical mechanisms such as an invisible mirror](bending-of-light-attributed-to-invisible-mirror.md) — related
 - [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
 - [Students can determine a trapped particle's charge-to-mass ratio by two methods whose results agree with each other and with an analytic trap model](charge-to-mass-ratio-two-methods-agree.md) — related
+- [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related
+- [Common introductory strategies for quantum numbers (orbitals, probability clouds, hydrogen atom) are expert representations not optimized for novice sense-making](expert-representations-quantum-numbers-novice-traps.md) — related

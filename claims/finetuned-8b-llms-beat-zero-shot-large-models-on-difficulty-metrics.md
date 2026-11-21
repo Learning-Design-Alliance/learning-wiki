@@ -81,3 +81,4 @@ Authors' summary of the quantitative evaluation of stories generated across the 
 - [DPO training brings the pedagogical rubric performance of an 8B open-source LLM to the level of GPT-4o while improving over SFT and distillation-only training](dpo-matches-gpt4o-pedagogical-rubric.md) — related
 - [LoRA fine-tuning a small LLM significantly improves answer correctness classification over prompted baselines, with the single-task model with rationale significantly outperforming Llama3 70B without rationale](mathedu-finetuning-improves-correctness-classification.md) — related
 - [Fine-tuned Llama-3.1-8B model outperforms GPT-4o and Claude-3.5-Sonnet at rating the four resistance-response mechanisms](finetuned-llama-outperforms-baselines-resistance-mechanisms.md) — related
+- [Fine-tuning on interaction traces narrows an 8B model's gap to GPT-5 on interactive response quality except correctness](refine-finetuning-narrows-gap-to-gpt5.md) — related

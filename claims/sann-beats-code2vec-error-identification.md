@@ -51,3 +51,4 @@ Baseline comparison on incorrect caughtSpeeding solutions. Because expert labeli
 - [LSTM model using SANN code embeddings predicts final exam grades better than baselines (R2 = 0.50, RMSE = 0.17)](sann-embeddings-predict-final-exam-grades.md) — related
 - [Concatenating SANN code vectors with DKT inputs improves next-attempt prediction by about 10% AUC over original DKT](sann-code-vectors-improve-knowledge-tracing.md) — related
 - [Pattern-based KC similarity retrieves bundle-aligned programming learning items better than code-embedding and other KC baselines in both retrieval directions](pattern-kc-retrieval-outperforms-baselines.md) — related
+- [A SANN model pretrained on FalconCode and fine-tuned on LLM-generated synthetic code outperformed synthetic-only, pretrained-only, and GPT-4o baselines at predicting correctness on an unseen problem](fine-tuned-sann-outperforms-baselines-unseen-problem.md) — related

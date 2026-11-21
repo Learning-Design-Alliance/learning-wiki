@@ -102,3 +102,4 @@ Cross-validation results across five timepoints (Fig. 3) comparing unimodal data
 - [The SINM identifies structurally important interest variables as candidate targets for intervention](sinm-identifies-intervention-candidate-variables.md) — related
 - [Perceived usefulness of early warning scoring systems employed during the training increased slightly post-course](early-warning-score-usefulness-increase.md) — related
 - [Students' self-reported likelihood of applying AI or ML in future research increased substantially from the beginning to the end of the AI4CHEM course](ai-use-likelihood-increase-ai4chem.md) — related
+- [Under strict early availability, the predictive signal shifts from behavioral engagement at early cutoffs toward assessment evidence by the end of the course](predictive-signal-shift-engagement-to-assessment.md) — a narrower finding that bears on this claim

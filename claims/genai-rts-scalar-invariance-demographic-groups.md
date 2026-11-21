@@ -55,3 +55,4 @@ Multigroup confirmatory models tested configural, metric, and scalar invariance 
 - [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related
 - [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
+- [Exam performance and High satisfaction showed no clear differences by STEM major status, gender, or race after covariate adjustment](bayes-outcomes-no-demographic-differences.md) — related

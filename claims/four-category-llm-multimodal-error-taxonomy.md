@@ -102,3 +102,5 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [No statistically significant difference between the two algebra-based classes on the 15 common problems (p = 0.90; per-problem p-values 0.42–0.96)](algebra-versions-no-significant-difference.md) — related
 - [ChatGPT-4o's BEMA errors fall into three difficulty types, with spatial coordination of representations and rules the most prevalent](three-chatbot-difficulty-types-bema.md) — related
 - [AI performance on AP Physics FRQs degrades substantially on tasks requiring visual extraction, spatial inference, or integration across sub-parts, despite strong algebraic performance](llm-physics-errors-cluster-visual-spatial-tasks.md) — a broader claim this one bears on
+- [LLM failures on the CRCI stem predominantly from visual misinterpretation rather than deficits in physics knowledge](llm-crcl-errors-predominantly-visual.md) — possibly the same claim (merge candidate)
+- [Enabling reasoning in GPT-5.2 resolves physics-error items but not visual-error items, with non-monotonic degradation on visually demanding items](reasoning-depth-interaction-error-type.md) — related

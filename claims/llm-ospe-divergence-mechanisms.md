@@ -89,3 +89,4 @@ Error analysis of discordant items in the same retrospective study. The divergen
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - [Malaria blood smear preparation proficiency was notably lower than modified Kato–Katz smear preparation, with blood film staining the weakest step (41.96%)](blood-smear-staining-weak-competency.md) — related
 - [ChatGPT-4o outperforms students most on formal and mathematical reasoning items, where it averages 93% against students' 28%](chatgpt-4o-formal-math-items-advantage.md) — related
+- [Native multimodal Generation 5 models resolved the diagram-based spatial reasoning bottleneck, with Gemini 3.0 Pro scoring 100% in Classical Mechanics and Electromagnetism](multimodal-gen5-resolve-spatial-bottleneck.md) — related

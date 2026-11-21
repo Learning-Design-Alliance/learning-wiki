@@ -45,6 +45,7 @@ Based on the IT-Tage implementation, the authors recommend that future workshops
 
 - [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
 - [Emphasizing clinical relevance during theoretical teaching to support motivation and perceived value of lecture attendance](clinical-relevance-emphasis-lecture-motivation.md)
+- [Improvements for future iterations: extend the event, add unstructured social and practice time, use physical props, and align content with computational thinking](quantum-hackathon-future-improvement-strategies.md)
 
 ## Examples
 -

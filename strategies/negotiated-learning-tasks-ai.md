@@ -39,6 +39,7 @@ In this envisioned system, the AI knows the teacher's learning objectives and th
 ## Related Strategies
 
 - [Co Constructing Rubrics With Students](co-constructing_rubrics_with_students.md)
+- [Teach meta-literacy as a core learning objective in courses using AI in education](metaliteracy-core-objective-ai-courses.md)
 
 ## Examples
 -

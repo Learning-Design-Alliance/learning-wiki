@@ -82,6 +82,7 @@ Working memory can hold only a few novel elements at a time, and long instructio
 - [Modeling Multi-Step Processes](../strategies/modeling-multi-step-processes.md) — demonstrating the chunked sequence before learners attempt it
 - [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
 - [Five-step CLE instructional sequence for vocational English classes](cle-five-step-vocational-english-sequence.md)
+- [Deliver sequential, step-by-step feedback addressing one error at a time to support cognitive load management](sequential-stepwise-feedback-cognitive-load.md)
 
 ## Examples
 - **Elementary transitions:** A teacher gives directions in three chunks ("First, put your crayons in the basket… show me when you're ready. Next, move to the carpet…"), waiting for a readiness signal between each.

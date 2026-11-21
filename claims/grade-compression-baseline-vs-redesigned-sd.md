@@ -46,3 +46,4 @@ Discussion-section quantitative comparison of grade distributions across three c
 
 ## Related Claims
 - [Rubric-based collaborative evaluation increased grade dispersion and Shannon entropy across three cohorts](rubric-collab-eval-increased-grade-entropy.md) — related
+- [Section-count distributions show (S) and (P) checkpoints interleaved throughout the application-heavy phase and across course parts](section-counts-show-interleaved-checkpoints.md) — related

@@ -74,3 +74,4 @@ Reflexive thematic analysis of open-text pilot responses identified Tutor Mode s
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — reports the opposite
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related
 - [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related
+- [AI systems giving definitive diagnoses without expressing appropriate uncertainty can reinforce rather than correct misconceptions](ai-definitive-diagnoses-reinforce-misconceptions.md) — related

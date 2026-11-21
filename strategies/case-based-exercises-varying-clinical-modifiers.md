@@ -51,6 +51,7 @@ A curricular recommendation the authors derive from the rising share of Type III
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](ai-simulation-reflection-assessment-strategy.md)
+- [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
 
 ## Examples
 -

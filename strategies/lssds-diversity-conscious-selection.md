@@ -46,6 +46,7 @@ A selection strategy in which application sorting deliberately balances multiple
 ## Related Strategies
 
 - [Blind motivational-statement selection with diversity-aware optimisation to manage oversubscribed camps](blind-motivation-statement-diversity-optimisation-selection.md)
+- [Use a country grading system in applicant selection to contextualise achievements and increase diversity](country-grading-system-selection-diversity.md)
 
 ## Examples
 -

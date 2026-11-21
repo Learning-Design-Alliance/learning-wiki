@@ -49,3 +49,4 @@ Interview analysis of one student's Section 1 work and transcript: "In her descr
 - [Students express that opposite charges attract and like charges repel across multiple activity sections](opposite-attract-like-repel-student-idea.md) — related
 - [A high school student embedded law-like electrostatic ideas about attraction and collision within his comic-strip narrative](zixuan-embedded-physical-ideas-in-charge-narratives.md) — related
 - [Peer comments during small-group sharing changed a student's visual narrative representation of electric charges](peer-comments-shaped-visual-narratives.md) — related
+- [Comics and animation are reported to be effective for physics instruction and to increase motivation and retention](comics-animation-effective-physics-instruction.md) — related

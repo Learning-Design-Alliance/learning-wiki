@@ -47,3 +47,4 @@ Qualitative process evaluation of the ResCare cRCT: framework analysis of proces
 ## Related Claims
 - [Implementation of the individualised intervention was easier in smaller homes and those with less hierarchical, more facilitative management](implementation-easier-smaller-homes-facilitative-management.md) — related
 - [Control-group students reported uncertainty about defining or prioritizing their learning during electives](famuplus-control-group-uncertainty.md) — related
+- [Small-dataset evaluation is characterized by local, uncertainty-related processing, an articulated need for data, and overweighting of single measurements (authors' hypothesis)](small-dataset-uncertainty-overweighting.md) — related

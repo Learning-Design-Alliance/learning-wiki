@@ -69,3 +69,4 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](three-synergistic-motivation-metacognition-profiles.md) — related
 - [Four latent profiles of students emerged from non-cognitive measures: high grit, moderate, high intrinsic motivation, and low grit](four-latent-profiles-noncognitive-high-school.md) — related
 - [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related
+- [In an online introductory statistics course, the model automatically identified four distinct learner profiles without a prespecified cluster count](four-learner-profiles-coursekata-statistics.md) — related

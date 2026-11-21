@@ -56,3 +56,5 @@ Secondary outcome measured with the unweighted NASA-TLX completed immediately af
 - [Using the system reduces learners' mental workload on Temporal Demand and Effort dimensions but not on Performance](system-reduces-workload-temporal-effort.md) — related
 - [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related
 - [MetaRoundWorm reduced subjective mental, temporal and frustration workload relative to interactive slides](vr-condition-lower-mental-temporal-frustration-workload.md) — related
+- [Mental demand, temporal demand, and effort were significantly lower with the AI teammate, while frustration did not differ significantly](ai-teammate-lower-workload-except-frustration.md) — related
+- [Contrastive learning imposes the highest mental demand of all conditions while maintaining high trust and the lowest reported frustration](contrastive-learning-high-effort-low-frustration.md) — related

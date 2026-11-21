@@ -72,3 +72,4 @@ Preliminary analysis of semi-structured interviews with six volunteers at Univer
 - [Student discomfort with physical concepts increases over the semester, peaking during the quantum computing and entanglement units where the physics category dominates](physics-discomfort-peaks-quantum-computing-entanglement.md) — related
 - [The article reports that a spin-first, discrete-variable approach gives students more opportunities to understand quantum concepts independently of heavy mathematics](spin-first-approach-aids-conceptual-understanding.md) — related
 - [Quantum information textbooks based on finite-dimensional Hilbert spaces were more accessible to a non-physicist learner than standard wave-mechanics textbooks](finite-dimensional-textbooks-non-physicists.md) — related
+- [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related

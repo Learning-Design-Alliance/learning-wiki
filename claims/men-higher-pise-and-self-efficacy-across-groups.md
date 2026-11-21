@@ -50,3 +50,5 @@ Gender comparison of PISE survey scores across working modes and periods (Fig. 5
 - [No statistically significant difference in physics self-efficacy between TWA and TWG students before or during the pandemic](no-self-efficacy-difference-twa-twg.md) — related
 - [In an algebra-based introductory physics course where women are the majority, women score significantly lower than men on all measured physics beliefs and learning-environment perceptions](gender-gap-beliefs-women-majority-algebra-based-physics.md) — related
 - [TWG students reported higher PISE than TWA students in both periods, and the gap grew during the pandemic from an effect size of 0.29 to 0.49](twg-higher-pise-gap-grew-during-covid.md) — related
+- [Physics self-efficacy is a strong predictor of peer influence on self-efficacy (PISE)](self-efficacy-strong-predictor-of-pise.md) — related
+- [Students who typically worked in groups reported higher peer influence on self-efficacy than those working alone before and during COVID-19](twg-higher-pise-than-twa-both-periods.md) — related

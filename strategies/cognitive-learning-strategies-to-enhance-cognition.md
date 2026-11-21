@@ -50,6 +50,7 @@ The article recommends that, because students' basal cognition levels can be ass
 - [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](consolidation-sleep-spacing-interleaving-strategy.md)
 - [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](encoding-elaboration-reactivation-strategy.md)
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
+- [Incorporate engagement quality metrics (retrieval practice, interleaving, spacing, self-testing) as predictors of ability drift in platform-log learning models](engagement-quality-metrics-as-drift-predictors.md)
 
 ## Examples
 -

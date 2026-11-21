@@ -55,3 +55,5 @@ Analysis of matched closed-response pre- and post-surveys from 1911 students acr
 - [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — related
 - [SQI labs produce a statistically significant, medium effect on post-instruction PLIC scores controlling for pre-scores](sqi-labs-significant-medium-ancova-effect.md) — related
 - [Student scores increase from pre- to post-survey on all outcome constructs, with ceiling effects on self-efficacy and perceived agency](pre-post-gains-all-constructs-ceiling.md) — a broader claim this one bears on
+- [Under listwise deletion, PEPPER students scored significantly lower than SALT students on the PLIC](plic-negative-effect-listwise-deletion.md) — related
+- [Within both lab conditions, scores rose from pre-test to post-test on all five constructs, with the largest Cohen's d for self-efficacy (d > 0.8)](prepost-gains-all-constructs-both-labs.md) — a broader claim this one bears on

@@ -67,3 +67,4 @@ The chapter identifies three failure scenarios as analytical risks, citing prior
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — a narrower finding that bears on this claim
 - [Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues](micro-optimization-transfer-limitations.md) — related
 - [Automation bias and metric gaming may create a hidden curriculum in which machine-measurable performance is mistaken for professional competence](automation-bias-metric-gaming-hidden-curriculum.md) — related
+- [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related

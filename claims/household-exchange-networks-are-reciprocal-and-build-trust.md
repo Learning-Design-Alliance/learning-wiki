@@ -79,3 +79,4 @@ The digest, citing Moll and Greenberg (1990), reports this trust grew as partici
 - [Moll and Greenberg found that Mexican American students judged cognitively deficient in school performed complex cognitive tasks in their home communities, attributing the deficit judgment to culture-laden evaluative mediation](moll-greenberg-culture-laden-evaluative-mediation.md) — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related
+- [Collaboration with local tradespeople and institutions situated the project in a community of practice, with students moving from peripheral participation to trusted contributors](community-integration-situated-learning-case.md) — related

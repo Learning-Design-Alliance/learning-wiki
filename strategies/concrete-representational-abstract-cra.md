@@ -139,6 +139,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - [Hide information in early representations to reduce cognitive load before introducing more complex ones](black-box-hiding-reduce-cognitive-load-sequencing.md)
 - [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 - [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](qualitative-first-diagram-before-formal-manipulation-strategy.md)
+- [Mathematica programming assignments to build mental representations of mathematical objects](mathematica-assignments-mental-representations.md)
 
 ## Examples
 - **Place value**: learners build 342 with base ten blocks, then draw flats/longs/units, then write the numeral — with the numeral introduced while blocks are still visible

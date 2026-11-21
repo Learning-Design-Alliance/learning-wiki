@@ -48,3 +48,4 @@ This is background literature cited in the article's introduction: the review re
 - [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](long-run-effects-null-seven-studies.md) — a broader claim this one bears on
 - [Prior randomised trials of book-gifting programmes have shown little evidence of effects on children's reading skills](book-gifting-rcts-little-evidence.md) — a broader claim this one bears on
 - [The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).](reading-curricula-no-impacts-one-year-after-implementation.md) — a broader claim this one bears on
+- [First-time use of HRCF is not associated with a measurable change in average end-of-term course evaluation ratings](first-time-hrcf-use-no-rating-change.md) — related

@@ -50,3 +50,4 @@ Narrative review attributing this takeaway to the cited ecosystem overview (Ref.
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
 - [An earlier interview study of 21 quantum companies found engineering and experimental physicist roles most common and classical programming, statistics, and lab experience most valued](fox-2020-quantum-workforce-interview-findings.md) — related
 - [Many quantum-industry jobs require no important quantum skills, and non-quantum skills remain important for all jobs](many-quantum-jobs-need-no-quantum-skills.md) — related
+- [Australia's projected quantum workforce demand cannot be met through PhD production alone, motivating alternate training pathways](quantum-workforce-phd-pathway-infeasible.md) — a narrower finding that bears on this claim

@@ -53,4 +53,4 @@ In RIGID's implementation phase, micro-, meso-, and macro-level considerations i
 -
 
 ## Key Sources
-- Kwak, Y., Pardos, Z.A. (2026). The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design. https://arxiv.org/abs/2603.12781
+- Kwak, Y., Pardos, Z.A. (2026). The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design. https://arxiv.org/abs/2603.12781. [doi:10.48550/arxiv.2603.12781](https://doi.org/10.48550/arxiv.2603.12781)

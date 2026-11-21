@@ -49,3 +49,4 @@ Adjusted residual analysis of the valence × activation contingency table (Table
 - [Physiologically activating group states are rare but co-occur with visible emotional expressions more often than deactivating states](simultaneous-physiological-activation-with-emotional-expressions.md) — related
 - [Most group affective states were neutral or negative in valence and deactivating in physiological level](valence-distribution-collaborative-segments.md) — related
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
+- [Programming with a human teammate produced significantly more positive and more arousing emotional change than programming with the AI teammate](human-teammate-more-positive-arousing-emotion.md) — related

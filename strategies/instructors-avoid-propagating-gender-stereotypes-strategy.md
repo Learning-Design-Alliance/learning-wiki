@@ -48,6 +48,7 @@ The article recommends using its findings in professional development for physic
 - [Instructors and TAs should send the message that physics success is determined by effort and learning strategies rather than innate traits](growth-mindset-messaging-instructors-tas.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Avoid labeling student questions or problems as easy, trivial or obvious, and address observed bias or microaggression rather than staying silent](avoid-trivial-labels-address-bias-physics.md)
+- [Intentional recruitment and retention efforts centering student assets and addressing stereotypes, especially in early introductory courses](intentional-recruitment-retention-physics-majors.md)
 
 ## Examples
 -

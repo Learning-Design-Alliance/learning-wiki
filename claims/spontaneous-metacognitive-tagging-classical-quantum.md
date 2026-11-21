@@ -75,3 +75,4 @@ In the conclusions, the authors report seeing students 'spontaneously engaging i
 - [Some students spontaneously hold a mixed wave-particle (pilot-wave-like) ontology without awareness of formal pilot-wave interpretations](spontaneous-pilot-wave-mixed-ontology-students.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [The article argues classical simulators are better suited than real quantum hardware for teaching, citing error rates, incomplete measurement output, and limited hardware access.](classical-simulators-preferred-for-teaching-quantum-computing.md) — related
+- [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related

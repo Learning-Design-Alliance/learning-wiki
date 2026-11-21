@@ -54,3 +54,4 @@ The chapter reports, citing Dahl et al. (2024), that leading LLMs "hallucinated 
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md)
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md)
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md)
+- [LLMs made implicit, overly simplifying assumptions without justification and often doubled down after being corrected, including fabricating measurement uncertainties](llm-implicit-assumptions-doubling-down.md) — related

@@ -51,3 +51,4 @@ Conceptual argument using formal educational assessment as the principal worked 
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — a broader claim this one bears on
 - [The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust](ai-navigation-requires-guiding-principles.md) — related
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — related
+- [Individual institutions cannot provide the structural protections behavioural architecture demands, because the institution operating the system is the same one assessing the student](institution-cannot-provide-structural-protections.md) — related

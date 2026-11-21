@@ -49,6 +49,7 @@ The course teaches Bayes' theorem "using dot diagrams and natural frequency tree
 
 - [Use active-learning techniques throughout — dice-rolling, think–pair–share, and role-playing — to elicit and combat probability misconceptions](dice-rolling-think-pair-share-roleplay-strategy.md)
 - [90-minute risk-literacy training session built around natural frequency trees and PPV/NPV curves with small-group practice on real diagnostic tests](ninety-minute-natural-frequency-tree-training-session.md)
+- [Adopt a stand-alone POGIL-style Bayes' theorem lesson using hand-computable two-way tables and natural frequencies instead of simulation or posterior distributions](hand-computable-two-way-table-bayes-strategy.md)
 
 ## Examples
 -

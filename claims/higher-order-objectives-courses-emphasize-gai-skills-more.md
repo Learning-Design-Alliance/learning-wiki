@@ -48,3 +48,4 @@ Cross-referencing of course syllabi learning objectives (coded as higher-order u
 - [Marketing educators perceive GAI as most useful as a teammate in higher-level courses but as a tutor or tool in lower-level courses](gai-perceived-most-useful-teammate-higher-level-courses.md) — related
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
 - [Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses](marketing-educators-gai-use-tool-most-common.md) — related
+- [Current GAI systems can perform most tasks on the Nolan and Temple Lang computational syllabus, absorbing the technical skills of GDS3 into GAI's capability envelope](gai-absorbs-nolan-temple-lang-computational-syllabus.md) — related

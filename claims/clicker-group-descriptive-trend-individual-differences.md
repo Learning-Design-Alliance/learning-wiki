@@ -56,3 +56,4 @@ Descriptive statistics from Table 1 of the pretest-posttest-delayed posttest stu
 - [Individual differences produced highly variable vocabulary gains among PàN players, with some participants benefiting far more than others](pan-individual-differences-vocabulary-gains.md) — a narrower finding that bears on this claim
 - [Students who scored below average on the ICT showed greater increases in performance from ICT to GCT after peer interaction, though some students' performance did not increase, in one uncontrolled pre-post study](qm-clicker-low-ict-students-benefited-most.md) — related
 - [Students preferred a participation-only clicker grade over grades crediting correctness](participation-only-clicker-grading-preferred.md) — related
+- [Learners who entered more words per interaction with the LLM system achieved higher vocabulary learning outcomes, though an exception learned effectively with few words](cl-word-entry-engagement-learning-outcomes.md) — related

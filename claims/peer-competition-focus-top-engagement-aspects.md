@@ -72,3 +72,5 @@ Same survey's engagement category: the prize-focus item was the lowest-rated, at
 - [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](leaderboard-top-motivator-residents-kaizen-im.md) — related
 - [Students rate ARS use in lectures as motivating and report more active participation](ars-motivation-active-participation-ratings.md) — related
 - [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](vr-enjoyment-high-ratings.md) — related
+- [Students enjoyed the first day's microcycle lectures and activities (lecture ratings 3.71–4.42 on a 5-point scale), but second-day competition participants were neutral on feeling motivated to complete challenges](quantum-hackathon-enjoyment-motivation-ratings.md) — related
+- [Preliminary survey preferences shaped QubitQuest's design: visualisations and feedback ranked most helpful, narrative and leaderboards least valued](qubitquest-survey-informed-design.md) — related

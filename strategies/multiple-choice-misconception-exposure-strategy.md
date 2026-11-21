@@ -42,6 +42,7 @@ The author used an in-class multiple-choice problem on parity in quantum field t
 
 - [Use carefully selected contrasting cases to have students discover general rules rather than explaining the rules first](contrasting-cases-discover-rules-strategy.md)
 - [Design in-class activities so students struggle with a problem before the mini-lecture that shows how an expert organizes it](struggle-before-mini-lecture-strategy.md)
+- [Use per-student misconception scores from research-designed multiple-choice instruments for class-level formative assessment and intervention design](misconception-scores-class-formative-assessment-strategy.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Residents found the curriculum's grading rubrics helpful and reported knowing how to improve after graded feedback](rubric-feedback-helped-residents-know-how-to-improve.md) — related
 - [Students regarded feedback as an important component of peer assessment, valuing corrective and suggestive comments beyond bare marking](peer-feedback-importance-corrective-suggestive.md) — related
 - [TAs found AI suggestions generally accurate and helpful for uncovering overlooked errors, understanding rubrics, and framing feedback](tas-found-ai-suggestions-accurate-and-helpful.md) — related
+- [Before encountering the problem or AI, pre-service teachers stated mostly physics-based and procedural validation criteria in five areas](initial-physics-based-validation-criteria.md) — related

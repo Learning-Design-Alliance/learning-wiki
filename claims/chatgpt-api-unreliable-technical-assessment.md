@@ -55,3 +55,4 @@ Qualitative analysis of the API-based evaluation's technical precision and conce
 - [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
+- [Open-ended survey feedback praised real-time stepwise feedback and reduced instructor reliance while flagging handwriting input, interface lag, and unreliable AI responses](open-ended-feedback-strengths-usability-issues.md) — related

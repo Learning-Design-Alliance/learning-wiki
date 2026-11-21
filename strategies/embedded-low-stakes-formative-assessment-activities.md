@@ -58,6 +58,7 @@ This strategy operationalizes formative assessment by integrating specific low-s
 - [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
 - [Use concept cartoon clicker questions to integrate evolutionary biology into introductory physics through active engagement](concept-cartoon-clickers-interdisciplinary-physics-strategy.md)
 - [Offer flexible group and individual work options, structured peer-support opportunities, and low-stakes group activities to build confidence](flexible-group-options-structured-peer-support-low-stakes-start.md)
+- [Reading guides plus pre-class quizzes and think-pair-share discussion of theory papers](reading-guide-quiz-think-pair-share-theory-papers.md)
 
 ## Examples
 -

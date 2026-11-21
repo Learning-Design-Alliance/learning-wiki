@@ -58,3 +58,4 @@ R² values from the structural model of 533 respondents; the article states the 
 - [The integrated mediation-moderation model fits the data well and explains 38% of variance in academic performance](sem-model-fit-r2-38-percent.md) — related
 - [The fitted path model shows self-efficacy, critical thinking, and self-regulation explaining 32.9%, 35%, and 46.1% of variance respectively](path-model-variance-explained-endogenous-variables.md) — related
 - [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related
+- [Personality, motivation and emotion shape learning outcomes as strongly as cognitive ability, yet are ignored in AI-in-education design](engagement-dimensions-shape-learning-as-strongly-as-cognition.md) — related

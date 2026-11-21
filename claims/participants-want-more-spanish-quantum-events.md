@@ -49,3 +49,4 @@ Participant feedback survey collected from 16 participants a week after the hack
 - [Participants report universally positive experiences and strong intentions to return to future SK Day events](sk-day-universally-positive-survey-replies.md) — related
 - [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — related
 - [Hackathon participants reported increases in understanding, interest, skills, and confidence, and most expected to apply what they learned within the following year](hackathon-self-reported-gains-and-adoption.md) — related
+- [All 52 surveyed visitors said they would like more events like the public-square physics activity](public-square-unanimous-demand-more-events.md) — related

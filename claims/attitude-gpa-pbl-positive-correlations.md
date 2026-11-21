@@ -49,3 +49,4 @@ Pearson correlation analysis (N = 91; e-PBL: 60, f2f: 31) of attitude scores, GP
 - [In the combined nursing sample, academic performance correlated moderately with self-efficacy, and attitudes correlated moderately with self-efficacy, while academic performance and attitudes were not significantly associated.](el-outcome-intercorrelations-nursing-sample.md) — reports the opposite
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [CORE clinical reasoning scores do not differ by platform; CORE correlates with GPA but not with PBL scores](core-scores-platform-equivalent-gpa-correlation.md) — related
+- [Prior academic achievement correlates with exam performance and with attitudes toward learning, but not with self-efficacy or perceived difficulty](gpa-correlates-with-exam-and-attitudes-not-efficacy.md) — related

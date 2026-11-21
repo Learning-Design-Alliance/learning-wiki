@@ -53,3 +53,4 @@ The re-analysis in STATA reported "I2 value of 100.0%", indicating "a large amou
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - [Reconfigured teaching strategy subtopics yield a pooled effect size of ES = 0.497, a medium effect on student achievement](reconfigured-teaching-strategies-pooled-medium-effect.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
+- [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related

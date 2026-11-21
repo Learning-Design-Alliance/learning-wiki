@@ -63,3 +63,4 @@ This is the article's own statement of its second contribution, derived from a f
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — a narrower finding that bears on this claim
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related
 - [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related
+- [LLMs almost never revise their initial bias judgments when prompted to self-verify, revising in only 0.1% of cases](llms-rarely-revise-bias-judgments-self-verification.md) — related

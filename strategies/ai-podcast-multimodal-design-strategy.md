@@ -47,6 +47,7 @@ The article's design recommendations, drawn from participant feedback, call for 
 ## Related Strategies
 
 - [Engineer pauses, multimodal anchors, and improved prosody into AI-generated audio revision tools](engineer-pauses-anchors-prosody-ai-audio.md)
+- [Include relevant textbook-based visuals alongside textual explanations in conversational AI for visually rich STEM domains](textbook-visuals-alongside-text-in-stem-conversational-ai.md)
 
 ## Examples
 -

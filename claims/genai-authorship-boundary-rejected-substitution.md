@@ -62,3 +62,4 @@ RQ2 thematic analysis found ethical acceptability framed around whether GenAI us
 - [RLHF rapidly shapes model outputs toward rater-endorsed norms, improving surface compliance while leaving principle-level generalization unresolved](rlhf-surface-compliance-gap.md) — related
 - [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related
 - [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](genai-assisted-research-supports-originality.md) — reports the opposite
+- [Students viewed the conference-style paper as demanding but educationally valuable, with mixed support for retaining it unchanged](conference-paper-demanding-but-valuable.md) — related

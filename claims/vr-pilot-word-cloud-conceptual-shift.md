@@ -51,3 +51,4 @@ A single-word elicitation task administered via PollEverywhere at course start a
 - [Students analyzing text in word clouds reported moderately higher critical thinking scores than students analyzing the same text in linear form](word-clouds-higher-critical-thinking-scores.md) — related
 - [A larger share of word cloud condition students reported that classmate interaction was promoted compared to linear condition students](word-clouds-promote-classmate-interaction.md) — related
 - [Learning-style groups showed distinct interaction patterns with the LLM chatbot, suggesting potential for personalized VR learning](learning-style-distinct-chatbot-interaction-patterns.md) — related
+- [Students' own-word descriptions of GenAI shifted from broad novelty terms (2023) to educationally oriented vocabulary such as Help, Understand, and Learned (2025)](genai-awareness-vocabulary-educationally-oriented.md) — related

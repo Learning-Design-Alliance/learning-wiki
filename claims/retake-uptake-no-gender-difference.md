@@ -48,3 +48,4 @@ Analysis of first-attempt and retake exam records from three retake classes in t
 - [Female students outscored male students on most low-stakes first-attempt exams in retake classes, and retakes benefited male students slightly more](first-attempt-low-stakes-gap-positive.md) — related
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
 - [The GPA-controlled in-term exam gender gap is about 0.23 standard deviations in medium-stakes non-retake classes but approximately zero in low-stakes retake classes](stakes-interaction-zeroes-gender-gap.md) — related
+- [There is no significant gender difference in uncollected test item responses in introductory physics exams, correcting the authors' earlier finding](no-gender-difference-uncollected-items.md) — related

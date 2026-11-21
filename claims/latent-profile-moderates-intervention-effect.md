@@ -47,3 +47,4 @@ Conditional mixed model on the 269 RCT students (nested in 66 teachers within 9 
 ## Related Claims
 - [Intervention effects ran in opposite directions by profile: Profile 1 control students outperformed Profile 1 treatment students, while Profile 2 treatment students outperformed Profile 2 control students](opposite-intervention-effects-by-profile.md) — a narrower finding that bears on this claim
 - [Latent profile analysis of German third graders' reading measures identifies four profiles consistent with the simple view of reading: poor decoders, poor comprehenders, poor readers, and good readers](four-svr-reading-profiles-third-graders.md) — related
+- [The condition moderated the mid-test to post-test relationship: the mid-test by condition interaction was statistically significant (p=.039)](midtest-posttest-interaction-significant.md) — related

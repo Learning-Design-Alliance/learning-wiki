@@ -57,3 +57,4 @@ Qualitative analysis of Solution-condition responses identified three patterns: 
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related
 - [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — related
 - [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
+- [Recording written predictions before observation improves conceptual engagement and reduces uncritical acceptance of confirming outcomes (attributed to prior literature)](prediction-before-observation-improves-engagement.md) — related

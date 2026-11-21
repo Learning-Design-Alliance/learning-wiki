@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: paul-j-camp-2012
+  - id: paul-j-camp-2013
     resource: "https://doi.org/10.48550/arXiv.1306.4944"
-    title: "Paul J. Camp. (2012). Contrastive sets and framing: A case study in scientific writing. [doi:10.48550/arXiv.1306.4944](https://doi.org/10.48550/arXiv.1306.4944)"
+    title: "Paul J. Camp. (2013). Contrastive sets and framing: A case study in scientific writing. Originally published 2012. [doi:10.48550/arXiv.1306.4944](https://doi.org/10.48550/arXiv.1306.4944)"
     author: Paul J. Camp
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The author's working hypothesis is that task-based prompts distributed with weekly assignments led students to frame the activity as a homework assignment rather than a conversation, responding to the instructor rather than one another. [→ Paul J. Camp 2012](#paul-j-camp-2012)
+`q1 i?` The author's working hypothesis is that task-based prompts distributed with weekly assignments led students to frame the activity as a homework assignment rather than a conversation, responding to the instructor rather than one another. [→ Paul J. Camp 2013](#paul-j-camp-2013)
 
 ## Evidence
 
-### Paul J. Camp 2012
+### Paul J. Camp 2013
 
-Paul J. Camp. (2012). Contrastive sets and framing: A case study in scientific writing. [doi:10.48550/arXiv.1306.4944](https://doi.org/10.48550/arXiv.1306.4944)
+Paul J. Camp. (2013). Contrastive sets and framing: A case study in scientific writing. Originally published 2012. [doi:10.48550/arXiv.1306.4944](https://doi.org/10.48550/arXiv.1306.4944)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -49,3 +49,4 @@ This is the author's interpretive hypothesis (type e) offered in the analysis of
 - [Reading core materials and completing assignments were the most time-consuming course activities](reading-and-assignments-most-time-consuming.md) — related
 - [Participation in a context requiring authoring of activity is hypothesized to lead to changes in participation, agency, and identity as instigators of change](authoring-of-activity-builds-agency-and-identity.md) — related
 - [Microscopic studies link student framing to resource activation, and frame shifts are frequent with instructor prompts enabling productive transitions](framing-drives-resource-activation.md) — related
+- [One instructor's framing of the tutorial and tests as not part of the course, with small extra credit, likely reduced student engagement and performance](instructor-framing-reduced-engagement-moi-tutorial.md) — related

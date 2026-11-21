@@ -59,6 +59,7 @@ The article recommends that LLM use in foundational biomedical education focus o
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
 - [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
 - [Position AI writing-support systems as adjuncts to supervision and prompts for reflective dialogue rather than authoritative sources of truth](ai-writing-support-as-adjunct-to-supervision.md)
+- [Verify LLM outputs against primary sources, cross-check models against each other, prompt for reasoning, and start a new chat when errors persist](llm-research-verification-practices-strategy.md)
 
 ## Examples
 -

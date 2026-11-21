@@ -68,3 +68,5 @@ Same results-section comparison of prompting strategies across the six models. T
 - [Unadjusted foundation models achieve only moderate agreement (Cohen's κ = 0.38–0.58) with expert annotations when classifying instructional moves in authentic classroom transcripts](llm-baseline-moderate-kappa-talk-moves.md) — a broader claim this one bears on
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [Reasoning-based misclassification detection is robust across LLM annotators but detectability varies by source model, with errors from o3 and GPT-5 easiest to detect and Claude 4.5 Sonnet errors hardest](verification-signal-varies-by-source-llm.md) — related
+- [Few-shot prompting produced larger accuracy gains than model updates alone for both AI tools](few-shot-gains-exceed-model-update-gains.md) — related
+- [Few-shot prompting with two exemplars per cognitive-demand category improved both AI tools' classification accuracy (Gemini 58% to 67%; Coteach 50% to 75%)](few-shot-prompting-improves-math-task-classification.md) — related

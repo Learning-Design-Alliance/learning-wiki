@@ -81,3 +81,5 @@ Same Experiment-1 test-phase analysis of isomorphic problem variants solved unas
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — related
 - [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related
 - [Learning-oriented prompting gains scaled monotonically with the designed ICAP engagement level of the instruction](prompting-gains-scale-icap-engagement.md) — related
+- [Guided hints achieve the largest learning gains over baseline in problem solving, with a frustration reversal as engagement increases](guided-hints-largest-learning-gains.md) — related
+- [Open-ended LLM-feedback self-explanation shows no significant advantage over control or menu-based conditions on ordinary post-test problem-solving accuracy in calculus.](no-condition-difference-post-test-problem-solving-accuracy.md) — related

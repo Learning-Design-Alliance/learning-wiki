@@ -69,6 +69,7 @@ The model works only when both halves are redesigned: pre-class materials must b
 - [Ensure self-study materials for inverted-classroom teaching are not too complex and avoid redundancies with classroom phases](icm-self-study-materials-complexity-strategy.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 - [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
+- [Deploy the module in full, partial, or flipped modes with a minute-by-minute 50-minute timing plan](superposition-module-deployment-modes.md)
 
 ## Examples
 - **Bergmann & Sams' chemistry flip (Woodland Park High School, CO)** — the original K-12 implementation; recorded lessons for absent students became the default, with class time devoted to labs and problem solving ([flippedclassroom.org](https://flippedclassroom.org))

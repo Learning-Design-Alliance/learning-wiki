@@ -62,3 +62,4 @@ Within the human-AI collaboration theme of the focus group findings, participant
 - [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
 - [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
 - [The authors argue that making pedagogical intent explicit and editable in a language-mapping interface has the potential to lower design barriers for non-expert designers and preserve human agency in critical decisions](pedagogical-intent-explicit-editable-lowers-barriers.md) — related
+- [Students perceive the Boss Agent's orchestration as streamlining their learning process, unifying group decisions and reducing conflicts](students-perceive-boss-agent-as-process-coordinator.md) — related

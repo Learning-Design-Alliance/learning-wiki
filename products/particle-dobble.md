@@ -28,4 +28,4 @@ An open-access educational card game created by Mientus et al. for introducing u
 -
 
 ## Key Sources
-- Mientus, L., Ruechel, A., Kalke, K., & Borowski, A. (2026). Particle Dobble – Exploring the Particle Zoo. The Physics Teacher (accepted manuscript). https://arxiv.org/abs/2602.23955
+- Mientus, L., Ruechel, A., Kalke, K., & Borowski, A. (2026). Particle Dobble – Exploring the Particle Zoo. The Physics Teacher (accepted manuscript). https://arxiv.org/abs/2602.23955. [doi:10.48550/arxiv.2602.23955](https://doi.org/10.48550/arxiv.2602.23955)

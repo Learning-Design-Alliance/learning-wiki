@@ -47,3 +47,4 @@ Binomial GLMM with crossed random intercepts for participant and passage on the 
 ## Related Claims
 - [Engage-to-Unlock participants completed passage evaluation faster and with higher accuracy-per-time efficiency than both AI-access comparison conditions](engage-to-unlock-faster-more-efficient-evaluation.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
+- [RL-timed GenAI access improves metacognitive accuracy of self-assessment compared with unrestricted access](rl-timed-access-metacognitive-accuracy-vs-always.md) — related

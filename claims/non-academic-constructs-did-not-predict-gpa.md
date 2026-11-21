@@ -53,3 +53,4 @@ Null result from the stepwise linear regression in the prospective cohort study 
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — reports the opposite
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [Perceived deepening of knowledge and confidence in answers did not significantly predict exam scores](participation-perceptions-not-predicting-exam-scores.md) — related
+- [Prior academic achievement correlates with exam performance and with attitudes toward learning, but not with self-efficacy or perceived difficulty](gpa-correlates-with-exam-and-attitudes-not-efficacy.md) — related

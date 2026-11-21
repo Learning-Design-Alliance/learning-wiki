@@ -53,3 +53,4 @@ Reproducibility analysis in which each model answered 910 A-type KMLE questions 
 - [Chatbot responses show near-perfect repeatability across no-feedback attempts (κ 0.967-1.000)](chatbot-response-consistency-kappa-near-perfect.md) — related
 - [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related
 - [Chatbot answers were largely stable across 5 successive attempts, with all chatbots answering 104 (52%) of the 200 questions correctly in every attempt](chatbot-answer-stability-across-five-attempts.md) — related
+- [The GPT-4o question generator repeatedly asked the same questions, an issue the authors attribute to zero temperature and prompts that did not emphasize adapting to learner responses](cl-gpt4o-repeated-questions-limitation.md) — related

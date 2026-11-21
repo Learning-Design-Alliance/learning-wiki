@@ -48,6 +48,7 @@ The article documents a set of strategies instructors used successfully during e
 
 - [Use OER-based simulations and video analysis to simulate in-person physics labs remotely](oer-simulation-video-analysis-virtual-labs-strategy.md)
 - [Open-inquiry lab workflow in which students design experiments, build simulations, compare them, and iterate](open-inquiry-simulation-experiment-comparison-workflow.md)
+- [Use skills-focused instructional laboratories, including project-based and open-ended labs, to develop experimental skills aligned with quantum workforce needs](skills-focused-labs-for-qise-career-preparation.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Review of publicly available resources, web searches, journal publications, comm
 - [Bachelor's-degree job demand is stronger in US/Canada, with regional divergence in degree requirements](bachelors-demand-stronger-us-canada-quantum-jobs.md) — related
 - [A global survey identified 86 Quantum Technology master's programs, with 72.1% of currently running programs established since the start of 2021](86-qt-masters-programs-growth-since-2021.md) — related
 - [QT master's programs are geographically concentrated in Europe (41 programs), with France and Germany hosting the most (9 each), and 32 programs across the United States, United Kingdom, Australia and Canada](qt-masters-geographical-distribution.md) — related
+- [Access to quantum education remains uneven, concentrated in North America and Europe with limited access elsewhere](quantum-education-inequitable-global-access.md) — possibly the same claim (merge candidate)

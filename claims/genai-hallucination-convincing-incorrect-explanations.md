@@ -106,3 +106,6 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — related
 - [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — a narrower finding that bears on this claim
 - [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related
+- [The pre-guardrail baseline system produced a high proportion of generic, non-instructional output (29.6%) and surfaced stale or incorrect course information](generic-stale-baseline-responses.md) — related
+- [LLMs returned false citations, links, or paper summaries about 20% of the time during graduate literature research](llm-false-citations-twenty-percent.md) — related
+- [LLMs made implicit, overly simplifying assumptions without justification and often doubled down after being corrected, including fabricating measurement uncertainties](llm-implicit-assumptions-doubling-down.md) — related

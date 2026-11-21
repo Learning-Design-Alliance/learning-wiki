@@ -58,3 +58,4 @@ Descriptive/theoretical statement from the Workbook G (Teacher Responses) sectio
 - [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — related
 - [Open-ended questions in preschool settings encourage individual thinking and developmentally significant sustained dialog](open-ended-questions-preschool-sustained-dialog.md) — related
 - [Trainers stimulate collaborative learning and reflection by asking questions, promoting dialog, and encouraging thinking aloud](sbl-collaborative-learning-reflection-questioning.md) — related
+- [The positive correlation between tutor Praise rate and total reward is concentrated in NoThink dialogs and localized to closing turns, with null or negative effects under Think variants](praise-reward-correlation-nothink-late-turns.md) — related

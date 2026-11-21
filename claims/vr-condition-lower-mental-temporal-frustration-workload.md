@@ -86,3 +86,4 @@ Remaining NASA-TLX subscales showed "No significant differences were observed in
 - [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
 - [Using the system reduces learners' mental workload on Temporal Demand and Effort dimensions but not on Performance](system-reduces-workload-temporal-effort.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
+- [Contrastive learning imposes the highest mental demand of all conditions while maintaining high trust and the lowest reported frustration](contrastive-learning-high-effort-low-frustration.md) — related

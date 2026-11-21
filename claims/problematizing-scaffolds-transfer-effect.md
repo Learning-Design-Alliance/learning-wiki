@@ -52,3 +52,4 @@ Planned comparison between problematizing and structuring conditions on a near t
 - [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related
 - [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related
 - [Varied grouping scaffolds produced significantly higher daily-task scores than graphic-organizer-only instruction in sixth-grade geometry](grouping-scaffolds-significant-daily-task-gain.md) — related
+- [A between-groups study with 173 pharmacy technician apprentices comparing structuring, problematizing, and hybrid scaffolding was conducted in January 2026, with results under analysis](pharmasim-between-groups-study-173-apprentices.md) — related

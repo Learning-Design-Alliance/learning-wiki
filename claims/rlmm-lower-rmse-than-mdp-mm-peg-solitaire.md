@@ -53,3 +53,4 @@ Simulation study on the four peg-solitaire boards of LaMar (2018) with 200 simul
 - [In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently](aqualab-beta-completion-and-efficiency.md)
 - [In AQUALAB gameplay logs, the estimated RLMM person parameter is positively associated with cumulative trajectory reward (Pearson 0.5842, Spearman 0.5760)](aqualab-beta-associated-with-cumulative-reward.md)
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
+- [In simulation, the B-spline specification recovered nonlinear engagement-drift functions (drift correlation r = 0.933) and ability parameters with near-nominal coverage](bspline-drift-recovery-simulation.md) — related

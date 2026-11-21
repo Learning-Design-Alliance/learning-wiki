@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (169 show a difference, 31 mixed, 14 no difference) · 185 studies (70 causal, 30 review, 28 qualitative, 20 design, 18 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 18 of 185 report an effect size · 214 claims rest on one study
+> **Evidence** · 216 claims (171 show a difference, 31 mixed, 14 no difference) · 186 studies (70 causal, 30 review, 28 qualitative, 20 design, 19 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 19 of 186 report an effect size · 216 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -256,6 +256,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students completing the asynchronous online collaborative exam found it easy to share and collaborate on both multiple-choice and long-answer questions](../claims/online-collab-ease-mc-long-answer.md) [+M] — measured as an outcome of the instruction studied
 - [Traditional lab and recitation students rarely presented work or built on each other's ideas, unlike CLASP students](../claims/no-student-presentations-traditional-sections.md) [+M] — measured as an outcome of the instruction studied
 - [High-quality peer interactions produced significantly stronger collaborative experiences than both low-quality peer interactions and AI conditions](../claims/hq-peer-outperforms-lq-peer-and-ai-perception.md) [+M] — measured as an outcome of the instruction studied
+- [Students who typically worked in groups earned significantly higher physics grades than those working alone during COVID-19](../claims/twg-higher-grades-than-twa-during-covid.md) [+M] — learners who differ on it differ in outcomes
+- [Students who typically worked in groups reported higher peer influence on self-efficacy than those working alone before and during COVID-19](../claims/twg-higher-pise-than-twa-both-periods.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -67,3 +67,4 @@ Repeated measures correlation over N = 3,198 observations from all groups and me
 - [First-year physics students' perceived stress rises during the first four to five lecture weeks, stays elevated until exams, and falls below starting levels afterward](physics-first-year-stress-trajectory.md) — related
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](self-reported-lms-time-on-task-correlated.md) — related
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
+- [Self-reported weekly workload in the course stayed within the expected effort for a 9 ECTS class](rust-robotics-course-workload-within-9-ects.md) — related

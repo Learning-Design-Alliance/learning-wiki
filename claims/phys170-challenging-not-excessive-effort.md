@@ -51,3 +51,4 @@ Lickert-type survey items on pace, work load, and required time commitment from 
 - [Student evaluations of Yale's first-semester introductory physics courses form statistically distinct clusters by course, even across instructors and teaching styles](set-clusters-statistically-significant-across-courses.md) — related
 - [Biological science majors and premedical students give PHYS 170 a comparable overall evaluation to a lower-workload traditional-syllabus course and a higher one than a comparable-workload traditional course](phys170-comparable-or-higher-set-than-traditional.md) — related
 - [Nearly 70% of PHYS 170 students report increased belief in the relevance of physics to biology and medicine after taking the course](phys170-increased-relevance-belief.md) — related
+- [Self-reported weekly workload in the course stayed within the expected effort for a 9 ECTS class](rust-robotics-course-workload-within-9-ects.md) — related

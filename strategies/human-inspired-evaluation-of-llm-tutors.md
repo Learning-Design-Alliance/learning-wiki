@@ -48,6 +48,7 @@ The authors recommend that AIED researchers develop systematic, human-inspired e
 - [Simulate-then-test workflow: use personalized computational models to screen interventions before running costly human experiments](simulate-then-test-intervention-screening.md)
 - [Design field experiments on AI use with attention to perception, group dynamics, an outside option, and role-switching alternatives](ai-experiment-design-lessons-perception-outside-option.md)
 - [Validate simulated learner behavior against authentic student responses through longitudinal school deployment](longitudinal-deployment-validation-strategy.md)
+- [Evaluation frameworks for AI feedback should address cross-cultural validity, uncertainty communication, and multi-turn interaction](l2-bench-open-evaluation-questions-strategy.md)
 
 ## Examples
 -

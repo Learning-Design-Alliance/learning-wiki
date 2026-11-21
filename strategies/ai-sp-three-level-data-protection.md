@@ -47,6 +47,7 @@ The article recommends a 3-level protection mechanism to address privacy and leg
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
 - [Preserve data integrity through input checks, deduplication, backups and access controls before deploying IoT](data-integrity-practices-iot-education.md)
 - [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Govern behavioural architecture in education at EU level through three mechanisms: portable inferred data, independent certification, and interoperability standards](eu-level-governance-behavioural-architecture.md)
 
 ## Examples
 -

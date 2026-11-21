@@ -78,3 +78,4 @@ MANOVA across the five retained profiles on the seven SRL sub-constructs, report
 - [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
 - [Online undergraduate introductory physics courses show higher withdrawal rates than in-person courses](online-intro-physics-higher-withdrawal.md) — related
 - [Latent profile analysis identifies four distinct student profiles differing in their balance of teaching, social and cognitive presences](lpa-four-student-profiles-blended.md) — related
+- [In an online introductory statistics course, the model automatically identified four distinct learner profiles without a prespecified cluster count](four-learner-profiles-coursekata-statistics.md) — related

@@ -57,3 +57,4 @@ The review's synthesis states that "the teaching of complex quantum behavior... 
 - [Quantum cryptography is proposed as a very suitable introductory subject for teaching the fundamental principles of quantum physics](quantum-cryptography-introductory-subject.md) — related
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — related
 - [Upper-undergraduate students hold naïve ideas of revival and decay for quantum time evolution after measurement](naive-revival-decay-ideas-quantum-time-evolution.md) — a narrower finding that bears on this claim
+- [Upper-division QISE students use two identifiable problem-solving strategies — Naive Measurement Probabilities and Virtual Quantum Computer — when interpreting quantum states](students-use-nmp-and-vqc-strategies-quantum-states.md) — related

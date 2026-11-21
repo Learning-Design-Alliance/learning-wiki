@@ -59,3 +59,4 @@ PLS-SEM analysis of the 398-respondent survey; the article reports that learning
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
 - [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — a broader claim this one bears on
 - [Emotional engagement positively influences active learning and mediates the effects of interactions and social presence](emotional-engagement-mediation-active-learning.md) — related
+- [Students perceive the Lightbulb Agent's proactive prompts as warm encouragement that activates disengaged group members](lightbulb-agent-prompts-activate-disengaged-members.md) — a narrower finding that bears on this claim

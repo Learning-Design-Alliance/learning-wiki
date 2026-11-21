@@ -50,3 +50,6 @@ Descriptive comparison of pre- and post-survey score distributions (Fig. 4) acro
 - [Splitting roles shows the strongest negative effect on attitudes, statistically significant for self-efficacy, perceived agency, and recognition](splitting-roles-negative-attitudes.md) — related
 - [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related
 - [Rotating roles has no effect statistically distinguishable from zero on any attitudinal outcome](rotating-roles-null-effect.md) — related
+- [Pre-instruction belonging prospectively predicts post recognition, self-efficacy, agency, and higher-knowledge PLIC profile membership](belonging-upstream-predictor-lab-learning.md) — related
+- [Pre-instruction agency negatively predicts post higher-knowledge PLIC profile membership (β = −.084), an unexpected effect that survived suppression checks](negative-agency-profile-path.md) — related
+- [Recognition functions primarily as a downstream construct over a single instructional window, receiving input from belonging and agency with no significant forward paths](recognition-downstream-construct.md) — related

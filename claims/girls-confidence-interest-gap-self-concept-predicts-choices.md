@@ -170,3 +170,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Far fewer girls than boys choose physics at age 16 across all four UK nations](uk-age16-physics-gender-uptake-gap.md) — related
 - [Although the women developed initial interest in physics in diverse ways, they followed a similar trajectory of declining self-efficacy while their coping strategies differed](shared-declining-trajectory-varied-coping.md) — related
 - [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related
+- [Participants entered the program with low to moderate AI confidence despite high interest, framing confidence rather than motivation as the primary barrier](low-entry-confidence-primary-barrier-ai-education.md) — related

@@ -62,3 +62,4 @@ This perspective article (not an empirical study or systematic review) states, c
 - [Integrating external knowledge improves the quality and complexity of generated questions](external-knowledge-improves-question-quality.md) — related
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — a narrower finding that bears on this claim
 - [An optimizer LM can iteratively improve math word problem worksheets using an evaluator LM's judgments as the reward function](instruction-optimization-improves-worksheets.md) — a narrower finding that bears on this claim
+- [Prompt specificity showed no relationship with students' first validation judgments of AI-generated solutions](prompt-specificity-unrelated-to-validation-judgments.md) — related

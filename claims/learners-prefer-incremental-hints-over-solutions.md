@@ -63,3 +63,5 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
 - [High-performing students receive more feedback and explanations; low-performing students receive more hints and social-emotional support](singakids-dynamic-scaffolding-user-study.md) — related
 - [Feedback during learning did not hinder students' independent problem-solving in the post-learning phase, with no significant success-rate differences across groups](feedback-does-not-hinder-post-learning-problem-solving.md) — related
+- [Students predominantly used iterative formative feedback (Evaluate My Work) over more solution-revealing tools, with participation declining across assignment problems](evaluate-my-work-dominant-formative-usage.md) — a narrower finding that bears on this claim
+- [Guided hints achieve the largest learning gains over baseline in problem solving, with a frustration reversal as engagement increases](guided-hints-largest-learning-gains.md) — related

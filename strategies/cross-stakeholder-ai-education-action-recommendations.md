@@ -55,6 +55,7 @@ Based on the Delphi findings and persona reflections, the article recommends act
 - [Validate predictions within an intervention pipeline and include downstream policy recommendations](validate-predictions-intervention-pipeline.md)
 - [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 - [Stakeholder actions for responsible AI integration: funding, policy, organizations, departments](stakeholder-actions-responsible-ai-integration.md)
+- [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Cross-case observational finding from the Lessons Learned chapter (Lesson 4); th
 - [Iterative revisions to the implementation plan produced no evidence of increased implementation outcomes across the three waves](no-uptake-increase-across-waves.md) — related
 - [The Astrobites lesson-plan materials were workshopped with 25 students and educators at the 229th AAS meeting, and many of the presented teaching strategies were suggested by those participants.](astrobites-lesson-plans-workshopped-aas-229.md) — a narrower finding that bears on this claim
 - [Giving teachers opportunities to design and run PD workshops brought resource-sharing helpful for novice, experienced, and out-of-field teachers](teacher-co-design-workshops-bring-resource-sharing.md) — related
+- [Team teaching with instructor disagreement refined the material, though some students disliked watching professors disagree](team-teaching-instructor-disagreement.md) — related

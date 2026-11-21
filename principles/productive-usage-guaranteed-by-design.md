@@ -19,7 +19,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 11 mixed) · 27 studies (9 causal, 7 theoretical, 3 review, 3 qualitative, 3 design, 2 associational), `q1`–`q3` · 6 of 27 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (20 for, 11 mixed) · 29 studies (11 causal, 7 theoretical, 3 review, 3 qualitative, 3 design, 2 associational), `q1`–`q3` · 7 of 29 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Claims read for this page and used only for a limit or a row, or bearing on it f
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](../claims/hint-not-solution-most-challenging-dimension.md) [~W] — whether a hints-only configuration holds depends on the model; used in the default design's configuration test.
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](../claims/ai-hints-aligned-exam-performance-only.md) [~W] — an association reported in a review (382 physics students); bears on what an unaided check should include.
 - [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](../claims/chatbot-crutch-unaided-exam-penalty.md) [+W] — attached 2026-10-21 from Daiki Nakamura (2026), which proposed "Design tasks and tools so that constitutive work stays with the learner: withhold answers, demand justification, and reward unaided capability"; tests this page's relationship.
+- [RL-timed GenAI access yields higher objective post-test scores than unrestricted access in higher education students](../claims/rl-timed-genai-access-beats-always-allow-posttest.md) [+M] — attached 2026-11-21 from Janne Rotter et al. (2026), which proposed "Treat GenAI access timing itself as implicit scaffolding rather than adding explicit prompts"; tests this page's relationship.
+- [Limited-access participants concentrate prompts on major revisions while unlimited-access participants concentrate on minor mechanical revisions.](../claims/prompt-type-allocation-limited-vs-unlimited.md) [+W] — attached 2026-11-21 from Christenson et al. (2026), which proposed "Constrain rather than ban LLM access in writing assignments to preserve authorship confidence while retaining scaffolding benefits."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

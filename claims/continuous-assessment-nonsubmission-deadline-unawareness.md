@@ -47,3 +47,4 @@ Retrospective analysis of assessment data from previous level 1 physics classes.
 ## Related Claims
 - [Failure of probation students is often attributed to factors other than intellectual ability](probation-failure-factors-beyond-intellectual-ability.md) — a broader claim this one bears on
 - [Large IQ differences in this sample were mostly attributable to identifiable causes such as failures of previously passed tests, chance success, effort fluctuation, or lack of experience](iq-differences-attributable-to-specific-causes.md) — related
+- [In Group 1, higher depression was associated with shorter submission lead times on practical homework assignments](depression-shorter-homework-submission-lead-times.md) — related

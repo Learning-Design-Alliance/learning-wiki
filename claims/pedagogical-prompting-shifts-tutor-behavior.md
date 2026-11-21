@@ -69,3 +69,4 @@ Sentence-level codebook analysis of tutor responses across the five conditions; 
 - [Enabling internal thinking dramatically improves LLM tutor performance in simulated mathematics tutoring (+134% Delta Solve Rate, +306% Helpful Rate)](thinking-capability-improves-llm-tutoring.md) — related
 - [Thinking reward does not independently affect praise frequency; the praise reduction is driven by pedagogical prompting](thinking-reward-no-independent-praise-effect.md) — related
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
+- [The positive correlation between tutor Praise rate and total reward is concentrated in NoThink dialogs and localized to closing turns, with null or negative effects under Think variants](praise-reward-correlation-nothink-late-turns.md) — related

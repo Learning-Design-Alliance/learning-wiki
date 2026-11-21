@@ -54,3 +54,4 @@ Stepwise linear regression on self-report data from 189 participants, with engag
 - [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](elaboration-intrinsic-goals-task-value-predict-epu.md) — related
 - [Greater use of the accompanying computer games was significantly associated with higher numeracy performance, but not with literacy impact, and teaching hours showed no association with impact for either programme](computer-games-associated-numeracy-impact.md) — related
 - [Game acceptability is not predicted by demographics, computer literacy or baseline Theory of Planned Behaviour variables](acceptability-not-predicted-by-demographics-tpb.md) — related
+- [The mini-game participants played most was typically the one they rated most motivating, suggesting a motivation–engagement relationship](qubitquest-motivation-engagement-relationship.md) — related

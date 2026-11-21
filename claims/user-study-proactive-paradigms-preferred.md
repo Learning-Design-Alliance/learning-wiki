@@ -76,3 +76,4 @@ Interaction-log analysis in the same user study (Table 5) prints, for example, w
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
 - [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related
 - [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related
+- [Students perceive the Lightbulb Agent's proactive prompts as warm encouragement that activates disengaged group members](lightbulb-agent-prompts-activate-disengaged-members.md) — related

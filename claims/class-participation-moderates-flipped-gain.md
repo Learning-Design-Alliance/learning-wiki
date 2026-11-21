@@ -48,3 +48,4 @@ GEE moderator analysis across eight models on the 115-participant TOTR data; the
 - [Mid-test scores and session of TOTR are the only significant predictors of final post-test scores in multivariate GLM analysis](mid-test-score-predicts-flipped-outcome.md) — reports the opposite
 - [Clinical teachers' MCQ knowledge scores rose stepwise from pre-test to mid-test to post-test in one uncontrolled pre-post study of TOTR flipped-classroom training](totr-stepwise-knowledge-gain.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [The condition moderated the mid-test to post-test relationship: the mid-test by condition interaction was statistically significant (p=.039)](midtest-posttest-interaction-significant.md) — related

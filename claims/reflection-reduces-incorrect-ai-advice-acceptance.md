@@ -59,3 +59,4 @@ Trial-level logistic mixed-effects model with participant and task random interc
 - [A brief AI literacy intervention did not significantly reduce high school students' over-reliance on incorrect ChatGPT recommendations](brief-ai-literacy-intervention-no-over-reliance-reduction.md) — related
 - [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related
 - [A brief hands-on training activity with a small transformer significantly increased CS1 students' attributions of incorrect model output to training data, from 13% to 38%](hands-on-training-shifts-explanations-to-data-centered-reasoning.md) — related
+- [A class-specific confidence prompt reduces LLM confidence in incorrect bias judgments but also lowers confidence in correct ones, without changing accuracy](class-specific-confidence-prompt-reduces-incorrect-confidence.md) — related

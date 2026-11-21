@@ -50,3 +50,4 @@ Illustrative calculation from the dataset (Fig. 3), not a complete quantitative 
 - [First-generation college students leave more blank answers than non-first-generation students](first-gen-students-leave-more-blank-answers.md) — related
 - [Female students leave more problems blank than male students, a small but significant difference](females-leave-more-blanks-than-males.md) — related
 - [In an upper-division physics course, students who submitted more pencasts tended to earn better course grades even with pencast points excluded from the grade](pencast-submission-rate-correlates-with-course-grade.md) — related
+- [Leaving blanks lowers course grades, with a percent-scale grading regime producing over three times the grade drop of a 4-point scale](blanks-grade-penalty-worse-under-percent-scale.md) — related

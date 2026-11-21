@@ -50,3 +50,4 @@ A reduced BERT model with only one encoder layer was fitted to assess the import
 - [For transformer models, oversampling and backtranslation augmentation improve performance while freezing the encoder substantially decreases it](transformer-ablation-oversampling-freezing.md) — related
 - [Hungarian transformer models achieve slightly lower overall score (about 68%) but better minority-class sensitivity than shallow models](transformers-better-minority-class-sensitivity.md) — related
 - [T-tests show no significant shallow-vs-transformer difference in accuracy, weighted F1 or macro-F1, but a significant ROC-AUC advantage for the shallow model](ttest-roc-auc-advantage-shallow.md) — related
+- [Single-layer sequence encoders with 768-dimensional embeddings consistently achieved the best probe performance; added transformer depth degraded results](single-layer-768-dim-encoder-best.md) — reports the opposite

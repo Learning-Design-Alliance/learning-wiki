@@ -11,9 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2026
 recheck_by: 2029
 sources:
-  - id: yoonsu-kim-2026
+  - id: yoonsu-kim-2025
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
-    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
+    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
     author: Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim
     q: 2
     i: "?"
@@ -32,18 +32,18 @@ sources:
 # LLMs frequently over-attribute evidential strength and assert Evident evidence even for incorrect diagnoses, and the two tendencies are strongly correlated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r3` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Models assigned Evident to vague-evidence cases (OverAttr M=.580) and asserted Evident evidence on incorrect diagnoses (FalseAttr M=.585). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
+`q2 i?` Models assigned Evident to vague-evidence cases (OverAttr M=.580) and asserted Evident evidence on incorrect diagnoses (FalseAttr M=.585). [→ Yoonsu Kim 2025](#yoonsu-kim-2025)
 `q2 i3` Over-attribution and false-attribution were strongly correlated across models (Spearman's ρ=.837, p < .001). [→ Yoonsu Kim 2026 (2)](#yoonsu-kim-2026-2)
 
 ## Evidence
 
-### Yoonsu Kim 2026
+### Yoonsu Kim 2025
 
-Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
+Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
 
 `q2 · i?` · `design · r3`
 
@@ -72,3 +72,4 @@ Correlational analysis across the 18 models in the RQ2 section. The article repo
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
 - [All 18 evaluated LLMs score macro F1 below 0.5 in diagnosing students' cognitive skills from handwritten math work](llms-f1-below-05-cognitive-skill-diagnosis.md) — related
 - [Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution](few-shot-prompting-no-f1-gain-reduces-overattribution.md) — related
+- [Doing Mathematics task accuracy remained low from pre-test to post-test in one single-group pre-post study with no comparison group involving few-shot prompting; the authors discussed central-tendency bias and shortcut learning](few-shot-fails-doing-mathematics-tasks.md) — related

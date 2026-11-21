@@ -48,3 +48,4 @@ Authors' interpretive argument in the Discussion (type e), not a tested result: 
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [R can be used productively for data analysis and graphing in an introductory physics laboratory, as demonstrated on linear, non-linear, and histogram examples](r-productive-introductory-physics-laboratory.md) — related
 - [Pre-test laboratory reports often conclude RC decay is exponential and lack an argument that the data support a model within error](pretest-reports-lack-modeling-awareness.md) — related
+- [The purpose of a PhD is the student's own understanding of physics, which AI does not change even when it can do the work](phd-purpose-student-understanding.md) — related

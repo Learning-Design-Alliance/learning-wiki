@@ -51,3 +51,4 @@ Quantitative comparison between the independent eye-fixation and protocol analys
 - [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](equal-attention-model-graph-low-equations.md) — related
 - [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related
 - [Eye-gaze data and verbal reports show complementary effects of the two activity types on integration across representations](complementary-effects-eye-gaze-verbal-reports.md) — related
+- [Data evaluation is a selective multi-stage process: information fixated is only partly verbalized and further reduced in written justifications](multi-stage-selection-data-evaluation.md) — related

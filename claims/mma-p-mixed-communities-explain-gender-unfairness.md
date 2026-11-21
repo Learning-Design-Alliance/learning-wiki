@@ -52,3 +52,4 @@ MMA-P community detection identiﬁed mixed communities such as {8B*, 9E*, 15A*,
 - [Five FCI items (14, 21, 22, 23, 27) stand out as substantially unfair to women, consistently across samples](fci-five-items-unfair-across-samples.md) — related
 - [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — related
 - [MMA-P recovers incorrect communities similar to MMA while also identifying correct and mixed communities](mma-p-recovers-incorrect-communities-similar-to-mma.md) — related
+- [MNCM-Bayes analysis of ~34,000 FCI administrations extracts 21 dimensions and yields 22 robust distractor patterns identifiable as misconceptions](mncm-bayes-34k-fci-21-dimensions-22-misconceptions.md) — related

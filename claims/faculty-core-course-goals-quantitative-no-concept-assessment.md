@@ -65,3 +65,4 @@ From the individual faculty discussions about course goals and the conceptual pr
 
 ## Related Claims
 - [Graduate students perceive the physics core courses as focused exclusively on quantitative problem solving with little focus on concepts](grads-perceive-core-courses-exclusively-quantitative.md) — related
+- [Graduate physics core courses, particularly electricity and magnetism, were perceived to emphasize mathematical technique and rapid pacing at the expense of conceptual engagement](core-courses-math-focused-hinder-ltp.md) — related

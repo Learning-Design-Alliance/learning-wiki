@@ -49,6 +49,7 @@ In its initial review process, IWA experimented with blinding name, nationality,
 - [Design faculty evaluation forms to encourage standard descriptors for both genders and provide implicit bias training for trainees](standard-descriptors-evaluation-forms-strategy.md)
 - [Use blinded external evaluators and a phased refine-then-reevaluate process when piloting an educational simulation system](phased-blinded-pilot-evaluation-strategy.md)
 - [Addressing Implicit Bias](addressing_implicit_bias.md)
+- [Use a country grading system in applicant selection to contextualise achievements and increase diversity](country-grading-system-selection-diversity.md)
 
 ## Examples
 -

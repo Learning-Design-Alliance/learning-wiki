@@ -69,3 +69,4 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
 - [Australian families interviewed after RBI bootcamp training described the interview as cathartic, beneficial, and relaxing, with functional goal development most valuable](rbi-family-interviews-noahs-ark.md) — related
 - [Students attributed the program's community-building benefits to its relaxed, voluntary, low-stakes atmosphere, while the required time commitment was the biggest deterrent to participating again](phasrs-relaxed-atmosphere-community-time-cost.md) — related
+- [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](eap-talk-low-stakes-confidence-theme.md) — related

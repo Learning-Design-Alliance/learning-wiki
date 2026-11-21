@@ -76,3 +76,4 @@ A quasi-experiment in a courseware project compared two intact classes: one (42 
 - [Students taught via CAS-based computer modeling showed increased motivation and higher self-estimated knowledge](cas-modeling-motivation-self-attestation.md) — related
 - [Learning with AI-generated explanations raises self-efficacy expectations compared with textbook materials](ai-explanations-raise-self-efficacy.md) — related
 - [Dashboard use raises self-efficacy and cognitive strategy use but not intrinsic motivation](srl-lad-raises-self-efficacy-strategies.md) — related
+- [Interactive learning raised extrinsic and general motivation but left intrinsic motivation unaffected](interactive-motivation-extrinsic-up-intrinsic-null.md) — related

@@ -48,3 +48,4 @@ Course evaluation (13 items, 6-point Likert) collected immediately after the wor
 - [Simulator acceptability was high with no differences between groups in either population](high-simulator-acceptability-across-groups.md) — related
 - [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
 - [Pre-course skill levels differ by professional occupation, with doctors and nurses scoring lower than operational staff on several emergency-response items](metra-course-occupation-subgroup-differences.md) — related
+- [Between-session acceptance profiles were statistically indistinguishable across the three workshops](between-session-acceptance-indistinguishable.md) — related

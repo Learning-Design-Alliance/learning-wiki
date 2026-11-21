@@ -55,3 +55,5 @@ Regression analysis of three semesters of TBL course data (N = 134 per printed t
 - [Gender and other PGY levels showed no significant effect on predicted exam score difference](gender-and-other-pgy-no-effect-exam-score-difference.md) — related
 - [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](free-response-exams-no-gender-gap.md) — related
 - [No significant difference in recall between video podcast and live lecture holds across topics, genders and prior academic performance subgroups](recall-equivalence-robust-across-subgroups.md) — related
+- [Exam performance and High satisfaction showed no clear differences by STEM major status, gender, or race after covariate adjustment](bayes-outcomes-no-demographic-differences.md) — related
+- [Exploratory estimated marginal means show no meaningful differential effects of lab condition across demographic groups](no-differential-lab-effects-demographic-groups.md) — related

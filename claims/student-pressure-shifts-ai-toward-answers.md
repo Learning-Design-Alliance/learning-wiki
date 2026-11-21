@@ -53,3 +53,4 @@ Analysis of AI behavioral adherence under explicit student pressure (e.g., reque
 - [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](llama-guard-failure-cases-subtle-education-risks.md) — related
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
 - [Teachers rate agenda facilitation and FAQ answering as the most useful chatbot use cases, and the two preferences are significantly associated](agenda-faq-top-chatbot-use-cases.md) — related
+- [In the pre-guardrail baseline corpus, self-regulated-learning behaviors were nearly absent: hint utilization was not observed and self-evaluation appeared in only two messages](srl-behaviors-absent-baseline-corpus.md) — related

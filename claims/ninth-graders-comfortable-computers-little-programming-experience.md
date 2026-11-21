@@ -48,3 +48,4 @@ An informal survey at the start of the year queried students' at-home access to 
 - [A pilot in a ninth-grade Physics First classroom shows computation's ability for connecting scientific practice to the high school science classroom](computation-connects-scientific-practice-high-school-pilot.md) — related
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
 - [After computational homework, many introductory mechanics students could model a new physical situation they had no prior experience with](computational-homework-novel-situation-modeling.md) — related
+- [Students entered the course with low quantum familiarity but high prior project-based learning experience](low-quantum-familiarity-high-pbl-experience.md) — related

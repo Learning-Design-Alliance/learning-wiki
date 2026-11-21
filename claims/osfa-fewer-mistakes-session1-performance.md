@@ -50,3 +50,4 @@ Preliminary robust ANOVA on performance (errors per assessment) found design's m
 - [Personalized TMR improves error correction (higher incorrect-to-correct transitions) and reduces persistence of incorrect responses, mainly for challenging items](personalized-tmr-error-correction-transitions.md) — related
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — reports the opposite
 - [Preferred game genre (adventure) and preferred playing setting (singleplayer) moderated personalization's effect, in both cases in favor of OSFA](game-genre-setting-moderate-personalization.md) — related
+- [Exploratory: RL-timed access reduces task errors and time per question relative to full withholding, but not after controlling for gender](rl-vs-never-errors-time-exploratory.md) — related

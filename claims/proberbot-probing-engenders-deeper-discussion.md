@@ -51,3 +51,4 @@ Early study of the VoiceViz Proberbot, which appeared at the interface when team
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Students perceive the Lightbulb Agent's proactive prompts as warm encouragement that activates disengaged group members](lightbulb-agent-prompts-activate-disengaged-members.md) — related

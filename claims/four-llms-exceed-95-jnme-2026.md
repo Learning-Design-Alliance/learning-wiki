@@ -49,3 +49,4 @@ Evaluation of four LLMs on the full 2019 and 2025 JNME (793 questions) with chai
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
 - [Accuracy is significantly lower on image-based than non-image-based questions for three of four LLMs](image-based-questions-lower-accuracy.md) — related
 - [LLM performance does not differ significantly between 2019 and 2025 exam questions despite training-cutoff differences](no-performance-difference-exam-year.md) — related
+- [For one student's dynamical simulation, Claude Opus 4 was more successful at generating and debugging code than Gemini Pro 3 and the ChatGPT-5 thinking model, though its lower usage limit constrained its use](claude-opus-4-outperformed-peers-simulation-code.md) — related

@@ -46,3 +46,4 @@ Quasi-experimental comparison of satisfaction scores from the college course eva
 
 ## Related Claims
 - [A game-driven, PBL-based redesign of an introductory computer applications course improved student achievement significantly more than the existing drill-and-practice course.](pbl-altrg-redesign-improves-achievement.md) — related
+- [Section-count distributions show (S) and (P) checkpoints interleaved throughout the application-heavy phase and across course parts](section-counts-show-interleaved-checkpoints.md) — related

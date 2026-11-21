@@ -78,3 +78,4 @@ Simple-effects table (Table 8) of segmentation benefit by group on hesitations: 
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](segmentation-reduces-hesitations-adhd-participants.md) — related
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related
+- [Respondent segmentation yielded 64 High acceptors (62.14%), 31 Moderate (30.10%), and 8 Low (7.77%)](acceptor-segmentation-64-high-8-low.md) — related

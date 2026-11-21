@@ -70,3 +70,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
 - [Robustness checks on longer and more important writing assignments showed larger SES gaps, reinforcing the digital-inequality finding](robustness-longer-submissions-larger-inequality.md) — a narrower finding that bears on this claim
+- [Researchers are divided between those who can and cannot access frontier AI models, raising equity concerns](frontier-ai-access-divide.md) — a narrower finding that bears on this claim

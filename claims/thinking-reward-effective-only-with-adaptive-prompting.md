@@ -71,3 +71,4 @@ Results section comparison of adjacent model configurations on SPED-Tutor-Mix. T
 - [Students with disabilities more likely to be tutored with curriculum-based software or tutor-software combinations](disabilities-curriculum-software-tutoring.md) — related
 - [Ped. Think Reward achieves the best tutoring performance among trained models, and Thinking Reward is most effective when combined with pedagogical prompting](thinking-reward-needs-pedagogical-prompting.md) — related
 - [Thinking reward combined with pedagogical prompting produces more focused reasoning traces and responsive-teaching patterns in tutor thinking](thinking-reward-reshapes-reasoning-structure.md) — related
+- [Reasoning-mode effects are task-dependent: thinking improves MathTutorBench but degrades OpenLearnLM and sharply degrades in-domain leak control, across both training-free and RL paradigms](task-dependent-reasoning-mode-effect-tutoring.md) — related

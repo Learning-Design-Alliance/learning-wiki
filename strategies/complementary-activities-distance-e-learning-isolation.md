@@ -52,6 +52,7 @@ The article recommends that educators minimize negative consequences of distance
 - [Reduce students' COVID-19-related anxiety to enhance distance e-learning outcomes in nursing education](reduce-covid19-anxiety-distance-e-learning-strategy.md)
 - [Use social media communities such as the International Microsurgery Club for remote peer learning and expert contact](social-media-microsurgery-peer-learning-strategy.md)
 - [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
+- [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
 
 ## Examples
 -

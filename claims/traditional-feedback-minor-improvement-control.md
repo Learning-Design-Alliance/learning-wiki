@@ -50,3 +50,4 @@ Pre/post-test difference analysis of the 15-student control group (Table 3) taug
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](feedback-focus-shift-across-tasks.md) — related
 - [In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details](teacher-feedback-more-items-first-task-vocabulary-technical.md) — related
 - [The experimental group outgained the control group by 25.5 percentage points across the five fluency items](fluency-posttest-item-percentages-experimental-gain.md) — related
+- [Over-correction by AI systems risks anxiety and reduced fluency by overwhelming learners rather than guiding them](ai-over-correction-feedback-harm.md) — related

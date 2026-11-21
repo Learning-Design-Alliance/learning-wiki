@@ -67,3 +67,5 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related
 - [Intrinsic cognitive load was reported as low (M = 1.54, SD = 1.42) while germane load was higher (M = 4.26, SD = 2.95), indicating engagement in task-related cognitive processing](incarne-low-intrinsic-high-germane-load.md) — related
 - [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related
+- [Text-only conversational AI can create a fluency effect: reduced extraneous load without added germane load inflates perceived understanding without improving learning outcomes](fluency-effect-illusion-of-learning-text-only-ai.md) — related
+- [Germane load showed a degree of negative correlation with total score and CA2, suggesting assessment policies may not reward deep reflection](germane-load-negative-correlation-ca2.md) — related

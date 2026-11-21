@@ -54,3 +54,4 @@ Staff focus group interviews. Staff could no longer rely on well-established pro
 - [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — related
 - [Student participation in scientific exhibitions shifts teachers from knowledge transmitters to mediators and makes students protagonists of teaching-learning](exhibition-student-protagonism-mediation.md) — related
 - [A computational-thinking-based structured capstone procedure reduced staff workload by eliminating direct one-on-one supervision and streamlining marking](ct-capstone-procedure-reduced-staff-workload.md) — related
+- [Students perceive the Boss Agent's orchestration as streamlining their learning process, unifying group decisions and reducing conflicts](students-perceive-boss-agent-as-process-coordinator.md) — related

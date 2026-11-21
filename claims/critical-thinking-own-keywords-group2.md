@@ -67,3 +67,4 @@ Network analysis within demographic cluster 3 (n=7, Finnish participants with ex
 - [Cooperativity positively correlates with GPT keyword use in younger, less-experienced participants (Group 1)](cooperativity-gpt-keywords-group1.md) — related
 - [GPT keyword use is negatively correlated with essay topic diversity, suggesting exploitation narrows reflective focus](gpt-keywords-negative-essay-diversity.md) — related
 - [Participants favor socially-sourced others' keywords over their own in exploration prompts, deviating from personalized learning expectations](others-keywords-favor-exploration.md) — related
+- [In the unlimited-access group, perceived critical thinking demands correlate negatively with essay–LLM cosine similarity (r = −0.79), suggesting students who evaluated LLM output more rigorously produced more original work.](critical-thinking-negative-correlation-llm-similarity.md) — related

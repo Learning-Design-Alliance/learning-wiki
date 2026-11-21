@@ -69,3 +69,4 @@ Authors' cross-source observation contrasting the quantitative preference result
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
+- [Without AI assistance many students failed to identify any mistakes, and exposure to AI hints introduced over-reliance and negative influences on revised hints](baseline-failures-and-gpt-hint-negative-influence.md) — related

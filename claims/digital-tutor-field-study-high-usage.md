@@ -47,3 +47,4 @@ Observational usage-log analysis during a four-month field study in an introduct
 ## Related Claims
 - [A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem](first-session-adoption-problem-free-ai-tutor.md) — related
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — related
+- [Learners interacted with the in-video AI tutor via chat messages and responses to proactive questions](ai-tutor-chat-interaction-volume-pilot.md) — related

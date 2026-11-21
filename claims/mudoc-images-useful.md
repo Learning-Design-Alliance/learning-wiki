@@ -47,3 +47,4 @@ Perceived usefulness of six UI features rated on a 5-point Likert scale (Fig. 4)
 ## Related Claims
 - [Learners prefer a multimodal document-grounded AI system over a text-only variant for engagement, interest and memorability in problem-solving while learning](mudoc-preferred-engagement-memorability.md) — a broader claim this one bears on
 - [Navigation to source text and images increases perceived trustworthiness of AI responses by enabling verification](mudoc-trustworthiness-navigation.md) — related
+- [Document-grounded conversational AI with interleaved text-and-image responses (MuDoC) yields significantly higher post-test scores than a text-only conversational AI (TexDoC) in a visually rich STEM topic](mudoc-higher-posttest-than-texdoc.md) — related

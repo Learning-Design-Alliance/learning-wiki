@@ -53,3 +53,4 @@ Geographic coding of the 112 included items. The review reports that "most were 
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim
 - [QURECA identified 40 universities worldwide offering quantum-focused master's degrees, concentrated in North America and Europe](40-universities-quantum-masters-programs.md) — related
+- [Access to quantum education remains uneven, concentrated in North America and Europe with limited access elsewhere](quantum-education-inequitable-global-access.md) — a narrower finding that bears on this claim

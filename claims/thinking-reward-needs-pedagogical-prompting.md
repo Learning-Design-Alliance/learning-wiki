@@ -70,3 +70,4 @@ Ablation comparison between the pedagogical prompting condition with and without
 - [Thinking reward combined with pedagogical prompting produces more focused reasoning traces and responsive-teaching patterns in tutor thinking](thinking-reward-reshapes-reasoning-structure.md) — related
 - [Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting](thinking-reward-effective-only-with-adaptive-prompting.md) — related
 - [Thinking reward does not independently affect praise frequency; the praise reduction is driven by pedagogical prompting](thinking-reward-no-independent-praise-effect.md) — related
+- [Reasoning-mode effects are task-dependent: thinking improves MathTutorBench but degrades OpenLearnLM and sharply degrades in-domain leak control, across both training-free and RL paradigms](task-dependent-reasoning-mode-effect-tutoring.md) — related

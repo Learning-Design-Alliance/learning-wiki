@@ -77,3 +77,4 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Single-photon experiments are used mainly in beyond-first-year lab courses and upper-level quantum mechanics courses](single-photon-experiments-course-types-survey.md) — related
 - [Traditional lecture is the plurality teaching method in upper-level undergraduate QM courses, but many instructors use interactive lecture or other non-traditional methods](qm-upper-level-traditional-lecture-plurality.md) — related
 - [Teachers' concerns about teaching quantum center on understanding quantum fundamentals and devising effective methods for young learners](teacher-concerns-quantum-content-and-pedagogy.md) — related
+- [The transition from high school to undergraduate quantum education is a critical bottleneck where learners often disengage](hs-to-undergrad-quantum-transition-bottleneck.md) — related

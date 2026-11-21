@@ -52,3 +52,4 @@ Quasi-experimental 2x3 factorial study with 64 eighth-grade students (32 experim
 - [Students' mathematical representation ability differs by self-efficacy level, with high self-efficacy students scoring highest](self-efficacy-level-differentiates-mathematical-representation.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [The mean percentage of student errors on mathematical representation was lower for REACT-strategy students (21.74%) than for traditionally taught students (47.92%)](react-lower-mean-error-percentage-than-traditional.md) — related
+- [Interactive learning students performed only marginally better than traditional students on assignments](interactive-assignment-difference-marginal.md) — related

@@ -89,3 +89,4 @@ Intervention results for context misinterpretation errors in the same evaluation
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects](multimodal-interference-effect-llms.md) — a broader claim this one bears on
+- [LLM failures on the CRCI stem predominantly from visual misinterpretation rather than deficits in physics knowledge](llm-crcl-errors-predominantly-visual.md) — related

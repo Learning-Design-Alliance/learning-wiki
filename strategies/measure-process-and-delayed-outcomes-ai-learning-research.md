@@ -47,6 +47,7 @@ This strategy operationalizes Agentivism for research design. The article argues
 
 - [Use inclusive design, calibrated supports, and clear delegation norms to preserve learner agency and epistemic diversity](inclusive-design-and-epistemic-diversity-governance.md)
 - [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](genai-learning-research-agenda-process-assessments.md)
+- [Strengthen informal micro-challenge evaluation with embedded micro-assessments, process tracing, delayed transfer tasks, mixed-methods probes and controlled sequencing comparisons](informal-micro-challenge-measurement-agenda.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Observational comparison across three instructors' classes at one US research un
 
 ## Related Claims
 - [Student resistance to computation differs from general resistance to research-based methods: students reject learning something new and activities they see as not belonging in physics class](student-resistance-computation-different-form.md) — related
+- [One instructor's framing of the tutorial and tests as not part of the course, with small extra credit, likely reduced student engagement and performance](instructor-framing-reduced-engagement-moi-tutorial.md) — possibly the same claim (merge candidate)

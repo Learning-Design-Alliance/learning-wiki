@@ -67,3 +67,4 @@ Cross-contextual observational synthesis (Section 6), explicitly framed as conce
 - [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](over-reliance-algorithmic-conformity-risk.md) — a narrower finding that bears on this claim
 - [LLM use as a supplementary learning aid yields modest short-term knowledge gains (d = 0.31–0.71) that attenuate without durable retention](llm-shortterm-knowledge-gains-no-retention.md) — related
 - [The article argues that LLMs constitute promising yet underutilized academic reading companions capable of enhancing learning](llms-promising-academic-reading-companions.md) — reports the opposite
+- [Learners commonly become dependent on AI tools without developing their own metacognitive capabilities](ai-dependency-undermines-metacognition.md) — related

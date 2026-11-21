@@ -57,3 +57,4 @@ human graders from 21.7 % to only 9 .6%."
 - [GPT-4o self-consistency mode grading of physics explanations reaches agreement with human graders almost identical to the agreement between the human graders themselves](gpt4o-self-consistency-human-level-grading-agreement.md) — related
 - [Self-consistency mode scores outperform individual grading runs for all three problems](self-consistency-mode-beats-individual-runs.md) — related
 - [GPT-4o grades students' written explanations on EMCS conceptual physics questions with accuracy comparable to a human grader (0-3% discrepancy, mean Cohen's kappa 0.77)](gpt4o-grades-written-physics-explanations-comparable-to-human-graders.md) — related
+- [In exploratory conversational mode, directing prompts at specific rubric items and report elements allowed the model to incorporate evidence missed in batch grading](conversational-mode-recovers-missed-evidence.md) — related

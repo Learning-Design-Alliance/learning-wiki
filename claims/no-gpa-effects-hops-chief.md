@@ -46,3 +46,4 @@ ANCOVA on school-record GPA for core subjects (0.0-4.0 scale) at posttreatment c
 
 ## Related Claims
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — related
+- [Post-LLM grade data show statistically significant but negligible-to-small changes: GPA rose from 2.96 to 3.00 (d = 0.04), withdrawal rates fell (d = -0.037), and failure rates fell from 3.96% to 2.57% (d = -0.08)](post-llm-grade-shifts-negligible-effect-sizes.md) — related

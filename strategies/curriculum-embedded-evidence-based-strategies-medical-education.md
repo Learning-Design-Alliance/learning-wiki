@@ -47,6 +47,7 @@ The article recommends that "Curricula that incorporate spaced review of core kn
 - [Dual Coding](dual-coding.md)
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 - [Teachers employ cognitive learning strategies — spaced practice, interleaving, elaboration, retrieval practice, reflection and mindfulness — to deepen knowledge processing](cognitive-learning-strategies-to-enhance-cognition.md)
+- [Incorporate engagement quality metrics (retrieval practice, interleaving, spacing, self-testing) as predictors of ability drift in platform-log learning models](engagement-quality-metrics-as-drift-predictors.md)
 
 ## Examples
 -

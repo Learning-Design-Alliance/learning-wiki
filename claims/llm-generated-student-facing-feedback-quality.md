@@ -49,3 +49,4 @@ above on a 5-point scale by two instructors who had taught the course multiple t
 ## Related Claims
 - [Instructors rated approximately 70% of GPT-generated feedback statements as needing only minor or no modification, with an average rating of 2.06 on a 0-3 scale](instructors-rate-70-percent-gpt-feedback-minor-editing.md) — related
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
+- [Insight's instructor-verified feedback showed higher selectivity and pedagogical suitability than GPT-4o-generated feedback, while GPT-4o showed higher completeness](insight-feedback-beats-gpt4o-selectivity-suitability.md) — related
