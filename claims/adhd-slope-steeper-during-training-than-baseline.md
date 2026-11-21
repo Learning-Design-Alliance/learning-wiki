@@ -50,3 +50,4 @@ Within-group multilevel comparison of intervention-group slopes. Baseline slope 
 - [The control group showed significant ADHD symptom decline during baseline but a smaller-than-expected decline during the subsequent phase](control-group-slope-flattened-after-baseline.md) — related
 - [A 12-week teacher training programme significantly reduced ADHD symptoms in students compared to a control group](teacher-training-reduces-adhd-symptoms-classroom.md) — a broader claim this one bears on
 - [Both intervention and control groups remained significantly more symptomatic than the normal comparison group at post-assessment](post-assessment-gap-with-normal-comparison-remains.md) — related
+- [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related

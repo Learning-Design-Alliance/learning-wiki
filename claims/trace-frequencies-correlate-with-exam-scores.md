@@ -54,3 +54,4 @@ Bivariate correlational analysis of 482 students' trace frequencies and first-un
 - [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](learners-prefer-own-error-correction-85-percent.md) — related
 - [Students who submitted their own solutions for rating and feedback rated recitation effectiveness significantly higher than students who did not](graded-feedback-own-solutions-recitations.md) — related
 - [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related
+- [Post-test scores correlated with PLC, shorter learning duration, feedback frequency, and behavioral engagement, but not with cognitive or emotional engagement](posttest-correlations-plc-behavioral-indicators.md) — related

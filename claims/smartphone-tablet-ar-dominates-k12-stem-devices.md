@@ -57,3 +57,4 @@ Device categorization of the reviewed studies (Fig. 5). The review reports 96 no
 - [Participants used camera zoom and translation features but rarely tilt, with long shots dominating](camera-features-used-but-not-extensively.md) — related
 - [AR effect sizes differ significantly by display device, with the largest effect for mobile devices (0.686) and the smallest for webcam-based devices (0.159)](ar-effect-significant-by-display-device.md) — related
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
+- [Learners rarely used the provided low-cost VR head-mounted displays, with discomfort and dizziness limiting immersive capability's role](low-cost-hmds-rarely-used-discomfort.md) — related

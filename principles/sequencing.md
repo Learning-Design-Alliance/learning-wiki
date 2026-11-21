@@ -248,6 +248,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Start introductory programming with structural language concepts rather than object-oriented concepts, and emphasize widely used languages](../strategies/introductory-programming-structural-first.md)
 - [Reverse 'application to definition' path: start from societal concepts and reveal the physics quantities behind them](../strategies/application-to-definition-reverse-path.md)
 - [Design in-class activities so students struggle with a problem before the mini-lecture that shows how an expert organizes it](../strategies/struggle-before-mini-lecture-strategy.md)
+- [Teach Taylor series kinematics in the introductory calculus sequence to leverage prior physics knowledge and motivate Taylor series](../strategies/taylor-series-kinematics-in-calculus-sequence.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

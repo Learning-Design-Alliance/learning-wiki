@@ -58,3 +58,4 @@ Pilot quasi-experimental action research study with 49 undergraduate psychology 
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
 - [Introducing clickers raised attendance from 40% to 85% and evaluations by 30% but produced no significant difference in exam and quiz scores](clickers-raise-attendance-not-scores-astronomy.md) — reports the opposite
+- [Weeks with LLM-generated multiple-choice retrieval practice produced significantly higher quiz scores than weeks without retrieval practice in college data science courses (r = 0.5860)](llm-generated-retrieval-practice-higher-quiz-accuracy.md) — related

@@ -52,3 +52,4 @@ Post-activity Qualtrics survey (20 Likert items) completed by 150 first-year STE
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
 - [Students using a custom-trained ChatGPT-based chatbot scored significantly higher on a course-requirements test than students using the traditional e-learning syllabus, with a large standardized effect (Cohen's d = 1.29)](chatbot-higher-course-orientation-test-scores.md) — related
+- [Post-course survey medians indicated maintained problem-solving independence despite LLM use and a positively impactful documentation requirement](survey-medians-ai-literacy-dimensions.md) — related

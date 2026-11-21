@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: james-a-souza-2025
     resource: "https://doi.org/10.55767/2451.6007.v37.n2.51177"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using metarecycling, students connected nine 3.7 V, 2.2 Ah Li-ion 18650 batteries reclaimed from disused laptops into three parallel sets wired in series, producing an equivalent battery of approximately 11 V and 6.6 Ah with a step-down converter providing 5 V USB output. [→ James A. Souza 2025](#james-a-souza-2025)

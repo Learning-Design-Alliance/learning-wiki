@@ -1,2 +1,3 @@
 {"description":"A computer-controlled videodisc training system described by Bunderson et al.","id":"vtds","path":"products/vtds.md","status":"review","title":"VTDS","type":"product"}
 {"description":"A standalone-headset virtual-reality clinical simulation platform developed by Komolafe et al.","id":"vtracs-virtual-reality-model-to-train-and-assess-clinical-students","path":"products/vtracs-virtual-reality-model-to-train-and-assess-clinical-students.md","status":"review","title":"VTRACS (Virtual reality model to TRain and Assess Clinical Students)","type":"product"}
+{"description":"VTutor is an open-source SDK developed by Eason Chen et al.","id":"vtutor","path":"products/vtutor.md","status":"review","title":"VTutor","type":"product"}

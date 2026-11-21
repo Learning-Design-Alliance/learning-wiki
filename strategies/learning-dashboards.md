@@ -80,6 +80,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Adopt a mobile-based gradebook with outcomes analytics to support feedback and academic planning](mobile-gradebook-outcomes-analytics-strategy.md)
 - [Graphical DM dashboard of FCI pre-test results for rapid formative feedback in large cohorts](graphical-dm-dashboard-pretest-feedback.md)
 - [Involve stakeholders in dashboard co-design and select visualizations that avoid ineffective practices](dashboard-stakeholder-co-design-strategy.md)
+- [Use automated cohesion assessment dashboards with actionable indicators to support student self-regulated learning](cohesion-dashboard-actionable-indicators-srl.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

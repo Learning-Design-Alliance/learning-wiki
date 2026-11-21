@@ -53,3 +53,4 @@ The review reports the Olney et al. (2012) evaluation of GURU, a conversational 
 - [Non-expert human tutors follow a limited 5-step collaborative reasoning repertoire, with far more student question-asking than classroom instruction](five-step-frame-human-tutor-corpus.md) — related
 - [The Guru tutor's collaborative lecturing strategy produced approximately 0.72 σ biology learning gains over classroom instruction only](guru-collaborative-lecturing-gains.md) — possibly the same claim (merge candidate)
 - [Most elements of the two expert DI models are supported by meta-analytic research on teaching effectivity](di-model-elements-supported-by-effectivity-research.md) — related
+- [Scores in the Guru ITS group were significantly higher on immediate and delayed tests than at pre-test in a 9-week biology tutoring study](guru-its-immediate-delayed-gains.md) — related

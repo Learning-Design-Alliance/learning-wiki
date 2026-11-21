@@ -52,6 +52,7 @@ The authors' forward-looking recommendation for inquiry labs: keep collaborative
 - [Future lab studies should analyze student positioning and body language to reveal how roles are assigned or assumed](positioning-body-language-lab-role-assignment-strategy.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
 - [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

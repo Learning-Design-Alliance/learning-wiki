@@ -52,3 +52,4 @@ Clinical interviews with five students, several weeks after the Year 2 tutorial 
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](superficial-reflection-on-derived-expressions.md) — related
 - [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — related
+- [An initial low-stakes calculus 2 pilot of Taylor series kinematics produced positive student response](calculus2-pilot-positive-student-response.md) — related

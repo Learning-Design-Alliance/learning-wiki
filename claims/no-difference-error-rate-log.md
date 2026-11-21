@@ -62,3 +62,4 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [The number of tasks students worked on and attempted step construction for did not differ significantly between feedback conditions](no-difference-tasks-attempted.md) — related
 - [Adding positive feedback let students complete the same SQL-Tutor learning tasks in half the time with the same learning improvement](positive-feedback-halves-time-sql-tutor.md) — related
 - [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](hints-in-multiple-try-feedback-increase-learning-phase-performance.md) — related
+- [Receiving LLM feedback did not significantly increase lesson completion time](llm-feedback-no-completion-time-cost.md) — related

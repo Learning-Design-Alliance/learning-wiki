@@ -58,3 +58,5 @@ Descriptive analysis of responses from the three originally fine-tuned models (T
 - [GPT-4 revision of educational math content improves readability metrics but yields mixed K-12 learning outcomes, with improved mastery in some content areas and higher error rates in others](gpt4-rewritten-math-content-mixed-outcomes.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [LLaMA-2 70B performs best at adjusting readability while GPT-3.5 best preserves content and meaning](llama2-readability-vs-gpt35-meaning-preservation.md) — related
+- [AI-generated feedback length and readability increase with question difficulty](feedback-length-readability-increase-with-difficulty.md) — related
+- [A fine-tuned RoBERTa multi-task model predicts feedback linguistic metrics with low test MAEs](roberta-mtl-predicts-feedback-linguistic-metrics.md) — related

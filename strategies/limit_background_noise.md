@@ -63,6 +63,7 @@ Background noise is a classic source of *extraneous* processing: it consumes wor
 - [Clear Structure Presentation](../principles/clear-structure.md) — reduces extraneous load within materials, as this strategy does within the environment
 - [Use picture-free audio listening tasks so students focus only on conversational content](audio-only-listening-cd-strategy.md)
 - [Play background music at a moderate sound pressure level (~70 dB) during novice laparoscopic skills training](moderate-spl-background-music-during-skills-training.md)
+- [Replace time-consuming searching for ambient study aids with AI-generated personalized audio and visuals](ai-generated-personalized-study-aids-strategy.md)
 
 ## Examples
 - A middle-school teacher establishes a "silent reading" block with a visual noise-level indicator, reserving group discussion for a separate phase of the lesson.

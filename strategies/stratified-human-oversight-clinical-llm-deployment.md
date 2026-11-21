@@ -53,6 +53,7 @@ Based on the error analysis, the authors recommend a risk-stratified oversight f
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 - [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 - [Use medical simulation to evaluate new AI clinical decision support systems before deployment](simulation-evaluation-ai-cdss-strategy.md)
+- [Establish certifying oversight for quantum education materials to combat misinformation and ensure quality](quantum-education-quality-certification-strategy.md)
 
 ## Examples
 -

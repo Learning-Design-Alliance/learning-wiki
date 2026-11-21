@@ -54,3 +54,4 @@ Mixed-design analysis of test scores (N=69) in a randomized classroom study of A
 - [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](kbr-predicts-tutor-posttest-conceptual-procedural.md) — related
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — reports the opposite
 - [Students in the multi-agent environment interacted far more than MOOC students with a Q&A chatbot, and overall scores improved significantly from pre-test to post-test](multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain.md) — related
+- [Variable delay between tutoring and the delayed test did not significantly affect delayed-test scores](delay-timing-no-effect-delayed-test.md) — related

@@ -87,3 +87,4 @@ Multilevel condition × time test for autonomy frustration: significant interact
 - [Intervention-enabled decreases in autonomy dissatisfaction uniquely predicted decreased end-of-semester disengagement after controlling for autonomy satisfaction and frustration](dissatisfaction-unique-predictor-disengagement.md) — related
 - Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution) — related
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
+- [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](sd-baseline-exponential-growth-positive-constructs.md) — related

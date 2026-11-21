@@ -21,6 +21,7 @@ Karr et al.'s released corpus and code evaluate commercial AI-text-detector erro
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline (642 OpenAlex abstracts, three rewrite conditions, two detectors, one humanizer)**: A controlled evaluation corpus and pipeline for quantifying AI-detector error rates under proxy labels. The authors sampled English abstracts from OpenAlex in chemistry, computer science, political science, and theology for 2013–2015 and 2023–2025; "After requiring 25 to 500 words and PDF access (≈20% loss), we retained 642 abstracts." Each abstract contributed an original plus three Gemini 3 Flash rewrites (refine abstract-only, refine abstract+article, new article-only), scored with Pangram 3.2 and GPTZero before and after Undetectable AI v11 humanization. Analysis code is released at the article's GitHub repository. (Jonathan A. Karr Jr. et al. (2026))
+- **Koditex-based GPT-4o parallel text-pair corpus for AI-detection training**: A released experimental material set: 672 pairs of topically and stylistically comparable Czech text chunks, each pairing the first 500 words of a Koditex corpus text with a GPT-4o continuation of roughly 100 words, trimmed to complete sentences. The article states "This process created 672 pairs of topically and stylistically comparable text chunks." Koditex is a 9-million-word synchronic corpus of Czech developed for exploring register variability across written, spoken, and internet-based modes. All data, experimental software, analytical scripts, and protocols are publicly available at https://osf.io/uhzj9/. (Milička J et al. (2025))
 
 ### Claims
 
@@ -44,3 +45,4 @@ Karr et al.'s released corpus and code evaluate commercial AI-text-detector erro
 
 ## Key Sources
 - Jonathan A. Karr Jr., Grigorii Khvatskii, Ting Hua, and Nitesh V. Chawla. (2026). Why AI Detection Fails for Academic Integrity. Proceedings of the ACM AI Leadership Summit (AILS '26). https://arxiv.org/abs/2608.11256
+- Milička J, Marklová A, Drobil O, Pospíšilová E. (2025). Humans can learn to detect AI-generated texts, or at least learn when they can't. Preprint. Manuscript submitted to PLOS One. https://arxiv.org/abs/2505.01877

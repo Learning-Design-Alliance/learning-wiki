@@ -52,3 +52,4 @@ Authors' interpretation and recommendation from the conclusions, grounded in the
 - [Undergraduates new to research lack jargon comprehension, knowledge of research practices, and familiarity with the technical literature, and limited mentor interaction time constrains immersion](undergraduate-research-readiness-barriers.md) — related
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
 - [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — related
+- [Some QISE educators adopt student-centered course design aligned with student career aspirations](student-centered-qise-course-design.md) — related

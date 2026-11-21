@@ -54,6 +54,7 @@ Based on observations during the school, the authors recommend extending experim
 - [Encourage other university-supervised groups to establish similar robotics activities and extend programming logic to all projects in future iterations](strategy-scale-robotics-programming-future.md)
 - [Recommend dedicated weekly programming lab time and explicit prerequisites in future quantum programming courses](recommend-lab-time-and-prerequisites-quantum-course.md)
 - [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
+- [Extend workshop duration and emphasize practical, enterprise-relevant applications in future iterations](extend-duration-enterprise-applications-strategy.md)
 
 ## Examples
 -

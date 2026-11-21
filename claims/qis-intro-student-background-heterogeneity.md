@@ -50,3 +50,4 @@ Instructor survey of introductory QIS courses (N = 28 responses after screening)
 - [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related
 - [Introductory QIS education has expanded to the undergraduate level: 16 of 28 surveyed courses are undergraduate-listed, 7 hybrid, and 5 graduate-only](qis-undergraduate-course-expansion.md) — related
 - [Prerequisites for introductory QIS courses vary substantially, with linear algebra the most common requirement (21 of 28 courses) while most courses require no CS or physics prerequisite](qis-prerequisite-variation.md) — related
+- [Designing QISE courses for students with varied STEM backgrounds is a recognized curriculum weakness](qise-courses-varied-stem-backgrounds.md) — possibly the same claim (merge candidate)

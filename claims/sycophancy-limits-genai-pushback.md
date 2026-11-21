@@ -53,3 +53,4 @@ Theoretical argument, not an empirical test: the chapter reasons that semantic r
 - [Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation](rl-stages-needed-faithful-student-simulation.md) — related
 - [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — a narrower finding that bears on this claim
 - [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md) — a narrower finding that bears on this claim
+- [DPO training with IRT-likelihood preference pairs makes simulated student responses strongly follow their prompted ability (θ-Align)](dpo-irt-preference-pairs-ability-alignment.md) — related

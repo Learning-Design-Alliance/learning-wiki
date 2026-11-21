@@ -50,3 +50,4 @@ Preliminary informal observation from the authors' most recent conceptual physic
 - [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
 - [Scientific reasoning gains (LCTSR) are equal between flipped and nonflipped active classrooms and significant within both](lctsr-reasoning-gains-equal-flipped-nonflipped.md) — related
+- [Students displayed scientific literacy indicators — hypothesis formulation, argumentation, explanation, organization and information sequencing — without explicit instruction](literacy-indicators-emerge-without-explicit-instruction.md) — related

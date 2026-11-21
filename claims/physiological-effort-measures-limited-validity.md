@@ -75,3 +75,4 @@ Theoretical argument in the commentary: the same physiological indicators would 
 - [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related
 - [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — reports the opposite
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related
+- [Psychophysiological signals such as pupillometry and skin conductance reveal cognitive overload that self-report misses](psychophysiological-signals-reveal-hidden-overload.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (10 for, 4 mixed, 1 against) · 25 studies (9 review, 8 causal, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 25 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (10 for, 5 mixed, 1 against) · 26 studies (9 causal, 9 review, 4 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 26 report an effect size · 11 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.
@@ -63,6 +63,7 @@ Performance support shifts the instructional goal from "train everything in adva
 - [Trained residents communicated results at the CT scanner in a mean of 11.1 min, far faster than preliminary report issuance times of 24.4 and 16.3 min](../claims/scanner-results-communication-11-minutes.md) [+M] — attached 2026-11-07 from Yang AY et al. (2022), which proposed "Joint radiology–trauma surgery paper panscan checklist for wet reads at the CT scanner".
 - [Case sheet use without mentoring added nothing to skilled birth attendant training on any of three knowledge indices](../claims/case-sheets-without-mentoring-no-gain.md) [~M] — attached 2026-11-09 from Bradley Janet et al. (2017), which proposed "Comprehensive patient case sheet for labour and delivery as job aid and teaching tool"; tests this page's relationship.
 - [Laser visual guidance shows no significant improvement over 2D vision in laparoscopic motor skill parameters among surgical novices](../claims/lvg-no-significant-motor-skill-improvement.md) [-M] — attached 2026-11-09 from Sørensen Stine Maya Dreier et al. (2016), which proposed "Laser visual guidance (LVG) prototype projecting a green 6-by-6 laser grid from the instrument tip"; tests this page's relationship.
+- [Student perceptions of the debugging cheat sheet were mixed, with only four of twenty respondents finding the reminders helpful and most not having or using the sheet](../claims/mixed-student-perceptions-cheat-sheet.md) [~W] — attached 2026-11-21 from Andrew Ash et al. (2025), which proposed "Circuit Debugging Cheatsheet with common bugs and bug-location strategies".
 
 ## The evidence by question
 - *Does performing with an aid at hand leave learners able to do the task once the aid is removed?* [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M]

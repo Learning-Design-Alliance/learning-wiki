@@ -48,3 +48,4 @@ Qualitative case-study component of the mixed-methods study: content analysis of
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Pre-service teachers liked SWBL's facilitating learning, anywhere/anytime access, just-in-time learning, ease of use, meaningful learning and reliability, but disliked reduced classroom communication and Internet dependence](swbl-liked-and-disliked-features-themes.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Students rated the analogy-based quantum course highly (mean 4.5/5) and 79% of comments mentioned engagement](quantum-straw-positive-student-perception.md) — related

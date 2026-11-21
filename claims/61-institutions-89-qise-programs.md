@@ -54,3 +54,4 @@ Observational catalog analysis of 1,456 U.S. institutions conducted in summer 20
 - [Minority-serving status does not significantly predict QIS course availability once other factors are controlled, but correlates strongly with Pell grant share](msi-status-not-significant-predictor-qis-courses.md) — related
 - [U.S. institutions offer 8,456 courses mentioning quantum, mostly in physics and chemistry, and 529 dedicated QISE courses](8456-quantum-courses-529-qise.md) — related
 - [QISE degree programs are predominantly interdisciplinary, with physics, ECE, and computer science as primary contributors](qise-programs-interdisciplinary.md) — related
+- [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related

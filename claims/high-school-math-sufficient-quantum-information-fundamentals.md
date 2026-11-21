@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-21
 sources:
   - id: sophia-e-economou-and-edwin-barnes-2022
     resource: "https://doi.org/10.48550/arXiv.2210.02868"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Using a pictorial representation of qubits, gates, and circuits plus the IBM Quantum Composer, students without prior quantum mechanics or advanced math learn the fundamentals of quantum information and computation in a rigorous way. [→ Sophia E. Economou and Edwin Barnes 2022](#sophia-e-economou-and-edwin-barnes-2022)
@@ -51,3 +52,4 @@ The authors' report of their semester-long freshman course Hello Quantum World!,
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — related
 - [No canonical introductory QIS course emerges: instructors craft each course differently, balancing accessibility against academic rigor, with learning goals ranging from fundamental physics to quantum programming](no-canonical-intro-qis-course.md) — a broader claim this one bears on
 - [An optics-based approach using classical light polarization provides a clear and accessible way to represent quantum states and gate operators and facilitates learning and transfer to other STEM skills in a high school quantum computing course](classical-optics-represents-quantum-states-high-school.md) — related
+- [Quantum pictorialism instruction enabled UK high-school students to pass a graduate-level quantum computing exam](quantum-pictorialism-case-study-results.md) — a narrower finding that bears on this claim

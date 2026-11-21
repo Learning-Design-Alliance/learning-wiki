@@ -50,3 +50,4 @@ Benchmark evaluation of six MLLMs on SVLAT, each model run 10 times with tempera
 - In the blind judicial-exam evaluation, Gemini 2.5 Pro scored 21/24, above the top human benchmark of 18/24, while the other LLMs scored substantially lower. — related
 - [MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps](mllm-accuracy-uneven-across-scivis-techniques.md) — related
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
+- [The best-performing MLLMs already outperform post-instruction university student averages on the four tested concept inventories](top-mllms-exceed-post-instruction-student-averages.md) — related

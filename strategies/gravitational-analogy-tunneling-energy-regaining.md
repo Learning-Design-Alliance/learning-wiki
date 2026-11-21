@@ -45,6 +45,7 @@ When transformed-course students understood that the electron loses kinetic ener
 ## Related Strategies
 
 - [Anticipate and explicitly address the force-versus-acceleration confusion and the meaning of relative gravitational acceleration](surface-gravity-misconception-addressing-strategy.md)
+- [Use the mean-free-path asymmetry approach to explain air acceleration above a wing](mean-free-path-lift-explanation-strategy.md)
 
 ## Examples
 -

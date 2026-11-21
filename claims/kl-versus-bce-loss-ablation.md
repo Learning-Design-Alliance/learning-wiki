@@ -53,3 +53,4 @@ Ablation study reported in the training section comparing the novel KL-divergenc
 - [In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — related
 - [Hard-sample filtering threshold τ = 0.2 and orientation loss weight λ = 0.05 yield the best detection–orientation balance](tau-lambda-ablation-optimal-settings.md) — related
 - [Surprisal-based model selection adds an Occam-factor penalty for superfluous fit-parameters on top of goodness of fit](kl-divergence-model-selection-occam-penalty.md) — related
+- [Multi-task learning achieves near single-task performance with one joint model, and ordinal log-loss improves over cross-entropy and regression losses](multi-task-ordinal-loss-tradeoffs-discourse-scoring.md) — related

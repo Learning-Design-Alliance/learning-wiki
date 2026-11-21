@@ -67,3 +67,4 @@ The abstract reports that the multi-year conversation between the physicist and 
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Epistemological expectation mismatches between students and instructors surfaced around independence, math, and social norms](epistemological-expectation-mismatches-astronomy.md) — related
+- [Astronomy can act as a gateway to other STEM disciplines, with recent K-12 multinational evidence supporting the gateway role](astronomy-gateway-to-stem-disciplines.md) — related

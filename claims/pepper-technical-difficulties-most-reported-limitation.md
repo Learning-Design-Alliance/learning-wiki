@@ -69,3 +69,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
 - [Many teachers encounter difficulties adapting or creating OSP simulations, citing lack of programming skills and time](osp-adoption-barriers-programming-time.md) — related
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related

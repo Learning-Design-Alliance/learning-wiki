@@ -50,3 +50,4 @@ Between-condition comparison in the randomized experiment (n = 86 analyzed): the
 - [Low prior knowledge learners gained significantly more conceptual knowledge with the Experiment Design Tool than with the specific research questions alone](edt-benefits-low-prior-knowledge-learners.md) — related
 - [Inquiry learning in a virtual laboratory on Archimedes' principle produces significant conceptual knowledge gains in all three guidance conditions](significant-learning-gains-all-inquiry-conditions-archimedes.md) — related
 - [The three intervention conditions were comparable at baseline in visualisation literacy, data analysis expertise, and GenAI expertise, with no significant Kruskal-Wallis differences](conditions-comparable-baseline-literacy-expertise.md) — related
+- [No significant differences across conditions in Application, Comprehension, or Synthesis knowledge-transformation scores](no-difference-application-comprehension-synthesis.md) — related

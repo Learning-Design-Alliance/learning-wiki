@@ -54,3 +54,4 @@ Text-response survey question asking students to compare simulation-driven with 
 - [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](enjoyment-interactive-over-traditional.md) — related
 - [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related

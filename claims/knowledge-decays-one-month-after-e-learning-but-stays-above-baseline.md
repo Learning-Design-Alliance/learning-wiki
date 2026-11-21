@@ -66,3 +66,4 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
 - [Knowledge gains from the online oncogenetics module persisted and further increased at 6-month retention testing](online-genetics-cpd-sustained-knowledge-retention.md) — related
 - [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related
+- [Understanding declined from immediately after the collaborative exam to the end-of-semester post-understanding self-reflection but remained significantly higher than after the individual exam, in one group with no comparison group](post-review-understanding-retention.md) — related

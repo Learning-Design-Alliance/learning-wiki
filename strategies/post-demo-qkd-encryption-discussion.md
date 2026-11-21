@@ -49,6 +49,7 @@ An immediate post-demonstration discussion connecting the Bell test to secure ke
 
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
+- [Frame quantum error correction as a privacy constraint: treat detection and recovery operations as eavesdroppers that must never access the encoded information](eavesdropper-framing-quantum-decoding.md)
 
 ## Examples
 -

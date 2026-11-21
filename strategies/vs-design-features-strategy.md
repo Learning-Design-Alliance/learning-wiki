@@ -55,6 +55,7 @@ The article's discussion derives design recommendations from its subgroup and li
 - [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
 - [Improve VR simulation realism by adding dynamic elements, animated avatars, and improved rendering](vr-realism-dynamic-avatars-rendering-strategy.md)
 - [Design pediatric procedural preparation with interactivity and real-time feedback rather than passive immersion alone](interactive-feedback-procedural-preparation-strategy.md)
+- [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
 
 ## Examples
 -

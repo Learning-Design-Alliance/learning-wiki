@@ -69,3 +69,4 @@ Survey question on satisfaction with ChatGPT's ability to adapt to students' lev
 - [A majority of surveyed physics students rated ChatGPT useful for answering physics-related questions and would recommend it as a support tool in physics courses](students-rate-chatgpt-useful-physics-questions.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related
 - [Over two-thirds of about 30 EECS students in the course reported that the interactive tutorials deepened their understanding of color science](colorvis-majority-report-deepened-understanding.md) — related
+- [Majorities of surveyed students reported the virtual laboratory deepened their understanding of the lectures, with satisfaction rates of 50%, 85.71%, and 81.25% across three semesters](qlab-understanding-satisfaction-rates.md) — related

@@ -75,3 +75,4 @@ Off-task behavior detection (Baker 2007, as reported here) relied solely on sema
 - [Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues](micro-optimization-transfer-limitations.md) — related
 - [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](in-game-behavior-indicates-ability.md) — related
 - [Students disengage at a 'skipping threshold', and data logs triangulate self-reported skipping with actual skipping behaviour](vp-skipping-threshold-triangulated.md) — related
+- [System interaction logs predict training phrase count (productivity) better than dialogue features in collaborative middle school chatbot development](logs-better-predict-training-phrase-count.md) — related

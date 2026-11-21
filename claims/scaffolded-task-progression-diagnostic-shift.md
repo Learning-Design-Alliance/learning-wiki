@@ -9,7 +9,6 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
 sources:
   - id: leyi-li-2026
     resource: "https://doi.org/10.1145/3800645.3813071"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students moved from trial-and-check completion on introductory tasks to inspecting programs for specific faults on intermediate tasks and externalized planning on advanced tasks. [→ Leyi Li 2026](#leyi-li-2026)

@@ -60,3 +60,4 @@ Within-group Friedman ANOVA comparisons across the three test moments. The contr
 - [IVR training does not significantly reduce procedure time (prescan or tip tracking) compared to e-learning alone](ivr-training-no-procedure-time-difference.md) — related
 - [Across trials, instrument entropy decreased and jerk increased at retention, with no between-group differences in movement parameters](entropy-decreased-jerk-increased-across-trials.md) — related
 - [Both simulation-based interventions improved simulator-measured camera navigation speed versus no training, with no difference between them](simulation-training-faster-than-control-on-lastt.md) — related
+- [Task completion time decreased across sessions for both systems, with no statistically significant effect of task complexity and no significant difference between systems](no-significant-timing-difference-systems.md) — related

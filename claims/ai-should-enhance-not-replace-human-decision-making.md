@@ -53,3 +53,4 @@ Position-paper argument: AI-generated insights should serve as supportive tools,
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — a narrower finding that bears on this claim
 - [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — reports the opposite
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a narrower finding that bears on this claim
+- [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related

@@ -49,6 +49,7 @@ The authors' forward-looking recommendations for improving the reformed course: 
 - [Three-part course transformation combining enhanced preparation, in-class analysis, and project accountability](three-part-electronics-course-transformation.md)
 - [Assess and iterate the program through faculty review, end-of-semester project review, and senior exit interviews](fp-formative-assessment-and-iteration.md)
 - [Three-part reform strategy: TA training with equity and anti-bias preparation, supplemental nature-of-science and lab-skill activities, and full Real-Time Physics adoption with E-CLASS monitoring](three-part-lab-reform-strategy-ta-training-nos-activities-full-rtp.md)
+- [Integrate more hands-on labs, collaboration, and expanded project time in future camp iterations](qcamp-future-improvements-strategy.md)
 
 ## Examples
 -

@@ -59,3 +59,5 @@ Human evaluation (RQ3): two annotators independently rated 100 solution-feedback
 - [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related
 - [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related
 - [Even with the multi-agent system, some feedback still contains over-praise and over-inference, and Agent 2's detection and revision are not fully accurate](residual-feedback-issues-multi-agent.md) — related
+- [LLM grading produced multi-sentence diagnostic feedback where human grader comments were typically two to three words](llm-grading-feedback-depth-advantage.md) — reports the opposite
+- [Model grading performance does not exhibit a clear correlation with student proficiency levels on MathEDU](mathedu-performance-uncorrelated-with-student-proficiency.md) — related

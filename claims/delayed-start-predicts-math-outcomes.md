@@ -50,3 +50,5 @@ Regression on the same 711-student iReady dataset (Table 2): delayed start minut
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](early-starter-chronic-delayer-subgroups.md) — related
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related
+- [Relative delayed start generalizes across systems, predicting grade 7 state test scores in i-Ready data](relative-delayed-start-cross-system-generalizability.md) — a broader claim this one bears on
+- [In stepwise combined models, relative delayed start, early stop, and idle time each negatively correlate with final math scores beyond prior performance](stepwise-combined-predictive-models.md) — related

@@ -62,3 +62,4 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
 - [The authors report that game-based activities develop students' visual thinking and visualization skills in physics](games-develop-visual-thinking-skills.md) — related
 - [Primary studies show no consensus on the definition of immersive learning, splitting between pedagogical/subjective and technological viewpoints](no-consensus-immersive-learning-definition.md) — related
+- [VR/XR enables psychological assessment combining ecological validity with full experimental control](vr-xr-assessment-ecological-validity-with-control.md) — related

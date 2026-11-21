@@ -41,6 +41,7 @@ The course draws its basic problem sources from primary and secondary school phy
 ## Related Strategies
 
 - [Special class for gifted pupils in science in Nis attracting over one thousand pupils](seenet-mtp-special-class-gifted-pupils-nis.md)
+- [Rethink physics assessment for the LLM era: protect summative assessment authenticity in unsupervised settings and exploit LLMs for formative support of self-evaluation](llm-era-physics-assessment-rethinking-strategy.md)
 
 ## Examples
 -

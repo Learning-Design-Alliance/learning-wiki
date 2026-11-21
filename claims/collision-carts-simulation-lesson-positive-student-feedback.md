@@ -75,3 +75,4 @@ Same survey (N = 64) after the guided-inquiry simulation lesson: "more than 50% 
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Faculty testers rated the simulation as a valuable learning experience, with an overall SSES score of 43.5 out of 50](sses-faculty-valuable-learning-experience.md) — related
+- [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related

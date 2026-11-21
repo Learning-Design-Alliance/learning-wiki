@@ -48,6 +48,7 @@ The article recommends using its themes-network model as a systematic aid when d
 ## Related Strategies
 
 - [Sequence CS+X courses carefully in the curriculum: not too early, not too late](sequence-cs-x-courses-timing-strategy.md)
+- [Develop interdisciplinary didactic strategies linking astronomy concepts with physics, chemistry and biology, and revise the curricular distribution of astronomical concepts](interdisciplinary-astronomy-didactic-strategies-boyaca.md)
 
 ## Examples
 -

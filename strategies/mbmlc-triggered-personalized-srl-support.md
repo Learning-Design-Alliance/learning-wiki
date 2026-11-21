@@ -44,6 +44,7 @@ The article proposes that moment-by-moment learning curves "could potentially be
 
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
 - [Use early content-area assessments as triggers for supplemental instruction](early-assessment-trigger-supplemental-instruction.md)
+- [Develop an AI-powered lecture assistant (AILA) that automatically detects opportune moments for retrieval practice intervention](aila-lecture-assistant-future-direction.md)
 
 ## Examples
 -

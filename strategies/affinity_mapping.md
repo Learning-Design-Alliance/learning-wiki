@@ -66,6 +66,7 @@ Affinity mapping converts divergent idea generation into convergent organization
 - [Concept Mapping](../elements/concept-mapping.md) — similar structural outcome, but learner-supplied relational links rather than spatial clustering
 - [Think-Pair-Share](../patterns/think-pair-share.md) — shares the silent-individual-then-social sequence
 - [Frame-aided writing procedure for authors of historical explanations](frame-aided-writing-procedure.md)
+- [Use unsupervised clustering of student written responses to surface class-level themes and track how ideas change over time](cluster-essays-track-class-ideas-over-time.md)
 
 ## Examples
 - **Design education:** the KJ method (Kawakita Jiro, 1960s) is standard practice in UX research synthesis — teams cluster hundreds of field observation notes into affinity notes before defining design requirements (see Beyer & Holtzblatt, *Contextual Design*)

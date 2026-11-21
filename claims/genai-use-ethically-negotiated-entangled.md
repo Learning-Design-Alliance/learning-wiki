@@ -60,3 +60,4 @@ Focus-group analysis of one participant (Howard, arts/psychology) within a study
 - [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related
 - [Professional agency involves responsibility to do instructional design well and ethically, entangled with credential status and identity concerns](professional-agency-identity-credentials.md) — related
 - [AI guilt among secondary students arises from three dimensions: perceived laziness/inauthenticity, fear of judgment, and identity/self-efficacy concerns](three-dimensions-ai-guilt-secondary-students.md) — related
+- [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related

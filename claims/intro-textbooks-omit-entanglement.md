@@ -49,3 +49,4 @@ The authors' review of introductory and modern physics textbooks (references 1-7
 - [Instructors most often named quantum information, entanglement, the EPR paradox and Bell inequality as contemporary topics, but reported limited course time](qm-contemporary-topics-limited-course-time.md) — related
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — a broader claim this one bears on
 - [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related
+- [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — a broader claim this one bears on

@@ -52,3 +52,5 @@ Negative binomial regression across 456 US institutions (Table II) found Pell gr
 - [Active QIS courses at US institutions are disproportionately concentrated at R1 private research universities, and most institutions offer none](qis-courses-concentrated-at-r1-private-institutions.md) — related
 - [QIS education programs appear rarer in rural states and at institutions serving higher populations of low-income students](qis-programs-rarer-in-rural-states.md) — a broader claim this one bears on
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
+- [Minority Serving Institutions show the same institutional-type pattern, with quantum and QISE courses concentrated at masters and PhD-granting MSIs](msi-quantum-course-availability-pattern.md) — related
+- [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related

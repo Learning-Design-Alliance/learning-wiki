@@ -50,3 +50,4 @@ Multilevel between-group comparison for ADHD symptoms. The group effect was non-
 - [Within the intervention group, ODD symptom decline during training significantly exceeded the baseline-period decline](odd-slope-steeper-during-training-than-baseline.md) — related
 - [The control group showed significant ADHD symptom decline during baseline but a smaller-than-expected decline during the subsequent phase](control-group-slope-flattened-after-baseline.md) — related
 - [No between-group treatment effect was found for ODD symptoms when baseline scores were used as a covariate](no-between-group-odd-effect.md) — related
+- [In a 12-week RCT, the treatment group's rate of decline in real-time Moments of Stress was significantly steeper than the control group's](mhelp-treatment-steeper-decline-moments-of-stress.md) — related

@@ -52,6 +52,7 @@ The authors propose extending agency training beyond a short workshop by adding 
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

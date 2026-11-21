@@ -55,3 +55,4 @@ NASA Task Load Index administered after the physical drilling task to both group
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — related
 - [Cognitive load did not differ significantly between chatbot conditions, with trends toward lower performance and effort scores in the ChatGPT condition](cognitive-load-no-difference-chatbot-conditions.md) — related
 - [Perceived cognitive load did not differ between VR and slideshow learning conditions](no-cognitive-load-difference-vr-slideshow.md) — related
+- [Mental workload in FlowTrainer (SystemB) significantly decreased with increasing task complexity, while physical workload rose with complexity in the baseline (SystemA) but not in SystemB](flowtrainer-mental-workload-decreases-complexity.md) — related

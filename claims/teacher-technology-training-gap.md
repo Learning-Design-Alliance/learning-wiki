@@ -60,3 +60,4 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [The article argues that using Ejs as a pedagogical tool faces steep learning-curve and school-culture impediments](ejs-pedagogical-tool-impediments.md) — related
 - [Physics teachers have not sufficiently realized ICT introduction, lack suitable electronic resources, and face a psychological barrier](physics-teachers-ict-barriers.md) — related
+- [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — possibly the same claim (merge candidate)

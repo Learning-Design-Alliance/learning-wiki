@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-21
 sources:
   - id: kazuki-kawamura-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In experiments with 40 participants watching educational videos, FastPerson achieved an average 53% reduction in viewing time with no statistically significant difference in quiz scores compared with normal playback. [→ Kazuki Kawamura 2026](#kazuki-kawamura-2026)

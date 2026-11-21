@@ -52,3 +52,4 @@ Findings from the three-week debate study of 19 students; the article states the
 - [Synchronous students felt constrained by the lecturer's schedule while asynchronous students appreciated flexibility in managing their own time](time-management-flexibility-theme.md) — related
 - [Students valued the blended design mainly for flexibility of place and time and for affordability, participating without disrupting daily work](blended-flexibility-and-affordability-benefits.md) — related
 - [Asynchronous use of the tutoring platform far exceeded synchronous attendance, with about 9000 registered Moodle users versus 385 average weekly session attendees](asynchronous-engagement-exceeded-synchronous.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

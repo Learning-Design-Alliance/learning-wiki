@@ -63,3 +63,4 @@ Stability evaluation (Table 3, Sec. 4): four cyclic option permutations per ques
 - [ChatGPT shows a 23.8% bias toward selecting the first item in pairwise difficulty comparisons](chatgpt-first-item-bias-in-pairwise-comparison.md) — related
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
 - [GPT-2 generates different text for the same prompt across repeated runs, demonstrating its stochastic output](gpt2-stochastic-output-varies-across-runs.md) — related
+- [When LLMs change their answers under suggestion prompts, they typically flip to the option suggested by the user](llm-flip-to-user-suggested-options.md) — related

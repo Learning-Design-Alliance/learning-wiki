@@ -48,3 +48,4 @@ A pilot in a ninth-grade Physics First classroom piloted model-building and comp
 - [Ninth-grade students entered the computational physics pilot largely comfortable with computers but with little or no programming experience](ninth-graders-comfortable-computers-little-programming-experience.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [A pilot digital module combining Miro, Formative, Wizer.me, PhET, and Google Classroom was implemented with two ninth-grade physics classes](pilot-digital-module-nine-grade-waves-sound.md) — related

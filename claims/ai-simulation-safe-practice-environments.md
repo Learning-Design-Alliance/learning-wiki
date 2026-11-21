@@ -137,3 +137,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — related
 - [Students regarded the primary care VP as an authentic intermediate learning activity between theory and clinical practice with immediate feedback](vp-intermediate-learning-activity-authenticity.md) — a narrower finding that bears on this claim
 - [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related
+- [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — a narrower finding that bears on this claim

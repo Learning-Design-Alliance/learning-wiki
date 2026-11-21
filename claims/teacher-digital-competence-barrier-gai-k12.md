@@ -53,3 +53,4 @@ Narrative review section attributing this finding to Alferez-Pastor (2023): teac
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - [Only 44% of teachers believe they have proper training to use ICT in teaching practice, and only 14.8% believe their peers are trained properly for the Escuela 2.0 program.](escuela2-teacher-training-inadequate.md) — related
+- [Teachers' self-reported confidence in using digital tools (68%) exceeds their regular classroom integration of digital tools (45%)](teacher-confidence-integration-gap-digital-tools.md) — related

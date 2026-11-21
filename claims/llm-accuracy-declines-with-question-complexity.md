@@ -59,3 +59,4 @@ Difficulty–accuracy analysis (Fig. 5) of the 30-iteration accuracy data across
 - [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — related
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — reports the opposite
 - [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim
+- [SLM physics performance declines monotonically with Bloom's cognitive complexity and is weakest on procedural knowledge](slm-performance-declines-with-cognitive-complexity.md) — a narrower finding that bears on this claim

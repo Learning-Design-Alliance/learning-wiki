@@ -48,3 +48,4 @@ The article's argumentative section on reasons to engage in science communicatio
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — a broader claim this one bears on
 - [Students found simplifying complex concepts and understanding the audience the most difficult aspects of designing outreach products for non-physicists](simplification-and-audience-difficulties.md) — related
+- [Authentic engagement with a curious public audience drove changes in students' self-perceptions as physicists and developed communication career skills (audience dialog cluster)](audience-dialog-authentic-engagement-skills.md) — related

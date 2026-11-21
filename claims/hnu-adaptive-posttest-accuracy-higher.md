@@ -48,3 +48,4 @@ Controlled study results comparing posttest accuracy of the two HNU conditions; 
 - [HNU Adaptive students form marginally significantly shorter posttest proofs than HNU Control, with no posttest time difference](hnu-adaptive-posttest-length-marginal.md) — related
 - [HNU Adaptive students show significantly better training length, time, and accuracy than HNU Control in the logic-proof tutor](hnu-adaptive-training-performance-better.md) — related
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — related
+- [Training with Guided Parsons problems significantly improves rule application accuracy in logic proofs on both level-end tests and post-tests](gpp-improves-rule-application-accuracy.md) — related

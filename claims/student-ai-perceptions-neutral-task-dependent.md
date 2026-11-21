@@ -70,3 +70,4 @@ Systematic literature review (PRISMA framework) synthesizing recent studies of A
 - [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](genai-skills-vary-by-methodology-engagement.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
 - [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](gamification-effectiveness-context-dependent-limitation.md) — related
+- [Students shift from viewing AI as a shortcut toward viewing it as a learning tool whose value depends on how it is used](ai-shortcut-to-learning-tool-shift.md) — related

@@ -54,3 +54,6 @@ Faculty survey of N=63 introductory QISE courses at US institutions classifying 
 - [Pairing classical and quantum error-correction levels confronts players with the no-cloning difference between bits and qubits](contrastive-error-correction-levels-no-cloning.md) — related
 - [US research-intensive institutions require one to five quantum-related courses, with 92% requiring two and half requiring three](quantum-course-requirements-us-institutions.md) — related
 - [The diagrammatically matched game design allows jargon-free teaching and implicit learning of quantum teleportation](quantum-port-jargon-free-implicit-learning.md) — related
+- [Prior quantum assessments largely require advanced mathematics or Dirac notation and few address key QIS concepts such as gates, entanglement, teleportation, and decoherence](prior-quantum-assessments-inaccessible-and-qis-thin.md) — related
+- [Quantum algorithms and computing are the most commonly covered QISE topics in engineering courses, while density matrices and measurement are rare](qise-topic-frequency-engineering-courses.md) — a narrower finding that bears on this claim
+- [QISE educators commonly embed QISE topics into existing quantum courses as a pragmatic, scalable entry point](qise-topics-embedded-existing-quantum-courses.md) — related

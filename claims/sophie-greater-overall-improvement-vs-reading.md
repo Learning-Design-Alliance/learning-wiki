@@ -49,3 +49,6 @@ Linear mixed effects models on 51 randomized participants (102 SP encounters) un
 - [SOPHIE training produces greater pre-to-post improvement in Empathize communication skill than a reading module](sophie-greater-empathize-improvement-vs-reading.md) — related
 - [SOPHIE training produces greater pre-to-post improvement in Empower communication skill than a reading module](sophie-greater-empower-improvement-vs-reading.md) — related
 - [SOPHIE participants report higher confidence in communication skills than controls](sophie-higher-confidence-vs-reading.md) — related
+- [Both the SOPHIE and control groups improved significantly on all measured communication metrics after their second standardized patient interaction, but the SOPHIE arm showed markedly larger gains](both-arms-improved-sophie-markedly-larger.md) — a broader claim this one bears on
+- [SOPHIE participants reported significantly greater perceived improvement in their communication skills than controls (4.31 vs 3.83 on a 5-point scale)](sophie-higher-perceived-skill-improvement.md) — related
+- [In a randomized controlled trial, SOPHIE training produced significantly greater pre-post gains in serious illness communication skills than a written reading module, with large effect sizes for the SOPHIE arm](sophie-rct-greater-sic-gains-than-reading-control.md) — possibly the same claim (merge candidate)

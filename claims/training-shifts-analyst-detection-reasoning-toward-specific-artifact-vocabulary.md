@@ -70,3 +70,5 @@ Same exploratory coding of free-text detection reasoning. The article reports hi
 - [A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) — a broader claim this one bears on
 - [Training shows small trends toward better conflict detection on bat-and-ball and base-rate tasks but the opposite trend on the conjunction fallacy task](conflict-detection-trends-task-specific.md) — related
 - [After the AST1000F course, students' free associations with 'astronomy' shifted toward more technical concepts taught in the course](free-association-shift-toward-technical-astronomy-concepts.md) — related
+- [Prior AI usage frequency and general attitudes toward AI do not predict AI-text detection accuracy](ai-usage-attitudes-null-detection.md) — related
+- [Without feedback, participants rely on stereotyped stylistic assumptions about AI texts (static, prepared, cohesive, polythematic); feedback weakens these cues](stylistic-stereotype-cues-no-feedback.md) — related

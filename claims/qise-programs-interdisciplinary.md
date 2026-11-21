@@ -47,3 +47,4 @@ Descriptive analysis of program level and discipline (Fig. 3 heatmap). Most QISE
 ## Related Claims
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related
+- [Electrical and Computer Engineering offers the most quantum and QISE coursework among engineering subdisciplines](ece-leads-engineering-quantum-coursework.md) — related

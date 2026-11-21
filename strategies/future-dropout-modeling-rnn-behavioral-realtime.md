@@ -40,6 +40,7 @@ The authors' future-research agenda specifies four extensions: recurrent neural 
 ## Related Strategies
 
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
+- [Extend the hackathon design to professional-skill training and AI/ML-informed analysis](extend-hackathons-to-professional-skills-and-ai-ml.md)
 
 ## Examples
 -

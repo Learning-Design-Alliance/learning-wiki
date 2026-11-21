@@ -51,3 +51,4 @@ In a pre-GPT-4 test on an ISS gravitational acceleration question, the authors f
 - [Some students abandon a correct analytical solution mid-way and revert to an intuitive proportional answer](mid-solution-abandonment-analytical-reasoning.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
+- [Among final-answer-correct SLM solutions to physics problem-solving questions, 75-98% contain at least one reasoning error in formulation or execution](slm-physics-answer-reasoning-gap.md) — related

@@ -53,3 +53,4 @@ Null finding on the rule-accuracy component of the composite posttest score in t
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
 - [HNU Adaptive students achieve significantly higher posttest rule-application accuracy than HNU Control](hnu-adaptive-posttest-accuracy-higher.md) — related
+- [Training with Guided Parsons problems significantly improves rule application accuracy in logic proofs on both level-end tests and post-tests](gpp-improves-rule-application-accuracy.md) — related

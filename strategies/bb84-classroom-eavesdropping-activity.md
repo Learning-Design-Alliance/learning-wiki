@@ -52,6 +52,7 @@ Students form groups with one Alice, one Bob, qubits, and Eavesdroppers. Alice p
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [Debriefing session that reveals Eve and discusses why the setup deviates from ideal BB84](eve-reveal-debriefing-strategy.md)
 - [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
+- [Frame quantum error correction as a privacy constraint: treat detection and recovery operations as eavesdroppers that must never access the encoded information](eavesdropper-framing-quantum-decoding.md)
 
 ## Examples
 -

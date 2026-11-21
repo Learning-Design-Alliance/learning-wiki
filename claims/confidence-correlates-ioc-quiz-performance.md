@@ -70,3 +70,4 @@ Topic-level correlation analysis (Table 6) in the same sample; the article state
 - [PGY1-3 residents perform worse than attendings on bile duct injury recognition questions](pgy1-3-worse-than-attendings-bdi-recognition.md) — related
 - [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — reports the opposite
 - [Diagnostic confidence correlates positively with diagnostic accuracy in chest X-ray interpretation](cxr-confidence-accuracy-correlation.md) — related
+- [Student confidence ratings strongly predicted exam performance, with higher confidence associated with approximately 6.3% better performance](confidence-ratings-predict-exam-performance.md) — related

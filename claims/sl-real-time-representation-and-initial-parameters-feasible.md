@@ -70,3 +70,4 @@ On the initial-parameters criterion the evaluation judges manipulation "feasible
 - [Smartphones with real-time microsensors can accompany a Classical Mechanics course across its main topics](smartphones-accompany-classical-mechanics-course.md) — related
 - [Despite restrictions and differences from traditional simulators, Second Life shows itself as a viable and flexible platform for microworlds and simulations](sl-viable-flexible-platform-microworlds.md) — a broader claim this one bears on
 - [Visualizing an array of driven spring-mass systems on the resonance graph is hypothesized to build greater physical intuition of resonance](resonance-graph-visualization-intuition-hypothesis.md) — related
+- [The author characterizes NOVA as more flexible, more inquiry-oriented, and more accessible than the Stellarium simulator, while Stellarium remains unsurpassed for realistic visual observation](nova-vs-stellarium-comparison.md) — related

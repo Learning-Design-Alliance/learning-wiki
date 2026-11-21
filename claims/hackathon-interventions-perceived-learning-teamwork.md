@@ -52,3 +52,4 @@ Action research study over six months with three course-integrated online hackat
 - [All analyzed teams reported higher-than-average perceived learning, with high grade teams reporting the highest learning outcome values](learning-outcome-perception-by-grade-groups.md) — a narrower finding that bears on this claim
 - [All teams rated the team management plan intervention above average, though middle grade teams reported the lowest values and described its added value as minimal](team-management-plan-perception.md) — a narrower finding that bears on this claim
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — related
+- [Hackathon participants reported increases in understanding, interest, skills, and confidence, and most expected to apply what they learned within the following year](hackathon-self-reported-gains-and-adoption.md) — related

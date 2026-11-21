@@ -74,3 +74,4 @@ Single-turn pedagogical quality analysis across all evaluated models and subject
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
 - [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related
 - [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](students-recognize-harm-only-when-images-reveal-answer.md) — related
+- [Gold answer leakage in generated hints is low for the main tutor model but higher for low-resource languages](gold-answer-leakage-low-lrl-higher.md) — related

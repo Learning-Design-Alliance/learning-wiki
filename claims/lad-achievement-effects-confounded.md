@@ -51,3 +51,5 @@ Review-level analysis of the 38-study corpus examining why larger achievement ef
 - [LAD impact on motivation and attitudes is generally modest, with only a few exceptions demonstrating significant effects](lad-modest-motivation-attitude-impact.md) — related
 - [LADs show no evidence of improving academic achievement, with most studies reporting negligible or small effects](lad-no-evidence-improving-achievement.md) — related
 - [LADs show a relatively substantial impact on student participation, with several studies reporting medium to large effect sizes](lad-substantial-participation-impact.md) — related
+- [Students using the explainable LAD scored significantly higher on an abstract-writing knowledge test than visual-only LAD users](explainable-lad-knowledge-test-advantage.md) — related
+- [Explainable three-layer LAD and visual-only LAD produced no significant difference in co-authored abstract quality](explainable-lad-no-abstract-quality-difference.md) — related

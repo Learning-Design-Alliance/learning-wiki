@@ -53,3 +53,4 @@ Within-subject paired Wilcoxon signed-rank tests on 23 analyzed participants sho
 - [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related
 - [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related
 - [Both VR training paradigms improved real-task performance, with significant improvement across trial runs but no significant main effect of training group on completion times](vr-training-improves-real-tyre-change-completion-times.md) — related
+- [The interactive visualization's advantage was significant for femoral stem insertion (task 3) but minimal for acetabular cup insertion (task 2)](task3-significant-iv-advantage-task2-minimal.md) — related

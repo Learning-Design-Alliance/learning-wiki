@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 383 claims (292 show a difference, 49 mixed, 42 no difference) · 302 studies (98 causal, 98 associational, 34 review, 31 qualitative, 21 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 60 of 302 report an effect size · 379 claims rest on one study
+> **Evidence** · 385 claims (294 show a difference, 49 mixed, 42 no difference) · 303 studies (98 causal, 98 associational, 34 review, 31 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 60 of 303 report an effect size · 381 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -414,6 +414,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-efficacy is positively correlated with academic achievement](../claims/self-efficacy-positively-correlated-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [End-of-course physics self-efficacy is predicted by belonging (b = 0.49), pre self-efficacy (b = 0.45), peer interaction (b = 0.21), and perceived recognition (b = 0.13)](../claims/belonging-predicts-post-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 - [Playing Qubit Touchdown and learning its quantum-computing connections significantly increased high school students' self-confidence in their ability to learn quantum computing](../claims/qubit-touchdown-self-confidence-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Adding a logistic limit on sense of belonging in the simulation leaves confidence, personal growth, motivation, and learning increasing faster than baseline while need for validation decreases to a floor](../claims/logistic-limit-belonging-accelerates-other-outcomes.md) [+W] — measured as an outcome of the instruction studied
+- [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](../claims/sd-baseline-exponential-growth-positive-constructs.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

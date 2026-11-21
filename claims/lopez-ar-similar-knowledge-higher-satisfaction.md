@@ -82,3 +82,5 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — related
 - [Prior study: VR metric visualization yielded accuracy comparable to 2D dashboards with an edge on intricate tasks (as reported by the article, citing Moreno-Lumbreras et al.)](prior-vr-comparable-accuracy-intricate-task-advantage.md) — related
 - [A strong majority of adolescent participants (8 of 11) preferred the gamified VR modality, and none preferred passive VR](game-vr-preferred-modality.md) — related
+- [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](iv-greater-learning-effect-than-flyover-video.md) — related
+- [VR-based medical education with interactive 3D visualization enhances spatial comprehension of anatomy](vr-3d-visualization-enhances-anatomical-spatial-comprehension.md) — related

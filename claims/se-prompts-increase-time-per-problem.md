@@ -57,3 +57,4 @@ Log data from 63 participants showed the experimental group spent on average 48 
 - [Smartphone application users completed the exam simulation faster than controls, significantly in complete-case analyses but not intention-to-treat](smartphone-app-reduces-test-completion-time.md) — related
 - [Interactive learning is more time consuming than reproductive learning: interactive participants completed far fewer tasks in the fixed 45 minutes](interactive-learning-more-time-consuming-anatomy.md) — related
 - [Self-reported time spent on experimental tasks does not significantly differ from time spent on programming tasks](exp-pro-time-on-task-no-difference.md) — related
+- [Per-problem exam results show the misoriented IC problem was hardest for both groups, with the experimental group faster on the misoriented IC and floating body problems and higher success rates on the misoriented IC and 10x probe problems](per-problem-debugging-exam-results.md) — reports the opposite

@@ -55,3 +55,4 @@ Analytical argument in the simulation study's discussion section: because guesse
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related
 - [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](no-sweet-spot-online-confidence.md) — related
 - [Unable to calibrate from video, students adopted a low-precision strategy of measuring lengths on the computer display with a ruler and time with a chronometer](ruler-on-display-chronometer-measurement-strategy.md) — related
+- [Without feedback, participants are most wrong precisely when most confident; feedback restores confidence calibration](feedback-calibrates-confidence-ai-detection.md) — related

@@ -57,3 +57,4 @@ The review reports this empirical sycophancy finding (Cheng et al., 2026): the m
 - [Feeling understood by sycophantic AI grows with sustained use but yields no downstream benefits for feeling understood by humans or intellectual humility](ai-understanding-no-downstream-benefits.md) — related
 - [The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment](intervention-reduced-positional-mimicry.md) — a narrower finding that bears on this claim
 - [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md) — related
+- [Sycophantic LLM behavior may undermine educational equity by accelerating learning for knowledgeable students while reinforcing misconceptions for less knowledgeable ones](llm-sycophancy-educational-equity-risk.md) — a narrower finding that bears on this claim

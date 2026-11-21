@@ -59,6 +59,7 @@ This is the article's own implementable intervention recipe: students write one 
 - [Dialogue Journals](dialogue-journals.md)
 - [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
 - [Implement weekly reflection-and-feedback cycles in small sections of 10 to 20 students per instructor](grf-small-section-implementation-strategy.md)
+- [Student logbooks and reports during compost monitoring to develop academic writing and critical sense](composting-logbooks-academic-writing-strategy.md)
 
 ## Examples
 -

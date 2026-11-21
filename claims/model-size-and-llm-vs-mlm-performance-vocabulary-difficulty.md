@@ -53,3 +53,5 @@ Conclusion-level summary of the fine-tuning experiments (Section 5.1, Table 2; A
 - [A fine-tuned Qwen3.5-9B simulated-respondent model predicts item difficulty with Pearson correlation 0.85, exceeding MathBERT (0.68) and MetaMath (0.75) baselines](llm-simulated-respondents-predict-item-difficulty-above-regression-baselines.md) — related
 - [The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%](eduqwen-32b-sota-cdpk-benchmark.md) — related
 - [Scaling Qwen2.5 from 3B to 32B parameters improved both metrics and reduced the consistency gap by approximately 50%](model-scaling-reduces-consistency-gap.md) — related
+- [Smaller LLMs more often used undefined symbols, missed equations, and hallucinated equations; a 14B parameter model (Phi4) achieved only about 70% accuracy on the task](small-llms-undefined-symbols-phi4-70-percent.md) — related
+- [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related

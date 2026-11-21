@@ -49,3 +49,4 @@ Simulation study of 1,000 simulated learners per condition, grounded in AFM/BKT 
 - [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — a broader claim this one bears on
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim
 - [Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset](weakness-targeting-lowest-overpractice.md) — related
+- [Real students in the source dataset experienced considerable overpractice across all nine equation-solving skills](real-students-overpractice-across-all-skills.md) — related

@@ -73,3 +73,4 @@ Blind-graded GPT-4o responses (ten per graph, full versus minimal BLI graph vers
 - [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — related
 - [ChatGPT can be unreliable even on basic conceptual physics tasks when vision is correct, as on item 17 (5% correct vs 70% for students)](chatgpt-uncanny-reasoning-failures.md) — related
 - [GPT-4o performs far worse on items requiring image interpretation (49%) than on text-only items (81%)](gpt4o-required-image-items-weaker.md) — related
+- [MLLM performance on image-based conceptual physics tasks varies widely, from 81.5% (GPT-5) down to 21% (Gemma 3-4b)](mllm-physics-visual-performance-range-21-81-5.md) — related

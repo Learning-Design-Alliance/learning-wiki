@@ -47,3 +47,4 @@ Analysis of all student projects over three years (23 projects). The article rep
 ## Related Claims
 - [None of the 23 student projects followed traditional outreach formats (talks, posters, articles); formats were experimental devices (39%), animation movies (22%), fiction movies (17%), games (9%), live events (9%) and photography (4%)](outreach-projects-non-traditional-formats.md) — related
 - [In a 2015 survey, Italian pre-university physics teachers deemed more appropriate a program extended on electromagnetism (+5,73%) and reduced in quantum physics (-3,7%) and advanced physics (-1,52%).](teachers-prefer-reduced-quantum-physics-curriculum-2015.md) — related
+- [High-school students can engage meaningfully with complex quantum topics through project-based formats](quantum-project-based-engagement.md) — related

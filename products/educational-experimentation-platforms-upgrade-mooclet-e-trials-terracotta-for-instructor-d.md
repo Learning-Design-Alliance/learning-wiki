@@ -31,4 +31,4 @@ The article names a growing set of educational experimentation platforms, built 
 
 ## Key Sources
 - Ilya Musabirov, Angela Zavaleta Bernuy, Pan Chen, Michael Liut, and Joseph Jay Williams. 2024. Opportunities for Adaptive Experiments to Enable Continuous Improvement in Computer Science Education. In The 26th Western Canadian Conference on Computing Education (WCCCE '24). https://doi.org/10.1145/3660650.3660659
-- Siedahmed, A., Pei, Y., Sales, A., Heffernan, N. T., Gagnon-Bartsch, J. A., Zhang, D., Schuetze, B. A., & Zengilowski, A. (2025). E-TRIALS: Empowering Data-Driven Decisions to Enhance Computer-Based Learning Platforms. arXiv. https://arxiv.org/abs/2502.10545
+- Siedahmed, A., Pei, Y., Sales, A., Heffernan, N. T., Gagnon-Bartsch, J. A., Zhang, D., Schuetze, B. A., & Zengilowski, A. (2025). E-TRIALS: Empowering Data-Driven Decisions to Enhance Computer-Based Learning Platforms. arXiv. https://arxiv.org/abs/2502.10545. [doi:10.48550/arxiv.2502.10545](https://doi.org/10.48550/arxiv.2502.10545)

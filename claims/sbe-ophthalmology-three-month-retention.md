@@ -79,3 +79,4 @@ Same three-month follow-up of the pilot study; mean knowledge score was 11 ± 3.
 - [Comfort with obstetrical procedures increased post-simulation and remained significantly above baseline at 4 and 8 months](obgyn-simulation-comfort-retention.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related
+- [Understanding declined from immediately after the collaborative exam to the end-of-semester post-understanding self-reflection but remained significantly higher than after the individual exam, in one group with no comparison group](post-review-understanding-retention.md) — related

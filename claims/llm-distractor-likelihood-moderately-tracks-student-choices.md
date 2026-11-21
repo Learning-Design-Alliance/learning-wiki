@@ -58,3 +58,4 @@ The authors read the moderate correlation as evidence that LLMs approach problem
 - [Rarely chosen distractors can carry clinically important information about unsafe practices, so removing them loses diagnostic information](rarely-chosen-unsafe-distractors-informative.md) — related
 - [Preliminary results suggest multiple choice questions can mimic free-response questions under the right circumstances](multiple-choice-mimics-free-response-preliminary.md) — related
 - [ChatGPT's item difficulty and answer-option distributions are overrepresented at the extremes compared to students](chatgpt-tug-k-extreme-item-difficulty-distribution.md) — related
+- [Cluster 3 heavily favored Wrong Answer 1 (final velocity equal to initial velocity) and under-selected the correct answer](cluster3-wrong-answer1-residual.md) — related

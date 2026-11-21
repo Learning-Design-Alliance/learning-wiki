@@ -68,3 +68,4 @@ The Results section reports the shape of the quadratic fit shown in Figure 3b: t
 - [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](need-for-cognition-moderates-trust-reliance.md) — related
 - [Relationship between time spent and performance is non-linear, with a positive squared term](adaptive-time-nonlinear-relation.md) — related
+- [Post-task trust in the chatbot and satisfaction are negatively correlated with appropriate reliance](appropriate-reliance-negative-trust-satisfaction.md) — related

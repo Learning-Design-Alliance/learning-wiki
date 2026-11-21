@@ -128786,5 +128786,897 @@
  "test-format\ttwo-stage final exam with a group stage\ttwo-stage midterm exam with a group stage": {
   "label": "two-stage final exam vs two-stage midterm exam",
   "treatment_is_a": true
+ },
+ "active-learning\tAI-integrated astronomy laboratory\tNo explicit comparison condition": {
+  "label": "AI-integrated active learning vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tAI-integrated astronomy laboratory\tno explicit comparison condition": {
+  "label": "AI-integrated active learning vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot discussion\tpassive study": {
+  "label": "Feynman Bot discussion vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot discussion after each lecture\twatching lectures and reading or reviewing notes": {
+  "label": "Feynman Bot discussion vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot discussion after each lecture\twatching lectures, reading notes, or rewatching lectures": {
+  "label": "Feynman Bot discussion vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot question-and-answer discussion\tpassive study of lectures and notes": {
+  "label": "Feynman Bot discussion vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot study\tusual passive study techniques": {
+  "label": "Feynman Bot study vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tFeynman Bot study method\tusual passive study techniques": {
+  "label": "Feynman Bot study vs passive study",
+  "treatment_is_a": true
+ },
+ "active-learning\tISLE\tpre-semester concept inventory": {
+  "label": "Active-learning instruction vs pre-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tOther Groupwork profile\tClickers profile": {
+  "label": "Other groupwork vs clickers",
+  "treatment_is_a": true
+ },
+ "active-learning\tOther Groupwork profile\tLecture profile": {
+  "label": "Other groupwork vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction\tpre-semester concept inventory": {
+  "label": "Active-learning instruction vs pre-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP\tISLE": {
+  "label": "SCALE-UP vs ISLE",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP\tPeer Instruction": {
+  "label": "SCALE-UP vs Peer Instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP\tpre-semester concept inventory": {
+  "label": "Active-learning instruction vs pre-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tTutorials\tpre-semester concept inventory": {
+  "label": "Active-learning instruction vs pre-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tWorksheets or Other Groupwork profiles\tLecture or Clickers profiles": {
+  "label": "Worksheets or groupwork vs lecture or clickers",
+  "treatment_is_a": true
+ },
+ "active-learning\tWorksheets profile\tClickers profile": {
+  "label": "Worksheets vs clickers",
+  "treatment_is_a": true
+ },
+ "active-learning\tWorksheets profile\tLecture profile": {
+  "label": "Worksheets vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tasynchronous collaborative exam\tstandard in-person collaborative exam": {
+  "label": "Asynchronous collaborative exam vs in-person collaborative exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative exam\tindividual exam": {
+  "label": "Collaborative exam vs individual exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative two-stage exam\tindividual exam stage": {
+  "label": "Collaborative two-stage exam vs individual exam stage",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogue about authentic AI-use dilemmas\tbinary permissible-versus-impermissible framing": {
+  "label": "Dialogue about authentic AI-use dilemmas vs prescriptive permissible-versus-impermissible framing",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour active learning methods pooled\tpre-semester concept inventory": {
+  "label": "Active-learning instruction vs pre-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thackathon-based collaborative work\ttraditional workshops or conferences": {
+  "label": "Hackathon-based collaborative work vs traditional workshops or conferences",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on Quantum Straw sequence with collaborative measurements\tnot stated": {
+  "label": "Hands-on quantum experimentation vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on Quantum Straw sequence with smartphone-based experimentation\tnot stated": {
+  "label": "Hands-on quantum experimentation vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\thighest-entropy pair selection\tno-repeating-pairs (NRP) selection": {
+  "label": "Highest-entropy pair selection vs no-repeating-pairs selection",
+  "treatment_is_a": true
+ },
+ "active-learning\thighest-entropy pair selection\trandom pair selection": {
+  "label": "Highest-entropy pair selection vs random pair selection",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement techniques such as think-pair-share, lecture tutorials, and real-data labs\ttraditional lectures": {
+  "label": "Interactive engagement vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tinvestigative workshop with temperature mapping and questioning\tnot stated": {
+  "label": "Investigative workshop vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tone-day quantum workshop\tparticipants' pre-workshop self-rated knowledge": {
+  "label": "Quantum workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based investigative workshop with field data collection, mapping, and discussion\ttraditional teaching with little emphasis on investigation and experimentation": {
+  "label": "Investigative workshop vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based courses with peer collaboration\tintroductory courses": {
+  "label": "Project-based collaborative learning vs introductory courses",
+  "treatment_is_a": true
+ },
+ "active-learning\trevised group-based virtual-laboratory instruction\tearlier individual virtual-laboratory instruction": {
+  "label": "Group-based virtual-laboratory instruction vs individual virtual-laboratory instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tscenario analysis, peer dialogue, and collaborative boundary-setting\tprescriptive rule-following or being told what constitutes ethical AI use": {
+  "label": "Scenario analysis and collaborative dialogue vs prescriptive AI-use rules",
+  "treatment_is_a": true
+ },
+ "active-learning\tscenario ranking and collaborative discussion\tviewing AI use as a shortcut": {
+  "label": "Scenario ranking and collaborative discussion vs viewing AI use as a shortcut",
+  "treatment_is_a": true
+ },
+ "active-learning\tscenario ranking and peer discussion activity\tstudents' views before the activity": {
+  "label": "Scenario ranking and peer discussion vs pre-activity views",
+  "treatment_is_a": true
+ },
+ "active-learning\tscenario ranking, small-group discussion, and whole-class dialogue\tbeing told fixed rules or prohibitions": {
+  "label": "Scenario ranking and collaborative dialogue vs fixed rules or prohibitions",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured unplugged AI learning path\tinitial questionnaire baseline": {
+  "label": "Structured unplugged AI-literacy learning path vs initial questionnaire baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured unplugged AI-literacy learning path\tno comparison condition reported": {
+  "label": "Structured unplugged AI-literacy learning path vs no explicit comparison condition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tarticulating and revisiting a personal AI-use policy\tethical judgment imposed through external rules": {
+  "label": "articulating and revisiting personal AI-use policies vs externally imposed compliance",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tarticulating and revisiting personal AI-use policies\texternally imposed compliance": {
+  "label": "articulating and revisiting personal AI-use policies vs externally imposed compliance",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tasynchronous scheduling at students' convenience\tfixed instructor-scheduled evening times": {
+  "label": "asynchronous student-controlled scheduling vs fixed instructor-scheduled times",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomous on-demand AI feedback\tcomparison condition without on-demand AI interventions": {
+  "label": "learner-controlled on-demand AI feedback vs no on-demand AI intervention",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfully learner-controlled AI feedback\tcontrol": {
+  "label": "learner-controlled AI feedback vs control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfully learner-controlled on-demand AI feedback\tcomparison condition without fully learner-controlled on-demand AI feedback": {
+  "label": "learner-controlled on-demand AI feedback vs no learner-controlled on-demand AI feedback",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent participation in articulating and revisiting AI-use principles\texternally imposed compliance with fixed rules": {
+  "label": "articulating and revisiting personal AI-use policies vs externally imposed compliance",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents articulating and revisiting personal AI-use policies\texternally imposed compliance with fixed rules": {
+  "label": "articulating and revisiting personal AI-use policies vs externally imposed compliance",
+  "treatment_is_a": true
+ },
+ "case-comparison\tComparing outputs from multiple GenAI platforms\tSingle-platform or non-comparative evaluation not reported": {
+  "label": "Multiple-platform comparative evaluation vs single-platform or non-comparative evaluation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcohering physical and mathematical reasoning\tinitial inconsistent physical mechanism": {
+  "label": "Coherent physical-mathematical reasoning vs inconsistent physical mechanism",
+  "treatment_is_a": true
+ },
+ "debriefing\treflective and dialogic discussion of ambiguous AI-use scenarios\trule-based binary framing of permissible versus impermissible behavior": {
+  "label": "Reflective and dialogic debriefing vs rule-based binary framing",
+  "treatment_is_a": true
+ },
+ "debriefing\tstructured end-of-semester review\tindividual-exam self-reflection": {
+  "label": "Structured end-of-semester review vs individual-exam self-reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclarify superposition and explain change of basis if needed\tleave the potential misconception unaddressed": {
+  "label": "explicit conceptual clarification vs misconception unaddressed",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdebugging mini lecture and cheat sheet\tcontrol condition without the intervention-specific lecture and cheat sheet": {
+  "label": "debugging mini-lecture and cheat sheet vs no intervention-specific lecture or cheat sheet",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetaphorical explanation\tno explanation control": {
+  "label": "metaphorical explanation vs no explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetaphorical quantum-phenomenon explanation\tno explanation (control)": {
+  "label": "metaphorical quantum-phenomenon explanation vs no explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmini lecture and debugging cheat sheet\tno intervention-specific lecture or cheat sheet": {
+  "label": "debugging mini-lecture and cheat sheet vs no intervention-specific lecture or cheat sheet",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmini lecture and debugging cheat sheet\tsame course experience without intervention": {
+  "label": "debugging mini-lecture and cheat sheet vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmini lecture plus debugging cheat sheet\tno intervention-specific lecture or cheat sheet": {
+  "label": "debugging mini-lecture and cheat sheet vs no intervention-specific lecture or cheat sheet",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnon-metaphorical explanation\tno explanation control": {
+  "label": "non-metaphorical explanation vs no explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnon-metaphorical quantum-phenomenon explanation\tno explanation (control)": {
+  "label": "non-metaphorical quantum-phenomenon explanation vs no explanation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI-generated bias labels during training\tno labels during training": {
+  "label": "AI-generated bias labels vs no AI-generated bias labels",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tHuman bias labels during training\tno labels during training": {
+  "label": "Human bias labels vs no human bias labels",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tLLM-generated feedback available on demand\tno LLM-generated feedback available": {
+  "label": "LLM-generated feedback available vs unavailable",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tassignment to an LLM-feedback-available condition\tassignment to control without LLM feedback": {
+  "label": "LLM-generated feedback available vs unavailable",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfully learner-controlled on-demand AI feedback\tcontrol condition without on-demand AI intervention": {
+  "label": "Learner-controlled on-demand AI feedback vs no on-demand AI feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\timmediate feedback after each trial\tno feedback until experiment completion": {
+  "label": "Immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpost-test after AI-generated feedback\tpre-test before feedback": {
+  "label": "Post-feedback vs pre-feedback assessment (AI-generated feedback)",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpost-test after combined slide and AI feedback\tpre-test before feedback": {
+  "label": "Post-feedback vs pre-feedback assessment (combined slide and AI feedback)",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpost-test after human-written feedback\tpre-test before feedback": {
+  "label": "Post-feedback vs pre-feedback assessment (human-written feedback)",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpost-test after relevant slide-page feedback\tpre-test before feedback": {
+  "label": "Post-feedback vs pre-feedback assessment (relevant slide-page feedback)",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treceived LLM-generated explanatory feedback\tno LLM feedback received": {
+  "label": "LLM-generated feedback received vs not received",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treceived LLM-generated feedback\tControl and ITT learners who did not receive LLM feedback": {
+  "label": "LLM-generated feedback received vs not received",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treceived LLM-generated feedback\tdid not receive LLM-generated feedback": {
+  "label": "LLM-generated feedback received vs not received",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate correctness feedback after each trial\tno feedback until experiment completion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback after each trial\tfeedback delayed until experiment completion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback after each trial\tfeedback only at experiment completion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback after each trial\tno feedback until experiment completion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback after each trial\tno immediate feedback until experiment completion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate-feedback group\tno-feedback group": {
+  "label": "immediate vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback combined with a relevant slide\tseparate effects of AI feedback and slide presence": {
+  "label": "combined AI feedback plus relevant slide vs separate AI-feedback and slide effects",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback plus textbook links\ttextbook links only": {
+  "label": "AI feedback plus textbook links vs textbook links only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\thuman-written feedback": {
+  "label": "AI-generated feedback vs human-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\tretrieved relevant slide feedback": {
+  "label": "AI-generated feedback vs retrieved relevant-slide feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback plus textbook links\tcorrect/incorrect feedback only": {
+  "label": "AI-generated feedback plus textbook links vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated personalized feedback\tcorrectness-only feedback": {
+  "label": "AI-generated personalized feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated personalized feedback with optional textbook links\tcorrectness-only feedback": {
+  "label": "AI-generated personalized feedback with optional textbook links vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated textual feedback\thuman-written feedback": {
+  "label": "AI-generated textual feedback vs human-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEN → EN hint-generation strategy\tEN → EN → L hint-generation strategy": {
+  "label": "English-to-English hints (EN→EN) vs translated English-to-English hints (EN→EN→L)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEN → EN hint-generation strategy\tthe other three hint-generation strategies": {
+  "label": "English-to-English hints (EN→EN) vs other hint-generation strategies",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish hints (EN→EN)\tnative-language or translated hints": {
+  "label": "English hints vs native-language or translated hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish tutor prompt and English hint (EN→EN)\ttranslated or native-language hint-generation strategies": {
+  "label": "English tutor prompt and English hint (EN→EN) vs translated or native-language hint-generation strategies",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish-language hints\tnative-language hints": {
+  "label": "English-language hints vs native-language hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish-to-English hints (EN→EN)\tEnglish-to-English hints translated into the exercise language (EN→EN→L)": {
+  "label": "English-to-English hints (EN→EN) vs translated English-to-English hints (EN→EN→L)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish-to-English hints (EN→EN)\tEnglish-to-native hints (EN→L)": {
+  "label": "English-to-English hints (EN→EN) vs English-to-native hints (EN→L)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tEnglish-to-English hints (EN→EN)\tnative-to-native hints (L→L)": {
+  "label": "English-to-English hints (EN→EN) vs native-to-native hints (L→L)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGAI-generated heuristic solution hints\tno recommendations": {
+  "label": "AI-generated heuristic solution hints vs no recommendations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-generated explanatory feedback\tnot helpful or incorrect feedback ratings": {
+  "label": "LLM-generated explanatory feedback vs unhelpful or incorrect feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tchallenging feedback\tneutral feedback": {
+  "label": "challenging feedback vs neutral feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tchallenging feedback\tsupportive feedback": {
+  "label": "challenging feedback vs supportive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcombined AI feedback plus relevant slide\thuman-written feedback": {
+  "label": "combined AI feedback plus relevant slide vs human-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcompulsory AI-generated heuristic solution hints\tno recommendations": {
+  "label": "compulsory AI-generated heuristic solution hints vs no recommendations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcompulsory conventional workbook answers and explanations\tno recommendations": {
+  "label": "conventional workbook answers and explanations vs no recommendations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tconventional workbook answers and explanations\tno recommendations": {
+  "label": "conventional workbook answers and explanations vs no recommendations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tevaluating praise quality\tevaluating responses to student math errors": {
+  "label": "evaluating praise quality vs evaluating responses to student math errors",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback for Lack of Necessary Mathematical Concepts errors\tfeedback for Calculation Errors": {
+  "label": "feedback for lack-of-necessary-mathematical-concepts errors vs feedback for calculation errors",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback tone × question difficulty\tno tone × difficulty interaction": {
+  "label": "feedback-tone-by-question-difficulty interaction vs no tone-by-difficulty interaction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfull explainable LAD with Visual, Explainable, and Interactive layers\tvisual-only LAD": {
+  "label": "full explainable LAD with visual, explainable, and interactive layers vs visual-only LAD",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmodel-generated feedback\tideal helpfulness score of 3": {
+  "label": "model-generated feedback vs ideal helpfulness score of 3",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnative-language hints (L→L)\tEnglish hints or translated hints": {
+  "label": "native-language hints (L→L) vs English or translated hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\tneutral feedback\tchallenging feedback": {
+  "label": "challenging feedback vs neutral feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tneutral feedback\tsupportive feedback": {
+  "label": "supportive feedback vs neutral feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tneutral tone at hard difficulty\tchallenging tone at hard difficulty": {
+  "label": "challenging tone at hard difficulty vs neutral tone at hard difficulty",
+  "treatment_is_a": false
+ },
+ "feedback-type\trelevant retrieved lecture slide included\tno relevant slide included": {
+  "label": "relevant retrieved lecture slide included vs no relevant slide included",
+  "treatment_is_a": true
+ },
+ "feedback-type\trelevant slide page feedback\thuman-written feedback": {
+  "label": "relevant slide-page feedback vs human-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsupportive tone across easy to hard difficulty\tchallenging tone across easy to hard difficulty": {
+  "label": "challenging tone across easy-to-hard difficulty vs supportive tone across easy-to-hard difficulty",
+  "treatment_is_a": false
+ },
+ "feedback-type\tsupportive tone at hard difficulty\tchallenging tone at hard difficulty": {
+  "label": "challenging tone at hard difficulty vs supportive tone at hard difficulty",
+  "treatment_is_a": false
+ },
+ "feedback-type\tsupportive tone at hard difficulty\tneutral tone at hard difficulty": {
+  "label": "supportive tone at hard difficulty vs neutral tone at hard difficulty",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttextbook links\tcorrectness-only feedback": {
+  "label": "textbook links vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttextbook-linked, AI-generated, or combined feedback\tcorrectness-only feedback": {
+  "label": "textbook-linked, AI-generated, or combined feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tworkbook conventional-answer recommendations\tno recommendations": {
+  "label": "conventional workbook-answer recommendations vs no recommendations",
+  "treatment_is_a": true
+ },
+ "gamification\tParticle Builder lesson and game\tpre-lesson test": {
+  "label": "gamified lesson/game vs pre-lesson test",
+  "treatment_is_a": true
+ },
+ "gamification\tParticle Builder lesson and game\tregular classroom lessons": {
+  "label": "gamified lesson/game vs traditional classroom lessons",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified VR rehabilitation exercises\ttraditional physical therapy exercises": {
+  "label": "gamified VR rehabilitation exercises vs traditional physical therapy exercises",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified VR rehabilitation exercises\ttraditional repetitive physical therapy exercises": {
+  "label": "gamified VR rehabilitation exercises vs traditional physical therapy exercises",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Particle Builder\tpretest before playing": {
+  "label": "gamified lesson/game vs pre-lesson test",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Particle Builder\ttraditional classroom lessons": {
+  "label": "gamified lesson/game vs traditional classroom lessons",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tQuILT participation\tnon-QuILT participation": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tQuantum Interactive Learning Tutorial (QuILT)\tpretest after traditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry QuILT with peer collaboration and scaffolding\ttraditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry QuILT with small-group work\ttraditional lecture-based instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tstudents who worked on the QuILT\tstudents who did not work on the QuILT": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t'see' quantum mechanics in real life\tother listed learning goals": {
+  "label": "see quantum mechanics in real life vs other learning goals",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning group\tControl group": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning group\tControl group without feedback": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning group with feedback and retakes below 80%\tControl group without formative-assessment feedback or required retakes": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning modules\tControl modules": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning with feedback and corrective retakes\tControl condition": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning with feedback and corrective retakes\tControl condition without feedback after formative assessment": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning with feedback and corrective retakes to an 80% criterion\tControl condition without feedback after formative assessment and without required retakes": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMastery Learning with formative-assessment feedback and retakes below 80%\tControl condition without formative-assessment feedback or required retakes": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning\tcontrol condition": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning with feedback and corrective retakes\tcontrol condition without feedback or retakes": {
+  "label": "mastery learning vs conventional instruction/control",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tsecond formative-assessment attempt after feedback and review\tinitial low-scoring formative-assessment attempt": {
+  "label": "corrective retake after feedback and review vs initial attempt without corrective retake",
+  "treatment_is_a": true
+ },
+ "media-design\t16 hours of Quantum pictorialism instruction\tnot stated": {
+  "label": "Quantum pictorialism instruction vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated bias-label visualizations during training\tNo-label control condition": {
+  "label": "AI-generated bias-label visualizations vs no-label control",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated sentence bias highlights\tunmarked control condition": {
+  "label": "AI-generated sentence bias highlights vs unmarked control",
+  "treatment_is_a": true
+ },
+ "media-design\tDN plus DCN visualization\tDN without DCN visualization": {
+  "label": "DCN visualization with DN vs DN without DCN visualization",
+  "treatment_is_a": true
+ },
+ "media-design\tDN with DCN visualization\tDN without visualization": {
+  "label": "DCN visualization with DN vs DN without visualization",
+  "treatment_is_a": true
+ },
+ "media-design\tDirac Notation with Dimensional Circle Notation visualization\tDirac Notation without visualization": {
+  "label": "Dimensional Circle Notation visualization with Dirac Notation vs Dirac Notation without visualization",
+  "treatment_is_a": true
+ },
+ "media-design\tHuman bias-label visualizations during training\tNo-label control condition": {
+  "label": "Human-generated bias-label visualizations vs no-label control",
+  "treatment_is_a": true
+ },
+ "media-design\tHuman-annotated bias labels\tAI-generated bias labels": {
+  "label": "Human-annotated bias labels vs AI-generated bias labels",
+  "treatment_is_a": true
+ },
+ "media-design\tHuman-annotated sentence bias highlights\tunmarked control condition": {
+  "label": "Human-annotated sentence bias highlights vs unmarked control",
+  "treatment_is_a": true
+ },
+ "media-design\tHuman-labelled bias visualizations\tcontrol without media-bias training": {
+  "label": "Human-labelled bias visualizations vs no media-bias training",
+  "treatment_is_a": true
+ },
+ "media-design\tVR tours featuring discovery of new places\tVR tours without discovery of new places": {
+  "label": "VR tours with discovery of new places vs VR tours without discovery",
+  "treatment_is_a": true
+ },
+ "media-design\tVR tours with beautiful scenery\tVR tours with less appealing scenery": {
+  "label": "VR tours with beautiful scenery vs VR tours with less appealing scenery",
+  "treatment_is_a": true
+ },
+ "media-design\tadvanced biased-sentence labels with biased-phrase labels\tcontrol with no sentence or phrase labels": {
+  "label": "Advanced sentence and phrase bias labels vs no sentence or phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tadvanced biased-sentence labels with no biased-phrase labels\tcontrol with no sentence or phrase labels": {
+  "label": "Advanced sentence-only bias labels vs no sentence or phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tbiased phrase labels during training\tno biased phrase labels during training": {
+  "label": "Biased phrase labels vs no biased phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tbiased phrase labels present\tbiased phrase labels absent": {
+  "label": "Biased phrase labels vs no biased phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tbiased sentence labels\tno biased sentence labels": {
+  "label": "Biased sentence labels vs no biased sentence labels",
+  "treatment_is_a": true
+ },
+ "media-design\tbiased sentence labels during training\tno biased sentence labels during training": {
+  "label": "Biased sentence labels vs no biased sentence labels",
+  "treatment_is_a": true
+ },
+ "media-design\tcoin metaphor for superposition\tfour other superposition metaphors": {
+  "label": "Coin metaphor for superposition vs other superposition metaphors",
+  "treatment_is_a": true
+ },
+ "media-design\tdice metaphor for entanglement\tfour other entanglement metaphors": {
+  "label": "Dice metaphor for entanglement vs other entanglement metaphors",
+  "treatment_is_a": true
+ },
+ "media-design\tmetaphorical quantum explanation\tnon-metaphorical quantum explanation": {
+  "label": "Metaphorical quantum explanation vs non-metaphorical quantum explanation",
+  "treatment_is_a": true
+ },
+ "media-design\tpoliticized phrases highlighted with a dotted underline and political-direction information shown in an Analysis Bar\tno politicized-phrase labels": {
+  "label": "Politicized-phrase labels with political-direction information vs no politicized-phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tsimple biased-sentence labels with biased-phrase labels\tcontrol with no sentence or phrase labels": {
+  "label": "Simple sentence and phrase bias labels vs no sentence or phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tsimple biased-sentence labels with no biased-phrase labels\tcontrol with no sentence or phrase labels": {
+  "label": "Simple sentence-only bias labels vs no sentence or phrase labels",
+  "treatment_is_a": true
+ },
+ "media-design\tunmarked test sentences on new topics after visualization training\tmarked training sentences": {
+  "label": "Unmarked test sentences on new topics vs marked training sentences",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual communication in the proposed learning activity\tnon-visual or traditional instructional presentation": {
+  "label": "Visual communication vs non-visual or traditional presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual learning approach\tnon-visual instructional approach": {
+  "label": "Visual learning approach vs non-visual instructional approach",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual-based, physics-free GKP introduction\ttraditional text-and-formula-based introduction geared toward physicists": {
+  "label": "Visual-based, physics-free GKP introduction vs text-and-formula-based physicist-oriented introduction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater trials in the feedback group\tearlier trials in the feedback group": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater trials in the no-feedback group\tearlier trials in the no-feedback group": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tEnglish-only student instructions\tstudent instructions in the exercise's native language": {
+  "label": "English-only student instructions vs native-language student instructions",
+  "treatment_is_a": true
+ },
+ "prompts\tEnglish-only student prompting\tmultilingual student prompting": {
+  "label": "English-only student prompting vs multilingual student prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o chain-of-thought prompting\tGPT-4o general prompting": {
+  "label": "Chain-of-thought/rationale prompting vs prompting without rationale",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o single-shot chain-of-thought prompting\tGPT-4o chain-of-thought prompting": {
+  "label": "Single-shot chain-of-thought prompting vs chain-of-thought prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o with different prompting techniques\tGPT-4o under other prompting conditions": {
+  "label": "One prompting technique vs another prompting technique",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o with different prompting techniques\tGPT-4o with alternative prompting techniques": {
+  "label": "One prompting technique vs another prompting technique",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o with prompting techniques\tother GPT-4o prompting setups": {
+  "label": "One prompting technique vs another prompting technique",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o with varying prompting techniques\tGPT-4o under other prompting conditions": {
+  "label": "One prompting technique vs another prompting technique",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4o with varying prompting techniques\tGPT-4o with other prompting techniques": {
+  "label": "One prompting technique vs another prompting technique",
+  "treatment_is_a": true
+ },
+ "prompts\tStructured AI-use documentation and reflection\tearlier, less strategic AI interaction": {
+  "label": "Structured AI-use documentation and critical reflection vs unstructured or less strategic AI use",
+  "treatment_is_a": true
+ },
+ "prompts\tchain-of-thought prompting\tprompting without chain-of-thought rationale": {
+  "label": "Chain-of-thought/rationale prompting vs prompting without rationale",
+  "treatment_is_a": true
+ },
+ "prompts\tcorrect-answer suggestion prompt\tcontrol prompt": {
+  "label": "Correct-answer suggestion prompt vs control prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tflip to a user-suggested answer\tflip away from a user-suggested answer": {
+  "label": "Flipping toward a user-suggested answer vs flipping away from a user-suggested answer",
+  "treatment_is_a": true
+ },
+ "prompts\tincorrect-answer suggestion prompt\tcontrol prompt": {
+  "label": "Incorrect-answer suggestion prompt vs control prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted large-v2 E2E model\tnon-prompted large-v2 E2E model": {
+  "label": "Prompted model vs non-prompted model",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted textbook references\ttraditional reading compliance rates": {
+  "label": "Prompted textbook references vs traditional reading compliance",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting without rationale\tchain-of-thought or rationale prompting": {
+  "label": "Chain-of-thought/rationale prompting vs prompting without rationale",
+  "treatment_is_a": false
+ },
+ "prompts\treflection and explanation prompts about AI use and prompt design\tpassive requests for AI explanations": {
+  "label": "Reflective and explanatory prompting about AI use and prompt design vs passive requests for AI explanations",
+  "treatment_is_a": true
+ },
+ "prompts\treflection on how and why students use generative AI\tless reflective or shortcut-oriented AI use": {
+  "label": "Structured AI-use documentation and critical reflection vs unstructured or less strategic AI use",
+  "treatment_is_a": true
+ },
+ "prompts\treflection prompts and question-oriented AI prompting\tpassive requests for the AI to explain or solve a problem": {
+  "label": "Reflective and question-oriented prompting vs passive requests for AI explanations or solutions",
+  "treatment_is_a": true
+ },
+ "prompts\trequired confidence ratings and explanations in practice exams\tno access to the practice-exam tool in later courses": {
+  "label": "Confidence-rating and explanation prompts in practice exams vs no such practice-exam prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured AI-use documentation and critical-reflection prompts\tearlier-semester LLM use before students developed verification workflows": {
+  "label": "Structured AI-use documentation and critical reflection vs unstructured or less strategic AI use",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tLLM-generated MCQ retrieval practice\tno retrieval practice; independent restudy": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tLLM-generated MCQ retrieval practice with immediate feedback\tno retrieval practice; independent review and restudy": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tLLM-generated MCQs as retrieval practice with immediate feedback\tno retrieval practice; independent review and restudy": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tLLM-generated multiple-choice retrieval practice questions\tno retrieval practice": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGuided Parsons problems (GPPs)\tControl training with worked examples or problem solving": {
+  "label": "Guided Parsons problems vs worked examples or problem-solving practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGuided Parsons problems with step-specific hints\tworked examples or problem-solving problems": {
+  "label": "Guided Parsons problems with step-specific hints vs worked examples or problem-solving practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGuided Parsons problems with subgoals and step-specific hints\tControl training with worked examples or problem solving": {
+  "label": "Guided Parsons problems with subgoals and step-specific hints vs worked examples or problem-solving practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpedagogical-enhanced dialogue model\tbase dialogue model": {
+  "label": "Pedagogically enhanced dialogue model vs base dialogue model",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttutorials, breakout groups, coding challenges, and report-outs\tseparate-campus measurement and coding attempts without a unifying framework": {
+  "label": "Unified framework integrating tutorials, breakout groups, coding challenges, and report-outs vs separate unconnected activities",
+  "treatment_is_a": true
+ },
+ "scaffolding\tup to five L→L hint iterations\tone or fewer hint iterations": {
+  "label": "Multiple iterative hint opportunities vs one or fewer hint opportunities",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplaining physics to outreach audiences\tstudents' understanding before outreach": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tSOPHIE interactive practice with personalized feedback\twritten module covering MVP and 3E communication skills": {
+  "label": "interactive simulation practice vs written materials",
+  "treatment_is_a": true
+ },
+ "simulation\tSOPHIE interactive practice with personalized feedback\twritten study materials covering the same communication content": {
+  "label": "interactive simulation practice vs written materials",
+  "treatment_is_a": true
+ },
+ "simulation\tSOPHIE interactive virtual-patient practice with personalized feedback\twritten materials on MVP and the 3E skills": {
+  "label": "interactive simulation practice vs written materials",
+  "treatment_is_a": true
+ },
+ "simulation\taccess to online pre-lab simulation\tlearning only in a physical lab": {
+  "label": "online pre-lab simulation vs physical lab learning",
+  "treatment_is_a": true
+ },
+ "simulation\tone-day quantum business-simulation workshop\tpre-workshop self-assessment": {
+  "label": "business simulation workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tone-day workshop using a business simulation game\texpectations not met": {
+  "label": "business simulation workshop vs unmet expectations",
+  "treatment_is_a": true
+ },
+ "simulation\tone-day workshop using a business simulation game\tparticipants’ pre-workshop self-assessed knowledge": {
+  "label": "business simulation workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tonline pre-lab simulation\tonly physical lab learning": {
+  "label": "online pre-lab simulation vs physical lab learning",
+  "treatment_is_a": true
+ },
+ "simulation\tonline pre-lab simulation\tphysical laboratory learning only": {
+  "label": "online pre-lab simulation vs physical lab learning",
+  "treatment_is_a": true
+ },
+ "simulation\tweb-based interactive physics simulations\tphysical experiments": {
+  "label": "web-based interactive simulations vs physical experiments",
+  "treatment_is_a": true
+ },
+ "technology-tool\t14B Phi4 model\tnot stated": {
+  "label": "Phi-4 14B model vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "test-format\tasynchronous online collaborative exam via Zoom\tasynchronous in-person collaborative exam": {
+  "label": "online vs in-person collaborative exam",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice questions\tlong-answer questions": {
+  "label": "multiple-choice vs long-answer questions",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice retention question\tfree-response Q1": {
+  "label": "multiple-choice vs free-response questions",
+  "treatment_is_a": true
+ },
+ "test-format\tthree candidate meanings\tsix candidate meanings": {
+  "label": "fewer vs more candidate meanings",
+  "treatment_is_a": true
  }
 }

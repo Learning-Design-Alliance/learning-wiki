@@ -70,3 +70,4 @@ Non-inferiority and equivalence analyses within the same quasi-experimental desi
 - [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related
 - [No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage](no-knowledge-gain-transfer-difference-genai.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
+- [Learning scores in all four feedback conditions (human, slide, AI, combined) rose significantly from pre-test to post-test within each condition (p < 0.05)](slideitright-significant-gains-all-conditions.md) — related

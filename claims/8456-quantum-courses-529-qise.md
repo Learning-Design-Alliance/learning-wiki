@@ -68,3 +68,5 @@ Descriptive categorization of the same catalog dataset into dedicated QISE cours
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [One-third of sampled institutions offer no course mentioning quantum, with significant differences by Carnegie classification and MSI status](one-third-institutions-no-quantum-courses.md) — related
 - [Only 18 identified lab courses contain QISE-relevant experiments, concentrated at PhD-granting institutions](few-qise-lab-courses.md) — related
+- [Electrical and Computer Engineering offers the most quantum and QISE coursework among engineering subdisciplines](ece-leads-engineering-quantum-coursework.md) — related
+- [Nearly half of engineering courses covering QISE topics are not QISE-specific courses](qise-topics-spread-beyond-dedicated-courses.md) — related

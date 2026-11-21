@@ -54,3 +54,4 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related
 - [Alignment of LLM recommendations with individual student data showed more variability than clarity or actionability ratings](llm-recommendation-alignment-variable.md) — related
 - [Validators rated LLM-generated personalized recommendations as generally clear and actionable for most of the eight evaluated students](llm-recommendations-rated-clear-actionable.md) — related
+- [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related

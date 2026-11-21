@@ -49,3 +49,4 @@ GLMM on day-1 learning performance in the laboratory experiment (N = 60) with fe
 - [In the laboratory experiment, withdrawing feedback in the second half of learning significantly lowered next-day recognition of congruent word meanings, while adding feedback later did not impair recognition](exp1-feedback-removal-lowers-congruent-recognition.md) — related
 - [In the laboratory experiment, next-day recognition was higher for congruent new-word meanings than for incongruent items, while day-1 performance showed the opposite pattern](exp1-recognition-congruent-over-incongruent.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
+- [Accuracy improves over trials only for participants receiving immediate feedback](trial-order-learning-feedback-group.md) — related

@@ -45,4 +45,4 @@ HLM concept-inventory model (model 2) over the cleaned pre-post sample; the tabl
 
 
 ## Related Claims
--
+- [Model accuracy depends strongly on the concept inventory, with BEMA (66.7%) and TUG-K (64.4%) averages higher than QMVI (44.4%) and FTGOT (35.1%)](mllm-accuracy-varies-by-concept-inventory.md) — related

@@ -92,3 +92,4 @@ The article's cost derivation at the 2024 average US residential electricity pri
 - [An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs](elevate-prototype-near-real-time-consumer-hardware.md) — related
 - [NF4 4-bit quantization reduces VRAM usage by 38.7% for Qwen-7B and 37.9% for DeepSeek-MoE while maintaining practical response times](nf4-quantization-vram-reduction.md) — related
 - [BM25-based recipe similarity computation runs in real time, averaging 0.8 seconds (sigma 0.1) in the worst case of 100,000 comparisons.](relex-bm25-real-time-similarity.md) — related
+- [Practical on-device LLM deployment is limited to roughly 4-billion-parameter models because memory grows nearly linearly and generation speed drops sharply beyond that size](on-device-deployment-limited-4b-parameters.md) — reports the opposite

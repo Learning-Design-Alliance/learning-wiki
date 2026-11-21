@@ -43,6 +43,7 @@ The article's implications section recommends that because text-based interactio
 - [Text Based Discussion Protocols](text-based-discussion-protocols.md)
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 - [Provide a manageable, easy-to-use e-learning offer and enable prompt practical application in small groups with instructor feedback](manageable-elearning-prompt-small-group-practice-strategy.md)
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

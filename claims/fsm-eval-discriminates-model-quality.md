@@ -73,3 +73,4 @@ Same discriminative-power analysis (RQ2, Fig. 4) reporting that interaction qual
 - [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related
 - [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related
+- [Cost and performance are correlated but not proportional: GPT-5 mini scored 75% at $0.26 while Claude Opus 4 underperformed at 57.0% despite high cost](mllm-cost-performance-not-proportional.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 522 claims (251 for, 241 mixed, 30 against) · 283 studies (137 causal, 63 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 94 of 283 report an effect size · 515 claims rest on one study
+> **Evidence** · 523 claims (252 for, 241 mixed, 30 against) · 284 studies (137 causal, 63 associational, 34 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 94 of 284 report an effect size · 516 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -566,6 +566,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](../claims/immersive-vr-no-advantage-exp2.md) [~W] — attached 2026-11-20 from Benjamin A. Clegg et al. (2022), which proposed "Multimedia heuristic account: rich media uniformly inflate perceptions of learning, dissociated from outcomes"; tests this page's relationship.
 - [Metacognitive awareness was positively and significantly associated with performance in object-oriented programming (γ1 = 0.21, p < 0.05) in second introductory programming students](../claims/metacognitive-awareness-positive-effect-oop-performance.md) [+W] — attached 2026-11-20 from Bostjan Bubnic et al. (2024), which proposed "Two-dimensional metacognition model: off-line metacognitive awareness and on-line metacognitive behavior"; tests this page's relationship.
 - [Metacognitive behavior has a strong positive effect on object-oriented programming performance (γ2 = 0.52, p < 0.001), explaining 27% of variance](../claims/metacognitive-behavior-strong-effect-oop-27-percent-variance.md) [+W] — attached 2026-11-20 from Bostjan Bubnic et al. (2024), which proposed "Two-dimensional metacognition model: off-line metacognitive awareness and on-line metacognitive behavior"; tests this page's relationship.
+- [Interviewed faculty flexibly moved between conceptual and quantitative reasoning, checking intuition with approximations, estimations and calculations](../claims/faculty-flexible-conceptual-quantitative-reasoning.md) [+W] — attached 2026-11-21 from Alexandru Maries et al. (2023), which proposed "Thinking like a physicist: flexible, metacognitive problem-solving with self-scaffolding".
 
 ## The evidence by question
 

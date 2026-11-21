@@ -48,3 +48,4 @@ Algorithm comparison reported in the ML-Based Rubric methods section: the author
 ## Related Claims
 - [HDBSCAN clustering of BERT embeddings yielded fifteen clusters capturing the content and complexity of students' mechanistic reasoning](hdbscan-clusters-capture-reasoning-content-and-complexity.md) — related
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](ml-and-research-informed-rubrics-assess-comparably.md) — related
+- [A hybrid K-Means/HDBSCAN clustering method outperforms K-Means and HDBSCAN alone on silhouette score and Davies-Bouldin Index for physics strategy essays](hybrid-clustering-outperforms-kmeans-hdbscan-essays.md) — related

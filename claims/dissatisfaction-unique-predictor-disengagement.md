@@ -49,3 +49,4 @@ Test of the hypothesized multilevel SEM (LISREL 8.8) with 10 latent variables; t
 - [The autonomy-supportive intervention program increased students' classroom engagement and decreased their disengagement over the semester](asip-improved-engagement-disengagement.md) — related
 - Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution) — related
 - [Focus groups identified lengthy pre-reading material as the predominant driver of learner dissatisfaction and disengagement with TBL.](tbl-pre-reading-burden-dissatisfaction.md) — related
+- [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](sd-baseline-exponential-growth-positive-constructs.md) — related

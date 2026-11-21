@@ -61,3 +61,4 @@ A survey of Academy graduates described in the practitioner article found 100 pe
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
 - [All surveyed teachers reported significant or very significant student learning outcomes and would recommend the project](airbit-teacher-reported-outcomes.md) — related
 - [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
+- [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related

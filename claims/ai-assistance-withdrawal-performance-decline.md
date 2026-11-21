@@ -54,3 +54,4 @@ The paper attributes to Darvishi et al. the finding that "When AI assistance is 
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
 - [Learners often fail to regulate their own learning in computer-based learning environments](learners-fail-self-regulation-in-cbles.md) — a broader claim this one bears on
+- [In Experiment 2, autonomy declined among lower achievers exposed to on-demand AI help (d = -0.383), especially in the technical-psychological dimension (d = -0.549)](on-demand-ai-help-lowers-low-achiever-autonomy.md) — a narrower finding that bears on this claim

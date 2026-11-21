@@ -76,3 +76,4 @@ OLS regression comparing scaffolded novices to baseline LLM novices with a treat
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](high-teaching-guidance-larger-concept-map-effects.md) — related
 - [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](non-mapping-students-concentrated-more-on-identification.md) — related
+- [Lower-performing students (bottom 20% on initial practice exams) showed a marginally non-significant trend favoring combined AI + textbook feedback over baseline](combined-feedback-trend-low-performing-students.md) — related

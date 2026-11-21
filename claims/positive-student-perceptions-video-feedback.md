@@ -70,3 +70,4 @@ End-of-semester survey using a 5-point Likert scale (1 = strongly disagree to 5 
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Medical laboratory science students recorded performing histology techniques and reviewing the video with expert feedback achieved significantly higher summative practical examination scores and final grades than control students receiving peer feedback](video-feedback-higher-practical-scores-final-grades.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
+- [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related

@@ -53,3 +53,4 @@ Classification accuracy analysis of the 40 human-written papers (ground truth = 
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — reports the opposite
 - [Among five AI-detection tools, ZeroGPT was most accurate at 98% with precision 1.00 on binary classification](zerogpt-best-ai-detector-98-accuracy.md) — related
+- [Immediate per-trial feedback improves accuracy in distinguishing human-written from AI-generated texts](feedback-improves-ai-text-detection-accuracy.md) — related

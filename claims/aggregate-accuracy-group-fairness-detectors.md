@@ -66,3 +66,5 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — a narrower finding that bears on this claim
 - [Instructors and teaching assistants detect AI-generated code with only 69% accuracy and a 22% false positive rate, with large variability between raters](instructor-ai-detection-insufficient.md) — related
+- [GPTZero misclassified 8 of 50 human-written essays as AI, a 16% false positive rate](gptzero-false-positives-human-essays-16-percent.md) — related
+- [Participants misjudge readability, treating more readable texts as human-written; feedback partially corrects this misconception](readability-misattribution-ai-texts.md) — related

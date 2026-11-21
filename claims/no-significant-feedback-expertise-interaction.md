@@ -50,3 +50,4 @@ Mixed-effects model with hint type × student level interaction on log time to s
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — related
 - [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
+- [Receiving LLM feedback did not significantly increase lesson completion time](llm-feedback-no-completion-time-cost.md) — related

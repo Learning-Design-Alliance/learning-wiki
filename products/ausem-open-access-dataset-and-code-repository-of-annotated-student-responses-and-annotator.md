@@ -27,4 +27,4 @@ AuSeM is a GitHub-released dataset of manually annotated introductory-physics st
 -
 
 ## Key Sources
-- Gili, Heuton, Shah, Hammer, and Hughes. (2025). Combining physics education and machine learning research to measure evidence of students' mechanistic sensemaking. arXiv. https://arxiv.org/abs/2503.15638
+- Gili, Heuton, Shah, Hammer, and Hughes. (2025). Combining physics education and machine learning research to measure evidence of students' mechanistic sensemaking. arXiv. https://arxiv.org/abs/2503.15638. [doi:10.1103/v6gw-lv4c](https://doi.org/10.1103/v6gw-lv4c)

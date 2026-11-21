@@ -57,3 +57,4 @@ Randomized controlled trial in which 81 undergraduate students were randomly ass
 - [All four instructional quality dimensions (ILEQ, IIFQ, FSQ, ASA) significantly and positively predict Dual Empowerment in VR-based welding training](instructional-quality-dimensions-predict-dual-empowerment.md) — related
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
 - [Feedback-based pedagogy significantly improves knowledge mastery in nanomedicine education compared to traditional didactic instruction](feedback-pedagogy-improves-nanomedicine-knowledge-mastery.md) — related
+- [ChatGPT and Google groups significantly outperformed the control group on the immediate knowing-and-understanding (Task 1) assessment](chatgpt-google-outperform-control-task1-assessment.md) — related

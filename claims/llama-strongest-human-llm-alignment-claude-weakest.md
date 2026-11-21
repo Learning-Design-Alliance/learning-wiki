@@ -54,3 +54,4 @@ Human-LLM alignment analysis (Pearson r, MAE, Bland-Altman bias) of five LLMs ag
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](llm-grading-moderate-human-agreement-icc.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
 - [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related
+- [Claude-3.7-Sonnet LLM grading preserved student performance rankings relative to human graders (R² = 0.83) while being systematically more stringent](claude-llm-grading-rank-preservation.md) — reports the opposite

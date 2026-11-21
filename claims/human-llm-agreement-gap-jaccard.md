@@ -115,3 +115,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related
 - [Expert evaluators assessed Tutorly's prompt-pipeline controllability by annotating 277 dialogue messages against a hierarchical intent label scheme across three video topics](tutorly-controllability-277-messages.md) — related
 - [Gemini-1.5-flash and Coral were the most semantically consistent across repeated prompts, and ChatGPT4.0 the most lexically consistent by cosine similarity](llm-response-similarity-measures.md) — related
+- [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related

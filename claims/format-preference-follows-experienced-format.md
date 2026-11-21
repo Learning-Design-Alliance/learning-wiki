@@ -73,3 +73,4 @@ Descriptive comparison of preferred formats across the two randomized groups (Fi
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — reports the opposite
 - [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](face-to-face-more-favorable-perceptions-gbl.md) — related
+- [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related

@@ -56,3 +56,4 @@ Exit questionnaires with 15 closed questions on cognitive and affective states (
 - [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related
 - [Most participating clinicians rated the virtual patient as better than paper cases for training](vp-rated-better-than-paper-cases.md) — related
 - [Participants reported the case study format and small-group interaction were effective and engaging for learning RAI concepts](case-study-format-engagement-effectiveness.md) — related
+- [Expectations of the vast majority of workshop participants were met to a large extent or completely](quantum-workshop-expectations-met.md) — related

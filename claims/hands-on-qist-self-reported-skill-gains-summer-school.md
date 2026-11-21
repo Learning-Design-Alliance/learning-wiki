@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-21
 sources:
   - id: singh-2022
     resource: "https://doi.org/10.1119/5.0027661"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Attendees of the 2020 IBM-hosted remote global quantum summer school self-reported an average five-point increase in QIST skill level on a 0-10 scale after the two-week school. [→ Singh 2022](#singh-2022)

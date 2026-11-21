@@ -61,3 +61,4 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Novice programmers perceive CodeTailor's personalized Parsons puzzles as more engaging support than receiving a direct LLM-generated code solution](codetailor-more-engaging-than-ai-solution.md) — a narrower finding that bears on this claim
 - [Posttest programming scores did not differ significantly between CodeTailor support and receiving an AI-generated solution](codetailor-posttest-performance-null.md) — related
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
+- [High-performing students receive more feedback and explanations; low-performing students receive more hints and social-emotional support](singakids-dynamic-scaffolding-user-study.md) — related

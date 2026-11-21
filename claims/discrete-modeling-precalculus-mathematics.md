@@ -48,3 +48,4 @@ In the discrete-solution section the authors assert, for their quasimolecular im
 - [Calculus 3 demand is attributed to a larger step up in mathematical maturity than the first-year sequence requires](calculus-3-demand-step-up-maturity.md) — related
 - [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](ells-recruit-everyday-language-sound-discussion.md) — related
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related
+- [The numerical approximation requires only high-school calculus as prerequisite, with the main barrier being conceptual (discretized time and iteration) rather than mathematical](numerical-approximation-accessible-prerequisite-conceptual-barrier.md) — related

@@ -54,3 +54,4 @@ Preliminary evaluation: 11 upper-level undergraduates worked through the tutoria
 - [Upper-level undergraduates' average scores rose from 56% on the pretest to 91% on the posttest after working through the QKD QuILT](quilt-qkd-prepost-average-score-improvement.md) — related
 - [Working through the Mach-Zehnder interferometer QuILT improved average performance from 48% to 83%, with all but one of 12 students earning perfect scores on three polarizer questions](quilt-mach-zehnder-pre-post-gain.md) — related
 - [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related
+- [The QuILT on representations of quantum states produces large learning gains: average normalized gain 0.75 for undergraduates and 0.76 for Ph.D. students, with Cohen's d of 1.6 and 0.60 respectively](quilt-effectiveness-quantum-state-representations.md) — related

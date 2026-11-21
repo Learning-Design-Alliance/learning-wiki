@@ -58,3 +58,4 @@ Descriptive satisfaction results from the pooled feedback of 489 student respons
 - [Students rated the course and its feedback highly, and most felt expectations were fulfilled](high-satisfaction-and-constructive-feedback-ratings.md) — related
 - [97.9% of students reported the near-peer revision program positively influenced their OSCE preparation](near-peer-revision-positive-influence-osce-preparation.md) — related
 - [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
+- [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related

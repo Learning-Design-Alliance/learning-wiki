@@ -48,3 +48,4 @@ Correlational analysis of the cross-over study (Figures 6 and 7): "a moderate po
 - [Group exam scores are significantly higher than individual exam scores in a large-enrollment introductory biology course](collaborative-exams-higher-scores-than-individual.md) — related
 - [The effect of collaborative testing on retention does not differ across achievement levels from A to F letter grades](no-format-effect-any-letter-grade.md) — related
 - [Collaborative testing did not improve retention of course material measured by cumulative questions on subsequent exams](collaborative-testing-no-retention-gain.md) — related
+- [Students' scores rose from the individual exam stage to the collaborative exam stage across standard, asynchronous online, and asynchronous in-person formats in one uncontrolled pre-post study](collab-stage-higher-scores.md) — related

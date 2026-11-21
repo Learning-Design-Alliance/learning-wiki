@@ -98,3 +98,4 @@ The full fine-tuned BERT model was fit to held-out test data (20% of the dataset
 - [A BERT-based model grades reflective level in English and German essays with a quadratic weighted kappa of 0.71](papagai-bert-reflective-level-qwk-071.md) — related
 - [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — related
 - [A fine-tuned BERT encoder achieves the best agreement with human coding (AUROC 0.916) among three encoder variants on held-out student responses to the same four problems](bert-finetuned-best-auroc-sensemaking.md) — related
+- [Transformer-based models outperformed traditional machine learning models for detecting CPS classes, with higher performance in the affective than the social-cognitive dimension](transformer-models-outperform-traditional-cps-detection.md) — related

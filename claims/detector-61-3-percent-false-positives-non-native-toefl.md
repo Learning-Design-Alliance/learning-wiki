@@ -71,3 +71,4 @@ The review reports Liang et al.'s controlled benchmark of seven detectors on aut
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — a narrower finding that bears on this claim
+- [GPTZero misclassified 8 of 50 human-written essays as AI, a 16% false positive rate](gptzero-false-positives-human-essays-16-percent.md) — related

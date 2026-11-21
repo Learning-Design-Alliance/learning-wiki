@@ -47,4 +47,4 @@ A concrete revision recipe: create an outline, write a quick complete draft, the
 -
 
 ## Key Sources
-- Knapen, J. H., Boffin, H. M. J., Chamba, N., Chamba, N. (2025). How to write competitive proposals and job applications. https://arxiv.org/abs/2504.01645
+- Knapen, J. H., Boffin, H. M. J., Chamba, N., Chamba, N. (2025). How to write competitive proposals and job applications. https://arxiv.org/abs/2504.01645. [doi:10.1038/s41550-025-02593-9](https://doi.org/10.1038/s41550-025-02593-9)

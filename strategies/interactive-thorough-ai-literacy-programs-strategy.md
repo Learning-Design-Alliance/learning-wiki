@@ -48,4 +48,4 @@ Based on the null over-reliance effect and the significant under-reliance increa
 -
 
 ## Key Sources
-- Puppart, B., & Aru, J. (2025). A Brief AI Literacy Intervention Does Not Significantly Reduce Over-Reliance and Increases Under-Reliance on ChatGPT: A Randomized Study. University of Tartu. https://www.google.com/search?q=%22A+Brief+AI+Literacy+Intervention%22+Puppart+Aru+randomized+study
+- Puppart, B., & Aru, J. (2025). A Brief AI Literacy Intervention Does Not Significantly Reduce Over-Reliance and Increases Under-Reliance on ChatGPT: A Randomized Study. University of Tartu. https://www.google.com/search?q=%22A+Brief+AI+Literacy+Intervention%22+Puppart+Aru+randomized+study. [doi:10.48550/arxiv.2503.10556](https://doi.org/10.48550/arxiv.2503.10556)

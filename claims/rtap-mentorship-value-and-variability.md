@@ -66,3 +66,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Semester-extension interns were selected by scored factors of mentor input, peer and expert feedback on final presentations, and lecture attendance](semester-extension-selection-scored-factors.md) — related
 - [Intentional teacher groupings with responsive regrouping during in-person PD supported the formation of informal mentorships](intentional-grouping-supports-informal-mentorship.md) — related
 - [REU mentors' expectations for students varied widely, from appropriately scoped projects to tasks mismatched with students' skill levels](reu-mentor-expectations-varied.md) — related
+- [Industry mentors reported learners became comfortable with Python and used ChatGPT as just-in-time support for troubleshooting](mentor-reports-chatgpt-just-in-time-support.md) — related

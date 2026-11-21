@@ -47,3 +47,4 @@ The two-way mixed ANOVA on 60 management students showed significant pre/post im
 ## Related Claims
 - [Post-intervention psychological, cognitive and physiological measures showed uniformly strong positive correlations](post-intervention-measures-correlated-positively.md) — related
 - [Repeated-measures ANOVA shows significant group-by-time interactions for all key physiological, stress, cognitive, well-being, and academic outcomes](anova-group-time-interaction-all-outcomes.md) — related
+- [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — related

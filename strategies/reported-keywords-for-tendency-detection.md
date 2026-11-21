@@ -40,6 +40,7 @@ The article recommends leveraging keywords already reported by original research
 ## Related Strategies
 
 - [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
+- [Use structured query commands for arXiv literature tracing and webpage content extraction](structured-arxiv-webpage-query-commands.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Experiment 2 multilevel regression of curiosity on confidence, feedback conditio
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
+- [Without feedback, participants are most wrong precisely when most confident; feedback restores confidence calibration](feedback-calibrates-confidence-ai-detection.md) — related

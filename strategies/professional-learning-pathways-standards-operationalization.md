@@ -71,6 +71,7 @@ The article recommends embedding the standards into structured professional lear
 - [Provide ongoing, in-depth faculty professional development that targets peer discussion as an essential component of clicker use.](ongoing-pd-for-peer-discussion-clickers.md)
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 - [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

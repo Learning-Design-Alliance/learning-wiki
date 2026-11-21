@@ -47,3 +47,4 @@ Authors' interpretation in the Discussion of the observed decline in the effect 
 ## Related Claims
 - [Social media usage is negatively correlated with academic performance among Ethiopian college students](social-media-use-negatively-correlated-performance.md) — related
 - [Self-testing via answering PeerWise questions showed no significant effect on the molecular biology multiple-choice exam section](no-significant-self-testing-effect-mcq-section.md) — related
+- [Students completing the asynchronous online collaborative exam found it easy to share and collaborate on both multiple-choice and long-answer questions](online-collab-ease-mc-long-answer.md) — related

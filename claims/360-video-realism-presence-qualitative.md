@@ -74,3 +74,4 @@ From the qualitative section on the HMD 360-degree video experience: "Several pa
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
 - [Students report a learning–realism trade-off: branching cases feel more realistic but the linear case was judged the better learning experience](vp-learning-realism-tradeoff.md) — related
 - [Severe start-up difficulties, in which students did not know what to do, occurred exclusively in the computer simulations, while defective equipment problems occurred far more often in real experiments](planlessness-only-in-simulations-defects-only-in-experiments.md) — related
+- [Students rated the platform highly usable and realistic, though only a minority gave realism the highest rating](openphys-ease-realism-ratings.md) — related

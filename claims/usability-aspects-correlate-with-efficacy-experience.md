@@ -52,3 +52,4 @@ Spearman's correlation analysis of the 45-student questionnaire. Table 6 reports
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [User trial participants rated the C3-IoC system positively for usability, with the Job roles map and Job roles overview the highest-rated components](c3-ioc-user-trial-usability-positive.md) — related
 - [Student satisfaction and preference ratings did not correlate significantly with post-test scores](satisfaction-posttest-correlation-null-dental-pilot.md) — related
+- [Outcome measures validated via learning curves and correlations with expert ratings and end-user satisfaction](intent-quality-measures-validated.md) — related

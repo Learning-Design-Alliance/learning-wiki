@@ -51,3 +51,5 @@ RQ3 analysis comparing M3 (CoT + AskBD) with M1 (CoT) in Table 4 across 10 LLMs;
 - [LLM-powered error detectors show a consistent performance gap (conformity bias) between conventional and alternative solutions to math word problems](llm-conformity-bias-mwp-error-detection.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
 - [Adopting AskBD consistently improves overall error detection accuracy on both conventional and alternative solutions](askbd-improves-overall-detection-accuracy.md) — related
+- [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
+- [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related

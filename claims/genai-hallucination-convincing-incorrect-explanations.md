@@ -101,3 +101,5 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [ChatGPT produced incomplete or incorrect solutions for complex DSA topics such as dynamic programming, recursion, and visual representations](chatgpt-dsa-limitations-complex-topics.md) — related
 - [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — a narrower finding that bears on this claim
 - [Providing URLs alone left the MyGPT PHYSBO tutor inaccurate, while uploading official documentation PDFs substantially improved response accuracy](mygpt-pdf-upload-improves-accuracy.md) — a narrower finding that bears on this claim
+- [Text-based GenAI tools produced accurate responses in over 90% of cases on undergraduate textbook-difficulty questions](text-genai-over-90-percent-accurate-textbook-questions.md) — reports the opposite
+- [Video-based GenAI outputs currently lack the scientific precision needed for accurate representations in factually rigorous domains](video-genai-lacks-scientific-precision.md) — related

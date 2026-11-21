@@ -52,6 +52,7 @@ A combined implementation strategy from the workshop's curriculum and equipment 
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
+- [Propose hybrid experiential learning combining virtual and physical laboratories to bridge theory and practice in quantum education](hybrid-virtual-physical-lab-strategy.md)
 
 ## Examples
 -

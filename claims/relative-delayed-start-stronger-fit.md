@@ -52,3 +52,6 @@ Model comparison across Table 2 regressions: relative delayed start effects were
 - [Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects](sensitivity-analysis-cutpoints.md) — related
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](early-starter-chronic-delayer-subgroups.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
+- [Relative delayed start generalizes across systems, predicting grade 7 state test scores in i-Ready data](relative-delayed-start-cross-system-generalizability.md) — related
+- [Relative delayed start is the strongest individual session-level predictor of final math scores, outperforming time on task, attendance, and gaming tendency](relative-delayed-start-strongest-predictor.md) — related
+- [In stepwise combined models, relative delayed start, early stop, and idle time each negatively correlate with final math scores beyond prior performance](stepwise-combined-predictive-models.md) — related

@@ -84,3 +84,4 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
+- [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related

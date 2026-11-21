@@ -54,3 +54,4 @@ Qualitative analysis of interns' anecdotal observations and field notes across t
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
 - [Participating in phenomenon-based discussion appears to bolster ELL students' confidence to contribute despite limited English vocabulary](phenomenon-discussion-bolsters-ell-confidence.md) — related
 - [In 4000- and 7000-level QM courses, the authors observed higher enthusiasm toward in-class and home assignments built on qualitative-methods examples than toward standard QM items](qualitative-qm-examples-higher-enthusiasm.md) — related
+- [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related

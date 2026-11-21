@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-21
 sources:
   - id: jessi-randolph-2022
     resource: "https://doi.org/10.1103/physrevphyseducres.18.020123"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All interviewed female students reported increases in interest and motivation, and the majority reported positive impacts on confidence and self-efficacy, internal and external recognition, and performance and competency beliefs. [→ Jessi Randolph 2022](#jessi-randolph-2022)
@@ -52,3 +53,4 @@ Interview frequency analysis (codes counted once per interview, Fig. 1) of 11 fe
 - [Female students experienced distinctive outreach benefits: external recognition was more impactful for them, and their sense of belonging was linked to representation and peer interactions](outreach-female-students-recognition-belonging.md) — related
 - [Physics identity at the end of physics 2 is directly influenced by perceived recognition (largest effect, b = 0.71) and self-efficacy, with a small direct effect from interest](physics-identity-predicted-recognition-largest.md) — related
 - [Mentorship, leadership, and career conceptualization supported competence and recognition but showed no direct connections to interest or performance in this preliminary data](no-direct-connections-interest-performance.md) — related
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — a broader claim this one bears on

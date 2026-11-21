@@ -52,6 +52,7 @@ The authors refined the module after each 12-week clerkship block using evidence
 - [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
 - [Incorporate the cognitive representation approach into medical education programs after refining interfaces and adding early guidance](refine-interfaces-and-early-guidance-before-adoption.md)
 - [Refine assignment-only assessment by adding a written or oral exam and motivating course evaluation participation](add-exam-and-motivate-evaluation-strategy.md)
+- [Iteratively refine virtual laboratory teaching using student feedback: add group discussions, advance reading materials, and clearer in-experiment guidance](feedback-driven-vlab-refinement-strategy.md)
 
 ## Examples
 -

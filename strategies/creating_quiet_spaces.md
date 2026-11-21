@@ -58,9 +58,11 @@ Quiet spaces work by reducing extraneous processing: background speech and unpre
 5. Monitor use patterns; if a learner retreats habitually to avoid collaboration, pair the space with graduated re-entry goals and [Coaching](../elements/coaching.md) rather than removing access.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — addresses the same extraneous-load problem at the whole-room level rather than through individual retreat
 - [Active Recess](active-recess.md) — the complementary provision of *stimulating* breaks; quiet spaces and movement breaks serve different regulation needs
 - [Achievable Micro-Goals](achievable_micro-goals.md) — pairs well with quiet work time by giving the retreat a concrete, completable focus
+- [Replace time-consuming searching for ambient study aids with AI-generated personalized audio and visuals](ai-generated-personalized-study-aids-strategy.md)
 
 ## Examples
 - **Responsive Classroom "take a break" spot** ([https://www.responsivesclassroom.org](https://www.responsiveclassroom.org)) — a normed classroom corner any student may use briefly to regain focus, with taught routines for returning to the group.

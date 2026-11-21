@@ -56,3 +56,5 @@ Concordance with human expert ratings measured with accuracy and Gwet AC1/AC2 ac
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
 - [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related
+- [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
+- [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related

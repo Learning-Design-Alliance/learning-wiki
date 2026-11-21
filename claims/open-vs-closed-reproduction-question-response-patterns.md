@@ -68,3 +68,4 @@ Abstract-level summary consistent with the tree result: closed reproduction ques
 - [A high proportion (median 54%) of teacher questions in CBL seminars receive no student response](cbl-high-student-non-response-54-percent.md) — a broader claim this one bears on
 - [Initial reasoning questions in CBL are associated with high student non-response (61%)](initial-reasoning-questions-high-non-response.md) — related
 - [Follow-up response differed by profession: emergency nursing trainees and paramedics responded significantly more often than medical students](c2c-followup-nonresponse-by-profession.md) — related
+- [Feynman Bot learners elaborated open-ended answers with scenario or case-study evidence, while every passive learner gave short answers without explanations](feynman-bot-open-ended-elaboration.md) — related

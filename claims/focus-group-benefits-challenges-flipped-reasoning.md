@@ -57,3 +57,4 @@ Focus group interview one week after the survey with seven volunteers (three fem
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
 - [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related
 - [Students responded positively, but more weakly, to the course's collaborative learning than to its other aspects, which the authors attribute to cross-major interaction challenges.](ids-course-collaborative-learning-weaker-rating.md) — related
+- [Workshop and interview feedback named collaboration, content sharing, and tool accessibility as the most valuable aspects, with connectivity, learning curves, and inclusive materials as challenges](educator-feedback-collaboration-accessibility-challenges.md) — related

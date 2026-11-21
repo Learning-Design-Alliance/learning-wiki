@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (120 show a difference, 35 mixed, 14 no difference) · 121 studies (27 review, 26 associational, 23 qualitative, 20 causal, 13 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 121 report an effect size · 164 claims rest on one study
+> **Evidence** · 170 claims (121 show a difference, 35 mixed, 14 no difference) · 122 studies (27 review, 26 associational, 24 qualitative, 20 causal, 13 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 122 report an effect size · 165 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -206,6 +206,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Online CURE students reported strong sense of belonging to the field and community of astronomy](../claims/online-cure-sense-of-belonging.md) [+M] — measured as an outcome of the instruction studied
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](../claims/peer-mentorship-belonging-physics-community.md) [+M] — measured as an outcome of the instruction studied
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](../claims/research-community-astronomy-identity.md) [+M] — measured as an outcome of the instruction studied
+- [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](../claims/outreach-enhances-belonging-and-major-confidence.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

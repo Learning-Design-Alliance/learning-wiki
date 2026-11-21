@@ -66,3 +66,4 @@ Comparison of mid-course completion across the three assigned course lengths amo
 ## Related Claims
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Pandemic self-efficacy, confidence in support and training, and interpersonal-problem scores changed from pre-course to post-course among hospital workers in a single-group pre-post study of computer-assisted resilience training](stress-vaccine-improved-self-efficacy-confidence-interpersonal.md) — related
+- [Voluntary participation suffered attrition: of 15 initial volunteers, only 5 students remained to perform the entire play.](voluntary-participation-attrition-15-to-5.md) — related

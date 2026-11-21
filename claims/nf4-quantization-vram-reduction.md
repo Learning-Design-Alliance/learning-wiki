@@ -51,3 +51,4 @@ Computational efficiency results (Section 5.2, Table 2) measured as steady-state
 - [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — related
 - [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md) — related
 - [Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review](round2-candidates-pass-speed-gate.md) — related
+- [Practical on-device LLM deployment is limited to roughly 4-billion-parameter models because memory grows nearly linearly and generation speed drops sharply beyond that size](on-device-deployment-limited-4b-parameters.md) — reports the opposite

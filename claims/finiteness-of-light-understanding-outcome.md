@@ -47,3 +47,4 @@ Authors' interpretive report (type (e)) from employing the experiment with rough
 ## Related Claims
 - [Roughly 600 non-science-major students at Keio University performed the experiment with no problems and satisfactory results](600-students-performed-experiment-successfully.md) — related
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related
+- [Majority of students reported clearer grasp of why confinement leads to quantization and successfully predicted how resonance spacing changes with straw length](confinement-quantization-conceptual-gain.md) — related

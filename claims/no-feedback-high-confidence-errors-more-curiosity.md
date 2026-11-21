@@ -83,3 +83,5 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](poed-diagnostic-feedback-drives-supplementary-material-use.md) — related
 - [Confidence is not a reliable indicator of diagnostic competency for certain lesion types, notably facial nerve palsy (case 7)](overconfidence-on-difficult-oral-cancer-cases.md) — related
+- [Students engaged most thoroughly with feedback when their confidence mismatched the outcome, especially when highly confident answers were wrong](confidence-outcome-mismatch-drives-feedback-engagement.md) — related
+- [Without feedback, participants are most wrong precisely when most confident; feedback restores confidence calibration](feedback-calibrates-confidence-ai-detection.md) — related

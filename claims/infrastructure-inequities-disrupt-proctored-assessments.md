@@ -77,3 +77,5 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
 - [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related
 - [Under Other Skies delivered material infrastructure (internet antennas and an artesian well) to the indigenous village](under-other-skies-infrastructure-outcomes.md) — related
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related
+- [Infrastructure, educator, socioeconomic, and gender barriers severely constrain STEM education in underdeveloped regions](stem-infrastructure-barriers-underdeveloped-regions.md) — a narrower finding that bears on this claim

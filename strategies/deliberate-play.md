@@ -58,9 +58,11 @@ Deliberate play supports long-term skill development and sustained engagement by
 5. Gradually introduce structured practice and explicit feedback as learners commit to the domain, fading the play emphasis ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Deliberate Practice](../principles/deliberate-practice.md) — the complementary, effortful refinement strategy that deliberate play feeds into
 - [Gamification](gamification.md) — applies game elements to non-game contexts; deliberate play is the developmental-skill version
 - [Acting-Role-Play](acting-role-play.md) — play-based enactment used for social and procedural learning
+- [Relaxed, improvisation-rich rehearsals with teacher checking conceptual consistency](relaxed-improvisation-rehearsals-strategy.md)
 
 ## Examples
 - **Canadian Sport for Life / Long-Term Athlete Development model** — prescribes high deliberate play in the FUNdamentals and sampling stages before structured training increases (https://sportforlife.ca).

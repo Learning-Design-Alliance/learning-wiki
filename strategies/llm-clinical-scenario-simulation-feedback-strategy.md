@@ -53,6 +53,7 @@ The article recommends leveraging LLMs in medical education so that "Medical stu
 - [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
 - [Open a MOOC with low-stakes diverse diagnostic worksheets whose results are fed back as strong and weak points](initial-diagnostic-worksheet-feedback-strategy.md)
 - [Use practice VP cases with feedback for independent self-learning, leveraging that assessment drives learning](vp-practice-cases-self-learning-strategy.md)
+- [Use an AI opponent to provide repeatable, engaging practice of curriculum concepts](ai-opponent-repeatable-practice-strategy.md)
 
 ## Examples
 -

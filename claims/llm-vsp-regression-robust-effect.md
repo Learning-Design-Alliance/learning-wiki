@@ -63,3 +63,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [The e-learning advantage is robust to prior NIHSS knowledge, prior NIHSS courses, ward experience, and multi-day completion, but only immediate retention was tested](e-learning-nihss-advantage-robust-sensitivity-immediate-only.md) — related
 - [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related
 - [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related
+- [A sensitivity analysis restricting the sample to overlapping baseline Empower scores confirmed the intervention effect remained significant (d = 0.65)](sophie-empower-baseline-sensitivity-robust.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-21
 sources:
   - id: ren-s-2026
     title: Ren S 2026
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Ren S 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -65,3 +65,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Students with positive prior ChatGPT experience showed confirmation bias, maintaining or improving quality ratings despite recognizing deficiencies](confirmation-bias-in-chatgpt-evaluation.md) — related
 - [Decision time is negatively associated with over-reliance and positively associated with under-reliance on ChatGPT recommendations](decision-time-reliance-associations.md) — related
 - [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related
+- [Students' post-task self-assessment partially reflects their measured overreliance behavior](overreliance-self-assessment-partial-awareness.md) — related

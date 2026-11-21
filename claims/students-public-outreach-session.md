@@ -48,3 +48,4 @@ Report of the final public session on 12 August 2020 at Pampilhosa da Serra foot
 - [Students gained independent telescope operation skills through repeated practice over two weeks](students-independent-evscope-operation.md) — a broader claim this one bears on
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related
 - [The SPOT program builds undergraduate science-communication skills while increasing K-12 audience understanding of gravitational-wave astronomy and interest in science careers](spot-presenter-and-audience-outcomes.md) — related
+- [Students who facilitated outreach reported greater ability to explain physics ideas to audiences inside and outside their discipline](outreach-explaining-confidence-in-out-of-discipline.md) — related

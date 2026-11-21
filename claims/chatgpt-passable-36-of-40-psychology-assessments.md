@@ -51,3 +51,4 @@ Instrumental case study of one UK BPS-accredited psychology degree (2023/24); tw
 - [A student-staff partnership evaluated ChatGPT-generated output in response to diverse coursework assessments on an undergraduate medical sciences programme](partnership-evaluated-chatgpt-output-coursework-assessments.md) — related
 - [In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions](turnitin-joint-system-54-5-percent-reporting.md) — related
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
+- [Text-based GenAI tools produced accurate responses in over 90% of cases on undergraduate textbook-difficulty questions](text-genai-over-90-percent-accurate-textbook-questions.md) — related

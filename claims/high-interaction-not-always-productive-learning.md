@@ -69,3 +69,4 @@ ANOVA on coded message proportions across Clusters 2, 3, and 4 found significant
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — reports the opposite
 - [High prior knowledge students sent significantly more messages and generated denser multi-turn interaction with AI agents than low prior knowledge students](high-prior-knowledge-denser-interaction.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [AI agent students interacted more frequently with the system and completed the learning task in less time than the other groups](ai-agent-higher-interaction-shorter-duration.md) — reports the opposite

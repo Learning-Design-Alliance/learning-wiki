@@ -71,3 +71,4 @@ The Results section describes the interaction pattern plotted in Figure 4a with 
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
 - [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — a broader claim this one bears on
 - [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related
+- [Post-task trust in the chatbot and satisfaction are negatively correlated with appropriate reliance](appropriate-reliance-negative-trust-satisfaction.md) — related

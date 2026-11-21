@@ -91,6 +91,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 
 - [Use AI-based analysis of student log files to scaffold inquiry competencies and guide teachers in real time](../strategies/ai-log-file-scaffolding-and-teacher-dashboards-for-inquiry.md)
 - [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](../strategies/open-problem-discrepancy-knowledge-construction.md)
+- [Use structured discussion, argumentation tasks, and guided reflection to bridge AI perception and computational reasoning](../strategies/structured-discussion-argumentation-ai-literacy.md)
 
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)

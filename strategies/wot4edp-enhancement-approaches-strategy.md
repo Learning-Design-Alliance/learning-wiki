@@ -50,6 +50,7 @@ Table 2 of the article pairs each framework element with suggested enhancement a
 - [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 - [Use real-world problems, open-ended class discussions, and inquiry-oriented experiments as higher order thinking strategies](real-world-open-discussion-inquiry-strategies.md)
 - [Design Thinking](design-thinking.md)
+- [Incorporate student-requested debugging curriculum elements: hypothesis generation training, guided debugging tasks, and a systematic debugging process](student-requested-debugging-curriculum-elements.md)
 
 ## Examples
 -

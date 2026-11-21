@@ -44,6 +44,7 @@ Based on their findings, the authors recommend that future language learning app
 - [Use free commercial apps such as Duolingo and Kahoot as gamified learning supports in language courses](commercial-apps-gamified-language-support-strategy.md)
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 - [Analyse learner utilisation and engagement data from gamified educational software to identify modifiable engagement and attrition factors](metrics-driven-analysis-of-gamified-learning-use.md)
+- [Gamify prescribed rehabilitation movements in VR to sustain patient engagement and adherence](vr-gamified-rehabilitation-engagement-strategy.md)
 
 ## Examples
 -

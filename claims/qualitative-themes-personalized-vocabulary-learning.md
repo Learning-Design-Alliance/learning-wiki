@@ -47,3 +47,4 @@ Semi-structured interviews with 18 stratified-purposive experimental-group parti
 ## Related Claims
 - [Qualitative interviews identify wiser engagement, greater self-efficacy, better emotion regulation, and greater resilience as perceived performance changes](qualitative-teacher-performance-changes-mbsr.md) — related
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
+- [Student self-explanations of GPPs center on task decomposition, rule understanding, and reduced difficulty, with a minority reporting the structure as disruptive](gpp-self-explanation-themes.md) — related

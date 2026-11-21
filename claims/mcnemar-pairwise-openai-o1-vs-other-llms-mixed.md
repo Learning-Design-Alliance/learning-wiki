@@ -72,3 +72,4 @@ McNemar pairwise tests in Infectious Diseases found no significant differences; 
 - [Pairwise inter-model agreement showed no statistically significant differences among the five AI models (all p > 0.05)](no-significant-inter-model-agreement-differences.md) — related
 - [Post-hoc comparisons show ChatGPT o1 performed significantly better than most other models across both question types (p < 0.0031)](chatgpt-o1-posthoc-significantly-better.md) — a broader claim this one bears on
 - [ChatGPT-4o and ChatGPT o1 complemented each other in TA-led sessions, with 4o supporting routine tasks and o1 excelling at complex reasoning](chatgpt-4o-o1-complementary-roles.md) — related
+- [Within each provider's model family, successive performance tiers correlate with roughly 10–20 percentage-point accuracy increases](provider-tier-correlates-10-20-point-gains.md) — related

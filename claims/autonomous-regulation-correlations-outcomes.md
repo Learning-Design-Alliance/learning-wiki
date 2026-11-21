@@ -72,3 +72,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [External regulation for interpersonal relationships correlates negatively with behavioral and emotional engagement in collaborative learning](external-regulation-negative-correlation-engagement.md) — reports the opposite
 - [Autonomous motivation correlates positively with surface, deep, and achieving strategy and with GPA](autonomous-motivation-correlates-study-strategies.md) — related
 - [Autonomous motivation, controlled motivation, and study strategy are not associated with clerkship performance](motivation-strategy-not-associated-clerkship-performance.md) — related
+- [Dashboard use raises self-efficacy and cognitive strategy use but not intrinsic motivation](srl-lad-raises-self-efficacy-strategies.md) — related

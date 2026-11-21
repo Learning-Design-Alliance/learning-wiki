@@ -103,3 +103,6 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related
 - [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
 - [GPT-4o and GPT-4-turbo assessed tutors' open-ended equity responses proficiently, with few-shot prompting outperforming zero-shot](llm-few-shot-outperforms-zero-shot-equity-assessment.md) — related
+- [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
+- [A LangChain-based Prompt-CoT model achieves higher accuracy than GPT-4o and BERT on the Paul Graham Essay question-answering benchmark](prompt-cotbase-outperforms-gpt4o-paul-graham-qa.md) — related
+- [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — related

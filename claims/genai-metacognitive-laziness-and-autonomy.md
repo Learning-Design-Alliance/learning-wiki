@@ -91,3 +91,4 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — a narrower finding that bears on this claim
 - [GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes](genai-immediate-gains-no-motivation-longterm.md) — related
 - [Lack of autonomous learning habits hinders success in fully online writing instruction](learner-autonomy-hindrance-online-instruction.md) — related
+- [In Experiment 2, fully learner-controlled on-demand AI feedback significantly enhanced performance for high-achieving students (d = 0.378) without harming autonomy](learner-controlled-help-helps-high-achievers.md) — related

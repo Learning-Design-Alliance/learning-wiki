@@ -67,3 +67,4 @@ Voting on the most interesting topic among the past 35 lectures (Fig. 2(a)): qua
 - [220 Spanish speakers registered for the beginner-friendly online quantum computing workshop series and hackathon, 66% of whom self-identified as introductory level](spanish-quantum-hackathon-220-registrants-66-percent-beginners.md) — related
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
 - [Most respondents reported QuCS enhanced their understanding of basic concepts and helped them find collaboration partners](qucs-perceived-impact-understanding-collaboration.md) — related
+- [Workshop participants identified use cases, algorithms and IT security as the quantum topics of greatest interest, but most did not yet consider them relevant to daily practice](quantum-workshop-topics-of-interest.md) — related

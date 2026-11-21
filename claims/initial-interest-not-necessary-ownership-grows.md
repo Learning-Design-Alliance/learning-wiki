@@ -53,3 +53,4 @@ Second major finding of the cross-case thematic analysis of three Optics/Lasers 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
+- [The GenAI evaluation laboratory fostered high engagement, initiative, and voluntary continuation beyond classroom requirements among non-science majors](genai-astronomy-lab-high-engagement-voluntary-continuation.md) — related

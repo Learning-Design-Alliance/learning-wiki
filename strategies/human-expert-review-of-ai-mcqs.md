@@ -42,6 +42,7 @@ Tip 7 makes human oversight a required stage: AI-generated items are rated by a 
 - [Use detailed, structured prompts specifying question type, case details, distractors, explanation, source, and difficulty level](structured-nine-component-mcq-prompt.md)
 - [Pilot AI-generated items as unscored exam items, review their psychometrics, and bank those meeting quality standards](pilot-and-bank-ai-generated-items.md)
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
+- [Use an iteratively crafted system prompt requiring one correct answer, three plausible distractors, no giveaway clues, parallel options, and mixed cognitive levels](llm-mcq-generation-prompt-template.md)
 
 ## Examples
 -

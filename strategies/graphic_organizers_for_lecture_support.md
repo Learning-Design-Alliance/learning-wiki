@@ -85,6 +85,7 @@ Graphic organizers exploit the dual-channel capacity of working memory: presenti
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a skeletal organizer at the start of a lecture doubles as a prior-knowledge activation prompt
 - [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 - [Replace lecture-only English instruction with mind-map-based presentation of the whole chapter in a single diagram](mind-map-whole-chapter-single-diagram-english.md)
+- [Integrate visual slide materials with hands-on activities to support concept retention](visual-slides-paired-with-hands-on-robotics.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the organizer delivered before instruction to frame what follows

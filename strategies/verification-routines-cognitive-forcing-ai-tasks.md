@@ -49,6 +49,7 @@ The authors recommend designing learning environments that make evaluation an ex
 - [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 - [Embed routine evaluation into all training and education programmes to determine effectiveness.](routine-evaluation-embedded-in-training-programmes.md)
+- [Leverage students' partial metacognitive self-awareness of overreliance through reflection prompts, acceptance-rate feedback, and required justifications](metacognitive-reflection-prompts-ai-reliance.md)
 
 ## Examples
 -

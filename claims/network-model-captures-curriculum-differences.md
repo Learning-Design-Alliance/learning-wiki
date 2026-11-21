@@ -68,3 +68,4 @@ The authors' initial network construction connected only related themes without 
 - [Electrical Engineering shows the highest average in-connectivity but the least balanced prerequisite-relevance ratio among the three curricula](ee-higher-connectivity-unbalanced-grid.md) — related
 - [The model suggests adding Modern Physics to the Production Engineering curriculum would not overload students in prerequisite terms](modern-physics-ep-no-overload.md) — related
 - [Students measuring Sierpinski-gasket resistor networks obtain a resistance-scaling exponent of η = 0.743±0.002, in excellent agreement with the theoretical value of 0.737](sierpinski-resistor-network-eta-measurement.md) — related
+- [Peer network development is comparable across the four active learning methods and does not explain differences in conceptual learning gains](peer-network-development-comparable-across-methods.md) — related

@@ -55,6 +55,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Assign facilitators to fixed teams with periodic check-ins rather than rotating between groups](fixed-facilitator-assignment-checkins.md)
 - [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
 - [Structure class time around interactive group work with rotating group assignments to break down barriers between students of different backgrounds](rotating-group-work-class-structure-strategy.md)
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

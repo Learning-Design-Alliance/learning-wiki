@@ -48,3 +48,4 @@ Descriptive demographic reporting from the end-of-camp REDCap surveys (Tables IV
 ## Related Claims
 - [Teachers reported strong positive impacts after the QCaMP teacher camp, including increased confidence delivering quantum, computing, math, and physics instruction](qcamp-teacher-survey-positive-impacts.md) — related
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
+- [The 2024 QCaMP cohort comprised 41 students across three sites, most in grades 11–12, largely from public and Title I schools](qcamp-cohort-demographics.md) — related

@@ -66,3 +66,4 @@ The same network visualization analysis found lab networks "contain smaller chai
 - [Higher final course grades relate to more lecture interaction connections in all four remote courses, but lab connections are mostly unrelated to grades except in EM-Eng](grades-lecture-not-lab-connections.md) — related
 - [Section enrollment relates differently to lecture and lab interaction networks: lecture interactions occur with both lab and discussion section peers, lab interactions only with lab section peers](section-enrollment-lecture-lab-networks.md) — related
 - [Lab recognition networks show higher transitivity and connectedness than lecture networks, attributed to graded small-group lab work](lab-networks-higher-transitivity-than-lecture.md) — related
+- [Peer network development is comparable across the four active learning methods and does not explain differences in conceptual learning gains](peer-network-development-comparable-across-methods.md) — related

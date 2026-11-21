@@ -62,4 +62,4 @@ The article's recommendation section lays out an implementable adoption recipe f
 -
 
 ## Key Sources
-- Rodriguez, J. M. P., Austria, G. S., & Millar, G. B. (2025). The Role of AI, Blockchain, Cloud, and Data (ABCD) in Enhancing Learning Assessments of College Students. https://arxiv.org/abs/2503.05722
+- Rodriguez, J. M. P., Austria, G. S., & Millar, G. B. (2025). The Role of AI, Blockchain, Cloud, and Data (ABCD) in Enhancing Learning Assessments of College Students. https://arxiv.org/abs/2503.05722. [doi:10.2139/ssrn.5321233](https://doi.org/10.2139/ssrn.5321233)

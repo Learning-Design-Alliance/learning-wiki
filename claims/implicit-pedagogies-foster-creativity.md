@@ -50,3 +50,4 @@ The review's synthesis of implicit interventions (RQ2), drawing on studies such 
 ## Related Claims
 - [Explicit creativity training programs are effective in fostering creativity in formal schooling](explicit-creativity-training-programs-effective.md) — related
 - [Ideation-based interventions are a robustly implemented explicit approach that improves creative performance](ideation-interventions-improve-creative-performance.md) — related
+- [Designing and creating demonstrations for outreach contributed to enhancing students' physics knowledge through constructionist creation activities (disciplinary development cluster)](outreach-demonstration-design-enhances-physics-knowledge.md) — a narrower finding that bears on this claim

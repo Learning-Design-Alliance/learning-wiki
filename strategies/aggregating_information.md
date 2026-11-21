@@ -64,6 +64,7 @@ Aggregation turns discussion from a sequence of individual utterances into an ob
 - [Have groups record data summaries on the board for plenary statistical discussion at critical points](board-data-plenary-discussion-strategy.md)
 - [Complement distributed peripheral information with aggregated display or multimodal notification](complement-peripheral-info-aggregated-multimodal.md)
 - [Make student process visible in online science courses through discussion forums and process-sharing assignments](process-visibility-discussion-forums-strategy.md)
+- [Use unsupervised clustering of student written responses to surface class-level themes and track how ideas change over time](cluster-essays-track-class-ideas-over-time.md)
 
 ## Examples
 - **Knowledge Forum** ([IKIT](https://www.knowledgeforum.com)) — Scardamalia and Bereiter's platform built around aggregating student notes into "rise-above" views, where learners explicitly synthesize earlier contributions into higher-level ideas.

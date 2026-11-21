@@ -74,3 +74,4 @@ Same FATE benchmark of commercial tutors (Table 3): the article reports "Actiona
 - [GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives](gpt-models-more-rubric-errors-than-gemini.md) — related
 - [Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline](gemini-exceeds-human-mean-scivis-literacy-open-source-below.md) — related
 - [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related
+- [LLMs evaluate tutor responses to student math errors at 73-77% accuracy, the weakest performance](llms-evaluate-error-responses-73-77.md) — related

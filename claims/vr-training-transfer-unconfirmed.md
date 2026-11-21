@@ -55,3 +55,4 @@ The authors' own limitation statement: all outcome data came from standardized s
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — reports the opposite
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
 - [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — related
+- [VR removes social barriers in clinical skills training such as auscultation, supporting knowledge retention and skill acquisition](vr-removes-social-barriers-clinical-skills-training.md) — related

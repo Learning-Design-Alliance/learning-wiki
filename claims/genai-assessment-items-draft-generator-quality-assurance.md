@@ -109,3 +109,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — related
 - [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — reports the opposite
 - [Form-recognition marking supported question-level analysis that revealed overly difficult or ambiguously worded workshop-test questions for lecturer feedback](question-level-item-analysis-reveals-difficult-or-ambiguous-questions.md) — related
+- [About two-thirds of LLM-generated MCQs did not meet the authors' quality objectives, so at least 15 had to be generated to select 5 usable questions](two-thirds-llm-mcqs-fail-quality-checks.md) — related

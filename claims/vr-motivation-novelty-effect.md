@@ -50,3 +50,4 @@ The review's discussion of motivation, attributing the observation to studies of
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related
+- [Technological and scenic novelty sustained learners' situational interest across repeated VR lessons, contrary to the expectation that novelty fades](scenic-technological-novelty-sustains-interest.md) — reports the opposite

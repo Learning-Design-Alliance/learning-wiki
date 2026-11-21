@@ -79,3 +79,4 @@ As the article emphasizes, "all industry leaders spoke about the importance of b
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [Industry reports three fundamental training needs — basic awareness, targeted training and study programs — with group-specific priorities](qt-three-fundamental-training-needs.md) — related
 - [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related
+- [Educators see industry-driven curriculum revisions as a major opportunity for QISE course development](industry-driven-qise-curriculum-revisions.md) — related

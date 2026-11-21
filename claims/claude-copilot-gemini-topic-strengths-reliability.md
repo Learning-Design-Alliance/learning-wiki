@@ -99,3 +99,4 @@ Benchmark results for Gemini 1.5 Flash across three attempts; answer coincidence
 - [The four LLMs' accuracy varied across medical subject categories, with weaknesses in interdisciplinary questions, behavioral health, hematolymphoid topics, neurology and medical ethics](llm-accuracy-varies-by-medical-subject-category.md) — related
 - [ChatGPT solved 55% of 76 homework problems with an average of 1.88 attempts, varying by topic from 36% to 68%](chatgpt-homework-55-percent-topic-variation.md) — related
 - [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related
+- [Gemini-2.5-Flash showed weaker grading consistency than Claude-3.7-Sonnet (R² = 0.63, residual SD 1.51 vs 1.17), limiting its utility for formal assessment](gemini-flash-grading-inconsistency.md) — related

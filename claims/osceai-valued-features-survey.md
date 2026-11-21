@@ -49,3 +49,4 @@ Survey of 37 first-year medical students in the University of Calgary Class of 2
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
+- [Students most valued the realistic experimental interface, interactive parameter adjustment, and self-paced learning flexibility](openphys-most-valued-features.md) — related

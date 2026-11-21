@@ -52,3 +52,4 @@ Open coding of three open-ended survey questions from the same 40-student cohort
 - [Student endorsement of the open-ended experimental-design emphasis rose from 64% to 86% over the year](open-ended-protocol-design-benefit-rose-64-to-86.md) — related
 - [Students responded positively, but more weakly, to the course's collaborative learning than to its other aspects, which the authors attribute to cross-major interaction challenges.](ids-course-collaborative-learning-weaker-rating.md) — related
 - [Project/problem-based learning in an introductory electromagnetism course has students take an active role in constructing their own knowledge while developing soft and social skills](pbl-active-role-electromagnetism-course.md) — related
+- [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related

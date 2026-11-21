@@ -50,3 +50,4 @@ Regression analysis (Equation 1) on iReady log data from 711 grade 7 students, c
 - [Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects](sensitivity-analysis-cutpoints.md) — related
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](early-starter-chronic-delayer-subgroups.md) — related
 - [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related
+- [Relative delayed start generalizes across systems, predicting grade 7 state test scores in i-Ready data](relative-delayed-start-cross-system-generalizability.md) — related

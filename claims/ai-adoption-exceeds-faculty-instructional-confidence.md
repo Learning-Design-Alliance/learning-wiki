@@ -77,3 +77,4 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [Without training, new accessible resources can become a barrier rather than a support, so instructors and students must have access to training about using the resource](accessible-tools-training-required-to-avoid-barriers.md) — related
 - [A literature survey indicates limited or no adoption of GenAI by universities, reflecting stakeholder uncertainty](genai-literature-limited-university-adoption.md) — reports the opposite
+- [Teachers' self-reported confidence in using digital tools (68%) exceeds their regular classroom integration of digital tools (45%)](teacher-confidence-integration-gap-digital-tools.md) — related

@@ -72,6 +72,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
 - [Integrate task-specific feedback on self-monitoring accuracy into regular progress test reports](feedback-on-self-monitoring-in-progress-test-reports.md)
 - [Use coaching over time to review assessment portfolios away from the clinic and set personal action-oriented goals](coaching-over-time-portfolio-review.md)
+- [Use automated cohesion assessment dashboards with actionable indicators to support student self-regulated learning](cohesion-dashboard-actionable-indicators-srl.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

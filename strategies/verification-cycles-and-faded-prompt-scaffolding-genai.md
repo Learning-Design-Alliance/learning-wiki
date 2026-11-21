@@ -51,6 +51,7 @@ The article recommends two implementable practices to counter students' passive,
 - [Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition](scaffold-agents-toward-higher-order.md)
 - [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 - [Fade explicit comparison-cycle support across the course (instructions first, then marks, then instructor support)](fading-comparison-cycle-support-strategy.md)
+- [Use structured discussion, argumentation tasks, and guided reflection to bridge AI perception and computational reasoning](structured-discussion-argumentation-ai-literacy.md)
 
 ## Examples
 -

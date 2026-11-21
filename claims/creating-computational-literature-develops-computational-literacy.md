@@ -75,3 +75,5 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Moving data visualization to the first project in the DataTrail curriculum boosted student motivation, per the authors' program experience](early-visualization-projects-boost-motivation-datatrail.md) — related
 - [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](case-students-engage-computational-literature-epistemic-negotiation.md) — related
 - [For one pair, explaining work in writing was harder than coding, and essay writing deepened their physics understanding](writing-harder-than-coding-deepened-understanding.md) — related
+- [High-school students can engage meaningfully with complex quantum topics through project-based formats](quantum-project-based-engagement.md) — related
+- [Some thesis students developed a distinct level of research competence — specialized tools, specialized applications of computation, and advanced collaboration skills — beyond what coursework provided](thesis-research-competence-specialized-skills.md) — related

@@ -49,3 +49,4 @@ Results-section comparison of the EduQwen models against larger leaderboard mode
 - [CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters](cdpk-scales-with-model-size-dropoff-below-8b.md) — related
 - [The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%](eduqwen-32b-sota-cdpk-benchmark.md) — related
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) — related
+- [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related

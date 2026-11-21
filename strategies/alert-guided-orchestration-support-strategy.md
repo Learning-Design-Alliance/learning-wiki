@@ -46,7 +46,8 @@ Under guiding support, automatic alerts flag critical moments (e.g. missing keyw
 - [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](../claims/alerting-guiding-dashboard-reduces-teacher-workload.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop an AI-powered lecture assistant (AILA) that automatically detects opportune moments for retrieval practice intervention](aila-lecture-assistant-future-direction.md)
 
 ## Examples
 -

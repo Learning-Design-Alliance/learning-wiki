@@ -50,3 +50,5 @@ Descriptive result of the institutional catalog analysis. Among the 61 instituti
 - [Only 18 identified lab courses contain QISE-relevant experiments, concentrated at PhD-granting institutions](few-qise-lab-courses.md) — related
 - [Active QIS courses at US institutions are disproportionately concentrated at R1 private research universities, and most institutions offer none](qis-courses-concentrated-at-r1-private-institutions.md) — related
 - [QIS degree and certificate programs are disproportionately found at private R1 institutions](qis-degrees-restricted-to-private-r1-institutions.md) — related
+- [Minority Serving Institutions show the same institutional-type pattern, with quantum and QISE courses concentrated at masters and PhD-granting MSIs](msi-quantum-course-availability-pattern.md) — related
+- [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related

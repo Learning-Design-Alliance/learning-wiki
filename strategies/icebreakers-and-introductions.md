@@ -62,6 +62,7 @@ Icebreakers work primarily by building belonging and psychological safety, which
 - [Check-In](../elements/check-in.md) — the recurring, lightweight version of the same function across a course
 - [Belonging](../elements/belonging.md) — the underlying mechanism icebreakers serve
 - [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
+- [Open a workshop with 'living statistics' grouping to activate participants and build a positive learning environment](living-statistics-opening-grouping-strategy.md)
 
 ## Examples
 - **First-day "course curiosity" round**: each student names one question they hope the course answers; the instructor collects these and returns to them throughout the term, linking introductions to [Activation](../principles/activation.md).

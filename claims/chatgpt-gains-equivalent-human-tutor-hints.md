@@ -52,3 +52,4 @@ Pairwise post-hoc comparisons in the same randomized 3x4 experiment (N = 274). T
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
 - [Within-condition pre-to-post differences were statistically significant in the manual-hint conditions, but not in the ChatGPT conditions](chatgpt-hint-gains-not-significant.md) — related
 - [Hints generated with PromptHive produced learning gains on par with hints manually authored by subject matter experts without generative AI](prompthive-hints-learning-gains-on-par-with-human.md) — related
+- [The GAI hint-generating workflow produced feedback statistically indistinguishable from expert teachers' feedback and was rated helpful by most students](gai-hint-workflow-quality-validation.md) — related

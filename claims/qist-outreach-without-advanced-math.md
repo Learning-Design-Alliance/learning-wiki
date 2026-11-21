@@ -52,3 +52,4 @@ The authors describe their outreach program as presented in settings including V
 - [A rigorous quantum information formalism exists that requires only basic arithmetic, enabling math-light Quantum 101 courses without sacrificing rigor](arithmetic-only-qis-formalism.md) — related
 - [Hands-on QIST approaches are associated with deeper understanding and more rapid uptake of quantum concepts, based on self-reported skill gains at a 2020 remote global summer school](hands-on-qist-self-reported-skill-gains-summer-school.md) — related
 - [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — related
+- [Quantum pictorialism instruction enabled UK high-school students to pass a graduate-level quantum computing exam](quantum-pictorialism-case-study-results.md) — related

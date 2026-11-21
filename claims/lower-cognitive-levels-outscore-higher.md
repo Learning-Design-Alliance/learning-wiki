@@ -49,3 +49,4 @@ Paired comparison within the overall cross-sectional sample (N = 203) of summed 
 - [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related
 - [CBME-aligned e-modules added to lectures improved first-year medical students' performance at all four assessed Bloom cognitive levels compared with lectures alone](e-modules-improve-all-cognitive-levels-medical-students.md) — related
 - [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related
+- [No significant group differences on the higher-order (Task 3) assessment, with the control group showing the best performance](no-group-differences-task3-assessment.md) — related

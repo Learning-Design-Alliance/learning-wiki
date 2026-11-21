@@ -69,3 +69,5 @@ Pearson correlations reported in the Results section of the same 432-participant
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](need-for-cognition-moderates-trust-reliance.md) — related
 - [Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship](programming-measures-no-moderation.md) — related
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
+- [Post-task trust in the chatbot and satisfaction are negatively correlated with appropriate reliance](appropriate-reliance-negative-trust-satisfaction.md) — related
+- [Underreliance is negatively correlated with programming literacy, need for cognition, and programming self-efficacy](underreliance-negative-literacy-nfc-efficacy.md) — related

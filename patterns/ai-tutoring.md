@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 443 claims (197 for, 189 mixed, 57 against) · 305 studies (122 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 305 report an effect size · 426 claims rest on one study
+> **Evidence** · 445 claims (199 for, 189 mixed, 57 against) · 306 studies (123 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 306 report an effect size · 428 claims rest on one study
 
 ## Description and scope
 
@@ -315,6 +315,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](../claims/disha-socratic-hints-foster-independent-thinking.md) [+W] — attached 2026-11-21 from Raj Gupta et al. (2025), which proposed "Socratic guardrails: AI hints and structured feedback instead of direct solutions"; tests this page's relationship.
 - [Students who analyzed music with the LLM-based teachable agent Chat Melody achieved significantly higher adjusted post-test scores than students who analyzed independently](../claims/chat-melody-higher-music-theory-posttest.md) [+W] — attached 2026-11-21 from Lingxi Jin et al. (2025), which proposed "Teachable agents should prompt reflection and reasoning rather than supplying immediate answers"; tests this page's relationship.
 - [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](../claims/chat-melody-mental-effort-not-mental-load.md) [~W] — attached 2026-11-21 from Lingxi Jin et al. (2025), which proposed "Teachable agents should prompt reflection and reasoning rather than supplying immediate answers".
+- [In an RCT, students taught by an AI instructional agent reported significantly higher perceived learner control than students taught by a human teacher or a MOOC with chatbot](../claims/ai-agent-higher-perceived-learner-control-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning".
+- [Students taught by the AI instructional agent achieved significantly higher post-test scores than the human teacher and MOOC groups](../claims/ai-agent-higher-posttest-scores-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

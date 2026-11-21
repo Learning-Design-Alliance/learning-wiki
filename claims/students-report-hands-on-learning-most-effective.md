@@ -85,3 +85,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related
 - [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
 - [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related
+- [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related

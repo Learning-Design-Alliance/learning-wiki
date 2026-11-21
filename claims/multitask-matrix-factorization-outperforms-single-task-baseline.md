@@ -51,3 +51,4 @@ In train/test experiments on three courses' peer-assessment data (Accounting Inf
 - [Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only](joint-course-grade-prediction-halves-mae.md) — a broader claim this one bears on
 - [Multi-task learning on a large multi-topic dataset outperforms separate topic-specific essay scoring models](mtl-multi-topic-beats-topic-specific-scoring.md) — a broader claim this one bears on
 - [KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other](kl-versus-bce-loss-ablation.md) — related
+- [Multi-task learning achieves near single-task performance with one joint model, and ordinal log-loss improves over cross-entropy and regression losses](multi-task-ordinal-loss-tradeoffs-discourse-scoring.md) — related

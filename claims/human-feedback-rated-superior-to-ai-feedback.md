@@ -52,3 +52,4 @@ A conceptual paper on feedback as care in the age of GenAI, not an empirical stu
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
+- [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related

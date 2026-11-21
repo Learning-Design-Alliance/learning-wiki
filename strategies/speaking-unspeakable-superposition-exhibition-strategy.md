@@ -44,6 +44,7 @@ The Speaking the Unspeakable exhibition introduced quantum superposition to the 
 ## Related Strategies
 
 - [Use the analog classical computer thought experiment with explicit floating-point discussion to teach the quantum-classical distinction](analog-classical-computer-thought-experiment-strategy.md)
+- [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
 
 ## Examples
 -

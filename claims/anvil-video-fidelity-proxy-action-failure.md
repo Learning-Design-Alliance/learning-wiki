@@ -49,3 +49,4 @@ Automated audit in which a VLM (gemini-3.0-pro) reconstructs an observed screenp
 - [CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments](anvil-educator-ratings-analogy-animation-quality.md) — related
 - [Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept](anvil-pedagogical-mismatch-risk.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
+- [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — related

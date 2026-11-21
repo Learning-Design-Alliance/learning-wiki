@@ -55,3 +55,4 @@ Annual student feedback from the Python4Physics program, as reported by the auth
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
 - [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related
+- [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related

@@ -53,3 +53,4 @@ Turn-level evaluation rating partial transcripts consisting of the first t thera
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
+- [Sycophancy effects are generally much larger for smaller LLMs, and the newer GPT-4.1 shows more sycophancy than GPT-4o](sycophancy-larger-in-smaller-models.md) — related

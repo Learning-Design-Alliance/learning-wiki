@@ -73,3 +73,4 @@ Observations from scratch-work examination and one-on-one interview discussions 
 - [Students perform better on conceptual questions of an IPP when the paired quantitative question is also given, for at least three of five pairs](conceptual-questions-better-when-paired-with-quantitative.md) — related
 - [Introductory students answered a conceptual momentum question at roughly half the correct rate of an isomorphic quantitative problem, but performed equally on both when the quantitative question came first](conceptual-quantitative-momentum-gap-introductory.md) — related
 - [Some students mentally convert between numerical and pictorial representations, and their reasoning can change with representation](students-switch-representations-when-comparing-measurements.md) — related
+- [Even students with all prerequisite knowledge often did not use the equations, and most who attempted them made mistakes](prerequisite-knowledge-insufficient-equation-use.md) — related

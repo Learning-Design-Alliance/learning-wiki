@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (75 show a difference, 13 mixed, 14 no difference) · 80 studies (24 associational, 16 causal, 13 qualitative, 10 review, 8 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 80 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (80 show a difference, 13 mixed, 14 no difference) · 81 studies (24 associational, 16 causal, 14 qualitative, 10 review, 8 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 81 report an effect size · 105 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -136,6 +136,11 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](../claims/julia-setup-syntax-not-activation-barriers.md) [-M] — learners who differ on it differ in outcomes
 - [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](../claims/case-students-engage-computational-literature-epistemic-negotiation.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](../claims/immersive-flipped-perceived-learning-outcomes.md) [+M] — measured as an outcome of the instruction studied
+- [Computational physics master's students undergo two distinct competence transitions: one triggered by project-based computational courses and a second, smaller one during professional collaborative research in thesis work](../claims/two-transitions-novice-to-journeyman-computational-physics.md) [+M] — measured as an outcome of the instruction studied
+- [Large computational projects served as a critical forum for developing computational problem-solving skills by forcing students to focus on the most important aspects of a problem and abstract away the rest](../claims/large-projects-build-problem-solving-abstraction.md) [+M] — measured as an outcome of the instruction studied
+- [Project-based computational courses from the third semester onward, including their social group-work elements, drove students' initial transition from novice to journeyman computational competence](../claims/project-based-courses-drive-first-pcl-transition.md) [+M] — measured as an outcome of the instruction studied
+- [Self-directed learning through online resources, AI tools, peer interaction, and on-the-job training continually supported students' computational literacy development at both novice and journeyman levels](../claims/self-directed-learning-supports-pcl-development.md) [+M] — measured as an outcome of the instruction studied
+- [Some thesis students developed a distinct level of research competence — specialized tools, specialized applications of computation, and advanced collaboration skills — beyond what coursework provided](../claims/thesis-research-competence-specialized-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

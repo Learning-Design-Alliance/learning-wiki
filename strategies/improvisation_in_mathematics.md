@@ -59,8 +59,10 @@ Improv activities function as a form of embodied, socially mediated learning: en
 5. **Reflect**: brief written or oral reflection connecting the embodied experience to the concept, supporting transfer [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the broader role-play strategy of which mathematical improv is a content-specific instance
 - [Activate Background Knowledge](activating-prior-knowledge.md) — improv scenarios work best when they surface and build on what students already know
+- [Relaxed, improvisation-rich rehearsals with teacher checking conceptual consistency](relaxed-improvisation-rehearsals-strategy.md)
 
 ## Examples
 - **Human function machine**: students form a "function machine" line, transforming a number passed down the line according to a rule invented on the spot; the class infers the rule from inputs and outputs.

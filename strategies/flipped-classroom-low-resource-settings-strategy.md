@@ -56,6 +56,7 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 - [Spend limited resources on faculty training, flexible technology-free spaces, and instructional staffing rather than embedding expensive classroom technology](invest-faculty-training-flexible-spaces-over-embedded-tech.md)
+- [Use SLMs to assist under-resourced teachers with curriculum design, problem sets, and text simplification](slm-teacher-curriculum-assistant.md)
 
 ## Examples
 -

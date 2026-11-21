@@ -63,3 +63,4 @@ Interview data on degree-subject routes (Fig. 3) show "The majority of companies
 - [Coded profession discussion shows engineering dominates (46%) with software engineers most frequent, and start-ups discuss more roles than other company types](qt-professions-coding-distribution.md) — related
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [QISE degree programs are predominantly interdisciplinary, with physics, ECE, and computer science as primary contributors](qise-programs-interdisciplinary.md) — related
+- [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related

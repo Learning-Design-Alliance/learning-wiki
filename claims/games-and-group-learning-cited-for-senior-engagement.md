@@ -70,3 +70,4 @@ Category definition from the same coding exercise; 26 extracts were coded for te
 - [Trainers view empathy-based teaching as helping older adults overcome fear of technology and build self-confidence](empathy-based-teaching-overcomes-tech-fear.md) — related
 - [Teachers who enjoy teaching, maintain close relationships, and adapt content tend to foster greater student engagement, a key to learning](teacher-enthusiasm-fosters-engagement.md) — related
 - [Teachers rated students as highly engaged in the workshops, with hands-on coding tutorials and group activities the most frequently stated reason](hands-on-coding-drove-workshop-engagement.md) — related
+- [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related

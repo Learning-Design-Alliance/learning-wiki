@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 331 claims (214 show a difference, 63 mixed, 54 no difference) · 209 studies (80 associational, 69 causal, 29 review, 10 quant-synthesis, 7 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 50 of 209 report an effect size · 323 claims rest on one study
+> **Evidence** · 332 claims (215 show a difference, 63 mixed, 54 no difference) · 210 studies (80 associational, 70 causal, 29 review, 10 quant-synthesis, 7 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 50 of 210 report an effect size · 324 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -367,6 +367,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [NAPLAN testing elevates student stress and anxiety, with feelings intense among older students](../claims/naplan-student-anxiety-stress.md) [+W] — measured as an outcome of the instruction studied
 - [Compared with traditional individual-only finals, students report the two-stage final increased their learning and 3-month retention and lowered their anxiety, with no perceived drop in group motivation](../claims/two-stage-final-vs-traditional-student-perceptions.md) [+M] — measured as an outcome of the instruction studied
 - [Higher student writing assessment literacy is negatively associated with writing anxiety among Chinese EFL undergraduates](../claims/swal-negatively-predicts-writing-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Asynchronous collaborative exams reduce exam anxiety, with the asynchronous in-person format rated slightly less anxiety-inducing than the asynchronous online format](../claims/async-exam-lower-anxiety.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

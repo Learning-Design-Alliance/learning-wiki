@@ -72,3 +72,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Adult learners view building an ethical learner-AI relationship, with baked-in AI ethics norms, as important for socio-emotional interaction](ethical-learner-ai-relationship-socio-emotional.md) — related
 - [Panelists identified professionalism, reflective practice, and critical thinking—including bias awareness and data-informed decision-making—as a core domain](smh-collab-professionalism-reflective-practice-domain.md) — related
 - [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — related
+- [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related

@@ -45,6 +45,7 @@ A design strategy drawn from the authors' experience running the quantum MOOCs: 
 
 - [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
 - [Introduce the Schrödinger equation chronologically, deriving it from the classical wave equation using the photon-energy and de Broglie-wavelength relations](chronological-introduction-schrodinger-equation.md)
+- [Introduce antimatter through the historical path, using non-relativistic quantum formalisms the student already possesses](history-based-antimatter-teaching-path.md)
 
 ## Examples
 -

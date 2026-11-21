@@ -53,3 +53,5 @@ Simulation-based evaluation of seven instruction-tuned LLMs on Malrule and EEDI 
 - [Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators](multi-turn-reflection-does-not-restore-sfs.md) — a narrower finding that bears on this claim
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related
 - [SFS-aligned post-training generalizes out-of-domain: models trained on one dataset retain substantial SFS gains on the other](sfs-post-training-cross-domain-generalization.md) — related
+- [Sycophantic LLM behavior may undermine educational equity by accelerating learning for knowledgeable students while reinforcing misconceptions for less knowledgeable ones](llm-sycophancy-educational-equity-risk.md) — related
+- [Generated feedback across models shows a considerable gap from teacher-written feedback: fine-tuned models score near zero on LLM rating, and human experts rate all model feedback below the ideal score of 3](mathedu-feedback-generation-gap-from-teachers.md) — related

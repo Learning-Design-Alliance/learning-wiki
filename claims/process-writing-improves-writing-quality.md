@@ -119,3 +119,4 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 - [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](writers-workshop-writing-attitudes-ell.md) — a narrower finding that bears on this claim
 - [Participants experienced instructional design and materials as supporting engagement with outlining, drafting, editing, and revising persuasive essays](experienced-materials-support-essay-engagement.md) — a narrower finding that bears on this claim
 - [Participants reported movement from fragmented prior understanding toward more organized understanding of essay writing processes](fragmented-to-organized-understanding-shift.md) — a narrower finding that bears on this claim
+- [Essay quality (AP rubric) did not significantly differ across conditions despite Script&Shift having the highest mean](no-essay-quality-difference-across-conditions.md) — related

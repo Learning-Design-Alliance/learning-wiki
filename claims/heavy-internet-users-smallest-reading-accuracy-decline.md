@@ -49,3 +49,4 @@ Observational GLMM analysis with internet-use × item-position interactions (Mod
 - [Both low and high 15-year-old internet users have lower baseline accuracy on PISA reading items than moderate users (inverted-U association)](internet-use-inverted-u-baseline-reading-accuracy.md) — related
 - [Internet use is not associated with declines in accuracy over the assessment in mathematics and science](internet-use-no-decline-difference-math-science.md) — related
 - [Students' odds of answering correctly drop sharply for items placed at the end rather than the start of the PISA test](item-position-end-of-test-lower-accuracy.md) — a broader claim this one bears on
+- [Vocabulary richness decreases slightly as question difficulty increases across all feedback tones](vocabulary-richness-decreases-with-difficulty.md) — related

@@ -53,3 +53,4 @@ Observation of math instruction across grades 2, 5, 8, 9, and 10 found introduct
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related
 - [The operation of time as a mechanism of change produced better pacing and sequencing of lessons, better curriculum coverage, and the imposition of routines](time-mechanism-pacing-coverage-routines.md) — reports the opposite
+- [Meeting consensus holds that skills, not content coverage, are the fundamental learning goals of introductory astronomy courses](skills-fundamental-goals-astro101-consensus.md) — related

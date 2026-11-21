@@ -135,3 +135,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — a narrower finding that bears on this claim
 - [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related
 - [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related
+- [VR removes social barriers in clinical skills training such as auscultation, supporting knowledge retention and skill acquisition](vr-removes-social-barriers-clinical-skills-training.md) — a narrower finding that bears on this claim

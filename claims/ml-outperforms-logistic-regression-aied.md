@@ -79,3 +79,4 @@ The review synthesized accuracy figures from studies (Table 7) comparing ANN, RF
 - [A logistic regression model with four academic predictors significantly classifies community college astronomy pass/fail outcomes](logistic-model-significant-astronomy-performance-predictors.md) — related
 - [Machine learning on discussion-dialog indicators predicts group learning outcome as High, Mid, or Low with best accuracy of 78.9%](ml-prediction-group-outcome-78-9-percent.md) — related
 - [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related
+- [Modified SANN outperforms baseline models in predicting program correctness](sann-outperforms-baselines-correctness-prediction.md) — a narrower finding that bears on this claim

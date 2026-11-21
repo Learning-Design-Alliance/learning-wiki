@@ -51,6 +51,7 @@ The article recommends performing Interdisciplinary Image Reading on carefully c
 - [Visual Prompts for Essay Writing](visual_prompts_for_essay_writing.md)
 - [Interdisciplinary hands-on art-science-culture workshops (carving, clay, art-making)](nsw-interdisciplinary-art-science-workshops.md)
 - [Use carefully chosen starter images to elicit student questions that are investigable with the given materials](starter-images-elicit-investigable-questions.md)
+- [Develop interdisciplinary didactic strategies linking astronomy concepts with physics, chemistry and biology, and revise the curricular distribution of astronomical concepts](interdisciplinary-astronomy-didactic-strategies-boyaca.md)
 
 ## Examples
 -

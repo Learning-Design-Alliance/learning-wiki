@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-21
 recheck_by: 2027
 sources:
   - id: zhongzhou-chen-and-tong-wan-2024
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The level of agreement between the scaffolded-COT AI grader and human raters reaches 70%-80% by percent agreement, comparable to the level of agreement between two human raters (75%). [→ Zhongzhou Chen and Tong Wan 2024 (2)](#zhongzhou-chen-and-tong-wan-2024-2)

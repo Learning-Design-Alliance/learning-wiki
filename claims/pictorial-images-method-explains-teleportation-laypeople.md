@@ -50,3 +50,4 @@ Theoretical/argumentative claim from the introduction: the paper's stated object
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Bi-stable drawings help show that quantum teleportation transports no object, because the destination identity is present from channel preparation](bi-stable-drawings-teleportation-misconception.md) — related
+- [Quantum pictorialism instruction enabled UK high-school students to pass a graduate-level quantum computing exam](quantum-pictorialism-case-study-results.md) — related

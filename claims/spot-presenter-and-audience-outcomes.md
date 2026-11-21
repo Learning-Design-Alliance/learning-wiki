@@ -51,3 +51,4 @@ Program evaluation of the Space Public Outreach Team, in which 42 NANOGrav membe
 - [Self-reported understanding of astronomy content shows a positive trend across all three cohorts, while interest gains are more varied but positive in each cycle](sattaa-interest-understanding-trends.md) — related
 - [Students successfully planned and conducted a public outreach observing session independently](students-public-outreach-session.md) — related
 - [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related
+- [Authentic engagement with a curious public audience drove changes in students' self-perceptions as physicists and developed communication career skills (audience dialog cluster)](audience-dialog-authentic-engagement-skills.md) — related

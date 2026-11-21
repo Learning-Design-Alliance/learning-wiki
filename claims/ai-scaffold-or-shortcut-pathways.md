@@ -63,3 +63,4 @@ Conceptual, theory-driven synthesis presented in the article's abstract. The fra
 - [The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously](chatgpt-era-skills-reorganisation.md) — related
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — possibly the same claim (merge candidate)
 - [Conceptual math reasoning enables shortcut solutions that reduce written procedures and open more expansive group discussion](conceptual-math-shortcuts-reduce-procedures.md) — related
+- [Students shift from viewing AI as a shortcut toward viewing it as a learning tool whose value depends on how it is used](ai-shortcut-to-learning-tool-shift.md) — a narrower finding that bears on this claim

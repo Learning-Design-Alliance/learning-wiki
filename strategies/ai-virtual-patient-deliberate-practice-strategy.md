@@ -17,7 +17,7 @@ sources:
 # Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 4 studies (2 causal, 2 review), `q2`–`q3` · 1 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 5 studies (3 causal, 2 review), `q2`–`q3` · 1 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 Deploy generative AI virtual patients as an adjunct or alternative to standardized patient training for communication skills. The approach "enables repeated, psychologically safe practice through interactive dialogue and automated feedback," grounded in deliberate practice and behavioral learning theory. Learners practice with a virtual patient, receive structured personalized feedback on specific skills, and can experiment without risk of harming real patients. The strategy is designed for scalable, accessible training that does not depend on the cost, availability, and consistency limitations of human SPs.

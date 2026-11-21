@@ -71,7 +71,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (50 for, 11 mixed) · 57 studies (15 causal, 15 qualitative, 10 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 57 report an effect size · 55 claims rest on one study
+> **Evidence** · 62 claims (51 for, 11 mixed) · 58 studies (15 causal, 15 qualitative, 11 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 58 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [Student teachers' local-wisdom-based assessment development reaches the Good category while remedial development reaches only Sufficient](../claims/assessment-good-remedial-sufficient-local-wisdom.md) [~W] — attached 2026-11-02 from Uus Toharudin (2017), which proposed "Use local wisdom values as a basis for developing assessment and remedial in biology education".
 - [A successor vocational-school path connecting physics measures to a professional instrument fully achieved its aim of increasing students' attention on physics](../claims/professional-instrument-connection-raised-vocational-students-attention.md) [+M] — attached 2026-11-17 from Vera Montalbano et al. (2013), which proposed "Connect physics examples to vocational students' future professional world to favour learning"; tests this page's relationship.
 - [Participants made connections to the learning material quicker because the basketball scenario was familiar and relevant](../claims/sport-c-relevancy-quicker-connections.md) [+W] — attached 2026-11-19 from Jeffrey Basoah et al. (2022), which proposed "Use sports as a bridge to increase URG students' participation and interest in STEM".
+- [Musical culture shapes whether an educational sonification feels relatable and understandable to its audience](../claims/musical-culture-shapes-sonification-relatability.md) [+W] — attached 2026-11-21 from Chris M. Harrison et al. (2025), which proposed "Design educational sonifications with the target audience's musical culture in mind to increase reach, accessibility, and relatability".
 
 ## Objective and learner-valued goal
 

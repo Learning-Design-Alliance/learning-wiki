@@ -46,3 +46,4 @@ Semantic network analysis (Fig. 2) identified a secondary cluster of three codes
 
 ## Related Claims
 - [A single student's interview dialogue can contain both fixed-mindset-aligned and growth-mindset-aligned descriptions of physics challenge, so student talk does not neatly fit one mindset category](mixed-mindset-dialogue-within-interviews.md) — related
+- [The growth mindset code appearing on the network map (outreach-to-discipline directionality) suggests students facilitating outreach are more likely to develop a growth mindset](outreach-growth-mindset-directionality.md) — related

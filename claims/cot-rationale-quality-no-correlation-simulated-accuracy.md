@@ -53,3 +53,4 @@ The review reports findings from Benedetto et al. [2024] on simulating student r
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related
 - [Within justifying, students identified associations, explained associations, thought probabilistically, and prioritized evidence](justifying-four-strategies-associations-probabilistic-evidence.md) — related
 - [Prompting LLMs to explain before answering improves their accuracy on mechanics conceptual questions](explanation-first-prompting-improves-llm-mechanics-accuracy.md) — related
+- [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related

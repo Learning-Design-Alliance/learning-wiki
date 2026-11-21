@@ -52,3 +52,4 @@ Pre/post comparison of the 24-point LCTSR in both sections found equal gains bet
 - [In one class of 14 non-science majors, preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) was followed by a larger average normalized LCTSR gain (68%) than in earlier courses without it (11%, n=42)](explicit-reasoning-instruction-preliminary-large-gains.md) — related
 - [Explicit instruction in scientific reasoning appears to produce larger reasoning gains, though observations are preliminary](explicit-reasoning-instruction-larger-gains-preliminary.md) — related
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
+- [Classroom-only instruction showed no significant learning gains from pre-test to post-test or delayed test](classroom-condition-no-significant-gains.md) — related

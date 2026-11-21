@@ -60,3 +60,4 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related
 - [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — a broader claim this one bears on
 - [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related
+- [In Workshop 2 on the visible spectrum, all groups reached the highest debugging level while most groups stayed at the intermediate automation level](taller2-ct-skill-levels-visible-spectrum.md) — related

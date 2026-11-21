@@ -50,3 +50,6 @@ Regressions with sub-group dummies (Table 3) on the 711-student sample: early st
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related
 - [Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects](sensitivity-analysis-cutpoints.md) — a narrower finding that bears on this claim
+- [Relative delayed start generalizes across systems, predicting grade 7 state test scores in i-Ready data](relative-delayed-start-cross-system-generalizability.md) — related
+- [Relative delayed start is the strongest individual session-level predictor of final math scores, outperforming time on task, attendance, and gaming tendency](relative-delayed-start-strongest-predictor.md) — related
+- [In stepwise combined models, relative delayed start, early stop, and idle time each negatively correlate with final math scores beyond prior performance](stepwise-combined-predictive-models.md) — related

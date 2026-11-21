@@ -92,6 +92,7 @@ Flashcards work because they force retrieval rather than restudy; the act of pul
 - [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
 - [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
 - [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
+- [Target retrieval practice at fundamental equations and prompt coherence-seeking rather than rote recall of complex formulas](retrieval-practice-fundamental-equations-coherence.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition system using the SM-2 algorithm; widely used in medical education for high-volume factual material.

@@ -49,6 +49,7 @@ Because the survey showed a general lack of reflection after problem solving in 
 - [Direct Instruction: Problem-Solving Strategies](direct_instruction-problem-solving_strategies.md)
 - [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
 - [Give students explicit prompts to think about group processes during PBL](explicit-prompts-group-processes-pbl.md)
+- [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](less-structured-problems-scaffolding-fading-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Meta-analytic synthesis of between-model/version comparisons within the 39 inclu
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — related
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — possibly the same claim (merge candidate)
+- [Within each provider's model family, successive performance tiers correlate with roughly 10–20 percentage-point accuracy increases](provider-tier-correlates-10-20-point-gains.md) — related

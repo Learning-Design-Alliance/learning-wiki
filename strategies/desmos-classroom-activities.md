@@ -63,6 +63,7 @@ The strategy's core mechanism is making student thinking collectively visible: b
 - [Peer Instruction](peer-instruction.md) — dashboard-revealed response distributions serve the same function as clicker votes
 - [Worked Examples](worked-examples-first.md) — some Desmos screens present annotated solutions before student attempts
 - [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
+- [Use interactive Desmos sliders so students modify switch-function constants and visualize their effects in real time](desmos-sliders-switch-function-constants.md)
 
 ## Examples
 - **[Polygraph: Parabolas](https://teacher.desmos.com/polygraph)** — a paired guessing game where students ask questions to identify a graph, forcing precise vocabulary use; the teacher dashboard reveals which vocabulary gaps block progress.

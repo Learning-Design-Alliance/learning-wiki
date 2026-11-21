@@ -92,3 +92,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [Student errors on cause-effect exercises are most frequently incorrect-cause-incorrect-effect, followed by missing-cause-correct-effect](error-distribution-cause-effect-exercises.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
+- [Student references to a nonexistent attachment increased the chance that LLMs of all sizes hallucinated equations, the most common error type for large models](fictitious-attachment-references-trigger-llm-hallucinated-equations.md) — related

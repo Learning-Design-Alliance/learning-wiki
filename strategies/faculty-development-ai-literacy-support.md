@@ -52,6 +52,7 @@ The chapter treats faculty development as crucial to implementing the framework.
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

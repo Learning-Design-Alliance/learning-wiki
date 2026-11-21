@@ -40,6 +40,7 @@ The article's forward-looking recommendation is directed at state education auth
 
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 - [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
+- [Deploy offline SLMs as virtual tutors with native-language localization for physics and photonics education in low-connectivity regions](slm-offline-native-language-tutors.md)
 
 ## Examples
 -

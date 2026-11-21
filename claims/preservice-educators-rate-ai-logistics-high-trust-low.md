@@ -58,3 +58,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — a narrower finding that bears on this claim
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
+- [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related

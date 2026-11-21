@@ -44,6 +44,7 @@ For finding a specific assigned paper, the guide recommends the SAO/NASA Astroph
 - [Teach literature searching with an iterative search-sort-inspect-repeat algorithm using field tags, search-string perturbations, and citation sorting](search-sort-inspect-repeat-literature-strategy.md)
 - [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 - [Present papers in journal club via a four-highlight scaffold centered on physical meaning](four-highlight-paper-presentation-scaffold.md)
+- [Use structured query commands for arXiv literature tracing and webpage content extraction](structured-arxiv-webpage-query-commands.md)
 
 ## Examples
 -

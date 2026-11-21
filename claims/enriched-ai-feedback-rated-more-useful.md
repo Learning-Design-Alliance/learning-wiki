@@ -70,3 +70,4 @@ Mann-Whitney U comparison of feedback helpfulness ratings in the creation task o
 - [Emotionally enriched AI feedback does not significantly change positive emotions (enjoyment, hope, pride) or most other negative emotions, though boredom was descriptively lower](enriched-ai-feedback-positive-emotions-unchanged.md) — related
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related
 - [Students receiving ChatGPT-4o personalized feedback rate it higher than control students rate correct/incorrect feedback on clarity, usefulness, motivation and satisfaction](satisfaction-higher-personalized-feedback.md) — related
+- [The unplugged AI learning path fostered high engagement, with 54.17% of students enjoying the activities very much and 83.33% reporting positive emotions](unplugged-ai-path-high-engagement.md) — related

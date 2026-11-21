@@ -71,3 +71,5 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — related
 - [Among five AI-detection tools, ZeroGPT was most accurate at 98% with precision 1.00 on binary classification](zerogpt-best-ai-detector-98-accuracy.md) — related
+- [Immediate per-trial feedback improves accuracy in distinguishing human-written from AI-generated texts](feedback-improves-ai-text-detection-accuracy.md) — related
+- [GPTZero misclassified 8 of 50 human-written essays as AI, a 16% false positive rate](gptzero-false-positives-human-essays-16-percent.md) — related

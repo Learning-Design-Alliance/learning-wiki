@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (92 show a difference, 31 mixed, 20 no difference) · 89 studies (39 causal, 29 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 89 report an effect size · 142 claims rest on one study
+> **Evidence** · 145 claims (93 show a difference, 31 mixed, 21 no difference) · 91 studies (40 causal, 29 associational, 12 review, 5 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 23 of 91 report an effect size · 144 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -179,6 +179,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial skills combined account for 8% of variance in primary science scores after controlling for verbal ability and age](../claims/spatial-skills-eight-percent-variance-science.md) [+M] — learners who differ on it differ in outcomes
 - [The spatial–science association does not vary across ages 7 to 11, contrary to a developmental-fading hypothesis](../claims/no-age-moderation-spatial-science-link.md) [+M] — learners who differ on it differ in outcomes
 - [In a placebo-controlled multiple-EF game training for children with ADHD, visuospatial STM and WM (CBTT forward and backward) improved more in the full-active condition than in the placebo condition](../claims/bgb-full-active-visuospatial-stm-wm-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Mental rotation ability does not significantly moderate the accuracy or cognitive-load benefits of DCN visualization](../claims/mra-no-moderator-effect-dcn.md) [-M] — an instructional effect differs with it
+- [VR-based medical education with interactive 3D visualization enhances spatial comprehension of anatomy](../claims/vr-3d-visualization-enhances-anatomical-spatial-comprehension.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

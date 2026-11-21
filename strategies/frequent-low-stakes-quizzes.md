@@ -131,6 +131,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 - [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 - [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
+- [Divide lectures into 10-15-minute segments ending with low-stakes LLM-generated MCQ retrieval practice and immediate feedback](segmented-lecture-llm-retrieval-practice-immediate-feedback.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

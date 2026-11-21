@@ -53,3 +53,4 @@ Benefit item from the anonymized survey (n = 37) with open-ended responses analy
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
+- [Students most valued the realistic experimental interface, interactive parameter adjustment, and self-paced learning flexibility](openphys-most-valued-features.md) — related

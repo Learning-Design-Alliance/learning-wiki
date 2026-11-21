@@ -47,7 +47,8 @@ The review recommends using SmartIPLs as a complementary modality rather than a 
 - [During the COVID-19 emergency Lab2Go created Lab2Go@home, promoting experiments with poor materials or low-cost tools such as smartphone apps and Arduino, and continued these activities after the emergency because of school interest](../claims/lab2go-home-covid-low-cost-experiments.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Quantum Straw activity sequence: hands-on smartphone spectroscopy with collaborative data pooling and a low-cost spectrometer](quantum-straw-activity-sequence.md)
 
 ## Examples
 -

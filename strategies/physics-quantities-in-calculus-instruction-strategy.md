@@ -47,7 +47,8 @@ The article recommends incorporating physical quantities students already know f
 - [The limit-to-zero conception of the differential can hinder students' understanding of integrals as sums](../claims/zero-limit-differential-hinders-integral-as-sum.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teach Taylor series kinematics in the introductory calculus sequence to leverage prior physics knowledge and motivate Taylor series](taylor-series-kinematics-in-calculus-sequence.md)
 
 ## Examples
 -

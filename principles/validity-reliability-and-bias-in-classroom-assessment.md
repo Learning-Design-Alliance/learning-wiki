@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 491 claims (254 for, 209 mixed, 28 against) · 370 studies (115 associational, 94 design, 64 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 35 of 370 report an effect size · 483 claims rest on one study
+> **Evidence** · 496 claims (258 for, 210 mixed, 28 against) · 373 studies (116 associational, 96 design, 64 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 35 of 373 report an effect size · 488 claims rest on one study
 
 ## Conditional relationship
 
@@ -335,6 +335,11 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [AI-assisted grading of a high-stakes physics exam achieves R² ≈ 0.91 agreement with human grades when handling half of the grading load and R² ≈ 0.96 at one-fifth of the load](../claims/ai-grading-accuracy-workload-tradeoff.md) [+W] — attached 2026-11-20 from Gerd Kortemeyer et al. (2024), which proposed "Keep humans in the loop with final grading authority when AI assists high-stakes grading"; tests this page's relationship.
 - [Student performance on open-bank and transfer problems was highly correlated, more strongly than the average correlation between other exam problems](../claims/open-bank-transfer-high-correlation.md) [+W] — attached 2026-11-20 from Zhongzhou Chen et al. (2023), which proposed "Make exam problems openly accessible by drawing them randomly from large isomorphic banks, discouraging rote memorization while removing the secure-items requirement"; tests this page's relationship.
 - [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](../claims/mark-scheme-improves-llm-grading.md) [+W] — attached 2026-11-20 from Mok et al. (2024), which proposed "Provide LLM graders with a mark scheme to improve grading accuracy and consistency"; tests this page's relationship.
+- [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](../claims/gerqn-single-factor-validation-statistics.md) [+W] — attached 2026-11-21 from Charlotte Zimmerman et al. (2025), which proposed "Develop reasoning assessments for a new population by adapting a validated instrument through staged interviews and statistics"; tests this page's relationship.
+- [Physics instructor experts uniformly endorse the GERQN items as representing valued course learning outcomes](../claims/gerqn-expert-validation-alignment.md) [+W] — attached 2026-11-21 from Charlotte Zimmerman et al. (2025), which proposed "Develop reasoning assessments for a new population by adapting a validated instrument through staged interviews and statistics"; tests this page's relationship.
+- [Gender differences were more pronounced in grade anomalies than in grades, with men having smaller grade penalties than women in most courses](../claims/gender-differences-more-in-agas-than-grades.md) [+W] — attached 2026-11-21 from Alysa Malespina et al. (2025), which proposed "Institutions concerned with equity should monitor grade penalties (average grade anomalies) alongside raw grades as a straightforward equity measure"; tests this page's relationship.
+- [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](../claims/scaffolded-cot-human-level-agreement-gpt35-grading.md) [+W] — attached 2026-11-21 from Zhongzhou Chen et al. (2024), which proposed "Use carefully engineered prompts to raise AI grading accuracy before resorting to fine-tuning, RAG, or few-shot learning".
+- [Preliminary re-testing found scaffolded COT unstable across runs while GPT-4o in chat mode reliably reached about 75% agreement using Detailed-Rubric COT](../claims/gpt4o-chat-mode-detailed-rubric-reliability.md) [~W] — attached 2026-11-21 from Zhongzhou Chen et al. (2024), which proposed "Use carefully engineered prompts to raise AI grading accuracy before resorting to fine-tuning, RAG, or few-shot learning".
 
 ## Objective and learner-valued goal
 

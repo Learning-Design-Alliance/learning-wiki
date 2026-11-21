@@ -70,3 +70,4 @@ Uncertainty check on the same hierarchical linear models: the article reports er
 - [Using a 75% expertlike-attitude cutoff, hierarchical generalized linear models of post-test algebra-based scores failed to converge because so few students from marginalized groups reached the cutoff](hglm-75-percent-cutoff-convergence-failure.md) — related
 - [Biology courses increased educational debts, physics courses maintained them, and chemistry courses decreased them](discipline-specific-debt-trajectories.md) — related
 - [Strata representation and FCI outcomes vary widely, with educational debts ranging from 21 points (CG Hispanic women) to 2 points (CG Asian men)](strata-representation-educational-debts-fci.md) — related
+- [During post-remote instruction, all statistically significant gendered grade differences (Calculus 1, Biology 1, Organic Chemistry 1 and 2, and Physics 1) favored men](post-remote-grade-differences-favor-men.md) — related

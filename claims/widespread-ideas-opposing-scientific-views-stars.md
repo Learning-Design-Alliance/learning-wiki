@@ -70,3 +70,4 @@ Item-level analysis of domain 2 responses: on item 2-13, which states that "star
 - [Views of (sub-)stellar objects show the least progress: no significant difference between lower and middle cohorts (p = 0.94), with only low pairwise effect sizes for later grades](substellar-objects-domain-least-progress.md) — related
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — possibly the same claim (merge candidate)
 - [Large fractions of middle school students hold incorrect views about sizes and distances in the universe both before and after instruction](niaq-size-distance-misconceptions.md) — related
+- [70% of Boyacá secondary students do not accurately locate the Solar System within the Milky Way](boyaca-students-milky-way-location-70-percent-incorrect.md) — related

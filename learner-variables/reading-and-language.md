@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 347 claims (216 show a difference, 59 mixed, 72 no difference) · 242 studies (98 causal, 56 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 242 report an effect size · 338 claims rest on one study
+> **Evidence** · 349 claims (216 show a difference, 61 mixed, 72 no difference) · 243 studies (99 causal, 56 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 243 report an effect size · 340 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -398,6 +398,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group](../claims/anova-distinguishes-estimated-ability-groups.md) [~M] — learners who differ on it differ in outcomes
 - [Astrobites-based reading assignments significantly improved the perceived ability of undergraduates in astronomy-related courses to parse jargon in research literature](../claims/astrobites-reading-jargon-perception-improved.md) [+M] — measured as an outcome of the instruction studied
 - [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](../claims/astrobites-reading-main-takeaways-largest-gain.md) [+M] — measured as an outcome of the instruction studied
+- [English-only student prompting generally outperforms multilingual prompting for student gains, except when instructions and hints are both in the native language](../claims/english-only-prompting-beats-multilingual-prompting-llm-tutoring.md) [~M] — an instructional effect differs with it
+- [Multiple hint iterations improve student gains, with a second hint often contributing meaningfully, though gains vary sharply by language](../claims/multiple-hints-improve-gains-language-dependent.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -47,3 +47,4 @@ Thematic analysis found 3 of 12 teachers (25%) wary the Google Tour Builder cont
 ## Related Claims
 - [Pupils enjoyed moving during VFT sessions, using body movements to answer questions, and sharing the experience with peers](pupils-enjoy-movement-and-peer-sharing-vfts.md) — related
 - [Teachers warn that resistance to interactive-whiteboard technology among less ICT-confident colleagues may hinder VFT adoption](teacher-technology-resistance-vfts.md) — related
+- [Technological and scenic novelty sustained learners' situational interest across repeated VR lessons, contrary to the expectation that novelty fades](scenic-technological-novelty-sustains-interest.md) — reports the opposite

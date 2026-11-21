@@ -58,3 +58,4 @@ Hiring-challenge data from the interview study: 33% of companies found it hard t
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
 - [Company visits helped students learn what quantum companies exist, but most students still did not learn about specific job roles](company-visits-build-industry-familiarity.md) — related
 - [Quantum industry representatives widely report talent scarcity as a major workforce development challenge](qt-industry-talent-scarcity.md) — a broader claim this one bears on
+- [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related

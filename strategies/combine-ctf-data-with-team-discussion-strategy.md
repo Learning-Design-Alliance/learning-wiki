@@ -49,7 +49,8 @@ The article recommends adding a CTF exercise so that teams gain "an additional d
 - [Teams judged CTF-based initial role assignments accurate, with at most one role swap after discussion](../claims/teams-confirmed-ctf-role-assignment-accuracy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assign complementary roles within small groups (prompt specialist, data analyst, group representative), with three members as the recommended maximum](nova-group-role-division-strategy.md)
 
 ## Examples
 -

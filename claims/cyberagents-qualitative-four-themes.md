@@ -63,3 +63,5 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
 - [Participant feedback themes were adaptation to simulation-based learning and recognition of its reflective, skills-based potential](vital-coms-feedback-content-analysis-themes.md) — related
 - [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related
+- [Students report increased clarity about appropriate AI use and its learning effects after the scenario-ranking activity](ai-scenario-activity-student-clarity-reflections.md) — related
+- [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related

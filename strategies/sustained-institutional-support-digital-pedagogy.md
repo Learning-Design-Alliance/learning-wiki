@@ -62,6 +62,7 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 - [Provide ongoing, in-depth faculty professional development that targets peer discussion as an essential component of clicker use.](ongoing-pd-for-peer-discussion-clickers.md)
 - [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
+- [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 
 ## Examples
 -

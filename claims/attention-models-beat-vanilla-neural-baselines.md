@@ -52,3 +52,4 @@ Cross-model comparison over the same five-fold cross-validated runs on both data
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
 - [BloomNet outperforms all considered baseline models on both IID and OOD classification of Bloom's taxonomy course learning outcomes](bloomnet-outperforms-baselines-bloom-classification.md) — related
 - [Explicitly encapsulating linguistic information together with word-level attention improves BloomNet's performance significantly over RoBERTa alone](linguistic-encapsulation-word-attention-improves-classification.md) — related
+- [Attention-based encoders outperform LSTM-based encoders for multimodal discourse assessment in overall and component-level performance except Nature of Discourse](attention-encoders-outperform-lstm-discourse-assessment.md) — related

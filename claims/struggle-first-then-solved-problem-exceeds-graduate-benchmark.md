@@ -54,3 +54,4 @@ Within-group pre/post comparison of calculus-based intervention 2 students (n=34
 - [First-year physics graduate students largely succeed on the three-step putty problem without scaffolding, providing an upper-limit benchmark of 9.2 out of 10](graduate-benchmark-putty-problem.md) — related
 - [Intervention 2 (solve the target problem first, then learn from the analogical solved problem) was among the most effective scaffolds in both courses, while intervention 1 was among the least effective](intervention-2-most-effective-scaffold.md) — related
 - [Learning gains are higher for students' first attempts than across all attempts](first-attempt-gains-exceed-all-attempt-gains.md) — related
+- [Mastery Learning students' formative assessment scores improved on second attempts in the Understand, Analyze, and Evaluate modules](fa-retakes-improve-pcp-module-scores.md) — related

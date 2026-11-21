@@ -57,3 +57,4 @@ Post-training comparison of DPO and GRPO on Qwen3-4B and Llama3.1-8B-Instruct ac
 - [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related
 - [DPO training on GPT-4 rubric annotations with mismatched feedback significantly improves the correctness and alignment of Llama 2-generated math feedback compared to zero-shot and SFT baselines.](dpo-score-mismatch-improves-math-feedback.md) — related
 - [DPO training brings the pedagogical rubric performance of an 8B open-source LLM to the level of GPT-4o while improving over SFT and distillation-only training](dpo-matches-gpt4o-pedagogical-rubric.md) — related
+- [DPO training with IRT-likelihood preference pairs makes simulated student responses strongly follow their prompted ability (θ-Align)](dpo-irt-preference-pairs-ability-alignment.md) — related

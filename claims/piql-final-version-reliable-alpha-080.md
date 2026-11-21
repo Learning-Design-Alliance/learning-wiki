@@ -99,3 +99,4 @@ Reliability measured by Cronbach's alpha across the iterative instrument version
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — related
 - [Expert validation interviews support that PIQL items represent reasoning experts expect students to develop in introductory physics](piql-expert-validation.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
+- [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related

@@ -57,3 +57,4 @@ Qualitative interviews with intervention teachers, thematically coded by the mai
 - [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](professional-development-bolsters-self-efficacy.md) — related
 - [Teacher narratives after happiness training yield eight recurring themes, including emotional exhaustion and recovery, reconnection with purpose, and improved classroom engagement](happiness-training-eight-qualitative-themes.md) — related
 - [Engagement with continuous personal and professional development sustains teachers' motivation](continuous-personal-professional-development-sustains-teacher-motivation.md) — related
+- [Independent learners struggle to sustain focus and regulate emotion in unstructured or distracting study settings](independent-learners-focus-emotion-struggle.md) — related

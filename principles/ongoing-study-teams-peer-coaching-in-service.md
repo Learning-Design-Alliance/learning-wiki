@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (41 for, 17 mixed, 4 against) · 43 studies (10 causal, 10 design, 9 review, 6 qualitative, 5 associational, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 43 report an effect size · 59 claims rest on one study
+> **Evidence** · 63 claims (42 for, 17 mixed, 4 against) · 44 studies (10 causal, 10 design, 9 review, 6 associational, 6 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 44 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Read against the model on 2026-10-19. Of the 25 claims that had gathered here in
 - [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](../claims/peer-support-participant-benefits-student-outcomes-rare.md) [+W] — attached 2026-11-08 from Campbell N et al. (2019), which proposed "Prefer a collaborative peer support model with trusted peer contributors over outside experts".
 - [Weekly instructor planning meetings appear important to implementing Modeling Instruction in ways that produce positive attitude shifts](../claims/weekly-planning-meetings-modeling-instruction-implementation.md) [+W] — attached 2026-11-17 from Eric Brewe et al. (2013), which proposed "Support curriculum reform implementation with weekly instructor planning meetings".
 - [Meeting agenda setting shifted from researchers providing all agenda items to teachers providing the majority](../claims/streamline-teacher-agenda-setting-shift.md) [+W] — attached 2026-11-17 from Ben Van Dusen et al. (2009), which proposed "Create communities in which teacher change might happen rather than trying to make teachers change".
+- [Schools with structured and ongoing professional development programs show a 30% higher adoption rate of digital tools than schools without such programs](../claims/structured-pd-30-percent-higher-adoption.md) [+W] — attached 2026-11-21 from Ning Yulin et al. (2023), which proposed "Institutions should establish stronger policy support systems for digital adoption, including IT resource access and digital coaches or technology mentors"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

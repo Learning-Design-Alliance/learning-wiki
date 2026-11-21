@@ -47,3 +47,4 @@ The article compared MSE and CE loss functions using fivefold cross-validated De
 
 ## Related Claims
 - [Fine-tuning LLMs and MLMs with cross-entropy loss using soft targets outperforms standard discretization and regression-head approaches on vocabulary difficulty prediction](soft-target-finetuning-beats-standard-loss-vocabulary-difficulty.md) — related
+- [Multi-task learning achieves near single-task performance with one joint model, and ordinal log-loss improves over cross-entropy and regression losses](multi-task-ordinal-loss-tradeoffs-discourse-scoring.md) — related

@@ -61,3 +61,4 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 - [Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks](dlp-risk-taking-perception-gap.md) — related
 - [Generous IT infrastructure in learning studios led to increased digital technology use requiring teacher coordination](infrastructure-density-increased-digital-use.md) — related
 - [Ninth-grade students entered the computational physics pilot largely comfortable with computers but with little or no programming experience](ninth-graders-comfortable-computers-little-programming-experience.md) — related
+- [In the baseline simulation of the interview-derived Learning Studios model, learning, belonging, confidence, personal growth, and motivation increase exponentially over 16 weeks while dissatisfaction and need for validation decrease exponentially](sd-baseline-exponential-growth-positive-constructs.md) — related

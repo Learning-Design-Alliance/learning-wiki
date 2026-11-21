@@ -68,3 +68,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [AI-driven (Julius AI) and human thematic analyses of learner narrative comments agreed on 74% of statements, with disagreement driven by the AI assigning multiple themes](ai-human-thematic-analysis-convergence-74-percent.md) — related
 - [Students' reflections on ChatGPT use yielded eight positive themes (e.g., efficiency, addressing knowledge gaps) and eight negative themes (e.g., generic responses, harming self-discipline and thinking)](chatgpt-reflection-themes-positive-negative.md) — related
 - [Graduate HCI design students found GenAI most useful in the execution phase of design, enabling faster prototyping iterations and freeing time for critical thinking](genai-execution-phase-faster-prototyping.md) — related
+- [Scaffolding-guided augmentation improves pedagogical effectiveness and robustness of the dialogue model](singakids-scaffolding-guided-augmentation.md) — related

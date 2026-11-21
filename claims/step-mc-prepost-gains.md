@@ -52,3 +52,4 @@ Paired t-test comparing aggregate scores on a 14-item multiple-choice questionna
 - [Students showed significant content-knowledge gains from pre-test to post-test after the Digital World level](engage-binary-tasks-pretest-posttest-gain.md) — related
 - [Both instructional programmes improved children's literacy performance from pre-test to post-test](both-programmes-improved-literacy-pre-post.md) — related
 - [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — a narrower finding that bears on this claim
+- [Playing Particle Builder significantly improved high school students' understanding of particle physics concepts](particle-builder-significant-learning-gains.md) — related

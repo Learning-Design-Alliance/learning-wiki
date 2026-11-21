@@ -171,3 +171,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [About a quarter of surveyed NAC students lacked the technology needed for study or school-related work during 2020, prompting laptop shipping and coding boot camps](nac-students-lacked-remote-technology-access.md) — related
 - [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related
 - [Scalability and accessibility gaps persist: software systems struggle to reach under-resourced regions while robot systems face high hardware costs](tutoring-systems-scalability-gaps.md) — related
+- [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related

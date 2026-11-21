@@ -52,3 +52,4 @@ Second research lesson cycle of the chemistry learning study, taught to class 4B
 - [Teachers in the chemistry learning study concluded that what counts is not active participation but experiencing a pattern of variation and invariance that allows discernment](teachers-learned-pattern-of-variation-counts.md) — a broader claim this one bears on
 - [A student pair's iterative redesign raised their pendulum t'-score from 0.18 to 3.71, leading them to conclude the two amplitude measurements differed](pendulum-pair-t-score-progression.md) — related
 - [The redesigned ballistic-trajectory measuring g experiment let the instructor reliably get within 5% of the actual value of g and gave students three methods of measuring g to compare](ballistic-g-experiment-within-5-percent-three-methods.md) — related
+- [Correct answers increased across all lessons, with all but 3 lessons reaching over 80% correct post-camp](qcamp-knowledge-increase-all-lessons.md) — related

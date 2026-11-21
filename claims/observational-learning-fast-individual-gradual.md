@@ -47,3 +47,4 @@ Post-hoc comparisons from the mixed-effects model of choice accuracy across tria
 ## Related Claims
 - [A reinforcement learning model with separate surprise and uncertainty learning-rate parameters per condition best fits gambling behavior, though individual parameter estimates did not reach significance](rl-model-separate-surprise-uncertainty-el-ol.md) — related
 - [Observing a peer's choices and outcomes improves probabilistic learning performance relative to individual learning in both children and young adults](observing-peer-outcomes-improves-probabilistic-learning.md) — related
+- [Learners showed gradual, sustained improvement during the Python instruction window, with performance stabilizing at a higher level afterward](gradual-improvement-stabilized-post-module.md) — related

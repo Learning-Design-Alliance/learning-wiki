@@ -65,3 +65,4 @@ Theoretical argument in the article's scaffolding section, drawing on the learne
 - [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](ai-overreliance-impairs-decision-making.md) — related
 - [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related
 - [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related
+- [In Experiment 1, high-achieving students under compulsory AI recommendation showed significant decline in self-regulated learning (d = -0.477) without achievement gains](high-achievers-srl-declined-compulsory-recommendation.md) — a narrower finding that bears on this claim

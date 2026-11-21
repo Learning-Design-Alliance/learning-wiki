@@ -64,6 +64,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
+- [Integrate more hands-on labs, collaboration, and expanded project time in future camp iterations](qcamp-future-improvements-strategy.md)
 
 ## Examples
 -

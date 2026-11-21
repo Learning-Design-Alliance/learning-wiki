@@ -53,3 +53,4 @@ Simulation study (learner models parameterized with student interaction data; no
 - [Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset](weakness-targeting-lowest-overpractice.md) — related
 - [Children who switched to the efficient method largely reverted to the inefficient method over subsequent trials](children-revert-to-first-learned-inefficient-method.md) — related
 - [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](proto-teg-self-improvement-no-student-performance-gain.md) — reports the opposite
+- [Fast-Forwarding reduces overpractice by 35.7% under the legacy mastery-hard problem selector in a simulated linear equation-solving tutor with limited practice time](fast-forwarding-reduces-overpractice-35-7-percent-mastery-hard.md) — related

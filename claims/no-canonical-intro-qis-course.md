@@ -70,3 +70,6 @@ Cross-case finding from the six faculty interviews: Ben, Carl, David, and Franz 
 - [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related
 - [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — a narrower finding that bears on this claim
 - [Most QISE courses in physics require quantum mechanics or linear algebra prerequisites, but a subset require neither](qise-course-prerequisites-physics.md) — related
+- [The article argues that physics-only access to continuous-variable quantum computing harms both learners and the field by homogenising researcher backgrounds](cvqc-single-entry-point-homogenising.md) — related
+- [The article claims a self-contained introduction to GKP qubits is achievable for CS-background learners with prerequisites limited to undergraduate linear algebra, probability theory, classical coding theory, and basic complex numbers](gkp-session-cs-prerequisites-only.md) — related
+- [Designing QISE courses for students with varied STEM backgrounds is a recognized curriculum weakness](qise-courses-varied-stem-backgrounds.md) — related

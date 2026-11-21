@@ -49,3 +49,4 @@ Intercultural gains survey (Table 4) among the 18 Finnish and Dutch pupils in th
 - [Telecollaboration with peers across borders had an additional motivational effect on pupils beyond appreciation of the virtual-world tasks themselves](tila-telecollaboration-additional-motivational-effect.md) — related
 - [A substantial share of participating students reported changed values and opinions about other cultures and the situation of migrants after the course](sis-changed-values-migrants-cultures.md) — related
 - [Telecollaboration in a 3D virtual environment increased foreign language discussion skills of secondary school learners](tila-opensim-discussion-skills-gains-all-groups.md) — related
+- [Spatial presence differed by cultural background but not by age group or learning environment, with no significant post-hoc group differences](spatial-presence-culture-difference.md) — related

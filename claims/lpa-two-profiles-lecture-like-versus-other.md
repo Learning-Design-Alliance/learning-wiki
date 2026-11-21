@@ -65,3 +65,4 @@ Discussion of the two-profile box plots (top panel of figure 2): the article ide
 ## Related Claims
 - [Latent profile analysis with five profiles sorts COPUS observations of six physics active learning pedagogies into interactive lecture-like, Modeling Instruction, ISLE labs, CRP labs, and recitation-like categories](lpa-five-profiles-classify-physics-active-learning-pedagogies.md) — related
 - [Distinct COPUS codes characterize each active learning profile: lecture and clickers for the lecture-like profile, student presentations and whole-class discussion for Modeling Instruction, predictions for CRP labs, and group worksheets for recitations](copus-codes-distinguish-active-learning-profiles.md) — related
+- [Latent Profile Analysis of classroom observations identifies four instructional profiles — Lecture, Clickers, Worksheets, and Other Groupwork — distributed differently within and across the four methods](four-latent-profiles-classroom-activities.md) — related

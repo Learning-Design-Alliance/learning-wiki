@@ -49,3 +49,4 @@ Two-factor ANOVA with interaction effects compared exam percent correct and over
 - [Fewer questions were asked of the instructor in webcast conditions, suggesting greater transactional distance for webcast and chat media](fewer-webcast-questions-transactional-distance.md) — related
 - [Webcast students rated the instructor significantly higher than videoconference students on encouraging further learning and motivating follow-up](webcast-higher-instructor-encouragement-ratings.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
+- [Across three midterms, the four feedback conditions (basic, textbook links, AI feedback, AI + textbook) showed no consistently significant differences in exam performance](no-significant-difference-four-feedback-conditions-practice-exams.md) — related

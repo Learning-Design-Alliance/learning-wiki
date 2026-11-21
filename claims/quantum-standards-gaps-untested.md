@@ -66,3 +66,4 @@ The authors state the standards are a first theoretical formulation; they report
 ## Related Claims
 - [Existing quantum assessment instruments are unsuitable for courses teaching destructive real-world measurement](standard-quantum-assessments-unsuitable-destructive-measurement.md) — related
 - [Developing PCK dimensions helped teachers address critical issues in teaching quantum physics such as mathematical formalism and use of representations](pck-dimensions-address-quantum-teaching-critical-issues.md) — related
+- [The article's evaluation of AI-generated personalized audiovisual environments is planned but untested: no pilot or user data exist yet](whisper-evaluation-theoretical-no-user-data.md) — related

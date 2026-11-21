@@ -53,3 +53,4 @@ Reliability analysis (ICC(3,1)) of three repeated scoring runs per model on 60 e
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related
 - [Large closed-weights LLMs show high test-retest reliability when scoring clinical summary statements across repeated runs](llm-high-test-retest-reliability-summary-statement-scoring.md) — related
 - [Test-retest reliability of LLM answers to histology MCQs ranged from moderate (Gemini, DeepSeek) to excellent (Claude)](llm-test-retest-reliability-varies-histology.md) — related
+- [Gemini-2.5-Flash showed weaker grading consistency than Claude-3.7-Sonnet (R² = 0.63, residual SD 1.51 vs 1.17), limiting its utility for formal assessment](gemini-flash-grading-inconsistency.md) — reports the opposite

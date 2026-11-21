@@ -76,3 +76,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related
 - [Student thematic analysis yielded three themes: educational applications, opportunities of AI use, and challenges and suggestions](student-themes-ai-scenario-feedback.md) — related
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
+- [Students report increased clarity about appropriate AI use and its learning effects after the scenario-ranking activity](ai-scenario-activity-student-clarity-reflections.md) — related

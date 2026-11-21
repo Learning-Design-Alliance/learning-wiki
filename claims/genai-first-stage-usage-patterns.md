@@ -78,3 +78,4 @@ LLM-classified ChatGPT conversation logs from treated students, complemented by 
 - [Students strongly oppose allowing AI chatbots to complete entire assignments, with 82.73% saying it should never be allowed, while supporting AI for concept explanation and brainstorming](students-oppose-ai-complete-entire-assignments.md) — related
 - [Students used ChatGPT mainly for summarizing information, literature research, and clarifying concepts](chatgpt-used-for-summarizing-research-clarifying.md) — related
 - [Students most commonly use genAI in STEM coursework for finding explanations, exploring topics, summarizing readings, and helping with problem sets, mainly to save time](genai-stem-coursework-use-cases-save-time.md) — related
+- [Students most commonly used LLMs for understanding concepts and debugging, with debugging equally dominant at 70% usage](llm-usage-patterns-concepts-debugging.md) — related

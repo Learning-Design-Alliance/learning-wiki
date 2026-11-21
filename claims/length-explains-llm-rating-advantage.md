@@ -50,3 +50,4 @@ Length-adjusted analysis (§5.1.1): OLS regression of each rubric dimension on w
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
 - [Needs-improvement sentences differ from positive sentences in actionability, out-of-class focus, and length](needs-improvement-sentence-qualities.md) — related
 - [No difference found on the focus dimension between comments perceived as stimulating and not stimulating reflection](feedback-focus-dimension-no-difference.md) — related
+- [LLM grading produced multi-sentence diagnostic feedback where human grader comments were typically two to three words](llm-grading-feedback-depth-advantage.md) — related

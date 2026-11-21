@@ -192,3 +192,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [In-service teachers implementing STEAM face challenges including lack of planning time, inadequate school structure, and difficulty assessing STEAM achievements](shernoff-2017-steam-teacher-challenges.md) — related
 - [Institutional barriers — inadequate training in innovative pedagogies, high course loads, resistance to change, and lacking resources — impede pedagogical modeling in Ghanaian teacher education](institutional-barriers-pedagogical-modeling-ghana.md) — related
 - [Teachers reportedly lack training and competencies in planning and reflecting inclusive science lessons](teachers-lack-training-inclusive-science-planning.md) — related
+- [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related

@@ -47,6 +47,7 @@ The authors recommend institutional investment in mentorship development: establ
 ## Related Strategies
 
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
+- [Invest in learning communities, mentorship programs, and active learning classrooms to boost belonging and engagement among engineering students](invest-learning-communities-mentorship-active-classrooms.md)
 
 ## Examples
 -

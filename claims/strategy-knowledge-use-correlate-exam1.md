@@ -48,3 +48,4 @@ Exploratory correlational analysis in the Study Smart cohort relating posttest s
 - [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](individual-difference-correlations-vary-by-strategy-condition.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Greater use of low-impact encoding strategies (summarizing, listening, flashcards, rewriting notes) is associated with slightly lower exam scores](encoding-strategies-lower-exam-scores.md) — related
+- [Students reported transferring confidence-rating and explanation strategies from the practice tool to actual midterms and future courses](metacognitive-strategies-transferred-to-real-exams.md) — related

@@ -49,6 +49,7 @@ The article recommends applying measures built on the NCTE data to improve instr
 - [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
 - [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
 - [Deliver scalable automated talk-move feedback to online instructors as a complement to professional development](automated-talk-move-feedback-strategy.md)
+- [Use audio-only recording (with transcription) for privacy-preserving automated discourse assessment](audio-only-privacy-preserving-discourse-assessment.md)
 
 ## Examples
 -

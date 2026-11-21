@@ -52,3 +52,4 @@ SAOM network structural effects were estimated for both network types; reciproci
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related
 - [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related
 - [Peer cooperation follows social hierarchy, with friendship eliminating rank-based differences in sent tokens](hierarchy-cooperation-friendship-moderator.md) — related
+- [Peer network development is comparable across the four active learning methods and does not explain differences in conceptual learning gains](peer-network-development-comparable-across-methods.md) — related

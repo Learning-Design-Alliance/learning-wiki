@@ -161,3 +161,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Tutorial-based thought-experiment instruction helps confront student conceptions about simultaneity and improves ability to resolve classic SRT paradoxes](srt-tutorials-confront-conceptions.md) — a narrower finding that bears on this claim
 - [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — related
 - [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — a narrower finding that bears on this claim
+- [FAA handbook lift explanations foster the misconceptions that lift always points upwards and that airfoil shape alone generates lift](faa-handbook-fosters-lift-misconceptions.md) — a narrower finding that bears on this claim

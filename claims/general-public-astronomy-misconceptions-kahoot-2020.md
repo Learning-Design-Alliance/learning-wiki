@@ -91,3 +91,5 @@ Same Kahoot! quiz during the 2020 broadcast, on the position of the Sun at the z
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
 - [The review reports that many preservice primary teachers hold alternative conceptions about the day-night cycle, Moon phases and the seasons](preservice-teachers-alternative-conceptions-astronomy-reported.md) — related
 - [Students present serious difficulties and alternative conceptions in learning astronomical subjects, partly linked to traditional teaching distanced from observational and experiential experience](alternative-conceptions-astronomy-traditional-teaching-fragmented-knowledge.md) — related
+- [Only 26% of Boyacá secondary students correctly link Earth's translation to the seasons and the months of solstices and equinoxes in the southern hemisphere](boyaca-students-seasons-solstices-26-percent-correct.md) — related
+- [Only 41% of Boyacá secondary students correctly identify the layers of the Sun](boyaca-students-solar-layers-41-percent-correct.md) — related

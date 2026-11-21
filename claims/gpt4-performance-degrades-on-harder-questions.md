@@ -49,3 +49,4 @@ Difficulty-stratified analysis of 376 Bachelor's and 693 Master's instructor-ann
 - [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — a broader claim this one bears on
 - [Under 6,000-token segmentation, GPT-4.1 accuracy did not differ significantly across Bloom's taxonomy cognitive levels](no-bloom-level-accuracy-differences-under-token-splitting.md) — reports the opposite
 - [LLM accuracy declines steadily as question complexity increases, from roughly 80% on recall questions to 28.6–33.3% on case-analysis questions, mirroring the human trend](llm-accuracy-declines-with-question-complexity.md) — a broader claim this one bears on
+- [SLM physics performance declines monotonically with Bloom's cognitive complexity and is weakest on procedural knowledge](slm-performance-declines-with-cognitive-complexity.md) — a narrower finding that bears on this claim

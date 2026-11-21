@@ -39,6 +39,7 @@ Among future refinements, the authors plan to add components of peer instruction
 ## Related Strategies
 
 - [Support faculty adoption of active learning with peer communities, framing, incentives, and iterative refinement](faculty-support-for-ebae-implementation.md)
+- [Run a parallel full-semester business course and reintroduce industry-submitted topics and coaches in a hybrid model](qel-future-improvement-strategies.md)
 
 ## Examples
 -

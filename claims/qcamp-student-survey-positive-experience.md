@@ -48,3 +48,5 @@ End-of-camp student survey administered via REDCap; twenty student participants 
 - [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related
 - [Teachers reported strong positive impacts after the QCaMP teacher camp, including increased confidence delivering quantum, computing, math, and physics instruction](qcamp-teacher-survey-positive-impacts.md) — related
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — related
+- [QCaMP 2024 participants' average knowledge assessment score rose from 19% correct before camp to 84% correct after camp](qcamp-knowledge-gains-19-to-84-percent.md) — related
+- [Students' perceived understanding of quantum science, computing, and physics improved significantly from pre to post camp](qcamp-understanding-gains-significant.md) — related
