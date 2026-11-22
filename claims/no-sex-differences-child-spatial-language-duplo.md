@@ -71,3 +71,4 @@ ANOVA on 48-month DUPLO play data (N = 115, collapsed across mother and father i
 - [Tentative longitudinal interaction: mother spatial language quantity at 24 months relates negatively to boys' but positively to girls' later spatial language quality](gender-mother-quantity-longitudinal-interaction.md) — related
 - [Parents used more spatial language at 24 months than at 48 months, an effect attributable to differences in overall talkativeness](parent-spatial-language-timepoint-talkativeness.md) — related
 - [The authors interpret higher spatial language quality with daughters as possibly reflecting a perceived need to provide conceptual support](perceived-conceptual-support-daughters-interpretation.md) — related
+- [Boys' and girls' networks differ structurally: centrality profiles show no significant correlation (out-EI r = 0.39, p = 0.212; in-EI r = 0.28, p = 0.384)](sex-networks-centrality-profiles-uncorrelated.md) — related

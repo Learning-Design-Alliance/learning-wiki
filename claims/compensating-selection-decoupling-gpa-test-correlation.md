@@ -53,3 +53,4 @@ Correlational analysis comparing incumbents (admitted students) with all test-ta
 - [Bachelor's GPA and MCQ exam results are positively correlated, supporting the accuracy of the GPA admission criterion](bachelors-gpa-mcq-positive-correlation.md) — related
 - [Correlations between HAM-Nat and GPA are extremely low, indicating discriminant validity supporting use of both predictors](ham-nat-gpa-discriminant-validity.md) — related
 - [High-positive correlations between admissions tools and outcomes should not be assumed desirable, given how selection tools are designed](high-positive-validity-correlations-not-necessarily-desirable.md) — related
+- [IC-MD admission admits applicants with GPAs up to 3.0 who would not have received places in the grade-based quotas](ic-md-admits-gpa-up-to-3-0.md) — related

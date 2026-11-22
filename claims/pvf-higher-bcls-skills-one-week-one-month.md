@@ -54,3 +54,4 @@ Randomized controlled trial of 40 incoming nursing students randomized to experi
 - [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — related
 - [CPR quality scores were significantly higher in the experimental group at 3 and 6 months but not immediately after training](zone0-iv-cpr-quality-retention.md) — related
 - [Video-assisted reflection after simulation produces similar airway skill gains to recall-assisted reflection but better retention at 1 month](var-better-retention-than-rar.md) — related
+- [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related

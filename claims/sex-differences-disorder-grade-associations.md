@@ -55,3 +55,5 @@ Stratified regression models with interaction tests on the register sample. Tabl
 - [Unipolar depression is the disorder associated with the lowest mean grades among male students, and the second-highest ineligibility odds among males](unipolar-depression-males-lowest-grades.md) — related
 - [Females with social anxiety disorder are more educationally impaired than males with social anxiety disorder at most educational levels, particularly starting a university degree](sad-females-more-impaired-than-males.md) — a narrower finding that bears on this claim
 - [No significant gender differences in depression, loneliness, social satisfaction, or academic achievement scores among university students](no-gender-differences-emotional-functioning-achievement.md) — reports the opposite
+- [The age-at-onset gradient in achievement holds for most disorders and both genders, but for anxiety disorders only in males](anxiety-onset-gradient-males-only.md) — related
+- [The association between mental disorder diagnosis and lower school achievement is more pronounced in female than male students](gender-difference-mental-disorder-gpa-females-stronger.md) — related

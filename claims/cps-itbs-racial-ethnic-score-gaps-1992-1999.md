@@ -117,3 +117,4 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
 - [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related
 - [In LA-supported courses, average effect sizes of white students differed significantly from Asian, black, and other students, with white students outperforming Asian and other students](lasso-race-effect-size-differences.md) — related
+- [Large racial disparities in grade 3 academic outcomes exist within this CPS-involved infant cohort](racial-disparities-cps-cohort-outcomes.md) — a narrower finding that bears on this claim

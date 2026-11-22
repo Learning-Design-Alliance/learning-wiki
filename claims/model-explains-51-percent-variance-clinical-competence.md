@@ -49,3 +49,4 @@ Reported R² from the SEM model with self-directed learning and AI acceptance as
 - [Demographic and professional factors explain only 1.8% of variance in perceived competency, whereas internal psychological factors raise explained variance to 76.5%](psychological-factors-outperform-demographics-predicting-competency.md) — related
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
 - [The research model explains 25% of the variance in medical students' practice of EBM](model-explains-25-percent-ebm-variance.md) — related
+- [The structural model accounts for 65.8% of variance in professional commitment](model-explained-variance-commitment-65-8.md) — related

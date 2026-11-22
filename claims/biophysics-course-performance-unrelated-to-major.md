@@ -51,3 +51,4 @@ Comparison of final percentage scores by declared major from Table I (2008–201
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Second-year students rate a co-taught interdisciplinary biophysics course highly, with 91% positive overall ratings over six years](current-topics-biophysics-high-student-satisfaction.md) — related
 - [The biophysics general education course enrolled about 60 students per offering, the majority of whom were not science majors](physics-of-life-enrollment-non-science-majors.md) — related
+- [Academic major did not significantly influence average sleep duration, and sleep–GPA relationships were similar for STEM and non-STEM majors](academic-major-no-effect-on-sleep.md) — related

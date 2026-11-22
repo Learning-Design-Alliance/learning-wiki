@@ -99,3 +99,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related
 - [The CTCS-SP shows good inter-rater reliability, with an ICC of .84 for the mean competence score](ctcs-sp-good-inter-rater-reliability.md) — related
 - [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

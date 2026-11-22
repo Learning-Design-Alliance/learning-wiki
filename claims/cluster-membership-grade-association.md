@@ -86,3 +86,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related
 - [Hybrid cluster membership is statistically significantly associated with students' multiple-choice answer selection on a physics quiz question](cluster-membership-associated-with-mc-answers.md) — related
 - [Course type is statistically associated with PLIC profile membership at both timepoints, but the effect is small (Cramér's V ≈ 0.10)](course-type-small-effect-plic-profiles.md) — related
+- [Gender, ethnicity, international student status, and first-generation status are not associated with depressive symptom trajectory group membership among first-year students](sociodemographics-not-associated-trajectory-groups.md) — related

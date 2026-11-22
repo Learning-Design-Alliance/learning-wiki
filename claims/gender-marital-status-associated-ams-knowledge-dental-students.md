@@ -50,3 +50,4 @@ Chi-square tests in a multicentre cross-sectional survey of 160 clinical dental 
 - [Academic year, marital status, working status, and financial status show no significant association with knowledge level](no-association-demographics-knowledge-syria.md) — reports the opposite
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
 - [No categorical demographic variable was significantly related to AMS opinion scores, and no participant scored Poor on any AMS measure](null-opinion-associations-no-poor-scorers-ams.md) — reports the opposite
+- [Gender, marital status, and specialty type remained independent predictors of MHLS total scores in multivariable regression, while age and psychiatry experience did not](regression-independent-predictors-mhls.md) — related

@@ -52,6 +52,7 @@ In the context of COVID-19 restrictions on surgical training, the article recomm
 - [Use video-based 'indirect' rating as a resource-sparing alternative to on-site expert rating of procedural skills](indirect-video-rating-procedural-skills-strategy.md)
 - [Use simulation technologies and skills labs to accelerate learning when operative exposure is reduced](simulation-skills-labs-reduced-operative-exposure.md)
 - [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
+- [Design high-investment surgical training pathways as modular programs so low-cost metric-based simulations, virtual/augmented reality, and remote-learning alternatives can substitute when resources are constrained](modular-low-cost-adaptations-constrained-settings.md)
 
 ## Examples
 -

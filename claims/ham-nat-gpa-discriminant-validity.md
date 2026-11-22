@@ -50,3 +50,4 @@ Pearson correlation analysis across four dental cohorts found "The correlations 
 - [HAM-Nat is a stronger predictor than GPA of physics and chemistry course performance in three of four dental cohorts](ham-nat-stronger-than-gpa-physics-chemistry.md) — related
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
 - [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
+- [The IC-MD shows no correlation with TMS results and GPA, complementing cognitive-ability-based selection quotas](ic-md-divergent-validity-cognitive-criteria.md) — related

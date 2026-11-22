@@ -54,3 +54,4 @@ Baseline screening of the representative cohort of 404 students at one UAE unive
 - [72% of surveyed Chinese college students reported a certain level of general anxiety during first-wave COVID-19 e-learning](72-percent-gad2-anxiety-covid-elearning.md) — related
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
+- [Depressive symptoms are highly prevalent (50.7% clinically significant) among Saudi university students but do not independently predict GPA](depression-prevalent-not-gpa-predictor.md) — related

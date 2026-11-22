@@ -42,7 +42,9 @@ The article recommends partnering with schools so screening, exams, and glasses 
 - [Serving multiple students within a school and letting students choose frames were perceived to reduce stigma and increase willingness to wear glasses](../claims/school-based-group-delivery-reduces-glasses-stigma.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Advocate for community-level changes to housing access, health insurance coverage, child safety, and free or low-cost health services](community-level-advocacy-nssd-outcomes-strategy.md)
+- [Incorporate regular visual acuity and accommodative function assessment and full myopia correction into school vision screening](school-vision-screening-full-correction-strategy.md)
 
 ## Examples
 -

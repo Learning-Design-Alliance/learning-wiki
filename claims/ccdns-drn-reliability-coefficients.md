@@ -50,3 +50,4 @@ Reliability analysis within the 401-nurse cross-sectional survey; test–retest 
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
+- [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related

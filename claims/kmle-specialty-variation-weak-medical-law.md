@@ -75,3 +75,4 @@ Cross-model specialty comparison in the KMLE evaluation. In internal medicine GP
 - [GPT-4 and GPT-4o show substantial improvement over GPT-3.5 across all clinical clerkships, with GPT-4o achieving 100% in family medicine and internal medicine](gpt-4o-clerkship-accuracy-including-perfect-family-and-internal-medicine.md) — related
 - [The four LLMs' accuracy varied across medical subject categories, with weaknesses in interdisciplinary questions, behavioral health, hematolymphoid topics, neurology and medical ethics](llm-accuracy-varies-by-medical-subject-category.md) — related
 - [Relative knowledge gain varies by specialty: 'other specialties' gained most (44%) and sports medicine least (14%)](relative-gain-varies-by-md-specialty.md) — related
+- [LLM accuracy was higher on older exam years, which the authors attribute to the rising difficulty of the national examination from 2022 to 2024](llm-accuracy-declines-with-newer-exam-years.md) — related

@@ -49,3 +49,5 @@ Multivariate logistic regression in the cross-sectional study of 563 adolescents
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — a broader claim this one bears on
 - [Modifiable perinatal exposures — maternal smoking, postnatal corticosteroids, and nonexclusive breastfeeding — are associated with lower attainment, while antenatal corticosteroids are protective](modifiable-perinatal-exposures-attainment.md) — related
 - [Higher adherence to the Mediterranean diet is associated with higher odds of high academic achievement among Lebanese adolescents](mediterranean-diet-adherence-academic-achievement-lebanon.md) — related
+- [Non-Jordanian students have lower odds of high academic performance than Jordanian students](non-jordanian-students-lower-odds-high-cgpa.md) — related
+- [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related

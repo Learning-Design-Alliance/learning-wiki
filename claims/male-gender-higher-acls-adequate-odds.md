@@ -54,3 +54,6 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 - [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — reports the opposite
 - [WAD knowledge level, male gender, greater experience and urban practice location predicted GPs' confidence in diagnosing and managing WAD](gp-confidence-wad-predictors.md) — related
 - [Male retailers are more likely to have no health-related training and less likely to be trained in nursing or midwifery than female retailers](gender-disparity-retailer-health-training.md) — reports the opposite
+- [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
+- [Male physicians report higher achalasia knowledge and diagnostic recognition, while female physicians report more self-perceived deficiencies](gender-differences-achalasia-knowledge-turkiye.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

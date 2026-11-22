@@ -70,3 +70,4 @@ Same two-week dry-laboratory time-trial dataset, female students: times "improve
 - [Neither sex nor sports activity correlated with improvement in endoscopic forceps skills](no-sex-or-sports-correlation-forceps-improvement.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
 - [Surgical aspiration significantly sped skill acquisition among male students but showed no significant impact among female students](aspiration-effect-male-only-female-null.md) — related
+- [Surgeons' proficiency scores were statistically stable across the first and second halves of their caseloads, with a weak but significant correlation between halves](sps-stability-across-case-halves.md) — related

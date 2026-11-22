@@ -57,3 +57,6 @@ Second-hand finding reported in this article's discussion, attributed to referen
 - [Simulation-based cataract surgical training produces an almost 3-fold increase in objectively assessed surgical competence at 3 months compared with conventional training alone](simulation-training-triples-cataract-surgical-competence-3-months.md) — related
 - [Resident-performed MSICS after wet-laboratory training has a lower intraoperative complication rate than before its introduction (23.7% vs 15.08%)](wet-lab-training-lower-intraoperative-complications-msics.md) — related
 - [Posterior capsule rupture and vitreous loss fall from 14.3% to 6.9% after wet-laboratory training in resident-performed MSICS](wet-lab-training-reduces-pc-rupture-vitreous-loss.md) — related
+- [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related
+- [A simulation-based surgical curriculum with case reviews and immediate feedback was followed by a large drop in resident PCR and AV rates (7.7% to 1.4%)](simulation-curriculum-reduced-resident-complications.md) — related
+- [With hands-on training and adequate supervision, high-volume trainees remained comparable to consultants in complication rates](supervised-high-volume-trainees-comparable-complications.md) — related

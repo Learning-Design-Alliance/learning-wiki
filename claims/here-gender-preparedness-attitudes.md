@@ -92,3 +92,5 @@ Multivariate linear regression of the Polish cohort; on the attitudes subscale, 
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
 - [Female students report significantly higher expectation and interest scores than male students before training, and higher expectation after training](gender-differences-obstetric-expectation-interest.md) — related
 - [Pre-post gains differ by country: British students led on attitudes and skills before the intervention, Spanish students after](enursus-country-differences-gains.md) — related
+- [Female residents scored higher than male residents on total MHLS and the knowledge subscale](female-residents-higher-mhls.md) — related
+- [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — related

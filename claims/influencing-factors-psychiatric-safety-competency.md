@@ -54,3 +54,5 @@ Theme 2 of the interview study (subthemes: manpower resources, leadership, teamw
 - [Nurses report being discouraged from voluntarily reporting medication errors by blame-oriented cultures and cumbersome procedures](barriers-voluntary-medication-error-reporting.md) — related
 - [A climate of mistrust, blame and lack of management understanding undermines midwives' motivation despite their commitment to patient survival](mistrust-blame-undermine-midwife-motivation.md) — related
 - [Mentors' improvement proposals concentrate on training, safety culture and climate, and individual attitudes](mentor-proposals-training-culture-attitudes-dominant.md) — related
+- [Patient safety activities correlate positively with most culture subdomains and all competency subdomains among clinical nurses](activities-correlations-culture-competency-subdomains.md) — related
+- [Teamwork within patient safety culture is positively associated with nurses' patient safety activities](teamwork-culture-associated-safety-activities.md) — related

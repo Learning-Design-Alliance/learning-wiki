@@ -54,3 +54,4 @@ Definitional statement from the report's introduction listing the four near-term
 - [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](school-child-welfare-data-predict-near-term-academic-risks.md) — a broader claim this one bears on
 - [Of 259 predictors analyzed for enrollment prediction, four stand out as most important: prior cohort sizes, in-school suspensions, out-of-school suspensions, and absences](sdp-enrollment-four-key-predictors.md) — related
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](social-skills-academic-effect-unclear.md) — related
+- [Food insecurity is linked to broader academic disruptions beyond grades, including poor concentration, absenteeism, lost credit hours, and delayed degree completion](food-insecurity-academic-disruption-broader-outcomes.md) — related

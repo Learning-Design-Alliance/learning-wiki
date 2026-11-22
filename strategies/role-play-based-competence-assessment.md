@@ -47,6 +47,7 @@ The article recommends assessing the skill component of therapist competence via
 - [Use standardized patients with structured training and consistent role portrayal across simulation sessions](standardized-patients-structured-training-consistent-portrayal.md)
 - [Acting/Role Play](acting-role-play.md)
 - [Role Play](role-play.md)
+- [Run rupture-focused supervision as a standardised five-step procedure of mindfulness, case introduction, two role plays with doubling, and a third role play on the therapist's own contribution](standardised-five-step-maft-d-supervision-procedure.md)
 
 ## Examples
 -

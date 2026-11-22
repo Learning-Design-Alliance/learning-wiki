@@ -53,6 +53,7 @@ The article recommends that program directors ensure faculty receive 'adequate i
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
 - [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Provide specific airway management training for non-anaesthesiologist HEMS personnel, supported by simulation access and HEMS-tailored national guidelines](specific-airway-training-non-anaesthesiologist-hems-personnel-strategy.md)
 
 ## Examples
 -

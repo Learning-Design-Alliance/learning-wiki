@@ -50,3 +50,4 @@ Correlational analysis in the N = 395 survey using the DESIGMA A+ intelligence m
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [Empathy and patient orientation correlate positively with VA-MeCo scores, most strongly with the building relationship dimension](va-meco-patient-interaction-convergent-validity.md) — related
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — related
+- [C-Scale-I scores correlate positively with the Visual Analogue Confidence Scale (r = 0.61), supporting concurrent validity](c-scale-i-concurrent-validity-cvas.md) — related

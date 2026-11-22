@@ -63,3 +63,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
 - [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related
 - [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — related
+- [Physical activity is not significantly associated with high academic performance (cGPA > 3.5) among Jordanian medical-field students](physical-activity-not-associated-cgpa-jordanian-medical-students.md) — related

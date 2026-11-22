@@ -49,3 +49,4 @@ Results-section interview findings on assessment: the study reports rote-memoriz
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md) — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [The integrated Rain Classroom/CBL approach shifted learning emphasis toward deeper conceptual understanding potentially at the expense of rote memorization](rain-classroom-cbl-shifted-learning-emphasis.md) — related
+- [Prioritizing performance goals and grades over mastery orients students toward test performance at the expense of authentic understanding](grade-focus-trivializes-learning-hpe.md) — related

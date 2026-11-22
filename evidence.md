@@ -6,11 +6,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **19,427 distinct studies** behind 86,180 claims. What they add up to (the sections below have the detail):
+The wiki holds **19,543 distinct studies** behind 86,772 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 1% are pre-registered trials or well-powered meta-analyses (`q4`). 60% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 4,626 of 19,427 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 2,052 studies are rated `r3`, done well for their kind; 1,432 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 4,659 of 19,543 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 2,067 studies are rated `r3`, done well for their kind; 1,438 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 79% of studies, and 52% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 3% strong, 29% moderate and 68% weak, and 53% supporting, 41% conditional and 5% against.
@@ -21,33 +21,33 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 86,180 |
-| Evidence entries | 101,692 |
-| Distinct studies | 19,427 |
-| Claims resting on one study | 85,393 (99%) |
+| Claims | 86,772 |
+| Evidence entries | 102,386 |
+| Distinct studies | 19,543 |
+| Claims resting on one study | 85,984 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 4,626 of 19,427 (24%) |
+| Studies reporting an effect size | 4,659 of 19,543 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 175 | 3,324 | 2,630 | 438 | 6,567 |
-| quant-synthesis | 206 | 388 | 88 | 135 | 817 |
-| review | 341 | 1,072 | 181 | 157 | 1,751 |
-| associational | 239 | 2,476 | 1,427 | 324 | 4,466 |
-| qualitative | 576 | 713 | 119 | 124 | 1,532 |
-| design | 251 | 2,298 | 537 | 77 | 3,163 |
-| theoretical | 264 | 675 | 105 | 86 | 1,130 |
+| causal | 177 | 3,330 | 2,635 | 442 | 6,584 |
+| quant-synthesis | 207 | 391 | 88 | 135 | 821 |
+| review | 343 | 1,072 | 181 | 157 | 1,753 |
+| associational | 245 | 2,524 | 1,450 | 324 | 4,543 |
+| qualitative | 579 | 713 | 119 | 124 | 1,535 |
+| design | 251 | 2,304 | 539 | 78 | 3,172 |
+| theoretical | 265 | 677 | 106 | 86 | 1,134 |
 | not yet coded | | | | | 1 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,976 (10%) | 11,644 (60%) | 5,607 (29%) | 200 (1%) |
+| 1,980 (10%) | 11,716 (60%) | 5,645 (29%) | 202 (1%) |
 
-**Studies per claim:** 0: 3, 1: 85,393, 2: 685, 3: 76, 4 or more: 23.
+**Studies per claim:** 0: 3, 1: 85,984, 2: 686, 3: 76, 4 or more: 23.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -108,7 +108,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 89 pages | 3 | q2–q3 | 2 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 87 pages | 6 | q2–q3 | 1 of 6 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
-| [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3–q4 | 0 of 3 |
+| [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 81 pages | 3 | q3–q4 | 0 of 3 |
 
 Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, learning scores differ across …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
@@ -116,7 +116,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-936 claims are cited both ways.
+939 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -150,14 +150,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 35 | 0 |
 | [elements](elements/index.md) | 1,057 | 798 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 39 | 0 |
-| [strategies](strategies/index.md) | 16,962 | 12,483 | 1 | 0 |
+| [strategies](strategies/index.md) | 17,068 | 12,585 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 14 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 925 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 75 | 75 | 101 | 0 |
-| [designs](designs/index.md) | 5,671 | 3,796 | 1 | 1 |
-| [products](products/index.md) | 5,638 | 3,964 | 1 | 1 |
-| [research-methods](research-methods/index.md) | 1,462 | 1,126 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 75 | 75 | 102 | 0 |
+| [designs](designs/index.md) | 5,688 | 3,804 | 1 | 1 |
+| [products](products/index.md) | 5,664 | 3,979 | 1 | 1 |
+| [research-methods](research-methods/index.md) | 1,463 | 1,127 | 1 | 0 |
 
 ## Toward pooled estimates
 

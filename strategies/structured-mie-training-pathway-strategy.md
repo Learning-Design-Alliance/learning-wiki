@@ -54,6 +54,8 @@ The institution's training program moves advanced upper-GI surgeons through a fi
 - [Five-step structured training pathway for a surgical team adopting LASPME](five-step-laspme-team-training-pathway.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
+- [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
+- [Structure vaginal myomectomy training as approximately 30–34 supervised cases with mentorship and stepwise responsibility for trainees with prior vaginal surgery experience](vm-training-30-34-supervised-cases-strategy.md)
 
 ## Examples
 -

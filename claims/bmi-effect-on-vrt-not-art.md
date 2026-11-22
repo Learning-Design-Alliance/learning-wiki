@@ -47,3 +47,4 @@ One-way ANOVA across underweight (n = 69), normal (n = 340) and obese (n = 209) 
 ## Related Claims
 - [Low achievers had significantly slower reaction times than mid and high achievers, but mid and high achievers did not differ](low-achievers-slower-rt-than-mid-high.md) — related
 - [Reaction times and gender are the only independent predictors of academic performance, explaining 11% of variance](rt-and-gender-independent-predictors-academic-performance.md) — related
+- [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related

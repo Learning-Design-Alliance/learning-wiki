@@ -70,3 +70,4 @@ Same self-designed questionnaire: "27 of 30 medical students (90%)" in the VSP g
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — related
 - [Students trained with VSP-TCM report greater gains in TCM thinking, history collection, communication, and autonomous learning than traditionally trained students](vsp-tcm-student-feedback-gains.md) — related
+- [Nurses' utilization of genomics in practice is low: family history collection is incomplete and most never facilitate genetic service referrals](nurse-genomic-practice-utilization-low.md) — related

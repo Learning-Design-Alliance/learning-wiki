@@ -46,3 +46,4 @@ Authors' interpretation in the Discussion of their own demographic findings, arg
 
 ## Related Claims
 - [PBPM participants differed demographically and academically from non-PBPM classmates: more URiM students, older at admission, lower GPA and MCAT percentile, and more social science majors](pbpm-demographic-academic-differences.md) — possibly the same claim (merge candidate)
+- [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related

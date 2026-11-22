@@ -51,6 +51,7 @@ The authors recommend that programs treat emotional support as a core component 
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
+- [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
 
 ## Examples
 -

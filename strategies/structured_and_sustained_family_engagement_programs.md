@@ -71,6 +71,7 @@ Engagement that is *structured* (planned, role-assigned, scheduled) and *sustain
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
 - [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](college-explorer-with-goal-setting-and-parent-conferences.md)
 - [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
+- [Involve school staff and students in planning, and use workshops, parental meetings, researcher support and materials to optimise adherence](staff-student-codesign-implementation-strategies.md)
 
 ## Examples
 - **[National Network of Partnership Schools](https://nnps.jhucsos.com)** (Johns Hopkins University) — Epstein's framework in practice; member schools form action teams, write annual partnership plans, and evaluate six types of involvement.

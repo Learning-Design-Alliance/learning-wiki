@@ -55,3 +55,4 @@ Content-validity stage with eight nurse experts rating 20 items on a 1-4 Likert 
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
 - [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim
 - [All items in the final version of the ABC competency frameworks reached a Content Validation Index of at least 85% after revision of below-threshold items.](cvi-at-least-85-percent-final-items.md) — related
+- [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related

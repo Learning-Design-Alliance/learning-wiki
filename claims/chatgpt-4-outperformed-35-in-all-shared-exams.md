@@ -51,3 +51,4 @@ Combined analysis drawing on the included studies and this study's MRCP result; 
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — a narrower finding that bears on this claim
 - [ChatGPT-3.5 and ChatGPT-4 both score significantly above the historical MRCP Part 1 pass mark on the sample paper](chatgpt-scores-above-mrcp-part1-pass-mark.md) — related
 - [ChatGPT-4's incorrect MRCP Part 1 answers showed no significant difference between factual recall and complex reasoning question types](mrcp-error-types-factual-recall-vs-reasoning-null.md) — related
+- [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related

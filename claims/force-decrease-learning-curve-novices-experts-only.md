@@ -55,3 +55,4 @@ Wilcoxon signed-rank tests in the same study showed "a decrease in the mean non-
 - [Torque signatures during the circular suture show sinus-like patterns that shift toward lower values during training, indicating improved symmetry and teamwork](torque-signature-patterns-tatme.md) — related
 - [Force, motion and time parameters were largely uncorrelated in trials-to-proficiency, indicating time and motion monitoring alone does not capture tissue manipulation](force-motion-time-parameters-uncorrelated.md) — related
 - [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](novise-no-force-or-accuracy-differences.md) — related
+- [Learning curves for LOA2 robotic implant placement are flat for both novice and expert clinicians, with no significant accuracy improvement as case volume increases](loa2-flat-learning-curve.md) — related

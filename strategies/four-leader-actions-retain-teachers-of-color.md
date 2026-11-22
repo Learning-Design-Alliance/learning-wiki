@@ -47,6 +47,7 @@ The report closes with four recommended actions for state, district, and school 
 - [Districts use financial, personnel management, and working-conditions strategies to recruit and retain teachers, including leadership compensation, mentoring, and collaboration time](district-recruitment-retention-strategy-portfolios.md)
 - [Invest in principal retention strategies that address the invisible tax on leaders of color](invest-principal-retention-strategies.md)
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
+- [Financial support programs improve workforce diversity most when specifically targeted to underrepresented minoritized entrants](targeted-financial-support-workforce-diversity.md)
 
 ## Examples
 -

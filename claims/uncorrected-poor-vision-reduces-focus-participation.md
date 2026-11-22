@@ -48,3 +48,6 @@ Thematic analysis of nine focus groups with 20 parents, 25 teachers, and 21 stud
 - [Participants perceived that receiving corrective lenses improved classroom attention, task persistence, and willingness to practice academic skills](corrective-lenses-improve-school-function.md) — related
 - [Providing free vision services on the school campus was perceived to remove financial and logistical barriers to obtaining corrective lenses](free-school-based-services-remove-access-barriers.md) — related
 - [Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students](uncorrected-poor-vision-causes-stress.md) — related
+- [Uncorrected hyperopia in young children is associated with difficulties in sustained visual attention and visual-motor integration](hyperopia-attention-visual-motor-difficulties.md) — related
+- [Moderate uncorrected hyperopia with reduced near visual function is associated with clinically meaningful early literacy deficits in preschool and kindergarten children](hyperopia-reduced-near-function-early-literacy-deficit.md) — related
+- [Uncorrected hyperopia in school-age children is associated with decreased reading and academic performance](uncorrected-hyperopia-school-reading-academic-decline.md) — related

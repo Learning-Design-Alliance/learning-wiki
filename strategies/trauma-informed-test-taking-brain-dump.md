@@ -51,6 +51,7 @@ Because perceived threat can trigger an amygdala hijack that interrupts critical
 - [Use Positive Affirmations](use_positive_affirmations.md)
 - [Advise graduates to schedule the certification examination when fully prepared and no acute life events are occurring, using mock board scores as objective data](board-timing-advice-life-events-mock-scores.md)
 - [Coach students to flag rather than answer difficult items, return after completing the exam, and review all questions — not just missed ones — in one-on-one reviews](flag-and-return-answer-review-all-items.md)
+- [Trauma-informed school support strategies for maltreated children](trauma-informed-school-support-maltreated-children.md)
 
 ## Examples
 -

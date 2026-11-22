@@ -48,6 +48,7 @@ The article recommends that schools and hospitals design targeted interventions 
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 - [Adopt the spiritual care training protocol as a reference for clinical nursing managers](nursing-managers-adopt-spiritual-care-protocol-strategy.md)
 - [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
+- [Structured spiritual care training, interdisciplinary collaboration with chaplains, and institutional integration strategies for ICU nursing](structured-spiritual-care-training-icu-nurses.md)
 
 ## Examples
 -

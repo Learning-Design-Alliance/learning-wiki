@@ -57,3 +57,4 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related
 - [Adolescents with medium- and high-educated mothers have higher odds of higher educational attainment at age 17 than adolescents with low-educated mothers](maternal-education-predicts-adolescent-attainment-netherlands.md) — related
+- [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related

@@ -52,6 +52,7 @@ The PRIMAIR study used an author-constructed, patient-case-based questionnaire a
 - [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](baseline-cultural-competence-battery-tailoring-strategy.md)
 - [Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption](genai-rp-diagnostic-use-strategy.md)
 - [Use STEEM as a quality-assessment and monitoring tool for theatre-based training environments, with possible adaptation for podiatric surgery](steem-as-training-environment-monitoring-strategy.md)
+- [Targeted achalasia education using case-based discussions, guidelines, and CME, with structured curricula across specialties](targeted-achalasia-education-strategy.md)
 
 ## Examples
 -

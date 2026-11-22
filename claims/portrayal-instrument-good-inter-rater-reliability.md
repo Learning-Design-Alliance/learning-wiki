@@ -53,3 +53,4 @@ Inter-rater reliability analysis using intraclass correlation coefficients on bl
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related
 - [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
 - [The CTCS-SP shows good inter-rater reliability, with an ICC of .84 for the mean competence score](ctcs-sp-good-inter-rater-reliability.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

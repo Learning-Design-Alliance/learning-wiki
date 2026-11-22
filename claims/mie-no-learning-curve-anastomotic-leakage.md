@@ -49,3 +49,4 @@ One-sided RA-CUSUM analysis of anastomotic leakage in the retrospective cohort; 
 - [The trainee's learning curve for major complications was completed after 55 consecutive cases under risk adjustment](mie-trainee-major-complications-lc-55-cases.md) — related
 - [Under a structured MIE training program, the trainee's operative-time learning curve was completed after about 45 cases (47 following risk adjustment)](mie-trainee-operative-time-lc-45-cases.md) — related
 - [The trainee's textbook-outcome learning curve was completed after 83 cases, and overall TO was significantly higher in the trainee cohort (40.66% vs 27.00%)](mie-trainee-textbook-outcome-lc-83-cases.md) — related
+- [A standardized double-armed suture laparoscopic hepaticojejunostomy performed by a procedure-naïve surgeon under supervision produced no bile leakage and one anastomotic stricture (4.3%) in 23 consecutive patients](double-armed-suture-hj-no-bile-leakage-23-patients.md) — related

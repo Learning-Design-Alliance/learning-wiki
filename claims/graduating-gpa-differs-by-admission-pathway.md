@@ -47,3 +47,4 @@ ANOVA with Bonferroni correction on graduating GPA across six admission pathways
 ## Related Claims
 - [Admission pathway predicts on-time graduation in a Jordanian medical school: national unified admission and university-employees-children students were more likely, and parallel and international students less likely, to graduate on time](admission-pathway-predicts-on-time-graduation-jordan-medical.md) — related
 - [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related
+- [IC-MD admission admits applicants with GPAs up to 3.0 who would not have received places in the grade-based quotas](ic-md-admits-gpa-up-to-3-0.md) — related

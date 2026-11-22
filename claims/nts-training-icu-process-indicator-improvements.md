@@ -52,3 +52,6 @@ Systematic review synthesis of process indicators from before-and-after studies 
 - [A mortality reduction from trauma training appeared only in the severe-injury subgroup, not overall](ttt-mortality-reduction-severe-injuries-subgroup.md) — related
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
 - [Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU](tele-education-reduced-icu-mortality-limited-resource.md) — related
+- [Higher TEAM global ratings are associated with shorter cumulative no-flow time during mechanical CPR deployment in real-world resuscitations](team-global-rating-shorter-mcpr-no-flow-time.md) — a narrower finding that bears on this claim
+- [Leadership is the only TEAM subdimension significantly associated with cumulative no-flow time during MCPR deployment](leadership-only-team-subdimension-associated-no-flow.md) — related
+- [Higher TEAM global ratings are associated with shorter mechanical CPR deployment duration](team-rating-shorter-mcpr-deployment-duration.md) — a narrower finding that bears on this claim

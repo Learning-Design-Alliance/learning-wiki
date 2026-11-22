@@ -49,3 +49,4 @@ The review reports the Koenka et al. (2021) meta-analysis finding that "receivin
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
+- [Grade inflation erodes both the external screening function of grades for employers and admissions and the internal feedback function for students](grade-inflation-erodes-signaling-and-feedback.md) — related

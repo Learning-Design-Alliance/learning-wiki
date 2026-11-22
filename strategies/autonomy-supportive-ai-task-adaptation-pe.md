@@ -44,6 +44,7 @@ The article recommends that AI help practitioners adapt "intensity, task complex
 ## Related Strategies
 
 - [Embed AI tools in peer, campus, and counseling ecologies instead of isolated individual apps](peer-campus-support-integration-ai-tools.md)
+- [Algorithmic safety protocols bounding exercise intensity and monitoring overtraining risk](algorithmic-safety-protocols-exercise-mindfulness.md)
 
 ## Examples
 -

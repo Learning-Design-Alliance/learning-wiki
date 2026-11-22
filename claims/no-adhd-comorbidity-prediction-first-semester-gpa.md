@@ -56,3 +56,4 @@ Hierarchical regression (Table 8) on the Time 1 sample predicted weighted first-
 - [Depressive symptomatology is significantly inversely correlated with students' overall evaluation of the distance education experience](depression-negatively-correlated-de-evaluation.md) — related
 - [Exhaustion relates positively to depression and negatively to life satisfaction; engagement relates positively to life satisfaction; neither relates to academic achievement](burnout-engagement-outcomes-achievement-null.md) — related
 - [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related
+- [K-means++ clustering of first-year students' spring-semester CES-D scores identifies four depressive symptom trajectory groups: low-stable, increasing, decreasing, and high-stable](four-depression-trajectory-groups-first-year-spring.md) — related

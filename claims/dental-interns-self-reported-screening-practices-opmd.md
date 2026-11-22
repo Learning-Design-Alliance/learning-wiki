@@ -53,3 +53,4 @@ Three self-reported practice items in the cross-sectional survey. The authors wa
 - [About one-third of medical interns chose to refer patients to oral medicine specialists (38% average across cases), a proportion the authors judge insufficient](referral-to-oral-medicine-specialist-insufficient.md) — related
 - [Few non-specialist doctors educated patients about skin cancer risk reduction or skin self-examination](few-doctors-deliver-skin-cancer-patient-education.md) — reports the opposite
 - [Most non-specialist doctors had never referred a patient with a suspicious lesion to a dermatologist in the preceding year](most-doctors-never-referred-suspicious-lesions.md) — related
+- [Referrals from nephrologists and direct interdisciplinary communication were infrequent, with no statistically significant variation across practice settings](infrequent-nephrology-referrals-dental-professionals.md) — related

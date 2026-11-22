@@ -55,6 +55,7 @@ The article supports healthy lifestyle programs in which adolescents consume a l
 - [Physical Activity-Encouraging Environment](physical_activity-encouraging_environment.md)
 - [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md)
 - [Support breakfast consumption and after-school physical activity programs to support student health and learning](breakfast-afterschool-programs-support-learning.md)
+- [Address regular breakfast consumption habits to shift adolescents from low-energy screen-based behaviors toward higher-intensity physical activity](regular-breakfast-habits-intervention-strategy.md)
 
 ## Examples
 -

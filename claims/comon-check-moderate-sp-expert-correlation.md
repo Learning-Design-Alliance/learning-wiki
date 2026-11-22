@@ -50,3 +50,4 @@ External validity analysis using standardized patients' single-item 10-cm visual
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [No statistical correlation was found between students' self-ratings and standardized patients' ratings at the individual level](no-individual-level-correlation-self-external-ratings.md) — related
 - [Standardized patients' global evaluation of intervention-group students improves significantly with a large effect (ES = 1.62)](sp-global-evaluation-improves-large-effect.md) — related
+- [C-Scale-I scores correlate positively with the Visual Analogue Confidence Scale (r = 0.61), supporting concurrent validity](c-scale-i-concurrent-validity-cvas.md) — related

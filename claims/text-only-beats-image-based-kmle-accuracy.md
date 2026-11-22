@@ -69,3 +69,5 @@ Within-model comparison for Gemini 1.5 Pro in the same KMLE question-type analys
 - [LLM performance on KMLE varies by medical specialty, with relatively weak accuracy in medical law for all three models](kmle-specialty-variation-weak-medical-law.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [GPT-4o performs far worse on items requiring image interpretation (49%) than on text-only items (81%)](gpt4o-required-image-items-weaker.md) — related
+- [GLMM shows latest 2024 flagship models had significantly higher accuracy than early 2024 models, with diagram-based questions significantly less accurate than text-only questions and no significant flagship-by-question-type interaction](glmm-latest-models-higher-accuracy-diagrams-lower.md) — related
+- [The top-performing OC-LLM differed by question type: Perplexity Pro overall, ChatGPT o1 preview on text-only, and Claude 3.5 Sonnet (new) on diagram-based questions](top-oc-llm-varies-by-question-type.md) — related

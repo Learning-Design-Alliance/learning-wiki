@@ -64,3 +64,10 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related
 - [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — related
+- [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
+- [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — reports the opposite
+- [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
+- [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
+- [Unhealthy behaviors cluster: students with lower physical activity, irregular breakfast, and abnormal SDQ scores were more prone to frequent sweet eating](unhealthy-behavior-clustering-palestinian-students.md) — related
+- [Daily sweet consumption is associated with lower GPA among Palestinian university medical students, remaining significant after full covariate adjustment](daily-sweet-consumption-lower-gpa-palestinian-students.md) — related
+- [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related

@@ -57,3 +57,4 @@ Chi-square analysis of cluster membership against the two demographic variables 
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
 - [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related
 - [Course type is statistically associated with PLIC profile membership at both timepoints, but the effect is small (Cramér's V ≈ 0.10)](course-type-small-effect-plic-profiles.md) — related
+- [Gender, ethnicity, international student status, and first-generation status are not associated with depressive symptom trajectory group membership among first-year students](sociodemographics-not-associated-trajectory-groups.md) — related

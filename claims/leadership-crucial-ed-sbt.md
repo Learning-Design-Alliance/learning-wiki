@@ -51,3 +51,4 @@ Authors' interpretation in the discussion of the interview study; support and le
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Local departmental culture is a leading barrier to establishing simulation-based training in emergency departments](local-culture-barrier-ed-sbt.md) — related
+- [Exemplary leadership, navigating complexity, and multiskilled leadership are pivotal competencies that enable PSC implementation in a school setting](three-leader-competencies-enable-school-psc.md) — related

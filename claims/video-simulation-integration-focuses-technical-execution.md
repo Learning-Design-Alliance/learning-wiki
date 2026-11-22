@@ -50,3 +50,4 @@ Thematic analysis of focus groups with 20 students during a surgical internship.
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related
 - [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related
+- [Blending e-learning before and simulation-based hands-on training afterwards enhances engagement, performance, and skill acquisition](blended-elearning-simulation-enhances-engagement-performance.md) — a broader claim this one bears on

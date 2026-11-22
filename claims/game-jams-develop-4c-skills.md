@@ -54,3 +54,4 @@ Thematic analysis (Atlas.ti, hermeneutic approach) of pre/post surveys, 40 inter
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related
 - [Outreach participants report frequent use of and preparation in 21st-century career skills including communication, creativity, and networking](outreach-career-skills-use-preparation.md) — related
 - [Designing and creating demonstrations for outreach contributed to enhancing students' physics knowledge through constructionist creation activities (disciplinary development cluster)](outreach-demonstration-design-enhances-physics-knowledge.md) — a narrower finding that bears on this claim
+- [The article proposes expanding the 4Cs framework of 21st-century skills to include curiosity](expanding-4cs-to-include-curiosity.md) — related

@@ -53,3 +53,4 @@ Bivariate analysis of the distribution of variables by sex in the full sample of
 - [UK female medical graduates had 1.18 times the odds of passing PACES at first attempt compared with male UK graduates](uk-graduates-female-advantage-or-1-18.md) — related
 - [There was no evidence of an interaction between candidate sex and ethnicity in any of the three subgroups](no-sex-ethnicity-interaction-paces.md) — related
 - [BME candidates performed less well than White candidates on all five assessments (P < .001)](bme-candidates-underperform-all-five-assessments.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

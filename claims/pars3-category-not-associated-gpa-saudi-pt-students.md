@@ -57,3 +57,6 @@ Cross-sectional survey of 600 undergraduate physical therapy students in Saudi A
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — reports the opposite
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — reports the opposite
 - [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — reports the opposite
+- [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](activity-frequency-type-gpa-anova-null.md) — related
+- [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — possibly the same claim (merge candidate)
+- [Physically active and inactive medical students show no statistically significant difference in mean GPA](physical-activity-gpa-null-medical-students.md) — related

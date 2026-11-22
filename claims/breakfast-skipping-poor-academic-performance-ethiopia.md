@@ -62,3 +62,5 @@ Subgroup meta-analysis of nutrition-related predictors within the review; four s
 - [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — a narrower finding that bears on this claim
 - [Low Youth Healthy Eating Index score is associated with higher odds of poor ELA performance](low-yhei-poor-ela-performance.md) — related
+- [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
+- [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related

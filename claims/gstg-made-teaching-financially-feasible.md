@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-22
 sources:
   - id: carver-thomas-2024
     resource: "https://doi.org/10.54300/137.196"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grant recipients reported the scholarship made the teaching profession more financially feasible and that they otherwise would not have been able to pursue teaching. [→ Carver-Thomas 2024](#carver-thomas-2024)

@@ -54,3 +54,8 @@ Cross-sectional study of 1677 students: bivariate tables show significant associ
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Grade 12 physical science is not a significant predictor of first-year nursing science module performance despite a significant bivariate correlation](physical-science-not-significant-predictor-nursing-science.md) — related
 - [Lower self-reported 'confidence' at entry is the only independent predictor of a health-related fitness-to-practise declaration](low-confidence-independent-predictor-health-declarations.md) — related
+- [Bivariate gambling-GPA associations were no longer significant in multivariate models in two included studies](bivariate-gambling-gpa-associations-fade-in-regression.md) — related
+- [SWB correlates positively with health behaviors and negatively with depression in bivariate correlations, and GPA correlates with existential SWB and no smoking](swb-pearson-correlations-gpa-existential.md) — related
+- [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
+- [Waterpipe use during exam periods shows an unexpected positive association with average grades, which the authors attribute to confounding rather than a real effect](waterpipe-use-positive-grades-confounding.md) — related
+- [Spiritual well-being shows significant direct positive associations with physical activity, healthy diet, and no smoking in medical sciences students](swb-direct-positive-health-behaviors-sem.md) — related

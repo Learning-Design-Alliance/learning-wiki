@@ -59,6 +59,7 @@ The article's implementation approach was a bank of EL activities that staff cou
 ## Related Strategies
 
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Family-involvement strategy: pair child experiential nutrition activities with caregiver participation and home recording tasks](family-involvement-nutrition-experiential-activities.md)
 
 ## Examples
 -

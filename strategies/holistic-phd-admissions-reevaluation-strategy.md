@@ -56,6 +56,7 @@ The article recommends that physics communities reevaluate admissions criteria s
 - [Recommendations for undergraduate particle physics education](undergraduate-particle-physics-education-recommendations.md)
 - [Pair admissions of lower-scoring students with compensating changes to other admissions criteria or program structure to maintain graduation rates](compensating-changes-for-low-scorer-admissions.md)
 - [Use latent motivation signals from short admission responses to guide early mentoring support without extra student burden](admission-text-signals-early-mentoring-support.md)
+- [Apply holistic review early so every qualified candidate receives a holistic file review before interview selection](apply-hr-early-to-all-qualified-applicants.md)
 
 ## Examples
 -

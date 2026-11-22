@@ -52,3 +52,4 @@ Pre/post comparison within a single-centre study of 35 pathology residents using
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — related
+- [First-year residents scored higher on the belief subscale than residents with four or more years of training, while knowledge scores rose with 6–10 years of practice](training-stage-differences-belief-knowledge-subcales.md) — related

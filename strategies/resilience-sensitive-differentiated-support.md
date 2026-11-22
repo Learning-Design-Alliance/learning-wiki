@@ -47,6 +47,7 @@ The article recommends that post-crisis educational interventions move beyond un
 - [Tailor school interventions to school conditions and prior performance rather than applying uniform mandated interventions](tailor-interventions-to-school-conditions.md)
 - [Differentiate English instruction by learners' academic self-concept level to optimize emotional pathways](self-concept-differentiated-efl-instruction.md)
 - [Tailor attendance interventions to pupils' specific absence trajectory patterns rather than uniform attendance-threshold policies](trajectory-tailored-attendance-interventions.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

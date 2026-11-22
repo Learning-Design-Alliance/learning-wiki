@@ -50,3 +50,5 @@ Comparison of crude, socioeconomically adjusted, and fully comorbidity-adjusted 
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [Communication disorders remain significantly associated with lower marks across all academic outcomes after controlling for co-occurring conditions, though attenuated](communication-disorders-attenuated-significant.md) — reports the opposite
 - [Excluding psychiatric comorbidity groups one at a time leaves the association between social anxiety disorder and educational outcomes largely unchanged](sad-educational-association-robust-to-comorbidity.md) — reports the opposite
+- [Greater mental disorder comorbidity is associated with progressively lower comprehensive school GPA](comorbidity-gradient-lower-gpa.md) — related
+- [Students diagnosed with a mental disorder during childhood or adolescence have lower comprehensive school achievement than peers without a diagnosis](mental-disorder-lower-comprehensive-school-gpa.md) — related

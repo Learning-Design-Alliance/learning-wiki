@@ -57,6 +57,7 @@ The article recommends incorporating role play into science teaching, noting it 
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Replace or supplement mannequins with coached actors and multidisciplinary role play to increase realism](actor-based-dysphagia-simulation-strategy.md)
 - [Practice Responsible Decision-Making](practice_responsible_decision-making.md)
+- [Incorporate the psychodrama technique of doubling after role plays to deepen affective communication and foster a non-judgemental supervision atmosphere](doubling-after-role-plays-affective-verbalisation.md)
 
 ## Examples
 -

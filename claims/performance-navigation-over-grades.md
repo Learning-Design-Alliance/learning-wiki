@@ -90,3 +90,4 @@ Group 2 navigation analysis: "a lower proportion of exam -related activity" with
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — reports the opposite
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — reports the opposite
+- [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — reports the opposite

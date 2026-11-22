@@ -63,6 +63,7 @@ To ensure skill retention beyond the initial course, the article's maintenance d
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
+- [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
 
 ## Examples
 -

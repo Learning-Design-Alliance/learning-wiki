@@ -51,3 +51,4 @@ Knowledge-score comparison by level of training in the same resident survey; the
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
 - [Senior residents are more confident than junior residents in identifying OSA patients, managing OSA, and managing CPAP](senior-residents-more-confident-than-junior-osa.md) — related
+- [General medical practitioners show moderate diagnostic awareness of OSA, with 76.8% endorsing neck circumference screening but only 57.6% identifying polysomnography as the gold standard](gps-moderate-diagnostic-awareness-psg-gap.md) — related

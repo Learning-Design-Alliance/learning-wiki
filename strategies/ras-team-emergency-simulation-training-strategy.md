@@ -59,6 +59,7 @@ The review recommends that RAS teams routinely rehearse emergency scenarios such
 - [Establish formalised two-consultant co-operation with strictly alternating operator and assistant roles to maintain complex-procedure skills in low-volume settings](dual-surgeon-alternating-roles-strategy.md)
 - [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
 - [Use NOTSS for individual surgeon non-technical skills training and Oxford NOTECHS II for team-based training](notss-notechs-nontechnical-skills-training.md)
+- [Pair robot-system training with systematic team training including assistants and nurses when introducing robotic surgery](robotic-surgery-team-training-strategy.md)
 
 ## Examples
 -

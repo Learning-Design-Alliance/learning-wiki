@@ -48,3 +48,4 @@ Retrospective single-surgeon cohort of 36 consecutive robotic left-sided resecti
 - [Purse-string suture skill stabilizes earlier (case 11) than overall procedural fluency (case 17), indicating differential learning of technical subcomponents](purse-string-skill-earlier-than-fluency.md) — related
 - [Technical performance metrics (pure RiSSA interval, purse-string times, console time) improved significantly after the case-17 inflection point](technical-metrics-improve-after-inflection.md) — related
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — related
+- [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related

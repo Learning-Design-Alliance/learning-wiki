@@ -132814,5 +132814,17 @@
  "media-design\tuniversal acceleration plot for solving relativistic acceleration problems\tequation-based solution of relativistic acceleration problems": {
   "label": "universal acceleration plot vs equation-based solution",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tasked to visually inspect liquid thickness\tnot asked to visually inspect liquid thickness": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tprogrammatic assessment\tisolated summative high-stakes cross-sectional assessments": {
+  "label": "programmatic assessment vs isolated summative high-stakes assessment",
+  "treatment_is_a": true
+ },
+ "media-design\tquestions containing diagrams\ttext-only questions": {
+  "label": "diagram-containing questions vs text-only questions",
+  "treatment_is_a": true
  }
 }

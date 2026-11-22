@@ -52,3 +52,5 @@ Cross-sectional online survey of 234 Finnish registered nurses using the GGNPS-C
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
 - [Practitioners' poor self-ratings corresponded with their actual number of correct answers](ecg-self-rating-corresponds-performance.md) — reports the opposite
 - [Baseline self-assessed competency was highest for family-history/pedigree identification and lowest for selecting appropriate genetic/genomic tests](baseline-competency-varies-by-individual-genomic-competency.md) — related
+- [Registered nurses' genomic knowledge scores were unchanged from 2010 to 2023, with a median score of 9/12 among item completers](nurse-genomic-knowledge-unchanged-2010-2023.md) — related
+- [Nurses' utilization of genomics in practice is low: family history collection is incomplete and most never facilitate genetic service referrals](nurse-genomic-practice-utilization-low.md) — related

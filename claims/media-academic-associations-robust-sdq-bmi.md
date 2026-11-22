@@ -52,3 +52,4 @@ Secondary analyses on the same cohort fitting progressively adjusted model sets 
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [Difficult behaviour was negatively associated with reading only, and anthropometry was largely null in adjusted models, with WAZ the sole remaining anthropometric predictor](behaviour-anthropometry-adjusted-associations-rural-bangladesh.md) — related
 - [Concurrent television and computer effects on reading disappear after controlling for prior media use, while the numeracy associations persist](prior-media-control-reading-gone-numeracy-persists.md) — related
+- [Abnormal mental health scores on the Strengths and Difficulties Questionnaire are independently associated with lower GPA](abnormal-sdq-scores-lower-gpa-palestinian-students.md) — related

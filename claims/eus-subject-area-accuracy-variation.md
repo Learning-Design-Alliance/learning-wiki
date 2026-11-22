@@ -54,3 +54,4 @@ Subject-area breakdown of the same 84-question EUS benchmark (Table 2). Pharmacy
 - [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
 - [LLM accuracy varied sharply by histology topic: perfect in foundational areas and lowest in Muscle (76.0%)](histology-topic-difficulty-llm-performance.md) — related
 - [Students received the highest quiz grades on foundational topics like rational agents and the Turing test, while AI and Ethics and History of AI questions were challenging](quiz-grades-highest-rational-agents-turing-test.md) — related
+- [Chemistry and chemical-structure questions remain the weakest areas for 2024 flagship OC-LLMs on the Japanese pharmacist examination](oc-llm-chemistry-chemical-structure-low-accuracy.md) — related

@@ -71,3 +71,4 @@ Adjusted background-characteristics regression (Table 2): girls had scored signi
 - [Years of schooling is the strongest predictor of reading, spelling and math computation scores in rural Bangladeshi children aged 8–10 years](years-of-schooling-strongest-achievement-predictor-rural-bangladesh.md) — related
 - [Baseline age was inversely related to reading scores in adjusted models](baseline-age-inversely-related-reading-scores.md) — related
 - [Older children with ADHD show poorer mathematics performance relative to grade-normed peers, while age does not predict reading or spelling](age-negative-mathematics-adhd.md) — related
+- [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — a broader claim this one bears on

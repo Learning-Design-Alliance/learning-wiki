@@ -48,3 +48,4 @@ ICC comparisons between assessor pairs at the school events: peer-professional (
 - [The developed BLS assessment shows high overall inter-rater reliability (ICC = 0.84) across professional, student and peer assessors](bls-checklist-assessment-high-overall-icc-084.md) — related
 - [No systematic scoring difference between medical student and professional assessors](no-scoring-difference-student-professional-assessors.md) — related
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

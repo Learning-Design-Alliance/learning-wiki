@@ -70,3 +70,4 @@ Same crossover trial, suture and knot task peak-force outcome: "F2 resulted in t
 - [Vibration feedback modality does not significantly affect laparoscopic task completion time](vibration-feedback-no-task-time-effect.md) — related
 - [Feedback modality does not significantly affect the occurrence of predefined laparoscopic task errors](vibration-feedback-no-error-rate-effect.md) — related
 - [Poorly matched vibration feedback modalities may deteriorate laparoscopic performance rather than improve it](mismatched-vibration-feedback-may-deteriorate-performance.md) — related
+- [Sleep deprivation alters force exertion only spotwise: lower mean non-zero force in one task per cohort](sleep-deprivation-force-exertion-spotwise.md) — related

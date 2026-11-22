@@ -51,3 +51,4 @@ Mann–Whitney U comparison of PCC competency scores by patient rights education
 - [Patient values and choices and benefit-not-harming show the strongest associations with PCC competency; providing fair care the weakest](strongest-ethical-dimensions-pcc-values-benefit.md) — related
 - [All five NEBPPR ethical behaviour dimensions are independently associated with lower odds of less-than-high PCC competency in separate logistic regression models](nebppr-dimensions-lower-odds-less-than-high-pcc.md) — related
 - [Nursing students rate their overall competence slightly below the scale midpoint while patients rate the care received well below its midpoint, suggesting a perceptual gap](student-competence-patient-care-perceptual-gap.md) — related
+- [Nurses who received patient safety education only once in the past year showed lower patient safety activities than those receiving it four or more times](single-annual-safety-education-lower-activities.md) — related

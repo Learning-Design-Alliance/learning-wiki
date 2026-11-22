@@ -51,3 +51,4 @@ Recency questions (Tables 9 and 10) among the 15 formally and 42 informally trai
 - [Up to 37% of surveyed observational astronomers could not identify having received any training in visual inspection](untrained-observational-astronomers-37-percent.md) — related
 - [Informal visual-inspection training is most often provided by PhD supervisory team members (35%) or academics in the trainee's field (31%)](informal-training-providers-phd-supervisors.md) — related
 - [Astronomers who report never receiving visual-inspection training nonetheless provide training to others, suggesting 'expertise without precedent'](expertise-without-precedent.md) — related
+- [Most students were instructed by clinical educators to visually inspect liquid thickness, yet half received no instruction in how, and students' perceived accuracy of the method was uncorrelated with their actual accuracy](hidden-curriculum-untaught-visual-inspection-instruction.md) — related

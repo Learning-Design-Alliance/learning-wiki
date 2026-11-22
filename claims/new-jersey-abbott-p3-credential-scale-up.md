@@ -50,3 +50,4 @@ The report's Chapter 5 account of New Jersey's state-level policy shift followin
 - [Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one](46-states-stand-alone-ec-credential-19-require-it.md) — related
 - [New Jersey's share of children served in non-LEA settings is declining as state preschool enrollment grows because newly expanding LEAs are not mandated to subcontract](nj-nonlea-share-declining-as-enrollment-grows.md) — related
 - [Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale](tk-preschool-teacher-pay-disparities-persist.md) — related
+- [Funding to expand residency and training capacity improves workforce diversity only when it stipulates cohort diversity requirements](training-capacity-funding-diversity-requirements.md) — related

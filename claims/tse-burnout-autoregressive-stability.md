@@ -50,3 +50,4 @@ Autoregressive paths from the final cross-lagged path models with covariates. Th
 - [TSE does not consistently predict future burnout; only one significant path (TSE to disengagement, Time 1 to Time 2) emerged](tse-inconsistently-predicts-burnout.md) — related
 - [TSE is negatively correlated with both exhaustion and disengagement at each of the three time points](tse-negative-concurrent-burnout-association.md) — related
 - [Interest is substantially more stable over time than boredom, whose autoregressive paths are low and decline](differential-stability-interest-boredom.md) — related
+- [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related

@@ -54,3 +54,4 @@ Pre-registered mixed-design experiment (2 learner age × 2 learning approach, 27
 - [Older adults take longer to complete active than passive learning, and passive learning yields focal frontopolar activation](active-learning-cognitive-load-time-older-adults.md) — related
 - [Older learners perform better and show greater prefrontal INS with younger than older instructors (intergenerational advantage)](intergenerational-instruction-advantage-older-learners.md) — related
 - [Older learners with similar performance show similar frontopolar neural response patterns under optimal learning conditions (IS-RSA)](is-rsa-frontopolar-neural-behavioral-alignment.md) — related
+- [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related

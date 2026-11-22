@@ -61,6 +61,7 @@ The authors recommend organising EBM instruction around the five steps (Ask, Acq
 - [Extend worksheets into later units with general templates and student-selected articles addressing a group-generated clinical question](caw-student-selected-article-extension-strategy.md)
 - [EBM training should emphasize efficient searching by focusing on appropriate clinical information sources](ebm-training-emphasize-efficient-searching-appropriate-sources.md)
 - [Integrate EBM training into clinical care and spread it across residency rather than relying on a single workshop](integrate-ebm-training-into-clinical-care.md)
+- [Use the READER acronym to structure critical appraisal of a research article and its applicability to the reader's own practice context](reader-critical-appraisal-acronym-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (60 show a difference, 25 mixed, 11 no difference) · 42 studies (24 associational, 11 causal, 6 review, 1 quant-synthesis), `q2`–`q3` · 13 of 42 report an effect size · 96 claims rest on one study
+> **Evidence** · 108 claims (68 show a difference, 28 mixed, 12 no difference) · 47 studies (27 associational, 13 causal, 6 review, 1 quant-synthesis), `q2`–`q3` · 14 of 47 report an effect size · 108 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -132,6 +132,18 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Later school start times show no clear association with adolescents' bedtime, with mixed directional findings across studies](../claims/start-times-bedtime-mixed-evidence.md) [~M] — measured as an outcome of the instruction studied
 - [Sleep regularity (SRI) is positively correlated with academic performance (GPA) in undergraduates, independent of sleep duration](../claims/sleep-regularity-index-positive-gpa-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Educated-ward patients reported lower anxiety, better satisfaction, and better sleep quality during bowel preparation](../claims/nurse-education-improves-patient-subjective-feelings.md) [+M] — measured as an outcome of the instruction studied
+- [Acute sleep deprivation significantly slows the non-dominant hand of trained medical students across all three laparoscopic tasks](../claims/sleep-deprivation-slows-student-nondominant-hand-laparoscopic.md) [+M] — learners who differ on it differ in outcomes
+- [Highly tired participants, especially students, exert significantly higher forces during sleep-deprived laparoscopic tasks](../claims/high-tiredness-increases-force-exertion-subgroup.md) [+M] — learners who differ on it differ in outcomes
+- [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](../claims/adherence-sleep-stress-associated-with-outcomes.md) [+M] — measured as an outcome of the instruction studied
+- [Native American college students with good sleep duration (≥7 h) report higher psychological well-being than those with poor sleep](../claims/good-sleep-higher-pwb-native-american-students.md) [+W] — learners who differ on it differ in outcomes
+- [PA and sleep duration are independently associated with PWB, with no significant interaction between them](../claims/pa-sleep-independent-pwb-no-interaction.md) [+M] — learners who differ on it differ in outcomes
+- [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](../claims/poor-sleep-lower-academic-performance-pa-null.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep deprivation alters force exertion only spotwise: lower mean non-zero force in one task per cohort](../claims/sleep-deprivation-force-exertion-spotwise.md) [~M] — learners who differ on it differ in outcomes
+- [Sleep deprivation does not significantly change laparoscopic error rates in either students or surgeons](../claims/sleep-deprivation-no-error-rate-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Sleep duration is positively associated with GPA throughout college, with each GPA point associated with 27.4 additional minutes of sleep on average](../claims/positive-sleep-gpa-association-throughout-college.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep-deprived surgeons show significantly reduced dominant-hand speed, shorter path length, and smaller dominant-hand motion volume across laparoscopic tasks](../claims/sleep-deprivation-reduces-surgeon-dominant-hand-motion.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep-deprived surgeons take significantly longer on peg transfer and circle cutting, while sleep-deprived students were faster in circle cutting](../claims/sleep-deprivation-task-completion-time-cohorts-diverge.md) [~M] — learners who differ on it differ in outcomes
+- [The high-stable and low-stable depressive symptom trajectory groups share similar sleep schedules across all but the last month of the semester](../claims/high-stable-low-stable-similar-sleep-schedules.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

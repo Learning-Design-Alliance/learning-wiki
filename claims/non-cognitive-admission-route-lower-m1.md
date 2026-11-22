@@ -69,3 +69,5 @@ Same SEM, Table 2: WQ direct effect on M1 of 0.247 (SE 0.147); the article attri
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Study outcome after three terms differs markedly by admission path, favouring entrance-test and excellence-quota students over waiting-list and foreign-quota students](admission-path-study-outcome-differences.md) — related
+- [IC-MD admission admits applicants with GPAs up to 3.0 who would not have received places in the grade-based quotas](ic-md-admits-gpa-up-to-3-0.md) — related
+- [The IC-MD shows no correlation with TMS results and GPA, complementing cognitive-ability-based selection quotas](ic-md-divergent-validity-cognitive-criteria.md) — related

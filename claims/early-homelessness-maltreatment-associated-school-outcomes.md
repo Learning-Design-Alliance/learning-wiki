@@ -53,3 +53,7 @@ The synthesis reports, citing Perlman and Fantuzzo, a correlational study of all
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
+- [Maltreated primary-school children show elevated rates of poor performance, special education, and absenteeism](maltreated-children-school-functioning-prevalence.md) — related
+- [Foster care entry at any point before age 5 is associated with lower odds of grade 3 chronic absenteeism](foster-care-entry-lower-chronic-absenteeism.md) — reports the opposite
+- [Multivictimization is associated with over threefold increased odds of very poor school performance in maltreated primary-school children](multivictimization-poor-school-performance.md) — related
+- [Multivictimization is associated with higher school absenteeism among maltreated primary-school children](multivictimization-school-absenteeism.md) — related

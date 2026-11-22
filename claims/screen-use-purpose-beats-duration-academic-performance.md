@@ -47,3 +47,4 @@ Hierarchical linear regression on the continuous APS score in a cross-sectional 
 ## Related Claims
 - [Adding online vigilance to the media use model increases explained variance in academic performance only from 8% to 9% for the full sample](online-vigilance-negligible-full-sample.md) — related
 - [Total screen time is unrelated to self-perceived academic performance in every analysis](total-screen-time-unrelated-aps.md) — related
+- [Timing, purpose, and nocturnal-checking measures added explained variance for sleep quality but had little impact on academic performance beyond total daily use](incremental-value-timing-sleep-not-academic.md) — reports the opposite

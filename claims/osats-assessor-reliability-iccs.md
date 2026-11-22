@@ -83,3 +83,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related
 - [Blinded video-based GOALS assessment of cadaver task performance showed significant interrater reliability between two assessors](interrater-reliability-blinded-video-goals-assessment.md) — related
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

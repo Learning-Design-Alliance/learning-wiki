@@ -48,3 +48,4 @@ Secondary analysis of mean time in seconds to complete the HMD task: novice 90.4
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [After 6 weeks of simulation-based training, ultrasound novices complete the fetal echocardiography standard-plane protocol faster than Ob/Gyn physicians and are no longer significantly slower than experts](fesim2-students-faster-than-physicians-not-slower-than-experts-6-weeks.md) — related
 - [Novices unexpectedly scored higher than experts on OSAUS for HMD measurement in a simulated setting](osaus-novice-higher-than-expert-scores.md) — related
+- [Flex requires significantly longer task times than laparoscopy and dVRK, and Masters complete tasks faster across platforms](flex-slower-masters-faster-duration.md) — related

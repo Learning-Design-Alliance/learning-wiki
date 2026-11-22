@@ -67,3 +67,4 @@ Results section reports the change-point outcomes before and after 14 cases for 
 - [Volume and age tertile analyses consistently showed earlier change points for higher-volume and younger surgeons, with middle tertiles in between](tertile-consistency-volume-age-change-points.md) — related
 - [R1 resection margin proficiency change points occurred earlier for higher-volume and younger surgeons than for their comparison groups](resection-margin-change-points-volume-age.md) — related
 - [Younger surgeons reached the proficiency change point for 1- to 5-year mortality at 13 cases versus 48 cases for older surgeons](younger-surgeons-earlier-longterm-mortality-change-point.md) — related
+- [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related

@@ -71,3 +71,4 @@ Fleiss Kappa restricted to incorrect answers under adjusted scoring. The article
 - [Inter-model agreement is moderate, indicating models do not consistently identify the same questions correctly](moderate-inter-model-agreement-endodontic-questions.md) — related
 - [Inter-model consistency declines progressively with question complexity, from substantial agreement on SBA-R (κ > 0.72) to only fair agreement on image questions (ChatGPT-o1pro κ = 0.40)](kappa-consistency-declines-question-complexity.md) — related
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
+- [Answer consistency among the four flagship OC-LLMs was only moderate (Fleiss' κ = 0.334), indicating differing strengths and weaknesses across models](flagship-models-moderate-answer-consistency-kappa-0334.md) — related

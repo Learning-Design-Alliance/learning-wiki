@@ -56,3 +56,4 @@ Reliability analysis of the BBKS: internal consistency via Cronbach alpha and co
 - [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
+- [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related

@@ -87,3 +87,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Teacher learning takes place in a Networked Faculty Learning Community even when professional development is not the community's intention](learning-occurs-without-pd-intention.md) — related
 - [In informal desk critiques, architecture students struggle to evaluate peers' work impartially because social dynamics such as friendships and group hierarchies introduce bias](peer-critique-social-bias-challenge.md) — related
 - [Students described learning to think like a physicist as a gradual, ongoing process built through repeated practice, curiosity and the social environment, without a fixed threshold](ltp-gradual-practice-curiosity-social.md) — a narrower finding that bears on this claim
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related

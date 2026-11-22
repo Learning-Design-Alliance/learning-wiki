@@ -49,3 +49,4 @@ The WM change model on 344 participants included an age × sample term. The arti
 - [Both samples showed significant WM gains: a 14% mean increase after 2 years of development (β = 0.60, p < 0.001) and a 34% mean increase after 25 days of training (β = 2.10, p < 0.001).](significant-wm-gains-development-and-training.md) — related
 - [The effect of cogPGS on WM change does not depend on whether gains came from typical development or from training (no cogPGS × sample interaction, p = 0.46).](no-cogpgs-sample-interaction.md) — related
 - [Sensitivity reanalyses (outlier removal and sample-standardized age) confirmed that PGS is significantly associated with WM change (all p < 0.01) with no PGS × group interaction.](sensitivity-analyses-confirm-pgs-wm-change-association.md) — related
+- [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related

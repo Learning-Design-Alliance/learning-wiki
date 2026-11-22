@@ -84,6 +84,7 @@ The CRAAP Test gives learners a concrete, structured procedure for a judgment ta
 - [Comparing cases](../elements/comparing-cases.md) — evaluating multiple sources side by side builds the discrimination a single-source checklist cannot
 - [Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps](cross-source-app-search-strategy.md)
 - [Extend multiple-text strategy assessment with sourcing and contextualization items and validate against online traces](extend-mtsi-sourcing-contextualization-validation.md)
+- [Use the READER acronym to structure critical appraisal of a research article and its applicability to the reader's own practice context](reader-critical-appraisal-acronym-strategy.md)
 
 ## Examples
 - **Meriam Library, CSU Chico** — the original CRAAP Test worksheet ([library.csuchico.edu](https://library.csuchico.edu/sites/default/files/craap-test.pdf)), widely adopted by school and academic libraries

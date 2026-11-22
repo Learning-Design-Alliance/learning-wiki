@@ -52,3 +52,4 @@ Hierarchical model Year coefficients. The article reports "a sharp rise in the a
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
 - [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — related
 - [Students on 4-year STEM programmes have much higher odds of a first-class degree than those on 3-year programmes, even controlling for Tariff score](four-year-programmes-higher-first-class-odds.md) — related
+- [Graduate GPAs increased over time even after controlling for student prior ability, providing preliminary evidence of graduate grade inflation](graduate-grade-inflation-after-ability-controls.md) — related

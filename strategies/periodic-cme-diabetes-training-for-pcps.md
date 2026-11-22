@@ -49,6 +49,7 @@ The article recommends periodic training of primary care physicians on diabetes 
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Match CME training content and format to the demands of each target audience](match-cme-supply-to-workforce-demand.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
+- [Strengthen primary-care asthma management through practice-based face-to-face training with pulmonologist involvement](practice-based-face-to-face-asthma-training-strategy.md)
 
 ## Examples
 -

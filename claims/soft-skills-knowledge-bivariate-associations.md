@@ -67,3 +67,4 @@ Null bivariate results from the same chi-square/Fisher analysis in the Results s
 - [73.4% of surveyed nurses and healthcare technicians sought soft skills training, with 34.9% advocating continuous training](healthcare-staff-demand-soft-skills-training.md) — related
 - [Nearly half of surveyed nurses and healthcare technicians demonstrate knowledge of soft skills, while only 12.3% have received formal training in them](nurses-technicians-soft-skills-knowledge-half-untrained.md) — related
 - [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — related
+- [No significant bivariate associations between TIA knowledge and age, professional cadre, or years of practice; specialty was independently associated with fair knowledge](tia-knowledge-null-bivariate-specialty-or.md) — related

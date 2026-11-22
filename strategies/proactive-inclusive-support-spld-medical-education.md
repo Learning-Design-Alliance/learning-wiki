@@ -55,6 +55,7 @@ The review's implications for the field recommend that medical schools "implemen
 - [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
 - [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
 - [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
+- [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Preliminary t-tests and Pearson correlations between sociodemographic variables 
 - [Maternal education is positively and maternal migration negatively associated with student self-esteem in rural China](maternal-education-migration-self-esteem-rural-china.md) — related
 - [Six SCL-90 factors show dose-dependent relationships with poor academic performance in female students only](scl90-dose-response-females-six-factors.md) — related
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
+- [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related

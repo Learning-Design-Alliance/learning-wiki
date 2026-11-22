@@ -57,6 +57,7 @@ The article recommends a shift away from assessments that reward correct final a
 - [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Using a Culturally Responsive Curriculum Scorecard](using_a_culturally_responsive_curriculum_scorecard.md)
+- [Pair each anti-mediocrity critique with concrete reform steps: programmatic assessment, clinical reasoning tasks, relationship-centred care, and interprofessional collaboration](decalogue-reform-strategies-table1.md)
 
 ## Examples
 -

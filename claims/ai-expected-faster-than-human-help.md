@@ -49,3 +49,4 @@ In the prediction sample, a linear mixed-effects model with prediction target an
 - [People are well-calibrated about their own independent completion times](accurate-independent-completion-time-predictions.md) — related
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
+- [Reading time per mammogram fell significantly from before to after AI assistance in one uncontrolled pre-post study, with the largest savings in non-malignant cases and among junior residents](ai-assistance-mammography-reading-time-savings.md) — related

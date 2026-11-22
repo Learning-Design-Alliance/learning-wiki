@@ -79,12 +79,14 @@ Self-talk interventions show reliable small-to-moderate benefits for motor perfo
 5. **Cue and fade**: Attach reframing to a trigger (before a quiz, after an error), then progressively withdraw teacher prompting as learners self-initiate.
 
 ## Related Strategies
+
 - [Growth Mindset Framing](growth-mindset-framing.md) — reframing ability beliefs complements reframing moment-to-moment self-talk
 - [Achievable Micro-Goals](achievable_micro-goals.md) — instructional self-talk often takes the form of directing attention to the next small step
 - [Check-In](../elements/check-in.md) — the noticing routine that makes automatic self-talk visible
 - [Attribution Retraining](attribution-retraining.md) — the theoretical sibling: reframing self talk operationalizes attributional change in the moment
 - [Test Anxiety Reduction](test-anxiety-reduction.md) — expressive writing and reappraisal are the assessment-specific application
 - [Normalizing Error](normalizing-error.md) — the classroom climate that makes reframing credible
+- [Attribution retraining in teacher feedback and classroom practices to promote internal, controllable attributions](attribution-retraining-teacher-feedback-strategy.md)
 
 ## Examples
 - **Sport psychology cue-word training**: Athletes rehearse instructional cues ("smooth," "eyes up") before skill execution — the setting with the strongest meta-analytic support ([Hatzigeorgiadis et al., 2011](https://doi.org/10.1177/1745691611413136)).

@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (61 show a difference, 25 mixed, 12 no difference) · 79 studies (33 causal, 15 associational, 8 quant-synthesis, 8 review, 8 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 15 of 79 report an effect size · 95 claims rest on one study
+> **Evidence** · 99 claims (62 show a difference, 25 mixed, 12 no difference) · 80 studies (33 causal, 15 associational, 9 review, 8 quant-synthesis, 8 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 16 of 80 report an effect size · 96 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -136,6 +136,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](../claims/case-students-engage-computational-literature-epistemic-negotiation.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](../claims/immersive-flipped-perceived-learning-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Both Human-annotated and AI-generated bias labels improve news consumers' correct detection of media bias compared to an untrained control group](../claims/human-ai-bias-labels-improve-bias-detection.md) [+M] — measured as an outcome of the instruction studied
+- [Moderate uncorrected hyperopia with reduced near visual function is associated with clinically meaningful early literacy deficits in preschool and kindergarten children](../claims/hyperopia-reduced-near-function-early-literacy-deficit.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

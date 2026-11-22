@@ -58,3 +58,4 @@ Qualitative case study based on interviews with CFJ organizers, district and sch
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Staff and parent support, recognition by the school, confidence, cohesive leader teams and time together enabled cyber leadership, while lack of staff support inhibited it](cyber-leadership-enablers-and-barriers.md) — related
 - [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related
+- [Exemplary leadership, navigating complexity, and multiskilled leadership are pivotal competencies that enable PSC implementation in a school setting](three-leader-competencies-enable-school-psc.md) — related

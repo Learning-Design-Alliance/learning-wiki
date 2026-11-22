@@ -44,7 +44,8 @@ Based on their findings, the authors recommend that "it may be beneficial for pr
 - [Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents](../claims/reversed-n2-pattern-maltreated-adolescents.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Trauma-informed school support strategies for maltreated children](trauma-informed-school-support-maltreated-children.md)
 
 ## Examples
 -

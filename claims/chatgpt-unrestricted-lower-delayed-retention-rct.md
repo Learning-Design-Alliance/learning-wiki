@@ -48,3 +48,4 @@ The review attributes to Barcaui's (2025) randomized controlled trial, with 120 
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related
+- [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related

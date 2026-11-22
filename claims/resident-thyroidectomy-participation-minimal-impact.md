@@ -47,3 +47,4 @@ This is a second-hand citation reported in the discussion section, attributed to
 ## Related Claims
 - [The mandatory one-month head and neck surgery internship in the general surgery curriculum, established in 2004, is no longer mandatory since 2021.](hns-rotation-no-longer-mandatory-since-2021.md) — related
 - [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — related
+- [With hands-on training and adequate supervision, high-volume trainees remained comparable to consultants in complication rates](supervised-high-volume-trainees-comparable-complications.md) — a narrower finding that bears on this claim

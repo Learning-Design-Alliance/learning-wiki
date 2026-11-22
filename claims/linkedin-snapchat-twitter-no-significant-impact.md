@@ -55,3 +55,4 @@ Further testing measured weekly time on LinkedIn, Snapchat and Twitter via surve
 - [Participants in the #bac2018 Twitter hashtag engaged in eight identifiable tweeting practices in the month before the 2018 baccalauréat exams](bac2018-hashtag-tweeting-practices.md)
 - [Behavioural engagement with the LinkedIn group community is positively and significantly related to student satisfaction](behavioural-engagement-satisfaction-linkedin.md)
 - [Amount of time spent on Facebook and on co-curricular activities are significant predictors of student grades](facebook-time-predicts-grades.md) — reports the opposite
+- [Instagram, Snapchat, and Facebook use, but not TikTok, Twitter, or WhatsApp use, are significantly negatively associated with adolescent GPA](platform-specific-sns-use-gpa-associations.md) — reports the opposite

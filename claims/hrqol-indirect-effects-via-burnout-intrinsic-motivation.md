@@ -59,3 +59,4 @@ Indirect-effect estimates (Table 4) from the path analysis of 261 nursing studen
 - [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related
 - [Motivation towards learning indirectly improves personal well-being via optimal best practice, social relationship, and self-efficacy](motivation-indirect-effects-well-being.md) — related
 - [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related
+- [SWB is associated with better academic performance only indirectly, through health behaviors and depression, consistent with full mediation](swb-indirect-gpa-full-mediation.md) — related

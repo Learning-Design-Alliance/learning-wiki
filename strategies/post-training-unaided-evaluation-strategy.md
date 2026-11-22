@@ -46,6 +46,7 @@ To determine whether improvements are retained independently of AI support, the 
 
 - [Sequence future adult-learning evaluation from usability observation to assistance-condition comparison with supervised independent assessment](praxis-future-evaluation-sequence.md)
 - [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
+- [AI-assisted quality-control tools that flag radiocapitellar line deviation and inadequate projections as supports for junior clinicians](ai-radiocapitellar-alignment-quality-control-strategy.md)
 
 ## Examples
 -

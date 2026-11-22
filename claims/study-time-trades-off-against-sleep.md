@@ -70,3 +70,6 @@ Pearson correlation analysis (Table 2) of the same survey: "sleep quality score 
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — related
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
 - [80.9% of health-related faculty students had poor sleep quality (PSQI > 5) when surveyed during the exam period](poor-sleep-quality-prevalence-health-students-giresun.md) — related
+- [Screen time is associated with poorer sleep quality but not, after sensitivity analysis, with shorter sleep duration among university students](screen-time-sleep-quality-vs-duration.md) — related
+- [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — related
+- [During exam periods, most Palestinian medical students sleep less than 7 hours per day and few exercise](exam-period-short-sleep-low-exercise-prevalence.md) — related

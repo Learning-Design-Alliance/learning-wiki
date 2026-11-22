@@ -58,3 +58,4 @@ Benchmark of 600 stratified-sampled CDLE multiple-choice questions submitted ind
 - [GPT-4o shows a clear advantage in complex question formats, exceeding 85% accuracy on case analysis (A3/A4) and matching (B1) questions](gpt4o-advantage-complex-question-formats.md) — related
 - [Text-only accuracy across 19 LLMs spans 0.20 to 0.88 with a grand mean of 0.67, stratified by model generation and reasoning budget](cross-model-text-only-accuracy-stratified.md) — related
 - [LLM error profiles differ by model: GPT-4o shows frequent hallucination, Gemini 2.5 Flash systematic visual-interpretation errors, Gemini 2.5 Pro balanced but reasoning-limited performance](model-specific-llm-error-profiles-csat.md) — related
+- [GPT-4o-RAG significantly outperformed GPT-4o in Applied Nutrition and Clinical Nutrition categories but was non-significantly lower in the other five categories it trailed in](gpt4o-rag-category-advantage-clinical-nutrition.md) — related

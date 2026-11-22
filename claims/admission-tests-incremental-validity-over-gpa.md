@@ -64,3 +64,4 @@ Hierarchical multiple regression analyses on the TMS and HAM-Nat samples control
 - [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — reports the opposite
 - [The HAM-Nat-BPC scale provides predictive information for academic success independent of, and roughly equal in size to, high school GPA](hamnat-incremental-validity-over-gpa.md) — related
 - [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — related
+- [Grade inflation erodes both the external screening function of grades for employers and admissions and the internal feedback function for students](grade-inflation-erodes-signaling-and-feedback.md) — related

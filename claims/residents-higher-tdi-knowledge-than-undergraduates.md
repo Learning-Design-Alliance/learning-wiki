@@ -48,3 +48,4 @@ Cross-sectional survey of 502 undergraduates and residents analyzed with Pearson
 ## Related Claims
 - [PBL-exposed 4th-year undergraduates reported the highest TDI learning through PBL classrooms](pbl-classroom-exposure-fourth-year-undergraduates.md) — related
 - [Only 67.2% of dental residents report familiarity with TDI management protocols, varying significantly by specialty](dental-residents-tdi-familiarity-specialty-gap.md) — related
+- [Awareness of WHO physical activity recommendations increases significantly across years of medical study](who-recommendation-awareness-increases-by-year.md) — related

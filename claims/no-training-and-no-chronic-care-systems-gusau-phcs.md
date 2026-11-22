@@ -51,3 +51,4 @@ Descriptive finding from the 320-worker survey's sociodemographic data (Table 1)
 - [Among PHC workers in Gusau, Nigeria, 61.9% had good hypertension knowledge, but only 56.3% knew the correct diagnostic BP threshold and 59.7% could list major complications](phc-workers-hypertension-knowledge-gaps-gusau.md) — related
 - [Good knowledge (AOR = 2.1) and on-site guideline availability (AOR = 1.9) independently predicted adequate hypertension management practice, evidencing a know-do gap](knowledge-and-guideline-availability-predict-practice.md) — related
 - [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
+- [Only 30.2% of surveyed physicians had recent formal TIA training and fewer than one-third reported local referral pathways](tia-training-referral-pathway-exposure.md) — related

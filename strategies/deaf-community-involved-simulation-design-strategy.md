@@ -47,6 +47,7 @@ The review recommends that simulation educators incorporate a D/deaf patient exp
 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Involve potential end users in focus groups at the design phase of a health app to align content and features with user-elicited preferences](user-centered-focus-groups-app-design.md)
+- [Involve the target learners (patients/public) in developing, validating, delivering, and interpreting the educational intervention](ppi-farmer-involvement-intervention-design.md)
 
 ## Examples
 -

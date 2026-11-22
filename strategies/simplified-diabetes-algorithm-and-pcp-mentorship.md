@@ -49,6 +49,7 @@ Alongside training, the article recommends development of "a simplified diabetes
 - [Implement targeted training strategies plus standardized protocols and institutional support to improve diabetic foot management](targeted-training-and-protocols-diabetic-foot.md)
 - [Provide simulation-based training approaches and collaborative mentorship opportunities for complex neonatal respiratory disease management](simulation-and-mentorship-neonatal-respiratory-training.md)
 - [Include core diabetes competencies in nursing curricula and expand continuing professional development across SSA](core-diabetes-competencies-nursing-curricula-ssa.md)
+- [Strengthen primary-care asthma management through practice-based face-to-face training with pulmonologist involvement](practice-based-face-to-face-asthma-training-strategy.md)
 
 ## Examples
 -

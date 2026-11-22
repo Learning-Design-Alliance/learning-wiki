@@ -55,3 +55,4 @@ Subgroup comparison within the pre-post study of 207 medical officers (29% PHC, 
 - [After the training, medical students score highest on the glucagon administration test](glucagon-test-highest-post-score.md) — related
 - [Vignette competence varied significantly by facility type, with hospital respondents scoring highest (70%) and clinic respondents lowest (45%)](emoc-vignette-competence-varies-by-facility-type.md) — related
 - [Providers' newborn resuscitation knowledge is significantly lower at CHCs and district hospitals than at larger facilities, but their clinical skills do not differ by facility type](facility-type-associated-with-knowledge-not-skills-afghanistan.md) — related
+- [Clinicians in larger (tertiary/quaternary) hospitals answered monitoring questions more accurately](inpress-tertiary-centres-higher-accuracy.md) — related

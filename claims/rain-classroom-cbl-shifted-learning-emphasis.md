@@ -51,3 +51,4 @@ Authors' interpretation of the comparative exam-score patterns across question t
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md) — a broader claim this one bears on
 - [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related
 - [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](rain-classroom-cbl-no-total-score-difference.md) — related
+- [Rote memorization without cognitive transfer leaves students unable to recognize exam-learned symptoms in real patients](rote-memorization-fails-clinical-transfer.md) — related

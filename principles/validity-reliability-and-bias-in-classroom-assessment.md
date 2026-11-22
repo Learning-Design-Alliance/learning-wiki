@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 505 claims (266 for, 211 mixed, 28 against) · 381 studies (118 associational, 101 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 381 report an effect size · 497 claims rest on one study
+> **Evidence** · 505 claims (266 for, 211 mixed, 28 against) · 382 studies (119 associational, 101 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 382 report an effect size · 496 claims rest on one study
 
 ## Conditional relationship
 

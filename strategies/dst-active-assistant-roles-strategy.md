@@ -50,7 +50,8 @@ The article recommends giving assistant surgeons active roles in robotic gastrec
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](../claims/dst-study-design-limitations.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Pair robot-system training with systematic team training including assistants and nurses when introducing robotic surgery](robotic-surgery-team-training-strategy.md)
 
 ## Examples
 -

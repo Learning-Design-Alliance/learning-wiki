@@ -52,3 +52,4 @@ In the cross-lagged panel models (N = 461), autoregressive paths showed "stable 
 - [Cross-lagged effects between behavioral problems and achievement are sporadic and domain-dependent, not consistently reciprocal, across elementary school](sporadic-domain-dependent-cross-lagged-effects-behavior-achievement.md) — related
 - [School achievement is highly stable across primary school, with prior achievement the main predictor by grades 4 and 6](school-achievement-high-autoregressive-stability.md) — possibly the same claim (merge candidate)
 - [Academic achievement is highly stable across two years while well-being changes substantially during the transition to upper secondary school](achievement-stable-wellbeing-changes.md) — related
+- [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related

@@ -48,3 +48,5 @@ Stratified adjusted analysis by past-year oral contraceptive use in participants
 - [Severe menstrual pain in adolescence is associated with more school absence, including persistent absence](menstrual-pain-school-absence-alspac.md) — related
 - [Complete-case sensitivity analyses attenuated some associations, with no evidence for pain and achieving five A*-C grades](complete-case-attenuation-menstrual-attainment.md) — related
 - [Heavy or prolonged menstrual bleeding in adolescence is associated with more school absence, including persistent absence of 10% or more](heavy-menstrual-bleeding-school-absence-alspac.md) — related
+- [Little quantitative evidence exists that menstrual pain or pain management is associated with educational examination performance among Ugandan secondary school girls.](little-evidence-pain-educational-performance.md) — related
+- [Among Ugandan secondary school girls, menstrual pain during the last menstrual period is associated with increased school absence overall and during menstruation.](menstrual-pain-associated-increased-school-absence-uganda.md) — related

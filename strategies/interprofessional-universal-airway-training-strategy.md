@@ -50,6 +50,7 @@ The review recommends that training move beyond site- and specialty-specific par
 - [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
 - [Incorporate on-call simulation into departmental inductions, especially in specialties with limited prior exposure](on-call-simulation-as-induction-strategy.md)
 - [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
+- [Provide specific airway management training for non-anaesthesiologist HEMS personnel, supported by simulation access and HEMS-tailored national guidelines](specific-airway-training-non-anaesthesiologist-hems-personnel-strategy.md)
 
 ## Examples
 -

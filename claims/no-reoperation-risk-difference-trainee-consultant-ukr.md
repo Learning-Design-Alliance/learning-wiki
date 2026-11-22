@@ -74,3 +74,4 @@ Intra-operative outcome review across the analysed procedures found 'There was o
 - [Posterior tibial slope medians differed significantly between trainees and consultants, yet both groups' values fell within the optimum range](posterior-slope-medians-differ-within-optimum-range.md) — related
 - [Surgical training did not compromise survival: no significant difference in 2-year overall (p = 0.436) or disease-free (p = 0.305) survival between trainer and trainee patients](mie-training-no-survival-difference.md) — related
 - [No statistically significant difference in complications between TT and non-TT cases, supporting TT as a safe teaching model](tt-complications-no-significant-difference.md) — related
+- [With hands-on training and adequate supervision, high-volume trainees remained comparable to consultants in complication rates](supervised-high-volume-trainees-comparable-complications.md) — related

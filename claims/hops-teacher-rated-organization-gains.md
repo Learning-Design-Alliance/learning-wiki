@@ -47,3 +47,5 @@ ANCOVA results at posttreatment for teacher-report outcomes in the three-group t
 ## Related Claims
 - [HOPS produces significantly greater improvements than CHIEF in parent- and teacher-rated use of organized actions, but not on measures of homework problems](hops-beats-chief-organized-actions.md) — related
 - [Both HOPS and CHIEF produce significantly greater improvements than waitlist on parent ratings of homework problems and organizational skills in adolescents with ADHD, with large effect sizes](hops-chief-parent-rated-homework-improvements.md) — related
+- [In a large-scale school-based RCT, HOPS produced large caregiver-rated improvements in homework performance, task planning, materials management, and organized actions versus TAU/WL](hops-rct-caregiver-large-effects.md) — related
+- [In the prior large-scale RCT, HOPS produced significant teacher-rated improvements of medium effect size in materials management and organized actions](hops-rct-teacher-medium-effects.md) — possibly the same claim (merge candidate)

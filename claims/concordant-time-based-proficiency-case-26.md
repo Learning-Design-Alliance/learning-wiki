@@ -50,3 +50,4 @@ CUSUM chart of operative time across the same 51-case chronological series ident
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
+- [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related

@@ -48,3 +48,4 @@ Error outcome (Cochran's Q test) in the 57-participant crossover trial: "The var
 - [Continuous linearly increasing vibration feedback (F2) yields the lowest mean and peak forces during laparoscopic suture and knot tasks compared with other vibration modalities and no feedback](f2-vibration-lowest-force-suture-knot.md) — related
 - [Poorly matched vibration feedback modalities may deteriorate laparoscopic performance rather than improve it](mismatched-vibration-feedback-may-deteriorate-performance.md) — related
 - [Vibration feedback modality does not significantly affect laparoscopic task completion time](vibration-feedback-no-task-time-effect.md) — related
+- [Sleep deprivation does not significantly change laparoscopic error rates in either students or surgeons](sleep-deprivation-no-error-rate-difference.md) — related

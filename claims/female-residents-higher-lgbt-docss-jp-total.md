@@ -51,3 +51,5 @@ Multivariable linear regression among 280 residents adjusting for age, hospital 
 - [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — reports the opposite
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — related
 - [After adjustment for age and years in the profession, female GPs scored significantly higher than male GPs on three of the 13 questions](female-gps-higher-copd-scores-three-questions.md) — related
+- [Female residents scored higher than male residents on total MHLS and the knowledge subscale](female-residents-higher-mhls.md) — related
+- [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — reports the opposite

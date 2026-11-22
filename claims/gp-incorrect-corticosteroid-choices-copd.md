@@ -75,3 +75,4 @@ Baseline questionnaire, question 7 on maintenance treatment of COPD (GOLD B pati
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
 - [Swedish GPs' baseline COPD knowledge and management skills are insufficient, with a mean score of 9.9 of a maximum 26 points](gps-insufficient-copd-knowledge-baseline.md) — a broader claim this one bears on
 - [The proportion of COPD patients receiving inappropriate ICS monotherapy remained stable at about 10% from baseline to 24 months in one single-group pre-post study](ics-monotherapy-unchanged-after-program.md) — related
+- [77.2% of surveyed Turkish family physicians identified ICS plus formoterol as usable for both reliever and maintenance, but general practitioners answered correctly significantly less often than expected](ics-formoterol-knowledge-gp-subgroup-gap.md) — related

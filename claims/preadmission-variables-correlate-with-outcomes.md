@@ -55,3 +55,4 @@ Pearson correlation analysis among preadmission variables and outcomes for the s
 - [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related
 - [Test Strategies explains the largest share of performance variation for all students across M1, preclinical, and USMLE Step 1 measures](test-strategies-largest-performance-variation-contributor.md) — related
 - [Each signature has a unique set of features correlating with success in medical school](signature-specific-success-predictors.md) — related
+- [US-specific evidence links USMLE scores, medical school honours, clerkship grades and AOA membership to resident performance, while PhD, prior clinical research and GPA were not shown to be predictive](us-predictors-ophthalmology-resident-performance.md) — related

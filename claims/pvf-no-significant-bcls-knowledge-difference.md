@@ -54,3 +54,4 @@ Independent-samples t-tests in the same randomized trial (40 nursing students) c
 - [Video-assisted teaching and skill demonstration produce equivalent post-test knowledge of surgical aseptic technique in first-year nursing students](video-vs-demonstration-equivalent-aseptic-knowledge.md) — related
 - [Interactive educational video is as effective as traditional demonstration for nursing students' knowledge of oral medication administration](interactive-video-as-effective-as-demonstration-knowledge.md) — related
 - [Interactive educational video is as effective as traditional demonstration for nursing students' skill competency in oral medication administration](interactive-video-as-effective-as-demonstration-skill.md) — related
+- [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related

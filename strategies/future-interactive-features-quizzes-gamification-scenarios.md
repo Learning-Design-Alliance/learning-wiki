@@ -50,6 +50,7 @@ The authors' forward-looking design recommendation is that "Future versions of t
 - [Require audio use and note taking and add engagement mechanisms when running a hybrid lecture course](hybrid-course-audio-notes-engagement-strategy.md)
 - [Roll out scenario-based teaching modules built on the Climate App](climate-app-example-teaching-modules.md)
 - [Future enhancements: proactive daily engagement features, gamified retention, and CEFR-aligned proficiency levels](langlingual-future-engagement-and-cefr-strategy.md)
+- [Use the diverse e-learning activity repertoire (microlearning, gamification, adaptive quizzes, virtual patients) matched to learning needs](elearning-activity-repertoire-medical-education.md)
 
 ## Examples
 -

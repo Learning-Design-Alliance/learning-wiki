@@ -50,6 +50,7 @@ The article recommends that support for nurses' moral competence forms a continu
 
 - [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
 - [Support ethical genomics practice through ethics rounds and integrating ethics across genomics education, leadership and clinical practice](ethics-rounds-and-integrated-ethics-for-genomic-nursing.md)
+- [Integrate genomics into competency-based nursing education at all training levels and provide continuing education with faculty support](integrate-genomics-competency-based-nursing-education-strategy.md)
 
 ## Examples
 -

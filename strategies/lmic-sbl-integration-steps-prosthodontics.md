@@ -56,6 +56,8 @@ Based on the survey findings, "the authors propose steps (Fig. 3) to implement t
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 - [Offer VR-based virtual research-laboratory visits as an equitable, low-cost substitute for on-site visits in school curricula](vr-virtual-visit-equitable-research-lab-access-strategy.md)
+- [Design high-investment surgical training pathways as modular programs so low-cost metric-based simulations, virtual/augmented reality, and remote-learning alternatives can substitute when resources are constrained](modular-low-cost-adaptations-constrained-settings.md)
+- [Implement blended simulation and e-learning through faculty development, infrastructure investment, and CBME alignment](blended-simulation-elearning-implementation-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Per-photograph results in Table 4 of the photo-based staging test show the lowes
 - [Accuracy varied considerably among photographs of the same PI stage, while three guideline-sourced photographs reached 100% accuracy](inconsistent-staging-within-same-pi-stage.md) — a broader claim this one bears on
 - [Nurses' mean accuracy in classifying pressure injury photographs was 62.04%, consistent with their knowledge scores](nurses-photo-based-pi-staging-accuracy-62-percent.md) — related
 - [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related
+- [Nurses' lowest‐scoring MDRPI knowledge items concern daily skin checks under devices (6.5% correct), risk assessment within 12 hours of admission (7.4%), and staging of mucosal MDRPI (8.3%)](mdrpi-knowledge-gaps-skin-checks-risk-assessment-staging.md) — related

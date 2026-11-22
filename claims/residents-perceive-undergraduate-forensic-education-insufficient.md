@@ -53,3 +53,4 @@ Pre-training opinions-on-education responses in the baseline survey (Table 1). P
 - [Before forensic training, residents report low perceived medicolegal competence, with only a small proportion rating their knowledge of physicians’ legal responsibilities and malpractice as sufficient](resident-baseline-medicolegal-incompetence.md) — related
 - [Advanced mathematics course offerings are broadly consistent across medical majors, with localized differences in Nursing, Midwifery and Forensic Medicine](localized-differences-course-offerings-medical-majors.md) — related
 - [Undergraduate and postgraduate training of physicians, pharmacists, and nurses is insufficient to prepare them to use psychotropics safely and effectively](training-insufficient-safe-psychotropic-use.md) — related
+- [Most surveyed physicians (69.1%) reported that medical education provides insufficient knowledge on AMD](physicians-report-insufficient-amd-medical-education.md) — related

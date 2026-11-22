@@ -56,3 +56,4 @@ Retrospective analysis of routinely collected clerkship assessment data at the U
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [Prior OSCE performance did not significantly predict 'overall' mini-CEX scores in the multifactorial model](osce-performance-did-not-predict-mini-cex-scores.md) — related
 - [Trainers' clinical position is the most influential predictor of 'overall' mini-CEX scores, with residents rating more leniently than heads of department](trainer-clinical-position-strongest-mini-cex-predictor.md) — related
+- [Surgeons' proficiency scores were statistically stable across the first and second halves of their caseloads, with a weak but significant correlation between halves](sps-stability-across-case-halves.md) — related

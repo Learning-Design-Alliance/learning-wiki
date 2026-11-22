@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2025
 sources:
   - id: scherff-aline-d-2025
-    resource: "https://journals.publisso.de/en/journals/jme/volume42/zma001771"
-    title: "Scherff Aline D., Kääb Stefan, Fischer Martin R., Berndt Markus. (2025). EYE-ECG2: Addressing medical student feedback in an RCT with eye-tracking videos featuring cued retrospective reporting and modified learning sequences for ECG interpretation skills training. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001771"
+    resource: "https://doi.org/10.3205/zma001771"
+    title: "Scherff Aline D., Kääb Stefan, Fischer Martin R., Berndt Markus. (2025). EYE-ECG2: Addressing medical student feedback in an RCT with eye-tracking videos featuring cued retrospective reporting and modified learning sequences for ECG interpretation skills training. GMS Journal for Medical Education. [doi:10.3205/zma001771](https://doi.org/10.3205/zma001771)"
     author: Scherff Aline D., Kääb Stefan, Fischer Martin R., Berndt Markus
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Scherff Aline D. 2025
 
-Scherff Aline D., Kääb Stefan, Fischer Martin R., Berndt Markus. (2025). EYE-ECG2: Addressing medical student feedback in an RCT with eye-tracking videos featuring cued retrospective reporting and modified learning sequences for ECG interpretation skills training. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001771
+Scherff Aline D., Kääb Stefan, Fischer Martin R., Berndt Markus. (2025). EYE-ECG2: Addressing medical student feedback in an RCT with eye-tracking videos featuring cued retrospective reporting and modified learning sequences for ECG interpretation skills training. GMS Journal for Medical Education. [doi:10.3205/zma001771](https://doi.org/10.3205/zma001771)
 
 `q3 · i?` · `causal · r2`
 

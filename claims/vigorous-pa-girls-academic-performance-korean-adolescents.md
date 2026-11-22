@@ -52,3 +52,4 @@ Adjusted multivariate logistic regression on KYRBWS-V data for 35,454 girls comp
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Children and adolescents who meet the WHO PA guideline are more likely to report above-average academic achievement than those who do not](mvpa-meeting-guidelines-above-average-achievement.md) — a broader claim this one bears on
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — related
+- [Physical activity is not significantly associated with high academic performance (cGPA > 3.5) among Jordanian medical-field students](physical-activity-not-associated-cgpa-jordanian-medical-students.md) — related

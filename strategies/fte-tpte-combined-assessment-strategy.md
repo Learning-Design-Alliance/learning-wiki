@@ -51,4 +51,4 @@ The authors propose an assessment sequence in which students first complete an F
 -
 
 ## Key Sources
-- Beatty, I. D., Gerace, W. J., & Dufresne, R. J. (2002). Measuring and Modeling Physics Students' Conceptual Knowledge Structures Through Term Association Times. UMass Physics Education Research Group. http://umperg.physics.umass.edu/
+- Beatty, I. D., Gerace, W. J., & Dufresne, R. J. (2002). Measuring and Modeling Physics Students' Conceptual Knowledge Structures Through Term Association Times. UMass Physics Education Research Group. http://umperg.physics.umass.edu/. [doi:10.1119/1.1482067](https://doi.org/10.1119/1.1482067)

@@ -64,3 +64,4 @@ Multivariate logistic regression on UKMED first-attempt data adjusted for prior 
 - [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
 - [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — reports the opposite
 - [Black and Asian students have significantly lower odds of achieving a first-class STEM degree than White students after multivariate adjustment](black-asian-lower-odds-first-class-stem-degrees.md) — related
+- [Raw ethnic disparities in UK medical students' extracurricular attainment largely attenuate after adjustment, though white students remain more likely to receive academic prizes](ethnic-disparities-attenuated-after-adjustment-prizes-persist.md) — related

@@ -54,3 +54,4 @@ Item-level administration of the officially released 2024 TAQE (300 multiple-cho
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
+- [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related

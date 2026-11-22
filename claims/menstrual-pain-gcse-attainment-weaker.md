@@ -68,3 +68,4 @@ Logistic regression for the binary attainment outcome in the same cohort. The di
 - [Heavy or prolonged menstrual bleeding is associated with lower GCSE scores and lower odds of achieving five standard passes](heavy-menstrual-bleeding-gcse-attainment.md) — related
 - [Heavy or prolonged menstrual bleeding in adolescence is associated with more school absence, including persistent absence of 10% or more](heavy-menstrual-bleeding-school-absence-alspac.md) — related
 - [Severe menstrual pain in adolescence is associated with more school absence, including persistent absence](menstrual-pain-school-absence-alspac.md) — related
+- [Little quantitative evidence exists that menstrual pain or pain management is associated with educational examination performance among Ugandan secondary school girls.](little-evidence-pain-educational-performance.md) — related

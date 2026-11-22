@@ -52,3 +52,4 @@ Sociodemographic comparison in Results §3.2 of the SHoT2022 national survey usi
 - [Foster care alumni students report poorer mental and somatic health, more loneliness and lower life satisfaction than their peers, with small-to-medium effect sizes](foster-alumni-health-loneliness-life-satisfaction.md) — related
 - [Foster care alumni students report receiving or needing special academic assistance about twice as often as their general student peers](foster-alumni-unmet-special-assistance.md) — related
 - [Graduate students in this department rated Mentoring/Research and Social/Academic Integration above national comparison samples while Financial Support rated lower, in descriptive ASES comparisons](ases-factor-means-differ-from-national-physics-graduate-sample.md) — related
+- [RDQ students report higher financial strain and more study-work conflicts than Non-RDQ students](rdq-students-financial-strain-work-study-conflicts.md) — related

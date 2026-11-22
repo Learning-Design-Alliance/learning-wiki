@@ -52,3 +52,4 @@ Baseline descriptive results from the pre-training survey of residents in five s
 - [The vast majority of residents perceive their undergraduate forensic medicine education as insufficient and call for more training](residents-perceive-undergraduate-forensic-education-insufficient.md) — related
 - [Residents report anxiety about legal repercussions and malpractice pressure, and only a small minority prefer issuing final rather than provisional forensic reports](resident-forensic-anxiety-provisional-reporting.md) — related
 - [Students' self-assessed vaccination knowledge shifted significantly after the seminar, from 46% to 5% rating it poor/insufficient and 54% to 95% rating it sufficient or higher](self-assessed-vaccination-knowledge-rose-after-seminar.md) — related
+- [Most surveyed physicians (69.1%) reported that medical education provides insufficient knowledge on AMD](physicians-report-insufficient-amd-medical-education.md) — related

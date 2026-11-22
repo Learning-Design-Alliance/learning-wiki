@@ -74,3 +74,4 @@ Combined analysis across eleven examinations (Table 1) showing ChatGPT-4 passed 
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related
 - [Frontier LLM scores on the FRCS Urology examination represent a substantial improvement over ChatGPT-3.5's reported 35% failure](frontier-llms-improve-over-chatgpt-3-5-frcs-urol.md) — related
 - [Performance on MRCGP and MRCP(UK) is highly correlated, with disattenuated correlations of .748 and .698 between the knowledge examinations and .636 between the clinical examinations](mr-cgp-mrcp-uk-high-correlations-validity.md) — related
+- [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related

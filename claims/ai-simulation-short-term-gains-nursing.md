@@ -105,3 +105,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](desktop-vr-similar-performance-to-face-to-face-simulation.md) — related
 - [For outpatient or empathetic OSCE narratives, standardized patient performances are inferior compared to real patients](sp-performances-inferior-real-patients-relational-narratives.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
+- [Students engaging with an AI-supported virtual patient tool showed better diagnostic accuracy, reasoning, and engagement than conventional instruction](ai-virtual-patients-better-diagnostic-accuracy.md) — related

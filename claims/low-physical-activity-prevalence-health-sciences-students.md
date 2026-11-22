@@ -47,3 +47,4 @@ Descriptive analysis of the physical activity profile of 401 students assessed w
 
 ## Related Claims
 - [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related
+- [More than half of surveyed Saudi university students report low physical activity (53%) and do not meet WHO activity recommendations](low-physical-activity-majority-saudi-students.md) — related

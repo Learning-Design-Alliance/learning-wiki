@@ -52,3 +52,4 @@ Cross-sectional online survey of 346 nurses in Türkiye recruited by convenience
 - [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](no-demographic-differences-pi-staging-accuracy.md) — related
 - [Nurses' pressure injury knowledge scores differ significantly across clinical units, with operating-room nurses scoring higher than outpatient-clinic nurses](pi-knowledge-differs-by-clinical-unit.md) — related
 - [Previous reading or training on pressure injuries was not significantly associated with nurses' knowledge scores](pi-reading-training-not-associated-with-knowledge.md) — related
+- [Nurses caring for inpatients show a moderate overall level of knowledge about medical device‐related pressure injuries, scoring 12.82 ± 2.99 on a 0–25 questionnaire](nurses-moderate-mdrpi-knowledge-12-82-of-25.md) — related

@@ -51,3 +51,4 @@ Secondary outcome analysis from the same randomised manikin trial (table 3: back
 - [Pit-crew training does not improve team non-technical skills as measured by the TEAM tool compared with standard training](pit-crew-team-tool-nontechnical-null.md) — related
 - [Both training approaches can be delivered in similar, roughly 45-minute sessions in a single training encounter](pit-crew-standard-similar-training-duration.md) — related
 - [Time to start of chest compressions and no-flow time did not differ significantly between pre-trained and control groups](no-group-difference-time-to-compressions-no-flow.md) — related
+- [Higher TEAM global ratings are associated with shorter mechanical CPR deployment duration](team-rating-shorter-mcpr-deployment-duration.md) — related

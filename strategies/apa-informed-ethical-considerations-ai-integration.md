@@ -59,6 +59,7 @@ The article adapts six ethical considerations from the American Psychological As
 - [Use classification results only to support, not to exclude, students: keep interventions open to all while encouraging the most at-risk students to use them](ethical-use-classification-open-to-all-students.md)
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
 - [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Clinicians develop AI literacy and invite client disclosure of AI use as clinical material to explore in session](ai-literacy-invite-disclosure-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Adjusted GEE models from the national cohort. The quote reports the season-of-bi
 - [Numeracy was the consistently weakest domain for children with high-grade IVH throughout school age](high-grade-ivh-numeracy-weakness.md) — related
 - [Children starting school a year early due to preterm birth are less likely to achieve a Good Level of Development than other preterm children, term summer births, and preterm summer births who remained in their anticipated year](early-academic-start-double-disadvantage.md) — related
 - [Each successive week born early increases the odds of not attaining a Good Level of Development at age 5 by 1.09, independent of academic month of birth](gestational-age-weekly-odds-failing-gld.md) — related
+- [Being small for gestational age or preterm nearly doubled the risk of not qualifying for upper secondary school among children with CHD without major noncardiac anomalies.](sga-preterm-double-nonqualification-risk-chd.md) — related

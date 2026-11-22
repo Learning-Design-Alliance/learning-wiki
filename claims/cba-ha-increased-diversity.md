@@ -52,3 +52,5 @@ Review of 166 articles found "48 other articles provided evidence that implement
 - [HA implementation increased diversity without decreasing academic metrics at UIC College of Nursing](uic-ha-diversity-without-academic-decline.md) — a narrower finding that bears on this claim
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related
 - [Wide variation exists in definitions of competency-based and holistic admissions across health professions programs](wide-variation-cba-ha-definitions.md) — related
+- [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related
+- [States banning race-conscious admissions saw declines in underrepresented minoritized medical school enrollment while control states saw increases](admissions-bans-reduce-urm-medical-enrollment.md) — related

@@ -57,3 +57,4 @@ Systematic review synthesis of 61 included articles retrieved from Web of Scienc
 - [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — related
 - [Physiotherapy students show significant differences in time-domain HRV across OSCE scenarios, indicating a large anticipatory stress response maintained during the entire evaluation](osce-anticipatory-stress-response-physiotherapy-hrv.md) — a narrower finding that bears on this claim
 - [Most students raised their HRV during biofeedback-assisted mindfulness sessions, with immediate on-screen feedback of physiological change](students-raised-hrv-during-biofeedback-sessions.md) — related
+- [The AI-personalized group was associated with larger HRV improvement than standardized and control groups (HRV d = 1.13)](ai-personalized-hrv-improvement.md) — related

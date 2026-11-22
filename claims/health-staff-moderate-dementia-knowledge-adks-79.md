@@ -54,3 +54,4 @@ Cross-sectional online survey of 360 staff from a Queensland regional health ser
 - [Informal dementia learning experiences, but not formal dementia training, are associated with higher ADKS scores](informal-dementia-learning-higher-adks-formal-training-null.md) — related
 - [Dementia-specific training is associated with higher dementia knowledge, independent of demographics and personal experience](dementia-training-associated-higher-knowledge.md) — related
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
+- [The national mean Airway Preparedness Index was 25.7 ± 7.4 out of 40, with regional means ranging from 37 ± 1.4 to 11.2 ± 5.3 and only one region differing significantly from the national mean](italian-hems-api-mean-25-7-regional-range-37-to-11-2.md) — related

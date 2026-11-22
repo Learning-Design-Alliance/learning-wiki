@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2026
 sources:
   - id: paridon-h-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001805"
-    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805"
+    resource: "https://doi.org/10.3205/zma001805"
+    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)"
     author: Paridon H.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Paridon H 2026
 
-Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805
+Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)
 
 `q2 · i?` · `review · r2`
 

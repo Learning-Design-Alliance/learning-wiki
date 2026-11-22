@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (134 show a difference, 37 mixed, 24 no difference) · 107 studies (54 associational, 27 causal, 11 review, 6 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 22 of 107 report an effect size · 193 claims rest on one study
+> **Evidence** · 196 claims (135 show a difference, 37 mixed, 24 no difference) · 108 studies (55 associational, 27 causal, 11 review, 6 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 23 of 108 report an effect size · 194 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -229,6 +229,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [The review reports, citing Didehbani et al., that young adults with high-functioning autism showed significant increases on social cognitive measures after VR social cognition training](../claims/vr-social-cognition-training-autism-significant-gains.md) [+M] — an instructional effect differs with it
 - [The authors report that VR performed particularly well for participants with high cognitive delay and autism, though without significant evidence favoring VR overall](../claims/vr-beneficial-high-cognitive-delay-autism.md) [~W] — an instructional effect differs with it
 - [Hands-on STEM activities can be adapted to include students with disabilities, e.g. a buzzer paired with an LED outcome for a blind student](../claims/hands-on-stem-adaptable-for-disabilities.md) [+W] — an instructional effect differs with it
+- [Very poor school performance is strongly associated with having a special education decision among maltreated children](../claims/poor-performance-special-education-link.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

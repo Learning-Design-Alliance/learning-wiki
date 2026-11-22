@@ -70,3 +70,4 @@ Case-level analysis (Table 4) reports traumatology experience associated with co
 - [Hungarian physiotherapists make appropriate treatment decisions for musculoskeletal cervical cases far more often than they recognize critical medical cases (61.7% vs 22.7%)](physiotherapists-msk-decisions-exceed-critical-case-recognition.md) — related
 - [Years of professional experience significantly influenced recognition of the dens fracture and cervical myelopathy cases](years-of-practice-influence-specific-cm-case-recognition.md) — related
 - [The SCT significantly differentiates first-year DPT students from an experienced physical therapist reference panel, with the panel scoring higher](sct-differentiates-students-reference-panel.md) — related
+- [Diagnostic accuracy for pediatric Monteggia fractures varies significantly with physician experience, with first-year residents showing the highest error rates](monteggia-diagnostic-accuracy-varies-with-experience.md) — related

@@ -108,3 +108,4 @@ Primary adjusted proportional odds analysis (Table 3) of 3322 grade 3 and 2084 g
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — a narrower finding that bears on this claim
 - [Studying at home less than one hour per weekday is independently associated with low academic performance, with a stronger odds ratio than SES](short-home-study-duration-associated-low-academic-performance.md) — related
 - [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related
+- [Each one-category increase in total daily social media use is associated with examination scores 1.40 percentage points lower](total-daily-social-media-use-lower-examination-scores.md) — related

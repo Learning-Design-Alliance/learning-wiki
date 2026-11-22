@@ -52,3 +52,5 @@ Observational radiographic assessment of 213 post-obturation radiographs of mola
 - [Rotary instrumentation resulted in more sufficient molar RCTs than manual instrumentation when used by undergraduate students](rotary-more-sufficient-treatments-than-manual.md) — related
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — related
 - [Root canal treatment by undergraduate students succeeds more often in teeth with vital pulps (87.8%) than necrotic pulps (65.6%)](student-rct-vital-vs-necrotic-success.md) — related
+- [Per-criterion adequacy was 82.3% for length, 82.4% for taper, and 77.5% for homogeneity, with homogeneity lowest and mandibular molars lowest on all three criteria](criterion-level-adequacy-length-taper-homogeneity.md) — a narrower finding that bears on this claim
+- [65.9% of root canal fillings performed by third-year preclinical dental students on extracted teeth met predefined technical adequacy criteria](preclinical-root-canal-filling-adequacy-65-9-percent.md) — related

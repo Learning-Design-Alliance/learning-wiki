@@ -53,3 +53,4 @@ Within-group Wilcoxon tests in a 16-week pilot RCT with 50 secondary students (2
 - [The escape room-based physical activity intervention significantly reduces perceived stress and self-imposed academic pressure in adolescents](escape-room-pa-reduces-stress-and-self-pressure.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [The escape room-based physical activity intervention significantly increases adolescent well-being](escape-room-pa-increases-well-being.md) — related
+- [The AI-personalized group was associated with larger HRV improvement than standardized and control groups (HRV d = 1.13)](ai-personalized-hrv-improvement.md) — related

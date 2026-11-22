@@ -71,3 +71,4 @@ One-way ANOVA on high school GPA by MAJOR TYPE was significant, F(5, 170121) = 3
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
+- [Academic major did not significantly influence average sleep duration, and sleep–GPA relationships were similar for STEM and non-STEM majors](academic-major-no-effect-on-sleep.md) — related

@@ -53,3 +53,4 @@ Cross-sectional observational study of 401 health sciences students using IPAQ-S
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — reports the opposite
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
+- [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](activity-frequency-type-gpa-anova-null.md) — reports the opposite

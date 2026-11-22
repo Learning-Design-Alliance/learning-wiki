@@ -49,7 +49,8 @@ The article concludes that "Independent online training offers practical advanta
 - [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](../claims/online-training-improves-mul-reader-confidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
 
 ## Examples
 -

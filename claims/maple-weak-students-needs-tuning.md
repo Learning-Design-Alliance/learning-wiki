@@ -48,3 +48,4 @@ Simulation results for weak students (initial skill competency under 0.33) shown
 ## Related Claims
 - [MAPLE exhibited adaptive sequencing behavior, starting with easy questions and progressively proposing harder ones, unlike the comparison algorithms](maple-adaptive-sequencing-behavior-simulation.md) — related
 - [Two trainees temporarily decreased proficiency at the concept-teaching stage before reaching optimal proficiency, indicating adaptation costs mid-training](temporary-decrease-at-concept-teaching-stage.md) — a broader claim this one bears on
+- [Students with weak initial socio-communicative skills continue to show deficits despite communication training, per the authors' interpretation](weak-initial-interactional-skills-persist.md) — related

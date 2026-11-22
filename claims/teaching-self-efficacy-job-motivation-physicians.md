@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2025
 sources:
   - id: kiver-benjamin-2025
-    resource: "https://journals.publisso.de/en/journals/jme/volume42/zma001777"
-    title: "Kiver Benjamin, Berberat Pascal O., Gartmeier Martin. (2025). The relation between teaching-related self-efficacy and general job-related well-being – a cross-sectional study among young physicians. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001777"
+    resource: "https://doi.org/10.3205/zma001777"
+    title: "Kiver Benjamin, Berberat Pascal O., Gartmeier Martin. (2025). The relation between teaching-related self-efficacy and general job-related well-being – a cross-sectional study among young physicians. GMS Journal for Medical Education. [doi:10.3205/zma001777](https://doi.org/10.3205/zma001777)"
     author: Kiver Benjamin, Berberat Pascal O., Gartmeier Martin
     q: 2
     i: 2
@@ -33,7 +33,7 @@ sources:
 
 ### Kiver Benjamin 2025
 
-Kiver Benjamin, Berberat Pascal O., Gartmeier Martin. (2025). The relation between teaching-related self-efficacy and general job-related well-being – a cross-sectional study among young physicians. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001777
+Kiver Benjamin, Berberat Pascal O., Gartmeier Martin. (2025). The relation between teaching-related self-efficacy and general job-related well-being – a cross-sectional study among young physicians. GMS Journal for Medical Education. [doi:10.3205/zma001777](https://doi.org/10.3205/zma001777)
 
 `q2 · i2` · `associational · r2`
 

@@ -49,3 +49,4 @@ The two-way mixed ANOVA on 60 management students showed significant pre/post im
 - [Repeated-measures ANOVA shows significant group-by-time interactions for all key physiological, stress, cognitive, well-being, and academic outcomes](anova-group-time-interaction-all-outcomes.md) — related
 - [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — related
 - [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related
+- [The AI-personalized group was associated with larger stress reduction than standardized and control groups (PSS d = 1.42)](ai-personalized-stress-reduction-pss.md) — related

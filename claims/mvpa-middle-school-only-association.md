@@ -49,3 +49,4 @@ Grade-stratified logistic regressions from the same cross-sectional survey found
 - [Children and adolescents who meet the WHO PA guideline are more likely to report above-average academic achievement than those who do not](mvpa-meeting-guidelines-above-average-achievement.md) — a broader claim this one bears on
 - [Children and adolescents who meet the WHO PA guideline are more likely to report no academic burden than those who do not](mvpa-meeting-guidelines-no-academic-burden.md) — a broader claim this one bears on
 - [Only about one in ten Chinese students met the WHO PA guideline, and meeting it declined with school grade while girls were less active than boys](low-mvpa-prevalence-declines-with-grade.md) — related
+- [Biological sex is associated with meeting PA guidelines (more males than females), but not with sleep duration, PWB, or academic performance](sex-differences-pa-not-sleep-pwb-gpa.md) — related

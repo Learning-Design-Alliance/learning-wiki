@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 787 claims (422 show a difference, 195 mixed, 170 no difference) · 549 studies (290 associational, 181 causal, 23 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 549 report an effect size · 779 claims rest on one study
+> **Evidence** · 790 claims (423 show a difference, 195 mixed, 172 no difference) · 552 studies (291 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 552 report an effect size · 782 claims rest on one study
 
 ## How to read this page
 
@@ -826,6 +826,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Females used more misconceptions than males in DIRECT interviews, and males outperformed females on the test](../claims/direct-gender-misconception-differences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](../claims/confidence-gap-adolescence-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](../claims/gender-gap-narrowed-but-persists.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Author gender and participant gender do not affect perceived message credibility of a science text in Studies 1 and 2](../claims/author-gender-no-credibility-effect.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](../claims/gender-gap-cognitive-performance-taabo-children.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The association between gambling and academic performance shows no sex-specific differences in the two studies that tested it](../claims/no-sex-specific-differences-gambling-gpa.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

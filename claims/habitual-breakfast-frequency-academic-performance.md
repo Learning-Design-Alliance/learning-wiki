@@ -55,3 +55,4 @@ Cross-sectional survey evidence reported by the review (attributed to Lien, 2007
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — a narrower finding that bears on this claim
 - [Breakfast eating frequency is significantly associated with academic performance among Chinese medical and dental students](breakfast-frequency-academic-performance-medical-dental.md) — a narrower finding that bears on this claim
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — a narrower finding that bears on this claim
+- [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — a narrower finding that bears on this claim

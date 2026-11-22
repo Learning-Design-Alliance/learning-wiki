@@ -48,3 +48,4 @@ Baseline comparison of 15 surgeons (Table 1): box training experience, VR experi
 ## Related Claims
 - [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related
 - [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — reports the opposite
+- [Preoperative characteristics, symptoms, and myoma features were statistically similar across the four learning-curve groups](vm-groups-comparable-baseline-characteristics.md) — related

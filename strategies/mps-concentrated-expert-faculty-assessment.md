@@ -49,6 +49,7 @@ The article states that "by using a concentrated group of expert faculty, the MP
 
 - [Integrate formal self-evaluation curriculum with timely supervisory feedback to develop accurate resident self-assessment](self-evaluation-curriculum-timely-feedback.md)
 - [Individual Deliberate Practice](individual_deliberate_practice.md)
+- [Combat graduate grade inflation with standardized grading rubrics, faculty assessment coaching, rethinking student evaluations in tenure decisions, and alternative feedback methods](combat-graduate-grade-inflation-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Intention-to-Treat OLS analysis of the cluster-randomized trial (2087 myopic stu
 - [No significant difference in eyeglass effects between children with and without eyeglasses at baseline](no-significant-baseline-eyeglass-subgroup-difference.md) — related
 - [The intervention benefits disadvantaged subgroups more, and four baseline characteristics (blackboard use, baseline score, household assets, parental migration) explain about 75% of the between-province impact difference](disadvantaged-subgroups-explain-75-percent-impact-difference.md) — related
 - [Partial compliance does not explain the between-province difference: the intervention raised eyeglass wearing similarly in both provinces](partial-compliance-not-explaining-province-difference.md) — related
+- [Myopic children with undercorrected myopia score significantly lower academically than fully corrected myopic children](myopia-undercorrection-lower-academic-performance.md) — related

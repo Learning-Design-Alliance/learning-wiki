@@ -55,6 +55,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Establish mentorship development activities and train-the-mentor programs to expand and improve mentorship](mentorship-development-and-train-the-mentor.md)
 - [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 - [Separate faculty and student mentorship training workshops emphasizing five core attributes of effective mentorship](split-mentorship-training-five-attributes.md)
+- [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
 
 ## Examples
 -

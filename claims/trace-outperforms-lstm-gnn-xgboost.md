@@ -58,3 +58,4 @@ Comparison experiment on the same institutional dataset (Table 1: TRACE MSE 0.03
 - [Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction](course-prediction-metrics-auxiliary-task.md) — related
 - [The XGBoost model's precision–recall curve yielded an area under the curve of 0.905 on the testing set](xgboost-pr-curve-discriminative-ability.md) — related
 - [XGBoost accuracy improves when trained on deep-learned representations, with CNN-GRU features yielding the highest XGBoost accuracy](deep-features-improve-xgboost-fnirs.md) — related
+- [An XGBoost model on spatial metrics fails to predict burst pressure, indicating spatial metrics alone are insufficient standalone indicators of suture quality](xgboost-spatial-metrics-poor-burst-prediction.md) — related

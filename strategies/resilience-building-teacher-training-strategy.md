@@ -64,6 +64,7 @@ The article recommends that teacher education programs incorporate resilience-bu
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
 - [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
 - [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Authors' interpretation of the pre-post results across the 75 trainees by traini
 - [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — related
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
 - [Earlier trainees (third-year medical students and first-year residents) had the lowest baseline comfort but the largest absolute comfort gains](earlier-trainees-lowest-baseline-largest-comfort-change.md) — related
+- [Total DMD knowledge improves across paediatric residency training stages, with first-year residents scoring lowest (P <0.001)](dmd-knowledge-improves-across-residency-stages.md) — related

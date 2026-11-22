@@ -55,3 +55,7 @@ Visual interpretation of the PSQI-versus-GPA scatterplot (Fig. 2) and the model-
 - [In men with low academic performance, GPA is multivariately associated with admission exam test, self-motivation, neuroticism and having a romantic partner positively, and with having children and weekly physical activity hours negatively](men-gpa-multivariate-model-low-performers.md) — related
 - [Physical activity is positively associated with academic achievement in all tested models except English, where no relationship appears](physical-activity-positive-achievement-except-english.md) — related
 - [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](walking-seminar-perceptions-independent-of-activity-level.md) — related
+- [Native American college students with good sleep duration (≥7 h) report higher psychological well-being than those with poor sleep](good-sleep-higher-pwb-native-american-students.md) — related
+- [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
+- [Native American college students who meet PA guidelines report higher psychological well-being than those who do not](meeting-pa-guidelines-higher-pwb-native-american-students.md) — related
+- [PA and sleep duration are independently associated with PWB, with no significant interaction between them](pa-sleep-independent-pwb-no-interaction.md) — related

@@ -48,3 +48,4 @@ Results of iterative ensemble machine learning (CatBoost, Random Forest, XGBoost
 ## Related Claims
 - [OPIs did not predict case complexity with high fidelity for either attending or non-attending primary surgeons](opi-prediction-attending-versus-trainee.md) — possibly the same claim (merge candidate)
 - [Segmenting the surgeon's experience into Novice and Expert phases did not improve OPI-based prediction of case complexity](skill-segmentation-no-prediction-gain.md) — related
+- [An XGBoost model on spatial metrics fails to predict burst pressure, indicating spatial metrics alone are insufficient standalone indicators of suture quality](xgboost-spatial-metrics-poor-burst-prediction.md) — a narrower finding that bears on this claim

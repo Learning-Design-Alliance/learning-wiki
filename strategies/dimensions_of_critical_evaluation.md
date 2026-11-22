@@ -65,6 +65,7 @@ Explicitly naming and contrasting the dimensions prevents the common failure mod
 - [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 - [Guide students on when conversational AI supports learning versus when it replaces checking, evaluation, and independent judgment](guide-students-when-ai-supports-versus-replaces-judgment.md)
 - [Use comparative analysis of Chinese and international journal articles to develop multi-dimensional understanding and global research perspectives](comparative-chinese-international-literature-analysis-strategy.md)
+- [Use the READER acronym to structure critical appraisal of a research article and its applicability to the reader's own practice context](reader-critical-appraisal-acronym-strategy.md)
 
 ## Examples
 - A media literacy class analyzes news articles on the same event from outlets with different editorial positions, using the four dimensions to explain why an article can be accurate yet biased, or relevant yet unreliable.

@@ -46,7 +46,8 @@ The article recommends concrete workload-reduction practices for surgeons return
 - [COVID-19 peak cancelled or postponed a large share of surgery globally, attenuating surgeon currency](../claims/covid-surgery-cancellation-currency-impact.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assess individual surgeon sleepiness before night-shift procedures and evaluate whether specific operations should be postponed until the surgeon is rested](assess-surgeon-sleepiness-postpone-procedures-strategy.md)
 
 ## Examples
 -

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/student-beliefs-activity-academic-impact.md
+---
+
+# Revision history: [claims/student-beliefs-activity-academic-impact](../claims/student-beliefs-activity-academic-impact.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from pmc-12522843 (The relationship between physical activity and academic achievement in medical students: a single-institution cross-sectional study in Sudan.) via eval_harness.py + ingest_extractions.py

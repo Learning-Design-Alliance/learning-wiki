@@ -48,3 +48,4 @@ OSAKA attitude subsection (two questions, five-point importance scale) of the re
 - [Canadian otolaryngology residents show high OSA knowledge, with a median OSAKA knowledge score of 16 out of 18 (88.9%)](osa-high-knowledge-canadian-otolaryngology-residents.md) — related
 - [Senior residents are more confident than junior residents in identifying OSA patients, managing OSA, and managing CPAP](senior-residents-more-confident-than-junior-osa.md) — related
 - [Residents report low confidence in managing OSA patients (45.5%) and CPAP therapy (15.2%) despite high knowledge](osa-low-confidence-managing-patients-cpap.md) — related
+- [General medical practitioners show moderate diagnostic awareness of OSA, with 76.8% endorsing neck circumference screening but only 57.6% identifying polysomnography as the gold standard](gps-moderate-diagnostic-awareness-psg-gap.md) — related

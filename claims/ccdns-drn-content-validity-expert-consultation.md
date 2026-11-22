@@ -61,3 +61,4 @@ Expert consultation step with 10 experts from the Disaster Nursing Specialized C
 - [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
 - [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim
+- [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related

@@ -54,3 +54,4 @@ Thematic content analysis of postcourse free-text intentions (n=236 asked): part
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related
 - [After the course, participants more frequently named key end-of-life symptoms such as pain, which rose from 59 to 103 instances](teolc-symptom-recall-frequency-change.md) — related
+- [Siloed, competitive professional environments that avoid shared decision-making produce poor communication, fragmented care and error-prone systems](siloed-teamwork-fragments-care.md) — related

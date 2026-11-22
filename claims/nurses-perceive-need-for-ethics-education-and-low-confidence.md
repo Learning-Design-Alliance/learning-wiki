@@ -69,3 +69,4 @@ Indirect ethics questions in the GGNPS-CA survey: "82.3%, n = 190) did not feel 
 - [Poorer self-rated understanding of ethics and equity is associated with lower Knowledge Scores; importance of ethics education is also associated with KS](genomic-ethics-self-ratings-associated-with-knowledge-score.md) — related
 - [Understanding of ethical issues and understanding of equity in genomics are statistically significantly associated (p < .001)](understanding-genomic-ethics-associated-with-understanding-equity.md) — related
 - [Baseline self-assessed competency was highest for family-history/pedigree identification and lowest for selecting appropriate genetic/genomic tests](baseline-competency-varies-by-individual-genomic-competency.md) — related
+- [Most nurses consider genomic education important, and reported advantages of genomic practice integration increased from 2010 to 2023](nurse-genomic-attitudes-important-advantages-increased.md) — related

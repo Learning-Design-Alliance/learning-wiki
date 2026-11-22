@@ -42,6 +42,7 @@ Intern selection used an equity-minded rubric built on holistic components inclu
 - [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
 - [Direct future rubric-equity research toward underrepresented groups, admissions drivers, and student outcomes](future-work-rubric-equity-research-agenda.md)
 - [Institutions considering reduced reliance on standardized testing should validate changes locally and monitor medium- and long-term outcomes](local-validation-admissions-policy-changes.md)
+- [Apply holistic review early so every qualified candidate receives a holistic file review before interview selection](apply-hr-early-to-all-qualified-applicants.md)
 
 ## Examples
 -

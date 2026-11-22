@@ -47,6 +47,7 @@ An implementation strategy in which researchers involve teachers and principals 
 ## Related Strategies
 
 - [Research should evaluate cognitive and academic effects of very short (≤5 min) classroom PA breaks, the form staff consider feasible](research-short-pa-breaks-feasible-forms.md)
+- [Involve school staff and students in planning, and use workshops, parental meetings, researcher support and materials to optimise adherence](staff-student-codesign-implementation-strategies.md)
 
 ## Examples
 -

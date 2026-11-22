@@ -53,3 +53,5 @@ Multivariate logistic regression models for the Part A cohort comparing a partia
 - [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related
 - [Students from Asian, Black, Mixed and Other ethnic groups are significantly less likely than White students to finish in the top tier of EPM rankings](ethnic-minority-students-less-likely-top-epm-rankings.md) — related
 - [Demographic and schooling background measures independently predict first-year outcome after educational attainment is taken into account](background-measures-independently-predict-medical-outcome.md) — related
+- [Raw ethnic disparities in UK medical students' extracurricular attainment largely attenuate after adjustment, though white students remain more likely to receive academic prizes](ethnic-disparities-attenuated-after-adjustment-prizes-persist.md) — related
+- [Ethnicity was not independently associated with ST3 offer outcomes after adjustment in the 2024 national selection](ethnicity-not-independently-associated-st3-offers.md) — related

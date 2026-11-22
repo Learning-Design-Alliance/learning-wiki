@@ -50,3 +50,4 @@ Regional group-comparison analysis (Table 2 and Supplementary Figure S2) of part
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Shanghai-area practitioners reported higher school–clinical congruence and lower perceived difficulty than practitioners from other regions](shanghai-higher-congruence-lower-difficulty.md) — related
+- [Regional variation in TIA knowledge: physicians outside the South-West showed lower odds of good knowledge (North-Central OR 0.105; North-East OR 0.376)](regional-variation-tia-knowledge-nigeria.md) — related

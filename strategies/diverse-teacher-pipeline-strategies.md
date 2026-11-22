@@ -61,6 +61,7 @@ The brief's Goal 3 and Goal 4 criteria enumerate pipeline strategies states shou
 - [Fund Grow Your Own programs to recruit more candidates of color than traditional educator preparation programs attract](grow-your-own-programs-recruit-candidates-of-color.md)
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 - [Support teacher residency programs, which are associated with higher retention rates for teachers of color](teacher-residency-programs-retain-teachers-of-color.md)
+- [Financial support programs improve workforce diversity most when specifically targeted to underrepresented minoritized entrants](targeted-financial-support-workforce-diversity.md)
 
 ## Examples
 -

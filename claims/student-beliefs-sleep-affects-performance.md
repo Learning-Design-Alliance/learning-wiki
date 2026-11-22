@@ -49,3 +49,4 @@ Self-reported questionnaire items in the cross-sectional survey (Table 1); these
 
 ## Related Claims
 - [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — related
+- [Most medical students believe physical activity affects academic achievement, but a minority believe the effect is negative](student-beliefs-activity-academic-impact.md) — related

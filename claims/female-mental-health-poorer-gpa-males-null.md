@@ -59,3 +59,7 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Female gender and depressive symptomatology are statistically significant, lower-power predictors of poor academic performance during distance education](gender-depression-predictors-poor-performance.md) — related
 - [Lower academic achievement predicts higher later depressive symptoms in girls around the later stages of compulsory education, and poor results at age 16 predict later depressive symptoms in both sexes](low-achievement-predicts-depression-girls-and-age-16-both-sexes.md) — related
 - [Age and gender significantly predict M1 grade, with better grades for male and younger medical students](age-gender-predict-m1-grade.md) — related
+- [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related
+- [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
+- [The association between mental disorder diagnosis and lower school achievement is more pronounced in female than male students](gender-difference-mental-disorder-gpa-females-stronger.md) — related
+- [Poorer mental health, menstrual knowledge, knowledge of pain management and menstrual self-efficacy are associated with lower use of effective pain management and lower reported pain relief.](mental-health-knowledge-self-efficacy-pain-management.md) — related

@@ -57,3 +57,4 @@ Review synthesis across the 25 included studies. Nine studies involved parents d
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related
 - [A weekly \"responsibility card\" involving parents was a key strategy for fostering transference of responsibility goals in preschool](responsibility-card-parent-transfer-strategy.md) — a narrower finding that bears on this claim
+- [Prior pesticide-safety educational interventions improved farmers' knowledge and attitudes but were less successful at changing behaviour and lowering exposure risks, largely because follow-up was short](pesticide-education-improves-kap-knowledge-not-behaviour-short-followup.md) — related

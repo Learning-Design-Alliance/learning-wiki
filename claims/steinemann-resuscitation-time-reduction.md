@@ -63,3 +63,6 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [Simulation-trained trauma teams obtain blood routine reports and other blood tests faster than traditional practice](simulation-team-training-faster-blood-tests.md) — related
 - [Simulation-trained trauma teams obtain CT scans faster than traditional practice in grade I trauma patients](simulation-team-training-faster-ct-scan.md) — related
 - [Simulation-trained ED trauma teams achieve faster initiation of hemostasis than traditional practice in grade I trauma patients](simulation-team-training-faster-hemostasis-trauma.md) — related
+- [Higher TEAM global ratings are associated with shorter cumulative no-flow time during mechanical CPR deployment in real-world resuscitations](team-global-rating-shorter-mcpr-no-flow-time.md) — related
+- [Leadership is the only TEAM subdimension significantly associated with cumulative no-flow time during MCPR deployment](leadership-only-team-subdimension-associated-no-flow.md) — related
+- [Higher TEAM global ratings are associated with shorter mechanical CPR deployment duration](team-rating-shorter-mcpr-deployment-duration.md) — a narrower finding that bears on this claim

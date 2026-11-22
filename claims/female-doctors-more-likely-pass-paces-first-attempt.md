@@ -52,3 +52,4 @@ Multivariate binary logistic regression of the full study population of doctors 
 - [Female non-UK graduates registered with the GMC had nearly one and a half times the odds of passing PACES compared with male counterparts](non-uk-gmc-registered-female-advantage-or-1-47.md) — a narrower finding that bears on this claim
 - [Gender differences in first-attempt pass rates run in opposite directions for written versus clinical postgraduate medical examinations](gender-pass-odds-opposite-written-clinical.md) — a broader claim this one bears on
 - [Female students are significantly more likely than male students to finish in the top tier of EPM rankings](female-students-more-likely-top-epm-rankings.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

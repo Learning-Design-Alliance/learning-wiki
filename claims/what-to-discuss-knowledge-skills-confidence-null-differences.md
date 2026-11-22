@@ -52,3 +52,4 @@ Survey comparison of Canadian (n = 45) and Dutch (n = 41) counselors on the what
 - [Canadian and Dutch SCI physical activity counselors differed in professional expertise and prior Motivational Interviewing training](counselor-expertise-and-mi-training-differences.md) — related
 - [Completing the e-learning course significantly improves tested knowledge of SCI physical activity counselling best practices compared with wait-list control](elearning-course-improves-sci-pa-counselling-knowledge.md) — related
 - [Most potential end-users want to improve SCI physical activity counselling skills, cite time and reimbursement barriers, and are interested in online training](end-users-want-online-sci-counselling-training.md) — related
+- [Dermatologists tend to score higher on persistent chemotherapy-induced alopecia knowledge, but the difference is not statistically significant](dermatologists-pcia-knowledge-trend.md) — related

@@ -70,3 +70,5 @@ Secondary correlation analysis in the same 30-day diary study found no significa
 - [GPA difference between full-30-day Regular and Irregular groups was significant, but the 14-day-designated subgroup difference was not](gpa-regular-vs-irregular-subgroups.md) — a narrower finding that bears on this claim
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
+- [Sleep duration is positively associated with GPA throughout college, with each GPA point associated with 27.4 additional minutes of sleep on average](positive-sleep-gpa-association-throughout-college.md) — related
+- [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — related

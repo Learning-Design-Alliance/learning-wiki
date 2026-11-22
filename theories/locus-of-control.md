@@ -56,6 +56,8 @@ A student who does poorly on a test after skipping study time illustrates the co
 
 ## Examples
 
+- [Attribution retraining in teacher feedback and classroom practices to promote internal, controllable attributions](../strategies/attribution-retraining-teacher-feedback-strategy.md)
+
 ## Key Sources
 - Rotter, J. B. (1966). Generalized expectancies for internal versus external control of reinforcement. *Psychological Monographs, 80*(1), 1-28.
 - Benassi, V. A., Sweeney, P. D., & Dufour, C. L. (1988). Is there a relation between locus of control orientation and depression? *Journal of Abnormal Psychology, 97*(3), 357-367.

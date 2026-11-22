@@ -47,3 +47,4 @@ Across the six multilevel models, externalizing problems significantly predicted
 ## Related Claims
 - [Higher child-reported CU traits predict lower English, Math and Science grades in secondary students, controlling for externalizing problems and sociodemographics](cu-traits-lower-grades-three-subjects.md) — related
 - [Mathematics shows the most heterogeneous reciprocal pattern, with early reciprocal links to emotional problems and prosocial behavior and negative externalizing-to-math paths](mathematics-reciprocal-behavior-effects.md) — related
+- [Low academic achievement with external attribution tendency positively moderates the effect of negative life events on externalizing problem behaviors](low-achievement-external-attribution-moderates-externalizing.md) — related

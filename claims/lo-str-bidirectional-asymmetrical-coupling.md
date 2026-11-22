@@ -51,3 +51,4 @@ Three-wave CLPM (T1 Week 2, T2 Week 10, T3 Week 18; N = 216) estimated with cova
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — related
 - The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [Learning outcomes and skill transfer/retention are moderately strongly correlated at each of the three measurement waves](lo-str-within-wave-correlations-moderate.md) — related
+- [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related

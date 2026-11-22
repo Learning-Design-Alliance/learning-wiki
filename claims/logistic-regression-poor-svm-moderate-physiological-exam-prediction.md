@@ -73,3 +73,4 @@ Same test-set comparison; the article reports SVM "exhibit moderate performance 
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — reports the opposite
 - [Pairwise statistical tests confirm random forest's performance differences from other models are statistically significant (p < 0.05)](statistical-tests-confirm-random-forest-superiority.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [An XGBoost model on spatial metrics fails to predict burst pressure, indicating spatial metrics alone are insufficient standalone indicators of suture quality](xgboost-spatial-metrics-poor-burst-prediction.md) — related

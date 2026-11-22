@@ -54,3 +54,4 @@ Self-designed six-item frailty educational information questionnaire (Cronbach's
 - [Among 524 Chinese clinical nurses, only 37.2% were rated good in frailty-management KAP, with good knowledge (10.3%) and practice (13.4%) far less common than good attitudes (65.3%)](nurses-frailty-kap-knowledge-practice-lag-attitudes.md) — related
 - [Recency of frailty-related literature reading shows a borderline association with total KAP and is associated with knowledge scores](frailty-reading-recency-knowledge.md) — related
 - [Only a minority of counselors knew the SCI-specific physical activity guidelines, and less than half of Dutch respondents selected the correct guidelines](sci-guideline-knowledge-low-counselors.md) — related
+- [Nurses familiar with national dengue guidelines scored higher on the C-Scale-I than those not familiar, supporting known-groups validity](c-scale-i-known-groups-guideline-familiarity.md) — related

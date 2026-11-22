@@ -48,3 +48,5 @@ ANCOVAs comparing HOPS (N = 111), CHIEF (N = 111), and waitlist (N = 52) on post
 ## Related Claims
 - [HOPS produces significantly greater improvements than CHIEF in parent- and teacher-rated use of organized actions, but not on measures of homework problems](hops-beats-chief-organized-actions.md) — related
 - [HOPS produces moderate effect-size improvements on teacher-rated organized actions and materials management, whereas CHIEF does not differ from waitlist on teacher ratings](hops-teacher-rated-organization-gains.md) — related
+- [In a large-scale school-based RCT, HOPS produced large caregiver-rated improvements in homework performance, task planning, materials management, and organized actions versus TAU/WL](hops-rct-caregiver-large-effects.md) — related
+- [Counselor-reported working alliance was a significant predictor of favorable HOPS outcomes in the prior trial](working-alliance-predicts-hops-outcomes.md) — related

@@ -50,3 +50,5 @@ Patient-specific outcomes for all surgical procedures performed during the 12-mo
 - [Prior VR simulator training is associated with lower PCR rates in live cataract surgery (2.2% vs 4.8%, p = 0.032), as reported by a cited study](vr-simulation-training-lower-pcr-rates-cited.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — a broader claim this one bears on
 - [Posterior capsule rupture and vitreous loss fall from 14.3% to 6.9% after wet-laboratory training in resident-performed MSICS](wet-lab-training-reduces-pc-rupture-vitreous-loss.md) — related
+- [A simulation-based surgical curriculum with case reviews and immediate feedback was followed by a large drop in resident PCR and AV rates (7.7% to 1.4%)](simulation-curriculum-reduced-resident-complications.md) — related
+- [Pooled anterior vitrectomy incidence in cataract surgery is statistically significant for residents but not for experienced surgeons](resident-av-incidence-significant-attending-not.md) — related

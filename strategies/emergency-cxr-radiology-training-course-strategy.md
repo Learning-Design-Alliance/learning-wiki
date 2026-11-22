@@ -47,6 +47,7 @@ The authors recommend that family medicine residency programs add radiology trai
 ## Related Strategies
 
 - [Implement a unified emergency imaging course across medical schools and ensure life-threatening chest X-ray interpretation is taught in all radiology rotations](unified-emergency-imaging-course-strategy.md)
+- [Emergency medicine and primary care stakeholders should collaborate to share PoCUS knowledge and skills](pocus-knowledge-sharing-collaboration-strategy.md)
 
 ## Examples
 -

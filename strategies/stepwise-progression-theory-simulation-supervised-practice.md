@@ -76,6 +76,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Four-step REBOA training programme: theory, basic skill training, interventional radiology practice, and high-fidelity simulation with debriefing](four-step-reboa-training-programme-strategy.md)
 - [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 - [Build simulation airway curricula around environmental fidelity and deliberate practice, with formal teaching of nontechnical crisis management skills](simulation-airway-curriculum-fidelity-deliberate-practice.md)
+- [Structure vaginal myomectomy training as approximately 30–34 supervised cases with mentorship and stepwise responsibility for trainees with prior vaginal surgery experience](vm-training-30-34-supervised-cases-strategy.md)
+- [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
 
 ## Examples
 -

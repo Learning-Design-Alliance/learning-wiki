@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2025
 sources:
   - id: gehrke-beck-sabine-2025
-    resource: "https://journals.publisso.de/en/journals/jme/volume42/zma001780"
-    title: "Gehrke-Beck Sabine, Kitte Isabel, Streitlein-Böhme Irmgard, Deutsch Tobias, Demmer Iris, Gornostayeva Maryna, Jendyk Ralf. (2025). Accreditation and qualification of primary care teaching practices in Germany – a nationwide online survey of universities. GMS Journal for Medical Education 42(5): Doc56. https://journals.publisso.de/en/journals/jme/volume42/zma001780"
+    resource: "https://doi.org/10.3205/zma001780"
+    title: "Gehrke-Beck Sabine, Kitte Isabel, Streitlein-Böhme Irmgard, Deutsch Tobias, Demmer Iris, Gornostayeva Maryna, Jendyk Ralf. (2025). Accreditation and qualification of primary care teaching practices in Germany – a nationwide online survey of universities. GMS Journal for Medical Education 42(5): Doc56. [doi:10.3205/zma001780](https://doi.org/10.3205/zma001780)"
     author: Gehrke-Beck Sabine, Kitte Isabel, Streitlein-Böhme Irmgard, Deutsch Tobias, Demmer Iris, Gornostayeva Maryna, Jendyk Ralf
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Gehrke-Beck Sabine 2025
 
-Gehrke-Beck Sabine, Kitte Isabel, Streitlein-Böhme Irmgard, Deutsch Tobias, Demmer Iris, Gornostayeva Maryna, Jendyk Ralf. (2025). Accreditation and qualification of primary care teaching practices in Germany – a nationwide online survey of universities. GMS Journal for Medical Education 42(5): Doc56. https://journals.publisso.de/en/journals/jme/volume42/zma001780
+Gehrke-Beck Sabine, Kitte Isabel, Streitlein-Böhme Irmgard, Deutsch Tobias, Demmer Iris, Gornostayeva Maryna, Jendyk Ralf. (2025). Accreditation and qualification of primary care teaching practices in Germany – a nationwide online survey of universities. GMS Journal for Medical Education 42(5): Doc56. [doi:10.3205/zma001780](https://doi.org/10.3205/zma001780)
 
 `q2 · i?` · `associational · r2`
 

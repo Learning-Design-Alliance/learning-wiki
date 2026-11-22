@@ -60,6 +60,7 @@ The article recommends that universities replace uniform AI-literacy programs wi
 - [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 - [Provide structured, level-tailored career preparation programs (resume workshops, mock interviews, employer research guidance) for CS students](structured-cs-career-preparation-programs.md)
 - [Provide university-level GenAI guidance for students, such as a GenAI policy and workshops, since students explicitly request structured guidance on AI use](university-level-student-genai-guidance-workshops.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Cross-sectional moderated-moderation analysis in 520 undergraduates. The article
 - [Grit is related to GPA only at low levels of social desirability](grit-gpa-only-at-low-social-desirability.md) — related
 - [Social desirability is negatively related to GPA among college students](social-desirability-negatively-related-to-gpa.md) — related
 - [Grit does not buffer the effect of academic demands: no significant demands × grit interactions on exhaustion or engagement](no-demands-grit-interaction-effects.md) — related
+- [Fall-term GPA does not differ across depressive symptom trajectory groups, with spring-term differences emerging later in the academic year](fall-gpa-no-difference-trajectory-groups.md) — related

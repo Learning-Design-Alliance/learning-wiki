@@ -58,3 +58,4 @@ Retrospective descriptive study at Srinagarind Hospital, Thailand (January–Dec
 - [Residents tended to score higher on image acquisition than on image interpretation in POC ultrasound assessment](acquisition-scores-exceeded-interpretation-scores.md) — related
 - [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — reports the opposite
 - [Simulation-based TVS training before clinical training yields higher clinical performance on real patients 2 months into residency than clinical training alone](simulation-tvs-training-sustained-clinical-performance.md) — related
+- [Practical assessment scores were not significantly associated with self-reported frequency of PoCUS use](pocus-scores-not-associated-with-use-frequency.md) — related

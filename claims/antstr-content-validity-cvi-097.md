@@ -80,3 +80,4 @@ Content validity index computed by averaging item CVR values from the eight-expe
 - [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
 - [Iterative expert content validation produced strong content validity for QISCIT, with average CVI rising to 0.97 and expert accuracy to 91% in the final 31-item version](qiscit-content-validity-cvi-097.md) — related
+- [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related

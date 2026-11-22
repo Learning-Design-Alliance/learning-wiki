@@ -70,3 +70,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [Teachers increased self-rated AI familiarity from 4.8 to 5.8 out of 7 during the workshop and rated confidence about integrating AI at 5.6 out of 7](familiarity-confidence-gains-remote-ai-codesign.md) — a narrower finding that bears on this claim
 - [Workshop participation yields large gains in self-reported AI knowledge and understanding of AI training, a medium gain in understanding of bias, and a small gain in confidence](workshop-gains-ai-knowledge-confidence.md) — related
 - [Post-training surveys showed a visible increase in participants' self-reported familiarity with core Apptainer commands](post-survey-familiarity-increase.md) — related
+- [Internal medicine physicians' self-assessed periodontal knowledge increased significantly after completing the survey despite objective knowledge gaps](ims-self-assessment-increased-post-survey.md) — related

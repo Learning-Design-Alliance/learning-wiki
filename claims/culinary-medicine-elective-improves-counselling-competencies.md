@@ -9,11 +9,10 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-05
 sources:
   - id: rudolf-lena-sophie-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001854"
-    title: "Rudolf Lena Sophie, Bunzel Cathleen, Dietz Lisa-Michelle, Kröller Katja, Markert Jana, Schörghofer Helen Clara, Meixner Mario, von Iven Laura, Lux Anke, Rissmann Anke. (2026). Competencies for medical nutritional counselling of children and adolescents: Analysis of NKLM 2.0 based on an evidence-based catalogue of criteria. GMS Journal for Medical Education 43(5). https://journals.publisso.de/en/journals/jme/volume43/zma001854"
+    resource: "https://doi.org/10.3205/zma001854"
+    title: "Rudolf Lena Sophie, Bunzel Cathleen, Dietz Lisa-Michelle, Kröller Katja, Markert Jana, Schörghofer Helen Clara, Meixner Mario, von Iven Laura, Lux Anke, Rissmann Anke. (2026). Competencies for medical nutritional counselling of children and adolescents: Analysis of NKLM 2.0 based on an evidence-based catalogue of criteria. GMS Journal for Medical Education 43(5). [doi:10.3205/zma001854](https://doi.org/10.3205/zma001854)"
     author: Rudolf Lena Sophie, Bunzel Cathleen, Dietz Lisa-Michelle, Kröller Katja, Markert Jana, Schörghofer Helen Clara, Meixner Mario, von Iven Laura, Lux Anke, Rissmann Anke
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in the culinary medicine elective course led to a significant improvement of students' counselling competencies, nutritional knowledge, attitude towards NC, well-being and eating habits. [→ Rudolf Lena Sophie 2026](#rudolf-lena-sophie-2026)
@@ -34,7 +33,7 @@ sources:
 
 ### Rudolf Lena Sophie 2026
 
-Rudolf Lena Sophie, Bunzel Cathleen, Dietz Lisa-Michelle, Kröller Katja, Markert Jana, Schörghofer Helen Clara, Meixner Mario, von Iven Laura, Lux Anke, Rissmann Anke. (2026). Competencies for medical nutritional counselling of children and adolescents: Analysis of NKLM 2.0 based on an evidence-based catalogue of criteria. GMS Journal for Medical Education 43(5). https://journals.publisso.de/en/journals/jme/volume43/zma001854
+Rudolf Lena Sophie, Bunzel Cathleen, Dietz Lisa-Michelle, Kröller Katja, Markert Jana, Schörghofer Helen Clara, Meixner Mario, von Iven Laura, Lux Anke, Rissmann Anke. (2026). Competencies for medical nutritional counselling of children and adolescents: Analysis of NKLM 2.0 based on an evidence-based catalogue of criteria. GMS Journal for Medical Education 43(5). [doi:10.3205/zma001854](https://doi.org/10.3205/zma001854)
 
 `q2 · i?` · `qualitative · r2`
 

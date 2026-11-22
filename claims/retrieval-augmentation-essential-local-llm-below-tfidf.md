@@ -52,3 +52,4 @@ Results section (5.1, Table 3) comparison across baseline conditions on the n = 
 - [Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations](artifact-indexing-improves-analytical-retrieval.md) — a narrower finding that bears on this claim
 - [Targeted enhancements (retrieval-augmented inference, multimodal training) substantially raise open-source models' phonology mastery to near-ceiling levels](targeted-enhancements-raise-phonology-mastery.md) — related
 - [Retrieval-augmented generation grounding achieves near-perfect correctness compared to untuned LLM baseline](rag-grounding-near-perfect-correctness.md) — related
+- [TF-IDF analysis associated GPT-4o-RAG's incorrect answers with numerical terms about nutrient and energy intake](tfidf-incorrect-answers-numerical-terms.md) — related

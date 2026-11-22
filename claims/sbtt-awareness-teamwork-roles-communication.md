@@ -73,3 +73,4 @@ Focus group findings on communication. One anaesthesiologist described receiving
 - [Clear role definition by leaders enhanced team coordination and prevented task duplication and oversight in Balkan healthcare teams](role-clarity-enhances-team-coordination.md) — related
 - [Learners' self-assessed ability to contribute to TTCA-24 teamwork domains improved after the simulation event, as team member and as team leader](ttca24-self-assessment-improved.md) — related
 - [First-year doctors report that non-technical skills trained in simulation — communication, teamwork, leadership and situational awareness — transferred to clinical practice](nts-transfer-to-clinical-practice.md) — related
+- [The performance benefit of named caps may be limited to newly formed, inexperienced teams with clearly defined roles](named-caps-benefit-newly-formed-teams.md) — related

@@ -49,3 +49,4 @@ GEE analyses including years of prior radiological experience (median 2.7 years 
 - [Urology trainees start with higher baseline PI-QUALv2 agreement, but radiology trainees close the gap within 50 cases and reach similar final performance](piqual-baseline-gap-closes-50-cases.md) — related
 - [Feedback-based prostate mpMRI training plateaus after 69–75 cases, with most learning in the first 50 cases](prostate-mpmri-learning-plateau-69-75-cases.md) — related
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — a narrower finding that bears on this claim
+- [A newly certified radiologist showed insufficient intraobserver agreement when re-grading endolymphatic hydrops and the round window sign on MRI](newly-certified-radiologist-low-intraobserver-agreement-hydrops.md) — related

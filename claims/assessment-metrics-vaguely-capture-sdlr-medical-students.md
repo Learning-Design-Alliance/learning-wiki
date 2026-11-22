@@ -53,3 +53,4 @@ Multiple regression analysis of five evaluation metrics (GPA, OSCE, USMLE Step 1
 - [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
+- [US-specific evidence links USMLE scores, medical school honours, clerkship grades and AOA membership to resident performance, while PhD, prior clinical research and GPA were not shown to be predictive](us-predictors-ophthalmology-resident-performance.md) — related

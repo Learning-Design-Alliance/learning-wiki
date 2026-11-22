@@ -54,6 +54,8 @@ The article recommends that training providers use the identified at-risk groups
 - [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
 - [Weighted student-based funding formulas that allocate resources according to student needs](weighted-student-based-funding-formulas.md)
 - [Provide targeted support and mentoring for widening-participation medical entrants from non-professional backgrounds](targeted-support-widening-participation-entrants.md)
+- [Provide targeted induction, interview preparation and structured mentorship for international medical graduates applying to surgical training](img-targeted-induction-mentorship-strategy.md)
+- [Expand funding, structured mentorship and early career guidance rather than removing merit-based selection criteria](funding-mentorship-early-career-guidance-strategy.md)
 
 ## Examples
 -

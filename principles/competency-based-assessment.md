@@ -209,6 +209,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Separate competency assessment from courses, conducted by an independent unit using evidence-centered assessment design](../strategies/independent-competency-assessment-separation.md)
 - [Proficiency-based progression simulation training using expert-defined competency thresholds](../designs/proficiency-based-progression-expert-thresholds.md)
 - [Safeguard assessment objectivity in peer-assessment evaluations by separating teaching and evaluation roles, blinding assessors to group allocation, and standardizing assessor training](../strategies/assessor-bias-safeguards-peer-assessment.md)
+- [Combat graduate grade inflation with standardized grading rubrics, faculty assessment coaching, rethinking student evaluations in tenure decisions, and alternative feedback methods](../strategies/combat-graduate-grade-inflation-strategy.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

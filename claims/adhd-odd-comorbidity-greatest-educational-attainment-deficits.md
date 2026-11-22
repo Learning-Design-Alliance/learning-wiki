@@ -70,3 +70,4 @@ Register-based multinomial logistic regression for females in NFBC1986; the fema
 - [Pure ODD symptoms have a negative effect on academic performance at 16 relative to controls, but weaker than that of pure ADHD symptoms](odd-symptoms-weaker-effect-on-grades-than-adhd.md) — related
 - [No differences in age-16 academic performance were found between the ADHD and the ADHD+ODD groups](no-grade-difference-adhd-vs-adhd-odd.md) — related
 - [ADHD is the diagnosed mental disorder most strongly associated with ineligibility for upper secondary education among both male and female students in Sweden](adhd-strongest-ineligibility-association-sweden.md) — related
+- [Greater mental disorder comorbidity is associated with progressively lower comprehensive school GPA](comorbidity-gradient-lower-gpa.md) — related

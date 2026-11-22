@@ -57,6 +57,7 @@ The article recommends simulation-based training, digital tools including the IA
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
 - [Use innovative, flexible dementia-learning formats (short app-based modules, interactive e-learning, monthly workshops, tele-mentoring) instead of conventional formal training](flexible-dementia-learning-formats-strategy.md)
+- [Targeted educational initiatives, simulation-based learning and interdisciplinary case discussions to close rare-disease knowledge gaps in paediatric training](targeted-rare-disease-education-strategy.md)
 
 ## Examples
 -

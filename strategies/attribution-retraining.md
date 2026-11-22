@@ -64,6 +64,7 @@ Attribution retraining targets the motivational antecedents of persistence rathe
 - [Self-Regulated Learning Strategy Instruction](self-regulated-learning-instruction.md) — supplies the strategies that reattribution points toward
 - [Mastery-Oriented Feedback](mastery-oriented-feedback.md) — the ongoing feedback practice that sustains retrained attributions
 - [Combine strategic mindset intervention with explicit strategy training for less-prepared learners](combine-strategic-mindset-with-strategy-training.md)
+- [Attribution retraining in teacher feedback and classroom practices to promote internal, controllable attributions](attribution-retraining-teacher-feedback-strategy.md)
 
 ## Examples
 - **Project for Education Research That Scales (PERTS)**, at Stanford — offers classroom resources and mindset-supportive teaching practices that operationalize attributional messaging at scale ([perts.net](https://www.perts.net)).

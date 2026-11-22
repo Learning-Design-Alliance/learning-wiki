@@ -89,3 +89,5 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Confidence in procedure performance rises with professional experience and with Masters/PhD qualifications](confidence-rises-with-experience-and-qualifications.md) — a narrower finding that bears on this claim
 - [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related
 - [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related
+- [ONN competency scores differ significantly by nurse experience, training frequency, age, and education, with the largest difference for experience (d = 1.73)](onn-competency-differs-by-experience-training-age-education.md) — related
+- [Age, weekly pressure ulcer care volume, education participation, and self‐perceived adequacy predict ICU nurses' pressure ulcer self‐efficacy](predictors-of-nurse-pu-self-efficacy.md) — related

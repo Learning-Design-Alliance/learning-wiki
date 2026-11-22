@@ -55,6 +55,7 @@ A forward-looking recommendation for making the proposed competency framework fe
 - [Prioritize layered models for budget-limited institutions and reserve VR simulators for advanced individualized training](budget-tiered-simulation-tool-selection.md)
 - [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
 - [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
+- [Design high-investment surgical training pathways as modular programs so low-cost metric-based simulations, virtual/augmented reality, and remote-learning alternatives can substitute when resources are constrained](modular-low-cost-adaptations-constrained-settings.md)
 
 ## Examples
 -

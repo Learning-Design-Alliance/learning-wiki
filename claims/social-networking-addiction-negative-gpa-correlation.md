@@ -50,3 +50,5 @@ Cross-sectional study of 360 students at KUMS sampled by stratified random sampl
 - [Social networking addiction among the sampled medical sciences students was at a moderate level, with most students classified as moderately addicted](moderate-social-networking-addiction-level-medical-students.md) — related
 - [Social networking use relates to GPA differently by user profile: engaged users show higher GPA, addicted users lower](sns-user-profile-gpa-moderation-qatar.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
+- [The relapse and mood-modification addiction symptoms show significant negative associations with adolescent GPA](relapse-mood-modification-symptoms-lower-gpa.md) — a narrower finding that bears on this claim
+- [Higher addictive behaviors related to social network use are significantly associated with lower GPA in adolescents](sns-addictive-behaviors-lower-gpa-adolescents.md) — related

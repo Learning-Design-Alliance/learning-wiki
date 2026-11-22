@@ -52,3 +52,4 @@ Narrative synthesis of the 45 included studies: for GPT-3.5, 6 passed and 4 perf
 - [In the combined review analysis, ChatGPT-3.5 failed eight of nine UK postgraduate exams while ChatGPT-4 passed nine of eleven](chatgpt-4-passed-nine-of-eleven-postgraduate-exams.md) — related
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related
+- [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related

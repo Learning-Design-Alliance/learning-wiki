@@ -49,3 +49,4 @@ Chi-square analysis of the same 506-participant cross-sectional survey (Table 3)
 - [Male health care professionals were 7.05 times more likely than females to have adequate ACLS knowledge and skills](male-gender-higher-acls-adequate-odds.md) — reports the opposite
 - [Dental interns demonstrated higher knowledge of oral complications of cancer therapy than senior dental students (29.7% vs. 21.6% good knowledge, p < 0.05)](interns-exceed-students-oral-complications-knowledge.md) — related
 - [No significant difference was found between public and private university students in knowledge of oral complications and care management for head and neck cancer patients](no-public-private-university-knowledge-difference.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

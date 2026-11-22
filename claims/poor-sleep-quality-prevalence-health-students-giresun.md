@@ -49,3 +49,4 @@ Cross-sectional stratified-sample survey of 315 students from medicine, dentistr
 - [After adjustment, dentistry students had higher odds of poor sleep quality than both midwifery/nursing and medicine students, and female students higher odds than male students](dentistry-female-higher-odds-poor-sleep.md) — related
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
 - [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](study-time-trades-off-against-sleep.md) — related
+- [Poor sleep quality (PSQI > 5) was present in 85.7% of the sampled medical and dental students](poor-sleep-prevalence-85-7-percent-medical-dental-students.md) — related

@@ -49,3 +49,4 @@ Sensitivity testing re-ran the regression model with WAM as the dependent variab
 - [Lower academic achievers (low WAM) drive the negative Facebook effect, with significant negative coefficients on the least difficult exam sections](low-wam-students-drive-facebook-performance-decline.md) — related
 - [Negative Facebook effects on lower achievers hold for both university-study and non-study uses across the least difficult learning levels](facebook-study-and-nonstudy-uses-both-negative.md) — related
 - [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md) — related
+- [Instagram, Snapchat, and Facebook use, but not TikTok, Twitter, or WhatsApp use, are significantly negatively associated with adolescent GPA](platform-specific-sns-use-gpa-associations.md) — related

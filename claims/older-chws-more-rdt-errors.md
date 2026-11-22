@@ -54,3 +54,4 @@ GEE modelling of error counts across baseline and 12-month observations for 103 
 - [CHWs maintained blood-safety practices over 12 months, with no needle-stick injuries observed or reported and only isolated lancet and glove errors](chws-maintain-blood-safety-12-months.md) — related
 - [Time since training and CHW age were significantly associated with perfect performance on critical RDT steps in GEE regression](time-and-age-predict-critical-step-perfection.md) — related
 - [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
+- [Age correlates with patient safety activities but is not a significant regression predictor](age-correlates-not-significant-predictor-activities.md) — related

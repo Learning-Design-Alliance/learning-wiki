@@ -75,3 +75,4 @@ Stoet G, Geary DC (2013) Sex Differences in Mathematics and Reading Achievement 
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — related
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related
 - [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related
+- [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](age-sex-demographic-differences-school-functioning.md) — related

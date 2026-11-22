@@ -65,6 +65,7 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 - [Support the transition to active methodologies in IICs through teacher training courses, shared repositories of activities and formative-assessment questions, and institution-specific research](iic-active-methods-teacher-training-strategy.md)
 - [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
+- [Implement blended simulation and e-learning through faculty development, infrastructure investment, and CBME alignment](blended-simulation-elearning-implementation-strategy.md)
 
 ## Examples
 -

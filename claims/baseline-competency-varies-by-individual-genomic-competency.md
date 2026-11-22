@@ -68,3 +68,5 @@ Self-assessment data for competency #16 across the course series; the article re
 - [Nurses strongly perceive the need for ethics education and show low confidence in culturally safe genomic care](nurses-perceive-need-for-ethics-education-and-low-confidence.md) — related
 - [Finnish nurses self-assess their understanding of genomics as poor while their actual Knowledge Score is relatively good (mean 9.12/12)](nurses-self-assess-genomics-poor-despite-good-knowledge-score.md) — related
 - [Students' self-assessed agreement with meeting the 38 essential genomic competencies rose from 8% (3/38) before the first course to 100% (38/38) by completion of the third course](self-assessed-genomic-competency-rose-across-course-series.md) — related
+- [Nurse confidence in core genomic tasks remained low in 2023, with mixed changes since 2010 across specific confidence items](nurse-genomic-confidence-low-mixed-change.md) — related
+- [Nurses' utilization of genomics in practice is low: family history collection is incomplete and most never facilitate genetic service referrals](nurse-genomic-practice-utilization-low.md) — related

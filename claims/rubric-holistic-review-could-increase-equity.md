@@ -53,3 +53,4 @@ Authors' interpretation in the abstract, resting on the modeling result that the
 - [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](rubric-sex-differences-three-constructs.md) — related
 - [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related
 - [A rubric-based physics graduate admissions system admitted significantly more applicants with low UGPA and GRE scores than the prior system](rubric-admissions-increased-low-scorer-admits.md) — related
+- [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related

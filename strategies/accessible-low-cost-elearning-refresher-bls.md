@@ -58,6 +58,7 @@ Because the study found marked skill decay within three months, the article reco
 - [Combine refresher courses and/or tests with e-learning to prolong retention of hands-on skills](combine-refresher-courses-with-e-learning-for-retention.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
+- [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
 
 ## Examples
 -

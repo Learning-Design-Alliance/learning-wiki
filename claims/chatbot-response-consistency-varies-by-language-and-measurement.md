@@ -69,3 +69,4 @@ Fleiss' Kappa across three measurements (Table 6, N = 594): Claude Polish κ = 0
 - [Temporal reliability over a 1-week interval varied across LLMs: Claude 4.5 Sonnet showed very good consistency (kappa = 0.872) while Grok-4 and ChatGPT-5 showed moderate agreement](claude-sonnet-superior-temporal-reliability-radiology-questions.md) — related
 - [Claude outperformed ChatGPT-4 and Gemini in accuracy on Polish/English medical-dental exam questions in both prompt languages](claude-highest-accuracy-ldek-exam-questions.md) — related
 - [All three chatbots answered integrated-medicine questions more accurately than dentistry questions in both languages](integrated-medicine-higher-accuracy-than-dentistry.md) — related
+- [Answer consistency among the four flagship OC-LLMs was only moderate (Fleiss' κ = 0.334), indicating differing strengths and weaknesses across models](flagship-models-moderate-answer-consistency-kappa-0334.md) — related

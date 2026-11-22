@@ -66,3 +66,4 @@ Descriptive synthesis across the 12 included studies in this systematic review. 
 - [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — reports the opposite
 - [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related
 - [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related
+- [The observed performance benefit corresponds to approximately a 10% increase in TEAM score, consistent with prior simulation studies of positive communication, cognitive aids, and structured role allocation](named-caps-ten-percent-team-score-increase.md) — related

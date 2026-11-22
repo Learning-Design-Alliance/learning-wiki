@@ -58,3 +58,4 @@ Reliability analysis of all pretest and posttest Ottawa CRM GRS scores assigned 
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
 - [December provisional and January final MAPAS recommendations show good agreement (Kappa 0.46)](december-january-recommendation-agreement-kappa.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

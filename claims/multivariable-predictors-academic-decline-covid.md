@@ -58,3 +58,4 @@ Multivariable logistic regression on the 1,134-student sample with Hosmer–Leme
 - [COVID-19 contagion anxiety for oneself or others increases the likelihood of poor academic performance by more than 3 times](contagion-anxiety-predictor-poor-performance.md) — related
 - [Learning concentration impairment during distance education is the strongest predictor of poor academic performance, raising the odds more than 8 times](concentration-impairment-strongest-predictor-poor-performance.md) — related
 - [Academic department and GPA predicted correctness: engineering students had the highest odds of correct responses, and self-reported course grades mostly did not predict performance](department-gpa-predict-radian-understanding.md) — related
+- [University students with longer daily screen time have a higher risk of academic performance decline (OR = 1.79)](screen-time-academic-performance-decline.md) — related

@@ -47,3 +47,5 @@ Between-surgeon comparison of median step times across the retrospective cohort 
 ## Related Claims
 - [After completion of the learning phase, the experienced robotic surgeon's skin-to-skin operative time was significantly shorter than the trainee's (52 vs 65 min, p = 0.0001)](post-learning-skin-to-skin-expert-shorter.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — a broader claim this one bears on
+- [A prospective comparison of Hugo RAS versus da Vinci Xi for robotic inguinal hernia repair showed no measurable learning curve in operative time for a da Vinci-experienced surgeon, with significant postoperative quality-of-life improvements](hugo-r-tapp-no-learning-curve-experienced-surgeon.md) — related
+- [Residents required equal or longer operative times than attending surgeons, significantly so for BCS with SLNB in the MSL and WGL techniques](resident-longer-operative-times-bcs.md) — related

@@ -75,3 +75,6 @@ Operation time recorded by a research assistant during the 3 sequential surgerie
 - [Postoperative day-1 vision is better after wet-laboratory training, with 62.06% of Group B patients seeing better than 6/18 versus 38.36% in Group A](wet-lab-training-better-postoperative-day1-vision.md) — related
 - [Resident-performed MSICS after wet-laboratory training has a lower intraoperative complication rate than before its introduction (23.7% vs 15.08%)](wet-lab-training-lower-intraoperative-complications-msics.md) — related
 - [Posterior capsule rupture and vitreous loss fall from 14.3% to 6.9% after wet-laboratory training in resident-performed MSICS](wet-lab-training-reduces-pc-rupture-vitreous-loss.md) — related
+- [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related
+- [Pooled anterior vitrectomy incidence in cataract surgery is statistically significant for residents but not for experienced surgeons](resident-av-incidence-significant-attending-not.md) — related
+- [A simulation-based surgical curriculum with case reviews and immediate feedback was followed by a large drop in resident PCR and AV rates (7.7% to 1.4%)](simulation-curriculum-reduced-resident-complications.md) — reports the opposite

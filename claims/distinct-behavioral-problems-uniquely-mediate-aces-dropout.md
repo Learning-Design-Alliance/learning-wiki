@@ -53,3 +53,5 @@ The review reports, citing two longitudinal studies, that externalizing problems
 - [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md) — related
 - [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md) — related
 - [Each additional ACE type is associated with 25% lower odds of high school graduation in a nationally representative longitudinal sample](each-additional-ace-25-percent-lower-graduation-odds.md) — related
+- [Internalizing and externalizing problem behaviors fully mediate the relationship between negative life events and dropout tendency](problem-behaviors-fully-mediate-life-events-dropout.md) — related
+- [Low academic achievement with external attribution tendency positively moderates the effect of negative life events on externalizing problem behaviors](low-achievement-external-attribution-moderates-externalizing.md) — related

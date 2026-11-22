@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 240 claims (152 show a difference, 53 mixed, 35 no difference) · 128 studies (43 causal, 43 associational, 18 review, 14 quant-synthesis, 7 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 32 of 128 report an effect size · 236 claims rest on one study
+> **Evidence** · 243 claims (152 show a difference, 54 mixed, 37 no difference) · 130 studies (45 associational, 43 causal, 18 review, 14 quant-synthesis, 7 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 32 of 130 report an effect size · 239 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -277,6 +277,9 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Baseline PA prescription knowledge is associated with specialty, country, age over 40, meeting aerobic PA recommendations, and overweight/obesity](../claims/pretest-score-correlates-regression-pa-workshop.md) [+M] — learners who differ on it differ in outcomes
 - [No significant between-group differences emerged in physical activity, work ability, quality of life, sick leave or medication use](../claims/no-group-differences-physical-activity-work-sick-leave.md) [-W] — measured as an outcome of the instruction studied
 - [Perceived adverse effects of exercises, such as pain or swelling, negatively impact adherence to home exercise programmes](../claims/adverse-effects-negative-adherence.md) [+M] — learners who differ on it differ in outcomes
+- [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](../claims/activity-frequency-type-gpa-anova-null.md) [-M] — learners who differ on it differ in outcomes
+- [Higher psychological well-being is associated with increased odds of higher academic performance, but PWB does not moderate the sleep or PA associations](../claims/pwb-predicts-academic-performance-no-moderation.md) [~M] — learners who differ on it differ in outcomes
+- [Physically active and inactive medical students show no statistically significant difference in mean GPA](../claims/physical-activity-gpa-null-medical-students.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

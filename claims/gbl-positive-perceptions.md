@@ -60,3 +60,4 @@ Self-report perception survey of intervention-group participants in the pilot RC
 - [Students held very positive perceptions of the remote database escape room, with 97.6% recommending it and 95.6% wanting similar activities in other courses](remote-escape-room-positive-perceptions.md) — related
 - [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related
 - [A majority of participants in both groups said they would play the game again and would be open to using such a game in their own future classrooms](majority-willing-reuse-game-future-classrooms.md) — related
+- [Most medical students believe physical activity affects academic achievement, but a minority believe the effect is negative](student-beliefs-activity-academic-impact.md) — related

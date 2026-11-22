@@ -65,3 +65,4 @@ Perception finding from interviews with central office administrators and school
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — a narrower finding that bears on this claim
 - [Stakeholders viewed the co-produced principles as distinct across organisational, sectoral and policy levels](principles-distinct-across-levels.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — a broader claim this one bears on
+- [Proactive leader problem-solving plays a central, previously under-examined role in reinforcing PSC in school settings](proactive-leadership-reinforces-psc.md) — related

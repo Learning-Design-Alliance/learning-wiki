@@ -60,3 +60,4 @@ Pre/post assessment of 107 trained health care workers using validated HBB knowl
 - [Telesimulation for neonatal resuscitation significantly increases short-term resuscitation knowledge scores](telesimulation-increases-neonatal-resuscitation-knowledge.md) — related
 - [Health workers' neonatal resuscitation knowledge scores rose from pre-test to post-test after HBB training plus the QIC and remained high at 6 months in one uncontrolled pre-post study](hbb-qic-knowledge-retained-6-months.md) — related
 - [A tablet-delivered Ebola tutorial improved frontline health workers' average EVD knowledge scores by 11% between pre- and post-intervention assessments](mhealth-tutorial-improves-evd-knowledge.md) — related
+- [The adapted OBLS curriculum will be evaluated prospectively at four rural sites with a minimum of 44 trained healthcare workers, powered by pilot cognitive score data](obls-rural-evaluation-protocol-sample-size.md) — related

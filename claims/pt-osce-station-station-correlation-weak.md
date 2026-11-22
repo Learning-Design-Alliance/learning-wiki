@@ -62,3 +62,4 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related
 - [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related
 - [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — related
+- [Bloom-based presentation scores and 5Cs SJT scores are not significantly correlated, suggesting the two assessments measure distinct attributes](bloom-presentation-sjt-uncorrelated-distinct-constructs.md) — a narrower finding that bears on this claim

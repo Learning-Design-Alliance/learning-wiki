@@ -51,3 +51,5 @@ Multivariable logistic regression among 615 Hawassa University students in an in
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — a broader claim this one bears on
 - [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — related
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — related
+- [Non-Jordanian students have lower odds of high academic performance than Jordanian students](non-jordanian-students-lower-odds-high-cgpa.md) — related
+- [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related

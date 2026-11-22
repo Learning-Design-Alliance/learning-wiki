@@ -46,6 +46,7 @@ Because the responsibility dimension of prevention attitudes did not improve wit
 
 - [Pair DCBL modules for URTI and diarrhoea stewardship with complementary strategies such as communication skills training, shared decision-making simulations, or reflective debriefing](complementary-strategies-urti-diarrhoea-dcbl.md)
 - [Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes](pair-language-change-with-rationale-explanation.md)
+- [Provide targeted, evidence‐based MDRPI training programmes plus periodic knowledge tests and feedback to correct misinformation and raise nurses' knowledge](targeted-evidence-based-mdrpi-training-strategy.md)
 
 ## Examples
 -

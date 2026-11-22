@@ -52,3 +52,4 @@ Randomized controlled study of 55 residents in 10 teams; timed metrics compared 
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — related
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
+- [Higher TEAM global ratings are associated with earlier intravenous line placement, but not with rhythm check, intubation, or epinephrine timing](team-rating-earlier-iv-access-not-other-tasks.md) — related

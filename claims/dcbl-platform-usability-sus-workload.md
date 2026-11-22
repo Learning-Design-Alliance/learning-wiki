@@ -77,3 +77,4 @@ Two-item NASA-TLX workload assessment in the same study. The authors conclude th
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — reports the opposite
 - [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — related
+- [Flex receives lower usability ratings and higher frustration and mental demand than dVRK and laparoscopy](flex-lower-usability-higher-workload.md) — related

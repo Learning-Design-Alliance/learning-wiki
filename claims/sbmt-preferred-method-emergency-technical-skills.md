@@ -51,3 +51,4 @@ Table 1 reports technical skills' teaching methods by the 274 respondents, showi
 - [One-time pass rates for hands-on CPR, intubation, and defibrillation do not change significantly after integrated simulation with TBL](one-time-pass-rates-unchanged.md) — related
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — related
 - [Where SBMT is used in Italian paediatric residencies it focuses on procedures and skills, with debriefing least common](sbmt-use-focuses-on-procedures-not-debriefing.md) — related
+- [Specific airway management training was absent in 77% of Italian HEMS bases and 44% did not require a minimum number of prior endotracheal intubations for new personnel](italian-hems-77-percent-no-airway-training-44-percent-no-minimum-eti.md) — related

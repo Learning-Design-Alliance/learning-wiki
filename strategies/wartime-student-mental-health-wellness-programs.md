@@ -57,6 +57,9 @@ The article recommends that universities develop and implement activities and pr
 - [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
 - [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 - [Emphasize emotional support alongside professional support by discussing imposter syndrome frequently and providing access to counselling](emotional-support-imposter-syndrome-discussions-counselling.md)
+- [Identify at-risk students at the start of a semester and deliver just-in-time mental health interventions to protect both psychological health and academic achievement](early-semester-identification-just-in-time-interventions.md)
+- [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
+- [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 
 ## Examples
 -

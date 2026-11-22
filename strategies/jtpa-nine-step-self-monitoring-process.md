@@ -39,6 +39,7 @@ The guide recommends a sequenced procedure for districts reviewing their own JTP
 ## Related Strategies
 
 - [Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic](jtpa-self-monitoring-approaches.md)
+- [Manage anaesthesia-related maternal deaths as Patient Safety Incidents through a nine-step notify, investigate, classify, analyse, act and learn cycle](maternal-death-psi-nine-step-management-strategy.md)
 
 ## Examples
 -

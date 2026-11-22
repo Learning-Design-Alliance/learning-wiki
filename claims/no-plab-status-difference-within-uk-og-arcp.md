@@ -49,3 +49,4 @@ Subgroup analysis within the UK OG group comparing PLAB-route and EEA-qualified 
 - [UK overseas graduates were more likely than other graduate groups to receive a less satisfactory ARCP outcome in postgraduate training](uk-og-less-satisfactory-arcp-outcomes.md) — related
 - [Adjusting for background variables and excluding exam-failure ARCP outcomes eliminated the difference in ARCP outcomes between UK overseas and home graduates](arcp-gap-eliminated-after-adjustment-exam-exclusion.md) — related
 - [UK overseas graduates were more likely than non-UK international medical graduates to be deemed appointable at specialty selection, but less likely than UK or EEA graduates](uk-og-appointability-gradient-selection.md) — related
+- [Only 51 of 174 accredited ophthalmology training programs in the Western world publish a publicly available selection criteria policy](51-of-174-ophthalmology-programs-publish-selection-policy.md) — related

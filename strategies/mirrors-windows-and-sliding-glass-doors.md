@@ -98,6 +98,7 @@ Diverse text selection alone is insufficient; the empathy and intergroup-attitud
 - [Case Studies](../elements/case-studies.md) — extended windows into others' decision-making and circumstances
 - [Immerse in the culture, integrate learner feedback up front, and use formative evaluation to find gaps needing bridges](gap-finding-immersion-feedback-formative-evaluation.md)
 - [Select theme-set resources that appeal cross-culturally and present content on students' terms](cross-cultural-theme-set-resource-selection.md)
+- [Targeted interventions using structured intergroup contact, diverse patient care experiences and education on structural determinants of health to foster critical consciousness](interventions-structured-intergroup-contact-critical-consciousness.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the vehicle for shared window texts

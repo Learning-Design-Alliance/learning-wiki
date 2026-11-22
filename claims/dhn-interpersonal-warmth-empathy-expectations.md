@@ -48,3 +48,4 @@ Qualitative content analysis of 17 semistructured interviews and 4 focus groups 
 - [Stakeholders expect DHNs to communicate professionally and sensitively, explain content in lay-friendly ways, and adapt communication to individual patients](dhn-communicative-competencies-expectations.md) — related
 - [Stakeholders expect DHNs to understand data protection and communicate data handling clearly to patients to foster trust in mental health care](dhn-data-protection-communication-expectations.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related

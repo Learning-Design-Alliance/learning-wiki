@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 1999
+source_checked: 2026-11-22
 sources:
   - id: julie-fry-1999
     resource: "https://doi.org/10.48550/arXiv.physics/9908063"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1999 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 1998 survey of PREP participants, students reported that the all-female atmosphere made them more willing to speak out and that the presence of boys would decrease focus on science. [→ Julie Fry 1999](#julie-fry-1999)
