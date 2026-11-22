@@ -6,14 +6,14 @@ title: Spaced Repetition Scheduling
 description: Scheduling review of material at increasing intervals over time rather than massing it into a single session, so each review occurs just as forgetting begins.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: "process:article-ingest"
+  at: 2026-11-22
 ---
 
 # Spaced Repetition Scheduling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Spaced repetition scheduling distributes study or review of an item across multiple sessions separated by expanding intervals (e.g., 1 day, 3 days, 1 week), timed so each review occurs near the point of forgetting. It is typically implemented with [Retrieval Practice](../elements/practice.md) — the learner actively recalls the item rather than rereading it — and an algorithm or rule adjusts the next interval based on recall success.
@@ -49,6 +49,7 @@ Spacing produces substantially better long-term retention than massed study of t
 - **Successive relearning** — repeated cycles of retrieval practice plus feedback until a criterion is reached, then respaced; combines spacing with mastery
 - **Fixed expanding schedules** (e.g., 1–3–7–21 days) — simple, predictable, works without software
 - **Adaptive algorithms** (SM-2 in Anki, FSRS) — adjust intervals per item based on recall success; more efficient for large item banks
+- **Cost-minimising model-based schedulers** — set each item's next interval to minimise the expected review time to reach a target memory strength, using a memory model fitted to the tool's own review logs; in one simulation this reached a target faster than an Anki variant or reviewing at 90% recall, but it has not been tested with learners — [In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules](../claims/cost-minimizing-scheduler-fewer-review-days-simulation.md) [+W]; the model it rests on tracks each item's history of outcomes and gaps — [In vocabulary-app review logs, a memory model that tracks each item's review history predicted memory half-life after a review with less error than half-life regression](../claims/review-history-model-predicts-half-life-better-than-hlr.md) [+W]
 - **Interleaved spacing** — mixing related problem types across sessions combines spacing with [interleaving](interleaving.md), which adds discrimination benefits for categorizable material [+M]
 - **Cumulative review** — each quiz or homework includes items from prior units, embedding spacing without a separate review system
 
