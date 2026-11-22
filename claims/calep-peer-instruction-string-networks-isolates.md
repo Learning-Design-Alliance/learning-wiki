@@ -67,3 +67,4 @@ Post-term network for the same Peer Instruction section: "The post-term network 
 - [All six curricula gained average student connections over the term, and transitivity rose in every curriculum except Peer Instruction](calep-network-growth-across-six-curricula.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
 - [Only one large lecture section showed a statistically significant pre-post increase in network density, with connections nearly doubling](section-a-significant-density-increase.md) — related
+- [A one-time talk-distribution seating diagnostic is associated with more balanced think-pair-share participation by end of term, per unquantified practitioner observation](talk-distribution-seating-diagnostic-observation.md) — related

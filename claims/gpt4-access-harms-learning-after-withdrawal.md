@@ -317,3 +317,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Students who engaged with ChatGPT during a physics problem showed higher learning gains than students who did not use AI](chatgpt-users-higher-physics-gains.md) — reports the opposite
 - [RL-timed GenAI access improves metacognitive accuracy of self-assessment compared with unrestricted access](rl-timed-access-metacognitive-accuracy-vs-always.md) — related
 - [RL-timed GenAI access yields higher objective post-test scores than unrestricted access in higher education students](rl-timed-genai-access-beats-always-allow-posttest.md) — related
+- [Adaptive LLM-guided problem sequencing improves unassisted final exam performance by 0.156 SD relative to a fixed easy-to-hard sequence](adaptive-problem-sequencing-exam-gain-0-15sd.md) — related

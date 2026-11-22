@@ -48,6 +48,7 @@ The article observed that a few students lost interest while watching the second
 - [Limit flipped classroom video duration to around 20 minutes and use opening quizzes](limit-flipped-classroom-video-duration-and-use-quizzes.md)
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
+- [Report video purpose, learner activity, context, outcomes and duration together, and design each video around a coherent learning unit rather than a minute limit](report-purpose-activity-context-duration-together.md)
 
 ## Examples
 -

@@ -70,6 +70,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 - [Revised 23-item Foreign Language Classroom Anxiety Scale (FLCAS) questionnaire](../products/revised-23-item-foreign-language-classroom-anxiety-scale-flcas.md)
 - [Teacher strategies for alleviating EFL speaking anxiety: warm atmosphere, encouragement, L1 use, and learner-centered activities](../strategies/teacher-strategies-alleviate-speaking-anxiety.md)
 - [Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety](../principles/talking-and-writing-means-to-learning.md)
+- [Fear of negative evaluation account: voice-based AI practice raises participation by building knowledge mastery and lowering speaking anxiety](../designs/fne-self-efficacy-account-ai-discussion-practice.md)
 
 ## Key Sources
 

@@ -52,6 +52,7 @@ An equity strategy for labs in which students tend to divide tasks: explicitly a
 - [Establish Group Roles](establish-group-roles.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
 - [Promote gender equity in physics labs through structured role rotation, intentional group composition, instructor facilitation, and bias awareness training](equitable-physics-lab-engagement-strategies.md)
+- [Rotate defined group roles around a single shared telescope, including a skeptic-checker role](telescope-role-rotation-skeptic-checker.md)
 
 ## Examples
 -

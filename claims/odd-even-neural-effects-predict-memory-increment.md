@@ -48,3 +48,4 @@ Pearson correlations between neural odd-even effects (post-training) and memory 
 - [After mnemonic training, children show enhanced P200 amplitude for even- versus odd-position digits during encoding](p200-odd-even-pattern-post-mnemonic-training.md) — related
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
+- [Subjective preference modulates neural engagement states (theta/alpha patterns) even though it does not optimize test performance](preference-modulates-neural-engagement-not-performance.md) — related

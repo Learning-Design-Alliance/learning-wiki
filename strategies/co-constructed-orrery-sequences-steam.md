@@ -40,7 +40,8 @@ The authors report that "Different sequences have been co-constructed by teacher
 - motivation and awareness of learners during activity
 
 ## Related Strategies
-- 
+
+- [Involve preservice teachers in constructing and analyzing their own low-cost experiments as simultaneous physics learning and teacher training](preservice-constructed-low-cost-experiments-strategy.md)
 
 ## Examples
 -

@@ -92,3 +92,4 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — a broader claim this one bears on
 - [Compatibility with learning preferences affected adoption: some students found Learning Moment's brief, disconnected pearls incompatible with how they learn](lm-pearl-brevity-learning-preference-mismatch.md) — related
 - [Students rated remote labs better for working at their own pace but the same or worse for procedure design and tool-choice agency](remote-labs-own-pace-agency.md) — related
+- [Participants in the connectivist activity predominantly agreed that connectivism is suitable for collaborative digital learning and that WhatsApp discussions helped them understand physics concepts](student-perceptions-connectivist-activity-favourable.md) — related

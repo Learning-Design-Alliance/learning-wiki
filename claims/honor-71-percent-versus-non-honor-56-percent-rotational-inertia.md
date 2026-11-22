@@ -49,3 +49,4 @@ Secondary analysis of the same test data: average percentage correct on the rota
 - [Honor-class students answered fewer rotational-inertia questions correctly than expected despite the computations being fairly easy](honor-class-underperform-rotational-inertia-questions.md) — related
 - [Students often fail to use the concept of rotational inertia correctly, which the article attributes to limited exposure to computing moments of inertia](limited-rotational-inertia-computation-hurts-reasoning.md) — related
 - [Only about a third of first-year engineering students correctly compute moment of inertia in a two-ball system, and around a quarter give reductionist single-variable explanations](moment-of-inertia-first-year-categories.md) — a narrower finding that bears on this claim
+- [91% of UK undergraduate physics entrants have not previously seen advanced rotational motion concepts such as moment of inertia](91-percent-rotational-motion-gap.md) — related

@@ -54,6 +54,7 @@ POE is a constructivist strategy in which students first make a prediction about
 - [Adapt the POE (predict-observe-explain) method to smartphone-based physics experiments](poe-smartphone-experiments-strategy.md)
 - [Ask students to formulate hypotheses about the experiment's outcome before observing it, then resolve them through the demonstration](hypothesis-formulation-before-elevator-demonstration.md)
 - [Implementing constructivist engagement elements within a traditional lecture format](constructivist-elements-in-lecture-t1.md)
+- [Structure device activities in prediction, observation and explanation stages with comparison-focused tasks](poe-comparison-sequence-3d-printed-devices.md)
 
 ## Examples
 -

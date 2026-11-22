@@ -47,6 +47,7 @@ The authors propose programming AutoTutor to respond appropriately to affective 
 
 - [Affect-aware CPS systems should monitor local trajectories of confusion and disengagement over time rather than responding to isolated affective signals](monitor-local-affect-trajectories-in-cps-systems.md)
 - [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
+- [Configure AI tutors to respond to detected confusion with concise, concrete elaboration rather than warmth or added length](concise-concrete-elaboration-on-confusion-strategy.md)
 
 ## Examples
 - [Annotated student-utterance emotion dataset (224 turns)](../products/annotated-student-utterance-emotion-dataset-224-turns-for-text-based-emotion-recognition-i.md) — boredom, engagement and neutral labels for training text-based emotion recognition in math tutoring

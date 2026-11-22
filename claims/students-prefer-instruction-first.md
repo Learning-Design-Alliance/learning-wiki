@@ -48,3 +48,4 @@ A post-intervention survey on learning preferences found "most participants in b
 - [Both discovery-then-instruction and instruction-then-discovery sequences improve otoscopy knowledge with no significant difference between groups](otoscopy-simulator-sequence-no-knowledge-difference.md) — related
 - [Learners in both sequencing conditions predominantly preferred and were satisfied with DI-PS sequencing](learners-prefer-di-ps-sequencing.md) — related
 - [Participants rate both digital and in-person laparoscopy training positively and similarly, but a majority across both groups would still prefer to be trained in-person](training-modality-satisfaction-high-preference-in-person.md) — related
+- [Order of the interventions (simulation-then-game vs game-then-simulation) did not significantly influence preference](instructional-order-no-effect-on-preference.md) — related

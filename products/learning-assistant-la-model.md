@@ -13,7 +13,7 @@ generated:
 # Learning Assistant (LA) model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 5 studies (4 associational, 1 design), `q2`–`q3` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 6 studies (5 associational, 1 design), `q2`–`q3` · 2 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 An undergraduate STEM instructional-support programme in which trained Learning Assistants help facilitate course activities and encourage faculty use of research-based teaching strategies, disseminated by the Learning Assistant Alliance.
@@ -33,6 +33,8 @@ An undergraduate STEM instructional-support programme in which trained Learning 
 - [LA-supported collaborative courses show higher posttest scores than collaborative courses without LAs in introductory physics](../claims/la-support-adds-gains-beyond-collaborative-learning.md) [+M]
 - [Exposure to Learning Assistants in high-attrition science courses is associated with a 9 percentage point higher six-year graduation rate](../claims/la-support-9pp-sygr-increase.md) [+M]
 - [Graduation-rate gains associated with Learning Assistant support are larger for underrepresented minority (21 percentage points) and first-generation students (18 percentage points)](../claims/la-support-larger-gains-underrepresented-students.md) [+M]
+- [Classes with Learning Assistants had lower WFD (withdrawal, D-grade, F-grade) rates than non-LA classes in each of ten introductory STEM courses, with differences significant at P=0.05 for six of the ten courses](../claims/la-classes-lower-wfd-rates-introductory-courses.md) [+M]
+- [Students who had a Learning Assistant in at least one of the ten courses had higher STEM graduation odds, with 5-year and 6-year graduation differences statistically significant (6-year: 61%±5% without LA vs 70%±5% with LA)](../claims/la-association-higher-stem-graduation-rates.md) [+M]
 
 ## Related Products and Programmes
 
@@ -45,3 +47,4 @@ An undergraduate STEM instructional-support programme in which trained Learning 
 - Xochith Herrera, Jayson Nissen, and Ben Van Dusen. (2018). Student Outcomes Across Collaborative-Learning Environments. arXiv:1808.07076. https://arxiv.org/abs/1808.07076
 - Amezcua, F. (2018). Development of the Preparation Session Observational Tool (PSOT) for Quantitative Analysis by Probing the Underlying Behaviors that Contribute to Various Learning Assistant-Faculty Relationships.
 - Tedeschi MN, Hose TM, Mehlman EK, Franklin S, Wong TE. (2021). Improving Models for Student Retention and Graduation using Markov Chains. https://github.com/tonyewong/LA_Markov_analysis
+- Cassandra A. Paul and David J. Webb. (2026). Grades, equity and graduation rates: a quantitative analysis of the association of learning assistants with improved student outcomes. https://arxiv.org/abs/2607.27006v2

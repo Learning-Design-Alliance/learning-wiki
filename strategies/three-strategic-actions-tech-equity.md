@@ -47,6 +47,7 @@ The scan's executive summary distills its findings into three actions for techno
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
 - [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
+- [Treat the STEM competition landscape as an interconnected ecosystem with multiple entry points rather than as isolated programs](interconnected-competition-ecosystem-entry-points.md)
 
 ## Examples
 -

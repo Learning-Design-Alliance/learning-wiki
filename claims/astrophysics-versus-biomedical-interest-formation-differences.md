@@ -77,3 +77,4 @@ Comparison of outcome expectations between the two subfields found astrophysics 
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
 - [Women's initial interest in physics arose through diverse paths including popular media exposure, parental encouragement, and positive high school physics experiences](pre-college-interest-factors-women-physics.md) — related
 - [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related
+- [AQA's optional second-year module leaves a large share of A-Level Physics candidates without space science](aqa-optional-module-space-science-gap.md) — related

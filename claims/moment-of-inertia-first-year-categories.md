@@ -51,3 +51,4 @@ Open-ended questionnaire (7 questions) given to 97 first-year engineering studen
 - [Honor-class students averaged 71 percent correct on rotational-inertia questions versus 56 percent for the non-honor class](honor-71-percent-versus-non-honor-56-percent-rotational-inertia.md) — a broader claim this one bears on
 - [Upper-level physics majors did not outperform non-honors introductory students on rotational-inertia question 3](physics-majors-no-better-than-intro-on-question-3.md) — related
 - [Five of eleven other interviewed students showed evidence of either a symbolic forms-based explanation of the velocity equation or a blended-processing shortcut on the Two Balls Problem](five-of-eleven-students-blended-processing.md) — related
+- [91% of UK undergraduate physics entrants have not previously seen advanced rotational motion concepts such as moment of inertia](91-percent-rotational-motion-gap.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-22
 sources:
   - id: nafis-i-karim-2017
     resource: "https://doi.org/10.1119/perc.2017.pr.047"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Q14, 53% of TAs selected answer choices B, C, and E which combined were selected by only 26% of students; choice E alone was selected by only 13% of students. [→ Nafis I. Karim 2017](#nafis-i-karim-2017)
@@ -53,3 +54,4 @@ Comparison of TA responses on CSEM Q14 with introductory student post-test data 
 - [On CSEM Q26, 47% of TAs selected an answer choice chosen by only 6% of students, yielding a low average PCK score of 35%](tas-q26-magnetic-field-low-pck-score.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — a broader claim this one bears on
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — a broader claim this one bears on
+- [On the impulse-momentum question Q18, a major disconnect existed between TAs and students: over half of TAs selected options chosen by a combined 15% of students, and only 6% identified the most common student conception (momentum is a scalar)](ta-student-disconnect-momentum-scalar-q18.md) — related

@@ -70,3 +70,4 @@ Consistency analysis of the same interview measure: 0 of 21 preinstruction stude
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
 - [Group CVS performance on classroom worksheets rose after instruction, and experimentation alone without instruction produced no significant gain](classroom-worksheet-cvs-gains.md) — related
+- [Medical students' exposure-identification scores and CVS assessment scores showed large, significant rises from pre-test to post-test after learning with SurgGraphQA, in one single-group pre-post study](surggraphqa-learning-gains.md) — related

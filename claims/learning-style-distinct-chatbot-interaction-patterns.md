@@ -47,3 +47,4 @@ Exploratory word cloud analysis of participant prompts grouped by Honey and Mumf
 ## Related Claims
 - [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
+- [Chatbot performance differences between groups were not explained by students' prior programming experience](chatbot-performance-not-explained-prior-programming-experience.md) — related

@@ -67,3 +67,4 @@ Results-section interpretation of the same networks: the absence of model and si
 - [Most students misattribute the source of statistical uncertainty in radiation counting to the measuring device rather than to the random nature of the emitted radiation](students-attribute-counting-uncertainty-to-device.md) — related
 - [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md) — related
 - [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related
+- [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — related

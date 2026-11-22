@@ -9,7 +9,6 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
 sources:
   - id: kovari-2025
     resource: "https://doi.org/10.1016/j.ssaho.2025.101335"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review reports, citing Villanueva et al. (2018), that AI models predict student outcomes and identify at-risk students early enough for timely intervention, and, citing Ouyang et al. (2023), that combining AI with learning analytics for continuous feedback improved collaborative learning performance and satisfaction. [→ Kovari 2025](#kovari-2025)

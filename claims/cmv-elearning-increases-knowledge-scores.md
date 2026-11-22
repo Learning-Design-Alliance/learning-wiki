@@ -52,3 +52,4 @@ Pre/post evaluation of the eLearning course using a generalised linear mixed-eff
 - [Obstetric providers show low baseline knowledge of congenital cytomegalovirus, answering just under 50% of knowledge items correctly](obstetric-provider-low-baseline-ccmv-knowledge.md) — related
 - [Primary assessment performance declines significantly between the end of the course and 3–4 months later, but remains above the pre-course level](abcde-performance-declines-but-remains-above-baseline.md) — related
 - [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related
+- [The module improved high-prior-knowledge learners' efficiency (SCORE/TIME) in answering questions correctly from pre-test to post-test](score-time-efficiency-improved-pre-to-post.md) — related

@@ -51,3 +51,4 @@ Survey item reported in Figure 2 (answers to "are you interested in science?" an
 - [Among students wanting a scientific career, more male than female students think they have a talent for science (about 40% vs 20%)](masterclass-talent-self-perception-gender-gap.md) — related
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
 - [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](masterclass-male-female-physics-interest-outside-school-gap.md) — related
+- [Early career ACPSEM ROMP members report wanting more involvement in supervision, academic work and research, a trend not evident for experienced members](early-career-romp-desire-supervision-academic-research.md) — related

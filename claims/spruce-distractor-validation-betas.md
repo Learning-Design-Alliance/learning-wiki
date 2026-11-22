@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-22
 sources:
   - id: michael-vignal-2023
     resource: "https://doi.org/10.1103/physrevphyseducres.19.020139"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A numeric open-response beta (beta 1) showed response distributions peaking at planned answer options with no unanticipated attractive distractors, and beta 2's open responses confirmed that previously identified distractors covered the most frequent incorrect answers. [→ Michael Vignal 2023](#michael-vignal-2023)

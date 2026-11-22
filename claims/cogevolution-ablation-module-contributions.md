@@ -95,3 +95,5 @@ Ablation experiment (Table 3) with the w/o Evo-Update variant reports Mistake Pr
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
 - [Removing the retrieval component sharply reduced instructional accuracy and expressive clarity of generated content](retrieval-augmentation-crucial-for-accuracy-clarity.md) — related
 - [Removing any of TASA's three modules degrades performance, with the forgetting score contributing an average 6.8% drop in normalized learning gain when eliminated](tasa-ablation-module-importance.md) — related
+- [Omitting the class-weighted loss causes the most pronounced recall degradation among ablation variants, and removing temporal attention also substantially lowers early recall](class-weighted-loss-temporal-attention-ablations.md) — related
+- [Ablations show Parallel Sowing drives exploration of more strategies while Multi-Path Adaptive Guidance maintains solution quality](tost-ablation-ps-mpag.md) — a narrower finding that bears on this claim

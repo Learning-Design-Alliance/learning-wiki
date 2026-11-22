@@ -72,3 +72,4 @@ The same interaction-effects models tested gender moderation for PEMC major choi
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related
 - [Women were proportionally under-selected by the knowledge-based exam despite no selection-by-gender interaction on profiles](women-under-selected-knowledge-exam.md) — related
+- [Students' physics fixed-mindset scores show small but statistically significant declines toward fixed beliefs from the beginning of Physics 1 to the beginning of Physics 2, for both women and men](physics-mindset-declines-over-introductory-sequence.md) — related

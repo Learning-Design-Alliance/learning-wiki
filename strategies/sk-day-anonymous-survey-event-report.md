@@ -49,6 +49,7 @@ At the end of the day, participants are asked "to complete a short anonymous que
 - [Complete five pre-event tasks in priority order: set date and book rooms, find volunteers, advertise, secure funding, and prepare materials](sk-day-pre-event-planning-tasks.md)
 - [Run one-day mathematics outreach events as a structured program of workshops, talks, and problem-solving sessions for female students aged 7-17](sk-days-one-day-outreach-structure.md)
 - [Two-step pre- and post-event surveys with anonymous verification to collect learning-experience metrics](two-step-anonymous-verified-training-surveys.md)
+- [Use student group feedback and anonymous surveys at event close to collect actionable improvement items for future editions](asp2026-feedback-driven-improvement-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 recheck_by: 2029
 sources:
   - id: kirk-vanacore-and-rené-f-kizilcec-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across six models and four prompting strategies, Cohen's κ ranged from 0.38 to 0.58 against expert-coded Talk Move annotations, indicating moderate but limited out-of-the-box interpretive capacity. [→ Kirk Vanacore and René F. Kizilcec 2026](#kirk-vanacore-and-rene-f-kizilcec-2026)
@@ -50,3 +51,4 @@ Benchmark experiment applying six foundation models under zero-, one-, and few-s
 - [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [RoBERTa classifiers detect annotated discourse moves in math classroom transcripts with moderate to high accuracy, best for on vs off task instruction](roberta-classifiers-discourse-moves-moderate-high-accuracy.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
+- [The LLM-as-a-judge production scorer achieves substantial agreement with human rater majority vote (Cohen's kappa = 0.746, accuracy 92.3%)](l2-bench-judge-validation-kappa-0746.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: ingrid-torres-and-alex-krasnok-2026
     resource: "https://doi.org/10.1117/1.oe.65.10.102007"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the article's artifact-based proficiency scale, L2 is the threshold that usually determines whether a handoff is safe. [→ Ingrid Torres and Alex Krasnok 2026](#ingrid-torres-and-alex-krasnok-2026)

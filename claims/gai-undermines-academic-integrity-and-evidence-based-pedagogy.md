@@ -54,3 +54,4 @@ Editorial argument about higher education specifically. The authors state the pu
 - [Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)](ai-intuition-safeguard-against-overreliance.md) — related
 - [Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias](malik-student-perceptions-ai-writing-percentages.md) — related
 - [Concerns that AI undermines educational values showed mostly non-significant condition differences, with future learning risk only approaching significance (β = 0.41)](future-learning-risk-concern-marginal.md) — related
+- [The article classifies unmediated GenAI's pedagogical risks in physics education as two illusions and two erosions](genai-illusions-erosions-physics-education.md) — related

@@ -55,3 +55,4 @@ Closed-ended questionnaire item (Part B) administered to students who used 3MTLs
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — related
 - [First-year medical students perceived 3-minute podcasts mainly as a supplementary revision and assessment-preparation tool](short-podcasts-perceived-revision-tool.md) — related
 - [Video duration and questionnaire time limits had no significant influence on quiz scores](video-duration-quiz-time-no-influence.md) — related
+- [Reported video durations ranged from 0.08 to 30 minutes with no consistently applied threshold, and indexed descriptions most often foregrounded intended users, educational uses, learning content and interactivity](duration-no-stable-threshold.md) — related

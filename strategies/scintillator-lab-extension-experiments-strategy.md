@@ -45,6 +45,7 @@ The article's appendix recommends additional instructional experiments that reus
 - [Cost-saving equipment substitutions with stated performance tradeoffs: EJ-309, plastic scintillators, organic glass, SiPMs, and lower-cost digitizers](scintillator-lab-cost-saving-substitutions-strategy.md)
 - [Multi-length time-of-flight procedure: measure delay versus distance and fit a straight line](vary-distance-fit-line-procedure.md)
 - [Hodoscope and Extensive Air Shower coincidence exercises with varying detector separation](hodoscope-air-shower-separation-exercises.md)
+- [Frame the activity as measuring the speed of light rather than as a distance measurement](frame-as-speed-of-light-motivating.md)
 
 ## Examples
 -

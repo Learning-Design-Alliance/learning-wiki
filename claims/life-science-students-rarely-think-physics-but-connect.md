@@ -61,3 +61,4 @@ This is the article's own summary of its case study of three students (Beverly, 
 - [Life-science and physical-science students do not significantly differ in the Real-World Connection CLASS category](real-world-connection-no-group-difference.md) — related
 - [Tasks cuing the presence of a real-world context are more likely to invoke students' everyday and curricular knowledge and to generate and connect diverse ideas](real-world-context-cues-everyday-and-curricular-knowledge.md) — related
 - [In algebra-based introductory physics courses, instructors can use creative projects to foster creativity and critical thinking while students connect physics with humanities, social sciences, and everyday life](intro-physics-courses-opportunity-connect-humanities-everyday-life.md) — related
+- [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related

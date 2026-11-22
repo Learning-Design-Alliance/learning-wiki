@@ -53,3 +53,4 @@ Comparison of Table IV response mappings for the Force Sled cluster with Thornto
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — related
 - [ENEM force-and-motion items (2013_Q87, 2014_Q67, 2014_Q82) show persistent non-scientific conceptions that force is proportional to velocity and that motion requires a continuous force](enem-force-motion-misconceptions-2013-2014.md) — related
 - [Beyond expanding-substrate models, expanding-space preconceptions are more likely to hinder than aid understanding of peculiar velocities, out-of-flow galaxies, and bound systems](expanding-space-preconceptions-hinder-beyond-models.md) — related
+- [The misconception match rate is higher in the higher-scoring half of the class in 13 of 14 cohort-item comparisons, with D̄ correspondingly lower](match-rate-higher-higher-scoring-half.md) — related

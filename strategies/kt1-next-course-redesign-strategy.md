@@ -47,6 +47,7 @@ The article's forward-looking plan for the next KT1 course: a written examinatio
 - [Design advanced-physics tutorial activities that focus on concepts, scaffold problem difficulty, and allow generous completion time](advanced-tutorial-design-guidelines.md)
 - [Let students sketch a voluntary research proposal in small groups and present it for bonus exam points](voluntary-research-proposal-sketch-bonus-points.md)
 - [Adapt the grading system to rate explanation quality and detected errors, exchanging two unassisted problems for four worked examples](grade-worked-example-explanations-and-error-detection.md)
+- [Adapt Public Exams to physics by heavily emphasizing the procedural aspects of problems, e.g. fully revealed questions with changed values or figures on the actual exam](reveal-full-problems-change-values-physics-public-exams.md)
 
 ## Examples
 -

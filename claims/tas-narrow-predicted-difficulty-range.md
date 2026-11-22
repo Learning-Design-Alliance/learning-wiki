@@ -51,3 +51,5 @@ Analysis of TA difficulty predictions across CSEM items (years two and three of 
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — related
 - [Physics TAs often expected incorrect answer choices to be common among introductory students when those choices were in fact not common](tas-misidentify-common-incorrect-answers-csem.md) — related
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
+- [Prior studies using the same method found TAs' knowledge of alternate conceptions is context dependent and that TAs struggled more with the CSEM than the FCI or TUG-K](prior-ta-pck-studies-context-dependence-csem.md) — related
+- [TAs' PCK performance was bimodal across the 18 EMCS questions with student difficulties: poor on nine, moderate on two, and good on seven](ta-emcs-pck-bimodal-performance.md) — related

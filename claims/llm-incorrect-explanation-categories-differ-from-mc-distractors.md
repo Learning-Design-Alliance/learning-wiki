@@ -68,3 +68,5 @@ For Q16 and Q23, whose MC answer choices were restricted to identifying which pr
 - [Students can reach the correct claim via incorrect explanations, so MC scoring alone masks unproductive conceptual resources](correct-claim-incorrect-explanation-masked-by-mc.md) — related
 - [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — reports the opposite
 - [LLM-generated incorrect-explanation categories persisted across multiple API runs, indicating consistent grading performance](llm-categories-persist-across-runs.md) — related
+- [Free-text responses to an FCI item reveal incorrect ideas not captured by the item's MCQ distractor options](ftr-responses-reveal-ideas-missing-from-mcq-distractors.md) — related
+- [TAs consistently overestimated how novice-like introductory students' thinking would be, expecting more novice-like errors than students actually made](tas-overestimate-novice-like-student-thinking.md) — related

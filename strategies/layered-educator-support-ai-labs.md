@@ -54,6 +54,7 @@ The report recommends building layered systems of support for teachers at every 
 - [Provide training and clear instructions on LinkedIn use to enhance student confidence and engagement](linkedin-training-clear-instructions-strategy.md)
 - [Build teacher media skills and classroom media facilities through training, resource centres and equipment provision](teacher-media-training-and-facilities-strategy.md)
 - [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
+- [Design computational coaching systems to support coordination, preparation, and community-building while keeping live diagnosis and relational interaction human](ai-assistant-boundaries-coaching-system-design.md)
 
 ## Examples
 -

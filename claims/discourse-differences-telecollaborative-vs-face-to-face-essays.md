@@ -53,3 +53,4 @@ Qualitative discourse analysis of the same collaborative essays, reported in the
 - [Students reported rubric-driven gains in content awareness, paragraph organization, and vocabulary use, but mechanics received the least attention](rubric-category-specific-student-gains.md) — related
 - [The authors conclude that in a telecollaborative environment students feel freer to explore, discuss and add more ideas and write longer texts](telecollaborative-environment-freer-exploration-longer-texts.md) — a broader claim this one bears on
 - [Virtual collaborative writing yields higher clout, emotional tone and function-word scores than face-to-face pen-and-paper collaborative writing](telecollaborative-writing-higher-clout-tone-function-words.md) — related
+- [The AI teammate participated more and was more internally cohesive but contributed less new and less dense content than its student teammates](ai-teammate-high-volume-content-light-gca-profile.md) — related

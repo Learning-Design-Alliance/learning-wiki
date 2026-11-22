@@ -63,3 +63,5 @@ Study reviewed from seven universities (Ref. [24]): students were given the init
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — a broader claim this one bears on
 - [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related
 - [Upper-undergraduate students hold naïve ideas of revival and decay for quantum time evolution after measurement](naive-revival-decay-ideas-quantum-time-evolution.md) — related
+- [Four recurrent learner difficulties in quantum superposition and measurement are documented in prior work and addressable via a two-level Hamiltonian](four-quantum-superposition-measurement-difficulties.md) — related
+- [The article identifies seven quantum threshold concepts as conceptual gateways requiring targeted instructional strategies](quantum-threshold-concepts-set.md) — related

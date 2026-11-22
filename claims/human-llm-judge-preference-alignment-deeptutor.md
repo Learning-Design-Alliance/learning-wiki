@@ -67,3 +67,4 @@ Blind pairwise human study on a domain-stratified subset of 45 TutorBench sessio
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
 - [Human teachers' preferences for LM-generated worksheets correlate significantly with evaluator LM judgments (r = 0.661), but teachers sometimes cannot distinguish worksheets the LM perceives as different](lm-judgments-align-with-teacher-preferences.md) — related
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related
+- [Human high school teachers prefer SHERPA DP responses over the base model in 79.6% of pairwise comparisons, including for preferences unseen during training](human-teachers-prefer-sherpa-79-6-percent.md) — related

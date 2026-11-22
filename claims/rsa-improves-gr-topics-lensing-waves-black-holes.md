@@ -93,3 +93,4 @@ Item 'What is a black hole?' (Figure 11). Before, 57% did not feel confident to 
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
 - [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — related
 - [On open-ended transfer questions about Gaia, black-hole photon spheres and GPS, 44% of students reasoned with Einstein's theory, 22% stayed with classical physics and 34% gave incomplete answers](open-ended-transfer-einstein-reasoning-44-percent.md) — related
+- [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related

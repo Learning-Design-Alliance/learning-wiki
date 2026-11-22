@@ -47,6 +47,7 @@ An implementable training recipe in which an observer practices UFOV computer-ad
 ## Related Strategies
 
 - [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](dp-ongoing-difficulty-tailoring.md)
+- [Convert fixed-level training systems to performance-based difficulty adaptation](convert-fixed-level-to-performance-based-adaptation.md)
 
 ## Examples
 -

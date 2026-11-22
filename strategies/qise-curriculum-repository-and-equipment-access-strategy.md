@@ -53,6 +53,7 @@ A combined implementation strategy from the workshop's curriculum and equipment 
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 - [Propose hybrid experiential learning combining virtual and physical laboratories to bridge theory and practice in quantum education](hybrid-virtual-physical-lab-strategy.md)
+- [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
 
 ## Examples
 -

@@ -93,6 +93,7 @@ Two bodies of evidence bear on the practice. Norm setting is a standard componen
 - [Classroom Routines and Procedures](classroom-routines-and-procedures.md) — the procedural counterpart: how things are done, rather than how people treat each other
 - [Check-In Routines](check-in_routines.md) — a regular practice that gives the relational norms something concrete to operate in
 - [Use the stakeholder-by-value norm matrix as actionable rules for implementing ethical AIED](stakeholder-value-norm-matrix-strategy.md)
+- [Maintain agreements in an official editable document displayed daily and grade by alignment with the agreement](official-editable-agreement-document-strategy.md)
 
 ## Examples
 

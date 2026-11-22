@@ -72,3 +72,4 @@ The MPCC subscale was the only TEBS variable with a significant C × T interacti
 - [BEST in CLASS improved observed classroom quality on all three CLASS domains, with effect sizes .50 or larger](best-in-class-improved-classroom-quality.md) — related
 - [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](best-in-class-increased-teacher-instructional-practices.md) — related
 - [BEST in CLASS reduced the percentage of children in the clinical or borderline range on all three C-TRF problem-behavior subscales](best-in-class-reduced-clinical-range-c-trf.md) — related
+- [Retrospective self-efficacy survey shows gains in instructional decision-making and higher-order thinking constructs after joining the CoP](tebs-self-efficacy-gains-after-cop-joining.md) — related

@@ -88,3 +88,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Interactive engagement techniques are reported to dramatically outperform traditional lectures in promoting retention in astronomy instruction](interactive-engagement-outperforms-lectures-astronomy-retention.md) — related
 - [Students rated arts-based entropy exercises as interesting and helpful for understanding key concepts, though somewhat complex](entropy-arts-qualitative-questionnaire.md) — related
 - [Real experiments are perceived as more engaging for learners than simulations, with 56% of surveyed Moroccan science teachers naming them the most motivating method](real-experiments-more-engaging-than-simulations-morocco.md) — related
+- [Designing UDIP-4 and analyzing its data gave students real-life experience across all essential areas of an undergraduate physics curriculum plus collaboration and management skills](udip4-curriculum-experience-outcomes.md) — related

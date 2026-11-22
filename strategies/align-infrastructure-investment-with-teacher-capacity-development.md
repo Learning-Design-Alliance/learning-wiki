@@ -62,4 +62,4 @@ Based on the finding that collective teacher-perceived AI capability is the tran
 -
 
 ## Key Sources
-- Guan, X., Zheng, M., Gašević, D., Guo, W., Liu, Y., Han, X., Gasevic, D., Ma, R., Wu, Q., & Yan, L. (2026). From School AI Readiness to Student AI Literacy: A National Multilevel Mediation Analysis of Institutional Capacity and Teacher Capability. Preprint submitted to Elsevier. https://arxiv.org/abs/2603.20056
+- Guan, X., Zheng, M., Gašević, D., Guo, W., Liu, Y., Han, X., Gasevic, D., Ma, R., Wu, Q., & Yan, L. (2026). From School AI Readiness to Student AI Literacy: A National Multilevel Mediation Analysis of Institutional Capacity and Teacher Capability. Preprint submitted to Elsevier. https://arxiv.org/abs/2603.20056. [doi:10.48550/arxiv.2603.20056](https://doi.org/10.48550/arxiv.2603.20056)

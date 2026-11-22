@@ -60,3 +60,5 @@ The editorial reports, from a special-issue study of LLM-based formative assessm
 - [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
 - [Traditional machine learning bias measures fail to transfer to LLM-generated educational content](traditional-bias-measures-fail-for-llm-education.md) — related
 - [Transition-based embeddings are invariant to problem-specific content while state-based embeddings cluster by problem, supporting cross-problem strategy comparison](transition-embeddings-invariant-across-problems.md) — related
+- [Hierarchical clusters formed from embedding similarities are score-enriched but not score-equivalent to human-assigned score groups](embedding-clusters-score-enriched-not-score-equivalent.md) — related
+- [Embedding-based clustering of physics solutions does not provide an unsupervised basis for grading without external validation against the assessment construct](embeddings-insufficient-unsupervised-grading.md) — related

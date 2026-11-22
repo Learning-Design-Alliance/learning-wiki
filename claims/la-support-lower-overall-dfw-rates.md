@@ -53,3 +53,5 @@ Hierarchical generalized linear modeling of DFW outcomes for 2312 students in 41
 - [Instructor effectiveness is maintained as instructors gain experience teaching with Learning Assistants](la-supported-instructors-maintain-effectiveness.md) — related
 - [The predicted posttest-score gap favoring LA-supported courses grows from 3.1% with no prior instructor experience to 10.3% at six terms of experience](la-gap-grows-with-instructor-experience.md) — related
 - [LA-supported courses show higher student posttest scores than traditional courses across all demographics](la-support-higher-posttest-scores.md) — related
+- [Classes with Learning Assistants had lower WFD (withdrawal, D-grade, F-grade) rates than non-LA classes in each of ten introductory STEM courses, with differences significant at P=0.05 for six of the ten courses](la-classes-lower-wfd-rates-introductory-courses.md) — a broader claim this one bears on
+- [If all ten introductory courses used LAs, an estimated 304±31 student grades per year would move above the WFD level relative to no courses using LAs](la-all-courses-304-students-above-wfd-yearly.md) — related

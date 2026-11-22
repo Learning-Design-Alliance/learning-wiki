@@ -47,6 +47,7 @@ The article recommends simply distributing high-interest, culturally relevant bo
 
 - [Take Home Book Bags](take-home-book-bags.md)
 - [Home-Based Literacy Support](home-based_literacy_support.md)
+- [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
 
 ## Examples
 -

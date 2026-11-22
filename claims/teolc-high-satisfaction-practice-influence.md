@@ -56,3 +56,4 @@ Postcourse quantitative items from the same evaluation: 217 participants (92%) w
 - [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
 - [Overall feedback on the storytelling activity was very positive, with 86.8% of students willing to participate again](positive-overall-feedback-willingness-participate-again.md) — related
 - [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related
+- [Most respondents intended to keep using P-A.I.R. and would recommend it to peers, and the two intentions were positively associated](pair-adoption-reuse-recommendation.md) — related

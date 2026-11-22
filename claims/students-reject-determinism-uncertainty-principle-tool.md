@@ -58,3 +58,4 @@ Interview finding across the 19 students: most were unfamiliar with the word det
 - [Across both classical and quantum contexts, no interviewed advanced student expected an expert's measurement to yield a delta-function distribution with zero uncertainty](no-delta-function-expectation-any-context.md) — related
 - [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
+- [QTris game mechanics put key quantum concepts in clear light: probabilistic measurement, deterministic unitary transformation, and incompatibility](qtris-mechanics-convey-key-quantum-concepts.md) — related

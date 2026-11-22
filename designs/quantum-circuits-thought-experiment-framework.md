@@ -45,7 +45,8 @@ The article proposes representing quantum thought experiments as quantum circuit
 - Double Slit Entanglement Decoherence No Classical Measurement [+M]
 
 ## Related Designs
-- 
+
+- [Entanglement extension of QTris via the Controlled-X card and triangular-tile Bell states](qtris-controlled-x-entanglement-extension.md)
 
 ## Examples
 -

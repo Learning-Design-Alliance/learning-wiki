@@ -72,3 +72,4 @@ In the near-transfer problem category, no significant "increase was found in the
 - There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related
 - [Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load](rootless-podman-containment-no-violations.md) — related
 - [An AR application produced smaller test-score gains than cross-section study, while the cross-section group reported higher relevance and extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — a narrower finding that bears on this claim
+- [Task-type stratified gains show paradigm completion is the most teachable category (↑3.5% mean gain) while translation tasks show the weakest gains (↓1.1%)](slate-task-type-stratified-gains.md) — related

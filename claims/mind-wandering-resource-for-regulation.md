@@ -53,3 +53,4 @@ The discussion paper reports, attributing to Bühler et al. (2025), a systematic
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — reports the opposite
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — reports the opposite
 - [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](mind-wandering-intervention-corrects-comprehension.md) — related
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](online-module-ten-percent-mind-wandering-q3.md) — related

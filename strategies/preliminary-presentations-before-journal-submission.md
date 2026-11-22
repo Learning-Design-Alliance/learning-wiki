@@ -40,6 +40,7 @@ The editors recommend that authors mature a paper through a sequence of lower-st
 
 - [Authentic Audiences and Purposes](authentic_audiences_and_purposes.md)
 - [Let cadets choose their own publication venue after understanding the trade-offs](cadet-chosen-publication-venue-strategy.md)
+- [Have CURE students disseminate their findings through conference poster presentations](cure-conference-poster-dissemination.md)
 
 ## Examples
 -

@@ -60,3 +60,4 @@ Same experimental comparative study; the local Mistral 7B model was deployed via
 - [Inter-rater agreement on five POCUS clinical-competence checklist items is fair to moderate (κ = 0.32 to 0.55)](pocus-checklist-fair-moderate-rater-agreement.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
 - [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related
+- [The GPT-4o mini event classifier agrees with domain experts at almost-perfect pairwise levels (κ = 0.841–0.855), reducing multi-rater Fleiss κ only marginally (0.682 to 0.624)](llm-event-classifier-expert-agreement.md) — related

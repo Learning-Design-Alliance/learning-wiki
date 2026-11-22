@@ -57,6 +57,7 @@ Based on the finding that novices gained more knowledge while experienced learne
 - [Provide separate training programmes tailored to different provider groups to improve refresher attendance and performance](provider-role-tailored-separate-training.md)
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
 - [Adapt GPP scaffolding intensity to individual student proficiency](adaptive-gpp-scaffolding-strategy.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

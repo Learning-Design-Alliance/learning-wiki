@@ -69,3 +69,4 @@ Kruskal-Wallis and Mann-Whitney U tests on pre-test (K1) scores confirming basel
 - [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related
 - [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — related
 - [Treatment and control groups differed in pre-knowledge, with the treatment group reaching higher pre-test scores](preknowledge-difference-tg-higher-than-cg.md) — reports the opposite
+- [Satisfaction in learning and self-confidence in learning did not differ significantly between the three simulation groups (p > 0.05)](no-group-difference-in-satisfaction-and-self-confidence.md) — related

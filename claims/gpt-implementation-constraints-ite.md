@@ -53,3 +53,4 @@ learned to verify against authoritative sources but required prompting to do so.
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
+- [Students' principal concerns about P-A.I.R. were mismatch between AI solutions and in-class methods, and AI accuracy and trust](pair-ai-alignment-accuracy-concerns.md) — related

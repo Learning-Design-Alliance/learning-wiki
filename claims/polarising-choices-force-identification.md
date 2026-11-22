@@ -77,3 +77,4 @@ Figure 3 analysis of the same six-question item data shows the wide gap between 
 - [Players who completed their last level with an incorrect force setting learned as much as players who used the correct setting](newtons-race-no-learning-difference-incorrect-setting.md) — related
 - [High co-construction items had a mix of incorrect answers with no dominant distractor and included complex multistep questions](qm-high-co-construction-item-features.md) — related
 - [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related
+- [D̄ and the concentration deviation Γ rank the same response distributions in opposite order when distractor use differs in breadth versus single-cluster size](dbar-gamma-sensitivity-divergence.md) — related

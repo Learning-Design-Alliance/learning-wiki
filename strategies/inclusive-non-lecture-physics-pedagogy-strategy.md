@@ -52,6 +52,7 @@ The authors recommend a focus on "more inclusive pedagogical practices, as well 
 - [Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls](prefer-active-learning-over-lecturing-stem.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
 - [Support faculty adoption of active learning with peer communities, framing, incentives, and iterative refinement](faculty-support-for-ebae-implementation.md)
+- [Eight tangible instructor actions to shift physics culture toward neuro-inclusivity](eight-neuro-inclusive-physics-classroom-actions.md)
 
 ## Examples
 -

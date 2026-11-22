@@ -82,6 +82,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Combine interactive virtual patient preparation with standard hands-on simulation training for procedural skills](vp-blended-preparation-before-skills-training.md)
 - [Move instrument practice onto the Internet with 3D simulation and group discussion](online-3d-instrument-practice-strategy.md)
 - [Design pediatric procedural preparation with interactivity and real-time feedback rather than passive immersion alone](interactive-feedback-procedural-preparation-strategy.md)
+- [Expand interactive simulation methods such as virtual patient and peer simulation in nursing education for communication-skill topics](expand-virtual-patient-and-peer-simulation-nursing-communication-topics.md)
 
 ## Examples
 -

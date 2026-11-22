@@ -58,3 +58,4 @@ Theme 5 of the thematic analysis; students reported that discussion-based format
 - [Peer-to-peer meetings between hybrid and on-campus students and twice-monthly on-campus days fostered students' sense of integration and inclusion](peer-to-peer-meetings-foster-integration.md) — related
 - [Online-only format fostered more intensive student–teacher communication, with cameras on and small groups as key enablers](online-teacher-communication-more-intensive-cameras-small-groups.md) — related
 - [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
+- [Students in the physics-agreement class described conditions of psychological safety supporting continuous, collective learning](physics-agreement-psychological-safety.md) — related

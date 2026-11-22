@@ -52,3 +52,4 @@ Binomial distribution test on children providing data at all three time points (
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [The 10% brain-use misconception was widely endorsed by children before the lecture but consistently rejected at one and six weeks after the lecture, in a single-group pre-post study](ten-percent-misconception-corrected.md) — related
 - [On the telescope-resolving-power question, correct-answer probability declined in both years as students shifted toward the aperture-only answer and away from the correct aperture-plus-color answer](resolving-power-question-decline.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

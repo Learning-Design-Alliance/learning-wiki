@@ -24,7 +24,8 @@ The Qubit Factory is a browser-based gamified quantum-circuit simulator puzzle g
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Quantum Tetris](quantum-tetris.md)
 
 ## Key Sources
 - Glen Evenbly. (2024). Exploring Gamification in Quantum Computing: The Qubit Factory. arXiv. https://arxiv.org/abs/2406.11995

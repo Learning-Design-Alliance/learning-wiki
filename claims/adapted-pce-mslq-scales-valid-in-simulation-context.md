@@ -51,3 +51,4 @@ CFA of single-factor models on data from 94 students, with reliability via Cronb
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
 - [A newly developed survey instrument measures three distinct, reliable forms of teacher collaboration on Instagram: information seeking, information sharing, and co-creating](three-forms-teacher-collaboration-instagram-instrument.md) — related
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
+- [QCCS v2.2 responses show sufficient unidimensionality to merit a single sum score, supported by both single-factor CFA and PCAR](qccs-unidimensionality-cfa-pcar.md) — related

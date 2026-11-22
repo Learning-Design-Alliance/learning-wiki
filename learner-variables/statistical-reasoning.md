@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (59 show a difference, 22 mixed, 6 no difference) · 54 studies (23 causal, 10 design, 6 qualitative, 5 review, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 4 of 54 report an effect size · 87 claims rest on one study
+> **Evidence** · 88 claims (60 show a difference, 22 mixed, 6 no difference) · 55 studies (23 causal, 11 design, 6 qualitative, 5 review, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 4 of 55 report an effect size · 88 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -126,6 +126,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Preliminary informal-education experience indicates weather stations have strong potential for developing students' data collection, graphing, and interpretation skills](../claims/weather-station-preliminary-data-skills-potential.md) [+W] — measured as an outcome of the instruction studied
 - [Open-ended responses most frequently cite data analysis and visualization skills learned](../claims/open-ended-responses-data-analysis-skills-most-frequent.md) [+W] — measured as an outcome of the instruction studied
 - [Embodied movement-based data literacy practice yields learning gains comparable to conventional click-based platforms, with a trend favoring Kinetiq](../claims/kinetiq-comparable-learning-gains.md) [~M] — measured as an outcome of the instruction studied
+- [After lecture-based instruction, students struggled with how eavesdropper detection works in entanglement-based QKD, and with conditional probability reasoning about correlated measurement outcomes](../claims/student-difficulties-qkd-eavesdropper-conditional-probability.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (105 show a difference, 36 mixed, 13 no difference) · 132 studies (33 causal, 30 qualitative, 23 design, 20 review, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 19 of 132 report an effect size · 149 claims rest on one study
+> **Evidence** · 155 claims (106 show a difference, 36 mixed, 13 no difference) · 133 studies (33 causal, 31 qualitative, 23 design, 20 review, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 19 of 133 report an effect size · 150 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -195,6 +195,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Participants made connections to the learning material quicker because the basketball scenario was familiar and relevant](../claims/sport-c-relevancy-quicker-connections.md) [+W] — learners who differ on it differ in outcomes
 - [CTML multimedia design principles show much smaller effects on quiz performance in an authentic physics classroom than in Mayer's laboratory studies](../claims/ctml-principles-muted-effects-physics-classroom.md) [~M] — an instructional effect differs with it
 - [Vocabulary score gains differed significantly by physical learning environment, with home-based learners differing from workplace- and café-based learners](../claims/score-gains-differ-by-learning-environment.md) [+M] — an instructional effect differs with it
+- [Graduate physics students place the highest value on course outcomes directly relevant to their dissertation research](../claims/students-value-research-relevant-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

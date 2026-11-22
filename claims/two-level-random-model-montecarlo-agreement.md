@@ -48,3 +48,4 @@ Monte Carlo simulation of the two-level random model (Fig. 3), run with the prin
 - [Most FCI questions in the Bogotá sample were answered without any mental model, i.e. at random](fci-bogota-53-percent-random-answers.md) — related
 - [Monte Carlo simulation applications favour statistics learning, especially among students who struggle with more classical methods (as reported by Weir et al., 2002)](monte-carlo-simulations-favour-statistics-learning.md) — related
 - [A two-level heuristic model fits the FCI correct-answer distribution, splitting students into a no-knowledge group (53%) and an eliminated-one-option group (47%)](two-level-heuristic-model-fci-fit.md) — related
+- [The overall pattern of associations between interaction patterns and AI knowledge outcomes was unlikely to have occurred by chance](correlation-pattern-nonrandom-monte-carlo.md) — related

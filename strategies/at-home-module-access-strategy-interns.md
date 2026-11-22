@@ -49,6 +49,7 @@ The article recommends supplying interns with personal, inexpensive simulation m
 
 - [Provide fine-grained simulator feedback on intubation performance as a complement to traditional training](fine-grained-simulator-feedback-intubation-training.md)
 - [Increase patients' practice opportunities with an inexpensive wearable simulation tool to overcome limited nurse training time](wearable-simulation-increase-practice-opportunities.md)
+- [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
 
 ## Examples
 -

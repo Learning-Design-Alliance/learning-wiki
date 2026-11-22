@@ -30,4 +30,4 @@ A three-layer framework developed by Hsu et al. for designing serious games that
 -
 
 ## Key Sources
-- Hsu, T.-C., Zhang, Z., Chen, Z., Liu, Y., & Liu, Y. (2026). Designing More Engaging Serious Games to Support Students' Mental Health: A Pilot Study Based on A CBT-Informed Design Framework.
+- Hsu, T.-C., Zhang, Z., Chen, Z., Liu, Y., & Liu, Y. (2026). Designing More Engaging Serious Games to Support Students' Mental Health: A Pilot Study Based on A CBT-Informed Design Framework. [doi:10.48550/arxiv.2604.15662](https://doi.org/10.48550/arxiv.2604.15662)

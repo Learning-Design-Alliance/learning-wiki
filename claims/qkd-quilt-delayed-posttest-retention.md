@@ -75,3 +75,4 @@ Question 5, which tests whether the photon's polarization can be determined only
 - [QuILT work produces significant gains in correct quantum-mechanical reasoning that are retained, while classical reasoning shows no change or very small positive gain](quilt-larmor-quantum-reasoning-gains-retained.md) — a broader claim this one bears on
 - [Students retained the ability to distinguish a superposition from a mixture a full semester after working on the QuILT (8 of 9 correct)](sge-quilt-concepts-retained-semester.md) — related
 - [Undergraduates retained DPT learning six weeks after the QuILT, scoring 97.8% and 91.0% on repeated questions](quilt-retention-six-weeks-final-exam.md) — related
+- [Students' QKD concept scores showed only marginal changes one month after the QuILT, and performance on the far-transfer Bell-state question rose from 72% to 90% in one group measured before and after, with no comparison group](one-month-retention-qkd-quilt.md) — related

@@ -55,3 +55,4 @@ LSA of 52 screen recordings coded with a ten-category behavioral scheme (GESQ 5.
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
 - [CS2 learners jumped directly into implementation without querying any learning support about the algorithm, and GenAI queries shifted toward debugging](learners-skip-pre-implementation-support-queries.md) — related
+- [Higher-quality chatbot groups showed stronger testing self-loops and more frequent transitions among development and testing activities](development-behaviors-differ-chatbot-quality-groups.md) — related

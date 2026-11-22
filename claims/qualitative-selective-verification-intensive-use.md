@@ -63,3 +63,4 @@ Reflexive thematic analysis (Braun and Clarke, 2006) of four open-ended survey q
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
 - [Knowledge workers using GenAI shift effort from information gathering to verification, and GenAI creates new cognitive tasks such as assessing AI-generated content](genai-shifts-effort-to-verification.md) — related
 - [Lecturers observed divergent StudyBuddy use by ability: stronger students used it strategically with verification, while weaker students engaged intensively with less critical verification.](divergent-studybuddy-use-by-ability.md) — related
+- [Qualitative themes credited P-A.I.R. with conceptual clarification, structured problem decomposition, metacognitive prompt-crafting, and autonomous practice generation](pair-qualitative-benefit-themes.md) — related

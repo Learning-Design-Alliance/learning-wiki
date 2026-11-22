@@ -76,3 +76,4 @@ Same §4.3 evaluation using human-written feedback as reference; SFT attains the
 - [High-utility questions are weakly related to exam-question similarity and Bloom's cognitive depth, suggesting they are not paraphrases of exam questions](high-utility-questions-not-exam-paraphrases.md) — related
 - [Generated feedback across models shows a considerable gap from teacher-written feedback: fine-tuned models score near zero on LLM rating, and human experts rate all model feedback below the ideal score of 3](mathedu-feedback-generation-gap-from-teachers.md) — related
 - [Domain fine-tuning did not outperform strong base LLMs for feedback generation and mostly slightly reduced performance](fine-tuning-no-gain-over-base-models.md) — related
+- [Fine-tuning substantially outperforms zero-shot prompting of the same open-source model for cross-rubric scoring, improving macro F1 from 0.222 to 0.353](fine-tuning-beats-zero-shot-prompting-same-model.md) — reports the opposite

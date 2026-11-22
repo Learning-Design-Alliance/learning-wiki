@@ -49,4 +49,4 @@ The article recommends that conversational AI systems for visually rich STEM dom
 -
 
 ## Key Sources
-- Taneja, K., Singh, A., & Goel, A.K. (2026). Impact of Multimodal and Conversational AI on Learning Outcomes and Experience. https://arxiv.org/abs/2604.02221
+- Taneja, K., Singh, A., & Goel, A.K. (2026). Impact of Multimodal and Conversational AI on Learning Outcomes and Experience. https://arxiv.org/abs/2604.02221. [doi:10.1007/978-3-032-29760-0_60](https://doi.org/10.1007/978-3-032-29760-0_60)

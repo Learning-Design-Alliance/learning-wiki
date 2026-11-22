@@ -51,3 +51,4 @@ Curriculum-grounding benchmark evaluation (Section 4.2, Table 1) comparing tuned
 - [Current LLMs lack robust curriculum cognition: even the best model reaches only 57.1% exact match on K12-Bench, with prerequisite and neighbor tasks hardest](llms-lack-curriculum-cognition-k12-bench.md) — reports the opposite
 - [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](omniedu-largest-gains-scaffolding-longitudinal-evidence.md) — related
 - [K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary](k12-train-full-multimodal-complementarity.md) — related
+- [Large model performance drops notably on hard L2-Bench tasks, with the top three models all scoring below 80% on 267 tasks](l2-bench-hard-task-performance-drop.md) — related

@@ -47,3 +47,4 @@ Descriptive course-report section (Section IV) stating deployment scale: the NYU
 
 ## Related Claims
 - [A pilot with 22 teachers showed GSI-shaped Units of Learning can be reused across independent course instances at reasonable deployment cost](gsi-pilot-preserves-reusability-self-containment.md) — related
+- [First Edu4Chip tapeouts validated the Didactic SoC platform and integration flow, and a student-designed ASIC was electrically validated after fabrication](edu4chip-first-tapeouts-validated-platform.md) — related

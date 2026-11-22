@@ -52,3 +52,4 @@ In the focus groups, a current student described the problem of not knowing what
 - [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related
 - [Financial and logistical pressures precluded low-income students from anticipatory socialization for college](summer-tasks-preclude-anticipatory-socialization.md) — related
 - [A majority of PER graduate students did not know the field existed until they were already in graduate school](per-grad-students-discover-field-in-graduate-school.md) — related
+- [Physics students expressed dissatisfaction with withheld information on Public Exam questions involving procedural knowledge and suggested fully revealed problems with changed values](student-dissatisfaction-withheld-procedural-information.md) — related

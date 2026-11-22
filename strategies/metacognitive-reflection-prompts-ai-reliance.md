@@ -49,6 +49,7 @@ Because students showed partial self-awareness of their overreliance (r = 0.355)
 ## Related Strategies
 
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Combine required written justification with explicit metacognitive scaffolding prompts](justification-plus-metacognitive-scaffolding-strategy.md)
 
 ## Examples
 -

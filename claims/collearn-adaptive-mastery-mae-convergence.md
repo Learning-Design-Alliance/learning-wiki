@@ -66,3 +66,4 @@ Secondary aggregate signal from the same 6-persona simulation: the article repor
 ## Related Claims
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
 - [In LLM-simulated subjects with known skill levels, the Executive LLM yields better skill-level recovery (lower MAE) than Independent Agents](executive-llm-improves-skill-recovery-simulation.md) — related
+- [Agentic BKT mastery estimates from gameplay correlate significantly with learning gain (r = 0.276) and post-test scores (r = 0.333), with no significant correlation with pre-test scores (r = -0.036)](agentic-bkt-mastery-correlates-with-learning-gain-posttest.md) — related

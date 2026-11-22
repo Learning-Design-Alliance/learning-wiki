@@ -54,3 +54,4 @@ EEG recorded pre- and post-training while participants performed a neural assess
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
 - [Simultaneous performance of tracking and discrimination tasks produces large multitasking costs at baseline](multitasking-cost-large-baseline-2017.md) — related
+- [Subjective preference modulates neural engagement states (theta/alpha patterns) even though it does not optimize test performance](preference-modulates-neural-engagement-not-performance.md) — related

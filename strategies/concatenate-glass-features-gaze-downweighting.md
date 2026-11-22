@@ -43,7 +43,8 @@ The strategy extracts features from a glass-detection network (ResNet18 fine-tun
 - [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](../claims/lime-eye-mouth-areas-in-latent-features.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Measure online learners' attentional states by integrating multimodal sensing with retrospective recall and thought probes](multimodal-attention-probe-retrospective-recall-strategy.md)
 
 ## Examples
 -

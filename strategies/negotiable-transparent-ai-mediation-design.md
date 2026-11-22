@@ -40,6 +40,7 @@ The article's design implications hold that future AI mediators should treat int
 - [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 - [Team Contracts](team_contracts.md)
 - [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
+- [Configure AI teammates to preserve opportunities for human-human exchange](configure-ai-teammates-to-preserve-human-human-exchange.md)
 
 ## Examples
 -

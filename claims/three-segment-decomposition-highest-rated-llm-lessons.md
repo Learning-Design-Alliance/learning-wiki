@@ -50,3 +50,4 @@ Human rating study: two coders rated LLM-generated lessons across five segmentat
 - [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](ct-aspect-coverage-across-ct-literature.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
 - [Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons](llm-lesson-weaknesses-generic-feedback-clarity.md) — related
+- [The full four-agent pipeline (domain decomposition plus expert-judge synthesis) approximately triples predictive validity compared to a single-LLM BKT baseline (r = 0.095, not significant)](domain-decomposition-triples-predictive-validity.md) — related

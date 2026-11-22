@@ -49,3 +49,4 @@ In the interview study, a particle-theory participant said "E&M is a specific co
 - [The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components](misalignment-dispositions-goals-assessment-fink.md) — related
 - [Misalignment between assessment and instruction leads faculty to discontinue 3DL material, while successful alignment supports continued use](assessment-instruction-alignment-drives-uptake.md) — related
 - [Elective courses and research experiences were perceived as more synergistic and effective than core courses in fostering conceptual understanding, problem-solving and physicist identity](electives-research-foster-ltp.md) — related
+- [All five students described at least one graduate course in which they felt minimal learning occurred](minimal-learning-courses-reported.md) — related

@@ -75,3 +75,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Professors held a hierarchy of acceptability for GenAI text processing: granular language tasks seen as legitimate, initial drafting viewed with skepticism](genai-text-processing-acceptability-hierarchy.md) — related
 - [In algebra-based introductory physics courses, instructors can use creative projects to foster creativity and critical thinking while students connect physics with humanities, social sciences, and everyday life](intro-physics-courses-opportunity-connect-humanities-everyday-life.md) — related
 - [A minority of students saw gen-AI as capable of creativity, with one student humanizing AI as having prior experiences](student-humanizes-gen-ai-creative.md) — related
+- [Students' principal concerns about P-A.I.R. were mismatch between AI solutions and in-class methods, and AI accuracy and trust](pair-ai-alignment-accuracy-concerns.md) — related

@@ -64,6 +64,7 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 - [Design differentiated professional development resources targeting prioritized personas rather than one-size-fits-all materials](persona-targeted-pd-design-strategy.md)
 - [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 - [Embed short modelling-focused sessions in onboarding to accelerate comprehension for less-prepared new hires, with differentiated challenges for stronger hires](short-modelling-sessions-onboarding-differentiated-pathways.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

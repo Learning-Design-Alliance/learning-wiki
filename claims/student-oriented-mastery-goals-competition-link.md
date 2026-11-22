@@ -46,3 +46,4 @@ Two-level path modelling result from the combined model. The article reports thi
 
 ## Related Claims
 - [Individual-level and school-level peer competition are positively associated with mastery-approach goals, contrary to the hypothesized negative associations](peer-competition-positively-linked-mastery-approach-goals.md) — related
+- [The article argues that timed rank competition should be deferred, not eliminated, in introductory competitive programming courses](defer-competition-introductory-cp.md) — related

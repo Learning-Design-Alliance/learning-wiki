@@ -58,6 +58,7 @@ The article recommends that "PoBL strat egy as a pedagogical approach should be 
 - [Teachers choose the matrix quadrant that complements their strengths and institutional culture](choose-pjbl-quadrant-to-fit-teacher-strengths.md)
 - [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
 - [Adopt PBL-based techniques and strengthen curriculum coverage so linear programming is taught to all learners](pbl-technique-and-curriculum-coverage-linear-programming.md)
+- [Three-step quick-start process for educators adopting the NuPaD methodology](nupad-three-step-educator-quickstart.md)
 
 ## Examples
 -

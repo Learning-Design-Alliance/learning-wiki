@@ -47,4 +47,4 @@ The review organizes instructional methodologies into a developmental progressio
 -
 
 ## Key Sources
-- Metwalli, S. A., Iliat, A., Thomas, S., Nair, S., Chase, Z. A., & Ceballos, R. R. (2026). The Quantum Education Ecosystem: A Review of Global Initiatives, Methods, and Challenges. arXiv. https://arxiv.org/abs/2604.06293
+- Metwalli, S. A., Iliat, A., Thomas, S., Nair, S., Chase, Z. A., & Ceballos, R. R. (2026). The Quantum Education Ecosystem: A Review of Global Initiatives, Methods, and Challenges. arXiv. https://arxiv.org/abs/2604.06293. [doi:10.48550/arxiv.2604.06293](https://doi.org/10.48550/arxiv.2604.06293)

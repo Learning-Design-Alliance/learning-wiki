@@ -49,3 +49,4 @@ Pre-activity Mentimeter multiple-choice questions probing prior knowledge of the
 - [Learners often accept or produce orders of magnitude that are completely implausible given knowledge available to them, even after instruction](implausible-orders-of-magnitude-learners.md) — a broader claim this one bears on
 - [Ten months after the module, all re-tested students could write large numbers in powers of ten, but only 9% correctly identified that 2^10 is approximately 10^3](ten-month-retention-powers-of-ten.md) — related
 - [After the black-box Rutherford activity, most first-year high school students rejected atomic indivisibility and identified a small dense nucleus](rutherford-black-box-conceptual-gains.md) — related
+- [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related

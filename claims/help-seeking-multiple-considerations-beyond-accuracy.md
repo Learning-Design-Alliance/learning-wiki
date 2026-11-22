@@ -54,3 +54,4 @@ Authors' interpretation in the abstract, elaborated in the introduction: people 
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related
 - [Information seeking follows a cost–benefit analysis of resolving curiosity](curiosity-cost-benefit-information-seeking.md) — related
 - [Allowing opt-out options improves output-bound accuracy in adults, primary-school children, and preschoolers](opting-out-improves-output-bound-accuracy.md) — related
+- [Informal student observations suggest withholding standard formulas shifted attention to graphical structure, but the article reports no controlled learning-outcome evidence](rc-black-box-informal-student-observations.md) — related

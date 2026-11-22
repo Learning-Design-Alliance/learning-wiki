@@ -48,6 +48,7 @@ The article recommends concrete configurations that keep generative work with th
 - [Counter-design practices for deliberate AI engagement](counter-design-ai-offloading-practices.md)
 - [Calibrate assistant support forms to preserve users' cognitive participation rather than making every interaction tutor-like](calibrate-llm-support-forms-for-cognitive-participation.md)
 - [Design AI learning assistants to make the implications of AI use visible rather than restricting assistance](make-ai-use-implications-visible-design-strategy.md)
+- [Configure AI teammates to preserve opportunities for human-human exchange](configure-ai-teammates-to-preserve-human-human-exchange.md)
 
 ## Examples
 -

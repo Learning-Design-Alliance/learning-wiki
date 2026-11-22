@@ -50,6 +50,7 @@ The article recommends tailoring training frequency and dose to the individual p
 - [Tailor sleep cueing frequency to individual retrieval performance and task difficulty rather than using fixed uniform stimulation](personalized-sleep-cueing-strategy.md)
 - [Adaptive Learning](adaptive-learning.md)
 - [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
+- [Adaptively time feedback to moments of declining attention or rising workload rather than delivering at fixed intervals](adaptive-timing-over-fixed-interval-feedback.md)
 
 ## Examples
 -

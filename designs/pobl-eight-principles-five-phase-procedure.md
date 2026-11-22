@@ -43,7 +43,8 @@ The article describes PoBL as implemented through eight principles: "the organiz
 - [Pobl Improves Self Directed Learning Versus Conventional Teaching](../claims/pobl-improves-self-directed-learning-versus-conventional-teaching.md) [+M]
 
 ## Related Designs
-- 
+
+- [The Collaborative Project-Based Teaching Model for culturally relevant physics learning through Gudeg](collaborative-project-based-teaching-gudeg-model.md)
 
 ## Examples
 -

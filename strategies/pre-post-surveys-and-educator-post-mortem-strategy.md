@@ -51,6 +51,7 @@ Every HSF training event is accompanied by a structured feedback loop. Participa
 - [Build a voluntary mentor community in which participants become mentors and feedback into the training system](hep-participants-become-mentors-community.md)
 - [Extend a research program into a complex mentoring program with community events, educational workshops, and collaborative projects](konkoly-mentoring-expansion-strategy.md)
 - [Two-step pre- and post-event surveys with anonymous verification to collect learning-experience metrics](two-step-anonymous-verified-training-surveys.md)
+- [Use student group feedback and anonymous surveys at event close to collect actionable improvement items for future editions](asp2026-feedback-driven-improvement-strategy.md)
 
 ## Examples
 -

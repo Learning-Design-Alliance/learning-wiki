@@ -47,3 +47,4 @@ Exploratory mediation analyses with 39 (reactive) and 40 (proactive) participant
 ## Related Claims
 - [No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs](no-literacy-by-agent-interaction.md) — possibly the same claim (merge candidate)
 - [Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations](proactive-agent-dialogues-integrated-epistemic-reasoning.md) — related
+- [Exploratory analysis found no significant moderation of learning by prior knowledge, with a possible low-prior-knowledge advantage of proactive tutoring reported only as a hypothesis](exploratory-prior-knowledge-moderation-not-significant.md) — related

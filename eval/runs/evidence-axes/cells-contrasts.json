@@ -131994,5 +131994,301 @@
  "media-design\teducational comics in physics workshops\tpre-intervention survey": {
   "label": "Educational comics vs pre-intervention baseline",
   "treatment_is_a": true
+ },
+ "active-learning\tLA in extended small-group activity class (Figure 3)\tLA in interactive lecture class (Figure 4)": {
+  "label": "extended small-group activity vs interactive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tProblems and examples connected to authentic research or real-world applications\tLong mathematical derivations with little motivation or connection to physical concepts": {
+  "label": "authentic or real-world applications vs abstract, weakly motivated derivations",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative project-based teaching using Gudeg\tonly lecturing": {
+  "label": "collaborative project-based teaching vs lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiscussion-based classes\ttraditional lecture classes": {
+  "label": "discussion-based classes vs traditional lecture classes",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiscussion-based classes\ttraditional passive lectures": {
+  "label": "discussion-based classes vs traditional passive lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tend-of-term think-pair-share\tfirst think-pair-share": {
+  "label": "end-of-term think-pair-share vs first think-pair-share",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup response session\tindividual response session": {
+  "label": "group response vs individual response",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup session\tindividual session": {
+  "label": "group session vs individual session",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work after individual responses\tindividual response session": {
+  "label": "group work after individual responses vs individual response only",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstructor values as a reason for using the named method\tother reported reasons for using the method": {
+  "label": "instructor values as a reason vs other reported reasons",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive Intro2QC workshop\tno comparison reported": {
+  "label": "interactive workshop vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive workshop with exercises, discussion, demonstrations, and programming\tno comparison condition reported": {
+  "label": "interactive workshop with exercises, discussion, demonstrations, and programming vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tsolo AcePhysics tutorial\tin-person small-group paper tutorial": {
+  "label": "in-person small-group paper tutorial vs solo tutorial",
+  "treatment_is_a": false
+ },
+ "active-learning\tsubsequent reports with peer interaction and discussion\tinitial reports": {
+  "label": "reports with peer interaction and discussion vs initial reports",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tStuEDM adaptive policy preserving student choice\tExpert baseline with no adaptive guidance": {
+  "label": "choice-preserving adaptive guidance vs no adaptive guidance",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tStuEDM adaptive policy preserving student choice\tStuCQL policy": {
+  "label": "choice-preserving adaptive policy vs alternative adaptive policy (StuCQL)",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tassignments with higher epistemic agency\tassignments with lower epistemic agency": {
+  "label": "higher vs lower epistemic agency",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcoursework applicable to students' research or dissertation\tgeneral coursework not used in ongoing research": {
+  "label": "research-applicable coursework vs general coursework",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tflexible elective coursework\trequired core coursework": {
+  "label": "flexible elective coursework vs required core coursework",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher-epistemic-agency writing assignments\tlower-epistemic-agency writing assignments": {
+  "label": "higher vs lower epistemic agency",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tphysics-agreement pedagogy with student-led revision\tnot stated": {
+  "label": "student-led revision vs unspecified revision support",
+  "treatment_is_a": true
+ },
+ "case-comparison\tchanged case altering exactly one variable\tchanged case altering multiple variables": {
+  "label": "single-variable vs multiple-variable case changes",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tadaptive personalized problem sequence\tfixed easy-to-hard problem sequence": {
+  "label": "Adaptive personalized problem sequence vs fixed easy-to-hard problem sequence",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tadaptive personalized problem sequence\tfixed problem sequence": {
+  "label": "Adaptive personalized problem sequence vs fixed problem sequence",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tpersonalized adaptive problem sequence\tfixed problem sequence": {
+  "label": "Adaptive personalized problem sequence vs fixed problem sequence",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tpersonalized problem sequence\tfixed problem sequence": {
+  "label": "Personalized problem sequence vs fixed problem sequence",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t7-week electric-circuits instructional unit\tpre-instruction pretest": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tQuILT plus in-class QKD instruction\tQuILT after instruction on entanglement only": {
+  "label": "QKD instruction vs entanglement-only instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter the 7-week electric-circuits instructional unit\tbefore the instructional unit": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommon lecture\tbaseline knowledge assessment": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect answer present\tdirect answer absent": {
+  "label": "direct answer present vs direct answer absent",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlab instruction on measurement uncertainties and instrumentation\tbefore lab instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlab instruction on measurement uncertainties and instrumentation\tpre-instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlaboratory instruction before the post-questionnaire\tpre-instruction questionnaire": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlaboratory instruction on measurement uncertainties and instrumentation\tbefore laboratory instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlecture-based instruction on QKD plus QuILT\tlecture on entanglement only plus QuILT": {
+  "label": "QKD instruction vs entanglement-only instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost lab instruction on measurement uncertainties and instrumentation\tpre-instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction Q15\tpre-instruction Q15": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction Q16 law attribution\tpre-instruction Q16 law attribution": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tposttest after the instructional unit\tpretest before the instructional unit": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tposttest relative to pretest\tpretest": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tDRL Only feedback\tTutorUp feedback": {
+  "label": "DRL-only feedback vs TutorUp feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\thigher feedback presence ratio\tlower feedback presence ratio": {
+  "label": "Higher feedback presence vs lower feedback presence",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback in adaptive RAFT\tdelayed feedback in non-adaptive RoR": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI feedback with concrete elaboration\tAI feedback without concrete elaboration": {
+  "label": "concrete elaboration vs no concrete elaboration",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull TutorLoop feedback\tControl": {
+  "label": "full adaptive feedback vs control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull TutorLoop feedback\tDRL Only": {
+  "label": "full adaptive feedback vs DRL-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull TutorLoop feedback\tTutorUp": {
+  "label": "Full TutorLoop feedback vs TutorUp feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull group with LLM-refined DRL feedback\tControl group": {
+  "label": "LLM-refined feedback vs control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull group with LLM-refined DRL feedback\tDRL Only group with purely DRL-driven feedback": {
+  "label": "LLM-refined feedback vs DRL-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTutorLoop Full adaptive feedback\tthree baseline groups": {
+  "label": "full adaptive feedback vs baseline conditions",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTutorUp feedback\tControl": {
+  "label": "TutorUp feedback vs control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTutorUp group with LLM-based feedback\tControl group": {
+  "label": "LLM-based TutorUp feedback vs control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTutorUp group with LLM-based feedback\tDRL Only group with purely DRL-driven feedback": {
+  "label": "LLM-based TutorUp feedback vs DRL-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tVisual-Proactive tutor with visual access and initiative\tVisual-Reactive tutor with visual access but no initiative": {
+  "label": "proactive feedback vs reactive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tVisual-Reactive tutor with access to handwritten work\tText-Reactive tutor without access to handwritten work": {
+  "label": "visual access to handwritten work vs no visual access",
+  "treatment_is_a": true
+ },
+ "feedback-type\taffective feedback present\taffective feedback absent": {
+  "label": "affective feedback present vs affective feedback absent",
+  "treatment_is_a": true
+ },
+ "feedback-type\tconcrete elaboration\tno concrete elaboration": {
+  "label": "concrete elaboration vs no concrete elaboration",
+  "treatment_is_a": true
+ },
+ "feedback-type\tconcrete elaboration present\tconcrete elaboration absent": {
+  "label": "concrete elaboration vs no concrete elaboration",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive principle requiring indistinguishable replies\tlist of forbidden praise phrases": {
+  "label": "indistinguishable positive replies vs forbidden praise phrases",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tProfessors who actively look for student confusion and address it\tProfessors who do not put as much effort into informal formative assessment": {
+  "label": "responsive formative assessment vs nonresponsive formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tobserved answer-space reporting\taggregate completion statistics alone": {
+  "label": "answer-level monitoring vs aggregate completion monitoring",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tprobing correct answers with a changed case\tsingle right-or-wrong item without probing": {
+  "label": "probing transfer assessment vs single right-or-wrong assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tprofessors checking understanding and addressing confusion\tprofessors giving explanations without responding to questions or confusion": {
+  "label": "responsive formative assessment vs explanation-only instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tQTris color tiles representing certain outcomes\tordinary conceptual explanation of certainty in quantum measurement": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tQTris die-roll measurement\tordinary conceptual explanation of quantum measurement": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tQTris operations phase\tordinary conceptual explanation of unitary transformations": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tQTris-based educational activity\tnot stated": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\twithholding standard circuit formulas while guiding data examination\tusing standard circuit formulas as the starting point": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery-oriented CP1–CP2 with deferred competition\ttimed rank competition in introductory courses": {
+  "label": "mastery learning vs timed rank competition",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery-oriented, retriable problem practice\ttimed rank competition in introductory courses": {
+  "label": "mastery learning vs timed rank competition",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-frame slide presentation\t3-frame slide sampling": {
+  "label": "full-frame slide presentation vs 3-frame slide sampling",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual aid completeness below 80%\tvisual aid completeness at or above 80%": {
+  "label": "visual aid completeness at or above 80% vs below 80%",
+  "treatment_is_a": false
+ },
+ "media-design\twell-organized notes posted before lectures\tcourses without this organization and preparation support": {
+  "label": "well-organized notes posted before lectures vs no organization and preparation support",
+  "treatment_is_a": true
  }
 }

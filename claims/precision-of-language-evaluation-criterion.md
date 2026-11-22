@@ -48,3 +48,5 @@ Think-aloud and interview data from the same ten-participant qualitative study. 
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
+- [The Double Empathy Problem manifests for neurodivergent students in interpreting the intent behind physics problem statements](dep-problem-statement-interpretation.md) — a broader claim this one bears on
+- [Three neurodivergent physics students experience communication breakdowns with peers, instructors, and problem statements during physics problem-solving](neurodivergent-communication-breakdowns-physics-problem-solving.md) — a broader claim this one bears on

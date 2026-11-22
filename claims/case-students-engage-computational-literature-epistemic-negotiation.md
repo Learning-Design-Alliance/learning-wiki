@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-22
 sources:
   - id: tor-ole-b-odden-and-benjamin-zwickl-2024
     resource: "https://doi.org/10.48550/arXiv.2403.15028"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both student pairs used their material and cognitive computational literacy to parse example simulations and select investigation questions, balancing course goals with personal interests in a process of epistemic negotiation. [→ Tor Ole B. Odden and Benjamin Zwickl 2024](#tor-ole-b-odden-and-benjamin-zwickl-2024)

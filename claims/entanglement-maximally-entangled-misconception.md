@@ -70,3 +70,4 @@ Advanced-level 2014 post-test question 1 with three states; five students' writt
 - [Some introductory students incorrectly state that particles in a product state must have definite spin values rather than being in a superposition of spin states](product-state-definite-spin-misconception.md) — related
 - [The game's entanglement part lets students encounter non-local correlations impossible in a classical system](entangle-game-nonlocal-correlations.md) — related
 - [Students commonly confuse superposition with entanglement, overgeneralizing that any multi-qubit superposition state is entangled, and the tutorial improves performance on this distinction](superposition-entanglement-confusion.md) — related
+- [The article identifies seven quantum threshold concepts as conceptual gateways requiring targeted instructional strategies](quantum-threshold-concepts-set.md) — related

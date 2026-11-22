@@ -47,6 +47,7 @@ The article specifies a 50-minute implementation: 5-minute prediction-first warm
 - [Lesson Plans](lesson_plans.md)
 - [Standard Inverted Classroom](standard_inverted_classroom.md)
 - [Flipped Learning](flipped-learning.md)
+- [Three deployment modes for a single-meeting quantum module: full, compressed, and flipped](three-deployment-modes-quantum-module.md)
 
 ## Examples
 -

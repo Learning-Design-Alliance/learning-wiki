@@ -48,3 +48,4 @@ In the same seven-participant interview study, a participant said tackling unfam
 - [Participants reported mixed alignment between graduate core courses and their research goals, with some describing clear misalignment and others positive course experiences](core-course-research-misalignment-mixed.md) — related
 - [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite
 - [Physics graduate students define thinking like a physicist as concept-first reasoning in which concepts are considered before applying mathematics](graduate-students-define-ltp-concept-first.md) — related
+- [All five students described at least one graduate course in which they felt minimal learning occurred](minimal-learning-courses-reported.md) — related

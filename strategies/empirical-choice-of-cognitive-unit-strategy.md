@@ -46,6 +46,7 @@ The article recommends treating the choice between individual and group/unit-of-
 ## Related Strategies
 
 - [When test dimensionality is unclear, compare several candidate calibration models to empirically justify the chosen composite scoring model](compare-candidate-models-when-dimensionality-unclear.md)
+- [Intentionally design resource-equivalent questions in future conceptual surveys and map response choices to cognitive resources](design-resource-equivalent-questions-strategy.md)
 
 ## Examples
 -

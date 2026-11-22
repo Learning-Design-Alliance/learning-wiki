@@ -29,6 +29,7 @@ The article proposes "another lens to psychometrics: grading validity," extendin
 ## Related Research Methods
 
 - [Validity, reliability, and fairness of AI outputs as a practical evaluation framework grounded in educational measurement](validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground.md)
+- [Clustering-validity criterion](clustering-validity-criterion.md)
 
 ## Key Sources
 - Gerd Kortemeyer and Julian Nöhl. (2024). Assessing Confidence in AI-Assisted Grading of Physics Exams through Psychometrics: An Exploratory Study. https://arxiv.org/abs/2410.19409

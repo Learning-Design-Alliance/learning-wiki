@@ -55,3 +55,4 @@ Mixed ANOVA in the main study (N=100, between-subjects complexity sequence) comp
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](icl-ratings-track-complexity-sequence.md) — related
 - [Delayed ratings of affective variables (interest and motivation) do not differ from the average of immediate ratings, unlike cognitive load ratings](affective-ratings-immune-to-delayed-versus-immediate-difference.md) — related
 - [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](ecl-ratings-follow-complexity-sequence.md) — related
+- [Stepwise guidance in high-cognitive-load code requests was followed by greater confusion decrease than its absence](stepwise-guidance-confusion-decrease-high-load-code-requests.md) — related

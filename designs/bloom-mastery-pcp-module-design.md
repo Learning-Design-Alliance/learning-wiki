@@ -41,7 +41,9 @@ A six-module instructional sequence organized by the Revised Bloom's taxonomy (R
 - [Fa Retakes Improve Pcp Module Scores](../claims/fa-retakes-improve-pcp-module-scores.md) [+M]
 
 ## Related Designs
+
 - Btpl Open Pcp Literacy Test
+- [Six laboratory modules totalling 32 units and 64 contact hours, classified by cognitive demand via the revised Bloom taxonomy](six-module-bloom-classified-lab-sequence.md)
 
 ## Examples
 -

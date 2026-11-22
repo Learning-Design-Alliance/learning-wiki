@@ -89,3 +89,5 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [Learners with higher prior programming competency benefit more from AI code generators on retention](prior-competency-moderates-codex-benefit.md) — a narrower finding that bears on this claim
 - [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — reports the opposite
 - [In two laboratory experiments, LLM access during learning shows no statistically significant effect on overall learning outcomes in Python coding](llm-access-no-significant-effect-lab-learning.md) — related
+- [Harder practice questions disproportionately benefit students with prior Python skill but do not help beginners (pilot study)](difficulty-interaction-prior-python-pilot.md) — related
+- [Personalized sequencing gains are larger for beginners and for students in lower-tier schools](sequencing-gains-larger-for-beginners-and-lower-tier-schools.md) — related

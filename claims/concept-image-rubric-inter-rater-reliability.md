@@ -79,3 +79,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
 - [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related
 - [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related
+- [Blind human validation establishes near-perfect inter-rater reliability and 98–99% accuracy of the grounded competency extraction](grounded-extraction-blind-validation-accuracy.md) — related

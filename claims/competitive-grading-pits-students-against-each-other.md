@@ -60,3 +60,4 @@ Theoretical argument in this essay, not an empirical test: the author contends c
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have occurred unless each student learned, per the author's Dewey-inspired argument](rank-ordering-irrelevant-to-teaching.md) — related
 - [Medical students graded under criterion-referenced honors/pass/fail grading scored higher on the Basic Medical Science Examination than students graded under norm-referenced A–F grading](honors-pass-fail-higher-basic-medical-science-exam-scores.md) — related
+- [The article argues that timed rank competition should be deferred, not eliminated, in introductory competitive programming courses](defer-competition-introductory-cp.md) — related

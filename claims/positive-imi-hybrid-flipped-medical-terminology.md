@@ -53,3 +53,4 @@ One-sample t-tests on IMI subscales from 149 valid student responses in a hybrid
 - [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related
 - [Students in an immersive flipped online course reported high engagement, with all 25 survey items rated significantly above the scale midpoint](immersive-flipped-course-high-engagement-survey.md) — related
 - [Post-program perceptions of the SIREN program were significantly higher than the neutral midpoint across all 15 post-only survey items](siren-post-survey-endorsement-above-midpoint.md) — a narrower finding that bears on this claim
+- [Post-engagement problem-solving self-confidence clustered above the scale midpoint, with no responses below 5](pair-post-engagement-confidence-above-midpoint.md) — related

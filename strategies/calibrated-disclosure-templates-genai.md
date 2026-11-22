@@ -41,6 +41,7 @@ The article proposes a three-tier disclosure model: no disclosure for embedded l
 
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
+- [Design GenAI support in assessed laboratory courses with explicit boundaries, verification routines and assessment requirements that preserve epistemic responsibility](genai-lab-design-boundaries-verification.md)
 
 ## Examples
 -

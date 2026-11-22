@@ -51,6 +51,8 @@ The article recommends concrete levers: staged submissions (proposal, outline, a
 - [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
 - [Establish and use rubrics for lab notebooks, oral talks, written papers, and final projects](rubrics-for-lab-reports-talks-and-projects.md)
 - [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](process-tracing-ai-dialogue-assessment-strategy.md)
+- [Design GenAI support in assessed laboratory courses with explicit boundaries, verification routines and assessment requirements that preserve epistemic responsibility](genai-lab-design-boundaries-verification.md)
+- [Trajectory-oriented assessment using prompt histories as process evidence](prompt-trajectory-assessment-rubric.md)
 
 ## Examples
 -

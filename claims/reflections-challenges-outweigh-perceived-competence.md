@@ -47,3 +47,4 @@ Qualitative analysis of Theme 4 text segments: reflections showed a “predomina
 ## Related Claims
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [Students rated opportunities and personal growth as significantly outweighing the challenges of the VGC project, with a medium effect](vgc-opportunities-outweigh-challenges.md) — related

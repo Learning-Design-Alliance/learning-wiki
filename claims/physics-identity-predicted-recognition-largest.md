@@ -89,3 +89,5 @@ Path analysis within the SEM of survey data from 1203 students, estimated with D
 - [Mentorship, leadership, and career conceptualization supported competence and recognition but showed no direct connections to interest or performance in this preliminary data](no-direct-connections-interest-performance.md) — related
 - [Perceived recognition has the largest direct effect on students' physics identity (b = 0.59), which is also directly influenced by self-efficacy and interest](recognition-largest-predictor-physics-identity.md) — related
 - [Changes in perceived recognition fully mediate the relationship between course grade and changes in physics identity, with no remaining direct grade effect](perceived-recognition-mediation-grades-identity.md) — related
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related
+- [Public recognition of STEM accomplishments without personal interest in STEM may not meaningfully nurture STEM identity](recognition-without-interest-insufficient-for-stem-identity.md) — related

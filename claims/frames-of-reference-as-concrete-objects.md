@@ -48,3 +48,4 @@ The review reports, citing Panse et al., a diagnostic forced-option test adminis
 - [Students associate the time of an event with the time at which an observer receives a light signal from the event](event-time-signal-reception-conception.md) — related
 - [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related
 - [Students at all educational levels experience learning difficulties with frames of reference, the postulates of SRT, and relativistic effects](srt-learning-difficulties-all-levels.md) — a broader claim this one bears on
+- [Whole-class discussion traced students' simultaneity difficulty to a tacit agreement assumption, leading to official revision that time and position of an event depend on reference frame](simultaneity-agreement-revision.md) — related

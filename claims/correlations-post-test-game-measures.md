@@ -54,3 +54,4 @@ Pearson correlation analysis (Table 2) among the study measures; post-test corre
 - [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — possibly the same claim (merge candidate)
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Time spent on the pre/post assessment correlated positively with most QR rubric scores, suggesting motivation contributes to scores](time-on-task-correlates-qr-scores.md) — related
+- [Gain in answering efficiency correlated positively but statistically non-significantly (0.32) with time spent on-screen and on-task](q1-time-efficiency-gain-correlation-0-32-nonsignificant.md) — related

@@ -77,3 +77,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related
 - [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related
 - [Attentive-group participants reported higher motivation than non-attentive participants on the MSLQ subscales of intrinsic goal orientation, self-efficacy, and task value](attentive-group-higher-motivation-mslq.md) — related
+- [MSLQ motivation data show modest intrinsic value, higher extrinsic motivation, low interest in physics for its own sake, and high emphasis on grade importance](mslq-motivation-profile-nmsu-physics-students.md) — related

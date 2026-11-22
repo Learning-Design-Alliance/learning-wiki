@@ -27,7 +27,8 @@ Latent profile analysis is a statistical method the article describes as using "
 - [A two-profile latent profile solution separates physics active learning observations into interactive lecture-like and other](../claims/lpa-two-profiles-lecture-like-versus-other.md) [+M]
 
 ## Related Research Methods
--
+
+- [Learning Contribution Framework (Learning Contribution Curve and Learning Contribution Profile)](learning-contribution-framework-learning-contribution-curve-and-learning-contribution-prof.md)
 
 ## Key Sources
 - Kelley Commeford, Eric Brewe, and Adrienne Traxler. (2021). Characterizing active learning environments in physics using latent profile analysis. https://arxiv.org/abs/2105.02897

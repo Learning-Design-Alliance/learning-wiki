@@ -26,7 +26,8 @@ A 20-item binary observational assessment instrument developed by Mai AM et al. 
 - [Checklist items on identity verification, small talk, illness life impact, and reviewing visit steps showed the highest percentage of incorrect responses](../claims/communication-items-most-often-incorrect-checklist.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Sexual Counseling Skills Evaluation Form](sexual-counseling-skills-evaluation-form.md)
 
 ## Key Sources
 - Mai AM, Molina RL, Aguayo-Mazzucato C, Diaz AA, Canenguez K, Cheung HC, Graupera NR, Martel B, Bonilla S. (2025). A Standardized Clinical Case-Based Assessment for Evaluating Medical Students' Oral Spanish Communication Skills. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11518

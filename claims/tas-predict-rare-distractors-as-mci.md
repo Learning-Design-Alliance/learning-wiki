@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-22
 sources:
   - id: nafis-i-karim-2018
     resource: "https://doi.org/10.1103/PhysRevPhysEducRes.14.010117"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On CSEM Q2, roughly half the TAs expected choice D to be the MCI, but that choice was selected by only 11% of students. [→ Nafis I. Karim 2018](#nafis-i-karim-2018)
@@ -54,3 +55,4 @@ Quantitative CSEM-related PCK task with TAs in the professional development cour
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — a broader claim this one bears on
 - [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — related
 - [High co-construction items had a mix of incorrect answers with no dominant distractor and included complex multistep questions](qm-high-co-construction-item-features.md) — related
+- [On the impulse-momentum question Q18, a major disconnect existed between TAs and students: over half of TAs selected options chosen by a combined 15% of students, and only 6% identified the most common student conception (momentum is a scalar)](ta-student-disconnect-momentum-scalar-q18.md) — related

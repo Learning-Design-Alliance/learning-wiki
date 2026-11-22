@@ -54,3 +54,4 @@ Tolerability assessment using the Virtual Reality Sickness Questionnaire (oculom
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [The zone 0 interactive-video intervention was feasible and highly acceptable, with no adverse events or technical issues](zone0-iv-feasibility-acceptability.md) — related
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

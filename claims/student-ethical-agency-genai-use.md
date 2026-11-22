@@ -105,3 +105,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Adult learners view building an ethical learner-AI relationship, with baked-in AI ethics norms, as important for socio-emotional interaction](ethical-learner-ai-relationship-socio-emotional.md) — related
 - [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
 - [AI use interacts with self-efficacy in a self-reinforcing dependency cycle, and produces AI guilt and AI entitlement reflecting normative tension around effort and authorship](ai-emotional-harms-self-efficacy-guilt.md) — related
+- [The authors hypothesize that artifact-level GenAI guidance will increase students' sense of agency and engagement with their own learning](artifact-level-guidance-student-agency-hypothesis.md) — related

@@ -99,6 +99,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Use experiential learning cycles to structure continuing health education for chronic disease management](../strategies/experiential-learning-cycle-continuing-health-education.md)
 - [Integrate Peyton's structured four-step approach into CPR training programs, particularly for critical procedural skills, and consider combining it with Kolb's experiential cycle](../strategies/integrate-peyton-structured-approach-in-cpr-training.md)
 - [Design online course structure and flow around the experiential learning cycle rather than one-off lecturing](../strategies/online-experiential-learning-cycle-design.md)
+- [The P-A.I.R. framework: a four-step structured AI-use cycle of identify, explain, replicate, and reflect](../designs/pair-framework-identify-explain-replicate-reflect.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

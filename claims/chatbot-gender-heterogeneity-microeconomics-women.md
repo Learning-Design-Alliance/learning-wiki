@@ -61,3 +61,4 @@ Subgroup ITT analysis in the Microeconomics RCT (915 randomized students) with f
 - [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — related
 - [Women participated in the case-study course more than men regardless of allocation group](women-participate-more-than-men-case-study.md) — related
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related
+- [Personalized sequencing leads students to use the tutor chatbot more productively](sequencing-increases-productive-chat-quality.md) — related

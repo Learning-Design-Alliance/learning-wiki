@@ -54,6 +54,7 @@ The report recommends mobility schemes in which experts from industry, private c
 - [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
 - [Integrate PhD and industry guest-speaker sessions to connect students with the global quantum ecosystem](phd-industry-guest-speaker-sessions.md)
 - [Support curriculum-industry links with invited industry speakers and extracurricular technology activities](industry-speakers-extracurricular-tech-activities.md)
+- [Support quantum career preparation by connecting coursework to experiential learning opportunities and professional networks](experiential-learning-quantum-career-preparation-strategy.md)
 
 ## Examples
 -

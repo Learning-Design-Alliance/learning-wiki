@@ -48,6 +48,7 @@ The authors report that W&B adoption initially met with student reluctance but b
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
+- [Adoption can begin with one class meeting: tiered classroom-use patterns from prediction demo to independent project](gravitas-tiered-classroom-adoption.md)
 
 ## Examples
 -

@@ -76,3 +76,5 @@ Initial validation of the Student Uptake metric in Section 3.3: two human raters
 - [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
 - [LLM quality metrics do not predict human learning outcomes from explanations](llm-quality-metrics-do-not-predict-human-learning.md) — related
+- [Personalized sequencing leads students to use the tutor chatbot more productively](sequencing-increases-productive-chat-quality.md) — related
+- [SHERPA training transfers to the external MathTutorBench benchmark, raising the pedagogy average from 52.5% to 79.2% and beating PedagogicalRL on all four response-generation metrics](sherpa-transfers-mathtutorbench-pedagogy.md) — related

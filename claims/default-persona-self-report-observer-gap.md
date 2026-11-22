@@ -52,3 +52,4 @@ Experiment I education scenario with default personas receiving only the minimal
 - [LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations](llm-persona-self-report-stable-within-conversation.md) — related
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) — related
+- [A single worked example in a prompt acts as an instruction and spreads its content into unrelated conversations](prompt-examples-act-as-instructions.md) — related

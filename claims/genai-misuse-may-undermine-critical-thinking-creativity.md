@@ -58,3 +58,4 @@ A caution stated by the author in the abstract and conclusion of this perspectiv
 - [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related
 - [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related
 - [The authors interpret the traditional six-step approach as unable to nurture creative thinking, in contrast to the experimental model](traditional-approach-limits-creative-thinking.md) — related
+- [The article classifies unmediated GenAI's pedagogical risks in physics education as two illusions and two erosions](genai-illusions-erosions-physics-education.md) — a narrower finding that bears on this claim

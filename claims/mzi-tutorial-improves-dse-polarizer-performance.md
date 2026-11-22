@@ -56,3 +56,4 @@ Same-student (MZI→DSE cohort) comparison of MZI pretest polarizer questions be
 - [On DSE transfer question 5, 82% of students using WPI reasoning answered correctly, and a minority explicitly mentioned the term learned in the MZI context or drew the parallel](quantum-eraser-dse-transfer-correct.md) — related
 - [The authors hypothesize the observed transfer is partly due to advanced students' developed abstract reasoning skills enabling recognition of the isomorphism between contexts](advanced-students-abstract-reasoning-enables-transfer.md) — related
 - [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related
+- [The module improved high-prior-knowledge learners' efficiency (SCORE/TIME) in answering questions correctly from pre-test to post-test](score-time-efficiency-improved-pre-to-post.md) — related

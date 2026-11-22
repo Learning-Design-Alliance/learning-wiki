@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (128 show a difference, 37 mixed, 15 no difference) · 100 studies (48 associational, 32 causal, 11 review, 3 qualitative, 3 design, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 26 of 100 report an effect size · 177 claims rest on one study
+> **Evidence** · 181 claims (129 show a difference, 37 mixed, 15 no difference) · 101 studies (49 associational, 32 causal, 11 review, 3 qualitative, 3 design, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 27 of 101 report an effect size · 178 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -215,6 +215,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](../claims/astrobites-reading-main-takeaways-largest-gain.md) [+M] — measured as an outcome of the instruction studied
 - [CS novices' self-confidence in LLM-based learning initially misaligns with actual prompting skill, and the intervention corrects and increases perceived ability](../claims/llm-confidence-misalignment-corrected-by-intervention.md) [+M] — measured as an outcome of the instruction studied
 - [Learner self-concept scores evolve realistically, with the persona-free General Learner developing steadily rising, potentially overly optimistic self-efficacy](../claims/learneragent-self-concept-evolution.md) [+W] — measured as an outcome of the instruction studied
+- [Physics Olympiad participants differ most strongly from non-participants (|d| ≥ 1.0) in STEM-related skills, physics-specific motivational-affective variables, and physics and mathematics self-concept](../claims/descriptive-group-differences-olympiad-participants.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

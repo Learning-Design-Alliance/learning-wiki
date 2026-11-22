@@ -196,6 +196,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Use didactic challenge questions that demand explanation rather than regurgitation of theory or equations](../strategies/didactic-challenge-explanation-questions.md)
 - [Use AI tutor prompts that push students to generate their own answers rather than receive solutions](../strategies/ai-tutor-generate-answers-strategy.md)
 - [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](../strategies/compare-llm-explanations-critical-thinking.md)
+- [Structure device activities in prediction, observation and explanation stages with comparison-focused tasks](../strategies/poe-comparison-sequence-3d-printed-devices.md)
 
 ### Illustrative
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 recheck_by: 2029
 sources:
   - id: muntasir-hoq-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the human evaluation of feedback matching, 63% of errors received correctly matched feedback, 23% incorrect feedback, and 14% no feedback; adding a GPT-4o judge verification step reduced incorrect feedback from 23% to 1.2%. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)

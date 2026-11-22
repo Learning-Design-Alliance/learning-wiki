@@ -65,3 +65,4 @@ Theoretical analysis in Section 4.3.1 of this conceptual paper. The article reas
 - [AI in education should enhance rather than replace human decision-making to preserve educator and student autonomy](ai-should-enhance-not-replace-human-decision-making.md) — a broader claim this one bears on
 - [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related
 - [Retrieval-augmented generation grounding achieves near-perfect correctness compared to untuned LLM baseline](rag-grounding-near-perfect-correctness.md) — related
+- [A RAG-augmented LLM translation pipeline raised pre-human-review translation accuracy from approximately 80% to over 95%](rag-llm-translation-accuracy-above-95-percent.md) — related

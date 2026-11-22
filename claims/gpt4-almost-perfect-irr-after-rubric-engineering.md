@@ -74,3 +74,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [Prompt refinement significantly improves GPT-3.5 agreement with human rater 1 but not, statistically, with rater 2](scaffolded-cot-significance-by-rater.md) — a broader claim this one bears on
 - [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) — reports the opposite
 - [An LLM grader using a four-level explanation-quality rubric achieved substantial agreement with human consensus scores (quadratic-weighted κ=0.78).](llm-grader-substantial-agreement-human-consensus.md) — related
+- [The GPT-4o mini event classifier agrees with domain experts at almost-perfect pairwise levels (κ = 0.841–0.855), reducing multi-rater Fleiss κ only marginally (0.682 to 0.624)](llm-event-classifier-expert-agreement.md) — related

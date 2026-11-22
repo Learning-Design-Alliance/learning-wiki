@@ -48,6 +48,7 @@ Before starting team activities, the article recommends adding activities that b
 - [Building Trusting Relationships](building_trusting_relationships.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)
+- [Use a cultural icebreaker with quantitative self-descriptions at the start of a virtual global collaboration](cultural-data-points-icebreaker-strategy.md)
 
 ## Examples
 -

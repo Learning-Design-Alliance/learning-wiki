@@ -54,3 +54,4 @@ Blinded marking of AI-generated SQL submissions in the pilot quasi-experiment, w
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related
 - [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related
 - [Participants who used ChatGPT V4 consistently reported higher post-session ratings than those who used V3.5 across enjoyment, comfort, clarity, quality, and classroom-integration preferences.](gpt4-users-rate-experience-higher-than-gpt35.md) — related
+- [AI-supported SQL questions averaged 11.50/18 versus 6.55/18 for database design, with the most conceptually demanding items most discriminating](ai-coursework-marks-spread-not-ceiling.md) — related

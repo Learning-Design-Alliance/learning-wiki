@@ -31,7 +31,8 @@ A simulated Python tutoring environment developed by Oluseyi Olukolaa for testin
 - [The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45](../claims/rhsi-ordering-parameter-robustness.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [AI-Tutor](ai-tutor.md)
 
 ## Key Sources
 - Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237

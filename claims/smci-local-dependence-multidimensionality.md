@@ -50,3 +50,4 @@ Rasch rating scale model analysis of field test data (n=353) examined residual c
 - [CCFA results support unidimensional fit for most SMCI scales, with Effort Expectancy and Social Media Experience showing poor RMSEA fit](smci-ccfa-model-fit.md) — related
 - [Pilot testing removed or revised 16 SMCI items due to low discrimination, high interitem correlations, or participant feedback](smci-pilot-item-reduction.md) — related
 - [Field-tested SMCI scales show acceptable reliability for most scales, with Facilitating Conditions and Social Influence below the .70 alpha cutoff](smci-reliability-field-test.md) — related
+- [Rasch local independence largely holds for QCCS v2.2, with two item pairs showing adjusted Q3 statistics above 0.2 in absolute value, both judged acceptable](qccs-rasch-local-independence-q3.md) — related

@@ -70,3 +70,4 @@ Descriptive log statistics from the same study: "participants submitted 1.33 ± 
 - [Natural language teaching takes significantly longer per input and yields significantly fewer teaching attempts and fewer features taught than sentence-selection](nl-teaching-slower-fewer-attempts.md) — related
 - [Conversation-log analysis found the system hosted coherent EMT-based dialogues but was lenient toward partial explanations and sometimes repeated requests](conversation-analysis-coherent-but-lenient.md) — related
 - [In Evaluation 2, Ruffle&Riley showed no significant learning gains over reading despite requiring much more learning time](rr-eval2-no-gain-advantage-over-reading.md) — related
+- [Students took up the assigned voice-based AI preparation readily, with 92.2% to 98.9% submitting at least one conversation per assigned session](caisey-high-uptake-assigned-sessions.md) — related

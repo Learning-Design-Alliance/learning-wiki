@@ -48,3 +48,4 @@ In-depth interviews and WhatsApp discussions with 15 Heads of Departments workin
 ## Related Claims
 - [Zimbabwean universities faced trenchant institutional needs for online teaching — untrained personnel, poor digital infrastructure and cyber security — mostly emanating from inadequate funding](zimbabwe-universities-institutional-needs-online-teaching.md) — related
 - [Teachers at all five schools perceived the developed technology as common and indispensable, with no differences between school types](technology-perceived-common-indispensable-all-schools.md) — related
+- [Physicists surveyed regard sensemaking strategies as indispensable and report their courses could devote more time to them](physicists-regard-sensemaking-strategies-indispensable.md) — related

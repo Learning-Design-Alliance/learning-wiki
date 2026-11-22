@@ -57,3 +57,4 @@ Reflective demonstration: the authors, role-playing a naive student, prompted Cl
 - [Most student essays remained at a descriptive reflection level despite repeated AI feedback](essays-remain-descriptive-despite-ai-feedback.md) — related
 - [The EFL group with the lowest initial target-language proficiency (Group 4) made the largest SOLO improvement without explicit literacy instruction](group4-lowest-proficiency-largest-gains.md) — related
 - [Requiring ChatGPT use in a take-home exam showed no noticeable overlap in answers across 13 groups given the same questions](ai-integrated-exam-no-overlap-across-groups.md) — related
+- [Generic textbook-like questions were often too easy for contemporary GenAI systems, triggering AI-aware revision](generic-questions-too-easy-for-genai.md) — related

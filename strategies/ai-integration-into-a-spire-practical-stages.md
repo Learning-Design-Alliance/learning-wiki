@@ -49,6 +49,7 @@ The authors propose that future iterations of the A-SPIRE model could incorporat
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 - [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
+- [Adapting a sanitized development episode into an evaluative exercise on AI-proposed changes](ai-co-creation-episode-as-teaching-exercise.md)
 
 ## Examples
 -

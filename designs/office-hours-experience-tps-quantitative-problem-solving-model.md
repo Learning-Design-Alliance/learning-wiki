@@ -44,7 +44,9 @@ The reformed section recast lecture time as an "office hours experience" for the
 - [Reformed Section Outperformed Traditional On Common Exam Items](../claims/reformed-section-outperformed-traditional-on-common-exam-items.md) [+M]
 
 ## Related Designs
+
 - Peer Instruction
+- [Three-part class meeting: compact exposition, think-pair-share analysis, paired whole-problem solving](three-part-cp-class-meeting.md)
 
 ## Examples
 -

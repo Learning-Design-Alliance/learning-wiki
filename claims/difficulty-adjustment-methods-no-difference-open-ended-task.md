@@ -69,3 +69,4 @@ Same between-condition analysis for the subjective measures: flow via ANOVA and 
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](adaptation-balances-outcome-variance-across-learners.md) — related
 - [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](difficulty-determines-task-performance-boredom-highest.md) — related
 - [Difficulty adjustment method shows no statistically testable influence on practice behavior; only a descriptive trend links Self-det to the board-clearers cluster](difficulty-method-practice-behavior-no-testable-link.md) — related
+- [Satisfaction in learning and self-confidence in learning did not differ significantly between the three simulation groups (p > 0.05)](no-group-difference-in-satisfaction-and-self-confidence.md) — related

@@ -42,7 +42,8 @@ The authors recommend using dense longitudinal MRI datasets to estimate the base
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](../claims/daily-physiological-changes-influence-brain-measures.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use repeated measurements by two students to surface disagreements about measurement rules](paired-repeated-measurements-surface-disagreement.md)
 
 ## Examples
 -

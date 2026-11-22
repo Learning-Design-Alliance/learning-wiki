@@ -48,6 +48,7 @@ The course's virtual dissection teaching followed a fixed hands-on structure: "t
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
 - [Pair large-group RAT with small-group Anatomage laboratory sessions to create a tiered blended learning model](tiered-blended-rat-plus-small-group-anatomage.md)
 - [Deploy the Anatomage Table through an online platform to sustain anatomy and surgical training during emergencies](anatomage-online-platform-pandemic-training-strategy.md)
+- [Six-session teaching sequence for translation technology education](six-session-loopcat-teaching-sequence.md)
 
 ## Examples
 -

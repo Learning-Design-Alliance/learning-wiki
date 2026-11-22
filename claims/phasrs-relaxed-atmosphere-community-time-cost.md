@@ -69,3 +69,4 @@ From the same interview set: students in the fall felt the time crunch more acut
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related
 - [A pilot program in Ecuador, South Africa, and the United States had students build low-cost multispectral cameras and gain a broad set of physics and engineering skills](pimics-pilot-skills-building.md) — related
+- [Astrophysics graduate students described a welcoming atmosphere with strong social connections and a non-competitive community](astrophysics-program-welcoming-strong-social-connections.md) — related

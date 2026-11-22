@@ -44,6 +44,7 @@ A simplified BB84 quantum key distribution implementation for pre-university stu
 ## Related Designs
 
 - [AR-enhanced BB84 quantum cryptography experiment with real-time polarization visualizations on HoloLens 2](ar-bb84-quantum-cryptography-experiment.md)
+- [Manual QKD analogy kit with 3D-printed components and classical-light polarization analogy](manual-qkd-analogy-kit-3d-printed.md)
 
 ## Examples
 -

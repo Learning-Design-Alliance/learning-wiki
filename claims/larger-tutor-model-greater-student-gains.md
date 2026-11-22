@@ -49,3 +49,4 @@ Boxplot comparison (Appendix Figure A) of median student gains for the two tutor
 - [Hint language substantially impacts student gains, with English hints generally most effective from larger tutors but native-language hints competitive in specific cases](hint-language-impacts-student-gains.md) — related
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — reports the opposite
 - [LLM grading performance generally correlates with parameter count, and 4-bit quantization has negligible effect on grading performance](llm-grading-performance-scales-with-parameters.md) — a broader claim this one bears on
+- [Models struggle more in pedagogically demanding low-proficiency and low-resource contexts, with smaller models varying more across contexts](l2-bench-context-performance-low-resource.md) — related

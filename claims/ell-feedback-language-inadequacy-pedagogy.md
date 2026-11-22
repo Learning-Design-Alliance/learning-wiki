@@ -53,3 +53,4 @@ Lexical comparison of feedback generated with ELL-designated prompts versus base
 - [Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback](prompted-attributes-increase-marked-pedagogy-concentration.md) — related
 - [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](rubrics-liberate-from-grammar-not-authority.md) — related
 - [Explicit prompt-level anti-bias instructions fail to prevent style-based grading bias in LLMs](prompt-instructions-fail-to-debias-llm-grading.md) — related
+- [In a preliminary test, LLM generation of context-rich problems with changed thematic focus was unsatisfactory, replacing surface cover stories rather than redesigning scenarios](llm-context-rich-problem-generation-unsatisfactory.md) — related

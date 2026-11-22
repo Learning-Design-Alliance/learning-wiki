@@ -45,6 +45,7 @@ The article prescribes a recurring classroom sequence: a tightly focused interac
 
 - Backward Design Alignment For Lecture Tutorials
 - [TTPS lesson sequence: homework check, introductory task, individual then collaborative problem work, whole-class discussion, and closure](ttps-lesson-sequence-pattern.md)
+- [Three-part class meeting: compact exposition, think-pair-share analysis, paired whole-problem solving](three-part-cp-class-meeting.md)
 
 ## Examples
 -

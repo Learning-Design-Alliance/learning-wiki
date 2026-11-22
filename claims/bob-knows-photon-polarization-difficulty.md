@@ -50,3 +50,4 @@ Interview-based difficulty identified during QuILT development. These students i
 - [Many students incorrectly believe all entangled states are maximally entangled, showing perfect correlations or anticorrelations along all common measurement axes, and this persists after revised-simulation use](entanglement-maximally-entangled-misconception.md) — related
 - [Students struggling on the detector-clicks question dropped from 37% on the pretest to 6% on the posttest](qkd-quilt-q2-detector-clicks-error-reduction.md) — related
 - [Common student missteps cluster around protocol obfuscation, check-bit sampling, and parameter tuning](qkd-project-common-missteps.md) — related
+- [After lecture-based instruction, students struggled with how eavesdropper detection works in entanglement-based QKD, and with conditional probability reasoning about correlated measurement outcomes](student-difficulties-qkd-eavesdropper-conditional-probability.md) — related

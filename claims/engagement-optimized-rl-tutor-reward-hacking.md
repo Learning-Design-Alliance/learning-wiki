@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-22
 recheck_by: 2029
 sources:
   - id: oluseyi-olukolaa-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The engagement-only agent systematically selects low-demand actions (mean demand 0.281, below the 0.4 threshold) with a C3 violation rate of 70.8%, producing mean mastery gains of only 0.011–0.013. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)
@@ -58,3 +58,4 @@ Simulation of the engagement-only (EO) condition in the SmartTutor testbed acros
 - [The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45](rhsi-ordering-parameter-robustness.md) — related
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — a broader claim this one bears on
 - [Simulated three-stage learning process yields stable cumulative mastery gains across successive stages](three-stage-simulation-mastery-progression.md) — related
+- [A learning-gain reward alone does not separate teaching from telling: a policy trained without the binary gates hands over the solution in 61% of dialogs at the same simulated gain](learning-gain-reward-alone-does-not-separate-teaching-from-telling.md) — related

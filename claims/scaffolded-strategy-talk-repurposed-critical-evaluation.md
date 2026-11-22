@@ -51,3 +51,4 @@ ENA comparison of Week 2 and Week 3 group chat discourse networks shows the scaf
 - [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — a broader claim this one bears on
 - [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related
 - [Positive GenAI personalization outcomes commonly co-occur with artifact grounding, quality assurance loops, graduated scaffolding, and AI literacy integration](implementation-conditions-positive-outcomes.md) — a broader claim this one bears on
+- [Epistemic prompting differs from prompt engineering in evaluative orientation: epistemic adequacy versus output quality](epistemic-prompting-vs-prompt-engineering-distinction.md) — related

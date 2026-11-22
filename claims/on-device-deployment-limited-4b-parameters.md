@@ -53,3 +53,4 @@ Benchmark analysis using AI Phone Leaderboard data (Figs. 3-4) shows "peak memor
 - [Hallucination rate increases under 4-bit quantization and is substantially mitigated by quantization-aware fine-tuning](quantization-raises-hallucination-rate-finetuning-mitigates.md) — related
 - [DeepSeek-MoE (Ours) achieves the strongest overall balance of accuracy among tested configurations, reaching 78.6% overall and 81.2% multi-hop reasoning accuracy on a 300-query OER evaluation set](deepseek-moe-ours-strongest-accuracy-balance.md) — related
 - [Quantization-aware fine-tuning narrows the FP16-to-4-bit accuracy gap and partially recovers accuracy lost to standard 4-bit quantization](quantization-aware-finetuning-recovers-accuracy.md) — related
+- [Qwen3.5-35B-A3B offered the best throughput and memory balance of three open-source LLMs benchmarked on consumer-grade hardware for translation](qwen-selected-optimal-throughput-memory-balance.md) — related

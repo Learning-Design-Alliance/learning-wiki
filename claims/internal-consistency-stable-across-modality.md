@@ -52,3 +52,4 @@ Descriptive reliability analysis across the May, August, and January IENCAP admi
 - [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related
 - [Rasch analysis showed no relationship between rating modality and station difficulty, undermining the May exam's modality effect](rasch-no-modality-station-difficulty-relationship.md) — related
 - [Tablet-based electronic data capture reduced OSCE preparation time, eliminated missing scores, and enabled immediate score availability](tablet-osce-administrative-efficiency-gains.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

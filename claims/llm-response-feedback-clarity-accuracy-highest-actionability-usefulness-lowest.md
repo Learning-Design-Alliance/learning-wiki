@@ -55,3 +55,4 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Alignment of LLM recommendations with individual student data showed more variability than clarity or actionability ratings](llm-recommendation-alignment-variable.md) — related
 - [Validators rated LLM-generated personalized recommendations as generally clear and actionable for most of the eight evaluated students](llm-recommendations-rated-clear-actionable.md) — related
 - [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related
+- [In a small blinded human pilot, ToST receives the strongest learner self-ratings on helpfulness, clarity, willingness to continue, and manageability](tost-human-pilot-learner-ratings.md) — related

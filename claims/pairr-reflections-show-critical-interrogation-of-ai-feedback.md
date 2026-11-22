@@ -62,3 +62,4 @@ Thematic coding of a representative sample of 131 student reflections on peer an
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
 - [A minority of students saw gen-AI as capable of creativity, with one student humanizing AI as having prior experiences](student-humanizes-gen-ai-creative.md) — related
 - [TAs found AI suggestions generally accurate and helpful for uncovering overlooked errors, understanding rubrics, and framing feedback](tas-found-ai-suggestions-accurate-and-helpful.md) — related
+- [Coaches resist AI replacing live coaching and diagnosis but welcome it as a behind-the-scenes administrative assistant, with chess a notable exception to skepticism](ai-boundaries-admin-assistant-not-live-coach.md) — related

@@ -56,3 +56,4 @@ OLS regressions related 5Essentials survey measures of school climate and organi
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
 - [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)
 - [School climate correlates positively with academic achievement in included Indian studies, with reported correlations of 0.637 and 0.55 and higher grades in strong learning climates](school-climate-academic-achievement-correlations-india.md) — related
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](family-recognition-mitigates-formal-misrecognition.md) — related

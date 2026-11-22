@@ -48,3 +48,4 @@ The article's own limitations section: the model is a conceptual synthesis of ar
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
 - [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](ai-facilitation-fragile-invents-data.md) — related
 - [The authors assert the proposed system can improve learning results significantly, without reporting any empirical evaluation](claimed-significant-learning-improvement-unevaluated.md) — related
+- [The QLP is a conceptual proposal whose effectiveness requires future empirical evaluation](qlp-requires-empirical-evaluation.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: kelley-durkin-2026
     resource: "https://doi.org/10.1119/5.0287731"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most prior quantum assessments require advanced mathematics, Dirac notation, or both, making them impractical for pre-college students. [→ Kelley Durkin 2026](#kelley-durkin-2026)

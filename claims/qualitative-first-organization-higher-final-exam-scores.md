@@ -53,3 +53,4 @@ Controlled comparison of two sections with the same instructor, textbook, homewo
 - [Ideas-first section outperformed combined control sections on final-exam problems 5-8 with higher than 99.9% confidence](treatment-beats-combined-controls-problems-5-8.md) — a narrower finding that bears on this claim
 - [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
 - [Final-exam benefit of ideas-first sequencing was concentrated above the lowest FCI pretest tertile](treatment-effect-absent-lowest-fci-tertile.md) — related
+- [Performance gains from personalized sequencing are not explained by completing more practice problems](sequencing-does-not-increase-problem-completion.md) — related

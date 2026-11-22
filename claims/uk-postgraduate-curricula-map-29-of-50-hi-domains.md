@@ -52,3 +52,4 @@ Curricular content analysis of national training curricula for 71 UK postgraduat
 - [Child & adolescent psychiatry and core surgical training curricula contain no HI keywords at all](psychiatry-surgical-curricula-contain-no-hi-keywords.md) — related
 - [Experts identified additional universal HI competencies beyond the IMIA framework, including information governance and security and secondary use of data](additional-universal-hi-competencies-identified.md) — related
 - [Three competencies missing from the IMIA framework were added iteratively from review documents: international developments, medical physics, and teaching](three-domains-added-to-imia-framework.md) — related
+- [The shared college core alone covers only about a third of demanded competency breadth, leaving applied domains nearly uncovered](shared-core-partial-demand-coverage.md) — related

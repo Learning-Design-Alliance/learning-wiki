@@ -46,3 +46,4 @@ Observational finding from the coded tutorial sessions: the pure blue, green, re
 
 ## Related Claims
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
+- [In the group pencil-and-paper tutorial, students shift into Green or Yellow frames after mistakes, with humor restoring an atmosphere of collegial equality](group-tutorial-yellow-frame-defuses-tension-after-mistakes.md) — a narrower finding that bears on this claim

@@ -54,6 +54,7 @@ Students form groups with one Alice, one Bob, qubits, and Eavesdroppers. Alice p
 - [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
 - [Frame quantum error correction as a privacy constraint: treat detection and recovery operations as eavesdroppers that must never access the encoded information](eavesdropper-framing-quantum-decoding.md)
 - [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
+- [Implement the eavesdropper as a quarter-wave plate in a mount visually identical to Alice's and Bob's to keep its presence ambiguous](ambiguous-eavesdropper-quarter-wave-plate.md)
 
 ## Examples
 -

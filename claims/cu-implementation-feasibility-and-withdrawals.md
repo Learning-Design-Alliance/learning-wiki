@@ -51,3 +51,4 @@ Process evaluation finding from surveys and interviews exploring implementation 
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
 - [Community partnerships steadily withdrew from the school after the intervention project lost support](partnership-withdrawal-after-project.md) — related
+- [Program leadership responded to shared findings by requesting follow-up meetings to discuss feasibility of prospective action items](program-leadership-collaborated-on-action-items.md) — related

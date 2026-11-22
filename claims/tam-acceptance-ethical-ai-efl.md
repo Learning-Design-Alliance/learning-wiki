@@ -51,3 +51,4 @@ TAM-framed analysis of interview and student-response data reported "High percei
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
 - [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](positive-acceptance-neutral-intention-distractibility.md) — related
+- [Most respondents intended to keep using P-A.I.R. and would recommend it to peers, and the two intentions were positively associated](pair-adoption-reuse-recommendation.md) — related

@@ -53,3 +53,4 @@ Same-corpus evaluation experiments across the four German SAG corpora show a spr
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — a broader claim this one bears on
 - [The German Transformer model's tokenization handles native-speaker morphology well but struggles with learner-language errors, possibly explaining lower CREG results](tokenizer-learner-language-creg-gap.md) — related
 - [Policy performance varies strongly across corpora and shows extremely high variance, with only Corpus 2 reliably reaching the maximum achievable return](high-variance-variable-corpus-performance.md) — a narrower finding that bears on this claim
+- [Models struggle more in pedagogically demanding low-proficiency and low-resource contexts, with smaller models varying more across contexts](l2-bench-context-performance-low-resource.md) — related

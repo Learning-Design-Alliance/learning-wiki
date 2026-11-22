@@ -83,6 +83,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 - [Use a wide range of instructional techniques—lectures, animations, readings, problem solving, discussion, and essays—over a multi-week online program](multi-technique-quantum-teacher-program-strategy.md)
 - [Deploy the module in full, partial, or flipped modes with a minute-by-minute 50-minute timing plan](superposition-module-deployment-modes.md)
+- [Three deployment modes for a single-meeting quantum module: full, compressed, and flipped](three-deployment-modes-quantum-module.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

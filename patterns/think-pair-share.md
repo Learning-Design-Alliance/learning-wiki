@@ -123,9 +123,11 @@ This pattern is scoped to a short routine embedded in a larger lesson. It is not
 - [Discussion Group](../principles/collaborative-learning.md)
 
 ## Examples
+
 - A class concept question answered silently, discussed in pairs, and then synthesized whole-group.
 - Ethics or humanities prompts that move from individual stance to pair reasoning before broader discussion.
 - Quick checks in technical or professional training before the instructor debriefs the concept.
+- [Three-part class meeting: compact exposition, think-pair-share analysis, paired whole-problem solving](../designs/three-part-cp-class-meeting.md)
 
 ## Key Sources
 - Lyman, F. (1981). The responsive classroom discussion: The inclusion of all students. In A. Anderson (Ed.), *Mainstreaming digest* (pp. 109-113). University of Maryland.

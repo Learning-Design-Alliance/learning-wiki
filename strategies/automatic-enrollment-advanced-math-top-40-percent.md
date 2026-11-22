@@ -51,6 +51,7 @@ Texas SB 2124 requires districts to automatically enroll sixth grade students wh
 - [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](multiple-measures-dc-placement.md)
 - [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 - [Offer high-performing students an opt-out from repeated testing based on a routine initial profiling test](profiling-based-opt-out-from-repeated-testing.md)
+- [Pair open-enrollment advanced coursework with targeted supports and recruitment for underrepresented groups](pair-open-enrollment-with-targeted-recruitment-supports.md)
 
 ## Examples
 -

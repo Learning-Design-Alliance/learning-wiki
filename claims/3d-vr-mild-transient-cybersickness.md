@@ -65,3 +65,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
 - [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related
 - [Both VR conditions were positively viewed, moderately easy to use, and produced virtually no simulator sickness](vr-nrp-both-conditions-positive-usability.md) — related
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

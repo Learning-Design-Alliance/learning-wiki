@@ -53,3 +53,4 @@ Benchmark evaluation of 20+ VLMs on TURTLEAI-DSReal (102 real-world tasks), repo
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category](spiral-hardest-basic-geometry-easiest-categories.md) — related
 - [Fine-tuning is associated with more compact generated code, with the fine-tuned Qwen2-VL-72B maintaining a length ratio near 1.0 while the base model's failed outputs become substantially longer](fine-tuning-compact-code-length-ratio.md) — related
+- [Large model performance drops notably on hard L2-Bench tasks, with the top three models all scoring below 80% on 267 tasks](l2-bench-hard-task-performance-drop.md) — related

@@ -48,6 +48,7 @@ The article's design implications section recommends that GenAI-assisted learnin
 - [Begin implementation with the curriculum problem rather than the AI tool, specifying learning outcome, learner task, AI contribution, educator role, and required learner action](curriculum-problem-first-implementation-design.md)
 - [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 - [Design AI companions as co-learners that cannot provide immediate solutions to preserve learner cognitive activity](ai-co-learner-design-avoid-offloading.md)
+- [Configure AI teammates to preserve opportunities for human-human exchange](configure-ai-teammates-to-preserve-human-human-exchange.md)
 
 ## Examples
 -

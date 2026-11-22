@@ -48,6 +48,7 @@ The article's practical response to proxy collapse pairs weekly AI-free coding q
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 - [Oral mastery demonstrations in student pairs, with a pitch and course-assignment evidence requirement](pair-oral-demonstration-strategy.md)
+- [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 
 ## Examples
 -

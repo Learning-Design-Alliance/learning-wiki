@@ -50,3 +50,4 @@ Descriptive analysis of provide-context rates by scaffolding level overall (n = 
 - [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
 - [Instructors prefer an interactive system delivering brief 1–2 hour pedagogical prompting instruction, with both prompt selection and prompt writing](instructor-preferred-interactive-select-then-write-design.md) — related
+- [LLM response style is significantly but weakly associated with students' productive and unresolved next-turn continuation in programming dialogues](response-style-small-global-association-next-turn.md) — related

@@ -50,4 +50,4 @@ Deepening Prompt v1.0 is the prompt structure the study designed to make Socrati
 -
 
 ## Key Sources
-- Noguchi, M. (2026). Exploring Applications of Transfer-State Large Language Models: Cognitive Profiling and Socratic AI Tutoring. https://arxiv.org/abs/2604.27454
+- Noguchi, M. (2026). Exploring Applications of Transfer-State Large Language Models: Cognitive Profiling and Socratic AI Tutoring. https://arxiv.org/abs/2604.27454. [doi:10.48550/arxiv.2604.27454](https://doi.org/10.48550/arxiv.2604.27454)

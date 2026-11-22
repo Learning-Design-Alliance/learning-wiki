@@ -67,3 +67,4 @@ Table 4 of the retrospective GIS survey with 14 teachers prints for the value-of
 - [Case study: a novice out-of-field teacher's shift in perceptions within the CoP led to a first guided-inquiry exoplanet lab she intends to repeat.](dawn-case-first-guided-inquiry-exoplanet-lab.md) — a narrower finding that bears on this claim
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [A one-year PD program emphasizing IBI significantly increased middle school science teachers' overall belief about IBI from pre- to post-survey.](pd-increased-teacher-beliefs-ibi.md) — related
+- [Retrospective self-efficacy survey shows gains in instructional decision-making and higher-order thinking constructs after joining the CoP](tebs-self-efficacy-gains-after-cop-joining.md) — related

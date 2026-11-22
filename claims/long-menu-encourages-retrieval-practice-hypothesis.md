@@ -52,3 +52,4 @@ Authors' interpretation offered in the Discussion, explicitly flagged as needing
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
+- [The authors report that empirical effectiveness data for the Gudeg-based model are not yet available](gudeg-model-effectiveness-data-missing.md) — related

@@ -45,6 +45,7 @@ The brief recommends that states and districts adopt policies whereby students i
 - [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 - [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
 - [Support struggling advanced-course students with expanded learning time and intensive tutoring](expanded-learning-time-tutoring-advanced-course-support.md)
+- [Pair open-enrollment advanced coursework with targeted supports and recruitment for underrepresented groups](pair-open-enrollment-with-targeted-recruitment-supports.md)
 
 ## Examples
 -

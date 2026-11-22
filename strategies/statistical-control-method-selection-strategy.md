@@ -42,6 +42,7 @@ The article outlines implementable options for blocking back-door paths when ran
 - [Use propensity score matching with ATT estimation to reduce selection bias when comparing childcare arrangements in longitudinal administrative data](propensity-matching-childcare-arrangement-comparison.md)
 - [Use propensity-score matching to minimize selection bias when randomized control groups are unavailable](propensity-score-matching-selection-bias.md)
 - [Stratified block randomization balancing high and low scorers across teaching-intervention groups](stratified-block-randomization-high-low-scorers-strategy.md)
+- [Mitigate equity risk from propensity-based trimming by reporting subgroup trimming rates, varying cutoffs, and excluding protected variables from the treatment model](equity-mitigation-propensity-trimming.md)
 
 ## Examples
 -

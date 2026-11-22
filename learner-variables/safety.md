@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (128 show a difference, 35 mixed, 14 no difference) · 109 studies (31 associational, 23 review, 21 qualitative, 15 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 109 report an effect size · 177 claims rest on one study
+> **Evidence** · 178 claims (129 show a difference, 35 mixed, 14 no difference) · 110 studies (31 associational, 23 review, 21 qualitative, 15 causal, 9 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 110 report an effect size · 178 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -213,6 +213,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Faculty view audience response systems as making response safe, while residents question their effectiveness at engaging learners](../claims/audience-response-system-divergent-views.md) [~M] — measured as an outcome of the instruction studied
 - [SBTT improved nurse assistants' teamwork climate, safety climate and working conditions, and nurses' safety climate, but not physicians' SAQ scores](../claims/sbtt-saq-factors-profession-divergence.md) [~M] — measured as an outcome of the instruction studied
 - [Mutual sharing of vulnerability by veteran and novice teachers helps build a safe space for taking risks](../claims/mutual-vulnerability-sharing-builds-safety.md) [+W] — measured as an outcome of the instruction studied
+- [Students in the physics-agreement class described conditions of psychological safety supporting continuous, collective learning](../claims/physics-agreement-psychological-safety.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

@@ -54,6 +54,7 @@ The article recommends designing personalized training pathways that account for
 - [Implement periodic educational interventions and training programs on infection control practices for COVID-19 across all healthcare professions](periodic-infection-control-training-interventions-strategy.md)
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
 - [Tailor lecture content to the background of the local student cohort](tailor-lectures-to-local-background.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

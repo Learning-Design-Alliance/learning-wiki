@@ -43,7 +43,8 @@ The module is organized around six recurrent learner barriers drawn from physics
 - [Quantum Instruction Bottleneck Is Design Packaging Not Simulators](../claims/quantum-instruction-bottleneck-is-design-packaging-not-simulators.md) [+M]
 
 ## Related Designs
-- 
+
+- [Reversible barrier-to-assessment mapping as an instructional design framework](reversible-barrier-to-assessment-mapping.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The article identifies barriers facing underrepresented communities — income i
 - [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 - [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
+- [Partner ARISS-style contact programs with digital citizen-science platforms to overcome infrastructural barriers to STEM outreach in underrepresented regions](citizen-science-platform-partnership-stem-outreach-strategy.md)
 
 ## Examples
 -

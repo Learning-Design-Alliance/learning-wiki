@@ -70,3 +70,4 @@ Same item-level McNemar's analyses (N = 71): seven items showed no significant i
 - [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
 - [Midwives' IPV knowledge scores rose significantly across all measured domains from pre-test to post-test after the training program, in one single-group pre-post study](ipv-training-increased-knowledge.md) — related
 - [Statistically significant pre-post knowledge gains were concentrated on the questions with the most pre-course errors, while items on sensitivity and specificity remained very low (14.9% correct).](knowledge-gains-concentrated-initially-hard-items.md) — related
+- [The module improved high-prior-knowledge learners' efficiency (SCORE/TIME) in answering questions correctly from pre-test to post-test](score-time-efficiency-improved-pre-to-post.md) — related

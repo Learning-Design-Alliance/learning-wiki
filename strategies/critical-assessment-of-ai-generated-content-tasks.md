@@ -53,6 +53,7 @@ The article recommends that, as AI enters literature education, assessment shoul
 - [Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks](critical-engagement-tasks-with-ai-generated-content.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
+- [Adapting a sanitized development episode into an evaluative exercise on AI-proposed changes](ai-co-creation-episode-as-teaching-exercise.md)
 
 ## Examples
 -

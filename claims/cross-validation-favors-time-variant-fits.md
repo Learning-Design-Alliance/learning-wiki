@@ -70,3 +70,4 @@ Same cross-validated comparison at the group, by-learner, and by-practice-trial 
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](parameters-vary-systematically-with-interval.md) — related
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
 - [Operator validity rates improve most over the first 10 Fibroscans, with a 10-fold increase in scans performed significantly improving the odds of a valid LSE](fibroscan-learning-curve-first-10-scans.md) — related
+- [Cross-validation shows the best member's performance is the best predictor of team performance](cross-validation-best-score-best-predictor.md) — related

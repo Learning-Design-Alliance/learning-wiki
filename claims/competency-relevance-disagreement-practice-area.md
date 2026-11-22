@@ -73,3 +73,4 @@ Chi-square comparison of 'not relevant' ratings between patient-facing and non-p
 - [Inter-country variability in relevance weighting occurs in the pharmaceutical care and organisation-and-management clusters but not the public health or professional-personal clusters](inter-country-variability-two-gbcf-clusters.md) — related
 - [Cross-disciplinary disagreement about competence relevance led to competencies being removed or retained against one group's rating](occupational-group-disagreement-shaped-curriculum.md) — related
 - [Faculty disagreement about learners' professionalism persists even when the rationale behind students' behaviour is made explicit](disagreement-persists-explicit-rationale.md) — related
+- [Six of ten outcome attainment figures reported by the platform disagree with its own documented computation, and weighting by mark share reproduces the disagreement](attainment-computation-defect.md) — related

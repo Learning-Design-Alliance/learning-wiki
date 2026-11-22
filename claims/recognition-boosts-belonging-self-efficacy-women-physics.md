@@ -74,3 +74,4 @@ Interview-based case evidence: the authors' interpretation of Leia's account of 
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related
 - [In a retrospective case report, welding phases that placed vocational students in the expert role appeared to normalise subsequent physics-heavy phases and support self-efficacy](welding-role-reversal-self-efficacy-case.md) — related
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related

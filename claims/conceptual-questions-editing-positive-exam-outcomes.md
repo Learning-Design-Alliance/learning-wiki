@@ -46,3 +46,4 @@ Observational regression analysis of dialogue act counts from the StudyChat logs
 - [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
 - [Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores](math-conceptual-questions-negative-a6.md) — related
+- [Participation in the Public Exam revision process is positively correlated with average exam grade in an introductory physics course (slope 0.142±0.028, p=3.1×10⁻⁷)](participation-exam-grade-correlation-nmsu-physics.md) — related

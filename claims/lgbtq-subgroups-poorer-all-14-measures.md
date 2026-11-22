@@ -83,3 +83,4 @@ Descriptive CHKS tabulations of school safety measures by sexual orientation and
 - [The strength of associations between GSA experiences and wellbeing does not vary by youth's sexual orientation identity, gender identity, or race or ethnicity](gsa-experience-wellbeing-associations-do-not-vary-by-demographics.md) — related
 - [Harassment within the past year affected 23% of LGB respondents and 31–39% of transgender individuals, per a 2010 study the Guide cites](lgb-harassment-rates-2010-study.md) — related
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — a narrower finding that bears on this claim
+- [Only five of 85 reviewed studies accounted for non-binary or other gender identities](non-binary-identities-rarely-accounted-in-surveys.md) — related

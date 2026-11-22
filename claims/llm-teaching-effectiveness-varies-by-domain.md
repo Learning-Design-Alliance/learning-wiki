@@ -84,3 +84,4 @@ Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in 
 - [LLM performance on the VNHSGE is higher in language-oriented subjects than in computation-heavy subjects](llm-vnhsge-language-vs-computation-subjects.md) — related
 - [Pre-service teachers integrated ChatGPT into lesson plans spanning five science knowledge domains, with biology most frequent (9/29)](chatgpt-lesson-plans-five-science-domains.md) — related
 - [RAG mitigates knowledge gaps on topics where LLMs are weak, yielding the largest topic-level gains on Human–Computer Interaction](rag-mitigates-topic-knowledge-gaps-hci.md) — related
+- [Models struggle more in pedagogically demanding low-proficiency and low-resource contexts, with smaller models varying more across contexts](l2-bench-context-performance-low-resource.md) — related

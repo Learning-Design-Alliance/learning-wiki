@@ -29,6 +29,7 @@ Socrates is a playground-and-grader system developed by Xinming Yang et al. for 
 ## Related Products and Programmes
 
 - [VTDS](vtds.md)
+- [ToST: a Tree-of-Thought Socratic teaching framework](tost-a-tree-of-thought-socratic-teaching-framework.md)
 
 ## Key Sources
 - Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979

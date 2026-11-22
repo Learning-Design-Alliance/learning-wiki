@@ -49,3 +49,4 @@ Multiple linear regression models on post-responses for majors in years 1-4, non
 - [Self-efficacy of physics majors is predicted by perceived recognition and sense of belonging, with belonging becoming the best predictor in years 3 and 4](self-efficacy-predicted-by-belonging-recognition.md) — related
 - [Peer interaction covaries with belonging and perceived recognition and uniquely explains very little additional variance in student outcomes](peer-interaction-covaries-small-unique-variance.md) — related
 - [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](belonging-largest-predictor-post-self-efficacy.md) — related
+- [Four recognition experiences significantly predict STEM identity in a multiple linear regression model (R² = 0.1342)](recognition-experiences-predict-stem-identity.md) — a narrower finding that bears on this claim

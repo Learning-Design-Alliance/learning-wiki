@@ -155,3 +155,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Students reported positive surprises including near-instant literature synthesis, astronomy knowledge exceeding their own starting background, and ChatGPT diagnosing a code error from a scientific plot alone](llm-positive-surprises-literature-synthesis-plot-debugging.md) — related
 - [Open-ended survey feedback praised real-time stepwise feedback and reduced instructor reliance while flagging handwriting input, interface lag, and unreliable AI responses](open-ended-feedback-strengths-usability-issues.md) — related
 - [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — related
+- [Students' principal concerns about P-A.I.R. were mismatch between AI solutions and in-class methods, and AI accuracy and trust](pair-ai-alignment-accuracy-concerns.md) — related

@@ -68,3 +68,4 @@ Mediation analysis using a Sobel test (Sobel's z = 3.24, p < 0.01) and Hayes' PR
 - [Flipped-format students attempt online homework questions more often and more steadily across the weeks surrounding an exam than standard-format students](flipped-students-attempt-homework-more-often.md) — related
 - [Lower-GPA students show greater improvement than higher-GPA students in the flipped format on homework attempts, accuracy, and exam scores](lower-gpa-students-gain-more-in-flipped-format.md) — related
 - [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related
+- [Increased engagement mediates the exam performance gains from personalized problem sequencing](engagement-mediation-of-sequencing-gains.md) — related

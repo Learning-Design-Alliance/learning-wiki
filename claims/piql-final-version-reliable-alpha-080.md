@@ -102,3 +102,5 @@ Reliability measured by Cronbach's alpha across the iterative instrument version
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
 - [QCCS Item 15 v2.2, with an added 'CANNOT be written as a single-qubit ket' option, performed adequately with strong discrimination](qccs-item15-v2-2-adequate-performance.md) — a narrower finding that bears on this claim
 - [QCCS Item 15 v2.0 showed unacceptably low discrimination despite excellent difficulty, with non-monotonic performance across overall score](qccs-item15-v2-low-discrimination-non-monotonic.md) — a narrower finding that bears on this claim
+- [All QCCS v2.2 items fall within acceptable CTT ranges, with difficulties between 0.2 and 0.9 and point-biserial discriminations between 0.26 and 0.51](qccs-ctt-item-difficulty-discrimination-ranges.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

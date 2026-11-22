@@ -58,3 +58,4 @@ Randomized experimental study of 79 undergraduate dental students (41 AI, 38 con
 - [Improvement in caries detection decreased with increasing clinical experience, though pairwise stage differences were not significant](improvement-decreases-with-clinical-experience.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [Dental students' pathology diagnosis on DPRs rose from pre-test to post-test after e-learning modules in one uncontrolled pre-post study, though complex odontoma remained challenging for some](pathology-diagnosis-improvement-dpr.md) — related
+- [Learners in all three assistance conditions improved significantly from pre-test to post-test, with no detectable difference in adjusted post-test scores between conditions](equal-learning-gains-across-visual-proactive-tutoring-conditions.md) — related

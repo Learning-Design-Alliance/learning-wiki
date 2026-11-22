@@ -49,3 +49,4 @@ In-class Likert questionnaire with 20 students (50% male, 50% female); 35% had p
 - [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related
 - [Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias](malik-student-perceptions-ai-writing-percentages.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
+- [Students valued combining digital and conventional resources, with 19 of 21 strongly agreeing the combination enriched their learning experience](digital-conventional-resource-combination-valued.md) — related

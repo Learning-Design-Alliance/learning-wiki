@@ -52,3 +52,4 @@ Hierarchical linear modeling produced separate school-grade-year estimates of th
 - [Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students](proximity-homicide-lowers-student-outcomes.md) — a broader claim this one bears on
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
 - [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](family-recognition-mitigates-formal-misrecognition.md) — related

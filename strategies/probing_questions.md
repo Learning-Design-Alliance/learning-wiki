@@ -71,6 +71,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Use diverse facilitation techniques including think-aloud, semantic qualifiers, illness scripts, and case-based learning](diverse-facilitation-techniques-clinical-reasoning.md)
 - [Use the exploration strategy: have students discuss, criticize and review ideas in the material before seeking knowledge](exploration-discussion-strategy-arabic-reading.md)
 - [Facilitate student questions during Lecture-Tutorials with Socratic-style questioning, starting by having students read the question aloud verbatim](socratic-facilitation-read-question-aloud.md)
+- [Parallel Sowing: teacher-guided elicitation of partial intuitions to seed multiple solution branches](parallel-sowing-questioning-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

@@ -51,3 +51,4 @@ Activity report of ASP2024 describing its student application pool; the report s
 - [The ASP2024 learners program engaged over one thousand high school pupils, averaging about 200 pupils per day across five venues during April 15–19, 2024](asp2024-learners-outreach-1000-pupils.md) — related
 - [Among selected ASP2024 students the female-to-male ratio exceeded 7:10, and in-person participants included more female than male students](asp2024-selected-students-female-ratio.md) — related
 - [Eighty Moroccan high school teachers, selected nationally from nearly 200 applications across 12 regional academies, attended a program of plenary lectures plus three hands-on workshops and reported satisfaction](asp2024-teacher-program-80-teachers.md) — related
+- [ASP2026 received 436 student applications from 45 countries, the largest number received across all ASP editions at the time of writing](asp2026-436-applications-45-countries.md) — reports the opposite

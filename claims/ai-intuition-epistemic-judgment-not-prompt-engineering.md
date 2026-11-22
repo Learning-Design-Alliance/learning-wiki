@@ -62,3 +62,4 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related
 - [Automation bias and metric gaming may create a hidden curriculum in which machine-measurable performance is mistaken for professional competence](automation-bias-metric-gaming-hidden-curriculum.md) — related
 - [Human-AI complementarity: most productive outcomes arise when AI augments rather than automates core educational processes](human-ai-complementarity-augment-not-automate.md) — related
+- [Epistemic prompting differs from prompt engineering in evaluative orientation: epistemic adequacy versus output quality](epistemic-prompting-vs-prompt-engineering-distinction.md) — possibly the same claim (merge candidate)

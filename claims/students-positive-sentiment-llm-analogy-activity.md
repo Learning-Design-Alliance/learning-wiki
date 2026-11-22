@@ -49,3 +49,4 @@ Manual sentiment coding of 150 randomly selected post-lab reflections from the a
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
+- [Students overwhelmingly select one of the two offered instruments, and “Either of the two” responses mostly indicate both instruments are considered usable rather than ignorance](either-of-two-means-both-appropriate.md) — related

@@ -68,3 +68,4 @@ Post-interaction perception survey on a 5-point Likert scale completed by the 39
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks](unfocused-tasks-more-confirmation-and-clarification-strategies.md) — related
+- [Students most frequently used GAI for knowledge acquisition (60.440% of logs), followed by visualization requests (24.725%) and analytical support (8.242%)](gai-log-themes-knowledge-acquisition-dominant.md) — related

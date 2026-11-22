@@ -56,3 +56,4 @@ Reliability analysis in which two researchers independently coded a random 10% o
 - [University students most often named teaching practices focused on interaction and relationships and on clarity as the best they had experienced](students-prefer-clarity-and-interaction-practices.md) — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
+- [The GPT-4o mini event classifier agrees with domain experts at almost-perfect pairwise levels (κ = 0.841–0.855), reducing multi-rater Fleiss κ only marginally (0.682 to 0.624)](llm-event-classifier-expert-agreement.md) — related

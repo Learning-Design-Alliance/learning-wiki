@@ -51,3 +51,4 @@ Comparison of the three normalized gain calculation methods across courses in th
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Normalized gain (g) and Cohen's d lead to different inferences about student learning on concept inventories](normalized-gain-and-cohens-d-lead-to-different-inferences.md) — related
+- [The tied-score group mean individual normalized gain equals the Hake normalized gain computed from the group's mean pretest and posttest scores](tied-group-gain-equivalence.md) — related

@@ -61,3 +61,4 @@ This is the guide's own summary assertion in its closing section, offered withou
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
 - [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related
 - [Staff and students both value authentic instructional approaches in interdisciplinary creative-design education](authentic-approaches-valued-interdisciplinary-design-education.md) — a narrower finding that bears on this claim
+- [Designing UDIP-4 and analyzing its data gave students real-life experience across all essential areas of an undergraduate physics curriculum plus collaboration and management skills](udip4-curriculum-experience-outcomes.md) — related

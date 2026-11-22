@@ -44,7 +44,8 @@ The article proposes an approach in which special relativity is presented as the
 - Sr K Method Light Flash Exchange [+M]
 
 ## Related Designs
-- 
+
+- [The bernoullian sequence: introducing the dynamic law via motion as a succession of states of rest](bernoullian-sequence-dynamic-law.md)
 
 ## Examples
 -

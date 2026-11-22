@@ -47,3 +47,4 @@ Case report of a single observing run during which the students conducted remote
 ## Related Claims
 - [A secondary school student, supervised by a researcher, executed specific telescope operations: filtered image acquisition, hyperspectral drift-scan acquisition with slit corrections, sky frames, and infrared guiding](student-executed-spes-operations-list.md) — a narrower finding that bears on this claim
 - [A group of motivated secondary school students were able to understand observing strategies for a solar-system planet and learn to use a complex telescope interface to undertake observations scheduled for a professional program](students-understand-observing-strategies-complex-interface.md) — a broader claim this one bears on
+- [The scheduled ARISS contact was successfully executed, lasting approximately 10 minutes of live real-time Q&A with NASA astronaut Nichole Ayers](ariss-africa-contact-execution-ten-minutes.md) — related

@@ -53,6 +53,7 @@ The article's procedure: students receive explicit genre instruction, draft inde
 - [Carefully vet freely available video resources for clinical correlation and procedural detail rather than assuming all supplemental video content is comparably rigorous](vet-video-resources-clinical-correlation-rigor.md)
 - [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
 - [Use LLMs to improve and proofread your own writing while keeping your voice, define prompts carefully, and treat all LLM output as a draft to edit critically](llm-assisted-proposal-writing-strategy.md)
+- [Support interactional cycles that integrate explanation, testing, and revision during collaborative AI system design](support-explanation-testing-revision-cycles.md)
 
 ## Examples
 -

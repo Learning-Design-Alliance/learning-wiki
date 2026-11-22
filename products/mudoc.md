@@ -31,4 +31,4 @@ MuDoC is a GPT-4o-based conversational AI system developed by Karan Taneja and c
 
 ## Key Sources
 - Karan Taneja, Anjali Singh, and Ashok K. Goel. (2025). Towards a Multimodal Document-grounded Conversational AI System for Education. https://arxiv.org/abs/2504.13884
-- Taneja, K., Singh, A., & Goel, A.K. (2026). Impact of Multimodal and Conversational AI on Learning Outcomes and Experience. https://arxiv.org/abs/2604.02221
+- Taneja, K., Singh, A., & Goel, A.K. (2026). Impact of Multimodal and Conversational AI on Learning Outcomes and Experience. https://arxiv.org/abs/2604.02221. [doi:10.1007/978-3-032-29760-0_60](https://doi.org/10.1007/978-3-032-29760-0_60)

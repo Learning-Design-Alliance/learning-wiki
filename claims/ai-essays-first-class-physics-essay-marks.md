@@ -53,3 +53,4 @@ Benchmarking study of ten davinci-003 submissions on the Physics in Society exam
 - [GPT-4 outperforms GPT-3.5 on real university physics exams, averaging 49.4% versus 38.6%](gpt4-outperforms-gpt35-physics-exams.md) — related
 - [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — related
 - [Non-invigilated Physics essays and coding assessments are highly vulnerable to automated LLM completion, while university-level Physics question answering is not substantially threatened](non-invigilated-essays-coding-vulnerable-to-llms.md) — a broader claim this one bears on
+- [The AI-integrated essay subtotal (mean 0.486) was not trivially maximized relative to the MCQ subtotal (mean 0.767), and module components were descriptively summarized](genai-coursework-descriptive-attainment.md) — related

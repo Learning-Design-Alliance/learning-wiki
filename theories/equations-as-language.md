@@ -17,7 +17,7 @@ sources:
 # Equations as Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 6 studies (4 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 7 studies (4 qualitative, 2 theoretical, 1 associational), `q1`–`q2` · 0 of 7 report an effect size · 6 claims rest on one study
 
 ## Description
 Physics instruction often treats an equation as fully understood once a student can derive or correctly manipulate it. This theory argues that deriving an equation and comprehending it are separate achievements — analogous to the difference between decoding text and reading it with comprehension. Adapting a reading-comprehension framework from literacy research, the theory identifies three levels of understanding a physics equation:
@@ -50,6 +50,7 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](../claims/pat-alex-encyclopedic-contrast.md) [+W] — attached 2026-11-16 from Edward F. Redish et al. (2009), which proposed "Encyclopedic meaning: understanding equations (like words) relies on a web of ancillary knowledge rather than terse definitions".
 - [Five interview students made the most common Tortoise-and-Hare symbolic error by using the Tortoise's velocity symbol as if it were the Hare's final velocity, some treating symbol associations as dynamic](../claims/variable-confusion-tortoise-hare-error.md) [+W] — attached 2026-11-16 from Eugene T. Torigoe (2012), which proposed "Symbol states and symbol properties framework for how symbols encode meaning in physics problem solving".
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](../claims/plugging-in-numbers-cues-symbol-meaning.md) [+W] — attached 2026-11-16 from Eugene T. Torigoe (2012), which proposed "Symbol states and symbol properties framework for how symbols encode meaning in physics problem solving".
+- [Competence in manipulating symbolic expressions does not entail the ability to read what they express](../claims/symbol-manipulation-does-not-entail-reading.md) [+W] — attached 2026-11-21 from Julia Hofmann et al. (2026), which proposed "Six sensemaking strategies linking mathematical structure and physical concepts"; tests this page's relationship.
 
 ## Related Theories
 - (none yet linked)

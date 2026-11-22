@@ -49,6 +49,7 @@ A strategy for sleep-based memory interventions: instead of delivering cues unif
 ## Related Strategies
 
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
+- [Adaptively time feedback to moments of declining attention or rising workload rather than delivering at fixed intervals](adaptive-timing-over-fixed-interval-feedback.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Logistic regression analysis of 704 responses to a national SPS-distributed surv
 - [All interviewed female students reported characteristics indicative of a growth mindset, which appeared as a central theme in the semantic network map](outreach-facilitation-growth-mindset-central.md) — related
 - [In a prior single-institution pilot, over 80% of outreach participants reported positive impact on conceptual understanding and over 85% on teamwork and networking](pilot-study-outreach-identity-gains.md) — related
 - [Facilitating informal physics education benefits student volunteers' physics identity, sense of belonging, and communication, teamwork, networking, and design skills](ipe-facilitator-identity-and-skills-benefits.md) — related
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related

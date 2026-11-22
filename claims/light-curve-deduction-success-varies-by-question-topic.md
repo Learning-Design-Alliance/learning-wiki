@@ -47,3 +47,4 @@ Instructor observation of group investigations at Hartnell: students studying pl
 ## Related Claims
 - [Judgment accuracy varies across student characteristic profiles: struggling and uninterested profiles are diagnosed more accurately than strong, underestimating, and overestimating profiles](profile-main-effect-judgment-accuracy.md) — related
 - [Exoplanet transit exercise uses 20 Spitzer images of HD 189733b for students to measure light curves and derive planet size and distance](spitzer-transit-exoplanet-exercise.md) — related
+- [Gravitas's connected observing panels let students encounter selection effects and degeneracies through controlled experiments](observing-panels-selection-effects-experiments.md) — related

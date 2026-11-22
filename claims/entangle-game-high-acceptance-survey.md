@@ -56,3 +56,4 @@ Opinion survey of n = 73 high-school juniors after playing the game; Table I pri
 - [High school students widely found Qubit Touchdown enjoyable, easy to learn, and worth recommending as a quantum computing learning tool](qubit-touchdown-enjoyable-easy-to-learn.md) — related
 - [Playing Qubit Touchdown and learning its quantum-computing connections significantly increased high school students' self-confidence in their ability to learn quantum computing](qubit-touchdown-self-confidence-gains.md) — related
 - [Students rated Particle Builder more enjoyable and more effective for learning than regular classroom lessons](particle-builder-higher-enjoyment-than-lessons.md) — related
+- [A QTris-based stand-alone educational activity with about 150 high-school students provided encouraging preliminary indications that the game promotes immediate understanding of key Quantum Mechanics concepts](qtris-activity-150-students-preliminary-indications.md) — related

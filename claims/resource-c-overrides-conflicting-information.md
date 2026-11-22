@@ -68,3 +68,4 @@ Case-by-case analysis of the twelve students using resource C in Question 2; the
 - [Most interviewed students correctly identified which superposition states are unchanged by CNOT when applying CNOT procedurally to all four states](nineteen-of-29-correctly-identified-unchanged-cnot-states.md) — related
 - [Nine students overgeneralized the control-target definition of CNOT in Question 1, eliminating a correct unchanged state, and most did not spontaneously check with procedural methods](resource-b-unproductive-question-one.md) — related
 - [Eleven students conceptually argued CNOT is its own inverse using the control-target definition, and two spontaneously formed this conceptual argument out of procedural reasoning](resource-b-conceptual-cnot-inverse-blended-processing.md) — related
+- [The article identifies seven quantum threshold concepts as conceptual gateways requiring targeted instructional strategies](quantum-threshold-concepts-set.md) — related

@@ -48,3 +48,4 @@ Descriptive multilevel analysis of ISQ item variances at teacher and student lev
 ## Related Claims
 - [Professors differ little in structuring but substantially in stimulating and activating students](isq-teacher-level-variance-differs-by-dimension.md) — related
 - [ISQ subscales show high teacher-level reliability at each of three measurement occasions](isq-high-teacher-level-reliability.md) — related
+- [Instructional quality in graduate physics lectures varies widely, particularly in professor responsiveness and informal formative assessment during class](graduate-lecture-instructional-quality-variation.md) — a broader claim this one bears on

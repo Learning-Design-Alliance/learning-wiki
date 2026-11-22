@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (146 show a difference, 33 mixed, 12 no difference) · 142 studies (53 associational, 30 qualitative, 20 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 142 report an effect size · 191 claims rest on one study
+> **Evidence** · 192 claims (146 show a difference, 34 mixed, 12 no difference) · 143 studies (53 associational, 31 qualitative, 20 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 143 report an effect size · 192 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -227,6 +227,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Students cite prior knowledge, peer support, instructor support, and clear instructions as the main factors contributing to lab comfort](../claims/lab-comfort-factors-themes.md) [+M] — learners who differ on it differ in outcomes
 - [AI-mediated speaking practice increased willingness to initiate social interaction but did not itself create deeper social connection or belonging](../claims/ai-practice-willingness-not-belonging.md) [~W] — measured as an outcome of the instruction studied
 - [The EAP Talk intervention produced a significant but smaller reduction in social isolation than for language insufficiency, operating indirectly through willingness to communicate](../claims/eap-talk-reduces-social-isolation-indirect.md) [+M] — measured as an outcome of the instruction studied
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](../claims/family-recognition-mitigates-formal-misrecognition.md) [~W] — an instructional effect differs with it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

@@ -58,3 +58,4 @@ In its drawbacks and challenges section, the review states that web-based simula
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
 - [Most participants judged telesimulation as offering fewer training opportunities than face-to-face instruction, citing technical difficulties most often](telesimulation-perceived-disadvantages.md) — related
 - [Thematic analysis of participant feedback identified three themes: challenges of audio-based learning, difficulties setting up the software environment, and benefits for data literacy and confidence](blind-learners-qualitative-themes.md) — related
+- [Fifty-two of 169 entrants exited during camera setup, mostly citing camera connection or stable-view difficulties](camera-setup-exits-52-of-169.md) — related

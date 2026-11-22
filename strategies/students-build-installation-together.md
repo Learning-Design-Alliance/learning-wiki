@@ -46,6 +46,7 @@ The article recommends that construction of the installation itself be a shared 
 - [Co-constructing Knowledge](co-constructing_knowledge.md)
 - [Creating Beautiful Spaces in PBL](creating_beautiful_spaces_in_pbl.md)
 - [Racial Equity in PBL - Create Beautiful Spaces](racial_equity_in_pbl_-_create_beautiful_spaces.md)
+- [Involve preservice teachers in constructing and analyzing their own low-cost experiments as simultaneous physics learning and teacher training](preservice-constructed-low-cost-experiments-strategy.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related
 - [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related
 - [MetaRoundWorm users reported moderate simulator sickness, with disorientation most prominent](vr-condition-moderate-simulator-sickness.md) — reports the opposite
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

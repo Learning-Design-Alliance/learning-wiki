@@ -82,3 +82,4 @@ Within the same perception survey, descriptive results show a minority neutralit
 - [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](lectures-useful-when-students-prepared.md) — related
 - [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related
 - [Students valued the flipped classroom positively (6.2) and the follow-up sessions (6.4) but preferred traditional teaching](student-satisfaction-flipped-physics.md) — related
+- [Students reported that well-organized pre-lecture notes improved course clarity, though some students used them to be more passive in class](pre-lecture-notes-organization-clarity.md) — related

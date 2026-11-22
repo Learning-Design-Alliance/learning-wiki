@@ -99,3 +99,4 @@ Second episode analysis of the same group on an epistemological worksheet questi
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
 - [In episodes with no clusters, students were not metacognitively engaging in each other's ideas; one student dominating conversation precluded nodes](no-clusters-no-mutual-metacognitive-engagement.md) — related
 - [Different epistemological frames in physics assessment are associated with distinct, characteristic sets of epistemological resources](frames-made-of-distinct-resource-sets.md) — related
+- [In the group pencil-and-paper tutorial, students shift into Green or Yellow frames after mistakes, with humor restoring an atmosphere of collegial equality](group-tutorial-yellow-frame-defuses-tension-after-mistakes.md) — related

@@ -52,3 +52,4 @@ Classical Test Theory analysis using data from five CM 1 courses at CU (N = 244)
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
 - [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — related
 - [Every CCMI item exceeds the 0.2 item-test correlation threshold, with the Taylor series item correlating least](ccmi-item-test-correlations.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

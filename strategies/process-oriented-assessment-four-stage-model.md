@@ -69,6 +69,8 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
 - [Use process-tracing assessments, such as annotated portfolios of AI dialogues, to capture epistemic growth in agent-mediated learning](process-tracing-ai-dialogue-assessment-strategy.md)
 - [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
+- [Trajectory-oriented assessment using prompt histories as process evidence](prompt-trajectory-assessment-rubric.md)
+- [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 
 ## Examples
 -

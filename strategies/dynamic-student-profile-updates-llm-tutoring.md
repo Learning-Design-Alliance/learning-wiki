@@ -47,6 +47,7 @@ The authors recommend moving beyond the static four-choice profile of this trial
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 - [Align AI tutor response style with learners' personal learning preferences, e.g., via presets or learning preferences over time](align-ai-tutor-style-with-learner-preferences.md)
+- [Use learner preferences as inputs for engagement optimization in adaptive systems, rather than as static styles for improving grades](preferences-as-engagement-optimization-inputs.md)
 
 ## Examples
 -

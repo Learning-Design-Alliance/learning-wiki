@@ -67,3 +67,4 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 - [Adult learners show no statistically significant difference in recognition performance across human-framed text, AI-framed text, human video, and AI synthetic video conditions](ai-synthetic-video-no-recognition-difference.md) — related
 - [Distrust in AI was negatively correlated with system usage, while comfort and perceived homework helpfulness were positively correlated with engagement](distrust-comfort-correlate-ai-usage.md) — related
 - [Learners expressed high trust in the LLM-generated reels, with residual skepticism about transparency](reelsed-high-trust-llm-content.md) — related
+- [Coaches resist AI replacing live coaching and diagnosis but welcome it as a behind-the-scenes administrative assistant, with chess a notable exception to skepticism](ai-boundaries-admin-assistant-not-live-coach.md) — related

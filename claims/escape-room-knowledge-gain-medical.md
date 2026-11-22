@@ -55,3 +55,4 @@ Cross-sectional pre-post evaluation of an interdisciplinary medical escape room 
 - [Statistically significant pre-to-post knowledge score gains were observed in both the escape room and traditional lecture groups](both-interventions-significant-learning-gains.md) — a broader claim this one bears on
 - [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related
 - [A remote educational escape room for databases produced a statistically significant pre-to-post knowledge increase with a large effect size (r=0.69)](remote-escape-room-database-learning-gains.md) — related
+- [Medical students' exposure-identification scores and CVS assessment scores showed large, significant rises from pre-test to post-test after learning with SurgGraphQA, in one single-group pre-post study](surggraphqa-learning-gains.md) — related

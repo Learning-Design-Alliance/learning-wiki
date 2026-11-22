@@ -51,3 +51,4 @@ End-of-semester five-point Likert survey of 50 of 87 enrolled students, analyzed
 - [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related
 - [Residents rated all learning-experience and satisfaction dimensions significantly above neutral, and satisfaction with technological implementation was the strongest predictor of overall satisfaction](resident-satisfaction-technology-implementation-predictor.md) — related
 - [Post-program perceptions of the SIREN program were significantly higher than the neutral midpoint across all 15 post-only survey items](siren-post-survey-endorsement-above-midpoint.md) — a narrower finding that bears on this claim
+- [Post-engagement problem-solving self-confidence clustered above the scale midpoint, with no responses below 5](pair-post-engagement-confidence-above-midpoint.md) — related

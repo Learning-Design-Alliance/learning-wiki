@@ -57,3 +57,4 @@ Survey of 10 anatomy educators at Curtin University using the validated System U
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [Ease of use of the individual exercise assignment tool was rated slightly below the scale mean, suggesting students perceived it as rather complicated](ease-of-use-below-scale-mean.md) — related
+- [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related

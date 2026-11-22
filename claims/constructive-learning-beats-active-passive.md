@@ -158,3 +158,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [In Procedural ABICAP simulations, the ICAP ordering (interactive > constructive > active > passive) holds after enough steps](icap-holds-after-step-35.md) — related
 - [For rationale-free procedural knowledge components with no graph edges, Procedural ABICAP predicts passive learning is best](passive-best-for-rationale-free-kcs.md) — reports the opposite
 - [Learning-oriented prompting gains scaled monotonically with the designed ICAP engagement level of the instruction](prompting-gains-scale-icap-engagement.md) — a narrower finding that bears on this claim
+- [Recording predictions before observation is reported to improve conceptual engagement and reduce uncritical acceptance of confirming outcomes](prediction-before-observation-engagement.md) — a narrower finding that bears on this claim

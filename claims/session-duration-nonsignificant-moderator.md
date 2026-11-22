@@ -75,3 +75,4 @@ Descriptive contrast between the two most common duration types in Table 3 (60 m
 - [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — related
 - [Simulated consultation duration did not differ across time-points in one group with no comparison group](competency-gain-not-due-to-longer-consultations.md) — related
 - [Participant attrition between workshop sessions remained a persistent challenge across both workshop iterations](rai-workshop-attrition-challenge.md) — related
+- [Reported video durations ranged from 0.08 to 30 minutes with no consistently applied threshold, and indexed descriptions most often foregrounded intended users, educational uses, learning content and interactivity](duration-no-stable-threshold.md) — related

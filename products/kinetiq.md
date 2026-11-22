@@ -20,6 +20,7 @@ Kinetiq is a webcam-only, browser-based educational system that uses on-device p
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Task-integrated movement paradigm: movement as the interface for learning rather than a break from it**: The article proposes a paradigm in which physical movement is integrated directly with instructional content in the same learning moment, rather than treated as an ancillary activity before or after learning. As the authors put it, "Rather than treating movement as a break from learning, Kinetiq treats movement as the interface for learning." This builds on prior work showing benefits are strongest when movement is task-relevant and temporally aligned with the learning goal, and reframes data literacy practice as embodied experience that engages both mind and body. The paradigm motivates a new modality for developing data competencies that is more engaging and more intuitively grounded than screen-based systems. (From Clicking to Moving: Embodied Micro-Movements as a New Modality for Data Literacy Lear)
 
 ### Claims
 - [Embodied micro-movement interaction (Kinetiq) produces significantly higher affective valence during data literacy practice than conventional click-based platforms IXL and Khan Academy](../claims/kinetiq-higher-affective-valence-than-click-platforms.md) [+M]

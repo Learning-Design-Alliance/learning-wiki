@@ -27,4 +27,4 @@ A dataset of audio-transcribed undergraduate thermal-fluid problem-solving sessi
 -
 
 ## Key Sources
-- Gili, Kaitlin, Nistala, Mainak, Wendell, Kristen, and Hughes, Michael C. (2026). Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning. https://arxiv.org/abs/2604.21870
+- Gili, Kaitlin, Nistala, Mainak, Wendell, Kristen, and Hughes, Michael C. (2026). Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning. https://arxiv.org/abs/2604.21870. [doi:10.48550/arxiv.2604.21870](https://doi.org/10.48550/arxiv.2604.21870)

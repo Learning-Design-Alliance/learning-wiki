@@ -50,3 +50,4 @@ The authors conducted a final user study (n=16) comparing LearnMate2 against a w
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
 - [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — a broader claim this one bears on
+- [The authors report AI-Tutor outperforms state-of-the-art baselines on engagement, retention, and final outcomes in a large-scale empirical evaluation](ai-tutor-outperforms-baselines-large-scale-evaluation.md) — related

@@ -56,3 +56,4 @@ OLS regression of total points with VARK learning-preference dummies (Auditory c
 - [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](auditory-preference-predicts-achievement-beyond-gender-ld.md) — related
 - [Self-reported visual and auditory learning preferences declined significantly across matriculating classes during the study](vark-preferences-declining-trend.md) — related
 - [Learners perform best when supplementary material format matches their stated text or image preference](preference-congruent-supplements-raise-scores.md) — related
+- [Aligning instructional modality with learner-stated VARK preference does not significantly improve short-term learning gains](preference-alignment-no-significant-learning-gains.md) — related

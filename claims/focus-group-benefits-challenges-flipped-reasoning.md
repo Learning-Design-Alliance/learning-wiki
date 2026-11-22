@@ -58,3 +58,4 @@ Focus group interview one week after the survey with seven volunteers (three fem
 - [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related
 - [Students responded positively, but more weakly, to the course's collaborative learning than to its other aspects, which the authors attribute to cross-major interaction challenges.](ids-course-collaborative-learning-weaker-rating.md) — related
 - [Workshop and interview feedback named collaboration, content sharing, and tool accessibility as the most valuable aspects, with connectivity, learning curves, and inclusive materials as challenges](educator-feedback-collaboration-accessibility-challenges.md) — related
+- [Intro2QC workshop sessions received positive informal feedback, with a large majority of responders rating the workshop experience 8 or higher out of 10](intro2qc-positive-informal-feedback.md) — related

@@ -63,3 +63,5 @@ Numerical analysis of CDPK accuracy against parameter count for open-weight mode
 - [Modern SLMs around 3B parameters match or exceed earlier-generation LLMs on the MMLU benchmark, including STEM subjects](slms-match-legacy-llms-mmlu.md) — related
 - [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related
 - [RAG with slide text improves exam-question performance across all tested LLMs, with the smallest model showing the least improvement](rag-slide-text-improves-all-llm-performance.md) — related
+- [Qwen3.5-35B-A3B offered the best throughput and memory balance of three open-source LLMs benchmarked on consumer-grade hardware for translation](qwen-selected-optimal-throughput-memory-balance.md) — related
+- [In the ablation study, slide effects scale with student-model capacity (negative ↓1.4% for the 3B model), puzzle context is the strongest factor, and full-frame presentation outperforms 3-frame sampling by ~3%](slate-slide-effect-scales-student-capacity.md) — related

@@ -74,3 +74,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
+- [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related

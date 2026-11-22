@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 231 claims (148 show a difference, 48 mixed, 35 no difference) · 174 studies (64 causal, 42 associational, 27 review, 15 quant-synthesis, 11 qualitative, 9 design, 6 theoretical), `q1`–`q4` · 34 of 174 report an effect size · 223 claims rest on one study
+> **Evidence** · 237 claims (152 show a difference, 50 mixed, 35 no difference) · 177 studies (65 causal, 43 associational, 27 review, 15 quant-synthesis, 11 qualitative, 10 design, 6 theoretical), `q1`–`q4` · 35 of 177 report an effect size · 229 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -269,6 +269,12 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Exploratory evidence suggests low-attention learners in the attentive group showed a greater ADI increase from week 1 to week 3 than non-attentive counterparts, but the difference was not statistically significant](../claims/low-attention-adi-increase-not-significant.md) [-M] — an instructional effect differs with it
 - [Learners' attention distribution index in VR lectures changed over weeks, with a significant increase from week 2 to week 3, but did not differ between attentive and non-attentive support groups](../claims/adi-changed-over-weeks-no-group-effect.md) [+M] — measured as an outcome of the instruction studied
 - [LectureQuiz scores did not differ significantly between the attentive and non-attentive groups across the three weeks](../claims/lecturequiz-scores-no-group-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Attention is weakly correlated with learning outcomes while workload is negatively correlated, supporting attention-workload balancing over attention maximization](../claims/attention-weak-workload-negative-outcome-correlation.md) [~M] — learners who differ on it differ in outcomes
+- [Informal student observations suggest withholding standard formulas shifted attention to graphical structure, but the article reports no controlled learning-outcome evidence](../claims/rc-black-box-informal-student-observations.md) [+W] — measured as an outcome of the instruction studied
+- [TutorLoop (Full) significantly increases attention during self-learning compared to Control, TutorUp, and DRL Only groups](../claims/tutorloop-increases-attention-versus-baselines.md) [+M] — measured as an outcome of the instruction studied
+- [Graduate learners in an online physics refresher module spent about 85% of their time on-screen and on-task (Q1)](../claims/online-module-85-percent-q1-on-screen-on-task.md) [+M] — measured as an outcome of the instruction studied
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](../claims/online-module-ten-percent-mind-wandering-q3.md) [+M] — measured as an outcome of the instruction studied
+- [Participants spent a negligible percentage of time off-screen and off-task (Q4), attributed to the laboratory setting](../claims/negligible-q4-off-screen-off-task-lab-setting.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

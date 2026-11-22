@@ -50,3 +50,4 @@ Between-group comparison in the same randomized experiment: summed pre-post diff
 - [After the interventions, post-test Scrum knowledge did not differ significantly between the VR and LEGO groups](post-test-no-significant-group-difference.md) — related
 - [Participants positively accept both VR-based and computer-based pedagogical agents across UTAUT dimensions, with no significant group differences](positive-utaut-acceptance-both-pa-modalities-no-difference.md) — related
 - [Vocabulary score gain did not vary significantly between VR lessons](score-gain-no-variance-between-lessons.md) — related
+- [Learning outcomes and usability did not differ between supervised in-person and remote take-home study modalities](scratch-quantum-modalities-no-difference.md) — related

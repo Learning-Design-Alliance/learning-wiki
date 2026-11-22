@@ -91,3 +91,4 @@ Step-2 model-change test in the inhibition model; parallel non-significant chang
 - [Rhythmic context dominates synchronization variability: music tapping is far less synchronized than metronome tapping, while the 50 bpm bimanual task does not differ from 150 bpm](task-context-dominates-sms-variability.md) — related
 - [Across all three task types, joint tapping yields modestly but reliably lower synchronization variability than solo tapping in 4–5-year-olds](joint-tapping-main-effect-variability.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
+- [The overall pattern of associations between interaction patterns and AI knowledge outcomes was unlikely to have occurred by chance](correlation-pattern-nonrandom-monte-carlo.md) — related

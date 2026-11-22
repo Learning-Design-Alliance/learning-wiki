@@ -51,3 +51,4 @@ Interview finding from the capability dimension of the 32-participant qualitativ
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
 - [Participants reported apprehension before the in situ simulation, driven by fear of the unknown, filming, and perceived assessment, which mostly changed afterwards](simulation-apprehension-fear-assessment.md) — related
 - [Student explanations of active-learning anxiety align with communication apprehension, social anxiety, and test anxiety](active-learning-anxiety-evaluative-types.md) — related
+- [Neurodivergent physics students experience fear of being misinterpreted or viewed as stupid on account of communication breakdowns](fear-of-misinterpretation-neurodivergent-physics-students.md) — related

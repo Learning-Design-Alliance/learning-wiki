@@ -50,3 +50,4 @@ Survey results discussed in Section 5 regarding skills rarely taught in the four
 - [Basic programming skill is the clearest example of a skill students should acquire before starting computational physics research](basic-programming-best-learned-before-research.md) — related
 - [Matching code versions to the data they produced is a skill valued by most respondents but learned primarily on the job during research](code-version-data-matching-learned-on-job.md) — related
 - [Skills gained by physicists during formal education are often mismatched with skills required for a successful career in physics](physics-education-career-skills-mismatch.md) — a broader claim this one bears on
+- [Physicists surveyed regard sensemaking strategies as indispensable and report their courses could devote more time to them](physicists-regard-sensemaking-strategies-indispensable.md) — related

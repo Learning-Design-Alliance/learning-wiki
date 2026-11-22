@@ -94,3 +94,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — related
 - [Perceived positive personality factors correlate positively with learning outcomes, strongest for conscientiousness and the dialogue-only model](trait-learning-correlations-dialogue-only-strongest.md) — related
 - [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related
+- [Physics Olympiad participants differ most strongly from non-participants (|d| ≥ 1.0) in STEM-related skills, physics-specific motivational-affective variables, and physics and mathematics self-concept](descriptive-group-differences-olympiad-participants.md) — related

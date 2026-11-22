@@ -63,3 +63,5 @@ Qualitative interview findings from five women physics majors; participants desc
 - [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related
 - [Student-led near-peer mentoring programs cultivate student agency and ownership of learning environments by involving students in designing equitable and accessible spaces](near-peer-programs-cultivate-student-agency-ownership.md) — related
 - [Physics students who facilitated outreach described it as strengthening their sense of belonging, confidence in their choice of major, and internal recognition (resilience cluster)](outreach-enhances-belonging-and-major-confidence.md) — related
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related
+- [The first Physics Ph.D. cohort reported a weak sense of peer community, linked to credit transfer, few shared courses, few social events, and dispersed physical space](weak-peer-community-first-physics-phd-cohort.md) — related

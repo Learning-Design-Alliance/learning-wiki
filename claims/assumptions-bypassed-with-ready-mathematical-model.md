@@ -73,3 +73,4 @@ Think-aloud interviews: despite the LED's roughly 45 nm spectral width, students
 - [Students' unarticulated assumptions and unfamiliar concepts act as barriers to modeling during experiments](student-barriers-assumptions-model-limitations.md) — a broader claim this one bears on
 - [Most students can perform reflective checks when prompted, with 72% correctly articulating the 1/r fall-off of the potential in the large-r limit](prompted-reflection-mostly-successful.md) — related
 - [LLMs made implicit, overly simplifying assumptions without justification and often doubled down after being corrected, including fabricating measurement uncertainties](llm-implicit-assumptions-doubling-down.md) — related
+- [Students significantly improved overall DIRECT performance after instruction, yet TMA showed they did not typically have solid understanding of direct current circuit power](overall-gain-masks-unstable-resource-activation.md) — related

@@ -46,6 +46,7 @@ After the hacking succeeds, the workshop closes with a debriefing in which the e
 
 - [BB84 classroom activity with eavesdropper roles and a security test on part of the key](bb84-classroom-eavesdropping-activity.md)
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
+- [Implement the eavesdropper as a quarter-wave plate in a mount visually identical to Alice's and Bob's to keep its presence ambiguous](ambiguous-eavesdropper-quarter-wave-plate.md)
 
 ## Examples
 -

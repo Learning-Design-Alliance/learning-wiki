@@ -45,6 +45,7 @@ All hands-on instruction is delivered through an interactive web platform (Jupyt
 
 - [Deliver outreach data-analysis activities through the browser to remove installation barriers](browser-based-no-install-outreach-strategy.md)
 - [Run outreach analyses via Jupyter/binder accessed from mobile phones through a QR code](jupyter-binder-mobile-qr-outreach.md)
+- [Open the curriculum with an embedded introductory Python module so students with no prior coding experience can engage scientific content immediately](gw-explorer-introductory-python-module-strategy.md)
 
 ## Examples
 -

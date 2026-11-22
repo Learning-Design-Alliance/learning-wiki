@@ -50,3 +50,4 @@ Study 2 turn-level analysis testing whether praise was automatic, as the prompt'
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
 - [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related
 - [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related
+- [LLM agents leak evaluation of answer correctness through praise, word choice, reply length, and pacing, which stops student reasoning](llm-agents-leak-evaluation-correctness.md) — related

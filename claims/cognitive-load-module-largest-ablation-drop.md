@@ -66,3 +66,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related
 - [Removing any of TASA's three modules degrades performance, with the forgetting score contributing an average 6.8% drop in normalized learning gain when eliminated](tasa-ablation-module-importance.md) — related
 - [Joint training of the feature encoders contributes the largest single-module ablation loss in AAM-TSA](joint-training-crucial-aam-tsa-ablation.md) — related
+- [Omitting the class-weighted loss causes the most pronounced recall degradation among ablation variants, and removing temporal attention also substantially lowers early recall](class-weighted-loss-temporal-attention-ablations.md) — related

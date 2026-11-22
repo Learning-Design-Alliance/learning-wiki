@@ -46,6 +46,7 @@ A classroom demonstration script used to "quickly show a class some tour making 
 - [Use expert-led Tours and student Tour creation with facilitation as a strategy for astronomy teaching](wwt-tour-creation-teaching-strategy.md)
 - [Instructor recommendations for running a module-development course project](module-development-course-recommendations.md)
 - [Use in-class demonstrations and targeted guides to support adoption of new tools](in-class-demos-targeted-guides-tool-adoption.md)
+- [Adoption can begin with one class meeting: tiered classroom-use patterns from prediction demo to independent project](gravitas-tiered-classroom-adoption.md)
 
 ## Examples
 -

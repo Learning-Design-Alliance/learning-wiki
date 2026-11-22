@@ -68,6 +68,7 @@ Role assignment operationalizes the positive interdependence and individual acco
 - [Cooperative group endurance training with rotating bicycle relief and training-log self-reflection](cooperative-endurance-training-bicycle-training-log.md)
 - [Managing a PBL class: heterogeneous small groups, facilitator monitoring, and a closing debriefing to correct misconceptions](pbl-class-management-groups-debriefing.md)
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
+- [Rotate defined group roles around a single shared telescope, including a skeptic-checker role](telescope-role-rotation-skeptic-checker.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; the roles encode the comprehension strategies being taught.

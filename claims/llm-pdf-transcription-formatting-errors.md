@@ -47,3 +47,4 @@ Method-section report on the transcription step using OpenAI's GPT-4o-mini (chos
 
 ## Related Claims
 - [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — related
+- [A RAG-augmented LLM translation pipeline raised pre-human-review translation accuracy from approximately 80% to over 95%](rag-llm-translation-accuracy-above-95-percent.md) — related

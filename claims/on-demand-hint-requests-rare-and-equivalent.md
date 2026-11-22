@@ -64,3 +64,4 @@ Null check before hypothesis testing in the 100-student study. The ART ANOVA on 
 - [Adaptivity condition shows no significant association with optional verbal interaction with the AI tutor](adaptivity-no-effect-verbal-interaction.md) — related
 - [Chat usage per attempt peaks for medium-difficulty problems and is lowest for hard problems](chat-usage-peaks-medium-lowest-hard.md) — related
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
+- [Proactive tutoring added error identification and directive hints without a detected change in learners' requests or requested replies](proactivity-adds-error-identification-and-directive-hints.md) — related

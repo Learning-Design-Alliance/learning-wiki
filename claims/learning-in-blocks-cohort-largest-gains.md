@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: nicy-scaria-2026
     resource: "https://doi.org/10.1007/978-3-032-29755-6_27"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Cohort 3 (Learning in Blocks) showed statistically significant pre-post gains across Grammar, Vocabulary, and IC with large to very large effect sizes (Cohen's d = 0.98-1.97). [→ Nicy Scaria 2026](#nicy-scaria-2026)

@@ -53,3 +53,4 @@ The review reports Klang et al.'s blind assessment of Chat-GPT 4 MCQs across int
 - [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — a narrower finding that bears on this claim
 - [The review reports that ChatGPT-3.5 provided accurate colorectal cancer screening recommendations at lower rates than expert physicians, with or without a mobile application](chatgpt-crc-screening-recommendation-accuracy-reported.md) — related
 - [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related
+- [89% of LLM-generated isomorphic MCQs were rated fully specified and solvable as written, usable without expert revision](llm-isomorphic-mcq-89-percent-directly-usable.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ The article reports that almost every teacher raising over-dependence proposed r
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related
 - [Across 230 distinct topics explored with ChatGPT, five errors with the potential to induce misconceptions were detected, concerning types of goods, economic principles, and economies of scope.](five-misconception-errors-230-topics.md) — related
+- [Medical AI laboratory teaching exhibits three separable structural gaps — modality, authenticity and deployment — each requiring a distinct remedy](three-structural-gaps-medical-ai-lab-teaching.md) — related

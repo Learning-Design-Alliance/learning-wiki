@@ -51,3 +51,4 @@ Reliability check in which two researchers independently classified students' an
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](backtranslation-outperforms-llm-judge-diagram-agreement.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related
+- [The LLM-as-a-judge production scorer achieves substantial agreement with human rater majority vote (Cohen's kappa = 0.746, accuracy 92.3%)](l2-bench-judge-validation-kappa-0746.md) — related

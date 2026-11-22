@@ -83,3 +83,4 @@ The review synthesized accuracy figures from studies (Table 7) comparing ANN, RF
 - [Non-linear ML models (RF, CatBoost, ANN) consistently outperform multiple linear regression in predicting PISA 2018 math scores across ten countries](nonlinear-ml-outperforms-mlr-pisa-math.md) — related
 - [A five-class XGBoost classifier predicts ChatGPT assignment-use frequency at 64.5% test accuracy, indicating data scarcity challenges](xgboost-multiclass-usage-frequency-accuracy.md) — related
 - [XGBoost slightly outperformed a logistic regression baseline in predicting ChatGPT assignment use](xgboost-slightly-outperforms-logistic-baseline.md) — a narrower finding that bears on this claim
+- [Elastic net logistic regression performs comparably to random forest and gradient boosting in predicting first-round Physics Olympiad success and is selected as the final model](elastic-net-comparable-performance-olympiad-success.md) — related

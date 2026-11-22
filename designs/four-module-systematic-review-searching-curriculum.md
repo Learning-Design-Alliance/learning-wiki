@@ -40,7 +40,8 @@ The course is organized into four modules that together cover the systematic rev
 - [Srss Course Pre Post Knowledge Gains](../claims/srss-course-pre-post-knowledge-gains.md) [+W]
 
 ## Related Designs
-- 
+
+- [QLP modular curriculum: six core modules with defined competencies and four specialization pathways](qlp-modular-curriculum-modules.md)
 
 ## Examples
 -

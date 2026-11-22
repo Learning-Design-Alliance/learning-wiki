@@ -51,3 +51,4 @@ Post-session surveys (14 questions, five-point Likert satisfaction ratings plus 
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
+- [Intro2QC workshop sessions received positive informal feedback, with a large majority of responders rating the workshop experience 8 or higher out of 10](intro2qc-positive-informal-feedback.md) — related

@@ -44,6 +44,7 @@ A concrete student procedure: students measure the difference in time of flight 
 - [Pencil-lead line-drawing procedure for estimating molecule size in class](pencil-lead-line-drawing-classroom-strategy.md)
 - [Engage students in measuring instantaneous speed with the speedometer, timing the motion by video analysis or by the sound of bells](speedometer-classroom-measurement-activity.md)
 - [Extension laboratories: PSD figure-of-merit optimization, neutron time-of-flight, cross-correlation, and coincidence anisotropy measurements](scintillator-lab-extension-experiments-strategy.md)
+- [Frame the activity as measuring the speed of light rather than as a distance measurement](frame-as-speed-of-light-motivating.md)
 
 ## Examples
 -

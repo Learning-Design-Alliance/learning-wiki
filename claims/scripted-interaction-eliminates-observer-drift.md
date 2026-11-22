@@ -50,3 +50,4 @@ Experiment II education scenario comparing scripted versus unscripted conditions
 - [Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations](observer-rated-persona-drift-unscripted-conversations.md) — related
 - [LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations](llm-persona-self-report-stable-within-conversation.md) — related
 - [Model family and prompt format moderate the level of simulated ADHD persona expression](model-and-prompt-moderate-persona-expression.md) — related
+- [A single worked example in a prompt acts as an instruction and spreads its content into unrelated conversations](prompt-examples-act-as-instructions.md) — related

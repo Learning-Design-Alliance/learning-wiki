@@ -57,3 +57,4 @@ Prospective observational cohort of 51 final-year RCSI medical students who volu
 - [Students' PVC insertion performance declines significantly in the week after mastery learning, with only 74.5% passing an unannounced retest](pvc-skill-decline-eight-days-after-mastery-learning.md) — a narrower finding that bears on this claim
 - [Lung isolation insertion time increased from post-test to 2-month follow-up in one group with no comparison group](lung-isolation-insertion-time-decay-two-months.md) — a narrower finding that bears on this claim
 - [Skills taught with hands-on simulator practice are retained better at 4 weeks, and lecture-only teaching shows the greatest learning decay](simulator-practice-better-four-week-retention.md) — reports the opposite
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

@@ -47,3 +47,5 @@ Qualitative analysis of five open-ended reflection questions collected after eac
 ## Related Claims
 - [The simulation-first sequence yielded a statistically significant pre-test to post-test improvement (p=0.001) while the game-first sequence did not (p=0.06)](simulation-first-sequence-significant-gain-photoelectric.md) — related
 - [Participants split between narrative and game play themes, with 6 of 10 mentioning both and the rest mentioning only one, suggesting the ludology–narratology debate may reflect player preferences](ludology-narratology-split-among-players.md) — related
+- [Students showed a clear preference for the game-based activity over the PhET photoelectric effect simulation](game-preferred-over-simulation-photoelectric.md) — related
+- [Gaming frequency showed no significant correlation with activity preference, suggesting broad accessibility of the game](gaming-frequency-no-correlation-preference.md) — related

@@ -49,3 +49,4 @@ Apparatus description of the small-school deployment: the server pipeline was ex
 - [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](hdr-vr-platform-3-5-second-latency.md) — related
 - [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md) — related
 - [Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time](async-concurrency-latency-bounded-by-slowest-model.md) — related
+- [Qwen3.5-35B-A3B offered the best throughput and memory balance of three open-source LLMs benchmarked on consumer-grade hardware for translation](qwen-selected-optimal-throughput-memory-balance.md) — related

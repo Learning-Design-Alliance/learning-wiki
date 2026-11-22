@@ -94,3 +94,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Early-CS instructors widely regulate AI use, cite student over-reliance as their top concern, and rate teaching pedagogical prompting as important for novices](instructors-support-teaching-pedagogical-prompting.md) — related
 - [Professors framed GenAI as a source of knowledge whose reliability they personally vetted and whose output they assigned students to critically evaluate](genai-knowledge-source-vetting-critical-evaluation.md) — related
 - [Thematic analysis of student reflections identifies four themes on AI integration, including human-AI synergy and over-reliance risks](gci-reflections-four-themes.md) — related
+- [Medical AI laboratory teaching exhibits three separable structural gaps — modality, authenticity and deployment — each requiring a distinct remedy](three-structural-gaps-medical-ai-lab-teaching.md) — related

@@ -75,6 +75,7 @@ Student-generated questions are a strong predictor of engagement and a lever for
 - [Science Notebooks](science-notebooks.md) — the disciplinary container into which "I wonder" entries typically fit
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — wondering surfaces what students already believe, exposing misconceptions the teacher can address
 - [Track the specific questions that drive students into explanation-building and reuse them as discussion prompts, structuring the environment so students elicit and follow up on such questions](leverage-recurring-questions-as-prompts.md)
+- [Phenomenon-based learning cycle: observation, questioning, investigation, modelling, explanation, extension](quantum-phenomenon-inquiry-cycle.md)
 
 ## Examples
 - **Wonder Walls in elementary science classrooms** — a widespread practice documented in science education literature: students post journal questions on a classroom display, and the class selects one per week for investigation.

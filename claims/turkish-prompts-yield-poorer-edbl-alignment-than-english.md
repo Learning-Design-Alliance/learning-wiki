@@ -53,3 +53,4 @@ Pilot observation during prompt development, reported in the Methodology. Both p
 - [Both AI platforms received their lowest expert ratings in engineering skills, indicating a shared limitation in supporting iterative design competencies](ai-lesson-plans-weakest-in-engineering-skills.md) — related
 - [Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs](generic-ai-tools-undermine-curriculum-coherence.md) — related
 - [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — related
+- [The framework carries stated limitations: no empirical evidence yet and an equity risk from elaborate natural-language prompting](epistemic-prompting-limitations-equity.md) — related

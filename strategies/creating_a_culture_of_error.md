@@ -74,6 +74,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 - [Shift the professional feedback culture from avoiding performance feedback to actively seeking feedback](shift-feedback-culture-toward-actively-seeking-feedback.md)
 - [Focus computational-modeling instruction on debugging practice, including qualitative analysis, not only correcting procedural mistakes](teach-debugging-and-qualitative-habits-of-mind.md)
 - [Immediate computer-graded feedback with multiple attempts at full credit to promote growth mindset](immediate-feedback-multiple-attempts-growth-mindset.md)
+- [Implement assessment retakes as mastery-oriented remediation to build a growth-mindset culture and spread equitable grading school-wide](retakes-as-mastery-remediation-strategy.md)
 
 ## Examples
 - **My Favorite Mistake routine** (widely used in math classrooms, popularized by Teach Like a Champion practice): the teacher selects an anonymous student error and leads the class in analyzing what the error reveals and how to fix it, positioning the error-maker as having contributed something valuable.

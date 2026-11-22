@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-22
 sources:
   - id: jakob-schwerter-2022
     resource: "https://doi.org/10.1007/s11423-022-10105-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Receiving additional hints increased the proportion of correct answers in the learning phase by 3.7%, and by 4.7% when only finished exercises were counted. [→ Jakob Schwerter 2022](#jakob-schwerter-2022)

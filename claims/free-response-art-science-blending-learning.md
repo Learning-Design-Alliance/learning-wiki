@@ -69,3 +69,4 @@ The free-response question on something new learned elicited 507 responses; "Top
 - [Swift informal outreach reached mass audiences: the Black Holes planetarium show played in over 30 venues, the PBS Nova episode was initially viewed by over 10 million people, and the Supernova! toolkit reached over 138,000 attendees through 1,284 events](swift-informal-outreach-mass-reach.md) — related
 - [The RSA activity produces large gains on General Relativity topics not treated in school: gravitational lensing, gravitational waves and black holes](rsa-improves-gr-topics-lensing-waves-black-holes.md) — related
 - [Davinci-003 API can generate transfer questions relating a topic to a new domain](davinci-003-transfer-question-generation.md) — related
+- [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related

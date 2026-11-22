@@ -50,6 +50,7 @@ On exams, students separate their thoughts into the appropriate ACE-M component,
 - [Use think-aloud protocols by instructors and students to make problem-solving processes visible and scaffold monitoring](think-aloud-problem-solving-strategy.md)
 - [Creating An Action Plan](creating_an_action_plan.md)
 - [Whole Task Practice](whole-task-practice.md)
+- [Adapt Public Exams to physics by heavily emphasizing the procedural aspects of problems, e.g. fully revealed questions with changed values or figures on the actual exam](reveal-full-problems-change-values-physics-public-exams.md)
 
 ## Examples
 -

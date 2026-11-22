@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 780 claims (418 show a difference, 192 mixed, 170 no difference) · 543 studies (287 associational, 180 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 543 report an effect size · 772 claims rest on one study
+> **Evidence** · 783 claims (420 show a difference, 193 mixed, 170 no difference) · 546 studies (289 associational, 181 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 546 report an effect size · 775 claims rest on one study
 
 ## How to read this page
 
@@ -819,6 +819,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Attrition rates by gender appear comparable in most STEM disciplines including physics, but interviews hint women may decide against physics after first-year courses](../claims/comparable-gender-attrition-with-interview-hint.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender differences in post-drop destinations: women dropping chemistry more often earn non-STEM degrees while men more often earn engineering or computer science degrees](../claims/gendered-post-drop-destinations.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Physics and computer science have the lowest representation of women among the majors studied, with about 20% women in physics](../claims/physics-lowest-women-representation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender and course type predict gender stigma consciousness and sense of belonging in introductory physics](../claims/gender-course-type-predict-belonging-stigma.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Preliminary analysis indicates a gender gap on Q15, with male-declaring students achieving better results than female-declaring students, smaller for Q16](../claims/gender-gap-q15-preliminary.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Six-year STEM graduation increases with LAs were largest for students from racial/ethnic groups historically marginalized in STEM, with women from historically marginalized groups gaining about 20 percentage points](../claims/la-graduation-gains-largest-hm-women.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

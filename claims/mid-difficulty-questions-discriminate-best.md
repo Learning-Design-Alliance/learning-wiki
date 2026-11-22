@@ -53,3 +53,4 @@ Psychometric analysis of first-attempt data from the field study: difficulty ind
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [All QCCS v2.2 items fall within acceptable CTT ranges, with difficulties between 0.2 and 0.9 and point-biserial discriminations between 0.26 and 0.51](qccs-ctt-item-difficulty-discrimination-ranges.md) — related

@@ -26,7 +26,8 @@ EduAgent is an open-source LLM-based generative-agent framework developed by Son
 - [Removing past cognitive states or the whole few-shot memory from the agent degrades simulation of all behaviors](../claims/ablation-memory-components-student-simulation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [TutorLoop](tutorloop.md)
 
 ## Key Sources
 - Songlin Xu, Xinyu Zhang, Lianhui Qin. (2024). EduAgent: Generative Student Agents in Learning. Preprint. https://arxiv.org/abs/2404.07963

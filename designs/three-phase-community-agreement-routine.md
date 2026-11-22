@@ -40,7 +40,8 @@ The article organizes CoBi around a routine in which "students establish, enact,
 - [Cobi Requires Professional Learning For Integrity](../claims/cobi-requires-professional-learning-for-integrity.md) [~M]
 
 ## Related Designs
-- 
+
+- [Physics agreement pedagogy: extending community agreements to disciplinary content with four key features](physics-agreement-pedagogy.md)
 
 ## Examples
 -

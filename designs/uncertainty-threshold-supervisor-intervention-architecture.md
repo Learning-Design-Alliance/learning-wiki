@@ -44,6 +44,7 @@ The paper's conversational agent couples NLP modules (dialogue act classificatio
 ## Related Designs
 
 - [Three-module speech-to-sign-language translation architecture with a rule-based translation core](speech-to-sign-translation-three-module-architecture.md)
+- [Supervisor architecture enforcing answer-withholding as a per-turn, machine-checkable contract outside the generating model](supervisor-architecture-withholding-contract.md)
 
 ## Examples
 -

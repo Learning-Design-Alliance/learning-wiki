@@ -60,3 +60,4 @@ Faculty survey of N=63 introductory QISE courses at US institutions classifying 
 - [Students reported lower familiarity with quantum benchmarking and applications than with fundamentals](q-beast-students-weak-benchmarking-applications.md) — related
 - [A simplified common QIST vocabulary, including terms like qubits and measurement basis, is emerging to prioritize conceptual clarity for interdisciplinary stakeholders](qist-common-vocabulary-emerging.md) — related
 - [A preliminary expert-consulted list of core quantum computing concepts comprises ten concepts, with entanglement and superposition mentioned by the most experts](preliminary-quantum-core-concept-list.md) — related
+- [The article identifies seven quantum threshold concepts as conceptual gateways requiring targeted instructional strategies](quantum-threshold-concepts-set.md) — related

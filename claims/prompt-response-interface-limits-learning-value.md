@@ -62,3 +62,5 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
 - [GAI-generated customized prompts in an ITS, supplemented with Wikipedia-based explanations, empirically boosted student performance significantly](korbit-customized-prompts-performance.md) — related
 - [The structured interface increased clear development prompts while in use, but the behavior did not transfer to free ChatGPT use](structured-interface-clear-development-prompts-no-transfer.md) — a narrower finding that bears on this claim
+- [In a simulated interaction, the NuPaD skill file's structural constraints override a GenAI's default tendency toward immediate, superficial answers](nupad-skill-file-overrides-answer-tendency.md) — related
+- [Epistemic prompting differs from prompt engineering in evaluative orientation: epistemic adequacy versus output quality](epistemic-prompting-vs-prompt-engineering-distinction.md) — related

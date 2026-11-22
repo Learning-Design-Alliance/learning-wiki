@@ -46,7 +46,8 @@ Each educational scenario consisted of two learning activities: a semester-long 
 - [Meta Competences Partly Substitute Domain Competences](../claims/meta-competences-partly-substitute-domain-competences.md) [+M]
 
 ## Related Designs
-- 
+
+- [Split-semester CURE design: traditional instruction first half, authentic research investigation second half](split-semester-cure-lecture-then-research.md)
 
 ## Examples
 -

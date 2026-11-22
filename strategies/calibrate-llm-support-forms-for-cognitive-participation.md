@@ -54,6 +54,7 @@ The article recommends that the educational value of future AI assistants lies i
 - [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
 - [Embed structured planning and targeted-generation supports in AI writing tools so students engage with cognition-preserving scaffolds](cognition-preserving-scaffolds-ai-writing-strategy.md)
 - [Three theory-grounded instructional levers for AI-automation tooling: instruction-sequencing scaffolds, self-efficacy supports, and trust-calibration interventions](three-instructional-levers-ai-automation-acceptance.md)
+- [Configure AI teammates to preserve opportunities for human-human exchange](configure-ai-teammates-to-preserve-human-human-exchange.md)
 
 ## Examples
 -

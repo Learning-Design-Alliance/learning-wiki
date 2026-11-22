@@ -49,3 +49,4 @@ Mann–Whitney U comparison of all flow dimensions between the game-based group 
 - [Canadian and Korean students did not differ significantly in overall opinions about GenAI's impact on academic integrity and learning quality, and academic progress did not affect scenario judgments](no-country-difference-in-overall-genai-opinions-or-year-of-study.md) — related
 - [NNG 3's added reward system, level arrangement and Help page did not improve fourth graders' game experiences over NNG 2, and Flow decreased](nng3-reward-help-additions-no-game-experience-gain.md) — related
 - [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) — related
+- [Learning outcomes and usability did not differ between supervised in-person and remote take-home study modalities](scratch-quantum-modalities-no-difference.md) — related

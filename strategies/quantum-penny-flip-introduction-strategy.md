@@ -49,6 +49,7 @@ The article proposes teaching gate-based quantum computing through the Quantum P
 
 - Simple Game With Quantum Advantage Principle
 - [Extend the game with a state-measurement operation to introduce simple quantum algorithms](measurement-operation-future-extension.md)
+- [Extend the Gate of Fate to spatial targeting games and role-playing games where antagonists respond to players' quantum reflexes](gof-extensions-rpg-targeting-strategy.md)
 
 ## Examples
 -

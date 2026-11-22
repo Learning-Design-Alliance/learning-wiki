@@ -52,3 +52,4 @@ In the interview study, participants valued simulation for practicing in a lower
 - [Participants perceive informal training methods as the most important part of leadership training in trauma resuscitation](informal-curriculum-perceived-most-important.md) — related
 - [Perceived ideal training methods differ by learner level: novices benefit from supervision, role modeling, simulation, and didactics, while senior learners benefit from hands-on practice, feedback, and autonomy](learner-level-adaptation-trauma-leadership.md) — related
 - [Only 35% of residencies report any organized patient experience curriculum, most offering multiple modalities](35-percent-organized-pe-curriculum.md) — related
+- [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — related

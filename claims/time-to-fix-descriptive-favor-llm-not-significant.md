@@ -51,3 +51,4 @@ Time-to-fix analysis of the main Prolific experiment, split by skill level; Figu
 - Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related
 - [Fix rate varied substantially across buggy snippets, with snippet A lowest because the standard interpreter message pointed to the non-offending line](fix-rate-varies-by-snippet-misleading-message.md) — related
 - [Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair](proficiency-assessment-predicts-fix-success.md) — related
+- [Response-style effectiveness varies far more in high-cognitive-load and debugging contexts than in conceptual contexts](effectiveness-range-larger-high-load-debugging-contexts.md) — related

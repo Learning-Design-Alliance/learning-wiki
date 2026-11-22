@@ -47,3 +47,4 @@ Aggregate anonymous IASystem course evaluations for the 46-student Spring 2026 s
 
 ## Related Claims
 - [Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment](student-objection-visible-instructor-ai-delegation.md) — related
+- [The redesigned CP1–CP3 sequence was implemented across nine offerings from Spring 2022 through Spring 2026, supporting feasibility rather than effectiveness](cp-sequence-nine-offerings-feasibility.md) — related

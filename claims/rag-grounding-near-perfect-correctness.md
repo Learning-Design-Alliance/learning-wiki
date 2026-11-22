@@ -52,3 +52,4 @@ GPT-based evaluation of pipeline responses on Object-Oriented Design questions. 
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
 - [The RAG-enhanced assistant achieves context recall above 0.93 and answer relevance of 0.87 on an expert-built 52-question evaluation set](rag-assistant-high-recall-relevance.md) — related
 - [Adding RAG context does not improve and appears to reduce MMLU biology accuracy, with the largest declines in the bigger model](rag-context-reduces-small-model-accuracy.md) — related
+- [A RAG-augmented LLM translation pipeline raised pre-human-review translation accuracy from approximately 80% to over 95%](rag-llm-translation-accuracy-above-95-percent.md) — related

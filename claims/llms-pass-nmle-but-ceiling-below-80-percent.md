@@ -72,3 +72,4 @@ The authors' discussion of the performance ceiling identifies three factors: emp
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
 - [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — a narrower finding that bears on this claim
 - [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related
+- [Large model performance drops notably on hard L2-Bench tasks, with the top three models all scoring below 80% on 267 tasks](l2-bench-hard-task-performance-drop.md) — related

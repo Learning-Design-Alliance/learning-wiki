@@ -60,3 +60,5 @@ Emergent coding of approximately 600 optional open-ended text-box responses to C
 - [In the transformed ENG-INT course, 98% of students reported interest in quantum physics after instruction, and no student gave a negative response.](eng-int-nearly-unanimous-post-instruction-interest.md) — related
 - [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related
 - [Third-year students provided definitions more aligned with contemporary physics than other grades](lower-grade-students-contemporary-physics-definitions.md) — related
+- [Participation in the ARISS contact shifted participants' survey responses toward the positive end of the scale across measured domains](ariss-africa-contact-positive-attitude-shift.md) — related
+- [Laboratory instruction shifts students’ justifications for instrument choices from personal considerations toward data-quality considerations](instruction-shifts-justifications-to-data-quality.md) — related

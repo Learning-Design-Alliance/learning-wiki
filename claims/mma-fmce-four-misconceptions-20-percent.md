@@ -50,3 +50,4 @@ Network analysis (MMA) of 3956 FMCE pretest and 3719 post-test incorrect respons
 - [On any given FMCE item, roughly a fifth of students switch answers between the two courses, while the majority (82.4% on average) give consistent responses](fmce-item-level-answer-consistency.md) — related
 - [At less restrictive sparsification thresholds the FMCE yields many more communities, including misconceptions outside the FCI taxonomy](fmce-low-threshold-richer-misconceptions.md) — related
 - [MMA identifies fewer but substantially larger misconception communities on the FMCE than on the FCI, while the FCI covers a broader set of misconceptions](fmce-versus-fci-community-comparison.md) — related
+- [For low-scoring FMCE items with low distractor randomness, roughly 88–89% of incorrect responses match the option coded to the item's documented misconception across two cohorts](low-randomness-items-match-documented-misconception.md) — related

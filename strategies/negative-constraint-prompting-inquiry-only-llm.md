@@ -46,6 +46,7 @@ The article's constraint methodology combines three mechanisms: system prompts w
 - [Improve LLM feedback quality via JSON-schema prompts with hidden scoring keys and preprocessing code into structured dictionaries](llm-prompt-schema-and-preprocessing-strategy.md)
 - [Calibrate LMM danmaku generation with explicit length, frequency, count, and highlight constraints derived from prior danmaku research](calibrated-danmaku-generation-constraints.md)
 - [Prompt misconception generation with positive examples and verbose anti-examples plus explicit length constraints](examples-and-anti-examples-prompt-strategy.md)
+- [Measure-diagnose-fix loop: drive scripted personas through the live system, record each rejection's stated reason, and fix failures by cause](measure-diagnose-fix-loop-recipe.md)
 
 ## Examples
 -

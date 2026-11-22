@@ -51,3 +51,4 @@ Series of two-sample t-tests in a mean-rotated ENA space (Figure 14; Table 5) co
 - [Low performers completed activities on time for fewer topics and showed less catching-up only in early topics, while high performers showed no catching-up on later topics](topic-level-time-management-group-differences.md) — related
 - [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
+- [Mentored and non-mentored participants differ significantly along the ENA X-axis, with a large effect size (Cohen's d = 1.72)](ena-x-axis-mentored-group-difference.md) — related

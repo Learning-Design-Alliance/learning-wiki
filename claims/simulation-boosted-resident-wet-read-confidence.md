@@ -51,3 +51,4 @@ Pre/post 5-point Likert-scale surveys of the 11 PGY-3 residents administered imm
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
 - [FICB procedural simulation produced positive but non-significant increases in residents' perceived comfort and knowledge with performing the procedure](ficb-procedural-simulation-confidence-trend-pilot.md) — related
 - [After simulation training, radiology residents identified injuries requiring surgical attention at the scanner with 85% concordance, 13% higher than the 72% concordance of the control group](simulation-trained-residents-85-percent-scanner-concordance.md) — related
+- [Participation in the ARISS contact shifted participants' survey responses toward the positive end of the scale across measured domains](ariss-africa-contact-positive-attitude-shift.md) — related

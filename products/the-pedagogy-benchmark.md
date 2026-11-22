@@ -36,6 +36,7 @@ A publicly released dataset developed by Lelièvre et al. from curated Chilean t
 - [KG-grounded benchmark of 10,836 solution-feedback pairs for step-level LLM tutoring evaluation](kg-grounded-benchmark-of-10836-solution-feedback-pairs-for-step-level-llm-tutoring-evaluat.md)
 - [PhysicsMate benchmark of 1,834 curriculum-grounded Bengali physics QA pairs](physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs.md)
 - [Large-scale field study dataset and code release for AI-generated exam evaluation](large-scale-field-study-dataset-and-code-release-for-ai-generated-exam-evaluation.md)
+- [Curated middle-school physics concept-to-example retrieval benchmark (force unit)](curated-middle-school-physics-concept-to-example-retrieval-benchmark-force-unit.md)
 
 ## Key Sources
 - Lelièvre, M., Waldock, A., Liu, M., Valdes Aspillaga, N., Mackintosh, A., Ogando Portela, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). Benchmarking the Pedagogical Knowledge of Large Language Models. https://arxiv.org/abs/2506.18710v3

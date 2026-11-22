@@ -42,6 +42,7 @@ The authors propose that an AI tutor consider recent interaction history when de
 ## Related Strategies
 
 - [Detect low-literacy Generation-Factual loops and intervene with prompts steering students toward drafting and requesting critique](real-time-scaffolding-generation-factual-loop.md)
+- [Trajectory-oriented assessment using prompt histories as process evidence](prompt-trajectory-assessment-rubric.md)
 
 ## Examples
 -

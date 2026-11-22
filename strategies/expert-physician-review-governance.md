@@ -48,6 +48,8 @@ The article recommends that AI-generated educational content undergo rigorous in
 - [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 - [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
+- [Use embeddings for exploratory organization and human-in-the-loop review of student solutions, with external validation before any grading use](embeddings-exploratory-human-in-the-loop-review.md)
+- [Hybrid LLM translation with human-in-the-loop expert validation for onboarding documentation](hybrid-llm-human-translation-strategy.md)
 
 ## Examples
 -

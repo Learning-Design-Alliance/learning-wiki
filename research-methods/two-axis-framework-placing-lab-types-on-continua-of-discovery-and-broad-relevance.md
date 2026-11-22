@@ -28,4 +28,4 @@ The article conceptualizes instructional labs along two continua (Fig. 1): disco
 -
 
 ## Key Sources
-- Markert, E., Verostek, M., Dew, M., Chen, X., Lory-Moran, M., Padavan, S., Walia, H., Wittich, P., and Holmes, N.G. (2026). CURE-like, not cure-all: Varying broad relevance in experimentation labs produces similar student outcomes. https://arxiv.org/abs/2606.00464
+- Markert, E., Verostek, M., Dew, M., Chen, X., Lory-Moran, M., Padavan, S., Walia, H., Wittich, P., and Holmes, N.G. (2026). CURE-like, not cure-all: Varying broad relevance in experimentation labs produces similar student outcomes. https://arxiv.org/abs/2606.00464. [doi:10.48550/arxiv.2606.00464](https://doi.org/10.48550/arxiv.2606.00464)

@@ -45,6 +45,7 @@ The system implements Retrieval-Augmented Generation via the GraphRAG framework,
 - [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
 - [Intelligent digital textbook framework with LLM-powered structured dialogue for reading comprehension support](intelligent-digital-textbook-llm-structured-dialogue.md)
 - [RAG-based GenAI chatbot used as the AI-assisted learning support in the external validity study](rag-genai-chatbot-learning-task.md)
+- [Markdown textbook with Wiki RAG and custom structural tags](nupad-markdown-textbook-wiki-rag.md)
 
 ## Examples
 -

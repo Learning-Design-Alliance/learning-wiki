@@ -24,7 +24,8 @@ EduTwin is a released dataset-and-code package by Songlin Xu et al. for reproduc
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TutorLoop](tutorloop.md)
 
 ## Key Sources
 - Songlin Xu and Xinyu Zhang. (2023). Leveraging generative artificial intelligence to simulate student learning behavior. https://arxiv.org/abs/2310.19206

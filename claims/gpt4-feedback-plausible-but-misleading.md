@@ -61,3 +61,4 @@ Qualitative analysis of AI-generated feedback summaries for the 25 solutions. Th
 - [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](llm-feedback-20-percent-errors.md) — related
 - [AI feedback across rubric items was mostly correct application but included a non-negligible share of reasonable-but-superficial and invalid evaluations](ai-feedback-item-level-classification.md) — related
 - [A GPT-4o verification layer reduced the rate of incorrect feedback from 23% to 1.2% in the feedback-matching pipeline](gpt4o-verification-reduces-incorrect-feedback.md) — related
+- [AstroTutor exhibited role drift toward unstable authority, including a grade-like mark suggestion and hallucinated or dimensionally problematic physics formulations, creating a verification burden](genai-unstable-authority-role-drift.md) — a narrower finding that bears on this claim

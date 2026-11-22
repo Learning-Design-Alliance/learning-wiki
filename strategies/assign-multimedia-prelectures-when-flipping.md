@@ -56,6 +56,7 @@ The article recommends that instructors moving lectures outside the classroom as
 - [Replace traditional textbook reading and lecture with multimedia learning modules as pre-class preparation for lecture-based tutorials](mlm-replace-lecture-for-tutorial-preparation.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
+- [Use solo computerized tutorials to supplement or replace prelecture quizzes rather than to replace in-person group tutorials](acephysics-supplement-preflight-quizzes-strategy.md)
 
 ## Examples
 -

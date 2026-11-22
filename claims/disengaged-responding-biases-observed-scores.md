@@ -58,3 +58,4 @@ The article's abstract asserts that disengaged responding "often biases observed
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — reports the opposite
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
 - [Detected abuse by non-student users inflated rewards and biases the learning slope estimate downwards](cryptocurrency-reward-abuse-detected.md) — a narrower finding that bears on this claim
+- [Rapid-guessing filtering with a response-time-effort cutoff of 0.8 removed 6.5% of sufficiently complete QCCS v2.2 responses](qccs-rapid-guessing-rte-filtering.md) — a narrower finding that bears on this claim

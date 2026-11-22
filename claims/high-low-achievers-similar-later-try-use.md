@@ -50,3 +50,4 @@ Homework performance separated by students above or below the median of combined
 - [Students earning F grades attempted the most Quizzical questions, while A–C students showed similar, regular engagement patterns](grade-category-engagement-patterns.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
+- [Across most exercises the attempt-count distribution is dense at low values with a long thin upper tail, distinguishing exercises needing targeted scaffolding for a struggling minority from uniformly hard ones.](long-tail-attempt-distributions-targeted-scaffolding.md) — related

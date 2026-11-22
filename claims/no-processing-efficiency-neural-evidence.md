@@ -53,3 +53,4 @@ Two cluster-based validation analyses in the MT group tested for generally decre
 - [The active group improved faster during training, reaching a capacity plateau after six days, while the sham group rose more slowly](tdcs-accelerates-early-training-gains-plateau.md) — related
 - [The training-induced odd-even P200 and theta effects predict the magnitude of children's memory improvement](odd-even-neural-effects-predict-memory-increment.md) — related
 - [After mnemonic training, children show enhanced P200 amplitude for even- versus odd-position digits during encoding](p200-odd-even-pattern-post-mnemonic-training.md) — related
+- [Subjective preference modulates neural engagement states (theta/alpha patterns) even though it does not optimize test performance](preference-modulates-neural-engagement-not-performance.md) — related

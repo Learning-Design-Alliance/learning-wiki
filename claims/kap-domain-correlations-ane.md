@@ -55,3 +55,4 @@ Spearman correlation analysis of KAP domain scores in the 931-nurse cross-sectio
 - [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related
 - [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — possibly the same claim (merge candidate)
 - [Attitudes toward PBL, GPA, and PBL scores are positively and significantly intercorrelated](attitude-gpa-pbl-positive-correlations.md) — related
+- [Per-domain correlations show credit management and spending are the strongest behavioral predictors of learning gain, while investment logic does not reach significance due to a ceiling effect and sparse events](per-domain-credit-spending-strongest-predictors.md) — related

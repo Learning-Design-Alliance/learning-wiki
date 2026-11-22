@@ -60,3 +60,5 @@ Paired comparisons in Sec. 5.2 of reasoning variants against their base models (
 - [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — reports the opposite
 - [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
+- [Gated student archetypes, unlike prompted students, show the selectivity and informativeness needed for outcome-based teacher training: improvement concentrated on matched teacher-student pairs and lower complaint rates](gated-archetypes-selective-informative-vs-prompted.md) — related
+- [The module reports design and alignment only, with no measured learning gains or classroom efficacy data](no-efficacy-data-reported-module.md) — related

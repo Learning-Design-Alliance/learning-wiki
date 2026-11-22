@@ -52,3 +52,4 @@ Three researchers independently coded items, and DINA-based analysis of posttest
 - [A saturated G-DINA Q-matrix validation found 89% overlap between the expected and measured competencies in a blueprint-based medical school selection procedure (n = 547 applicants).](g-dina-q-matrix-validation-89-percent-overlap-selection-blueprint.md) — related
 - [Time pressure affected performance on the last items of both selection tests and was subsequently included as a construct in the G-DINA analyses.](time-pressure-effect-final-selection-items.md) — related
 - [Data-driven Q-matrix validation flagged 26 of 306 expert codings and the coders adopted 13, an overall adoption rate of 50%](qmatrix-validation-adoption-rates.md) — related
+- [DIF severity classifications are 100% invariant across alternative FCI Q-matrix specifications](fci-dif-severity-invariant-across-q-matrices.md) — related

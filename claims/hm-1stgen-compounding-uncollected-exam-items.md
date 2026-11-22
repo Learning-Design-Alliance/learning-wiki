@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 recheck_by: 2031
 sources:
   - id: cassandra-paul-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` First-generation students from historically marginalized (HM) groups have exam items uncollected at about twice the rate of non-1stGen, non-HM students in CourseI classes. [→ Cassandra Paul 2026](#cassandra-paul-2026)

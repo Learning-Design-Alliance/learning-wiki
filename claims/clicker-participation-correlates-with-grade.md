@@ -47,3 +47,4 @@ Observational analysis of the 629-student sample relating clicker participation 
 ## Related Claims
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [About 70% of students accurately self-reported reading guide completion via daily clicker questions, with roughly 15% overreporting and 15% underreporting, and the headline correlation survives the projected 30% error](reading-guide-self-report-accuracy-validation.md) — related
+- [Participation in the Public Exam revision process is positively correlated with average exam grade in an introductory physics course (slope 0.142±0.028, p=3.1×10⁻⁷)](participation-exam-grade-correlation-nmsu-physics.md) — related

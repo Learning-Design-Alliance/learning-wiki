@@ -69,3 +69,4 @@ Rank-order analysis of the same false-solution condition. The article reports co
 - [LLM markers show robust rank-order agreement with human markers on blind university exam questions and structured curriculum questions](llm-rank-order-agreement-structured-physics-questions.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](llm-ospe-rank-agreement-paradox.md) — related
+- [Error injection validation shows each SLATE dimension selectively degrades under its targeted corruption, and answer leakage inflates posttest scores while destroying far-transfer performance](slate-error-injection-construct-validity.md) — related

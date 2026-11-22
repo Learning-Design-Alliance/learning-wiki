@@ -55,3 +55,4 @@ Descriptive length comparison of real versus GPT-4o-generated submissions across
 - [Longer APSS responses received higher scores, particularly for the scenario-application question (r = 0.70)](response-length-score-correlation-apss.md) — related
 - [AI-generated code examples are shorter than student-generated code, while AI explanations are longer than student explanations](ai-code-shorter-explanations-longer-than-students.md) — a narrower finding that bears on this claim
 - [Confirmatory Check prompting produces the most concise LLM answers, though refinement sometimes reduced quality](confirmatory-check-most-concise-answers.md) — related
+- [Post-instruction, students who improved on a free-text FCI item gave shorter, more concise answers, while students with persistent difficulties gave longer answers](ftr-word-count-tracks-understanding-nmq34.md) — related

@@ -53,3 +53,4 @@ An exploratory blinded review in which 25% of student responses were double mark
 - [Students rate AI-generated and student-generated learning resources as statistically equivalent in code correctness, explanation correctness and helpfulness after blind peer review](ai-resources-rated-equivalent-to-student-resources.md) — related
 - [Student researchers perceived GPT-generated and human-written feedback as equally correct, with no clear trend favoring either](students-rate-gpt-feedback-equally-correct.md) — related
 - [The GAI hint-generating workflow produced feedback statistically indistinguishable from expert teachers' feedback and was rated helpful by most students](gai-hint-workflow-quality-validation.md) — possibly the same claim (merge candidate)
+- [In a small blinded human pilot, ToST receives the strongest learner self-ratings on helpfulness, clarity, willingness to continue, and manageability](tost-human-pilot-learner-ratings.md) — related

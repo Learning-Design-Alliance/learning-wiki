@@ -68,3 +68,4 @@ McNemar change test on the secondary cohort's Question 4 responses across all th
 - [Pass-rates on the neural transmission speed question declined significantly between one and six weeks after the lecture, though they remained above baseline](question2-decline-time2-to-time3.md) — related
 - [No significant difference between primary and secondary students in the rate of improvement from the lecture, despite secondary students' higher baseline](no-age-difference-in-improvement.md) — related
 - [The 10% brain-use misconception was widely endorsed by children before the lecture but consistently rejected at one and six weeks after the lecture, in a single-group pre-post study](ten-percent-misconception-corrected.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

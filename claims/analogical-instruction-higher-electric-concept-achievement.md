@@ -54,3 +54,4 @@ Independent group t-test comparing post Electric Concept Test scores in a non-eq
 - [Analogical instruction had almost no effect on students' attitudes towards physics](analogical-instruction-no-attitude-effect.md) — related
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related
 - [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](analogy-group-radically-different-curve-performance.md) — related
+- [Students significantly improved overall DIRECT performance after instruction, yet TMA showed they did not typically have solid understanding of direct current circuit power](overall-gain-masks-unstable-resource-activation.md) — related

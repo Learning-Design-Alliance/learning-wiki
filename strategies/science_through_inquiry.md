@@ -72,6 +72,7 @@ Inquiry can produce strong conceptual gains, but only when it is scaffolded: ung
 - [Targeted low-resource revisions that raise the inquiry level of existing laboratory activities](targeted-inquiry-revision-strategies.md)
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](four-phase-scientific-inquiry-conceptual-change-strategy.md)
 - [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](open-problem-discrepancy-knowledge-construction.md)
+- [Phenomenon-based learning cycle: observation, questioning, investigation, modelling, explanation, extension](quantum-phenomenon-inquiry-cycle.md)
 
 ## Related Elements
 - [Question Formulation](../elements/question-formulation.md) — the entry point; question quality constrains everything downstream

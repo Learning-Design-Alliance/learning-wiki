@@ -45,7 +45,8 @@ This pattern organizes a large-enrollment CURE around four recurring components:
 - [Cure Scales Over 60 Students Semester](../claims/cure-scales-over-60-students-semester.md) [+M]
 
 ## Related Designs
-- 
+
+- [Split-semester CURE design: traditional instruction first half, authentic research investigation second half](split-semester-cure-lecture-then-research.md)
 
 ## Examples
 -

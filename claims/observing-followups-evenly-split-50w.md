@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: eric-matthew-hickok-2015
+  - id: eric-matthew-hickok-2016
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
-    title: "Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
+    title: "Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)"
     author: Eric Matthew Hickok
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Observing in Physics 50W led to Closed Dialogue, Clarifying Instruction, Explaining Content, and Listening to Questions with nearly the same frequency. [→ Eric Matthew Hickok 2015](#eric-matthew-hickok-2015)
+`q2 i?` Observing in Physics 50W led to Closed Dialogue, Clarifying Instruction, Explaining Content, and Listening to Questions with nearly the same frequency. [→ Eric Matthew Hickok 2016](#eric-matthew-hickok-2016)
 
 ## Evidence
 
-### Eric Matthew Hickok 2015
+### Eric Matthew Hickok 2016
 
-Eric Matthew Hickok. (2015). Teaching practices of graduate teaching assistants. San José State University Master's Project. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
+Eric Matthew Hickok. (2016). Teaching practices of graduate teaching assistants. San José State University Master's Project. Originally published 2015. [doi:10.48550/arXiv.1602.07740](https://doi.org/10.48550/arXiv.1602.07740)
 
 `q2 · i?` · `associational · r1`
 
@@ -47,3 +47,4 @@ Time-series analysis of a Python script over Physics 50W observation data showin
 ## Related Claims
 - [Physics 50W workshop TAs showed much greater variation in time allocation than lab TAs, splitting time nearly evenly between whole class, small groups, individuals, and not interacting](physics50w-high-ta-variation.md) — related
 - [Across four TA-taught courses, TAs spent about a third of observed time talking at students, under a fifth talking with or observing them, and nearly 45% not interacting](ta-default-interaction-breakdown-riot.md) — related
+- [In a small-group physics class, the instructor spent most time clarifying instructions and observing while the LA spent most time explaining content and dialoguing](riot2-la-instructor-behavior-differences-small-groups.md) — related

@@ -53,3 +53,4 @@ The author's survey-style assessment of introductory physics instruction, stated
 - [Teaching science theory intimately connected to techniques and applications would facilitate students' persistence in grappling with difficult concepts such as quantum mechanical principles](theory-technique-connection-persistence.md) — related
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — a broader claim this one bears on
 - [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — a broader claim this one bears on
+- [The historical approach to teaching QM at high school stops before the mature framework of QM, omitting its postulates and key consequences](historical-approach-omits-qm-postulates.md) — related

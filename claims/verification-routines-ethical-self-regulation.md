@@ -81,3 +81,4 @@ Qualitative thematic analysis of the same reflections (Theme 4, metacognitive re
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related
 - [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — possibly the same claim (merge candidate)
+- [Students' principal concerns about P-A.I.R. were mismatch between AI solutions and in-class methods, and AI accuracy and trust](pair-ai-alignment-accuracy-concerns.md) — related

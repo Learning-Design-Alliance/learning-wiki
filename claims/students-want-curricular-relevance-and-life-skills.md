@@ -103,3 +103,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — a narrower finding that bears on this claim
 - [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related
 - [Managers value cross-domain fluency connecting quantum computation with domain areas such as chemistry, finance, AI, and optimization](cross-domain-fluency-quantum-applications-valued.md) — a narrower finding that bears on this claim
+- [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related

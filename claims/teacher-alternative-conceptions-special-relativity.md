@@ -77,3 +77,4 @@ The review reports, citing De Hosson, Kermen & Parizot (2010), "a deep lack of u
 - [Teachers hold documented wrong concepts about special relativity, including treating E=mc2 as a mere unit-conversion formula and equating reference frame, coordinate system and observer](teacher-wrong-concepts-relativity-aleman.md) — related
 - [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
 - [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related
+- [Whole-class discussion traced students' simultaneity difficulty to a tacit agreement assumption, leading to official revision that time and position of an event depend on reference frame](simultaneity-agreement-revision.md) — related

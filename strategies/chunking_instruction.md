@@ -59,9 +59,11 @@ Working memory can hold only a few novel elements at once; instruction that pres
 6. Increase chunk size and reduce support as learners gain expertise, merging chunks into larger wholes ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Segmenting](segmenting.md) — the multimedia-learning counterpart: letting learners control pacing across segments
 - [Spiral Curriculum](../elements/spiral-curriculum.md) — revisits chunks over time to build integration and retention
 - [Mastery Learning](mastery-learning.md) — gates progression on consolidation of each chunk
+- [Report video purpose, learner activity, context, outcomes and duration together, and design each video around a coherent learning unit rather than a minute limit](report-purpose-activity-context-duration-together.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — lessons split into short videos and practice sets, each covering one concept, with mastery checks gating progression to the next chunk.

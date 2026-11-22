@@ -48,3 +48,4 @@ Kruskal-Wallis test with Dunn's post-test comparing questionnaire scores across 
 - [Item MSLQ_22 and MBI_08 scores are negatively correlated with performance in the high-grade group](high-grade-item-negative-correlation.md) — related
 - [Middle-grade students' e-learning performance correlates strongly with self-efficacy for learning and performance](middle-grade-self-efficacy-correlation.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
+- [MSLQ motivation data show modest intrinsic value, higher extrinsic motivation, low interest in physics for its own sake, and high emphasis on grade importance](mslq-motivation-profile-nmsu-physics-students.md) — related

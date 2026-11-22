@@ -46,6 +46,7 @@ As a planned future development, students display their final course project in 
 - [Creating Beautiful Spaces in PBL](creating_beautiful_spaces_in_pbl.md)
 - [Structure poster presentations around the claim-evidence-reasoning formulation to build communication skills](claim-evidence-reasoning-poster-presentations.md)
 - [Racial Equity in PBL - Create Beautiful Spaces](racial_equity_in_pbl_-_create_beautiful_spaces.md)
+- [Have CURE students disseminate their findings through conference poster presentations](cure-conference-poster-dissemination.md)
 
 ## Examples
 -

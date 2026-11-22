@@ -50,3 +50,4 @@ Statistical comparison of the 30 LPCA items' difficulty (CTT P vs reversed IRT b
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) — related
 - [Most LPCA items meet CTT difficulty and discrimination criteria, but nine items show low discriminating power and items 18 and 28 violate IRT monotonicity](lpca-flagged-items-low-discrimination.md) — related
 - [The 2-PL model is the best-fitting IRT model for the LPCA dataset](2pl-best-fit-lpcb-irt-model.md) — related
+- [MCQ and FTR formats of the same item show similar IRT discrimination but different difficulty, and CTT and IRT disagree on which format is easier](irt-mcq-ftr-format-comparison-nmq25.md) — related

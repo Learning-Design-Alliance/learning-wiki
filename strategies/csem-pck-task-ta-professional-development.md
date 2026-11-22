@@ -58,6 +58,7 @@ In this strategy, TAs are given a standardized conceptual multiple-choice test s
 - [Explicitly ask TAs to first identify alternate conceptions for each incorrect answer choice before deciding which is most common](ta-pck-task-identify-alternate-conceptions-first.md)
 - [Incorporate individual and group activities about introductory student difficulties using conceptual assessments like the TUG-K into TA training and professional development](pck-tugk-activities-ta-training-strategy.md)
 - [Use TUG-K style PCK tasks in TA and new-faculty professional development, followed by discussion of common student difficulties](pck-task-ta-professional-development-strategy.md)
+- [Professional development activity: TAs predict students' most common incorrect answers on a validated conceptual survey, then compare with actual student data and discuss](ta-pck-prediction-comparison-discussion-activity.md)
 
 ## Examples
 -

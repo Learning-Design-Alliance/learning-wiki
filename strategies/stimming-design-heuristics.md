@@ -48,7 +48,9 @@ The article proposes three guiding heuristics for instructional design that embr
 - [Infant stereotyped repetitive movements precede and scaffold the development of goal-directed motor skills](../claims/infant-stereotypies-foundational-to-motor-development.md) [+W]
 
 ## Related Strategies
+
 - Balance Board Math Bbm
+- [Eight tangible instructor actions to shift physics culture toward neuro-inclusivity](eight-neuro-inclusive-physics-classroom-actions.md)
 
 ## Examples
 -

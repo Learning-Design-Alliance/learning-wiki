@@ -68,3 +68,4 @@ Descriptive transcript analysis of 2003-09 CPS graduates (N=90,041) excluding sp
 - [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — related
 - [Enrollment patterns differ by race/ethnicity mainly in that Asian students more often choose biological sciences, economics, and other STEM, while URM and White students choose similar major distributions](enrollment-patterns-by-race-ethnicity.md) — related
 - [Schools with higher %Hispanic and %SED offer less physics access: 73.8% of lower-left-quadrant schools offered at least one AP course versus 39% of upper-right-quadrant schools](quadrant-ap-access-gap.md) — related
+- [High- and medium-ability Black and Hispanic students from lower-SES backgrounds enroll in intensified ELA at substantially lower rates than similarly prepared peers](under-enrollment-black-hispanic-low-ses-high-ability.md) — related

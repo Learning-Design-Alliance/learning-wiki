@@ -18,7 +18,7 @@ sources:
 # Conceptual Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 14 studies (10 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 6 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 15 studies (10 causal, 2 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 6 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently. It is useful when the challenge is conceptual complexity rather than only procedural execution.
@@ -47,6 +47,7 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-transfer-effect.md) [~W]
 - [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](../claims/website-reliability-evaluation-similar-across-groups.md) [-W]
+- [Students explicitly referenced the \"light speed is the same\" agreement item when articulating wavefront ordering in the tape player scenario](../claims/tape-player-light-speed-item-referencing.md) [+W] — attached 2026-11-21 from Rachel E. Scherr et al. (2026), which proposed "Proposed Physics Agreement box on tutorial worksheets".
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

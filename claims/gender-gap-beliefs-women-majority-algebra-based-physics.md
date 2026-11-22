@@ -53,3 +53,4 @@ Pre/post survey of 501 students (35% male, 65% female) in physics 1 for bioscien
 - [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related
 - [Test anxiety increased over the duration of both physics courses for men and women, with women higher in anxiety throughout; self-efficacy declined over Physics 1, and over Physics 2 for women only](test-anxiety-increases-over-course-duration.md) — related
 - [Men reported higher PISE and higher physics self-efficacy than women across all TWA/TWG groups and both periods, with the self-efficacy gap widest for TWA students during COVID (d ~ 0.66)](men-higher-pise-and-self-efficacy-across-groups.md) — related
+- [Gender and course type predict gender stigma consciousness and sense of belonging in introductory physics](gender-course-type-predict-belonging-stigma.md) — related

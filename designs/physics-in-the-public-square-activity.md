@@ -49,4 +49,4 @@ An outreach activity held at Praça da Cultura in Imperatriz, Maranhão on Novem
 -
 
 ## Key Sources
-- Marinho, A. A. A., Freitas, G. B., da Silva, C. B. C. (2026). Physics in the Public Square: University Extension as a Strategy for Integrating Physics Education and Science Communication. https://arxiv.org/abs/2605.18384
+- Marinho, A. A. A., Freitas, G. B., da Silva, C. B. C. (2026). Physics in the Public Square: University Extension as a Strategy for Integrating Physics Education and Science Communication. https://arxiv.org/abs/2605.18384. [doi:10.48550/arxiv.2605.18384](https://doi.org/10.48550/arxiv.2605.18384)

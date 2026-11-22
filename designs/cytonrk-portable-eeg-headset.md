@@ -43,6 +43,7 @@ The CytonRK is a bespoke head-mounted EEG device built by the lead author becaus
 
 - [Simulated classroom assessment with educational films, quizzes, and video/EEG monitoring](simulated-classroom-film-quiz-assessment.md)
 - [Automated Matlab signal pipeline synchronizing EDA, EEG, and survey data](signal-pipeline-tool-multimodal-classroom.md)
+- [Closed-loop MMLA engagement-detection pipeline with dual-device EEG validation](mmla-closed-loop-eeg-engagement-pipeline.md)
 
 ## Examples
 -

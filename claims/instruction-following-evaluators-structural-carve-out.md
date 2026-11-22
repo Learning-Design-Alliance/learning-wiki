@@ -49,3 +49,4 @@ Best candidate configurations for the five carved-out Instruction-Following eval
 - [Post-calibration evaluators captured 100% of synthetic egregious failures across all 21 deployed evaluators, up from a pre-calibration range of 73.3–100%](egregious-capture-100-percent-after-calibration.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
 - [Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers](pooling-repeated-llm-grades-does-not-improve-agreement.md) — related
+- [An automated calibration loop drove a deployed LLM tutor to full compliance on all four acceptance gates, reaching a 0% earnest revise rate and 100% hint-ceiling compliance](llm-tutor-full-compliance-four-gates.md) — related

@@ -54,6 +54,7 @@ The article recommends that TA training courses include tasks in which teaching 
 - [Use a predict-the-most-common-incorrect-answer task with a standardized concept survey in TA professional development to engender discussion of student difficulties](csem-pck-task-ta-professional-development.md)
 - [Run the brachistochrone activity in groups of four with learning assistants, allow fifty minutes, give hints, and provide the correct graphs at the end](brachistochrone-activity-implementation-recommendations.md)
 - [Use identified lab challenges, such as graph-interpretation difficulties, as the basis for deeper exploration in later lectures](lab-challenges-as-lecture-exploration-basis.md)
+- [Professional development activity: TAs predict students' most common incorrect answers on a validated conceptual survey, then compare with actual student data and discuss](ta-pck-prediction-comparison-discussion-activity.md)
 
 ## Examples
 -

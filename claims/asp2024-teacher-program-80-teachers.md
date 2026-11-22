@@ -69,3 +69,4 @@ Anonymous survey of responding high school teachers reported in the feedback sec
 - [The 2022 ASP Learners Program reached 231 high school learners across five daily workshops combining hands-on particle physics activities with open Q&A with physicists](asp2022-learners-program-231-learners.md) — related
 - [The ASP2024 learners program engaged over one thousand high school pupils, averaging about 200 pupils per day across five venues during April 15–19, 2024](asp2024-learners-outreach-1000-pupils.md) — related
 - [ASP2024 received 534 student applications from 50 countries, the largest application count of any ASP edition, with about 200 students selected through a 25-member committee review](asp2024-534-applications-200-selected.md) — related
+- [Eighty Kenyan teachers, selected nationally by the Ministry of National Education, attended the ASP2026 teacher training workshop and mostly reported satisfaction](asp2026-80-teacher-training.md) — related

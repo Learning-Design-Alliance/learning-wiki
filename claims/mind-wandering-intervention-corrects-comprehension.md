@@ -53,3 +53,4 @@ An intelligent computerized reading interface detected mind wandering in real ti
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
 - [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](mind-wandering-resource-for-regulation.md) — related
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](online-module-ten-percent-mind-wandering-q3.md) — related

@@ -52,3 +52,4 @@ Survey 1 open-ended responses about a spiral galaxy photograph (Figure 3): most 
 - [Teachers' language reflected a substance-based, agentive ontology of gravity, treating gravity as an active noun participant capable of pulling](gravity-agent-metaphor-teacher-talk.md) — related
 - [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — related
 - [70% of Boyacá secondary students do not accurately locate the Solar System within the Milky Way](boyaca-students-milky-way-location-70-percent-incorrect.md) — related
+- [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related

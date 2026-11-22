@@ -69,3 +69,4 @@ SUS questionnaire completed by the eight HL-group students after tutorials. The 
 - [The mobile game prototype received a high subjective usability rating on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related
+- [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related

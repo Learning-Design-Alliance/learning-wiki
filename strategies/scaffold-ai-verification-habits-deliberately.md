@@ -44,6 +44,7 @@ Because increased AI use in this engineering mechanics cohort did not uniformly 
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
 - [Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange](embed-habitual-ai-engagement-everyday-teaching.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
 
 ## Examples
 -

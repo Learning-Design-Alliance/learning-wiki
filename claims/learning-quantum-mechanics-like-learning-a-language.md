@@ -57,3 +57,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [The authors posit that QP's entirely visual nature enhances understanding of quantum theory by lowering the technical barrier, making it suitable for high-school introduction](qp-visual-approach-lowers-technical-barrier.md) — related
 - [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
+- [The article argues that embedding quantum operations in game mechanics can cultivate quantum intuition through play](quantum-intuition-through-play-argument.md) — related

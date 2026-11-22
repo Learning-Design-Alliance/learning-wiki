@@ -53,6 +53,7 @@ The article distills workshop consensus into concrete steps for launching interd
 - [Curated repository of vetted QISE curricula plus multi-mechanism access to laboratory equipment](qise-curriculum-repository-and-equipment-access-strategy.md)
 - [Sustain a new program through stakeholder feedback structures and active industry partnerships](program-sustainability-feedback-industry-ties.md)
 - [Build QIS-LS collaboration through interdisciplinary groups within departments and centers that use shared empirical data exploration as a common ground](qis-ls-collaboration-mechanisms.md)
+- [Lessons for establishing inter-university programmes: shared vision, research-institute involvement, and flexible cooperation](inter-university-programme-lessons.md)
 
 ## Examples
 -

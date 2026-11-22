@@ -55,3 +55,4 @@ This is the authors' theoretical position statement in the introduction, offered
 - [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
 - [Quantum educators recommend teaching quantum and supporting mathematical concepts early, in high school and early college, to students from diverse backgrounds](early-quantum-teaching-educator-recommendation.md) — a broader claim this one bears on
+- [The article argues that embedding quantum operations in game mechanics can cultivate quantum intuition through play](quantum-intuition-through-play-argument.md) — related

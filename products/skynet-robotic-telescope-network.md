@@ -31,7 +31,7 @@ A UNC-Chapel Hill-operated robotic telescope network and web portal that enables
 - [In a preliminary exploratory study across ten institutions, Skynet-based observing experiences were one of only two course components that led to a statistically significant improvement in STEM attitudes once expected grade and career plans were controlled for](../claims/skynet-observing-significant-stem-attitude-improvement.md) [+M]
 
 ## Related Products and Programmes
--
+
 
 ## Key Sources
 - Adam S. Trotter, Daniel E. Reichart, Aaron P. LaCluyzé & Rachel Freed. (2018). Factors Contributing to Attitudinal Gains in Introductory Astronomy Courses. Robotic Telescopes, Student Research and Education (RTSRE) Proceedings, Vol. 1, No. 1. https://arxiv.org/abs/1910.12630

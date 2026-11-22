@@ -52,3 +52,4 @@ Two-sample t-tests comparing subtracted ENA networks of students above the 90th 
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
+- [No significant difference between mentored and non-mentored groups along the ENA Y-axis](ena-y-axis-no-significant-difference.md) — related

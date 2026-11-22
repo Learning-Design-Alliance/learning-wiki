@@ -166,3 +166,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Experimental teachers reported the Glogster model, tiered assignments and scaffolding were effective for struggling students, though assessment demanded much effort](glogster-tiered-scaffolding-struggling-students.md) — related
 - [Work on assessing computational thinking is in its infancy and built-for-purpose assessment tools may be required](ct-assessment-in-infancy-review-2017.md) — related
 - [Additional scaffolding (SL2) significantly reduces representational consistency compared to SL1, erasing the benefit of the medium level](sl2-additional-scaffolding-detrimental.md) — a narrower finding that bears on this claim
+- [Scaffolded hints were followed by greater confusion decrease in high-cognitive-load and low-confusion conceptual contexts](scaffolded-hints-confusion-decrease-contexts.md) — a narrower finding that bears on this claim

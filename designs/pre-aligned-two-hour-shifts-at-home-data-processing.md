@@ -40,7 +40,8 @@ A reusable lesson-level design for advanced physics labs: the optical setup is p
 - [Students Reconstruct Wigner Vacuum Coherent States](../claims/students-reconstruct-wigner-vacuum-coherent-states.md) [+M]
 
 ## Related Designs
-- 
+
+- [Dual manual-then-automated progression for hands-on quantum kits](dual-manual-automated-kit-progression.md)
 
 ## Examples
 -

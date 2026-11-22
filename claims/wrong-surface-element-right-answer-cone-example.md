@@ -46,3 +46,4 @@ This is the article's worked illustrative example (Section 4), based on the auth
 
 ## Related Claims
 - [Students often fail to use the concept of rotational inertia correctly, which the article attributes to limited exposure to computing moments of inertia](limited-rotational-inertia-computation-hurts-reasoning.md) — related
+- [91% of UK undergraduate physics entrants have not previously seen advanced rotational motion concepts such as moment of inertia](91-percent-rotational-motion-gap.md) — related

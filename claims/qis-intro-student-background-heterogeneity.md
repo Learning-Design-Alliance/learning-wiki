@@ -51,3 +51,4 @@ Instructor survey of introductory QIS courses (N = 28 responses after screening)
 - [Introductory QIS education has expanded to the undergraduate level: 16 of 28 surveyed courses are undergraduate-listed, 7 hybrid, and 5 graduate-only](qis-undergraduate-course-expansion.md) — related
 - [Prerequisites for introductory QIS courses vary substantially, with linear algebra the most common requirement (21 of 28 courses) while most courses require no CS or physics prerequisite](qis-prerequisite-variation.md) — related
 - [Designing QISE courses for students with varied STEM backgrounds is a recognized curriculum weakness](qise-courses-varied-stem-backgrounds.md) — possibly the same claim (merge candidate)
+- [Existing quantum computing instruction shows heterogeneous curricula and persistent misconceptions that survive standard instruction](heterogeneous-quantum-curricula-persistent-misconceptions.md) — related

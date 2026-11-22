@@ -79,6 +79,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 - [Structure self-directed e-learning with a delivery schedule over fixed time periods and recurrent facilitator-led feedback sessions](scheduled-elearning-with-facilitator-feedback-sessions.md)
+- [Adaptively time feedback to moments of declining attention or rising workload rather than delivering at fixed intervals](adaptive-timing-over-fixed-interval-feedback.md)
 
 ## Examples
 -

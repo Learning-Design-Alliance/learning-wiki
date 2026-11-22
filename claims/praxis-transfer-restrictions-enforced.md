@@ -53,3 +53,4 @@ Results of the 120-episode synthetic rehearsal (Results section, workflow and au
 - [GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts](gpt4-high-recall-low-precision-pii-redaction.md) — related
 - [Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall](gpt4-redaction-compared-to-prior-methods.md) — related
 - [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)
+- [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — a broader claim this one bears on

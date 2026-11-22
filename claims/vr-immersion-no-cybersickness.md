@@ -67,3 +67,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
 - [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related
 - [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

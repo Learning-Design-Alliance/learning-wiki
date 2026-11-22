@@ -53,3 +53,5 @@ Benchmarking of fifteen ML/DL models on EEG spectral features from 23 participan
 - Four supervised models (MLP, CNN, PCA-MLP, transformers) were effective for image-based critical heat flux detection with 100% precision, with PCA-MLP fastest at 1s/epoch and the transformer slowest at 212s/epoch — related
 - [Trial-level spectral features robustly differentiate stimulus domains (faces vs. equations) but no familiarity-driven spectral shift survives FDR correction](domain-robust-familiarity-subtle-univariate-eeg.md) — related
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
+- [Error injection validation shows each SLATE dimension selectively degrades under its targeted corruption, and answer leakage inflates posttest scores while destroying far-transfer performance](slate-error-injection-construct-validity.md) — related
+- [EEG theta and alpha spectral features classify preference-matched versus mismatched instructional epochs at 83.21% accuracy with OpenBCI hardware](eeg-classification-preference-matching-openbci-83.md) — related

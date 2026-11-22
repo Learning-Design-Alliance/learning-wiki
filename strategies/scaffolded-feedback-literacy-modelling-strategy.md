@@ -43,6 +43,7 @@ Because not all students possess the metacognitive readiness to act on reflectiv
 - [Use hybrid AI feedback combining directive guidance with reflective prompts in large-enrolment and online courses](hybrid-ai-feedback-large-courses-strategy.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Guide Student Reflection](guide_student_reflection.md)
+- [Combine required written justification with explicit metacognitive scaffolding prompts](justification-plus-metacognitive-scaffolding-strategy.md)
 
 ## Examples
 -

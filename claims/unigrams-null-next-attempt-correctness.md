@@ -49,3 +49,4 @@ Exploratory χ²-based unigram analysis of N = 838 tested unigram pairs from thi
 - [Closeness centrality predicts anxiety shift before but not after false-discovery-rate correction, while outdegree remains significant](closeness-significance-false-discovery.md) — related
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related
 - [Students produce significantly longer think-aloud utterances during gaming-the-system periods than during non-gaming periods](longer-utterances-during-gaming-clips.md) — related
+- [The overall pattern of associations between interaction patterns and AI knowledge outcomes was unlikely to have occurred by chance](correlation-pattern-nonrandom-monte-carlo.md) — related

@@ -71,3 +71,4 @@ Overall model test for the same regression of perceived learning outcomes on the
 - [Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics](practice-frequency-predicts-posttest-performance.md) — reports the opposite
 - [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — related
 - [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
+- [The X1-X2-X3 structure made GenAI use visible and assessable as part of the assessed performance itself](x123-made-ai-use-visible-assessable.md) — related

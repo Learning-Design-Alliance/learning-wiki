@@ -84,6 +84,7 @@ Committing to a prediction before instruction activates prior conceptions and cr
 - [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](../strategies/predict-then-simulate-lake-level-tasks.md)
 - [Invite student-generated questions from the problem context to launch additional learning cycles in which students identify variables, hypothesize, design experiments, and test predictions](../strategies/garlic-student-question-learning-cycles.md)
 - [Use challenging, low-cost Predict–Observe–Explain experiments that put students' alternative conceptions about fluid pressure into play](../strategies/poe-fluid-misconception-experiments.md)
+- [Structure device activities in prediction, observation and explanation stages with comparison-focused tasks](../strategies/poe-comparison-sequence-3d-printed-devices.md)
 
 ## Key Sources
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)

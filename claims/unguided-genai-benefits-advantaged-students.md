@@ -54,3 +54,4 @@ Authors' interpretive argument (type e) in the discussion, not a tested result: 
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](high-teaching-guidance-larger-concept-map-effects.md) — related
+- [Friction-based interventions may widen gaps because justification helps students apply domain knowledge they already have but does not support what they lack](friction-may-widen-domain-knowledge-gaps.md) — related

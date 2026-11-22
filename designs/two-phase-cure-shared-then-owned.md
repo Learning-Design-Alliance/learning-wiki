@@ -42,7 +42,8 @@ The article's research experience is designed in two phases within a regular cou
 - [Cures Classification Accuracy 61 Percent](../claims/cures-classification-accuracy-61-percent.md) [+M]
 
 ## Related Designs
-- 
+
+- [Split-semester CURE design: traditional instruction first half, authentic research investigation second half](split-semester-cure-lecture-then-research.md)
 
 ## Examples
 -

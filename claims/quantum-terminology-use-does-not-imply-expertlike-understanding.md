@@ -48,3 +48,4 @@ From the interview analysis: an a priori coding schema based on terms like super
 - [The analog classical computer thought experiment prompted students to shift toward more expertlike explanations citing entanglement](analog-classical-computer-thought-experiment-elicits-expertlike-shifts.md) — related
 - [Students frequently attribute the classical-quantum distinction to the continuous nature of the quantum state, a framing better understood as analog-digital than quantum-classical](students-frame-quantum-difference-as-analog-digital.md) — related
 - [Students commonly confuse superposition with entanglement, overgeneralizing that any multi-qubit superposition state is entangled, and the tutorial improves performance on this distinction](superposition-entanglement-confusion.md) — related
+- [The article identifies seven quantum threshold concepts as conceptual gateways requiring targeted instructional strategies](quantum-threshold-concepts-set.md) — related

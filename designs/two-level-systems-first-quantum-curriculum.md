@@ -44,6 +44,7 @@ The article argues that developing introductory quantum mechanics with two-level
 ## Related Designs
 
 - [Hands-on quantum course pattern: progressive spin systems combining analytical exercises with reproducible simulations](progressive-spin-systems-hands-on-pattern.md)
+- [The two-state (qubit-first) approach as the framework for a pedagogical reconstruction of QM at high-school level](qubit-first-pedagogical-reconstruction-qm.md)
 
 ## Examples
 -

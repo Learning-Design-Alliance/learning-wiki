@@ -64,3 +64,4 @@ The article states accumulated research has advanced "our understanding of its d
 - [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — related
 - [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](disengagement-diluted-by-engaged-majority.md) — a narrower finding that bears on this claim
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
+- [Rapid-guessing filtering with a response-time-effort cutoff of 0.8 removed 6.5% of sufficiently complete QCCS v2.2 responses](qccs-rapid-guessing-rte-filtering.md) — a narrower finding that bears on this claim

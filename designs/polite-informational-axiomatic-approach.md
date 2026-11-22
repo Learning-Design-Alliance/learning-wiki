@@ -41,7 +41,8 @@ The thesis's central pedagogical approach to quantum physics is a "polite inform
 - 
 
 ## Related Designs
-- 
+
+- [The two-state (qubit-first) approach as the framework for a pedagogical reconstruction of QM at high-school level](qubit-first-pedagogical-reconstruction-qm.md)
 
 ## Examples
 -

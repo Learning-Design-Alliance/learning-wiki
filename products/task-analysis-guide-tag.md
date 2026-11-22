@@ -28,4 +28,4 @@ The Task Analysis Guide, developed by Stein and Smith, classifies mathematical t
 -
 
 ## Key Sources
-- Fox, D. S., Robles, B. L., DiPietro Brovey, E., & Schunn, C. D. (2026). Temporal Stability and Few-Shot Prompting in Math Task Assessment. https://arxiv.org/abs/2603.03512
+- Fox, D. S., Robles, B. L., DiPietro Brovey, E., & Schunn, C. D. (2026). Temporal Stability and Few-Shot Prompting in Math Task Assessment. https://arxiv.org/abs/2603.03512. [doi:10.48550/arxiv.2605.30151](https://doi.org/10.48550/arxiv.2605.30151)

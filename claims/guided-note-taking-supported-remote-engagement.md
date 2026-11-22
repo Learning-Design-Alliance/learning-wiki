@@ -79,3 +79,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [Engineering students reported high rates of focus, engagement, motivation and private-space challenges during Spring 2020 online instruction](student-online-learning-challenges-prevalence.md) — related
 - [LH students engaged with the programming module despite low attendance through remote use of Codio lessons](lh-group-engaged-despite-low-attendance-remote-codio.md) — related
 - [Some students struggled transitioning from small guided assignments to the self-driven final project, with 2 of 10 enrolled students failing the course](guided-to-project-transition-struggle-failure.md) — related
+- [Students reported that well-organized pre-lecture notes improved course clarity, though some students used them to be more passive in class](pre-lecture-notes-organization-clarity.md) — related

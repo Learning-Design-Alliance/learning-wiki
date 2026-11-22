@@ -51,3 +51,4 @@ Secondary analysis of the honor class's responses to the thirty-question written
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — a broader claim this one bears on
 - [Calculus-based students at RIT and UMaine answered far more often correctly than algebra-based students, with no significant representational differences in response patterns](calculus-based-higher-vector-addition-accuracy-uniform-methods.md) — related
 - [Only about a third of first-year engineering students correctly compute moment of inertia in a two-ball system, and around a quarter give reductionist single-variable explanations](moment-of-inertia-first-year-categories.md) — related
+- [91% of UK undergraduate physics entrants have not previously seen advanced rotational motion concepts such as moment of inertia](91-percent-rotational-motion-gap.md) — related

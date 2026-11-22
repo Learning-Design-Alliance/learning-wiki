@@ -44,6 +44,7 @@ Beyond using the finished pendulum in experiments, the authors recommend having 
 - [Use a computer-controlled pendulum as a teaching tool spanning simple harmonic motion to chaos](computer-controlled-pendulum-teaching-strategy.md)
 - [Involve students in all steps of building the installation](students-build-installation-together.md)
 - [Open apparatus design plus a harmonic-then-parametric teaching sequence for the spring-mass laboratory](open-apparatus-harmonic-to-parametric-sequence-strategy.md)
+- [Involve preservice teachers in constructing and analyzing their own low-cost experiments as simultaneous physics learning and teacher training](preservice-constructed-low-cost-experiments-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Codebook category distribution (Table 8, sentence-multilabel %, four-category vi
 - [Guided Socratic worked examples carry the chapter's mathematical content, with the learner supplying each intermediate step](socratic-worked-examples-spherical-geometry.md) — related
 - [A fine-tuned LLM (FT2) responds Socratically and informally where GPT-3.5 states solutions instructively, in an evaluation of fifty real student questions](fine-tuned-llm-socratic-responses-vs-gpt35.md) — related
 - [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related
+- [SHERPA-style teaching-specific training shows a side effect: mistake-location accuracy declines across all trained teachers, and most regress on Socratic questioning](teaching-training-side-effect-mistake-location-decline.md) — related

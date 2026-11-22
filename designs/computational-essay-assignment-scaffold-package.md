@@ -44,7 +44,8 @@ A computational essay is "a genre of scientific writing that combines live code,
 - [Self Reported Conceptual Gains From Essays](../claims/self-reported-conceptual-gains-from-essays.md) [+M]
 
 ## Related Designs
-- 
+
+- [Computational Letter writing assignment in a Jupyter notebook addressed to an external reader](computational-letter-jupyter-assignment.md)
 
 ## Examples
 -

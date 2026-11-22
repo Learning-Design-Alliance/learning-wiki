@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: suhyeon-lee-2026
     resource: "https://doi.org/10.48550/arxiv.2608.22993"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The distribution of students' next dialogue acts differed across scaffolding levels (χ2 = 1,092.6, df = 28, p < .001, V = .137): after Solving responses students most often made another writing request (29.7%), after Explaining responses conceptual questions were most common (40.5%). [→ Suhyeon Lee 2026](#suhyeon-lee-2026)
@@ -73,3 +74,4 @@ Within-dialogue-act stratified analyses (Table 10) repeating the association tes
 - [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](student-pressure-shifts-ai-toward-answers.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](reciprocity-shifted-toward-self-regulation.md) — related
+- [LLM response style is significantly but weakly associated with students' productive and unresolved next-turn continuation in programming dialogues](response-style-small-global-association-next-turn.md) — related

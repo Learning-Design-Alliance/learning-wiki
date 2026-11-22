@@ -62,3 +62,4 @@ Intent-to-treat estimates from the preregistered randomized experiment (1,174 co
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related
 - [In two laboratory experiments, LLM access during learning shows no statistically significant effect on overall learning outcomes in Python coding](llm-access-no-significant-effect-lab-learning.md) — related
 - [LLM access widens the gap between students with low and high prior knowledge, increasing inequality in education](llms-widen-prior-knowledge-gap.md) — reports the opposite
+- [Personalized sequencing gains are larger for beginners and for students in lower-tier schools](sequencing-gains-larger-for-beginners-and-lower-tier-schools.md) — related

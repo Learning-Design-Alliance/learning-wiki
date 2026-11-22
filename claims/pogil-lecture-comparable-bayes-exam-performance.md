@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: cheng-han-yu-and-angela-ebeling-2026
     resource: "https://doi.org/10.48550/arXiv.2606.08660"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experimental between-cohort comparison, the posterior mean difference POGIL minus Lecture in expected exam points was small with a 95% credible interval including 0. [→ Cheng-Han Yu and Angela Ebeling 2026](#cheng-han-yu-and-angela-ebeling-2026)
