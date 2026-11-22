@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2017 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One study found think-aloud participants showed better comprehension monitoring and test performance than silent readers, suggesting positive reactivity. [→ Hu 2017](#hu-2017)

@@ -58,7 +58,7 @@ newest_evidence: 2021
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 review `r2`, 1 causal `r?`, 1 theoretical `r2` · `q1`–`q3`
-> **Currency** · newest study 2021 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 

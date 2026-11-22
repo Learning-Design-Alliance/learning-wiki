@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 Peer tutoring produces larger learning gains when the tutoring relationship is structured — with defined roles, training for tutors, scripted or scaffolded interaction protocols, and regular monitoring — than when students are simply paired and told to help each other.
 
