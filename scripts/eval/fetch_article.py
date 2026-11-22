@@ -442,6 +442,8 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
             matches_title(text, entry["title"]) and matches_author(text, entry.get("authors"))):
         raise FetchError(f"the fetched document does not look like {entry['title'][:80]!r} "
                          f"(fewer than 60% of its title words in the opening); not ingesting another work under its name")
+    # an old-style arXiv id carries its archive ("arxiv-physics/0611277"), so the path has a directory in it
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
     cache_path.write_text(text, encoding="utf-8")
     return text
 

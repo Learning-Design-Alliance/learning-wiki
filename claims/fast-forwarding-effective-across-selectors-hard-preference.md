@@ -67,3 +67,4 @@ RQ2 simulation across selection regimes. The paper states mastery hard showed th
 - [Fast-Forwarding reduces overpractice by 35.7% under the legacy mastery-hard problem selector in a simulated linear equation-solving tutor with limited practice time](fast-forwarding-reduces-overpractice-35-7-percent-mastery-hard.md) — a narrower finding that bears on this claim
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — related
 - [Fast-Forwarding did not change underpractice (M = 0.44 vs. M = 0.43), indicating overall mastery levels do not suffer](fast-forwarding-underpractice-unchanged.md) — related
+- [The redesign showed no reliable evidence of reducing overpractice beyond 80% mastery](no-overpractice-reduction-evidence.md) — reports the opposite

@@ -48,3 +48,4 @@ Same RQ1 simulation under limited practice time. The paper reports descriptive m
 - [Fast-Forwarding reduces overpractice by 35.7% under the legacy mastery-hard problem selector in a simulated linear equation-solving tutor with limited practice time](fast-forwarding-reduces-overpractice-35-7-percent-mastery-hard.md) — related
 - [Fast-Forwarding reduces overpractice across all problem selectors (0.1% to 35.7%), with the largest reduction for selectors that preferentially select difficult problems](fast-forwarding-effective-across-selectors-hard-preference.md) — related
 - [Real students in the source dataset experienced considerable overpractice across all nine equation-solving skills](real-students-overpractice-across-all-skills.md) — related
+- [The redesign showed no reliable evidence of reducing overpractice beyond 80% mastery](no-overpractice-reduction-evidence.md) — related

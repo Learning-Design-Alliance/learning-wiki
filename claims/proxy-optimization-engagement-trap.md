@@ -73,3 +73,4 @@ The article's stated drawback of the simulation alternative for parameter settin
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [The article reports that prior literature suggests that optimal rehabilitation game design includes rewards, optimal challenges, feedback, choices, clear instructions, and socialization](optimal-rehab-game-design-engagement-features.md) — related
+- [Optimizing immediate task success trades off against pedagogical support: pushing solve rate raises answer leakage](solve-rate-pedagogy-tradeoff-answer-leakage.md) — a narrower finding that bears on this claim

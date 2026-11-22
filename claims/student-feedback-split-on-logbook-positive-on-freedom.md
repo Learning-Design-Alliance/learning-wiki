@@ -50,3 +50,4 @@ Module evaluation survey of the transformed laboratory: "of the 20 students that
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [In the first run of the transformed inquiry lab, students engaged with the work and identified known experimental nuances during initial data collection](inquiry-lab-first-run-students-found-nuances.md) — related
 - [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related
+- [Students consistently evaluated the course positively, with laboratory work described as the moment when theoretical concepts became meaningful](lab-work-makes-concepts-meaningful.md) — related

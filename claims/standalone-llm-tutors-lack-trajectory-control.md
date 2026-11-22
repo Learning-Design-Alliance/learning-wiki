@@ -55,3 +55,4 @@ The chapter reports, citing prior work, that early LLM-based educational systems
 - [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md)
+- [LLM tutors can improve learning, but gains depend conditionally on pedagogical structure, engagement, comparison, and measurement horizon](conditional-yes-llm-tutors-improve-learning.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Qualitative content analysis of 37 interviews with Iranian medical sciences univ
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related
 - [Pleasure in the teaching profession, via multidimensionality and positive self-worth, sustains teachers' motivation](pleasure-in-teaching-profession-sustains-teacher-motivation.md) — related
+- [Learners report that familiarity with the digital self motivates exploration but can also trigger social discomfort](digital-self-familiarity-motivation-discomfort.md) — related

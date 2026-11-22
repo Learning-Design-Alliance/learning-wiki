@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: juuso-jaakola-2026
     resource: "https://doi.org/10.48550/arXiv.2610.09499"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The observed answer space of tehtava-virheenkorjaus contained 54 distinct correct constructions, and the most common wrong pattern was a trivial submission with no change to the circuit. [→ Juuso Jaakola 2026](#juuso-jaakola-2026)

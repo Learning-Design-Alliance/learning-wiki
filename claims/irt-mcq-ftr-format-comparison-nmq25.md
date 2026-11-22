@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 recheck_by: 2029
 sources:
   - id: ashutosh-kumar-pathak-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For NMQ 25, 2PL IRT fits gave similar discrimination for MCQ (a = 0.9 ± 0.2) and FTR (a = 0.8 ± 0.2) formats, with the free-text version showing lower difficulty (b = −1.4 ± 0.3 vs −0.7 ± 0.2). [→ Ashutosh Kumar Pathak 2026](#ashutosh-kumar-pathak-2026)

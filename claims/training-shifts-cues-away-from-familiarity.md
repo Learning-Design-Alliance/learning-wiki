@@ -47,3 +47,4 @@ ANOVA on RFN (Recollection/Familiarity/No memory) judgments in the life-span exp
 ## Related Claims
 - [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](heuristic-cues-guide-opting-out.md) — related
 - [Older adults show lower JOL resolution only when recollection-based responses are contrasted with pooled familiarity and new responses, an outcome attributed to age-related decreases in strong recollective experiences at test](lower-jol-resolution-recollection-contrast.md) — related
+- [Remember/Know/Guess memory-state judgments show no reliable differences between digital-self and non-self agents](digital-self-no-rk-memory-differences.md) — related

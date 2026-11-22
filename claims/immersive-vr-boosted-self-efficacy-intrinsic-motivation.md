@@ -80,3 +80,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
 - [Engineering students using AR showed better academic outcomes and higher motivation than classmates using conventional notes](ar-engineering-graphic-outcomes-motivation.md) — related
 - [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — related
+- [Nearly all students reported increased disciplinary self-efficacy, describing greater confidence, curiosity and motivation to engage with advanced physics](disciplinary-self-efficacy-gain-quantum-course.md) — related

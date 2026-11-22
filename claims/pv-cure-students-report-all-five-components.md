@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: rachael-l-merritt-and-h-j-lewandowski-2026
     resource: "https://doi.org/10.1103/ps1v-wqr1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students discussed all five CURE components in their end-of-semester reports, with scientific practices raised in 87% of the 108 reports. [→ Rachael L. Merritt and H. J. Lewandowski 2026](#rachael-l-merritt-and-h-j-lewandowski-2026)

@@ -30,4 +30,4 @@ LoopCAT is an Apache-2.0-licensed desktop computer-assisted translation applicat
 -
 
 ## Key Sources
-- Dogru, G., & Martín Mor, A. (2026). From Tool Use to Technological Agency: LoopCAT as a Local-First, Open-Source Tool for Translation Technology Education. https://loopcat.example.org
+- Dogru, G., & Martín Mor, A. (2026). From Tool Use to Technological Agency: LoopCAT as a Local-First, Open-Source Tool for Translation Technology Education. https://loopcat.example.org. [doi:10.48550/arxiv.2609.00344](https://doi.org/10.48550/arxiv.2609.00344)

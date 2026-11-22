@@ -132290,5 +132290,25 @@
  "media-design\twell-organized notes posted before lectures\tcourses without this organization and preparation support": {
   "label": "well-organized notes posted before lectures vs no organization and preparation support",
   "treatment_is_a": true
+ },
+ "active-learning\tconfronting non-classical quantum concepts in the course\tresistance to conceptual change": {
+  "label": "conceptual-change instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlaboratory activities with instruments and measurements\ttheoretical lessons without laboratory activities": {
+  "label": "laboratory-based learning vs theoretical instruction",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tadaptive sequencing\tfixed sequence": {
+  "label": "adaptive sequencing vs fixed sequence",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdata-driven modeling with structured guidance and instructor questioning\tbeginning with an established thermodynamic formula": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tRedesigned Tutor with adaptive problem selection and Mastered Step Skipping\tOriginal Tutor": {
+  "label": "mastery-based progression vs conventional progression",
+  "treatment_is_a": true
  }
 }

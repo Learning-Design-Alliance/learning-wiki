@@ -78,6 +78,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](light-then-heavy-scaffolded-hints.md)
 - [Provide visual cues or hints for self-exploration before direct instruction to promote transfer in online tutorials](cues-before-direct-instruction-online-tutorials.md)
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
+- [Instructor-mediated questioning prompts that move students from time to energy, from energy to mass-normalized energy, and toward interpreting the fitted constant](instructor-prompts-scaling-rescaling.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

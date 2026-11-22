@@ -53,4 +53,4 @@ P-A.I.R. is a structured pedagogical approach designed to transform AI use into 
 -
 
 ## Key Sources
-- Paul, B. (2026). P-A.I.R.: A Structured AI-Replication Framework for Active Learning in Introductory Physics. arXiv. https://arxiv.org/abs/2607.18587
+- Paul, B. (2026). P-A.I.R.: A Structured AI-Replication Framework for Active Learning in Introductory Physics. arXiv. https://arxiv.org/abs/2607.18587. [doi:10.48550/arxiv.2607.18587](https://doi.org/10.48550/arxiv.2607.18587)

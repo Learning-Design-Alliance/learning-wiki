@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: rachel-e-scherr-2026
     resource: "https://doi.org/10.48550/arXiv.2609.34912"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When articulating that in Alan's frame Beth receives wavefrontF before wavefrontR, students explicitly referenced the "light speed is the same" item of the physics agreement. [→ Rachel E. Scherr 2026](#rachel-e-scherr-2026)

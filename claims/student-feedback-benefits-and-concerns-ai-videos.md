@@ -55,3 +55,4 @@ Illustrative analysis of two open-ended survey questions about benefits and draw
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related
 - [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — possibly the same claim (merge candidate)
 - [Participants described the realistic SadTalker talking head as unsettling or creepy, while VTutor's stylized mouth felt less creepy though some still found its expressions unnatural](qualitative-uncanny-perceptions-sadtalker-vtutor.md) — related
+- [The digital-self agent increases uncanny-valley eeriness relative to a non-self agent in history learning videos](digital-self-increases-uncanny-eeriness.md) — related

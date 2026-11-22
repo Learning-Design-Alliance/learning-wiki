@@ -71,3 +71,4 @@ The review qualifies the affective findings: they were "predominantly derived fr
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related
 - [In a six-week within-subject study, the Empathetic PA coaching chatbot improves intention to follow and self-efficacy faster over time than the Non-Empathetic condition](empathetic-chatbot-faster-intention-selfefficacy-growth.md) — related
 - [Cognitive outcomes of AI-driven simulation are the most variable across modalities and designs, with generative AI gains often perceived rather than objectively validated](ads-cognitive-outcomes-variable.md) — related
+- [Nearly all students reported increased disciplinary self-efficacy, describing greater confidence, curiosity and motivation to engage with advanced physics](disciplinary-self-efficacy-gain-quantum-course.md) — related

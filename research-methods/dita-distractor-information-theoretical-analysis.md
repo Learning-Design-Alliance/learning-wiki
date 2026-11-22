@@ -35,4 +35,4 @@ dITA treats randomness in incorrect answers as a measurable signal rather than n
 - [pK–D̄ quadrant classification for diagnostic assessment](pkd-quadrant-classification-for-diagnostic-assessment.md)
 
 ## Key Sources
-- Diener, J. P. W., Frick, B. L., & Kriek, J. (2026). Determining the degree of randomness in multiple-choice question distractors. arXiv. https://arxiv.org/abs/2610.01431
+- Diener, J. P. W., Frick, B. L., & Kriek, J. (2026). Determining the degree of randomness in multiple-choice question distractors. arXiv. https://arxiv.org/abs/2610.01431. [doi:10.48550/arxiv.2610.01431](https://doi.org/10.48550/arxiv.2610.01431)

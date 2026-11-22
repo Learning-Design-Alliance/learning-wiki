@@ -52,3 +52,4 @@ A numerical simulation (Supplemental Material Fig. 6, run 1000 times) of 800 ent
 - [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](classical-indeterminism-model-fails-anticorrelation.md) — related
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](hidden-variables-violate-bell-50-percent.md) — related
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](qrc-deployment-terminated-online-debates.md) — related
+- [Secondary-school students performed an authentic Bell test in a school laboratory, measuring a CHSH parameter of 2.32±0.05 that violated the classical limit of 2 by 6.4 standard deviations](school-bell-test-chsh-violation.md) — related

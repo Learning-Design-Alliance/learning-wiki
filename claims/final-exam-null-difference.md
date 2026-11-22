@@ -55,3 +55,4 @@ Final examination scores in the RCT. Equivalence within a stricter ±5-percentag
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [Smartphone-based video feedback is associated with significantly higher scores on the final examination and on bed making, aseptic procedure, vital signs measurement, and oxygen therapy assignments](video-feedback-smartphone-higher-nursing-skill-scores.md) — reports the opposite
 - [Learning-oriented prompting gains scaled monotonically with the designed ICAP engagement level of the instruction](prompting-gains-scale-icap-engagement.md) — related
+- [Perceived academic gains from GenAI skill development are reported more often for assignments than for examinations](assignment-gains-exceed-examination-gains.md) — related

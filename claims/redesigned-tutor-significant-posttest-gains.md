@@ -72,3 +72,4 @@ One-way repeated measures ANOVA across both conditions showed post-test scores (
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](logo-posttest-outperformed-control-2d-shapes.md) — related
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](personalized-paths-experiment-outcomes.md) — related
+- [A data-driven redesign of four MathTutor units produced no significant difference in pre-to-post learning gains compared with the Original Tutor](no-learning-gain-difference-data-driven-redesign-crossover.md) — reports the opposite

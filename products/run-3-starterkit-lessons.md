@@ -32,4 +32,4 @@ The Run 3 Starterkit Lessons are LHCb's online onboarding curriculum for newcome
 - [HSF/IRIS-HEP training curriculum](hsfiris-hep-training-curriculum.md)
 
 ## Key Sources
-- Morris, A., Wang, Z., Yuan, X., Fu, Y., Hallett, G., He, J., Liu, K., Zhao, J., and Zhou, X. (2026). Translating LHCb's Documentation: First experiences and ensuring maintenance. https://arxiv.org/abs/2609.35830
+- Morris, A., Wang, Z., Yuan, X., Fu, Y., Hallett, G., He, J., Liu, K., Zhao, J., and Zhou, X. (2026). Translating LHCb's Documentation: First experiences and ensuring maintenance. https://arxiv.org/abs/2609.35830. [doi:10.48550/arxiv.2609.35830](https://doi.org/10.48550/arxiv.2609.35830)

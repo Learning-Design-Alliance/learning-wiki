@@ -55,3 +55,4 @@ Interview finding from the discussion section of the case study. The authors lin
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related
 - [Students experienced difficulty starting fieldwork due to the ambiguous nature of ill-structured problems, team-balance frustration, and felt 8 weeks were not enough](pf-course-reported-difficulties-ambiguity-team-balance-duration.md) — related
 - [Unguided, open-ended GAI exploration of broad topics was viewed unfavorably by students relative to narrower, guided uses](unguided-gai-exploration-viewed-unfavorably.md) — related
+- [Learners report that familiarity with the digital self motivates exploration but can also trigger social discomfort](digital-self-familiarity-motivation-discomfort.md) — related

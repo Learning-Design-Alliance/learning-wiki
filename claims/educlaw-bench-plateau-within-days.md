@@ -71,3 +71,4 @@ Analysis of four pedagogical failure modes across runs on the Codex tier. "thedo
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [Relearning dynamics depend on unlearning strength: agents with 10% unlearning recover within early interaction rounds, while 30% and 50% agents show prolonged low-accuracy plateaus and delayed improvement](unlearning-ratio-moderates-relearning-trajectory.md) — related
 - [LoRA RFT with a helpfulness-weighted composite reward can collapse an adapter's pedagogy mid-training while responsiveness stays intact](educlaw-bench-rft-helpfulness-collapse.md) — related
+- [LLM tutors can improve learning, but gains depend conditionally on pedagogical structure, engagement, comparison, and measurement horizon](conditional-yes-llm-tutors-improve-learning.md) — related

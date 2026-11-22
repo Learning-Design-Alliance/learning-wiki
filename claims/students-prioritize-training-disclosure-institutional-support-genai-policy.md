@@ -53,3 +53,4 @@ Hybrid inductive-deductive thematic analysis (Cohen's Kappa .84) of individual p
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
+- [Students' open-response institutional-support recommendations centre on practical GenAI guidance and preserving independent thinking](student-recommendations-guidance-and-independent-thinking.md) — related

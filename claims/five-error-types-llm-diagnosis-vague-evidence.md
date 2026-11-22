@@ -93,3 +93,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
 - [Student references to a nonexistent attachment increased the chance that LLMs of all sizes hallucinated equations, the most common error type for large models](fictitious-attachment-references-trigger-llm-hallucinated-equations.md) — related
+- [Learner-state conditioning is often weak: inferred states can show limited sensitivity to student errors and drift over sustained tutoring](learner-state-conditioning-weak-sensitivity-drift.md) — related

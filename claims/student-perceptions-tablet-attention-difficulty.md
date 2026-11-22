@@ -49,3 +49,4 @@ Five-point Likert scale student experience questionnaire administered in the pos
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
 - [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related
+- [The digital self's novelty draws learners' attention away from the historical learning content](novelty-attention-capture-digital-self.md) — related

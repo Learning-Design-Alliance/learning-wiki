@@ -34,4 +34,4 @@ CARES is a multi-agent conversational AI system developed by Yang et al. that su
 - [MeduAI-SP](meduai-sp.md)
 
 ## Key Sources
-- Yang, F.; Wu, J.; Tian, Y.; and Zhang, J. (2026). CARES: A Conversational AI System for Regulation-Grounded Safety Reporting in Construction Education.
+- Yang, F.; Wu, J.; Tian, Y.; and Zhang, J. (2026). CARES: A Conversational AI System for Regulation-Grounded Safety Reporting in Construction Education. [doi:10.48550/arxiv.2609.19429](https://doi.org/10.48550/arxiv.2609.19429)

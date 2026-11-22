@@ -47,6 +47,7 @@ The Photonics Explorer rollout pairs material distribution with teacher professi
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Deliver professional development through a 2-week summer institute followed by year-long on-site coaching](summer-training-plus-onsite-coaching-strategy.md)
+- [Teacher professional development as the vehicle for transferring an advanced quantum curriculum into regular school practice](teacher-pd-transfer-quantum-curriculum.md)
 
 ## Examples
 -

@@ -102,6 +102,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
 - [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 - [Provide university-level GenAI guidance for students, such as a GenAI policy and workshops, since students explicitly request structured guidance on AI use](university-level-student-genai-guidance-workshops.md)
+- [Provide practical GenAI guidance while designing assessment that makes student reasoning visible](practical-genai-guidance-and-visible-reasoning-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ When asked directly whether humanlikeness should be a goal (§5.3.3), participan
 - [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — a broader claim this one bears on
 - [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related
 - [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related
+- [The digital-self agent increases uncanny-valley eeriness relative to a non-self agent in history learning videos](digital-self-increases-uncanny-eeriness.md) — related

@@ -31,4 +31,4 @@ QTris is a tic-tac-toe-based educational game developed by Amabile et al. in whi
 -
 
 ## Key Sources
-- Amabile, A., Bondani, M., De Simone, I., Nazzaro, M., Viscardi, M., Hamma, A. (2026). QTris: a pedagogical board game to teach Quantum Mechanics. https://arxiv.org/abs/2608.09430
+- Amabile, A., Bondani, M., De Simone, I., Nazzaro, M., Viscardi, M., Hamma, A. (2026). QTris: a pedagogical board game to teach Quantum Mechanics. https://arxiv.org/abs/2608.09430. [doi:10.48550/arxiv.2608.09430](https://doi.org/10.48550/arxiv.2608.09430)

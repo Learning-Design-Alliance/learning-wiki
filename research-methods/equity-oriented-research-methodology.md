@@ -44,7 +44,7 @@ Drawing on the National Academies of Sciences 2022 report, the article frames eq
 - Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky. (2027). When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk. In Proceedings of TBD (CSCW '27). ACM, New York, NY, USA. https://arxiv.org/abs/2608.23780
 - Jessica T. DeCuir-Gunby · Paul A. Schutz. (2024). The Evolution of Race-Focused and Race-Reimaged Approaches in Educational Psychology: Future Directions for the Field. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09873-2
 - Louise Elffers, Eddie Denessen and Monique Volman. (2024). Combining perspectives in multidisciplinary research on inequality in education. npj Science of Learning 9:5. https://doi.org/10.1038/s41539-024-00215-z
-- McDermott, L. G., Dachille, F. T., Keefe, G. R., Moenter, M. D., McPadden, D., and Scanlon, E. M. (2026). “I don’t have a good metric for what other people think:” Unpacking the double empathy problem in neurodivergent physics problem-solving. https://arxiv.org/abs/2609.21809
+- McDermott, L. G., Dachille, F. T., Keefe, G. R., Moenter, M. D., McPadden, D., and Scanlon, E. M. (2026). “I don’t have a good metric for what other people think:” Unpacking the double empathy problem in neurodivergent physics problem-solving. https://arxiv.org/abs/2609.21809. [doi:10.48550/arxiv.2609.21809](https://doi.org/10.48550/arxiv.2609.21809)
 
 # Equity-oriented research methodology: two approaches and measures of structural and contextual factors
 

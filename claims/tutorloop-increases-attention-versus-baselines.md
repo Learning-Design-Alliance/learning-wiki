@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: songlin-xu-and-xinyu-zhang-2026
     resource: "https://doi.org/10.48550/arXiv.2610.09400"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a four-group between-subjects study (N=187), the Full TutorLoop group exhibited significantly higher attention than Control (p=.013), TutorUp (p=.044), and DRL Only (p=.002). [→ Songlin Xu and Xinyu Zhang 2026](#songlin-xu-and-xinyu-zhang-2026)

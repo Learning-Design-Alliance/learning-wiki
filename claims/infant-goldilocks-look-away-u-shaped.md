@@ -58,3 +58,4 @@ The review reports the authors' infant studies (Kidd, Piantadosi, & Aslin, 2012,
 - [The ease of learning varies with age from infancy to old age, informing timing of formal education and interventions](ease-of-learning-varies-with-age.md) — related
 - [Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — a narrower finding that bears on this claim
 - [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](edukoi-classroom-test-qualitative-feedback.md) — related
+- [The digital self's novelty draws learners' attention away from the historical learning content](novelty-attention-capture-digital-self.md) — related

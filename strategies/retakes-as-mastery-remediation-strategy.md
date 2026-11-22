@@ -50,4 +50,4 @@ The article describes Kayla's gradual implementation of assessment retakes with 
 -
 
 ## Key Sources
-- Talafian, H., Mahmood, M., Kuo, E., Lundsgaard, M., & Stelzer, T. (2026). Teacher Leader Identity Development in a Physics Teaching Community of Practice: A Narrative Case Study. University of Illinois Urbana-Champaign. https://arxiv.org/abs/2607.08924
+- Talafian, H., Mahmood, M., Kuo, E., Lundsgaard, M., & Stelzer, T. (2026). Teacher Leader Identity Development in a Physics Teaching Community of Practice: A Narrative Case Study. University of Illinois Urbana-Champaign. https://arxiv.org/abs/2607.08924. [doi:10.48550/arxiv.2607.08924](https://doi.org/10.48550/arxiv.2607.08924)

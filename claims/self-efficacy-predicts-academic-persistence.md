@@ -235,3 +235,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](physics-problems-build-confidence.md) — related
 - [Students' belief in their ability to learn material is linked with success in learning it](self-belief-linked-to-learning-success.md) — a narrower finding that bears on this claim
 - [CS novices' self-confidence in LLM-based learning initially misaligns with actual prompting skill, and the intervention corrects and increases perceived ability](llm-confidence-misalignment-corrected-by-intervention.md) — a narrower finding that bears on this claim
+- [Nearly all students reported increased disciplinary self-efficacy, describing greater confidence, curiosity and motivation to engage with advanced physics](disciplinary-self-efficacy-gain-quantum-course.md) — related

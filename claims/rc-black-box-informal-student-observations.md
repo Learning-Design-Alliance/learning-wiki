@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: kazumasa-kushida-2026
     resource: "https://doi.org/10.48550/arXiv.2609.08792"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In informal conversations, some students reported that withholding the standard circuit formulas changed how they examined the data, attending more to slopes and shapes of plotted curves; the author states these observations cannot be interpreted as evidence of learning gains. [→ Kazumasa Kushida 2026](#kazumasa-kushida-2026)

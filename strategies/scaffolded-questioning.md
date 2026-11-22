@@ -71,6 +71,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 - [Use varied research question types, including asking students about answers they would not naturally choose, to access knowledge not revealed by select-and-justify tasks](varied-question-types-research-strategy.md)
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
 - [Step-by-step guided analysis of real satellite data with embedded questions](step-by-step-real-satellite-data-analysis-strategy.md)
+- [Instructor-mediated questioning prompts that move students from time to energy, from energy to mass-normalized energy, and toward interpreting the fitted constant](instructor-prompts-scaling-rescaling.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion using trained question prompts (predict, clarify, question, summarize), with the teacher modeling and fading over roughly 20 sessions.

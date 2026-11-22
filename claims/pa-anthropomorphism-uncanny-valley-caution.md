@@ -52,3 +52,4 @@ From the communication characteristics theme: students said communication errors
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related
 - [Teachers and students expect PAs to communicate along two dimensions — relational and task-related — mirroring instructional communication literature](pa-relational-task-related-communication-dimensions.md) — related
 - [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related
+- [The digital-self agent increases uncanny-valley eeriness relative to a non-self agent in history learning videos](digital-self-increases-uncanny-eeriness.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Main effects in the same ANOVA: reminder, F(1,39) = 30.09, p < 0.001, η² = 0.2
 - [Across item recognition, associative recognition, and free recall paradigms, reminder-potentiated behavioural interference did not impair declarative memory within-subjects](no-behavioural-reconsolidation-interference-within-subjects.md) — a broader claim this one bears on
 - [In Experiment 1, reminders improved associative recognition accuracy for picture pairs (main effect of reminder)](exp1-reminder-improves-associative-recognition-accuracy.md) — related
 - [In Experiment 1, reminders speeded and interference slowed recognition response times, with reminder+interference faster than interference alone](exp1-reminder-speeds-recognition-rt.md) — related
+- [Remember/Know/Guess memory-state judgments show no reliable differences between digital-self and non-self agents](digital-self-no-rk-memory-differences.md) — related

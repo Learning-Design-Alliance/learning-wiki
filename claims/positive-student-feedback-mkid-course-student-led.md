@@ -48,3 +48,4 @@ Course-level outcome reported in the conclusions without supporting data: feedba
 - [Qualitative feedback highlighted accessibility, content reinforcement, engagement, and complementarity with the donor, with interface design the most-cited area for improvement](qualitative-feedback-themes-modules.md) — related
 - [Staff observed increased student engagement, independence, and communication skills during the AI-supported project](staff-observed-increased-engagement-independence.md) — related
 - [82%–89% of students agreed experiential learning courses gave them chances to think creatively and judge data and arguments, and improved their ability to apply knowledge to new problems](el-critical-thinking-gains-82-89-percent.md) — a broader claim this one bears on
+- [Students consistently evaluated the course positively, with laboratory work described as the moment when theoretical concepts became meaningful](lab-work-makes-concepts-meaningful.md) — related

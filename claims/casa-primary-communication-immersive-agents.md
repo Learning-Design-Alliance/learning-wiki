@@ -50,3 +50,4 @@ Conceptual conclusion of the review's section on similarity to real-life human-h
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle](tutor-perceived-as-social-actor.md) — a narrower finding that bears on this claim
 - [VR/XR enables psychological assessment combining ecological validity with full experimental control](vr-xr-assessment-ecological-validity-with-control.md) — related
+- [In history learning videos, a digital-self pedagogical agent increases psychological closeness, agent perception, narrative immersion, and agent–user relatedness relative to a non-self agent](digital-self-enhances-history-learning-experience.md) — a narrower finding that bears on this claim
