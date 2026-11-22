@@ -55,3 +55,5 @@ Null findings from the same multiple linear regression (n = 176). Table 5 prints
 - [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related
 - [Achalasia knowledge and training exposure show no significant association with age or hospital level for training participation](no-age-or-training-level-association-achalasia.md) — a narrower finding that bears on this claim
 - [Lower job titles, fewer years of experience, lower education and lower-level hospitals were associated with better eye care practices, contrary to the knowledge dimension pattern](junior-nurses-better-eye-care-practices-contrary-pattern.md) — related
+- [Nurses' age, hospital level, and perceived EBN knowledge are significant related factors of EBP competency in multiple linear regression](age-hospital-level-ebn-knowledge-regression-factors.md) — related
+- Characteristics of the people with ID did not contribute to the variance in direct support professionals' capability, opportunity and motivation in multivariate models — related

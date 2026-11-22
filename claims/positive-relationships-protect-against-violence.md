@@ -79,3 +79,4 @@ The review reports this study on preventing school-based attacks as evidence tha
 - [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related
 - [The literature reviewed attributes protective academic and behavioral benefits to positive school connectedness](school-connectedness-protective-factor-literature.md) — possibly the same claim (merge candidate)
 - [Fewer non-HPS students had consumed hashish or marijuana at least once](non-hps-fewer-hashish-marijuana-once.md) — related
+- [The authors propose resilience or support systems as a possible explanation for high achievement among non-depressed abused youth](resilience-explanation-non-depressed-abused-youth.md) — related

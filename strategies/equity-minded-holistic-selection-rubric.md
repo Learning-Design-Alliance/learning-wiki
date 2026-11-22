@@ -43,6 +43,7 @@ Intern selection used an equity-minded rubric built on holistic components inclu
 - [Direct future rubric-equity research toward underrepresented groups, admissions drivers, and student outcomes](future-work-rubric-equity-research-agenda.md)
 - [Institutions considering reduced reliance on standardized testing should validate changes locally and monitor medium- and long-term outcomes](local-validation-admissions-policy-changes.md)
 - [Apply holistic review early so every qualified candidate receives a holistic file review before interview selection](apply-hr-early-to-all-qualified-applicants.md)
+- [Blueprint recommendations for institutions implementing centralized, data-driven holistic review](holistic-review-implementation-blueprint-strategy.md)
 
 ## Examples
 -

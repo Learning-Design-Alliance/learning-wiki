@@ -63,3 +63,4 @@ Cross-sectional study of 1677 students: bivariate tables show significant associ
 - [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — related
 - [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — related
 - [Water pipe use during exams shows a negative association with grades in regression, while cigarette smoking shows no significant association](waterpipe-negative-cigarettes-null-grades.md) — reports the opposite
+- [Exceeding single-occasion alcohol consumption risk and current smoking are each associated with lower GPA among university students](alcohol-smoking-lower-gpa-university-students.md) — related

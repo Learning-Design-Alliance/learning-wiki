@@ -50,3 +50,4 @@ Observation from the ADM 2017 experiment results (Section 4.3, Table 2). The aut
 - [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](model1-outperforms-complex-model2.md) — related
 - [Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis](feature-selection-effects-mixed-across-families.md) — related
 - [Cross-validation-selected hyperparameters generalized to the test set only for Situation and Clarity, with the other four dimensions showing CV–test misalignment](cv-test-misalignment-small-imbalanced-data.md) — related
+- [Machine learning techniques showed high training-set variance explained but near-zero validation performance, indicating overfitting for continuous outcomes](ml-overfitting-continuous-health-outcomes.md) — possibly the same claim (merge candidate)

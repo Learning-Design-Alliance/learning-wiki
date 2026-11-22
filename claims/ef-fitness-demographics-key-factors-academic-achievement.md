@@ -59,3 +59,4 @@ RFECV feature-selection analysis of 300 primary school students (151 boys, 149 g
 - [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — related
 - [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — a narrower finding that bears on this claim
+- [PM2.5 in and around schools negatively influences both executive function and academic achievement in primary-school-aged children, with effects becoming stronger over time](pm25-schools-executive-function-achievement.md) — related

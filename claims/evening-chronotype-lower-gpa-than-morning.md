@@ -56,3 +56,5 @@ One-way ANOVA on self-reported GPA at T4 across three chronotype groups yielded 
 - [Morning chronotype is associated with higher academic performance category among first-year medical students](morning-chronotype-associated-excellent-performance.md) — a narrower finding that bears on this claim
 - [Evening chronotypes report higher perceived stress than Morning chronotypes among first-year medical students](evening-chronotype-higher-perceived-stress.md) — related
 - [Owls (late chronotypes) show a significant academic performance deficit compared to larks and finches at all class times of day](owls-academic-deficit-all-class-times.md) — related
+- [Evening-chronotype students report poorer sleep quality, and poor sleep quality increases the odds of being an evening person](evening-chronotype-poorer-sleep-quality.md) — related
+- [Students with a morning chronotype achieve better academic results than evening-chronotype students, with a small effect size](morning-chronotype-better-academic-results.md) — possibly the same claim (merge candidate)

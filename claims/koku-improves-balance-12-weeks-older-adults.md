@@ -68,3 +68,4 @@ MMRM analysis of the primary outcome across the 6- and 12-week timepoints in the
 - [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
+- In the 24-week sub-sample, physical function increased by 0.76 chair-stand repetitions per month of adherence — related

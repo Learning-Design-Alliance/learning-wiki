@@ -84,3 +84,4 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [Anonymity in remote lectures increased student engagement in question-asking, while remote workshops suffered from absent non-verbal cues and reduced interactivity](remote-anonymity-engagement-workshop-communication-loss.md) — related
 - [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related
+- [Groups with higher levels of psychological safety tend to have higher levels of trust, and psychologically safe environments encourage authenticity and risk-taking](psychological-safety-higher-group-trust.md) — related

@@ -53,3 +53,4 @@ Sensitivity analysis repeating the peer-problem mediation with the SDQ victimisa
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — a broader claim this one bears on
 - [Academic attainment (GCSE results) at age 16 mediates the association between childhood ADHD symptoms and late-adolescent depressive symptoms](academic-attainment-mediate-adhd-depression-link.md) — related
 - [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related
+- [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](social-school-factors-mediate-depression-attainment.md) — related

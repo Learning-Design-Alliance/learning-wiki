@@ -58,3 +58,4 @@ Same 43-student randomized controlled trial, first-attempt comparison with and w
 - [Feedback device use shows no significant difference in correct hand positioning during simulated CPR](truecpr-feedback-hand-position-null.md) — possibly the same claim (merge candidate)
 - [Smartwatch feedback does not significantly improve chest compression rate or full decompression in infant CPR simulation](smartwatch-feedback-no-effect-rate-decompression.md) — related
 - [Only a small minority of students met criteria for correct rate, depth, and hand placement, with no difference between teaching techniques](minority-students-all-compression-variables-correct.md) — related
+- Chest compression fraction and no-flow time of lifeguards are near-ceiling across all tested compression rates — related

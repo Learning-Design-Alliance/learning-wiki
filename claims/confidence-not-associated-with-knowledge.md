@@ -50,3 +50,4 @@ Bi-variable analysis in the cross-sectional study of 124 providers found similar
 - [Provider confidence in post-rape care is high and disproportionate to knowledge, with a median confidence score of 75.4%](high-confidence-disproportionate-to-knowledge.md) — related
 - [Health providers in South African post-rape services show low knowledge, with a median knowledge score of 37.3%](low-provider-knowledge-post-rape-care-south-africa.md) — related
 - [Crisis-centre work, recent survivor examination, and seeing more than 60% of survivors are associated with higher provider confidence](crisis-centre-recent-practice-confidence.md) — related
+- [Medical providers at a South African community health centre report lacking foundational oral health knowledge and feel uncertain managing patients with oral health complaints](providers-lack-oral-health-knowledge-uncertainty.md) — related

@@ -140,3 +140,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [VR-based experiments in space-analog isolation provided a meaningful psychological break from repetitive routines](vr-breaks-isolation-routine-space-analogs.md) — a narrower finding that bears on this claim
 - [Over-correction by AI systems risks anxiety and reduced fluency by overwhelming learners rather than guiding them](ai-over-correction-feedback-harm.md) — reports the opposite
 - [Blending e-learning before and simulation-based hands-on training afterwards enhances engagement, performance, and skill acquisition](blended-elearning-simulation-enhances-engagement-performance.md) — related
+- [Simulation-based medical education is an experiential-learning method that builds pediatric trainees' technical and non-technical skills through realistic, well-controlled scenarios with corrective feedback](sbme-experiential-learning-pediatrics.md) — related

@@ -53,3 +53,4 @@ Interaction test within the overall mediation analysis of the 1084-pupil cohort;
 - [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — related
 - [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — related
 - [Higher physical fitness is associated with increased odds of commencing post-compulsory education (total-effect OR 1.87 per 10 VO2max units)](physical-fitness-total-effect-post-compulsory-commencement.md) — related
+- [Gender-by-mobile-use interaction on physical fitness: gender differences vanish in the high-use group](gender-fitness-differences-vanish-high-mobile-use.md) — reports the opposite

@@ -48,3 +48,4 @@ In the 55-student observational study, salivary biomarkers were assayed at T0, T
 - [Simple regressions between salivary stress biomarkers and clinical or demographic data show no clinically relevant associations](regressions-biomarkers-clinical-data-no-relevant-statistics.md) — related
 - [Team leaders show lower cortisol and alpha-amylase than other team members during high-fidelity simulation](team-leaders-lower-cortisol-alpha-amylase.md) — related
 - [Testosterone concentration is significantly higher 120 minutes after high-fidelity simulation than before and immediately after](testosterone-higher-at-t2-after-hfs.md) — related
+- [Salivary alpha-amylase activity decreased from the evening before the exam to exam morning after both auricular stimulation and expressive writing, but not after no intervention](saa-decreased-after-as-and-ew-not-ni.md) — related

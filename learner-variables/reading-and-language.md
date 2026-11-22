@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 350 claims (216 show a difference, 61 mixed, 73 no difference) · 244 studies (99 causal, 57 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 244 report an effect size · 341 claims rest on one study
+> **Evidence** · 351 claims (217 show a difference, 61 mixed, 73 no difference) · 245 studies (99 causal, 58 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 245 report an effect size · 342 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -401,6 +401,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [English-only student prompting generally outperforms multilingual prompting for student gains, except when instructions and hints are both in the native language](../claims/english-only-prompting-beats-multilingual-prompting-llm-tutoring.md) [~M] — an instructional effect differs with it
 - [Multiple hint iterations improve student gains, with a second hint often contributing meaningfully, though gains vary sharply by language](../claims/multiple-hints-improve-gains-language-dependent.md) [~M] — an instructional effect differs with it
 - [Most Hybrid learners did not switch languages during the course, defaulting primarily to English-only use](../claims/hybrid-learners-majority-english-only.md) [-M] — measured as an outcome of the instruction studied
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

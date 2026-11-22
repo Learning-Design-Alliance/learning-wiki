@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 311 claims (174 show a difference, 66 mixed, 71 no difference) · 236 studies (115 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 236 report an effect size · 310 claims rest on one study
+> **Evidence** · 314 claims (175 show a difference, 66 mixed, 73 no difference) · 239 studies (118 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 239 report an effect size · 313 claims rest on one study
 
 ## How to read this page
 
@@ -396,6 +396,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Continuing-generation and first-generation students’ IPLS drawings differ in element centrality with large effect sizes](../claims/generation-differences-drawing-centrality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Exam items are uncollected at roughly twice the rate for first-generation students from historically marginalized groups compared with non-first-generation, non-marginalized peers in introductory physics courses](../claims/hm-1stgen-compounding-uncollected-exam-items.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Apparent SES differences in the responsiveness of expectations to prior performance disappear once SES differences in the responsiveness to cognitive ability are accounted for](../claims/ses-performance-responsiveness-disappears-m3b.md) [-W] — an instructional effect differs by group
+- [NAPLAN non-completers came from families with lower maternal education and income, with a greater education difference among LBOTE children at Grade 5](../claims/naplan-noncompleters-lower-education-income.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Raising selection thresholds under the NCM did not disadvantage applicants from low SES backgrounds, with no significant SES difference between models](../claims/ncm-no-ses-disadvantage.md) [-M] — an instructional effect differs by group
+- [Socioeconomic status and hemoglobin levels show no significant association with academic achievement or cognitive function in this sample, for either sex](../claims/ses-hemoglobin-null-associations.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

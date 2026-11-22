@@ -56,3 +56,4 @@ Prospective observational analysis of 845 adolescents; self-reported weighted da
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
 - [A greater number of breaks in sedentary time is associated with higher academic performance in adolescents](more-sedentary-breaks-associated-higher-academic-performance.md) — related
 - [Spending more than 2 hours per day on screen media was significantly associated with poor academic performance among Hargeisa adolescents](screen-time-over-2h-associated-poor-academic-performance.md) — related
+- [Screen time and television viewing are associated with poorer cognition and academic achievement in children, whereas sedentary behaviors such as reading and drawing may improve them](screen-time-versus-reading-sedentary-cognition.md) — a broader claim this one bears on

@@ -72,3 +72,6 @@ An independent samples t-test comparing students with and without scheduled eati
 - [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — reports the opposite
 - [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
 - [A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition](sbp-improves-nutrition-not-attendance.md) — related
+- [Healthier dietary habits are associated with better academic performance in middle school students, while chips, sweets and soft drink consumption are associated with worse performance](dietary-habits-associated-academic-performance-adolescents.md) — reports the opposite
+- [Fruit intake may act as a marker of overall sweet consumption, possibly explaining its inverse association with English scores](fruit-intake-marker-of-sweet-consumption.md) — related
+- [Higher reported intake of sweet snacks and of fruits is each associated with lower English language arts scores in fourth graders](sweet-snacks-and-fruit-lower-english-scores.md) — reports the opposite

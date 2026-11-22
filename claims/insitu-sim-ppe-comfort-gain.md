@@ -50,3 +50,4 @@ Retrospective pre/post survey of physician participants in in-situ simulation se
 - [In-situ simulation significantly increases physician comfort in understanding their role in COVID-19 airway management](insitu-sim-role-comfort-gain.md) — related
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related
 - [JIT in situ simulation produced statistically significant improvements in perioperative staff's perceived knowledge of and comfort with new COVID-19 workflows](jit-in-situ-simulation-improves-knowledge-comfort-covid-workflows.md) — related
+- [Observed safety threats during simulated COVID-19 intubation clustered in six domains: PPE donning/doffing, intubation preparation, circuit setup, environmental protection, communication, and drug/equipment access](simulation-safety-threat-domains-covid-intubation.md) — related

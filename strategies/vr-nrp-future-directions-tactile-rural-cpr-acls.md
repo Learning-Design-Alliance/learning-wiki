@@ -47,6 +47,7 @@ The authors outline forward-looking development paths for the platform. They pro
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Sequence 360-degree NRP video first as a refresher, then the VR simulation, and offer both as adjuncts to in-person NRP training](sequence-360-video-then-vr-simulation-nrp.md)
+- [Add tactile/haptic feedback channels (vibration, force, thermal, vibrotactile pulsation cues) to simulation training, potentially integrated with existing AR/VR settings](haptic-feedback-simulation-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Third domain of the retrospective pre/post survey of 81 physician participants, 
 - [In-situ simulation significantly increases physician comfort in understanding their role in COVID-19 airway management](insitu-sim-role-comfort-gain.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
 - [Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study](rcdp-simulation-increases-under-120-seconds-proportion.md) — related
+- [Observed safety threats during simulated COVID-19 intubation clustered in six domains: PPE donning/doffing, intubation preparation, circuit setup, environmental protection, communication, and drug/equipment access](simulation-safety-threat-domains-covid-intubation.md) — related

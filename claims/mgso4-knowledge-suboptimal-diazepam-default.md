@@ -70,3 +70,5 @@ Qualitative finding on treatment practice: diazepam was “repeatedly stated by 
 - [Concern that the ‘Standing Order’ does not explicitly authorize CHEWs to treat pre-eclampsia made some providers hesitant to manage the condition](standing-order-scope-limit-chew-treatment-hesitation.md) — related
 - [Clinical performance of MgSO4 administration is inconsistent across cadres, with omitted toxicity monitoring and variable dilution technique](inconsistent-mgso4-clinical-performance.md) — related
 - [CHEWs claimed comfort managing pre-eclampsia and referring when necessary, while supervisors and SOGON representatives called for comprehensive clinical-skills training](chew-comfort-managing-and-training-demands.md) — related
+- [Providers diagnose severe pre-eclampsia well (91.4%) but far fewer would administer magnesium sulfate (43.9%), revealing a diagnosis–management knowledge gap](diagnosis-management-gap-severe-pre-eclampsia.md) — related
+- [Providers show very low awareness of evidence-based pre-eclampsia prophylaxis: 14.2% name low-dose aspirin and 7.1% name calcium](low-awareness-pre-eclampsia-prophylaxis.md) — related

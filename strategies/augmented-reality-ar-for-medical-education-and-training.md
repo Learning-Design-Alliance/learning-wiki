@@ -63,6 +63,7 @@ AR's principal learning-science advantage is making invisible, three-dimensional
 - [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
 - [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
+- [Use augmented reality systems with mixed reality capture and motion tracking to teach procedural skills remotely as if mentor and trainee were co-located](ar-mixed-reality-procedural-training-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — instructor-led navigation of the AR model makes expert reasoning visible before independent exploration

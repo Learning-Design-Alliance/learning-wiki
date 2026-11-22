@@ -53,3 +53,4 @@ Multivariate regression analysis of the 1,099-student cross-sectional survey (Ta
 - [Higher self-reported 'self-esteem' on the MEARS non-cognitive test is independently associated with increased odds of a conduct-related declaration](mears-self-esteem-independent-predictor-conduct-declarations.md) — related
 - [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
 - [Male gender is a significant independent predictor of high burnout risk among medical students with lower GPA (≤8)](male-gender-predicts-burnout-lower-gpa.md) — related
+- [Female medical students face almost double the risk of high emotional exhaustion compared to male students](female-medical-students-emotional-exhaustion-risk.md) — related

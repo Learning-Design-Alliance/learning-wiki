@@ -56,3 +56,4 @@ Narrative synthesis of the systematic review. Six high-quality longitudinal stud
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — a narrower finding that bears on this claim
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
+- [Overweight, obesity, and increased cardiometabolic risk are associated with poorer cognition and academic achievement in children, but longitudinal evidence is inconsistent and causality is unestablished](adiposity-cardiometabolic-risk-cognition-children.md) — related

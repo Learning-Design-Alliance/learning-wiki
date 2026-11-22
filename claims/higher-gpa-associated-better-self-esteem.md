@@ -49,3 +49,4 @@ Multivariate regression (Table 5) in the 1,099-student cross-sectional survey, w
 - [Diagnosis with mental illness independently predicts low self-esteem among Saudi medical students](mental-illness-diagnosis-predicts-low-self-esteem.md) — related
 - [24.1% of surveyed Saudi medical students have low self-esteem, 67.2% normal, and 8.7% high](quarter-saudi-medical-students-low-self-esteem.md) — related
 - [GPA was significantly positively correlated with self-esteem among female health college students (r = 0.065, p = 0.02)](gpa-positive-correlation-self-esteem-female-health-students.md) — related
+- [Medical students with GPAs of 3.51–4.00 are considerably less prone to burnout than students with GPAs ≤2.0](high-gpa-less-prone-to-burnout.md) — related

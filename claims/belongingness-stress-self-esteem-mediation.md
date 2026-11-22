@@ -50,3 +50,4 @@ Synthesis of the included studies, principally Jethwani-Keyser (2008, N = 300, B
 ## Related Claims
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — a broader claim this one bears on
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on
+- [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](social-school-factors-mediate-depression-attainment.md) — related

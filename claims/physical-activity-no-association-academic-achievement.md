@@ -65,3 +65,5 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — related
 - [Accelerometer-measured vigorous physical activity at age 13 shows no significant adjusted association with academic performance at age 16](vigorous-physical-activity-null-association-grades.md) — a narrower finding that bears on this claim
 - [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](weight-status-associated-academic-performance.md) — related
+- [Higher BMI z-score is associated with lower Stroop score and greater moderate-to-vigorous physical activity with higher Stroop score](bmi-and-mvpa-stroop-associations.md) — related
+- [Higher physical activity and fitness are linked to better cognition and academic achievement in children in some but not all studies, with possibly stronger effects in children with ADHD, low fitness, or overweight](physical-activity-cognition-children-mixed.md) — a broader claim this one bears on

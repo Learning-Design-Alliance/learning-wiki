@@ -54,3 +54,4 @@ Hidden-curriculum subtheme: reputations were thought to follow trainees between 
 - [Relationships with senior doctors are perceived as crucial to learning, but BME UKGs and IMGs report less senior support and more senior distrust, attributed partly to bias](senior-relationships-bias-bme-img.md) — related
 - [IMG trainees face cultural differences, colloquial-language barriers and lack of trust from seniors, and often look to IMG peers for support instead](img-cultural-differences-lack-trust-peer-support.md) — related
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
+- Surgeons who have lost an only eye describe lasting personal responsibility and blame, and perceive a lack of formal support pathways, with lack of time a barrier to seeking help — related

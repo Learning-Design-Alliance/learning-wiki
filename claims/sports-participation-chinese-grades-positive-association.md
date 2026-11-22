@@ -54,3 +54,4 @@ Cross-sectional self-report survey of 27,954 Chinese primary school children ana
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — a broader claim this one bears on
+- [Physical activity is positively associated with academic performance, but the article could not demonstrate an association for team sports specifically](physical-activity-associated-academic-performance-team-sports-not.md) — a broader claim this one bears on

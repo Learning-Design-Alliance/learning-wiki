@@ -72,3 +72,4 @@ Boys-to-girls ratio analysis (Table 1) for the 33 countries in all four assessme
 - [Boys and girls show equal variability in early mathematical performance across all measured tasks](no-gender-difference-variability-early-math-performance.md) — related
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — reports the opposite
 - [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](after-school-stem-programs-evened-ratios.md) — related
+- [Boys outnumber girls in the bad academic performance group](male-overrepresentation-bad-performance.md) — related

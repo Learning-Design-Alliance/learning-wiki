@@ -17,8 +17,11 @@ two. This works entry by entry:
      wherever it is cited, which is what lets a duplicate claim be found and a study counted once;
   3. else the preprint's own DataCite DOI (10.48550/arXiv.<id>), with the title aligned, or for a
      translated title the first author and year (the arXiv id from the manifest is the coordinate).
-  A cited year that is not the chosen record's becomes the record's year (even one year off); an
-  earlier one is kept in the citation as "Originally published YYYY".
+  A cited year that is not the chosen record's becomes the record's year (even one year off). An
+  earlier one is kept in the citation as "Originally published YYYY" only when the article's own cached
+  text puts that year beside a publication word (proceedings, conference, journal, presented, ...):
+  most earlier years a model writes are a data-collection or conference year it guessed, and a note
+  saying so reads as verified (maintainer, 2026-11-22).
 
     --years   for entries already citing a preprint's arXiv DOI on the batch's pages, align the cited
               year with the DataCite record's, the same way (a published DOI's Crossref year is left
@@ -110,6 +113,22 @@ def datacite(aid):
     cr = a.get("creators") or [{}]
     return {"doi": f"10.48550/arXiv.{aid}", "title": (a.get("titles") or [{}])[0].get("title", ""),
             "first": fold(cr[0].get("familyName") or cr[0].get("name") or ""), "year": a.get("publicationYear")}
+
+
+CACHE = WIKI_ROOT / "eval" / "corpus" / "cache"
+PUB_WORDS = re.compile(r"published in|proceedings of|presented at|accepted (?:for|to|in|at|by)|appeared in|"
+                       r"to appear in|copyright|©|journal of|conference on|symposium on", re.I)
+
+
+def earlier_year_supported(aid, year):
+    """Does the article's own front matter tie `year` to a publication? Only the first 4,000 characters
+    are read: a year in the reference list is some other paper's, and says nothing about this one."""
+    f = CACHE / f"arxiv-{aid}.txt"
+    if not f.exists():
+        return False
+    head = f.read_text(encoding="utf-8", errors="ignore")[:4000]
+    return any(PUB_WORDS.search(head[max(0, m.start() - 120):m.end() + 120])
+               for m in re.finditer(rf"(?<!\d){year}(?!\d)", head))
 
 
 def cited_title(line, year):
@@ -204,7 +223,8 @@ def main():
                         and titles_align(title, rec["title"])):
                     return mo.group(0)
                 new_year = int(rec["year"])
-                note = f" Originally published {year}." if year < new_year else ""
+                note = (f" Originally published {year}."
+                        if year < new_year and earlier_year_supported(arx.group(1), year) else "")
                 renames[f"{who} {year}{n}"] = f"{who} {new_year}{n}"
                 done += 1
                 if log:
@@ -266,7 +286,7 @@ def main():
             # and the load-bearing judge fails it
             if int(rec["year"]) != year:
                 new_year = int(rec["year"])
-                if year < new_year:
+                if year < new_year and earlier_year_supported(aid, year):
                     note = f" Originally published {year}."
                 line = re.sub(rf"\({year}\)", f"({new_year})", line, count=1)
                 renames[f"{who} {year}{n}"] = f"{who} {new_year}{n}"

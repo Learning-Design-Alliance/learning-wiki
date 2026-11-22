@@ -56,3 +56,4 @@ Cohort contrast reported in the Discussion of the register study: "children with
 - [Children with major congenital anomalies are less likely to apply for further education than reference children at the end of compulsory school in Finland](congenital-anomalies-lower-further-education-application.md) — related
 - [Children with multiple congenital anomalies have significantly lower grade means than children with isolated anomalies for several anomaly subgroups](multiple-versus-isolated-anomalies-grade-means.md) — related
 - [Children with severe congenital heart defects who apply to further education have lower grade means across fundamental school subjects than reference children](severe-chd-lower-grade-means.md) — related
+- [Students without chronic disease had significantly higher academic performance (p = 0.000) and lower BMI (p = 0.026) than students with chronic illness.](chronic-disease-lower-gpa-higher-bmi.md) — related

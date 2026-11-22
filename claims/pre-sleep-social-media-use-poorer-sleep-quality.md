@@ -49,3 +49,4 @@ Mutually adjusted multivariable linear regression of the PSQI global score in a 
 - [Sleep quality and academic performance are associated with different aspects of social media use: timing for sleep, amount for marks](outcome-specificity-timing-versus-amount.md) — a broader claim this one bears on
 - [Poor sleep quality (PSQI > 5) was present in 85.7% of the sampled medical and dental students](poor-sleep-prevalence-85-7-percent-medical-dental-students.md) — related
 - [Timing, purpose, and nocturnal-checking measures added explained variance for sleep quality but had little impact on academic performance beyond total daily use](incremental-value-timing-sleep-not-academic.md) — related
+- [Students reporting digestive disease show increased risk of poor sleep quality and higher nightmare proneness, with no gender interaction](digestive-disease-poor-sleep-nightmare-proneness.md) — related

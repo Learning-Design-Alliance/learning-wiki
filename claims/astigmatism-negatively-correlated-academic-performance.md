@@ -49,3 +49,4 @@ Same multivariate GLM analysis of N = 1,766 children; astigmatism was quantified
 - [Better binocular accommodative facility and amplitude of accommodation are significantly positively correlated with academic performance](accommodative-function-positively-correlated-academic-performance.md) — related
 - [Myopic children with undercorrected myopia score significantly lower academically than fully corrected myopic children](myopia-undercorrection-lower-academic-performance.md) — related
 - [Refractive status and cycloplegic spherical equivalence show no significant association with academic performance](refractive-status-no-association-academic-performance.md) — related
+- [Distance and near visual acuity are lower and the near point of convergence longer in children with bad academic performance](lower-visual-acuity-longer-npc-bad-performance.md) — related

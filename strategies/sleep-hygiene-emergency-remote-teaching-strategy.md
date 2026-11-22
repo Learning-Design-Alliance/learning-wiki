@@ -51,6 +51,7 @@ The authors recommend attention to sleep hygiene for students in remote, screen-
 - [Routinely screen health professions students for academic stress, anxiety, depression, and sleep disturbance during virtual learning, and incorporate sleep hygiene and resourcefulness training in curricula](routine-screening-sleep-hygiene-resourcefulness-training-strategy.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
+- [Sleep hygiene practices such as consistent bedtime routines may support sleep, academic performance and mental health in children](sleep-hygiene-consistent-bedtime-routine.md)
 
 ## Examples
 -

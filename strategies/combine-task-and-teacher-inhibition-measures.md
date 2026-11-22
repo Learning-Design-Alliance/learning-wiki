@@ -48,6 +48,7 @@ The article recommends measuring inhibition with both experimental tasks and tea
 - [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
 - [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 - [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
+- [Use cognitive-task indicators and experimental mindfulness-training trials instead of GPA-based performance measures](cognitive-tasks-and-experimental-mindfulness-trials-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ Based on the pilot findings, the authors recommend revising the target competenc
 - [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 - [Use higher-aligned curricula as practical models for targeted AMS curriculum revision across professions](high-alignment-curricula-as-revision-models.md)
 - [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
+- [Define profession-independent overarching goals and individual educational maps for multi-professional simulation groups](individual-educational-maps-multiprofessional-sbt.md)
 
 ## Examples
 -

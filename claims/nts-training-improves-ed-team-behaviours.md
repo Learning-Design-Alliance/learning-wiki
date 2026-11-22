@@ -99,3 +99,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Clinical outcomes did not differ across nontechnical skills rating groups in this cohort](no-outcome-difference-across-nts-groups.md) — related
 - [The performance benefit of named caps may be limited to newly formed, inexperienced teams with clearly defined roles](named-caps-benefit-newly-formed-teams.md) — related
 - [Named caps are associated with higher overall performance ratings and teamwork domain scores, but not leadership or task management](named-caps-teamwork-domain-not-leadership.md) — a narrower finding that bears on this claim
+- [Adverse safety events were more likely in teams with lower scores in communication, situational awareness, decision-making and leadership/followership, but not patient-friendliness](cts-domain-scores-error-association.md) — related

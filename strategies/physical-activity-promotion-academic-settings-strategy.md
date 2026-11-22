@@ -60,6 +60,7 @@ The article recommends that institutions embed physical movement in academic lif
 - [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
 - [Universities should implement goal-oriented programs promoting the six dimensions of healthy lifestyle behavior](goal-oriented-programs-promote-healthy-lifestyle-dimensions.md)
 - [Incorporate modifiable lifestyle strategies (NEAT, regular breaks, sleep-protective shift scheduling) into residents' work routines](neat-shift-scheduling-resident-lifestyle-strategy.md)
+- [Establish university counseling centers and campus health clubs promoting regular exercise, weight control and healthy lifestyle behaviors.](university-counseling-centers-health-clubs.md)
 
 ## Examples
 -

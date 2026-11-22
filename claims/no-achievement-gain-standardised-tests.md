@@ -53,3 +53,4 @@ Random-effects meta-analysis of 6 studies using national standardised tests as t
 - [In-classroom physical activity breaks show no significant effect on primary school children's mathematics performance](icpab-no-effect-mathematics.md)
 - [Effects of active classrooms on academic subjects vary, with language showing a clear increase and math and reading showing small imprecise effects](active-classrooms-subject-subgroups.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
+- [Pooled association between physical activity and academic performance in university students is small and non-significant (r = 0.07)](pa-ap-pooled-null-university-students.md) — related

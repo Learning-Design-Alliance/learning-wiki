@@ -89,3 +89,4 @@ Stepwise multiple regression analyses with intelligence subscales entered first,
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later](ec-prospective-achievement-six-year.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [Better self-control predicts better grade averages in elementary-school children](self-control-predicts-academic-success-children.md) — a narrower finding that bears on this claim

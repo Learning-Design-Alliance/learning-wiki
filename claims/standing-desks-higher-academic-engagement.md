@@ -52,3 +52,4 @@ Table 4 entry for Dornhecker et al. (2015), a non-randomized controlled study ac
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — reports the opposite
 - [An 11-week classroom standing desk intervention increases objectively measured standing time during lessons in primary school children](standing-desks-increase-lesson-standing-time-children.md) — related
 - [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — related
+- [Short-term studies report sit-to-stand desks reduce sitting time without harming academic performance, with mixed evidence on engagement and attention](short-term-standing-desk-benefits-mixed-engagement-evidence.md) — related

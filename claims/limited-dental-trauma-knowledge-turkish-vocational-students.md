@@ -59,3 +59,4 @@ Cross-sectional online survey of 333 students from 16 programs across 7 Turkish 
 - [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
 - [70% of nursing students would attend an educational program on dental trauma](nursing-students-willing-attend-dental-trauma-education.md) — related
 - [Most future schoolteachers value first-aid training and are willing to include BLS content in lessons with their students](teachers-willing-to-teach-bls.md) — related
+- [Across international surveys, avulsion-management knowledge scores are consistently lower than scores for other dental trauma](avulsion-scores-lower-than-other-trauma-internationally.md) — related

@@ -57,6 +57,7 @@ The article recommends that universities integrate sleep education and PA promot
 - [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
 - [Time sleep-related support services for the freshman transition and high-stress academic periods](timed-sleep-support-freshman-and-exam-periods.md)
 - [Use on-campus health and counseling services to identify and improve students' unhealthy lifestyle behaviors early in university study](early-on-campus-counseling-lifestyle-advice-strategy.md)
+- [Develop preventive and educational initiatives aimed at optimizing university students' sleep habits, including sleep-hygiene education sessions](sleep-hygiene-education-initiatives-university-students.md)
 
 ## Examples
 -

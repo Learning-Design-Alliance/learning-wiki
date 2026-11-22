@@ -48,3 +48,4 @@ One-way ANOVAs on total points (max 72) and final grade in the same between-subj
 - [The number of students passing the exam does not differ between placebo and either methylphenidate group](mph-no-difference-pass-rates.md) — related
 - [Methylphenidate does not improve performance on factual multiple-choice, inference multiple-choice, or open-ended inference exam questions when taken either before studying or before the exam](mph-no-improvement-exam-question-types.md) — possibly the same claim (merge candidate)
 - [Baseline working memory (digit span) does not moderate the effect of methylphenidate on exam performance](digit-span-does-not-moderate-mph-exam-effect.md) — related
+- [30-day Saccharomyces boulardii supplementation does not significantly improve final academic examination performance in medical students under examination stress](saccharomyces-boulardii-no-exam-performance-effect.md) — related

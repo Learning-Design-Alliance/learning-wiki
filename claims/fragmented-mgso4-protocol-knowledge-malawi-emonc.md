@@ -51,3 +51,4 @@ Thematic analysis of eight HCD workshops with embedded FGDs involving 48 provide
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
 - [Vancomycin knowledge gaps concentrate on loading dose, maintenance dose, and timing of first trough level, with target trough range best answered](vancomycin-knowledge-gaps-loading-dose-timing.md) — related
 - [Knowledge and use of magnesium sulphate among community health workers was sub-optimal, with diazepam repeatedly stated as the treatment of choice](mgso4-knowledge-suboptimal-diazepam-default.md) — related
+- Only about 10% of providers would monitor magnesium sulfate toxicity, indicating inadequate use of the drug when given — a narrower finding that bears on this claim

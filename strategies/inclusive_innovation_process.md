@@ -74,6 +74,7 @@ The framework applies participatory design principles to educational change: sol
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 - [Iteratively re-solving wicked challenges through scenario development and collaborative deliberation](iteratively-re-solving-wicked-challenges.md)
 - [Human-Centered Design co-design process for developing a departmental-culture survey](hcd-co-design-survey-development-strategy.md)
+- [Engage community stakeholders as equal partners to design, pilot, and deliver bias training](community-stakeholder-co-design-bias-training-strategy.md)
 
 ## Examples
 - A school district convened a team of students, district administrators, teachers, community organizations, and the Center for Inclusive Innovation to address an equity-related problem; students led professional development on racialized experiences that educators rated as highly impactful.

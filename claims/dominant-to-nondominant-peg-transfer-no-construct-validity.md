@@ -47,3 +47,4 @@ Mann-Whitney U comparison of novice (n=10) and expert (n=2) scores for the domin
 ## Related Claims
 - [Fresh frozen cadaver training shows construct validity: experts scored significantly higher than novices on 4 of 5 laparoscopic tasks](ffc-training-construct-validity-four-of-five-tasks.md) — a broader claim this one bears on
 - [Simulator training brought novice students' laparoscopic scores toward expert surgeons' average scores, though a gap remained in peg transfer](simulator-training-approaches-student-scores-to-expert-scores.md) — related
+- [Expert surgeons move faster and more smoothly than naive controls overall in the laparoscopic peg-transfer task](experts-faster-and-smoother-than-controls-overall.md) — reports the opposite

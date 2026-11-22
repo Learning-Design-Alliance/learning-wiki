@@ -13,7 +13,7 @@ generated:
 # Communication Assessment Tool (CAT)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A 15-item, five-point patient questionnaire developed to assess clinicians' or medical students' communication and interpersonal skills from the patient perspective.
@@ -24,9 +24,11 @@ A 15-item, five-point patient questionnaire developed to assess clinicians' or m
 
 ### Claims
 - [In a randomized EM clerkship trial, students receiving a multimodal communication curriculum at the midpoint achieved maximum CAT scores more often than controls in weeks 3–4 (OR 1.65, p = 0.008)](../claims/multimodal-curriculum-patient-feedback-improves-cat-max-scores.md) [+M]
+- [Standardized Video Interview scores did not significantly correlate with faculty ratings of professionalism, faculty ratings of patient care/communication, or patient CAT ratings in emergency medicine applicants](../claims/svi-scores-no-correlation-faculty-patient-ratings.md) [~W]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Dubosh NM, Hall MM, Novack V, Shafat T, Shapiro NI, Ullman EA. (2020). A Multimodal Curriculum With Patient Feedback to Improve Medical Student Communication: Pilot Study. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2018.11.44318
+- Hall Matthew M., Lewis Jason J., Joseph Joshua W., Ketterer Andrew R., Rosen Carlo L., Dubosh Nicole M. (2019). Standardized Video Interview Scores Correlate Poorly with Faculty and Patient Ratings. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2019.11.44054

@@ -49,3 +49,4 @@ Implementation record (Table 4) of changes from daily plus/delta debriefings and
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
 - [Beta testing of the course led to design changes: dropping pre-briefing, focusing each session on one PEARLS element, and adding breakout-room individual feedback](beta-tests-shaped-sl-simulation-course-design.md) — related
 - [Clinical debriefing reports generated quality improvement actions, including equipment additions and protocol changes](clinical-debriefing-drives-quality-improvement.md) — a narrower finding that bears on this claim
+- [Iterative simulation allowed guideline modifications and workflow improvements to be fully evaluated and implemented within 2 days](simulation-rapid-guideline-improvement-two-days.md) — related

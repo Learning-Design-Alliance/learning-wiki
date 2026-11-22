@@ -60,3 +60,4 @@ ANCOVA of the 450-nurse survey relating education level (bachelor's, diploma, po
 - [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related
 - [Educational level shows no significant effect on total clinical competence except a higher ensuring-quality score among master's-degree nurses](education-level-null-effect-clinical-competence.md) — reports the opposite
 - [ICU nurses' educational level is significantly associated with eye care knowledge scores, with postgraduate nurses scoring highest](icu-nurse-education-level-eye-care-knowledge.md) — reports the opposite
+- [Nurses' education level is significantly associated with the personal-and-team-support factor, with junior college and undergraduate nurses scoring higher than postgraduate nurses](education-level-associated-c-sccs-factor-2.md) — related

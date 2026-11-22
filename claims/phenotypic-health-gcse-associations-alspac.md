@@ -53,3 +53,6 @@ Phenotypic multivariable linear regression in the ALSPAC cohort (N=6113), adjust
 - [Heavy or prolonged menstrual bleeding in adolescence is associated with more school absence, including persistent absence of 10% or more](heavy-menstrual-bleeding-school-absence-alspac.md) — related
 - [In this rural county sample, asthma posed a marked burden: asthma was the primary cause of school absences and two mortalities in Ector County schools in 2014–2015](ecton-county-asthma-school-absence-burden.md) — related
 - [Higher BMI z-scores at age 11.7 years are associated with lower GCSE scores at age 16 in both females and males](bmi-age-11-lower-gcse-scores.md) — related
+- [The negative depression–attainment association persists after adjustment for confounders, including prior attainment](depression-attainment-robust-to-confounder-adjustment.md) — related
+- [Child and adolescent depression is associated with small but statistically significant lower subsequent educational attainment (pooled r = −0.19)](depression-lower-subsequent-attainment-pooled-r-0-19.md) — a broader claim this one bears on
+- [One study found a weak but significant positive association between depression at age 12 and A-level performance, not replicated for GCSE performance](positive-association-depression-alevel-not-gcse.md) — reports the opposite

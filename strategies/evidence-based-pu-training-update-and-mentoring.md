@@ -47,6 +47,7 @@ The article recommends updating existing training programs to include evidence-b
 - [Prepare special, unit-specific training programs for nurses working in units at high risk of pressure ulcers](unit-specific-pu-training-risky-units.md)
 - [Provide targeted, evidence‐based MDRPI training programmes plus periodic knowledge tests and feedback to correct misinformation and raise nurses' knowledge](targeted-evidence-based-mdrpi-training-strategy.md)
 - [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
+- [Teach Universal Work Precautions courses across years of study with senior nurses enforcing precautions during clinicals](universal-work-precautions-courses-nursing-schools-strategy.md)
 
 ## Examples
 -

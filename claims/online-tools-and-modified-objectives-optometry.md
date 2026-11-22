@@ -50,3 +50,4 @@ Rajhans Vidyut, Memon Usman, Patil Vidula, Goyal Aditya. (2020). Impact of COVID
 - [In video-conferencing environments, instructors' positive attitude toward technology and interactive teaching style relate to perceived learning effectiveness, with teaching style most influential](instructor-interactive-style-videoconferencing-engagement.md) — related
 - [93.58% of surveyed Indian optometry educators switched to e-learning mode within a very short period during the COVID-19 lockdown](optometry-educators-switched-e-learning-lockdown.md) — related
 - [Indian optometry education shifted from teacher-centric classroom teaching toward student-centric, competency-based e-learning between 2018 and 2020](shift-teacher-centric-to-competency-based-e-learning.md) — related
+- [Socratic teaching can be accomplished virtually via combined video and audio conferencing](socratic-teaching-virtually-zoom.md) — related

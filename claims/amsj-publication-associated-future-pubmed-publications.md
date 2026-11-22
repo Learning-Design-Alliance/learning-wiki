@@ -51,3 +51,5 @@ Retrospective matched-cohort study of 55 AMSJ first authors (2010–2015) versus
 - [AMSJ authors were significantly more likely to enter surgical training, with no association for GP/emergency or physician training](amsj-publication-associated-surgical-training.md) — related
 - [No significant association was found between AMSJ publication and future faculty position attainment](amsj-publication-no-association-faculty-position.md) — related
 - [Medical students who complete an intercalated BMedSc(Hons) research degree are more than seven times as likely to have at least one post-graduation peer-reviewed publication than matched controls](bmedschons-sevenfold-postgrad-publication-odds.md) — related
+- [NZMSJ student authors had already published more in PubMed-indexed journals before graduation than matched controls (OR 5.38)](nzmsj-authors-more-pregraduation-publications.md) — related
+- [NZMSJ student authors are significantly more likely to publish in PubMed-indexed journals after graduation than matched controls (OR 3.09)](nzmsj-publication-associated-postgraduation-publishing.md) — related

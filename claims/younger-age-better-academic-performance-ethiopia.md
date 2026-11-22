@@ -58,3 +58,4 @@ Multivariate logistic regression among 399 public primary school children found 
 - [Children enrolled in private schools scored higher in reading and spelling than children in government schools in rural Bangladesh](private-school-advantage-reading-spelling-rural-bangladesh.md) — related
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](grade-repeaters-lower-performance-except-workshop.md) — related
 - [Older age is associated with better academic performance and lower odds of poor performance among adolescents](age-associated-academic-performance-adolescents.md) — reports the opposite
+- [Older adolescents (15–16) show more boredom, less fun, less physical activity, lower academic performance and higher alcohol consumption than younger adolescents (12–14)](age-differences-older-adolescents-worse-outcomes.md) — related

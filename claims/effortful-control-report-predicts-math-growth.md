@@ -70,3 +70,4 @@ Model B growth model with cognitive covariates added. The combined effortful con
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
 - [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related
 - [Self-Awareness and Self-Management remain significantly and positively associated with Year 7 reading and numeracy after controlling for Year 5 achievement and sociodemographic covariates](sel-competencies-predict-attainment-covariate-adjusted.md) — a narrower finding that bears on this claim
+- [Higher persistence at 2-3 years is associated with better teacher-reported literacy and numeracy at 6-7 years](persistence-better-literacy-numeracy.md) — related

@@ -66,3 +66,4 @@ The review attributes to cited literature that practitioners with 100 or more EV
 ## Related Claims
 - [The EVH learning curve period is reported to range from 5 to 30 cases](evh-learning-curve-5-to-30-cases.md) — related
 - [Novice endoscopic vein harvesters cause greater vein conduit trauma than experienced harvesters during the learning curve period](novice-evh-greater-vein-trauma-learning-curve.md) — related
+- [Reported caseloads required to reach the surgical learning curve vary widely by procedure, from 15 cases for robotic-assisted left internal mammary harvest to more than 100 for off-pump endoscopic CABG](caseloads-learning-curve-vary-by-procedure.md) — a broader claim this one bears on

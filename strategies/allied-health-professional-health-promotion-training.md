@@ -50,6 +50,7 @@ To address de-prioritization of health promotion under heavy patient load, the a
 ## Related Strategies
 
 - [Provide in-service physicians compulsory hands-on training in health promotion through continuing medical education](compulsory-hands-on-health-promotion-cme.md)
+- [Train health promoters to deliver oral health education to patients in clinic waiting areas](health-promoters-oral-health-education-strategy.md)
 
 ## Examples
 -

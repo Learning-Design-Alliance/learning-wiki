@@ -44,6 +44,7 @@ The authors' forward-looking recommendations for the field: they suggest "Encour
 - [Adopt emerging gesture-capture and telestration technologies to extend embodied anatomical teaching in dental education](telestration-gesture-tech-dental-future-directions.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Develop dedicated augmented reality libraries for building learning systems in the mobile-oriented learning environment of higher education institutions](ar-libraries-mobile-learning-future.md)
+- [Use augmented reality in existing buildings to increase realism and obtain more reliable fire-behavior data](augmented-reality-fire-behavior-capture.md)
 
 ## Examples
 -

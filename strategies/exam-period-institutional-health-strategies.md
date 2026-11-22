@@ -54,6 +54,8 @@ The article recommends that universities support medical students during high-st
 - [Universities should provide exercise breaks, wellness programs, and physical activity campaigns for medical students](exercise-breaks-wellness-programs-medical-students.md)
 - [Promote healthy exam-period habits among medical students through awareness campaigns and health education programs](exam-period-health-education-campaigns-strategy.md)
 - [Universities should implement goal-oriented programs promoting the six dimensions of healthy lifestyle behavior](goal-oriented-programs-promote-healthy-lifestyle-dimensions.md)
+- [Develop preventive and educational initiatives aimed at optimizing university students' sleep habits, including sleep-hygiene education sessions](sleep-hygiene-education-initiatives-university-students.md)
+- [Universities can encourage student physical activity through awareness campaigns, sports facilities, and PA offerings during examination periods](strategy-campus-pa-promotion-exam-periods.md)
 
 ## Examples
 -

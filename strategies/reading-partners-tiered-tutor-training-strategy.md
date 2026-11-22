@@ -42,6 +42,7 @@ The program trains its two staffing tiers differently. "AmeriCorps members and p
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 - [Train tutors in academic strategies through supervised practice with ongoing professional development across the year](tutor-pre-service-training-supervised-practice.md)
 - [Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year](experience-corps-25-hour-training-model.md)
+- [Allocate student volunteers to low-risk prevention activities and limit clinical-setting volunteering to well-prepared clinical-year students](low-risk-volunteer-allocation-clinical-years-only.md)
 
 ## Examples
 -

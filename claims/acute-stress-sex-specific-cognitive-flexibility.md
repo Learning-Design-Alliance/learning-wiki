@@ -56,3 +56,4 @@ Randomized mixed-model ANOVA with Sex and Condition as between-subjects factors 
 - [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related
+- [Acute stress impairs working memory, cognitive flexibility and cognitive inhibition but enhances response inhibition](acute-stress-executive-functions-meta-analysis.md) — related

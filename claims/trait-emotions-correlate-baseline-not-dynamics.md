@@ -49,3 +49,4 @@ Correlational analysis in Study 1 relating CESD, TAI, and BFI:NE sum scores to i
 - [Intraindividual and interindividual correlations between achievement goals and emotions are statistically independent yet empirically convergent, with goals and emotions less correlated within persons](intra-interindividual-correlations-independent-yet-convergent.md) — related
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
 - [Trait anxiety correlates with over-commitment and inversely with alternating-category verbal fluency](trait-anxiety-overcommitment-verbal-fluency.md) — related
+- [At baseline, state anxiety correlated positively with use of anxiety words and negatively with positive-emotion words in pre-exam expressive writing essays](baseline-anxiety-correlates-with-liwc-word-categories.md) — related

@@ -71,6 +71,8 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Provide initial instructions on the adequate sequence of actions before self-training game play](initial-instructions-before-serious-game-play.md)
 - [Deliberate practice with immediate feedback and repeated simulation lab practice before competency evaluation](deliberate-practice-simulation-lab-before-osce-strategy.md)
 - [Incorporate automated skills testing as formative assessment in an adaptive learning cycle with repetitive testing](automated-testing-adaptive-learning-cycle.md)
+- [Half-day repetition training sessions with new scenarios and raised performance expectations](half-day-repetition-training-sessions-strategy.md)
+- [Provide three kinds of feedback during simulation-based skill acquisition: automatic simulator feedback, instructor feedback during training, and post-session debriefing](three-source-feedback-simulation-skill-acquisition.md)
 
 ## Examples
 -

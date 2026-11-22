@@ -51,3 +51,4 @@ Multivariable backward-Wald logistic regression (Table 5) with PSQI > 5 as depen
 - [80.9% of health-related faculty students had poor sleep quality (PSQI > 5) when surveyed during the exam period](poor-sleep-quality-prevalence-health-students-giresun.md) — related
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — related
 - [Fourth-year students had lower odds of poor sleep quality than second-year students](fourth-year-lower-odds-poor-sleep-quality.md) — related
+- [Students reporting digestive disease show increased risk of poor sleep quality and higher nightmare proneness, with no gender interaction](digestive-disease-poor-sleep-nightmare-proneness.md) — related

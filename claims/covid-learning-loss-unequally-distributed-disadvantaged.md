@@ -50,3 +50,4 @@ Difference-in-differences regression analysis comparing the 2019/2020 cohort's m
 - [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — a narrower finding that bears on this claim
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
+- [Social and physical isolationism during COVID-19 is disadvantageous to educational engagement in OMS](social-distancing-harms-educational-engagement.md) — related

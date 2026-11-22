@@ -50,3 +50,4 @@ Reported from the trial's results section: high turnover (only 20% of baseline w
 - [Visual acuity testing capability is largely missing: only 14% of PHCWs were trained to measure visual acuity and 5.7% of health posts had a vision chart](visual-acuity-testing-missing-14-percent-trained-5-7-percent-charts.md) — related
 - [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
 - [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
+- [Eritrea's optometry technician cadre shows high attrition, with 75.5% of graduates still active in the country's eye care services](eritrea-ot-high-attrition.md) — related

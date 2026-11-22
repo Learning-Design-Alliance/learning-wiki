@@ -53,3 +53,4 @@ The essay's evaluation section reports observational studies attributing this to
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](minoritized-students-belonging-peer-fixed-mindset.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Cognitive shortcuts involving race, ethnicity, or gender can contribute to health care disparities, and feedback is a useful strategy to address them](cognitive-shortcuts-bias-disparities-feedback.md) — related
+- The RASE model reproduces observed gender disparities in colloquium invitations, with a roughly 10% lower Achievement-to-Status multiplier for women in the biology case — a narrower finding that bears on this claim

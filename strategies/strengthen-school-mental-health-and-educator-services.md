@@ -45,6 +45,7 @@ Based on 26 years of service data showing rising registrations for affective dis
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
 - [School-based screening and adapted school-context interventions for early detection and treatment of social anxiety disorder](school-based-screening-interventions-sad-early-detection.md)
+- [Provide timely mental health detection and comprehensive educational support for pupils with depression, addressing shared precursors rather than single risk factors](timely-detection-comprehensive-support-depressed-pupils.md)
 
 ## Examples
 -

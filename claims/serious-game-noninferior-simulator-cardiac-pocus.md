@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: lintschinger-josef-michael-et-al-2026
     resource: "https://doi.org/10.1186/s12909-026-08995-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized controlled non-inferiority trial, the change in total modified OSAUS score from baseline to final assessment showed the video game group was non-inferior to the simulator group (p < 0.001). [→ Lintschinger Josef Michael et al 2026](#lintschinger-josef-michael-et-al-2026)

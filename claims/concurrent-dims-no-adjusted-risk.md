@@ -3,6 +3,7 @@ type: claim
 title: Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems
 description: Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems
 id: concurrent-dims-no-adjusted-risk
+aliases: [concurrent-dims-not-significant-after-adjustment]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` Concurrent DIMS was associated with poor academic performance in the crude model (OR 2.11, 95% CI 1.50–2.97) but not in the fully adjusted model (OR 1.19, 95% CI 0.82–1.73). [→ Stormark KM 2019](#stormark-km-2019)
+
+`q3 i?` Concurrent DIMS (at T2 only) was associated with poor performance in the crude model (OR 2.11) but not in the fully adjusted model (OR 1.19, p = .35). [→ Stormark Kjell Morten 2019](#stormark-km-2019)
 
 ## Evidence
 
@@ -39,10 +43,24 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 
 > "Children with concurrent DIMS were in the crude model found to have an increased risk of poor academic performance at T2 compared to no-DIMS children (OR 2.11; 95% CI 1.50–2.97), but in the fully adjusted model, this association did not longer remain significant (OR 1.19; 95% CI 0.82–1.73)."
 
+<!-- merged 2026-11-22 from concurrent-dims-not-significant-after-adjustment: that page's entry for this study, which differed from the one above, kept verbatim.
+### Stormark Kjell Morten 2019
+
+Stormark Kjell Morten, Fosse Hedvik Elisabeth, Pallesen Ståle, Hysing Mari. (2019). The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE. https://doi.org/10.1371/journal.pone.0224139
+
+`q3 · i?`
+
+Logistic regression in the Bergen Child Study cohort comparing concurrent DIMS children with no-DIMS children. The crude association "OR 2.11; 95% CI 1.50–2.97" attenuated to non-significance after full adjustment; equivalence was not tested.
+
+> "Children with concurrent DIMS were in the crude model found to have an increased risk of poor academic performance at T2 compared to no-DIMS children (OR 2.11; 95% CI 1.50–2.97), but in the fully adjusted model, this association did not longer remain significant (OR 1.19; 95% CI 0.82–1.73)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
 - [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
 - [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — related
@@ -53,3 +71,4 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Tablet in the bedroom was associated with poor sleep quality in univariate analysis (86.1% vs 71.7%), but this association did not persist in the multivariable model](tablet-bedroom-association-not-persistent.md) — related
 - [Screen time, sleep duration, and ethnicity are not associated with grades once psychopathology and other confounders are jointly adjusted](lifestyle-associations-attenuate-full-adjustment.md) — a broader claim this one bears on
+- [The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems](dims-school-performance-mediated-by-mental-health.md) — related

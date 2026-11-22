@@ -51,3 +51,4 @@ Theme two of the inductive content analysis of interviews and focus groups with 
 - [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related
 - [Barriers to obstetric emergency knowledge-building are both structural and cultural, and inequalities permeate all domains driving inequities in outcomes](structural-cultural-barriers-inequities-oe-learning.md) — a broader claim this one bears on
 - [High patient volume and inadequate supplies adversely affect midwives' neonatal resuscitation performance and neonatal survival in a low-resource referral hospital](patient-volume-supplies-hamper-neonatal-resuscitation.md) — related
+- Surgeons who have lost an only eye describe lasting personal responsibility and blame, and perceive a lack of formal support pathways, with lack of time a barrier to seeking help — related

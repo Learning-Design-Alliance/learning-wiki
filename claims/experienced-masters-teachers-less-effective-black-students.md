@@ -53,3 +53,4 @@ Analysis of teacher characteristics linked to race-specific value-added in Chica
 - [Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher moves schools or grades](race-specific-value-add-predicts-subsequent-effects.md) — related
 - [Teachers with higher education delivered BEST in CLASS with higher initial adherence and competence](teacher-education-higher-initial-integrity.md) — related
 - [Teacher quality covariates are significant only at specific levels: Master's degree share at middle and high schools, experience at elementary schools](teacher-quality-covariate-pattern.md) — related
+- [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — related

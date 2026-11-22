@@ -42,7 +42,8 @@ Before building the curriculum, the team ran semistructured interviews with pati
 - [Homebound patients with cardiovascular disease show three themes: limited awareness of heart disease, fluctuating motivation with reliance on caregivers, and barriers to attending outpatient cardiac rehabilitation.](../claims/homebound-cardiac-patient-interview-themes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop training content systematically from a literature review plus semistructured interviews with patients, healthcare professionals and counselling experts](needs-based-training-development-interviews-literature.md)
 
 ## Examples
 -

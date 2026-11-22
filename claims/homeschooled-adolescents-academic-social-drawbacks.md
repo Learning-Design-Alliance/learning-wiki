@@ -49,3 +49,4 @@ Green-Hennessy (2014) analyzed 182,351 adolescents aged 12-17 from the NSDUH usi
 - [Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling](quantitative-homeschooling-research-scope.md) — related
 - [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — reports the opposite
 - [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — reports the opposite
+- [Homeschooling versus public schooling is associated with more frequent volunteering, greater forgiveness, and more frequent religious service attendance in young adulthood](homeschooling-volunteering-forgiveness-attendance.md) — related

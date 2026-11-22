@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-22
 sources:
   - id: lin-qinyun-2025
     resource: "https://doi.org/10.1186/s12889-025-23578-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Three indicators are significantly associated with high language achievement in girls but not boys: lower BMI z-score (OR 0.78), higher healthy diet score (OR 1.03), and better sleep quality (bad-sleep OR 0.57 versus good). [→ Lin Qinyun 2025](#lin-qinyun-2025)
@@ -58,3 +59,5 @@ Sex-stratified fully adjusted logistic regression for high language grades in th
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — reports the opposite
 - [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — related
+- [Better adherence to diet quality indices such as the Baltic Sea Diet Score, DASH score, and Healthy Eating Index is associated with better cognition and academic achievement in children, though not all indices show associations](diet-quality-indices-cognition-children.md) — related
+- [Across all analyzed lifestyle habits, students maintaining a healthier lifestyle obtained better academic results in this sample](overall-healthy-lifestyle-associated-academic-performance.md) — related

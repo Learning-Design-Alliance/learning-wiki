@@ -70,3 +70,4 @@ The review reports that at a stricter success target the required attempt count 
 - [By CUSUM analysis, DL-first trainees needed a mean of 18 intubation attempts to reach an 80% success rate, while VL-first trainees required more than 20 attempts](dl-first-cusum-18-attempts-versus-vl-first-over-20.md) — reports the opposite
 - [For operators with less experience, the GVL is more quickly learned and associated with higher first pass intubation success than DL](gvl-more-quickly-learned-than-dl-for-novices.md) — related
 - [Cumulative success probability rises sharply from first to second attempt (≈0.60 to ≈0.73) and then plateaus near 0.80 by the fourth attempt](learning-curve-sharp-early-gains-then-plateau.md) — related
+- [The article reports that 50–60 real-life ETI procedures are needed for a 90% success rate and that skills decay without frequent use](eti-skill-acquisition-exposure-threshold.md) — related

@@ -80,6 +80,37 @@ _LOST_MINUS_NUL = re.compile(r"(?<![\x00-\x08\x0b\x0c\x0e-\x1f])\x00[ \t]?(?=[.,
 _LOST_MINUS_EXCL = re.compile(r"(?<=[\s(=,;:\[|/<>])¡[ \t]?(?=[.,]?\d)")
 
 
+# Some PDFs carry no text layer for their font, and pypdf returns glyph names instead of letters:
+# "/G4A/G65/G61/G6E" (hex character codes, "Jean") or, from old TeX fonts, "/CW/CT". Extraction from
+# such text reads a handful of real words and invents the rest; two arXiv sources of the 2026-11 sweep
+# wrote claims that way (maintainer, 2026-11-22: guard against it). Hex codes are decoded, cleanly.
+# The TeX codes are refused: they decode to text missing its "c" and its ligatures ("des rib e",
+# "ph ysi s"), and a quotation taken from that is not the article's.
+_GLYPH = re.compile(r"/(?:G[0-9A-F]{2}|[A-F][0-9A-Z])\b")
+
+
+def _glyph_ratio(text: str) -> float:
+    return len(_GLYPH.findall(text)) / max(1, len(re.findall(r"\b[a-zA-Z]{3,}\b", text)))
+
+
+def _decode_glyph_names(text: str) -> str:
+    if _glyph_ratio(text) <= 1:
+        return text                         # ordinary text: "/CT" in a URL or formula stays as it is
+
+    def hexchar(m):
+        c = int(m.group(1), 16)
+        return chr(c) if 0x20 <= c < 0x7F else " "
+
+    return re.sub(r"/G([0-9A-F]{2})", hexchar, text)
+
+
+def _refuse_garbled(text: str, what: str) -> str:
+    text = _decode_glyph_names(text)
+    if _glyph_ratio(text) > 1:
+        raise FetchError(f"{what} is glyph codes, not text (no font mapping in the PDF); not extracting from it")
+    return text
+
+
 def _extract_pdf_text(content: bytes) -> str:
     try:
         from pypdf import PdfReader
@@ -396,7 +427,7 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     cache_path = CACHE_DIR / f"{entry['id']}.txt"
 
     if cache_path.exists() and not refresh:
-        cached = cache_path.read_text(encoding="utf-8")
+        cached = _refuse_garbled(cache_path.read_text(encoding="utf-8"), "the cached text")
         # Texts cached before the title check existed are held to it too: two wrong
         # documents from that cache reached hq-wave-1 (2026-10-16).
         if (entry.get("source") in ("web", "oa") and entry.get("title")
@@ -442,6 +473,7 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
             matches_title(text, entry["title"]) and matches_author(text, entry.get("authors"))):
         raise FetchError(f"the fetched document does not look like {entry['title'][:80]!r} "
                          f"(fewer than 60% of its title words in the opening); not ingesting another work under its name")
+    text = _refuse_garbled(text, "the fetched text")
     # an old-style arXiv id carries its archive ("arxiv-physics/0611277"), so the path has a directory in it
     cache_path.parent.mkdir(parents=True, exist_ok=True)
     cache_path.write_text(text, encoding="utf-8")

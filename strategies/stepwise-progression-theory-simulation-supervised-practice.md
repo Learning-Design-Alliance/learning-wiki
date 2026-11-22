@@ -78,6 +78,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Build simulation airway curricula around environmental fidelity and deliberate practice, with formal teaching of nontechnical crisis management skills](simulation-airway-curriculum-fidelity-deliberate-practice.md)
 - [Structure vaginal myomectomy training as approximately 30–34 supervised cases with mentorship and stepwise responsibility for trainees with prior vaginal surgery experience](vm-training-30-34-supervised-cases-strategy.md)
 - [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

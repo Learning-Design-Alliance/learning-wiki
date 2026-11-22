@@ -51,6 +51,7 @@ Based on the finding that stressors reduce readiness for clinical practice, the 
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 - [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
+- [Deploy multifaceted preventive measures — extracurricular activities, stressor reduction, social support, and community service — to reduce medical student burnout](multifaceted-burnout-prevention-medical-students.md)
 
 ## Examples
 -

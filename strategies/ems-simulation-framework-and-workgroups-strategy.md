@@ -54,6 +54,7 @@ The article recommends that program directors ensure faculty receive 'adequate i
 - [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Provide specific airway management training for non-anaesthesiologist HEMS personnel, supported by simulation access and HEMS-tailored national guidelines](specific-airway-training-non-anaesthesiologist-hems-personnel-strategy.md)
+- [Develop mandatory national airway-management training: advanced ETI courses for anesthetists and non-invasive airway courses for pediatricians](national-mandatory-airway-training-courses.md)
 
 ## Examples
 -

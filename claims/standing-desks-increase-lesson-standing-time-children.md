@@ -48,3 +48,4 @@ Accelerometer (ActiGraph wGT3X-BT) comparison over five schooldays in a non-rand
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — a broader claim this one bears on
 - [The standing desk intervention reduces sitting time during lessons by about 13 minutes per day](standing-desks-reduce-lesson-sitting-time-children.md) — related
 - [Standing desks are associated with higher academic engagement in primary-school classrooms](standing-desks-higher-academic-engagement.md) — related
+- [Short-term studies report sit-to-stand desks reduce sitting time without harming academic performance, with mixed evidence on engagement and attention](short-term-standing-desk-benefits-mixed-engagement-evidence.md) — a broader claim this one bears on

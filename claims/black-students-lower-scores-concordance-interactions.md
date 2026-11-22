@@ -51,3 +51,4 @@ Second sensitivity analysis of the same cohort comparing Black to non-Black indi
 - [URM status is associated with lower NCAT-EM scores in the global assessment, history/physical, and prioritized differential domains after multivariate adjustment](urm-status-lower-ncat-em-scores.md) — related
 - [URM concordance between rater and student moderated the negative effect of URM status, lessening or reversing it in the observation/monitoring domain](urm-concordance-moderates-ncat-em-scores.md) — related
 - [Faculty raters gave lower entrustment ratings than resident raters across all NCAT-EM domains in univariate analysis](faculty-raters-lower-entrustment-than-residents.md) — related
+- [Race concordance between facilitator and group was not significantly associated with adherence or competency outcomes](race-concordance-not-associated-mb-fidelity.md) — reports the opposite

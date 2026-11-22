@@ -54,3 +54,4 @@ This is the article's own summary of its stratified regression results across Ta
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
+- [Overweight, obesity, and increased cardiometabolic risk are associated with poorer cognition and academic achievement in children, but longitudinal evidence is inconsistent and causality is unestablished](adiposity-cardiometabolic-risk-cognition-children.md) — a broader claim this one bears on

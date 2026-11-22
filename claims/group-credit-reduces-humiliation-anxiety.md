@@ -53,3 +53,4 @@ Semi-structured interviews with nine students selected by anxiety level, conduct
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [In compulsory secondary education PE, anger and fear predominated, driven mainly by physical fitness testing, grading pressures and “exposed body” experiences](anger-fear-predominant-cse-pe.md) — related
 - [Power asymmetry between feedback giver and receiver reduces trust and increases resistance to feedback among faculty](power-asymmetry-reduces-feedback-trust.md) — related
+- [Groups with higher levels of psychological safety tend to have higher levels of trust, and psychologically safe environments encourage authenticity and risk-taking](psychological-safety-higher-group-trust.md) — a broader claim this one bears on

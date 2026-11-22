@@ -52,3 +52,4 @@ GEE analysis of Raven's Progressive Matrices pre/post in the cluster-controlled 
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md) — related
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — a broader claim this one bears on
+- [The trial is powered to accept non-inferiority of sit-to-stand desks on academic performance only within about a 10% margin](non-inferiority-margin-ten-percent-academic-performance.md) — related

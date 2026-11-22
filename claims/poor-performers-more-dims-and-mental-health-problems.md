@@ -3,6 +3,7 @@ type: claim
 title: Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers
 description: Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers
 id: poor-performers-more-dims-and-mental-health-problems
+aliases: [poor-performance-group-characteristic-differences]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` The poor academic performance group had a larger proportion of children with DIMS and more internalizing and externalizing problems than the average-to-good group (all comparisons p < .001). [→ Stormark KM 2019](#stormark-km-2019)
+
+`q3 i?` The poor academic performance group differed significantly from the average-to-good group on DIMS, pubertal development, family economy, parental education and mental health scores (all p < .001). [→ Stormark Kjell Morten 2019](#stormark-km-2019)
 
 ## Evidence
 
@@ -39,10 +43,24 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 
 > "The low academic performance group comprised a significant larger proportion of children with DIMS, larger proportion of children with delayed pubertal development, less affluent family economy, lower levels of parental education and more mental health problems than the control group (all comparisons p< .001)."
 
+<!-- merged 2026-11-22 from poor-performance-group-characteristic-differences: that page's entry for this study, which differed from the one above, kept verbatim.
+### Stormark Kjell Morten 2019
+
+Stormark Kjell Morten, Fosse Hedvik Elisabeth, Pallesen Ståle, Hysing Mari. (2019). The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE. https://doi.org/10.1371/journal.pone.0224139
+
+`q3 · i?`
+
+Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor academic performance group (10.5% of the cohort) and the average-to-good group, reported in Table 1. All comparisons reached "p < .001"; no standardized effect sizes were printed.
+
+> "The low academic performance group comprised a significant larger proportion of children with DIMS, larger proportion of children with delayed pubertal development, less affluent family economy, lower levels of parental education and more mental health problems than the control group (all comparisons p < .001)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
 - [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — related
@@ -52,3 +70,4 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — related
 - [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related
 - [Always skippers differ socio-demographically: poorer health, higher sadness and worries, less frequent good sleep, less educated parents and more disadvantaged areas](always-skippers-sociodemographic-profile.md) — related
+- [The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems](dims-school-performance-mediated-by-mental-health.md) — related

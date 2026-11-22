@@ -82,6 +82,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 - [Provide structured, multi-layered university support programmes combining curricular structuring, mentoring, psychosocial support and financial support for quota-admitted students](structured-multilayered-support-rdq-students.md)
 - [Joint psychological, behavioral and academic support interventions targeting social anxiety and social media addiction to improve academic engagement](joint-intervention-social-anxiety-sma-engagement.md)
+- [Deploy multifaceted preventive measures — extracurricular activities, stressor reduction, social support, and community service — to reduce medical student burnout](multifaceted-burnout-prevention-medical-students.md)
 
 ## Examples
 -

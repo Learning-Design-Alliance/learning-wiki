@@ -53,3 +53,4 @@ Stepwise multiple regression in the same cross-sectional survey (n = 437), run w
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Empathy, low job burnout, humanistic nursing training, and personnel-agency employment status predict surgical nurses' perioperative PCC competence, together explaining 59.2% of variance](four-factors-predict-surgical-nurse-pcc-competence.md) — related
 - [Surgical nurses who received humanistic nursing training reported higher PCC competence, while gender and one-child family status showed no significant difference](humanistic-training-higher-pcc-gender-null.md) — related
+- [Nurses' age, hospital level, and perceived EBN knowledge are significant related factors of EBP competency in multiple linear regression](age-hospital-level-ebn-knowledge-regression-factors.md) — related

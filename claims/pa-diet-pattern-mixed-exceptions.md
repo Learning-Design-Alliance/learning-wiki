@@ -51,3 +51,4 @@ Table 2 t-tests comparing active and less active adolescents: the article's pros
 - [Adolescents engaging in more than three hours per week of physical activity show higher overall adherence to the Mediterranean diet than less active peers](pa-three-hours-week-higher-md-adherence-adolescents.md) — reports the opposite
 - [Unhealthy behaviors cluster: students with lower physical activity, irregular breakfast, and abnormal SDQ scores were more prone to frequent sweet eating](unhealthy-behavior-clustering-palestinian-students.md) — reports the opposite
 - [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — related
+- [Fruit intake may act as a marker of overall sweet consumption, possibly explaining its inverse association with English scores](fruit-intake-marker-of-sweet-consumption.md) — related

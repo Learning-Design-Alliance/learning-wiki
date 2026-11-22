@@ -55,3 +55,4 @@ Independent t-tests (Table 4) compared male and female students: females scored 
 - [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related
 - [The high-stable and low-stable depressive symptom trajectory groups share similar sleep schedules across all but the last month of the semester](high-stable-low-stable-similar-sleep-schedules.md) — related
 - [Mean PSQI total scores did not differ significantly across disciplines](psqi-total-no-discipline-difference.md) — related
+- [Stress, negative mood, somatization, anxiety, depression, sleep impairment, and caffeine consumption rose from baseline to pre-exam during exam preparation in a pre-post comparison of the total sample](exam-preparation-increases-distress-measures.md) — related

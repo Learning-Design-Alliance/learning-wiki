@@ -47,3 +47,4 @@ SEM analysis of the pooled dataset of 588 students; the COMP paths to BI and UB 
 ## Related Claims
 - [Most adoption variables differ significantly across Tunisia, Morocco, and Libya, except social influence and power distance](anova-country-differences-ml-variables.md) — related
 - [Hofstede cultural dimensions (uncertainty avoidance, individualism-collectivism, masculinity-femininity, power distance) did not significantly influence m-learning behavioural intention](cultural-dimensions-no-effect-ml-bi.md) — related
+- Specifying behaviours consistently with measured constructs enhances prediction (principle of compatibility) — related

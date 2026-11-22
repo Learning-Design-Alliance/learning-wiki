@@ -64,6 +64,7 @@ Boileau also notes a cultural dimension: informal, experiential learning is unde
 - [Problem-based Learning](../principles/problem-based-learning.md) — both emphasize learner-directed engagement driven by an authentic need rather than a predetermined sequence
 
 ## Examples
+
 - A GPS navigation app used turn-by-turn while driving (a performance-support "sidekick") versus used in advance to plan a route (a "planner")
 - A 15-minute microtraining module delivered near the work setting to refresh a skill an employee already has some familiarity with
 - Informal science learning through museum visits, hobbies (amateur astronomy, beekeeping), or self-directed internet research prompted by a personal event (e.g., a medical diagnosis)

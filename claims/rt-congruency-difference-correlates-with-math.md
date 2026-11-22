@@ -62,3 +62,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](nat-inhibitory-control-near-transfer.md) — related
 - [Lower eye movement consistency (higher C3 entropy) is associated with poorer selective attention and inhibitory control](c3-entropy-linked-selective-attention-inhibitory-control.md) — related
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
+- [Among girls, higher cardiorespiratory fitness is associated with better information processing and inhibitory control of attention on the Flanker task](crf-girls-inhibitory-control-flanker.md) — related

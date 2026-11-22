@@ -49,3 +49,4 @@ Descriptive attitude items on pharmacological interventions (Fig. 4, Table S6) f
 - [Night nurses view sleep disturbances as important for residents' health and nursing outcomes and mostly see sleep assessment as nurses' responsibility](night-nurses-attitudes-sleep-importance-responsibility.md) — related
 - [93.2% of night nurses in German nursing homes report never having received training about sleep and its management after basic nursing training](night-nurses-no-sleep-training-after-basic-education.md) — related
 - [The tailored e-module significantly and durably changed experienced GPs’ perceptions of patients with sleep problems](elearning-durable-change-gp-patient-perceptions.md) — related
+- Patients often expect a sleeping pill and are reluctant to trial non-pharmacological approaches despite hypnotics not being recommended first-line — related

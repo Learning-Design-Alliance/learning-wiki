@@ -52,3 +52,4 @@ Model 1 of the multiple regression analysis in the cross-sectional study of 1520
 - [Intensity of daily PA strongly predicts boys' reading competence in adjusted models](pa-intensity-predicts-boys-reading-competence.md) — related
 - [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related
 - [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related
+- [Physical activity is positively associated with academic performance, but the article could not demonstrate an association for team sports specifically](physical-activity-associated-academic-performance-team-sports-not.md) — related

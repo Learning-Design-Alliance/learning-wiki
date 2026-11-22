@@ -59,3 +59,4 @@ Cross-sectional study of 130 male undergraduates; one-way ANOVA of GPA across IP
 - [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](activity-frequency-type-gpa-anova-null.md) — reports the opposite
 - [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
 - [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — reports the opposite
+- [Physically active students (38.8%) showed a significantly higher overall mean of academic performance than physically inactive students (61.2%) (F = 3.106, p = 0.027).](active-students-higher-gpa.md) — related

@@ -54,3 +54,4 @@ This is the trial's headline null result from the Discussion, restating the Resu
 - [Combining VR and layered model training produced no statistically significant additive benefit over either modality alone in this short-term trial](no-additive-effect-dual-modality-simulation.md) — related
 - [Interactive CAL tutorials produced significant learning outcomes compared to non-CAL users but were not superior to noninteractive CAL](interactive-cal-not-superior-to-noninteractive-cal.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
+- [Prior evidence indicates active training strategies are more effective than passive ones for therapist training](active-training-more-effective-than-passive-therapist-training.md) — reports the opposite

@@ -52,3 +52,4 @@ The review attributes this finding to Hoopes et al. (2020) on home surgical skil
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [Novice UGRA skill attrition can occur as fast as 24 hours after initial learning, motivating periodic retraining](rapid-skill-attrition-within-24-hours-novices.md) — related
 - [WriteSim TCExam has been used informally to train roughly 25-30 novice researchers, with positive informal reports but no measured outcomes](writesim-informally-trained-novice-researchers.md) — a narrower finding that bears on this claim
+- [Extended simulation training, when used appropriately and with attention to motivation and flow, can help develop and maintain technical skills and combat skill decay during healthcare crises](extended-simulation-training-maintains-skills-during-crisis.md) — related

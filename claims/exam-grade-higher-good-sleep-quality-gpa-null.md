@@ -53,3 +53,4 @@ Independent-samples t-test comparing the 255 poor- and 60 good-sleep-quality stu
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — reports the opposite
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — a broader claim this one bears on
 - [Sleep satisfaction, sleep quality and alcohol consumption frequency show no association or tendency with GPA in low-performing university students of either sex](sleep-quality-no-gpa-association-low-performers.md) — related
+- [Good sleepers obtain significantly higher average academic grades than poor sleepers among nursing students](good-sleepers-higher-grades-nursing-students.md) — related

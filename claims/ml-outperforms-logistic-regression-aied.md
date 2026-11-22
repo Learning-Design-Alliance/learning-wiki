@@ -84,3 +84,4 @@ The review synthesized accuracy figures from studies (Table 7) comparing ANN, RF
 - [A five-class XGBoost classifier predicts ChatGPT assignment-use frequency at 64.5% test accuracy, indicating data scarcity challenges](xgboost-multiclass-usage-frequency-accuracy.md) — related
 - [XGBoost slightly outperformed a logistic regression baseline in predicting ChatGPT assignment use](xgboost-slightly-outperforms-logistic-baseline.md) — a narrower finding that bears on this claim
 - [Elastic net logistic regression performs comparably to random forest and gradient boosting in predicting first-round Physics Olympiad success and is selected as the final model](elastic-net-comparable-performance-olympiad-success.md) — related
+- [Single-mean imputation improved machine learning performance for academic performance prediction but not enough to outperform regression](imputation-improves-ml-not-enough.md) — reports the opposite

@@ -77,3 +77,6 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related
 - [Sports-club participation alone shows no significant difference in mathematical achievement compared with non-participation](sports-club-participation-no-math-achievement-difference.md) — related
 - [Stratified analyses show a significant total effect for girls (OR 2.30) but not boys (OR 1.64), with indirect effects for both sexes](sex-stratified-mediation-fitness-commencement.md) — related
+- [Physical activity is positively associated with academic performance, but the article could not demonstrate an association for team sports specifically](physical-activity-associated-academic-performance-team-sports-not.md) — related
+- [The sports-team–grades association is not dose-dependent in females, where two teams show the highest odds](sports-grades-association-not-dose-dependent-females.md) — related
+- [In a nationally representative U.S. adolescent sample, participating in more sports teams is associated with higher odds of reporting mostly A's or B's, in a dose-dependent pattern](sports-team-participation-dose-dependent-better-grades.md) — related

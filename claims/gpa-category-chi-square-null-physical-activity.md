@@ -54,3 +54,4 @@ Chi-square analysis of GPA categories (high ≥ 3.5, average 2.75–3.49, low < 
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — reports the opposite
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — reports the opposite
 - [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — reports the opposite
+- [Physically active students (38.8%) showed a significantly higher overall mean of academic performance than physically inactive students (61.2%) (F = 3.106, p = 0.027).](active-students-higher-gpa.md) — reports the opposite

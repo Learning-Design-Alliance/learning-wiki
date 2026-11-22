@@ -52,3 +52,4 @@ Cross-sectional associations from Model 1 of the mixed linear regression: CP inc
 - [The 20-week physical activity intervention had no statistically significant effect on selective attention, measured as concentration performance or error percentage](pa-intervention-no-effect-selective-attention.md) — related
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — a broader claim this one bears on
 - [Girls had higher academic results and better selective attention scores than boys, and older children had lower scores, in this disadvantaged cohort](gender-and-age-differences-attention-grades.md) — related
+- [Among boys, higher grip strength is associated with better information processing and inhibitory control of attention on the Flanker task](grip-strength-boys-inhibitory-control-flanker.md) — related

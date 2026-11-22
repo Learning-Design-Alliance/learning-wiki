@@ -51,3 +51,4 @@ Focus group interviews with 34 personnel across occupational groups; qualitative
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
 - [Module-part order preferences were split, indicating no one-size-fits-all sequence for clinical vignette modules](module-order-no-one-size-fits-all.md) — related
+- [Coordinators' professional skills from their original occupations are reflected in their activities, but additional skills are needed](coordinator-occupation-skills-reflected-in-activities.md) — related

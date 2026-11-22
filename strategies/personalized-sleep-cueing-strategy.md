@@ -50,6 +50,7 @@ A strategy for sleep-based memory interventions: instead of delivering cues unif
 
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
 - [Adaptively time feedback to moments of declining attention or rising workload rather than delivering at fixed intervals](adaptive-timing-over-fixed-interval-feedback.md)
+- [Apply auricular stimulation with indwelling fixed needles at vagally innervated ear points the day before a high-stakes exam to reduce exam anxiety and improve sleep quality](auricular-stimulation-pre-exam-anxiety-strategy.md)
 
 ## Examples
 -

@@ -46,7 +46,8 @@ The authors propose delivering PBL digitally to overcome barriers to attending 1
 - [The overall proportion of smokers was significantly higher in the control group than in the PBL group, with no significant time-by-intervention interaction](../claims/pbl-smoking-proportion-lower-than-control.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer continuous digital self-management programs to support long-term adherence where face-to-face programs are inaccessible](digital-oa-program-long-term-access-strategy.md)
 
 ## Examples
 -

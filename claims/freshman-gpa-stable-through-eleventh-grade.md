@@ -47,3 +47,4 @@ Correlational analysis of CPS transcript data (2010-12 cohorts) relating ninth- 
 ## Related Claims
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
+- [Current and future GPA are highly stable across the college years (r = 0.758)](gpa-stability-current-future-correlation.md) — related

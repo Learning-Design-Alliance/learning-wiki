@@ -47,6 +47,8 @@ The review recommends that GDPs regularly revise the IADT guidelines and use res
 
 - [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 - [Increase senior supervision of fluid and electrolyte prescribing and develop clinical decision support tools to guide it](senior-supervision-and-decision-support-fluid-prescribing.md)
+- [Disseminate updated clinical guidelines through mobile notifications and periodic quick examinations, and revise nursing curricula toward practical, motivational training](guideline-dissemination-mobile-notification-nurse-curriculum-revision.md)
+- [Use webinars for widespread dissemination of dental trauma guidelines to practising dentists](webinar-dissemination-iadt-guidelines-strategy.md)
 
 ## Examples
 -

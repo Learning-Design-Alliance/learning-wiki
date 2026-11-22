@@ -70,3 +70,4 @@ Same multivariable logistic model, practice-setting contrast with academic hospi
 - [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related
 - [Older physicians and those outside academic/university hospitals had significantly lower odds of reporting high perceived barriers to STI care](age-setting-perceived-barriers-odds.md) — related
 - [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — reports the opposite
+- [Knowledge of hepatitis B among trainee nurses was significantly associated with age group and year of study, with third-year students showing the best knowledge](hepatitis-b-knowledge-age-level-study-association.md) — related

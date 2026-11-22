@@ -49,3 +49,4 @@ Systematic review synthesis of 16 cross-sectional and intervention studies repor
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — a narrower finding that bears on this claim
 - [Iron supplementation may improve attention and concentration in adolescents, though evidence is limited and partly self-reported](iron-supplementation-attention-concentration-adolescents.md) — related
 - [No evidence indicates iron status, anemia, or dietary iron intake influenced intelligence in adolescents](no-evidence-iron-status-intelligence-adolescents.md) — related
+- [No modified infant formula (nutrient enriched, LCPUFA supplemented, high iron, or sn-2 palmitate) improved GCSE mathematics scores at age 16 compared with standard formula](no-gcse-math-benefit-modified-infant-formula.md) — related

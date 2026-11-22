@@ -48,3 +48,4 @@ The abstract states this scope restriction directly: "A limitation of RTE, howev
 ## Related Claims
 - [A general process for measuring item-level effort extends effort measurement to omitted and constructed responses](general-item-level-effort-process-expanded-item-types.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
+- [Requiring users to type their own response before selecting from a restricted option set is intended to facilitate active practice of MI while mimicking conversation flow](typing-responses-active-mi-practice.md) — related

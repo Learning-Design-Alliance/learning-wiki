@@ -48,3 +48,4 @@ Survey of 13 experts from four Canadian centres asked to rate the relative impor
 - [The lowest-ranked competencies were judged not specific to nursing, requiring a multidisciplinary approach, or requiring patients and families to take their own responsibility](three-themes-lowest-ranked-fcc-competencies.md) — related
 - [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](continued-training-osats-subdomain-gains.md) — related
 - [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related
+- Nurses' attitudes toward SSI-prevention interventions vary widely, rating dressing change when visibly soiled highest (8.9) and minimizing immediate-use steam sterilization lowest (4.7) — related

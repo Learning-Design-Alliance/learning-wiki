@@ -53,3 +53,4 @@ Cross-sectional study of 295 medical students at Omdurman Islamic University; in
 - [Low-intensity in-class cycling during a 12-week college lecture course shows no statistically significant difference from sitting on test scores or course grades](in-class-cycling-no-significant-academic-difference.md) — related
 - [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — related
+- [Physically active students (38.8%) showed a significantly higher overall mean of academic performance than physically inactive students (61.2%) (F = 3.106, p = 0.027).](active-students-higher-gpa.md) — reports the opposite

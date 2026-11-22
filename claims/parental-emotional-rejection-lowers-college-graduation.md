@@ -54,3 +54,4 @@ GLMM model 2 of the three-wave CILS sample (N = 3344). The article reports "b = 
 - [Parental hostility, emotional rejection, and harsh family interactions in early adolescence predict lower academic aspirations in late adolescence](harsh-parenting-lowers-late-adolescent-academic-aspirations.md) — related
 - [Parental hostility in early adolescence significantly and negatively predicts successful college graduation of immigrant youths in young adulthood](parental-hostility-lowers-immigrant-youth-college-graduation.md) — related
 - [Perceived parental rejection in pre-adolescence is not significantly associated with educational attainment in early adulthood](parental-rejection-not-related-to-educational-attainment.md) — reports the opposite
+- [Homeschooling is negatively associated with college degree attainment in young adulthood](homeschooling-lower-college-attainment.md) — related

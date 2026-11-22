@@ -64,3 +64,4 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [The BIAT experimental effect was induced: reaction times and error rates were higher in the doping-like (incongruent) block than the doping-dislike block](biat-doping-like-block-slower-more-errors.md) — a narrower finding that bears on this claim
 - [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](pa-mmns-intervention-no-cognitive-gains-south-africa.md) — related
 - [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — related
+- [Among girls, higher cardiorespiratory fitness is associated with better information processing and inhibitory control of attention on the Flanker task](crf-girls-inhibitory-control-flanker.md) — related

@@ -62,3 +62,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
 - [SOM clustering of logged Stateful paths identifies three major student behavioural groups A, B, and C covering 76% of the student population](som-clustering-three-stateful-student-groups.md) — related
+- Hepatitis medical care coordinators can be classified into four activity-based groups via hierarchical cluster analysis of 13 activity items — a narrower finding that bears on this claim

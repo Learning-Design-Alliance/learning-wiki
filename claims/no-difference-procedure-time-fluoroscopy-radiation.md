@@ -49,3 +49,4 @@ Exploratory endpoints in the pilot randomized trial reported in Table 1: procedu
 - [The iVR-prepared revision surgery used approximately 7.6 times less cumulative fluoroscopic radiation than the index procedure](ivr-prepared-revision-reduced-radiation-dose.md) — related
 - [Simulation training reduces fluoroscopy time and cumulative air kerma but not dose area product in resident angiography procedures](st-reduces-fluoroscopy-time-and-radiation-dose.md) — reports the opposite
 - [Procedure time did not differ significantly between simulation and control groups](procedure-time-no-significant-difference.md) — possibly the same claim (merge candidate)
+- [Dose measures and procedure time correlated negatively with the number of patients treated (accumulating operator experience)](pae-dose-negative-correlation-experience.md) — related

@@ -57,3 +57,4 @@ Random-effects meta-analysis of 3 studies measuring physical activity over the s
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — related
 - [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related
 - [School-based physical activity shows no significant effect on reading comprehension achievement](school-based-physical-activity-no-effect-reading-comprehension.md) — related
+- [Pooled association between physical activity and academic performance in university students is small and non-significant (r = 0.07)](pa-ap-pooled-null-university-students.md) — related

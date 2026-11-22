@@ -66,3 +66,4 @@ Interview and log data across cases; teachers described the adaptive prompting s
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related
 - [The article reports that AR-supported experiments offer a safe way to run experiments teacher-guided or independently, addressing risks of hazardous materials and time/material constraints in classroom research](ar-safe-remote-experiments-physics.md) — related
+- [Groups with higher levels of psychological safety tend to have higher levels of trust, and psychologically safe environments encourage authenticity and risk-taking](psychological-safety-higher-group-trust.md) — a broader claim this one bears on

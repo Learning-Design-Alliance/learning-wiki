@@ -59,3 +59,5 @@ Null findings from the linear mixed model analysis of the Lebanese adolescent lo
 - [BMI is negatively associated with adolescent students' academic performance (β = -0.117, p < 0.01)](bmi-negative-association-academic-performance.md) — related
 - [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — related
 - [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — reports the opposite
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](ell-iep-education-achievement-associations.md) — reports the opposite
+- [Students with high GPA had significantly lower BMI than students with low GPA (t = 8.956, p = 0.000, η2 = −0.175).](high-gpa-students-lower-bmi.md) — related

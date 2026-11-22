@@ -50,6 +50,7 @@ The article argues that robotic surgery shifts the efficiency bottleneck from in
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Use NOTSS for individual surgeon non-technical skills training and Oxford NOTECHS II for team-based training](notss-notechs-nontechnical-skills-training.md)
 - [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

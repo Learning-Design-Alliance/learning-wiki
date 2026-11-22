@@ -54,3 +54,4 @@ Level-1 analysis (Model 1) of the TIMSS 2011 Taiwan sample with grand-mean cente
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related
 - [School computer resources predict only a very small amount of math achievement in Taiwan, inconsistent with previous findings](school-computers-small-coefficient-taiwan-math.md) — related
 - [Parental educational level was strongly associated with children's school test scores in the adjusted models](parental-education-associated-with-test-scores.md) — possibly the same claim (merge candidate)
+- [Mother's master-level education, self-reported exercise, television and computer use, hand strength, and Stroop performance predicted academic performance in adjusted models](lifestyle-parental-education-predict-academic-performance.md) — related

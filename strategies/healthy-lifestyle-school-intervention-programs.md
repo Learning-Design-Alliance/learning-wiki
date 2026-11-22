@@ -56,6 +56,8 @@ The authors recommend that high school policy makers and educators act on the st
 - [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
 - [School-based recommendations: teach healthy habits, mindfulness practice and healthy eating](school-healthy-habits-mindfulness-eating-strategy.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Integrate a healthy diet, physically active lifestyle, and adequate sleep to support brain development and learning in school-age children](integrate-diet-activity-sleep-learning-support.md)
+- [Promote mobile phone etiquette (mobiquette) through health education, workshops, and sleep-limiting apps](mobiquette-education-and-sleep-apps-strategy.md)
 
 ## Examples
 -

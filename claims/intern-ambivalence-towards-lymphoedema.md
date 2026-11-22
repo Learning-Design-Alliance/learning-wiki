@@ -52,3 +52,4 @@ Reflexive thematic analysis of 12 semistructured interviews with first-postgradu
 - [Interns report gaps in knowledge of lymphoedema, particularly causes beyond cancer and its assessment, diagnosis and management](intern-lymphoedema-knowledge-gaps.md) — a narrower finding that bears on this claim
 - [Interns justified the lack of lymphoedema training by perceived low prevalence and low seriousness, contrasting with evidence that lymphoedema is common and costly](intern-misperception-lymphoedema-prevalence.md) — related
 - [Interns did not consider lymphoedema relevant to their role, seeing it mainly as a precaution for tasks like blood pressure taking or cannulation](intern-unclear-role-relevance-lymphoedema.md) — related
+- [Medical providers at a South African community health centre report lacking foundational oral health knowledge and feel uncertain managing patients with oral health complaints](providers-lack-oral-health-knowledge-uncertainty.md) — related

@@ -49,3 +49,4 @@ Secondary outcome in the same series: Table 4 reports postoperative stay of 4.44
 - [Propensity-matched trainee-led isolated AVR was not associated with higher in-hospital mortality or morbidity; matched mortality and dialysis were lower in trainee cases](trainee-avr-matched-outcomes-no-excess-harm.md) — related
 - [Thirty percent of emergency laparoscopic cholecystectomies and bile duct explorations in a single-surgeon emergency biliary service involved trainees in part or whole](thirty-percent-trainee-involvement-emergency-biliary.md) — related
 - [Trainee cases showed complication rates comparable to consultant cases in the emergency biliary series](trainee-complication-rates-comparable.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

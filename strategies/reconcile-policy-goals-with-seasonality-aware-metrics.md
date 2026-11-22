@@ -39,6 +39,7 @@ Policy makers and accountability designers can audit their school effectiveness 
 ## Related Strategies
 
 - [Provide guidance to policy makers and evaluators on accounting for disengagement in their own work](guidance-accounting-disengagement-policy-evaluators.md)
+- [Alternate winter and summer assessments over multiple years to control for novelty and season effects](alternating-seasonal-assessments-novelty-season-control.md)
 
 ## Examples
 -

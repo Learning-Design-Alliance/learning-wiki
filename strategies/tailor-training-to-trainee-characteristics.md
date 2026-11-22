@@ -55,6 +55,7 @@ The article recommends designing personalized training pathways that account for
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
 - [Tailor lecture content to the background of the local student cohort](tailor-lectures-to-local-background.md)
 - [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
+- [Define profession-independent overarching goals and individual educational maps for multi-professional simulation groups](individual-educational-maps-multiprofessional-sbt.md)
 
 ## Examples
 -

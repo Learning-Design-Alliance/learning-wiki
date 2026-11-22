@@ -56,6 +56,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Train faculty in a blended learning format and build a multidisciplinary development team](faculty-blended-training-team-strategy.md)
 - [Multi-level intervention strategies for institutions, faculty and students to improve online engineering instruction](online-engineering-instruction-intervention-strategies.md)
 - [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
+- [Stage ECEC physical activity policy implementation beginning with strategies rated easy and highly influential](staged-implementation-easy-influential-strategies.md)
 
 ## Examples
 -

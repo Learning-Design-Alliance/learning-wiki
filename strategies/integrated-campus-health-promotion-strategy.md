@@ -57,6 +57,7 @@ The article recommends that university health and academic support services prom
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
+- [Establish university counseling centers and campus health clubs promoting regular exercise, weight control and healthy lifestyle behaviors.](university-counseling-centers-health-clubs.md)
 
 ## Examples
 -

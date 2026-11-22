@@ -57,3 +57,4 @@ Two authors independently scored all blinded submissions across T0–T2 after ca
 - [Essay scoring showed substantial inter-rater agreement, with Cohen's kappa of 0.78, 0.70, 0.81, and 0.83 across the four rubric criteria](statecraft-x-essay-kappa-agreement.md) — a narrower finding that bears on this claim
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Most students reached good proficiency levels in technical skills, conceptual knowledge and the ISLE process on final tests](final-test-proficiency-isle-iolab-modules.md) — related
+- [Surgical triage agreement improved over the four-week rotation, from strong to almost perfect](triage-agreement-learning-curve.md) — related

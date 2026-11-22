@@ -51,3 +51,4 @@ Adjusted analysis (Table 3) of the 237-nurse cross-sectional survey using the un
 - [Younger and less-experienced Vietnamese physical therapists report less EBP knowledge and are more likely to view EBP as an unreasonable demand](younger-therapists-less-ebp-knowledge-unreasonable-demand.md) — related
 - [Younger health workers significantly outperformed older ones after IMCI training, with about a five-percent decrease in odds of recommended or adequate treatment per additional year of age](imci-benin-older-health-workers-worse-performance.md) — related
 - [Age shapes attribute importance: younger respondents rate communication higher, while older respondents rate ethical behaviour and knowledge of the profession higher](age-group-differences-attribute-importance.md) — related
+- Older and more experienced podiatrists more accurately estimated the low survival rate of out-of-hospital cardiac arrest — reports the opposite

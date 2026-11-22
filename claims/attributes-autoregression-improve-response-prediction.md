@@ -69,3 +69,4 @@ Generalisation check on the same dataset using leave-one-student-out (7-fold) cr
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
 - [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md) — related
 - [Machine-learning classifiers predict full student response to teacher communication in autism classrooms above random and major-class baselines.](ml-predicts-student-response-autism-communication.md) — related
+- [Single-mean imputation improved machine learning performance for academic performance prediction but not enough to outperform regression](imputation-improves-ml-not-enough.md) — related

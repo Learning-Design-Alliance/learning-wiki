@@ -53,6 +53,7 @@ As a forward-looking recommendation for patient safety, the authors propose: "it
 - [Use non-compensatory, patient-safety standard setting when competence across index procedures is individually required](patient-safety-non-compensatory-standard-setting.md)
 - [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
 - [Use routine electronic logbook supervision data plus competency assessments to evidence entrustment across a training program](logbook-entrustment-evidence-strategy.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

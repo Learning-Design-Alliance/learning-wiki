@@ -51,6 +51,7 @@ The article recommends integrating dedicated surgical care practitioners (SCPs) 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Pair robot-system training with systematic team training including assistants and nurses when introducing robotic surgery](robotic-surgery-team-training-strategy.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

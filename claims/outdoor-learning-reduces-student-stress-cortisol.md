@@ -78,3 +78,4 @@ The review reports a null result from Greenwood and Gatersleben's RCT with 120 s
 - [Methylphenidate produces a three-way Group by Day by Treatment interaction on heart rate and blood pressure, confirming the drug's physiological effect](mph-cardiovascular-three-way-interaction.md) — related
 - [The escape room-based physical activity intervention significantly reduces perceived stress and self-imposed academic pressure in adolescents](escape-room-pa-reduces-stress-and-self-pressure.md) — related
 - [Moderate and active physical activity are associated with lower salivary cortisol and higher serum serotonin in adolescents](pa-associated-lower-cortisol-higher-serotonin.md) — related
+- [Individual studies found significant PA–stress associations pointing in opposite directions](pa-stress-opposite-directions-individual-studies.md) — related

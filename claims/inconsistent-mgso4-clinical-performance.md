@@ -52,3 +52,4 @@ In the performance theme from FGDs and workshops, a clinical officer explained o
 - [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
 - [Knowledge and use of magnesium sulphate among community health workers was sub-optimal, with diazepam repeatedly stated as the treatment of choice](mgso4-knowledge-suboptimal-diazepam-default.md) — related
+- Only about 10% of providers would monitor magnesium sulfate toxicity, indicating inadequate use of the drug when given — related

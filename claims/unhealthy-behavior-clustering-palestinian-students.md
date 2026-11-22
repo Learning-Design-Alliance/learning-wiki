@@ -56,3 +56,4 @@ Authors' observational interpretation of cross-sectional patterns in the 220-stu
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — related
 - [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
 - [Higher psychological distress (K6) at baseline is associated with unhealthier lifestyle behaviors among undergraduates](higher-distress-unhealthier-lifestyle-behaviors.md) — related
+- [Not consuming breakfast daily is associated with lower GPA among university students](breakfast-skipping-lower-gpa-university-students.md) — related

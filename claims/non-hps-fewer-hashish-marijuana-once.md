@@ -51,3 +51,4 @@ Substance use subscale comparison in the lifestyle habits dimension. The Results
 - [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
 - [Parents of non-HPS students had a higher level of education than parents of HPS students](non-hps-parents-higher-education-level.md) — related
 - [Non-HPS students demonstrated higher self-efficacy than HPS students](non-hps-students-higher-self-efficacy.md) — related
+- [Use of tobacco, alcohol and other substances, and earlier age of substance-use onset, are associated with worse academic performance in adolescents](substance-use-early-onset-worse-academic-performance.md) — related

@@ -70,6 +70,7 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
 - [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 - [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
+- [Provide three kinds of feedback during simulation-based skill acquisition: automatic simulator feedback, instructor feedback during training, and post-session debriefing](three-source-feedback-simulation-skill-acquisition.md)
 
 ## Examples
 -

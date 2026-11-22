@@ -76,3 +76,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Adenoma volume, not accumulating surgical experience, linearly predicts ThuLEP laser emission time](adenoma-volume-linear-predictor-laser-emission-time.md) — related
 - [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related
 - [Operative time for radical prostatectomy is shorter in advanced learning curves than in initial learning curves](shorter-operative-time-advanced-learning-curve.md) — related
+- [Dose measures and procedure time correlated negatively with the number of patients treated (accumulating operator experience)](pae-dose-negative-correlation-experience.md) — possibly the same claim (merge candidate)

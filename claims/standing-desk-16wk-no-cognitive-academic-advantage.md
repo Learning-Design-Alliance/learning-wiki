@@ -56,3 +56,5 @@ Cluster-controlled trial with two 6th-grade classes (intervention n = 22, contro
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Low-intensity in-class cycling during a 12-week college lecture course shows no statistically significant difference from sitting on test scores or course grades](in-class-cycling-no-significant-academic-difference.md) — related
 - [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — possibly the same claim (merge candidate)
+- [The trial is powered to accept non-inferiority of sit-to-stand desks on academic performance only within about a 10% margin](non-inferiority-margin-ten-percent-academic-performance.md) — related
+- [Short-term studies report sit-to-stand desks reduce sitting time without harming academic performance, with mixed evidence on engagement and attention](short-term-standing-desk-benefits-mixed-engagement-evidence.md) — related

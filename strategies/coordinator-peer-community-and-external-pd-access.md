@@ -41,6 +41,7 @@ Because the coordinator role is new and singular on each campus, the report reco
 - [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
 - [Provide sustainable, dedicated funding for community school coordinators plus technical assistance and capacity-building](sustainable-coordinator-funding-and-technical-assistance-strategy.md)
 - [District strategies for sustaining and supporting community schools initiatives](district-strategies-sustaining-community-schools.md)
+- [Foster inter-professional cooperation and expand activity opportunities to support coordinator role development](foster-coordinator-cooperation-and-opportunities-strategy.md)
 
 ## Examples
 -

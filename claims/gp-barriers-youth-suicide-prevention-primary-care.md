@@ -49,3 +49,5 @@ Focus group findings section on patient-related barriers: the authors report GPs
 - [GPs report feeling ill-equipped to assess and manage suicide risk in young people despite confidence with general mental health problems](gps-ill-equipped-youth-suicide-risk-assessment.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
 - [GPs attribute non-disclosure mainly to patient-related factors, while citing time, skills and service access as their own barriers, with a quantitative-qualitative contradiction on time](gp-barriers-patient-attribution-time-contradiction.md) — related
+- Difficult communication between primary care, secondary care, patients and other stakeholders creates delays and confusion in the ADHD diagnostic process — related
+- Patient help-seeking for insomnia is typically prompted by daytime consequences such as fatigue, distress, or discomfort rather than insomnia itself — related

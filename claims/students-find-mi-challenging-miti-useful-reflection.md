@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-22
 sources:
   - id: m-schoo-2015
     resource: "https://doi.org/10.1186/s12909-015-0512-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Focus group and assignment data showed students struggled with coding, transcription and maintaining listening during interviews, yet valued the MITI structure for reflection. [→ M. Schoo 2015](#m-schoo-2015)

@@ -50,3 +50,4 @@ Cox proportional hazards analysis of the same 1823-student prospective cohort; p
 - [The association between impaired mental health and poor academic performance disappears in students with low lifestyle-behavior risk scores](healthy-lifestyle-behaviors-buffer-mental-health-academic-risk.md) — related
 - [Higher psychological distress (K6) at baseline is associated with unhealthier lifestyle behaviors among undergraduates](higher-distress-unhealthier-lifestyle-behaviors.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
+- [Associations between health risk behaviours and GPA are small relative to the GPA scale, and causality cannot be inferred](small-gpa-associations-cross-sectional-no-causality.md) — related

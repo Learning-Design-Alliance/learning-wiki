@@ -57,6 +57,7 @@ The brief recommends schoolwide integration of mindfulness into existing routine
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
 - [Teach students a set of attentiveness strategies, including digital detox, to increase classroom attentiveness](attentiveness-strategies-digital-detox-strategy.md)
+- [Launch long-term school-based trauma support: teacher training in emotional-state recognition, arts-based mindfulness group activities, and rotating class cadre roles](yushu-long-term-school-trauma-support-strategy.md)
 
 ## Examples
 -

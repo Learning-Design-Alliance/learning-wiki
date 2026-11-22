@@ -52,3 +52,4 @@ Adjusted multiple linear regression (n=1702) with R5M as outcome and demographic
 - [Career regret rises progressively across academic years, with sixth-year Syrian medical students reporting the highest adjusted regret](regret-increases-academic-year-syrian-medical-students.md) — related
 - [Psychological pressure is the most frequently reported reason for career regret among higher-regret Syrian medical students](psychological-pressure-leading-reason-for-regret.md) — related
 - [Most Syrian medical students would choose medicine again, but substantial minorities report disappointment or thoughts of leaving](regret-prevalence-syrian-medical-students.md) — related
+- [Academic performance was positively associated with child quality of life after adjusting for lifestyle variables](academic-performance-associated-quality-of-life.md) — related

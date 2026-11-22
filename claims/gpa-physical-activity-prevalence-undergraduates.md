@@ -48,3 +48,4 @@ Log-binomial regression results (Table 3) from the Spring 2023 ACHA-NCHA III nat
 ## Related Claims
 - [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — related
 - [Children and adolescents who meet the WHO PA guideline are more likely to report above-average academic achievement than those who do not](mvpa-meeting-guidelines-above-average-achievement.md) — related
+- [Physical activity and sitting time show no significant association with GPA among university students](physical-activity-sitting-time-no-gpa-association.md) — reports the opposite

@@ -54,3 +54,4 @@ Cross-sectional study at Haramaya and Gondar University (n = 2173; mean age 21.6
 - [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](exam-grade-higher-good-sleep-quality-gpa-null.md) — a narrower finding that bears on this claim
 - [Higher use of self-controlling coping is associated with higher GPA among Ethiopian undergraduates](self-controlling-coping-higher-gpa-ethiopian-undergraduates.md) — related
 - [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related
+- [Good sleepers obtain significantly higher average academic grades than poor sleepers among nursing students](good-sleepers-higher-grades-nursing-students.md) — a narrower finding that bears on this claim

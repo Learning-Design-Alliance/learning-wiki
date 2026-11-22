@@ -69,3 +69,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — reports the opposite
 - [Unadjusted mean composite health index scores differed significantly between every GPA level, rising with each higher GPA category](composite-health-index-unadjusted-gpa-gradient.md) — related
 - [Sleep (insomnia severity) is significantly associated with academic performance amongst university students when all predominant health behaviours are considered simultaneously](sleep-insomnia-severity-associated-academic-performance-university-students.md) — related
+- [University students with poor sleep quality obtain lower academic scores than students with good sleep quality](poor-sleep-quality-lower-academic-scores.md) — related

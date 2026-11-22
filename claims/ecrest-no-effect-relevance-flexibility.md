@@ -68,3 +68,4 @@ Multinomial logistic analysis of flexibility in diagnoses (number of times stude
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — reports the opposite
 - [PA and medical students ask similar proportions of essential questions and select similar essential physical exams and bedside tests in eCREST cases](pa-medical-students-similar-data-gathering-ecrest.md) — related
 - [eCREST showed no significant effect on self-reported clinical reasoning skills (FIT scale) over time](ecrest-no-effect-self-reported-reasoning.md) — related
+- [Physicians with sleep-medicine instruction more often ask about sleep than uninstructed peers, who frequently record no sleep history](sleep-instruction-increases-sleep-history-taking.md) — related

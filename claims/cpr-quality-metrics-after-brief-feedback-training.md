@@ -49,3 +49,4 @@ CPR quality metrics registered by the Laerdal Resusci Anne manikin and PC Skill 
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Feedback-equipped CPR training does not significantly change chest recoil or hand position, which were already near ceiling at baseline](feedback-cpr-no-change-recoil-hand-position.md) — reports the opposite
+- Chest compression fraction and no-flow time of lifeguards are near-ceiling across all tested compression rates — related

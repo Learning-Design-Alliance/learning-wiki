@@ -52,3 +52,4 @@ Descriptive cross-sectional survey of 480 clinical nurses and nurse educators in
 - [GPs prefer pre-appraised evidence sources over independently searching and appraising primary research](gps-prefer-pre-appraised-evidence-sources.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
 - [Nearly two-thirds of medical radiology technologists demonstrated poor EBM practice](mrt-poor-ebm-practice-prevalence.md) — related
+- [Shanghai nurses' competency in evidence searching, critical appraisal, and synthesis is lower than their competency in evidence transfer, situation assessment, and evidence implementation](nurses-evidence-searching-appraisal-synthesis-lower-than-implementation.md) — related

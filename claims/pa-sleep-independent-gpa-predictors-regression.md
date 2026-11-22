@@ -78,3 +78,9 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related
 - [Biological sex is associated with meeting PA guidelines (more males than females), but not with sleep duration, PWB, or academic performance](sex-differences-pa-not-sleep-pwb-gpa.md) — related
 - [Screen time shows no significant association with BMI among university students, and a physical activity association that emerges only after sensitivity analysis](screen-time-bmi-physical-activity-university-students.md) — related
+- [Among female health-college undergraduates, academic performance is significantly negatively correlated with BMI (r = −0.391, p = 0.000).](bmi-negatively-correlated-gpa-female-health-students.md) — reports the opposite
+- [Students with high GPA had significantly lower BMI than students with low GPA (t = 8.956, p = 0.000, η2 = −0.175).](high-gpa-students-lower-bmi.md) — reports the opposite
+- [Not meeting age-based sleep recommendations is associated with lower GPA among university students](inadequate-sleep-lower-gpa-university-students.md) — related
+- [Academic performance was insignificantly correlated with physical activity pattern (r = 0.010, p = 0.876) in this sample.](physical-activity-correlation-gpa-insignificant.md) — reports the opposite
+- [Physical activity and sitting time show no significant association with GPA among university students](physical-activity-sitting-time-no-gpa-association.md) — reports the opposite
+- [Meeting sleep guidelines is positively associated, and higher BMI negatively associated, with better academic performance in adolescents](sleep-guidelines-positive-bmi-negative-grades.md) — reports the opposite

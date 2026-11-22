@@ -62,6 +62,7 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Simulator-based self-practice pathway for laser-naive surgeons adopting a new enucleation technique](simulator-self-practice-new-surgical-technique-pathway.md)
 - [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
 - [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

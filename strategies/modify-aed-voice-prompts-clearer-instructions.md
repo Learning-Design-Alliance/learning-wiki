@@ -44,7 +44,8 @@ The article proposes redesigning AED verbal instructions into a clearer, more st
 - [Prior training in basic life support or AED use does not guarantee correct AED performance](../claims/prior-training-does-not-guarantee-aed-competence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design fire alarm voice messages under 30 s in three phases: call to attention, reason for the call, and information on what to do](fire-alarm-voice-message-three-phases.md)
 
 ## Examples
 -

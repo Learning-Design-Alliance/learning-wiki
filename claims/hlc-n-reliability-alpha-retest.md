@@ -79,3 +79,4 @@ Test–retest assessment with 81 nurses re-completing the HLC-N after a two-week
 - [The scale shows high internal consistency, with total Cronbach's α of 0.984 and dimension coefficients from 0.947 to 0.978](scale-cronbach-alpha-high-internal-consistency.md) — related
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
+- [The C-SCCS shows high internal consistency (Cronbach's alpha .93, .92, .89) and split-half reliability of .84](c-sccs-internal-consistency-alphas-split-half.md) — related

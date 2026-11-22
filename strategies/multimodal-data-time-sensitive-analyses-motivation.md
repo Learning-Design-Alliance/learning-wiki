@@ -59,6 +59,7 @@ The review recommends that future research and learning-technology design exploi
 - [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 - [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
 - [Integrate server-log network analysis with other methodological approaches to capture student learning strategies](integrate-log-network-analysis-with-other-methods.md)
+- [Use wearable devices as an objective alternative to self-report for tracking student sleep in academic-performance research](wearable-devices-objective-sleep-tracking-strategy.md)
 
 ## Examples
 -

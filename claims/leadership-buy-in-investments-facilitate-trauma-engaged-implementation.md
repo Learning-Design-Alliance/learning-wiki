@@ -111,3 +111,5 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
 - [The 4-H Study of Positive Youth Development found structured out-of-school time, leadership experiences, and adult mentoring play a vital role in youth success](4h-study-out-of-school-time-mentoring-vital.md) — related
 - [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related
+- [Experts identified workload, training and cost as key barriers, and funding, clear policy documents and regulatory requirements as key enablers, for implementing ECEC physical activity policy](ecec-physical-activity-barriers-enablers.md) — related
+- Approximately 18% of organizations ever recognized by the CDC had voluntarily discontinued participation in the DPRP, citing changed priorities, staffing turnover, and lack of funding — related

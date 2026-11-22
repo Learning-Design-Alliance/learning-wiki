@@ -61,3 +61,4 @@ Three-round online Delphi survey (November 2024–February 2025) with 30 experts
 - [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related
 - [A four-round Delphi panel of infection-control experts in Brazil reached consensus on 4 core, 14 generic and 17 specific competencies for HCRI prevention and control](delphi-consent-hcri-competencies-brazil.md) — related
 - [The participatory development process yielded a nursing role profile structured into four competence areas focused on direct resident care](pepa-role-profile-four-competence-areas.md) — related
+- A Delphi expert panel finalized 72 clinical competencies for alcohol care teams, aligned to eight core service descriptors — related

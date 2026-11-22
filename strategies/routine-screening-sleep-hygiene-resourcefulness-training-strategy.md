@@ -52,6 +52,8 @@ The article recommends that educational institutions routinely use early-detecti
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 - [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 - [Implement institutional sleep guidelines, clarify 24-hour team responsibility with designated champions, and provide continuous evidence-based sleep education for night nurses](sleep-promotion-guidelines-education-strategy.md)
+- [Sleep hygiene practices such as consistent bedtime routines may support sleep, academic performance and mental health in children](sleep-hygiene-consistent-bedtime-routine.md)
+- [Provide timely mental health detection and comprehensive educational support for pupils with depression, addressing shared precursors rather than single risk factors](timely-detection-comprehensive-support-depressed-pupils.md)
 
 ## Examples
 -

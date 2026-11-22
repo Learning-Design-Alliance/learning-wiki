@@ -46,3 +46,4 @@ Position statement arguing that during COVID-19, simulation supports "spatial an
 
 ## Related Claims
 - [VR simulation's capacity to facilitate distance learning and expand access to education was a significant driver of use behavior](vr-distance-learning-expands-access.md) — related
+- [Social and physical isolationism during COVID-19 is disadvantageous to educational engagement in OMS](social-distancing-harms-educational-engagement.md) — related

@@ -64,6 +64,7 @@ AR reduces the split-attention cost of consulting separate documentation during 
 - [Video-Based Instruction](video-based-instruction.md) — a lower-cost, less spatially integrated alternative for the same procedural content
 - [Use AR applications with natural hardware markers for applied assembly and practice topics in vocational courses](ar-natural-markers-applied-vet-strategy.md)
 - [Augment existing standard laboratory experiments with smartglasses rather than building new setups](augment-existing-standard-experiments-strategy.md)
+- [Use augmented reality systems with mixed reality capture and motion tracking to teach procedural skills remotely as if mentor and trainee were co-located](ar-mixed-reality-procedural-training-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — AR's value comes from guiding performance of the real task, not from viewing content

@@ -50,3 +50,4 @@ Likert-scale item from the individual needs assessment in Table 1, compared betw
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Self-assessed knowledge and skills for pediatric emergencies differed significantly by profession and qualification level, with residents reporting the lowest preparedness](self-assessed-emergency-preparedness-residents-lowest.md) — related
 - [Teamwork and communication were the major issues arising from previous pediatric emergencies, but physicians and nurses perceived the sources of insecurity differently](teamwork-communication-emergency-insecurity-profession-differences.md) — related
+- Nurses are more favorable than physicians toward establishing a physical activity program in the hospital (Mann-Whitney test, p = 0.04) — related

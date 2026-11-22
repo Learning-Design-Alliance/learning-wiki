@@ -48,6 +48,8 @@ A strategy in which pediatricians and clinicians use pre-kindergarten well-child
 
 - [Promote a consistent bedtime routine as a feasible, cost-effective method to support early childhood development, particularly for at-risk children](promote-bedtime-routine-public-health-strategy.md)
 - [Assess sleep problems early in primary school and provide preventive intervention, including sleep hygiene education, to protect later academic performance](early-assessment-preventive-sleep-intervention.md)
+- [Assess sleep problems in young children and intervene early to prevent adverse effects on later academic performance](early-assessment-intervention-child-sleep-problems.md)
+- [Sleep hygiene practices such as consistent bedtime routines may support sleep, academic performance and mental health in children](sleep-hygiene-consistent-bedtime-routine.md)
 
 ## Examples
 -

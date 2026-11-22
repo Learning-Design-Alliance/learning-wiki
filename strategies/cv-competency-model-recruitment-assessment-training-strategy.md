@@ -45,6 +45,7 @@ The article recommends its model as a practical tool for workforce decisions: it
 ## Related Strategies
 
 - [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
+- [Assess the current hospital workforce against the competency set to determine training needs](act-workforce-training-needs-assessment-strategy.md)
 
 ## Examples
 -

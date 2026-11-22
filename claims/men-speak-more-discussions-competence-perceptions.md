@@ -63,3 +63,4 @@ The essay's minoritized-identities section reports observational studies attribu
 - [Moving from small-group to whole-class discussion lowers comfort being oneself more for women than men, and lower competency students report less comfort](participation-context-comfort-gender-moderation.md) — related
 - [Men speak more than women in group discussions, though women are stereotyped as speaking more](men-speak-more-than-women-in-groups.md) — a narrower finding that bears on this claim
 - [In the lab course, men nominate men more than women because of interaction-related skills such as being helpful, but men and women nominate for similar skill sets in the lecture course](lab-course-nominations-rationale-gender-difference.md) — related
+- The RASE model reproduces observed gender disparities in colloquium invitations, with a roughly 10% lower Achievement-to-Status multiplier for women in the biology case — related

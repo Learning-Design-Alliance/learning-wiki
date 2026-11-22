@@ -55,3 +55,4 @@ Random-effects meta-analysis combining five acute and chronic studies (fewer tha
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — related
 - [In-classroom physical activity breaks show no significant effect on primary school children's reading performance](icpab-no-effect-reading.md) — related
 - [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related
+- [Pooled association between physical activity and academic performance in university students is small and non-significant (r = 0.07)](pa-ap-pooled-null-university-students.md) — related

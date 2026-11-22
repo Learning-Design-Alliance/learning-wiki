@@ -47,6 +47,7 @@ The authors recommend that "it would be desirable to ensure specific airway mana
 
 - [Use interprofessional, simulation-inclusive training toward a universal airway management approach, blending simulation, clinical volume, and effective learning strategies](interprofessional-universal-airway-training-strategy.md)
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
+- [Develop mandatory national airway-management training: advanced ETI courses for anesthetists and non-invasive airway courses for pediatricians](national-mandatory-airway-training-courses.md)
 
 ## Examples
 -

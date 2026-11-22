@@ -50,3 +50,4 @@ Multivariate logistic regression across academic levels in the 514-student surve
 - [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related
 - [Year of study and minority ethnicity predict poor academic performance in both genders, with other demographic predictors differing by gender](demographic-predictors-gpa-gender-specific.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
+- [Bereavement and burial under a collapsed building predicted poor school adaptation, while being female, senior, or participating in reconstruction predicted better adaptation](yushu-school-maladaptation-predictors.md) — related

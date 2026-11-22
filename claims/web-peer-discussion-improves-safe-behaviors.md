@@ -49,3 +49,4 @@ Six-month follow-up survey of 251 experimental and 259 control nursing students 
 - [Web-based learning with peer-facilitated discussion reduces work-related biological exposure rates and improves reporting compliance among nursing students](web-peer-discussion-reduces-exposure-improves-reporting.md) — related
 - [Behavioral effects of web-based learning with peer-facilitated discussion are mostly consistent across education levels but show some subgroup differences](web-peer-discussion-behavior-subgroup-differences.md) — related
 - [Knowledge gains from web-based learning with peer-facilitated discussion hold across both bachelor-degree and associate-degree nursing students](web-peer-discussion-knowledge-gains-across-education-levels.md) — related
+- [Despite satisfactory knowledge, trainee nurses showed poor attitudes and unsafe practices toward hepatitis B, including needle recapping](trainee-nurses-poor-attitude-unsafe-practices-hepatitis-b.md) — related

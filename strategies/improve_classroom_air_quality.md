@@ -108,8 +108,10 @@ Elevated CO₂ and poor ventilation measurably reduce attention, decision-making
 - [As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days](../claims/schools-hvac-upgrades-heat-closures.md) [+W]
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment lever; both address conditions that operate below the level of instruction
 - [Check-ins](../principles/check-ins.md) — brief symptom and comfort check-ins surface air-quality problems (headaches, drowsiness, stuffiness) that students otherwise don't report
+- [Prioritise interventions to reduce traffic and emissions near schools, with indoor air filtration as a complementary opportunity](reduce-traffic-emissions-near-schools-strategy.md)
 
 ## Examples
 - **Denmark classroom intervention studies** — Wargocki and Wyon's field experiments in Danish primary schools showed that improving outdoor air supply and lowering classroom temperature improved performance on reading and mathematics tasks.

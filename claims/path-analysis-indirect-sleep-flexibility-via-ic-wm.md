@@ -70,3 +70,4 @@ A comparative model freeing the sleep-to-flexibility path confirmed the direct p
 - [Sleep's association with inhibitory control and working memory remains significant after controlling for the other EF components, but cognitive flexibility's does not](sleep-ic-wm-direct-flexibility-nonsignificant-partial.md) — related
 - [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](sleep-disturbance-correlated-all-three-ef-components.md) — related
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
+- [Sleep duration and quality are linked to working memory, inhibitory control, and cognitive flexibility in children and adolescents, with children's age moderating the sleep–school performance association](sleep-executive-function-children.md) — reports the opposite

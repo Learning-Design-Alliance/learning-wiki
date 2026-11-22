@@ -132842,5 +132842,49 @@
  "gamification\tdigital gamification using smartphones\tnot stated": {
   "label": "gamification vs no gamification",
   "treatment_is_a": true
+ },
+ "active-learning\tenthusiastic interactive Socratic teaching\timpersonal learner review of a PowerPoint presentation": {
+  "label": "interactive teaching vs passive review",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive Socratic teaching\timpersonal PowerPoint review": {
+  "label": "interactive teaching vs passive review",
+  "treatment_is_a": true
+ },
+ "debriefing\tstructured debriefing after each simulation with immediate protocol revision\tworkflow before the resulting guideline and environmental changes": {
+  "label": "structured debriefing with immediate revision vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2–3 h training followed by simulated result-reading questionnaire\tno training comparator reported": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2–3 h training with demonstration, hands-on practice, and IFU review\tno comparison condition reported": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2–3 h training with presentation, demonstration, hands-on practice, and IFU review\tno training comparator reported": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2–3 h training with procedure demonstration and hands-on practice\tno training comparator reported": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdementia-specific palliative care training\tnot stated": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\toral health education for providers and patients\tcurrent education and care delivery": {
+  "label": "additional education vs current education and care delivery",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpostcourse online motivational interviewing training\tprecourse assessment": {
+  "label": "postcourse online training vs precourse assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsleep-medicine instruction\tno sleep-medicine instruction": {
+  "label": "explicit instruction/training vs no instruction/training",
+  "treatment_is_a": true
  }
 }

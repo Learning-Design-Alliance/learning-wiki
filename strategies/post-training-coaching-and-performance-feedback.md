@@ -49,6 +49,7 @@ Because follow-up knowledge showed a small decrease that the authors attributed 
 - [Design training opportunities to combine modeling with performance feedback, ideally as an initial workshop followed by one-to-one coaching](modeling-plus-feedback-workshop-coaching-package.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 - [Train research assistants/teachers with lesson packages and experimental guides before practical instruction](one-week-teacher-training-practical-science.md)
+- [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
 
 ## Examples
 -

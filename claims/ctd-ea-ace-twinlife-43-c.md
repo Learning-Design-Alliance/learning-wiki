@@ -73,3 +73,4 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Choosing to continue to A-levels after compulsory education is moderately heritable (44%) with an equally large shared-environment influence (47%)](a-level-continuation-choice-moderately-heritable.md) — related
 - [Students' educational expectations respond to prior academic performance, even after controlling for unobserved genetic and shared environmental confounders and cognitive ability](expectations-respond-to-prior-performance-twin-design.md) — related
 - [Genetic variance accounted for more of total variance in educational attainment for men (58%) than women (40%), with greater total and genetic variance for men](heritability-ea-sex-difference-58-40.md) — related
+- Partners show high similarity in genetic factors for educational attainment (r = .73) — related

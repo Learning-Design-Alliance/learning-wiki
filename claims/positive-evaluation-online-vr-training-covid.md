@@ -52,3 +52,4 @@ Voluntary anonymous 12-item questionnaire survey of sixth-year medical students 
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — related
 - [Most VM users held positive perceptions of VM as a histology learning tool, but most doubted it could fully replace traditional microscopy](vm-positive-perceptions-replacement-doubt.md) — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — reports the opposite
+- [During the COVID-19 pandemic, pediatric SBME shifted from shared simulation environments to e-learning platforms, 360-degree virtual reality videos, and individual just-in-time training](covid-shift-remote-sbme-pediatrics.md) — related

@@ -54,6 +54,7 @@ In the Limitations section, the authors recommend strategies to sustain long-ter
 - [Integrate unit-specific simulation training into regular workplace violence prevention programs](unit-specific-simulation-violence-prevention-strategy.md)
 - [Add a reinforcing booster counseling session after a personalized risk reduction plan to help sustain safer sex behavior change](ciss-booster-session-sustain-behavior-change.md)
 - [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
+- [Offer continuous digital self-management programs to support long-term adherence where face-to-face programs are inaccessible](digital-oa-program-long-term-access-strategy.md)
 
 ## Examples
 -

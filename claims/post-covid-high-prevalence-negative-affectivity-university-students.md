@@ -55,3 +55,4 @@ Cross-sectional survey (STROBE-reported) of 585 undergraduates at a Brazilian fe
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
 - [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related
 - [Most students reported that the pandemic worsened their academic performance (75.0%) and professional outlook (52.0%), and 85.1% felt overloaded with academic activities](students-report-pandemic-worsened-performance-and-outlook.md) — related
+- [Moderate-to-severe stress and depression are highly prevalent among the sampled medical students](high-stress-depression-prevalence-ksu-medical-students.md) — a narrower finding that bears on this claim

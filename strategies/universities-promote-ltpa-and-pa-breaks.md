@@ -48,6 +48,7 @@ Based on the finding that LTPA related to all studied outcomes and PA breaks to 
 ## Related Strategies
 
 - [Universities should promote physical activity through innovative motivational teaching strategies such as gamification](universities-promote-pa-innovative-motivational-strategies.md)
+- [Universities can encourage student physical activity through awareness campaigns, sports facilities, and PA offerings during examination periods](strategy-campus-pa-promotion-exam-periods.md)
 
 ## Examples
 -

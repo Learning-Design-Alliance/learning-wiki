@@ -46,6 +46,7 @@ The article recommends exploring mHealth tutorial applications for training fron
 ## Related Strategies
 
 - [Allow learners at least 3 days of self-paced study time so computer-based skill training can transfer to everyday behavior](allow-at-least-3-days-self-paced-computer-training.md)
+- [Deliver training as self-paced, mobile-accessible modules at learners' convenience](self-paced-mobile-accessible-modules.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ Retrospective national cohort linking neonatal records to statutory education da
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
 - [Children starting school a year early due to preterm birth are less likely to achieve a Good Level of Development than other preterm children, term summer births, and preterm summer births who remained in their anticipated year](early-academic-start-double-disadvantage.md) — a narrower finding that bears on this claim
 - [The impact of maternal social factors on achievement-test scores is similar across all gestational-age groups (no GA × social factors interaction)](social-factor-effect-similar-across-ga-groups.md) — related
+- [VPT 13-year-olds perform below FT peers in mathematics even after controlling for age and social risk](vpt-below-ft-mathematics-age-social-risk-adjusted.md) — related

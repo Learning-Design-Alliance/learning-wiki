@@ -69,3 +69,4 @@ Bivariate Mann-Whitney U-tests on Table 1 means (AQ 1.51, SQ 1.91, WQ 2.17); the
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
 - [Study outcome after three terms differs markedly by admission path, favouring entrance-test and excellence-quota students over waiting-list and foreign-quota students](admission-path-study-outcome-differences.md) — related
 - [PMSS sum scores measured 2 and 14 months before the first medical examination independently predict medical students' M1 grade, with better grades for students with lower stress scores](pmss-scores-predict-m1-grade.md) — related
+- [Students admitted via the pre-university GPA quota earned better written and oral M1 exam grades than students in all other admission quotas](gpa-quota-best-written-oral-m1-grades.md) — a narrower finding that bears on this claim

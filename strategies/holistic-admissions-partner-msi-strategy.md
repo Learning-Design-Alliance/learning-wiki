@@ -50,6 +50,7 @@ Among the paper's recommendations to departments on admissions are three concret
 - [Community-level challenges: reform program admissions practices, reward appropriate practices, and remove the GRE from program rankings](community-challenges-gre-reform.md)
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
+- [Blueprint recommendations for institutions implementing centralized, data-driven holistic review](holistic-review-implementation-blueprint-strategy.md)
 
 ## Examples
 -

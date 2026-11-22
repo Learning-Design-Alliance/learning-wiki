@@ -56,6 +56,7 @@ In the discussion, the authors recommend that, to reduce triage time in high-unc
 - [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
 - [Populate VP collections with multiple cases per key symptom to enable comparing and contrasting, and treat the blueprint as a dynamic document](comparing-contrasting-vp-collection-strategy.md)
 - [Integrate multiple simulations and case-based discussions into the clerkship curriculum and prospectively evaluate randomized groups](integrate-multiple-simulations-and-case-discussions.md)
+- [Integrate student-centred global health and disaster preparedness courses into undergraduate medical curricula at both pre-clinical and clinical stages](integrate-global-health-disaster-preparedness-curricula.md)
 
 ## Examples
 -

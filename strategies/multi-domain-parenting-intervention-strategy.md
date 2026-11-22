@@ -51,7 +51,8 @@ Based on the finding that accumulated parenting risk rather than any single beha
 - [Indirect pathways from maternal depressive symptoms to adolescent academic performance hold after controlling for symptom continuity and early academic performance](../claims/indirect-pathways-robust-to-continuity-controls.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Target factors related to parental education in interventions aimed at reducing child ADHD symptoms and academic problems](parental-education-target-interventions-adhd-academic.md)
 
 ## Examples
 -

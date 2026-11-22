@@ -50,3 +50,4 @@ Null result from the same ordinal logistic regression (Model 1, N = 2229) using 
 - [Parental emotional rejection in early adolescence significantly and negatively predicts successful college graduation of immigrant youths in young adulthood](parental-emotional-rejection-lowers-college-graduation.md) — reports the opposite
 - [Peer acceptance in pre-adolescence is not significantly associated with educational attainment in early adulthood](peer-acceptance-not-related-to-educational-attainment.md) — related
 - [Pre-adolescent peer rejection is negatively related to educational attainment in early adulthood, controlling for WISC score and socioeconomic status](peer-rejection-predicts-lower-educational-attainment.md) — related
+- [Homeschooling is negatively associated with college degree attainment in young adulthood](homeschooling-lower-college-attainment.md) — related

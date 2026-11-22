@@ -54,3 +54,4 @@ Qualitative thematic deductive coding of open-ended six-month questionnaire resp
 - [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related
 - [Both individual and organizational factors are perceived to influence competency enactment, with individual factors seen as easier to modify](ot-individual-organizational-factors-influence-competency.md) — related
 - [Clinical behavioural intention subscale scores rose significantly from pre-test to post-test among completers in a single-group pre-post study: beliefs about capabilities (r = 0.42), moral norm (r = 0.43) and beliefs about consequences (r = 0.49)](behavioural-intention-three-subscales-improved-completers.md) — related
+- Clinician barriers to insomnia recognition in family practice fall mainly on the Knowledge, Skills, and Environmental Context and Resources domains — related

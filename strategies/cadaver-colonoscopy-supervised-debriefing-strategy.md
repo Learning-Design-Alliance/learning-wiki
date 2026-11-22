@@ -48,6 +48,7 @@ The article recommends that cadaver-based colonoscopy sessions include live supe
 
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Provide three kinds of feedback during simulation-based skill acquisition: automatic simulator feedback, instructor feedback during training, and post-session debriefing](three-source-feedback-simulation-skill-acquisition.md)
 
 ## Examples
 -

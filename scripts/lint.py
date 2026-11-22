@@ -352,7 +352,27 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
                     "type": "claim_no_doi",
                     "detail": "Evidence section has no DOI or URL",
                 })
+            elif not re.search(r"10\.\d{4,9}/", evidence_section) and not EVAL_ORG.search(evidence_section):
+                # A URL alone (an ERIC record, PubMed, Google Scholar) is not a DOI, and CLAUDE.md's
+                # claim rule asks for one or an evaluation report. Reported as a warning, not counted
+                # (maintainer, 2026-11-22): 7,402 claims were in this state when it was added.
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "claim_url_only",
+                    "detail": "Evidence cites a URL but no DOI and no evaluation report",
+                    "warning": True,
+                })
     return issues
+
+
+# The evaluation organisations whose reports keep a claim with no DOI (CLAUDE.md, 2026-10-15).
+EVAL_ORG = re.compile(
+    r"ies\.ed\.gov|whatworks\.ed\.gov|What Works Clearinghouse|Institute of Education Sciences|"
+    r"Regional Educational Laboratory|\bREL\b|mathematica|\bMDRC\b|mdrc\.org|American Institutes for Research|"
+    r"\bAIR\b|air\.org|\bRAND\b|rand\.org|Abt Associates|abtassociates|\bSRI\b|sri\.com|WestEd|wested\.org|"
+    r"Westat|Child Trends|childtrends|consortium\.uchicago|consortium-chicago|ccsr\.uchicago|"
+    r"toandthrough\.uchicago|Consortium on School Research|\bNWEA\b|nwea\.org|Learning Policy Institute|"
+    r"learningpolicyinstitute|Urban Institute|urban\.org|\bCRESST\b|cresst|\bCREDO\b|credo\.stanford", re.I)
 
 
 def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
@@ -990,6 +1010,7 @@ def main():
     print(f"  {len([s for s in pages if '/' not in s])} pages indexed\n")
 
     all_issues = []
+    all_warnings = []
     checks = CHECKS
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]
@@ -997,8 +1018,11 @@ def main():
     for check_name, fn in checks.items():
         if check_name not in selected and args.type != "all":
             continue
-        issues = fn(pages)
+        found = fn(pages)
+        issues = [i for i in found if not i.get("warning")]
+        warnings = [i for i in found if i.get("warning")]
         all_issues.extend(issues)
+        all_warnings.extend(warnings)
         label = check_name.replace("_", " ").title()
         if issues:
             print(f"[{label}] {len(issues)} issues:")
@@ -1013,8 +1037,18 @@ def main():
                     print(f"    ... and {len(group) - 5} more")
         else:
             print(f"[{label}] OK")
+        if warnings:
+            by_type = defaultdict(list)
+            for w in warnings:
+                by_type[w["type"]].append(w)
+            for itype, group in by_type.items():
+                print(f"  warning, not counted: {itype}: {len(group)}")
+                for item in group[:3]:
+                    print(f"    {item['file']}: {item['detail']}")
         print()
 
+    if all_warnings:
+        print(f"Warnings (not counted): {len(all_warnings)}")
     print(f"Total issues: {len(all_issues)}")
 
     if args.fix and all_issues:

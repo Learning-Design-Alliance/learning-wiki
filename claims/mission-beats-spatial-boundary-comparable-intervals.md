@@ -48,3 +48,4 @@ Planned comparison controlling for inter-object intervals: the levels with the s
 - [Confidence in correct memory responses is higher when both spatial and mission boundaries are not crossed, with an interaction between the two boundary types](confidence-highest-within-both-boundaries-vr.md) — related
 - [Crossing a spatial boundary shows no significant effect on temporal order memory accuracy, and no significant mission-by-spatial interaction, in the VR salesperson task](spatial-boundary-null-effect-vr-accuracy.md) — related
 - [Crossing a conceptual (mission) boundary significantly impairs the accuracy of temporal order memory in an interactive VR episodic memory task](mission-boundary-crossing-impairs-vr-sequence-memory-accuracy.md) — possibly the same claim (merge candidate)
+- [States of high arousal impair implicit acquisition of the spatial and sequential context of an event](high-arousal-impairs-implicit-context-acquisition.md) — related

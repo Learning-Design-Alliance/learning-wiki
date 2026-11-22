@@ -49,3 +49,4 @@ Supplementary analysis comparing hemodynamic and laboratory stress-reaction para
 - [Simple regressions between salivary stress biomarkers and clinical or demographic data show no clinically relevant associations](regressions-biomarkers-clinical-data-no-relevant-statistics.md) — related
 - [Testosterone concentration is significantly higher 120 minutes after high-fidelity simulation than before and immediately after](testosterone-higher-at-t2-after-hfs.md) — related
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
+- [Salivary alpha-amylase activity decreased from the evening before the exam to exam morning after both auricular stimulation and expressive writing, but not after no intervention](saa-decreased-after-as-and-ew-not-ni.md) — related

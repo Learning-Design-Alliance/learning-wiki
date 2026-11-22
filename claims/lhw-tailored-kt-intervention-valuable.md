@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-22
 sources:
   - id: puchalski-ritchie-lisa-m-2016
     resource: "https://doi.org/10.1186/s12909-016-0580-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All interviewed lay health workers described the intervention as valuable and reported improved confidence and ability as TB care providers and adherence supporters. [→ Puchalski Ritchie Lisa M. 2016](#puchalski-ritchie-lisa-m-2016)

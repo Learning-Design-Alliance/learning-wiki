@@ -50,3 +50,4 @@ Complication comparison by surgeon level in the retrospective multicenter cohort
 - [In a supervised setting, surgical margin status does not differ significantly between resident-performed and attending-performed breast-conserving surgery for non-palpable lesions across localization techniques](resident-attending-margin-status-nonpalpable-bcs.md) — related
 - [Case assignment differed by surgeon level: residents most often performed ROLL and least often carbon localization procedures](resident-case-assignment-varies-by-localization-technique.md) — related
 - [Residents required equal or longer operative times than attending surgeons, significantly so for BCS with SLNB in the MSL and WGL techniques](resident-longer-operative-times-bcs.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

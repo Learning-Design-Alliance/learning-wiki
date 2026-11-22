@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 796 claims (426 show a difference, 195 mixed, 175 no difference) · 556 studies (295 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 556 report an effect size · 788 claims rest on one study
+> **Evidence** · 799 claims (427 show a difference, 197 mixed, 175 no difference) · 558 studies (297 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 558 report an effect size · 791 claims rest on one study
 
 ## How to read this page
 
@@ -835,6 +835,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Highest-qualification attainment differed by sex: more females achieved University Entrance while more males achieved NCEA level 1 or 2](../claims/highest-qualification-sex-differences-ncea.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant difference in DBS knowledge scores by resident sex or age](../claims/no-sex-age-difference-dbs-knowledge.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant sex differences in the pathways from maternal depressive symptoms to adolescent academic performance](../claims/no-sex-differences-maternal-depression-academic-pathways.md) [-M] — an instructional effect differs by group
+- [Gender-by-mobile-use interaction on physical fitness: gender differences vanish in the high-use group](../claims/gender-fitness-differences-vanish-high-mobile-use.md) [~M] — an instructional effect differs by group
+- [Girls achieve higher school grades than boys, while boys show faster Flanker reaction times, in this South African sample](../claims/sex-differences-grades-flanker-speed.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls outperform boys in Spanish and English regardless of mobile-phone-use level](../claims/girls-better-language-marks-regardless-mobile-use.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

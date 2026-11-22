@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2023
 sources:
   - id: bouchefra-said-2023
-    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10210566/"
-    title: "Bouchefra Said, El Ghouddany Safouane, Ouali Karim, Bour Abdellatif. (2023). Is good dietary diversity a predictor of academic success? Acta Bio Medica : Atenei Parmensis. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10210566/"
+    resource: "https://doi.org/10.23750/abm.v94i2.13940"
+    title: "Bouchefra Said, El Ghouddany Safouane, Ouali Karim, Bour Abdellatif. (2023). Is good dietary diversity a predictor of academic success? Acta Bio Medica : Atenei Parmensis. [doi:10.23750/abm.v94i2.13940](https://doi.org/10.23750/abm.v94i2.13940)"
     author: Bouchefra Said, El Ghouddany Safouane, Ouali Karim, Bour Abdellatif
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Bouchefra Said 2023
 
-Bouchefra Said, El Ghouddany Safouane, Ouali Karim, Bour Abdellatif. (2023). Is good dietary diversity a predictor of academic success? Acta Bio Medica : Atenei Parmensis. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10210566/
+Bouchefra Said, El Ghouddany Safouane, Ouali Karim, Bour Abdellatif. (2023). Is good dietary diversity a predictor of academic success? Acta Bio Medica : Atenei Parmensis. [doi:10.23750/abm.v94i2.13940](https://doi.org/10.23750/abm.v94i2.13940)
 
 `q2 · i?` · `associational · r2`
 

@@ -52,6 +52,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 - [Provide in-service physicians compulsory hands-on training in health promotion through continuing medical education](compulsory-hands-on-health-promotion-cme.md)
 - [Redistribute standardizable chronic care tasks to pre-existing community health workers and embed self-management education in routine consultations](task-redistribution-embedded-dsme-strategy.md)
+- [Train point-of-care diagnostic users in small groups with hands-on practice and visual and video content](small-group-hands-on-video-training-strategy.md)
 
 ## Examples
 -

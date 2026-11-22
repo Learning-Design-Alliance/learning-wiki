@@ -51,3 +51,4 @@ Cross-sectional study of 350 grade 8–11 students; adjusted logistic regression
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
 - [Good mindfulness is strongly associated with better academic performance among Thai secondary students](mindfulness-associated-academic-performance-thai-secondary.md) — related
+- [Boys outnumber girls in the bad academic performance group](male-overrepresentation-bad-performance.md) — related

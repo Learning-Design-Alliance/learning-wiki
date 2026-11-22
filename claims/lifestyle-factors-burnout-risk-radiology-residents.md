@@ -53,3 +53,4 @@ Multivariate logistic regression in the nationwide survey identified smoking, sl
 - [Normal sleep is associated with higher perceived-competency and higher odds of high performance among radiology residents](normal-sleep-higher-competency-radiology-residents.md) — related
 - [Regular physical activity is associated with higher perceived-competency among radiology residents](regular-physical-activity-higher-competency-radiology-residents.md) — related
 - [Study year 3 is the strongest independent predictor of high burnout risk overall, with risk showing a significantly decreasing trend in later years](study-year-3-burnout-peak-declining-trend.md) — related
+- [High burnout is more prevalent in later (clinical) academic years than in the second preclinical year](burnout-higher-in-clinical-years.md) — related

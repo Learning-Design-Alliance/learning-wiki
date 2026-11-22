@@ -55,3 +55,4 @@ Descriptive statistics from the cross-sectional sample of 325 students using sel
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [On-campus students slept longer than off-campus students, and underweight students slept longer than overweight and obese students](sleep-duration-residing-arrangement-bmi-descriptives.md) — related
+- [Most participants were in the normal BMI category (53.6%) and reported high GPA (79.9%, mean 4.28 ± 0.41 on a 5.0 scale).](descriptive-bmi-gpa-profile-kku-females.md) — related

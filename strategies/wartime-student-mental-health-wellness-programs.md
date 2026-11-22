@@ -62,6 +62,7 @@ The article recommends that universities develop and implement activities and pr
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 - [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 - [Universities should provide psychopedagogical support and coordinate student mental-health follow-up with the public health network, and faculty should organize teaching tasks in a balanced way to prevent overload](institutional-psychopedagogical-support-post-pandemic-strategy.md)
+- [Deploy multifaceted preventive measures — extracurricular activities, stressor reduction, social support, and community service — to reduce medical student burnout](multifaceted-burnout-prevention-medical-students.md)
 
 ## Examples
 -

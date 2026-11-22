@@ -58,6 +58,7 @@ The authors recommend integrating simulation into interprofessional curricula, c
 - [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
 - [Incorporate CRM training early into existing EM residency curricula using a low-resource simulation course to encourage continued deliberate practice](early-crm-training-existing-curricula-strategy.md)
 - [Implement interprofessional simulation trainings and internships as longitudinal programs within the curricula of all involved health professions](longitudinal-interprofessional-simulation-curricula.md)
+- [Integrate student-centred global health and disaster preparedness courses into undergraduate medical curricula at both pre-clinical and clinical stages](integrate-global-health-disaster-preparedness-curricula.md)
 
 ## Examples
 -

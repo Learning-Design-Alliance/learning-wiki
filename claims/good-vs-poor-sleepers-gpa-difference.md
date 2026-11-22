@@ -62,3 +62,6 @@ Independent-samples t test comparing GPA between good (PSQI ≤ 5) and poor (PSQ
 - [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related
 - [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related
 - [Biological sex is associated with meeting PA guidelines (more males than females), but not with sleep duration, PWB, or academic performance](sex-differences-pa-not-sleep-pwb-gpa.md) — related
+- [Good sleepers obtain significantly higher average academic grades than poor sleepers among nursing students](good-sleepers-higher-grades-nursing-students.md) — a narrower finding that bears on this claim
+- [Not meeting age-based sleep recommendations is associated with lower GPA among university students](inadequate-sleep-lower-gpa-university-students.md) — related
+- [University students with poor sleep quality obtain lower academic scores than students with good sleep quality](poor-sleep-quality-lower-academic-scores.md) — related

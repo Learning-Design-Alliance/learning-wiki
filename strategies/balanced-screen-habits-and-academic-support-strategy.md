@@ -51,6 +51,7 @@ The article's concluding recommendations are that teachers, parents and professi
 - [Families jointly agree to limit short video time and model balanced media habits](family-media-agreement-limit-short-video.md)
 - [Target academic interventions at children with CKD from low-SES families using tutoring, progress monitoring, and proactive school–health communication](academic-interventions-low-ses-ckd-children-strategy.md)
 - [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
+- [Design joint school–family work programs that make parents aware of their support for adolescent physical activity](joint-school-family-parental-support-programs.md)
 
 ## Examples
 -

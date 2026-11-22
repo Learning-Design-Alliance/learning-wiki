@@ -68,3 +68,4 @@ Review of six studies performing mediation analysis. "Psychosocial distress in t
 - [No evidence that depressive symptoms, bullying or school enjoyment individually mediate the BMI–attainment association](no-individual-mediation-depression-bullying-enjoyment.md) — reports the opposite
 - [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
 - [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — related
+- [Overweight, obesity, and increased cardiometabolic risk are associated with poorer cognition and academic achievement in children, but longitudinal evidence is inconsistent and causality is unestablished](adiposity-cardiometabolic-risk-cognition-children.md) — related

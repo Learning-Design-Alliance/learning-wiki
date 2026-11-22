@@ -56,3 +56,4 @@ Multivariable logistic regression on 427 participants found education level inde
 - [Only 11.2% of midwives and nurses in Eastern Ethiopia public health facilities demonstrated good retention of basic neonatal resuscitation skills](low-nr-skill-retention-eastern-ethiopia.md) — related
 - [Receiving NR refresher training was not significantly associated with skill retention in this study, contrary to much prior literature](refresher-training-not-associated-retention.md) — related
 - [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — related
+- [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — related

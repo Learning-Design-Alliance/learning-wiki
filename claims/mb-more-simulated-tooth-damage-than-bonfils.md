@@ -52,3 +52,4 @@ Descriptive comparison of tooth-damage events (detected by the simulator's click
 - [After four simulated intubation trials, final-year medical students achieve successful ventilation in similar time with the Macintosh blade and the Bonfils fibrescope](mb-bonfils-similar-time-successful-ventilation-trial4.md) — related
 - [Most novice students prefer the Bonfils fibrescope over the Macintosh blade after simulated training](students-prefer-bonfils-over-mb.md) — related
 - [Students visualise the glottis faster with the Macintosh blade than with the Bonfils fibrescope in simulated intubation](mb-faster-glottis-visualisation-than-bonfils.md) — related
+- [Dental clicks were less frequent with McGrath VL than Macintosh in both scenarios, suggesting reduced dental injury risk during novice training](mcgrath-reduces-dental-clicks-versus-macintosh.md) — related

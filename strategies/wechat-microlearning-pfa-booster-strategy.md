@@ -52,6 +52,7 @@ Facing the observed decline in skills at the 2-month follow-up, the authors reco
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Use open free virtual courses and real-time smartphone consultation with specialists to train and support first-level providers in VIA/VILI](virtual-courses-smartphone-consultation-via-vili-training.md)
+- [Offer continuous digital self-management programs to support long-term adherence where face-to-face programs are inaccessible](digital-oa-program-long-term-access-strategy.md)
 
 ## Examples
 -

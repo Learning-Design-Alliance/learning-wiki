@@ -54,3 +54,4 @@ Meta-analysis pooling six RCTs on reading comprehension. The review reports "no 
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
+- [Pooled association between physical activity and academic performance in university students is small and non-significant (r = 0.07)](pa-ap-pooled-null-university-students.md) — related

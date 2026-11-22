@@ -50,6 +50,7 @@ The article recommends embedding structured AI training, such as its 1.5-hour as
 
 - [Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups](ai-literacy-curricular-integration-nursing.md)
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
+- [Online competency training in sleep medicine as continuing professional development for physicians](online-sleep-medicine-competency-training-strategy.md)
 
 ## Examples
 -

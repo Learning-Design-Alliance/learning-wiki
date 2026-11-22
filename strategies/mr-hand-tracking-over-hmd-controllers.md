@@ -50,6 +50,7 @@ The review recommends developing mixed reality environments using hand tracking 
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Design virtual simulations with ease-of-use features, haptic technology, moderate immersion, and postscenario feedback](vs-design-features-strategy.md)
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
+- [Use augmented reality systems with mixed reality capture and motion tracking to teach procedural skills remotely as if mentor and trainee were co-located](ar-mixed-reality-procedural-training-strategy.md)
 
 ## Examples
 -

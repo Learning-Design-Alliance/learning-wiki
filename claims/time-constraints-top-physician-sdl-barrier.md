@@ -57,4 +57,5 @@ Review synthesis of the 17 articles (Table 3 frequencies); the discussion adds t
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
 - [Imminent clinical skills examinations were the dominant incentive for SDL engagement, with students practising mainly equipment-dependent skills](imminent-exams-incentivise-sdl.md) — related
 - [Polled MICA members who discontinued VW use most often cited lack of time, with avatar stigma and user-experience quality as additional factors](academic-non-uptake-of-vws-reasons.md) — a narrower finding that bears on this claim
+- Clinician barriers to insomnia recognition in family practice fall mainly on the Knowledge, Skills, and Environmental Context and Resources domains — related
 

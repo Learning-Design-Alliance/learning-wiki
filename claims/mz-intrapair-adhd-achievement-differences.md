@@ -51,3 +51,4 @@ MZ twin intra-pair differences model correlating within-pair differences in moth
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
+- [Maternal and paternal educational attainment remain associated with child ADHD symptoms after accounting for shared genetic and family environmental factors](parental-education-adhd-phenotypic-effect.md) — related

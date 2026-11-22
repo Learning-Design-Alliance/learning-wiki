@@ -53,6 +53,7 @@ The review's discussion recommends a bundle of training methodologies for ophtha
 
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Proficiency-gated training combining a short theoretical module with supervised surgeries until operative competence is certified](proficiency-gated-supervised-surgery-training.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Pearson correlations in the male subsample; these were the only significant corr
 - [Multi-predictor regression models of total grade scores explain 30.5% of variance in females but only 4.3% in males](regression-fitness-academics-gender-variance.md) — reports the opposite
 - [A significant serial indirect effect runs from physical activity through mental health to cognitive ability to academic performance, despite the non-significant activity-to-mental-health path](serial-chain-mediation-mind-body.md) — related
 - [Cognitive ability at follow-up significantly mediates the association between baseline extracurricular physical activity and later academic performance in adolescents with high BMI](cognitive-ability-mediation-physical-activity-academic.md) — related
+- [Intergroup fitness differences appear in boys but not girls](fitness-mobile-use-differences-boys-only.md) — related
