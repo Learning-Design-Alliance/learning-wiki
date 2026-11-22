@@ -10,6 +10,13 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-22
+
+* **Ingest**: [strategies/spaced-repetition-scheduling](strategies/spaced-repetition-scheduling.md) — Su, Ye, Nie, Cao & Chen (2023), Optimizing spaced repetition schedule by capturing the dynamics of memory, IEEE TKDE 35(10), doi:10.1109/TKDE.2023.3251721 (numbers read from the accepted manuscript)
+* **Ingest**: [elements/spaced-repetition](elements/spaced-repetition.md) — Su, Ye, Nie, Cao & Chen (2023), Optimizing spaced repetition schedule by capturing the dynamics of memory, IEEE TKDE 35(10), doi:10.1109/TKDE.2023.3251721 (numbers read from the accepted manuscript)
+* **Ingest**: [claims/cost-minimizing-scheduler-advantage-holds-across-memory-models](claims/cost-minimizing-scheduler-advantage-holds-across-memory-models.md) — Su, Ye, Nie, Cao & Chen (2023), Optimizing spaced repetition schedule by capturing the dynamics of memory, IEEE TKDE 35(10), doi:10.1109/TKDE.2023.3251721 (numbers read from the accepted manuscript)
+* **Ingest**: [claims/review-history-features-cut-recall-prediction-error](claims/review-history-features-cut-recall-prediction-error.md) — Su, Ye, Nie, Cao & Chen (2023), Optimizing spaced repetition schedule by capturing the dynamics of memory, IEEE TKDE 35(10), doi:10.1109/TKDE.2023.3251721 (numbers read from the accepted manuscript)
+
 ## 2026-11-21
 
 * **Ingest**: [claims/stuedm-classroom-outperforms-expert-and-stucql](claims/stuedm-classroom-outperforms-expert-and-stucql.md) — Ingested from arxiv-2610.28716 (Offline Apprenticeship Learning for Human-Centric Environments) via eval_harness.py + ingest_extractions.py
