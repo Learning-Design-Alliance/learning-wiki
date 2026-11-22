@@ -42,6 +42,7 @@ The article recommends starting parental support for teacher education through s
 - [Parents hold experts and teachers accountable by observing changes in their children's behavior](parent-accountability-child-behavior-observation.md)
 - [Consider evaluation issues up front when launching educational reform initiatives](consider-evaluation-issues-when-launching-reform-initiatives.md)
 - [Set clear recording goals, budget for equipment, and plan technical support and consent before classroom video recording](video-recording-planning-goals-support-consent.md)
+- [Start network growth from small-scale seeds using tested inquiry materials rather than large-scale projects](small-seed-growth-strategy.md)
 
 ## Examples
 -

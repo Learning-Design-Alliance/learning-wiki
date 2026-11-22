@@ -20,6 +20,7 @@ Physlets are scriptable Java applets developed at Davidson College that instruct
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Physlet Physics: Java applet animations for conceptual physics learning**: Physlets are small Java-generated animations embeddable in web documents that visualize multiple representations of physical phenomena such as simulations, graphs, diagrams, and tables. The article describes them as tools designed to "deepen students’ conceptual knowledge of physics," each focusing on a single physical principle to keep them small and downloadable. The Physlet Physics book contains over 800 applets organized into Illustrations, Explorations, and Problems intended to be completed in sequence. (Zosia A. C. Krusberg (2007))
 
 ### Claims
 
@@ -28,3 +29,4 @@ Physlets are scriptable Java applets developed at Davidson College that instruct
 
 ## Key Sources
 - Melissa Dancy, Wolfgang Christian and Mario Belloni. (2002). Teaching with Physlets: Examples from Optics. The Physics Teacher. http://webphysics.davidson.edu/physlet_resources/
+- Zosia A. C. Krusberg. (2007). Emerging technologies in physics education. https://arxiv.org/abs/physics/0703224

@@ -101,6 +101,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Use VR simulation as a complement to conventional theoretical training for dental implant surgical skill development](vr-simulation-complement-conventional-implant-training-strategy.md)
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
+- [Sequence animations across graded source/observer motion situations](graded-motion-situations-animation-sequence.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Resistance can be reduced when instructors communicate the purpose of group work, and evidence-based explanations of its importance increased student participation and perceived value.](communicating-purpose-reduces-resistance.md) — related
 - [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — related
 - [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related
+- [The article claims the ownership principle immediately generates rich school structures and selection criteria for new elements](ownership-principle-generates-structures.md) — related

@@ -65,3 +65,4 @@ Hake's survey of mechanics diagnostic test/Force Concept Inventory data from 654
 - [High-achieving first-year physics students with strong FCI scores still struggle with fundamental concepts on estimation and conceptual-reasoning problems](high-fci-scores-mask-fundamental-difficulties.md) — related
 - [Some IE courses achieved normalized gains close to Traditional courses, with case histories suggesting implementation problems](low-g-ie-courses-implementation-problems.md) — related
 - [Mechanics Baseline problem-solving scores correlate strongly with FCI conceptual scores, supporting that IE methods enhance problem-solving ability](mb-fci-correlation-ie-problem-solving.md) — related
+- [Passive high-school study habits such as cramming and attending class without active engagement are inadequate for learning college Physics](passive-learning-extension-of-high-school-fantasy.md) — related

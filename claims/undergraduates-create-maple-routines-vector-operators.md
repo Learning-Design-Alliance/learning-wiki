@@ -52,3 +52,4 @@ A pedagogical experience at the Federal University of Pará in which undergradua
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — related
 - [Students' concept images of grad, div and curl focus on evaluation, with few conceptual descriptions and confusion about vector or scalar character](concept-image-focused-on-evaluation.md) — related
 - [Students self-reported increased conceptual understanding of the physical systems they modeled, including mechanisms, vector-field intuition, and physically reasonable magnitudes](self-reported-conceptual-gains-from-essays.md) — related
+- [Two years of classroom use of computer algebra packages produced visible good results in differential geometry and general relativity, including with computer beginners](cas-teaching-gr-visible-good-results.md) — related

@@ -48,3 +48,5 @@ Written survey results on the trajectory parts of the magnetic-field problem; th
 ## Related Claims
 - [No American student identified the spiral trajectory for a charge entering the field at an angle other than 90 degrees, while 19.2% of Romanian students did](spiral-trajectory-none-american-19-percent-romanian.md) — related
 - [Students over-generalize memorized field configurations, claiming a magnetic force opposite to the velocity and zero net force outside velocity-selector conditions](velocity-selector-overgeneralization-magnetism.md) — related
+- [Students generalize that the path of a charged particle in a magnetic field is always circular, with 60% considering the path circular and 37% agreeing that velocity is always perpendicular to the field](circular-path-incorrect-generalization.md) — related
+- [Students confuse the trajectory of a charged particle with field lines, with 76% making the trajectory follow the field line in a given field](trajectory-confused-with-field-lines.md) — related

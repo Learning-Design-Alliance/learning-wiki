@@ -52,3 +52,4 @@ End-of-course university survey (participation 8+8 students) on weekly hours. Re
 - [Self-estimated workload rises from about twenty to about fifty hours per week in the first lecture weeks and correlates strongly with perceived stress](workload-trajectory-stress-correlation.md) — related
 - [Assignments were rated manageable, with most students spending under two days per assignment](q-beast-assignments-manageable-workload.md) — related
 - [Students reported positive experiences with the CURE course, with most studying 5–8 hours per week outside class](positive-evaluations-cure-plasma-course.md) — related
+- [CAPA students devoted 3-6 hours weekly to physics self-study and complained of being overburdened relative to other courses](capa-students-3-6-hours-weekly-overburdened.md) — related

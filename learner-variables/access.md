@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (106 show a difference, 28 mixed, 11 no difference) · 113 studies (41 associational, 19 causal, 16 review, 15 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 113 report an effect size · 140 claims rest on one study
+> **Evidence** · 146 claims (107 show a difference, 28 mixed, 11 no difference) · 114 studies (41 associational, 19 causal, 16 review, 16 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 114 report an effect size · 141 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -189,6 +189,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [An accessibility audit found all endorsed AP Computer Science Principles curricula are not fully accessible, per the review citing Stefik et al.](../claims/ap-csp-curricula-not-fully-accessible-audit.md) [+M] — measured as an outcome of the instruction studied
 - [Block-based programming environments rely on visual metaphors and are not fully accessible to children with visual impairments, per the review citing Milne and Ladner](../claims/block-environments-visual-metaphors-inaccessible-vi.md) [+M] — measured as an outcome of the instruction studied
 - [University library accessibility provision for students with visual impairments is low, with 22.07% offering assistive technology and 0.54% tactile STEM pathways](../claims/india-university-libraries-assistive-tech-22-percent.md) [+M] — measured as an outcome of the instruction studied
+- [WWSL gives students around-the-clock access to experimental setups and lets any Internet-connected student participate regardless of location](../claims/wwsl-around-the-clock-and-location-independent-access.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

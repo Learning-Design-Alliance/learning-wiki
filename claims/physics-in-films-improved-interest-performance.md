@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-11-22
 sources:
   - id: cj-efthimiou-and-ra-llewellyn-2007
     resource: "https://doi.org/10.1088/0031-9120/42/3/003"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors report that their movie-scene-based Physics in Films course excited student interest and improved student performance. [→ C.J. Efthimiou and R.A. Llewellyn 2007](#cj-efthimiou-and-ra-llewellyn-2007)

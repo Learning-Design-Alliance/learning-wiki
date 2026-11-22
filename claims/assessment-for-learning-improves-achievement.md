@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r2`, 1 review `r?` · `q2`–`q3` · `i1` small
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Formative assessment — eliciting evidence of student learning and using it to adapt teaching and learning activities — raises achievement relative to instruction without such feedback loops.
 

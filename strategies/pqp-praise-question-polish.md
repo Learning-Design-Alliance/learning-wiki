@@ -68,6 +68,7 @@ PQP works because it scaffolds the peer-feedback genre: unstructured peer review
 - [Writing Conferences](writing-conferences.md) — teacher-led one-to-one counterpart that can model the same P-Q-P moves
 - [Evaluate student contributions through praising, encouraging, quoting students' words, and gestures](four-teacher-evaluation-techniques-communicative-class.md)
 - [Use paired sheet writing, exchange, and mutual assessment with game-theoretic scoring to structure peer learning](pd-pl-paired-sheet-exchange-strategy.md)
+- [Model constructive evaluation by having the teacher openly improve through students' suggestions, so students learn that timely, constructive evaluation benefits both parts](teacher-models-constructive-evaluation.md)
 
 ## Examples
 - **ReadWriteThink — "Peer Review: Narrative"** ([readwritethink.org](https://www.readwritethink.org/classroom-resources/lesson-plans/peer-review-narrative)) — an IRA/NCTE lesson plan in which students exchange narrative drafts and use a PQP form to respond before revising.

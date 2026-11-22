@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 design `r1` · `q2`–`q3` · `i2` medium · n=15 studies (38 effect sizes)
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, contradicted by the synthesis added below): Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions -->
 
 ## Subclaims

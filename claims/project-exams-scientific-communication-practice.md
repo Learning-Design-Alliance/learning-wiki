@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-11-22
 sources:
   - id: nieminen-2007
     resource: "https://doi.org/10.48550/arXiv.physics/0702046"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Written reports varied from seven pages through to over 30, with 15 pages typical, giving significant practice in written scientific communication. [→ Nieminen 2007](#nieminen-2007)

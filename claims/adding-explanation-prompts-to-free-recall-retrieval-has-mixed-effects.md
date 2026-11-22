@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Hinze et al. (2013), that instructing students to construct explanations during initial retrieval produced additional benefit beyond free recall on a final inference test. [→ Karpicke 2017](#karpicke-2017)

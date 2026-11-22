@@ -50,6 +50,7 @@ The implementation philosophy held that students learn computation by writing a 
 - [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](worked-examples-seatwork-homework-problem-solving.md)
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
 - [Focus computational-modeling instruction on debugging practice, including qualitative analysis, not only correcting procedural mistakes](teach-debugging-and-qualitative-habits-of-mind.md)
+- [Relativity lab exercises in which students check whether other metrics fulfill the Einstein equations by modifying the given program sequences](relativity-lab-metric-checking-exercises.md)
 
 ## Examples
 -

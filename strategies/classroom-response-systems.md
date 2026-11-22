@@ -80,6 +80,8 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 - [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
 - [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
+- [Archive clicker ConcepTest data across semesters to refine and build a core set of effective questions](clicker-data-archiving-refine-conceptests.md)
+- [Use two-way clicker displays to pair students holding different conceptions and strengthen peer discussion](clicker-display-pair-differing-conceptions.md)
 
 ## Examples
 - **Peer Instruction at Harvard** — Eric Mazur's physics course: ConcepTests polled via clickers, with peer discussion between votes; the model has been adopted across thousands of STEM courses ([Peer Instruction](https://peerinstruction4cs.org) resources).

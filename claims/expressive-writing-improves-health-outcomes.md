@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3`–`q4` · `i0` negligible
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Writing about emotional experiences improves physical and psychological health outcomes relative to writing about neutral topics.
 

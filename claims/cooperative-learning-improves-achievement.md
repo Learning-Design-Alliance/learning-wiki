@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q2`–`q4` · `i3` large
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Structured cooperative learning — small groups working interdependently toward shared goals with individual accountability — raises achievement relative to individualistic or purely competitive formats.
 
@@ -147,3 +147,4 @@ Open questions include how effects scale in online and hybrid settings, where in
 - [Task-based group participants prepared classified ads in groups of three and received peer and instructor feedback, supporting ZPD-based cooperative learning.](task-based-cooperative-feedback-zpd.md) — a narrower finding that bears on this claim
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](cbl-teamwork-supports-psychological-safety.md) — related
 - [Cooperative learning improves outcomes over competition and individualistic effort only when five basic elements are implemented](cooperative-learning-five-elements-qist.md) — related
+- [Personalized assignments promoted student collaboration and discussion while making mechanical copying much less likely](personalized-assignments-promote-collaboration-reduce-copying.md) — related

@@ -61,3 +61,4 @@ Qualitative interview analysis in the reformed course: students may reject refor
 - [Students' epistemological expectations shape how they interpret equations, as shown by exam answers favoring a calculational formula over Newton's second law](epistemological-expectations-shape-equation-interpretation.md) — a narrower finding that bears on this claim
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — related
 - [Students demonstrate some expectations for computational proficiency that are misaligned with the physics community](student-proficiency-expectations-misaligned.md) — related
+- [Instructors observed a shift in students' epistemology from memorization and grade-focus toward learning through experiments and applying models](epistemology-shift-toward-process-of-science.md) — related

@@ -48,6 +48,7 @@ Because inquiry laboratories differ sharply from what most teaching assistants e
 - [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
 - [Professional Learning Communities](professional-learning-communities.md)
 - [Learning By Teaching](learning-by-teaching.md)
+- [Implement large introductory courses in inquiry-based, laboratory-based environments using existing staffing plus undergraduate teaching assistants](large-enrollment-inquiry-based-implementation-strategy.md)
 
 ## Examples
 -

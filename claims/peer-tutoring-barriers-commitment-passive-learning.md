@@ -74,3 +74,4 @@ Lack of punctuality and commitment subtheme from tutor interviews; the tutor als
 - [Some students committed plagiarism in forum posts, detected and flagged by peers and tutors](forum-plagiarism-incident-challenge.md) — related
 - [Delegated one-on-one tutoring for a blind physics student addressed help-seeking barriers and was associated with improved learning outcomes and work quality in the authors' experience](delegated-tutoring-improved-blind-student-outcomes.md) — related
 - [The \"Among\" leadership model improved teacher punctuality, with the arriving-on-time mean rising from 2.63 to 4.44 across cycles](among-model-improves-arriving-on-time.md) — related
+- [Passive high-school study habits such as cramming and attending class without active engagement are inadequate for learning college Physics](passive-learning-extension-of-high-school-fantasy.md) — related

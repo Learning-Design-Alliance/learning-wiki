@@ -52,3 +52,4 @@ Action research employing mixed methods examined the online course with 14 inser
 - [By the end of the LBD-grounded online robotics course, participating inservice teachers demonstrated sufficient robotics content knowledge](lbd-online-robotics-course-content-knowledge.md) — related
 - [Teachers in the online robotics course recognized both the constraints of learning educational robotics online and the benefits of collaboration](online-robotics-learning-constraints-collaboration-benefits.md) — related
 - [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related
+- [Reconceiving a Methods of Physics Teaching course for inservice teachers solves the enrollment problem that plagued preservice-only versions](methods-course-inservice-enrollment-solution.md) — related

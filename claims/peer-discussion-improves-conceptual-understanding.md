@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Structured discussion with peers — articulating reasoning, confronting alternative ideas, and negotiating shared understanding — deepens conceptual learning beyond what passive reception achieves. The claim is scoped to *conceptual* outcomes (explanations, transfer, misconception resolution), not procedural fluency or recall.
 

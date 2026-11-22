@@ -52,3 +52,4 @@ Cross-centre comparison within the 'evolution with experience' theme of the 31-i
 - [In a fully nested multi-circuit OSCE, examiner cohorts differ substantially in stringency or leniency on global scores, with a maximal model-adjusted difference of 0.47 out of 7.0 (Cohen's d = 0.96) for students of the same ability](examiner-cohort-stringency-global-score-osce.md) — related
 - [Faculty observers grade more stringently than student observers in video re-assessment of physical examination skills](faculty-observers-more-stringent-than-students.md) — related
 - [Teachers assigned significantly higher grades than the AI on students' initial submissions, with the AI adhering rigidly to answer keys](teacher-grades-higher-than-ai-attempt-one.md) — related
+- [Some students wrongly believe their grade will not be determined strictly by the syllabus grading policy, expecting personal leniency from the professor](soft-hearted-professor-fantasy.md) — related

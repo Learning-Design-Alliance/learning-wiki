@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2006
+source_checked: 2026-11-22
 sources:
   - id: nathaniel-lasry-and-pierre-osias-christin-2006
     resource: "https://doi.org/10.48550/arXiv.physics/0606151"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Passively observing a demonstration produces no more learning than not seeing it, per findings the article attributes to Crouch, Fagen, Callan and Mazur. [→ Nathaniel Lasry and Pierre-Osias Christin 2006](#nathaniel-lasry-and-pierre-osias-christin-2006)

@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 qualitative `r2` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

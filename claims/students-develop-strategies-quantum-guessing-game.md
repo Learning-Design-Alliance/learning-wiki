@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During informal classroom observations, students moved from simple state-elimination strategies to more skeptical, statistically-aware play, showing more accurate and more aggressive guessing and better scores. [→ Theodore A. Corcovilos 2018](#theodore-a-corcovilos-2018)

@@ -46,3 +46,4 @@ Theoretical argument from the abstract and introduction of this essay: as instit
 
 ## Related Claims
 - [Cultural difference and inclusion challenges affect equity: 53% of relevant papers flag insufficient cross-cultural tailoring, and facial recognition misidentifies darker skin tones](aied-cultural-inclusion-challenges.md) — related
+- [Some students value course credit and the degree over the learning it represents, prioritizing passing over long-term skill and knowledge](passing-over-learning-fantasy.md) — a narrower finding that bears on this claim

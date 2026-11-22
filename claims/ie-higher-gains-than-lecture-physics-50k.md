@@ -58,3 +58,4 @@ Secondary analysis of published FCI and FMCE gains from about 45,000 students in
 - [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — a narrower finding that bears on this claim
 - [IE and high-tech methods by themselves do not insure superior student learning](ie-and-high-tech-alone-insufficient.md) — a narrower finding that bears on this claim
 - [Some IE courses achieved normalized gains close to Traditional courses, with case histories suggesting implementation problems](low-g-ie-courses-implementation-problems.md) — related
+- [TTU students in the inquiry-based algebra-based course showed FCI gains of about 30% absolute and normalized gain about 0.4, significantly better than traditionally taught TTU classes](fci-gains-inquiry-algebra-based-ttu.md) — a narrower finding that bears on this claim

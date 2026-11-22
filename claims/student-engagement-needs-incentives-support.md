@@ -67,3 +67,4 @@ A study in which students used web-based adaptive tutorials in introductory phys
 - [Without grade incentives, students stopped completing in-class collaborative activities and out-of-class work in flipped and asynchronous online classes](grade-incentives-needed-online-activities.md) — possibly the same claim (merge candidate)
 - [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [Passive high-school study habits such as cramming and attending class without active engagement are inadequate for learning college Physics](passive-learning-extension-of-high-school-fantasy.md) — related

@@ -49,6 +49,7 @@ The article recommends a concrete recipe for building resilience: normalize cons
 - [Embracing Errors as Learning](embracing_errors_as_learning.md)
 - [Embrace Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
 - [Normalize mistakes by instructors modeling error, saying I don't know, and inviting questions](normalize-mistakes-model-error.md)
+- [Model constructive evaluation by having the teacher openly improve through students' suggestions, so students learn that timely, constructive evaluation benefits both parts](teacher-models-constructive-evaluation.md)
 
 ## Examples
 -

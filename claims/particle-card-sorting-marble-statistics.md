@@ -50,3 +50,4 @@ Program report on the Rolling Rutherford-style activity illustrating how physici
 - [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — related
 - [By 2019 International Masterclasses involved over 10,000 high school students in 332 masterclasses at 239 institutions measuring authentic data from six experiments](imc-2019-scale-10000-students-332-masterclasses.md) — related
 - [Short-answer pre-post test scores showed substantial improvement in core concepts after working with the marble game modules](prepost-conceptual-gains-marble-game.md) — related
+- [Cosmic-ray detector setups support two groups of student projects: cosmic-ray properties and properties of random processes](wwsl-cosmic-ray-project-taxonomy.md) — related

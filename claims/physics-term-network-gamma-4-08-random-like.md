@@ -47,3 +47,4 @@ Analysis of 243 physics terms with 852 word-to-word connections from the achieve
 ## Related Claims
 - [KPNs of NCEE physics examinations are scale-free, strongly assortative, and mostly small-world networks](kpn-topological-properties.md) — related
 - [Both students' and researchers' forma mentis networks show a small-world structure distributing connectivity mainly through hubs rather than clustering](fmn-small-world-hub-structure.md) — related
+- [An amorphous random link matrix requires an unacceptably extreme recall-function exponent](amorphous-matrix-requires-huge-gamma.md) — related

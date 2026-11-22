@@ -74,3 +74,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [MPEX responses in the advanced course started more favorable than typical introductory sequences and did not deteriorate during the semester](mpex-favorable-no-deterioration-advanced-course.md) — related
 - [Students in the Descriptive Physics course enter with roughly 50% unfavorable and 25% favorable expectations about conceptual learning on MPEX 2](mpex-unfavorable-expectations-50-percent.md) — related
 - [Traditional modern physics courses produced large statistically significant shifts toward novice-like beliefs on CLASS, while reformed courses showed no statistically significant shifts](reformed-course-eliminates-belief-decline.md) — related
+- [MPEX scores showed a significant increase in the coherence cluster with no decrease in any cluster](mpex-coherence-cluster-increase.md) — related

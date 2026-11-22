@@ -59,3 +59,4 @@ Experiment 3's 2x2 mixed ANOVA on cued-recall performance revealed a significant
 - [Individuals differ less in retention than in learning ability](retention-differences-smaller-than-learning-differences.md) — related
 - [Variable delay between tutoring and the delayed test did not significantly affect delayed-test scores](delay-timing-no-effect-delayed-test.md) — related
 - [C students paired with A students scored lower individually two weeks later (61%) than their group score (72%) in one group with no comparison group](ac-pairing-c-students-group-score-exceeds-retained-individual-score.md) — related
+- [A tutor can observe real student group behaviour by pretending to be inactive, with students typically forgetting the observer's presence after about half an hour](unobtrusive-tutor-observation-half-hour.md) — related

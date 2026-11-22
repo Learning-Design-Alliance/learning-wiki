@@ -43,6 +43,8 @@ A concrete teaching strategy: have students develop a numerical solver in one co
 
 - [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
+- [Relativity lab exercises in which students check whether other metrics fulfill the Einstein equations by modifying the given program sequences](relativity-lab-metric-checking-exercises.md)
+- [Use a universal constant-acceleration plot so students can solve relativistic acceleration problems graphically without equations](universal-acceleration-plot-strategy.md)
 
 ## Examples
 -

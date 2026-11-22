@@ -48,3 +48,4 @@ Related-samples Wilcoxon tests on coherence scores from 19 participants. The art
 - [Inhibition ability significantly decreased after playing casual games](casual-games-decrease-inhibition.md) — related
 - [Inhibition performance improved significantly from pretest to posttest within the situational training game condition](situational-games-within-group-inhibition-gain.md) — related
 - [Situational training games produced significantly higher post-test inhibition ability than casual games in a counterbalanced within-subjects experiment](situational-training-games-higher-inhibition-than-casual.md) — related
+- [MPEX scores showed a significant increase in the coherence cluster with no decrease in any cluster](mpex-coherence-cluster-increase.md) — related

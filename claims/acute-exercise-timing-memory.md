@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 A single bout of cardiovascular exercise can enhance memory for recently learned material, but the effect depends on *when* the exercise occurs relative to encoding and consolidation — before learning, shortly after learning, or much later.
 

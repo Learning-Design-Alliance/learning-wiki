@@ -53,3 +53,4 @@ Lickert-type survey items on pace, work load, and required time commitment from 
 - [Nearly 70% of PHYS 170 students report increased belief in the relevance of physics to biology and medicine after taking the course](phys170-increased-relevance-belief.md) — related
 - [Self-reported weekly workload in the course stayed within the expected effort for a 9 ECTS class](rust-robotics-course-workload-within-9-ects.md) — related
 - [Students reported positive experiences with the CURE course, with most studying 5–8 hours per week outside class](positive-evaluations-cure-plasma-course.md) — related
+- [CAPA students devoted 3-6 hours weekly to physics self-study and complained of being overburdened relative to other courses](capa-students-3-6-hours-weekly-overburdened.md) — related

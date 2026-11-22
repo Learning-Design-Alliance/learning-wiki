@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2006
+source_checked: 2026-11-22
 sources:
   - id: charles-henderson-2006
     resource: "https://doi.org/10.48550/arXiv.physics/0608294"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observed teaching practices of the new instructor were immediately interactive and similar to the experienced co-instructor's, as measured by the RTOP instrument. [→ Charles Henderson 2006](#charles-henderson-2006)

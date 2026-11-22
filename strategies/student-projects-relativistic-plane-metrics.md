@@ -42,6 +42,7 @@ The concluding section proposes assignable investigations that deepen understand
 
 - [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
 - [Three-category extension framework: optimise, understand, hypothesise](optimise-understand-hypothesise-extensions.md)
+- [Relativity lab exercises in which students check whether other metrics fulfill the Einstein equations by modifying the given program sequences](relativity-lab-metric-checking-exercises.md)
 
 ## Examples
 -

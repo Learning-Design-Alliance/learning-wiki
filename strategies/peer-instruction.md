@@ -71,6 +71,7 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 - [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
 - [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
 - [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
+- [Archive clicker ConcepTest data across semesters to refine and build a core set of effective questions](clicker-data-archiving-refine-conceptests.md)
 
 ## Examples
 - **[Peer Instruction Network / Mazur Group resources](https://blog.peerinstruction.net)** — Eric Mazur's original implementation in Harvard Physics 1, replacing most lecture with ConcepTests; documented in *Peer Instruction: A User's Manual* (1997).

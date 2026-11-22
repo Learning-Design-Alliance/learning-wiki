@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants' conceptions of simple aspects of the underlying space plasma physics changed from before to after listening to the sounds, in one single-group pre-post study, before researcher dialogue. [→ Martin O. Archer 2021](#martin-o-archer-2021)

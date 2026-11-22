@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study with a short initial phase, PS-I was less beneficial for transfer than WS-I; in a second study with a long initial phase, PS-I was more beneficial. The contrast is across two separate studies, and the article says a shared-sample study is needed to test whether duration explains it. [→ Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel 2025](#katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025)

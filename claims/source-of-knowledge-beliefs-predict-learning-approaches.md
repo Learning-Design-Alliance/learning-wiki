@@ -50,3 +50,4 @@ Narrative review evidence: the article reports, citing Chan (2003) via Yadav et 
 ## Related Claims
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — related
 - [Students who perceive assessment demands as assessing deep, higher-level cognitive processing employ deep approaches, while those perceiving rote-recall demands employ surface approaches](perceived-assessment-demands-approaches.md) — related
+- [Students in categories A–C locate authority for knowledge outside themselves while students in D–F take responsibility themselves, a difference the authors relate to deep and surface approaches](authority-perception-linked-to-deep-surface-approaches.md) — related

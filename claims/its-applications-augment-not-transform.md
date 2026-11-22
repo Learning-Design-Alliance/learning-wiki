@@ -57,3 +57,4 @@ The review reports this second-hand from Son's (2024) synthesis, attributing the
 - [SAMR describes levels of subject-based technology integration but omits pedagogical, technological and learning-design supports for transitioning between stages](samr-narrow-descriptive-limits.md) — related
 - [Use of pre-existing domain-specific technology applications facilitates higher teaching quality than generic applications requiring teacher integration](domain-specific-materials-support-quality.md) — related
 - [Physics instructors' use of technology often remains instrumental, supporting exposition rather than genuine inquiry, modelling or experimentation](instrumental-technology-use-physics-teaching.md) — related
+- [Local Physics Alliances are valued by members but have not realized their potential to improve teaching practice](lpas-valued-but-limited-purpose.md) — related

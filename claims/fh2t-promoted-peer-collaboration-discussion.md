@@ -58,3 +58,4 @@ Qualitative findings from the confirmatory study with 11 educators, several of w
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
 - [Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties](fh2t-teacher-console-instructional-modification.md) — related
 - [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](maker-education-benefits-claim.md) — related
+- [Personalized assignments promoted student collaboration and discussion while making mechanical copying much less likely](personalized-assignments-promote-collaboration-reduce-copying.md) — related

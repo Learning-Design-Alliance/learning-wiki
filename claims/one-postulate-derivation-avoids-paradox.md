@@ -48,3 +48,4 @@ Analytical argument in the introduction: the author contends the one-postulate r
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](textbooks-fail-postulate-attribution.md) — a broader claim this one bears on
 - The principle of relativity enters Lorentz-transformation derivations through two distinct steps: round-trip identity and equivalence of v and −v — a narrower finding that bears on this claim
 - [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](conventional-relativity-introduction-damages-conceptual-hierarchy.md) — related
+- [Students can derive time dilation Δt = γΔτ ≥ Δτ and the lightspeed limit on coordinate velocity from the two-clock definitions without Lorentz transforms](time-dilation-without-lorentz-transforms.md) — related

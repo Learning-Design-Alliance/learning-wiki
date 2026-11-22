@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant Stimulus Type × Group interaction on processing time, with novel-stimulus increases of +3.05 s (Reversed), +2.53 s (Traditional), and +0.83 s (Control); no effect size is printed for the interaction contrast. [→ Kucinkas 2025](#kucinkas-2025)

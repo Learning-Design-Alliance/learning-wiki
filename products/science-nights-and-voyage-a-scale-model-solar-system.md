@@ -28,4 +28,4 @@ National Air and Space Museum family and community science-outreach programmes t
 -
 
 ## Key Sources
-- Smith, Howard A. (2000). Challenges in Affecting US Attitudes Towards Space Science. COSPAR 2000, Warsaw. https://www.cfa.harvard.edu
+- Smith, Howard A. (2000). Challenges in Affecting US Attitudes Towards Space Science. COSPAR 2000, Warsaw. https://www.cfa.harvard.edu. [doi:10.48550/arxiv.physics/0008224](https://doi.org/10.48550/arxiv.physics/0008224)

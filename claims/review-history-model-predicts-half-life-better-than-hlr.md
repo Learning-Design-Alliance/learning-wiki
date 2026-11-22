@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: ye-et-al-2022
     resource: "https://doi.org/10.1145/3534678.3539081"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=220 million review logs from 828 thousand app users
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 This bears on what an adaptive review scheduler should keep about each item: the order of past successes and failures and the gaps between reviews, not only how many of each there were. Half-life here is the delay at which the predicted chance of recalling an item falls to one half.
 

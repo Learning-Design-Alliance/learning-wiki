@@ -62,3 +62,4 @@ The paper reports AP exam statistics: girls were 23 percent and underrepresented
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](after-school-stem-programs-evened-ratios.md) — related
 - [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — related
+- [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](gender-gap-narrowed-but-persists.md) — related

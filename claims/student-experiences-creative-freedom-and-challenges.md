@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In follow-up interviews, students expressed appreciation for the creative freedom and non-linear nature of the project. [→ Tor Ole B. Odden and John Burk 2020 (2)](#tor-ole-b-odden-and-john-burk-2020-2)

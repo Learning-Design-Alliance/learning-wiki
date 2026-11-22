@@ -50,3 +50,4 @@ Focus group interview findings for the PBL design. Students highlighted "the tri
 - [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [Working with a friend predicts comfort but does not affect post-test performance](friend-in-group-predicts-comfort-not-performance.md) — related
+- [A teacher-built red thread can be experienced by students as a security line to cling to rather than an integration guide](red-thread-experienced-as-security-line.md) — related

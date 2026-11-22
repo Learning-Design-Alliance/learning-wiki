@@ -49,3 +49,4 @@ Descriptive analysis of national teacher workforce figures reported in the artic
 - [Non-specialist teaching at Alagoas secondary schools is highly subject specific: maths and biology are taught predominantly by specialists while physics is affected particularly strongly](subject-specific-non-specialist-teaching-alagoas.md) — related
 - [More than half of physics class registrations in Alagoas secondary schools refer to teachers without a degree in any natural science, while biology is least affected](majority-physics-classes-non-scientists-alagoas.md) — related
 - [In 2011 more mathematicians than physicists were teaching physics in Alagoas secondary schools](mathematicians-outnumber-physicists-teaching-physics.md) — related
+- [Most US high school physics teachers are the only physics teacher in their school yet remain highly motivated to teach physics](lone-physics-teachers-strong-motivation.md) — related

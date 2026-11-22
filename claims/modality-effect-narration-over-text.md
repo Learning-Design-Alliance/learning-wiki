@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r3`, 1 causal `r?`, 1 review `r2` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 

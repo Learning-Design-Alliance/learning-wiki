@@ -91,3 +91,4 @@ Graph-grading across the groups; among the junior physics/astronomy majors in Gr
 - [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
 - [Students cannot reason with graphs, missing physical implications such as the rolling condition v = rω](graphical-reasoning-difficulty.md) — related
+- [Symmetry-based kinematic problems are particularly useful for stimulating students' reasoning on richer physical situations such as central force motion](symmetry-problems-stimulate-reasoning-richer-situations.md) — related

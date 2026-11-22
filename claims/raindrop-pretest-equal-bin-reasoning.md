@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2006
+source_checked: 2026-11-22
 recheck_by: 2011
 sources:
   - id: michael-c-wittmann-2006
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
+> **Currency** · newest study 2006 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 42 students on the raindrop pretest, one third answered correctly, 15 of 42 said each region was equally likely, and 8 of 42 cited starting or ending points as most likely. [→ Michael C. Wittmann 2006](#michael-c-wittmann-2006)

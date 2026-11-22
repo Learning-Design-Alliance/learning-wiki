@@ -50,3 +50,4 @@ A blackboard coherence scenario (Figure 6) and student statements such as treati
 - [When sketching tunnelling wave functions, students show an axis shift, treating the height of the oscillation axis as indicating particle energy](axis-shift-wave-function-sketches.md) — related
 - [Think-aloud interviews reveal students modifying the problem to fit their diagram and failing to use knowledge they possessed when drawing diagrams of standing waves](diagram-difficulties-standing-waves-interviews.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
+- [Traditional teaching resources cannot show the space-time visualization wave motion requires](traditional-resources-insufficient-wave-space-time.md) — related

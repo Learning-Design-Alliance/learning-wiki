@@ -84,3 +84,4 @@ RQ3 theme on bridging virtual and real-world practice. Repeated virtual practice
 - [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related
 - [About half of students said the lab let them explore physics phenomena studied at school, and two thirds rated its capacity to engage students as good](lab-helped-explore-school-physics.md) — related
 - [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related
+- [WWSL enables students to study effects unobservable in traditional labs, including phenomena requiring simultaneous tests at different geographical points](wwsl-network-studies-unobservable-effects.md) — a narrower finding that bears on this claim

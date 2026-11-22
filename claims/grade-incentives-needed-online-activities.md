@@ -51,3 +51,4 @@ Interview and survey accounts of fall 2020 flipped and asynchronous physics clas
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — reports the opposite
 - [Students do not effectively use self-paced digital tools without grade incentives and support, whether in flipped courses or optional self-study tutorials](student-engagement-needs-incentives-support.md) — possibly the same claim (merge candidate)
+- [Passive high-school study habits such as cramming and attending class without active engagement are inadequate for learning college Physics](passive-learning-extension-of-high-school-fantasy.md) — related

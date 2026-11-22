@@ -60,3 +60,4 @@ In its current-state section the report states that "The lack of diversity in co
 - [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](after-school-stem-programs-evened-ratios.md) — related
 - [Studies find team progress is optimal under superdiversity, where teams are not dominated by a single gender or by one or two national identities](superdiversity-optimal-team-progress.md) — related
 - [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related
+- [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](gender-gap-narrowed-but-persists.md) — related

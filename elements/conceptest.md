@@ -95,6 +95,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](../strategies/clicker-mqs-peer-discussion-implementation.md)
 - [Use multiple-choice review questions constructed to guarantee every student engages with a known durable misconception](../strategies/multiple-choice-misconception-exposure-strategy.md)
 - [Peer instruction with Concept Questions to surface and resolve conceptual confusions](../strategies/peer-instruction-concept-questions.md)
+- [Archive clicker ConcepTest data across semesters to refine and build a core set of effective questions](../strategies/clicker-data-archiving-refine-conceptests.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

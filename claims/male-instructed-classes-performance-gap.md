@@ -61,3 +61,4 @@ Registrar final course grades for 31 classes (1949 students), ACT-adjusted via t
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
 - [In algebra-based E&M, the only significant gender difference was on the first exam, with male students averaging higher and a weak effect size](algebra-em-first-exam-male-higher.md) — related
 - [Female students achieved slightly but not significantly higher average grades than male students in all three physics courses](female-students-slightly-higher-physics-grades.md) — reports the opposite
+- [Recitation instructors grading to a stated common standard nonetheless produce widely divergent average recitation grades](instructor-grading-standards-diverge-recitation-grades.md) — related

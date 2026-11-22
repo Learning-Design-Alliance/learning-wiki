@@ -56,3 +56,4 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [Hidden Markov model of individual training curves shows task-specific improvement plateaued on average on the third day of training](hmm-transition-day-three.md) — related
 - [Drift rate increases as a continuous exponential function of cumulative trial number across four days of perceptual training](drift-rate-continuous-exponential-cumulative-trials.md) — related
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
+- [The power-law recall function better approximates the log-normal-derived recall function than the logarithmic form](power-law-recall-function-preferred.md) — related

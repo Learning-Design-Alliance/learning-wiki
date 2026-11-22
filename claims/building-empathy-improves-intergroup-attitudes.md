@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Empathy-building activities — such as perspective-taking exercises, empathic role-play, and narrative engagement with outgroup members' experiences — improve learners' attitudes toward members of other social groups.
 

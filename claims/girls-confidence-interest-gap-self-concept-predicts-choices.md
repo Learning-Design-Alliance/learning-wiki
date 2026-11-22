@@ -174,3 +174,5 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Physics Olympiad participants differ most strongly from non-participants (|d| ≥ 1.0) in STEM-related skills, physics-specific motivational-affective variables, and physics and mathematics self-concept](descriptive-group-differences-olympiad-participants.md) — related
 - [Inclusive-culture reforms coincided with shifts in physics enrollment, retention, and female participation](inclusive-culture-female-enrollment-shift.md) — a narrower finding that bears on this claim
 - [Self-efficacy declines for both genders over the first CEGEP semester, with males consistently more confident than females](self-efficacy-declines-first-semester-gender-gap.md) — a narrower finding that bears on this claim
+- [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](confidence-gap-adolescence-girls.md) — related
+- [The GIST study concluded that girls' underachievement in science stemmed from choosing not to study science rather than lacking opportunity](gist-choosing-not-opportunity.md) — related

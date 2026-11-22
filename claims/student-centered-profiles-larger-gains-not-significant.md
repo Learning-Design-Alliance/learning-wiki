@@ -48,3 +48,4 @@ Preliminary analysis assigning each course to the profile of at least two of its
 - [Latent Profile Analysis of classroom observations identifies four instructional profiles — Lecture, Clickers, Worksheets, and Other Groupwork — distributed differently within and across the four methods](four-latent-profiles-classroom-activities.md) — related
 - [SCALE-UP courses show significantly larger conceptual learning gains than Peer Instruction or ISLE courses](scale-up-larger-gains-than-peer-instruction-isle.md) — related
 - [Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect](worksheets-clear-effect-clickers-weak.md) — related
+- [Clickers add no significant conceptual-learning or problem-solving benefit over flashcards within Peer Instruction](clickers-no-added-learning-benefit-over-flashcards.md) — related

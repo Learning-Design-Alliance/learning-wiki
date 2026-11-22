@@ -72,3 +72,4 @@ Self-report survey (Table 1, n = 162) asking three preparation questions, groupe
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related
 - [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](lectures-useful-when-students-prepared.md) — related
+- [Passive high-school study habits such as cramming and attending class without active engagement are inadequate for learning college Physics](passive-learning-extension-of-high-school-fantasy.md) — related

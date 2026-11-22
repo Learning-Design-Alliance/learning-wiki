@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 review `r?` · `q2` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Presenting the same content in more than one representational format (e.g., verbal and visual, or concrete and abstract) can support learning by giving learners complementary routes into the material. The benefit depends on the representations being relevant, well-coordinated, and manageable within working memory.
 
@@ -146,3 +146,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Completing supplemental math material 1 (vectors) is associated with better exam performance, and the association grows with the material's relevance to exam content](vectors-material-completion-better-exam-performance.md) — related
 - [A mid-performing student independently combined two separate textbook visual representations of sound and reproduced them without prompt](student-combined-textbook-sound-representations.md) — a narrower finding that bears on this claim
 - [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — a narrower finding that bears on this claim
+- [Simultaneous multiple representations in educational technologies are associated with improved conceptual understanding](multiple-representations-improve-conceptual-understanding.md) — a broader claim this one bears on

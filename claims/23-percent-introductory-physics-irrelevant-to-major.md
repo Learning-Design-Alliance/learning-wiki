@@ -95,3 +95,5 @@ Post-test feedback survey responses across six semesters of a single instructor'
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — reports the opposite
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
 - [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related
+- [Course goals for algebra-based physics should differ from those of other physics courses](algebra-based-course-goals-differ.md) — related
+- [Algebra-based physics students differ from calculus-based physics students in needs, motivation, and background](algebra-based-student-population-characteristics.md) — related

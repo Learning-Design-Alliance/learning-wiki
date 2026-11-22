@@ -54,3 +54,4 @@ The article summarises psychology research within Cognitive Load Theory as repor
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Adherence to the Redundancy and Spatial Contiguity principles shows small negative effects on quiz performance in this physics seminar context](redundancy-spatial-contiguity-negative-effects.md) — a narrower finding that bears on this claim
+- [Simultaneous multiple representations in educational technologies are associated with improved conceptual understanding](multiple-representations-improve-conceptual-understanding.md) — related

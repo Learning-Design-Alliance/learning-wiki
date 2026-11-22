@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (21 for, 15 mixed) · 39 studies (16 causal, 6 theoretical, 5 quant-synthesis, 5 review, 5 associational, 2 qualitative), `q1`–`q4` · 9 of 39 report an effect size · 30 claims rest on one study
+> **Evidence** · 38 claims (21 for, 17 mixed) · 40 studies (17 causal, 6 theoretical, 5 quant-synthesis, 5 review, 5 associational, 2 qualitative), `q1`–`q4` · 9 of 40 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +109,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Student performance rose from pre-test to post-test after implementing the quantum measurement MQS with peer instruction, in one group with no comparison group; questions 2b, 4b, and 4c showed major pre-test-to-post-test changes](../claims/mqs-improves-quantum-measurement-posttest.md) [+W] — attached 2026-11-21 from Yangqiuting Li et al. (2024), which proposed "Carefully sequenced multiple-choice question sequence with peer instruction, built from common student difficulties"; tests this page's relationship.
 - [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](../claims/formative-assessment-informs-low-stakes-a2l.md) [+W] — attached 2026-11-22 from Dufresne et al. (2000), which proposed "Question cycle: a lesson structure of six phases built around formative assessment items".
 - [Once students commit to and externalize an answer, they become emotionally invested and pay far more attention to subsequent discussion](../claims/ccs-answer-commitment-boosts-attention.md) [+W] — attached 2026-11-22 from Ian Beatty (2004), which proposed "Designing CCS questions around pedagogic goals, ambiguity, and divisive answer distributions"; tests this page's relationship.
+- [Clickers add no significant conceptual-learning or problem-solving benefit over flashcards within Peer Instruction](../claims/clickers-no-added-learning-benefit-over-flashcards.md) [~W] — attached 2026-11-22 from N. Lasry (2004), which proposed "Implement Peer Instruction with low-budget flashcards when clicker costs are prohibitive, because the pedagogy is effective regardless of response modality".
+- [Clicker and flashcard groups did not differ significantly in FCI score at the start or end of the semester](../claims/clicker-flashcard-fci-pre-post-no-difference.md) [~W] — attached 2026-11-22 from N. Lasry (2004), which proposed "Implement Peer Instruction with low-budget flashcards when clicker costs are prohibitive, because the pedagogy is effective regardless of response modality".
 
 ## Illustrative design instance and observation record
 

@@ -46,3 +46,4 @@ Conclusion drawn from the overall study of seven urban educators conducting acti
 
 ## Related Claims
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
+- [Students in categories A–C locate authority for knowledge outside themselves while students in D–F take responsibility themselves, a difference the authors relate to deep and surface approaches](authority-perception-linked-to-deep-surface-approaches.md) — related
