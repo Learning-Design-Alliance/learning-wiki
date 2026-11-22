@@ -50,3 +50,4 @@ Part of the same frequency-count categorisation of 122 requests in the post-expe
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md)
 - [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](procedural-visualization-execution-decays-faster.md)
 - [CSCL designers tend to leave gaps between the technical and social design of learning environments](cscl-designers-gaps-technical-social-design.md) — related
+- [The fraction of physics-principles resources requested increases significantly in problems 3, 4, and 5](principles-resources-fraction-increases-later-problems.md) — related

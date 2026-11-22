@@ -47,6 +47,7 @@ The review recommends diversifying anatomy assessment by combining test categori
 
 - [Combine HOCS clicker questions with other critical-thinking techniques rather than relying on them alone](combine-hocs-clickers-with-critical-thinking-techniques.md)
 - [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
+- [Shift exams from almost 100% multiple-choice to a 50% MC / 50% open-ended mix to diversify reasoning structure](fifty-fifty-mc-oe-exam-mix-strategy.md)
 
 ## Examples
 -

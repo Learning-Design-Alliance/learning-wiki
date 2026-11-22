@@ -70,3 +70,4 @@ In robust regression models for GP psychosocial skills, GP suitability and OSCE 
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
 - [Sociodemographic variables explain only 0.6% of variance in MMI station performance, which the authors consider marginal and not indicative of meaningful bias](mmi-subgroup-differences-tiny-variance-explained.md) — related
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related
+- [Females used more misconceptions than males in DIRECT interviews, and males outperformed females on the test](direct-gender-misconception-differences.md) — related

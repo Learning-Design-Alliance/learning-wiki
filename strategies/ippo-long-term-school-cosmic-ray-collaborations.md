@@ -41,7 +41,8 @@ Beyond one-off events, the article describes sustained models in which schools a
 - Sustained engagement with astroparticle physics
 
 ## Related Strategies
-- 
+
+- [Mount a continuously counting cosmic-ray detector on the classroom wall to raise interest in physics among students and visitors](wall-mounted-muon-telescope-interest.md)
 
 ## Examples
 -

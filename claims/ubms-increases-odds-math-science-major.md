@@ -50,3 +50,4 @@ Interim impact analysis from the national UBMS evaluation using survey and trans
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md) — related
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
+- [School-college science enrichment programs such as Science-Magnet and Science-Olympiad are estimated to raise the ratio of science majors by 10-20%](science-enrichment-programs-10-20-percent-science-majors.md) — related

@@ -51,3 +51,5 @@ The article reports ROSE (Relevance in Science Education) findings that "astrono
 - [About 50,000 people in Europe saw live Planeterrella demonstrations of auroral formation within five years, via nine Planeterrellas in four countries](planeterrella-50000-viewers-five-years.md) — related
 - [Brazilian students' most-voted science topics include high-energy and particle physics, motivating its inclusion in high school](rose-survey-student-interest-particle-physics.md) — related
 - [For young people, the internet, specifically YouTube, is the major source of learning astronomy content in India](youtube-major-source-astronomy-learning-young-indians.md) — related
+- [Astronomy's inherent interest keeps young people engaged in science while they learn fundamentals of mathematics, statistics, physics and chemistry](astronomy-inherent-interest-retains-science-students.md) — a broader claim this one bears on
+- [The attentive public is also the most knowledgeable across science topics, linking attentiveness, interest and knowledge](attentive-public-most-knowledgeable-link.md) — related

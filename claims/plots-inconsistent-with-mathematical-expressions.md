@@ -54,3 +54,4 @@ Interview study in which three students solved a Gauss’s law problem requiring
 - [Students trusted mathematically derived expressions when writing them down but plotted the qualitatively expected behavior](trust-math-expression-plot-qualitative-behavior.md) — related
 - [A majority of introductory physics students drew electric-field graphs inconsistent with their own mathematical expressions in all regions in preliminary research](preliminary-majority-graphs-inconsistent-with-expressions.md) — possibly the same claim (merge candidate)
 - [Difficulty 1 (global plotting assuming continuity) is far more common than difficulty 2 (plotting expected qualitative behavior)](global-plotting-more-common-than-qualitative-plotting.md) — related
+- [A survey of physical electronics textbooks finds most neglect the electric field in the neutral regions and give no satisfactory treatment of majority-carrier drift](textbook-survey-neutral-field-neglected.md) — related

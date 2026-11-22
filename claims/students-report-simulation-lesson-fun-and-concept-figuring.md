@@ -200,3 +200,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related
 - [Students in a pilot quantum engineering course perceived the project-based assignment as beneficial for engagement, confidence, scientific communication, and research readiness](quantum-pbl-survey-strong-skill-gains.md) — related
 - [Students in both pilots singled out interactive real-time waveform plotting and parameter exploration as the components most responsible for building understanding and computational comfort](gw-explorer-visualization-driven-learning.md) — related
+- [First-year students reported learning about relativity and increased interest from the Real Time Relativity simulation laboratory](rtr-students-reported-learning-and-interest.md) — related

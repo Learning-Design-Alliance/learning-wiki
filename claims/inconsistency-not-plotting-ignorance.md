@@ -72,3 +72,4 @@ The authors’ interpretation of the interview data: ‘the physics context in w
 - [A majority of introductory physics students drew electric-field graphs inconsistent with their own mathematical expressions in all regions in preliminary research](preliminary-majority-graphs-inconsistent-with-expressions.md) — related
 - [For some students, finding an expression for the electric field triggered use of the mathematical form of Gauss’s law while plotting the field triggered qualitative reasoning](expression-task-triggers-mathematical-gauss-law-plot-triggers-qualitative.md) — related
 - [Whether student groups identified the hidden variable depended on how they plotted the data](plot-type-moderates-hidden-variable-identification.md) — related
+- [Only some interviewed students could be characterised as having formed a physics knowledge object; for the majority this was far from true](majority-students-no-physics-knowledge-object.md) — related

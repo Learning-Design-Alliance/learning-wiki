@@ -80,3 +80,4 @@ Some faculty listed measurement as among the most important concepts while sever
 - [Third-year students provided definitions more aligned with contemporary physics than other grades](lower-grade-students-contemporary-physics-definitions.md) — related
 - [Meeting consensus holds that skills, not content coverage, are the fundamental learning goals of introductory astronomy courses](skills-fundamental-goals-astro101-consensus.md) — related
 - [Sensing-related keyword coverage varies significantly across modern physics, quantum mechanics, and quantum computing textbooks in content and depth](textbook-sensing-coverage-varies-by-subject.md) — related
+- [The habits of successful mathematics and physics students are rarely taught to freshmen, who would benefit most](habits-rarely-taught-to-freshmen.md) — related

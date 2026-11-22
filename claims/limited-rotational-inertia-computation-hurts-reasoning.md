@@ -51,3 +51,4 @@ The article reports, citing Rimoldini and Singh's study of rotational dynamics c
 - [Students readily perform a wrong surface-element computation that still yields the correct moment of inertia, illustrating why verification must be taught explicitly](wrong-surface-element-right-answer-cone-example.md) — related
 - [Only about a third of first-year engineering students correctly compute moment of inertia in a two-ball system, and around a quarter give reductionist single-variable explanations](moment-of-inertia-first-year-categories.md) — related
 - [91% of UK undergraduate physics entrants have not previously seen advanced rotational motion concepts such as moment of inertia](91-percent-rotational-motion-gap.md) — related
+- [No interviewed student could correctly compare the two rotating wheels' plots without hints; about 20% claimed nothing would differ, and hints enabled about 80% to reason correctly](rotating-wheels-comparison-hints-needed.md) — related

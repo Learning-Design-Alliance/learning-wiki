@@ -49,6 +49,7 @@ The article recommends grounding learning-goal development for content-specific 
 ## Related Strategies
 
 - [Build a project-based computational physics course grounded in expert practice, culminating in a student-chosen final project](expert-grounded-project-based-cp-course.md)
+- [Use faculty interviews to set learning goals and tailor content to the actual student population in upper-division courses](faculty-interviews-set-upper-division-goals.md)
 
 ## Examples
 -

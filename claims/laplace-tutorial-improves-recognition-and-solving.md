@@ -54,3 +54,4 @@ Think-aloud interview study of 13 advanced students (graduate and undergraduate)
 - [Scaffolded tests that break problems into sub-problems showed smaller learning gains than unscaffolded tests, suggesting scaffolding in assessment can obscure evidence of learning from a tutorial](scaffolded-tests-obscure-learning-evidence.md) — related
 - [Students struggle to distinguish the excluded region from the region of interest, and tutorial scaffolding improved this understanding](excluded-region-difficulty-tutorial-support.md) — related
 - [Pretest-to-posttest performance differences after the inquiry-based tutorial reflect learning beyond traditional lecture alone](pretest-posttest-gains-moi-tutorial.md) — possibly the same claim (merge candidate)
+- [Inquiry-based instruction designed around individual student interests is the most effective approach to science learning](inquiry-based-instruction-most-effective.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Intrinsic gain analysis comparing pre-test and post-test percentages of correct 
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](blackboard-blended-teaching-achievement-eta-075.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related
 - [A median class normalized gain of 0.25 is adopted as the holistic threshold of an effective course, following Hake (1998)](median-normalized-gain-025-effective-course-threshold.md) — related
+- [Score-based pre-post gain analysis blends distinct learning issues and limits instructional diagnosis](score-based-gain-limits-diagnosis.md) — related

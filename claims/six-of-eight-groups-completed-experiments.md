@@ -49,3 +49,4 @@ Instructor observation during two 3-hour lab sessions with 38 students in 8 grou
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
 - [Perceived difficulty of designing a laboratory manual remained unchanged after the AI-supported project](ai-lab-manual-design-difficulty-unchanged.md) — related
 - [All participants completed both simulator modules successfully without malfunctions](simulator-feasibility-no-malfunctions.md) — related
+- [Students criticised the laboratory manual as too prescriptive and the simulation controls as difficult to use](rtr-manual-and-controls-criticisms.md) — related

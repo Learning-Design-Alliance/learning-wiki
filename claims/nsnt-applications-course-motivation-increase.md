@@ -48,3 +48,5 @@ Descriptive survey results from the Spring 2016 and Spring 2017 Engineering Appl
 - [Students in the introductory NSNT courses showed no significant decrease from beginning to end of course in plans to engage in nanotechnology-related activities](nsnt-intro-course-no-motivation-decrease.md) — related
 - [Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning](case-studies-improve-confidence-applied-geoscience-examples.md) — related
 - [Students showed increased confidence in expressing opinions and discussing what they learned by the end of the workshop](increased-confidence-after-particle-dance.md) — related
+- Students' self-reported comfort with four nanotechnology-related topics increased from pre to post assessment — related
+- The course's pre and post assessment surveyed comfort with four topics spanning nanoscience, other science and engineering fields, and science-and-society issues — related

@@ -66,3 +66,4 @@ A second written-response category: "26% of the TAs claimed that advanced studen
 ## Related Claims
 - [Forty percent of TAs would grade advanced students on explication of concepts but intro students on correct formulas, mathematical steps and the final answer](forty-percent-grade-concepts-qm-equations-intro.md) — related
 - [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — a broader claim this one bears on
+- [Classroom polls show students voluntarily form groups supporting rival QM interpretations, and group debate evidences the concepts they have assimilated](students-self-group-by-qm-interpretation.md) — related

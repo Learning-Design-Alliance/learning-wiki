@@ -67,3 +67,4 @@ Same written survey (18 TAs) on collaboration frequency in the TAPD course. The 
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Two thirds of participants wanted additional book clubs during residency, but fewer than half planned to read another professional development book within 12 months](book-club-future-intentions.md) — related
+- [Few PFP participants feel education is valued by the physics research community, yet most plan to incorporate PER results in their teaching](pfp-per-incorporation-intentions.md) — related

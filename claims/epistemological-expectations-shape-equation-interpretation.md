@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-22
 sources:
   - id: edward-f-redish-2021
     resource: "https://doi.org/10.1119/5.0021129"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When asked the most important equation learned in Newtonian mechanics, students most often named a kinematic formula, revealing equations seen as calculational tools rather than conceptual organizers. [→ Edward F. Redish 2021](#edward-f-redish-2021)
@@ -50,3 +51,4 @@ Instructor anecdote from a final-exam essay question in algebra-based physics: s
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — a broader claim this one bears on
 - [Student expectations about learning biology can be dynamic and shift within a single course in response to specific activities](student-expectations-dynamic-shift.md) — related
 - [Students in open-ended experiments treat the professor as the primary epistemological authority](professor-as-epistemological-authority-open-ended.md) — related
+- [Traditional physics instruction overemphasizes algorithmic math processing and neglects interpretation and evaluation steps](traditional-instruction-neglects-interpret-evaluate-steps.md) — related

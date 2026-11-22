@@ -50,3 +50,4 @@ Think-aloud interviews with 11 TAs (four of whom had done the quantitative task 
 - [TAs found the CSEM-related PCK task challenging but reported it was worthwhile for learning to think from students' perspective](tas-found-pck-task-challenging-but-worthwhile.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — related
 - [Physics TAs often expected incorrect answer choices to be common among introductory students when those choices were in fact not common](tas-misidentify-common-incorrect-answers-csem.md) — a narrower finding that bears on this claim
+- [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](formative-assessment-informs-low-stakes-a2l.md) — related

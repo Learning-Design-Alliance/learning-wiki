@@ -74,3 +74,4 @@ Same Question 1 analysis; the author judges the relatively common answer about p
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
 - [Dewey's analysis of the second BCI question revealed misconceptions about gene dosage, dominance in homozygous organisms, and the functional roles of genes.](dewey-gene-deletion-analysis.md) — related
 - [Students self-report improved understanding of position-velocity-acceleration relationships after the smartphone activity](smartphone-activity-self-reported-understanding-gains.md) — related
+- [The battery as a constant current source is the misconception students used most often, and different questions cue different misconceptions tied to the question's global objective](battery-constant-current-source-dominant-misconception.md) — related

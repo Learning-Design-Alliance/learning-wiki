@@ -52,3 +52,4 @@ Middle school NIAQ responses on size and distance items, before and after instru
 - [Preservice teachers largely lack correct explanations for astronomical elements of everyday language, such as shooting stars and the lucero (Venus)](daily-language-astronomy-questions-results.md) — related
 - [Widespread ideas opposing the scientific view persist among secondary students across all cohorts, including that there are hundreds of stars in our solar system and that stars are permanent objects](widespread-ideas-opposing-scientific-views-stars.md) — related
 - [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related
+- [The authors recommend that cosmology should be the last subject within an astrophysics unit, taught bottom-up in scale from Earth-bound phenomena to the Universe](cosmology-last-within-astrophysics-unit.md) — related

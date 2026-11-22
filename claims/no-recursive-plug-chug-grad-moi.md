@@ -49,3 +49,4 @@ Qualitative analysis of graduate-student interview episodes on MoI problems, map
 - [Performance-oriented lab groups heavily use the Recursive Plug and Chug and Mapping Math to Meaning epistemic games, typifying a novice-like problem-solving approach](performance-groups-recursive-plug-and-chug-games.md) — reports the opposite
 - [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](nested-epistemic-games-laplace-sensemaking.md) — related
 - [Graduate students’ intuitive knowledge during Laplace’s equation sensemaking often came from patterns internalized from previous formal learning rather than everyday experiences](graduate-intuitive-knowledge-formal-learning-patterns.md) — related
+- [Video study of student groups identified six commonly used epistemic games in algebra-based physics problem solving](six-epistemic-games-identified-in-video-study.md) — related

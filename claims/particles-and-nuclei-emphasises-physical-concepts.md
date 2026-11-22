@@ -48,3 +48,4 @@ Textual analysis of the textbook's Preface and content. The author judges the on
 - [The NKLM Scholar role emphasises research and teaching while clinical application is comparatively less prominent than in international frameworks](nklm-scholar-role-emphasises-research-teaching.md) — related
 - [Quaternions are historically significant for physics and mathematically accessible, supporting their didactic value, yet are largely ignored in current university physics textbooks](quaternions-significance-versus-textbook-neglect.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
+- [The discovery story of natural nuclear reactors offers lessons about scientific inquiry and scientific discovery](natural-reactor-discovery-inquiry-lessons.md) — related

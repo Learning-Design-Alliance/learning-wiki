@@ -51,3 +51,4 @@ Main questionnaire item asking students to compare their likelihood of respondin
 - [Around 80% of engineering students found EVS handsets useful or very useful for their Mathematics learning](evs-students-rate-handsets-useful.md) — related
 - [Response cards improve academic achievement and student responding compared with traditional hand raising](response-cards-improve-outcomes-vs-hand-raising.md) — related
 - [Hiding residents' answers until all had responded encouraged participation by all residents, in contrast to traditional lectures where only one or two students respond](hidden-answers-encourage-all-participation.md) — related
+- [Classroom response systems, employed wisely, can transform one-way lectures into dynamic discussions even in very large classes](classroom-response-systems-transform-lecture.md) — related

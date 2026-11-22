@@ -68,3 +68,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
 - [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related
 - [The ACI's KR-20 fell below the desired range, indicating the concepts tested are highly independent, so the inventory does not meet the internal validity criterion for measuring a single construct](aci-kr20-below-range-single-construct.md) — related
+- [Both versions of DIRECT are reliable and valid for assessing DC circuit conceptual understanding](direct-reliable-and-valid.md) — related

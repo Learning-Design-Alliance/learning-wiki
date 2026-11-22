@@ -49,6 +49,7 @@ The discussion identifies a design contributor to extraneous load: prompts chang
 - [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
 - [Future pacing design should explore pausing at key moments rather than evenly slowing visuals](pacing-design-pause-at-key-moments-strategy.md)
 - [Keep instructional prompts concise and position instructions adjacent to the work to reduce Extraneous Load in assembly training](concise-proximal-instructions-assembly-training.md)
+- [Use a completely modal programming style in applet class libraries to minimize instructor programming effort](modal-style-applet-library-strategy.md)
 
 ## Examples
 -

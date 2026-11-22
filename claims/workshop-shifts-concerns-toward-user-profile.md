@@ -74,3 +74,4 @@ Figures 8a and 8b separate the ten users and ten nonusers with complete data who
 - [Faculty workshop participants agreed the educational focus should shift toward higher-level skills, naming abstraction, verification, and taking responsibility for systems](faculty-shift-to-abstraction-verification-responsibility.md) — related
 - [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related
 - [Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies](management-concerns-never-predominated-scis.md) — related
+- [Course participants shifted toward constructivist conceptions of teaching and reported improved teaching ability](tlp-teaching-conceptions-shift.md) — related

@@ -45,6 +45,7 @@ Because modern astronomers rely heavily on programming and computation, and beca
 ## Related Strategies
 
 - [Endorse a shared set of recommended course requirements so the degree communicates common knowledge and skills](endorse-shared-course-requirements-astro.md)
+- [Package existing physics electives into named emphasis programs (business, astronomy, computational physics, optics) to attract majors](physics-emphasis-packaging-strategy.md)
 
 ## Examples
 -

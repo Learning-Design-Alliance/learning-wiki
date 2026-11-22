@@ -47,3 +47,4 @@ The article attributes this to prior studies of PAR in introductory calculus (it
 ## Related Claims
 - [Instructor response to student input is the linchpin of the formative assessment cycle, yet is often not documented or consistently performed](instructor-response-linchpin-formative-assessment.md) — related
 - [Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required](structure-and-layout-required-for-ai-grading.md) — related
+- [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](formative-assessment-informs-low-stakes-a2l.md) — related

@@ -84,3 +84,5 @@ Authors' theoretical interpretation in the discussion, drawn from the finding th
 - [Adults around the globe hold naive conceptions about the viscous behavior of fluids, consistent with those found in prior qualitative research with children and students](adults-globally-hold-naive-conceptions-viscous-behavior.md) — a narrower finding that bears on this claim
 - [Learners judge field strength by the number of vectors drawn per spatial area, and this density misconception persists after instruction explicitly addressing it](density-misconception-persists-post-test.md) — a narrower finding that bears on this claim
 - [Physics PhD as training in methods for studying complex systems, including AI itself](phd-as-complex-systems-training.md) — related
+- [Teaching a Newtonian framework as unproblematic makes subsequent learning of 20th-century relativistic ideas extremely difficult](newtonian-framework-hinders-later-modern-physics-learning.md) — a narrower finding that bears on this claim
+- [Peer interaction can produce regression in understanding, as one student adopted a more naive current-flow model from a classmate](peer-transmission-naive-model.md) — related

@@ -51,6 +51,7 @@ This strategy addresses the crucial step learners struggle with: recoding a sema
 
 - [Schema-Based Instruction](schema-based-instruction.md)
 - [Productive Failure](productive-failure.md)
+- [Design problems that require modeling, interpretation, and evaluation rather than one-step algorithmic processing](modeling-interpretation-problems-math-in-physics.md)
 
 ## Examples
 -

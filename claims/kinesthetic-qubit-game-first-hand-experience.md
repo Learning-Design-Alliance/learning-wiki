@@ -54,3 +54,4 @@ Design proposal (type d/e) describing the core game: the class splits into qubit
 - [Hands-on QIST approaches are associated with deeper understanding and more rapid uptake of quantum concepts, based on self-reported skill gains at a 2020 remote global summer school](hands-on-qist-self-reported-skill-gains-summer-school.md) — related
 - [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related
 - [Playing Qubit Touchdown and learning its quantum-computing connections significantly increased high school students' self-confidence in their ability to learn quantum computing](qubit-touchdown-self-confidence-gains.md) — related
+- [Knowledge is not easily transferred; understanding must be discovered independently by each learner](knowledge-taught-understanding-discovered.md) — related

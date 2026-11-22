@@ -48,6 +48,7 @@ The article recommends that universities help students develop "a more accuratea
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 - [Integrate AI task literacy into CTE curricula now, ahead of employer adoption](integrate-ai-task-literacy-cte-curricula.md)
 - [Educators should expose students to accurate depictions of physics careers and underemphasized skills such as interdisciplinary communication and computational problem-solving](accurate-career-depictions-career-decision-strategy.md)
+- [Recommend career-centered IT curricula, cross-university co-teaching, and co-creating syllabi with students to improve IT learning outcomes and employability](career-centered-curricula-coteaching-and-student-codesign-strategy.md)
 
 ## Examples
 -

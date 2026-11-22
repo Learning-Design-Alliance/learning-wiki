@@ -65,3 +65,4 @@ Section IV efficiency analysis against well-honed prior lecture notes: "about 10
 
 ## Related Claims
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related
+- [CCS-based courses cover fewer topics than traditional courses, and their efficiency depends on whether learning or exposure is measured](ccs-topic-coverage-tradeoff.md) — reports the opposite

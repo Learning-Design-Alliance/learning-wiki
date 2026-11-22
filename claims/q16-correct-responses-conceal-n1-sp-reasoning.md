@@ -88,3 +88,4 @@ Pre-to-post comparison of Q16LS responses for correct Q16 responders; the improv
 - [Students correct on both car-truck questions with N3 alone in Q15LS often failed to select N3 alone in Q16LS, and Q16LS responses correlate with Q15 correctness](q16ls-q15ls-mismatch-longitudinal.md) — related
 - [The car-truck response patterns found at University A, including Q16LS attribution to N1 and SP, were replicated across five other English universities](universities-b-f-replicate-car-truck-patterns.md) — related
 - [Pre-test success on FCI Q15 and Q16 at University A was higher than in the early published FCI data](university-a-fci-q15-q16-higher-than-early-fci-data.md) — related
+- [Before instruction, most students answered an 11th-coin-toss question correctly, but many used ensemble expectations or the gambler's fallacy to predict the outcome](coin-toss-pretest-gambler-fallacy-responses.md) — related

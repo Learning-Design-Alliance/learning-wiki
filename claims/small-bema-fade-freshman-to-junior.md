@@ -50,3 +50,4 @@ Pretest study in two recent semesters of Phys 301 (before its transformation): m
 - [Upper-division students who had freshman Tutorials score about 15 points higher on the BEMA than comparable upper-division students without Tutorials](freshman-tutorials-persist-upper-division-bema.md) — related
 - [Hand-off of Tutorials from one PER faculty member to another sustains statistically indistinguishable student learning gains](per-to-per-handoff-sustains-gains.md) — related
 - [Individual students' BEMA scores show no significant change after either upper-division E&M course](upper-division-courses-no-bema-shift.md) — related
+- [Teaching and Learning Physics course students showed significant normalized conceptual gains on the BEMA, with larger gains for students in formalized teaching roles](tlp-course-bema-gains.md) — related

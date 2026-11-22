@@ -58,3 +58,4 @@ Survey of all first-year hybrid students (n = 15 eligible, 80% response rate) ad
 - [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
 - [Students in emergency remote physics courses rarely felt connected or engaged with classmates, and over half reported far fewer social connections than in face-to-face classes](remote-physics-reduced-social-connection.md) — related
 - [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — related
+- [Classroom response systems, employed wisely, can transform one-way lectures into dynamic discussions even in very large classes](classroom-response-systems-transform-lecture.md) — related

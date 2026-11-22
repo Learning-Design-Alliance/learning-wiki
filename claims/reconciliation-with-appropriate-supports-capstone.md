@@ -56,3 +56,4 @@ Briefly reported finding from a capstone essay question on an exam, whose full a
 - [Interviewed students spontaneously sought interdisciplinary coherence beyond course prompts, using physics to reconcile contradictions between chemistry and biology.](interview-students-spontaneous-interdisciplinary-coherence.md) — related
 - [Four perceived differences between physics and biology (systems, system behavior, measurements, role of mathematics) are reconcilable through modeling](perceived-disciplinary-differences-modeling.md) — related
 - [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related
+- [A student's epistemological wall between formal and everyday reasoning is associated with between-type reconciliation in only 13% of opportunities versus 46% within type](epistemology-wall-between-type-reconciliation.md) — related

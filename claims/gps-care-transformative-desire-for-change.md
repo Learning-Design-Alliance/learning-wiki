@@ -47,3 +47,4 @@ Qualitative thematic analysis (Theme 4) of student reflections and interviews af
 ## Related Claims
 - [Role-playing patients led students to reflect on the experiences of complex geriatric patients, including frustration when their perspectives were dismissed](gps-care-complex-patient-perspective-reflections.md) — related
 - [Role-playing geriatric patients navigating a fragmented care system increased preclinical medical students' understanding of integrated care](gps-care-role-play-increased-ic-understanding.md) — related
+- [Just-in-time education experiences are proposed to instill change-coping, socioethical forecasting and assessment abilities in leaders and citizens](jite-instills-leader-citizen-abilities.md) — related

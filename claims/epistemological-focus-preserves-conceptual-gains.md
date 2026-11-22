@@ -53,3 +53,5 @@ Pre-post conceptual testing across four offerings of the reformed first-semester
 - [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — related
 - [Students in the reformed Lecture/Studio IPLS course perform at least at the same level on the FCI as interactive-engagement classes teaching traditional content, so the biological focus did not reduce fundamental physics understanding](ipls-biological-focus-no-fci-decrease.md) — related
 - [Modern physics courses are predominantly lecture-based (74.9%) with low adoption of interactive pedagogical approaches](modern-physics-pedagogy-lecture-dominant-low-interactivity.md) — related
+- [IE and high-tech methods by themselves do not insure superior student learning](ie-and-high-tech-alone-insufficient.md) — a broader claim this one bears on
+- [In a sophomore mechanics course with little active learning, pre-instruction FMCE performance was weak and normalized gains were low](low-fmce-gains-advanced-mechanics-lecture-course.md) — related

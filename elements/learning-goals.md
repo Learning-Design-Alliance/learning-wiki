@@ -91,6 +91,7 @@ Well-specified goals improve achievement by directing learner attention to what 
 - **SMART goal framing in course syllabi** — stating goals that are specific, measurable, achievable, relevant, and time-bound so both instructor and learners can verify attainment
 - [Curated Material Selection](../strategies/curated_material_selection.md)
 - [Plan writing curriculum backward by starting with desired outcomes and assessment evidence](../strategies/start-with-end-assessment-writing-curriculum.md)
+- [Teacher pages with an e-Logbook for tracking, assessing and guiding student research teams](../strategies/elab-teacher-pages-elogbook-assessment.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

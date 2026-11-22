@@ -51,3 +51,4 @@ Narrative review argument citing behavioral and neuroscientific evidence that pr
 - [Curiosity and situational interest differ on five dimensions: theoretical account, biology, triggers, affect, and information search](curiosity-situational-interest-five-dimensions.md) — related
 - [The maze task included a re-solve phase in which participants solved the same maze forward or backward from finish to start](maze-resolve-forward-backward-phase.md)
 - [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](well-employed-conflicts-trigger-cognitive-change.md) — related
+- [Cognitive conflict — a situation that cannot be accounted for within existing preconceptions — is a process that triggers conceptual change](cognitive-conflict-triggers-conceptual-change.md) — related

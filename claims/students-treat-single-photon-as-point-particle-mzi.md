@@ -52,3 +52,4 @@ Pretest question 2 in upper-level undergraduate and Ph.D. quantum mechanics cour
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
 - [The Indian curriculum treats the structure of the atom with early, repeated, historically structured introduction while wave-particle duality is introduced late and abruptly](curriculum-treatment-soa-versus-domr.md) — related
 - [A majority of interviewed students found the structure of the atom easier to understand than wave-particle duality, citing historical context as helpful](students-find-soa-easier-than-domr.md) — related
+- [Many secondary school students hold a deterministic view of light, associating particle paths with light particles](students-deterministic-light-conceptions.md) — related

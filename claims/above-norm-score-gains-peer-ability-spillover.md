@@ -115,3 +115,4 @@ Regression models on the population of ninth-grade students in 55 Chicago school
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students](pre-policy-composition-test-scores-failure-opposite.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
+- [Peer interaction can produce regression in understanding, as one student adopted a more naive current-flow model from a classmate](peer-transmission-naive-model.md) — related

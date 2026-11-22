@@ -49,3 +49,4 @@ This is the authors' interpretive explanation (type e) offered in the discussion
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
+- [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — related

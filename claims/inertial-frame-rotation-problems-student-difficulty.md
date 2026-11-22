@@ -56,3 +56,4 @@ The author, drawing on years of teaching an intermediate mechanics class with ph
 - [In an initial test before the intervention, most secondary students answered questions on inertial frames correctly except one on gravity in inertial reference frames (17% correct)](initial-test-inertial-frame-gravity-confusion.md) — related
 - [67% of Boyacá secondary students cannot identify the four fundamental interactions of nature](boyaca-students-fundamental-forces-67-percent-unclear.md) — related
 - [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related
+- [Students cannot make or reason with freebody diagrams and insert fictitious centrifugal forces](freebody-diagram-difficulties.md) — possibly the same claim (merge candidate)

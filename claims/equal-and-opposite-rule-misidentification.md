@@ -47,3 +47,5 @@ The article's review of documented student difficulties states many students cho
 
 ## Related Claims
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
+- [The author interprets spontaneous student comments that Third Law force pairs are equal because they come from the same interaction as evidence of conceptual understanding beyond the experimental result](same-interaction-comments-conceptual-understanding.md) — related
+- [Students cannot distinguish Newton's second from third law, treating any equal-and-opposite force pair as a third-law pair](second-third-law-confusion.md) — a narrower finding that bears on this claim

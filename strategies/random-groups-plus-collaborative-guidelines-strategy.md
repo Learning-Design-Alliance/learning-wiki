@@ -44,7 +44,8 @@ The article draws two managerial and instructional recommendations from its quas
 - [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](../claims/collaboration-centrality-positive-remote-physics-grades.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Configure collaborative groups of two to four students, assign roles, and still collect answers individually](a2l-collaborative-group-configuration.md)
 
 ## Examples
 -

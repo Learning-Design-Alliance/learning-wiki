@@ -101,3 +101,4 @@ The same analysis reports the gender pattern is instrument-dependent: on the BEM
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — a narrower finding that bears on this claim
 - [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a narrower finding that bears on this claim
+- [Hidden-variable correlations with normalized gain are small relative to the effect of interactive engagement](hidden-variables-small-versus-ie-effect.md) — related

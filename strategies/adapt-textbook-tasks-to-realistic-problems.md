@@ -52,6 +52,7 @@ The article outlines a process for creating lesson problems from existing materi
 - [Model-Eliciting Activities (MEAs)](model-eliciting-activities-meas.md)
 - [Rearrange existing practice problems into interleaved assignments rather than writing new materials](rearrange-problems-for-interleaved-practice.md)
 - [Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments](build-interleaved-assignments-from-textbook-problems.md)
+- [Model-as-answer problem solving: assign few rich modeling problems and grade the model, not the numeric answer](model-as-answer-problem-statements.md)
 
 ## Examples
 -

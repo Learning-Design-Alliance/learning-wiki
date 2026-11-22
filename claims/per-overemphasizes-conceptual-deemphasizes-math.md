@@ -49,3 +49,4 @@ The author's interpretive assessment of recent PER literature, citing several st
 - [Psychiatric nurses report that safety training overemphasizes theory, uses outdated monotonous formats, and lacks experience-sharing opportunities](nurse-demands-safety-training-reform.md) — related
 - [Overemphasizing learner satisfaction can undermine educational quality, as educators become disincentivized from delivering critical feedback](overemphasizing-learner-satisfaction-undermines-quality.md) — related
 - [Mental health nursing assessment overemphasizes knowledge and attitudes relative to practical skills, risking theoretically knowledgeable but hands-on incompetent clinicians](mhn-assessment-overemphasizes-knowledge-attitudes-over-skills.md) — related
+- [Traditional physics instruction overemphasizes algorithmic math processing and neglects interpretation and evaluation steps](traditional-instruction-neglects-interpret-evaluate-steps.md) — reports the opposite

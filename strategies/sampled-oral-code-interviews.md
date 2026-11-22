@@ -47,6 +47,7 @@ Because accepted code does not establish understanding or authorship, the course
 - [Triangulate automated behavioral flags with oral interviews, exam-performance comparison, and targeted plagiarism detection](triangulate-behavioral-flags-with-follow-up-assessment.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Pair project-based take-home exams with written reports and oral presentations to assess understanding and expose plagiarism](oral-presentation-pairing-for-project-exams.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Survey result on the aspects that most motivated students, reported in the resul
 - [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](hololens-spatial-intelligibility-not-realism.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
+- [Most secondary students lack concrete conceptions of holograms before instruction, and few have seen a real hologram](pupils-diffuse-hologram-conceptions.md) — related

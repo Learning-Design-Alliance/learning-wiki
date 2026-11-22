@@ -55,6 +55,7 @@ The article recommends moving away from rigid or high-frequency feedback schedul
 - [Deliver AI-generated visual explanations adaptively based on learner engagement profiles rather than uniformly](adaptive-delivery-gats-by-engagement-profile.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Convert fixed-level training systems to performance-based difficulty adaptation](convert-fixed-level-to-performance-based-adaptation.md)
+- [Mindful teacher intervention juxtaposed with simulation possibilities as a catalyst for learning](mindful-teacher-intervention-simulation.md)
 
 ## Examples
 -

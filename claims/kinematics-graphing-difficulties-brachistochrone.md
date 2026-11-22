@@ -90,3 +90,4 @@ Graph-grading across the groups; among the junior physics/astronomy majors in Gr
 - [Only 14% of students drew internally consistent position, velocity and acceleration graphs for the same free fall motion](internal-consistency-graphs-only-14-percent.md) — a broader claim this one bears on
 - [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
+- [Students cannot reason with graphs, missing physical implications such as the rolling condition v = rω](graphical-reasoning-difficulty.md) — related

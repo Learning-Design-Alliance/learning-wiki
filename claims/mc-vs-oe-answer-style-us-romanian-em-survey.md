@@ -66,3 +66,7 @@ The same written survey's qualitative observation: the presented American answer
 ## Related Claims
 - [In interviews, American students appeared more confident, used fewer words, and stayed more focused on the task than Romanian students](interview-confidence-fewer-words-us-students.md) — related
 - [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related
+- [American students answered the magnetic-force parts of an E&M survey more correctly than Romanian students](american-students-force-parts-more-correct-than-romanian.md) — related
+- [On an open-ended E&M survey, Romanian students wrote longer, more explanatory answers while American students answered briefly with mostly formulas](romanian-students-longer-explanatory-answers-us-brief-formulas.md) — related
+- [No American student identified the spiral trajectory for a charge entering the field at an angle other than 90 degrees, while 19.2% of Romanian students did](spiral-trajectory-none-american-19-percent-romanian.md) — a narrower finding that bears on this claim
+- [American students answered slightly more survey items correctly than Romanian students, but the authors state the comparison has no relevance because the Romanian sample was smaller](us-students-slightly-better-survey-scores-unequal-samples.md) — possibly the same claim (merge candidate)

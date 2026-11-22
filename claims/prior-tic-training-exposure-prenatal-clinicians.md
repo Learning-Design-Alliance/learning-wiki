@@ -50,3 +50,4 @@ Descriptive statistics from the demographic survey of 23 prenatal clinicians fou
 - [Prenatal clinicians identify lack of protected time and competing priorities as barriers to TIC training](tic-training-barriers-time-prenatal.md) — related
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — related
 - [Prenatal clinicians recommend system-wide TIC training targeting the whole workforce including leadership](tic-system-wide-training-recommendation.md) — related
+- [Bridge students attended more conferences than Non-bridge students in the predicted direction, but the difference was not statistically significant](bridge-conference-attendance-not-significant.md) — related

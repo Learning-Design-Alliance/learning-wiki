@@ -47,3 +47,4 @@ Module 3 classroom activity: students implement the FD method in a spreadsheet a
 ## Related Claims
 - [Teachers reported improved mathematical and graphical understanding of motion and judged video modeling suitable for active and deep learning](teachers-report-improved-understanding-video-modeling.md) — related
 - [Most students transferred the marble game modeling process to derive a novel osmosis model under final exam conditions](osmosis-final-exam-transfer-marble-game.md) — related
+- [Knowledge is not easily transferred; understanding must be discovered independently by each learner](knowledge-taught-understanding-discovered.md) — related

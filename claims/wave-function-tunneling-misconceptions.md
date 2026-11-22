@@ -48,3 +48,7 @@ The review reports, citing studies by McKagan et al., Domert et al. and others, 
 ## Related Claims
 - [Interviews in transformed courses reveal three new reasons students think energy is lost in tunneling, beyond the two reported in prior literature](three-new-reasons-energy-loss-tunneling.md) — related
 - [A transformed curriculum reduces the prevalence of previously documented tunneling difficulties relative to comparable traditional courses](transformed-curriculum-reduces-tunneling-difficulties.md) — related
+- [Students' conceptual, mathematical, and graphical models of quantum tunnelling can be mutually inconsistent](inconsistent-math-graphical-verbal-tunnelling-models.md) — a narrower finding that bears on this claim
+- [The authors report that IQP students typically understand the probability concept very well, in contrast to results of Domert et al.](iqp-probability-understanding-contrasts-domert.md) — related
+- [62% of ENGsp05 and 53% of PHYsp05 students selected answers implying energy is lost in tunneling, which the authors report as a lower bound on the misconception's prevalence](tunneling-energy-loss-misconception-lower-bound.md) — a narrower finding that bears on this claim
+- [The tunneling question elicited significant cognitive dissonance, and interviewed students often used two or all three types of energy interchangeably within a single explanation](tunneling-question-cognitive-dissonance-mixed-views.md) — a narrower finding that bears on this claim

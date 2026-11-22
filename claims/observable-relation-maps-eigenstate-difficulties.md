@@ -56,3 +56,4 @@ Content analysis of four upper-undergraduate textbooks (Griffiths, Gasiorowicz, 
 - [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related
 - [Topic-level co-construction was highest for commutators/compatibility (33%) and eigenstates (31%) and lowest for Hilbert space dimensionality (8%) and expectation values (15%)](qm-topic-co-construction-commutators-highest.md) — related
 - [Four recurrent learner difficulties in quantum superposition and measurement are documented in prior work and addressable via a two-level Hamiltonian](four-quantum-superposition-measurement-difficulties.md) — related
+- [There is a lack of a concept to introduce non-commutative relations to students who are not mathematics students](lack-concept-introduce-noncommutative-non-mathematicians.md) — related

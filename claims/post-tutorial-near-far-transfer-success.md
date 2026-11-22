@@ -58,3 +58,5 @@ In eight later think-aloud interviews, students attempted the tutorial then solv
 - [For students who solved the initial problem correctly, Cue + Video and Video Only conditions outperformed Cue Only on both near and far transfer tasks](prior-knowledge-moderates-transfer-benefit.md) — related
 - [Scaffolding with explicit assumption and free-body-diagram prompts increased students' blending of everyday and formal knowledge](scaffolding-boosts-student-knowledge-blending.md) — related
 - [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — related
+- [RealTime Physics and Tutorials in Introductory Physics teach Newton's Second Law through strikingly different situations, yet both are shown to be effective](rtp-tiip-newton-second-law-contrast.md) — related
+- [Tutorial instruction improves performance on the quantitative Explosions question (about 60% introductory and 70% advanced correct, versus 45% and 30% after traditional instruction)](tutorials-improve-quantitative-explosions-question.md) — related

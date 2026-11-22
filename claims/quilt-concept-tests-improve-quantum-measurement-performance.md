@@ -56,3 +56,4 @@ Preliminary evaluation in a junior-senior level quantum mechanics course: the co
 - [A need exists for assessment tools covering all major quantum topics suitable for statistical analysis at secondary and lower undergraduate levels](need-assessment-tools-quantum-secondary-lower-undergraduate.md) — related
 - [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — possibly the same claim (merge candidate)
 - [Students in a lecture-free IPP/PBL quantum mechanics course averaged 34.2% on the QMS, above a traditional lecture-based section's 24.3%](pbl-quantum-mechanics-qms-scores.md) — related
+- [Preliminary analyses suggest students are more likely to master a concept if they teach it than if they cover textbook homework for the same time](teaching-topic-aids-conceptual-mastery.md) — related

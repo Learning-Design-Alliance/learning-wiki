@@ -52,3 +52,4 @@ Phenomenographic interview study of 21 upper-level physics students (18 male) at
 - [Students' perceptions of physicists relate to their goal orientation (mastery versus performance)](physicist-perceptions-goal-orientation-relationship.md) — related
 - [Students who gained undergraduate research experience shifted toward research-centered perceptions of being a physicist](undergraduate-research-shifts-perceptions-toward-research.md) — related
 - [Most students emphasized research as important to being a physicist, which the authors attribute to the studied university's messaging](majority-research-emphasis-university-context.md) — related
+- [Interviews with 20 second-year physics students yield six qualitatively different categories of ways of making sense of studying physics in the first year](six-categories-sense-making-first-year-physics.md) — related

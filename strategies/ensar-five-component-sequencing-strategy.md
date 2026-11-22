@@ -53,6 +53,7 @@ This strategy implements the ENSAR components as a fixed instructional sequence 
 - [Concrete-Representational-Abstract (CRA)](concrete-representational-abstract-cra.md)
 - [Five-step CLE instructional sequence for vocational English classes](cle-five-step-vocational-english-sequence.md)
 - [Provide Manipulatives](provide_manipulatives.md)
+- [Modeling instructional cycle: introduction and representation, coordination, application, abstraction and generalization, and incremental development](modeling-instructional-cycle-phases.md)
 
 ## Examples
 -

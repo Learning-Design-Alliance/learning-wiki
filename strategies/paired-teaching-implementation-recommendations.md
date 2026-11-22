@@ -51,6 +51,7 @@ Based on preliminary results, the article offers recommendations for units consi
 ## Related Strategies
 
 - [Pair individual implementation support with a departmental commitment to transformed teaching, including incentives, TA training, and shared RBIS expectations](supportive-departmental-environment-for-rbis-retention.md)
+- [Explicitly research and articulate the conditions under which research-based curricula transfer to new environments](research-conditions-for-curriculum-transfer.md)
 
 ## Examples
 -

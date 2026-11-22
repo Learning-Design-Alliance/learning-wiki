@@ -56,3 +56,5 @@ Secondary analysis of published FCI and FMCE gains from about 45,000 students in
 - [Normalized gains on conceptual surveys are largest in EBAE courses compared with lecture-based courses of the same type](normalized-gain-largest-ebae-courses.md) — a narrower finding that bears on this claim
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
 - [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — a narrower finding that bears on this claim
+- [IE and high-tech methods by themselves do not insure superior student learning](ie-and-high-tech-alone-insufficient.md) — a narrower finding that bears on this claim
+- [Some IE courses achieved normalized gains close to Traditional courses, with case histories suggesting implementation problems](low-g-ie-courses-implementation-problems.md) — related

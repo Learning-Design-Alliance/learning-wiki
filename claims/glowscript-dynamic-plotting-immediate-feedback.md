@@ -49,3 +49,4 @@ Authors' descriptive account of the logistic growth implementation: "The data ca
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](mathspace-dynamic-representations-fractions.md) — related
 - [Visualizing an array of driven spring-mass systems on the resonance graph is hypothesized to build greater physical intuition of resonance](resonance-graph-visualization-intuition-hypothesis.md) — related
 - [SIZR zombie apocalypse epidemiology model as an engaging course example](sizr-zombie-epidemiology-course-example.md) — related
+- [Computer simulations visualize dynamic model components and student exercises applying the models support learning to handle models](computer-simulation-supports-model-construction.md) — related

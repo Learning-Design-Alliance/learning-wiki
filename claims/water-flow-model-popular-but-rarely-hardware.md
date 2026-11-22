@@ -47,3 +47,4 @@ Interpretive synthesis in the article's pedagogical-issues section, citing Ships
 ## Related Claims
 - [Children in a UK study had poor understanding of water flow itself, and beginning physics students lack the water-flow understanding the analogy presupposes](poor-water-flow-understanding-limits-analogy.md) — related
 - [The water-flow analogy fails to support the current–energy (voltage) distinction because students confuse the pump's pressure with the rate of water flow](water-flow-analogy-fails-voltage-distinction.md) — related
+- [Peer interaction can produce regression in understanding, as one student adopted a more naive current-flow model from a classmate](peer-transmission-naive-model.md) — related

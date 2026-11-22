@@ -75,3 +75,4 @@ Content-based pre-/post-tests given to introductory physics students during reci
 - [The tutorials helped students who performed poorly (0-33%) on the pre-test after traditional instruction](tutorials-help-low-pretest-scorers.md) — related
 - [Research-based tutorials on Coulomb's law, superposition, symmetry and Gauss's law improve pre-/post-test performance in calculus-based introductory physics courses](electrostatics-tutorials-pre-post-gains.md) — related
 - [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — reports the opposite
+- [Score-based pre-post gain analysis blends distinct learning issues and limits instructional diagnosis](score-based-gain-limits-diagnosis.md) — related

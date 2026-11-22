@@ -48,3 +48,4 @@ The article's own interpretive claim in the discussion of teacher support, suppo
 - [Articulating what does not make sense is a major part of resolving intuitive inconsistencies in physics](articulating-inconsistency-half-of-sensemaking.md) — related
 - [Thinking computationally about implementing a better model is the key to resolving the accuracy-realism inconsistency](thinking-computationally-key-resolution.md) — related
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
+- [Once students commit to and externalize an answer, they become emotionally invested and pay far more attention to subsequent discussion](ccs-answer-commitment-boosts-attention.md) — related

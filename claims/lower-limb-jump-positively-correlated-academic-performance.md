@@ -54,3 +54,4 @@ Correlation analysis (Table 2) in the same sample prints CMJ–science r = 0.640
 - [Upper-limb strength and sprint speed show no correlation with academic performance in schoolchild handball players](upper-limb-strength-sprint-no-correlation-academic.md) — related
 - [Body fat percentage is negatively correlated with academic performance in schoolchild handball players](body-fat-percentage-negatively-correlated-academic-performance.md) — related
 - [BMI is negatively correlated with science and mathematics GPA in schoolchild handball players](bmi-negatively-correlated-academic-gpa-handball-players.md) — related
+- [FTE jump rate correlates negatively with exam performance in one study but only marginally in another](fte-jump-rate-exam-correlation-mixed.md) — related

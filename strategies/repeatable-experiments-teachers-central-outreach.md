@@ -51,6 +51,7 @@ In this strategy, visiting scientists run workshops in which classroom teachers 
 - [Estimating absolute zero by measuring gas volume in a frictionless syringe at different temperatures and extrapolating to zero volume](syringe-extrapolation-absolute-zero.md)
 - [Signal that a live simulation is running and provide downloadable data for classroom activities](earth-like-simulation-signalling-and-csv-strategy.md)
 - [Ad-hoc pathway with repeated in-classroom expert lessons for deeper engagement](ad-hoc-classroom-expert-pathway-strategy.md)
+- [Scientists should get involved in school visits through astronomy-based programs](scientists-join-astronomy-school-visit-programs.md)
 
 ## Examples
 -

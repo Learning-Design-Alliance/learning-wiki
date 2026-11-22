@@ -63,6 +63,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
 - [Rebalance assessment toward mixed formats and reduce workload density to diversify students' reasoning structure](shift-to-half-mc-half-oe-exams.md)
 - [Implement a range of frequent formative assessments that each count for a small portion of the grade](range-of-frequent-formative-assessments-low-anxiety.md)
+- [Shift exams from almost 100% multiple-choice to a 50% MC / 50% open-ended mix to diversify reasoning structure](fifty-fifty-mc-oe-exam-mix-strategy.md)
 
 ## Examples
 -

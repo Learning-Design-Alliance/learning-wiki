@@ -48,6 +48,7 @@ The article describes an implementable laboratory package: students prepare befo
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](cbcl-pre-session-readiness-strategy.md)
 - [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
+- [Require pre-laboratory play with the simulation and provide more open-ended exploration time](rtr-prelab-play-and-open-exploration.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
 - [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related
 - [Course implementation faced four challenge types, each addressed with targeted pedagogical solutions](implementation-challenges-heterogeneous-backgrounds-resources.md) — related
+- [Incorporating space science and technology into university-level curricula serves a dual purpose of exploiting technology benefits and revitalizing educational systems to build national capacity](space-science-curricula-dual-purpose-national-capacity.md) — related

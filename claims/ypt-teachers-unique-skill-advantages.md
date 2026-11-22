@@ -48,3 +48,4 @@ Same 32-teacher interview survey. The quote reports the exceptional magnitude of
 ## Related Claims
 - [Teachers perceive that YPT develops students' high-level hard skills considerably more than regular physics classes or other physics competitions](ypt-teachers-high-level-hard-skills.md) — related
 - [Teachers rate YPT-related activities as more useful for soft-skill development than regular physics classes and other extracurricular activities, but a self-selection caveat applies](teachers-rate-ypt-higher-than-other-activities.md) — related
+- [Developing and performing a physics show gives undergraduates an early opportunity to apply their knowledge and develop public presentation skills](physics-show-student-skills-development.md) — related

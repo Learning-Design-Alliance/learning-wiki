@@ -70,3 +70,4 @@ Interview-reported modifications across units: shadow activities required dark a
 - [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Increased instructional time, access to material resources, and spatial reorganisation appear to have increased teachers' confidence and motivation](time-space-reorganisation-teacher-confidence.md) — related
 - [The classroom teacher reported that the experimental group was more engaged than the control group and that the technology caused little to no disruption](teacher-reported-higher-engagement-experimental-group.md) — related
+- [Hands-on astronomy visits were extremely well appreciated by children and teachers and promoted early excitement of science](astronomy-outreach-appreciated-promotes-excitement.md) — related

@@ -48,3 +48,4 @@ Stated lesson learned in the Discussion: the authors warn the "heavy workload co
 - [Teachers experienced a responsibility-capacity paradox: they view emotional support as core to their role yet feel structurally limited by workload, low mental health literacy and lack of training](responsibility-capacity-paradox-teachers.md) — related
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related
+- [Teaching and Learning Physics students rated the course extremely useful and unanimously recommended it](tlp-course-evaluations-favorable.md) — related

@@ -44,7 +44,8 @@ The article recommends engaging undergraduates in research early, based on its f
 - [Remote REU mentees' objectives fell into three categories: gaining research experience and career clarity, learning about physics subfields, and making connections with a broader community](../claims/three-mentee-objective-categories-remote-reu.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Summer research internships at a nearby research institution as the substitute for in-house intermediate and advanced laboratory courses](mville-columbia-summer-research-internship.md)
 
 ## Examples
 -

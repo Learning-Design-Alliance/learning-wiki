@@ -53,3 +53,4 @@ Annual post-event surveys of National Academies Summer Institute participants, a
 - [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
 - [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related
+- [Few PFP participants feel education is valued by the physics research community, yet most plan to incorporate PER results in their teaching](pfp-per-incorporation-intentions.md) — related

@@ -68,3 +68,4 @@ The chapter reports, citing Lawrenz, Huffman, & Appeldoorn (2005), that "As many
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [At least 300,000 students take introductory astronomy annually in the United States, with 33 to 42 percent doing so at a community college](astro101-enrollment-300k-community-college-share.md) — related
 - [Astro 101 students achieve similar learning gains regardless of institution type, class size, or background (as reported by the chapter, citing Prather et al. 2009)](astro101-similar-gains-regardless-institution-type.md) — related
+- [At least 70% of non-science majors in the author's astronomy courses lacked the concept of units and knowledge of scientific notation](astronomy-nonscience-majors-units-notation-gap.md) — related

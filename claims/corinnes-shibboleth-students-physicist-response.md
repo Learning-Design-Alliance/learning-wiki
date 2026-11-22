@@ -46,3 +46,4 @@ Survey question 3 with 20 respondents: 17 gave only the physicist's response r²
 
 ## Related Claims
 - [Physicists and mathematicians tend to interpret the same symbolic function differently, as shown by the coordinate-transformation 'shibboleth' problem](corinnes-shibboleth-physicist-mathematician-contrast.md) — a broader claim this one bears on
+- [Physicists load physical meaning onto symbols and interpret equations differently from mathematicians, in a context-dependent way](physicists-load-physical-meaning-onto-symbols.md) — related

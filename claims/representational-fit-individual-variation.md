@@ -69,3 +69,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Qualitative accounts indicate contextual anchoring — examples tied to a student's own interests and background — made abstract concepts feel concrete and reduced cognitive load](contextual-anchoring-aha-moments-cognitive-load.md) — related
 - [Scientists' hand gestures, animated into visual metaphors, help make complex astronomical concepts relatable and engaging](scientist-hand-gestures-animation-relatable.md) — related
 - [Most students did not perceive the mathematical formalism as an obstacle, instead coming to see mathematics as an interpretative language](mathematics-as-interpretive-language-quantum.md) — related
+- [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — related

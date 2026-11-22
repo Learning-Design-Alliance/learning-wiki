@@ -69,3 +69,4 @@ The same GT item analysis found positive fractional differences for DC circuits 
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
 - [Contingency-table analysis shows significant association of post-test BEMA category scores with curriculum treatment in every category, with no such association on the pre-test](posttest-category-association-significant.md) — related
 - [M&I students perform roughly one letter grade higher on the BEMA than traditional students with the same final course grade](mi-one-letter-grade-bema-advantage.md) — related
+- [Students using the Chabay and Sherwood text outperformed students using traditional textbooks on DIRECT](direct-chabay-sherwood-outperformed-traditional.md) — related

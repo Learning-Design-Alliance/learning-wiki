@@ -72,3 +72,5 @@ Multiple linear regression models with g as the dependent variable showed that p
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — reports the opposite
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
+- [Hidden-variable correlations with normalized gain are small relative to the effect of interactive engagement](hidden-variables-small-versus-ie-effect.md) — related
+- [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — reports the opposite

@@ -51,6 +51,7 @@ Because relatively few universities operate accelerator research facilities, the
 - [Establish guest-lecturer mobility and train-the-trainer schemes bringing subject matter experts from industry and national labs into teaching](expert-mobility-train-the-trainer-schemes.md)
 - [Prioritize non-coursework, skill-based experiences such as summer internships in quantum workforce development](prioritize-skill-based-internships-quantum-workforce.md)
 - [Adapt the summer research internship model down to high-school level with group research projects and mentoring](downscale-research-internships-to-high-schools.md)
+- [Summer research internships at a nearby research institution as the substitute for in-house intermediate and advanced laboratory courses](mville-columbia-summer-research-internship.md)
 
 ## Examples
 -

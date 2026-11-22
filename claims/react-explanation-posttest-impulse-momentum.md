@@ -50,3 +50,4 @@ Quasi-experimental comparison of 25 PSTs taught with explanation assisted REACT 
 - [The explanation assisted REACT group retains its advantage on a delayed test nine weeks after the intervention despite score decline](react-explanation-delayed-retention.md) — related
 - [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](alternative-conceptions-persist-emerge-posttest.md) — related
 - [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](inverted-classroom-no-difference-force-momentum-impulse.md) — related
+- [The same pattern holds for momentum and impulse: students who could explain the physics meaning scored higher, though overall scores were lower than for force](momentum-impulse-meaning-explanation-linked-to-test-scores.md) — related

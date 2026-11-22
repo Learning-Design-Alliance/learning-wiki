@@ -53,3 +53,4 @@ Background review statement in the article's Background section, citing prior st
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — a narrower finding that bears on this claim
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — related
 - [The amplifying effect of personalized persuasive strategies on engagement was not statistically significant in the MindTap learning platform.](personalization-effect-not-significant-mindtap.md) — related
+- [Hypermedia-assisted learning was reported to raise academic achievement over conventional learning, citing Zywno and Waalen](hypermedia-assisted-achievement-gain-zywno-waalen.md) — related

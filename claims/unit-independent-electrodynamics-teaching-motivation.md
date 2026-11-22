@@ -45,3 +45,4 @@ Theoretical/pedagogical argument in the introduction of this note, not an empiri
 
 
 ## Related Claims
+- [Becoming familiar with the adopted unit system and converting between unit systems is a major hurdle for students in electromagnetism classes](unit-system-conversion-major-hurdle-electromagnetism-students.md) — related

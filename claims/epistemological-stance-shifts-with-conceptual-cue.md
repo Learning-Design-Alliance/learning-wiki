@@ -59,3 +59,4 @@ Fine-grained analysis of the interview episode: a single conceptual cue about th
 - [Skill and knowledge deficits played no role in Jim's difficulty: he had adequate pressure concepts, fluid manipulation skills, no fixed down-is-negative misconception, and willingness to change his mind](skill-knowledge-deficits-ruled-out-case-study.md) — related
 - [The group's epistemic stance toward math was constructed in the moment, not a stable robust belief](group-epistemic-stance-context-dependent.md) — a narrower finding that bears on this claim
 - [Interviewer intervention targeting epistemic form can shift a student's epistemological frame](intervention-shifts-epistemic-form-and-frame.md) — related
+- [A student's epistemological wall between formal and everyday reasoning is associated with between-type reconciliation in only 13% of opportunities versus 46% within type](epistemology-wall-between-type-reconciliation.md) — related

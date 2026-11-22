@@ -41,7 +41,8 @@ The article describes using thought experiments—the Stern-Gerlach analyzer loo
 - [Working through the Mach-Zehnder interferometer QuILT improved average performance from 48% to 83%, with all but one of 12 students earning perfect scores on three polarizer questions](../claims/quilt-mach-zehnder-pre-post-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use interpretations allied to a virtual experiment to enrich quantum mechanics teaching](interpretations-with-virtual-interferometer-strategy.md)
 
 ## Examples
 -

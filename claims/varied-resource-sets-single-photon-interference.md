@@ -48,3 +48,5 @@ Qualitative comparison of the two pairs' reasoning in the third think-aloud lab 
 - [Setting up and observing an alignment laser before single-photon measurements helped students internalize wave behavior and translate it to single photons](alignment-laser-scaffold-single-photon-understanding.md) — related
 - [Students working with single-photon interferometer experiments activate prior knowledge of classical wave interference when first reasoning about single-photon interference and later explaining the quantum eraser](classical-wave-interference-resources-single-photon-labs.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — a broader claim this one bears on
+- [Over-attaching significance to the deciding resource may interfere with reasoning about multi-particle systems](deciding-resource-overuse-interferes-multiparticle.md) — related
+- [Students bring wave and particle ideas from classical mechanics as distinct resources for learning quantum mechanics](wave-particle-ideas-classical-resources-quantum.md) — related

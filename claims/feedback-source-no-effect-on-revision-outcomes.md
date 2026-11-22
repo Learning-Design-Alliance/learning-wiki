@@ -76,3 +76,5 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](drafts-improved-significantly-raters-scores.md) — related
 - [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related
 - [AI-mediated and human-only feedback conditions showed no statistical difference on post-test learning scores, despite higher revision quality being associated with higher learning](no-post-test-difference-ai-mediated-feedback.md) — related
+- [MPOIS-coded student essays show speculative and motivational sentences declining after feedback while inference statements do not increase](mpois-essay-coding-shifts-speculation-down-inference-flat.md) — related
+- [Students did not show evidence of self-revising when asked to write short first drafts without a forced paired revision assignment](no-self-revision-without-forced-paired-assignment.md) — reports the opposite

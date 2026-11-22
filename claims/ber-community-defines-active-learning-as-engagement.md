@@ -46,3 +46,4 @@ Survey of 105 SABER members asked to define active learning in their own words, 
 
 ## Related Claims
 - [BER community survey responses yielded 681 strategies (201 unique), with metacognition (45%), discussion (34%), and group work (29%) most frequent](ber-community-strategy-categories-metacognition-discussion-groupwork.md) — related
+- [Students' informal definitions of symmetry converge on the scientists' definition of symmetry as invariance under transformations](student-definitions-converge-symmetry-invariance.md) — related

@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (39 for, 28 mixed, 4 against) · 63 studies (35 causal, 12 review, 7 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 65 claims rest on one study
+> **Evidence** · 72 claims (39 for, 29 mixed, 4 against) · 64 studies (36 causal, 12 review, 7 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 64 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](../claims/disciplinary-affordances-can-hinder-other-resources.md) [~W] — attached 2026-11-18 from Nandana Weliweriya et al. (2018), which proposed "Design problem-solving tasks so students strategically combine multiple semiotic resources rather than choose between researcher-provided representations".
 - [The multirepresentational exercise relating centered and conventional unit vectors achieves superior outcomes for interpreting centered unit vector representations](../claims/multirepresentational-exercise-superior-centered-vectors.md) [+M] — attached 2026-11-20 from Christoph Hoyer (2024), which proposed "Teach vector representations by contrasting centered and conventional unit vectors and explaining how to translate between them"; tests this page's relationship.
 - [Students perceived the game and simulation as serving distinct but complementary roles in their learning](../claims/game-simulation-complementary-roles.md) [+W] — attached 2026-11-21 from Koushiki Pohit et al. (2016), which proposed "Game-then-simulation or simulation-then-game integration: one modality primes deeper engagement with the other".
+- [No significant difference in learning outcomes between the high and medium n-coding groups (MANOVA p=0.740)](../claims/no-difference-high-versus-medium-n-coding-groups.md) [~W] — attached 2026-11-22 from N. Lasry et al. (2006), which proposed "Require n-coding (multi-modal processing) in the task solution rather than simulating elaborate life-like environments"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Authors' interpretive discussion (type e) of spreadsheet software, which the art
 - [Students successfully performed quantitative data analysis in spreadsheets, though this unit was the most challenging](spreadsheet-data-analysis-unit-outcomes.md) — related
 - [Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning](intelligent-novice-error-correction-better-transfer.md) — related
 - [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related
+- [Students pinpointed the graphical form of the spreadsheet-based algorithm, with automatic graph updating, as the key merit of the approach](spreadsheet-graphical-form-key-merit.md) — related

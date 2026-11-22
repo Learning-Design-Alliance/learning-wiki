@@ -53,3 +53,9 @@ Analysis of written and interview responses to mechanical wave questions in the 
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Different student pairs activated different, yet overlapping, resource sets to make sense of simultaneous particle-like and wave-like photon behavior](varied-resource-sets-single-photon-interference.md) — a narrower finding that bears on this claim
 - [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related
+- [Over-attaching significance to the deciding resource may interfere with reasoning about multi-particle systems](deciding-resource-overuse-interferes-multiparticle.md) — related
+- [Many students have difficulties principally separating spatial and temporal observations when using the wave theory](space-time-confusion-wave-theory.md) — related
+- [Before instruction, about half of university physics students describe a sound wave as pushing a dust particle away from the loudspeaker rather than oscillating longitudinally](students-describe-sound-waves-as-pushing-medium.md) — a narrower finding that bears on this claim
+- [A single student used multiple, rapidly switching interpretations of the same wave physics situations, including object-like and event-like reasoning within one interview](students-hold-multiple-switching-interpretations.md) — related
+- [Students restrict wave superposition to the peak points of wavepulses, assuming no addition where peaks do not overlap](superposition-confined-to-peak-point.md) — a narrower finding that bears on this claim
+- [Students bring wave and particle ideas from classical mechanics as distinct resources for learning quantum mechanics](wave-particle-ideas-classical-resources-quantum.md) — related

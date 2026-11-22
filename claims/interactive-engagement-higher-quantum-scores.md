@@ -49,3 +49,4 @@ The review reports, citing Deslauriers and Wieman, a comparison in which one gro
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
 - [QMCS posttest scores rise with course level, with significant gains in modern physics and zero gains in graduate courses](qmcs-posttest-scores-increase-with-level.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [A PER-reformed modern physics course for engineering majors produced higher normalized gains on the QMCS than traditional modern physics courses](reformed-modern-physics-higher-qmcs-gains.md) — related

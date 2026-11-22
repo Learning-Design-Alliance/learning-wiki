@@ -51,3 +51,4 @@ Authors' interpretive statement within the framework's social dimension section,
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Four distinct Modes of student interaction (Debate, Informing, Co-construction of an Answer, Building Understanding towards an Answer) emerge from video of introductory physics group work](four-modes-of-collaboration-identified.md) — related
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](deliberative-discourse-pedagogies-critique.md) — related
+- [Classroom polls show students voluntarily form groups supporting rival QM interpretations, and group debate evidences the concepts they have assimilated](students-self-group-by-qm-interpretation.md) — related

@@ -51,6 +51,7 @@ The course replaced standard textbook problems with authentic real-world problem
 
 - [Authentic Learning Tasks](authentic_learning_tasks.md)
 - [Add approximation-identification parts to standard problems so students decide what to ignore and when that is reasonable](explicit-simplifying-assumption-problems.md)
+- [Model-as-answer problem solving: assign few rich modeling problems and grade the model, not the numeric answer](model-as-answer-problem-statements.md)
 
 ## Examples
 -

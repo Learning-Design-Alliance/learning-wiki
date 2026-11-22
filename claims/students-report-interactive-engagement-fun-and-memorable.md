@@ -51,3 +51,4 @@ Qualitative survey and informal interviews with the pilot students; this excerpt
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — related
 - [In the authors' Physics Practical I course, intensive retrieval with interleaved station-rotation practice significantly enhanced students' experimental skills](station-rotation-interleaved-practice-enhanced-experimental-skills.md) — related
+- [Group interviews found that films kept students' attention better than lecture and helped them remember the concepts illustrated in the films](student-interviews-films-aid-attention-and-memory.md) — related

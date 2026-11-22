@@ -52,3 +52,4 @@ Medium-term outcomes from national grade-3 math tests (16–18 months post-inter
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
 - [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [ALAS effects on progressing in school and completing school fade or are non-significant after the intervention](alas-progressing-completing-null-follow-up.md) — related
+- [PPTE responses become more likely to include solution-relevant terms after lecture coverage and exam studying, and the change persists](ppte-sensitive-to-course-coverage.md) — a narrower finding that bears on this claim

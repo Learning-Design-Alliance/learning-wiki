@@ -54,3 +54,4 @@ Analytical first-order approximation (Section III) combining random pre- and pos
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
 - [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — related
+- [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — related

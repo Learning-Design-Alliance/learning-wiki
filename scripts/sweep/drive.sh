@@ -37,7 +37,8 @@ PY
   rc=${PIPESTATUS[0]}
   grep -q "fully complete" "$J/$label.log" || rc=${rc/#0/1}
   echo $n > "$J/counter-$tag"
-  gen=$(ls eval/runs/$label/*/ 2>/dev/null | wc -l)
+  # count result files, not directory entries: an old-style arXiv id's result sits in an archive folder
+  gen=$(find eval/runs/$label -mindepth 2 -name '*.json' 2>/dev/null | wc -l)
   took=$(python3 -c "import json;m=json.load(open('eval/corpus/manifest_$label.json'));print(len(m['articles'] if isinstance(m,dict) else m))" 2>/dev/null || echo 0)
   {
     echo "batch-done	$label	rc=$rc	took=$took	generated=$gen"

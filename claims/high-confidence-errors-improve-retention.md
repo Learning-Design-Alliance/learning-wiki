@@ -86,3 +86,4 @@ The effect is dependent on receiving immediate, non-punitive, and clear correcti
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](feedback-little-role-after-first-successful-retrieval.md) — related
 - [Without feedback, participants are most wrong precisely when most confident; feedback restores confidence calibration](feedback-calibrates-confidence-ai-detection.md) — related
+- [N-coding groups were more confident of their wrong answers after instruction than the control group (p=0.016)](increased-wrong-answer-confidence-interactive-engagement.md) — related

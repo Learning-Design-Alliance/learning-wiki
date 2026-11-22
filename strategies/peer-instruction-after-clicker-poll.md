@@ -54,6 +54,7 @@ Following the mixed survey response to feeling connected to classmates, the auth
 - [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
 - [Response Devices](response_devices.md)
 - [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
 
 ## Examples
 -

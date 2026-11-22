@@ -76,3 +76,4 @@ On a written infinite-square-well question about whether all allowed wave functi
 - [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related
 - [Highlighting the differences between the classical wave equation and the Schrödinger equation helps students grasp the meaning of the quantum wavefunction](classical-quantum-wave-differences-wavefunction-meaning.md) — related
 - [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related
+- [Students reason classically about quantum potential steps, judging the step-down reflection coefficient as zero or less than the step-up coefficient](classical-reasoning-potential-steps.md) — related

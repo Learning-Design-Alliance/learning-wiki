@@ -78,3 +78,4 @@ Interview evidence from MC-Q17: a student choosing between superposition options
 - [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
 - [Using Quantum Composer, students were able to obtain correct answers to questions about single-well quantum systems](composer-helps-students-obtain-correct-answers.md) — related
 - [Eleven of thirteen pre-service teachers gave a microscopic statistical-quantum mechanical interpretation of half-life](half-life-statistical-interpretation-eleven-of-thirteen.md) — related
+- [Many students have difficulties principally separating spatial and temporal observations when using the wave theory](space-time-confusion-wave-theory.md) — related

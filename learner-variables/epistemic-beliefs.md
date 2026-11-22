@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (61 show a difference, 14 mixed, 7 no difference) · 57 studies (14 qualitative, 12 causal, 9 design, 8 review, 7 associational, 4 theoretical, 3 quant-synthesis), `q1`–`q3` · 3 of 57 report an effect size · 82 claims rest on one study
+> **Evidence** · 86 claims (63 show a difference, 15 mixed, 8 no difference) · 61 studies (16 qualitative, 12 causal, 10 design, 8 review, 8 associational, 4 theoretical, 3 quant-synthesis), `q1`–`q3` · 3 of 61 report an effect size · 86 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -114,6 +114,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [In a lecture-free PBL quantum mechanics course, student success was highly correlated with constructionist rather than transmissionist epistemological attitudes](../claims/construction-attitudes-lecture-free-success.md) [+M] — learners who differ on it differ in outcomes
 - [Traditional instructional labs are generally unsuccessful at supporting conceptual learning and negatively impact development of expertlike epistemological attitudes](../claims/traditional-labs-fail-conceptual-epistemological-goals.md) [+M] — measured as an outcome of the instruction studied
 - [Traditional lecture science courses tend to deteriorate student epistemic expectations, while epistemology-focused pedagogies produce positive gains](../claims/lecture-courses-deteriorate-expectations-epistemology-pedagogies-gain.md) [+M] — measured as an outcome of the instruction studied
+- [A student's epistemological stance toward a specific physics topic mediates both the student's thinking and what a researcher can see of that thinking](../claims/epistemological-stance-mediates-researcher-access.md) [+W] — learners who differ on it differ in outcomes
+- [Alternative explanations of Jan's tutorial difficulties — math facility, informal-reasoning skill, checking skill, formal expectations, and confidence — cannot account for her behavior without epistemology](../claims/epistemology-refutes-alternative-explanations.md) [+M] — learners who differ on it differ in outcomes
+- [MPEX responses in the advanced course started more favorable than typical introductory sequences and did not deteriorate during the semester](../claims/mpex-favorable-no-deterioration-advanced-course.md) [-M] — measured as an outcome of the instruction studied
+- [Traditional modern physics courses produced large statistically significant shifts toward novice-like beliefs on CLASS, while reformed courses showed no statistically significant shifts](../claims/reformed-course-eliminates-belief-decline.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

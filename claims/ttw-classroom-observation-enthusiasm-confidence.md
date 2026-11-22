@@ -72,3 +72,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [In 4000- and 7000-level QM courses, the authors observed higher enthusiasm toward in-class and home assignments built on qualitative-methods examples than toward standard QM items](qualitative-qm-examples-higher-enthusiasm.md) — related
 - [The authors report that students appeared motivated and engaged during the skateboarding tutorial, based on informal classroom observation](skateboarding-tutorial-informal-engagement-observation.md) — related
 - [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related
+- [Students participated enthusiastically in physical science discussions when topics were familiar from TV shows or movies](familiar-media-topics-drive-enthusiastic-discussion.md) — related

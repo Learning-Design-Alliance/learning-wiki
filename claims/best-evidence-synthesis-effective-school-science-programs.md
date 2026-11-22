@@ -86,3 +86,4 @@ The review adds that "materials-focused innovations in education, such as textbo
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
+- [Inquiry-based instruction designed around individual student interests is the most effective approach to science learning](inquiry-based-instruction-most-effective.md) — a narrower finding that bears on this claim

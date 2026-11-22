@@ -51,6 +51,7 @@ The article proposes an iterative strategy: survey knowledge and views, identify
 - [Activation](activation.md)
 - [Use current-events interest (e.g., a nuclear accident) and general-interest seminars to motivate students to engage with nuclear physics topics](current-events-seminar-motivation-strategy.md)
 - [Offer general-interest seminars and popularized informational material on radiation and nuclear issues for students and the public](general-interest-radiation-seminars-strategy.md)
+- [Use planetocentric nuclear fission reactors as a springboard for classroom discussion about planetary energy sources and about challenging current thinking](planetary-nuclear-reactors-discussion-springboard.md)
 
 ## Examples
 -

@@ -82,6 +82,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 - [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 - [Verify Prerequisite Knowledge Before Audiovisual Presentations](../strategies/prerequisite-checks-before-audiovisual-presentations.md)
 - [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](../strategies/repeated-benchmark-performance-spaced-repetition.md)
+- [Sequence the quizzes so prerequisite mastery gates access to later course work](../strategies/quiz-sequencing-mastery-gating-strategy.md)
 
 ## Key Sources
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2). UCLA Center for the Study of Evaluation.

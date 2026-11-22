@@ -48,3 +48,4 @@ Histogram analysis (Figure 2) of proposition-count changes across the 49 student
 - [Average structural features of concept maps increase across the semester, but proposition and branch growth plateaus after revision](concept-map-features-increase-then-plateau.md) — related
 - [Structural complexity of concept maps shows no significant correlation with scientific reasoning in thesis writing after multiple-comparison correction](concept-map-structure-no-correlation-writing-reasoning.md) — related
 - [Students who simplified their maps at some point did not differ in thesis-writing outcomes from students who did not](simplifiers-versus-nonsimplifiers-no-biotap-difference.md) — related
+- [Concept-map modal maps showed structural development from isolated partial networks to an integrated network with more correct propositions](modal-map-structural-development-holography.md) — related

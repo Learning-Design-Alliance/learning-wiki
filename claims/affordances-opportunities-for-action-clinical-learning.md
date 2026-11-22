@@ -47,3 +47,4 @@ Theoretical argument within the article's exposition of Gibsonian ecological psy
 ## Related Claims
 - [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related
 - [Learner behaviour is self-organised and emergent, so learning paths are nonlinear and individual](self-organisation-emergent-clinical-learning.md) — related
+- [Multiple-perspective exposition affords a multiple-sided, integrated knowledge object, while single-perspective exposition risks a hidden private referent](multiple-perspective-exposition-affords-integrated-knowledge-object.md) — a narrower finding that bears on this claim

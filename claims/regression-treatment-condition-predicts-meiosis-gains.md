@@ -70,3 +70,4 @@ In the initial model, "no significant explanatory effects from the student demog
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
 - [Students who used the VCell meiosis online-learning module as their only instruction scored significantly higher on a meiosis assessment than students who received traditional lecture alone (d = 0.40)](vcell-meiosis-module-outperforms-lecture.md) — a broader claim this one bears on
 - [Normalized learning gains showed no significant RL-versus-control difference in either study, though low pretest students again showed larger NLG in the RL condition](nlg-no-significant-difference.md) — reports the opposite
+- [Hidden-variable correlations with normalized gain are small relative to the effect of interactive engagement](hidden-variables-small-versus-ie-effect.md) — related

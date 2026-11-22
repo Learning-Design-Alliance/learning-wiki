@@ -46,6 +46,7 @@ The article distills facilitation lessons for keeping faculty engaged in transfo
 - [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 - [Lessons for establishing inter-university programmes: shared vision, research-institute involvement, and flexible cooperation](inter-university-programme-lessons.md)
+- [Provide easily modifiable instructional materials that expect and support faculty customization](provide-easily-modifiable-materials.md)
 
 ## Examples
 -

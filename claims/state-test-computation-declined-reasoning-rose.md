@@ -72,3 +72,4 @@ Analysis of Stanford 9 percentile ranks against fixed 1995 norms for nearly all 
 - [In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends](fifth-grade-math-opposing-trends-significant.md) — related
 - [Computation skills declined after state standards and textbooks de-emphasized memorization and practice in computational problem solving](k12-standards-deemphasizing-computation-preceded-skill-decline.md) — a broader claim this one bears on
 - [US states whose standards re-emphasized arithmetic automaticity scored highest among TIMSS-reporting states on the 2011 8th-grade number subtest](timss-automaticity-standards-states-number-subtest.md) — related
+- [U.S. eighth graders averaged below the 23-country average on the 1999 TIMSS-R mathematics and science assessment](1999-timss-r-us-below-23-country-average.md) — related

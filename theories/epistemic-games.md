@@ -17,7 +17,7 @@ sources:
 # Epistemic Games
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 7 studies (6 qualitative, 1 associational), `q1`–`q2` · 0 of 7 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 8 studies (6 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 8 report an effect size · 10 claims rest on one study
 
 ## Description
 Epistemic games (Collins & Ferguson, 1993; Morrison & Collins, 1995) are "generative patterns of inquiry that underpin knowledgeable actions" (Markauskaite & Goodyear, 2017) — recognizable, rule-like sets of moves, constraints, and strategies organized around constructing a particular kind of knowledge (an explanation, a design, a problem statement). Each game has entry conditions, constraints on who can play and how, a target *epistemic form* (the kind of knowledge structure being built), and exit conditions; games can nest inside one another and a group can transfer out of one game into another and back. Earlier work on epistemic games focused mainly on the discourse moves involved. Arthars et al. (2024) extend the framework with an **ecological analytical perspective** (Goodwin; Hutchins), arguing that a game's moves are inseparably multimodal — language, gesture, gaze, body positioning, and shared artifacts (a whiteboard, a sketch) jointly constitute the "move," not language alone.
@@ -50,6 +50,7 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 - [Graduate students solving Laplace’s equation problems play nested epistemic games, with the Pictorial Analysis game prominent from the very beginning](../claims/nested-epistemic-games-laplace-sensemaking.md) [+W] — attached 2026-11-21 from Jaya Shivangani Kashyap et al. (2025), which proposed "Epistemic game framework adapted to analyze graduate student sensemaking in Laplace’s equation problems".
 - [The Pictorial Analysis epistemic game is the most prominent game in graduate students' sensemaking on method-of-images problems, with other epistemic games nested within or switched between during solving.](../claims/grad-students-pictorial-analysis-dominant-moi.md) [+W] — attached 2026-11-21 from Kashyap et al. (2024), which proposed "Epistemic game framework applied to advanced students with refined ontological components: intuitive knowledge resources of advanced students can include formally learned content.".
 - [No evidence of the Recursive Plug and Chug game appeared in graduate students' sensemaking, though sensemaking showed local coherence without global coherence.](../claims/no-recursive-plug-chug-grad-moi.md) [~W] — attached 2026-11-21 from Kashyap et al. (2024), which proposed "Epistemic game framework applied to advanced students with refined ontological components: intuitive knowledge resources of advanced students can include formally learned content.".
+- [Video study of student groups identified six commonly used epistemic games in algebra-based physics problem solving](../claims/six-epistemic-games-identified-in-video-study.md) [+W] — attached 2026-11-22 from Edward F. Redish (2005), which proposed "Epistemic games: locally coherent patterns of student problem-solving activity with goals, moves, and endstates".
 
 ## Related Theories
 

@@ -60,3 +60,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related
 - [Analysis of CDPA incorrect responses reveals recurring misconceptions, including prioritizing fitting more points over points with smaller uncertainty and disregarding uncertainties when averaging data](cdpa-distractors-reveal-uncertainty-misconceptions.md) — related
 - [AI systems giving definitive diagnoses without expressing appropriate uncertainty can reinforce rather than correct misconceptions](ai-definitive-diagnoses-reinforce-misconceptions.md) — related
+- [Interactivity of Physlet problems benefits students in three ways: enabling creative solution methods, providing visualization-based learning, and making misconceptions apparent](physlet-interactivity-benefits.md) — related

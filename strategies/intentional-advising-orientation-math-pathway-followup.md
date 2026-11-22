@@ -51,6 +51,7 @@ Instead of randomly assigning students to a faculty advisor, faculty with specif
 - [Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model](organizational-readiness-preventive-student-success.md)
 - [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 - [Advise community college students to enroll in developmental mathematics in their first semester before continuing astronomy coursework](early-developmental-math-advisement-astronomy-strategy.md)
+- [Make the undergraduate physics advisor deeply knowledgeable and constantly available, as a key retention factor](knowledgeable-available-physics-advisor-strategy.md)
 
 ## Examples
 -

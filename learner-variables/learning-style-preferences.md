@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (46 show a difference, 17 mixed, 20 no difference) · 52 studies (26 causal, 10 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 52 report an effect size · 82 claims rest on one study
+> **Evidence** · 87 claims (46 show a difference, 18 mixed, 23 no difference) · 53 studies (27 causal, 10 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 53 report an effect size · 86 claims rest on one study
 
 ## Bottom line
 
@@ -121,6 +121,10 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Video preference correlated positively with total academic scores and especially with the oral presentation component](../claims/video-preference-positive-correlation-scores.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Aligning instructional modality with learner-stated VARK preference does not significantly improve short-term learning gains](../claims/preference-alignment-no-significant-learning-gains.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Exploratory subgroup analyses suggest modality-matched Visual and Kinesthetic learners showed marginal, uncorrected performance improvements](../claims/modality-matched-subgroup-marginal-improvements.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [A controlled isolation study found little correlation between personality types, sociological learning style preference, and performance on pre- and post-tests for buoyancy activities](../claims/isolation-study-no-lsp-performance-link.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Auditory learning preference shows no apparent correlation with course grade, and low-auditory learners' under-performance in traditional settings is not statistically significant](../claims/auditory-preference-no-grade-correlation.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Learning style preference for individual, group, or team environments shows little difference in final physics course grade in either SCALE-UP or traditional sections](../claims/lsp-social-preference-no-grade-correlation.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [The authors propose that expressed learning style preferences may not align with the environment that best produces learning, and that students may apply their styles regardless of course structure](../claims/preferences-may-not-align-with-learning-environment.md) [~W] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

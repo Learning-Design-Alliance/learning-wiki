@@ -52,3 +52,4 @@ The article asserts this framing statement about games as learning environments 
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
 - [Vocational students interpreted Quantum Dreams GUI elements in game, science, and conceptual frames, with game explanations slightly most common](gui-interpretations-game-science-conceptual-frames.md) — a narrower finding that bears on this claim
+- [Inquiry-based instruction designed around individual student interests is the most effective approach to science learning](inquiry-based-instruction-most-effective.md) — related

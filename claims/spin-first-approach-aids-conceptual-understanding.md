@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-22
 sources:
   - id: asfaw-2022
     resource: "https://doi.org/10.1109/te.2022.3144943"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The discrete-variable or spin-first approach to quantum mechanics provides more opportunities for students to understand underlying concepts independently from complex mathematical calculations. [→ Asfaw 2022](#asfaw-2022)
@@ -54,3 +55,4 @@ The article cites background studies (reference 53) supporting a spin-first, dis
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
 - [Study cited by the review found few secondary students taught via the Historical Development Approach used mathematical concepts to demonstrate quantum understanding](historical-approach-few-students-use-mathematics.md) — related
 - [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related
+- [Introducing quantum mechanics through spin and the EPR–gedanken experiment lets gifted or interested pupils discuss quantum concepts precisely on a technically modest mathematical level](spin-epr-entry-quantum-high-school.md) — possibly the same claim (merge candidate)

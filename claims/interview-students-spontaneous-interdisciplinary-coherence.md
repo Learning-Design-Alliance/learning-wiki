@@ -54,3 +54,4 @@ One of 48 semi-structured interviews with 23 students across the first two years
 - [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related
 - [The practice led about half of students to identify interdisciplinary connections between electrodynamics and biological and chemical systems](em-practice-interdisciplinary-connections.md) — related
 - [Threading estimation throughout a physics course leads a significant fraction of students to report it as valuable beyond the class](estimation-thread-significant-fraction-long-term-value.md) — related
+- [A student's epistemological wall between formal and everyday reasoning is associated with between-type reconciliation in only 13% of opportunities versus 46% within type](epistemology-wall-between-type-reconciliation.md) — related

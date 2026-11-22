@@ -60,3 +60,4 @@ Numerical analysis of videotaped vertical jump data shown in figure 2, with velo
 - [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — related
 - [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
 - [Not explicitly defining the system boundary leads to double-counting errors such as erroneously deriving v = √(4gh) for a falling apple](undefined-system-boundary-double-counting-error.md) — related
+- [Student free-fall measurements with conventional clocks frequently yield poor g-values, leading many students to reject their data](free-fall-clock-measurement-poor-g-values.md) — reports the opposite

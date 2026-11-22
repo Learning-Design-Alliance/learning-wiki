@@ -52,3 +52,5 @@ Pre-post assessment using the Force Motion Conceptual Evaluation in the P3 cours
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — related
+- [IE and high-tech methods by themselves do not insure superior student learning](ie-and-high-tech-alone-insufficient.md) — related
+- [In a sophomore mechanics course with little active learning, pre-instruction FMCE performance was weak and normalized gains were low](low-fmce-gains-advanced-mechanics-lecture-course.md) — related

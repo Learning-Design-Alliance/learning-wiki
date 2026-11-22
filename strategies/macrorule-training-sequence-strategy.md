@@ -48,6 +48,7 @@ The programme's recipe combined "explicit teacher modelling, guided practice and
 - [Explicit Writing Instruction](explicit-writing-instruction.md)
 - [Guided Writing](guided-writing.md)
 - [Explicit and Systematic Writing Instruction](explicit_and_systematic_writing_instruction.md)
+- [Choose and sequence items by first targeting a cognitive goal, then varying the targeted habit of mind](a2l-item-selection-cognitive-goal-habit-mind.md)
 
 ## Examples
 -

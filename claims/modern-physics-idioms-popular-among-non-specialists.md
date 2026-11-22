@@ -48,3 +48,4 @@ Argument in Section 3, reason 2: the article argues that very large accessibilit
 ## Related Claims
 - [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — related
 - [Swift informal outreach reached mass audiences: the Black Holes planetarium show played in over 30 venues, the PBS Nova episode was initially viewed by over 10 million people, and the Supernova! toolkit reached over 138,000 attendees through 1,284 events](swift-informal-outreach-mass-reach.md) — related
+- [Children regularly encounter modern physics concepts through media and technologies, in startling contrast to the physics taught in schools](children-encounter-modern-physics-via-media-and-technology.md) — related

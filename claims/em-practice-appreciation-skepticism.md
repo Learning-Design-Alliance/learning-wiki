@@ -68,3 +68,4 @@ Qualitative coding found "9 out of 66 students described feeling s ome initial h
 - [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
 - [Carrying out the contemplative practices made undergraduate physics students highly aware of the applicability of formal physics principles to their observations and embodied experience](contemplative-practices-awareness-of-formal-theory-applicability.md) — related
 - [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related
+- [Co-teaching shifted a new instructor's beliefs about teaching from skepticism toward appreciation of the interactive in-class problem structure](coteaching-beliefs-shift-toward-interactive-structure.md) — related

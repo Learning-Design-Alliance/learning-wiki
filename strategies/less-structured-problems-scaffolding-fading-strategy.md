@@ -54,6 +54,7 @@ The article recommends that physics instructors give students problems of differ
 - [Gradual Release Of Responsibility](gradual-release-of-responsibility.md)
 - [Direct Instruction: Problem-Solving Strategies](direct_instruction-problem-solving_strategies.md)
 - [Give students explicit incentives to reflect after solving physics problems](explicit-incentives-post-solution-reflection.md)
+- [Design problems via a model-based paradigm that induces qualitative, comparative reasoning instead of equation manipulation](model-based-problem-design-paradigm.md)
 
 ## Examples
 -

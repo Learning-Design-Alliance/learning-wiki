@@ -80,3 +80,4 @@ Repeated-measures ANOVA across the three conditions (total N = 70) showed a sign
 - [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related
 - [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related
 - [Pre-task planning, whether individual or collaborative, with or without teacher feedback, improves structural organization and clarity of argumentative essays relative to no planning](pre-task-planning-improves-essay-organization.md) — related
+- [Students did not show evidence of self-revising when asked to write short first drafts without a forced paired revision assignment](no-self-revision-without-forced-paired-assignment.md) — reports the opposite

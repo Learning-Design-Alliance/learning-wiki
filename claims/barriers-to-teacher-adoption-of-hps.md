@@ -53,3 +53,4 @@ The report cites Höttecke and Silva (2011), an international study focused on p
 - [Nevada's refined instructional materials review process addresses prior problems of unclear, non-standard, and inequitable review, including rural districts' obstacles to participation](nevada-refined-im-review-process-addresses-clarity-and-rural-equity.md) — related
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Adoption of modeling instruction at the university level is impeded by lack of familiarity, resources, and suitable textbooks](modeling-adoption-impediments-university.md) — related

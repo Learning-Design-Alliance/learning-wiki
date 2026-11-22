@@ -52,3 +52,4 @@ Narrative review attribution: the authors cite prior work (their reference [10])
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
+- [Students rarely make explicit use of macroscopic analogies but often reason as if making them when describing tunnelling](implicit-macroscopic-analogies-tunnelling.md) — related

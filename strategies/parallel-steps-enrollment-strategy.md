@@ -47,7 +47,8 @@ The article recommends attacking low physics enrollment with several parallel ac
 - [Involving introductory-course students in research activities with small assistantships and conference travel recruited new physics majors at a stated 10-20 percent success rate over eight years](../claims/research-involvement-recruits-physics-majors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Make the undergraduate physics advisor deeply knowledgeable and constantly available, as a key retention factor](knowledgeable-available-physics-advisor-strategy.md)
 
 ## Examples
 -

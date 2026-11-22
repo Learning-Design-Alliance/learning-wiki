@@ -50,3 +50,4 @@ Case-study interaction analysis of Approach 3, in which real student data in an 
 - [The quality and accuracy of ChatGPT's output on a lab activity varies significantly with the detail and specificity of the prompts](prompt-detail-determines-chatgpt-lab-output-quality.md) — a broader claim this one bears on
 - [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a broader claim this one bears on
 - [ChatGPT's simulated lab data is heteroscedastic and unrealistic because noise scales with the magnitude of the measured value](chatgpt-simulated-data-heteroscedastic-unrealistic.md) — related
+- [Analyzing data from a student-built detector introduces students to statistical methods at a level not available in standard courses](detector-data-statistics-beyond-standard-courses.md) — related

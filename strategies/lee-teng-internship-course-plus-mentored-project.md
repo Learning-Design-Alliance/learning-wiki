@@ -43,6 +43,7 @@ The Lee Teng Undergraduate Internships, instituted in FY 2008 by Argonne, Fermil
 
 - [Organize a two-day accelerator workshop in which student groups take over distinct parts of an ongoing beam experiment with researcher and undergraduate mentors](accel-kitchen-two-day-mentor-supported-experiment-strategy.md)
 - [Adapt the summer research internship model down to high-school level with group research projects and mentoring](downscale-research-internships-to-high-schools.md)
+- [Summer research internships at a nearby research institution as the substitute for in-house intermediate and advanced laboratory courses](mville-columbia-summer-research-internship.md)
 
 ## Examples
 -

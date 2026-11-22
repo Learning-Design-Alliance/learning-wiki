@@ -67,3 +67,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Guided inquiry implementation in chemistry is hindered by required time and students unfamiliar with the approach](guided-inquiry-weaknesses-time-familiarity.md) — related
 - [In-service teachers implementing STEAM face challenges including lack of planning time, inadequate school structure, and difficulty assessing STEAM achievements](shernoff-2017-steam-teacher-challenges.md) — related
 - [The co-designing teacher reported that the BFS module fit well within the health science unit and supported both science and AI learning outcomes](teacher-interview-curriculum-fit.md) — related
+- [Adoption of modeling instruction at the university level is impeded by lack of familiarity, resources, and suitable textbooks](modeling-adoption-impediments-university.md) — related

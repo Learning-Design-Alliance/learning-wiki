@@ -48,3 +48,4 @@ Author's informal observation, offered without measurement, comparing student au
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — a narrower finding that bears on this claim
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
+- [Hands-on astronomy visits were extremely well appreciated by children and teachers and promoted early excitement of science](astronomy-outreach-appreciated-promotes-excitement.md) — related

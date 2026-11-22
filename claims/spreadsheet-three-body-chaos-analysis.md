@@ -46,3 +46,4 @@ Authors' design statement for the spreadsheet implementation of a simplified cir
 
 ## Related Claims
 - [Designing a physics course for life-science majors shifted content selection away from mathematically derivable canonical topics and toward phenomenologically introduced topics such as diffusion.](physics-content-selection-for-life-sciences.md) — related
+- [Students pinpointed the graphical form of the spreadsheet-based algorithm, with automatic graph updating, as the key merit of the approach](spreadsheet-graphical-form-key-merit.md) — related

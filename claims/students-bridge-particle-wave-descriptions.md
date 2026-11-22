@@ -58,3 +58,4 @@ Interview analysis: Student I alternated between saying the electron and the pro
 - [Students show inconsistent understanding of the wave nature of particles: about 65% identify electron-wave peaks as probability amplitude but only 35% call the wave nature of a particle a probability wave](inconsistent-probability-wave-understanding.md) — related
 - [A majority of interviewed students found the structure of the atom easier to understand than wave-particle duality, citing historical context as helpful](students-find-soa-easier-than-domr.md) — related
 - [Classical analogies can hinder learning of quantum topics such as wave–particle duality and tunnelling](classical-analogies-hinder-quantum-topics.md) — related
+- [A single student used multiple, rapidly switching interpretations of the same wave physics situations, including object-like and event-like reasoning within one interview](students-hold-multiple-switching-interpretations.md) — related

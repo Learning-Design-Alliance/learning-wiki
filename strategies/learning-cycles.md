@@ -72,6 +72,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 - [Two-session preparation-for-future-learning introduction to an active-learning course](pfl-two-session-active-learning-introduction.md)
 - [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 - [Phenomenon-based learning cycle: observation, questioning, investigation, modelling, explanation, extension](quantum-phenomenon-inquiry-cycle.md)
+- [Modeling instructional cycle: introduction and representation, coordination, application, abstraction and generalization, and incremental development](modeling-instructional-cycle-phases.md)
 
 ## Examples
 - **BSCS Science: An Investigative Approach** ([bscs.org](https://bscs.org)) — the high school biology program built directly on the 5E model, with each chapter structured as Engage–Explore–Explain–Elaborate–Evaluate

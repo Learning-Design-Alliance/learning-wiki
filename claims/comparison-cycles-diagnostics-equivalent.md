@@ -51,3 +51,4 @@ Cohort equivalence check in the supplementary participant analysis: groups were 
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — reports the opposite
 - [Students in RealTime Physics inquiry-based labs were predicted to have higher post FCI scores than students in traditional labs](rtp-lab-higher-post-fci-scores.md) — related
 - [Mean of Individual Gains on the BEMA was significantly higher in the experimental group than in the control group](individual-gains-higher-eg.md) — related
+- [Teaching and Learning Physics course students showed significant normalized conceptual gains on the BEMA, with larger gains for students in formalized teaching roles](tlp-course-bema-gains.md) — related

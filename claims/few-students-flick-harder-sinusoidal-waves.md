@@ -48,3 +48,4 @@ The author's observation from the same dataset, used to argue the predictive pow
 - [Students commonly predict that a harder or faster hand motion creates a faster wavepulse, with explanations strongly connected to their gestures](students-predict-harder-flick-faster-wavepulse.md) — related
 - [The Ohm's p-prim can be modeled as emerging within the wavepulse context rather than being activated as a pre-existing idea](ohm-p-prim-emerges-from-blend.md) — related
 - [Mental space integration makes fewer assumptions and has greater explanatory and predictive power than the resources framework for this data](blending-greater-power-than-resources-framework.md) — related
+- [After instruction on waves, a majority of university students still believe hand motion affects wave speed, though most recognize the correct medium-based answer](hand-motion-wave-speed-persists-after-instruction.md) — related

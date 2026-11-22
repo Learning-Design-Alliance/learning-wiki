@@ -49,3 +49,4 @@ Narrative review content: the article attributes to Driver and Erickson the find
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — a broader claim this one bears on
 - [Children's apparently inconsistent answers about the earth's shape are largely explained by consistent use of alternative mental models](childrens-inconsistent-earth-answers-reflect-coherent-mental-models.md) — related
 - [Adults around the globe hold naive conceptions about the viscous behavior of fluids, consistent with those found in prior qualitative research with children and students](adults-globally-hold-naive-conceptions-viscous-behavior.md) — a narrower finding that bears on this claim
+- [Peer interaction can produce regression in understanding, as one student adopted a more naive current-flow model from a classmate](peer-transmission-naive-model.md) — related

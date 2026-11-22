@@ -52,3 +52,4 @@ Regression results (RQ2): random forest, support vector machine, and naive Bayes
 - [On real tutor log data, the models beat mean-time prediction but most of the gain is captured by a simple baseline, and the learning extension slightly overfits](real-data-prediction-baseline-captures-most-gain.md) — related
 - [The proposed model's effectiveness was demonstrated by applying it to actual keystroke log datasets](tdlhmm-effectiveness-demonstrated-keystroke-datasets.md) — related
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
+- [Keystroke (S-notation) capture of a single writing episode suggests an evolution in a student's understanding of density during composing](keystroke-case-density-understanding-evolution.md) — related

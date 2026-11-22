@@ -52,6 +52,7 @@ For institutions developing similar programs, the authors suggest starting the r
 - [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
 - [Keep physical resource requirements minimal when launching a first-year research program](minimal-resources-first-year-research-program.md)
 - [Key takeaways for institutions adopting short-term team-based research programs](siren-key-takeaways-replication.md)
+- [Institutionalize undergraduate research with credit, faculty load credit and summer funding as central to student satisfaction and recruitment](undergrad-research-credit-incentives-strategy.md)
 
 ## Examples
 -

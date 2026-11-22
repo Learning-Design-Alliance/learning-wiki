@@ -52,3 +52,4 @@ Numerical analysis (Section V) of real FCI data from three classes (interactive 
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — related

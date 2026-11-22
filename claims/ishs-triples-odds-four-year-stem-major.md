@@ -55,3 +55,4 @@ Propensity score-weighted hierarchical model on Texas higher education records f
 - [Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science](ubms-increases-odds-math-science-major.md) — related
 - [The share of students declaring they disliked physics at school fell from 42% to 18% after the course](disliking-physics-decline-42-to-18-percent.md) — related
 - [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related
+- [School-college science enrichment programs such as Science-Magnet and Science-Olympiad are estimated to raise the ratio of science majors by 10-20%](science-enrichment-programs-10-20-percent-science-majors.md) — related

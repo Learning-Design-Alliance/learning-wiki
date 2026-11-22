@@ -71,3 +71,4 @@ Distractor analysis of ENEM 2013 question 48 (PET bottle thermal properties), di
 - [Students' spontaneous questions during the experiments showed investigative engagement and transfer of concepts to everyday situations](student-questions-investigative-engagement-arduino-experiments.md) — related
 - [Students persist in interpreting infrared-camera images in terms of temperature despite initial clarification](students-interpret-ir-images-as-temperature.md) — related
 - [Students confuse heat and temperature in process conceptions related to thermal energy](apos-heat-temperature-conflation.md) — related
+- [In one group with no comparison group, students' concept-question scores rose from pre-test to post-test after the course, and original believers in the ghost-induced temperature-drop myth were more skeptical on the post-test than on the pre-test](misconception-and-concept-question-gains.md) — related

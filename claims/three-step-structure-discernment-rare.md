@@ -74,3 +74,4 @@ Examination of control-group written work in both courses found omitting the con
 - [For the rolling-hoop problem pair, no significant difference between paired and single presentation, attributed to failure to use conservation of energy correctly](hoop-pair-no-difference-energy-errors.md) — related
 - [Content-area difficulty is non-uniform: students perform better on energy-based mechanics than force-based mechanics and struggle most with momentum](content-area-difficulty-momentum-hardest.md) — related
 - [On Q16, 35% of upper-level students selected only one principle (conservation of momentum alone, 21%, or mechanical energy constancy alone, 14%) as needed to solve the ballistics-collision problem](emcs-q16-single-principle-selection-upper-level.md) — related
+- [University modeling students show greater conceptual gains than traditional instruction and learn momentum conservation faster](modeling-university-conceptual-gains-momentum.md) — related

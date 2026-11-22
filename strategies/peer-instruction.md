@@ -69,6 +69,8 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
 - [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Examples
 - **[Peer Instruction Network / Mazur Group resources](https://blog.peerinstruction.net)** — Eric Mazur's original implementation in Harvard Physics 1, replacing most lecture with ConcepTests; documented in *Peer Instruction: A User's Manual* (1997).

@@ -68,3 +68,4 @@ The article categorizes all non-Q3 items by Cohen's d: "Only three questions on 
 - [In 88% of eligible cases, groups with one member correct and one incorrect individually gave the correct CSEM answer after working together, in a single-group pre-post study](construction-of-knowledge-88-percent-graduate-csem.md) — related
 - [The most challenging EM concepts for upper-level students are shielding, electric field-potential connection, magnetic force on a charge, and Faraday's law/Lenz's law](four-most-challenging-em-concepts-upper-level.md) — related
 - [Graduate students' CSEM performance rose from individual to group administration after unguided peer interaction, in one uncontrolled pre-post study](unguided-peer-interaction-improves-graduate-csem-scores.md) — related
+- [Students in the Teaching and Learning Physics course showed significant average gains on a conceptual electricity and magnetism survey](tlp-course-conceptual-gains-em.md) — related

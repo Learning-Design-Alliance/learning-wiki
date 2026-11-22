@@ -50,3 +50,4 @@ Student interviews on two posttest questions (airplane over a rotating disc; wat
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
 - [The author reports that a clear understanding of the rotating-rod system helps students better grasp similar rotation problems such as the centrifuge and sliding with friction on a rotating table](rotating-rod-understanding-transfers-to-similar-problems.md) — related
 - [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related
+- [Students cannot make or reason with freebody diagrams and insert fictitious centrifugal forces](freebody-diagram-difficulties.md) — related

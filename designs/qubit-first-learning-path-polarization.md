@@ -49,4 +49,4 @@ The curriculum introduces quantum mechanics in its axiomatic structure restricte
 -
 
 ## Key Sources
-- Carlini, A., Lanza, A., Monti, D., Soso, A., Losero, E., Mari, M., Oñate Orozco, M., Bondani, M. (2026). Teaching quantum mechanics in secondary schools: A qubit-first learning path to Bell's inequalities. arXiv. https://arxiv.org/abs/2610.29834
+- Carlini, A., Lanza, A., Monti, D., Soso, A., Losero, E., Mari, M., Oñate Orozco, M., Bondani, M. (2026). Teaching quantum mechanics in secondary schools: A qubit-first learning path to Bell's inequalities. arXiv. https://arxiv.org/abs/2610.29834. [doi:10.21203/rs.3.rs-11352498/v1](https://doi.org/10.21203/rs.3.rs-11352498/v1)

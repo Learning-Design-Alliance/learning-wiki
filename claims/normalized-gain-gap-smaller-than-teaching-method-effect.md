@@ -57,3 +57,5 @@ The review's comparison of weighted normalized gains (0.43 men vs 0.37 women on 
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
 - [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
+- [Hidden-variable correlations with normalized gain are small relative to the effect of interactive engagement](hidden-variables-small-versus-ie-effect.md) — related
+- [Interactive Engagement introductory mechanics courses achieve average normalized gains about twice those of Traditional courses](ie-courses-double-normalized-gain-of-traditional.md) — related

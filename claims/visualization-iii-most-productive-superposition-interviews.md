@@ -51,3 +51,4 @@ Individual interviews with nine volunteers who had completed an introductory qua
 - [Revising the simulation to display each input particle's state helped students distinguish mixed states from superposition states](iterative-revision-mixed-state-display.md) — related
 - [The class using the revised visualization (2014) showed a significantly different, lower frequency of incorrect superposition ideas than the 2013 class](revised-visualization-lower-incorrect-ideas-inclass.md) — related
 - [Eleven of fourteen students reported making a math–experiment connection through the single-photon experiments](math-experiment-connection-single-photon.md) — related
+- [Computer simulations visualize dynamic model components and student exercises applying the models support learning to handle models](computer-simulation-supports-model-construction.md) — related

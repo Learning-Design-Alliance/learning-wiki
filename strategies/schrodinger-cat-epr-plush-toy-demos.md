@@ -46,6 +46,7 @@ Two physical demos use Schrödinger's cat plush toys, depicting an alive state o
 - [Follow the demonstration with a qualitative discussion encoding a shared encryption key in measurement outcomes and detecting an eavesdropper via Bell test failure](post-demo-qkd-encryption-discussion.md)
 - [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
+- [Develop the EPR argument for pupils in five steps: mathematical tools, entangled experimental setup, classical assumptions, quantum-theoretical outcome, interpretation](five-step-epr-argument-teaching-sequence.md)
 
 ## Examples
 -

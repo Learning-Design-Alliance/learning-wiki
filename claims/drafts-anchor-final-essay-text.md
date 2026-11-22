@@ -48,3 +48,4 @@ N-gram retention analysis (Table 2) across the n=253 experiment's four condition
 - [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](engage-to-unlock-lower-ai-text-coverage.md) — related
 - [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md) — related
 - [Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1](standard-chatbot-essays-closest-to-ai-only-semantics.md) — related
+- [Students did not show evidence of self-revising when asked to write short first drafts without a forced paired revision assignment](no-self-revision-without-forced-paired-assignment.md) — related

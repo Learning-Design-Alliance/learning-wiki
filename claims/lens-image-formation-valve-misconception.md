@@ -53,3 +53,4 @@ Optics questions 6a-c on image formation by a converging lens, answered by 941 s
 - [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related
 - [The lab session corrected student misconceptions about optical phase and optical versus electrical spectra, with positive feedback over four years](lab-session-misconception-correction-feedback.md) — related
 - [A converging-lens simulation activity produced no improvement in optics content performance, likely because the task did not match the assessment](optics-simulation-no-improvement-mismatch.md) — related
+- [Meta-conceptual teaching phases made light more comprehensible and reduced confusion between model and reality](meta-conceptual-phases-reduce-model-reality-confusion.md) — related

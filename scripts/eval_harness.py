@@ -172,6 +172,12 @@ def safe_model_dirname(model: str) -> str:
     return model.replace("/", "__").replace(":", "_")
 
 
+def run_result_files(run_dir: Path) -> list[Path]:
+    """Every cached result under run_dir: <model>/<article id>.json. An old-style arXiv id carries its
+    archive ("arxiv-physics/0611277"), so its result sits one folder deeper; a "*/*.json" glob missed it."""
+    return sorted(p for p in run_dir.rglob("*.json") if p.parent != run_dir)
+
+
 def result_path(run_dir: Path, model: str, article_id: str) -> Path:
     return run_dir / safe_model_dirname(model) / f"{article_id}.json"
 
@@ -832,7 +838,7 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
         sys.exit(1)
 
     existing_slugs = get_existing_slugs()
-    result_files = sorted(run_dir.glob("*/*.json"))
+    result_files = run_result_files(run_dir)
     if args.models:
         wanted = {safe_model_dirname(m) for m in args.models}
         result_files = [p for p in result_files if p.parent.name in wanted]
@@ -889,7 +895,7 @@ def compute_rows(run_dir: Path) -> tuple:
     """Load every cached result under run_dir and compute the per-model summary
     rows both generate_reports() and `compare` build on. Returns (by_model, rows)."""
     by_model = {}
-    for path in sorted(run_dir.glob("*/*.json")):
+    for path in run_result_files(run_dir):
         record = json.loads(path.read_text(encoding="utf-8"))
         by_model.setdefault(record["model"], []).append(record)
 
@@ -1106,7 +1112,7 @@ def _resolve_default_baseline_run() -> str:
 
     def _run_mtime(run_id: str) -> float:
         try:
-            return max((f.stat().st_mtime for f in (RUNS_DIR / run_id).glob("*/*.json")), default=0.0)
+            return max((f.stat().st_mtime for f in run_result_files(RUNS_DIR / run_id)), default=0.0)
         except OSError:
             return 0.0
 
@@ -1262,7 +1268,7 @@ def _generate_index_locked(verbose: bool) -> None:
     for run_dir in sorted(RUNS_DIR.iterdir()):
         if not run_dir.is_dir():
             continue
-        result_files = list(run_dir.glob("*/*.json"))
+        result_files = run_result_files(run_dir)
         if not result_files:
             continue
 

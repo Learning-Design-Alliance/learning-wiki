@@ -78,3 +78,4 @@ Comparison of outcome expectations between the two subfields found astrophysics 
 - [Women's initial interest in physics arose through diverse paths including popular media exposure, parental encouragement, and positive high school physics experiences](pre-college-interest-factors-women-physics.md) — related
 - [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related
 - [AQA's optional second-year module leaves a large share of A-Level Physics candidates without space science](aqa-optional-module-space-science-gap.md) — related
+- [Astronomy's inherent interest keeps young people engaged in science while they learn fundamentals of mathematics, statistics, physics and chemistry](astronomy-inherent-interest-retains-science-students.md) — related

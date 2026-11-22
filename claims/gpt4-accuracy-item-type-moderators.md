@@ -63,3 +63,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 - [GPT-4 performs exceptionally well on coding tasks and simple single-step problems, but poorly on multi-step problems, longer prose, and interdisciplinary problems.](gpt4-strong-coding-weak-multistep-prose.md) — a broader claim this one bears on
 - [LLM accuracy degrades on finite-rate, non-quasistatic thermodynamics scenarios, with recurring error patterns in quasistatic template misuse and entropy bookkeeping](finite-rate-irreversible-scenario-errors.md) — a narrower finding that bears on this claim
 - [Error type depends on question style: explain and define questions fail mainly through conceptual and exam-technique errors](question-style-predicts-error-type-gravity.md) — related
+- [Student responses to equivalent physics questions show strong context dependence](context-dependence-physics-responses.md) — related

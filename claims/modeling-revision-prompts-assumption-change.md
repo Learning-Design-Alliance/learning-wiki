@@ -47,3 +47,4 @@ Case comparison across the two PAR problems in the course: Corey's CV definition
 ## Related Claims
 - [Giving students both isomorphic problems simultaneously did not improve performance or reveal the underlying similarity](ipp-pairing-did-not-add-insight.md) — related
 - [An open-ended homework prompt elicited a breadth of distinct student solutions, providing material for productive peer discussion](open-ended-prompts-elicit-diverse-solutions.md) — related
+- [Students' informal definitions of symmetry converge on the scientists' definition of symmetry as invariance under transformations](student-definitions-converge-symmetry-invariance.md) — related

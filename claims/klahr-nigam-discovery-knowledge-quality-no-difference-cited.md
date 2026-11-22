@@ -49,3 +49,4 @@ The thesis's literature chapter reports this second-hand, contrasting it with Br
 - [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — reports the opposite
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
+- [Knowledge is not easily transferred; understanding must be discovered independently by each learner](knowledge-taught-understanding-discovered.md) — reports the opposite

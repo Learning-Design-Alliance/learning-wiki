@@ -47,3 +47,4 @@ Post-instruction Survey B (N2 = 39) Likert item on ease of using the nu-system i
 ## Related Claims
 - [After instruction in the nu-system, undergraduate students rated the wave-equation derivation as significantly clearer than at baseline (Mann–Whitney U test, p = 0.005)](nu-system-improves-perceived-wave-equation-clarity.md) — related
 - [Undergraduate students report widespread difficulties with SI electromagnetism units, most commonly converting between unit systems and tracking ε0 and µ0](si-unit-difficulties-widespread-undergraduates.md) — related
+- [Becoming familiar with the adopted unit system and converting between unit systems is a major hurdle for students in electromagnetism classes](unit-system-conversion-major-hurdle-electromagnetism-students.md) — related

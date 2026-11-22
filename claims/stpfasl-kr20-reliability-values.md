@@ -48,3 +48,4 @@ Classical test theory reliability analysis of the final instrument across the si
 ## Related Claims
 - [Advanced students outperform introductory students on the STPFaSL, supporting content validity](stpfasl-content-validity-advanced-benchmark.md) — related
 - [Introductory STPFaSL scores do not differ significantly across institutions, instructors, or topic duration](stpfasl-scores-invariant-across-institutions.md) — related
+- [Both versions of DIRECT are reliable and valid for assessing DC circuit conceptual understanding](direct-reliable-and-valid.md) — related

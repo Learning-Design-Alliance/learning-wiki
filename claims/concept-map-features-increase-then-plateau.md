@@ -48,3 +48,4 @@ Student's t tests comparing average concept, proposition, and branch counts acro
 ## Related Claims
 - [A substantial proportion of students simplify their concept maps during the semester](students-simplify-concept-maps-over-semester.md) — related
 - [Structural complexity of concept maps shows no significant correlation with scientific reasoning in thesis writing after multiple-comparison correction](concept-map-structure-no-correlation-writing-reasoning.md) — related
+- [Concept-map modal maps showed structural development from isolated partial networks to an integrated network with more correct propositions](modal-map-structural-development-holography.md) — related

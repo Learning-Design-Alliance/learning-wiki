@@ -51,6 +51,7 @@ The article's development method: mine prior semesters' free-response solutions 
 - [Build multiple-choice distractors by categorizing students' open-ended written responses into groups of similar ideas](student-response-distractor-construction-strategy.md)
 - [Build multiple-choice distractors from coded free-response student answers, with partial credit for partially correct reasoning](cmr-design-from-fr-response-data.md)
 - [Strategies for implementing upper-division conceptual assessments: early faculty involvement, simple rubrics, multiple-choice versions, and low-stakes framing](upper-division-assessment-implementation-strategies.md)
+- [Shift exams from almost 100% multiple-choice to a 50% MC / 50% open-ended mix to diversify reasoning structure](fifty-fifty-mc-oe-exam-mix-strategy.md)
 
 ## Examples
 -

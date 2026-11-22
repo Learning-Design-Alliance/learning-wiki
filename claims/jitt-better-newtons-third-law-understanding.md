@@ -56,3 +56,4 @@ The study's stated conclusion, based on the 222-student FCI pretest/post-test co
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
 - [Action-reaction language for Newton's third law implies causality and can mislead learners](action-reaction-language-implies-causality.md) — related
+- [Students taught with modeling, discourse management, and system schema scored significantly better on the FCI Newton's Third Law questions than students taught with Workshop Physics](system-schema-fci-third-law-posttest-gain.md) — related

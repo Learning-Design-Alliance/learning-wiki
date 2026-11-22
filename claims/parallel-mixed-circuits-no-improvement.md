@@ -69,3 +69,4 @@ The authors' stated interpretation of student difficulty distinguishing potentia
 - [Students have difficulty understanding fundamental behavior of electrical circuits](students-difficulty-fundamental-circuit-behavior.md) — related
 - [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — related
 - [Students can determine a trapped particle's charge-to-mass ratio by two methods whose results agree with each other and with an analytic trap model](charge-to-mass-ratio-two-methods-agree.md) — related
+- [Substantial fractions of students hold specific circuit misconceptions: 28% show current/voltage confusion and 17% cannot identify a short](direct-distracter-misconception-percentages.md) — related

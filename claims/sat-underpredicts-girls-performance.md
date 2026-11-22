@@ -104,3 +104,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Timed physics exams lower scores for women and girls disproportionately more than for men and boys](timed-exams-disproportionately-lower-womens-scores.md) — related
 - [A gender gap in individual exam performance narrows but persists from Exam I to Exam III](pronoun-gap-individual-exams-narrows-persists.md) — related
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
+- [Among academically able students with equal science potential, females are more likely than males to abandon science at every decision stage](females-abandon-science-despite-equal-achievement.md) — related

@@ -53,6 +53,7 @@ The authors recommend that instructional efforts target both procedural errors a
 - [Teach computation via guided lab-built programs that students independently alter to solve modified homework problems, checked against a provided test case before a graded case.](lab-built-program-modification-homework-strategy.md)
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](staged-submission-with-analytical-debug-cases.md)
 - [Use explicit formative-assessment interventions to help advanced physics students develop learning and self-monitoring habits of mind](explicit-formative-assessment-advanced-courses.md)
+- [Choose and sequence items by first targeting a cognitive goal, then varying the targeted habit of mind](a2l-item-selection-cognitive-goal-habit-mind.md)
 
 ## Examples
 -

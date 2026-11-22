@@ -55,3 +55,6 @@ Clement (1983) asked first-year pre-engineering college students to draw a force
 - [Even after interviewer-led critical analysis, STs initially overlooked missing forces and accepted a physically unjustified localized tangential force](initial-critical-analysis-limitations.md) — related
 - [An important set of students maintains the everyday prior idea that greater fluid velocity implies greater pressure, which competes with the taught inverse relation](students-maintain-higher-pressure-higher-velocity-prior-idea.md) — a narrower finding that bears on this claim
 - [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related
+- [Students transformed the linear-motion misconception that constant net force implies constant velocity into constant net torque implying constant angular velocity](constant-torque-constant-angular-velocity-misconception.md) — related
+- [Instruction moved most interviewed students to a pure Newtonian model, with the reasoning that constant speed means no net force driving the change](instruction-shift-pure-newtonian-state.md) — related
+- [Students confuse velocity with acceleration, believing zero velocity implies zero net force](zero-velocity-zero-force-misconception.md) — a narrower finding that bears on this claim

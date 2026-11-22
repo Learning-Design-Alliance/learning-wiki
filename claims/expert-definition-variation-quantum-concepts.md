@@ -46,3 +46,4 @@ Qualitative interview finding from the expert consultations: two printed example
 
 ## Related Claims
 - [A preliminary expert-consulted list of core quantum computing concepts comprises ten concepts, with entanglement and superposition mentioned by the most experts](preliminary-quantum-core-concept-list.md) — related
+- [Students' informal definitions of symmetry converge on the scientists' definition of symmetry as invariance under transformations](student-definitions-converge-symmetry-invariance.md) — related

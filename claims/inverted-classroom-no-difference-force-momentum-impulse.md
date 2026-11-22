@@ -50,3 +50,4 @@ Mann-Whitney U analysis of Test 1 marks for the same 76-student quasi-experiment
 - [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — related
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related
 - [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related
+- [The same pattern holds for momentum and impulse: students who could explain the physics meaning scored higher, though overall scores were lower than for force](momentum-impulse-meaning-explanation-linked-to-test-scores.md) — related

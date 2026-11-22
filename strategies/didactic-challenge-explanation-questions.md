@@ -44,6 +44,7 @@ The article proposes confronting learners with questions whose required skill is
 - [Audit which conceptual and mathematical skills should form the desired learning outcomes of physics courses in a future where physicists solve problems through dialog with AI systems](audit-learning-outcomes-for-ai-era-physics.md)
 - [Target retrieval practice at fundamental equations and prompt coherence-seeking rather than rote recall of complex formulas](retrieval-practice-fundamental-equations-coherence.md)
 - [Anchor career development in problem-solving on a foundation of physical fundamentals](anchor-problem-solving-on-fundamentals.md)
+- [Use deliberately impossible or experimentally answerable project questions to reveal student understanding and integrate theory with experiment](impossible-and-experimental-project-questions.md)
 
 ## Examples
 -

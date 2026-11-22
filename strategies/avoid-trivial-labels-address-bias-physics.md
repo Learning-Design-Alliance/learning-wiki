@@ -53,6 +53,7 @@ The article advises instructors and advisors never to label problems students st
 - [Instructors and TAs should avoid propagating gender stereotypes and message that physics success comes from effort and deliberate practice](instructors-avoid-propagating-gender-stereotypes-strategy.md)
 - [Actively support student community formation through counterspaces, cohort-bonding, and affinity groups, with implicit bias training for advisors](counterspaces-cohort-bonding-inclusive-community.md)
 - [Intentional recruitment and retention efforts centering student assets and addressing stereotypes, especially in early introductory courses](intentional-recruitment-retention-physics-majors.md)
+- [Make the undergraduate physics advisor deeply knowledgeable and constantly available, as a key retention factor](knowledgeable-available-physics-advisor-strategy.md)
 
 ## Examples
 -

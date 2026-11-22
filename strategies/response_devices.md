@@ -69,6 +69,8 @@ Response devices convert passive audiences into active respondents and give inst
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 - [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

@@ -48,3 +48,4 @@ Pie-chart analysis (Figure 4) of binary-coded applied learning components—inte
 ## Related Claims
 - [An increasing trend toward industry internships in QT master's programs: none offered industry internships before 2019, while greater than 50% of newly launched programs did so as of 2020](qt-masters-industry-internship-trend.md) — related
 - [Explicit career awareness elements—such as exposure to quantum role taxonomies, industry speakers, workforce-aligned advising, and guidance on non-academic trajectories—are among the least consistently articulated components across U.S. quantum master's programs.](career-awareness-least-articulated.md) — related
+- [Research components are more common in master's IT degrees while internships are more common in bachelor's IT degrees, with master's internships rising with specialization level](research-components-masters-internships-bachelors.md) — related

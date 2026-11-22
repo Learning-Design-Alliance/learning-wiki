@@ -96,3 +96,4 @@ The article's conclusion about subset A, a list of hardware and engineering skil
 - [Educators see industry-driven curriculum revisions as a major opportunity for QISE course development](industry-driven-qise-curriculum-revisions.md) — related
 - [Uncertain quantum workforce demand and academic-industry goal mismatches threaten standalone QISE program sustainability](qise-degree-demand-uncertainty-threats.md) — related
 - [Across 42 QISE industry roles, quantum requirements span the full expertise spectrum, including seven roles requiring no quantum expertise](qise-roles-distributed-across-expertise-levels.md) — related
+- [An informal survey found only a handful of mid-western research universities offered an intermediate general relativity course to undergraduates](few-universities-offer-undergraduate-gr-course.md) — related

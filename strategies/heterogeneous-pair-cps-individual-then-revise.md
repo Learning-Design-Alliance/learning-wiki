@@ -50,6 +50,7 @@ The article recommends structuring collaborative problem-solving so that mixed-a
 
 - [Stick-It Together (Collaborative Problem-Solving)](stick-it-together-collaborative-problem-solving.md)
 - [Collaborative Problem Solving With Sticky Notes](collaborative_problem-solving_with_sticky_notes.md)
+- [Pair high (A) with middle (B) achievement students and pair low (C) students together to maximize overall gain on conceptual tests](pair-ab-and-cc-for-overall-gain.md)
 
 ## Examples
 -

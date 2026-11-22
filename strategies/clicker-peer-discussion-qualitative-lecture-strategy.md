@@ -53,6 +53,8 @@ During lecture the instructor poses multiple-choice and True-False questions eve
 - [Practical in-class routine for clicker polling: clusters of 3–5 questions, 45–60 second polls, and follow-up discussion when many answers are wrong](clicker-polling-classroom-routine.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 - [Use clicker question sequences with peer discussion and instructor checkpoints to scaffold difficult quantum concepts within limited class time](cqs-peer-discussion-checkpoints-strategy.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Semi-structured think-aloud interviews with five faculty members (plus four addi
 - [In clinical interviews, a student who blended the base+change symbolic form with physical meaning of the velocity equation showed more expert-like reasoning and problem use than a peer who treated the equation as a computational tool](base-change-blending-more-expert-like-reasoning.md) — related
 - [Pat's explanation of the velocity equation evidenced the Base + Change symbolic form, connecting the whole equation to an intuitive conceptual schema](pat-base-change-symbolic-form.md) — related
 - [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — related
+- [Students show atrophied number sense and inability to approximate, even when they know symbolic approximation methods](atrophied-number-sense-estimation.md) — related

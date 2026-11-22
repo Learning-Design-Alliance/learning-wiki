@@ -57,3 +57,4 @@ Survey participants overwhelmingly endorsed active learning (72% strongly agree,
 - [A group size of twenty students per CBL session is the most cited barrier, endorsed by 54.4% of students](cbl-twenty-student-group-size-barrier.md) — related
 - [Senior faculty influence, limited institutional technology support, variable trainee competence, and time constraints are perceived barriers to adopting preferred teaching styles](barriers-to-teaching-style-change.md) — related
 - [Faculty identify setting, faculty, and resident barriers to facilitating active learning in resident conferences](faculty-barriers-active-learning-resident-conferences.md) — related
+- [Classroom response systems, employed wisely, can transform one-way lectures into dynamic discussions even in very large classes](classroom-response-systems-transform-lecture.md) — related

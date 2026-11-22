@@ -44,6 +44,7 @@ The report recommends that teachers, supported by well-designed curricular mater
 - [Embed discussion and high-quality explanations within explicit, step-by-step mathematics instruction](embed-discussion-within-explicit-math-instruction.md)
 - [Promote reflective abstraction through instructor, peer, and curricular agents of change in mathematics teaching](promote-reflective-abstraction-agents-of-change-strategy.md)
 - [Support teachers of measurement uncertainty with concept-based teaching, examples, exercises, software and exchange of good practices](support-uncertainty-teachers-concept-based-examples-exercises.md)
+- [Design problems that require modeling, interpretation, and evaluation rather than one-step algorithmic processing](modeling-interpretation-problems-math-in-physics.md)
 
 ## Examples
 -

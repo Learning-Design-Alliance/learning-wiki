@@ -54,3 +54,4 @@ Think-aloud individual interviews with 23 upper-level UG and G student volunteer
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related
 - [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related
+- [Video study of student groups identified six commonly used epistemic games in algebra-based physics problem solving](six-epistemic-games-identified-in-video-study.md) — related

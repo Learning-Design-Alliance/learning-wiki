@@ -49,3 +49,4 @@ Microgenetic discourse analysis of the dyad's Task#1 interaction. The article st
 - [The dyad's initial centripetal positioning held that technology should be used only for learning purposes under teacher control](dyad-initial-teacher-controlled-technology-position.md) — related
 - [Reflexivity triggered by the North American expert's voice led the dyad to shift position and identify with the teacher's role](reflexivity-position-shift-toward-teacher-identification.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
+- [Designing a lesson plan on capacitance led student K to recognize the limits of her own understanding, a shift the article attributes to the task and situation rather than to content alone](lesson-plan-task-revealed-k-capacitance-gaps.md) — related

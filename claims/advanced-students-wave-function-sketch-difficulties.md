@@ -53,3 +53,5 @@ Survey and interview investigation of students enrolled in quantum mechanics cou
 - [Students hold misconceptions that an energy eigenfunction can be simultaneously a bound and a scattering state and that certain potentials allow both](bound-scattering-state-misconceptions.md) — related
 - [In a class of 18, student accuracy dropped across a concept-test sequence from mostly correct on a verbal question to only 33% correct on the harder graphical version](concept-test-sequence-accuracy-drop-ct2-ct3.md) — related
 - [Think-aloud interviews reveal students modifying the problem to fit their diagram and failing to use knowledge they possessed when drawing diagrams of standing waves](diagram-difficulties-standing-waves-interviews.md) — related
+- [When sketching tunnelling wave functions, students show an axis shift, treating the height of the oscillation axis as indicating particle energy](axis-shift-wave-function-sketches.md) — a narrower finding that bears on this claim
+- [IQP students answer a quantum tunneling energy question better than physics majors, but draw wavefunction sketches less well](iqp-tunneling-energy-beats-physics-majors.md) — related

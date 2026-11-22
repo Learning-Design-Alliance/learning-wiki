@@ -79,3 +79,4 @@ Keyword coding of open-ended answers from 44 students, visualised as word clouds
 - [Students most valued interaction with peers and educators and flexibility of digital resources, while long seminars and preparation load were the most common complaints](flipped-classroom-positive-negative-factors-physiotherapy.md) — related
 - [Flipped-format students did not perceive learning more but ranked the course better overall, and many first-offering flipped students wanted more in-class time](flipped-student-satisfaction-perceptions-mixed.md) — related
 - [The module proved appropriate as a standalone resource when senior students self-taught chosen topics in a flipped classroom format](qc-module-standalone-flipped-classroom.md) — related
+- [70% of students in the undergraduate algebra-based physics class expected the subject to consume most of their out-of-class time without yielding good grades](physics-time-grade-expectations.md) — related

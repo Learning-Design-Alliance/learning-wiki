@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-11-22
 recheck_by: 2012
 sources:
   - id: roman-ya-kezerashvili-2007
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
+> **Currency** · newest study 2007 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the author's physics course exams, most students performed very poorly on conceptual questions considered almost too easy, while sometimes solving difficult multiple-step quantitative problems better. [→ Roman Ya. Kezerashvili 2007](#roman-ya-kezerashvili-2007)
@@ -66,3 +67,5 @@ The author's own exam data over four years of including simple conceptual questi
 - [Peer Instruction improved student performance on conceptual problems significantly, and slightly improved quantitative performance when quantitative problems counted toward the grade](peer-instruction-improves-conceptual-performance.md) — related
 - [SLM performance degrades sharply from conceptual to problem-solving physics questions, with reasoning-optimized training improving but not eliminating the gap](slm-conceptual-problem-solving-performance-gap.md) — related
 - [Graduate physics core courses, particularly electricity and magnetism, were perceived to emphasize mathematical technique and rapid pacing at the expense of conceptual engagement](core-courses-math-focused-hinder-ltp.md) — related
+- [High-achieving first-year physics students with strong FCI scores still struggle with fundamental concepts on estimation and conceptual-reasoning problems](high-fci-scores-mask-fundamental-difficulties.md) — related
+- [Traditional physics instruction overemphasizes algorithmic math processing and neglects interpretation and evaluation steps](traditional-instruction-neglects-interpret-evaluate-steps.md) — related

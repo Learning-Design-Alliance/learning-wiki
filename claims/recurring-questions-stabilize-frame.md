@@ -49,3 +49,4 @@ This is the article's theoretical argument, built on framing theory (people shif
 - [Students' transition into a sensemaking frame is accompanied by a verbalized question or statement of uncertainty that names a perceived gap or inconsistency in understanding](question-marks-sensemaking-entry.md) — related
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
 - [A sociologist's shift from Copernican to relativist thinking was a lengthy process, stabilizing only more than a year after first encountering the relativist argument](delayed-relativist-transition-sociologist.md) — related
+- [Astronomy's inherent interest keeps young people engaged in science while they learn fundamentals of mathematics, statistics, physics and chemistry](astronomy-inherent-interest-retains-science-students.md) — related

@@ -93,3 +93,4 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 - [The article reports that contextual learning has been shown to increase students' interest in learning physics](contextual-learning-increases-physics-interest-attributed.md) — related
 - [Non-personalized materials produce deepening disengagement over time, while interest-aligned engagement persists, though topic-level alignment can mismatch learner expectations](personalization-disengagement-mismatch-qualitative.md) — related
 - [Real experiments are perceived as more engaging for learners than simulations, with 56% of surveyed Moroccan science teachers naming them the most motivating method](real-experiments-more-engaging-than-simulations-morocco.md) — related
+- [Inquiry-based instruction designed around individual student interests is the most effective approach to science learning](inquiry-based-instruction-most-effective.md) — related

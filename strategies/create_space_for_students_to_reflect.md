@@ -67,6 +67,7 @@ Reflection converts experience into usable knowledge: unexamined experience rare
 - [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
 - [Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload](metacognitive-opportunities-ai-integration.md)
 - [Use AI coach prompts for structured reflection and premortems to build metacognition](ai-coach-reflection-premortem-strategy.md)
+- [Daily activity journals plus an end-of-project statement of personal growth](jite-journal-personal-growth-statement-strategy.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the opening move that establishes emotional safety

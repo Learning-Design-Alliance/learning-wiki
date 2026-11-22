@@ -57,3 +57,4 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
 - [Time constraints were the most frequent reason participants dropped out of online MBP courses](online-mbp-dropout-time-constraints.md) — related
+- [No consensus exists on online education quality: some reports find no significant outcome differences between online and face-to-face students while others claim higher drop-out and poorer performance](no-consensus-online-learning-outcomes.md) — related

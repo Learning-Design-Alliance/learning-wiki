@@ -49,6 +49,7 @@ The article recommends that "to efficiently enhance students' problem solving sk
 - [Pupil-Generated Word Problems](pupil-generated_word_problems.md)
 - [Repertoire of Strategies](repertoire_of_strategies.md)
 - [Five-Stage Problem-Solving Model](five-stage_problem-solving_model.md)
+- [Use an airtrack thought experiment with two sticking gliders so students discover traveler/map time differences and relativistic energy and momentum in their own terms](airtrack-thought-experiment-metric-discovery.md)
 
 ## Examples
 -

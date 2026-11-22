@@ -49,6 +49,7 @@ The instructor's how-to routine for integrating clicker questions into 50-minute
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
 
 ## Examples
 -

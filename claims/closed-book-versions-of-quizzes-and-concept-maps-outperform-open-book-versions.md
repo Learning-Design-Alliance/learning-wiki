@@ -74,3 +74,4 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — a broader claim this one bears on
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
 - [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](closed-book-advantage-with-reinspection.md) — related
+- [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](formative-assessment-informs-low-stakes-a2l.md) — related

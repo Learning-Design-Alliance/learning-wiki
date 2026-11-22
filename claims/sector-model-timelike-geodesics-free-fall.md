@@ -56,3 +56,4 @@ Construction of a timelike geodesic on a spacetime sector model with six rows pl
 - [Students can determine the final black hole mass of about 67 solar masses and spin parameter 0.67 from the ring-down using published quasi-normal-mode fit equations.](gw150914-final-black-hole-mass-spin-extraction.md) — related
 - [About half of secondary school students reach an advanced understanding of geodesics and light deflection after a sector-model-based teaching unit](half-advanced-understanding-geodesics-light-deflection.md) — related
 - [Less successful GR solutions were marked by misunderstandings of fundamental physical concepts such as geodesic motion](geodesic-motion-misconceptions-less-successful-solutions.md) — related
+- [Student free-fall measurements with conventional clocks frequently yield poor g-values, leading many students to reject their data](free-fall-clock-measurement-poor-g-values.md) — related

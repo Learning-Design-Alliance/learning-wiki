@@ -47,6 +47,7 @@ The authors recommend basing education and research training on freely downloada
 ## Related Strategies
 
 - [Use free open-source software (Audacity, Stellarium) that students can install at home for data analysis and ephemeris comparison](open-source-software-home-installation-strategy.md)
+- [Use effective-potential orbit problems as accessible undergraduate research topics in general relativity](orbit-problems-undergraduate-research-strategy.md)
 
 ## Examples
 -

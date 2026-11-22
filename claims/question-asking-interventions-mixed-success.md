@@ -56,3 +56,4 @@ The review reports, citing Courage (1989), that explicit training in generating 
 - [Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution](non-explicit-teacher-interventions-encourage-self-awareness.md) — related
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
 - [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — related
+- [A question-and-answer presentation scheme introduced by students dramatically improved the show's explanations](question-answer-scheme-improved-explanations.md) — related

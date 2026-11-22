@@ -49,3 +49,4 @@ The review reports two studies of Garcia Garcia's (2015) touchscreen graphing sy
 
 ## Related Claims
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related
+- [Students pinpointed the graphical form of the spreadsheet-based algorithm, with automatic graph updating, as the key merit of the approach](spreadsheet-graphical-form-key-merit.md) — related

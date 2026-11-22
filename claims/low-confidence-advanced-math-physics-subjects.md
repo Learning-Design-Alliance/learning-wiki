@@ -48,3 +48,4 @@ Questionnaire item 1 asked Yes/No questions on ten high-school subjects; the pri
 ## Related Claims
 - [Fewer than half of the surveyed pre-service science teachers had studied undergraduate-level calculus or linear algebra in class, and almost none felt they had acquired them](undergrad-math-study-low-among-pre-service-teachers.md) — related
 - [Most first-grade science-education undergraduates surveyed at Ibaraki University dislike physics, and the dominant stated reason is that physics is too difficult to understand](pre-service-teachers-dislike-physics-too-difficult.md) — related
+- [Undergraduates who have not taken physics overwhelmingly perceive physics as a very difficult mathematical subject](physics-perceived-difficult-math-subject.md) — related

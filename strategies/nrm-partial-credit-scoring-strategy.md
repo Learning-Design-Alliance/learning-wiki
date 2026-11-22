@@ -56,6 +56,7 @@ The article proposes that ranking all response options to each item may lead to 
 ## Related Strategies
 
 - [Test and extend incorrect-response rankings using matched pre/post transitions and conditional probabilities](test-rankings-prepost-transitions-strategy.md)
+- [Teach graduate students to analyze standardized concept tests in targeted parts rather than as a whole](analyze-standardized-tests-in-part-strategy.md)
 
 ## Examples
 -

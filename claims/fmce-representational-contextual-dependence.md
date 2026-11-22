@@ -53,3 +53,4 @@ Interpretive analysis drawing on prior research (Beichner; Kohl and Finkelstein)
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — related
 - [Most common student responses on the Force Sled cluster match the force-proportional-to-velocity model](force-sled-common-responses-f-proportional-v.md) — related
+- [Student responses to equivalent physics questions show strong context dependence](context-dependence-physics-responses.md) — possibly the same claim (merge candidate)

@@ -50,6 +50,7 @@ The article presents a method for computing "misconception scores" for each stud
 ## Related Strategies
 
 - [Use multiple-choice review questions constructed to guarantee every student engages with a known durable misconception](multiple-choice-misconception-exposure-strategy.md)
+- [Use confidence-weighted FCI pretests to identify strongly held misconceptions for targeted instruction](wfci-pretest-misconception-identification-strategy.md)
 
 ## Examples
 -

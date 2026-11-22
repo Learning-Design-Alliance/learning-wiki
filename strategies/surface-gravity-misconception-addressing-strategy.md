@@ -45,6 +45,7 @@ The article identifies specific misunderstandings students may have and recommen
 
 - [Use a gravitational analogy of a ball rolling over a hill to resolve student confusion about how a tunneling electron regains kinetic energy](gravitational-analogy-tunneling-energy-regaining.md)
 - [Introduce a third-party observer when teaching the Einstein equivalence principle to prevent a global acceleration-gravity equivalence conclusion](third-party-observer-eep-strategy.md)
+- [Present the double conical roller as a telekinesis magic trick to expose the misconception that high and low are absolute properties of a support surface](double-conic-roller-telekinesis-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ The review reports Blue and Heller's matched-samples study in an introductory un
 - [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — reports the opposite
+- [On average there was no gender difference in course performance, though the two largest absolute gains were both women](tlp-gender-performance-pattern.md) — related

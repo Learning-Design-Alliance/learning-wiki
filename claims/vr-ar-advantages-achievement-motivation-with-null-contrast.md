@@ -112,3 +112,4 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [The VR group showed larger but non-significant cognitive gains than the control group overall and in each cognitive category](vr-larger-cognitive-gains-non-significant.md) — a narrower finding that bears on this claim
 - [VR-trained students showed a significantly smaller gain in self-efficacy for understanding the material than control students, despite better objective performance](vr-smaller-self-efficacy-understanding-gain.md) — a narrower finding that bears on this claim
 - [No significant difference was found between VR and tablet interfaces in improving food-education knowledge for individuals with NDD](vr-tablet-no-significant-difference-ndd-learning.md) — related
+- [Hypermedia-assisted learning was reported to raise academic achievement over conventional learning, citing Zywno and Waalen](hypermedia-assisted-achievement-gain-zywno-waalen.md) — related

@@ -114,3 +114,10 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related
 - [An IPP-based flipped general physics course produced Hake gains above the department's long-term average on both FMCE and CSEM](ipp-flipped-general-physics-hake-gains.md) — a narrower finding that bears on this claim
 - [Average FCI percentage-correct scores rose from approximately 15% in the pretest to 33% in the posttest after comic-based physics workshops, with an overall normalized gain of ⟨g⟩ ≈ 0.21 in the low-to-medium range, in one uncontrolled single-group pre-post study](fci-normalized-gain-021-comics-physics-workshops.md) — related
+- [IE and high-tech methods by themselves do not insure superior student learning](ie-and-high-tech-alone-insufficient.md) — a narrower finding that bears on this claim
+- [Interactive Engagement introductory mechanics courses achieve average normalized gains about twice those of Traditional courses](ie-courses-double-normalized-gain-of-traditional.md) — possibly the same claim (merge candidate)
+- [Some IE courses achieved normalized gains close to Traditional courses, with case histories suggesting implementation problems](low-g-ie-courses-implementation-problems.md) — related
+- [Mechanics Baseline problem-solving scores correlate strongly with FCI conceptual scores, supporting that IE methods enhance problem-solving ability](mb-fci-correlation-ie-problem-solving.md) — related
+- [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — related
+- [Score-based pre-post gain analysis blends distinct learning issues and limits instructional diagnosis](score-based-gain-limits-diagnosis.md) — related
+- [Teaching and Learning Physics course students showed significant normalized conceptual gains on the BEMA, with larger gains for students in formalized teaching roles](tlp-course-bema-gains.md) — a narrower finding that bears on this claim

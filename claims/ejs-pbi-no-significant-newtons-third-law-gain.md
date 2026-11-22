@@ -55,3 +55,4 @@ The same quasi-experimental comparison, on the 4-mark Newton's 3rd Law section: 
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — related
 - [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — related
+- [Students taught with modeling, discourse management, and system schema scored significantly better on the FCI Newton's Third Law questions than students taught with Workshop Physics](system-schema-fci-third-law-posttest-gain.md) — related

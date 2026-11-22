@@ -50,3 +50,4 @@ Analysis of second-attempt partial credit on the IF-AT final exam (49 students).
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - High-risk students disproportionately scored 80 or above on the final exam (13 of 23), while no low-risk student did — related
 - [Partial credit in integrated testlets is granted in a discriminating manner, with top-half students converting more available partial credit than bottom-half students](it-partial-credit-discriminating.md) — a broader claim this one bears on
+- [Students with stronger pre-test performance made larger gains in the course than weaker students](tlp-prior-knowledge-gain-gradient.md) — related

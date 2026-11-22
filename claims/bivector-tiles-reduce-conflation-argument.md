@@ -46,3 +46,4 @@ The authors' pedagogical argument in Section II, offered without new empirical t
 
 ## Related Claims
 - [Angular momentum conservation can be solved pedagogically with the wedge product, with tile area giving the magnitude](wedge-product-angular-momentum-example.md) — related
+- [American students approached force direction via the right-hand rule while Romanian students used the vector product](right-hand-rule-versus-vector-product-convention.md) — related

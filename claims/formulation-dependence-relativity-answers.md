@@ -83,3 +83,4 @@ Open Formulation 3 on the relative motion of Earth and Sun: only 3.0% Galilean a
 ## Related Claims
 - [Across 792 additional students and teachers, including in-service primary school teachers and future physics teachers, only about 3-4% use the Galilean concept of relativity to answer the Sun-Earth question](copernican-conformism-teachers-populations.md) — related
 - [Among the 1424 students who gave Galilean answers to both Formulations 1 and 2, 76.4% gave Copernican answers and 3.8% gave Galilean answers on Formulation 3 in one uncontrolled pre-post study](galilean-students-shift-copernican-form-3.md) — related
+- [Cambridge physics majors' success on a conceptual reference-frame question did not increase with more years of studying physics](physics-majors-reference-frame-no-gain-with-years.md) — related
