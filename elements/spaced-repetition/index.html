@@ -1213,7 +1213,7 @@
 <h1 id="spaced-repetition">Spaced Repetition<a class="headerlink" href="#spaced-repetition" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Element</strong> · <a href="../">All elements</a><br />
-<strong>Evidence</strong> · 27 claims (21 for, 6 mixed) · 23 studies (11 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational), <code>q1</code>–<code>q4</code> · 5 of 23 report an effect size · 23 claims rest on one study</p>
+<strong>Evidence</strong> · 30 claims (24 for, 6 mixed) · 24 studies (11 causal, 5 review, 4 quant-synthesis, 2 associational, 2 theoretical), <code>q1</code>–<code>q4</code> · 5 of 24 report an effect size · 26 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.</p>
@@ -1266,6 +1266,9 @@
 <li><a href="../../claims/oet94-forty-percent-gain-over-conventional/">OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64</a> [~M]</li>
 <li><a href="../../claims/parameters-vary-systematically-with-interval/">Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval</a> [~W]</li>
 <li><a href="../../claims/personalized-spaced-review-improves-course-retention/">Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration</a> [+M] — Lindsey et al. (2014): personalized scheduling inside retrieval-practice software, one middle-school foreign-language course</li>
+<li><a href="../../claims/recall-at-lower-probability-lengthens-half-life-more/">In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words</a> [+W] — Ye et al. (2022): rules fitted to 220 million review logs from one English-vocabulary app; observational, no assigned gaps</li>
+<li><a href="../../claims/review-history-model-predicts-half-life-better-than-hlr/">In vocabulary-app review logs, a memory model that tracks each item's review history predicted memory half-life after a review with less error than half-life regression</a> [+W] — Ye et al. (2022): the accuracy of the memory model an adaptive scheduler would rely on</li>
+<li><a href="../../claims/cost-minimizing-scheduler-fewer-review-days-simulation/">In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules</a> [+W] — Ye et al. (2022): a simulation in the authors' own fitted model; no learners tested</li>
 </ul>
 <h2 id="design-decisions">Design Decisions<a class="headerlink" href="#design-decisions" title="Permanent link">&para;</a></h2>
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -1313,7 +1316,8 @@
 <h3 id="should-harder-items-get-more-reviews">Should harder items get more reviews?<a class="headerlink" href="#should-harder-items-get-more-reviews" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Default:</strong> give harder items more review time on the lower (less-known) decks; for easy items spread time roughly evenly — <a href="../../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty/">Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.</a> [+W], <a href="../../claims/optimal-leitner-schedule-reviews-lower-decks-more-often/">Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.</a> [+W]</li>
-<li><strong>Tested with:</strong> a scheduling model's optimisation only (<a href="https://doi.org/10.1145/2939672.2939850">Reddy et al. 2016</a>); no learners.</li>
+<li><strong>Also a model result:</strong> in rules fitted to vocabulary-app logs, harder words gained less half-life from each successful recall, so a scheduler minimising review time gave them a higher expected review cost; at the same half-life it gave easier words shorter intervals, to avoid failures that would raise their difficulty — <a href="../../claims/recall-at-lower-probability-lengthens-half-life-more/">In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words</a> [~W], <a href="../../claims/cost-minimizing-scheduler-fewer-review-days-simulation/">In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules</a> [~W]</li>
+<li><strong>Tested with:</strong> a scheduling model's optimisation only (<a href="https://doi.org/10.1145/2939672.2939850">Reddy et al. 2016</a>), and a simulation in a memory model fitted to one app's logs (<a href="https://doi.org/10.1145/3534678.3539081">Ye et al. 2022</a>); no learners.</li>
 <li><strong>Not settled:</strong> no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.</li>
 </ul>
 <h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
@@ -1378,7 +1382,7 @@
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>process:article-ingest</code> on <code>2026-11-05</code></td>
+<td>by <code>process:article-ingest</code> on <code>2026-11-22</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
