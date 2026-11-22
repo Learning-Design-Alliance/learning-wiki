@@ -44,6 +44,7 @@ Because plot quality and clarity are highly variable, the guide recommends prese
 - [Use low-stakes introductory seminar activities (asking about figures, news stories, prepared questions) before reading full papers](low-stakes-introductory-seminar-activities.md)
 - [Mitigate extraction errors by requiring high-resolution PDFs, equation-editor equations, and legible graph axes, units, and legends](report-submission-practices-to-support-ai-evidence-retrieval.md)
 - [Have introductory astronomy students measure waveform properties directly from plots with a straight edge and axis labels, then apply standard formulae to extract source parameters](straight-edge-waveform-measurement-extraction.md)
+- [Use a universal constant-acceleration plot so students can solve relativistic acceleration problems graphically without equations](universal-acceleration-plot-strategy.md)
 
 ## Examples
 -

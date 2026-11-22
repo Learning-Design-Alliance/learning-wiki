@@ -47,3 +47,4 @@ Exploratory Spearman analyses in the 141-respondent survey comparing graduate-en
 ## Related Claims
 - [Academic self-efficacy is positively associated with school satisfaction among student parents, both directly and indirectly through school-family balance](academic-self-efficacy-predicts-school-satisfaction-student-parents.md) — related
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Expectation analyses performed on both tutor and students at the start of a tutoring relationship produced immediate positive results, with the tutor feeling accepted by students](expectation-analysis-tutor-student-good-results.md) — related

@@ -74,3 +74,4 @@ Authors' interpretive conclusion (type e) drawn from the activity coding, explic
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
 - [Very few whole-school interventions in secondary schools solicit active student participation: only 22 reports, 16 studies and 13 programs met the review's inclusion criteria](few-secondary-whole-school-interventions-solicit-asp.md) — related
 - [Contextually sensitive programs combining structural change with community participation have improved educational and well-being outcomes](contextual-structural-community-programs-improved-outcomes.md) — related
+- [The article claims the ownership principle immediately generates rich school structures and selection criteria for new elements](ownership-principle-generates-structures.md) — related

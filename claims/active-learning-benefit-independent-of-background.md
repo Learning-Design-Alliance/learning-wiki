@@ -49,3 +49,4 @@ Authors' interpretation of the per-course pre/post exam comparisons in Figure 3,
 - [Full engagement with weekly Smartwork active-learning quizzes is associated with significantly higher marks on class test, exam, coursework and overall module performance](full-engagement-smartwork-higher-performance-all-assessments.md) — related
 - [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — related
 - [Partial engagement with Smartwork quizzes is associated with significantly higher class test and coursework marks but not exam or overall module performance](partial-engagement-class-test-coursework-only.md) — related
+- [The final-exam improvement under CAPA was concentrated in the lower grades of the distribution, consistent with weaker students benefiting most](capa-improvement-concentrated-lower-grades.md) — related

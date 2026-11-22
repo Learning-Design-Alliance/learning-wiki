@@ -55,3 +55,4 @@ The article reports, citing Jones (2017), that US high school science and math c
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related
+- [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](gender-gap-narrowed-but-persists.md) — related

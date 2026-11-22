@@ -34,4 +34,4 @@ A methodological framework combining three elements to examine writing processes
 
 ## Key Sources
 - Sturm, A. (2016). Observing writing processes of struggling adult writers with collaborative writing. Journal of Writing Research, 8(2), 301-344. https://doi.org/10.17239/jowr-2016.08.02.05
-- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher.
+- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher. [doi:10.48550/arxiv.physics/0609070](https://doi.org/10.48550/arxiv.physics/0609070)

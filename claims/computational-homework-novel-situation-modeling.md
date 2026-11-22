@@ -79,3 +79,4 @@ A final proctored lab assignment (Table 6) used a "partially constructed program
 - [In a 2018 pilot, all 17 participating introductory electricity and magnetism students successfully completed computational essays as an alternative to a presentation-based project](pilot-17-students-completed-computational-essays.md) — related
 - [A third-year undergraduate with minimal background could install and run deMon2k and complete guided basis-set lessons using only her personal computer](undergraduate-beta-test-lessons-0-1.md) — a narrower finding that bears on this claim
 - [Students completed most Code.org Course B lessons at high rates, but the advanced nested-loops lesson had a 33% completion rate](codeorg-completion-rates-by-lesson.md) — related
+- [Symmetry-based kinematic problems are particularly useful for stimulating students' reasoning on richer physical situations such as central force motion](symmetry-problems-stimulate-reasoning-richer-situations.md) — related

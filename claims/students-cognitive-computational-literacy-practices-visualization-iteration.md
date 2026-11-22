@@ -56,3 +56,4 @@ Analysis of the collected computational essays found "All students in the presen
 - [Glowscript's dynamic plotting gives students immediate visual feedback while a simulation runs](glowscript-dynamic-plotting-immediate-feedback.md) — related
 - [Teachers perceive digital simulations as easier to implement than real experiments, valuing repeatability and visualization of abstract phenomena](simulations-perceived-easier-repeatable.md) — related
 - [Students in both pilots singled out interactive real-time waveform plotting and parameter exploration as the components most responsible for building understanding and computational comfort](gw-explorer-visualization-driven-learning.md) — related
+- [Simultaneous multiple representations in educational technologies are associated with improved conceptual understanding](multiple-representations-improve-conceptual-understanding.md) — related

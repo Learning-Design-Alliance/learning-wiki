@@ -59,3 +59,4 @@ Theoretical argument in the chapter's Section 3, offered as a conjecture buildin
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
 - [Individual or small quantum education programs likely cannot deploy educator professional development at scale or over multiple years without sustained center scaffolding](small-programs-cannot-scale-quantum-pd-without-center.md) — a narrower finding that bears on this claim
+- [The article claims current educational systems do not teach students how to learn effectively and are unsafe for teaching experimentation](current-systems-unsafe-for-experimentation.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: su-et-al-2023
     resource: "https://doi.org/10.1109/TKDE.2023.3251721"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=220 million review logs, grouped into 71,697 samples
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 This bears on what an adaptive review tool should record and feed its memory model: the order of past outcomes, how likely recall was at each past review, and the gaps between reviews, not only counts of successes and failures. Recall probability is the predicted chance of recalling an item at a review; half-life is the delay at which it falls to one half.
 

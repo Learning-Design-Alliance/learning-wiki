@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5635 entries** · 0 stable · 5635 in review · 0 drafts
+**5638 entries** · 0 stable · 5638 in review · 0 drafts
 
 ---
 
@@ -630,6 +630,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Canfield's Learning Styles Inventory and Instructional Styles Inventory](canfields-learning-styles-inventory-and-instructional-styles-inventory.md) - A pair of multidimensional inventories developed by Canfield to assess students' learning styles and teachers' instructional styles and compare their congruence for instructional counselling.
 * [CanMEDS 2015 framework](canmeds-2015-framework.md) - A physician-competency framework developed and maintained by the Royal College of Physicians and Surgeons of Canada, defining seven professional roles and their associated competencies.
 * [CAP](cap.md) - CAP is SPARC’s locally deployed, Llama3-based artificial-intelligence peer agent that prompts K–12 learners to explain and clarify concepts through learning-by-teaching dialogue.
+* [CAPA (Computerized Asynchronous Personalized Assignments)](capa-computerized-asynchronous-personalized-assignments.md) - CAPA is a content-independent web-based homework and assignment-delivery system developed at Michigan State University that personalizes problem data or questions, provides immediate answer feedback, and supplies instructor reports.
 * [Capacity Building for Strategic Learning (CBSL) pilot](capacity-building-for-strategic-learning-cbsl-pilot.md) - A Mathematica and Catalyst:Ed programme, supported by the Bill & Melinda Gates Foundation, that built nine K–12 education grantees’ equity-centered strategic-learning capacity through project scoping, provider matching, cohort learning, and thought partnership.
 * [CAPIT Reading](capit-reading.md) - CAPIT Reading is a blended supplemental PK–3 phonics programme providing explicit, systematic Sound-to-Print instruction through individualized digital learning, immediate feedback, and educator data.
 * [CAPITAL A performance metrics set for circular stapling anastomosis](capital-a-performance-metrics-set-for-circular-stapling-anastomosis.md) - A Delphi-refined surgical performance assessment set that specifies observable steps, errors, and critical errors for evaluating circular stapling anastomosis in minimally invasive left-sided colorectal resection.
@@ -1606,6 +1607,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ex-Lap App](ex-lap-app.md) - The Ex-Lap App is a smartphone-based learning and management application developed with BoYi Times Medical Technology for the STALS laparoscopic training course.
 * [ExamGAN](examgan.md) - ExamGAN is a conditional-GAN-based exam-script generation system developed by Wu et al.
 * [Example oral exam question bank for three physics and astronomy courses](example-oral-exam-question-bank-for-three-physics-and-astronomy-courses.md) - An instructor-developed bank of explanation, application, and extension questions for undergraduate modern physics and astronomy oral examinations, tested and difficulty-adjusted across course sessions.
+* [EXCALC](excalc.md) - EXCALC is a REDUCE-embedded computer-algebra package for symbolic exterior differential geometry and tensor calculus, developed for scientific and educational use.
 * [Excel spreadsheet and Python program for student analysis of exoplanet light-curve data](excel-spreadsheet-and-python-program-for-student-analysis-of-exoplanet-light-curve-data.md) - A classroom-released Excel spreadsheet and Python program developed by Ollé et al.
 * [Executive Functioning Scale (EFS), Arabic-adapted parent-report instrument](executive-functioning-scale-efs-arabic-adapted-parent-report-instrument.md) - A 52-item, 5-point Likert parent-report assessment adapted into Arabic to measure cool and hot executive-function domains in children aged 7–9.
 * [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md) - A publicly available dataset from Funayama et al.
@@ -1825,6 +1827,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Framework of learning clinical reasoning organized around five main categories with related concepts and interrelations](framework-of-learning-clinical-reasoning-organized-around-five-main-categories-with-relate.md) - A grounded-theory-derived framework by Hege Inga et al.
 * [Framework of students metaliteracy assessment instruments](framework-of-students-metaliteracy-assessment-instruments.md) - A higher-education assessment framework developed by A.
 * [Free R packages difR and lordif for conducting DIF analyses](free-r-packages-difr-and-lordif-for-conducting-dif-analyses.md) - difR and lordif are freely available R packages that provide functions and guidance for conducting and replicating differential item functioning analyses in examinations and other assessments.
+* [Free Term Entry (FTE) task](free-term-entry-fte-task.md) - A computer-based timed spontaneous term-listing assessment developed by Beatty et al.
 * [FreeHand v1.0 remote-controlled camera holder](freehand-v10-remote-controlled-camera-holder.md) - A robotic laparoscope-holding and joypad-control system developed for use in laparoscopic skills training, in which a human operator moves the camera under the trainee's direct instructions.
 * [Freely available Longformer Content and Wording summary scoring models on HuggingFace](freely-available-longformer-content-and-wording-summary-scoring-models-on-huggingface.md) - Two Longformer checkpoints, longformer-content-global and longformer-wording-global, released by Morris et al.
 * [Freely available research-based E&M II course materials package](freely-available-research-based-em-ii-course-materials-package.md) - A freely available upper-division electrodynamics curriculum package developed by Charles Baily and colleagues at the University of Colorado, containing clicker questions, activities, homework, exams, implementation guides, learning goals, and editable source files.

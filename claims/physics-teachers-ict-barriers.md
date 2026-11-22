@@ -50,3 +50,4 @@ From the Conclusion, where the authors report on the practice of teaching at hig
 - [ICT resources such as computers, internet facilities and printers are not adequately available in Ekiti State secondary schools](ict-resources-inadequate-ekiti-schools.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
+- [Local Physics Alliances are valued by members but have not realized their potential to improve teaching practice](lpas-valued-but-limited-purpose.md) — related

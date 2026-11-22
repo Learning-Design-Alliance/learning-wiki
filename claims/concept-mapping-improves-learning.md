@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Concept mapping improves learning -->
 
 Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners in most comparison conditions pooled in two meta-analyses, though not better than learners who spend the same time on retrieval practice (Karpicke & Blunt 2011). <!-- deprecated (2026-10-05, overstated): show better understanding and retention than learners using comparable non-mapping study activities. --> The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).

@@ -50,6 +50,7 @@ The article recommends skills-focused instructional laboratories as a key enviro
 - [Increase experimental skill development opportunities within existing instructional lab courses to prepare students for quantum industry positions](increase-experimental-training-instructional-labs-strategy.md)
 - [Use simulations, provided or student-directed data collection, and open-ended projects to preserve lab learning goals when hands-on equipment is unavailable](remote-lab-adaptation-strategies-simulations-data-projects.md)
 - [Layered supports easing students into open-ended laboratory work: workshops, pre-class homework, notebooks, and CPHWs](data-lab-scaffolded-supports-strategy.md)
+- [Select long-duration, preparation-heavy, condition-changing and special-condition projects for networked laboratory study](wwsl-project-selection-criteria.md)
 
 ## Examples
 -

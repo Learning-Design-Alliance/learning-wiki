@@ -79,3 +79,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [A writing-intensive introductory GE astronomy course increased non-major students' perceptions of their own ability to engage with STEM across all four measured tasks](sciwri-ge-course-increased-ability-perceptions.md) — related
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
 - [Students reported that interlinking physics, mathematics and computational content across modules helped them see connections and accelerated understanding of complex topics](cross-module-integration-accelerates-understanding.md) — related
+- [Course goals for algebra-based physics should differ from those of other physics courses](algebra-based-course-goals-differ.md) — related

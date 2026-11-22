@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2007
+source_checked: 2026-11-22
 sources:
   - id: s-b-mckagan-2007
     resource: "https://doi.org/10.1063/1.2508685"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · S. B. McKagan 2006: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-22)
 
 ## Subclaims

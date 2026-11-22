@@ -48,3 +48,4 @@ Descriptive participation analysis across all four program years, reported in Fi
 - [Transitioning SATTAA to fully online delivery diversified the astrophysics facilitation team nationally and internationally](sattaa-online-shift-diversified-facilitation-team.md) — related
 - [Mixed teams of preservice and inservice teachers were appreciated by all participants, though inservice teachers saw added value in inservice-only grouping](sattaa-mixed-teacher-teams-feedback.md) — related
 - [In-service teachers rated both the f2f (2019) and online (2020) SATTAA iterations as highly useful for their future astronomy teaching and valued collaboration opportunities in both](sattpd-both-modalities-rated-highly-useful.md) — related
+- [Reconceiving a Methods of Physics Teaching course for inservice teachers solves the enrollment problem that plagued preservice-only versions](methods-course-inservice-enrollment-solution.md) — related

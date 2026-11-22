@@ -50,3 +50,4 @@ Program report on the final part of the particle physics workshop. After an intr
 - [Organizers report the ICD works best in groups of 20 or fewer students, with no more than six students sharing one detector for autonomous experimenting](icd-small-groups-work-best.md) — related
 - [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related
 - [Early test-session feedback identified measurement issues and informed design improvements](escape-room-test-feedback-improved-design.md) — related
+- [Cosmic-ray detector setups support two groups of student projects: cosmic-ray properties and properties of random processes](wwsl-cosmic-ray-project-taxonomy.md) — related

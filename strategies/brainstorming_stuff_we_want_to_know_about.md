@@ -43,3 +43,4 @@ Brainstorming learner questions converts curiosity into a durable instructional 
 ## Related Strategies
 
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
+- [Open a group tutoring project with brainstorming, snowball and related techniques at the first group meeting to make teaching dynamic rather than static](brainstorming-snowball-first-group-meeting.md)

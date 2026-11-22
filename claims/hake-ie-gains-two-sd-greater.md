@@ -121,3 +121,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — related
 - [Score-based pre-post gain analysis blends distinct learning issues and limits instructional diagnosis](score-based-gain-limits-diagnosis.md) — related
 - [Teaching and Learning Physics course students showed significant normalized conceptual gains on the BEMA, with larger gains for students in formalized teaching roles](tlp-course-bema-gains.md) — a narrower finding that bears on this claim
+- [TTU students in the inquiry-based algebra-based course showed FCI gains of about 30% absolute and normalized gain about 0.4, significantly better than traditionally taught TTU classes](fci-gains-inquiry-algebra-based-ttu.md) — a narrower finding that bears on this claim

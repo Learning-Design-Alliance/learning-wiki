@@ -50,3 +50,4 @@ Interview evidence on the IT barrier: an instructor implemented "the original Ju
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Computation integration requires choosing an accessible, affordable platform, a barrier specific to computation because no universal physics coding language exists](accessible-platform-barrier-computation.md) — related
 - [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — related
+- [The article claims current educational systems do not teach students how to learn effectively and are unsafe for teaching experimentation](current-systems-unsafe-for-experimentation.md) — related

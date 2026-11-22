@@ -59,3 +59,4 @@ Latent change score analysis of N = 1,004 first-semester students across three m
 - [In exploratory finer-grained analyses, detail of explanation predicted higher expectation of success and lower effort cost at specific observation intervals before the survey signal](detail-explanation-expectancy-effort-cost-intervals.md) — related
 - [Students in the introductory NSNT courses showed no significant decrease from beginning to end of course in plans to engage in nanotechnology-related activities](nsnt-intro-course-no-motivation-decrease.md) — related
 - [Students experienced a sense of intrinsic motivation to study physics in response to the desire to find explanations for physical phenomena](contemplative-practices-intrinsic-motivation-physics.md) — related
+- [Students who believe in a miracle finish underestimate that Physics skill acquisition requires steady effort across the whole term](miracle-finish-fantasy-physics.md) — related

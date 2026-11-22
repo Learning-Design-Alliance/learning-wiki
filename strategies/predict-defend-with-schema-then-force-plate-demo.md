@@ -46,7 +46,8 @@ A classroom activity sequence for teaching Newton's Third Law: student groups fi
 - [None of twelve interviewed students could solve a non-equilibrium Newton's second/third law problem without help, and they showed systematic difficulties with Newton's third law and free-body-diagram system choice](../claims/newton-third-law-interview-difficulties.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prediction-then-verification demonstration sequence with optional flat tuning and student-brought instruments](predict-peaks-then-zoom-verify-strategy.md)
 
 ## Examples
 -

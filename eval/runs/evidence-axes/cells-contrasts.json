@@ -132754,5 +132754,65 @@
  "media-design\ttextbook illustrations of holography\tillustrations that represent ray-optical fundamentals": {
   "label": "holographic vs ray-optical illustrations",
   "treatment_is_a": true
+ },
+ "active-learning\tactive practice and engagement\tpassive study and attendance": {
+  "label": "active practice and engagement vs passive study and attendance",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive practice and firsthand engagement\tpassive attendance, reading, or copying others’ work": {
+  "label": "active practice and engagement vs passive study and attendance",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based experimental group learning\tinitial grade-focused view of physics class": {
+  "label": "inquiry-based group experimentation vs grade-focused, endurance-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based group experimentation, model development, and application\tmemorization and rote problem-solving orientation": {
+  "label": "inquiry-based model development and application vs memorization and rote problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory course\ttraditionally taught TTU classes": {
+  "label": "inquiry-based laboratory instruction vs traditionally taught instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory curriculum\tstudents' pre-course expectations": {
+  "label": "inquiry-based laboratory curriculum vs students' pre-course expectations",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory curriculum\ttraditionally taught TTU classes": {
+  "label": "inquiry-based laboratory instruction vs traditionally taught instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory curriculum with group experimentation and Socratic dialogue\tstudents’ prior grade-focused, endurance-oriented view of physics class": {
+  "label": "inquiry-based group experimentation and Socratic dialogue vs grade-focused, endurance-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based, laboratory-based instruction with experimentation and Socratic dialogue\tstudents’ pre-course physics expectations": {
+  "label": "inquiry-based laboratory instruction vs students' pre-course expectations",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based, laboratory-based instruction with group experimentation\ttraditionally taught TTU classes": {
+  "label": "inquiry-based laboratory instruction vs traditionally taught instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmodel-based inquiry and experimental problem solving\tmemorization and rote problem-solving algorithms": {
+  "label": "inquiry-based model development and application vs memorization and rote problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tobservação e investigação crítica metódica dos fenómenos e conceitos\trelato das descobertas e produtos da ciência": {
+  "label": "critical inquiry and investigation vs reporting scientific discoveries and products",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tsafe environment for teaching experimentation\tunsafe, constrained teaching environment": {
+  "label": "autonomy-supportive environment vs controlling environment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tlearning by inquiry\tconventional teaching": {
+  "label": "guided discovery vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tuniversal acceleration plot for solving relativistic acceleration problems\tequation-based solution of relativistic acceleration problems": {
+  "label": "universal acceleration plot vs equation-based solution",
+  "treatment_is_a": true
  }
 }

@@ -59,3 +59,4 @@ Regression analysis of the full survey sample; 370 out of 749 respondents, or ne
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [Tutor communication engagement correlated positively with students' motivation to pursue a STEM career](tutor-engagement-stem-motivation-correlation.md) — related
 - [70% of students in the undergraduate algebra-based physics class expected the subject to consume most of their out-of-class time without yielding good grades](physics-time-grade-expectations.md) — related
+- [Algebra-based physics students differ from calculus-based physics students in needs, motivation, and background](algebra-based-student-population-characteristics.md) — related

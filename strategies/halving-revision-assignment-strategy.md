@@ -50,4 +50,4 @@ The strategy asks students to write an essay of a well-defined length, then imme
 -
 
 ## Key Sources
-- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher. https://arxiv.org/abs/physics/0609070
+- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher. https://arxiv.org/abs/physics/0609070. [doi:10.48550/arxiv.physics/0609070](https://doi.org/10.48550/arxiv.physics/0609070)

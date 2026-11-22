@@ -47,4 +47,4 @@ Explorations in Physics (EiP) is a concept-oriented introductory physics course 
 -
 
 ## Key Sources
-- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher.
+- Hermsen, L. M., & Franklin, S. V. (2006). Realizing a New Research Agenda for Writing-to-Learn: Embedding Process in Context. Manuscript submission to Educational Researcher. [doi:10.48550/arxiv.physics/0609070](https://doi.org/10.48550/arxiv.physics/0609070)

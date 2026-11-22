@@ -52,3 +52,4 @@ The author's first-person account, presented in the introduction against the Sin
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Elementary teachers review the remixed energy simulation positively, with all six agreeing the added features are useful](six-teachers-positive-review-remixed-energy-simulation.md) — related
 - [Teachers in the Singapore OSP community appropriate Open Source Physics resources in three ways: create, adapt, and use](osp-teachers-create-adapt-use.md) — related
+- [Simultaneous multiple representations in educational technologies are associated with improved conceptual understanding](multiple-representations-improve-conceptual-understanding.md) — related

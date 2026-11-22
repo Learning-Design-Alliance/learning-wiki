@@ -79,6 +79,7 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 - [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
 - [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
+- [Use two-way clicker displays to pair students holding different conceptions and strengthen peer discussion](clicker-display-pair-differing-conceptions.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

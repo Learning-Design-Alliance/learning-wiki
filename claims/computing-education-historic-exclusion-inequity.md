@@ -65,3 +65,4 @@ Theoretical argument in the guide's introduction, citing prior scholarship (Marg
 - [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related
 - [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](naplan-lbote-inequity.md) — related
 - [Educators proactively raise that LLM-based edtech could exacerbate systemic inequality through differentially bearable costs](educators-concern-systemic-inequality.md) — related
+- [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](gender-gap-narrowed-but-persists.md) — related

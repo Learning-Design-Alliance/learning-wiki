@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i3` large
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Mnemonic instruction — keyword, acrostic, and letter-strategy techniques that link new content to familiar, easily retrieved cues — improves recall of factual material for students with mild disabilities and other struggling learners.
 

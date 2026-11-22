@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i2` medium
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Retrieval practice strengthens long-term retention, and providing feedback after retrieval attempts further improves learning by correcting errors and confirming correct responses. This page treats the *interaction* — whether feedback adds incremental value beyond retrieval alone — as a distinct claim requiring its own evidence.
 

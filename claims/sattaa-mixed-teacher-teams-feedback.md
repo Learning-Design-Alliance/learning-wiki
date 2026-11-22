@@ -48,3 +48,4 @@ Feedback from the iteration that first opened registration to current and future
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — a broader claim this one bears on
 - [Online delivery expanded SATTAA participation from local preservice teachers to state-wide, mostly in-service teacher participation](sattaa-participation-expanded-statewide.md) — related
 - [In-service teachers rated both the f2f (2019) and online (2020) SATTAA iterations as highly useful for their future astronomy teaching and valued collaboration opportunities in both](sattpd-both-modalities-rated-highly-useful.md) — related
+- [Reconceiving a Methods of Physics Teaching course for inservice teachers solves the enrollment problem that plagued preservice-only versions](methods-course-inservice-enrollment-solution.md) — related

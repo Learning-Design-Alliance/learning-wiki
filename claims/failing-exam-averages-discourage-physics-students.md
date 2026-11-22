@@ -50,3 +50,4 @@ Interview finding on the culture of exams in the Physics Department: "the averag
 - [Female physics students reported the physics learning environment felt unsafe due to condescending or intimidating behavior and cold calling](unsafe-environment-condescending-cold-calling.md) — related
 - [Female physics students reported feeling marginalized due to differential gender dynamics in instructor and TA interactions](differential-gender-dynamics-marginalization.md) — related
 - [90% of modern physics syllabi explicitly state exams are used, and 78% do not state whether grades will be curved](modern-physics-assessment-exams-grading-curve-unstated.md) — related
+- [Undergraduate students find the manual differential-geometry calculations of general relativity discouraging within weeks of starting the course](gr-undergraduates-discouraged-by-manual-calculations.md) — related

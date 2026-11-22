@@ -75,3 +75,4 @@ The authors' stated rationale: circular motion has "extremely limited and only h
 - [In the authors' third-year mathematical biology course, initial informal student feedback suggests VisualPDE significantly enhanced students' understanding of course topics](visualpde-informal-feedback-enhanced-understanding.md) — related
 - [Students reported that interlinking physics, mathematics and computational content across modules helped them see connections and accelerated understanding of complex topics](cross-module-integration-accelerates-understanding.md) — related
 - [3D-printed physics-toy devices make it possible to introduce dynamical-systems ideas without starting from advanced mathematical treatment](printed-physics-toys-introduce-dynamical-systems-concepts.md) — related
+- [Course goals for algebra-based physics should differ from those of other physics courses](algebra-based-course-goals-differ.md) — related

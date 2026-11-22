@@ -56,6 +56,7 @@ The article describes Eric Mazur's peer instruction method: after explaining a c
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Response Devices](response_devices.md)
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
+- [Archive clicker ConcepTest data across semesters to refine and build a core set of effective questions](clicker-data-archiving-refine-conceptests.md)
 
 ## Examples
 -

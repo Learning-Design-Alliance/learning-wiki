@@ -87,3 +87,4 @@ The introduction states that students at schools without classroom detectors rem
 - [Implementation of the QuarkNet/Grid portal revealed that its interface to define transformations is not as user-friendly as average high-schoolers require](quarknet-chiron-usability-lessons.md) — related
 - [Comments stored as metadata let students annotate each other's data, plots and posters and build on each others' work as scientists do](quarknet-metadata-comments-collaboration.md) — related
 - [Teachers use the portal primarily to search for and download material rather than to share or upload it](portal-use-downloading-over-uploading.md) — related
+- [Cosmic-ray detector setups support two groups of student projects: cosmic-ray properties and properties of random processes](wwsl-cosmic-ray-project-taxonomy.md) — related

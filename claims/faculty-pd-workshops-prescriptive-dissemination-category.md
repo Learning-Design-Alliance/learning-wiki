@@ -92,3 +92,4 @@ The authors' argued interpretation, not a tested result: they contend that "high
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
 - [Henderson et al.'s review of 190 papers finds researchers do not provide strong evidence of success of tested STEM strategies](henderson-2011-weak-evidence-stem-strategies.md) — related
 - [STEM communities often lack structured spaces for intentional reflection on systemic issues, which the authors argue may leave EDI policies unintegrated into daily academic life](stem-lacks-structured-edi-reflection-spaces.md) — related
+- [The author argues clickers should still be encouraged because they draw instructors into adopting and reshaping instruction around PI](clickers-drive-instructor-adoption-of-pi.md) — related

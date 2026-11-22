@@ -48,3 +48,4 @@ Analysis of variance on the Fall 2000 post-test of 1356 students showed statisti
 - [A significant post-test gender difference favoring males also appears in the honors calculus-based introductory physics course](mcs-posttest-gender-difference-honors.md) — related
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
+- [Algebra-based physics students differ from calculus-based physics students in needs, motivation, and background](algebra-based-student-population-characteristics.md) — reports the opposite

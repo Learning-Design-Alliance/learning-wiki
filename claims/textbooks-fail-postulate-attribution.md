@@ -50,3 +50,4 @@ The article's introductory statement of the problem, based on the author's surve
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related
 - [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](conventional-relativity-introduction-damages-conceptual-hierarchy.md) — related
 - [Students state the invariance of the speed of light correctly but fail to apply it, using the Galilean velocity addition formula instead](students-fail-apply-invariance-speed-light.md) — related
+- [Students can derive time dilation Δt = γΔτ ≥ Δτ and the lightspeed limit on coordinate velocity from the two-clock definitions without Lorentz transforms](time-dilation-without-lorentz-transforms.md) — related

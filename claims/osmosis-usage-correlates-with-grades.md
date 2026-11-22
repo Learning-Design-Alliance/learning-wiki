@@ -58,3 +58,4 @@ Pearson correlation analysis of treatment-group platform usage metrics (median 3
 - [A higher number of completed simulations correlated with better quiz performance, but the author explicitly warns this correlation does not establish causation](simulation-count-correlates-with-quiz-performance.md) — related
 - [Students' activity on StudentResearcher correlated with oral exam grades, remaining significant when controlling for GPA](studentresearcher-activity-exam-grade-correlation.md) — related
 - [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related
+- [In Physics 2, final-exam grades correlated positively with CAPA use, though the small number of non-CAPA students made statistical assessment weak](capa-use-positively-correlated-physics2-grades.md) — related

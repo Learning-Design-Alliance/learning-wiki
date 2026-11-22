@@ -58,3 +58,4 @@ Interview study with four ND computing students on scenarios where prior strateg
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
 - Work-avoidant orientation correlates negatively with GPA in the project-based course — related
 - [Coping with technical failures, equipment operation, and computer use are the most valued technician skills](top-skills-simulation-technician-poland.md) — related
+- [Students avoid difficult topics hoping weaknesses will not be tested, and instructors must communicate that required competencies carry substantial exam credit](weak-areas-wont-be-tested-fantasy.md) — related

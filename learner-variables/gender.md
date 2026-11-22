@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 785 claims (421 show a difference, 194 mixed, 170 no difference) · 548 studies (290 associational, 181 causal, 22 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 548 report an effect size · 777 claims rest on one study
+> **Evidence** · 787 claims (422 show a difference, 195 mixed, 170 no difference) · 549 studies (290 associational, 181 causal, 23 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 549 report an effect size · 779 claims rest on one study
 
 ## How to read this page
 
@@ -824,6 +824,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Six-year STEM graduation increases with LAs were largest for students from racial/ethnic groups historically marginalized in STEM, with women from historically marginalized groups gaining about 20 percentage points](../claims/la-graduation-gains-largest-hm-women.md) [+M] — an instructional effect differs by group
 - [Among academically able students with equal science potential, females are more likely than males to abandon science at every decision stage](../claims/females-abandon-science-despite-equal-achievement.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Females used more misconceptions than males in DIRECT interviews, and males outperformed females on the test](../claims/direct-gender-misconception-differences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](../claims/confidence-gap-adolescence-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap in college natural sciences narrowed after 1992 but persists in technology and computing](../claims/gender-gap-narrowed-but-persists.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

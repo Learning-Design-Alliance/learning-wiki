@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=26 studies (45 effect sizes, N=1,918)
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading -->
 
 ## Subclaims

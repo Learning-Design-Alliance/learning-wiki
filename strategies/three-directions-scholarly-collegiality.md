@@ -42,10 +42,11 @@ The article proposes that whole departments or the college of teachers in a prog
 - [Interviews with 20 second-year physics students yield six qualitatively different categories of ways of making sense of studying physics in the first year](../claims/six-categories-sense-making-first-year-physics.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Create a cross-departmental College of teachers focused on programme integration from the students' perspective](college-of-teachers-for-programme-integration.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Ingerman, Å. & Booth, S. (2004). Making sense of studying physics. Draft copy. https://scholar.google.com/scholar?q=%22Making+sense+of+studying+physics%22
+- Ingerman, Å. & Booth, S. (2004). Making sense of studying physics. Draft copy. https://scholar.google.com/scholar?q=%22Making+sense+of+studying+physics%22. [doi:10.48550/arxiv.physics/0401052](https://doi.org/10.48550/arxiv.physics/0401052)

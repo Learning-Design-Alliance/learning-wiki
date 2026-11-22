@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2004
+source_checked: 2026-11-22
 sources:
   - id: c-efthimiou-and-r-llewellyn-2004
     resource: "https://doi.org/10.48550/arXiv.physics/0404064"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Class evaluation responses showed strong student approval of continued development of the course. [→ C. Efthimiou and R. Llewellyn 2004](#c-efthimiou-and-r-llewellyn-2004)

@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 quant-synthesis `r3` · `q2` · `i1` small
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

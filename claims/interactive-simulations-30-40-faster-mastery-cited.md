@@ -71,3 +71,4 @@ Second narrative citation in the introduction, attributed to references [12, 13]
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
 - [The cross-section question showed the highest gain for both groups, with the simulation group's gain (60%) double the paper group's (30%)](cross-section-concept-visual-gain-60-vs-30.md) — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
+- [MBL tools are associated with significantly improved understanding of physics concepts compared with traditional laboratories](mbl-tools-improved-conceptual-understanding.md) — related

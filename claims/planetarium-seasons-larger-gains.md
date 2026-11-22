@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2` medium
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Group III students viewing immersive planetarium visualizations had larger contemporaneous and post-instruction gains than Group I (no visualizations) and Group II (classroom projection) students. [→ Yu et al. 2015](#yu-et-al-2015)

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analyses over five decades identify strong links between principals' instructional leadership practices and improved student outcomes, operating mostly through support for teachers. [→ Darling-Hammond 2026](#darling-hammond-2026)

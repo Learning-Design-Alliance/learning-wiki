@@ -50,6 +50,7 @@ An implementable instructional sequence in which students first learn representa
 - [Sequence instruction as Experience, Name, Speak, Apply, Repeat for each new abstract concept](ensar-five-component-sequencing-strategy.md)
 - [Learning Cycles](learning-cycles.md)
 - [Multiple Representations](multiple-representations.md)
+- [Sequence animations across graded source/observer motion situations](graded-motion-situations-animation-sequence.md)
 
 ## Examples
 -

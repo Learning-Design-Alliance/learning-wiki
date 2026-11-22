@@ -44,6 +44,7 @@ Estrategia concreta de organización cooperativa dentro del enfoque de pequeñas
 ## Related Strategies
 
 - [Plantear consignas de modelización sobre el marco de validez (¿qué largo mínimo del conductor permite modelarlo como infinito?) para enseñar que la física trabaja con modelos simplificados](estrategia-consigna-marco-validez-modelo.md)
+- [Converter as aulas laboratoriais de verificação de princípios em actividades de descoberta e desenvolvimento de modelos a partir de observações](discovery-based-laboratory-activities-physics.md)
 
 ## Examples
 -

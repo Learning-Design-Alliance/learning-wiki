@@ -59,3 +59,4 @@ In its drawbacks and challenges section, the review states that web-based simula
 - [Most participants judged telesimulation as offering fewer training opportunities than face-to-face instruction, citing technical difficulties most often](telesimulation-perceived-disadvantages.md) — related
 - [Thematic analysis of participant feedback identified three themes: challenges of audio-based learning, difficulties setting up the software environment, and benefits for data literacy and confidence](blind-learners-qualitative-themes.md) — related
 - [Fifty-two of 169 entrants exited during camera setup, mostly citing camera connection or stable-view difficulties](camera-setup-exits-52-of-169.md) — related
+- [WWSL gives students around-the-clock access to experimental setups and lets any Internet-connected student participate regardless of location](wwsl-around-the-clock-and-location-independent-access.md) — related

@@ -47,4 +47,4 @@ The Conceptual physics courses at the University of the Western Cape and Uppsala
 -
 
 ## Key Sources
-- Ingerman, Å. & Booth, S. (2004). Making sense of studying physics. Draft copy. https://scholar.google.com/scholar?q=%22Making+sense+of+studying+physics%22
+- Ingerman, Å. & Booth, S. (2004). Making sense of studying physics. Draft copy. https://scholar.google.com/scholar?q=%22Making+sense+of+studying+physics%22. [doi:10.48550/arxiv.physics/0401052](https://doi.org/10.48550/arxiv.physics/0401052)

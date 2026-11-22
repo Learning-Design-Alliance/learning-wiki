@@ -52,3 +52,4 @@ The editorial reports, from Friesen's article in the issue, that student discour
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
 - [CSCL is often based on learners' written argumentative discourse about problem perspectives with the goal of acquiring knowledge](cscl-based-on-written-argumentative-discourse.md) — related
 - [New technologies and tools are emerging that cater to a broader range of genres, pedagogical settings, and approaches as technology-enhanced learning becomes more ubiquitous](strobl-2019-emerging-broader-tools.md) — related
+- [A teacher-built red thread can be experienced by students as a security line to cling to rather than an integration guide](red-thread-experienced-as-security-line.md) — related

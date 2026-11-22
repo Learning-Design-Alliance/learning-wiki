@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r?` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Signaling (cueing) — highlighting the essential elements of a lesson through visual emphasis, color, arrows, or headings — directs learner attention to key content and away from extraneous material, improving learning outcomes.
 

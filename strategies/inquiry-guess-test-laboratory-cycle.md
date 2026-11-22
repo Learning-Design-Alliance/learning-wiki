@@ -44,6 +44,7 @@ Each meeting combined a short introductory discussion with an experimental sessi
 
 - [Sequenced extracurricular laboratory path: Shive machine, sound with oscilloscope, acoustic interference, then resonance](sequenced-waves-laboratory-path-strategy.md)
 - [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
+- [Prediction-then-verification demonstration sequence with optional flat tuning and student-brought instruments](predict-peaks-then-zoom-verify-strategy.md)
 
 ## Examples
 -

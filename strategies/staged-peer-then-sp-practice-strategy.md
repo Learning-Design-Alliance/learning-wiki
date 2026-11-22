@@ -54,6 +54,7 @@ The article recommends sequencing clinical skills practice so students first wor
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Integrate simulation learning experiences in stages throughout the physiotherapy curriculum rather than as one-off exposures](staged-simulation-integration-physiotherapy-curricula.md)
 - [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
+- [Sequence animations across graded source/observer motion situations](graded-motion-situations-animation-sequence.md)
 
 ## Examples
 -

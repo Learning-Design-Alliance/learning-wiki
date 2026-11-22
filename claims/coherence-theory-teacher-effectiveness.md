@@ -57,3 +57,4 @@ Theoretical argument drawing on organizational research and research on professi
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
 - [Addressing attitudes, knowledge, and practice together offers teachers multiple pathways into change, letting PD build on individual motivations](multiple-pathways-teacher-change.md) — related
 - [Individual or small quantum education programs likely cannot deploy educator professional development at scale or over multiple years without sustained center scaffolding](small-programs-cannot-scale-quantum-pd-without-center.md) — a narrower finding that bears on this claim
+- [The article claims current educational systems do not teach students how to learn effectively and are unsafe for teaching experimentation](current-systems-unsafe-for-experimentation.md) — related

@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r3`, 1 review `r3` · `q4` · `i3` large · n=8,776 effect sizes
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of [cognitive load theory](../theories/cognitive-load-theory.md) and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.
 

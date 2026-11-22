@@ -55,3 +55,4 @@ Multiple-group growth model (N = 612) compared boys and girls; Wald tests showed
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a broader claim this one bears on
 - [Both girls and boys achieved pedagogically significant self-esteem gains despite pre-test baseline differences, with the educator's gender showing no effect](self-esteem-gains-both-genders-male-educator.md) — related
 - [SES predicts initial achievement levels and gender predicts mathematics growth within settings, without altering between-setting growth comparisons](ses-gender-covariates-achievement-growth.md) — related
+- [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](confidence-gap-adolescence-girls.md) — related
