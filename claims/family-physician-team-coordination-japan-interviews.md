@@ -51,3 +51,4 @@ Narrative review attributing this to a qualitative interview study (cited as Mit
 - [Non-urban general practitioners are characterized by providing a broad scope of care and effective utilization of limited medical resources, in contrast to urban practitioners](non-urban-gp-broad-scope-limited-resources.md) — related
 - [Ten themes of competencies characteristic of urban general practitioners were extracted from interviews with 10 Japanese general practitioners](ten-urban-gp-competency-themes.md) — related
 - [Urban general practitioners face fragmented care in which patient information is dispersed and responsibility for care is unclear](urban-fragmented-care-context.md) — related
+- [Nurse practitioner involvement in heart failure clinics using telemedicine is reported to reduce hospitalization rates and improve access to care](np-telemedicine-heart-failure-reduced-hospitalizations.md) — related

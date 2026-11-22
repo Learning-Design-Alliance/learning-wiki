@@ -47,6 +47,7 @@ The review recommends that "school-wide policy action is needed to address weigh
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
 - [Peer Mediation](peer-mediation.md)
 - [Two-step intervention: first decrease victimisation and build motivational factors, then increase achievement and engagement](two-step-bullying-motivation-intervention-strategy.md)
+- [Pair school obesity-prevention programs with anti-bullying programs targeting weight-related bias, particularly for girls](anti-bullying-weight-bias-alongside-obesity-prevention.md)
 
 ## Examples
 -

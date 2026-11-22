@@ -72,3 +72,4 @@ Wilcoxon rank-sum tests comparing median domain scores by gender; the printed me
 - [Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students](knowledge-gain-gender-academic-year-subgroups.md) — related
 - [Nurse educators, part-time workers, males and Christians had significantly higher research knowledge and skills scores than their counterparts](predictors-research-knowledge-skills-ghana-nurses.md) — related
 - [Male physicians report higher achalasia knowledge and diagnostic recognition, while female physicians report more self-perceived deficiencies](gender-differences-achalasia-knowledge-turkiye.md) — related
+- [Female physicians scored higher than male physicians on ASD general knowledge and all three knowledge categories](female-physicians-higher-asd-knowledge.md) — related

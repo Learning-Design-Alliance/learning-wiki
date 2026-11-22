@@ -50,3 +50,4 @@ Phase comparison (P1: 11 cases, P2: 11, P3: 14) for DSTs-1 in the retrospective 
 - [For the second trainee, surgical time and other outcomes showed no significant differences from pre-test to post-test after DST introduction, in one uncontrolled pre-post study](dsts2-no-significant-phase-differences.md) — reports the opposite
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
 - [Robotic distal gastrectomy induction-phase performance did not differ significantly between a DST-experienced surgeon and conventionally trained, ESSQS-qualified surgeons](rdg-induction-no-dst-difference.md) — related
+- [Coached surgeons decreased operative time for sleeve gastrectomy by 14 minutes compared to uncoached surgeons](coached-surgeons-decreased-operative-time-14-minutes.md) — related

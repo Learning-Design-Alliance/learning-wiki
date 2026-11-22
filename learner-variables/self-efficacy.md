@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 390 claims (298 show a difference, 50 mixed, 42 no difference) · 308 studies (100 causal, 100 associational, 34 review, 32 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 308 report an effect size · 386 claims rest on one study
+> **Evidence** · 395 claims (302 show a difference, 51 mixed, 42 no difference) · 310 studies (102 associational, 100 causal, 34 review, 32 qualitative, 22 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 310 report an effect size · 391 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -421,6 +421,11 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Interview participants reported that low-stakes AI speaking practice improved communicative confidence, though automated feedback was sometimes too general for academic content](../claims/eap-talk-low-stakes-confidence-theme.md) [~M] — measured as an outcome of the instruction studied
 - [Physics self-efficacy is a strong predictor of peer influence on self-efficacy (PISE)](../claims/self-efficacy-strong-predictor-of-pise.md) [+M] — learners who differ on it differ in outcomes
 - [Nearly all students reported increased disciplinary self-efficacy, describing greater confidence, curiosity and motivation to engage with advanced physics](../claims/disciplinary-self-efficacy-gain-quantum-course.md) [+M] — measured as an outcome of the instruction studied
+- [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](../claims/alcohol-smoking-competency-radiology-residents.md) [~M] — measured as an outcome of the instruction studied
+- [Normal sleep is associated with higher perceived-competency and higher odds of high performance among radiology residents](../claims/normal-sleep-higher-competency-radiology-residents.md) [+M] — measured as an outcome of the instruction studied
+- [PTs rate diagnosing and treating sarcopenia and malnutrition as important (4.5 and 4.2/5) but report low self-belief in their ability to do so (2.4 and 2.1/5)](../claims/pt-attitude-confidence-gap-mss.md) [+M] — measured as an outcome of the instruction studied
+- [Radiology residents with high-level healthy lifestyles report higher perceived-competency than those with low-level lifestyles](../claims/high-lifestyle-higher-perceived-competency-radiology-residents.md) [+M] — measured as an outcome of the instruction studied
+- [Regular physical activity is associated with higher perceived-competency among radiology residents](../claims/regular-physical-activity-higher-competency-radiology-residents.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

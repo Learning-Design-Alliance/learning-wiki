@@ -70,3 +70,5 @@ Multiple linear regression with robust estimators on the same 403-student sample
 - [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
 - [During exam periods, most Palestinian medical students sleep less than 7 hours per day and few exercise](exam-period-short-sleep-low-exercise-prevalence.md) — related
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
+- [Higher daily tea and instant coffee consumption during the exam period is negatively associated with medical students' grades](tea-instant-coffee-negative-association-grades.md) — related
+- [Traditional coffee is significantly negatively correlated with grades in Spearman analysis but not significant in regression](traditional-coffee-inconsistent-across-analyses.md) — related

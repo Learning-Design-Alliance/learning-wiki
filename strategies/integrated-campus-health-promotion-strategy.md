@@ -56,6 +56,7 @@ The article recommends that university health and academic support services prom
 - [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

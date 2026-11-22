@@ -88,3 +88,4 @@ The review reports, citing Premkumar et al. (2024), that "small sample sizes, sh
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — reports the opposite
 - [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — related
+- [Evidence on whether problem-based learning improves nursing students' critical thinking is mixed, with meta-analyses reaching opposite conclusions](pbl-critical-thinking-mixed-meta-analytic-evidence.md) — related

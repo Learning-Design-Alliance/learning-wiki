@@ -55,3 +55,4 @@ Randomised trial measuring the Safety Attitudes Questionnaire 1 month before and
 - [In situ participants rate simulation authenticity significantly higher than off-site participants, yet this perception did not influence individual or team outcomes](iss-higher-authenticity-rating-no-outcome-effect.md) — related
 - [SBTT improved nurse assistants' teamwork climate, safety climate and working conditions, and nurses' safety climate, but not physicians' SAQ scores](sbtt-saq-factors-profession-divergence.md) — related
 - [Stress recognition scores decreased for nurses and nurse assistants after SBTT](sbtt-stress-recognition-decrease.md) — related
+- [Prior in situ simulation interventions with healthcare professionals were associated with improvements in teamwork climate, safety climate, job satisfaction, perceptions of management, and working conditions](prior-insitu-simulation-safety-culture-improvements.md) — related

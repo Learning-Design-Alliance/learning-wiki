@@ -50,3 +50,4 @@ Multivariate logistic regression (N = 1519) with Benjamini-Hochberg-adjusted p-v
 - [Adolescents living with HIV report more cognitive difficulties and mental health challenges than HIV-free peers](alhiv-cognitive-mental-health-differences.md) — related
 - [Missing school to attend clinic appointments is associated with reduced school attendance among adolescents living with HIV](clinic-appointments-reduce-school-attendance.md) — related
 - [A path model shows HIV status relates to worse educational outcomes through cascades of cognitive, mental-health and physical-health difficulties](path-model-hiv-educational-cascade.md) — related
+- [Academic performance in Setswana did not differ significantly by HIV exposure status](setswana-performance-no-difference-by-hiv-exposure.md) — related

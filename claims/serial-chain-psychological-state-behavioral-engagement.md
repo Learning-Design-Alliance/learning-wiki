@@ -55,3 +55,5 @@ Serial (chained) indirect effect from the same mediation model. The article iden
 - [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
 - [Increased engagement mediates the exam performance gains from personalized problem sequencing](engagement-mediation-of-sequencing-gains.md) — related
+- [Academic engagement independently mediates the association between social anxiety and academic performance](academic-engagement-mediation-social-anxiety.md) — related
+- [Social media addiction and academic engagement serially mediate the social anxiety–academic performance link](serial-mediation-sma-engagement.md) — related

@@ -49,3 +49,4 @@ Descriptive set-intersection analysis of a binary correct/incorrect matrix of 19
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — related
 - [No significant inter-model differences in accuracy on visually-based JNEOT questions](no-intermodel-differences-visual-questions.md) — related
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
+- [Error-set overlap analysis found 16 questions all six passing models answered incorrectly, and ChatGPT's error profile resembled the Chinese models'](llm-error-set-overlap-venn-analysis.md) — related

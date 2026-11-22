@@ -67,3 +67,4 @@ Anonymous questionnaire completed by all 127 residents (100% response rate) afte
 - [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — related
 - [Students rated the FC-TCLEBL class higher than the LBC class on teamwork ability, analytical skills, and problem-solving skills](fc-tclebl-student-questionnaire-skill-ratings.md) — a narrower finding that bears on this claim
 - [PBL shows significant pooled advantages over LBL on learning attitude, problem-solving skill, self-directed learning skill and collaborative skill](pbl-attitude-skills-outcomes-china.md) — related
+- [The flipped classroom model has been proposed to support high-level cognitive skills, critical thinking, motivation, and interactions in nursing education](flipped-classroom-high-level-cognitive-skills-nursing.md) — related

@@ -53,3 +53,4 @@ Authors' interpretation of the counterbalanced experimental manipulation, offere
 - [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — a broader claim this one bears on
 - [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — related
+- [Students with more than five courses per semester more frequently had daytime sleepiness](five-plus-courses-daytime-sleepiness.md) — a narrower finding that bears on this claim

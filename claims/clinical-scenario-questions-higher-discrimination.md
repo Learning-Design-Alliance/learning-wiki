@@ -51,3 +51,4 @@ Psychometric analysis of the 100 validated AI-generated questions classified by 
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — reports the opposite
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — related
+- [Neither waveform-interpretation, theoretical, nor clinical-scenario question types showed a significant advantage for the VentSim group in the secondary analysis](ventsim-no-gain-by-question-type.md) — related

@@ -50,3 +50,4 @@ Sensitivity analysis adding grade 3 media use to the cross-sectional models (Tab
 - [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — related
 - [Videogame use showed no association with reading or numeracy performance in late childhood](videogame-use-no-reading-numeracy-association.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related

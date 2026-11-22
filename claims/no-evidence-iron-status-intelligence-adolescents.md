@@ -51,3 +51,4 @@ Review synthesis across 13 cross-sectional studies reporting intelligence measur
 - [Iron supplementation during adolescence may improve school performance, with effects concentrated among anemic students](iron-supplementation-improves-school-performance-adolescents.md) — related
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related
 - [No consistent associations are found between micronutrient intake and academic performance](no-consistent-nutrient-academic-performance-association.md) — related
+- [Sex, family size, teacher sex preference, food additive intake and preschool attendance were non-significant predictors of academic performance](null-predictors-sex-family-size-teacher-sex-additives-preschool.md) — related

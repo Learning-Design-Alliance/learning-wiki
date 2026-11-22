@@ -70,3 +70,4 @@ Descriptive frequencies from the same practice form: "Nutritional screening and 
 - [Advanced wound treatments (growth factors, negative pressure wound therapy) are used only in advanced‐stage pressure ulcers and at low rates](advanced-treatments-limited-advanced-stages.md) — related
 - [Age, weekly pressure ulcer care volume, education participation, and self‐perceived adequacy predict ICU nurses' pressure ulcer self‐efficacy](predictors-of-nurse-pu-self-efficacy.md) — related
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — related
+- [Individualized care items show the largest self–manager gaps among the highest-scored items](highest-item-gaps-individualized-care.md) — related

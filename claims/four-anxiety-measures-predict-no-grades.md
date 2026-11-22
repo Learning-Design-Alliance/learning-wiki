@@ -54,3 +54,4 @@ Multiple regression analysis (Table 7) of 13 grade outcomes across the full samp
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
 - [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related
 - [Higher trait test anxiety predicts lower exam points but more non-exam points among control students](test-anxiety-predicts-lower-exam-points-higher-nonexam-points.md) — related
+- [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — related

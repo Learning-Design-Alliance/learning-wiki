@@ -49,3 +49,4 @@ Standard mediation analysis within the field RCT with total platform time and to
 - [Flipped-format students answer online homework more accurately, and this accuracy partially mediates the relationship between class type and exam scores](homework-accuracy-partially-mediates-flipped-exam-gain.md) — related
 - [Choice increased task engagement and end-of-semester interest, and task engagement mediated the effect of choice on course performance](uv-choice-engagement-mediation.md) — related
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related
+- [Academic engagement is positively associated with academic performance](academic-engagement-improves-gpa.md) — related

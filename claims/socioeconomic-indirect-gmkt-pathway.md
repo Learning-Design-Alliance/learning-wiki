@@ -50,3 +50,4 @@ SEM structure model in the Results for the latent variable formed by father's ed
 - [Seven nonacademic variables are selected as predictors of GMKT performance from 98 candidate nonacademic factors in Chinese medical students](seven-nonacademic-predictors-gmkt.md) — related
 - [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](ses-context-predicts-verbal-ability-add-health.md) — related
 - [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
+- [BMI Z-score, anemia, parental education, and parental occupation show no association with academic performance in this sample](bmi-anemia-parental-factors-null-academic-performance.md) — related

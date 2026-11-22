@@ -52,6 +52,7 @@ The article recommends designing VR educational experiences around human- and le
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 - [Simplify novel-technique controls and support teachers when deploying role-play and immersive tools in lectures](simplify-role-play-controls-support-teachers-immersive-lecturing.md)
+- [Use teleportation locomotion in VR training to minimise cybersickness and keep frames per second steady](teleportation-locomotion-reduce-cybersickness-strategy.md)
 
 ## Examples
 -

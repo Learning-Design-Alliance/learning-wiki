@@ -52,3 +52,4 @@ The article reports this second-hand, attributing it to the National Collaborati
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — a broader claim this one bears on
 - [Existing educator wellbeing initiatives predominantly target individual rather than systematic determinants of wellbeing](initiatives-target-individual-not-systemic-determinants.md) — related
 - [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related
+- [Four antecedents precede structural competency: sense of decline, understanding of equity, failure of existing frameworks, and critical self-reflection](structural-competency-antecedents.md) — related

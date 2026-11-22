@@ -67,3 +67,4 @@ Multivariable binary logistic regression with GPA as low (≤3.5–4) versus hig
 - [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
 - [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — reports the opposite
 - [The combined regression model of physical activity, eating-disorder symptoms, depression, age, and specialty is significant but explains only 6.1% of GPA variance](regression-model-modest-gpa-variance.md) — related
+- [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — related

@@ -51,6 +51,7 @@ The article recommends that managers overcome the university–healthcare gap by
 
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
 
 ## Examples
 -

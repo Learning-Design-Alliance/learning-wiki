@@ -101,3 +101,4 @@ Table 2 characterizes the Oliveira et al. 2016 Cochrane/meta-analysis of 19 stud
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — a broader claim this one bears on
 - [Non-traditional teaching methods significantly improve critical thinking skills in nursing students compared to control groups](non-traditional-methods-improve-ct-skills.md) — a broader claim this one bears on
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related
+- [Evidence on whether problem-based learning improves nursing students' critical thinking is mixed, with meta-analyses reaching opposite conclusions](pbl-critical-thinking-mixed-meta-analytic-evidence.md) — reports the opposite

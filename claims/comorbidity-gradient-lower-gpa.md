@@ -51,3 +51,6 @@ Comorbidity analysis categorizing exposure by number of diagnostic categories (0
 - [Students diagnosed with a mental disorder during childhood or adolescence have lower comprehensive school achievement than peers without a diagnosis](mental-disorder-lower-comprehensive-school-gpa.md) — a broader claim this one bears on
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [The association between mental disorder diagnosis and lower school achievement is more pronounced in female than male students](gender-difference-mental-disorder-gpa-females-stronger.md) — related
+- [Absolute cumulative incidence of any mental disorder by age 38 falls from 39.6% at the poorest achievement level to 15.7% at the highest](cumulative-incidence-mental-disorder-by-achievement-level.md) — related
+- [Poor school achievement at age 16 is associated with a higher subsequent risk of any mental disorder, and high achievement with a lower risk, in a Finnish nationwide cohort](poor-school-achievement-higher-any-mental-disorder-risk.md) — related
+- [Higher school achievement is associated with a lower risk of psychiatric comorbidity, following a dose-response gradient](school-achievement-comorbidity-dose-response.md) — possibly the same claim (merge candidate)

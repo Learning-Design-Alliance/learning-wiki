@@ -48,3 +48,4 @@ Step 3 of the multilevel mediation model for math in the NCSC sample. The articl
 - [The Chinese teacher-student relationship does not mediate the link between school SES and Chinese achievement](chinese-tsr-no-mediation-school-ses.md) — reports the opposite
 - [Perceived Chinese teacher-student relationship is positively related to Chinese achievement even though it does not mediate school SES](chinese-tsr-positive-achievement-direct.md) — reports the opposite
 - [Students' perceptions of their teacher's fixed mindset positively predict students' own fixed mindset in math at the student level](perceived-teacher-fixed-mindset-predicts-student-mindset.md) — related
+- [SES predicted academic achievement partially through Food Label Literacy and negatively through food insecurity](ses-academic-achievement-fll-food-insecurity-mediation.md) — related

@@ -51,3 +51,5 @@ Multivariate stepwise linear regression on survey data from 1947 ICU nurses acro
 - [Chinese ICU nurses showed deficient knowledge of eye care for critically ill patients, with an average correct rate of 38.3%](icu-nurses-deficient-eye-care-knowledge-38-percent.md) — related
 - [ICU nurses held positive attitudes toward eye care, but positive attitudes did not fully translate into prioritising eye care in practice](positive-attitudes-not-translating-eye-care-practice.md) — related
 - [ICU nurses' infection control practices for eye care were better than their eye hydration and eyelid closure practices](infection-control-better-than-hydration-eyelid-closure-practices.md) — related
+- [ICU nurses who follow current eye care practices score significantly higher on total eye care competence](following-current-practices-higher-competence.md) — related
+- [Receiving formal eye care training showed no statistically significant difference in knowledge, attitude, implementation, or total competence scores](formal-eye-care-training-no-significant-difference.md) — reports the opposite

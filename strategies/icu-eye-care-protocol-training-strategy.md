@@ -51,6 +51,7 @@ The article recommends that clinical managers improve eye care for critically il
 ## Related Strategies
 
 - [Strengthen ICU nursing skills through targeted training, clinical guidelines, SOPs, mentorship, and access to learning resources](icu-skills-strengthening-strategy-limited-resource-settings.md)
+- [Integrate comprehensive eye care training with evidence-based guidelines, hands-on workshops, and simulation-based learning into nursing education](eye-care-training-simulation-workshops-strategy.md)
 
 ## Examples
 -

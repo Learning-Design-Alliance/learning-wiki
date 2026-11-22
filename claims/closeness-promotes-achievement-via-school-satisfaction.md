@@ -50,3 +50,4 @@ Combined cross-lagged SEM with academic achievement (N = 848). Table 3 prints in
 - [School satisfaction indirectly promotes achievement through increased closeness to parents, and school stress indirectly hinders achievement through increased conflict with teachers](wellbeing-promotes-achievement-via-relationships.md) — related
 - [Higher school satisfaction predicts increased subsequent closeness to parents, friends, and teachers (evocative effect)](school-satisfaction-predicts-relationship-closeness.md) — related
 - [Conflict with teachers predicts later school stress, conflict with parents predicts lower later satisfaction, and school stress predicts later conflict with parents, friends, and teachers](conflict-school-stress-reciprocal-associations.md) — related
+- [School satisfaction temporarily increases between the end of primary school and right after the transition to secondary school](school-satisfaction-temporary-increase-after-transition.md) — related

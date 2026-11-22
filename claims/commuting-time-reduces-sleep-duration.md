@@ -52,3 +52,4 @@ Mediation regressions of time allocation on commuting time (Table 5) indicate "a
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
 - [The negative effect of commuting time on rural students' outcomes is significant for girls and particularly pronounced among 5th graders.](commuting-time-girls-fifth-graders-heterogeneity.md) — related
+- [The negative sleep–academic performance association is stronger among rural students (β = -0.085) than urban students (β = -0.067)](rural-urban-subgroup-sleep-academic-performance.md) — related

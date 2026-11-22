@@ -53,6 +53,7 @@ The article recommends that teachers and educational policy promote physical act
 ## Related Strategies
 
 - [Design physical activity programs aimed at increasing CRF and executive functions to improve academic achievement in schoolchildren](physical-activity-programs-crf-executive-functions-academic-achievement.md)
+- [Promote motor skills in disadvantaged contexts as a route to narrowing SES-achievement gaps](promote-motor-skills-disadvantaged-contexts-strategy.md)
 
 ## Examples
 -

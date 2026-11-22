@@ -52,6 +52,7 @@ The article recommends that parents, teachers, and policymakers jointly address 
 ## Related Strategies
 
 - [Families jointly agree to limit short video time and model balanced media habits](family-media-agreement-limit-short-video.md)
+- [Support adolescents to develop balanced screen habits and provide additional academic support for adolescents from families with low educational attainment](balanced-screen-habits-and-academic-support-strategy.md)
 
 ## Examples
 -

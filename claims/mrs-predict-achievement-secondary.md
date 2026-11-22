@@ -73,3 +73,4 @@ Null b-paths for mastery self-talk, self-defeating self-talk and self-consequati
 - [Motivational regulation strategies negatively predict academic performance directly but positively via cognitive learning, which mediates the relationship](mrs-negative-direct-mediated-cls-gpa.md) — related
 - [Self-regulation is the most potent personal predictor of academic achievement in Colombian adolescents](self-regulation-strongest-personal-predictor-adolescent-achievement.md) — related
 - [Motivational regulation strategies correlate positively with cognitive learning strategies but not with academic performance](mrs-cls-correlations-not-gpa.md) — reports the opposite
+- [Learning self-efficacy is positively related to academic achievement and predicts learning motivation and effectiveness](learning-self-efficacy-predicts-motivation-achievement.md) — related

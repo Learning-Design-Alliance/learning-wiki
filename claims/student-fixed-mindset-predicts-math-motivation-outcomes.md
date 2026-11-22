@@ -60,3 +60,4 @@ Student-level paths from the multilevel path analysis of 507 students in 28 clas
 - [Growth mindset and control beliefs show no significant association with examination anxiety, contrary to theoretical expectations](mindset-control-no-anxiety-association.md) — reports the opposite
 - [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](self-efficacy-highest-belief-correlation-grades.md) — related
 - [Supported techniques show higher associations with self-efficacy, growth mindset, control beliefs and learning goals than unsupported techniques, but low elaboration relates to more exam anxiety](supported-techniques-beliefs-associations.md) — related
+- [Learning self-efficacy is positively related to academic achievement and predicts learning motivation and effectiveness](learning-self-efficacy-predicts-motivation-achievement.md) — related

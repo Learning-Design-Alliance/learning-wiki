@@ -71,3 +71,4 @@ Random-effects meta-analysis of panel interview studies (12 articles, 20 effect 
 - [A PA cohort admitted via simulation-based MMI experienced zero major professionalism events in the didactic year, versus 4.8% and 5.5% in two prior panel-interview cohorts](mmi-simulation-cohort-zero-major-professionalism-events.md) — related
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related
 - [The interview communication skills dimension is a small but statistically significant predictor of clinical skills, final WAM, and later-year knowledge outcomes](interview-communication-dimension-predicts-clinical-outcomes.md) — related
+- [Students admitted with structured interviews scored higher on the clinical component of their final phase exam but worse on the theoretical component than peers admitted without interviews](structured-interview-clinical-higher-theoretical-lower.md) — related

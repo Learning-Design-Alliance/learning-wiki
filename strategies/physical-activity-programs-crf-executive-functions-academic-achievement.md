@@ -52,6 +52,7 @@ The article concludes that "the design of physical activity programs aimed at in
 
 - [Implement object-control and stability-skill physical programs, prioritizing lower-grade primary schoolchildren, to support Chinese and mathematics performance](fms-object-control-stability-intervention-strategy.md)
 - [Promote gross motor activities and games that also demand cognitive processes, particularly for boys](motor-cognitive-games-priority-strategy.md)
+- [Promote motor skills in disadvantaged contexts as a route to narrowing SES-achievement gaps](promote-motor-skills-disadvantaged-contexts-strategy.md)
 
 ## Examples
 -

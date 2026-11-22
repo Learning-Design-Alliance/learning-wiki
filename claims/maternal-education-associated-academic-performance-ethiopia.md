@@ -58,3 +58,5 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related
 - [Adolescents with medium- and high-educated mothers have higher odds of higher educational attainment at age 17 than adolescents with low-educated mothers](maternal-education-predicts-adolescent-attainment-netherlands.md) — related
 - [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
+- [BMI Z-score, anemia, parental education, and parental occupation show no association with academic performance in this sample](bmi-anemia-parental-factors-null-academic-performance.md) — reports the opposite
+- [Being female and having a literate mother were negatively associated with academic performance, while child age was positively associated](sociodemographic-direct-effects-academic-performance.md) — reports the opposite

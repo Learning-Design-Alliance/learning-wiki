@@ -52,3 +52,4 @@ Logistic regression in the Bergen Child Study longitudinal cohort (N = 3453) com
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Inattention mediates the association between daytime sleepiness and reading and mathematics in Grade 3](inattention-mediation-sleep-achievement.md) — related
 - [Screen time, sleep duration, and ethnicity are not associated with grades once psychopathology and other confounders are jointly adjusted](lifestyle-associations-attenuate-full-adjustment.md) — reports the opposite
+- [No significant association was found between sleep quality and academic achievement (GPA)](no-association-sleep-quality-gpa.md) — related

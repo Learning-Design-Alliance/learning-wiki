@@ -54,3 +54,4 @@ Chi-square tests in the 192-child sample. The article also reports "older childr
 - [Maltreated primary-school children show elevated rates of poor performance, special education, and absenteeism](maltreated-children-school-functioning-prevalence.md) — related
 - [Very poor school performance is strongly associated with having a special education decision among maltreated children](poor-performance-special-education-link.md) — related
 - [Multivictimization is associated with over threefold increased odds of very poor school performance in maltreated primary-school children](multivictimization-poor-school-performance.md) — related
+- [High academic performance was 49.9% among school-age children, with the median score 70](academic-performance-half-below-median.md) — related

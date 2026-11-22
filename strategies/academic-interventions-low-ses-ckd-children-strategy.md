@@ -51,6 +51,7 @@ The article recommends that because SES disadvantage compounds the academic risk
 - [Interventions targeting cognitive stimulation may help reduce SES-related cognitive and educational disparities](cognitive-stimulation-interventions-disadvantaged.md)
 - [Response To Intervention](response-to-intervention.md)
 - [Monitor and intervene early on academic performance in ALL survivors with low socio-economic status or radiation exposure](early-academic-monitoring-low-ses-radiated-all-survivors.md)
+- [Support adolescents to develop balanced screen habits and provide additional academic support for adolescents from families with low educational attainment](balanced-screen-habits-and-academic-support-strategy.md)
 
 ## Examples
 -

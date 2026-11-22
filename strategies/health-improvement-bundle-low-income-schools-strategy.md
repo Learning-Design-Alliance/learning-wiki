@@ -49,7 +49,8 @@ The article's implications section recommends that, consistent with the HPS and 
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](../claims/whole-child-approach-improved-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate overall student well-being into college health programs and use the WSCC framework as a starting model for higher education](wscc-college-wellbeing-academic-integration-strategy.md)
 
 ## Examples
 -

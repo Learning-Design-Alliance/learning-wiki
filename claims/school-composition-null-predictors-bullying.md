@@ -68,3 +68,4 @@ Multilevel model 5B testing child-by-school-climate interactions over and above 
 - [Child-by-school deprivation interaction: high-deprivation schools are a risk factor for bullying only for non-deprived children](child-school-deprivation-interaction-bullying.md) — related
 - [Poorer school climate is associated with greater self-reported bullying behaviour, independently of child- and school-level demographics](school-climate-predicts-bullying.md) — related
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
+- [Sensitivity analyses (white ethnicity, overt vs relational bullying, excluding SEN records) were broadly similar, with no mediation evidence for either bullying component](sensitivity-analyses-broadly-similar-bullying-components.md) — related

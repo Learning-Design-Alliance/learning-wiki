@@ -73,3 +73,4 @@ The authors' discussion of the performance ceiling identifies three factors: emp
 - [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — a narrower finding that bears on this claim
 - [All four LLMs showed a decline in accuracy on the Chinese-language NMLE, with GPT-4, GPT-3.5 and Bard failing to reach the 70% accuracy threshold](llm-accuracy-declines-on-chinese-nmle.md) — related
 - [Large model performance drops notably on hard L2-Bench tasks, with the top three models all scoring below 80% on 267 tasks](l2-bench-hard-task-performance-drop.md) — related
+- [Six of seven LLMs exceeded the CNMLE passing threshold under zero-shot settings, with Chinese-corpus model Baichuan achieving the highest accuracy (86.67%)](llm-cnmle-zero-shot-accuracy-baichuan-highest.md) — related

@@ -53,3 +53,4 @@ Authors' observation from the current correlational dataset, reported in the Dis
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md) — related
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
+- [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — related

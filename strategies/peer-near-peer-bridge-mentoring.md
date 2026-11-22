@@ -49,6 +49,7 @@ The article recommends opportunities for peer and near-peer mentorship, in which
 - [Provide career development support for diverse pathways, especially non-academic careers, through skills workshops, alumni networks, and funded internships](non-academic-career-pathway-support.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Departmental practices to broaden astronomy access: inclusive community, faculty and graduate student interaction, undergraduate research, and career expectancy communication](inclusive-astronomy-department-practices.md)
+- [Update undergraduate and in-service PU training to include evidence-based practice, evaluate effectiveness periodically, and have senior nurses guide new graduates](evidence-based-pu-training-update-and-mentoring.md)
 
 ## Examples
 -

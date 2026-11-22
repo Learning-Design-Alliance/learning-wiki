@@ -113,3 +113,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Simulator training improves self-efficacy in both feedback and control groups](simulator-training-improves-self-efficacy.md) — related
 - [No between-group difference in thyroid examination performance after video access, with both groups performing at a uniformly high standard](no-video-effect-thyroid-examination.md) — related
 - [Peer-assessment engagement during simulation training shows no significant benefit on retention-test performance measured two weeks after the course](peer-assessment-no-retention-benefit-two-weeks.md) — related
+- [Prior ICU experience did not significantly moderate the effect of remote simulation training on knowledge scores](ventsim-subgroup-icu-experience-null.md) — related

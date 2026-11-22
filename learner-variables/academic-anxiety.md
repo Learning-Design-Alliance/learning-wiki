@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 338 claims (220 show a difference, 64 mixed, 54 no difference) · 215 studies (81 associational, 70 causal, 29 review, 10 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 52 of 215 report an effect size · 330 claims rest on one study
+> **Evidence** · 344 claims (224 show a difference, 65 mixed, 55 no difference) · 217 studies (83 associational, 70 causal, 29 review, 10 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 53 of 217 report an effect size · 336 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -374,6 +374,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](../claims/pilot-psychometric-gains-stress-anxiety-motivation.md) [+M] — measured as an outcome of the instruction studied
 - [Over-correction by AI systems risks anxiety and reduced fluency by overwhelming learners rather than guiding them](../claims/ai-over-correction-feedback-harm.md) [+W] — measured as an outcome of the instruction studied
 - [Physics students report that Public Exams reduce anxiety and help direct study to core concepts](../claims/public-exams-reduce-anxiety-direct-core-concepts-physics.md) [+M] — measured as an outcome of the instruction studied
+- [Academic engagement independently mediates the association between social anxiety and academic performance](../claims/academic-engagement-mediation-social-anxiety.md) [+W] — learners who differ on it differ in outcomes
+- [Social anxiety is negatively associated with college students' academic performance (GPA)](../claims/social-anxiety-negative-academic-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Social anxiety is negatively related to academic engagement](../claims/social-anxiety-reduces-academic-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Social media addiction and academic engagement serially mediate the social anxiety–academic performance link](../claims/serial-mediation-sma-engagement.md) [+W] — learners who differ on it differ in outcomes
+- [The authors conclude that state anxiety was correlated with worse academic performance, although the tabled correlation did not reach significance](../claims/state-anxiety-worse-academic-performance-conclusion.md) [-W] — learners who differ on it differ in outcomes
+- [Trait anxiety intensity of medical students is negatively correlated with academic performance, while the state anxiety correlation did not reach significance](../claims/trait-anxiety-negatively-correlated-academic-performance.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

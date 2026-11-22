@@ -51,3 +51,4 @@ Descriptive cross-sectional survey of 480 clinical nurses and nurse educators in
 - [Nurse educators showed better research knowledge and skills than clinical nurses (89.6% vs 58.9% with better knowledge)](educator-clinician-ebp-knowledge-gap-ghana.md) — related
 - [GPs prefer pre-appraised evidence sources over independently searching and appraising primary research](gps-prefer-pre-appraised-evidence-sources.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
+- [Nearly two-thirds of medical radiology technologists demonstrated poor EBM practice](mrt-poor-ebm-practice-prevalence.md) — related

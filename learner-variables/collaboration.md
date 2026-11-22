@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (175 show a difference, 31 mixed, 14 no difference) · 190 studies (71 causal, 30 review, 28 qualitative, 21 associational, 20 design, 12 quant-synthesis, 8 theoretical), `q1`–`q3` · 19 of 190 report an effect size · 220 claims rest on one study
+> **Evidence** · 221 claims (176 show a difference, 31 mixed, 14 no difference) · 191 studies (71 causal, 30 review, 28 qualitative, 22 associational, 20 design, 12 quant-synthesis, 8 theoretical), `q1`–`q3` · 19 of 191 report an effect size · 221 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -262,6 +262,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Named caps are associated with higher overall performance ratings and teamwork domain scores, but not leadership or task management](../claims/named-caps-teamwork-domain-not-leadership.md) [+M] — measured as an outcome of the instruction studied
 - [RN–perfusionist teamwork is negatively associated with nurses' medication and blood administration through the ECMO circuit](../claims/rn-perfusionist-teamwork-negative-medication-administration.md) [+M] — learners who differ on it differ in outcomes
 - [Teamwork within patient safety culture is positively associated with nurses' patient safety activities](../claims/teamwork-culture-associated-safety-activities.md) [+M] — learners who differ on it differ in outcomes
+- [PTs who collaborate with other healthcare professionals in sarcopenia management show higher knowledge, skills, and attitudes than non-collaborators](../claims/sarcopenia-collaborators-higher-competency.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

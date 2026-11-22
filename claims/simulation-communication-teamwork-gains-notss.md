@@ -67,3 +67,4 @@ Descriptive synthesis across the 12 included studies in this systematic review. 
 - [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related
 - [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related
 - [The observed performance benefit corresponds to approximately a 10% increase in TEAM score, consistent with prior simulation studies of positive communication, cognitive aids, and structured role allocation](named-caps-ten-percent-team-score-increase.md) — related
+- [Teams self-rate their collaboration quality highly (8.6 ± 0.9 on a 10-point scale) after simulated laparoscopic tasks](post-test-self-rated-team-collaboration-quality.md) — related

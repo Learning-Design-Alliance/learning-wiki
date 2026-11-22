@@ -49,3 +49,4 @@ Exploratory sub-item analysis in the randomized trial found the procedural works
 - [High-fidelity simulation training is associated with better surgical draping performance than procedural workshop training](high-fidelity-simulation-better-surgical-draping-ecmo.md) — related
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [Total procedural quality scores do not differ significantly between high-fidelity simulation and procedural workshop groups](procedural-quality-score-no-difference-ecmo-training.md) — related
+- [Trained clinical nurse specialists can perform diagnostic cardiac catheterizations safely, with high-quality images and shorter procedure times](cns-cardiac-catheterization-safe-shorter-times.md) — related

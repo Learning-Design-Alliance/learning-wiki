@@ -54,6 +54,7 @@ The authors recommend that "mCLEIMS may be expanded through faculty-development 
 - [Develop simulation cases from an informal needs assessment of local ED census and staff input, keeping cases uncomplicated for simulation-naive learners](local-needs-assessment-case-development.md)
 - [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
 - [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
+- [Train-the-trainer facilitator preparation via an intensive 3-day course plus a 2-day standardization workshop with TeamGAINS debriefing](train-the-trainer-facilitator-course-workshop.md)
 
 ## Examples
 -

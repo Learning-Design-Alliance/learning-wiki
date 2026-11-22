@@ -50,3 +50,4 @@ Multivariate logistic regression (Figure 5) in the full cohort; the article prin
 - [Prior experience taking the traditional PANRE was a strong predictor of choosing it again](prior-panre-experience-predicts-repeat-choice.md) — related
 - [Male PAs and African American/Black PAs had higher odds of choosing the traditional PANRE](gender-race-associated-traditional-panre-choice.md) — related
 - [Within every age group, male PAs were more likely than female PAs to choose the traditional PANRE, and African American/Black PAs showed higher traditional PANRE selection across nearly all age subgroups](gender-race-patterns-within-age-groups.md) — related
+- [Median ENARM scores differ substantially across specialties, highest in Cardiology and lowest in Radiotherapy and Family and Community Medicine](enarm-median-scores-vary-by-specialty.md) — related

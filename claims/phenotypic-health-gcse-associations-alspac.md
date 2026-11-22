@@ -52,3 +52,4 @@ Phenotypic multivariable linear regression in the ALSPAC cohort (N=6113), adjust
 - [Two-sample Mendelian randomization in independent adult samples supports negative effects of BMI (and, secondarily, asthma) on years of schooling, with little evidence for migraine](two-sample-mr-bmi-asthma-years-of-schooling.md) — related
 - [Heavy or prolonged menstrual bleeding in adolescence is associated with more school absence, including persistent absence of 10% or more](heavy-menstrual-bleeding-school-absence-alspac.md) — related
 - [In this rural county sample, asthma posed a marked burden: asthma was the primary cause of school absences and two mortalities in Ector County schools in 2014–2015](ecton-county-asthma-school-absence-burden.md) — related
+- [Higher BMI z-scores at age 11.7 years are associated with lower GCSE scores at age 16 in both females and males](bmi-age-11-lower-gcse-scores.md) — related

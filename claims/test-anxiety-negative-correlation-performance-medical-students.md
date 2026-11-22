@@ -76,3 +76,4 @@ The review reports Nazir et al.'s (2021) cross-sectional study of 680 medical st
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related
 - [Preadmission academic variables correlate moderately with preclerkship and USMLE Step 1 performance, and the two outcomes correlate strongly with each other (r = 0.75)](preadmission-variables-correlate-with-outcomes.md) — related
+- [Trait anxiety intensity of medical students is negatively correlated with academic performance, while the state anxiety correlation did not reach significance](trait-anxiety-negatively-correlated-academic-performance.md) — related

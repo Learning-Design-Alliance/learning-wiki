@@ -43,6 +43,7 @@ The article's closing recommendations call for additional studies that "extend t
 ## Related Strategies
 
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Evaluate face-to-face simulation-based mechanical ventilation training with VentSim, including optimal trainee group size, in future studies](future-face-to-face-ventsim-studies-strategy.md)
 
 ## Examples
 -

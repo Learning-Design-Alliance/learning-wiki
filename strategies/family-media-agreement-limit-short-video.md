@@ -47,6 +47,7 @@ Based on the finding that parental usage duration exacerbates the negative usage
 ## Related Strategies
 
 - [Provide balanced guidance on video game use while fostering parent-child relationships, educational expectations, and learning attitudes](balanced-gaming-guidance-family-relationship-strategy.md)
+- [Support adolescents to develop balanced screen habits and provide additional academic support for adolescents from families with low educational attainment](balanced-screen-habits-and-academic-support-strategy.md)
 
 ## Examples
 -

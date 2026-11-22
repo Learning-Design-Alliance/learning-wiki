@@ -48,6 +48,7 @@ Based on the mediation findings, the authors recommend that interventions addres
 - [Implement school-wide policy action to address weight-based teasing and bullying](school-wide-policy-weight-based-teasing.md)
 - [Multi-level interventions to reduce psychological truancy: build self-concept, boost motivation, and improve school climate](three-level-truancy-intervention-strategy.md)
 - [Interventions for bullied students should address the psychological difficulties that follow victimization, not only prevent bullying](interventions-remediate-post-bullying-psychological-difficulties.md)
+- [Pair school obesity-prevention programs with anti-bullying programs targeting weight-related bias, particularly for girls](anti-bullying-weight-bias-alongside-obesity-prevention.md)
 
 ## Examples
 -

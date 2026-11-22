@@ -69,3 +69,4 @@ Same adjusted regression model of 401 students; unstandardised coefficients B = 
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
+- [Male university students scored higher than female students on physical activity and composite healthy lifestyle behavior](gender-difference-healthy-lifestyle-behavior-ethiopian-universities.md) — related

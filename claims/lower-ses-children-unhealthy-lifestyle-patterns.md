@@ -53,3 +53,4 @@ Post hoc chi-squared and trend analyses by SES (n = 1663) showed significant tre
 - [A language-based bedtime routine at age 3 predicted longer nighttime sleep duration at age 5 and higher language abilities and receptive vocabulary at age 5](language-based-bedtime-routine-predicts-sleep-and-language.md) — related
 - [A consistent bedtime routine is associated with better sleep outcomes in young children, with a dose-dependent relationship between nights per week of routine adherence and sleep benefits](bedtime-routine-dose-dependent-sleep-benefits.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
+- [Students with more than five courses per semester more frequently had daytime sleepiness](five-plus-courses-daytime-sleepiness.md) — related

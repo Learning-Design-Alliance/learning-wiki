@@ -47,6 +47,7 @@ The article recommends strengthening the public-private mix model and expanding 
 ## Related Strategies
 
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Provide researchers with education and training on study design classification and reporting guideline selection, and implement guideline policies matched to guideline availability](researcher-training-study-design-reporting-guidelines.md)
 
 ## Examples
 -

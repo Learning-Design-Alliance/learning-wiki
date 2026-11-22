@@ -46,7 +46,8 @@ The authors' recommended intervention set, derived from their regression finding
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](../claims/no-demographic-associations-pcc-competency.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
 
 ## Examples
 -

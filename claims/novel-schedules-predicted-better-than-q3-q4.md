@@ -67,3 +67,4 @@ Simulation results quantify the night-work contrast: "10 % of time was spent at 
 - [Model-predicted performance after 16 and 24 hours awake is 81 and 51, and alertness 70 and 25, providing the thresholds used to flag low-performance and low-alertness time](16-24h-wake-threshold-values.md) — related
 - [Predicted performance and alertness are worse during night work than day work for all schedules, with almost no difference among schedules during day work hours](night-work-worse-than-day-all-schedules.md) — related
 - [During night work hours, more time is spent at low predicted alertness (75 or less) than at low predicted performance](night-alertness-lower-than-performance.md) — related
+- [The lifestyle–competency association is stronger among residents working over 8 hours per day and rotating more night shifts](lifestyle-competency-stronger-long-hours-night-shifts.md) — related

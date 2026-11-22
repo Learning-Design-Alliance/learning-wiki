@@ -52,3 +52,4 @@ Pre/post matched SAQ (ICU version) analysis of 114 participants across six facto
 - [After SBTT, nurse assistants reported better collaboration and communication with physician specialists](sbtt-nurse-assistant-collaboration-physicians.md) — related
 - [Stress recognition scores decreased for nurses and nurse assistants after SBTT](sbtt-stress-recognition-decrease.md) — related
 - [Safety attitudes (SAQ) one month after training do not differ between in situ and off-site simulation groups](iss-oss-saq-no-difference.md) — related
+- [Prior in situ simulation interventions with healthcare professionals were associated with improvements in teamwork climate, safety climate, job satisfaction, perceptions of management, and working conditions](prior-insitu-simulation-safety-culture-improvements.md) — related

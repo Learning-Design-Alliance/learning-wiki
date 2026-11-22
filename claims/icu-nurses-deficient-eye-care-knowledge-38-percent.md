@@ -50,3 +50,4 @@ Descriptive results from the 1947-nurse cross-sectional survey show the knowledg
 - [ICU nurses who participated in eye care-related training scored higher on eye care competence across knowledge, attitude, practice and total ECCI dimensions](eye-care-training-higher-competence-icu-nurses.md) — related
 - [Consulting eye care reference materials was associated with higher scores on every ECCI dimension among ICU nurses](consulting-materials-associated-eye-care-competence.md) — related
 - [ICU nurses' infection control practices for eye care were better than their eye hydration and eyelid closure practices](infection-control-better-than-hydration-eyelid-closure-practices.md) — related
+- [ICU nurses' educational level is significantly associated with eye care knowledge scores, with postgraduate nurses scoring highest](icu-nurse-education-level-eye-care-knowledge.md) — related

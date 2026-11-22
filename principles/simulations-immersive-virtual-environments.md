@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 574 claims (368 for, 181 mixed, 25 against) · 370 studies (166 causal, 81 review, 43 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 370 report an effect size · 568 claims rest on one study
+> **Evidence** · 575 claims (368 for, 182 mixed, 25 against) · 371 studies (167 causal, 81 review, 43 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 371 report an effect size · 569 claims rest on one study
 
 ## Conditional relationship
 
@@ -572,6 +572,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Interactive photorealistic 3D visualization produces a significantly greater pre-to-post learning effect than flyover video across THA tasks](../claims/iv-greater-learning-effect-than-flyover-video.md) [+W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy"; tests this page's relationship.
 - [The interactive visualization's advantage was significant for femoral stem insertion (task 3) but minimal for acetabular cup insertion (task 2)](../claims/task3-significant-iv-advantage-task2-minimal.md) [~W] — attached 2026-11-21 from Roni Lekar et al. (2025), which proposed "Interactive 3D surgical visualization design pattern: free navigation, gizmo transformations, shadows, and transparent anatomy".
 - [Students completing the KSP Mün-landing project express satisfaction, frustration at physics restrictions, and demonstrate deep understanding of their orbital maneuvers in reflections](../claims/ksp-project-student-reflections.md) [+W] — attached 2026-11-21 from Brian DiGiorgio Zanger (2025), which proposed "Use a low-stakes game environment so students can quickly learn from inevitable mistakes and crashes".
+- [The trial will test whether increased simulation-based team training is related to decreased sick leave, enhanced patient safety culture, improved Apgar scores, and cost-related benefits](../claims/sbtt-trial-four-planned-outcomes.md) [~W] — attached 2026-11-22 from Schram A. et al. (2024), which proposed "High-quantity, high-frequency in situ simulation-based team training embedded in departmental working hours"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

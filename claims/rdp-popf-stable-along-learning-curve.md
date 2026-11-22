@@ -50,3 +50,4 @@ Across competency, proficiency, and mastery comparisons in Table 2, POPF rates s
 - [Risk-adjusted learning-curve analysis showed a significant downward trend in predicted POPF risk and operative duration with increasing center experience, an upward trend in blood loss, and stable major complications](learnbot-learning-curve-popf-trend.md) — reports the opposite
 - [Textbook outcome rates increase after reaching mastery at 73 RDP procedures](rdp-textbook-outcome-increase-after-mastery.md) — related
 - [Postoperative outcome learning curves (length of stay, major complications) stabilise around case 30, earlier than the telemetry proficiency threshold, and blood loss shows no temporal trend](postoperative-outcome-curves-stabilise-case-30.md) — related
+- [Fistula rates remained stable over the trial regardless of technique experience, showing learning affected the process outcome but not the patient outcome](fistula-rate-stable-despite-learning.md) — related

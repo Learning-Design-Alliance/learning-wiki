@@ -54,3 +54,4 @@ The review reports, citing Stains et al. 2018, a large-scale observation study u
 - [PhD-granting institutions, especially the most prestigious, disproportionately reproduce pedagogical culture because they train future faculty](phd-granting-institutions-reproduce-pedagogical-culture.md) — related
 - [Italian nursing instructors most frequently use the traditional lecture, with 85.7% often or always using receptive (transmissive) architecture strategies](lecture-dominant-receptive-architecture-italian-nursing.md) — related
 - [Observed classroom teaching relies overwhelmingly on expository lecturing and deductive methods with limited didactic resources](lecture-dominance-deductive-methods-observation.md) — a narrower finding that bears on this claim
+- [In a 2018 US study, lecture occupied 80% or more of class time in more than half of 709 observed STEM classes](lecture-dominates-us-stem-classrooms.md) — a narrower finding that bears on this claim

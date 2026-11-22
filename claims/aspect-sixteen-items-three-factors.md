@@ -50,3 +50,4 @@ Exploratory factor analysis of online ASPECT responses in one quarter of introdu
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [Personal effort, as measured by ASPECT, does not vary by activity type or student demographics](personal-effort-null-activity-type-demographics.md) — related
+- [The knowledge section of the liberal birthing position questionnaire shows good reliability and structural validity, with four factors explaining 41.0% of variance and Cronbach's alpha of 0.890](knowledge-section-28-items-reliable-valid.md) — related

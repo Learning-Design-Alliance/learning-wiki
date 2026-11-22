@@ -69,3 +69,4 @@ Probit model with marginal effects (Table 3, columns 2–3) on the binary low se
 - [Gender, age, ethnicity, boarding status, paternal education, paternal migration, and family assets show no significant association with self-esteem in adjusted models](null-associations-self-esteem-adjusted-model.md) — related
 - [Rural Chinese students show lower mean self-esteem and higher prevalence of low self-esteem than similarly aged students in urban China and internationally](rural-china-lower-self-esteem-than-urban-international.md) — related
 - [Female gender, urban residence, and higher maternal education are associated with increases in depressive symptoms](female-urban-maternal-education-risk-factors-ds-increase.md) — related
+- [Being female and having a literate mother were negatively associated with academic performance, while child age was positively associated](sociodemographic-direct-effects-academic-performance.md) — related

@@ -52,3 +52,4 @@ Prospective correlational linkage of CI scores from one UK medical school (2006�
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — a broader claim this one bears on
 - [The Conscientiousness Index is stable between years 1 and 2 of medical school, and its first decile differs from all other deciles](ci-stable-across-years-first-decile-distinct.md) — related
 - [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](conscientiousness-stable-not-modified-by-teaching.md) — related
+- [Objective markers of conscientiousness in medical students predict future UKFPO SJT scores](conscientiousness-predicts-sjt-scores.md) — possibly the same claim (merge candidate)

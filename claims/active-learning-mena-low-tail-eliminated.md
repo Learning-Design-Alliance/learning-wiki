@@ -49,3 +49,5 @@ Scatter plot and kernel density analysis (Fig. 2) of final course scores and cum
 - [Active learning narrowed the performance gap between top-75% and lowest-25% students by 16.56% (from 38.64 to 32.24 points)](active-learning-mena-performance-gap-narrowed.md) — related
 - [High school GPA has partial but limited discriminative power for at-risk status, with midterm performance adding predictive value beyond prior GPA](high-school-gpa-partial-limited-predictive-value.md) — related
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a broader claim this one bears on
+- [Active-learning sections in the Omani study essentially eliminated the tail of students scoring 35% or less](active-learning-eliminates-low-scoring-tail.md) — related
+- [Most but not all traditional-versus-active course comparisons in the MENA study passed tests of statistical significance](most-mena-active-learning-comparisons-significant.md) — related

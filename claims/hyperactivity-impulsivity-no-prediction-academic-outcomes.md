@@ -61,3 +61,4 @@ In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscal
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — related
 - [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related
 - [Hyperactivity–impulsivity predicts achievement only in some subsectors and does not contribute to explaining overall academic achievement in primary school](hyperactivity-selective-achievement-predictor.md) — related
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](inattention-hyperactivity-subscale-drives-sdb-school-grades.md) — related

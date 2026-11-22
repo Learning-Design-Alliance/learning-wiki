@@ -54,3 +54,4 @@ Paired t-tests on participant-level means of angular velocity, jerk and accelera
 - [Most surgeons reported greater comfort with the robotic system and greater fatigue with laparoscopy despite being more accustomed to laparoscopy](hinotori-post-task-comfort-and-fatigue-questionnaire.md) — related
 - [Weekly videogaming experience of more than one hour is not associated with significantly different task completion times in laparoscopy novices](videogaming-experience-no-significant-laparoscopy-time-difference.md) — related
 - [Overall laparoscopic and robotic simulator peg transfer scores do not differ significantly among novice medical students](no-overall-ls-rs-score-difference-peg-transfer.md) — related
+- [Expert and novice surgeons showed no significant differences in tip velocity, acceleration, or jerk in clinical laparoscopic surgery](no-velocity-acceleration-jerk-difference-clinical.md) — related

@@ -48,3 +48,4 @@ In the same randomized controlled trial (102 patients with CAD), intergroup comp
 - [Training based on Orem's self-care deficit nursing theory significantly increased self-care agency in patients with coronary artery disease compared with a control group](orem-scdnt-training-increases-self-care-agency.md) — related
 - [Orem's SCDNT-based training increased overall quality of life on the 15D in patients with coronary artery disease, with posttest scores significantly higher than control](orem-training-improves-15d-quality-of-life.md) — related
 - [Self-care agency correlates positively with disease-specific and overall quality of life in patients with coronary artery disease](scas-macnew-15d-positive-correlations-cad.md) — related
+- [An educational program combined with socio-cognitive support improved physical activity and quality of life for patients after acute coronary syndrome](education-sociocognitive-support-physical-activity-acs.md) — related

@@ -82,3 +82,5 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Fall-term GPA does not differ across depressive symptom trajectory groups, with spring-term differences emerging later in the academic year](fall-gpa-no-difference-trajectory-groups.md) — related
 - [K-means++ clustering of first-year students' spring-semester CES-D scores identifies four depressive symptom trajectory groups: low-stable, increasing, decreasing, and high-stable](four-depression-trajectory-groups-first-year-spring.md) — related
 - [Spiritual well-being shows a significant direct negative association with depression in medical sciences students](swb-negative-association-depression.md) — related
+- [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — related
+- [Social anxiety is negatively associated with college students' academic performance (GPA)](social-anxiety-negative-academic-performance.md) — related

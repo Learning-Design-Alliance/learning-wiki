@@ -50,3 +50,4 @@ Cross-sectional observational study of 252 schoolchildren aged 6–12 in Taabo, 
 - [Thiamin, riboflavin, folate, iron, zinc and a nutrient blend show significant bivariable associations with cognitive test scores](micronutrient-intake-associations-rcpm-scores.md) — related
 - [No consistent associations are found between micronutrient intake and academic performance](no-consistent-nutrient-academic-performance-association.md) — related
 - [Higher thiamin and zinc intakes show inverse adjusted associations with literature performance](thiamin-zinc-inverse-literature-performance.md) — reports the opposite
+- [Vitamin D deficiency is associated with increased odds of poor academic performance among adolescents](vitamin-d-deficiency-poor-academic-performance-odds.md) — related

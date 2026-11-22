@@ -53,3 +53,5 @@ Longitudinal analysis of the CATS cohort (1239 children, multiple imputation), u
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
 - [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related
 - [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related
+- [Spending more than 2 hours per day on screen media was significantly associated with poor academic performance among Hargeisa adolescents](screen-time-over-2h-associated-poor-academic-performance.md) — related

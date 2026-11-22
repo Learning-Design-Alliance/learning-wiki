@@ -46,6 +46,7 @@ The article recommends integrating qualitative (problem) tasks into Physics teac
 ## Related Strategies
 
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
+- [Incorporate both deductive and inductive logic strategies in teaching to enhance conceptual understanding and problem-solving](deductive-inductive-logic-teaching-strategies.md)
 
 ## Examples
 -

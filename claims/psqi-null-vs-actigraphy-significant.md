@@ -56,3 +56,4 @@ Comparison of PSQI total and component scores between the median-split groups (T
 - [Device-recorded sleep and PSQI self-report showed discrepancies, with very low Fitbit sleep durations co-occurring with PSQI scores indicating little sleep problems](fitbit-psqi-sleep-discrepancies-adolescents.md) — related
 - [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](animated-video-improves-sleep-quality-endoscopy.md) — related
 - [Sleep regularity (SRI) is positively correlated with academic performance (GPA) in undergraduates, independent of sleep duration](sleep-regularity-index-positive-gpa-correlation.md) — related
+- [Mean PSQI total scores did not differ significantly across disciplines](psqi-total-no-discipline-difference.md) — related

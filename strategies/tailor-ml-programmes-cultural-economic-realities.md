@@ -61,6 +61,7 @@ The article recommends that implementation of m-learning in developing countries
 - [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 - [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
 - [Design flexible and adaptive technology interventions tailored to the specific socio-technological context of rural areas](context-tailored-rural-technology-design.md)
+- [Adapt established research-based active-learning materials to the local student context rather than transferring them unchanged](adapt-research-based-active-learning-materials-locally.md)
 
 ## Examples
 -

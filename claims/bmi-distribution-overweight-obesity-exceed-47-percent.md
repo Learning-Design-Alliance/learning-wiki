@@ -54,3 +54,4 @@ Descriptive statistics from the cross-sectional sample of 325 students using sel
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
+- [On-campus students slept longer than off-campus students, and underweight students slept longer than overweight and obese students](sleep-duration-residing-arrangement-bmi-descriptives.md) — related

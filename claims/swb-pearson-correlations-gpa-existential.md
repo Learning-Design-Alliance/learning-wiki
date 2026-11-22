@@ -50,3 +50,4 @@ Pearson correlation matrix (Table 3) of the 362-student sample: "SWB showed a si
 - [Spiritual well-being shows a significant direct negative association with depression in medical sciences students](swb-negative-association-depression.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
+- [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — related

@@ -53,3 +53,4 @@ Null findings from the same T-test/ANOVA comparison of SCLS total scores against
 - [Total SCLS scores differed significantly by teaching shift and academic year, with morning-shift and second-year students scoring higher](scls-scores-shift-and-academic-year-differences.md) — related
 - [Knowledge score differs significantly by number of night shifts, but practice score does not differ by gender or age](night-shifts-knowledge-score-significant.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related

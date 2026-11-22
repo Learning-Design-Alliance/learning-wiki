@@ -49,3 +49,4 @@ Prevalence estimate from the cross-sectional survey of 364 MBBS and BDS students
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
 - [80.9% of health-related faculty students had poor sleep quality (PSQI > 5) when surveyed during the exam period](poor-sleep-quality-prevalence-health-students-giresun.md) — related
 - [Duration of pre-sleep social media use is independently associated with poorer sleep quality (higher PSQI global score) among medical and dental students](pre-sleep-social-media-use-poorer-sleep-quality.md) — related
+- [88.1% of surveyed healthcare students exhibited poor sleep quality, with a mean PSQI total score of 9.1](kku-students-88-percent-poor-sleep-quality.md) — related

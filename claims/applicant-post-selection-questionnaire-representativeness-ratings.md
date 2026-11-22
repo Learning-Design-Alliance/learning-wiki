@@ -49,3 +49,4 @@ Post-selection questionnaire administered to second-round applicants; 458 answer
 - [Test-level classification accuracy was moderate for the V-SJT (0.72) but very low for the WAT (0.20), while attribute-level accuracies were acceptable for both tests.](test-level-accuracy-vs-attribute-level-accuracy-selection-tests.md) — related
 - [German medical school applicants evaluate the open-ended online SJT Casper favorably, rating it fair and less stressful than other exams](casper-german-pilot-acceptable-test-takers.md) — related
 - [Medical students score significantly higher than flight school applicants on adherence to procedures and communication](medical-students-adherence-communication-higher.md) — related
+- [Adverse impact of SJTs on under-represented groups is generally less than for cognitive or academic tests](sjt-less-adverse-impact-than-cognitive-tests.md) — related

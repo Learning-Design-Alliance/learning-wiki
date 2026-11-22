@@ -56,3 +56,5 @@ Bootstrap SEM serial mediation analysis (10,000 resamples, 95% CI) in Mplus 8.3 
 - [Self-efficacy and learning engagement act as a significant chain mediator from social support to academic performance](chain-mediation-self-efficacy-learning-engagement.md) — related
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
 - [Academic engagement acts as a mediator between student attitudes and academic achievement and between student readiness and academic achievement](academic-engagement-mediation-elearning-achievement.md) — related
+- [Academic engagement independently mediates the association between social anxiety and academic performance](academic-engagement-mediation-social-anxiety.md) — related
+- [Social media addiction and academic engagement serially mediate the social anxiety–academic performance link](serial-mediation-sma-engagement.md) — related

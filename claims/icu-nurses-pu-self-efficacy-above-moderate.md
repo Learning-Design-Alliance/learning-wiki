@@ -49,3 +49,5 @@ Cross‐sectional survey of 134 ICU nurses at a Turkish university hospital usin
 - [Age, weekly pressure ulcer care volume, education participation, and self‐perceived adequacy predict ICU nurses' pressure ulcer self‐efficacy](predictors-of-nurse-pu-self-efficacy.md) — related
 - [ICU nurses widely perform pressure ulcer risk assessment with the Braden Scale but less often implement individualised nutrition plans and support surfaces](risk-assessment-high-prevention-low.md) — related
 - [Most ICU nurses do not use a standardised scale to assess existing pressure ulcers](wound-assessment-scales-underused.md) — related
+- [Nurses aged 34 and above, with 3 or more years in the same unit, and working in intensive care units score significantly higher on total PUM-SES](age-unit-experience-icu-higher-pum-ses.md) — related
+- [Nurses report a moderate overall level of pressure ulcer management self-efficacy (mean 58.77 ± 18.07 on a 0–100 scale)](nurses-moderate-pu-management-self-efficacy.md) — reports the opposite

@@ -54,6 +54,7 @@ The authors propose their combined training model as a way to build clinical ser
 - [Evaluate multifaceted training packages combining manikins, computer simulation, expert patients and clinical supervision for pelvic examination competency](multifaceted-pelvic-examination-training-package-strategy.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
 - [Support department chairs through orientation, mentoring, leadership development and clear evaluation indicators](support-department-chairs-orientation-mentoring-evaluation.md)
+- [Multifaceted EBM-enabling initiatives for radiology technologists: training, resources, dedicated time and institutional leadership support](multifaceted-ebm-enabling-initiatives-radiology.md)
 
 ## Examples
 -

@@ -50,6 +50,8 @@ The article recommends that educational institutions routinely use early-detecti
 - [Emphasize sleep hygiene as a regulating factor for academic performance in emergency remote teaching](sleep-hygiene-emergency-remote-teaching-strategy.md)
 - [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
+- [Implement institutional sleep guidelines, clarify 24-hour team responsibility with designated champions, and provide continuous evidence-based sleep education for night nurses](sleep-promotion-guidelines-education-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,5 @@ Comparison analysis (Section 3.3) of the extraction procedure against standard c
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [The talk-move/ITS interaction pattern persists when predicting changes in assessment scores across rounds](talk-moves-its-robust-across-score-changes.md) — related
 - [Surrogate decision-tree analysis of the Random Forest reveals conditional interactions, such as compounding negative effects of low SES combined with low study time](surrogate-tree-reveals-ses-effort-interaction.md) — related
+- [The RFR-revealed association between academic achievement and CRF is not linear](crf-achievement-association-nonlinear.md) — related
+- [Random Forest Regression identifies cardiorespiratory fitness (shuttle-run rounds) as the most important predictor of ninth-grade academic achievement, with modest predictive power](rfr-shuttle-count-top-predictor-modest-oob.md) — related

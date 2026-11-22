@@ -70,3 +70,4 @@ Pearson and Spearman correlation analyses (Table 4) among 208 adolescents relate
 - [Maximum oxygen consumption correlates positively, and sprint and change-of-direction times negatively, with d2 attention measures, while omissions, commissions and variation index relate to no fitness variable](fitness-correlations-d2-attention-measures.md) — a narrower finding that bears on this claim
 - [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related
 - [Higher self-reported physical activity, grip strength, and VO2 max are independently associated with better concentration performance in disadvantaged children](fitness-activity-associated-concentration-performance.md) — related
+- [VO2max correlates with D2 attention scores in age-specific patterns, with large positive correlations at age 15](vo2max-d2-age-specific-correlations.md) — related

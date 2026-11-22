@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/no-cognitive-performance-difference-traditional-vs-sports-uniforms.md
+---
+
+# Revision history: [claims/no-cognitive-performance-difference-traditional-vs-sports-uniforms](../claims/no-cognitive-performance-difference-traditional-vs-sports-uniforms.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from pmc-9411804 (Which one? A comparative study of traditional and sports uniforms on academic achievement, cognitive performance, playtime, bullying, and discrimination in adolescents: The Cogni-Action Project.) via eval_harness.py + ingest_extractions.py

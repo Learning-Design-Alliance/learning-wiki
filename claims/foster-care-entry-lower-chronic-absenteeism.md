@@ -53,3 +53,4 @@ Adjusted logistic regression models in the main results (Table 3, n = 8,795) est
 - [Reading and absenteeism associations persist when the comparison group is restricted to children receiving in-home CPS case services](foster-care-reading-services-subsample.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — reports the opposite
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related

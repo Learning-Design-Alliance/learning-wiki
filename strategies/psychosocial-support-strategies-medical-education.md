@@ -81,6 +81,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 - [Provide structured, multi-layered university support programmes combining curricular structuring, mentoring, psychosocial support and financial support for quota-admitted students](structured-multilayered-support-rdq-students.md)
+- [Joint psychological, behavioral and academic support interventions targeting social anxiety and social media addiction to improve academic engagement](joint-intervention-social-anxiety-sma-engagement.md)
 
 ## Examples
 -

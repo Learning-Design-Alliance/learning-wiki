@@ -48,3 +48,4 @@ Baseline Pearson's partial correlations between lifestyle habits and cognitive c
 - [Gender moderates the effect of physical activity on interference task performance, with benefits observed for females but not males](gender-moderates-activity-msit-effect.md) — related
 - [In male students, studying time, eating, and sleeping habits predict 5.9–24.8% of the variance in changes in academic performance measures](male-regression-academic-predictors.md) — related
 - [In female students, screen time, social media use, and eating habits measures predict variance in changes in cognitive control (r2 between 8.2% and 21.0%), but no lifestyle factor predicts changes in overall average, science, or mathematics](female-regression-cognitive-control-predictors.md) — related
+- [Male university students scored higher than female students on physical activity and composite healthy lifestyle behavior](gender-difference-healthy-lifestyle-behavior-ethiopian-universities.md) — related

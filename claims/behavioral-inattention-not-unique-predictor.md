@@ -59,3 +59,4 @@ In the hierarchical regression models, "behavioral inattention was not uniquely 
 - [Observed off-task behavior positively correlates with teacher ratings of hyperactiveness/impulsivity and attention/concentration](observed-off-task-teacher-rating-correlations.md) — related
 - [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related
 - [All CBCL symptom scales relate to lower grades when examined separately, but somatic, social, and aggressive problems lose significance once comorbid symptoms are controlled](comorbid-symptoms-confound-single-scale-findings.md) — related
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](inattention-hyperactivity-subscale-drives-sdb-school-grades.md) — related

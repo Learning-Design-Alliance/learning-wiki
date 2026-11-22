@@ -49,3 +49,4 @@ Figure 5 compares Cohen's d between SEMED and gateway students on entry and exit
 - [SEMED students score higher on EPM at graduation, and course type remains a significant predictor after controlling for entry attainment, though explained variance drops from 6.4% to 1.6%](gateway-lower-epm-outcomes.md) — related
 - [The small SJT difference between SEMED and gateway students disappears after controlling for attainment and aptitude on entry](gateway-sjt-difference-disappears.md) — related
 - [Gateway students enter UK medical school with substantially lower A-level attainment and UCAT scores than SEMED students (Cohen's d = 1.254 and 1.066)](gateway-lower-entry-attainment-aptitude.md) — related
+- [Differential attainment on the UKFPO SJT is relatively small, similar to the EPM, and modest compared with other selection tools](sjt-differential-attainment-modest.md) — related

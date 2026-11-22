@@ -69,3 +69,4 @@ Pairwise follow-up within the same survey comparing the operating room group (me
 - [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related
 - [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related
 - [Intensive care nurses have significantly higher MDRPI knowledge scores than nurses working in surgical and internal clinics](icu-nurses-higher-mdrpi-knowledge-than-ward-nurses.md) — a narrower finding that bears on this claim
+- [Nurses in intensive care units scored higher in clinical competence than internal-medicine-ward nurses, who scored higher than emergency-department nurses](ward-gradient-icu-msw-ed-clinical-competence.md) — related

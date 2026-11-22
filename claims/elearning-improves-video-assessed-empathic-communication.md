@@ -50,3 +50,4 @@ Randomised controlled trial with 115 participants randomised to intervention (n 
 - [Knowledge of perinatal mental health assessment improved in both intervention and control groups after the e-learning course, with no group difference](elearning-kpmha-improved-both-groups.md) — related
 - [The e-learning programme produced no change in attitudes towards supporting perinatal women](elearning-no-attitude-change.md) — related
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
+- [Healthcare workers who completed the OBLS simulation curriculum showed significantly higher cognitive, skills, and self-efficacy scores than controls in the reported randomized trial](obls-rct-higher-scores-than-control.md) — related

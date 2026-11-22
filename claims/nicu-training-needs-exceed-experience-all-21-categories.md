@@ -49,3 +49,4 @@ Descriptive cross-sectional survey of 132 South Korean prelicensure nursing stud
 - [Nearly all surveyed nursing students (129 of 132, 97.7%) stated that XR-based neonatal nursing training programs were needed](nearly-all-students-demand-xr-neonatal-training.md) — related
 - [Borich and importance-performance analyses ranked gavage tube feeding, oxygen therapy, and fluid therapy as the highest-priority NICU training topics](borich-ipa-priority-nicu-topics-gavage-oxygen-fluid.md) — related
 - [Students with on-site NICU clinical practicum showed higher neonatal nursing performance and NICU training experience than off-site students, but high-risk neonatal nursing performance did not differ](onsite-practicum-higher-neonatal-performance-not-high-risk.md) — related
+- [Individualized care items show the largest self–manager gaps among the highest-scored items](highest-item-gaps-individualized-care.md) — related

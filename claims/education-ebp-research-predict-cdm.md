@@ -51,3 +51,4 @@ Stepwise multiple linear regression (model 4) on 387 nurses' CDMNS scores; adjus
 - [Foreign language knowledge, EBP training, following publications, scientific event participation, and research experience each associate with higher EBP and CDM scores](professional-engagement-factors-higher-ebp-cdm.md) — a broader claim this one bears on
 - [Higher education, research involvement, and following scientific publications positively predict nurses' EBP competence](education-research-publications-predict-ebp-competence.md) — related
 - [Research knowledge and skills, attitudes toward EBP, and nursing competencies all differed significantly across nurses' educational levels](education-level-differences-ebp-outcomes-ghana.md) — related
+- [Knowledge competency and positive attitudes strongly predict good clinical practice, and practice setting and education level differentiate practice patterns](predictors-good-practice-gdm-neonatologists.md) — related

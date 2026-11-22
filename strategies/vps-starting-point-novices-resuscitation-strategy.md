@@ -47,7 +47,8 @@ The authors recommend VPS as an initial, scalable training modality for novices:
 - [No differences between groups in completion of the Sepsis 6 bundle components](../claims/vr-ip-sepsis6-completion-no-differences.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Targeted educational initiatives to close the gap between evidence-based sepsis recommendations and clinical practice](targeted-educational-initiatives-sepsis-guidelines.md)
 
 ## Examples
 -

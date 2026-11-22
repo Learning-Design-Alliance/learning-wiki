@@ -52,3 +52,4 @@ Univariable comparison in the UKMED national cohort study, with SJT z-scores con
 - [The three selection scores intercorrelate only weakly to moderately, with the highest correlation between EPM decile and SJT z-score](selection-measures-intercorrelations-rho-030.md) — related
 - [Better performance on the UK Foundation Programme SJT and higher EPM ranking are univariably associated with reduced odds of a conduct-related declaration](sjt-epm-performance-associated-reduced-conduct-declarations.md) — related
 - [After controlling for age, disability, number of applications and medical school, EPM decile remains significant but SJT does not](sjt-nonsignificant-after-background-variables-model3.md) — related
+- [The UKFPO SJT is reliable and adds validity over the EPM in predicting Foundation Programme completion](ukfpo-sjt-validity-over-epm.md) — related

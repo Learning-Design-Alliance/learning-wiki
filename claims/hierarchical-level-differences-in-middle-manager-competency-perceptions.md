@@ -52,3 +52,4 @@ Qualitative descriptive study comparing perceptions across three managerial leve
 - [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](mlm-organizational-competencies-underrepresented.md) — related
 - [Personality is identified as the most essential personal trait for successful middle managers, cited by 67% of respondents](personality-most-essential-personal-trait-middle-managers.md) — related
 - [Patient safety and handling of errors and complications are the most emphasized Manager/Leader topics in surgical curricula, while time management, career planning and leadership are not addressed](surgery-manager-error-emphasis-leadership-gap.md) — related
+- [A systematic review following COSMIN identified ten instruments assessing first-, middle-, and top-level nurse managers' competencies](review-ten-nm-competency-instruments.md) — related

@@ -79,3 +79,4 @@ Same intervention trial, control schools keeping the 7:30am start time; Table 6 
 - [Delaying school start times is associated with improved mood, less illness absenteeism, better attention and reaction time, and reduced vehicle accident rates (by 16.5%)](later-start-secondary-outcomes-mood-accidents.md) — related
 - [Delaying school start times substantially delays students' wake time and increases total sleep duration](later-start-times-increase-adolescent-sleep-duration.md) — possibly the same claim (merge candidate)
 - [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — a broader claim this one bears on
+- [Students with more than five courses per semester more frequently had daytime sleepiness](five-plus-courses-daytime-sleepiness.md) — related

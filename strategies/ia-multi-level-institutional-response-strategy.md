@@ -56,6 +56,7 @@ The review recommends that interventions "extend beyond general awareness and in
 - [Adopt gamification-based training as a cost-effective approach to preventing adolescent addiction](gamification-based-adolescent-addiction-prevention-strategy.md)
 - [Hold training workshops on the risks of Internet addiction and refer affected students to psychological services](internet-addiction-awareness-training-workshops.md)
 - [Counseling programs and Cognitive Behavioral Therapy to reduce social networking dependency among at-risk students](cbt-counseling-reduce-social-networking-dependency.md)
+- [Joint psychological, behavioral and academic support interventions targeting social anxiety and social media addiction to improve academic engagement](joint-intervention-social-anxiety-sma-engagement.md)
 
 ## Examples
 -

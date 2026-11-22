@@ -54,3 +54,4 @@ Kirkpatrick level 4 patient-safety outcome from the same nationwide registry coh
 - [Patients treated by inexperienced registrars had longer door-to-needle times than patients treated by experienced registrars](inexperienced-registrars-longer-dnt.md) — related
 - [Simulation attendance is associated with a significant reduction in door-to-needle time across experience levels](simulation-attendance-reduces-dnt-21-8-percent.md) — related
 - [Treatment times dropped significantly between 2016 and 2017 after introduction of the simulation training](treatment-times-dropped-after-simulation-training.md) — related
+- [Simulation-experienced stroke teams reduced time to intravenous thrombolysis by 5 minutes and to endovascular therapy by 21 minutes](simulation-stroke-team-time-reductions.md) — related

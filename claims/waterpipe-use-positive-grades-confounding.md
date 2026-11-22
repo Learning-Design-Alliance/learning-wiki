@@ -49,3 +49,4 @@ Multiple linear regression with robust estimators in the cross-sectional study o
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related
 - [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — related
+- [Water pipe use during exams shows a negative association with grades in regression, while cigarette smoking shows no significant association](waterpipe-negative-cigarettes-null-grades.md) — reports the opposite

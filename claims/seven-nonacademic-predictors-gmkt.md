@@ -50,3 +50,4 @@ Retrospective observational analysis of 1202 CHIMGEN medical students; the DSA i
 - [Longer working memory reaction time predicts lower GMKT performance, but working memory accuracy shows no such correlation](working-memory-rt-negative-gmkt.md) — related
 - [Socioeconomic conditions (father's education, mother's occupation) indirectly affect GMKT performance via psychological/personality features and BMI, with no significant direct effect](socioeconomic-indirect-gmkt-pathway.md) — related
 - [Faster reaction time on the 2-back working memory task is associated with better GPA](faster-2back-reaction-time-better-gpa.md) — related
+- [BMI Z-score, anemia, parental education, and parental occupation show no association with academic performance in this sample](bmi-anemia-parental-factors-null-academic-performance.md) — reports the opposite

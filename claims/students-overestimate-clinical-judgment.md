@@ -55,3 +55,4 @@ Comparative study (Høegh-Larsen et al., BMC Nursing, cited in review) comparing
 - [Trainee doctors specializing in gynecology tended to overestimate themselves](gynecology-overestimation.md) — a narrower finding that bears on this claim
 - [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related
 - [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — reports the opposite
+- [Managers' self‐assessments may overestimate competence relative to staff experiences](self-assessment-may-overestimate-competence.md) — related

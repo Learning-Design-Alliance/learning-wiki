@@ -49,6 +49,7 @@ The article recommends ongoing monitoring of distance education's impact on stud
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Institutional screening, prevention and gender-oriented mental health support for students in wartime universities](wartime-student-mental-health-screening-strategy.md)
 - [Identify at-risk students at the start of a semester and deliver just-in-time mental health interventions to protect both psychological health and academic achievement](early-semester-identification-just-in-time-interventions.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

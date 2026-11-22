@@ -50,6 +50,7 @@ To address cost, infrastructure, and accessibility barriers, the authors recomme
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
+- [Implement surgical coaching in otolaryngology using video-based coaching, addressing barriers of ego, cost, privacy, and logistics](video-based-coaching-otolaryngology-implementation-strategy.md)
 
 ## Examples
 -

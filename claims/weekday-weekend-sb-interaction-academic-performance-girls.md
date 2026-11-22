@@ -49,3 +49,5 @@ Table 4 model analysis of the 1040-student sample tested interactions between th
 - [Weekend screen-based sedentary behavior is negatively associated with academic performance in both girls and boys aged 8–19](weekend-screen-sb-negative-academic-performance-chinese-students.md) — related
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
+- [No significant sex interactions were found between sex and any of the three movement behaviours in relation to academic performance, so analyses were performed on the entire sample](no-sex-interaction-movement-behaviours-academic-performance.md) — related
+- [The weekday screen time association with grades at age 16 is significant only among girls in the gender-stratified analysis](weekday-screen-time-significant-only-girls.md) — related

@@ -71,3 +71,4 @@ Authors' interpretation in the Discussion of the same 400-dentist cross-sectiona
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [Dental interns report strongly positive attitudes toward early detection of OPMDs and oral cancer](dental-interns-positive-attitudes-opmd-early-detection.md) — related
 - [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related
+- [Knowledge competency and positive attitudes strongly predict good clinical practice, and practice setting and education level differentiate practice patterns](predictors-good-practice-gdm-neonatologists.md) — related

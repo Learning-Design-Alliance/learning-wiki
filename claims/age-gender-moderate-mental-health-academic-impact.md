@@ -49,3 +49,4 @@ Regression coefficients from the 1,398-respondent model: AGE coefficient -0.0527
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — a broader claim this one bears on
 - [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](gender-patterns-distress-resilience-university-students.md) — related
 - [The negative effect of commuting time on rural students' outcomes is significant for girls and particularly pronounced among 5th graders.](commuting-time-girls-fifth-graders-heterogeneity.md) — related
+- [Older student age is negatively associated with grades, and there is no gender difference in performance](age-negative-gender-null-association-grades.md) — reports the opposite

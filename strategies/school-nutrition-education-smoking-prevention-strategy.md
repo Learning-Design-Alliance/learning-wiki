@@ -52,6 +52,8 @@ The authors recommend incorporating nutrition education into the school curricul
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 - [Extend institutional food insecurity support beyond food provision to multi-faceted programmes including financial management, budgeting, and nutrition education](multi-faceted-student-food-insecurity-support.md)
 - [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
+- [Promote healthy exam-period habits among medical students through awareness campaigns and health education programs](exam-period-health-education-campaigns-strategy.md)
+- [Expand school feeding programs, school breakfast programs, and school food gardening to address food insecurity among students](expand-school-feeding-breakfast-gardening-programs.md)
 
 ## Examples
 -

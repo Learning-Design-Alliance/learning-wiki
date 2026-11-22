@@ -61,6 +61,7 @@ The strategy rests on two findings: physical activity supports attention and rea
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small daily activity targets make the balance plan actionable
 - [Promote active play with family and peers to facilitate creativity skills and physical activity](promote-active-play-family-peers.md)
 - [Implement home-based digital SEC trainings with screen-time limits and family-participation options](digital-sec-training-implementation-safeguards.md)
+- [Support adolescents to develop balanced screen habits and provide additional academic support for adolescents from families with low educational attainment](balanced-screen-habits-and-academic-support-strategy.md)
 
 ## Examples
 - **[Just Dance](https://www.ubisoft.com/en-us/game/just-dance)** and **[Ring Fit Adventure](https://www.nintendo.com/store/products/ring-fit-adventure-switch/)** — exergames used in classrooms and homes to convert screen time into moderate activity.

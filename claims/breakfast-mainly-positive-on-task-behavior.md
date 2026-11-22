@@ -55,3 +55,4 @@ Narrative synthesis of 11 studies using direct classroom observation measures. T
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
 - [About 56% of first-cycle primary students in North Shoa Zone showed good academic performance, with widespread undernutrition and low breakfast consumption](academic-performance-undernutrition-prevalence-north-shoa.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — related

@@ -50,3 +50,5 @@ Regression analysis (n = 93) in this cross-sectional survey of health profession
 - [Sleep disturbances partially mediate the relationship between academic stress and depressive symptoms](sleep-disturbances-partial-mediation-stress-depression.md) — related
 - [Current GPA does not correlate with academic stress, anxiety, sleep disturbances, depressive symptoms, or resourcefulness](current-gpa-no-correlation-stress-wellbeing.md) — related
 - [High rates of academic stress, sleep disturbance, and depressive symptoms were reported: 79.6% poor sleep quality and 60.2% high depressive symptoms](high-prevalence-sleep-disturbance-depressive-symptoms.md) — related
+- [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
+- [Depression among students during COVID-19 has a significant negative effect on their academic performance](covid-depression-negative-academic-performance.md) — related

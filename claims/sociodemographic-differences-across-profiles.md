@@ -72,3 +72,4 @@ Chi-square and ANOVA comparisons of sociodemographic variables across the four p
 - [Demographic characteristics — university province, grade level, and perceived health status — are associated with home-based e-learning behavior](demographics-predict-hbel-behavior.md) — related
 - [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
+- [Higher work experience is associated with higher clinical competence in all dimensions except ensuring quality](work-experience-higher-competence-except-ensuring-quality.md) — related

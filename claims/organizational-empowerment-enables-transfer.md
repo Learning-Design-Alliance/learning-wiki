@@ -62,3 +62,4 @@ Qualitative descriptive interview study of 32 participants (15 neurosurgical spe
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
 - [Recruiting surgeons was the main political challenge in establishing multidisciplinary team training](surgeon-recruitment-political-barrier.md) — related
+- [The participatory development process yielded a nursing role profile structured into four competence areas focused on direct resident care](pepa-role-profile-four-competence-areas.md) — related

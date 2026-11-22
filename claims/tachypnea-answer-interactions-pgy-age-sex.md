@@ -56,3 +56,4 @@ Interaction-test analysis (Multimedia Appendix 4) of the matched GM-ITE 2022 coh
 - [Logs indicating future patient-care changes differed significantly by postgraduate year, with PGY-1 residents recording the most and a dip in PGY-2 and -3](pgy-subgroup-future-care-change-logs.md) — related
 - [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related
 - [Baseline communication ratings did not differ significantly by PGY level or gender](no-baseline-communication-difference-pgy-gender.md) — related
+- [No significant difference in DBS knowledge scores by resident sex or age](no-sex-age-difference-dbs-knowledge.md) — related

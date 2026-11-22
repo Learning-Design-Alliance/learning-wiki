@@ -70,3 +70,5 @@ Null finding on the path-length measure from the same observational intergroup a
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
 - [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related
 - [Experts dwell relatively longer on relevant parameters (well spacing, d = 0.87) and shorter on the irrelevant tilt parameter (d = 0.80) than novices in Task 2](expert-novice-gaze-relevant-irrelevant-areas.md) — related
+- [Expert surgeons' instrument tip total travel distance was significantly shorter than novices' (343,794 vs 575,721 pixels)](experts-shorter-total-travel-distance.md) — related
+- [Median vascular pedicle dissection time is significantly shorter for surgeons in higher CAT score tertiles in laparoscopic colorectal resections](vpdt-shorter-higher-cat-tertile.md) — a narrower finding that bears on this claim

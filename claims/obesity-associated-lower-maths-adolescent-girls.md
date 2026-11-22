@@ -60,3 +60,8 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
 - [Strengthened PE lowers math scores, with the decrease concentrated among girls](strengthened-pe-lowers-math-scores-girls.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [Higher odds of better academic achievement were not significant for fit normal-weight girls compared with unfit girls with obesity](fit-normal-girls-vs-unfit-obese-girls-null.md) — related
+- [Girls who remained affected by overweight from preschool to primary school had lower numeracy, spelling, language and total achievement at age 9](girls-persistent-overweight-lower-naplan.md) — related
+- [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
+- [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — a broader claim this one bears on
+- [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](weight-status-associated-academic-performance.md) — a broader claim this one bears on

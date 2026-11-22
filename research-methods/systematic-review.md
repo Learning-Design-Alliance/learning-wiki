@@ -18,7 +18,7 @@ sources:
 # Systematic review
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (3 quant-synthesis, 1 review), `q1`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 5 studies (4 quant-synthesis, 1 review), `q1`–`q3` · 1 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 The article defines systematic reviews as a distinct genre of research synthesis. It states that "It is important to define what we mean by a systematic review to distinguish it from simple summaries of research", and that "Systematic reviews are designed to answer a question and prevent the information overload that decision makers at all levels may face." The framework positions the systematic review as a purposeful, question-anchored alternative to ad hoc summaries, used to support evidence-based decision making at all levels.
@@ -36,6 +36,7 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - **Meta-aggregative review methodology as an extensible synthesis allowing new evidence to be added without reinterpreting original findings**: The article characterises the systematic meta-aggregative review approach adopted by Philipsen et al. (2019) as an accumulating synthesis structure: "As far as the authors adopted the approach of a systematic meta-aggregative review, new data supported by unequivocal or credible evidence can be conveniently incorporated without reinterpreting the original findings." This makes the review's TPD findings extendable to new contexts, such as frugal-technology use in international remote education. (Portillo et al. (2021))
 - **Philipsen et al. (2019) systematic meta-aggregative review of teacher professional development for online and blended learning**: The reviewed artifact is a systematic meta-aggregative review published in Educational Technology Research and Development (vol. 67, pp. 1145–1174, 2019). The response describes it as a review that "targets teacher professional development for online and blended learning." Meta-aggregation is a qualitative evidence synthesis approach; the response situates its own commentary, summary of key findings, and K-12 application discussion around this review. (An (2021))
 - **PRISMA-based systematic review corpus of 78 VR presence studies (2020-2024)**: A curated corpus of 78 studies on presence in VR learning and collaborative environments, assembled through the PRISMA framework. The review reports screening 2,793 articles, removing 301 duplicates, excluding 2,329 by title and abstract, and excluding 84 more after full-text evaluation, ultimately retaining 78 studies. Data extraction covered twelve items (DE1-DE12) including presence type, task type, presence combination, evaluation method, VR environment design, collaboration type, learning outcomes, participant numbers, and domain. Two extraction rounds occurred in August 2024 and December 2024. (Zheng Wei et al. (2025))
+- **PRISMA-guided systematic review and meta-analysis of substance use and academic achievement in university students**: A systematic review and meta-analysis registered in the Open Science Framework, following PRISMA guidelines, searching MEDLINE, CINHAL, Scopus, and ERIC in January 2025. From 1,477 records, "21 studies were included in the final selection (Fig. 1), of which four were deemed suitable for meta-analysis." Risk of bias was assessed with the Edwards score, and synthesis used a random-effects model with SMD as the effect measure. (Bulfone Giampiera et al. (2025))
 
 ### Claims
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](../claims/computerized-differentiation-systems-positive-effects-primary.md) [+M]
@@ -44,6 +45,8 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](../claims/anti-bullying-programs-reduce-bullying-20-23-percent.md) [+M]
 - [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](../claims/self-report-subcomponents-unreliable.md) [+M]
 - [The response summarizes the key findings of the Philipsen et al. (2019) meta-aggregative review](../claims/an-2021-summarizes-key-findings-pd-review.md) [+W]
+- [Substance use is negatively and significantly associated with academic achievement among university students, with a medium pooled effect (SMD = -0.61)](../claims/substance-use-negative-association-academic-achievement-smd-061.md) [+M]
+- [Alcohol consumption shows a small, non-statistically significant negative association with academic achievement among university students (SMD = -0.24)](../claims/alcohol-consumption-non-significant-association-academic-achievement.md) [+M]
 
 ## Related Research Methods
 
@@ -62,6 +65,7 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - Portillo, J., Lopez de la Serna, A. (2021). An international perspective for ‘Improving teacher professional development for online and blended learning: a systematic meta-aggregative review’. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09851-9
 - An, Y. (2021). A response to an article entitled “Improving teacher professional development for online and blended learning: a systematic meta-aggregative review”. Education Tech Research Dev, 69, 39–42. https://doi.org/10.1007/s11423-020-09844-8
 - Zheng Wei, Junxiang Liao, Lik-Hang Lee, Huamin Qu, and Xian Xu. (2025). Towards Enhanced Learning through Presence: A Systematic Review of Presence in Virtual Reality Across Tasks and Disciplines. arXiv preprint. https://arxiv.org/abs/2504.13845
+- Bulfone Giampiera, Ingravalle Fabio, Scerbo Francesco, Mazzotta Rocco, Simonelli Ilaria, Pancaldi Alessandra, Ungaro Stefano, Cocco Michela, Vellone Ercole, Alvaro Rosaria, Vinci Antonio, Maurici Massimo. (2025). Substance use and academic performance among university students: systematic review and meta-analysis. BMC Medical Education. https://doi.org/10.1186/s12909-025-07530-y
 
 # Systematic reviews as question-driven syntheses distinct from simple research summaries
 

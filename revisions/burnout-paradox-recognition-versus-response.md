@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/burnout-paradox-recognition-versus-response.md
+---
+
+# Revision history: [claims/burnout-paradox-recognition-versus-response](../claims/burnout-paradox-recognition-versus-response.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from pmc-10153664 (A Concept Analysis of Structural Competency.) via eval_harness.py + ingest_extractions.py

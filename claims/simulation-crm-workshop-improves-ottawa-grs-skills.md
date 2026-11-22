@@ -56,3 +56,4 @@ Evaluator ratings on the seven-point Ottawa GRS (1 = novice, 7 = clearly excel) 
 - [Team communication scores rose significantly from pre-test to post-test after KSS training, in one uncontrolled pre-post study, with the median rising from 5.00 to 10.00](kss-training-improves-team-communication-scores.md) — related
 - [Observational learning during simulation scenarios was associated with gradual improvement in CRM skills across successive teams in the course](observational-learning-crm-gradual-improvement.md) — related
 - [Ottawa GRS component skills improve differentially over the internship year, with no significant trend in situational awareness](grs-component-skills-improve-situational-awareness-does-not.md) — related
+- [Teams self-rate their collaboration quality highly (8.6 ± 0.9 on a 10-point scale) after simulated laparoscopic tasks](post-test-self-rated-team-collaboration-quality.md) — related

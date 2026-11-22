@@ -80,3 +80,5 @@ d’ Cohen = 0.58, 95% CI [0.21, 0.95])"
 - [Pre-adolescents in the higher-fitness cluster score better on selective attention and concentration than those in the lower-fitness cluster](higher-fitness-cluster-better-selective-attention-concentration.md) — related
 - [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related
 - [Boys' and girls' networks differ structurally: centrality profiles show no significant correlation (out-EI r = 0.39, p = 0.212; in-EI r = 0.28, p = 0.384)](sex-networks-centrality-profiles-uncorrelated.md) — related
+- [Age category shows significant main effects on D2 attention scores, with older groups outperforming younger on TR, TA, TR+ and TR-](age-category-main-effect-d2-scores.md) — related
+- [Students with better aerobic fitness present better-processed elements and smaller omission errors, and girls and older students show better cognitive functioning scores](better-fitness-better-attention-scores.md) — related

@@ -73,3 +73,4 @@ The review attributes to Blanch-Hartigan's three meta-analyses the finding that 
 - [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — possibly the same claim (merge candidate)
 - [Self-assessment of theoretical and practical competences agreed with externally assessed exam results at moderate rates (64.3–82.5%), differing only slightly between courses](self-external-assessment-agreement-dental-propaedeutics.md) — related
 - [Participants rated their prior theoretical and practical programming knowledge around average](apc-participants-prior-knowledge-average.md) — related
+- [Managers' self‐assessments may overestimate competence relative to staff experiences](self-assessment-may-overestimate-competence.md) — related

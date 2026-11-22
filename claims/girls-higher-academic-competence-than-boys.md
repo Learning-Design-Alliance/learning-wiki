@@ -55,3 +55,4 @@ Bivariate comparison in the cross-sectional study of 1520 students (789 female, 
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — related
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — reports the opposite
 - [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](boys-retained-more-frequently-than-girls.md) — related
+- [Sex was the second most important RFR predictor for Slovak language, and girls showed higher Slovak-language performance than boys](sex-second-predictor-slovak-girls-advantage.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ Same randomized cross-over simulation study (65 trainee doctors, 2-min compressi
 - [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related
 - [No statistically significant difference between simulation and standard training groups in compression rate or chest recoil](no-difference-compression-rate-recoil.md) — related
 - [In an intention-to-treat analysis, lowering the bed and pre-positioning a step stool did not significantly increase mean chest compression depth compared to control](bed-lowering-step-stool-intervention-null-compression-depth.md) — related
+- [Paramedic trainees with adequate chest compression rate have higher baseline SDNN than those with inadequate rate; compression depth shows no significant difference](baseline-sdnn-adequate-compression-rate.md) — related

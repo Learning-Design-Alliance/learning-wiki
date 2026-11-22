@@ -56,3 +56,4 @@ Expert panel evaluation during instrument development. Six experts (public healt
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
+- [Expert panels rated the questionnaire's content validity as good, with S-CVI of 0.98 (knowledge) and 0.93 (attitude)](content-validity-s-cvi-knowledge-attitude.md) — related

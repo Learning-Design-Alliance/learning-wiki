@@ -53,3 +53,4 @@ Third theme from the cross-national observations and interviews. Examples includ
 - [Building relationships with students is a foundational social justice pedagogy in HPE, enacted through knowing students personally and caring teaching strategies](relationships-foundation-social-justice-hpe.md) — related
 - [Social justice pedagogies may not always transform structures nor make a uniform difference to all students, and the study's purposive sample limits generalisation](social-justice-pedagogy-limits-generalisation.md) — related
 - [The author reports that scaffolded learning makes the curriculum accessible and promotes equity by ensuring a strong foundational understanding before advancing](scaffolded-learning-promotes-equity-accessibility.md) — related
+- [Four antecedents precede structural competency: sense of decline, understanding of equity, failure of existing frameworks, and critical self-reflection](structural-competency-antecedents.md) — related

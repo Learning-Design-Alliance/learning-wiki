@@ -48,3 +48,4 @@ Multivariable models in TEDS including Cog/NonCog PGS, family SES at recruitment
 - [Family environments mediate noncognitive polygenic score effects on achievement more strongly than cognitive polygenic score effects](noncognitive-pgs-stronger-environmental-mediation.md) — related
 - [Environmental mediation of polygenic score effects on achievement is nearly exclusively observed between families, consistent with passive gene-environment correlation](mediation-between-family-passive-rge.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — a narrower finding that bears on this claim
+- [The association between birth length and school performance is stronger in low and intermediate family socio-economic position families than in high SEP families](birth-length-stronger-low-sep.md) — related

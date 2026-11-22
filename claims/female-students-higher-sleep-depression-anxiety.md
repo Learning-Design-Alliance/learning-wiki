@@ -54,3 +54,4 @@ Independent t-tests (Table 4) compared male and female students: females scored 
 - [Female gender, urban residence, and higher maternal education are associated with increases in depressive symptoms](female-urban-maternal-education-risk-factors-ds-increase.md) — related
 - [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related
 - [The high-stable and low-stable depressive symptom trajectory groups share similar sleep schedules across all but the last month of the semester](high-stable-low-stable-similar-sleep-schedules.md) — related
+- [Mean PSQI total scores did not differ significantly across disciplines](psqi-total-no-discipline-difference.md) — related

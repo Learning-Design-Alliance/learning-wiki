@@ -63,3 +63,4 @@ Fully adjusted GEE regression models from the same national cohort. The quote re
 - [Several neonatal and sociodemographic variables show no association with school-age outcomes in this cohort](preterm-null-associations-apgar-income-schooling-ventilation.md) — related
 - [Sociodemographic disadvantage indicators relate to lower Math and Science grades](disadvantage-lower-math-science-grades.md) — related
 - [Being small for gestational age or preterm nearly doubled the risk of not qualifying for upper secondary school among children with CHD without major noncardiac anomalies.](sga-preterm-double-nonqualification-risk-chd.md) — related
+- [The authors attribute the adverse associations of preterm birth with educational and cognitive outcomes partly to incomplete brain maturation at birth, while noting social circumstances and nurturing also play an important role](preterm-outcomes-brain-maturation-interpretation.md) — related

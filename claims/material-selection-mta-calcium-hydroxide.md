@@ -49,3 +49,4 @@ Multiple-response material-selection items with denominator N = 88 in the survey
 - [Students report varied hemostatic-agent selection, with the combined option ferric sulfate or aluminum chloride selected most frequently (46.6%)](hemostatic-agent-selection-varies.md) — related
 - [Only 15.9% of students report applying rubber dam isolation at the beginning of vital pulp therapy treatment](rubber-dam-timing-varies-among-students.md) — related
 - [Students' reported treatment preferences shift with pulp exposure size, from direct pulp capping for small exposures to pulpotomy or root canal treatment for large exposures](vpt-preferences-shift-with-exposure-size.md) — related
+- [Undergraduates most often chose MTA and postgraduates Biodentine for pulp capping or pulpotomy, citing college training and literature as justifications](pulp-capping-material-mta-versus-biodentine.md) — related

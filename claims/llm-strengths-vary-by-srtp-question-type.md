@@ -87,3 +87,4 @@ Results for the five image-based questions (3 electrocardiograms, 2 CT scans), K
 - [LSGEN outperforms program-repair baselines on LPR-Bench in code accuracy and bug-description F1](lsgen-outperforms-lpr-baselines.md) — related
 - [The top-performing OC-LLM differed by question type: Perplexity Pro overall, ChatGPT o1 preview on text-only, and Claude 3.5 Sonnet (new) on diagram-based questions](top-oc-llm-varies-by-question-type.md) — a narrower finding that bears on this claim
 - [Answer consistency among the four flagship OC-LLMs was only moderate (Fleiss' κ = 0.334), indicating differing strengths and weaknesses across models](flagship-models-moderate-answer-consistency-kappa-0334.md) — related
+- [Most models had higher accuracy on simple questions (medical knowledge, lower-order, positive) than on complex ones, with Llama showing the reverse pattern](simple-vs-complex-question-accuracy-pattern.md) — related

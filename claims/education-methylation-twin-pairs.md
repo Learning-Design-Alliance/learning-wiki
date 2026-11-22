@@ -53,3 +53,4 @@ Within-pair analysis in 1478 twins (492 monozygotic and 247 dizygotic pairs, mea
 - Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [A meta-analysis of four Dutch cohorts identifies 58 CpG sites whose blood DNA methylation is associated with educational attainment, mostly with higher methylation at higher education](ewas-58-cpgs-educational-attainment.md) — related
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
+- [Within full siblings and twin pairs, birth weight and length associations with school performance persist in the same direction but with weaker effect sizes than individual-level analyses](within-family-birth-size-effects-weaker.md) — related

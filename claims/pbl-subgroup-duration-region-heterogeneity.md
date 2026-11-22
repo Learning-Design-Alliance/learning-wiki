@@ -51,3 +51,4 @@ Subgroup analysis of critical thinking/knowledge studies regrouped by interventi
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](nma-subgroup-cbl-clinical-pbl-basic.md) — related
+- [FCN advanced training programs are heterogeneous across countries, ranging from a 10-day UK prescriber program to a one-year graduate course in China](fcn-training-programs-country-heterogeneity.md) — related

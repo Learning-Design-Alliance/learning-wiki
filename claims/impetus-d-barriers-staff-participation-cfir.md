@@ -59,3 +59,4 @@ Qualitative process evaluation coding interview and survey data in NVivo 12 agai
 - [Time constraints and implementation logistics in the emergency department were rated the most challenging factors for initiating palliative care](ed-time-constraints-barrier-palliative-care.md) — related
 - [In three areas where attendees had trained colleagues no carers received START, with set-up time, staffing shortfalls and competing service priorities cited as barriers](start-implementation-barriers-time-and-resources.md) — related
 - [Staff viewed the evaluated training with discomfort, and low participation was observed, with schedule conflicts, lack of financial reward, and inability to close laboratories cited as reasons](training-participation-barriers-in-hospital-laboratories.md) — related
+- [Workshop participants rated barriers across all five CFIR domains as most important for implementing the new nursing role](cfir-barriers-new-nursing-role.md) — related

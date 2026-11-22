@@ -60,3 +60,4 @@ Cross-sectional logistic regression analysis of 399 urban primary school childre
 - [Stunting showed prolonged significant negative influences on language, mathematics, and grade point average, with the stunted group underperforming by almost 9% over the long term](stunting-language-math-gpa-long-term-deficit.md) — reports the opposite
 - [Head circumference-for-age Z-score correlates positively with SIMCE achievement while prenatal nutritional measures do not](head-circumference-correlates-simce-prenatal-measures-do-not.md) — related
 - [Children with FAS are shorter, lighter, and have smaller head circumference than children without FAS](fas-children-smaller-physical-measurements.md) — related
+- [HAZ score, BAZ score, and dietary diversity score showed no direct, indirect, or total effects on academic performance](haz-baz-dds-no-effect-academic-performance.md) — a broader claim this one bears on

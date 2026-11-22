@@ -83,3 +83,5 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The developed instruments for aesthetic (IaePP) and affective (IafPP) perception of science-related pictures show internal consistencies well above 0.7](iaepp-iafpp-instruments-validated-perception-pictures.md) — related
 - [CSCS factors show convergent and discriminant validity by Fornell–Larcker criteria](cscs-convergent-discriminant-validity.md) — related
 - [CSCS total score shows high internal consistency, with most reliable variance attributable to a general factor](cscs-total-score-reliability.md) — related
+- [Convergent validity testing shows item-dimension correlations above 0.3 and dimension-total correlations above 0.7 for both sections](convergent-validity-correlations-questionnaire.md) — related
+- [The knowledge section of the liberal birthing position questionnaire shows good reliability and structural validity, with four factors explaining 41.0% of variance and Cronbach's alpha of 0.890](knowledge-section-28-items-reliable-valid.md) — related

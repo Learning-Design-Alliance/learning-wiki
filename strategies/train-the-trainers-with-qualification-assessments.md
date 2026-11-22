@@ -51,6 +51,7 @@ To meet local demand for large numbers of EFL teachers, the program recruited 21
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 - [Build local capacity by recruiting and training staff from the schools' rural zones](recruit-train-local-rural-zone-staff.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Two-phase train-the-trainer model building local OBLS instructor capacity](train-the-trainer-obls-local-instructors.md)
 
 ## Examples
 -

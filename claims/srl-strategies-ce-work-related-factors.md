@@ -48,3 +48,4 @@ Pooled three-level random-effects meta-analyses of work-related factors across t
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](srl-ce-moderators-operationalization-setting-work-relatedness.md) — related
 - [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related
 - [SRL strategies in continuing education are significantly and positively related to learning performance and learner engagement, and negatively to avoidance behavior](srl-strategies-ce-learning-process-outcomes.md) — related
+- [Avoidance of abusive ICT adoption is positively associated with job control and negatively associated with perceived job demands](aaia-associated-control-demands.md) — related

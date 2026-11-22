@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-22
 sources:
   - id: nees-lisa-katharina-2021
     resource: "https://doi.org/10.1186/s12909-021-02627-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In exercise (a), the 70 dB group (121 s) was significantly faster than the control group (157 s; p = 0.007), and in exercise (c) the 70 dB group (115 s) was significantly faster than control (150 s; p = 0.010). [→ Nees Lisa Katharina 2021](#nees-lisa-katharina-2021)
@@ -50,3 +51,4 @@ Prospective randomized trial of 87 Heidelberg medical students performing three 
 - [Most participants (81.4%) did not feel distracted by the music, and overall course satisfaction was high (9.2/10)](low-subjective-distraction-high-satisfaction-music-training.md) — related
 - [Relative performance improvements from first to third run were highest at 60 dB overall (32.2%) but not statistically significant](first-to-third-run-improvements-not-significant.md) — related
 - [Acoustic shielding with earplugs showed no significant performance difference from control except in exercise (a)](earplug-shielding-no-benefit-except-exercise-a.md) — related
+- [Teams complete laparoscopic tasks faster under pleasant music than in neutral or noisy environments](music-shortens-laparoscopic-task-time.md) — related

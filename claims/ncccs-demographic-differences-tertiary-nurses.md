@@ -51,3 +51,4 @@ Student's t-test and ANOVA univariate analysis (Table 3) in the 1977-nurse surve
 - [Nurses scored highest on team communication competency and lowest on communication competency in difficult clinical scenes](ncccs-dimension-profile-difficult-scenes-lowest.md) — related
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — reports the opposite
 - [Mean clinical competence score is significantly associated with age, nursing education level, and years of clinical work experience (P<0.001)](competence-associated-age-education-experience.md) — related
+- [Age, work experience, and affiliated ward jointly predict 77% of the variance in hospital nurses' clinical competence](age-experience-ward-predict-nurse-clinical-competence.md) — related

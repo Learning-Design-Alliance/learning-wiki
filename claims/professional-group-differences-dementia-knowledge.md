@@ -72,3 +72,4 @@ Linear regression (Model 1, Table 3, N = 359) predicting ADKS score with demogra
 - [Professional and personal experience caring for someone with dementia are associated with higher dementia knowledge](caring-experience-associated-higher-knowledge.md) — related
 - [Self-rated dementia knowledge correlates positively with measured ADKS performance](self-rated-knowledge-correlates-adks.md) — related
 - [Composite knowledge scores were moderate (6.72 ± 3.08 of 12) while awareness scores were low (1.79 ± 0.73 of 3), and the two were significantly associated (χ² = 127.31, df = 36, p < 0.0001)](composite-knowledge-moderate-awareness-low.md) — related
+- [Primary care providers' dementia-care knowledge scores differ significantly by occupation, while attitudes and skills scores do not](pcp-dementia-knowledge-varies-by-occupation.md) — related

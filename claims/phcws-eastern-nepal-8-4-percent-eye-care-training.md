@@ -51,3 +51,4 @@ Cross-sectional questionnaire study of 107 government-employed PHCWs in 35 healt
 - [Referral patterns differ geographically: terai PHCWs overwhelmingly refer to the tertiary eye hospital while mountain PHCWs refer to local eye care centres](referral-patterns-differ-terai-vs-mountains.md) — related
 - [Ophthalmic assistants, PHCWs and the district health manager all agree PEC training is needed, and PHCWs state willingness and time to be trained](stakeholders-agree-pec-training-needed-phcws-willing.md) — related
 - [Health posts lack basic ophthalmic equipment and medications, with no fluorescein and few working torches in the mountains](health-posts-lack-ophthalmic-equipment-medications.md) — related
+- [The quality of education FCNs provide and receive varies with geographical context, with FCNs in mountain communities feeling poorly educated and trained](fcn-education-quality-geographic-context.md) — related

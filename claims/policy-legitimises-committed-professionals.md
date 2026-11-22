@@ -50,3 +50,4 @@ Macro-to-micro mechanism from the La Virgen case study interviews. Committed pro
 - [Individual motivation strongly conditioned whether regional IPV interventions triggered learning mechanisms among providers](motivation-conditions-policy-mechanisms.md) — related
 - [La Virgen's model extended to regional policy through committed experts participating in inclusive design processes](team-influences-regional-policy.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
+- [Lack of central service coordination and timely local supports is a key barrier, and the UK IRIS programme significantly increased IPV/FV identification and referral rates](service-coordination-barrier-iris-increased-identification.md) — related

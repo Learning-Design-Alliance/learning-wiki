@@ -49,3 +49,4 @@ Descriptive survey data on barriers (multiple answers allowed) from 323 CCNs (Ta
 - [Turkish critical care nurses reported a moderate level of spiritual care competence and a moderate frequency of spiritual care practice, with assessment and implementation the lowest competence subscale](moderate-spiritual-care-competence-ccns-turkiye.md) — related
 - [Spiritual care competence shows a statistically significant positive high correlation with frequency of spiritual care practices among Turkish critical care nurses](sccs-nscts-correlation-turkish-ccns.md) — related
 - [Ethical care competency is the highest-rated PCNCC dimension and spiritual care competency the lowest among ICU nurses](dimension-scores-ethical-highest-spiritual-lowest.md) — related
+- [Excessive paperwork, low prioritization of eye care, and time constraints are the most frequently cited barriers to ICU eye care](icu-eye-care-barriers-paperwork-prioritization.md) — related

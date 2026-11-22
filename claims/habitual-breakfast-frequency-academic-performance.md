@@ -56,3 +56,6 @@ Cross-sectional survey evidence reported by the review (attributed to Lien, 2007
 - [Breakfast eating frequency is significantly associated with academic performance among Chinese medical and dental students](breakfast-frequency-academic-performance-medical-dental.md) — a narrower finding that bears on this claim
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — a narrower finding that bears on this claim
 - [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — a narrower finding that bears on this claim
+- [Skipping breakfast is negatively associated with academic performance, while skipping other meals is not](breakfast-skipping-negative-academic-performance.md) — a narrower finding that bears on this claim
+- [Most South Australian students report skipping breakfast at least sometimes: 57·6% sometimes and 10·1% always](breakfast-skipping-prevalence-south-australia.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — a narrower finding that bears on this claim

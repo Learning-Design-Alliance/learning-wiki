@@ -49,3 +49,4 @@ Comparative GPA-trend analysis of FTIC students who switch from MES to FES after
 - [FES students have the highest graduation rate, with MES students showing graduation rates close to FES for transfer students](fes-highest-graduation-rate-mes-close-for-transfer.md) — related
 - [Most students maintain their enrollment strategy from one semester to the next](students-maintain-enrollment-strategy-semester-to-semester.md) — related
 - [Switching from FES to PES is associated with increased dropout probability and decreased GPA](switching-fes-to-pes-increases-dropout-decreases-gpa.md) — related
+- [The percentage of students with poor academic performance increases substantially from the third to the fourth semester](poor-academic-performance-rises-third-to-fourth-semester.md) — related

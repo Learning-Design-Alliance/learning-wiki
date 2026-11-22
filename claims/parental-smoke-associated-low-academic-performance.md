@@ -68,3 +68,4 @@ Grade-stratified multivariate analysis showed parental smoke significant only in
 - [Modifiable perinatal exposures — maternal smoking, postnatal corticosteroids, and nonexclusive breastfeeding — are associated with lower attainment, while antenatal corticosteroids are protective](modifiable-perinatal-exposures-attainment.md) — related
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — reports the opposite
+- [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — related

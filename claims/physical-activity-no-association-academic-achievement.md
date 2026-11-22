@@ -62,3 +62,6 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [The negative association between vigorous-intensity physical activity and academic performance disappears after adjusting for school fixed effects](vigorous-activity-association-school-fixed-effects.md) — related
 - [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — related
+- [Accelerometer-measured vigorous physical activity at age 13 shows no significant adjusted association with academic performance at age 16](vigorous-physical-activity-null-association-grades.md) — a narrower finding that bears on this claim
+- [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](weight-status-associated-academic-performance.md) — related

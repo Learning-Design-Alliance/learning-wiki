@@ -55,3 +55,4 @@ Cross-sectional multilevel models (Table 3, adjusted rows) show fitness with mat
 - [Cognitive performance mediates about 40% of the association between fitness and math and language grades](cognition-mediates-fitness-grades.md) — related
 - [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related
 - [Adolescents whose parents have short education or were born abroad have lower fitness, and lower cognitive and academic performance](parental-education-birth-socioeconomic-gaps.md) — related
+- [Participation in organised physical activity at age 13 shows no significant adjusted association with academic performance at age 16, though the crude association was significant](organised-physical-activity-null-after-adjustment.md) — related

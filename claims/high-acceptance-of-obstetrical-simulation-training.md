@@ -48,3 +48,4 @@ Six-point Likert acceptance questionnaire (previously used by Blum et al.) compl
 ## Related Claims
 - [One-day multi-professional obstetrical simulation training improves self-perceived competency in self-confidence, emergency handling and knowledge of algorithms three months later, but not team communication](simulation-training-improves-self-perceived-obstetrical-competency.md) — related
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
+- [Teams self-rate their collaboration quality highly (8.6 ± 0.9 on a 10-point scale) after simulated laparoscopic tasks](post-test-self-rated-team-collaboration-quality.md) — related

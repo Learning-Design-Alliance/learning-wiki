@@ -48,3 +48,4 @@ Linear mixed-effects model analysis (Table 4) of 1040 Chinese students aged 8–
 - [Boys spend more time on screen-based sedentary behavior than girls, while girls show better academic performance except in mathematics and science](sex-differences-screen-sb-and-academic-performance.md) — related
 - [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](weekday-weekend-sb-interaction-academic-performance-girls.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — a narrower finding that bears on this claim
+- [Long sedentary bouts of 30 minutes or more are associated with lower academic performance in both adolescent boys and girls](long-sedentary-bouts-30min-associated-lower-academic-performance.md) — related

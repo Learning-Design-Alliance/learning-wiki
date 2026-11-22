@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: rudolf-lena-sophie-2026
     resource: "https://doi.org/10.3205/zma001854"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in the culinary medicine elective course led to a significant improvement of students' counselling competencies, nutritional knowledge, attitude towards NC, well-being and eating habits. [→ Rudolf Lena Sophie 2026](#rudolf-lena-sophie-2026)

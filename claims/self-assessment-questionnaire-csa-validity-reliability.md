@@ -65,3 +65,4 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related
 - [The pilot questionnaire demonstrated good internal consistency (Cronbach's alpha = 0.79) among its 16 self-perceived competence items](ebm-self-competence-questionnaire-internal-consistency.md) — related
 - [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](esm-self-efficacy-state-measure-pca.md) — related
+- [The knowledge section of the liberal birthing position questionnaire shows good reliability and structural validity, with four factors explaining 41.0% of variance and Cronbach's alpha of 0.890](knowledge-section-28-items-reliable-valid.md) — related

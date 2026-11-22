@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (152 show a difference, 54 mixed, 37 no difference) · 130 studies (45 associational, 43 causal, 18 review, 14 quant-synthesis, 7 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 32 of 130 report an effect size · 239 claims rest on one study
+> **Evidence** · 251 claims (158 show a difference, 54 mixed, 39 no difference) · 136 studies (51 associational, 43 causal, 18 review, 14 quant-synthesis, 7 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 33 of 136 report an effect size · 247 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -280,6 +280,14 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](../claims/activity-frequency-type-gpa-anova-null.md) [-M] — learners who differ on it differ in outcomes
 - [Higher psychological well-being is associated with increased odds of higher academic performance, but PWB does not moderate the sleep or PA associations](../claims/pwb-predicts-academic-performance-no-moderation.md) [~M] — learners who differ on it differ in outcomes
 - [Physically active and inactive medical students show no statistically significant difference in mean GPA](../claims/physical-activity-gpa-null-medical-students.md) [-M] — learners who differ on it differ in outcomes
+- [Accelerometer-measured vigorous physical activity at age 13 shows no significant adjusted association with academic performance at age 16](../claims/vigorous-physical-activity-null-association-grades.md) [-W] — learners who differ on it differ in outcomes
+- [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](../claims/weight-achievement-associations-stronger-in-girls.md) [+W] — learners who differ on it differ in outcomes
+- [Chances of achieving the highest academic level rose by 165% in mathematics and 484% in Slovak language for fit normal-weight boys versus unfit boys with obesity](../claims/chance-increase-165-484-percent-fit-normal-boys.md) [+M] — learners who differ on it differ in outcomes
+- [Fit, normal-weight boys have significantly higher odds of top academic achievement than unfit boys with obesity](../claims/fit-normal-boys-higher-odds-than-unfit-obese-boys.md) [+M] — learners who differ on it differ in outcomes
+- [Higher odds of better academic achievement were not significant for fit normal-weight girls compared with unfit girls with obesity](../claims/fit-normal-girls-vs-unfit-obese-girls-null.md) [-M] — learners who differ on it differ in outcomes
+- [SDB severity is associated with lower school grade point average and natural/social science grades in children with overweight/obesity](../claims/sdb-severity-lower-school-grades-overweight-obese-children.md) [+M] — learners who differ on it differ in outcomes
+- [Students with better aerobic fitness present better-processed elements and smaller omission errors, and girls and older students show better cognitive functioning scores](../claims/better-fitness-better-attention-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](../claims/weight-status-associated-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

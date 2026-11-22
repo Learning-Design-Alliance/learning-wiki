@@ -78,3 +78,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related
 - [Iterative expert content validation produced strong content validity for QISCIT, with average CVI rising to 0.97 and expert accuracy to 91% in the final 31-item version](qiscit-content-validity-cvi-097.md) — related
 - [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related
+- [Expert panels rated the questionnaire's content validity as good, with S-CVI of 0.98 (knowledge) and 0.93 (attitude)](content-validity-s-cvi-knowledge-attitude.md) — related

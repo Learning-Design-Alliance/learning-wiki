@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 310 claims (174 show a difference, 66 mixed, 70 no difference) · 235 studies (114 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 235 report an effect size · 309 claims rest on one study
+> **Evidence** · 311 claims (174 show a difference, 66 mixed, 71 no difference) · 236 studies (115 associational, 84 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 236 report an effect size · 310 claims rest on one study
 
 ## How to read this page
 
@@ -395,6 +395,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Socio-economically disadvantaged students were overrepresented among those needing team support and underrepresented among self-sufficient students](../claims/socioeconomic-background-readiness-association.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Continuing-generation and first-generation students’ IPLS drawings differ in element centrality with large effect sizes](../claims/generation-differences-drawing-centrality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Exam items are uncollected at roughly twice the rate for first-generation students from historically marginalized groups compared with non-first-generation, non-marginalized peers in introductory physics courses](../claims/hm-1stgen-compounding-uncollected-exam-items.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Apparent SES differences in the responsiveness of expectations to prior performance disappear once SES differences in the responsiveness to cognitive ability are accounted for](../claims/ses-performance-responsiveness-disappears-m3b.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

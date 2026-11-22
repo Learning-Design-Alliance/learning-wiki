@@ -51,6 +51,7 @@ Based on the finding that patient rights education is associated with higher PCC
 - [Provide continuous ethics education from undergraduate studies through professional development to support nurses' moral competence](continuous-ethics-education-nursing.md)
 - [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 - [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
+- [Promote continuous ethics education and professional development for nurse managers to maintain high ethical standards](continuous-ethics-education-nurse-managers.md)
 
 ## Examples
 -

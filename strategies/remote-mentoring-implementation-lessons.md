@@ -43,6 +43,7 @@ From their retrospective analysis the authors draw lessons for organizations est
 - [Mentoring](mentoring.md)
 - [When planning mentoring to support evidence uptake, plan regular meetings over time, choose an appropriate delivery approach, establish a mentor-mentee matching process, and consider combining mentoring with other KT interventions](plan-mentoring-kt-implementation-recommendations.md)
 - [Match mentors and mentees using application data via speed matching, a stable marriage algorithm, or manual pairing](mentor-mentee-matching-methods.md)
+- [Train supervisors to select ICT tools purposefully and avoid 'digital laziness'](avoid-digital-laziness-ict-tool-selection.md)
 
 ## Examples
 -

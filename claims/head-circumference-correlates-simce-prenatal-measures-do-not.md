@@ -68,3 +68,4 @@ Correlation analysis (Table 1); the breastfeeding correlation was negative, whic
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
 - [Children with FAS are shorter, lighter, and have smaller head circumference than children without FAS](fas-children-smaller-physical-measurements.md) — related
+- [The association between birth length and school performance is stronger in low and intermediate family socio-economic position families than in high SEP families](birth-length-stronger-low-sep.md) — related

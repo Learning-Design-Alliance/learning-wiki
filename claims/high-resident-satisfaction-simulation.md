@@ -69,3 +69,5 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
 - [Students rated the gamified board game very positively, with all survey items averaging above 4.21 out of 5](board-game-survey-items-above-4-21.md) — related
+- [Teams self-rate their collaboration quality highly (8.6 ± 0.9 on a 10-point scale) after simulated laparoscopic tasks](post-test-self-rated-team-collaboration-quality.md) — related
+- [Trainees rated the utility of integrating simulation into routine residency training very highly despite no measured knowledge gain](ventsim-high-rated-utility-of-simulation.md) — related

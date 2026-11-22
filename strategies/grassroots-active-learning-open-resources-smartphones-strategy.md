@@ -17,7 +17,7 @@ sources:
 # Implement active learning grassroots-style in developing-country universities using open educational resources, local context-rich editing, and students' smartphones
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A bottom-up implementation recipe in which instructors adopt open educational resources developed elsewhere, edit them "to generate context-rich activities with local context and practical relevance", run active learning across lectures, tutorials, and assignments all semester, and use the free Google Classroom app accessed on students' smartphones instead of clickers. The article reports this reduced costs, better engaged students inside and outside class, and required no dedicated resources, making the model applicable to other MENA and developing-country universities.

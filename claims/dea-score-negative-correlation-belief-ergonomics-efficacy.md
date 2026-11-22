@@ -48,3 +48,4 @@ Spearman correlation analysis in the same post-course dataset (n = 89) relating 
 - [Students' agreement that ergonomic practice reduces musculoskeletal pain increased post-course for all assessed body regions](attitudes-toward-ergonomics-pain-prevention-improved.md) — related
 - [Post-course postural performance was favorable, with a mean overall Dental Ergonomics Assessment score of 1.45](post-course-dea-postural-performance-favorable.md) — related
 - [Dental undergraduates' ergonomic knowledge scores rose from pre-test to post-test after a microscope-based experiential ergonomics course, in one single-group pre-post study (p < 0.001 for all three knowledge items)](dom-experiential-course-improved-ergonomic-knowledge.md) — related
+- [The El-Poems trial hypothesizes that e-learning postural education reduces musculoskeletal pain rate and intensity in music students compared with controls](el-poems-hypothesis-mp-reduction.md) — related

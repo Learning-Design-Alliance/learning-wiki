@@ -56,3 +56,6 @@ Null findings from the linear mixed model analysis of the Lebanese adolescent lo
 - [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — reports the opposite
 - [Diet quality and physical activity effects on academic performance are independent, with no additive interaction](no-additive-interaction-diet-pa-academic.md) — related
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
+- [BMI is negatively associated with adolescent students' academic performance (β = -0.117, p < 0.01)](bmi-negative-association-academic-performance.md) — related
+- [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — related
+- [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — reports the opposite

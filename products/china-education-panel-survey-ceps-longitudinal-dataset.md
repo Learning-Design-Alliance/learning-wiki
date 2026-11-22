@@ -20,6 +20,7 @@ A nationally representative longitudinal dataset collected by the National Surve
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **China Education Panel Survey (CEPS) baseline and follow-up data (2013–2015)**: The China Education Panel Survey (CEPS), conducted by the China Survey and Data Center of Renmin University of China, provided the data for this study; the article states "The data underlying the results presented in the study are available from the http://ceps.ruc.edu.cn/". It used baseline (2013–2014) and follow-up (2014–2015) waves, matched via the "clsids" number, with multi-stage random PPS sampling across 28 counties, 112 schools, and 483 classes, yielding a final analytic sample of 7,218 students aged 12–14. (Gu Linni et al. (2025))
 
 ### Claims
 - [Grade 7 mental unwellness negatively predicts Grade 8 academic performance in Chinese, mathematics, and English after controlling for prior performance and demographics](../claims/mental-unwellness-predicts-lower-academic-performance-china.md) [+M]
@@ -29,3 +30,4 @@ A nationally representative longitudinal dataset collected by the National Surve
 
 ## Key Sources
 - Liu Keqiao. (2023). Middle school students’ mental unwellness and academic performance in China: The effects of parental involvement. PLoS One 18(11): e0294172. https://doi.org/10.1371/journal.pone.0294172
+- Gu Linni, Zhu Rui, Tian Donghua. (2025). Body mass index mediates the association between sleep duration and academic performance: An evidence in Chinese adolescent students. PLOS One. https://doi.org/10.1371/journal.pone.0323969

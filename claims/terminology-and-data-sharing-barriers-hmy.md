@@ -80,3 +80,4 @@ Washington interviews. A child welfare agency administrator reports that formal 
 - The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition — related
 - [State confidentiality laws and varying FERPA interpretation restrict researcher access to SLDS records](ferpa-state-laws-restrict-slds-access.md) — related
 - [No single term is universally used to describe formalized boundary-spanning roles in PDSs](no-universal-term-boundary-spanner-pds.md) — related
+- [Lack of central service coordination and timely local supports is a key barrier, and the UK IRIS programme significantly increased IPV/FV identification and referral rates](service-coordination-barrier-iris-increased-identification.md) — related

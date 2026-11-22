@@ -51,3 +51,4 @@ One-sample Mendelian randomization in ALSPAC (N=6113), the only PGS strong enoug
 - [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related
 - [All measured health conditions are associated with greater school absence at 14–16, and depressive symptoms at 10 show a considerably stronger association with GCSEs than at 13 (ALSPAC cohort)](health-school-absence-and-depression-timing-alspac.md) — related
 - [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related
+- [Higher BMI z-scores at age 11.7 years are associated with lower GCSE scores at age 16 in both females and males](bmi-age-11-lower-gcse-scores.md) — related

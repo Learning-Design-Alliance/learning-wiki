@@ -63,3 +63,8 @@ Review of six studies performing mediation analysis. "Psychosocial distress in t
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [Boys who became affected by overweight between preschool and primary school had lower spelling and total achievement at age 9](boys-became-overweight-lower-spelling-total.md) — related
+- [Girls who remained affected by overweight from preschool to primary school had lower numeracy, spelling, language and total achievement at age 9](girls-persistent-overweight-lower-naplan.md) — related
+- [No evidence that depressive symptoms, bullying or school enjoyment individually mediate the BMI–attainment association](no-individual-mediation-depression-bullying-enjoyment.md) — reports the opposite
+- [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
+- [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — related

@@ -51,3 +51,6 @@ Cross-sectional (short-term) analysis of grade 5 media use on grade 5 numeracy i
 - [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — related
 - [Videogame use showed no association with reading or numeracy performance in late childhood](videogame-use-no-reading-numeracy-association.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related
+- [Children meeting the screen time guideline spent more time reading and less time watching television than those not meeting it, suggesting screen time displaces literacy-supporting activities](screen-time-displaces-reading-literacy.md) — related
+- [Spending more than 2 hours per day on screen media was significantly associated with poor academic performance among Hargeisa adolescents](screen-time-over-2h-associated-poor-academic-performance.md) — related

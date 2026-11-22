@@ -50,3 +50,5 @@ Null bivariate findings from the sex-stratified correlation analysis (Table 2 sh
 ## Related Claims
 - [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](exam-grade-higher-good-sleep-quality-gpa-null.md) — related
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — reports the opposite
+- [Alcohol consumption shows a small, non-statistically significant negative association with academic achievement among university students (SMD = -0.24)](alcohol-consumption-non-significant-association-academic-achievement.md) — related
+- [The authors judge the current statistical evidence insufficient to clarify a strong association between substance or alcohol use and poor academic performance](evidence-insufficient-strong-association-limitation.md) — related

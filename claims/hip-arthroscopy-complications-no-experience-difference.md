@@ -57,3 +57,4 @@ Random-effects meta-analysis of six studies reporting overall complications, whe
 - [Odds of early complications decreased with institutional case number, independent of individual surgeon differences](complication-odds-decrease-institutional-experience.md) — related
 - [Puncture-related complication incidence does not differ significantly between the learning and proficiency phases](complications-not-different-pre-post-tp.md) — related
 - [Complication rates did not differ significantly between early-trained and later-trained ureterorenoscopy operators](ureteroscopy-complications-not-different-between-operator-groups.md) — related
+- [Postoperative complication rates are higher for initial learning curve surgeons than for advanced learning curve surgeons](fewer-complications-advanced-learning-curve.md) — related

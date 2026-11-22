@@ -50,3 +50,4 @@ Null finding from the univariate and multivariate regression analyses of the lin
 ## Related Claims
 - [Mild hearing impairment is associated with lower Year 3 Writing and Spelling scores in remote-living Aboriginal children](mild-hi-lower-writing-spelling-naplan.md) — related
 - [Moderate or worse hearing impairment is associated with lower Year 3 Writing and Numeracy scores in remote-living Aboriginal children](moderate-worse-hi-lower-writing-numeracy.md) — related
+- [Children with slight to mild hearing loss in the worse-hearing ear have a significantly elevated relative risk of being placed in the lowest (VMBO) versus the highest (VWO) secondary educational level](worse-ear-mild-hearing-loss-vmbo-rr-1-52.md) — related

@@ -49,3 +49,4 @@ Pearson R Product Moment Correlation analysis (n = 94, Table 3) found "academic 
 - [Sleep disturbances partially mediate the relationship between academic stress and depressive symptoms](sleep-disturbances-partial-mediation-stress-depression.md) — related
 - [Academic stress significantly predicts depressive symptoms, explaining 34% of variance, among health professions students during COVID-19 virtual learning](academic-stress-predicts-depressive-symptoms-covid.md) — related
 - [High rates of academic stress, sleep disturbance, and depressive symptoms were reported: 79.6% poor sleep quality and 60.2% high depressive symptoms](high-prevalence-sleep-disturbance-depressive-symptoms.md) — related
+- [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related

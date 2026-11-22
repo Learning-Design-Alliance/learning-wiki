@@ -51,3 +51,4 @@ National cross-sectional survey of 20,778 children aged 9.00 years (SD = 1.61) i
 - [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Sleep problems are common in school-aged children, with prevalence estimates ranging widely depending on assessment mode and definition](child-sleep-problem-prevalence-range.md) — a broader claim this one bears on
+- [Students with more than five courses per semester more frequently had daytime sleepiness](five-plus-courses-daytime-sleepiness.md) — related

@@ -54,3 +54,4 @@ Final ACE-moderation model (Model 4, Table 2) on the Dutch twin administrative s
 - [Moderation findings are sensitive to the assumed genetic relatedness of same-sex twins: no school-quality moderation at rSSG 0.75 or 0.80, and the gene-SES moderation holds at 0.75 but not 0.80](robustness-genetic-relatedness-assumptions.md) — related
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
+- [High-SES students' expectations are also less responsive to a genetic disposition unique to educational expectations, independent of performance and cognitive ability](ses-moderation-genetic-factor-unique-expectations.md) — related

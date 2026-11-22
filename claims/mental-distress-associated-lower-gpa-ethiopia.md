@@ -50,3 +50,4 @@ Cross-sectional study at Hawassa health college (n = 280) synthesized in the rev
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — reports the opposite
 - [Higher psychological distress is associated with lower subjective academic achievement among university students](psychological-distress-lower-saas.md) — related
+- [Students with a GPA decrease of <0.20 were 3.37 times more likely to have a hypochondriac problem than students with no GPA decrease](gpa-decrease-0-20-hypochondria-or-3-37.md) — related

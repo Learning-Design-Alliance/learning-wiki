@@ -47,6 +47,7 @@ The authors recommend that healthcare organizations adopt the EQ systematically 
 
 - [Increase challenge and interactivity in future versions of the Ethics Quarter](increase-eq-challenge-and-interactivity-strategy.md)
 - [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
+- [Promote continuous ethics education and professional development for nurse managers to maintain high ethical standards](continuous-ethics-education-nurse-managers.md)
 
 ## Examples
 -

@@ -69,3 +69,6 @@ Same regression analysis: non‐participation in pressure ulcer education (β = 
 - [More positive attitudes toward mental health care are associated with educational qualification, years as a qualified nurse and ICU experience](attitudes-predicted-by-education-nursing-and-icu-experience.md) — related
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [ICU nurses widely perform pressure ulcer risk assessment with the Braden Scale but less often implement individualised nutrition plans and support surfaces](risk-assessment-high-prevention-low.md) — related
+- [Nurses aged 34 and above, with 3 or more years in the same unit, and working in intensive care units score significantly higher on total PUM-SES](age-unit-experience-icu-higher-pum-ses.md) — related
+- [In-service training and courses are associated with higher PUM-SES scores, but training received during vocational education is not significantly related](in-service-training-higher-pum-ses-vocational-null.md) — related
+- [Nurses report a moderate overall level of pressure ulcer management self-efficacy (mean 58.77 ± 18.07 on a 0–100 scale)](nurses-moderate-pu-management-self-efficacy.md) — related

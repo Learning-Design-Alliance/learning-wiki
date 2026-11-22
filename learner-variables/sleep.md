@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (68 show a difference, 28 mixed, 12 no difference) · 47 studies (27 associational, 13 causal, 6 review, 1 quant-synthesis), `q2`–`q3` · 14 of 47 report an effect size · 108 claims rest on one study
+> **Evidence** · 113 claims (71 show a difference, 28 mixed, 14 no difference) · 51 studies (31 associational, 13 causal, 6 review, 1 quant-synthesis), `q2`–`q3` · 14 of 51 report an effect size · 113 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -144,6 +144,11 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Sleep-deprived surgeons show significantly reduced dominant-hand speed, shorter path length, and smaller dominant-hand motion volume across laparoscopic tasks](../claims/sleep-deprivation-reduces-surgeon-dominant-hand-motion.md) [+M] — learners who differ on it differ in outcomes
 - [Sleep-deprived surgeons take significantly longer on peg transfer and circle cutting, while sleep-deprived students were faster in circle cutting](../claims/sleep-deprivation-task-completion-time-cohorts-diverge.md) [~M] — learners who differ on it differ in outcomes
 - [The high-stable and low-stable depressive symptom trajectory groups share similar sleep schedules across all but the last month of the semester](../claims/high-stable-low-stable-similar-sleep-schedules.md) [~M] — learners who differ on it differ in outcomes
+- [Longer sleep duration is significantly positively associated with academic performance](../claims/sleep-duration-positive-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [No significant association was found between sleep quality and academic achievement (GPA)](../claims/no-association-sleep-quality-gpa.md) [-M] — learners who differ on it differ in outcomes
+- [Normal sleep is associated with higher perceived-competency and higher odds of high performance among radiology residents](../claims/normal-sleep-higher-competency-radiology-residents.md) [+M] — learners who differ on it differ in outcomes
+- [Snoring and daytime sleepiness subscales show no significant association with academic performance or brain volumes](../claims/snoring-sleepiness-subscale-null-academic-brain.md) [-M] — learners who differ on it differ in outcomes
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](../claims/inattention-hyperactivity-subscale-drives-sdb-school-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

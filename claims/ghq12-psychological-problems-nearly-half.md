@@ -47,3 +47,4 @@ Descriptive analysis of GHQ-12 responses from 207 medical students (Table 5). Th
 
 ## Related Claims
 - [Psychological health scores are inversely related to GPA among medical students in online learning (β = −0.21, p = 0.004)](psychological-health-inverse-gpa-medical-students.md) — related
+- [University freshmen recruited after the COVID-19 pandemic report lower psychological distress on the GHQ-12 than propensity-matched freshmen recruited before the pandemic, though both remain above the distress cut-off](post-pandemic-freshmen-lower-ghq12-distress.md) — related

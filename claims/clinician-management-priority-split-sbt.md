@@ -49,3 +49,4 @@ Cross-group contrast reported in the discussion of the interview study; the abst
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Local departmental culture is a leading barrier to establishing simulation-based training in emergency departments](local-culture-barrier-ed-sbt.md) — related
+- [Barriers to IQN skill alignment: staffing needs outrank skill match, communication differences complicate skill demonstration, and manager workload limits support](barriers-to-iqn-skill-alignment.md) — related

@@ -109,3 +109,6 @@ Primary adjusted proportional odds analysis (Table 3) of 3322 grade 3 and 2084 g
 - [Studying at home less than one hour per weekday is independently associated with low academic performance, with a stronger odds ratio than SES](short-home-study-duration-associated-low-academic-performance.md) — related
 - [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related
 - [Each one-category increase in total daily social media use is associated with examination scores 1.40 percentage points lower](total-daily-social-media-use-lower-examination-scores.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related
+- [High weekday screen time (≥5 h) at age 13 is associated with reduced odds of receiving A–D grades at age 16 compared to low screen time (≤2 h)](high-weekday-screen-time-reduced-odds-grades.md) — related
+- [Spending more than 2 hours per day on screen media was significantly associated with poor academic performance among Hargeisa adolescents](screen-time-over-2h-associated-poor-academic-performance.md) — related

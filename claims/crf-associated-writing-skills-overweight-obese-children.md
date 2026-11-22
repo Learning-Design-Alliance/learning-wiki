@@ -54,3 +54,4 @@ Cross-sectional linear regression analysis (Model 1, adjusted for age, sex, mate
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — a broader claim this one bears on
 - [Cardiorespiratory fitness is positively associated with general intelligence in adolescents on both the D48 and Raven tests, adjusting for sex and age](crf-associated-with-intelligence-adolescents.md) — related
+- [Random Forest Regression identifies cardiorespiratory fitness (shuttle-run rounds) as the most important predictor of ninth-grade academic achievement, with modest predictive power](rfr-shuttle-count-top-predictor-modest-oob.md) — related

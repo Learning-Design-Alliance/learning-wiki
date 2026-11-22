@@ -51,3 +51,4 @@ In the CEPS path analysis, 6 of 21 paths were non-significant, including screen 
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Social relationship construction mediates the screen time–performance relationship more strongly than physical and mental health](social-constructs-stronger-mediator-than-health.md) — related
 - [Cognitive performance is the primary mediating pathway between screen time and academic performance](cognitive-performance-primary-mediation-path.md) — related
+- [BMI mediates the relationship between sleep duration and academic performance, accounting for 11.18% of the total effect](bmi-mediation-sleep-academic-performance.md) — related

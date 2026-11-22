@@ -51,6 +51,7 @@ The article recommends that Chinese colleges "implement adequate support and cou
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

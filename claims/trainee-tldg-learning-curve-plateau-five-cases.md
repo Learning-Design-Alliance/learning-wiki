@@ -53,3 +53,4 @@ Learning-curve analysis (Figure 3) using operation time and estimated blood loss
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
 - [Within-group learning curves differ by group: the expert-instruction group plateaued and dropped at the fifth repetition while the ICEMS group kept improving](icems-learning-curves-group-differences.md) — related
+- [Expert surgeons took significantly less operation time than novices in laparoscopic distal gastrectomy (28.1 vs 49.3 min average per surgery)](experts-shorter-operation-time-gastrectomy.md) — related

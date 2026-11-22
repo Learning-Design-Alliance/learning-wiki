@@ -53,3 +53,4 @@ Linear regression of teacher expectation accuracy on maternal education in the A
 - [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related
 - [Teacher gender, teaching experience and class size show little evidence of association with teacher expectation accuracy](teacher-characteristics-null-expectation-accuracy.md) — related
 - [Teacher expectations of achievement are strongly associated with pupils' realised national exam scores at ages 11 and 14](teacher-expectations-strongly-track-achievement-ks2-ks3.md) — related
+- [Parental educational level was strongly associated with children's school test scores in the adjusted models](parental-education-associated-with-test-scores.md) — related

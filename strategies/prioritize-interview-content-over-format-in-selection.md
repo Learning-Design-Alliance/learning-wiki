@@ -41,7 +41,8 @@ Because the reviewed papers did not report interview content or specifications, 
 - [Multiple mini-interviews significantly predict early clinical exams (d=0.417) and early academic results (d=0.195), while panel interviews show no significant predictive effects](../claims/mmi-predicts-early-outcomes-panel-interviews-do-not.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Train interviewers and use more structured interviewing, particularly the MMI, to improve interviewer reliability](train-interviewers-structured-interviewing-mmi-reliability.md)
 
 ## Examples
 -

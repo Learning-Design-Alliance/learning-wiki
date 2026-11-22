@@ -51,3 +51,5 @@ In the regression analysis (n = 93), "the regression coefficient (standardized b
 - [Resourcefulness does not moderate the relationship between academic stress and depressive symptoms nor predict depressive symptoms](resourcefulness-no-moderating-effect-depressive-symptoms.md) — related
 - [Cognition partially mediates the physical activity–academic performance association, which weakens but remains significant when cognition is included](cognition-partially-mediates-pa-academic-performance.md) — related
 - [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — related
+- [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
+- [Depression among students during COVID-19 has a significant negative effect on their academic performance](covid-depression-negative-academic-performance.md) — related

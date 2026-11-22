@@ -45,6 +45,7 @@ The LEAD Partnership sequences its intervention work across cohorts: "Develop, i
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
 - [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 - [Use blinded external evaluators and a phased refine-then-reevaluate process when piloting an educational simulation system](phased-blinded-pilot-evaluation-strategy.md)
+- [Two consecutive implementation-and-evaluation cycles informed by Comprehensive Dynamic Trials](comprehensive-dynamic-trial-iterative-cycles.md)
 
 ## Examples
 -

@@ -67,3 +67,5 @@ Post-program satisfaction survey of the nine coaching-group surgeons, described 
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — a broader claim this one bears on
 - [AI-assisted coaching improves novice surgeons' overall operative performance in laparoscopic cholecystectomy, outperforming self-learning by study end](smartcoach-improves-lcrf-performance.md) — related
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
+- [84% of surgeons surveyed internationally are interested in peer-surgical coaching, specifically in the operating room](84-percent-surgeons-interested-peer-coaching.md) — related
+- [Participants report high satisfaction with video-based peer review, valuing learning from other surgeons' techniques and identifying areas for improvement](video-review-participant-satisfaction.md) — related

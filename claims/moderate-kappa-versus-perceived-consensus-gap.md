@@ -84,3 +84,4 @@ Authors' interpretation of the mismatch between survey-reported consensus and co
 - [Human inter-annotator agreement and dataset recall of 75.5 validate the benchmark's coverage of high-quality Socratic utterances](human-ita-dataset-recall-validation.md) — related
 - [Expert-based re-annotation with reconciliation raises Fleiss's κ from 0.486 to 0.851, with GPT-4 and PaLM2 near expert reliability and MTurk near random](expert-reconciliation-raises-fleiss-kappa.md) — related
 - [Multi-label annotation of toxic text yields higher alignment with external ML classifiers than forced single-label consensus, though not always higher inter-annotator agreement](multi-label-annotation-higher-classifier-alignment.md) — related
+- [Inter-rater agreement on ovarian cancer infiltration ranges from substantial to very good across sites, lowest in the upper abdomen and highest in the pelvis](substantial-very-good-inter-rater-agreement-ultrasound-staging.md) — related

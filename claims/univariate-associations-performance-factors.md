@@ -88,3 +88,6 @@ Univariate comparison of DREEM subscale bands against performance categories (n 
 - [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](null-multivariate-predictors-gender-ses-stress-atmosphere.md) — related
 - [Avoiding tobacco, alcohol, and khat use during university is associated with better academic performance](substance-avoidance-associated-better-performance.md) — related
 - [Older age is associated with higher probability of adequate academic performance among medical students in Lima](older-age-higher-adequate-performance-medical-students.md) — related
+- [The academic performance coefficient of medical students is negatively correlated with the intensity of tobacco, alcohol, cannabis and hypnotic/sedative use](academic-performance-negatively-correlated-substance-use-intensity-trait-anxiety.md) — related
+- [Lower-GPA medical students differ from higher-GPA students in age, housing, study financing, smoking, sedative and psychoactive substance use, and study progression](gpa-group-characteristic-differences.md) — related
+- [Lower academic performance in medical students is associated with previous use of tobacco, marijuana, amphetamines or ecstasy, and hypnotics or sedatives](worse-performance-tobacco-cannabis-sedative-use-medical-students.md) — related

@@ -48,3 +48,4 @@ Authors' interpretation of the null cluster-RCT findings: the PA arms showed no 
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Studies showing positive academic performance effects used longer weekly intervention times than studies with null or negative effects](longer-weekly-intervention-time-in-positive-effect-studies.md) — related
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — related

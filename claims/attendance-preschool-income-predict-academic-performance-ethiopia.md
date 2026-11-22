@@ -56,3 +56,4 @@ Adjusted multivariate logistic regression in the 399-child cross-sectional study
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Caregiver education and home ownership were not associated with parent-rated academic performance in children with CKD](education-home-ownership-null-ckd-academic.md) — related
 - [Lower household income and caregiver unemployment show the strongest associations with poorer parent-rated academic performance in children with CKD](income-employment-strongest-ses-drivers-ckd-academic.md) — related
+- [Adolescents from lower household wealth index tertiles had significantly poorer academic performance than peers from middle and higher wealth households](lower-wealth-index-associated-poor-academic-performance.md) — related

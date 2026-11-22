@@ -57,3 +57,4 @@ In the cross-sectional survey, univariate analysis showed skipping breakfast "OR
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — possibly the same claim (merge candidate)
 - [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
 - [Daily sweet consumption is associated with lower GPA among Palestinian university medical students, remaining significant after full covariate adjustment](daily-sweet-consumption-lower-gpa-palestinian-students.md) — related
+- [Students who always skip breakfast have increased risk of low achievement on numeracy (RR = 1·78) and reading (RR = 1·63) after adjustment for confounding](always-breakfast-skippers-increased-risk-low-achievement.md) — reports the opposite

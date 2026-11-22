@@ -52,3 +52,4 @@ Pearson correlation analysis among 443 operating room nurses. Both effect sizes 
 - [Systems thinking and personal accomplishment show model-dependent positive associations with patient safety competency](systems-thinking-pa-model-dependent-psc.md) — related
 - [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — reports the opposite
 - [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related
+- [Lifestyle factors predict emotional exhaustion and depersonalization differently](lifestyle-ee-dp-subscale-differences.md) — related

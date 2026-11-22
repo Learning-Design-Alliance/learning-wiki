@@ -52,3 +52,4 @@ Cross-sectional survey (N = 231) comparing self-rated knowledge categories again
 - [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related
 - [Practitioners' poor self-ratings corresponded with their actual number of correct answers](ecg-self-rating-corresponds-performance.md) — reports the opposite
 - [Peer and report (staff) assessments rated managers significantly higher than managers rated themselves on all six competencies, while only knowledge differed significantly for supervisors](peer-report-ratings-higher-than-self-all-competencies.md) — related
+- [Managers' self‐assessments may overestimate competence relative to staff experiences](self-assessment-may-overestimate-competence.md) — related

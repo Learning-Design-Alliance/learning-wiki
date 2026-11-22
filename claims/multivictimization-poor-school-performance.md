@@ -56,3 +56,4 @@ Logistic regression in a parent-reported sample of 192 Norwegian children aged 6
 - [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](age-sex-demographic-differences-school-functioning.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related

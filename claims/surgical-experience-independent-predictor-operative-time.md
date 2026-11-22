@@ -75,3 +75,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — related
 - [Adenoma volume, not accumulating surgical experience, linearly predicts ThuLEP laser emission time](adenoma-volume-linear-predictor-laser-emission-time.md) — related
 - [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related
+- [Operative time for radical prostatectomy is shorter in advanced learning curves than in initial learning curves](shorter-operative-time-advanced-learning-curve.md) — related

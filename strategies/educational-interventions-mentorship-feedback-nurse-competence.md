@@ -55,6 +55,8 @@ The article recommends that healthcare organizations implement educational inter
 - [Managers facilitate newly graduated nurses' continued learning by creating structures for reflection and mentorship](manager-created-reflection-structures-nurse-transition.md)
 - [Provide continued professional development, mentorship, and repeated navigation training for oncology nurse navigators](onn-continued-professional-development-strategy.md)
 - [Implement targeted interventions to develop nurses' therapeutic communication skills as a route to strengthening spiritual care competence](interventions-develop-nurse-therapeutic-communication-skills.md)
+- [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
+- [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
 
 ## Examples
 -

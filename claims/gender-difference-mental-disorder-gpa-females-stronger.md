@@ -53,3 +53,4 @@ Gender-stratified linear regression in the same nationwide cohort (411,054 femal
 - [Eating disorders show sex-divergent educational associations: higher grades among females but higher ineligibility odds among males](eating-disorder-sex-divergent-outcomes.md) — related
 - [Greater mental disorder comorbidity is associated with progressively lower comprehensive school GPA](comorbidity-gradient-lower-gpa.md) — related
 - [Later age at first mental disorder diagnosis is associated with progressively lower comprehensive school achievement](later-onset-mental-disorder-lower-gpa.md) — related
+- [Poor school achievement at age 16 is associated with a higher subsequent risk of any mental disorder, and high achievement with a lower risk, in a Finnish nationwide cohort](poor-school-achievement-higher-any-mental-disorder-risk.md) — related

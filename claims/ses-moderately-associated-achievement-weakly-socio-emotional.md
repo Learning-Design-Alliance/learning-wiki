@@ -53,3 +53,4 @@ Descriptive bivariate correlation analyses in the French panel of 8934 students 
 - [Academic performance correlates positively with intrinsic knowledge motivation, intrinsic achievement motivation, and self-efficacy](performance-correlates-intrinsic-motivation-self-efficacy.md) — related
 - [Self-regulation level (low/medium/high) differentially predicts self-efficacy, procrastination and achievement, with family socio-educational level also affecting achievement](sr-level-by-family-level-anova-achievement.md) — related
 - [Self-efficacy is positively correlated with academic achievement](self-efficacy-positively-correlated-academic-achievement.md) — related
+- [The association between birth length and school performance is stronger in low and intermediate family socio-economic position families than in high SEP families](birth-length-stronger-low-sep.md) — related

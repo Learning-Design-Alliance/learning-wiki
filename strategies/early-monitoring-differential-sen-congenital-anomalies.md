@@ -49,6 +49,7 @@ The review concludes that because children with non‐syndromic congenital anoma
 ## Related Strategies
 
 - [Response To Intervention](response-to-intervention.md)
+- [Early identification, continued screening and supportive counselling for children with congenital anomalies, especially those of lower socioeconomic background](early-screening-counselling-congenital-anomalies-strategy.md)
 
 ## Examples
 -

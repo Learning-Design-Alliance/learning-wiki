@@ -46,3 +46,4 @@ Descriptive comparison of all-cause incident reports across the pre- and post-in
 
 ## Related Claims
 - [Proportions of feeding-rate and IV-infiltration errors decreased significantly in the year after simulation implementation, while other targeted errors did not](targeted-errors-decreased-post-simulation.md) — related
+- [The trial will test whether increased simulation-based team training is related to decreased sick leave, enhanced patient safety culture, improved Apgar scores, and cost-related benefits](sbtt-trial-four-planned-outcomes.md) — related

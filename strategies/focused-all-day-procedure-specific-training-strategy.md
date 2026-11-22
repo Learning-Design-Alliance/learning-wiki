@@ -46,6 +46,7 @@ The article describes the exposure that defined the trained surgeon group: "all 
 
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
+- [Reduce surgical learning in trials through pre-trial technique standardisation training and balancing randomisation by surgeon](design-out-surgical-learning-training-and-stratified-randomisation.md)
 
 ## Examples
 -

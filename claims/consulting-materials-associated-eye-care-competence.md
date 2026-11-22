@@ -48,3 +48,5 @@ Multivariate linear regression (Table 5) shows material consultation was signifi
 - [ICU nurses who participated in eye care-related training scored higher on eye care competence across knowledge, attitude, practice and total ECCI dimensions](eye-care-training-higher-competence-icu-nurses.md) — related
 - [Chinese ICU nurses showed deficient knowledge of eye care for critically ill patients, with an average correct rate of 38.3%](icu-nurses-deficient-eye-care-knowledge-38-percent.md) — related
 - [ICU nurses held positive attitudes toward eye care, but positive attitudes did not fully translate into prioritising eye care in practice](positive-attitudes-not-translating-eye-care-practice.md) — related
+- [ICU nurses who follow current eye care practices score significantly higher on total eye care competence](following-current-practices-higher-competence.md) — related
+- [Receiving formal eye care training showed no statistically significant difference in knowledge, attitude, implementation, or total competence scores](formal-eye-care-training-no-significant-difference.md) — related

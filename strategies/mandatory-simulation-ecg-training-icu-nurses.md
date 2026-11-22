@@ -55,6 +55,7 @@ The article recommends structured, mandatory in-service ECG education tailored t
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
 - [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
 - [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
+- [Integrate comprehensive eye care training with evidence-based guidelines, hands-on workshops, and simulation-based learning into nursing education](eye-care-training-simulation-workshops-strategy.md)
 
 ## Examples
 -

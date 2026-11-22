@@ -51,3 +51,5 @@ Diagnosis-specific linear regressions in the nationwide cohort, shown in Figure 
 - [Higher behavioral symptoms of disordered eating are associated with lower GPA among Saudi university students, while cognitive eating concerns are not](behavioral-eating-symptoms-lower-gpa.md) — related
 - [Observational associations between parental symptoms and children's maths and reading scores are small and negative](small-observational-parental-symptom-achievement-associations.md) — related
 - [Later age at first mental disorder diagnosis is associated with progressively lower comprehensive school achievement](later-onset-mental-disorder-lower-gpa.md) — related
+- [Better school achievement is associated with a higher subsequent risk of eating disorders, in the opposite direction to all other disorders examined](better-achievement-higher-eating-disorder-risk.md) — related
+- [The association between school achievement and later mental disorder risk is steepest for substance use disorders, with poor achievement linked to over a 4-fold risk](school-achievement-substance-use-steepest-gradient.md) — related

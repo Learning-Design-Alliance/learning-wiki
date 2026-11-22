@@ -53,3 +53,4 @@ Subgroup meta-analysis of exposure variables in the review; the estimate derives
 - [Nutrition-only and WASH-only interventions do not differ significantly in their pooled association with academic performance](nutrition-vs-wash-no-significant-group-difference.md) — related
 - [Food insecurity is negatively associated with academic performance among higher education students in 43 of 47 studies across nine countries](food-insecurity-negative-association-academic-performance.md) — reports the opposite
 - [Four studies found no significant association between food insecurity and academic performance, plausibly explained by non-standard measurement tools and restricted sampling](null-findings-food-insecurity-measurement-explanation.md) — reports the opposite
+- [SES predicted academic achievement partially through Food Label Literacy and negatively through food insecurity](ses-academic-achievement-fll-food-insecurity-mediation.md) — related

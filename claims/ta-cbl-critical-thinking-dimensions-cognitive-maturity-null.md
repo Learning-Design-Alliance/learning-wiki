@@ -61,3 +61,4 @@ Post-training comparison across the seven dimensions of the Critical Thinking Ab
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related
 - [Four CTDI-CV dimensions (open-mindedness, inquisitiveness, cognitive maturity, systematicity) scores rose significantly from pre-test to post-test after mind mapping, in one uncontrolled pre-post study](mind-mapping-improved-four-ctdi-dimensions.md) — related
 - [Open-mindedness is the CT subscale that primarily predicts improvement in the preparation dimension of PBL performance](open-mindedness-predicts-preparation-improvement.md) — related
+- [Evidence on whether problem-based learning improves nursing students' critical thinking is mixed, with meta-analyses reaching opposite conclusions](pbl-critical-thinking-mixed-meta-analytic-evidence.md) — related

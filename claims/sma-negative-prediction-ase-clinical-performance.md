@@ -50,3 +50,4 @@ Covariance-based SEM of 585 nursing interns (Table 5) showed the emerging model 
 - [Nomophobia is negatively associated with academic self-efficacy and clinical performance among nursing interns](nomophobia-negative-ase-clinical-performance.md) — related
 - [SMA, nomophobia, and ASE jointly account for 42.64% of the variance in nursing interns' clinical performance](sem-variance-clinical-performance-42-64.md) — related
 - [Risk for social media addiction is positively associated with nomophobia among nursing internship students](sma-positive-association-nomophobia-nursing-interns.md) — related
+- [Social media addiction alone is not significantly associated with academic performance](social-media-addiction-no-direct-academic-performance.md) — related

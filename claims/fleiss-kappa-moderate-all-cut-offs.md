@@ -54,3 +54,4 @@ Inter-reader reliability analysis of competence-test classifications by the 69 t
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [After e-trainer-based training, board-certified pathologists' PD-L1 TC scoring of VENTANA SP263-stained NSCLC samples showed mean OPA of 85–95% across clinically relevant cut-offs](sp263-post-training-opa-85-95-percent.md) — related
+- [Inter-rater agreement on ovarian cancer infiltration ranges from substantial to very good across sites, lowest in the upper abdomen and highest in the pelvis](substantial-very-good-inter-rater-agreement-ultrasound-staging.md) — related

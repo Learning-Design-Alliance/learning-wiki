@@ -74,3 +74,4 @@ In the same focus group analysis, students contrasted case-based learning where 
 - [Students reported that LLM-generated analogies helped them understand recursion and that personally and culturally relevant analogies were easier to remember](personally-relevant-analogies-aid-recursion-understanding-recall.md) — related
 - [Participants perceived interactive scaffolding as more engaging, more attention-focusing, and more helpful for learning than plain-text scaffolding](interactive-scaffolding-perceived-engagement.md) — related
 - [Group interviews found that films kept students' attention better than lecture and helped them remember the concepts illustrated in the films](student-interviews-films-aid-attention-and-memory.md) — related
+- [Nursing students' bioscience knowledge learned through remembering and understanding fades quickly and is difficult to apply in care practice](bioscience-knowledge-remembering-fades-care-practice-gap.md) — reports the opposite

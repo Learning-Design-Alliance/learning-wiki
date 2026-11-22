@@ -105,3 +105,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
+- [Survey instruments showed acceptable internal consistency and self-reported anatomy scores closely approximated actual results](survey-instrument-validation-integrity.md) — related

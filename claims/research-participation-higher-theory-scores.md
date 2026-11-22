@@ -49,3 +49,4 @@ Cross-sectional comparison using the Mann-Whitney test of mean right answers per
 - [Physicians with research-project experience felt more able to interpret papers without assistance and to plan projects with assistance](research-experience-self-assessed-ability.md) — related
 - [Research-project participation was associated with more recent graduation and with having authored a paper](research-participation-graduation-authorship-association.md) — related
 - [Most surveyed Brazilian ENT physicians and residents had participated in undergraduate research or authored a paper](high-rates-undergraduate-research-participation.md) — related
+- [Prior patient referral for DBS is associated with higher resident knowledge scores](dbs-referral-associated-higher-knowledge.md) — a narrower finding that bears on this claim

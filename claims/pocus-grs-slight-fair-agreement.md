@@ -57,3 +57,4 @@ Exploratory weighted-kappa analysis of the global rating scale in the same seven
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Novice and expert raters show no significant difference on 7 of 11 TEAM items and on the TEAM sum score, but novices rate higher on 4 items and on the global rating scale](novice-expert-team-ratings-mostly-comparable.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [Inter-rater agreement on ovarian cancer infiltration ranges from substantial to very good across sites, lowest in the upper abdomen and highest in the pelvis](substantial-very-good-inter-rater-agreement-ultrasound-staging.md) — related

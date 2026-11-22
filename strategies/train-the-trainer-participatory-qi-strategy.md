@@ -55,6 +55,7 @@ The article's implementation strategy pairs a train-the-trainer faculty developm
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Iteratively refine teaching modules using learner feedback and expert review each course block](iterative-module-refinement-learner-expert-feedback.md)
+- [Two consecutive implementation-and-evaluation cycles informed by Comprehensive Dynamic Trials](comprehensive-dynamic-trial-iterative-cycles.md)
 
 ## Examples
 -

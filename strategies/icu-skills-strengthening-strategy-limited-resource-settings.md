@@ -49,6 +49,7 @@ The article recommends a bundle of supports for ICU nurses in limited resource s
 ## Related Strategies
 
 - [Strengthen ICU eye care through optimised protocols, clear standards, multidisciplinary collaboration and enhanced training programmes](icu-eye-care-protocol-training-strategy.md)
+- [Integrate comprehensive eye care training with evidence-based guidelines, hands-on workshops, and simulation-based learning into nursing education](eye-care-training-simulation-workshops-strategy.md)
 
 ## Examples
 -

@@ -40,6 +40,7 @@ The article recommends that future eye-tracking research on teacher priorities s
 ## Related Strategies
 
 - [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
+- [Incorporate explicit anti-Indigenous bias questions into medical school admissions files or interviews, but exclude implicit association measures](explicit-bias-screening-in-admissions-not-implicit.md)
 
 ## Examples
 -

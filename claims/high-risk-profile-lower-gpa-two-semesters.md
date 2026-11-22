@@ -57,3 +57,4 @@ Prospective observational cohort of 106 preclinical medical students followed ac
 - [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related
 - [Higher perceived stress and higher hair cortisol were each associated with lower Year-1 performance](stress-measures-associated-lower-performance.md) — related
 - [High levels of the stress hormone cortisol inhibit memory encoding and retrieval and disrupt synaptic plasticity, while mild elevations can boost memory performance](cortisol-high-levels-inhibit-memory-plasticity.md) — related
+- [Optimal academic performance is associated with lower Year-1 stress and partly explains selection-method differences](academic-performance-explains-selection-stress-gap.md) — related

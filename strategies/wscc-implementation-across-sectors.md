@@ -48,6 +48,7 @@ The article's implications section recommends concrete uses of the WSCC model by
 
 - [Analyze pre-existing network structures and points of leverage at the outset of a cross-sector reform initiative](analyze-networks-at-initiative-outset.md)
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
+- [Integrate overall student well-being into college health programs and use the WSCC framework as a starting model for higher education](wscc-college-wellbeing-academic-integration-strategy.md)
 
 ## Examples
 -

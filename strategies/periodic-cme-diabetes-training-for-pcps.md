@@ -50,6 +50,7 @@ The article recommends periodic training of primary care physicians on diabetes 
 - [Match CME training content and format to the demands of each target audience](match-cme-supply-to-workforce-demand.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 - [Strengthen primary-care asthma management through practice-based face-to-face training with pulmonologist involvement](practice-based-face-to-face-asthma-training-strategy.md)
+- [Deliver targeted, periodic DDH education programs for family physicians emphasizing lesser-known risk factors and the ineffectiveness of double diapering](targeted-periodic-ddh-education-programs.md)
 
 ## Examples
 -

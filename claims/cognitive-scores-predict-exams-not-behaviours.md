@@ -73,3 +73,4 @@ Correlations between UKCAT cognitive scores and tutor assessments in the same co
 - [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — related
 - [Small differences in UKCAT points translate into meaningful prediction: 333-500 extra UKCAT points correspond to one additional mark on each UKFPO outcome](ukcat-points-translate-to-ukfpo-marks.md) — related
 - [UKCAT Verbal Reasoning correlates positively with Theory examinations but not with Skills assessments](ukcat-verbal-reasoning-differential-theory-skills-prediction.md) — related
+- [The UCAT situational judgment subtest weakly predicts professional behaviour in medical school, whilst the cognitive subtests did not](ucat-sjt-weakly-predicts-professional-behaviour.md) — related

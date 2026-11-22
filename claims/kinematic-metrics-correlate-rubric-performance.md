@@ -85,3 +85,4 @@ Under Robotic Control, the review reports expert-novice contrasts: experts show 
 - [Experts complete transgastric NOTES cholecystectomy stages faster and with shorter endoscope path lengths than novices on NOViSE](novise-construct-validity-experts-novices-times-paths.md) — a narrower finding that bears on this claim
 - [Individualized instructor feedback during simulated laparoscopy shortens instrument path length in novices](feedback-shortens-laparoscopic-instrument-path.md) — a narrower finding that bears on this claim
 - [Experts dwell relatively longer on relevant parameters (well spacing, d = 0.87) and shorter on the irrelevant tilt parameter (d = 0.80) than novices in Task 2](expert-novice-gaze-relevant-irrelevant-areas.md) — related
+- [Expert surgeons' instrument tip total travel distance was significantly shorter than novices' (343,794 vs 575,721 pixels)](experts-shorter-total-travel-distance.md) — a narrower finding that bears on this claim

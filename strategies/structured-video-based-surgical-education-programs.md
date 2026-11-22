@@ -53,6 +53,7 @@ The article recommends that surgical training programs adopt formal, structured 
 - [Use instructional videos and involve students in creating video content to teach clinical communication](video-instruction-clinical-communication-strategy.md)
 - [Use video-based instruction showing perfect peer demonstrations to teach the ABCDE approach in resuscitation courses](vbi-perfect-peer-demonstration-strategy.md)
 - [Incorporate varied video models and styles of observed information into surgical training curricula, pending further evaluation](varied-models-observational-curricula-strategy.md)
+- [Implement surgical coaching in otolaryngology using video-based coaching, addressing barriers of ego, cost, privacy, and logistics](video-based-coaching-otolaryngology-implementation-strategy.md)
 
 ## Examples
 -

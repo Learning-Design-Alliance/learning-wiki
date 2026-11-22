@@ -50,3 +50,4 @@ Cross-sectional survey of 400 emergency-department nurses in 23 hospitals in Eas
 - [No significant association between nurses' pain management knowledge and their attitudes](no-knowledge-attitude-association-pain.md) — related
 - [None of the 400 nurses answered the questionnaire item on addiction risk of scheduled narcotic analgesics](unanswered-addiction-knowledge-item.md) — a narrower finding that bears on this claim
 - [Specific knowledge items showed very low correct-response rates, including effects of high-dose therapy on child development (17.2%) and pre-radiotherapy oral care benefits (15.8%)](lowest-scoring-knowledge-items-cancer-therapy.md) — a narrower finding that bears on this claim
+- [Most critical care nurses at a Saudi university hospital had inadequate knowledge and attitudes toward pain management, with only 7.1% scoring at a good level](critical-care-nurses-poor-pain-knowledge-kasrp.md) — related

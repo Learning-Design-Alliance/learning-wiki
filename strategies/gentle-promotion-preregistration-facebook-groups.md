@@ -46,6 +46,7 @@ The authors recommend that, because Facebook helps new students settle in, highe
 ## Related Strategies
 
 - [Professors integrating Facebook should leverage its social dimension while providing training and addressing privacy concerns.](leverage-social-dimension-facebook-training-privacy.md)
+- [Universities should prioritise programmes that cultivate social connections among students during the transition to university](university-programmes-cultivate-student-connections.md)
 
 ## Examples
 -

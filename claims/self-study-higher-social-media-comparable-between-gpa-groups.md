@@ -49,3 +49,4 @@ Univariate comparison of daily activities between the AA- and AN-groups in the q
 - [Early social media adoption is associated with higher grade repetition, lower likelihood of an excellent grade-8 mark, and lower academic self-efficacy, but not with upper-secondary track choice](early-social-media-secondary-academic-outcomes.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [Digital stress subdimensions differ by gender, socio-economic status, and daily social media usage hours](digital-stress-demographic-differences-gender-usage.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related

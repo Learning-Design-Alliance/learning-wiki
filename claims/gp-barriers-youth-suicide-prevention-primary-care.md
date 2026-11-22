@@ -48,3 +48,4 @@ Focus group findings section on patient-related barriers: the authors report GPs
 ## Related Claims
 - [GPs report feeling ill-equipped to assess and manage suicide risk in young people despite confidence with general mental health problems](gps-ill-equipped-youth-suicide-risk-assessment.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [GPs attribute non-disclosure mainly to patient-related factors, while citing time, skills and service access as their own barriers, with a quantitative-qualitative contradiction on time](gp-barriers-patient-attribution-time-contradiction.md) — related

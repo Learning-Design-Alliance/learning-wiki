@@ -53,3 +53,4 @@ Bivariate analyses of the 1084-pupil cohort comparing girls (n = 530) and boys (
 - [Girls had higher academic results and better selective attention scores than boys, and older children had lower scores, in this disadvantaged cohort](gender-and-age-differences-attention-grades.md) — related
 - [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — reports the opposite
 - [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related
+- [Higher cardiorespiratory fitness at age 13 is associated with increased odds of receiving A–D grades at age 16 in the whole sample](fitness-age-13-higher-odds-grades-age-16.md) — related

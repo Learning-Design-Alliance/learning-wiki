@@ -57,6 +57,7 @@ The article recommends that simulation-based education not merely be available b
 - [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
 - [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 - [Schedule practical skills training as mandatory, structured sessions rather than voluntary participation](mandatory-structured-scheduling-skills-training.md)
+- [Integrate structured DBS training, neurosurgery observation, and mentorship into pediatric neurology residency curricula](structured-dbs-training-residency-strategy.md)
 
 ## Examples
 -

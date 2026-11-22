@@ -58,6 +58,8 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Guide stage-based small groups through a five-year career planning path with senior mentors](five-year-career-planning-small-groups.md)
+- [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
+- [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
 
 ## Examples
 -

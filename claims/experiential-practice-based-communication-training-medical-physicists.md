@@ -49,3 +49,4 @@ Program description from the article's structure section: the authors state the 
 - [FMSo residents rate interactive methods (case discussions, role-playing, brainstorming, workshops, CRBL) as more efficient than didactic courses and e-learning](fmso-residents-preferred-teaching-methods.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Interactive, participation-centered CPD formats are reported to be more effective for improving competence than didactic formats and practice guidelines](interactive-cpd-formats-more-effective.md) — related
+- [The review literature indicates didactic methods and supervision alone are insufficient to change trainee behavior or improve client outcomes, motivating experiential supplements](didactic-training-insufficient-for-procedural-skill.md) — related

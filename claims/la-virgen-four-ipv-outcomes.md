@@ -49,3 +49,4 @@ Realist single-case study of the La Virgen primary health care centre (Murcia), 
 - [La Virgen's model extended to regional policy through committed experts participating in inclusive design processes](team-influences-regional-policy.md) — related
 - [Regional policy legitimated and recognised committed professionals' work rather than causing their IPV response](policy-legitimises-committed-professionals.md) — related
 - [Individual motivation strongly conditioned whether regional IPV interventions triggered learning mechanisms among providers](motivation-conditions-policy-mechanisms.md) — related
+- [Lack of central service coordination and timely local supports is a key barrier, and the UK IRIS programme significantly increased IPV/FV identification and referral rates](service-coordination-barrier-iris-increased-identification.md) — related

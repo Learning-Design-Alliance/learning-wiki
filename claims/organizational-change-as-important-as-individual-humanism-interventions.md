@@ -50,3 +50,4 @@ Authors' conclusion from the qualitative survey of 68 faculty at eight medical s
 - [Most teacher well-being interventions target individual actions rather than community well-being](teacher-wellbeing-interventions-individual-focused.md) — related
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](sdl-cpd-four-key-tdf-domains.md) — related
+- [Whether structural competency alleviates or deepens burnout and moral distress depends on whether its attributes include response and action](burnout-paradox-recognition-versus-response.md) — related

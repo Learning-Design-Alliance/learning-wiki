@@ -53,3 +53,4 @@ Multilevel path analysis of baseline survey and achievement data from 507 third-
 - [Parents' self-reported fixed mindsets did not significantly predict any student math outcomes at the student level](parental-mindsets-null-prediction-student-outcomes.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Students' fixed mindsets mediate the links between socializers' beliefs and students' math motivation and behavioural outcomes at the student level](student-mindsets-mediate-socializer-belief-effects.md) — related
+- [Learning self-efficacy is positively related to academic achievement and predicts learning motivation and effectiveness](learning-self-efficacy-predicts-motivation-achievement.md) — related

@@ -57,3 +57,4 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 - [Moderate physical activity at any weekly frequency is associated with greater odds of average or above-average academic performance in Korean adolescent boys](moderate-pa-boys-academic-performance-korean-adolescents.md) — related
 - [Moderate physical activity twice or three times a week is associated with greater odds of average or above-average academic performance in Korean adolescent girls](moderate-pa-girls-academic-performance-korean-adolescents.md) — related
 - [Vigorous physical activity 5 or more times a week is associated with greater odds of average or above-average academic performance in Korean adolescent girls](vigorous-pa-girls-academic-performance-korean-adolescents.md) — related
+- [Regular physical activity is significantly positively associated with academic performance in both French and mathematics](physical-activity-positive-academic-performance.md) — related

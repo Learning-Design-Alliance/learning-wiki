@@ -72,3 +72,4 @@ Independent-samples t-tests treating absence continuously in the same sample: mu
 - [Multivictimization is associated with over threefold increased odds of very poor school performance in maltreated primary-school children](multivictimization-poor-school-performance.md) — related
 - [Multivictimization shows no statistically significant association with special education enrollment, though the result approaches significance](multivictimization-special-education-null.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related

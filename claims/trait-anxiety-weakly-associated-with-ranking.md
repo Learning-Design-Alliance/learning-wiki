@@ -56,3 +56,4 @@ Subgroup analysis of students with extreme STAI-Y trait scores comparing final n
 - [State and trait anxiety show only a moderate correlation, suggesting situational exam stress can acutely elevate anxiety even in students not habitually anxious.](state-trait-anxiety-moderate-correlation.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
 - [Trait anxiety total score correlated negatively and weakly with nasotracheal aspiration skill (r = −0,182)](trait-anxiety-negative-correlation-nasotracheal-aspiration.md) — related
+- [Trait anxiety intensity of medical students is negatively correlated with academic performance, while the state anxiety correlation did not reach significance](trait-anxiety-negatively-correlated-academic-performance.md) — reports the opposite

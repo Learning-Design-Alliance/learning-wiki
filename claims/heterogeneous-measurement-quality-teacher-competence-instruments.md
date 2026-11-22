@@ -64,3 +64,4 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - [Exam-based assessment of teaching outcome in German medical schools is limited by methodological problems and insufficient quality control of summative exams](exam-based-outcome-assessment-limited.md) — a narrower finding that bears on this claim
 - [Few EBP measurement instruments exist, and validation studies using comparison groups are rare](paucity-of-ebp-instruments.md) — related
 - [Quantum education initiatives lack systematic evaluation of learning outcomes](quantum-education-lacks-empirical-evaluation.md) — a narrower finding that bears on this claim
+- [The CASHN questionnaire scored highest on methodological quality and level of evidence, and the Chase instrument was the most comprehensive, among ten nurse manager competency instruments](cashn-highest-quality-nm-competency-instrument.md) — related

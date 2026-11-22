@@ -47,3 +47,4 @@ Group comparison in the self-survey of 19 Cameroonian healthcare professionals u
 ## Related Claims
 - [A self-survey and a scenario-based competence assessment tool for emergency medicine show a statistically insignificant mean difference and moderate agreement when applied to Cameroonian healthcare professionals](self-survey-scenario-competence-assessment-agreement-cameroon.md) — related
 - [Female physicians rate all six competency domains higher than male physicians](female-physicians-higher-competency-domain-scores.md) — related
+- [Physicians in training showed higher general ASD knowledge than certified specialists](physicians-in-training-higher-asd-knowledge.md) — related

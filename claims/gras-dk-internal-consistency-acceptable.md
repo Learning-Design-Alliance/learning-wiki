@@ -50,3 +50,4 @@ Descriptive analysis of GRAS-DK scores from 361 respondents (mean 88, SD = 11.42
 - [The confirmatory factor analysis of GRAS-DK did not replicate the original three-factor model of personal reflection](gras-dk-cfa-fails-three-factor-model.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — a broader claim this one bears on
 - [Student comments indicate GRAS-DK items lack context and are experienced as too abstract](gras-dk-items-lack-context-abstract.md) — related
+- [Survey instruments showed acceptable internal consistency and self-reported anatomy scores closely approximated actual results](survey-instrument-validation-integrity.md) — related

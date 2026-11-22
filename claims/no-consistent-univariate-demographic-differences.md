@@ -77,3 +77,5 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related
 - [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related
+- [The lifestyle–competency association is stronger among residents working over 8 hours per day and rotating more night shifts](lifestyle-competency-stronger-long-hours-night-shifts.md) — related
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related

@@ -52,3 +52,4 @@ Independent t-tests across four ACE domains showed the intervention group scored
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
 - [Didactic-group students reported higher self-perceived competence in constructing clinical questions and searching the literature than blended-learning students](didactic-higher-question-construction-confidence.md) — reports the opposite
 - [Pass rates for formulating a focused clinical question rose from 22.9% to 28.3% after the short course, a non-statistically significant change in one uncontrolled pre-post study](question-formulation-weak-nonsignificant-gain.md) — related
+- [Nearly two-thirds of medical radiology technologists demonstrated poor EBM practice](mrt-poor-ebm-practice-prevalence.md) — related

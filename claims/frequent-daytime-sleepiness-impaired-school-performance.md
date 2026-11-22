@@ -90,3 +90,6 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — related
 - [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](lower-ses-children-unhealthy-lifestyle-patterns.md) — related
 - [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related
+- [Students with more than five courses per semester more frequently had daytime sleepiness](five-plus-courses-daytime-sleepiness.md) — related
+- [No significant association was found between sleep quality and academic achievement (GPA)](no-association-sleep-quality-gpa.md) — related
+- [Snoring and daytime sleepiness subscales show no significant association with academic performance or brain volumes](snoring-sleepiness-subscale-null-academic-brain.md) — reports the opposite

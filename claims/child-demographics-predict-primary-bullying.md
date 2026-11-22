@@ -49,3 +49,4 @@ Multilevel logistic regression (model 2) in a cohort of 23,215 children from 648
 - [Child-by-school deprivation interaction: high-deprivation schools are a risk factor for bullying only for non-deprived children](child-school-deprivation-interaction-bullying.md) — related
 - [Poorer school climate is associated with greater self-reported bullying behaviour, independently of child- and school-level demographics](school-climate-predicts-bullying.md) — related
 - [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
+- [Sensitivity analyses (white ethnicity, overt vs relational bullying, excluding SEN records) were broadly similar, with no mediation evidence for either bullying component](sensitivity-analyses-broadly-similar-bullying-components.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-22
 sources:
   - id: melaku-ermiyas-endewunet-2025
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13077153/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students who ate breakfast had about 4.2 times better academic performance than students who did not (AOR = 4.253101, 95% CI: 2.160–8.371). [→ Melaku Ermiyas Endewunet 2025](#melaku-ermiyas-endewunet-2025)
@@ -65,3 +66,7 @@ Cross-sectional study of 514 first-cycle primary students in North Shoa Zone, Et
 - [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
 - [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — reports the opposite
+- [Students who always skip breakfast have increased risk of low achievement on numeracy (RR = 1·78) and reading (RR = 1·63) after adjustment for confounding](always-breakfast-skippers-increased-risk-low-achievement.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [A gradient in low achievement prevalence exists across breakfast skipping categories for all NAPLAN tests](low-achievement-gradient-skipping-categories.md) — related
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related
