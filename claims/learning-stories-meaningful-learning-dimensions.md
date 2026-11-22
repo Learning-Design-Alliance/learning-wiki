@@ -65,3 +65,4 @@ Qualitative analysis of so-called learning stories reported by Y. L. Visser and 
 - [Students' sense of ownership can entail their own new knowledge about the nature of science](ownership-entails-nature-of-science-knowledge.md) — related
 - [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related
 - [Using mobile devices to take data in experiments gives students a sense of ownership of their measurements](mdet-data-ownership.md) — a narrower finding that bears on this claim
+- [Students consistently evaluated the course positively, with laboratory work described as the moment when theoretical concepts became meaningful](lab-work-makes-concepts-meaningful.md) — a narrower finding that bears on this claim

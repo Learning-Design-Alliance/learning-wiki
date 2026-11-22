@@ -49,3 +49,4 @@ The review reports Cowan et al. (2010): "when the size of the array to be rememb
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — related
+- [The digital self's novelty draws learners' attention away from the historical learning content](novelty-attention-capture-digital-self.md) — related

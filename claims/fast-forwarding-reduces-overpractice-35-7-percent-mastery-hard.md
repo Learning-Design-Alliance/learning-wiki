@@ -48,3 +48,4 @@ Simulation study (RQ1) using AFM-fit learning rates and BKT mastery estimates fr
 - [Fast-Forwarding reduces overpractice across all problem selectors (0.1% to 35.7%), with the largest reduction for selectors that preferentially select difficult problems](fast-forwarding-effective-across-selectors-hard-preference.md) — a broader claim this one bears on
 - [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — related
 - [Fast-Forwarding did not change underpractice (M = 0.44 vs. M = 0.43), indicating overall mastery levels do not suffer](fast-forwarding-underpractice-unchanged.md) — related
+- [The redesign showed no reliable evidence of reducing overpractice beyond 80% mastery](no-overpractice-reduction-evidence.md) — reports the opposite

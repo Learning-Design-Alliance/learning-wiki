@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: jaimie-a-greasley-and-thomas-e-baker-2026
     resource: "https://doi.org/10.48550/arXiv.2607.27519"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Verbal feedback from students and teachers indicated the educational material and workshop delivery were engaging and appropriately matched to the students' level. [→ Jaimie A. Greasley and Thomas E. Baker 2026](#jaimie-a-greasley-and-thomas-e-baker-2026)

@@ -50,4 +50,4 @@ A coordinated set of interventions for the mathematical transition: "a mandatory
 -
 
 ## Key Sources
-- Mackay, Paul and Inyang, Oto-obong. (2026). Transitioning from A-level to higher education physics courses: where are the knowledge gaps? https://arxiv.org/abs/2610.00175
+- Mackay, Paul and Inyang, Oto-obong. (2026). Transitioning from A-level to higher education physics courses: where are the knowledge gaps? https://arxiv.org/abs/2610.00175. [doi:10.48550/arxiv.2610.00175](https://doi.org/10.48550/arxiv.2610.00175)

@@ -47,3 +47,4 @@ Structural equation modeling with indirect effects estimated via bootstrap resam
 
 ## Related Claims
 - [In the tested structural model, contextual support positively predicts trust calibration and collaborative regulation, trust calibration positively predicts collaborative regulation and perceived transfer gains, and collaborative regulation shows the strongest association with perceived transfer gains](sem-structural-paths-genai-collaboration-model.md) — related
+- [Perceived skill growth is associated with perceived academic gains indirectly through assignment-process adaptation, with a smaller statistically uncertain direct association](indirect-association-via-assignment-process-adaptation.md) — related

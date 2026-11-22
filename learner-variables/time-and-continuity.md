@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (174 show a difference, 65 mixed, 35 no difference) · 239 studies (115 causal, 58 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 239 report an effect size · 270 claims rest on one study
+> **Evidence** · 275 claims (175 show a difference, 65 mixed, 35 no difference) · 240 studies (116 causal, 58 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 240 report an effect size · 271 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -331,6 +331,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Code-edit recommendations significantly reduced time-on-task compared to no feedback, while quiz-based feedback did not and involved more feedback time and seeking](../claims/code-rec-reduces-time-on-task.md) [~M] — measured as an outcome of the instruction studied
 - [Deferred AI assistance increased time on task in Week 1 but not in Week 2](../claims/deferred-ai-assistance-time-on-task-week1.md) [~W] — measured as an outcome of the instruction studied
 - [Learners rated visual conditions higher on support for ongoing work, and recipients of proactive help rated it as supportive rather than interrupting](../claims/learners-rate-visual-tutoring-supportive-not-intrusive.md) [+M] — measured as an outcome of the instruction studied
+- [Students using the Redesigned Tutor spent more productive time-on-task than students using the Original Tutor, with comparable idle time](../claims/redesigned-tutor-productive-time-on-task.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

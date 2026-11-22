@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: tianlong-zu-2026
     resource: "https://doi.org/10.48550/arXiv.2608.00798"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In both pretest and posttest class transition matrices, many students changed from the productive resource S in the individual session to unproductive resources R1 and R2 in the group session. [→ Tianlong Zu 2026](#tianlong-zu-2026)

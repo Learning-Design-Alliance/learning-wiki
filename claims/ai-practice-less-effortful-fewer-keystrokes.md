@@ -52,3 +52,4 @@ Same pre-registered experiment (N=2,238). Participants practicing with AI "spent
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
 - [The engagement-level gradient in prompting gains was not attributable to instructional time alone](gradient-not-time-on-task.md) — related
 - [Under fixed 60-minute practice time, the open-ended condition completed roughly one-quarter as many problems as control (16.9 vs. 58.9) yet showed similar learning gains (+9.3% vs. +9.4%).](fixed-time-fewer-problems-similar-gains.md) — related
+- [Students using the Redesigned Tutor spent more productive time-on-task than students using the Original Tutor, with comparable idle time](redesigned-tutor-productive-time-on-task.md) — related

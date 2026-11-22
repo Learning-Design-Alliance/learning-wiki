@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (24 for, 6 mixed) · 24 studies (11 causal, 5 review, 4 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (26 for, 6 mixed) · 25 studies (11 causal, 5 review, 4 quant-synthesis, 3 associational, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -70,6 +70,8 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words](../claims/recall-at-lower-probability-lengthens-half-life-more.md) [+W] — Ye et al. (2022): rules fitted to 220 million review logs from one English-vocabulary app; observational, no assigned gaps
 - [In vocabulary-app review logs, a memory model that tracks each item's review history predicted memory half-life after a review with less error than half-life regression](../claims/review-history-model-predicts-half-life-better-than-hlr.md) [+W] — Ye et al. (2022): the accuracy of the memory model an adaptive scheduler would rely on
 - [In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules](../claims/cost-minimizing-scheduler-fewer-review-days-simulation.md) [+W] — Ye et al. (2022): a simulation in the authors' own fitted model; no learners tested
+- [In cross-validated vocabulary-app review logs, memory models that use each item's sequence of past recall probabilities and review gaps predicted recall with about a third of half-life regression's error](../claims/review-history-features-cut-recall-prediction-error.md) [+W] — Su et al. (2023): the accuracy of the memory model an adaptive scheduler would rely on; one app's logs
+- [In a simulation built on vocabulary-app review logs, a cost-minimising review scheduler reached a target number of durable words in fewer days than other schedules under both a hand-built and a neural memory model](../claims/cost-minimizing-scheduler-advantage-holds-across-memory-models.md) [+W] — Su et al. (2023): simulation only; no learners tested
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

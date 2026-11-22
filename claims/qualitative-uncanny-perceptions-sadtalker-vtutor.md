@@ -67,3 +67,4 @@ Participant P41 commented that VTutor "was a lot closer to an anime character in
 - [In a 50-participant blind comparison, users strongly preferred VTutor over a SadTalker-generated talking head](vtutor-preferred-over-sadtalker.md) — related
 - [VTutor received significantly higher ratings than the SadTalker talking head on all five evaluation dimensions](vtutor-higher-ratings-all-dimensions.md) — related
 - [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related
+- [The digital-self agent increases uncanny-valley eeriness relative to a non-self agent in history learning videos](digital-self-increases-uncanny-eeriness.md) — related

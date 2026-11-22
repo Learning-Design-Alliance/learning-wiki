@@ -54,4 +54,4 @@ The article proposes eight concrete classroom actions, stating “we propose the
 -
 
 ## Key Sources
-- McDermott, L. G., Dachille, F. T., Keefe, G. R., Moenter, M. D., McPadden, D., and Scanlon, E. M. (2026). “I don’t have a good metric for what other people think:” Unpacking the double empathy problem in neurodivergent physics problem-solving. https://arxiv.org/abs/2609.21809
+- McDermott, L. G., Dachille, F. T., Keefe, G. R., Moenter, M. D., McPadden, D., and Scanlon, E. M. (2026). “I don’t have a good metric for what other people think:” Unpacking the double empathy problem in neurodivergent physics problem-solving. https://arxiv.org/abs/2609.21809. [doi:10.48550/arxiv.2609.21809](https://doi.org/10.48550/arxiv.2609.21809)

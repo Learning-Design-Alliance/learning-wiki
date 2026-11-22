@@ -55,4 +55,4 @@ The article recommends analyzing and organizing STEM competitions as a coordinat
 -
 
 ## Key Sources
-- Tschisgale, P., & Neumann, K. (2026). “What If I Had Participated?”—A Machine Learning-Based Counterfactual Analysis of Non-Participants’ Success Potential in STEM Competitions: The Case of the German Physics Olympiad. Leibniz Institute for Science and Mathematics Education (IPN), Kiel, Germany. https://arxiv.org/abs/2609.35151
+- Tschisgale, P., & Neumann, K. (2026). “What If I Had Participated?”—A Machine Learning-Based Counterfactual Analysis of Non-Participants’ Success Potential in STEM Competitions: The Case of the German Physics Olympiad. Leibniz Institute for Science and Mathematics Education (IPN), Kiel, Germany. https://arxiv.org/abs/2609.35151. [doi:10.48550/arxiv.2609.35151](https://doi.org/10.48550/arxiv.2609.35151)

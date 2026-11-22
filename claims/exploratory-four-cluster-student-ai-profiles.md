@@ -99,3 +99,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related
 - [High interaction volume does not always equate to productive learning in an LLM-empowered course](high-interaction-not-always-productive-learning.md) — related
 - [K-means clustering of rubric scores identified six learner profiles, with Rubric 5 weakness common across multiple clusters](kmeans-six-learner-profiles-rubric-scores.md) — related
+- [University students report heterogeneous retrospectively perceived GenAI skill-development trajectories, with rapid-early-improvement-then-plateau the most frequent pattern](heterogeneous-perceived-genai-skill-trajectories.md) — related

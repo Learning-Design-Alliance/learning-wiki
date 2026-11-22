@@ -61,3 +61,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [Human feedback was rated most clear and most trusted, while AI feedback received the lowest trust rating (50.00%)](slideitright-human-feedback-highest-clarity-trust.md) — related
 - [Participants perceived the LLM-generated feedback as highly correct (M = 4.4, SD = 1.0 by rating)](llm-feedback-perceived-correct.md) — related
 - [Course activities challenged students to engage critically with responsible AI from multiple perspectives, yielding one of the highest survey ratings (mean = 4.65)](re-ai-course-judgment-oriented-engagement.md) — related
+- [Students report stronger perceived improvement in efficient GenAI task execution than in evaluating GenAI outputs](efficiency-growth-exceeds-evaluation-growth.md) — related

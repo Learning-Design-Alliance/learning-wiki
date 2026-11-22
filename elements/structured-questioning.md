@@ -95,6 +95,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 **Reciprocal Questioning (ReQuest)** — King's guided reciprocal-peer-questioning procedure trains students to ask each other "how" and "why" questions using prompt cards, producing gains in comprehension and knowledge construction in college classrooms.
 
 **[Talk Science / Accountable Talk](https://inquiryproject.terc.edu)** — TERC's professional learning materials give teachers researched question stems and "talk moves" (revoicing, probing, pressing for reasoning) for orchestrating structured whole-class inquiry.
+- [Instructor-mediated questioning prompts that move students from time to energy, from energy to mass-normalized energy, and toward interpreting the fitted constant](../strategies/instructor-prompts-scaling-rescaling.md)
 
 ## Key Sources
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)

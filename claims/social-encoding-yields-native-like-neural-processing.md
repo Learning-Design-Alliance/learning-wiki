@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Words learned by viewing videos of social situations activated the right supramarginal gyrus during retrieval, similar to L1 processing, whereas translation-learned words activated the left frontal middle gyrus. [→ Ana Zappa 2025](#ana-zappa-2025)

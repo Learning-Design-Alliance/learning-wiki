@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Older adults found KOKU easy to use including those with lower digital literacy, with eCoach demonstrations enhancing confidence and motivation; some faced technical glitches and unclear exercise dosage that reduced motivation. [→ French Chloe 2026](#french-chloe-2026)
@@ -78,3 +78,4 @@ Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (1
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — related
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related
+- [Learners report that familiarity with the digital self motivates exploration but can also trigger social discomfort](digital-self-familiarity-motivation-discomfort.md) — related

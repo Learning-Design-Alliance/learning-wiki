@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: sehrish-basir-nizamani-2026
     resource: "https://doi.org/10.48550/arXiv.2610.01147"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` All three mediator constructs (collaborative experience, communication and cultural dynamics, logistical strategies) and all four outcome constructs were significantly above the neutral midpoint, with effect sizes r > .82 for mediators and r = .835-.872 for outcomes. [→ Sehrish Basir Nizamani 2026](#sehrish-basir-nizamani-2026)

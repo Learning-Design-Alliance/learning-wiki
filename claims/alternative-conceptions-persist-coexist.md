@@ -61,3 +61,4 @@ Theoretical argument in the article, attributed to prior behavioral and brain-im
 - [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — a narrower finding that bears on this claim
 - [Newtonian mechanics misconceptions persist despite extensive training in third-semester extended-programme students](newtonian-misconceptions-persistent-despite-training.md) — a narrower finding that bears on this claim
 - [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — possibly the same claim (merge candidate)
+- [Confronting Bell's theorem violations generated productive cognitive conflict rather than resistance to conceptual change](productive-cognitive-conflict-bell-theorem.md) — related

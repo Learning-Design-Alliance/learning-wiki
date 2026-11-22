@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: arun-govindankutty-2026
     resource: "https://doi.org/10.48550/arXiv.2607.16289"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` No implementation data yet exist for the QLP; its effectiveness requires systematic experimental evaluation before it can be fully assessed. [→ Arun Govindankutty 2026](#arun-govindankutty-2026)

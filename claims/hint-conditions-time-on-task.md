@@ -58,3 +58,4 @@ Time-on-task analysis of session times in the randomized experiment, using Krusk
 - [Both moderate and high adaptivity significantly increase total VR session time compared with a non-adaptive baseline in Neapolitan Pizza VR](adaptive-gen-ai-increases-session-duration-vr.md) — related
 - [Learners spent significantly more time on learning materials in EDBook than with equivalent webpage content plus ChatGPT](edbook-more-time-on-learning-materials.md) — related
 - [Deferred AI assistance increased time on task in Week 1 but not in Week 2](deferred-ai-assistance-time-on-task-week1.md) — related
+- [Students using the Redesigned Tutor spent more productive time-on-task than students using the Original Tutor, with comparable idle time](redesigned-tutor-productive-time-on-task.md) — related

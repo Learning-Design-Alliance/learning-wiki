@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: elakkiya-rajasekar-2026
     resource: "https://doi.org/10.48550/arXiv.2609.03770"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All five CLOs of CS F351 were reclassified as Replacement, Paraphrase or Level change between 2024-25 and 2025-26, with none Unchanged, so the reported attainment series compares quantities that do not refer to the same learning. [→ Elakkiya Rajasekar 2026](#elakkiya-rajasekar-2026)

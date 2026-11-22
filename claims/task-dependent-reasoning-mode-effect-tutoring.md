@@ -52,3 +52,4 @@ Results section (§3.2, Figure 3): comparison of NoThink vs. Think conditions ac
 - [Explicit thinking mechanisms degrade rubric-aligned conversation scoring but improve recommendation acceptability](thinking-degrades-scoring-improves-recommendations.md) — related
 - [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related
 - [EDUARDO-27B attains the highest MathTutorBench pedagogical reward-model score and win rate over human teachers on MathDial among all tested tutors, including frontier models, with fewer thinking tokens](eduardo-27b-highest-mathtutorbench-pedagogy-win-rate.md) — related
+- [LLM tutors can improve learning, but gains depend conditionally on pedagogical structure, engagement, comparison, and measurement horizon](conditional-yes-llm-tutors-improve-learning.md) — related

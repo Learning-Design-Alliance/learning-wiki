@@ -162,3 +162,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — related
 - [Refuting particular pseudoscientific claims helps students avoid misconceptions and fosters critical thinking](refuting-pseudoscience-claims-fosters-critical-thinking.md) — a narrower finding that bears on this claim
 - [FAA handbook lift explanations foster the misconceptions that lift always points upwards and that airfoil shape alone generates lift](faa-handbook-fosters-lift-misconceptions.md) — a narrower finding that bears on this claim
+- [Confronting Bell's theorem violations generated productive cognitive conflict rather than resistance to conceptual change](productive-cognitive-conflict-bell-theorem.md) — a narrower finding that bears on this claim

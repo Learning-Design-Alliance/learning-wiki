@@ -57,4 +57,4 @@ This strategy recasts adaptive instructional systems: instead of categorizing st
 -
 
 ## Key Sources
-- Adusumilli, S. J., Giri, D., Vaswani, P., Singh, P., Moncy, M., Pulavarthy, L. P., & Purkayastha, S. (2026). Preference vs. Performance: EEG-Based Classification of Learner Engagement in Multimodal Instruction. arXiv preprint. https://arxiv.org/abs/2610.05178
+- Adusumilli, S. J., Giri, D., Vaswani, P., Singh, P., Moncy, M., Pulavarthy, L. P., & Purkayastha, S. (2026). Preference vs. Performance: EEG-Based Classification of Learner Engagement in Multimodal Instruction. arXiv preprint. https://arxiv.org/abs/2610.05178. [doi:10.1109/icalt68022.2026.00126](https://doi.org/10.1109/icalt68022.2026.00126)

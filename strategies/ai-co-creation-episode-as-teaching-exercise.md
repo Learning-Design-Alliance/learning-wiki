@@ -53,4 +53,4 @@ The article proposes that an instructor could adapt a small, sanitized developme
 -
 
 ## Key Sources
-- Dogru, G., & Martín Mor, A. (2026). From Tool Use to Technological Agency: LoopCAT as a Local-First, Open-Source Tool for Translation Technology Education. https://arxiv.org/abs/2609.00344
+- Dogru, G., & Martín Mor, A. (2026). From Tool Use to Technological Agency: LoopCAT as a Local-First, Open-Source Tool for Translation Technology Education. https://arxiv.org/abs/2609.00344. [doi:10.48550/arxiv.2609.00344](https://doi.org/10.48550/arxiv.2609.00344)

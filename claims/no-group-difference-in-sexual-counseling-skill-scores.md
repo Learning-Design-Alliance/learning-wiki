@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: neslihan-yilmaz-sezer-2026
     resource: "https://doi.org/10.48550/arXiv.2609.06662"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant difference between the three groups in sexual counseling skill scores (one-way ANOVA F = 0.243, p = 0.785). [→ Neslihan Yilmaz Sezer 2026](#neslihan-yilmaz-sezer-2026)

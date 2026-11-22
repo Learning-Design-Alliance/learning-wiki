@@ -53,3 +53,4 @@ Sobel test of mediation in the PLS SEM of 290 students; the indirect effect of m
 - [Mindfulness, adaptability, and academic achievement are positively correlated (r = 0.594, 0.613, 0.557)](mindfulness-adaptability-achievement-correlations.md) — related
 - [Students' mindfulness positively and significantly affects their academic achievement (β = 0.59)](mindfulness-positively-affects-academic-achievement-sem.md) — related
 - [Students' mindfulness positively and significantly affects their adaptability (β = 0.65)](mindfulness-positively-affects-adaptability-sem.md) — a narrower finding that bears on this claim
+- [Perceived skill growth is associated with perceived academic gains indirectly through assignment-process adaptation, with a smaller statistically uncertain direct association](indirect-association-via-assignment-process-adaptation.md) — related

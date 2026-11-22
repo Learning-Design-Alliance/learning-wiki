@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
-> **Currency** · newest study 2022 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall voting participation was on par with previous face-to-face sessions for both asynchronous and synchronous lectures, and questions remained sparse. [→ Schwarz G 2022](#schwarz-g-2022)

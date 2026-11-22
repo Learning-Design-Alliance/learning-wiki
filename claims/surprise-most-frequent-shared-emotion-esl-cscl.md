@@ -55,3 +55,4 @@ FER output aligned across group members showed surprise was the most shared emot
 - [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related
 - [Students were surprised at how physics and dance came together and valued the plushies, collaboration, and final end product](student-feedback-physics-dance-connection.md) — related
 - [Qualitative observation: app users expressed more frequent and intense emotions during graph matching, while students in both conditions were highly collaborative and on task](app-use-more-intense-emotions-collaboration-both-groups.md) — related
+- [Confronting Bell's theorem violations generated productive cognitive conflict rather than resistance to conceptual change](productive-cognitive-conflict-bell-theorem.md) — related

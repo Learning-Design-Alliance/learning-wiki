@@ -39,4 +39,4 @@ Antonenko et al. (2010) describe the possibilities offered by "electroencephalog
 ## Key Sources
 - Tamara van Gog & Fred Paas & John Sweller. (2010). Cognitive Load Theory: Advances in Research on Worked Examples, Animations, and Cognitive Load Measurement. Educ Psychol Rev (2010) 22:375–378. https://doi.org/10.1007/s10648-010-9145-4
 - Thomaschewski M, Heldmann M, Uter J C, Varbelow D, Münte T F, Keck T. (2021). Changes in attentional resources during the acquisition of laparoscopic surgical skills. BJS Open. https://doi.org/10.1093/bjsopen/zraa012
-- Adusumilli, S. J., Giri, D., Vaswani, P., Singh, P., Moncy, M., Pulavarthy, L. P., & Purkayastha, S. (2026). Preference vs. Performance: EEG-Based Classification of Learner Engagement in Multimodal Instruction. arXiv preprint. https://arxiv.org/abs/2610.05178
+- Adusumilli, S. J., Giri, D., Vaswani, P., Singh, P., Moncy, M., Pulavarthy, L. P., & Purkayastha, S. (2026). Preference vs. Performance: EEG-Based Classification of Learner Engagement in Multimodal Instruction. arXiv preprint. https://arxiv.org/abs/2610.05178. [doi:10.1109/icalt68022.2026.00126](https://doi.org/10.1109/icalt68022.2026.00126)

@@ -48,6 +48,7 @@ The article's discussion recommends that universities first avoid assuming lower
 - [Teach students to read AI critically and discuss the difference between fluency and thought](teach-critical-reading-of-ai-outputs.md)
 - [Six recommendations for educators addressing AI in Physics education](educator-recommendations-ai-physics-education.md)
 - [Design GenAI support in assessed laboratory courses with explicit boundaries, verification routines and assessment requirements that preserve epistemic responsibility](genai-lab-design-boundaries-verification.md)
+- [Provide practical GenAI guidance while designing assessment that makes student reasoning visible](practical-genai-guidance-and-visible-reasoning-strategy.md)
 
 ## Examples
 -

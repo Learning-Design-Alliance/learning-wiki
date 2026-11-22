@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 qualitative `r?`, 1 theoretical `r?` · `q2`
-> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Fluent bilingualism enhances metalinguistic awareness -->
 

@@ -51,3 +51,4 @@ One-sample t tests against chance in the eye-tracking study of ten organic chemi
 - [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
 - [The graph receives by far the most visual attention (~70–76%) for both groups, and no participant used the redundant numerical energy-difference display](graph-dominates-attention-redundant-number-ignored.md) — related
+- [The digital self's novelty draws learners' attention away from the historical learning content](novelty-attention-capture-digital-self.md) — related

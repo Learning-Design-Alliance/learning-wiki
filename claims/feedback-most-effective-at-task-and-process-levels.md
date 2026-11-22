@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q4` · `i2`–`i3`
-> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 Feedback directed at the task (how well the work meets the goal) and at the process (the strategies used to do the work) supports learning more than feedback directed at the person (praise or criticism of the self).
 

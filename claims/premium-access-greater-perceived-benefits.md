@@ -53,3 +53,4 @@ FDR-corrected Mann–Whitney U item comparisons in the N=118 survey, premium ver
 - [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Perceived benefits of FieldTripOrganizer were somewhat larger for teachers with intermediate/low ICT expertise than for advanced users](fieldtriporganizer-benefits-stronger-low-ict-expertise.md) — related
+- [Students perceive assessment has adapted to GenAI more often than they consider current assessment suitable for widespread GenAI use](assessment-adaptation-appropriateness-gap.md) — related

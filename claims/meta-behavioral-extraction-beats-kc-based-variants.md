@@ -57,3 +57,4 @@ Ablation on ASSISTments2009 across six architectures (DKT, DKVMN, AKT, SAINT, Re
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
 - [On the Fraction dataset, InitialD outperforms random sampling, uncertainty sampling and a normal adaptive test in cold-start response-pattern reconstruction](initiald-outperforms-strategies-fraction-cold-start.md) — related
 - [The quantization layer is important to SBRKT: removing it (dense variant) underperforms significantly, and auxiliary KCs from quantized variants transfer better](quantization-layer-ablation.md) — related
+- [Learner-state conditioning is often weak: inferred states can show limited sensitivity to student errors and drift over sustained tutoring](learner-state-conditioning-weak-sensitivity-drift.md) — related

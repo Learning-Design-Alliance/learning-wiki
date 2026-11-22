@@ -61,3 +61,4 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [Undergraduate lab courses did not adequately prepare most physics graduate students to use lab notebooks for research documentation](undergrad-lab-courses-inadequate-notebook-training.md) — related
 - [CDPA scores show statistically significant increases as students progress from introductory mechanics labs to advanced experimental laboratory courses](cdpa-scores-increase-across-curriculum-levels.md) — related
 - [A 2022 PHYS 359 cohort showed a significant CDPA jump from 2.5±2.0 to 4.5±1.0, attributed to small class size, more lab time, a self-paced Python curve-fitting module, and 20% of the grade on uncertainty skills](phys359-2022-cdpa-jump-design-factors.md) — related
+- [Students consistently evaluated the course positively, with laboratory work described as the moment when theoretical concepts became meaningful](lab-work-makes-concepts-meaningful.md) — related

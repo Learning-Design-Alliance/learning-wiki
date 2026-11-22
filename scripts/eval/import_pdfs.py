@@ -68,8 +68,9 @@ def main() -> None:
             continue
         print(f"  matched     {Path(p).name} -> {e['id']}  {e.get('title', '')[:70]}")
         if not args.dry_run:
-            fa.CACHE_DIR.mkdir(parents=True, exist_ok=True)
-            (fa.CACHE_DIR / f"{e['id']}.txt").write_text(text, encoding="utf-8")
+            dest = fa.CACHE_DIR / f"{e['id']}.txt"
+            dest.parent.mkdir(parents=True, exist_ok=True)   # old-style arXiv ids carry a "/"
+            dest.write_text(text, encoding="utf-8")
             imported.add(e["id"])
     if imported and FAILED.exists():
         rows = [l for l in FAILED.read_text(encoding="utf-8").splitlines() if l.strip()]

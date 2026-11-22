@@ -53,6 +53,7 @@ This strategy operationalizes the contextual-support construct the article ident
 - [Help GenAI users articulate their use as an efficiency-enhancing practice to reduce negative peer evaluations](articulate-genai-use-efficiency-practice.md)
 - [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 - [Design GenAI support in assessed laboratory courses with explicit boundaries, verification routines and assessment requirements that preserve epistemic responsibility](genai-lab-design-boundaries-verification.md)
+- [Provide practical GenAI guidance while designing assessment that makes student reasoning visible](practical-genai-guidance-and-visible-reasoning-strategy.md)
 
 ## Examples
 -

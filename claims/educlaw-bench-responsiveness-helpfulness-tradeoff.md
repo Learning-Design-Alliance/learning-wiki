@@ -48,3 +48,4 @@ Benchmark results on frontier tiers showing the inverse relationship between res
 - [LoRA RFT with a helpfulness-weighted composite reward can collapse an adapter's pedagogy mid-training while responsiveness stays intact](educlaw-bench-rft-helpfulness-collapse.md) — related
 - [Using the directness penalty Rdir as a GRPO reward is counterproductive: it lowers SE by 0.200 and raises leakage by 10 percentage points relative to omitting it](directness-penalty-harmful-as-grpo-reward.md) — related
 - [Increasing the reward weight λ raises predicted student correctness while generally lowering rubric score, with the tradeoff saturating between λ = 0.75 and 1.0](lambda-tradeoff-student-outcome-versus-pedagogy.md) — related
+- [Optimizing immediate task success trades off against pedagogical support: pushing solve rate raises answer leakage](solve-rate-pedagogy-tradeoff-answer-leakage.md) — related

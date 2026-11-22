@@ -58,4 +58,4 @@ The authors recommend that "AI teammates should be configured not only to contri
 -
 
 ## Key Sources
-- Nixon, N., Samadi, M. A., Choi, J., Park, S., De Bastos, P. M., & JaQuay, S. (2026). The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making. arXiv preprint. https://arxiv.org/abs/2607.27179
+- Nixon, N., Samadi, M. A., Choi, J., Park, S., De Bastos, P. M., & JaQuay, S. (2026). The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making. arXiv preprint. https://arxiv.org/abs/2607.27179. [doi:10.48550/arxiv.2607.27179](https://doi.org/10.48550/arxiv.2607.27179)

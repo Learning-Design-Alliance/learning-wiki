@@ -56,3 +56,4 @@ Growth mixture modeling of 612 students across four time points (Grades 7–9) c
 - [Class membership is statistically significantly related to external measures of math Fluency and Interest in Math](class-membership-external-validity-fluency-interest.md) — related
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related
+- [University students report heterogeneous retrospectively perceived GenAI skill-development trajectories, with rapid-early-improvement-then-plateau the most frequent pattern](heterogeneous-perceived-genai-skill-trajectories.md) — related

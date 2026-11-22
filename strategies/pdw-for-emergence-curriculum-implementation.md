@@ -46,6 +46,7 @@ The article recommends Professional Development Workshops as the vehicle for tra
 
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
+- [Teacher professional development as the vehicle for transferring an advanced quantum curriculum into regular school practice](teacher-pd-transfer-quantum-curriculum.md)
 
 ## Examples
 -

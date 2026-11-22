@@ -76,3 +76,4 @@ Same qualitative theme, instructor sub-theme. Students valued structured pre-sim
 - [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related
 - [Undergraduate health students initially experience discomfort in multiprofessional IPE teams, which diminishes over the integrated internship experience](ipe-initial-discomfort-diminishes-over-integration-module.md) — related
 - [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](mannequin-low-fidelity-participant-feedback-lma.md) — related
+- [Learners report that familiarity with the digital self motivates exploration but can also trigger social discomfort](digital-self-familiarity-motivation-discomfort.md) — related

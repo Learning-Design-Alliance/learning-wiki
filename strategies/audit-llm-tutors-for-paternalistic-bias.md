@@ -45,6 +45,7 @@ The authors recommend that "Educational deployments require urgent auditing, as 
 - [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 - [Broaden meaningful participation in AIEd system design to equitably serve diverse populations](broaden-participation-aied-design.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Govern adaptive learning systems through longitudinal auditing rather than deployment-time static fairness checks](longitudinal-auditing-governance-adaptive-systems.md)
 
 ## Examples
 -

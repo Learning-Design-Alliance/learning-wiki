@@ -48,3 +48,4 @@ Grade-rescaling analysis demonstrated on GPT-4 (Fig. 16): rescaled grades follow
 ## Related Claims
 - [Homework effort correlates with test achievement as a stable linear 'academic main sequence' in introductory physics, at least until about 2016](academic-main-sequence-homework-effort-predicts-test-achievement.md) — related
 - [Best-fit slope and intercept of the academic main sequence are inversely correlated, so the sequence is effectively characterized by a single degree of freedom](slope-intercept-inverse-correlation-main-sequence.md) — related
+- [In classroom implementation, students sometimes express surprise when rescaling collapses data onto a common relation, and differ in when they question what the fitted constant characterizes; no systematic assessment was conducted](informal-observations-student-surprise-rescaling.md) — related

@@ -36,4 +36,4 @@ A hybrid discourse-classification system developed and validated by the authors 
 ## Key Sources
 - Morris, C., & Maes, P. (2026). When Peers Outperform AI (and When They Don't): Interaction Quality Over Modality. https://arxiv.org/abs/2601.11777. [doi:10.22318/cscl2026.989526](https://doi.org/10.22318/cscl2026.989526)
 - Kirk Vanacore and René F. Kizilcec. (2025). How well do Large Language Models Recognize Instructional Moves? Establishing Baselines for Foundation Models in Educational Discourse. https://arxiv.org/abs/2512.19903
-- Ahtisham, B.; Vanacore, K.; Zhou, Z.; Lee, J.; Kizilcec, R. F. (2026). LLM Reasoning Predicts When Models Are Right: Evidence from Coding Classroom Discourse. https://arxiv.org/abs/2602.09832
+- Ahtisham, B.; Vanacore, K.; Zhou, Z.; Lee, J.; Kizilcec, R. F. (2026). LLM Reasoning Predicts When Models Are Right: Evidence from Coding Classroom Discourse. https://arxiv.org/abs/2602.09832. [doi:10.48550/arxiv.2602.09832](https://doi.org/10.48550/arxiv.2602.09832)

@@ -52,3 +52,4 @@ Numerical result shown in Supplemental Material Fig. 4: hidden variables that se
 - [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](qrc-simulation-violates-bell-99-percent-800-pairs.md) — related
 - [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](classical-indeterminism-model-fails-anticorrelation.md)
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](qrc-deployment-terminated-online-debates.md) — related
+- [Secondary-school students performed an authentic Bell test in a school laboratory, measuring a CHSH parameter of 2.32±0.05 that violated the classical limit of 2 by 6.4 standard deviations](school-bell-test-chsh-violation.md) — related

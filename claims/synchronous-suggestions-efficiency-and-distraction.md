@@ -85,3 +85,4 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related
 - [Digital reading introduces disorientation and cognitive overload that can hinder comprehension relative to paper reading](digital-reading-disorientation-cognitive-overload.md) — related
+- [Learners report that familiarity with the digital self motivates exploration but can also trigger social discomfort](digital-self-familiarity-motivation-discomfort.md) — related

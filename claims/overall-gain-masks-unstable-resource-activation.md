@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: tianlong-zu-2026
     resource: "https://doi.org/10.48550/arXiv.2608.00798"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite significant overall performance improvement on DIRECT, transition matrix analysis indicated students do not typically have solid understanding of the concept of power of direct current circuits. [→ Tianlong Zu 2026](#tianlong-zu-2026)

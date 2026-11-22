@@ -47,6 +47,7 @@ The article recommends testing and validating new student-modelling approaches t
 - [Develop complex simulations incrementally, testing each stage before adding the next feature](incremental-llm-simulation-development.md)
 - [Initialize BKT parameters from simulated student data when no human data is available](initialize-bkt-parameters-from-simulated-data.md)
 - [Validate simulated learner behavior against authentic student responses through longitudinal school deployment](longitudinal-deployment-validation-strategy.md)
+- [Validate the interfaces between tutoring stages, not only the individual components](validate-tutoring-loop-interfaces-strategy.md)
 
 ## Examples
 -

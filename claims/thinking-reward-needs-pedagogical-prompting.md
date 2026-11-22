@@ -76,3 +76,5 @@ Ablation comparison between the pedagogical prompting condition with and without
 - [RL-trained tutors discover pedagogical moves not named in the reward: push-for-justification more than doubles while support fading is trained out](rl-discovery-push-for-justification-doubles-support-fading-trained-out.md) — related
 - [EDUARDO-27B is the strongest TutorMoments tutor under a plain prompt, but frontier models overtake it when given the evaluation-aware rubric prompt](eduardo-strongest-plain-prompt-frontier-overtake-with-rubric.md) — related
 - [Leakage is held, not reduced, for the Qwen3.5/3.8 family, and reduced substantially only for Qwen3-14B](leakage-held-not-reduced-qwen-family-eduardo.md) — related
+- [LLM tutors can improve learning, but gains depend conditionally on pedagogical structure, engagement, comparison, and measurement horizon](conditional-yes-llm-tutors-improve-learning.md) — related
+- [Optimizing immediate task success trades off against pedagogical support: pushing solve rate raises answer leakage](solve-rate-pedagogy-tradeoff-answer-leakage.md) — related

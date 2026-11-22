@@ -52,3 +52,4 @@ Post-hoc ANOVA using condition (control, redesigned) and item type (forward, bac
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related
 - [GPP training leads to significantly more backward reasoning attempts on posttest problems](gpp-increases-backward-attempts.md) — related
+- [The Redesigned Tutor made practice more difficult and reallocated practice opportunities toward newly split KCs](redesigned-tutor-practice-reallocation-hard-kcs.md) — a broader claim this one bears on

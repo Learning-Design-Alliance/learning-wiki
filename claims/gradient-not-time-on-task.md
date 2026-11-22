@@ -47,3 +47,4 @@ Sensitivity analysis in the RCT re-estimating between-condition differences whil
 ## Related Claims
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related
 - [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](ai-practice-less-effortful-fewer-keystrokes.md) — related
+- [Students using the Redesigned Tutor spent more productive time-on-task than students using the Original Tutor, with comparable idle time](redesigned-tutor-productive-time-on-task.md) — related

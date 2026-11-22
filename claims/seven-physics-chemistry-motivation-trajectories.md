@@ -78,3 +78,4 @@ Latent growth curve analysis preceded the mixture models; curvilinear models fit
 - [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](asc-declines-over-1-5-years-mid-adolescence.md) — related
 - [Connection to personal interests shaped a participant's engagement with STEM course content in both negative and positive directions](personal-interest-relevance-engagement-autism.md) — related
 - [Although the women developed initial interest in physics in diverse ways, they followed a similar trajectory of declining self-efficacy while their coping strategies differed](shared-declining-trajectory-varied-coping.md) — reports the opposite
+- [University students report heterogeneous retrospectively perceived GenAI skill-development trajectories, with rapid-early-improvement-then-plateau the most frequent pattern](heterogeneous-perceived-genai-skill-trajectories.md) — related

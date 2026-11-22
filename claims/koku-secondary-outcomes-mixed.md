@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i0`–`i2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants receiving KOKU had improved (lower) 5-STS time at 12 weeks (mean difference −6.85; 95% CI −10.47, −3.24) and less concern about falling (Short FES-I mean difference −3.11 at 12 weeks) than controls. [→ French Chloe 2026](#french-chloe-2026)

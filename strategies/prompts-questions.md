@@ -66,6 +66,7 @@ Guiding questions work because they induce [self-explanation](../claims/self-exp
 - [Case Studies](../elements/case-studies.md) — cases supply the authentic material that discussion prompts interrogate
 - [Analogies](../elements/analogies.md) — "how is this like X?" prompts use analogy as a question type
 - [Edit ambiguous student questions into clear, directive prompts before posing them to ChatGPT](edit-ambiguous-student-questions-into-directive-prompts.md)
+- [Instructor-mediated questioning prompts that move students from time to energy, from energy to mass-normalized energy, and toward interpreting the fitted constant](instructor-prompts-scaling-rescaling.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students take turns leading small-group discussion using four prompt types (predict, question, clarify, summarize), with teacher modeling fading over ~20 sessions.

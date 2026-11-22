@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`
-> **Currency** · newest study 2017 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Chan et al. (2006), that short-answer retrieval practice on educational texts enhanced later performance on both tested and nontested material relative to no retrieval practice. [→ Karpicke 2017](#karpicke-2017)

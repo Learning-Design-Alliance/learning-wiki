@@ -43,6 +43,7 @@ The review recommends that research on AI design factors focus on fostering appr
 ## Related Strategies
 
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
+- [Calibrate identity salience to instructional goals rather than maximizing self-similarity](calibrate-identity-salience-strategy.md)
 
 ## Examples
 -

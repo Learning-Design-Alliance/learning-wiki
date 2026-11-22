@@ -59,3 +59,4 @@ Simulation of the engagement-only (EO) condition in the SmartTutor testbed acros
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — a broader claim this one bears on
 - [Simulated three-stage learning process yields stable cumulative mastery gains across successive stages](three-stage-simulation-mastery-progression.md) — related
 - [A learning-gain reward alone does not separate teaching from telling: a policy trained without the binary gates hands over the solution in 61% of dialogs at the same simulated gain](learning-gain-reward-alone-does-not-separate-teaching-from-telling.md) — related
+- [Optimizing immediate task success trades off against pedagogical support: pushing solve rate raises answer leakage](solve-rate-pedagogy-tradeoff-answer-leakage.md) — related
