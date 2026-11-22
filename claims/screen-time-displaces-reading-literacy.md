@@ -52,3 +52,4 @@ Descriptive time-use comparison from the CheckPoint self-report data (n = 1270) 
 - [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related
 - [Videogame use showed no association with reading or numeracy performance in late childhood](videogame-use-no-reading-numeracy-association.md) — related
 - [Self-reported 24-h movement guideline compliance is associated with differences in both literacy and numeracy achievement in Australian children](self-report-guideline-compliance-academic-achievement-ancova.md) — related
+- [Screen time and television viewing are associated with poorer cognition and academic achievement in children, whereas sedentary behaviors such as reading and drawing may improve them](screen-time-versus-reading-sedentary-cognition.md) — a broader claim this one bears on

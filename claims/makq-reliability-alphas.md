@@ -91,3 +91,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [ISQ subscales show high teacher-level reliability at each of three measurement occasions](isq-high-teacher-level-reliability.md) — related
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
+- [The C-SCCS shows high internal consistency (Cronbach's alpha .93, .92, .89) and split-half reliability of .84](c-sccs-internal-consistency-alphas-split-half.md) — related

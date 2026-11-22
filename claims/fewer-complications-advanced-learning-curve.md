@@ -48,3 +48,4 @@ Random-effects meta-analysis of complications (Clavien-Dindo classification) acr
 - [Advanced learning curve surgeons achieve lower positive surgical margin rates in radical prostatectomy than initial learning curve surgeons](advanced-learning-curve-lower-psm-rates.md) — related
 - [Overall complication rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-complications-no-experience-difference.md) — related
 - [Risk-adjusted learning-curve analysis showed a significant downward trend in predicted POPF risk and operative duration with increasing center experience, an upward trend in blood loss, and stable major complications](learnbot-learning-curve-popf-trend.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

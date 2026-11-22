@@ -54,6 +54,7 @@ The article distills trainee feedback into concrete platform upgrades. Students 
 - [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
 - [Design VR sales simulations with supportive context, greater realism, minimized technical disruptions, and balanced cognitive load](cave-sales-simulation-lessons-learned.md)
 - [Iterate VR procedural simulators using participant-requested improvements: more realistic ultrasound, movable display, template grid overlay, interface refinements, and a start-of-session tutorial](vr-simulator-iteration-from-user-feedback-strategy.md)
+- [Add tactile/haptic feedback channels (vibration, force, thermal, vibrotactile pulsation cues) to simulation training, potentially integrated with existing AR/VR settings](haptic-feedback-simulation-strategy.md)
 
 ## Examples
 -

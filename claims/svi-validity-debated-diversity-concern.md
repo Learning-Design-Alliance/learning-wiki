@@ -48,3 +48,4 @@ The article attributes this critique to Buckley, Hoch, and Huang (2018); the pre
 ## Related Claims
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
 - [A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China](delphi-emergency-residency-indicator-system-5-14-34.md) — related
+- [Standardized Video Interview scores did not significantly correlate with faculty ratings of professionalism, faculty ratings of patient care/communication, or patient CAT ratings in emergency medicine applicants](svi-scores-no-correlation-faculty-patient-ratings.md) — related

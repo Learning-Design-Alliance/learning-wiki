@@ -54,6 +54,7 @@ The article recommends that medical schools adopt AI-driven assessment through a
 - [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
 - [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 - [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
+- [Stage ECEC physical activity policy implementation beginning with strategies rated easy and highly influential](staged-implementation-easy-influential-strategies.md)
 
 ## Examples
 -

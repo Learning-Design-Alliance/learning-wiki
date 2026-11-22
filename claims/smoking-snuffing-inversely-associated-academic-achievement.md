@@ -58,3 +58,4 @@ Cross-sectional logistic regression of smoking and snuffing (occasional or daily
 - [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — related
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
 - [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](alcohol-smoking-competency-radiology-residents.md) — related
+- [Exceeding single-occasion alcohol consumption risk and current smoking are each associated with lower GPA among university students](alcohol-smoking-lower-gpa-university-students.md) — related

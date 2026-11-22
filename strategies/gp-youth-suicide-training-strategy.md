@@ -51,6 +51,7 @@ GPs proposed small, face-to-face group training in practice during clinical meet
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Adopt a hybrid ECTV delivery model mixing face-to-face and remote modalities across training](hybrid-ectv-delivery-model-strategy.md)
 - [Deliver CAI in small class sections as a supplement using tutorials, simulations, computation, and drill-and-practice](small-sections-cai-supplement-model-statistics.md)
+- [Train point-of-care diagnostic users in small groups with hands-on practice and visual and video content](small-group-hands-on-video-training-strategy.md)
 
 ## Examples
 -

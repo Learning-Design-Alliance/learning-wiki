@@ -51,3 +51,6 @@ Adjusted fixed effects regression results for the linked cohort. Housing crowded
 - [Moderate or worse hearing impairment is associated with lower Year 3 Writing and Numeracy scores in remote-living Aboriginal children](moderate-worse-hi-lower-writing-numeracy.md) — related
 - [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](naplan-lbote-inequity.md) — related
 - [NAPLAN implementation is associated with an uptrend in reading and numeracy scores among Australian primary school students](naplan-primary-reading-numeracy-uptrend.md) — related
+- [LBOTE children were disadvantaged demographically: lower family income, lower birthweight, and younger at Grade 3 NAPLAN testing](lbote-demographic-disadvantages.md) — related
+- [LBOTE children outperform ELB children on Grade 3 writing and spelling and Grade 5 spelling NAPLAN tests, and match them on the remaining assessments](lbote-outperform-elb-naplan-writing-spelling.md) — related
+- [NAPLAN non-completers came from families with lower maternal education and income, with a greater education difference among LBOTE children at Grade 5](naplan-noncompleters-lower-education-income.md) — related

@@ -43,6 +43,7 @@ The article demonstrates implementing a preparatory curriculum by systematically
 ## Related Strategies
 
 - [Before implementing evidence-based teaching, compile students' initial knowledge, define measurable goals, and design aligned instruction and assessment by working through six guiding questions](six-questions-evidence-based-teaching-design.md)
+- [Design simulation curricula through experiential learning theory, starting from a medical problem and defining measurable learning outcomes](experiential-learning-sbt-curriculum-design.md)
 
 ## Examples
 -

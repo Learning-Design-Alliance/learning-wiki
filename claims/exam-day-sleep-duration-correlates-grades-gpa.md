@@ -60,3 +60,4 @@ Pearson correlation analysis (Table 2) in the same cross-sectional survey found 
 - [Nocturnal checking was not independently associated with sleep quality or examination performance once pre-sleep duration was included](nocturnal-checking-no-independent-association.md) — related
 - [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — reports the opposite
 - [During exam periods, most Palestinian medical students sleep less than 7 hours per day and few exercise](exam-period-short-sleep-low-exercise-prevalence.md) — related
+- [University students with poor sleep quality obtain lower academic scores than students with good sleep quality](poor-sleep-quality-lower-academic-scores.md) — related

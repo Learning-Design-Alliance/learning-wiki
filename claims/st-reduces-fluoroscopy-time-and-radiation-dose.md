@@ -68,3 +68,4 @@ DAP at the final angiography test did not differ significantly between groups (p
 - [Baseline characteristics did not differ between the simulation and conventional training groups in this retrospective cohort](st-ct-baseline-groups-balanced.md) — related
 - [Simulation and conventional training groups did not differ in procedural duration, fluoroscopy time, or radiation dose](no-difference-procedure-time-fluoroscopy-radiation.md) — reports the opposite
 - [VR simulator performance of interventional radiologists improved significantly from pretest to posttest on all outcome measures in both test cases, except contrast volume in case 1](vr-simulator-performance-improves-after-thrombectomy-training.md) — related
+- [Dose measures and procedure time correlated negatively with the number of patients treated (accumulating operator experience)](pae-dose-negative-correlation-experience.md) — related

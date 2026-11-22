@@ -50,3 +50,4 @@ LMM on confidence for correct recency test trials only (21% unsure, 34% fairly s
 - [Crossing a spatial boundary shows no significant effect on temporal order memory accuracy, and no significant mission-by-spatial interaction, in the VR salesperson task](spatial-boundary-null-effect-vr-accuracy.md) — reports the opposite
 - [Crossing a conceptual (mission) boundary significantly impairs the accuracy of temporal order memory in an interactive VR episodic memory task](mission-boundary-crossing-impairs-vr-sequence-memory-accuracy.md) — related
 - [Diagnostic accuracy rises systematically with students' case-level confidence, from 23.8% for 'Very unsure' to 74.7% for 'Sure'](diagnostic-accuracy-increases-with-confidence-level.md) — related
+- [States of high arousal impair implicit acquisition of the spatial and sequential context of an event](high-arousal-impairs-implicit-context-acquisition.md) — related

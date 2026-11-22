@@ -80,3 +80,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Chances of achieving the highest academic level rose by 165% in mathematics and 484% in Slovak language for fit normal-weight boys versus unfit boys with obesity](chance-increase-165-484-percent-fit-normal-boys.md) — related
 - [Fit, normal-weight boys have significantly higher odds of top academic achievement than unfit boys with obesity](fit-normal-boys-higher-odds-than-unfit-obese-boys.md) — related
 - [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
+- [Higher physical activity and fitness are linked to better cognition and academic achievement in children in some but not all studies, with possibly stronger effects in children with ADHD, low fitness, or overweight](physical-activity-cognition-children-mixed.md) — related

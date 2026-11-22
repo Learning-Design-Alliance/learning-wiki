@@ -53,3 +53,5 @@ Sample characteristics from this cross-sectional survey show poor sleep quality 
 - [Academic stress significantly predicts depressive symptoms, explaining 34% of variance, among health professions students during COVID-19 virtual learning](academic-stress-predicts-depressive-symptoms-covid.md) — related
 - [Sleep disturbances partially mediate the relationship between academic stress and depressive symptoms](sleep-disturbances-partial-mediation-stress-depression.md) — related
 - [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related
+- [Stress, negative mood, somatization, anxiety, depression, sleep impairment, and caffeine consumption rose from baseline to pre-exam during exam preparation in a pre-post comparison of the total sample](exam-preparation-increases-distress-measures.md) — related
+- [Moderate-to-severe stress and depression are highly prevalent among the sampled medical students](high-stress-depression-prevalence-ksu-medical-students.md) — related

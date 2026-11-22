@@ -51,3 +51,4 @@ Secondary endpoint from the same retrospective comparative case series; Table 3 
 - [Postoperative best-corrected visual acuity does not differ significantly between surgeries performed on the 3D heads-up display and the traditional microscope.](3d-hud-no-bcva-difference.md) — related
 - [92% of post-training resident phacoemulsification surgeries achieved day one post-operative best corrected visual acuity of 20/60 or better](distance-wet-lab-post-training-bcva-who-criterion.md) — related
 - [No significant difference in patient visual outcomes between simulation-trained and control trainee surgeons](simulation-training-no-difference-visual-outcomes.md) — related
+- Surgeons report using preoperative, intraoperative and postoperative risk-reduction strategies for only eye surgery, including optimal instrument sets, mental visualisation, experienced second surgeons, and closer follow-up — related

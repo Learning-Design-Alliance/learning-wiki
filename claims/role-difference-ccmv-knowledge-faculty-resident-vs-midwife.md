@@ -49,3 +49,4 @@ ANOVA comparing baseline knowledge across provider roles among the 53 respondent
 - [Baseline cCMV knowledge did not differ significantly by years in practice among faculty physicians](no-knowledge-difference-by-years-in-practice.md) — related
 - [Obstetric providers show low baseline knowledge of congenital cytomegalovirus, answering just under 50% of knowledge items correctly](obstetric-provider-low-baseline-ccmv-knowledge.md) — related
 - [After the educational session, all responding providers reported intent for more antenatal cCMV counseling and testing, in a single-group pre-post study](postintervention-increased-counseling-testing-intent.md) — related
+- [Combined pre-eclampsia knowledge scores are higher among providers in hospitals than in primary health centres, for both midwives and physicians](hospital-providers-more-knowledgeable-than-phc.md) — related

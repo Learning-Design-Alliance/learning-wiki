@@ -50,3 +50,4 @@ Post-hoc grouping of the 333-student survey by self-reported avulsion knowledge 
 - [Students who self-assessed their dental injury knowledge as adequate answered the contaminated-tooth question correctly at a significantly higher rate (p = 0.006)](perceived-knowledge-adequacy-contamination-accuracy.md) — related
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — reports the opposite
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
+- [Across international surveys, avulsion-management knowledge scores are consistently lower than scores for other dental trauma](avulsion-scores-lower-than-other-trauma-internationally.md) — related

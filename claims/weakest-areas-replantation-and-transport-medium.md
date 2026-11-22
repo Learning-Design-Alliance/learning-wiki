@@ -51,3 +51,4 @@ Item-level analysis of responses to the 21 survey questions in the cross-section
 - [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related
 - [Nursing students rarely identify recommended transport media for an avulsed tooth, favoring cotton or tissue (25.3%) over milk (5.4%) or saliva (2%)](nursing-students-avulsed-tooth-storage-media-poor.md) — related
 - [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related
+- [Most dentists identified milk and saline as storage media, but half also chose saliva, which the IADT guidelines do not recommend](storage-media-saliva-misconception.md) — related

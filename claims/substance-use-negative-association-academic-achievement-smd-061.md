@@ -46,3 +46,4 @@ Random-effects meta-analysis (DerSimonian and Laird) of three studies reporting 
 
 ## Related Claims
 - [Alcohol consumption shows a small, non-statistically significant negative association with academic achievement among university students (SMD = -0.24)](alcohol-consumption-non-significant-association-academic-achievement.md) — related
+- [Pooled association between stress and academic performance in university students is small, negative, and non-significant (r = −0.18)](stress-ap-pooled-small-negative-university-students.md) — related

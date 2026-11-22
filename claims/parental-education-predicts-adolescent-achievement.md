@@ -60,3 +60,5 @@ SEM results section states "the father's educational level and work type appeare
 - [Intellectual ability, school achievement level, parental schooling, head circumference-for-age Z-score and sex are the most relevant predictors of 2009 SIMCE outcomes in Chilean students](simce-predictors-intellectual-ability-school-level-parental-schooling-head-circumference.md) — related
 - [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](non-repeat-rate-sociodemographic-associations.md) — related
 - [Mother's and father's education levels each significantly predict eighth-grade mathematics achievement in Taiwan](parent-education-predicts-math-achievement-taiwan.md) — related
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](ell-iep-education-achievement-associations.md) — related
+- [The divorce–GPA heterogeneity by parental education is driven by maternal education, with no significant paternal-education interactions](maternal-education-drives-divorce-gpa-heterogeneity.md) — related

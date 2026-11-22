@@ -50,3 +50,4 @@ Comparison of the 333-student survey grouped by self-assessed knowledge adequacy
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related
 - [Over a third of students experienced needle-stick injuries but only 20.2% followed correct post-injury protocols](needlestick-injuries-low-protocol-adherence.md) — related
 - [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
+- [Across international surveys, avulsion-management knowledge scores are consistently lower than scores for other dental trauma](avulsion-scores-lower-than-other-trauma-internationally.md) — related

@@ -99,3 +99,4 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related
 - [Resident-performed SILS cholecystectomy achieves operative times similar to resident-performed traditional LC (70.0 vs 66.0 minutes).](resident-sils-operative-time-similar-traditional-lc.md) — related
 - [Residents required equal or longer operative times than attending surgeons, significantly so for BCS with SLNB in the MSL and WGL techniques](resident-longer-operative-times-bcs.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

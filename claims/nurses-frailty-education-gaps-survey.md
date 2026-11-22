@@ -55,3 +55,4 @@ Self-designed six-item frailty educational information questionnaire (Cronbach's
 - [Recency of frailty-related literature reading shows a borderline association with total KAP and is associated with knowledge scores](frailty-reading-recency-knowledge.md) — related
 - [Only a minority of counselors knew the SCI-specific physical activity guidelines, and less than half of Dutch respondents selected the correct guidelines](sci-guideline-knowledge-low-counselors.md) — related
 - [Nurses familiar with national dengue guidelines scored higher on the C-Scale-I than those not familiar, supporting known-groups validity](c-scale-i-known-groups-guideline-familiarity.md) — related
+- [Only 4.2% of surveyed orthopedic nurses had participated in osteoporosis training after graduation and only 27.3% were aware of the national clinical guideline](low-guideline-awareness-osteoporosis-training-nurses.md) — related

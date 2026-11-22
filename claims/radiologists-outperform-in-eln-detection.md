@@ -49,3 +49,4 @@ Experiment comparing 7 radiologists, 9 CT radiographers and 22 psychology studen
 - [Experts shorten saccades selectively in video sections where enlarged lymph nodes are present](experts-shorten-saccades-when-elns-present.md) — related
 - [Radiologists and radiographers detect salient visceral abnormalities equally well, both outperforming naïve students](salient-abnormality-detection-experts-semiexperts.md) — reports the opposite
 - [For salient abnormalities, semi-experts and naïve participants increased fixations on relevant areas while experts did not, yet experts detected them best](experts-fewer-fixations-salient-abnormalities.md) — related
+- [Radiologists in training achieve substantially higher diagnostic accuracy than laypeople on both short-presentation (2s) and long-presentation (10s) radiograph trials](radiologists-in-training-outperform-laypeople-diagnostic-accuracy.md) — related

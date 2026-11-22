@@ -55,6 +55,7 @@ The article proposes integrating the 3D-printed simulator into virtual and mixed
 - [Refine tactile properties of 3D-printed simulators by adjusting photopolymer resin formulations](refine-tactile-properties-resin-formulation-adjustment.md)
 - [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
 - [Augment 3D tactile prints with audio, colored light, and heat cues for features such as stars and galaxy centers](multimodal-augmentations-audio-light-heat.md)
+- [Add tactile/haptic feedback channels (vibration, force, thermal, vibrotactile pulsation cues) to simulation training, potentially integrated with existing AR/VR settings](haptic-feedback-simulation-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article recommends that simulation trainers be explicit about what each trai
 - [Run the feedback session with teacher-led recommendations: clear introduction, explain the feedback dilemma, encourage open discussion, avoid the word 'feedback' for student roles, and end with a debrief](holistic-feedback-session-recommendations.md)
 - [After Action Review](after-action-review.md)
 - [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
+- [Use serious games, recorded-session review, live webinars, and video-assisted debriefing to develop non-technical skills in remote simulation-based education](elearning-nontechnical-skills-strategy.md)
 
 ## Examples
 -

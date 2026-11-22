@@ -53,3 +53,4 @@ Theoretical argument in Debate 1, applying Kolb's four-stage experiential learni
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
+- [Simulation-based medical education is an experiential-learning method that builds pediatric trainees' technical and non-technical skills through realistic, well-controlled scenarios with corrective feedback](sbme-experiential-learning-pediatrics.md) — related

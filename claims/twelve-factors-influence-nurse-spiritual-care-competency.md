@@ -64,3 +64,5 @@ Meta-analysis of influencing factors across the 16 included cross-sectional stud
 - [A 12-month spiritual care training protocol produces higher spiritual health and spiritual care competency scores in oncology nurses than routine nursing education alone](spiritual-care-training-raises-nurse-spiritual-health-competency.md) — related
 - [Nurses familiar with communication or spiritual care concepts, and those who see spiritual care as necessary or recovery-promoting, score higher on spiritual care competence, while age, experience and work unit show no significant differences](sccs-group-differences-descriptive-characteristics.md) — reports the opposite
 - [Most critical care nurses reported knowledge of spiritual care and viewed it as important, yet only 18.9% had received training and about half reported providing it](spiritual-care-training-gap-ccns.md) — related
+- [Gender, age and working years were not associated with nurses' spiritual care competency scores](gender-age-working-years-not-associated-c-sccs.md) — reports the opposite
+- Lower-income nurses scored higher than nurses earning RMB 5000 or more per month across all C-SCCS aspects — related

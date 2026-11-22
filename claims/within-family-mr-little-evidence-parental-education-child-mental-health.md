@@ -56,3 +56,5 @@ Within-family MR analysis of 40,879 Norwegian mother-father-child trios (MoBa), 
 - [Mothers' and fathers' education polygenic scores are unexpectedly negatively associated with maternal positive and literacy-focused parenting](parent-pgsedu-negative-parenting-association.md) — related
 - [Relatives connected through mothers are more strongly correlated on school performance than relatives connected through fathers](maternal-relatives-more-correlated-than-paternal.md) — related
 - [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
+- [Maternal and paternal educational attainment remain associated with child ADHD symptoms after accounting for shared genetic and family environmental factors](parental-education-adhd-phenotypic-effect.md) — reports the opposite
+- [Parental education explains only about 1% of the variance in child ADHD, depression, and academic problem outcomes](parental-education-small-variance-child-outcomes.md) — related

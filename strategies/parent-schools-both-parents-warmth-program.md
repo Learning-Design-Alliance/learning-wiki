@@ -47,6 +47,7 @@ The article recommends that "awareness-raising programs or parent schools should
 ## Related Strategies
 
 - [Support academic development of students with weaker inhibitory-control circuitry by strengthening parental warmth and supportive home environments](parental-warmth-support-for-weak-inhibitory-control.md)
+- [School-based health programs and physical education courses should inform parents and guardians about the risk of excess leisure screen time for academic performance](school-programs-inform-parents-screen-time-risk.md)
 
 ## Examples
 -

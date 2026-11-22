@@ -51,6 +51,7 @@ The authors recommend that future physical activity interventions targeting acad
 - [Create opportunities and environments promoting physical activity in students with low academic achievement to help reduce school dropout](pa-opportunities-for-low-achievers-strategy.md)
 - [Support adolescents to develop balanced screen habits and provide additional academic support for adolescents from families with low educational attainment](balanced-screen-habits-and-academic-support-strategy.md)
 - [Promote motor skills in disadvantaged contexts as a route to narrowing SES-achievement gaps](promote-motor-skills-disadvantaged-contexts-strategy.md)
+- [Design joint school–family work programs that make parents aware of their support for adolescent physical activity](joint-school-family-parental-support-programs.md)
 
 ## Examples
 -

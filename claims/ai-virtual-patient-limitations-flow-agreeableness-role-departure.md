@@ -89,3 +89,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [SPs feel well prepared for their first student teaching assignment but fear privacy invasion and inauthentic examination situations](sp-dre-assignment-privacy-authenticity-fears.md) — related
 - [LLM-simulated virtual students show highly aligned demographic-outcome correlations with real students (r > 0.7) in most demographic factors](llm-virtual-students-demographic-outcome-correlation.md) — related
 - [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](agent-role-experience-tradeoffs.md) — related
+- [Requiring users to type their own response before selecting from a restricted option set is intended to facilitate active practice of MI while mimicking conversation flow](typing-responses-active-mi-practice.md) — related

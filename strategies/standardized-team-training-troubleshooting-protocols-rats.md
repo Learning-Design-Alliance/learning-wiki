@@ -51,6 +51,7 @@ The article recommends that RATS programs go beyond console-surgeon training: "t
 - [Establish formalised two-consultant co-operation with strictly alternating operator and assistant roles to maintain complex-procedure skills in low-volume settings](dual-surgeon-alternating-roles-strategy.md)
 - [Match the implementation pathway to institutional ambition: proctor-guided broad training for hub centers versus small-team complexity escalation for technical stewardship](two-implementation-pathways-hub-versus-stewardship.md)
 - [Pair robot-system training with systematic team training including assistants and nurses when introducing robotic surgery](robotic-surgery-team-training-strategy.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Cluster randomised controlled trial of 24 nursing homes with 1304 residents with
 - [Bereaved family satisfaction with care (SWC-EOLD) did not differ between intervention and control homes](impetus-d-no-bereaved-family-satisfaction-difference.md) — related
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — a broader claim this one bears on
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
+- [A cluster RCT protocol will test whether IMPETUS-D reduces hospital transfers and deaths in hospital among residents with advanced dementia by 20% over 6 months](impetus-d-cluster-rct-protocol-20-percent-reduction.md) — related

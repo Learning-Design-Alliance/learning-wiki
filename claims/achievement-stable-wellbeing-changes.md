@@ -50,3 +50,4 @@ Autoregressive paths from the cross-lagged models in the SISU sample. Achievemen
 - [Higher subjective well-being at age 15 predicts higher academic achievement two years later among adolescent girls, but not boys](wellbeing-predicts-achievement-girls.md) — related
 - [School achievement is highly stable across primary school, with prior achievement the main predictor by grades 4 and 6](school-achievement-high-autoregressive-stability.md) — related
 - [Achievement rank-order stability is high across primary school, with written-language stability (β = 0.62–0.75) exceeding mathematics stability (β = 0.38–0.45)](high-achievement-stability-primary-school.md) — related
+- [Current and future GPA are highly stable across the college years (r = 0.758)](gpa-stability-current-future-correlation.md) — related

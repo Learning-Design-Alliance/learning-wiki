@@ -67,3 +67,4 @@ The same survey's maximum confidence levels (4 < me <5) were reported for "Refra
 ## Related Claims
 - [Training needs are concentrated in Applied Ocular Pharmacology, Prismatic Prescription, Special Needs Populations, Contactology in Special Cases, Low Vision and Clinical/Hospital Internship](training-needs-concentrated-six-areas.md) — related
 - [Portuguese optometrists' most frequently performed procedures are a reductive view of the internationally stipulated scope of practice](portuguese-optometrists-reductive-performed-competencies.md) — related
+- [Eritrean optometry technicians report especially low confidence in pediatric refraction and ocular emergency management](eritrea-ot-low-confidence-pediatric-emergency.md) — related

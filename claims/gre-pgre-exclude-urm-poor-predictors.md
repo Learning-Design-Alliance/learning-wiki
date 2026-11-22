@@ -73,3 +73,4 @@ Second-hand attribution: the paper cites Miller et al. 2019, Petersen et al. 201
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — related
 - [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related
+- [GRE score cutoffs used to triage doctoral applicants disproportionately excluded URM applicants, with triage rates for Black and Hispanic applicants roughly double to triple those of white male applicants](gre-cutoff-triage-disproportionately-excluded-urm-applicants.md) — a narrower finding that bears on this claim

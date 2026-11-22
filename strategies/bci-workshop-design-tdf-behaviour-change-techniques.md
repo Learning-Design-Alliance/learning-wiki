@@ -48,6 +48,7 @@ The workshops implemented GP delivery of an enhanced OA consultation through a t
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Design prescribing-safety interventions around behaviour-change techniques matched to the relevant TDF domains](bct-targeting-tdf-domains-prescribing.md)
+- [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
 
 ## Examples
 -

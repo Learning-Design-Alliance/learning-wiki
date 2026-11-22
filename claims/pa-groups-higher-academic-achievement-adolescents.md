@@ -53,3 +53,4 @@ Cross-sectional comparison of 150 adolescents (90 boys, 60 girls) grouped by lei
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Higher outdoor active play at age 8 years is favorably associated with executive function and academic achievement, whereas high indoor active play is unfavorably associated](outdoor-play-favorable-indoor-play-unfavorable.md) — related
 - [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related
+- [No statistically significant difference was found between total mean BMI scores and any physical activity domain of the studied undergraduates.](bmi-not-related-to-physical-activity-in-this-sample.md) — related

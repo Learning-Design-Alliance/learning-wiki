@@ -47,3 +47,4 @@ Adherence coding of core intervention components across the 36-case fidelity sam
 ## Related Claims
 - [Facilitators demonstrated breathing techniques in nearly all cases but only about half of participants were heard practising them back](breathing-technique-practice-back-half-of-participants.md) — related
 - [Trained respiratory healthcare professionals delivered the TANDEM cognitive behavioural intervention with acceptable therapeutic competency in 78% of assessed cases](tandem-facilitators-acceptable-therapeutic-competency.md) — related
+- [Engagement received the highest mean competency rating among both facilitator types, while Agenda Setting and Adherence received the lowest](mb-competency-item-engagement-highest.md) — related

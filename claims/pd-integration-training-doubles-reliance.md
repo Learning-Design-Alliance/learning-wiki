@@ -79,3 +79,4 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — a broader claim this one bears on
 - [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related
+- [Receiving additional training in physical activity support is associated with higher capability and motivation of direct support professionals to support physical activity in people with ID](pa-training-higher-capability-motivation-dsp.md) — related

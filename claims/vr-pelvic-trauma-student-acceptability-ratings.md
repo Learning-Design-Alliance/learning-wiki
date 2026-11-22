@@ -80,3 +80,4 @@ Descriptive questionnaire results in the same pilot; Table 2 prints Q3 means of 
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Students rate virtual patient cases as a rewarding learning experience that prepares them for real patients, but only partially experience authentic clinical decision-making](vp-design-evaluation-student-ratings.md) — related
 - [Italian paediatric residents show very high interest in SBMT and perceive benefits for decision-making, technical skills and non-technical skills](residents-high-interest-perceived-sbmt-benefits.md) — related
+- [All users who completed the virtual fire experience judged that their real-fire decision-making would have been very similar or identical](vr-fire-decisions-perceived-transfer.md) — related

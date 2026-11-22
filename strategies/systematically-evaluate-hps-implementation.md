@@ -48,7 +48,8 @@ The article recommends that the degree of implementation of health promotion pro
 - [Non-HPS students consumed more vegetables and fewer sugary drinks than HPS students](../claims/non-hps-students-healthier-diet.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Integrate health education and promotion of healthy lifestyles into middle school curricula and school policies](integrate-health-promotion-middle-school-curricula.md)
 
 ## Examples
 -

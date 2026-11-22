@@ -73,3 +73,4 @@ Comparison between Active-Q responders and non-responders within the student sur
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [Physical activity appears to partially offset the adverse association between poor sleep and GPA](pa-offsets-sleep-gpa-association.md) — related
+- [No statistically significant difference was found between total mean BMI scores and any physical activity domain of the studied undergraduates.](bmi-not-related-to-physical-activity-in-this-sample.md) — related

@@ -82,3 +82,4 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — a narrower finding that bears on this claim
 - [Each one-point increase in K6 psychological distress score is associated with a small but significant increase in incident risk of poor academic performance](k6-per-point-increase-academic-risk.md) — a narrower finding that bears on this claim
 - [Structured-interview admits had lower risk of psychological distress two months after enrollment, but cohorts showed similar stress, anxiety and depression by final year](structured-interview-psychological-distress-transient.md) — related
+- [Higher mindfulness predicts lower odds of stress and depression in multiple logistic regression](mindfulness-predicts-lower-odds-stress-depression.md) — related

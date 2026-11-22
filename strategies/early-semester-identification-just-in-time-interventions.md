@@ -51,6 +51,7 @@ The article recommends that universities use depressive symptom trajectory findi
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Monitor modifiable risk factors for poor academic performance during distance education and support students through university counselling services](monitor-modifiable-risk-factors-de-counselling-support.md)
 - [Institutional screening, prevention and gender-oriented mental health support for students in wartime universities](wartime-student-mental-health-screening-strategy.md)
+- [Provide timely mental health detection and comprehensive educational support for pupils with depression, addressing shared precursors rather than single risk factors](timely-detection-comprehensive-support-depressed-pupils.md)
 
 ## Examples
 -

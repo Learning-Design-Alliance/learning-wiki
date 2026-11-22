@@ -47,6 +47,7 @@ In its conclusions and future work, the article recommends several extensions of
 ## Related Strategies
 
 - [Future peer-grading systems should evaluate formative feedback at scale using LLMs and extend the taxonomy to grade-synthesis algorithms](future-peer-grading-llm-formative-evaluation.md)
+- [Adapt the CONSULT-BP bias-mitigation training model to other clinical domains where bias affects decisions](consult-bp-model-adaptability-strategy.md)
 
 ## Examples
 -

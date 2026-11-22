@@ -54,3 +54,4 @@ Cross-sectional survey of 220 full-time general-medicine students from four Pale
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — related
 - [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — related
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
+- [Not meeting fruit consumption recommendations is associated with lower GPA among Australian university students](not-meeting-fruit-recommendations-lower-gpa-university-students.md) — related

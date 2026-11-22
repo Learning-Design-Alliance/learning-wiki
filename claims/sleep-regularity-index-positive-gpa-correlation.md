@@ -72,3 +72,4 @@ Secondary correlation analysis in the same 30-day diary study found no significa
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
 - [Sleep duration is positively associated with GPA throughout college, with each GPA point associated with 27.4 additional minutes of sleep on average](positive-sleep-gpa-association-throughout-college.md) — related
 - [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — related
+- [Self-reported daytime wakefulness is positively correlated with both current and future GPA](self-reported-wakefulness-correlates-gpa.md) — related

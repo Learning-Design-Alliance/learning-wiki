@@ -75,3 +75,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Working memory factor relationships are similar across mathematical subdomains at age 9–10, with one exception: the verbal working memory link to operations is higher](wm-betas-similar-across-math-domains.md) — related
 - [The authors propose working memory and attention links as possible mechanisms between complex movement and academic achievement](complex-movement-academics-mechanism-proposal.md) — related
 - [Psychometric abilities relate to learning outcomes differently by tool: attention correlates with nominal scores in the text-only group and spatial short-term memory with spatial scores in the MR group](psychometric-abilities-correlate-differentially-by-tool.md) — related
+- [Antisaccade performance mediates the association between very preterm birth and inattention, intelligence, and academic performance](antisaccade-performance-mediates-vp-outcomes.md) — related

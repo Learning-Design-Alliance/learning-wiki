@@ -51,6 +51,7 @@ The article compiles strategies from the literature and its own findings for man
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 - [Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education](cross-stakeholder-ai-education-action-recommendations.md)
 - [Media plans for children should consider the type and timing of media exposure, with cumulative heavy television and computer use as a focus](media-plans-type-timing-exposure-strategy.md)
+- [School-based health programs and physical education courses should inform parents and guardians about the risk of excess leisure screen time for academic performance](school-programs-inform-parents-screen-time-risk.md)
 
 ## Examples
 -

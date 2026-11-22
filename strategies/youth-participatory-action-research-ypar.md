@@ -75,6 +75,7 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 - [Use example figures and published case exemplars to select participatory tools for each research step](pr-method-exemplar-matching-strategy.md)
 - [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 - [Use participatory action research with a commitment step to develop and sustain preceptor education programs](par-commitment-strategy-preceptor-education.md)
+- [Engage community stakeholders as equal partners to design, pilot, and deliver bias training](community-stakeholder-co-design-bias-training-strategy.md)
 
 ## Examples
 - **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.

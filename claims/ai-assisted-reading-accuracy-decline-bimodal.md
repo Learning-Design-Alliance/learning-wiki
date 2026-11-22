@@ -51,3 +51,4 @@ Unadjusted treatment-group comparison in the pilot experiment (Results section):
 - [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
+- [Prior evidence indicates active training strategies are more effective than passive ones for therapist training](active-training-more-effective-than-passive-therapist-training.md) — related

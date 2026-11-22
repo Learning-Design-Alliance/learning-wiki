@@ -51,3 +51,4 @@ Kruskal-Wallis H test of PRMQ scores across combined physical-activity and stres
 - [Physical activity moderates but does not eliminate the elevated academic risk of the high-risk profile](physical-activity-moderates-academic-risk-partially.md) — related
 - [Preclinical medical students report significantly higher perceived stress than clinical students](preclinical-students-higher-perceived-stress.md) — related
 - [Moderate and active physical activity are associated with lower salivary cortisol and higher serum serotonin in adolescents](pa-associated-lower-cortisol-higher-serotonin.md) — related
+- [Physically active students (38.8%) showed a significantly higher overall mean of academic performance than physically inactive students (61.2%) (F = 3.106, p = 0.027).](active-students-higher-gpa.md) — related

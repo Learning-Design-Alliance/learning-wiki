@@ -71,3 +71,4 @@ Methods/risk-of-bias section: two authors independently assessed five bias domai
 - [Standing desks are associated with higher academic engagement in primary-school classrooms](standing-desks-higher-academic-engagement.md) — related
 - [Musculoskeletal effects of active desks are mixed, with reduced neck discomfort in some studies and increased neck and shoulder discomfort in others](active-desks-mixed-musculoskeletal-effects.md) — related
 - [Participants rate in-class cycle desks as not intrusive or distracting and recommend incorporating activity into the classroom](cycle-desks-perceived-not-distracting-recommended.md) — related
+- [Short-term studies report sit-to-stand desks reduce sitting time without harming academic performance, with mixed evidence on engagement and attention](short-term-standing-desk-benefits-mixed-engagement-evidence.md) — related

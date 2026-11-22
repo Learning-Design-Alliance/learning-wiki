@@ -52,3 +52,4 @@ Pearson correlation analysis in the cross‐sectional survey of 502 ICU nurses; 
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — possibly the same claim (merge candidate)
 - [MSS knowledge, skills, and attitudes correlate positively with each other and with malnutrition interprofessional collaboration](mss-competency-correlations.md) — related
+- Nurses' osteoporosis knowledge and attitude scores are positively and significantly correlated, while correlations with years of practice are not significant — related

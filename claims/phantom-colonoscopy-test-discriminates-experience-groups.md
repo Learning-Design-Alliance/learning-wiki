@@ -70,3 +70,4 @@ Completion-rate analysis of the phantom-model test's two tasks. Case failures we
 - [A virtual-reality simulator test significantly discriminates between novice and experienced colonoscopists on an aggregated score](vr-colonoscopy-test-discriminates-experience-groups.md) — related
 - [Experienced endoscopists complete virtual simulator modules faster than novices, supporting construct validity](endonix-construct-validity-experienced-faster.md) — related
 - [Completion of optional support cases exceeded completion of incidental cases in all groups, varying by group (interaction p = 0.035)](support-versus-incidental-case-completion-interaction.md) — related
+- [Post-ERCP pancreatitis is more common with less experienced endoscopists and is associated with higher rates of difficult cannulation](ercp-pep-higher-with-less-experienced-endoscopists.md) — related

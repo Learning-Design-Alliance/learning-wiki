@@ -51,3 +51,4 @@ Descriptive trend across the three attempts in the mannequin study of 130 studen
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
 - [Male students show a trend toward more quiz attempts, and time spent per attempt decreases with each new attempt](males-trend-more-quiz-attempts.md) — related
 - [Time spent on successive assessment tasks decreased sharply within each peer assessment meeting](assessment-phase-time-decreased-across-meetings.md) — related
+- Successful intubation times did not differ significantly between DL, KVC and MG, and KVC and MG did not differ from each other in success or time — related

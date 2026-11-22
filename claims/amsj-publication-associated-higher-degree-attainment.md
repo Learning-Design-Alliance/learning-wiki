@@ -53,3 +53,4 @@ Matched-cohort univariate conditional logistic analysis of AMSJ authors versus c
 - [AMSJ authors were significantly more likely to enter surgical training, with no association for GP/emergency or physician training](amsj-publication-associated-surgical-training.md) — related
 - [No significant association was found between AMSJ publication and future faculty position attainment](amsj-publication-no-association-faculty-position.md) — related
 - [About one third of SPT graduates obtain PhD degrees after graduation](spt-graduate-phd-outcomes.md) — related
+- [NZMSJ student authors are significantly more likely to complete higher academic degrees, including PhDs, than matched controls](nzmsj-publication-associated-higher-degrees.md) — related

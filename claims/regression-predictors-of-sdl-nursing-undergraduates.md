@@ -52,3 +52,4 @@ Multiple linear regression on the 234-participant cross-sectional sample, incorp
 - [Multivariate linear regression identified 7 Labrador questionnaire items statistically related to technology addiction](multivariate-seven-items-related-tech-addiction.md) — related
 - [Mobile phone addiction is positively associated with internet addiction among university students in both Czech and Chinese samples](mobile-phone-addiction-positively-associated-internet-addiction.md) — related
 - [Smartphone addiction significantly predicts low perceived academic performance among Filipino high school students](sa-predicts-low-pap-filipino-high-school.md) — related
+- [Bedtime mobile phone use did not significantly predict attention or verbal memory](bmpu-null-cognitive-functioning.md) — related

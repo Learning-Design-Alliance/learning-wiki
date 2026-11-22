@@ -52,3 +52,4 @@ Regression result from the 2055-nurse cross-sectional survey; the master/doctor 
 - [Chinese nurses' mean infectious disease emergency response competence score is 141.75 (SD 20.09), a moderate to above-average level after COVID-19 restrictions were lifted](nurse-competence-mean-141-75-post-covid.md) — related
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — reports the opposite
 - [Genomic knowledge scores increase with level of academic preparation and differ by nursing role](genomic-knowledge-scores-education-gradient.md) — related
+- [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — related

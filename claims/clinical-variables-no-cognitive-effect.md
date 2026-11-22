@@ -52,3 +52,4 @@ Simple regression analysis of socioeconomic status and epilepsy-related clinical
 - [Higher SES is associated with higher parent-reported curiosity at kindergarten](higher-ses-associated-higher-kindergarten-curiosity.md) — reports the opposite
 - [General cognitive deficits account for the impaired arithmetic performance in children with idiopathic epilepsy with IEDs](cognitive-deficits-account-arithmetic-impairment.md) — related
 - [Only children with idiopathic epilepsy and IEDs show arithmetic impairment relative to healthy controls, while the group without IEDs does not differ from either group](ieds-arithmetic-impairment-specific.md) — related
+- [Socioeconomic status and hemoglobin levels show no significant association with academic achievement or cognitive function in this sample, for either sex](ses-hemoglobin-null-associations.md) — related

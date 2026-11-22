@@ -67,3 +67,4 @@ Same regression model; Table 4 shows a P for trend of 0.000 across study years 1
 ## Related Claims
 - [Male gender is a significant independent predictor of high burnout risk among medical students with lower GPA (≤8)](male-gender-predicts-burnout-lower-gpa.md) — related
 - [Insomnia and lack of exercise raise burnout risk while smoking is associated with lower burnout risk among radiology residents](lifestyle-factors-burnout-risk-radiology-residents.md) — related
+- [High burnout is more prevalent in later (clinical) academic years than in the second preclinical year](burnout-higher-in-clinical-years.md) — related

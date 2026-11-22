@@ -49,3 +49,4 @@ Survey item on storage conditions for an avulsed tooth; Table 2 shows no signifi
 - [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — related
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
 - [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related
+- [Most dentists identified milk and saline as storage media, but half also chose saliva, which the IADT guidelines do not recommend](storage-media-saliva-misconception.md) — related

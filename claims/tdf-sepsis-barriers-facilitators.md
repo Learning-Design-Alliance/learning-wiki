@@ -52,3 +52,4 @@ Deductive qualitative content analysis of four open-ended survey questions, code
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
 - [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related
 - [Both individual and organizational factors are perceived to influence competency enactment, with individual factors seen as easier to modify](ot-individual-organizational-factors-influence-competency.md) — related
+- Clinician barriers to insomnia recognition in family practice fall mainly on the Knowledge, Skills, and Environmental Context and Resources domains — related

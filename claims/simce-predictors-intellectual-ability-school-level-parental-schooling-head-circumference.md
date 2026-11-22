@@ -68,3 +68,4 @@ Stepwise multiple regression in the 2010 1HSG sample (n = 671); for mathematics 
 - [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — reports the opposite
 - [2009 SIMCE outcomes positively and significantly predict later 2013 SIMCE, 2013 PSU and 2017 PSU outcomes in Chilean students](simce-2009-predicts-later-simce-and-psu.md) — related
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](ell-iep-education-achievement-associations.md) — related

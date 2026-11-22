@@ -51,3 +51,4 @@ Multilevel multivariable logistic regression with a positive Mini-Z 2.0 burnout 
 - [Longer weekly duty hours are associated with lower odds of a positive burnout screen, an apparent reversal the authors attribute to statistical suppression](duty-hours-burnout-suppression-artifact.md) — related
 - [GM-ITE scores of Very Low-Volume hospital residents do not differ significantly from those of Moderate- or High-Volume hospital residents](very-low-volume-gmite-comparable-to-moderate-high.md) — related
 - [Residents at Very Low-Volume hospitals report weaker training guidance systems, clinical training support systems, and academic journal availability](very-low-volume-weaker-training-environment.md) — related
+- [Medical students with GPAs of 3.51–4.00 are considerably less prone to burnout than students with GPAs ≤2.0](high-gpa-less-prone-to-burnout.md) — related

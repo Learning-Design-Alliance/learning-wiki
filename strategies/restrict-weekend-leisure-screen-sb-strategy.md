@@ -43,7 +43,8 @@ The article's conclusion recommends that strategies to promote academic performa
 - [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](../claims/weekday-weekend-sb-interaction-academic-performance-girls.md) [+W]
 
 ## Related Strategies
-- 
+
+- [School-based health programs and physical education courses should inform parents and guardians about the risk of excess leisure screen time for academic performance](school-programs-inform-parents-screen-time-risk.md)
 
 ## Examples
 -

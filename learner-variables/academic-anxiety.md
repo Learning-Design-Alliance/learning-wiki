@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 344 claims (224 show a difference, 65 mixed, 55 no difference) · 217 studies (83 associational, 70 causal, 29 review, 10 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 53 of 217 report an effect size · 336 claims rest on one study
+> **Evidence** · 349 claims (228 show a difference, 65 mixed, 56 no difference) · 220 studies (83 associational, 73 causal, 29 review, 10 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 55 of 220 report an effect size · 341 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -380,6 +380,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Social media addiction and academic engagement serially mediate the social anxiety–academic performance link](../claims/serial-mediation-sma-engagement.md) [+W] — learners who differ on it differ in outcomes
 - [The authors conclude that state anxiety was correlated with worse academic performance, although the tabled correlation did not reach significance](../claims/state-anxiety-worse-academic-performance-conclusion.md) [-W] — learners who differ on it differ in outcomes
 - [Trait anxiety intensity of medical students is negatively correlated with academic performance, while the state anxiety correlation did not reach significance](../claims/trait-anxiety-negatively-correlated-academic-performance.md) [~W] — learners who differ on it differ in outcomes
+- [Auricular stimulation reduced state exam anxiety in medical students compared with expressive writing and no intervention before the exam](../claims/auricular-stimulation-reduces-exam-anxiety-medical-students.md) [+M] — measured as an outcome of the instruction studied
+- [Stress, negative mood, somatization, anxiety, depression, sleep impairment, and caffeine consumption rose from baseline to pre-exam during exam preparation in a pre-post comparison of the total sample](../claims/exam-preparation-increases-distress-measures.md) [+M] — measured as an outcome of the instruction studied
+- [Expressive writing did not reduce exam anxiety; state anxiety increased from baseline through exam day and was indistinguishable from the no-intervention condition](../claims/expressive-writing-no-anxiety-reduction-this-trial.md) [-M] — measured as an outcome of the instruction studied
+- [Improvements in self-management skills correlate with test-anxiety reduction, and change-motivation gains correlate with exam results](../claims/olp-gains-correlate-anxiety-exam.md) [+M] — measured as an outcome of the instruction studied
+- [Open-label placebos reduce test anxiety in university students more than a no-treatment control group over two weeks before an exam](../claims/olp-reduce-test-anxiety-rct.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -80,3 +80,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — a narrower finding that bears on this claim
 - [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related
 - [Interaction quality emerged from dynamic patterns rather than individual traits: pre-session personality measures showed no significant correlations with outcomes, and identical AI behavior produced divergent outcomes](interaction-quality-emergent-not-individual.md) — a narrower finding that bears on this claim
+- Higher degrees of trust at individual and group levels are associated with attitudinal and performance outcomes including quality of group decisions — related

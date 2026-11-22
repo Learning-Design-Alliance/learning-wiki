@@ -41,6 +41,7 @@ The review recommends incorporating quality control measures such as standardize
 - [Use risk-adjusted cumulative sum (RA-CUSUM) analysis to account for case-mix heterogeneity in learning curve assessment](ra-cusum-learning-curve-assessment.md)
 - [Incorporate objective structured scoring systems and progressive dashboards into self-directed curricula to support motivation and autonomy development](objective-scoring-dashboards-self-directed-curricula.md)
 - [Adopt cluster-randomised or stepped-wedge trial designs with blinded, video-based assessment and pre-defined process and patient endpoints in future NTS training research.](future-nts-research-design-recommendations.md)
+- [Two-step process for defining surgical expertise in future expertise-based trials: choose a learning-curve proxy, then assess surgeons against predefined criteria](two-step-surgical-expertise-criteria.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Narrative synthesis of the Adatara et al. cross-sectional study within the revie
 - [Senior physician-leaders (older age, longer oncology experience, longer leadership experience) consistently rate task management and leading others higher than less experienced leaders](senior-leaders-rate-task-management-leading-others-higher.md) — reports the opposite
 - [Older (65–74) healthcare faculty used most active learning techniques at the highest rates, contradicting assumptions about senior faculty resistance](older-faculty-high-active-learning-use.md) — reports the opposite
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
+- Group C, composed primarily of clinical nurses, performs all surveyed coordinator activities and acts as organizational leaders — related

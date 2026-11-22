@@ -72,3 +72,4 @@ In the PROCESS regression predicting decision acceptance (R2 = 0.57, F = 51.60, 
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
 - [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related
 - [LLM-generated feedback was rated as fairer, more useful and more acceptable when perceived as coming from a human source rather than from an LLM](llm-feedback-rated-higher-when-ascribed-human.md) — related
+- [Fair decision-making procedures, including consideration of member input and influence over decisions, are associated with increased trust and commitment to group decisions](procedural-fairness-group-trust-commitment.md) — related

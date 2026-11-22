@@ -74,3 +74,4 @@ The authors' interpretation of the non-significant time (P = 0.6) and image-coun
 - [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](experience-most-consistent-performance-predictor.md) — reports the opposite
 - [Three of five fluoroscopic views (PA, straight lateral, lateral facet) discriminate experience level on the simulator, while tangential and AP views do not](three-of-five-fluoroscopic-views-discriminate.md) — related
 - [Procedure time did not differ significantly between simulation and control groups](procedure-time-no-significant-difference.md) — related
+- [Dose measures and procedure time correlated negatively with the number of patients treated (accumulating operator experience)](pae-dose-negative-correlation-experience.md) — reports the opposite

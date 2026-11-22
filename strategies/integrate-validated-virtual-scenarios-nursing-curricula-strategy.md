@@ -56,6 +56,7 @@ The article recommends incorporating validated virtual simulation scenarios into
 - [Use clinical simulation scenarios in health institutions to develop and assess nurses' infusion-therapy clinical judgment](encourage-clinical-simulation-infusion-nurse-education.md)
 - [Include mental health content and clinical learning experiences in undergraduate children's nursing curricula, and use co-designed e-learning for continuing professional development](mental-health-content-nursing-curricula-elearning-cpd.md)
 - [Scenario-based simulation training before completing a standardized self-assessment instrument](scenario-based-simulation-before-self-assessment.md)
+- [Teach Universal Work Precautions courses across years of study with senior nurses enforcing precautions during clinicals](universal-work-precautions-courses-nursing-schools-strategy.md)
 
 ## Examples
 -

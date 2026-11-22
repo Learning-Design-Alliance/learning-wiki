@@ -49,3 +49,4 @@ Follow-up retesting one and two months after the four training sessions showed t
 - [Manual group participants reached levels similar to the hands-on group after receiving hands-on supervision](manual-group-catches-up-with-hands-on-supervision.md) — related
 - [Theory training alone significantly improved teaching skills but not to mastery](theory-training-improves-teaching-not-mastery.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
+- [The trial hypothesizes video-based supervision outperforms verbal-report supervision on therapist competencies, persisting to 3-month follow-up](video-feedback-supervision-hypothesis-vs-verbal-report.md) — related

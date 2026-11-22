@@ -50,6 +50,7 @@ This implementable recipe pairs onsite, case-based educational outreach sessions
 ## Related Strategies
 
 - [Adopt onsite LDHF/m-mentoring for health worker capacity building where feasible, keeping staff at service delivery points](onsite-ldhf-mentoring-capacity-building-strategy.md)
+- [Train health promoters to deliver oral health education to patients in clinic waiting areas](health-promoters-oral-health-education-strategy.md)
 
 ## Examples
 -

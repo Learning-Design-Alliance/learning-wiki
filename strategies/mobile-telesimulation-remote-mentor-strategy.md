@@ -49,6 +49,7 @@ The article recommends mobile telesimulation as a way to provide expert mentorsh
 ## Related Strategies
 
 - [Use video-based 'indirect' rating as a resource-sparing alternative to on-site expert rating of procedural skills](indirect-video-rating-procedural-skills-strategy.md)
+- [Use augmented reality systems with mixed reality capture and motion tracking to teach procedural skills remotely as if mentor and trainee were co-located](ar-mixed-reality-procedural-training-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ In biology, task conflict (B = 0.39) positively predicted achievement while rela
 - [More noncontent interactions (encouragement, listening to feedback, being polite) predict lower course achievement](noncontent-interactions-predict-lower-achievement.md) — related
 - [Greater student contribution to the group predicts higher course achievement in both courses](student-contribution-predicts-higher-achievement.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [Task conflict can be constructive for group decisions while relationship conflict is usually dysfunctional, and higher conflict levels are usually associated with lower trust](task-versus-relationship-conflict-group-trust.md) — a broader claim this one bears on

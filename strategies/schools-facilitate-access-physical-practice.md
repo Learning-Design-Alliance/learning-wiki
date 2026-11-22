@@ -45,6 +45,7 @@ The article's concluding recommendation is that institutions responsible for you
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
 - [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Design joint school–family work programs that make parents aware of their support for adolescent physical activity](joint-school-family-parental-support-programs.md)
 
 ## Examples
 -

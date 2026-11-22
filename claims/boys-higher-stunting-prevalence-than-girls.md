@@ -53,3 +53,4 @@ Descriptive analysis of stunting prevalence by sex across three measurement poin
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Growth faltered from birth to early childhood, improved until age 4, then stabilised through late childhood](growth-faltering-trajectory-birth-to-late-childhood.md) — related
 - [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related
+- [In this sample, 9.1% of children were stunted, 7.1–7.2% infected with STH, and 19.2% anemic](stunting-sth-anemia-prevalence-port-elizabeth.md) — related

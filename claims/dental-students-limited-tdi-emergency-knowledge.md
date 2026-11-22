@@ -50,3 +50,4 @@ Cross-sectional electronic questionnaire survey of 502 dental undergraduates and
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](dental-students-average-tadi-knowledge-avulsion-deficiency.md) — related
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
+- [Most Italian dentists incorrectly chose a rigid splint for stabilising a replanted tooth](rigid-splint-misconception-66-8-percent.md) — related

@@ -76,3 +76,4 @@ One cited study found independent longitudinal contributions of peer rejection a
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — related
 - [Observational associations between parental symptoms and children's maths and reading scores are small and negative](small-observational-parental-symptom-achievement-associations.md) — related
+- [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](social-school-factors-mediate-depression-attainment.md) — related

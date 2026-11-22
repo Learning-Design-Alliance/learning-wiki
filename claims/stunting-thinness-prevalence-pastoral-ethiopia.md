@@ -48,3 +48,4 @@ Descriptive anthropometric results from the cross-sectional survey of 395 grade-
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Undernutrition burden was high among the sampled urban primary school children, with wasting at 34.0%, underweight at 24.0%, stunting at 23.8% and overweight at 4.3%](malnutrition-prevalence-urban-primary-schools-northern-ethiopia.md) — related
 - [Boys had higher stunting prevalence than girls at birth, early childhood and late childhood](boys-higher-stunting-prevalence-than-girls.md) — related
+- [In this sample, 9.1% of children were stunted, 7.1–7.2% infected with STH, and 19.2% anemic](stunting-sth-anemia-prevalence-port-elizabeth.md) — related

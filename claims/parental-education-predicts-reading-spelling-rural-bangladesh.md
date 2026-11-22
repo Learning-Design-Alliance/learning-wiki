@@ -55,3 +55,4 @@ Fully adjusted multiple regression (Table 5) in the 372-child cohort; parental e
 - [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — reports the opposite
 - [Mother's and father's education levels each significantly predict eighth-grade mathematics achievement in Taiwan](parent-education-predicts-math-achievement-taiwan.md) — reports the opposite
 - [Parental educational level was strongly associated with children's school test scores in the adjusted models](parental-education-associated-with-test-scores.md) — related
+- [Mother's master-level education, self-reported exercise, television and computer use, hand strength, and Stroop performance predicted academic performance in adjusted models](lifestyle-parental-education-predict-academic-performance.md) — related

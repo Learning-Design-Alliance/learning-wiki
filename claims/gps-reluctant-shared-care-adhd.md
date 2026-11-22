@@ -52,3 +52,4 @@ Thematic narrative synthesis of GP treatment-role findings across the review's i
 - [GPs in gatekeeper settings typically express scepticism about ADHD, medicalisation of childhood behaviour, and concern about stigma](gp-scepticism-adhd-medicalisation-stigma.md) — related
 - [GP training alone does not improve care; training effects are more promising when combined with guideline implementation and collaborative care models](gp-training-alone-insufficient-combined-approach.md) — related
 - [GPs in gatekeeper settings under-recognise ADHD, with reported recognition rates under 1% in Australia and far lower recognition of ADHD than of mood disorders in Canada](gps-under-recognise-adhd-gatekeeper-settings.md) — related
+- [GPs' ADHD knowledge is insufficient for identification and pathway guidance, and misconceptions about ADHD persist in primary care](gp-adhd-knowledge-gaps-and-misconceptions.md) — related

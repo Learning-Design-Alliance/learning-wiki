@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 505 claims (266 for, 211 mixed, 28 against) · 382 studies (119 associational, 101 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 382 report an effect size · 496 claims rest on one study
+> **Evidence** · 506 claims (266 for, 212 mixed, 28 against) · 383 studies (120 associational, 101 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 38 of 383 report an effect size · 497 claims rest on one study
 
 ## Conditional relationship
 
@@ -349,6 +349,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Across three transitions, the outcome carrying a given number was nearest to a differently numbered earlier outcome in six of the ten non-identical statement pairs](../claims/outcome-numbering-misalignment.md) [+W] — attached 2026-11-22 from Elakkiya Rajasekar (2026), which proposed "Do not publish an attainment series across a delivery boundary until the outcome statements on either side have been compared automatically".
 - [Every outcome of a core course was substantively redefined between consecutive deliveries while attainment continued to be reported against unchanged outcome numbers](../claims/clo-redefinition-between-deliveries.md) [+W] — attached 2026-11-22 from Elakkiya Rajasekar (2026), which proposed "Do not publish an attainment series across a delivery boundary until the outcome statements on either side have been compared automatically".
 - [At follow-up on new (yet similar) FLS tasks, manual dexterity (assembly) alone predicts performance](../claims/assembly-dexterity-predicts-follow-up.md) [+W] — attached 2026-11-22 from Beattie Kirsty L. et al. (2022), which proposed "Predictors of laparoscopic performance change with task demands and trainee development, so multi-variable prediction models should match the training stage and task".
+- [Standardized Video Interview scores did not significantly correlate with faculty ratings of professionalism, faculty ratings of patient care/communication, or patient CAT ratings in emergency medicine applicants](../claims/svi-scores-no-correlation-faculty-patient-ratings.md) [~W] — attached 2026-11-22 from Hall Matthew M. et al. (2019), which proposed "Validate new competency assessment tools against existing measures before full implementation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -57,3 +57,4 @@ Survey item on main information source about radioactivity among the 131 respond
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related
 - [Internet, TV and school are the main reported sources of radioactivity knowledge, with school peaking in 3rd ESO and the master group](main-information-sources-internet-tv-school.md) — related
 - [Students rely mainly on informal sources for radiation information and show highly positive attitudes toward general-interest seminars](students-informal-sources-seminar-attitudes.md) — possibly the same claim (merge candidate)
+- [Nearly all nurses (97.8%) report interest in more education about SSI prevention, with guidelines (73.6%) and continuing education courses (51.6%) the main information sources](nurses-demand-ssi-education-sources.md) — related

@@ -53,3 +53,4 @@ Secondary analysis linking neuropsychological impairment status (WM, STM, and/or
 - [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related
 - [Boys born preterm show more inattention symptoms, reading flaws and operational-memory IQ alterations than girls](preterm-boys-inattention-reading-working-memory.md) — related
 - [Early neonatal sepsis is associated with parent-rated inattention and hyperactivity symptoms, and severe intraventricular hemorrhage with altered Piaget operational stage](early-sepsis-severe-hemorrhage-attention-cognitive-changes.md) — related
+- [Within the very preterm sample, more erroneous antisaccades correlate with more inattention and lower IQ, but not significantly with academic performance](erroneous-antisaccades-correlate-inattention-iq.md) — related

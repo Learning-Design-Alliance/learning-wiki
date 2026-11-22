@@ -59,3 +59,4 @@ Cross-sectional online survey of 153 medical postgraduates at Zhejiang Universit
 - [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related
 - [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
 - [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related
+- [Moderate-to-severe stress and depression are highly prevalent among the sampled medical students](high-stress-depression-prevalence-ksu-medical-students.md) — related

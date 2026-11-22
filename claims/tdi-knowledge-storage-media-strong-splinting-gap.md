@@ -71,3 +71,6 @@ Same knowledge section: 96.5% appreciated the urgency of replantation within a n
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
 - [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — related
 - [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related
+- [Across international surveys, avulsion-management knowledge scores are consistently lower than scores for other dental trauma](avulsion-scores-lower-than-other-trauma-internationally.md) — related
+- [Most Italian dentists incorrectly chose a rigid splint for stabilising a replanted tooth](rigid-splint-misconception-66-8-percent.md) — related
+- [Most dentists identified milk and saline as storage media, but half also chose saliva, which the IADT guidelines do not recommend](storage-media-saliva-misconception.md) — related

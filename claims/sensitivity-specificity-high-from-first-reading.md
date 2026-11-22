@@ -48,3 +48,4 @@ Results analysis (Figura 3) using lead-trainer readings as gold standard, paired
 - [Agreement between trained professionals and lead trainers is high overall but lowest for mid-range indurations (5-9 mm), with weighted Kappa 0.864](agreement-by-induration-category-kappa-0864.md) — related
 - [Successive tuberculin skin test readings show no effect on healthcare professionals' reading proficiency, which is high from the first reading](no-effect-successive-readings-tst-proficiency.md) — related
 - [Mean difference between trained professionals' and lead trainers' readings is near zero and stable across successive readings](stable-near-zero-mean-reading-difference.md) — related
+- Raising the MR jet length cutoff improved specificity but worsened sensitivity of the nonexpert index test — related

@@ -56,3 +56,4 @@ Multi-group measurement invariance testing across the two language groups (Table
 - [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related
 - [Teamwork satisfaction and perceptions of collaborative learning measures failed measurement invariance across group formation treatments, preventing comparison of student attitudes](attitude-measures-noninvariant-group-formation.md) — related
 - [Measurement invariance of the C-Scale-I across education levels is supported by ΔCFI and ΔSRMR criteria](c-scale-i-measurement-invariance-education-level.md) — related
+- [The CAPS-14 shows configural and full metric invariance, partial scalar invariance, and structural invariance across middle and high school students](caps14-measurement-invariance-grade-levels.md) — related

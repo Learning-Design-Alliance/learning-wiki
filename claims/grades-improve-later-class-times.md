@@ -52,3 +52,4 @@ N-way ANOVA of class grades by chronotype and class start time on raw (z-scored)
 - [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — reports the opposite
 - [No significant differences in ACT scores were found between larks, finches, and owls, suggesting the owl deficit is not present in high school performance measures](no-act-differences-chronotype.md) — related
 - [Owls disproportionately enroll in morning classes, taking the highest percentage of morning classes among the three chronotype categories](owls-overrepresented-morning-classes.md) — related
+- [Students with a morning chronotype achieve better academic results than evening-chronotype students, with a small effect size](morning-chronotype-better-academic-results.md) — related

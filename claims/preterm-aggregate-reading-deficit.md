@@ -53,3 +53,4 @@ Random-effects meta-analysis of 33 cohort/cross-sectional studies pooling mean d
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md) — related
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
+- [VPT 13-year-olds perform below FT peers in mathematics even after controlling for age and social risk](vpt-below-ft-mathematics-age-social-risk-adjusted.md) — reports the opposite

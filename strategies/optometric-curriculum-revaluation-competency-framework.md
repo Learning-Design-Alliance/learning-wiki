@@ -49,6 +49,7 @@ The article recommends revaluating academic training in optometry in "number of 
 ## Related Strategies
 
 - [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
+- [Provide refreshment training in low-confidence core practice areas and add pediatric refraction to the optometry technician curriculum](refreshment-training-core-practice-areas-strategy.md)
 
 ## Examples
 -

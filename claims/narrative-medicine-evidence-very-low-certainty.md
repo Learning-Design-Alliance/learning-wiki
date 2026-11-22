@@ -58,3 +58,4 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
 - [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md)
 - [A systematic review through 2019 identified 55 unique narrative medicine programmes in academic health sciences, of which 75% reported some form of evaluation with inconsistent methods](55-nm-programmes-75-percent-evaluated-inconsistent-methods.md) — related
+- [Prior palliative care training studies have shown no impact on clinical outcomes or low methodological quality with high risk of bias](prior-dementia-palliative-training-limited-evidence.md) — a narrower finding that bears on this claim

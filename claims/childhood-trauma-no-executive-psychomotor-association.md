@@ -54,3 +54,4 @@ Multiple linear regression analysis in a pilot study of 47 healthy adults found 
 - [Physical neglect exposure is associated with more double errors in the Spatial Working Memory test in healthy adults](physical-neglect-spatial-working-memory-errors.md) — reports the opposite
 - [Physical neglect exposure is associated with prolonged latency for correct responses in the Pattern Recognition Memory test in healthy adults](physical-neglect-pattern-recognition-latency.md) — reports the opposite
 - [Memory deficits associated with childhood trauma in healthy adults are not secondary to psychiatric or medical illness](trauma-memory-deficits-not-secondary-to-illness.md) — related
+- [Bedtime mobile phone use did not significantly predict attention or verbal memory](bmpu-null-cognitive-functioning.md) — related

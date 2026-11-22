@@ -47,6 +47,7 @@ The article recommends that follow-up work move beyond cross-sectional correlati
 
 - [Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators](report-pa-intensity-and-fitness-measures-in-interventions.md)
 - [Future research should compare simple aerobic exercise with cognitively demanding physical activities and examine how intensity bouts are accumulated](future-research-cognitively-demanding-activity-bouts.md)
+- [Use cognitive-task indicators and experimental mindfulness-training trials instead of GPA-based performance measures](cognitive-tasks-and-experimental-mindfulness-trials-strategy.md)
 
 ## Examples
 -

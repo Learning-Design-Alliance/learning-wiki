@@ -39,6 +39,7 @@ The article recommends that jurisdictions maintain and update linked administrat
 ## Related Strategies
 
 - [Use routine data linkage across health and education services to identify and longitudinally support children at risk from prematurity and early school entry](routine-data-linkage-support-preterm-children.md)
+- [Preserve linkable participant identifiers so dormant trials can be reactivated through linkage to administrative data](preserve-linkable-identifiers-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ CUSUM analysis of prospectively collected procedure and fluoroscopy times from 1
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [At 1-month follow-up, left ventricular dimensions were reduced significantly in both groups, with LVEF significantly better in the early-experience group](tavr-ar-echo-remodeling-lvef-group-difference.md) — related
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
+- [Dose measures and procedure time correlated negatively with the number of patients treated (accumulating operator experience)](pae-dose-negative-correlation-experience.md) — related

@@ -53,3 +53,4 @@ Null result from the same GLMM on recency accuracy in the VR salesperson experim
 - [Confidence in correct memory responses is higher when both spatial and mission boundaries are not crossed, with an interaction between the two boundary types](confidence-highest-within-both-boundaries-vr.md) — reports the opposite
 - [With inter-object intervals held comparable, memory accuracy is significantly higher for the within-Mission/across-Spatial level than for the across-Mission/within-Spatial level](mission-beats-spatial-boundary-comparable-intervals.md) — related
 - [Crossing a conceptual (mission) boundary significantly impairs the accuracy of temporal order memory in an interactive VR episodic memory task](mission-boundary-crossing-impairs-vr-sequence-memory-accuracy.md) — related
+- [States of high arousal impair implicit acquisition of the spatial and sequential context of an event](high-arousal-impairs-implicit-context-acquisition.md) — related

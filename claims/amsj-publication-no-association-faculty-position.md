@@ -50,3 +50,4 @@ Matched-cohort secondary outcome analysis; Table 3 prints Faculty Position OR 1.
 - [AMSJ publication remains independently predictive of future PubMed-indexed publication after adjustment for higher degree and faculty position (OR 2.56)](amsj-publication-independently-predictive-pubmed-multivariable.md) — related
 - [The Australian findings replicate the New Zealand MSJ association for publications and higher degrees, but not for PhDs or faculty positions](amsj-replicates-nzmsj-academic-success-partially.md) — possibly the same claim (merge candidate)
 - [AMSJ publication is associated with higher degree attainment, driven by Masters degrees but not PhDs or graduate certificates/diplomas](amsj-publication-associated-higher-degree-attainment.md) — related
+- [NZMSJ student authors are significantly more likely to attain academic faculty positions after graduation than matched controls (OR 2.90)](nzmsj-publication-associated-faculty-positions.md) — related

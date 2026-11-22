@@ -54,3 +54,4 @@ Self-report survey item from the 160-respondent end-of-course questionnaire. The
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
+- [Groups with higher levels of psychological safety tend to have higher levels of trust, and psychologically safe environments encourage authenticity and risk-taking](psychological-safety-higher-group-trust.md) — a broader claim this one bears on

@@ -49,6 +49,7 @@ The article recommends that future simulation training trial a combined strategy
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
 - [Rapid cycle deliberate practice: repeat the same simulation three times with instructor micro-debriefs, stopping and restarting when critical actions are omitted](rcdp-repeat-with-micro-debriefs-strategy.md)
+- [Provide three kinds of feedback during simulation-based skill acquisition: automatic simulator feedback, instructor feedback during training, and post-session debriefing](three-source-feedback-simulation-skill-acquisition.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Within-surgeon comparison of 90-day postoperative morbidity before versus after 
 - [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related
 - [Trainee operations show longer hospital stay and higher perioperative blood loss than experienced surgeons, while experienced-surgeon patients report more days of painkillers at home](tvt-resource-outcome-differences.md) — related
 - [A prospective comparison of Hugo RAS versus da Vinci Xi for robotic inguinal hernia repair showed no measurable learning curve in operative time for a da Vinci-experienced surgeon, with significant postoperative quality-of-life improvements](hugo-r-tapp-no-learning-curve-experienced-surgeon.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

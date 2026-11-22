@@ -1,0 +1,52 @@
+---
+type: claim
+title: "The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems"
+description: "The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems"
+id: dims-school-performance-mediated-by-mental-health
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-22
+evidence_strength: moderate
+newest_evidence: 2019
+sources:
+  - id: stormark-kjell-morten-2019
+    resource: "https://doi.org/10.1371/journal.pone.0224139"
+    title: "Stormark Kjell Morten, Fosse Hedvik Elisabeth, Pallesen Ståle, Hysing Mari. (2019). The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE. https://doi.org/10.1371/journal.pone.0224139"
+    author: Stormark Kjell Morten, Fosse Hedvik Elisabeth, Pallesen Ståle, Hysing Mari
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Parallel mediation analysis showed indirect paths through internalizing and externalizing problems for all DIMS groups, with a significant direct effect remaining only in the persistent group (log odds ratio 0.7076, p < .001). [→ Stormark Kjell Morten 2019](#stormark-kjell-morten-2019)
+
+## Evidence
+
+### Stormark Kjell Morten 2019
+
+Stormark Kjell Morten, Fosse Hedvik Elisabeth, Pallesen Ståle, Hysing Mari. (2019). The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE. https://doi.org/10.1371/journal.pone.0224139
+
+`q3 · i?` · `associational · r2`
+
+Path mediation analysis using the PROCESS macro with 5,000 bootstrap samples, testing internalizing and externalizing problems as parallel mediators between DIMS groups and poor school performance. The persistent group's direct effect was "log odds ratio of 0.7076, p < .001"; no standardized effect size was printed.
+
+> "there was still an overall significant direct relative effect of DIMS on poor school performance (χ(3) = 14,26 p < .001), due to a significant relative direct effect in Persistent DIMS group (log odds ratio of 0.7076, p < .001)"
+
+## Discussion
+
+
+## Related Claims
+- [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — possibly the same claim (merge candidate)
+- [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
+- [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
+- [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
+- [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related

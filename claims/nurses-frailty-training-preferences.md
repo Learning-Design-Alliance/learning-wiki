@@ -59,3 +59,4 @@ Descriptive analysis of an 11-item educational-needs questionnaire among the 558
 - [Students preferred face-to-face tutoring and online answering as guidance methods in the blended course](students-prefer-face-to-face-and-online-guidance-mix.md) — related
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related
 - [69% of professors opted for blended teaching and 91% agreed with the staggered timetable (AP1)](professors-opted-for-blended-teaching-ap1.md) — related
+- [Most Australian podiatrists are willing to receive further education on DCD, preferring clinical guidelines, factsheets and online presentations](podiatrists-willing-further-dcd-education.md) — related

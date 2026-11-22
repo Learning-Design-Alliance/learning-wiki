@@ -61,8 +61,10 @@ Classroom ventilation and air quality operate upstream of instruction: elevated 
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](../claims/poor-iaq-harms-student-health-and-learning.md) [+W]
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the other major physical-environment factor; both operate by removing physiological interference with attention
 - Community-Based Learning — school building conditions can anchor authentic science investigations of local environmental health
+- [Prioritise interventions to reduce traffic and emissions near schools, with indoor air filtration as a complementary opportunity](reduce-traffic-emissions-near-schools-strategy.md)
 
 ## Examples
 - **Harvard Healthy Buildings program** (https://healthybuildings.hsph.harvard.edu) — research and practical guidance on ventilation, filtration, and cognitive performance in buildings, including school-specific recommendations.

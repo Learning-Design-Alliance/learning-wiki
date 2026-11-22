@@ -50,6 +50,7 @@ The article recommends that educational institutions adopt positive psychology-b
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Integrate mindfulness training into professional development programs for PE teachers](mindfulness-training-in-teacher-pd.md)
 - [Develop emotional intelligence programs in secondary education to prevent school burnout after adverse academic events](ei-programs-prevent-school-burnout-strategy.md)
+- [Launch long-term school-based trauma support: teacher training in emotional-state recognition, arts-based mindfulness group activities, and rotating class cadre roles](yushu-long-term-school-trauma-support-strategy.md)
 
 ## Examples
 -

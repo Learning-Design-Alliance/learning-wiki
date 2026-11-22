@@ -61,6 +61,8 @@ The article's recommendation for closing enteral nutrition knowledge gaps is str
 - [Implement competency-based teaching, simulation-based learning and regular assessments for invasive pressure monitoring](inpress-competency-simulation-training-strategy.md)
 - [Introduce standardised multifaceted training programmes with competency checklists, hands-on refresher courses, and departmental protocols prioritising regional analgesia for hip fractures](standardised-ra-training-and-protocols-strategy.md)
 - [Integrate comprehensive eye care training with evidence-based guidelines, hands-on workshops, and simulation-based learning into nursing education](eye-care-training-simulation-workshops-strategy.md)
+- [Train point-of-care diagnostic users in small groups with hands-on practice and visual and video content](small-group-hands-on-video-training-strategy.md)
+- [Deliver targeted educational programs updating nurses' SSI-prevention knowledge to positively affect attitudes and adherence to evidence-based practices](targeted-ssi-education-programs-strategy.md)
 
 ## Examples
 -

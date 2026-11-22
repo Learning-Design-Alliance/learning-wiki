@@ -56,3 +56,4 @@ Partial correlation analysis in the 36-player sample; Table 2 prints Yo-Yo–sci
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — a broader claim this one bears on
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Changes in aerobic fitness are positively associated with changes in academic achievement (GPA) over 2 years.](aerobic-fitness-change-gpa-association.md) — related
+- [Physical fitness correlates positively with academic performance in secondary students](fitness-academic-positive-correlation.md) — a broader claim this one bears on

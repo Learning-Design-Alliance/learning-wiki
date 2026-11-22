@@ -47,6 +47,7 @@ The article recommends that "teacher education programs should incorporate dedic
 ## Related Strategies
 
 - [Incorporate CT skills into all teacher preparation programs, for all subject matters, with iterative guidance for non-STEM teachers](ct-in-all-teacher-preparation-programs.md)
+- [Integrate student-centred global health and disaster preparedness courses into undergraduate medical curricula at both pre-clinical and clinical stages](integrate-global-health-disaster-preparedness-curricula.md)
 
 ## Examples
 -

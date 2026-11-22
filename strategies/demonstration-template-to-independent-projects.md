@@ -57,6 +57,7 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Provide nearly completed code with only a few pieces to finish, plus full solutions for self-checking](nearly-completed-code-scaffolding-strategy.md)
 - [Teach programming with workshop-style live coding in which the instructor writes and executes code in real time](workshop-style-live-coding-instruction.md)
 - [Design PBL assignments with a conference-style paper, interdisciplinary dual mentorship, narrative framing, and skeleton code](pbl-quantum-course-design-strategy.md)
+- [Reuse abstract MI 'recipes' across scenarios so new virtual client cases require only modification of lower-level rules](ontology-recipe-scenario-reuse.md)
 
 ## Examples
 -

@@ -70,3 +70,6 @@ Symptom-recognition assessment findings from two studies (Australia 2002, UK 200
 - [GPs in gatekeeper settings typically express scepticism about ADHD, medicalisation of childhood behaviour, and concern about stigma](gp-scepticism-adhd-medicalisation-stigma.md) — related
 - [GPs attribute ADHD to parenting and family factors as strongly as or more strongly than to biological factors](gps-attribute-adhd-to-parenting-over-biology.md) — related
 - [GPs had difficulty making psychiatric diagnoses due to lacking ability and confidence, misunderstandings about diagnoses, and unclear qualifications](gps-difficulty-making-psychiatric-diagnosis.md) — related
+- Difficult communication between primary care, secondary care, patients and other stakeholders creates delays and confusion in the ADHD diagnostic process — related
+- [GPs' ADHD knowledge is insufficient for identification and pathway guidance, and misconceptions about ADHD persist in primary care](gp-adhd-knowledge-gaps-and-misconceptions.md) — a broader claim this one bears on
+- Unclear, variable ADHD diagnosis pathways and scarce services, especially for adults, hinder UK primary care referral — related

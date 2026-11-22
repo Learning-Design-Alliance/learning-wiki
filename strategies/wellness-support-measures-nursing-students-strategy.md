@@ -53,6 +53,7 @@ A concrete recipe set the article offers for institutions seeking to improve stu
 - [Improve student well-being and adjustment by promoting social support seeking and reducing disengaged and avoidant coping](promote-support-seeking-reduce-avoidant-coping-strategy.md)
 - [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
+- [Deploy multifaceted preventive measures — extracurricular activities, stressor reduction, social support, and community service — to reduce medical student burnout](multifaceted-burnout-prevention-medical-students.md)
 
 ## Examples
 -

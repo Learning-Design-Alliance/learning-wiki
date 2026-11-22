@@ -52,6 +52,7 @@ Based on their findings that academic and family stress raise depression and dep
 - [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 - [Schools assessing and tracking student depression and delivering school-based depression prevention programs](school-based-depression-tracking-and-prevention.md)
 - [Institutional screening, prevention and gender-oriented mental health support for students in wartime universities](wartime-student-mental-health-screening-strategy.md)
+- [Provide timely mental health detection and comprehensive educational support for pupils with depression, addressing shared precursors rather than single risk factors](timely-detection-comprehensive-support-depressed-pupils.md)
 
 ## Examples
 -

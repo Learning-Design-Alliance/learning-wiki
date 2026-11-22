@@ -49,3 +49,4 @@ Complication analysis across all 400 surgeries found 60 (15%) complications, led
 - [Postoperative best-corrected visual acuity does not differ significantly between surgeries performed on the 3D heads-up display and the traditional microscope.](3d-hud-no-bcva-difference.md) — related
 - [Novice surgeons achieve significantly higher phacoemulsification competency scores when operating on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-higher-novice-surgical-competency-scores.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
+- Surgeons report using preoperative, intraoperative and postoperative risk-reduction strategies for only eye surgery, including optimal instrument sets, mental visualisation, experienced second surgeons, and closer follow-up — related

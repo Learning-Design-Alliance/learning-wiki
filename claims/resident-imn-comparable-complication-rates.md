@@ -57,3 +57,4 @@ Retrospective cohort analysis at a level I trauma center with 1:1 propensity sco
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
 - [Total complication rates were comparable between experienced and inexperienced surgeons performing 25-gauge vitrectomy for uncomplicated retinal detachment](complication-rates-comparable-experienced-inexperienced-surgeons.md) — related
 - [Postoperative complication rates were low and did not differ significantly between resident- and attending-performed procedures, though resident-performed CL showed a numerically higher rate](complication-rates-resident-attending-comparable.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

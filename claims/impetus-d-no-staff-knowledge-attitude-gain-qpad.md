@@ -51,3 +51,4 @@ Staff survey at 6 months using the qPAD knowledge test and attitude scale, compl
 - [Staff participation in IMPETUS-D was far below target: only 4.3% of staff completed their core modules during the 6-month training period](impetus-d-low-staff-participation-core-modules.md) — related
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
 - [Self-rated attitudes to dementia care rose significantly from pre-test to post-test for registrars and supervisors after the workshop, in a pre-test/post-test study](dementia-workshop-improves-attitude-to-care.md) — reports the opposite
+- [A cluster RCT protocol will test whether IMPETUS-D reduces hospital transfers and deaths in hospital among residents with advanced dementia by 20% over 6 months](impetus-d-cluster-rct-protocol-20-percent-reduction.md) — related

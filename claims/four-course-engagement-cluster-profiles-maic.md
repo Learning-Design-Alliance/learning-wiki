@@ -51,3 +51,4 @@ Kruskal-Wallis tests comparing the four engagement clusters derived from hierarc
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
 - [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related
 - [Students spontaneously adopt different engagement strategies with self-paced mastery modules, forming four clusters tied to incoming knowledge](four-student-engagement-clusters-mastery-modules.md) — related
+- Hepatitis medical care coordinators can be classified into four activity-based groups via hierarchical cluster analysis of 13 activity items — a narrower finding that bears on this claim

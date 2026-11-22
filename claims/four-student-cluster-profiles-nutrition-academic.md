@@ -68,3 +68,4 @@ Hierarchical agglomerative clustering with Ward's method and Euclidean distance 
 - [Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction](four-clusters-lower-distraction-strategy-profiles.md) — related
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
 - [MCA of 325 university students identifies two dimensions capturing a socioeconomic–nutritional gradient and a psychosocial–academic orientation, explaining 25.07% of variance together](mca-two-dimensions-socioeconomic-nutritional-gradient.md) — related
+- Hepatitis medical care coordinators can be classified into four activity-based groups via hierarchical cluster analysis of 13 activity items — a narrower finding that bears on this claim

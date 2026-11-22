@@ -48,3 +48,4 @@ Cross-sectional face-to-face survey of 401 Istanbul family physicians. The overa
 - [Knowledge of the DDH screening program is higher among physicians who follow DDH patients, screen more babies, attend congresses, are family medicine specialists, are female, use more educational resources, and feel proficient](screening-program-knowledge-moderators.md) — related
 - [Self-perceived competency regarding DDH is higher among physicians with over 10 years of experience, specialists, and those who follow DDH patients](ddh-self-competency-experience-specialists.md) — related
 - [Family physicians' awareness of lesser-known DDH risk factors (foot deformity, first-born baby, ligamentous laxity, and others) is below 50%](ddh-risk-factor-awareness-gaps.md) — related
+- [Congresses are a main knowledge source for physicians (61.1%) but far less for nurses (15%)](congresses-knowledge-source-physicians-vs-nurses.md) — related

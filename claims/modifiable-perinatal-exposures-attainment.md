@@ -51,3 +51,4 @@ Adjusted GEE models from the national cohort. The quote reports the contrasting 
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — related
 - [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — related
 - [Children exclusively breastfed for 6 months had lower odds of being over-age for grade than those exclusively breastfed for less than 3 months in rural Malawi](ebf-six-months-lower-odds-overage-grade-malawi.md) — related
+- [Modified formula groups showed no differences in the odds of receiving special educational needs support or of attaining five or more GCSEs at grade C or above](no-difference-sen-or-five-gcses-modified-formula.md) — related

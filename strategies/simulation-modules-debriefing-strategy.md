@@ -80,6 +80,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Roll out scenario-based teaching modules built on the Climate App](climate-app-example-teaching-modules.md)
 - [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 - [Use realistic scenario-based learning, digital access, and modeling of clear communication in health literacy instruction](scenario-based-learning-modeling-hl-instruction.md)
+- [Integrate student-centred global health and disaster preparedness courses into undergraduate medical curricula at both pre-clinical and clinical stages](integrate-global-health-disaster-preparedness-curricula.md)
 
 ## Examples
 -

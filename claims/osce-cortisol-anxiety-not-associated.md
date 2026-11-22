@@ -50,3 +50,4 @@ Salivary cortisol collected ~30 minutes before the OSCE from eligible students; 
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [Neither physiological stress nor self-reported anxiety correlated with physical therapy students' OSCE scores](osce-stress-anxiety-not-correlated-with-scores.md) — related
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — a broader claim this one bears on
+- [State anxiety, salivary cortisol, and pulse rate rose significantly from basal to preexamination in both study groups in within-group pre-post analyses](academic-exam-stress-increases-anxiety-cortisol-pulse.md) — related

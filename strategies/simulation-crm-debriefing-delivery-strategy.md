@@ -60,6 +60,7 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 - [Organise refresher courses or simulation team training with a focus on CRM skills after an initial ABCDE simulation course](crm-focused-refresher-team-training-strategy.md)
 - [Deliver a 90-min interactive CRM team leader training combining CRM theory presentation, video exemplars, and continuous reflection with instructor feedback](crm-team-leader-90min-interactive-training-strategy.md)
+- [Combine provision of supplies with a behavioral intervention (supportive supervision, opinion leaders, reminders, audit, feedback) and simulation-based training to improve pre-eclampsia care](supplies-plus-behavioral-intervention-and-simulation-training.md)
 
 ## Examples
 -

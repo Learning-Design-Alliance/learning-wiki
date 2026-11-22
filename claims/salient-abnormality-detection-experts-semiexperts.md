@@ -47,3 +47,4 @@ Same experiment, ABN task: the group effect on overall accuracy was significant,
 ## Related Claims
 - [For salient abnormalities, semi-experts and naïve participants increased fixations on relevant areas while experts did not, yet experts detected them best](experts-fewer-fixations-salient-abnormalities.md) — related
 - [Radiologists outperform radiographers and psychology students in detecting enlarged lymph nodes in dynamic CT videos](radiologists-outperform-in-eln-detection.md) — reports the opposite
+- [Radiologists in training achieve substantially higher diagnostic accuracy than laypeople on both short-presentation (2s) and long-presentation (10s) radiograph trials](radiologists-in-training-outperform-laypeople-diagnostic-accuracy.md) — related

@@ -57,6 +57,7 @@ The article’s training recipe consists of a standardized instructional video i
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Cross-sectional pre-training questionnaire study of 124 providers (81.6% of thos
 - [Previous post-rape care training is not associated with higher knowledge or confidence levels](prior-training-no-knowledge-confidence-gain.md) — related
 - [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related
 - [Crisis-centre work, recent survivor examination, and seeing more than 60% of survivors are associated with higher provider confidence](crisis-centre-recent-practice-confidence.md) — related
+- [Medical providers at a South African community health centre report lacking foundational oral health knowledge and feel uncertain managing patients with oral health complaints](providers-lack-oral-health-knowledge-uncertainty.md) — related

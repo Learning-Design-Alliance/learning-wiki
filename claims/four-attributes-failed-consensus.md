@@ -76,3 +76,4 @@ Discussion-section interpretation of the contrast between the failed degree item
 - [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related
 - [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
 - [Age shapes attribute importance: younger respondents rate communication higher, while older respondents rate ethical behaviour and knowledge of the profession higher](age-group-differences-attribute-importance.md) — related
+- [Nurses' education level is significantly associated with the personal-and-team-support factor, with junior college and undergraduate nurses scoring higher than postgraduate nurses](education-level-associated-c-sccs-factor-2.md) — related

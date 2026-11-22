@@ -50,3 +50,4 @@ PROCESS Model 8 moderated mediation analysis with 5000 bootstrap resamples (N = 
 - [Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance](explanatory-feedback-moderates-only-fairness-path.md) — related
 - [Providing explanations widens the human–AI gap in perceived fairness, with a larger fairness improvement in the teacher condition](explanations-widen-fairness-gap.md) — related
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
+- [Fair decision-making procedures, including consideration of member input and influence over decisions, are associated with increased trust and commitment to group decisions](procedural-fairness-group-trust-commitment.md) — related

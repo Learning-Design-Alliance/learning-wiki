@@ -61,6 +61,7 @@ The review recommends that future studies pair digital metrics with concurrent v
 - [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
 - [Dual-sourcing measurement strategy: pair validated self-report surveys with trace-based proxies validated on labeled subsamples](tala-dual-sourcing-trait-measurement-strategy.md)
 - [Assess individual surgeon sleepiness before night-shift procedures and evaluate whether specific operations should be postponed until the surgeon is rested](assess-surgeon-sleepiness-postpone-procedures-strategy.md)
+- [Two-step process for defining surgical expertise in future expertise-based trials: choose a learning-curve proxy, then assess surgeons against predefined criteria](two-step-surgical-expertise-criteria.md)
 
 ## Examples
 -

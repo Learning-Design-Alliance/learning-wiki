@@ -73,6 +73,7 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Combine a brief Teach-Back skills workshop with ongoing guided self-reflection surveys for telehealth communication training](workshop-plus-guided-self-reflection-strategy.md)
+- [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
 
 ## Examples
 -

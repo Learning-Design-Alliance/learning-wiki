@@ -55,3 +55,4 @@ Person-centered analysis of the same 321-student cohort using Ward's minimum var
 - [Students with online education had higher final exam scores than those with in-person education in pre-clinical medical English coursework](online-education-higher-final-exam-scores-preclinical-medical-english.md) — a narrower finding that bears on this claim
 - [Cluster analysis identified three learner profiles at k=3, with the highest-scoring cluster showing the largest percentage of human words](cluster-k3-highest-score-most-human-words.md) — related
 - [Cluster analysis of MCA coordinates identifies four student profiles differing in food access, dietary habits, and faculty composition](four-student-cluster-profiles-nutrition-academic.md) — related
+- Hepatitis medical care coordinators can be classified into four activity-based groups via hierarchical cluster analysis of 13 activity items — a narrower finding that bears on this claim

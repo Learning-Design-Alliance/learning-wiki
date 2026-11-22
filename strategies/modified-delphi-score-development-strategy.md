@@ -55,6 +55,7 @@ This strategy builds a scoring system by drafting steps and definitions from the
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
 - [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
 - [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
+- [Two-step process for defining surgical expertise in future expertise-based trials: choose a learning-curve proxy, then assess surgeons against predefined criteria](two-step-surgical-expertise-criteria.md)
 
 ## Examples
 -

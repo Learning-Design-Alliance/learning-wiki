@@ -48,3 +48,4 @@ Subgroup random-effects meta-analysis of four studies on alcohol consumption and
 - [Substance use is negatively and significantly associated with academic achievement among university students, with a medium pooled effect (SMD = -0.61)](substance-use-negative-association-academic-achievement-smd-061.md) — related
 - [Sleep satisfaction, sleep quality and alcohol consumption frequency show no association or tendency with GPA in low-performing university students of either sex](sleep-quality-no-gpa-association-low-performers.md) — related
 - [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](alcohol-smoking-competency-radiology-residents.md) — related
+- [Exceeding single-occasion alcohol consumption risk and current smoking are each associated with lower GPA among university students](alcohol-smoking-lower-gpa-university-students.md) — reports the opposite

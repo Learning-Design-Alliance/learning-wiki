@@ -48,3 +48,4 @@ Narrative review synthesis of ERCP training studies: early studies suggested a t
 - [Minimum numbers of procedures, taken in isolation, are unreliable as a marker of ultrasound competence due to wide variation in learning curves](minimum-procedure-counts-unreliable-competence-marker.md) — related
 - [Learning curve estimates in robot-assisted surgery vary substantially between studies of the same procedure and are subject to considerable uncertainty](robotic-learning-curve-estimates-heterogeneous-uncertain.md) — related
 - [Prior studies of the robot-assisted sacrocolpopexy learning curve report considerably higher proficiency case numbers than this study, with heterogeneous analysis methods](rscp-prior-literature-higher-proficiency-numbers.md) — related
+- [Post-ERCP pancreatitis is more common with less experienced endoscopists and is associated with higher rates of difficult cannulation](ercp-pep-higher-with-less-experienced-endoscopists.md) — related

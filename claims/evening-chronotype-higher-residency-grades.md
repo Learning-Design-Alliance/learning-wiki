@@ -55,3 +55,4 @@ Retrospective observational study of 198 residents at one Chinese hospital; gene
 - [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related
 - [Higher agreeableness and higher emotional stability are each associated with higher odds of a better National Residency Exam score](agreeableness-emotional-stability-associated-with-exam-odds.md) — related
 - [All chronotypes exhibit significant academic improvement in later classes, with evening class grades at least 0.27 points higher than morning class grades](grades-improve-later-class-times.md) — related
+- [Students with a morning chronotype achieve better academic results than evening-chronotype students, with a small effect size](morning-chronotype-better-academic-results.md) — reports the opposite

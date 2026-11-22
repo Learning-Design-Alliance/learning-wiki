@@ -69,3 +69,4 @@ The review contrasts process-oriented weakness with reviews indicating "the task
 - [Motor imagery training improves motor performance in DCD, with children showing the most severe initial motor deficits benefiting the most](motor-imagery-training-benefits-dcd.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
+- [Task-specific motor skill and strength training programs are an effective intervention to improve motor performance for children with DCD, per the article's cited evidence](task-specific-strength-training-effective-dcd.md) — a narrower finding that bears on this claim

@@ -46,7 +46,8 @@ The article recommends that trainings for health professionals should go beyond 
 - [A one-day trauma inquiry training with a 3-month refresher reduced five of six perceived barriers to trauma inquiry among SUD professionals from baseline to 6-month follow-up](../claims/training-reduces-trauma-inquiry-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer trauma-specific training to psychotherapists to reduce fears/doubts about trauma therapy and decrease undertreatment of PTSD](strategy-trauma-training-reduce-fears.md)
 
 ## Examples
 -

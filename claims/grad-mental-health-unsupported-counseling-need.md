@@ -52,3 +52,4 @@ The white paper reports, citing Woolston 2019, findings from a 2019 Nature surve
 - [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
+- Patient help-seeking for insomnia is typically prompted by daytime consequences such as fatigue, distress, or discomfort rather than insomnia itself — related

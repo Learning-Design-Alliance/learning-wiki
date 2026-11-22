@@ -51,3 +51,4 @@ Parallel multiple mediation analysis (PROCESS macro, 5,000 bootstrap samples) wi
 - [Behavioral health conditions and school processes partially mediate the association between cumulative ACEs and school outcomes](aces-school-outcomes-mediated-behavioral-health-school-processes.md) — related
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
+- [The association between sleep problems and poor school performance is mediated by children's internalizing and externalizing mental health problems](dims-school-performance-mediated-by-mental-health.md) — possibly the same claim (merge candidate)

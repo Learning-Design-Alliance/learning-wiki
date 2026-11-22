@@ -50,3 +50,4 @@ Coefficient row from the full-sample OLS regression in Table 4 (7,218 CEPS stude
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
+- [Meeting sleep guidelines is positively associated, and higher BMI negatively associated, with better academic performance in adolescents](sleep-guidelines-positive-bmi-negative-grades.md) — possibly the same claim (merge candidate)

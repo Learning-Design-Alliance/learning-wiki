@@ -55,6 +55,7 @@ The article's implementation model pairs a one-day workshop with ongoing coach s
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 - [Use in-class demonstrations and targeted guides to support adoption of new tools](in-class-demos-targeted-guides-tool-adoption.md)
+- [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ The review reports this finding from Ellis et al. (2018), a retrospective cohort
 - [A simulation-based surgical curriculum with case reviews and immediate feedback was followed by a large drop in resident PCR and AV rates (7.7% to 1.4%)](simulation-curriculum-reduced-resident-complications.md) — related
 - [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related
 - [With hands-on training and adequate supervision, high-volume trainees remained comparable to consultants in complication rates](supervised-high-volume-trainees-comparable-complications.md) — related
+- [Senior surgeons perceive that current ophthalmology training provides insufficient exposure to high-stakes cases, with falling case numbers and shortened training years leaving trainees unprepared for only eye surgery](unmet-training-needs-ophthalmology-high-stakes.md) — related

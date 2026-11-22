@@ -51,3 +51,4 @@ Twelve-month secondary outcome from the same cluster RCT, reported from resident
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — a broader claim this one bears on
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — a broader claim this one bears on
 - [Bereaved family satisfaction with care (SWC-EOLD) did not differ between intervention and control homes](impetus-d-no-bereaved-family-satisfaction-difference.md) — related
+- [A cluster RCT protocol will test whether IMPETUS-D reduces hospital transfers and deaths in hospital among residents with advanced dementia by 20% over 6 months](impetus-d-cluster-rct-protocol-20-percent-reduction.md) — related

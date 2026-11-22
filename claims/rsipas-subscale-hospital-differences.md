@@ -67,3 +67,4 @@ The behavior subscale showed nearly identical means across the two hospitals (23
 ## Related Claims
 - [Nurses in a general hospital report higher overall competency in integrating patients' religion/spirituality into practice than nurses in a psychiatric hospital](general-hospital-nurses-higher-rsipas-than-psychiatric.md) — a broader claim this one bears on
 - [Hospital type, work experience, and involvement of professionals in religious/spiritual care significantly predict nurses' religion/spirituality integration competency](regression-predictors-spiritual-care-competency.md) — a broader claim this one bears on
+- [Nurses in private hospitals scored significantly higher on osteoporosis knowledge and attitude than nurses in teaching hospitals](private-versus-teaching-hospital-knowledge-attitude-difference.md) — related

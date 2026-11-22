@@ -52,6 +52,7 @@ Based on a 2020 systematic review of weight-related communication trainings and 
 - [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
+- [Design simulation curricula through experiential learning theory, starting from a medical problem and defining measurable learning outcomes](experiential-learning-sbt-curriculum-design.md)
 
 ## Examples
 -

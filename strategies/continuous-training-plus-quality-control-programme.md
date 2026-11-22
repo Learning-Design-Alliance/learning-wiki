@@ -48,7 +48,8 @@ The authors recommend, based on their finding that a single refresher course imp
 - [Baseline malaria microscopy competency was low among Hunan CDC microscopists, with species identification accuracy averaging only 14.58% and 75% of participants having received no malaria microscopy training in the preceding 5 years](../claims/baseline-microscopy-gaps-post-elimination-cdcs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide refreshment training in low-confidence core practice areas and add pediatric refraction to the optometry technician curriculum](refreshment-training-core-practice-areas-strategy.md)
 
 ## Examples
 -

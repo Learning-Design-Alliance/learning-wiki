@@ -47,6 +47,7 @@ The authors recommend that universities direct attention to their health science
 
 - [Universities should implement goal-oriented programs promoting the six dimensions of healthy lifestyle behavior](goal-oriented-programs-promote-healthy-lifestyle-dimensions.md)
 - [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
+- [Establish university counseling centers and campus health clubs promoting regular exercise, weight control and healthy lifestyle behaviors.](university-counseling-centers-health-clubs.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Spearman correlation analysis in the same cross-sectional study found "no signif
 - [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — reports the opposite
 - [Waterpipe use during exam periods shows an unexpected positive association with average grades, which the authors attribute to confounding rather than a real effect](waterpipe-use-positive-grades-confounding.md) — related
 - [Traditional coffee is significantly negatively correlated with grades in Spearman analysis but not significant in regression](traditional-coffee-inconsistent-across-analyses.md) — related
+- [Across all analyzed lifestyle habits, students maintaining a healthier lifestyle obtained better academic results in this sample](overall-healthy-lifestyle-associated-academic-performance.md) — reports the opposite

@@ -50,3 +50,4 @@ Regression and correlation analyses of 2004–2005 cohorts (N = 240–301 across
 - [Prior academic achievement (UAI) is the strongest predictor of overall and knowledge-based outcomes in an integrated medical selection process, controlling for demographics](uai-strongest-predictor-medical-program-outcomes.md) — related
 - [UMAT's correlation with early-year GPA is driven by Logical Reasoning and Understanding People, with little relationship for Non-verbal Reasoning](umat-sections-drive-early-gpa-correlation.md) — related
 - [UMAT scores correlate positively with early-year medical school GPA, most strongly at Institution A (r up to 0.48)](umat-correlates-early-year-medical-gpa.md) — related
+- [Applicants selected by the CM but rejected by the NCM had significantly higher mean UMAT scores than applicants selected by the NCM but rejected by the CM](cm-select-ncm-reject-higher-umat.md) — related

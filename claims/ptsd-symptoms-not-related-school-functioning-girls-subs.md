@@ -46,3 +46,4 @@ Exploratory subsample analysis of the 40 girls who completed the CRIES-13, of wh
 
 ## Related Claims
 - [Nightmare frequency and intensity are associated with reduced school functioning in war-affected youth](nightmare-frequency-intensity-linked-school-functioning.md) — related
+- [PTSD symptoms showed only weak evidence of an association with overall school maladaptation](yushu-ptsd-school-maladaptation-weak-association.md) — related

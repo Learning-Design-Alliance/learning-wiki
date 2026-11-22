@@ -64,6 +64,7 @@ The article recommends embedding structured non-technical skills training in sim
 - [When planning simulation-based medical education, prioritise authentic roles, realistic teamwork and debriefing over the physical simulation site, using off-site simulation where convenient](prioritise-authentic-roles-and-debriefing-over-site.md)
 - [Incorporate algorithms, technical skills and structured team communication into every simulation scenario, followed by extended debriefing](als-scenario-design-with-debriefing.md)
 - [Teach non-technical skills formally in surgical oncology education using structured modules, checklists, briefings, and bad-news communication training](nontechnical-skills-training-surgical-education-strategy.md)
+- [Use serious games, recorded-session review, live webinars, and video-assisted debriefing to develop non-technical skills in remote simulation-based education](elearning-nontechnical-skills-strategy.md)
 
 ## Examples
 -

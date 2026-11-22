@@ -69,3 +69,4 @@ Theme 2 reports that VR expanded access during the COVID-19 pandemic in response
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
 - [Simulation can support COVID-19 infection prevention and control practice and enable socially distanced and remote training](simulation-supports-covid-distanced-training.md) — related
+- [During the COVID-19 pandemic, pediatric SBME shifted from shared simulation environments to e-learning platforms, 360-degree virtual reality videos, and individual just-in-time training](covid-shift-remote-sbme-pediatrics.md) — related

@@ -49,6 +49,7 @@ The authors recommend extending the approach beyond special care dentistry: "fut
 - [Extend competency-driven procedural training to other under-taught clinical skills and resource-limited settings](extend-competency-driven-training-to-other-procedures.md)
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Adapt the 5CardsGame format to other healthcare education contexts, including digital versions for remote and self-paced practice](5cardsgame-adaptation-strategy.md)
+- [Adapt the CONSULT-BP bias-mitigation training model to other clinical domains where bias affects decisions](consult-bp-model-adaptability-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Peer-learning challenges section of the literature synthesis, citing Sinaga et a
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Architecture studio students face distinct cognitive challenges in self-learning, including limited metacognitive skills and cognitive traps such as romanticizing precedents](studio-self-learning-metacognitive-challenges.md) — related
+- Higher degrees of trust at individual and group levels are associated with attitudinal and performance outcomes including quality of group decisions — related

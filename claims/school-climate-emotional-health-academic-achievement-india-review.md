@@ -57,3 +57,4 @@ Systematic review of eleven Indian studies (3,711 participants, grades 8–10) i
 - [Self-esteem is positively associated with academic performance in Indian adolescents, while life satisfaction is not](self-esteem-predicts-academic-performance-indian-adolescents.md) — related
 - [Hands-on science workshops with underprivileged school children were generally successful, with students keen to participate and motivated to learn more afterwards](science-is-fun-workshops-successful-engagement.md) — related
 - [Student well-being and self-worth are linked to academic achievement and engagement](well-being-linked-achievement.md) — possibly the same claim (merge candidate)
+- [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](social-school-factors-mediate-depression-attainment.md) — related

@@ -50,3 +50,4 @@ Multivariate generalized linear model on N = 1,766 children from a school-based 
 - [Better childhood visual acuity is associated with higher GCSE scores even after adjusting for sex, age, reading skill, verbal and performance IQ, and SES](visual-acuity-gcse-association.md) — related
 - [Better binocular accommodative facility and amplitude of accommodation are significantly positively correlated with academic performance](accommodative-function-positively-correlated-academic-performance.md) — related
 - [Refractive status and cycloplegic spherical equivalence show no significant association with academic performance](refractive-status-no-association-academic-performance.md) — related
+- [Distance and near visual acuity are lower and the near point of convergence longer in children with bad academic performance](lower-visual-acuity-longer-npc-bad-performance.md) — related

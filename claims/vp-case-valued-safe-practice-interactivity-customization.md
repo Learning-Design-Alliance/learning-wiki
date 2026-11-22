@@ -75,3 +75,4 @@ Authors' interpretation of focus group and questionnaire data: junior trainees f
 - [VP cases may serve as a useful tool for implicitly integrating CanMEDS non-medical-expert competencies, which trainees found poorly served by existing curricula](vp-cases-integrate-canmeds-implicitly.md) — a broader claim this one bears on
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — possibly the same claim (merge candidate)
 - [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related
+- Virtual environments make it possible to capture and record the key variables of human behavior in fires and analyze decision-making from the moment the alarm sounds, safely — related

@@ -75,3 +75,5 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
 - [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — reports the opposite
 - [Students who sometimes skip breakfast also have increased risk of low achievement on all five NAPLAN tests, though lower than always skippers](sometimes-skippers-increased-risk-all-five-tests.md) — related
+- [Not consuming breakfast daily is associated with lower GPA among university students](breakfast-skipping-lower-gpa-university-students.md) — related
+- [Healthier dietary habits are associated with better academic performance in middle school students, while chips, sweets and soft drink consumption are associated with worse performance](dietary-habits-associated-academic-performance-adolescents.md) — related

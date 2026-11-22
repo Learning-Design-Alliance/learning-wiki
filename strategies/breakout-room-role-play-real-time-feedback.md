@@ -51,6 +51,7 @@ During synchronous sessions, students rotate through roles (e.g., counselor, pat
 - [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](standardized-360-feedback-sequence-strategy.md)
 - [Have students learn physical examination skills in groups with peer observation, near-peer teachers, and simulated or real patients with feedback](group-peer-practice-pe-skills.md)
 - [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
+- [Provide three kinds of feedback during simulation-based skill acquisition: automatic simulator feedback, instructor feedback during training, and post-session debriefing](three-source-feedback-simulation-skill-acquisition.md)
 
 ## Examples
 -

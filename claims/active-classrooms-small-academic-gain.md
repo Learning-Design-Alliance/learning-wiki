@@ -60,3 +60,4 @@ Meta-analysis pooling 20 randomized trials (cluster-adjusted n = 842) using rand
 - [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — a broader claim this one bears on
 - [Elementary classrooms that are physically active support greater academic achievement compared to traditional sedentary elementary classrooms](active-elementary-classrooms-greater-academic-achievement.md) — possibly the same claim (merge candidate)
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — reports the opposite
+- [Pooled association between physical activity and academic performance in university students is small and non-significant (r = 0.07)](pa-ap-pooled-null-university-students.md) — related

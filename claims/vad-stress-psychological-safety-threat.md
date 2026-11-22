@@ -123,3 +123,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
 - [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related
 - [Over-correction by AI systems risks anxiety and reduced fluency by overwhelming learners rather than guiding them](ai-over-correction-feedback-harm.md) — related
+- [Groups with higher levels of psychological safety tend to have higher levels of trust, and psychologically safe environments encourage authenticity and risk-taking](psychological-safety-higher-group-trust.md) — related

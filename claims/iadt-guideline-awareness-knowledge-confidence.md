@@ -53,3 +53,4 @@ Review discussion attributing findings to included studies: Maloney et al. found
 - [Introduction of local guidelines was followed by improved SHO confidence in managing corneal abrasions](guidelines-improved-corneal-abrasion-confidence.md) — a narrower finding that bears on this claim
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [Students who had heard of or read the IADT guidelines scored significantly higher on TDI knowledge.](iadt-guideline-awareness-associated-with-higher-tadi-knowledge.md) — related
+- [Dentistry qualification and declared knowledge of IADT guidelines each predict higher avulsion-management scores among Italian dentists](dentistry-qualification-and-guideline-knowledge-predict-scores.md) — related

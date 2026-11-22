@@ -52,3 +52,4 @@ Conclusion of the cross-sectional study of 252 children: nutrient intakes signif
 - [Higher intakes of thiamin and riboflavin are associated with greater odds of better cognitive performance in school-aged children](thiamin-riboflavin-intake-better-cognition-schoolchildren.md) — related
 - [No evidence indicates iron status, anemia, or dietary iron intake influenced intelligence in adolescents](no-evidence-iron-status-intelligence-adolescents.md) — related
 - [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related
+- [No modified infant formula (nutrient enriched, LCPUFA supplemented, high iron, or sn-2 palmitate) improved GCSE mathematics scores at age 16 compared with standard formula](no-gcse-math-benefit-modified-infant-formula.md) — related

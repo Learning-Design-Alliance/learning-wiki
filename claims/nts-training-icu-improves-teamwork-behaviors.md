@@ -81,3 +81,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [After the ECMO simulation course, most delegates perceived improvements in nontechnical skills including communication and leadership](ecmo-simulation-nontechnical-skill-gains.md) — a narrower finding that bears on this claim
 - [Named caps are associated with higher overall performance ratings and teamwork domain scores, but not leadership or task management](named-caps-teamwork-domain-not-leadership.md) — a narrower finding that bears on this claim
 - [Clinical outcomes did not differ across nontechnical skills rating groups in this cohort](no-outcome-difference-across-nts-groups.md) — related
+- [Adverse safety events were more likely in teams with lower scores in communication, situational awareness, decision-making and leadership/followership, but not patient-friendliness](cts-domain-scores-error-association.md) — related

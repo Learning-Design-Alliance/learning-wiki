@@ -73,3 +73,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Fall-term GPA does not differ across depressive symptom trajectory groups, with spring-term differences emerging later in the academic year](fall-gpa-no-difference-trajectory-groups.md) — related
 - [First-year students in the low-stable and decreasing depressive symptom trajectory groups earn higher spring-term GPA than the increasing and high-stable groups](depression-trajectories-spring-gpa-first-year.md) — related
 - [Social anxiety is negatively associated with college students' academic performance (GPA)](social-anxiety-negative-academic-performance.md) — reports the opposite
+- [Mindfulness is inversely associated with depression and stress but not with GPA in Saudi medical students](mindfulness-inverse-depression-stress-not-gpa.md) — related

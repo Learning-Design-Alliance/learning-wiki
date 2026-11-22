@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (74 show a difference, 29 mixed, 22 no difference) · 87 studies (32 associational, 26 causal, 11 review, 7 quant-synthesis, 5 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 15 of 87 report an effect size · 124 claims rest on one study
+> **Evidence** · 126 claims (75 show a difference, 29 mixed, 22 no difference) · 88 studies (33 associational, 26 causal, 11 review, 7 quant-synthesis, 5 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 15 of 88 report an effect size · 125 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -155,6 +155,7 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](../claims/fci-gain-modulated-by-language-proficiency.md) [+M] — learners who differ on it differ in outcomes
 - [Leb Lango learners tuned in to live radio broadcasts at higher rates than English learners, while engagement declined over time equally across language groups](../claims/local-language-higher-live-broadcast-engagement.md) [~M] — learners who differ on it differ in outcomes
 - [Estimated gains from intensified ELA coursework are systematically smaller for FRL-eligible, English-learner, and disabled students, and larger for gifted-identified students](../claims/cate-smaller-underrepresented-subgroups.md) [+M] — an instructional effect differs with it
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

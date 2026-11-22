@@ -52,3 +52,4 @@ Partial correlation analyses in the same 204-child sample, controlling for the o
 - Studies measuring multiple aspects of sleep by questionnaire more often find sleep–EF associations than studies measuring sleep duration by actigraphy — related
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
 - [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](sleep-disturbance-correlated-all-three-ef-components.md) — related
+- [Sleep duration and quality are linked to working memory, inhibitory control, and cognitive flexibility in children and adolescents, with children's age moderating the sleep–school performance association](sleep-executive-function-children.md) — a broader claim this one bears on

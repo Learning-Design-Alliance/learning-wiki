@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (71 show a difference, 28 mixed, 14 no difference) · 51 studies (31 associational, 13 causal, 6 review, 1 quant-synthesis), `q2`–`q3` · 14 of 51 report an effect size · 113 claims rest on one study
+> **Evidence** · 119 claims (76 show a difference, 29 mixed, 14 no difference) · 56 studies (34 associational, 14 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 16 of 56 report an effect size · 119 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -149,6 +149,12 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Normal sleep is associated with higher perceived-competency and higher odds of high performance among radiology residents](../claims/normal-sleep-higher-competency-radiology-residents.md) [+M] — learners who differ on it differ in outcomes
 - [Snoring and daytime sleepiness subscales show no significant association with academic performance or brain volumes](../claims/snoring-sleepiness-subscale-null-academic-brain.md) [-M] — learners who differ on it differ in outcomes
 - [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](../claims/inattention-hyperactivity-subscale-drives-sdb-school-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Consistency of self-reported sleep quality is negatively correlated with future GPA but not current GPA](../claims/sleep-quality-consistency-future-gpa.md) [~M] — learners who differ on it differ in outcomes
+- [Stress, negative mood, somatization, anxiety, depression, sleep impairment, and caffeine consumption rose from baseline to pre-exam during exam preparation in a pre-post comparison of the total sample](../claims/exam-preparation-increases-distress-measures.md) [+M] — measured as an outcome of the instruction studied
+- [Sleep duration and quality are linked to working memory, inhibitory control, and cognitive flexibility in children and adolescents, with children's age moderating the sleep–school performance association](../claims/sleep-executive-function-children.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep quality and Mediterranean diet adherence each relate to nursing students' self-efficacy](../claims/sleep-and-diet-predict-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep quality index correlates negatively with Mediterranean diet adherence, self-efficacy and average academic grade](../claims/sleep-quality-index-negative-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [University students with poor sleep quality obtain lower academic scores than students with good sleep quality](../claims/poor-sleep-quality-lower-academic-scores.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

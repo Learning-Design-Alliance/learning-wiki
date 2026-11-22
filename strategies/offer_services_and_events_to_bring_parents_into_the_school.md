@@ -71,6 +71,7 @@ Parent involvement research shows that families participate more when schools ac
 - [Extend Foundation Phase support through nutrition, motor apparatus, emotional stimulation, home-language attention, music, and parent awareness of television](foundation-phase-support-recommendations.md)
 - [Combine written take-home packets, make-and-take workshops, and supervised parent training programs](three-component-parent-training-strategy.md)
 - [Differentiate types of parental involvement in involvement-promoting strategies such as parent workshops](differentiate-parental-involvement-types-strategy.md)
+- [Design joint school–family work programs that make parents aware of their support for adolescent physical activity](joint-school-family-parental-support-programs.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — low-stakes relational routines that turn attendance into community

@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (135 show a difference, 37 mixed, 24 no difference) · 108 studies (55 associational, 27 causal, 11 review, 6 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 23 of 108 report an effect size · 194 claims rest on one study
+> **Evidence** · 198 claims (136 show a difference, 37 mixed, 25 no difference) · 110 studies (56 associational, 28 causal, 11 review, 6 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 23 of 110 report an effect size · 196 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -230,6 +230,8 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [The authors report that VR performed particularly well for participants with high cognitive delay and autism, though without significant evidence favoring VR overall](../claims/vr-beneficial-high-cognitive-delay-autism.md) [~W] — an instructional effect differs with it
 - [Hands-on STEM activities can be adapted to include students with disabilities, e.g. a buzzer paired with an LED outcome for a blind student](../claims/hands-on-stem-adaptable-for-disabilities.md) [+W] — an instructional effect differs with it
 - [Very poor school performance is strongly associated with having a special education decision among maltreated children](../claims/poor-performance-special-education-link.md) [+M] — learners who differ on it differ in outcomes
+- [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+W] — learners who differ on it differ in outcomes
+- [Modified formula groups showed no differences in the odds of receiving special educational needs support or of attaining five or more GCSEs at grade C or above](../claims/no-difference-sen-or-five-gcses-modified-formula.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

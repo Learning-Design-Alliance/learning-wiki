@@ -230,6 +230,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Facilitate debriefing as guided reflection linking theory to practice](../strategies/guided-reflection-debriefing-facilitation.md)
 - [Establish university-led exercise services as an alternative source of authentic clinical learning when placements are scarce](../strategies/university-led-exercise-services-cep.md)
 - [Incorporate research methodology, learning psychology, and philosophy of education subjects into post-graduate curricular directives to improve teachers' reflection and pedagogic practice](../strategies/postgraduate-curricular-subjects-strategy.md)
+- [Use the RASE framework and NetLogo tool in experiential learning activities for STEM faculty to demonstrate cumulative (dis)advantage](../strategies/rase-workshop-experiential-learning-strategy.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

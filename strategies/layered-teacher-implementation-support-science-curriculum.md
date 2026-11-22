@@ -94,6 +94,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 - [Four-module progressive teacher training curriculum totaling 72 hours with optional authoring module](four-module-minecraft-teacher-training-bangladesh.md)
+- [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
 
 ## Examples
 -

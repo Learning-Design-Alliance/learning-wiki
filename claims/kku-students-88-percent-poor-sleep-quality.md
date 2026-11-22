@@ -49,3 +49,4 @@ Cross-sectional self-administered online questionnaire of 514 students in years 
 - [Poor sleep quality (PSQI > 5) was present in 85.7% of the sampled medical and dental students](poor-sleep-prevalence-85-7-percent-medical-dental-students.md) — related
 - [80.9% of health-related faculty students had poor sleep quality (PSQI > 5) when surveyed during the exam period](poor-sleep-quality-prevalence-health-students-giresun.md) — related
 - [Mean PSQI total scores did not differ significantly across disciplines](psqi-total-no-discipline-difference.md) — related
+- 85.2% of the undergraduate sample rated their sleep quality as poor — related

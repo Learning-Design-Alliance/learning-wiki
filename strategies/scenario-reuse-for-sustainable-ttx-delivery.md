@@ -42,6 +42,7 @@ Because creating a TTX from scratch is time-consuming, the authors recommend reu
 - [Support instructors during execution with predefined email templates and instructor notes](predefined-email-templates-instructor-notes.md)
 - [Adapt and reuse existing outreach material, tailoring session length and topic selection to the audience](adapt-reuse-outreach-material-tailored.md)
 - [Reuse a well-designed remote escape room across courses and successive course editions to amortize its high creation effort](escape-room-reuse-across-editions.md)
+- [Reuse abstract MI 'recipes' across scenarios so new virtual client cases require only modification of lower-level rules](ontology-recipe-scenario-reuse.md)
 
 ## Examples
 -

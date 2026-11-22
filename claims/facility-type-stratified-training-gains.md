@@ -56,3 +56,4 @@ Subgroup comparison within the pre-post study of 207 medical officers (29% PHC, 
 - [Vignette competence varied significantly by facility type, with hospital respondents scoring highest (70%) and clinic respondents lowest (45%)](emoc-vignette-competence-varies-by-facility-type.md) — related
 - [Providers' newborn resuscitation knowledge is significantly lower at CHCs and district hospitals than at larger facilities, but their clinical skills do not differ by facility type](facility-type-associated-with-knowledge-not-skills-afghanistan.md) — related
 - [Clinicians in larger (tertiary/quaternary) hospitals answered monitoring questions more accurately](inpress-tertiary-centres-higher-accuracy.md) — related
+- [Combined pre-eclampsia knowledge scores are higher among providers in hospitals than in primary health centres, for both midwives and physicians](hospital-providers-more-knowledgeable-than-phc.md) — related

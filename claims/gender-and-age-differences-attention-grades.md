@@ -70,3 +70,4 @@ Model 3 covariate effect; authors explain that older retained learners may inclu
 - [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — related
 - [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](age-sex-demographic-differences-school-functioning.md) — related
 - [Students with better aerobic fitness present better-processed elements and smaller omission errors, and girls and older students show better cognitive functioning scores](better-fitness-better-attention-scores.md) — reports the opposite
+- [Gender differences: boys more often below grade in reading and non-eligible for higher education; girls show higher internalizing problems at age 20](gender-differences-academic-and-mental-health.md) — reports the opposite

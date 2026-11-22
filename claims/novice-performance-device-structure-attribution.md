@@ -47,3 +47,4 @@ Authors' interpretation (type e) in the Discussion, not a separately tested resu
 ## Related Claims
 - [Among novices trained on three video laryngoscopes, the LANJA laryngoscope yields significantly shorter intubation visualization time than the UE and VDO laryngoscopes](lanja-shortest-ivt-novices.md) — related
 - [LANJA produced the highest proportion of Cormack–Lehane Grade I laryngeal views (68.8%) among the three laryngoscopes used by novices](lanja-highest-cl-grade-i-proportion.md) — related
+- [Blade curvature of non-channeled video laryngoscopes contributed significantly to intubation success or failure by novice operators](blade-curvature-non-channeled-vl-success.md) — related

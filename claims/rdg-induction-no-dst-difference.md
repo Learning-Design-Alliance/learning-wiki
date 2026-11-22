@@ -51,3 +51,4 @@ Comparison of early RDG cases (5, 6, and 4 cases by DSTs-1, Cs-1, Cs-2) limited 
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
 - [ESSQ-qualified surgeons show higher GOALS/ALL scores and lower NASA-TLX scores compared with non-qualified surgeons](essq-qualified-surgeons-higher-scores-lower-workload.md) — related
 - [GOALS score effectively identifies ESSQ qualification status with high sensitivity and specificity across all three tasks](goals-score-identifies-essq-qualification-status.md) — related
+- Postoperative complications and hospital stay do not differ between ESSQS-qualified and non-qualified surgeon groups — related

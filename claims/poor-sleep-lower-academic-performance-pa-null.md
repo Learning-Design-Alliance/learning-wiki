@@ -75,3 +75,4 @@ Same ordinal logistic regression model: PA (PAGUIDE binary variable) showed no s
 - [PA and sleep duration are independently associated with PWB, with no significant interaction between them](pa-sleep-independent-pwb-no-interaction.md) — related
 - [Fourth-year students had lower odds of poor sleep quality than second-year students](fourth-year-lower-odds-poor-sleep-quality.md) — related
 - [No significant association was found between sleep quality and academic achievement (GPA)](no-association-sleep-quality-gpa.md) — reports the opposite
+- [Good sleepers obtain significantly higher average academic grades than poor sleepers among nursing students](good-sleepers-higher-grades-nursing-students.md) — a narrower finding that bears on this claim

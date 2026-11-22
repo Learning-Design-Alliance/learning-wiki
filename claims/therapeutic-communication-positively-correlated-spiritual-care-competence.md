@@ -53,3 +53,4 @@ Pearson correlation analysis of cross-sectional survey data from 215 nurses at a
 - [Spiritual care competence shows a statistically significant positive high correlation with frequency of spiritual care practices among Turkish critical care nurses](sccs-nscts-correlation-turkish-ccns.md) — related
 - [Turkish critical care nurses reported a moderate level of spiritual care competence and a moderate frequency of spiritual care practice, with assessment and implementation the lowest competence subscale](moderate-spiritual-care-competence-ccns-turkiye.md) — related
 - [Nurses at the NICC show a moderate overall spiritual care competency score of 100.71±10.60 on the SCCS-27](nicc-nurses-moderate-spiritual-care-competency.md) — related
+- The C-SCCS correlates significantly with the PCSCCS-M (r=0.67), showing adequate concurrent validity — related

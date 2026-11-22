@@ -48,3 +48,4 @@ Authors' interpretive discussion of the program's success, not a tested result: 
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — related
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
+- Assessing attitude to a specific action rather than its target addressed low predictive validity of attitude measures (Fishbein) — related

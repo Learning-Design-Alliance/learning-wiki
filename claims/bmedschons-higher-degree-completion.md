@@ -70,3 +70,4 @@ PhD-or-equivalent completion within the same matched cohort: 13 cases (13.8%) vs
 - [AMSJ publication is associated with higher degree attainment, driven by Masters degrees but not PhDs or graduate certificates/diplomas](amsj-publication-associated-higher-degree-attainment.md) — related
 - [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related
 - [About one third of SPT graduates obtain PhD degrees after graduation](spt-graduate-phd-outcomes.md) — related
+- [NZMSJ student authors are significantly more likely to complete higher academic degrees, including PhDs, than matched controls](nzmsj-publication-associated-higher-degrees.md) — related

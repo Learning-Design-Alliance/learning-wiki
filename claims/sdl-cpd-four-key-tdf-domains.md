@@ -61,3 +61,4 @@ TDF-guided directed coding across the 17 included articles coded barriers and fa
 - [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — related
 - [Addressing organizational factors is at least equally important as individual-level interventions for sustaining humanistic practice and countering physician burnout.](organizational-change-as-important-as-individual-humanism-interventions.md) — related
 - [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related
+- Clinician barriers to insomnia recognition in family practice fall mainly on the Knowledge, Skills, and Environmental Context and Resources domains — related

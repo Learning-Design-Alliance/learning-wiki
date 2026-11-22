@@ -56,3 +56,5 @@ Stepwise linear regression with multicollinearity screening (VIF ≤ 5) on the 1
 - [Adolescents with moderate and active physical activity scores show significantly higher academic achievement and executive functioning scores than mildly active peers](pa-groups-higher-academic-achievement-adolescents.md) — related
 - [Negative and positive emotional functioning each independently predict academic achievement scores in stepwise multiple regression](emotional-functioning-independently-predicts-achievement.md) — related
 - [BMI is negatively associated with adolescent students' academic performance (β = -0.117, p < 0.01)](bmi-negative-association-academic-performance.md) — related
+- [Among female health-college undergraduates, academic performance is significantly negatively correlated with BMI (r = −0.391, p = 0.000).](bmi-negatively-correlated-gpa-female-health-students.md) — related
+- [Individual studies found significant PA–stress associations pointing in opposite directions](pa-stress-opposite-directions-individual-studies.md) — related

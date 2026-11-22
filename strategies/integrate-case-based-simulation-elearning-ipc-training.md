@@ -56,6 +56,7 @@ The article recommends strengthening infection control education in Sudanese med
 - [Integrate case-based learning, visual diagnostic training, and interdisciplinary teaching into medical curricula to strengthen oral diagnosis](integrate-case-based-oral-diagnosis-training-strategy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Multimodal infection-prevention training combining theory with clinical practice, delivered by qualified internal experts with employer-supported time](multimodal-nosocomial-training-strategy.md)
+- [Deliver targeted educational programs updating nurses' SSI-prevention knowledge to positively affect attitudes and adherence to evidence-based practices](targeted-ssi-education-programs-strategy.md)
 
 ## Examples
 -

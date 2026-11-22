@@ -51,6 +51,8 @@ The review recommends that future research move beyond passive, low-interactivit
 - [Use digital decision-support tools and simulations in future research to improve assessment accuracy and inter-rater agreement](digital-decision-support-and-simulation-future-research.md)
 - [Deliver physician behaviour-change training via the internet to enable wide, low-cost dissemination across health systems](internet-delivery-scalable-physician-training-strategy.md)
 - [Pilot-test media format before adopting mobile social learning technologies, and log time-on-viewing in future studies](pilot-media-format-and-time-on-viewing-strategy.md)
+- [Disseminate updated clinical guidelines through mobile notifications and periodic quick examinations, and revise nursing curricula toward practical, motivational training](guideline-dissemination-mobile-notification-nurse-curriculum-revision.md)
+- [Deliver training as self-paced, mobile-accessible modules at learners' convenience](self-paced-mobile-accessible-modules.md)
 
 ## Examples
 -

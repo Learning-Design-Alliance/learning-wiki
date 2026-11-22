@@ -48,3 +48,4 @@ Multivariate GLM (N = 1,766) adjusting for gender and IQ; AF measured with ±2.0
 - [Myopic children with undercorrected myopia score significantly lower academically than fully corrected myopic children](myopia-undercorrection-lower-academic-performance.md) — related
 - [Higher astigmatism is significantly negatively correlated with academic performance in primary school children](astigmatism-negatively-correlated-academic-performance.md) — related
 - [Poorer presenting visual acuity is significantly negatively correlated with academic performance in primary school children after adjusting for gender and IQ](pva-negatively-correlated-academic-performance-children.md) — related
+- [Distance and near visual acuity are lower and the near point of convergence longer in children with bad academic performance](lower-visual-acuity-longer-npc-bad-performance.md) — related

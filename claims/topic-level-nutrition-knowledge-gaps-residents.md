@@ -53,3 +53,4 @@ Table 2 reports the percentage of correct answers for each of the nine knowledge
 - [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related
 - [Item-level performance reveals specific weaknesses in radiology interpretation and specialized clinical topics](item-level-weaknesses-radiology-clinical-topics-syria.md) — related
 - [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
+- [Nurses' incorrect responses concentrate in osteoporosis prevention and screening items, with fewer than half answering correctly](knowledge-gaps-prevention-screening-items.md) — related

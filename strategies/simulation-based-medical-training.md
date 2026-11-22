@@ -92,6 +92,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Use scenario-based high-fidelity ALS simulation with video-review debriefing and realistic scenario elements in undergraduate medical education](scenario-based-als-simulation-debriefing-strategy.md)
 - [Procedural simulation instructional design strategy: mastery learning, process feedback, and competency decay prevention](procedural-sim-mastery-decay-strategy.md)
 - [Train staff in cognitive-aid use, placement, cueing and content before implementing bedside resuscitation cognitive aids in live clinical settings](train-staff-before-cognitive-aid-implementation.md)
+- [Half-day repetition training sessions with new scenarios and raised performance expectations](half-day-repetition-training-sessions-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

@@ -74,3 +74,4 @@ Chi-square analysis in the same cross-sectional sample reports the printed odds 
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — reports the opposite
 - [The combined regression model of physical activity, eating-disorder symptoms, depression, age, and specialty is significant but explains only 6.1% of GPA variance](regression-model-modest-gpa-variance.md) — related
 - [Undergraduates with A and B GPAs were significantly more likely than D/F students to meet physical activity guidelines and participate in college athletics](gpa-physical-activity-prevalence-undergraduates.md) — related
+- [Physical activity and sitting time show no significant association with GPA among university students](physical-activity-sitting-time-no-gpa-association.md) — reports the opposite

@@ -55,3 +55,4 @@ Exploratory random-effects meta-analysis of 3 cross-sectional studies using subj
 - [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related
 - [The certainty of evidence for the MedDiet–objective AP association is very low per GRADE](meddiet-ap-grade-very-low-certainty.md) — related
 - [The MedDiet–objective AP association remained significant only among studies using MEDAS-14, not KIDMED, though the subgroup difference was not significant](meddiet-ap-instrument-subgroup-medas-kidmed.md) — related
+- [Adherence to the Mediterranean diet differs between students with higher and lower average grades, though the text and table disagree on direction](mediterranean-diet-adherence-academic-grades.md) — related

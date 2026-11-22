@@ -57,6 +57,7 @@ This strategy engages a diverse group of end-users and experts as partners acros
 - [Design E-learning for adoption by involving target users throughout development, catering to diverse learning preferences, and integrating the tool department-wide](strategy-design-for-adoption-e-learning.md)
 - [Involve potential end users in focus groups at the design phase of a health app to align content and features with user-elicited preferences](user-centered-focus-groups-app-design.md)
 - [Assessment domain: direct, continuous, personalized assessment and feedback, including self-assessment](postgraduate-me-assessment-continuous-personalized.md)
+- [Engage community stakeholders as equal partners to design, pilot, and deliver bias training](community-stakeholder-co-design-bias-training-strategy.md)
 
 ## Examples
 -

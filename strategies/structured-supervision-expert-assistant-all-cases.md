@@ -49,6 +49,7 @@ The article's implementation recipe pairs a procedure-naïve surgeon with a sing
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Five-step structured training pathway for a surgical team adopting LASPME](five-step-laspme-team-training-pathway.md)
 - [Train senior residents in SILS after demonstrated proficiency in traditional LC, with case-step review and pre-case verbal walkthrough.](sils-training-after-lc-proficiency-strategy.md)
+- [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
 
 ## Examples
 -

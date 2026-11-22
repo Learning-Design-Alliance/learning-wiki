@@ -49,3 +49,4 @@ Descriptive cross-sectional survey of 207 ICU nurses in three Turkish public hos
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Chinese ICU nurses showed deficient knowledge of eye care for critically ill patients, with an average correct rate of 38.3%](icu-nurses-deficient-eye-care-knowledge-38-percent.md) — related
 - [No statistically significant differences in eye care knowledge, attitudes, or practices across ICU unit types and levels](no-icu-type-differences-eye-care-competence.md) — related
+- [Nurses' education level is significantly associated with the personal-and-team-support factor, with junior college and undergraduate nurses scoring higher than postgraduate nurses](education-level-associated-c-sccs-factor-2.md) — related

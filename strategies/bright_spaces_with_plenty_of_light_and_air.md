@@ -60,7 +60,9 @@ Environmental quality operates as a background condition that modulates the cogn
 6. Re-check seasonally: winter brings low daylight and closed windows; plan for both.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the complementary physical-environment lever; light, air, and noise jointly determine ambient cognitive load
+- [Prioritise interventions to reduce traffic and emissions near schools, with indoor air filtration as a complementary opportunity](reduce-traffic-emissions-near-schools-strategy.md)
 
 ## Examples
 - **Heschong Mahone Group daylighting studies (1999, 2003)** — Large-scale analyses of over 21,000 U.S. students found classrooms with the most daylighting showed 20–26% faster learning progress in math and reading, controlling for other variables.

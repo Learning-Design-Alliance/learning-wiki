@@ -144,6 +144,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use a virtual-clinic-plus-eBook model for independent learning about rare diseases lacking patient contact](virtual-clinic-ebook-rare-disease-strategy.md)
 - [Adaptive instructional planning allocates scarce patient-treatment opportunities to students who benefit most](adaptive-patient-allocation-strategy.md)
 - [Hybrid teaching sequence: simulation to introduce concepts, real experiment to manipulate, then simulation to model and generalize](hybrid-simulation-real-experiment-sequence.md)
+- [Allocate student volunteers to low-risk prevention activities and limit clinical-setting volunteering to well-prepared clinical-year students](low-risk-volunteer-allocation-clinical-years-only.md)
 
 ## Examples
 -

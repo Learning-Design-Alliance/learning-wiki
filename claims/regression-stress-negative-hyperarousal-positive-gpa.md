@@ -59,3 +59,4 @@ Multiple linear regression with GPA as dependent variable and depression, anxiet
 - [Direct academic outcomes were less informative than performance-related LMS behavior: elevated depression and anxiety were not associated with clear academic decline and were even marginally related to higher project scores, but correlated with differences in assessment-page navigation](performance-navigation-over-grades.md) — related
 - [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — reports the opposite
 - [Higher depression, anxiety, and stress scores are associated with students reporting that the pandemic worsened their academic performance](negative-affectivity-associated-worse-academic-performance-post-covid.md) — related
+- [Higher mindfulness predicts lower odds of stress and depression in multiple logistic regression](mindfulness-predicts-lower-odds-stress-depression.md) — related

@@ -62,3 +62,4 @@ In the three-round Delphi study, Round 2 retained 124 items meeting consensus cr
 - [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
 - [A Delphi study identified 18 skills for Advanced Access and 22 skills for Process Redesign logistics improvement projects](delphi-18-22-skills-logistics-improvement.md) — related
+- A Delphi expert panel finalized 72 clinical competencies for alcohol care teams, aligned to eight core service descriptors — related

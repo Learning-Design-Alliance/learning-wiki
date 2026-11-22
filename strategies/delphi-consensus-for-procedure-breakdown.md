@@ -48,6 +48,7 @@ Assemble a panel of experienced physicians selected by reproducible criteria (e.
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
 - [Use a two-phase modified Delphi approach with a purposive voting panel to prioritize competencies](two-phase-modified-delphi-competency-prioritization.md)
 - [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
+- [Two-step process for defining surgical expertise in future expertise-based trials: choose a learning-curve proxy, then assess surgeons against predefined criteria](two-step-surgical-expertise-criteria.md)
 
 ## Examples
 -

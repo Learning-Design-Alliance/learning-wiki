@@ -50,3 +50,4 @@ Multivariable conditional logistic regression (R, clogit) among the 55 AMSJ auth
 - [AMSJ authors were significantly more likely to enter surgical training, with no association for GP/emergency or physician training](amsj-publication-associated-surgical-training.md) — related
 - [The Australian findings replicate the New Zealand MSJ association for publications and higher degrees, but not for PhDs or faculty positions](amsj-replicates-nzmsj-academic-success-partially.md) — a broader claim this one bears on
 - [No significant association was found between AMSJ publication and future faculty position attainment](amsj-publication-no-association-faculty-position.md) — related
+- [NZMSJ publication independently predicts post-graduation publication after adjusting for higher degree and faculty position (OR 2.64)](nzmsj-publication-independent-predictor-postgrad-publication.md) — related

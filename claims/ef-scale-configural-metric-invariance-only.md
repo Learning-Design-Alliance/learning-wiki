@@ -52,3 +52,4 @@ Multi-group CFA of the five-domain EF measurement model across gender, reported 
 - [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related
 - [The AGS shows scalar measurement invariance across gender among Chinese early adolescents](ags-scalar-invariance-gender.md) — related
 - [Measurement invariance of the C-Scale-I across education levels is supported by ΔCFI and ΔSRMR criteria](c-scale-i-measurement-invariance-education-level.md) — related
+- [The CAPS-14 shows configural and full metric invariance, partial scalar invariance, and structural invariance across middle and high school students](caps14-measurement-invariance-grade-levels.md) — related

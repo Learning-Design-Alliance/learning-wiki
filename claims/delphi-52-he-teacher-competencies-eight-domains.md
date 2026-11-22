@@ -56,3 +56,4 @@ First-round results of the three-round Delphi study with 25 Finnish health educa
 - [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
 - [A four-round Delphi panel of infection-control experts in Brazil reached consensus on 4 core, 14 generic and 17 specific competencies for HCRI prevention and control](delphi-consent-hcri-competencies-brazil.md) — related
+- A Delphi expert panel finalized 72 clinical competencies for alcohol care teams, aligned to eight core service descriptors — related

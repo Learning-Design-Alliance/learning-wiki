@@ -53,3 +53,4 @@ Post hoc multilevel regression analyses of 845 adolescents (Table 3): TV viewing
 - [Internet use at age 11 showed a positive adjusted association with mathematics ability at age 17 in females, though unadjusted correlations were null](internet-use-age-11-higher-math-age-17-females.md) — related
 - [Leisure reading at age 11 is positively associated with mathematics ability at age 17 among female adolescents](leisure-reading-age-11-higher-math-age-17-females.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — related
+- [Greater weekday screen use across gaming, TV/video, and homework/social media is associated with poorer academic performance; the weekend relationship was not linear](screen-use-negatively-associated-academic-performance.md) — related

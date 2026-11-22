@@ -52,3 +52,4 @@ Log-binomial regressions on the Spring 2023 ACHA-NCHA III (N = 50,792; 125 insti
 - [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related
 - [Low Youth Healthy Eating Index score is associated with higher odds of poor ELA performance](low-yhei-poor-ela-performance.md) — related
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
+- [Consuming more than one cup of soft drink per week and takeaway foods at least weekly are each associated with lower GPA](soft-drink-takeaway-lower-gpa-university-students.md) — related

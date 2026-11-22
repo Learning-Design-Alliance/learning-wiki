@@ -62,3 +62,4 @@ Bivariate correlations in the descriptive analysis of the full sample showed gen
 - [Lecture attendance was related to better academic performance and lower average opportunity cost, but unrelated to gender](attendance-selectivity-grades-opportunity-cost.md) — related
 - [The knowledge test showed measurement invariance across gender and school grade, with girls and ninth-graders scoring better at small effect sizes](bls-test-measurement-invariance-gender-grade.md) — reports the opposite
 - [Girls earn significantly higher and significantly less variable teacher-assigned grades than boys overall](girls-higher-less-variable-grades-overall.md) — related
+- [Academic achievement correlates weakly with Flanker task performance, with somewhat stronger correlations among girls than boys](weak-correlations-achievement-flanker.md) — related

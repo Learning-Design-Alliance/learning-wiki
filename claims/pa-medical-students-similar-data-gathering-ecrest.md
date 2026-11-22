@@ -50,3 +50,4 @@ Retrospective comparison of 159 medical and 54 PA students completing eCREST Cas
 - [Medical and PA students' reflective takeaways differ: medical students more often cite open-mindedness, PAs more often cite knowledge improvement](reflection-themes-differ-pa-medical-students.md) — related
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
 - [eCREST did not significantly change relevance of history taking or flexibility in diagnoses](ecrest-no-effect-relevance-flexibility.md) — related
+- [Physicians with sleep-medicine instruction more often ask about sleep than uninstructed peers, who frequently record no sleep history](sleep-instruction-increases-sleep-history-taking.md) — related

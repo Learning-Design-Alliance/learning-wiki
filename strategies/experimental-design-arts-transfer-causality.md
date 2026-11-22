@@ -50,6 +50,7 @@ The authors recommend moving beyond correlational longitudinal surveys to design
 - [Move beyond explorative expert-novice comparisons to hypothesis-driven designs investigating application of evidence-based pedagogical principles](hypothesis-driven-designs-beyond-expert-novice.md)
 - [Use longitudinal designs combining experimental manipulation with alternating measurement of motivation and achievement to establish causal reciprocity](designs-for-causal-reciprocal-inference.md)
 - [Future research should replicate the model in diverse educational domains and use experimental and intervention methods](tcm-future-research-replication-and-experimental-designs.md)
+- [Use cognitive-task indicators and experimental mindfulness-training trials instead of GPA-based performance measures](cognitive-tasks-and-experimental-mindfulness-trials-strategy.md)
 
 ## Examples
 -

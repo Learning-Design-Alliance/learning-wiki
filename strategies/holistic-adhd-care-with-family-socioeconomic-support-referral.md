@@ -44,6 +44,7 @@ The article's discussion recommends that because children presenting with ADHD s
 ## Related Strategies
 
 - [Incorporate socioeconomic factors into outcome discussions with families of preterm infants](discuss-ses-factors-with-preterm-families.md)
+- [Target factors related to parental education in interventions aimed at reducing child ADHD symptoms and academic problems](parental-education-target-interventions-adhd-academic.md)
 
 ## Examples
 -

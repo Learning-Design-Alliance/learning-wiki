@@ -42,6 +42,7 @@ The article reports that students received the postpartum hemorrhage scenario an
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Staged pre-briefing preparation before a simulation scenario (written material, online class, laboratory practice)](staged-pre-briefing-preparation-sequence.md)
 - [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
+- [Half-day repetition training sessions with new scenarios and raised performance expectations](half-day-repetition-training-sessions-strategy.md)
 
 ## Examples
 -

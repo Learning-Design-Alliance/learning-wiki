@@ -48,3 +48,4 @@ Respondents rated training needs per area in the national survey (n = 444); the 
 - [Confidence levels are highest for Refraction and basic procedures and lowest for Prismatic Prescription, Low Vision and advanced diagnostic procedures](confidence-lowest-advanced-procedures-highest-basic.md) — related
 - [Portuguese optometrists' most frequently performed procedures are a reductive view of the internationally stipulated scope of practice](portuguese-optometrists-reductive-performed-competencies.md) — related
 - [Graduates and less experienced optometrists report greater training needs than Masters/PhDs and more experienced peers](graduates-less-experienced-greater-training-needs.md) — related
+- Eritrean optometry technicians are unevenly distributed, with four of six Zobas below the WHO-recommended ratio of one refractionist per 50,000 population — related

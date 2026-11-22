@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 299 claims (206 show a difference, 64 mixed, 29 no difference) · 192 studies (68 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 192 report an effect size · 296 claims rest on one study
+> **Evidence** · 300 claims (207 show a difference, 64 mixed, 29 no difference) · 193 studies (69 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 193 report an effect size · 297 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -334,6 +334,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [The benefit of concrete elaboration was statistically evident only among High Confusion students, with a non-significant similar trend among Low Confusion students](../claims/elaboration-benefit-high-confusion-subgroup.md) [~M] — an instructional effect differs with it
 - [Recognition and misrecognition events were associated with strong emotions: pride for recognition, isolation and rejection for misrecognition](../claims/recognition-events-strong-emotions-pride-isolation.md) [+W] — measured as an outcome of the instruction studied
 - [47% of post-pandemic freshmen perceive the pandemic worsened their overall academic performance, with higher odds among students with more stress, boredom, introjected regulation, and university connectedness, and lower odds among older students and those with more pride](../claims/pandemic-worsened-academic-performance-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents with high guidance support (APAF4) report more boredom than those with low or medium support](../claims/high-guidance-support-more-boredom.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

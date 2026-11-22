@@ -52,3 +52,4 @@ Random-effects meta-analysis of 6 effect sizes for the deprived-geographic-area 
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
 - [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](deprivation-associated-underattainment-preterm.md) — related
 - [Agency-mediated UGR programs with large applicant pools risk selecting under-prepared students due to uneven university grading](agency-mediated-ugr-selection-risk.md) — related
+- [Raising selection thresholds under the NCM did not disadvantage applicants from low SES backgrounds, with no significant SES difference between models](ncm-no-ses-disadvantage.md) — a narrower finding that bears on this claim

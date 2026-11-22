@@ -49,3 +49,4 @@ Bereaved carer survey using the 10-item SWC-EOLD scale on care during the last 9
 - [IMPETUS-D training showed no significant reduction in unplanned hospital transfers at 12-months follow-up](impetus-d-no-reduction-hospital-transfers-12-months.md) — related
 - [IMPETUS-D simulation training did not reduce unplanned hospital transfers or deaths in hospital among residents with dementia at 6 months in a cluster RCT](impetus-d-no-reduction-hospital-transfers-6-months.md) — related
 - [IMPETUS-D training did not improve staff palliative care knowledge and attitudes (qPAD) at 6 months](impetus-d-no-staff-knowledge-attitude-gain-qpad.md) — related
+- [A cluster RCT protocol will test whether IMPETUS-D reduces hospital transfers and deaths in hospital among residents with advanced dementia by 20% over 6 months](impetus-d-cluster-rct-protocol-20-percent-reduction.md) — related

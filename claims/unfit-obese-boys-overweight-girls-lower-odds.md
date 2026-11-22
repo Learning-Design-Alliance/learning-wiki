@@ -73,3 +73,4 @@ Same regression, Slovak language outcome. Unfit overweight girls had significant
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — related
 - [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](weight-status-associated-academic-performance.md) — related
+- [Overweight, obesity, and increased cardiometabolic risk are associated with poorer cognition and academic achievement in children, but longitudinal evidence is inconsistent and causality is unestablished](adiposity-cardiometabolic-risk-cognition-children.md) — a broader claim this one bears on

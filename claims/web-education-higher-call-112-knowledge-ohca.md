@@ -49,3 +49,4 @@ Questionnaire item from Table 4 of the cluster randomised controlled trial, comp
 - [The advantage of BLS+WEB over BLS alone in total practical skills score was present both directly after training and at the six-month retention test](web-cvd-education-higher-bls-post-test-score.md) — related
 - [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — reports the opposite
 - [A preparatory web course before CPR training does not significantly increase willingness to act in a cardiac arrest situation, though willingness regarding a friend was marginally higher at 6 months](web-course-cpr-willingness-null.md) — related
+- Older and more experienced podiatrists more accurately estimated the low survival rate of out-of-hospital cardiac arrest — related

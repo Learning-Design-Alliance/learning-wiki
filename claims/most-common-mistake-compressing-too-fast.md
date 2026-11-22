@@ -51,3 +51,4 @@ Descriptive annotation data from the SimPad SkillsReporter across the 11 partici
 - [Pre-training compression frequency and depth averages fell within AHA ranges, but quality was inadequate because the two parameters rarely occurred simultaneously](compression-frequency-depth-within-range-but-quality-inadequate.md) — related
 - [Sessions with CPR Tutor feedback showed no significant difference in overall mistake frequency compared with control sessions without feedback](cpr-tutor-no-overall-mistake-frequency-reduction.md) — related
 - [Chest compression depth was adequate in a majority (55% in 40–50 mm) while compression rate exceeded the guideline maximum in half of providers](rural-ems-compression-depth-rate.md) — related
+- Chest compression depth by lifeguards decreases as compression rate rises above 120 CPM — related

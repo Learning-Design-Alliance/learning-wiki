@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-22
 sources:
   - id: saeed-sana-2024
     resource: "https://doi.org/10.1186/s12909-024-05459-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall teamwork scores increased from 3.16 ± 1.20 to 7.61 ± 1.09 and overall team communication from 3.16 ± 1.24 to 7.61 ± 1.28 (p < 0.001). [→ Saeed Sana 2024](#saeed-sana-2024)

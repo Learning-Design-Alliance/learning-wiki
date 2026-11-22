@@ -49,3 +49,4 @@ Code analysis of Approach 2's data generation, where noise standard deviation eq
 - [ChatGPT Code Interpreter correctly plots, fits and analyses real experimental data when explicitly prompted to perform an ODR fit](chatgpt-code-interpreter-real-data-odr-analysis.md) — related
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
 - [ChatGPT's curve_fit line fitting in Approach 2 neglects x-errors even when the synthetic data includes uncertainties in both variables](curve-fit-neglects-x-errors.md) — related
+- [Machine learning outperformed regression for simulated nonlinear and heteroscedastic relationships, with regression using splines performing almost as well for nonlinear data](ml-superior-nonlinear-heteroscedastic-simulations.md) — related

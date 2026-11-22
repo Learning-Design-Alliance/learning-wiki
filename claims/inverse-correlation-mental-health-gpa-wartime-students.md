@@ -84,3 +84,5 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Spiritual well-being shows a significant direct negative association with depression in medical sciences students](swb-negative-association-depression.md) — related
 - [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — related
 - [Social anxiety is negatively associated with college students' academic performance (GPA)](social-anxiety-negative-academic-performance.md) — related
+- [Mindfulness is inversely associated with depression and stress but not with GPA in Saudi medical students](mindfulness-inverse-depression-stress-not-gpa.md) — related
+- [Higher mindfulness predicts lower odds of stress and depression in multiple logistic regression](mindfulness-predicts-lower-odds-stress-depression.md) — related

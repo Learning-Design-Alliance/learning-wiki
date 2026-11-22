@@ -50,3 +50,4 @@ The cross-sectional study's two regression approaches gave divergent gender find
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
 - [Year of study and minority ethnicity predict poor academic performance in both genders, with other demographic predictors differing by gender](demographic-predictors-gpa-gender-specific.md) — related
+- [Bereavement and burial under a collapsed building predicted poor school adaptation, while being female, senior, or participating in reconstruction predicted better adaptation](yushu-school-maladaptation-predictors.md) — related

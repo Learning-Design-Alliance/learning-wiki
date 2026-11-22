@@ -55,3 +55,4 @@ Descriptive survey results on demand for statistics education (N = 274) from sec
 - [Preferred content of surgical e-lecture viewers is current guidelines, latest research topics, and complex surgical conditions](preferred-e-lecture-content-guidelines-research-complex-cases.md) — related
 - [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related
 - [End-of-course surveys showed most students favored the method, but a minority reported no change or worse results](smartphone-app-method-survey-perceptions.md) — related
+- [Most Australian podiatrists are willing to receive further education on DCD, preferring clinical guidelines, factsheets and online presentations](podiatrists-willing-further-dcd-education.md) — related

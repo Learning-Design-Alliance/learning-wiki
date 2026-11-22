@@ -49,3 +49,4 @@ Manikin assessment with Laerdal PC SkillReporting System; one-sample t tests aga
 - [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
 - [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related
 - [Tidal volumes delivered by rural EMS providers during simulated CPR significantly exceeded the recommended maximum of 600 ml](rural-ems-tidal-volume-exceeded-600ml.md) — related
+- Chest compression depth by lifeguards decreases as compression rate rises above 120 CPM — related

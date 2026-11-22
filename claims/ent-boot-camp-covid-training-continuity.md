@@ -50,3 +50,4 @@ Authors' interpretation in the Discussion, not a tested result: the article offe
 - [Most trainees reported the boot camp added to their knowledge, improved technical skills and increased confidence managing ENT on-call problems](ent-boot-camp-perceived-knowledge-skills-confidence.md) — a narrower finding that bears on this claim
 - [Trainees rated interactive lectures the most beneficial boot camp component, ahead of simulated case scenarios and procedural skills training](ent-boot-camp-interactive-lectures-preferred.md) — related
 - [The article argues that health care team simulation training is important during the COVID-19 pandemic and should be adapted, not suspended, to minimize occupational spread of the virus](simulation-team-training-continues-during-covid19.md) — related
+- [Social and physical isolationism during COVID-19 is disadvantageous to educational engagement in OMS](social-distancing-harms-educational-engagement.md) — related
