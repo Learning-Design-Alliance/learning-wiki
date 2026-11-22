@@ -27,3 +27,6 @@ Rohrer & Taylor (2007), The shuffling of mathematics problems improves learning,
 ### 2026-11-05 · claim · process:article-ingest
 Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
 Linked claim from Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
+
+### 2026-11-22 · ingest · process:article-ingest
+Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
