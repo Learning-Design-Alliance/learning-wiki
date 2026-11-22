@@ -52,7 +52,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 4 quant-synthesis `r?` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2019 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 

@@ -7,7 +7,7 @@ canonical: true
 status: review
 generated:
   by: "process:article-ingest"
-  at: 2026-11-05
+  at: 2026-11-22
 sources:
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (21 for, 6 mixed) · 23 studies (11 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 23 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (26 for, 6 mixed) · 25 studies (11 causal, 5 review, 4 quant-synthesis, 3 associational, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -67,6 +67,11 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](../claims/parameters-vary-systematically-with-interval.md) [~W]
 - [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](../claims/personalized-spaced-review-improves-course-retention.md) [+M] — Lindsey et al. (2014): personalized scheduling inside retrieval-practice software, one middle-school foreign-language course
+- [In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words](../claims/recall-at-lower-probability-lengthens-half-life-more.md) [+W] — Ye et al. (2022): rules fitted to 220 million review logs from one English-vocabulary app; observational, no assigned gaps
+- [In vocabulary-app review logs, a memory model that tracks each item's review history predicted memory half-life after a review with less error than half-life regression](../claims/review-history-model-predicts-half-life-better-than-hlr.md) [+W] — Ye et al. (2022): the accuracy of the memory model an adaptive scheduler would rely on
+- [In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules](../claims/cost-minimizing-scheduler-fewer-review-days-simulation.md) [+W] — Ye et al. (2022): a simulation in the authors' own fitted model; no learners tested
+- [In cross-validated vocabulary-app review logs, memory models that use each item's sequence of past recall probabilities and review gaps predicted recall with about a third of half-life regression's error](../claims/review-history-features-cut-recall-prediction-error.md) [+W] — Su et al. (2023): the accuracy of the memory model an adaptive scheduler would rely on; one app's logs
+- [In a simulation built on vocabulary-app review logs, a cost-minimising review scheduler reached a target number of durable words in fewer days than other schedules under both a hand-built and a neural memory model](../claims/cost-minimizing-scheduler-advantage-holds-across-memory-models.md) [+W] — Su et al. (2023): simulation only; no learners tested
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -108,7 +113,8 @@ Spaced repetition is the element in which key material is revisited at strategic
 
 ### Should harder items get more reviews?
 - **Default:** give harder items more review time on the lower (less-known) decks; for easy items spread time roughly evenly — [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty.md) [+W], [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
-- **Tested with:** a scheduling model's optimisation only ([Reddy et al. 2016](https://doi.org/10.1145/2939672.2939850)); no learners.
+- **Also a model result:** in rules fitted to vocabulary-app logs, harder words gained less half-life from each successful recall, so a scheduler minimising review time gave them a higher expected review cost; at the same half-life it gave easier words shorter intervals, to avoid failures that would raise their difficulty — [In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words](../claims/recall-at-lower-probability-lengthens-half-life-more.md) [~W], [In a simulation built on vocabulary-app review logs, a scheduler that minimises expected review time brought 6,000 words to a one-year half-life in fewer days than Anki-style, threshold and MEMORIZE schedules](../claims/cost-minimizing-scheduler-fewer-review-days-simulation.md) [~W]
+- **Tested with:** a scheduling model's optimisation only ([Reddy et al. 2016](https://doi.org/10.1145/2939672.2939850)), and a simulation in a memory model fitted to one app's logs ([Ye et al. 2022](https://doi.org/10.1145/3534678.3539081)); no learners.
 - **Not settled:** no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.
 
 ## The evidence by question

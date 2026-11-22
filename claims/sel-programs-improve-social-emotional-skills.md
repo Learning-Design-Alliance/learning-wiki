@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q4` · `i2` medium
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 Structured social-emotional learning (SEL) programs — sequenced curricula that explicitly teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — improve students' social-emotional competencies.
 

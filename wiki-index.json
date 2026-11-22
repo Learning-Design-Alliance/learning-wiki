@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":86101,
+"claim":86106,
 "design":5660,
 "element":1057,
 "learner-variable":75,
@@ -16540,6 +16540,8 @@
 "cosmology-last-within-astrophysics-unit":"cosmology-last-within-astrophysics-unit",
 "cost-benefit-strategic-learning-selection":"cost-benefit-strategic-learning-selection",
 "cost-function-weights-need-factors":"cost-function-weights-need-factors",
+"cost-minimizing-scheduler-advantage-holds-across-memory-models":"cost-minimizing-scheduler-advantage-holds-across-memory-models",
+"cost-minimizing-scheduler-fewer-review-days-simulation":"cost-minimizing-scheduler-fewer-review-days-simulation",
 "cost-of-inaction-pre-primary-gdp":"cost-of-inaction-pre-primary-gdp",
 "cost-of-living-adjustment-changes-teacher-salary-value":"cost-of-living-adjustment-changes-teacher-salary-value",
 "cost-of-multiple-concrete-representations":"cost-of-multiple-concrete-representations",
@@ -65175,6 +65177,7 @@
 "recall-accuracy-consistent-with-retention":"recall-accuracy-consistent-with-retention",
 "recall-accuracy-variance-components":"recall-accuracy-variance-components",
 "recall-age-condition-difficulty-interaction":"recall-age-condition-difficulty-interaction",
+"recall-at-lower-probability-lengthens-half-life-more":"recall-at-lower-probability-lengthens-half-life-more",
 "recall-benefit-limited-to-explanatory-propositions":"recall-benefit-limited-to-explanatory-propositions",
 "recall-better-types-than-categories-questions":"recall-better-types-than-categories-questions",
 "recall-captures-only-strong-ties":"recall-captures-only-strong-ties",
@@ -66835,6 +66838,8 @@
 "review-game-student-enthusiasm":"review-game-student-enthusiasm",
 "review-game-team-autonomy":"review-game-team-autonomy",
 "review-group-lowest-delegation-nonsignificant":"review-group-lowest-delegation-nonsignificant",
+"review-history-features-cut-recall-prediction-error":"review-history-features-cut-recall-prediction-error",
+"review-history-model-predicts-half-life-better-than-hlr":"review-history-model-predicts-half-life-better-than-hlr",
 "review-inductive-effective-most-cases":"review-inductive-effective-most-cases",
 "review-notes-compliance-predicts-learning-gains":"review-notes-compliance-predicts-learning-gains",
 "review-operational-teaming-most-common-no-synergistic":"review-operational-teaming-most-common-no-synergistic",

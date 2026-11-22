@@ -49,7 +49,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (4 entries) · 1 causal `r1`, 1 design `r2` · `q2`
-> **Currency** · newest study 2019 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Guangtian Zhu and Chandralekha Singh 2008: groups were assigned but students were analysed as independent · Guangtian Zhu and Chandralekha Singh 2008 (2): groups were assigned but students were analysed as independent · Guangtian Zhu and Chandralekha Singh 2008 (3): the intervention came bundled with another change (read from the study by two models, 2026-11-17)
 
 ## Subclaims

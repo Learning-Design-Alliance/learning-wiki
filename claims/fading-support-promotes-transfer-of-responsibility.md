@@ -33,7 +33,7 @@ newest_evidence: 2010
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3`
-> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 Fading, or the gradual withdrawal of support, is one way to move from studying examples to independent problem solving. The recorded experiments support this transition at least for near transfer; they do not establish that every scaffold must fade at one rate or that fading prevents long-term dependence.
 

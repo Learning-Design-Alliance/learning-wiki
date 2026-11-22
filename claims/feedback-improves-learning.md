@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
-> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Feedback Improves Learning -->
 
 Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.

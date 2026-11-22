@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test achievement scores differed significantly in favour of the scenario based learning group (M=76.28) over the reflective learning group (M=66.63). [→ Hursen 2017](#hursen-2017)
