@@ -52,3 +52,4 @@ The evaluation reports BMI outcomes for the targeted subgroup: students "who wer
 - [Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later](healthy-harlem-get-fit-prevention-pacer-increases.md) — related
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — a broader claim this one bears on
 - [Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support](healthy-harlem-self-efficacy-social-support-impacts.md) — related
+- [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related

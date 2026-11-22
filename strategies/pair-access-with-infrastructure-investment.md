@@ -58,6 +58,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Treat equity and student access to technology and materials as a primary constraint in remote and hybrid lab course design](equity-first-remote-lab-design.md)
 - [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
 - [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
+- [Implement blended simulation and e-learning through faculty development, infrastructure investment, and CBME alignment](blended-simulation-elearning-implementation-strategy.md)
 
 ## Examples
 -

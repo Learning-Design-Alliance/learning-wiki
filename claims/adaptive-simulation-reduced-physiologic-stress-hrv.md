@@ -50,3 +50,4 @@ Randomized controlled trial of 81 emergency physicians across 324 shifts at two 
 - [Nurses report higher perceived stress than physicians during critical bronchoscopy scenarios, and nurses' self-rated stress exceeds physicians' ratings of it](nurses-higher-perceived-stress-bronchoscopy-scenarios.md) — related
 - [Students' mean heart rates are significantly higher during VR simulation than during desktop simulation](vr-simulation-higher-mean-heart-rate-than-desktop.md) — related
 - [Capability and workload in theatre are degraded or raised by human-factors conditions magnified during COVID-19](human-factors-capability-workload-modifiers.md) — related
+- [The AI-personalized group was associated with larger HRV improvement than standardized and control groups (HRV d = 1.13)](ai-personalized-hrv-improvement.md) — related

@@ -70,3 +70,4 @@ Content validity evaluation by six nursing faculty and clinical nurses using an 
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
 - [Content validity of the debriefing protocol's core questions was high, with total CVI of 0.92](debriefing-protocol-cvi-092.md) — related
+- [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related

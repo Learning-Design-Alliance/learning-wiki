@@ -60,3 +60,4 @@ Finding from the report's analyses of school-level supports, using three-level h
 - [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related
 - [Both performance groups felt peer assessment motivated their learning and mutual professional development](peer-assessment-motivates-mutual-learning.md) — related
 - [In-service teachers with permanent positions were very difficult to involve actively in professional development, while young teachers without permanent positions were more open to innovation](in-service-permanent-teachers-hard-to-involve.md) — related
+- [Proactive leader problem-solving plays a central, previously under-examined role in reinforcing PSC in school settings](proactive-leadership-reinforces-psc.md) — related

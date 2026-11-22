@@ -49,3 +49,4 @@ In the census study (n = 426), the descriptive analysis of anxiety triggers foun
 - [In compulsory secondary education PE, anger and fear predominated, driven mainly by physical fitness testing, grading pressures and “exposed body” experiences](anger-fear-predominant-cse-pe.md) — related
 - [First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample](high-support-high-strain-coexistence-first-years.md) — related
 - [First encounters with delirium produce intense fear, professional inadequacy, and empathy-based emotional burden in nursing students](delirium-first-encounter-emotional-burden.md) — related
+- [Psychological pressure is the most frequently reported reason for career regret among higher-regret Syrian medical students](psychological-pressure-leading-reason-for-regret.md) — related

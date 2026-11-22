@@ -70,3 +70,4 @@ Confirmatory factor analysis on the independent validation subsample of 393 nurs
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Factor analysis of GLBCC implementation identified four factors from ten retained variables](glbcc-four-implementation-factors.md) — related
+- [Q-factor analysis of 42 Taiwanese family medicine outpatients identifies 5 distinct patient perspectives on physicians' health literacy competencies, explaining 50.88% of total variance](q-factor-five-patient-perspectives-health-literacy.md) — related

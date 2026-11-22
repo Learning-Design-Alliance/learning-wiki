@@ -60,3 +60,4 @@ One-month follow-up in the 45-nurse trial showed between-group differences remai
 - [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related
 - [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related
 - [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
+- [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related

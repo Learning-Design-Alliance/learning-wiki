@@ -54,6 +54,7 @@ Based on the observed subgroup preferences, the authors recommend adapting CME/C
 - [Build periodic diabetes care training for primary care physicians into mandatory annual CME](periodic-cme-diabetes-training-for-pcps.md)
 - [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
 - [Use field-of-practice opinion data to fine-tune post-basic training programmes tailored to predominantly clinical, managerial, or academic occupational physician roles](tailored-op-training-by-field-of-practice.md)
+- [Targeted achalasia education using case-based discussions, guidelines, and CME, with structured curricula across specialties](targeted-achalasia-education-strategy.md)
 
 ## Examples
 -

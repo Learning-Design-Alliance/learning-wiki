@@ -51,6 +51,7 @@ The article recommends that strengthening medication safety competence requires 
 ## Related Strategies
 
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
+- [Combine continuous patient safety education with organizational efforts to build an open, collaborative safety culture](continuous-education-open-culture-strategy.md)
 
 ## Examples
 -

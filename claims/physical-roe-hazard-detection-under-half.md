@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2026
 sources:
   - id: spielmann-v-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001818"
-    title: "Spielmann V, Ebinger M, Jaki C. (2026). Development of a digital application to train and debrief situational awareness in interprofessional teams: A simulation-based approach to mitigate patient safety hazards with a virtual room of error. GMS J Med Educ 43(2):Doc24. https://journals.publisso.de/en/journals/jme/volume43/zma001818"
+    resource: "https://doi.org/10.3205/zma001818"
+    title: "Spielmann V, Ebinger M, Jaki C. (2026). Development of a digital application to train and debrief situational awareness in interprofessional teams: A simulation-based approach to mitigate patient safety hazards with a virtual room of error. GMS J Med Educ 43(2):Doc24. [doi:10.3205/zma001818](https://doi.org/10.3205/zma001818)"
     author: Spielmann V, Ebinger M, Jaki C.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Spielmann V 2026
 
-Spielmann V, Ebinger M, Jaki C. (2026). Development of a digital application to train and debrief situational awareness in interprofessional teams: A simulation-based approach to mitigate patient safety hazards with a virtual room of error. GMS J Med Educ 43(2):Doc24. https://journals.publisso.de/en/journals/jme/volume43/zma001818
+Spielmann V, Ebinger M, Jaki C. (2026). Development of a digital application to train and debrief situational awareness in interprofessional teams: A simulation-based approach to mitigate patient safety hazards with a virtual room of error. GMS J Med Educ 43(2):Doc24. [doi:10.3205/zma001818](https://doi.org/10.3205/zma001818)
 
 `q2 · i?` · `design · r2`
 

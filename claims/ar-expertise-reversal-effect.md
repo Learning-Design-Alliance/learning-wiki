@@ -78,3 +78,4 @@ The review's own interpretive synthesis, attributed to cognitive load theory and
 - [Before VR training, pedicle screw placement accuracy increases with surgeon seniority, from 48.06% in PGY1-5 to 77.19% in PGY > 10](pre-training-accuracy-increases-with-seniority.md) — related
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
 - [In a fully guided static navigation implant protocol in vitro, operators with no dental experience achieve angular deviation comparable to experienced surgeons](no-expertise-effect-angular-deviation-guided-implants.md) — related
+- [Learning curves for LOA2 robotic implant placement are flat for both novice and expert clinicians, with no significant accuracy improvement as case volume increases](loa2-flat-learning-curve.md) — related

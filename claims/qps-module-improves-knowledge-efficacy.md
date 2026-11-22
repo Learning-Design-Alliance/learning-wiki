@@ -67,3 +67,4 @@ In the same knowledge efficacy analysis, the PPE item (item 16) moved from 3.83 
 - [Knowledge gains from the QPS module are larger for interns without prior patient safety training, while systems thinking and efficacy gains are comparable across groups](qps-gains-larger-without-prior-training.md) — related
 - [A structured Quality and Patient Safety module significantly improves medical interns' knowledge test scores across graduating cohorts](qps-module-improves-intern-knowledge-scores.md) — related
 - [The QPS module significantly improves interns' overall systems thinking as measured by the Systems Thinking Scale](qps-module-improves-systems-thinking-sts.md) — related
+- [Internal medicine physicians' self-assessed periodontal knowledge increased significantly after completing the survey despite objective knowledge gaps](ims-self-assessment-increased-post-survey.md) — related

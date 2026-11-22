@@ -48,3 +48,4 @@ Discussion-section comparison from the same case series: the mean operative time
 - [Residents proficient in conventional laparoscopic appendectomy show a significant learning curve when learning SILS appendectomy in pediatric patients](sils-appendectomy-learning-curve-pediatric-residents.md) — related
 - [Resident-performed SILS cholecystectomy achieves operative times similar to resident-performed traditional LC (70.0 vs 66.0 minutes).](resident-sils-operative-time-similar-traditional-lc.md) — related
 - [SILS appendectomy was completed successfully in 19 of 20 pediatric patients, with one conversion to conventional multiport laparoscopy](sils-appendectomy-success-and-conversion-rate.md) — related
+- [Residents required equal or longer operative times than attending surgeons, significantly so for BCS with SLNB in the MSL and WGL techniques](resident-longer-operative-times-bcs.md) — related

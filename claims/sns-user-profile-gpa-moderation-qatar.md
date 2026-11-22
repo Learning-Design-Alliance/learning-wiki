@@ -50,3 +50,6 @@ Cross-sectional Qatari study (n = 273) using the SNS-adapted CIAS. Among addicte
 - [Male medical sciences students report significantly higher social networking addiction than female students](male-students-higher-social-networking-addiction.md) — related
 - [Social networking addiction among the sampled medical sciences students was at a moderate level, with most students classified as moderately addicted](moderate-social-networking-addiction-level-medical-students.md) — related
 - [Social networking addiction is negatively and significantly correlated with academic performance (GPA) among medical sciences students](social-networking-addiction-negative-gpa-correlation.md) — related
+- [Overall frequency of social network use shows no statistically significant association with GPA in Spanish adolescents](overall-sns-use-not-associated-gpa-adolescents.md) — related
+- [Higher addictive behaviors related to social network use are significantly associated with lower GPA in adolescents](sns-addictive-behaviors-lower-gpa-adolescents.md) — related
+- [The relapse and mood-modification addiction symptoms show significant negative associations with adolescent GPA](relapse-mood-modification-symptoms-lower-gpa.md) — related

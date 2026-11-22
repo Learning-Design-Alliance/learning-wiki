@@ -12,7 +12,7 @@ generated:
 # Person-centered (cluster) analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article frames person-centered analysis as a methodological framework that identifies subgroups of individuals based on how variables interrelate within people, in contrast to variable-centered analysis's "one-size-fits-all" aggregate estimates. The authors state that "person-centered analysis facilitates the development of more personalized learning" and that it "directs tailor-made education toward the students in each subgroup via a personalized education approach." They operationalize it with Ward's minimum variance hierarchical clustering on nine standardized variables and connect the resulting profiles to constructivism and self-determination theory.
@@ -20,10 +20,12 @@ The article frames person-centered analysis as a methodological framework that i
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Person-centered (cluster) analysis of academic performance as a complement to variable-centered analysis for personalized education**: The article frames person-centered analysis as a methodological framework that identifies subgroups of individuals based on how variables interrelate within people, in contrast to variable-centered analysis's "one-size-fits-all" aggregate estimates. The authors state that "person-centered analysis facilitates the development of more personalized learning" and that it "directs tailor-made education toward the students in each subgroup via a personalized education approach." They operationalize it with Ward's minimum variance hierarchical clustering on nine standardized variables and connect the resulting profiles to constructivism and self-determination theory. (Goudarzi Houman et al. (2026))
+- **Depressive symptom trajectory grouping as a framework for distinguishing stability and change in student depression over an academic term**: This framework partitions a student population into subgroups defined by the stability or change of depressive symptoms between two timepoints, such as "people who are depressed at time 1 but show reductions in depression at a later timepoint" and "people who exhibit consistently high depression over time." The article applies it via k-means++ clustering on CES-D scores, yielding low-stable, increasing, decreasing, and high-stable groups, and treats these groups as analytically meaningful categories associated with GPA and sleep outcomes. (Yunusova Asal et al. (2026))
 
 ### Claims
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](../claims/four-academic-performance-profiles-medical-students.md) [+M]
 - [A student subgroup with mostly online/combined education but low baseline skills showed poor academic performance, indicating online education does not work for all medical students](../claims/online-education-not-better-for-low-baseline-cluster.md) [+M]
+- [K-means++ clustering of first-year students' spring-semester CES-D scores identifies four depressive symptom trajectory groups: low-stable, increasing, decreasing, and high-stable](../claims/four-depression-trajectory-groups-first-year-spring.md) [+M]
 
 ## Related Research Methods
 
@@ -32,3 +34,4 @@ The article frames person-centered analysis as a methodological framework that i
 
 ## Key Sources
 - Goudarzi Houman, Onozawa Masahiro, Ito Yoichi M., Takahashi Makoto. (2026). Clustering of students in pre-clinical medical education and identification of academic performance profiles: does online education work for all medical students? BMC Medical Education. https://doi.org/10.1186/s12909-026-08737-3
+- Yunusova Asal, Huang Caitlin, Price Stephen, Joshi Kunal, Dutcher Janine M., Brown Kirk Warren, Villalba Daniella K., Tumminia Michael J., Creswell Kasey G., Cohen Sheldon, Creswell J. David. (2026). Depression trajectories and their associations with academic performance and sleep patterns among first-year college students. BMC Psychology. https://doi.org/10.1186/s40359-026-04404-w

@@ -51,3 +51,4 @@ The same multivariable model identified "the female gender (2.66 [1.39–5.09; p
 - [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](conscientiousness-independent-positive-factor-gpa.md) — related
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related
+- [Female gender and higher IQ tertile are significantly positively correlated with academic performance](gender-iq-correlated-academic-performance.md) — related

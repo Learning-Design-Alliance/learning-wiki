@@ -55,3 +55,4 @@ Within-family MR analysis of 40,879 Norwegian mother-father-child trios (MoBa), 
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Mothers' and fathers' education polygenic scores are unexpectedly negatively associated with maternal positive and literacy-focused parenting](parent-pgsedu-negative-parenting-association.md) — related
 - [Relatives connected through mothers are more strongly correlated on school performance than relatives connected through fathers](maternal-relatives-more-correlated-than-paternal.md) — related
+- [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related

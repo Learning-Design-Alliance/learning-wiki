@@ -64,3 +64,4 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 - [The decrease in off-task interactions suggests students built successful collaborations, consistent with off-task interaction serving student positioning within groups](off-task-decrease-suggests-collaborations-formed.md) — related
 - [Students in project-based lab teams most often described functional team dynamics, though self-formed friend teams were not always functional](project-team-dynamics-functional.md) — related
 - [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related

@@ -77,3 +77,4 @@ Subgroup meta-analysis by birth era for mathematics. The most severe impairments
 - [Among individuals who remained in school, preterm birth is only negligibly associated with final high school average](preterm-high-school-average-negligible.md) — related
 - [High-risk treatment protocols and age at diagnosis show no significant association with reading scores in this cohort](high-risk-protocol-age-diagnosis-reading-null.md) — related
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
+- [Qualification for upper secondary school among children with CHD did not change across surgical eras before, during, or after centralization of pediatric heart surgery.](no-improvement-uss-qualification-across-surgical-eras.md) — related

@@ -50,6 +50,7 @@ The review distills its 48-study synthesis into recommendations covering constru
 ## Related Strategies
 
 - [Measure HF-HRV to target math anxiety interventions to the students most likely to benefit](hf-hrv-targeted-math-anxiety-intervention-selection.md)
+- [Use resting HRV as an additional objective screening measure in pilot selection, measured in a low-stress context after existing screening stages](hrv-as-pilot-selection-screening-measure-strategy.md)
 
 ## Examples
 -

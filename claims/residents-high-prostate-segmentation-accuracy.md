@@ -49,3 +49,4 @@ Observational segmentation study of 100 bi-parametric prostate MRI scans from th
 - [Novices show learning progress in prostate MRI segmentation across feedback rounds but remain less accurate than residents](novice-segmentation-learning-progress.md) — related
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — related
 - [Prostate segmentation accuracy is highest in the mid-gland and lower in the apex and base](segmentation-accuracy-varies-by-prostate-region.md) — related
+- [A radiology resident with limited forensic training did not differ significantly from an experienced forensic radiologist in detecting fractures, vascular injuries, hemorrhages, exit wounds, or retained bullets](resident-forensic-training-performance-approaches-expert.md) — related

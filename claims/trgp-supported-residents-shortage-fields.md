@@ -75,3 +75,4 @@ Demographic and credential-area data on 2022–23 residency completers (Figure 8
 - [TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued](trgp-small-fraction-of-statewide-teacher-supply.md) — related
 - [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related
 - [Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake](prior-experience-and-district-engagement-uptake.md) — related
+- [Funding to expand residency and training capacity improves workforce diversity only when it stipulates cohort diversity requirements](training-capacity-funding-diversity-requirements.md) — related

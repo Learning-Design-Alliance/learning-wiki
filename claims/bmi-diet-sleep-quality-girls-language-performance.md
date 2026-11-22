@@ -57,3 +57,4 @@ Sex-stratified fully adjusted logistic regression for high language grades in th
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — reports the opposite
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — reports the opposite
+- [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — related

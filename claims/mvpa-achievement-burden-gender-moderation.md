@@ -70,3 +70,4 @@ Gender-stratified logistic regression in the same survey: girls meeting the guid
 - [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related
 - [Moderate physical activity twice or three times a week is associated with greater odds of average or above-average academic performance in Korean adolescent girls](moderate-pa-girls-academic-performance-korean-adolescents.md) — related
 - [Vigorous physical activity 2–4 times a week is associated with greater odds of average or above-average academic performance in Korean adolescent boys, but ≥5 times a week with lesser odds](vigorous-pa-boys-academic-performance-korean-adolescents.md) — related
+- [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — related

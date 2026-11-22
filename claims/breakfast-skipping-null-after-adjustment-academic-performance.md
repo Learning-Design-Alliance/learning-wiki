@@ -54,3 +54,6 @@ In the cross-sectional survey, univariate analysis showed skipping breakfast "OR
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — reports the opposite
 - [Low diet quality is associated with higher odds of poor English Language Arts performance in elementary students](low-diet-quality-poor-ela-performance.md) — related
 - [Low Youth Healthy Eating Index score is associated with higher odds of poor ELA performance](low-yhei-poor-ela-performance.md) — related
+- [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — possibly the same claim (merge candidate)
+- [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
+- [Daily sweet consumption is associated with lower GPA among Palestinian university medical students, remaining significant after full covariate adjustment](daily-sweet-consumption-lower-gpa-palestinian-students.md) — related

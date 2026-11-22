@@ -48,3 +48,4 @@ Cohort correlation analysis in the ALSPAC sample. The article reports an "attenu
 - [Visual acuity is not correlated with hearing threshold in childhood, suggesting independence of the two sensory phenotypes](vision-hearing-independence-null.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Poorer presenting visual acuity is significantly negatively correlated with academic performance in primary school children after adjusting for gender and IQ](pva-negatively-correlated-academic-performance-children.md) — related

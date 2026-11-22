@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (35 show a difference, 9 mixed, 9 no difference) · 26 studies (11 causal, 7 associational, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 6 of 26 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (36 show a difference, 9 mixed, 9 no difference) · 27 studies (11 causal, 7 associational, 3 qualitative, 3 theoretical, 2 review, 1 quant-synthesis), `q1`–`q4` · 6 of 27 report an effect size · 52 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -95,6 +95,7 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Encouragement effects on knowledge are moderated by education and civic knowledge, with gains concentrated among the higher-educated and civically knowledgeable (partial support for the knowledge gap hypothesis)](../claims/itt-moderated-by-education-civic-knowledge.md) [~M] — an instructional effect differs with it
 - [Encouragements increase the likelihood of searching, and the compliance effect is larger for individuals with lower civic knowledge](../claims/encouragement-compliance-reverse-civic-knowledge-gradient.md) [~M] — an instructional effect differs with it
 - [Higher educational attainment and greater baseline civic knowledge are both positively associated with policy knowledge scores](../claims/education-civic-knowledge-positively-associated-knowledge.md) [+M] — learners who differ on it differ in outcomes
+- [Some physicians' perspectives evolved from individualistic merit-based frameworks toward systemic understanding through patient care, educational and professional experiences](../claims/perspective-evolution-toward-systemic-understanding.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

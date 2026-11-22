@@ -50,6 +50,7 @@ Before performing LASPME on patients, the article describes a five-step team pre
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Structured MIE training pathway: simulator training, progression through bariatric and minimally invasive gastrectomy, supervised case progression, and risk-based patient selection](structured-mie-training-pathway-strategy.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
+- [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
 
 ## Examples
 -

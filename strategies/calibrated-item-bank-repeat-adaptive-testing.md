@@ -43,7 +43,8 @@ The article recommends building a bank of items calibrated on a common Rasch log
 - [ROC analysis identifies preliminary best cut points distinguishing competent from non-competent clinicians, with the 24-item set showing the highest AUC (0.972)](../claims/roc-cut-points-therapist-competence.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Reintroduce Rasch analysis across selection processes, potentially augmented by artificial intelligence, to minimise differential attainment](rasch-analysis-selection-equity-strategy.md)
 
 ## Examples
 -

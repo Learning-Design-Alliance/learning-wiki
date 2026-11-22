@@ -49,3 +49,4 @@ Item analysis of the open-ended QMAT Q6 and its MC conversions at CPP (N=19) and
 - [For the Q12-derived operator items, most students identified a false statement but few selected all correct reasoning options, and multi-correct items showed undesirable difficulty](q12-operator-items-multicorrect-difficulty.md) — related
 - [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
 - [QMAT data reveal widespread student difficulties relating the Hamiltonian to time evolution of quantum states](qmat-hamiltonian-time-evolution-difficulties.md) — related
+- [Item difficulty varied substantially across the questionnaire, from p = 0.02 to p ≈ 0.89](inpress-item-difficulty-variability.md) — related

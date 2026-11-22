@@ -55,3 +55,4 @@ Wilcoxon within-group tests in the intervention group showed significant improve
 - [A face-to-face educational intervention significantly improves circulating nurses' overall nontechnical skill scores](educational-intervention-improves-circulating-nurses-nontechnical-skills.md) — related
 - [Situation awareness education produced no significant differences in SAGAT-measured situation awareness or ABCDE task performance in ICU teams](sa-education-no-sagat-abcde-effect-icu-teams.md) — related
 - [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related
+- [Clinical outcomes did not differ across nontechnical skills rating groups in this cohort](no-outcome-difference-across-nts-groups.md) — related

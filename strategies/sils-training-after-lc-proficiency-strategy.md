@@ -46,6 +46,7 @@ The article describes an institutional approach to incorporating single-incision
 
 - [Teach a defined SILS skill set: crossed instruments, ambidextrous dissection, left-handed endoloop application, and angled-scope navigation](sils-skill-set-training-strategy.md)
 - [Incorporate SILS into surgical training via designated simulator time, simulation technology development, and longer resident operating room times](simulation-strategies-for-sils-training.md)
+- [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
 
 ## Examples
 -

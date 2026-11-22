@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2026
 sources:
   - id: bauermann-moritz-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001810"
-    title: "Bauermann Moritz, Schindler Ann-Kathrin, Kuchenbaur Marco, Rühl Jasmin, Reinert Patrick, Kunz Miriam, Friedrich-Welz Sarah, André Elisabeth, Rotthoff Thomas. (2026). Smiling and first impressions in ad hoc entrustment decisions: An avatar-based simulation study. GMS Journal for Medical Education 43(2): Doc16. https://journals.publisso.de/en/journals/jme/volume43/zma001810"
+    resource: "https://doi.org/10.3205/zma001810"
+    title: "Bauermann Moritz, Schindler Ann-Kathrin, Kuchenbaur Marco, Rühl Jasmin, Reinert Patrick, Kunz Miriam, Friedrich-Welz Sarah, André Elisabeth, Rotthoff Thomas. (2026). Smiling and first impressions in ad hoc entrustment decisions: An avatar-based simulation study. GMS Journal for Medical Education 43(2): Doc16. [doi:10.3205/zma001810](https://doi.org/10.3205/zma001810)"
     author: Bauermann Moritz, Schindler Ann-Kathrin, Kuchenbaur Marco, Rühl Jasmin, Reinert Patrick, Kunz Miriam, Friedrich-Welz Sarah, André Elisabeth, Rotthoff Thomas
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Bauermann Moritz 2026
 
-Bauermann Moritz, Schindler Ann-Kathrin, Kuchenbaur Marco, Rühl Jasmin, Reinert Patrick, Kunz Miriam, Friedrich-Welz Sarah, André Elisabeth, Rotthoff Thomas. (2026). Smiling and first impressions in ad hoc entrustment decisions: An avatar-based simulation study. GMS Journal for Medical Education 43(2): Doc16. https://journals.publisso.de/en/journals/jme/volume43/zma001810
+Bauermann Moritz, Schindler Ann-Kathrin, Kuchenbaur Marco, Rühl Jasmin, Reinert Patrick, Kunz Miriam, Friedrich-Welz Sarah, André Elisabeth, Rotthoff Thomas. (2026). Smiling and first impressions in ad hoc entrustment decisions: An avatar-based simulation study. GMS Journal for Medical Education 43(2): Doc16. [doi:10.3205/zma001810](https://doi.org/10.3205/zma001810)
 
 `q3 · i?` · `causal · r2`
 

@@ -46,6 +46,7 @@ The article recommends that because non-professional background independently pr
 ## Related Strategies
 
 - [Provide targeted support and resources (mentorship programmes, greater flexibility, grants and bursaries) to candidate groups at increased risk of failing MRCS](targeted-support-at-risk-mrcs-groups.md)
+- [Provide targeted induction, interview preparation and structured mentorship for international medical graduates applying to surgical training](img-targeted-induction-mentorship-strategy.md)
 
 ## Examples
 -

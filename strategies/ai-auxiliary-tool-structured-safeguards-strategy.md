@@ -58,6 +58,7 @@ The article recommends that although AI provides scalable educational support, "
 - [Balanced approach between innovation and responsibility for equitable LLM deployment in education](balanced-innovation-responsibility-llm-deployment.md)
 - [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
 - [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Algorithmic safety protocols bounding exercise intensity and monitoring overtraining risk](algorithmic-safety-protocols-exercise-mindfulness.md)
 
 ## Examples
 -

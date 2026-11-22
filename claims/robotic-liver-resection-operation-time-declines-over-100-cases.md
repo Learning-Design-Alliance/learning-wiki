@@ -52,3 +52,4 @@ Retrospective analysis of the Magdeburg MD-MILS registry (June 2013 to July 2024
 - [Conversions concentrate early in the robotic liver resection learning curve: 8 of 9 conversions occurred before case 66](conversions-concentrate-before-full-mastery-phase.md) — related
 - [Perioperative outcomes vary significantly across learning-curve phases, with morbidity peaking at 80% in the Proficiency phase when major resections begin](outcomes-vary-across-learning-phases-morbidity-peaks-phase-2.md) — related
 - [Operative times of both trainer and trainee decreased significantly from the first 10 to the last 10 cases of the observation period (both p < 0.001)](mie-operative-time-decreased-first-vs-last-10-cases.md) — related
+- [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related

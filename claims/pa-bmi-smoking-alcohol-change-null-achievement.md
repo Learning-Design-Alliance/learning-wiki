@@ -55,3 +55,4 @@ Null findings from the linear mixed model analysis of the Lebanese adolescent lo
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
 - [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — reports the opposite
 - [Diet quality and physical activity effects on academic performance are independent, with no additive interaction](no-additive-interaction-diet-pa-academic.md) — related
+- [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related

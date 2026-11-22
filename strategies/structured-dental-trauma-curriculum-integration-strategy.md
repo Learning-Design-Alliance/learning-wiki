@@ -48,6 +48,7 @@ The article proposes that educational institutions implement a structured, inter
 - [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
+- [Targeted education and system-level change: structured craniofacial and oral-appliance modules in medical curricula, competency-based CDE, national referral guidelines, and integrated medical-dental referral pathways](structured-medical-dental-osa-education-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Network analysis (Model 1) of survey responses from 1465 university students fro
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](global-perceived-sec-predicts-motivation-and-behaviors.md) — related
 - [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — related
+- [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related

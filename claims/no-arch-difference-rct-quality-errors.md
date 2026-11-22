@@ -47,3 +47,4 @@ Chi-squared tests by arch reported in Table 1 for each procedural error (e.g., u
 ## Related Claims
 - [The most common procedural errors in student molar RCT were underextension of obturation (48.4%), insufficient obturation (45.5%) and improper coronal seal (35.2%), with no significant difference between instrumentation techniques](common-procedural-errors-underextension-insufficient-obturation.md) — related
 - [The technical quality of molar root canal treatment provided by undergraduate dental students is generally insufficient, with only 39.6% of treatments deemed sufficient](ug-student-molar-rct-quality-insufficient.md) — related
+- [Per-criterion adequacy was 82.3% for length, 82.4% for taper, and 77.5% for homogeneity, with homogeneity lowest and mandibular molars lowest on all three criteria](criterion-level-adequacy-length-taper-homogeneity.md) — related

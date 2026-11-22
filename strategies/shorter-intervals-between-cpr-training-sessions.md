@@ -48,6 +48,7 @@ Because simulated pediatric CPR performance deteriorated after a 5-6-week washou
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
+- [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
 
 ## Examples
 -

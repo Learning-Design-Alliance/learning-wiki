@@ -48,3 +48,5 @@ Moderation models tested interactions between condition and five baseline modera
 - [HOPS produces significantly greater improvements than CHIEF in parent- and teacher-rated use of organized actions, but not on measures of homework problems](hops-beats-chief-organized-actions.md) — related
 - [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](behavioral-classroom-management-teacher-ratings-066-072.md) — related
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
+- [Counselor-reported working alliance was a significant predictor of favorable HOPS outcomes in the prior trial](working-alliance-predicts-hops-outcomes.md) — related
+- [In a large-scale school-based RCT, HOPS produced large caregiver-rated improvements in homework performance, task planning, materials management, and organized actions versus TAU/WL](hops-rct-caregiver-large-effects.md) — related

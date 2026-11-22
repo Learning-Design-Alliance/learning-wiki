@@ -53,3 +53,4 @@ Descriptive financial-model findings from the Financial Model section: roughly $
 - [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related
 - Declining state funding is the primary cause of rising tuition at public colleges, which educate more than 70 percent of undergraduates — related
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
+- [Funding to expand residency and training capacity improves workforce diversity only when it stipulates cohort diversity requirements](training-capacity-funding-diversity-requirements.md) — related

@@ -52,3 +52,4 @@ Thematic analysis finding: educators contrasted a creative mindset with a knowle
 - [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
 - [Educators in makerspaces prioritize technical skills that go beyond tool knowledge to include solution design and development](makerspace-educators-prioritize-technical-skills.md) — related
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related
+- [The article proposes expanding the 4Cs framework of 21st-century skills to include curiosity](expanding-4cs-to-include-curiosity.md) — related

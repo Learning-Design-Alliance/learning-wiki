@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2025
 sources:
   - id: hauff-vivian-2025
-    resource: "https://journals.publisso.de/en/journals/jme/volume42/zma001743"
-    title: "Hauff Vivian, Homann Laura, Tannen Antje. (2025). Simulative learning in the room of horror – a method to enhance patient safety in undergraduate nursing education. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001743"
+    resource: "https://doi.org/10.3205/zma001743"
+    title: "Hauff Vivian, Homann Laura, Tannen Antje. (2025). Simulative learning in the room of horror – a method to enhance patient safety in undergraduate nursing education. GMS Journal for Medical Education. [doi:10.3205/zma001743](https://doi.org/10.3205/zma001743)"
     author: Hauff Vivian, Homann Laura, Tannen Antje
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Hauff Vivian 2025
 
-Hauff Vivian, Homann Laura, Tannen Antje. (2025). Simulative learning in the room of horror – a method to enhance patient safety in undergraduate nursing education. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume42/zma001743
+Hauff Vivian, Homann Laura, Tannen Antje. (2025). Simulative learning in the room of horror – a method to enhance patient safety in undergraduate nursing education. GMS Journal for Medical Education. [doi:10.3205/zma001743](https://doi.org/10.3205/zma001743)
 
 `q2 · i?` · `design · r2`
 

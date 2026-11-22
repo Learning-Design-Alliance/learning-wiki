@@ -49,3 +49,4 @@ Item-level descriptive analysis of SCCS-27 responses from the same 220-nurse cro
 - [Participation in in-service spiritual care education is associated with higher spiritual care competency scores](in-service-education-higher-spiritual-care-competency.md) — related
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
 - [Sufficient resources received the lowest climate rating while autonomous learning was the highest-rated teaching behavior](descriptive-means-climate-and-behavior-subscales.md) — related
+- [Turkish critical care nurses reported a moderate level of spiritual care competence and a moderate frequency of spiritual care practice, with assessment and implementation the lowest competence subscale](moderate-spiritual-care-competence-ccns-turkiye.md) — related

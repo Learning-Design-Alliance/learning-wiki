@@ -49,3 +49,4 @@ Autoregressive paths from the trimmed cross-lagged panel model, all statisticall
 - [Course type is statistically associated with PLIC profile membership at both timepoints, but the effect is small (Cramér's V ≈ 0.10)](course-type-small-effect-plic-profiles.md) — related
 - [Pre-instruction agency negatively predicts post higher-knowledge PLIC profile membership (β = −.084), an unexpected effect that survived suppression checks](negative-agency-profile-path.md) — related
 - [Recognition functions primarily as a downstream construct over a single instructional window, receiving input from belonging and agency with no significant forward paths](recognition-downstream-construct.md) — related
+- [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related

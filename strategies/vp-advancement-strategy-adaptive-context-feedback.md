@@ -51,6 +51,7 @@ Based on the framework's Context and Learner-centeredness categories, the author
 - [Populate VP collections with multiple cases per key symptom to enable comparing and contrasting, and treat the blueprint as a dynamic document](comparing-contrasting-vp-collection-strategy.md)
 - [Support illness-script construction and dual processing in VPs by linking scenarios to underlying illness scripts, offering large pools of short focused cases, and allowing learners to skip steps](vp-illness-script-dual-processing-strategy.md)
 - [Enrich patient presentation, embed provoked errors with feedback, and individualize management decisions in VPs; assess clinical reasoning as a multi-step process with varied methods](vp-patient-centeredness-errors-assessment-strategy.md)
+- [Use the diverse e-learning activity repertoire (microlearning, gamification, adaptive quizzes, virtual patients) matched to learning needs](elearning-activity-repertoire-medical-education.md)
 
 ## Examples
 -

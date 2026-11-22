@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (135 show a difference, 35 mixed, 25 no difference) · 163 studies (60 causal, 26 review, 25 associational, 20 quant-synthesis, 14 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 163 report an effect size · 191 claims rest on one study
+> **Evidence** · 196 claims (136 show a difference, 35 mixed, 25 no difference) · 164 studies (60 causal, 26 review, 26 associational, 20 quant-synthesis, 14 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 164 report an effect size · 192 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -237,6 +237,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](../claims/qualitative-embodiment-and-motivational-language-benefits.md) [+M] — learners who differ on it differ in outcomes
 - [Model-predicted discourse scores show weak but partially human-aligned correlations with student outcomes, including a positive link between Explanations and achievement](../claims/predicted-discourse-scores-correlate-weakly-student-outcomes.md) [~M] — learners who differ on it differ in outcomes
 - [Project-based take-home exams in graduate physics produced reports of about 15 pages typical and noticeably improved oral presentation quality](../claims/project-exams-scientific-communication-practice.md) [+W] — measured as an outcome of the instruction studied
+- [Students with weak initial socio-communicative skills continue to show deficits despite communication training, per the authors' interpretation](../claims/weak-initial-interactional-skills-persist.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

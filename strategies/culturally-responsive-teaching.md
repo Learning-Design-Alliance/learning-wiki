@@ -90,6 +90,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 - [Embed brief identity interventions within school-wide inclusive diversity-climate efforts; treat them as complements to, not substitutes for, structural change](brief-identity-interventions-within-inclusive-climates.md)
 - [Use culturally inclusive pedagogies, such as incorporating indigenous language and values authentically into HPE lessons](culturally-inclusive-hpe-pedagogy-strategy.md)
+- [Targeted interventions using structured intergroup contact, diverse patient care experiences and education on structural determinants of health to foster critical consciousness](interventions-structured-intergroup-contact-critical-consciousness.md)
 
 ## Examples
 

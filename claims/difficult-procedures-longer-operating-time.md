@@ -72,3 +72,4 @@ The same linear mixed model printed B −2 (95% CI −11.9, 7.9), p = 0.694 for 
 - [Operating time shows a learning curve: trainees take about 11.6 minutes longer for their first 10 TVT operations, approaching the experienced benchmark after roughly 50 operations](tvt-operating-time-learning-curve.md) — related
 - [Billroth I reconstruction time with the augmented rectangle technique is similar between trainees and trainers](art-reconstruction-time-similar-trainees-trainers.md) — related
 - [Total operation time is significantly longer for trainee surgeons than trainers in TLDG](trainee-tldg-longer-operation-time.md) — related
+- [Operator experience shows no significant main effect on full-arch scanning trueness](operator-experience-no-main-effect-trueness.md) — related

@@ -71,3 +71,4 @@ Exploratory secondary regressions reconducted with childhood diagnosis as a pote
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — a broader claim this one bears on
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](coding-r-predicts-oral-reading-fluency.md) — related
+- [The overall COI predicts all academic measures and processing speed, but yields no significant diagnosis interactions](overall-coi-no-interaction-effects.md) — related

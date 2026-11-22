@@ -50,3 +50,4 @@ Mixed ANOVA on learning scores in the 2 (Model: Female/Male) x 2 (Observer: Fema
 - [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](jol-accuracy-unaffected-by-gender-video-modeling.md) — related
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
 - [Number relationships instruction shows no differential benefit by gender](no-gender-moderation-number-relationships.md) — related
+- [Author gender and participant gender do not affect perceived message credibility of a science text in Studies 1 and 2](author-gender-no-credibility-effect.md) — related

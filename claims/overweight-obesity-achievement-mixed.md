@@ -54,3 +54,5 @@ Model 2 of the multivariate regression in the cross-sectional study; in Model 3 
 - [Medium physical activity is associated with higher achievement, but the association is not significant once socio-cognitive factors are added](medium-physical-activity-achievement-mixed.md) — related
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md) — related
+- [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related

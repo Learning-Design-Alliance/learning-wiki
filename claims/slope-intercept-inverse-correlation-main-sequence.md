@@ -49,3 +49,4 @@ Best-fit linear regressions of test grade on homework grade for both courses and
 - [The badness of fit of the academic main sequence jumped after 2016, indicating homework and test grades have become decoupled in some courses](main-sequence-breakdown-post-2016.md) — related
 - [Linear rescaling of AI grades toward the y = x line does not yield reliable machine grading because it leaves dispersion uncorrected](grade-rescaling-insufficient-correction.md) — related
 - [In classroom implementation, students sometimes express surprise when rescaling collapses data onto a common relation, and differ in when they question what the fitted constant characterizes; no systematic assessment was conducted](informal-observations-student-surprise-rescaling.md) — related
+- [The rate of graduate grade change differs across academic programs](grade-change-rate-varies-across-programs.md) — related

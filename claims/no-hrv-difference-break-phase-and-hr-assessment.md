@@ -49,3 +49,4 @@ Observational comparison at the break phase of the simulation study (individual 
 - [Parasympathetic stress relief marker (HF) is significantly lower in peer simulation than individual simulation during the first patient assessment](peer-simulation-hf-decreased-patient-assessment.md) — reports the opposite
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
 - [Stress increases during every high-fidelity simulation session and decreases during and after debriefing, regardless of repetition regimen](stress-increases-during-simulation-decreases-debriefing.md) — related
+- [The AI-personalized group was associated with larger HRV improvement than standardized and control groups (HRV d = 1.13)](ai-personalized-hrv-improvement.md) — related

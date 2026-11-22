@@ -47,6 +47,7 @@ The authors recommend that training on NIPT be strengthened by "providing greate
 ## Related Strategies
 
 - [Deliver NIPT education through face-to-face sessions supported by e-learning for refreshing knowledge](face-to-face-with-elearning-adjunct-strategy.md)
+- [Targeted educational efforts for prenatal providers on SMA carrier screening and result interpretation](targeted-provider-education-sma-carrier-screening.md)
 
 ## Examples
 -

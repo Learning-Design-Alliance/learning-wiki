@@ -47,3 +47,4 @@ Subgroup analysis of the nine pooled cross-sectional studies by region, study pe
 
 ## Related Claims
 - [Pooled good knowledge of palliative care among Ethiopian nurses is 45.57%, meaning more than half had poor knowledge](ethiopian-nurses-palliative-care-knowledge-pooled-45-57.md) — related
+- [The national mean Airway Preparedness Index was 25.7 ± 7.4 out of 40, with regional means ranging from 37 ± 1.4 to 11.2 ± 5.3 and only one region differing significantly from the national mean](italian-hems-api-mean-25-7-regional-range-37-to-11-2.md) — related

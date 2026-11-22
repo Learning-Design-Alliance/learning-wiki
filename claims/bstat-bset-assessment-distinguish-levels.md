@@ -52,3 +52,4 @@ Prospective cohort study (Davoudi et al., n = 22) in which two independent evalu
 - [The review reports construct validity evidence that experts perform significantly better than intermediates and beginners on a neonatal echocardiography simulator](neonatal-echo-simulator-construct-validity.md) — reports the opposite
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [VR simulation competency benchmarks set relative to mean expert performance (e.g. 75% of mean expert score) discriminate novice, intermediate and expert trainees and must be modifiable to the training institute](expert-anchored-vr-benchmarks-modifiable.md) — related
+- [Among beginners, the dVRK yields higher burst pressures than Flex, suggesting an easier first approach with rigid robotics](dvrk-beats-flex-burst-pressure-beginners.md) — related

@@ -72,3 +72,4 @@ Second-hand attribution: the paper cites Miller et al. 2019, Petersen et al. 201
 - [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — related
+- [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related

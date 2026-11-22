@@ -78,6 +78,9 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
 - [Select, train and supervise peer tutors with attention to stressors and protective traits](tutor-selection-training-supervision-stress-prevention.md)
 - [Use PMSS scores early in medical education to identify students at risk of poor academic performance and offer tailored support programs](early-pmss-risk-identification-tailored-support.md)
+- [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
+- [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
+- [Provide structured, multi-layered university support programmes combining curricular structuring, mentoring, psychosocial support and financial support for quota-admitted students](structured-multilayered-support-rdq-students.md)
 
 ## Examples
 -

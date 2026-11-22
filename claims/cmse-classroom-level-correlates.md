@@ -50,3 +50,4 @@ Random-effects meta-analysis of classroom-level factors (Table 3). The pooled es
 - [Country and school level moderate the relationship between CMSE and many correlates](cmse-country-school-level-moderators.md) — related
 - [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](cmse-school-level-correlates.md) — related
+- [Leader competence in handling pastoral issues and student misbehaviour relieves teacher pressure and supports perceived management commitment](leader-complexity-competence-relieves-teacher-pressure.md) — related

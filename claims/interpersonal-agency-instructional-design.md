@@ -48,3 +48,4 @@ Narrative inquiry interviews with instructional designers at Canadian universiti
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related

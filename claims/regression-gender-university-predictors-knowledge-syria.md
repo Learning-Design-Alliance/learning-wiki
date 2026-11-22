@@ -60,3 +60,5 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case](predictors-of-training-case-logistic-regression.md) — related
 - [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related
 - [The gender gap reverses by model choice: males lead univariately but females have higher odds of a first-class degree in the multivariate hierarchical model](gender-gap-reverses-hierarchical-model.md) — related
+- [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — reports the opposite
+- [Male Syrian medical students report higher adjusted career regret than female students](male-students-higher-career-regret-syria.md) — related

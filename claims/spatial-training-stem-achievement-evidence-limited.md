@@ -48,3 +48,4 @@ The editorial reports, citing Stieff and Uttal (2015), that spatial-training int
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
+- [Rigorous research is still needed on the educational impact, scalability, cost-effectiveness, and fitness-to-practice effects of blending simulation and e-learning](blended-simulation-elearning-research-gap.md) — a narrower finding that bears on this claim

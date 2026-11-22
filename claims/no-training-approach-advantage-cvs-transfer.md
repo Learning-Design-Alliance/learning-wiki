@@ -49,3 +49,4 @@ Randomized controlled trial of 101 ultrasound novices (95 completed) allocated 1
 - [Needle-guide use significantly improves all four assessed CVS performance items, including pre-puncture assessment, insertion site selection, and sampling technique](needle-guide-improves-all-cvs-assessment-items.md) — related
 - [Using a needle guide during transfer tests significantly improves CVS performance regardless of prior training method](needle-guide-improves-cvs-transfer-performance.md) — related
 - [The needle-guided training group empties significantly fewer cavities during training than the context variation and freehand groups](needle-guided-training-fewer-cavities-emptied.md) — related
+- [After extraoral robotic training, six novice clinicians with varying freehand experience showed no differences in any deviation parameter among themselves](loa2-novice-training-homogenizes-accuracy.md) — related

@@ -52,3 +52,4 @@ Results section percentages for the compression-parameter items: "only 69.6% of 
 - [Gaza healthcare workers' BLS knowledge is strongest on CPR ratio, compression location and myocardial infarction recognition, moderate on trauma and airway items](gaza-bls-knowledge-strengths.md) — related
 - [Only 59.4% of students correctly answered all options under the purpose-of-CPR question](purpose-of-cpr-partial-knowledge.md) — related
 - [Only half of rural EMS providers performed BLS for the recommended 2 minutes and 80% used the correct 30:2 ratio, with a 35-second delay to first compression or ventilation](rural-ems-algorithm-recognition-gaps.md) — related
+- [Knowledge of zeroing procedures was low, with 11%–16% correct answers](inpress-zeroing-knowledge-deficit.md) — related

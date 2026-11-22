@@ -54,6 +54,7 @@ Based on its findings, the article recommends that universities offer programs t
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Integrate digital health topics and practical experience with digital technologies into medical curricula](integrate-digital-health-curricula-practical-experience.md)
 - [Recommend career-centered IT curricula, cross-university co-teaching, and co-creating syllabi with students to improve IT learning outcomes and employability](career-centered-curricula-coteaching-and-student-codesign-strategy.md)
+- [Integrate AI assistance into structured radiology residency curricula to enhance diagnostic proficiency and accelerate skill acquisition](ai-into-radiology-residency-curricula.md)
 
 ## Examples
 -

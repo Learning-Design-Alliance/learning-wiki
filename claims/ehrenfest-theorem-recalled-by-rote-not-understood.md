@@ -52,3 +52,4 @@ Multiple-choice question 1 on the general time-dependence equation administered 
 - [Only 41% answered the quantum measurement probability question correctly, with difficulty translating probability densities between representations](dirac-question5-measurement-probability-difficulty.md) — related
 - [Only 51% answered the inner product/Fourier transform question correctly, with responses inconsistent with their correct answers to the preceding question](dirac-question2-inconsistency-inner-product.md) — related
 - [Most graduate students fail to compute the expectation value of energy, and many who answer the probability question correctly do not exploit it](expectation-value-calculation-difficulty.md) — related
+- [Rote memorization without cognitive transfer leaves students unable to recognize exam-learned symptoms in real patients](rote-memorization-fails-clinical-transfer.md) — related

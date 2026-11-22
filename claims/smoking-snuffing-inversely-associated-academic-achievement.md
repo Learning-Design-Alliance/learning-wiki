@@ -56,3 +56,4 @@ Cross-sectional logistic regression of smoking and snuffing (occasional or daily
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — a narrower finding that bears on this claim
 - [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — related
+- [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related

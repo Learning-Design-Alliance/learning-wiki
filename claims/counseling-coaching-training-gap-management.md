@@ -73,3 +73,4 @@ Lifestyle-change support gap reported for British, Canadian and German physician
 - [A greater proportion of primary care physicians report confidence in managing psychosocial effects of cancer (24–47%) than physical effects (10–37%)](pcps-more-confident-psychosocial-than-physical-effects.md) — related
 - [Most PCPs report inadequate formal survivorship training (up to 72%) and a desire for education, especially on physical effects (76–86%)](pcp-inadequate-training-education-needs.md) — related
 - [Common diabetes-care gaps extend beyond physician knowledge to skills, attitudes, behaviours and context](diabetes-gaps-beyond-knowledge-domain.md) — a broader claim this one bears on
+- [Physicians reporting no formal STI counseling training had significantly higher counseling scores than formally trained peers; the authors urge cautious interpretation](no-training-higher-counseling-paradox.md) — related

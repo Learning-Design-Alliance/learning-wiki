@@ -50,3 +50,4 @@ Logistic regression analysis of the 229 BLS trainees' post-training scores compa
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — reports the opposite
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
 - [Nursing assistants scored significantly lower on the post-training knowledge test than professional health workers](nursing-assistants-lower-post-training-scores.md) — related
+- [Clinicians in larger (tertiary/quaternary) hospitals answered monitoring questions more accurately](inpress-tertiary-centres-higher-accuracy.md) — related

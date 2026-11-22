@@ -52,6 +52,7 @@ The authors recommend developing a realistic simulation standard scenario of STE
 
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Replace or supplement mannequins with coached actors and multidisciplinary role play to increase realism](actor-based-dysphagia-simulation-strategy.md)
+- [Use realistic scenario-based learning, digital access, and modeling of clear communication in health literacy instruction](scenario-based-learning-modeling-hl-instruction.md)
 
 ## Examples
 -

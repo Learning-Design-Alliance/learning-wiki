@@ -50,3 +50,4 @@ The commentary reports, citing Lingard et al., that "preoperative checklists... 
 - [Checklist-supported simulation teams missed fewer critical actions (6%) than unsupported teams (23%) in simulated crises](checklists-reduce-missed-critical-actions-simulation.md) — related
 - [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](surgical-checklist-lowest-adverse-events.md) — related
 - [Introducing clearer communication routines, including regular team briefings and increased nurse involvement in meetings, addressed communication gaps between professional groups](communication-routines-team-briefings-improve-coordination.md) — related
+- [Recall of team member identity after preoperative introductions remains poor, at approximately 30%](poor-name-recall-after-surgical-introductions.md) — related

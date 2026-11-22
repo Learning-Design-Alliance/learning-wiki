@@ -65,6 +65,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 - [Integrate more hands-on labs, collaboration, and expanded project time in future camp iterations](qcamp-future-improvements-strategy.md)
+- [Use the diverse e-learning activity repertoire (microlearning, gamification, adaptive quizzes, virtual patients) matched to learning needs](elearning-activity-repertoire-medical-education.md)
 
 ## Examples
 -

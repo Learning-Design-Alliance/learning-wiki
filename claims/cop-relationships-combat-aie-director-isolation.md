@@ -60,3 +60,4 @@ Participant-reported outcomes from a 5-year UEPC evaluation of R15CC support to 
 - [Shared, non-purpose-designed teaching spaces disrupted CBL sessions but also fostered an informal community of practice among facilitators](shared-cbl-space-disruption-and-community-of-practice.md) — related
 - [The authors argue that immediate automated responses can help overcome international students' feelings of isolation and reduce culturally rooted misunderstandings](immediate-response-reduces-isolation-claim.md) — related
 - [The sparking interest and understanding facilitator persona needs community building to bridge gaps between physicists and science communication professionals](rory-community-building-needs.md) — a narrower finding that bears on this claim
+- [Siloed, competitive professional environments that avoid shared decision-making produce poor communication, fragmented care and error-prone systems](siloed-teamwork-fragments-care.md) — related

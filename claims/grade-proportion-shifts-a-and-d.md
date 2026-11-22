@@ -50,3 +50,4 @@ Comparison of observed grade proportions in Table 2 between proctored and procto
 - [Find the Fit led about 3 percentage points more students to attend colleges that were at least very competitive immediately after high school](find-the-fit-increased-selective-college-attendance.md) — related
 - [Out-of-class assignments weighted at 37% of the final grade produce a statistically significant shift of the overall grade distribution toward higher grades](out-of-class-assignments-cause-grade-inflation.md) — a broader claim this one bears on
 - [Proctored exam scores are normally distributed while proctored-plus-out-of-class scores are not, indicating bias from out-of-class assignments](proctored-scores-normal-out-of-class-not.md) — related
+- [Grade distributions compressed upward, with a growing proportion of students obtaining the maximum 4.0 grade in recent years](grade-distribution-compression-toward-4-0.md) — related

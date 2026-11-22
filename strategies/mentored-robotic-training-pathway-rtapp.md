@@ -45,6 +45,7 @@ The article describes how a surgeon new to the robotic platform prepared for rob
 ## Related Strategies
 
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
 
 ## Examples
 -

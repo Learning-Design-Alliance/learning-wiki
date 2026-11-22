@@ -51,6 +51,7 @@ The article recommends positioning VR "not as an alternative but as a complement
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
+- [Implement blended simulation and e-learning through faculty development, infrastructure investment, and CBME alignment](blended-simulation-elearning-implementation-strategy.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Per-organ-system comparison in the Results, depicted in Figure 1. Soft tissue sc
 - [Cardiac ultrasound showed the most variable image acquisition quality, with scores ranging from 1 to 5](cardiac-pocus-image-quality-most-varied.md) — related
 - [Image interpretation agreement was satisfactory overall (60.9% \"Agree\"), highest for FAST/EFAST (85%) and lowest for OB-GYN (20%)](pocus-image-interpretation-agreement-by-system.md) — related
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — a broader claim this one bears on
+- [Practical assessment scores were not significantly associated with self-reported frequency of PoCUS use](pocus-scores-not-associated-with-use-frequency.md) — related

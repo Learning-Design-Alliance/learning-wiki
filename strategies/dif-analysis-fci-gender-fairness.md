@@ -45,6 +45,7 @@ The article proposes that forthcoming studies apply differential item functionin
 
 - [Use a decision template weighing assumption fit, DIF uniformity, simultaneity, significance testing, and ease of use when choosing a DIF method for polytomous performance assessments](dif-method-selection-template-performance-assessments.md)
 - [Use DFIT indices with empirically established cutoffs and iterative linking to screen polytomous tests for DIF and DTF](dfit-screening-workflow-polytomous-tests.md)
+- [Reintroduce Rasch analysis across selection processes, potentially augmented by artificial intelligence, to minimise differential attainment](rasch-analysis-selection-equity-strategy.md)
 
 ## Examples
 -

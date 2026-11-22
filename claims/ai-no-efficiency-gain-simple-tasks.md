@@ -82,3 +82,4 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
 - [VR log data show interns completed more subtasks in the complex case than the simple case, with no significant duration difference and no significant log–confidence relationships](vr-log-task-complex-case-subtasks.md) — related
 - [GenAI usage by working students leads to a notable increase in productivity, study efficiency and time savings](genai-usage-increases-student-productivity.md) — reports the opposite
+- [Reading time per mammogram fell significantly from before to after AI assistance in one uncontrolled pre-post study, with the largest savings in non-malignant cases and among junior residents](ai-assistance-mammography-reading-time-savings.md) — reports the opposite

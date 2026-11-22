@@ -71,3 +71,4 @@ Same differential analysis; the article states "the NM competence score of nurse
 - [Clinical nurses in Hunan province score above average on narrative medicine competence, with attentive listening the lowest-scoring dimension](hunan-nurses-nm-competence-above-average.md) — related
 - [Divorced nurses show lower patient safety competency in the primary model, an exploratory finding](divorced-nurses-lower-psc-exploratory.md) — related
 - [Higher GPA, unmarried status and more positively perceived orientation programs are associated with higher readiness for practice](gpa-marital-status-orientation-predict-readiness.md) — related
+- [Unmarried residents and residents without children scored higher on total MHLS and belief subscale than married residents and parents](unmarried-childless-residents-higher-mhls.md) — related

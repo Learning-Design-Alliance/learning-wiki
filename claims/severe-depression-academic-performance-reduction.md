@@ -51,3 +51,4 @@ Linear least-squares regression on survey responses from 1,398 students, depende
 - [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related
 - [After 18 months of war, a majority of Ukrainian medical students in rear areas self-reported signs of stress, anxiety, and depression on the DASS-21](war-stress-anxiety-depression-prevalence-ukrainian-medical-students.md) — related
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
+- [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — related

@@ -67,3 +67,4 @@ Kruskal-Wallis H test on post-test scores by professional seniority found no sig
 - [Position affects post-test TQM perceptions: principals rated applicability higher, significantly in management structure and overall but not the cultural dimension](position-effect-tqm-perceptions-principals-higher.md) — related
 - [TQM training lowers teachers' post-test perceptions of TQM applicability in their schools relative to an untrained control group](tqm-training-lowers-post-test-perceptions-versus-control.md) — related
 - [Experimental and control groups did not differ significantly in TQM perceptions before the training](tqm-pretest-no-group-difference.md) — related
+- [Only complications knowledge differed significantly by ED experience, with the <1-year group scoring lower than the 1–2-year group](complications-knowledge-differs-by-experience.md) — related

@@ -51,3 +51,4 @@ Cohort analysis comparing quickscan scores by time since completing the program 
 - [Dementia supporters who completed a Kolb-based experiential learning program after training showed significant increases in motivation at every follow-up, while control-group motivation gains did not persist](kolb-experiential-program-sustains-supporter-motivation.md) — related
 - [Recent sepsis training was associated with higher confidence but not higher knowledge scores](recent-training-confidence-not-knowledge.md) — related
 - [Participants also made 180 'unintended' changes in daily practice, relatively often concerning working conditions and attitude](unintended-changes-working-conditions-attitude.md) — related
+- [Participants who completed their most recent ultrasound course most recently showed a trend towards lower and more variable assessment scores](recent-course-completion-trend-lower-scores.md) — related

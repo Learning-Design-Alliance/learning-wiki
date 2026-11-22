@@ -68,3 +68,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Portfolios do not work by themselves; they only work if conditions such as mentoring, open structure, a supporting learning environment and direct learning gain are fulfilled](portfolio-conditions-for-success-mentoring-open-structure.md) — related
 - [Mutual sharing of vulnerability by veteran and novice teachers helps build a safe space for taking risks](mutual-vulnerability-sharing-builds-safety.md) — related
 - [In informal desk critiques, architecture students struggle to evaluate peers' work impartially because social dynamics such as friendships and group hierarchies introduce bias](peer-critique-social-bias-challenge.md) — related
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related

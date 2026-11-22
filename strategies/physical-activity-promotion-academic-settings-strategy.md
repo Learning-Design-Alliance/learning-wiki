@@ -55,6 +55,9 @@ The article recommends that institutions embed physical movement in academic lif
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
 - [Universities should promote physical activity through innovative motivational teaching strategies such as gamification](universities-promote-pa-innovative-motivational-strategies.md)
+- [Universities should provide exercise breaks, wellness programs, and physical activity campaigns for medical students](exercise-breaks-wellness-programs-medical-students.md)
+- [Include physical activity in medical school academic requirements under college administration supervision](physical-activity-in-academic-requirements-strategy.md)
+- [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
 
 ## Examples
 -

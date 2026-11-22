@@ -69,3 +69,4 @@ The same adjusted model found no significant independent associations for daily 
 - [More daily revision hours independently predict higher academic performance (OR = 1.08 per hour)](daily-revision-hours-predict-performance.md) — reports the opposite
 - [Use of spaced repetition is independently associated with higher odds of success in the medical school entrance examination](spaced-repetition-independent-predictor-medical-entrance-success.md) — related
 - [Studying at home less than one hour per weekday is independently associated with low academic performance, with a stronger odds ratio than SES](short-home-study-duration-associated-low-academic-performance.md) — related
+- [More daily study hours and more efficient time management are independently associated with lower career regret among Syrian medical students](study-hours-time-management-lower-regret.md) — related

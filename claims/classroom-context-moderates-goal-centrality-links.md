@@ -47,3 +47,4 @@ Model-fit comparison (AIC, BIC, loglikelihood, deviance) across the four two-lev
 ## Related Claims
 - [Mastery approach goals are positively associated with out-degree, closeness and betweenness centrality in the classroom social network](mastery-approach-goals-central-classroom-network.md) — related
 - [The association between relative sense of belonging and achievement varies across schools](relative-belonging-effect-varies-across-schools.md) — related
+- [The rate of graduate grade change differs across academic programs](grade-change-rate-varies-across-programs.md) — a narrower finding that bears on this claim

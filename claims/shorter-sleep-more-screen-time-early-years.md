@@ -73,3 +73,4 @@ One of four cross-sectional studies (42,751 participants combined) in the sedent
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Children in this sample averaged more than 3 hours of screen time per day, about three times recommended limits](children-exceed-3-hours-daily-screen-time.md) — related
+- [Screen time is associated with poorer sleep quality but not, after sensitivity analysis, with shorter sleep duration among university students](screen-time-sleep-quality-vs-duration.md) — related

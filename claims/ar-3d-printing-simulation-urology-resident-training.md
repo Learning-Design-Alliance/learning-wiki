@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-22
 sources:
   - id: khosla-lakshay-2025
     resource: "https://doi.org/10.1007/s11934-025-01308-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AR-based training shows significant improvement in surgical skill metrics such as Global Operative Assessment of Laparoscopic Skills scores and reduces subjective workload, per the review's synthesis of a systematic review. [→ Khosla Lakshay 2025](#khosla-lakshay-2025)

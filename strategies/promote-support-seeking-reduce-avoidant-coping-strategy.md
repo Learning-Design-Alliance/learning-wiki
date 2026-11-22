@@ -54,6 +54,7 @@ A practical implication the authors draw from the supported process model: inter
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
+- [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 
 ## Examples
 -

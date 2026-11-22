@@ -47,6 +47,7 @@ The review recommends that educators, curriculum developers and professional bod
 - [Use cross-method validity to select the most useful and reliable assessment tools when constructing a surgical training curriculum.](cross-method-validity-for-metric-selection.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Use validated global rating scales with trained, expert raters and consensus sessions when generating ground truth for surgical AI skill assessment](trained-rater-consensus-sessions-ai-ground-truth.md)
+- [Use video-based, system-independent suture metrics to deliver intraoperative feedback in surgical training](vision-based-intraoperative-suture-feedback-strategy.md)
 
 ## Examples
 -

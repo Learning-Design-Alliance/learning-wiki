@@ -52,3 +52,5 @@ Independent t-tests (Table 4) compared male and female students: females scored 
 - [Female students report higher sleepiness and physical fatigue than male students during Ramadan fasting](gender-differences-sleepiness-fatigue-ramadan.md) — related
 - [Female medical postgraduates experienced significantly more anxiety symptoms than males during the COVID-19 pandemic](covid19-female-postgraduates-more-anxiety-than-males.md) — related
 - [Female gender, urban residence, and higher maternal education are associated with increases in depressive symptoms](female-urban-maternal-education-risk-factors-ds-increase.md) — related
+- [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related
+- [The high-stable and low-stable depressive symptom trajectory groups share similar sleep schedules across all but the last month of the semester](high-stable-low-stable-similar-sleep-schedules.md) — related

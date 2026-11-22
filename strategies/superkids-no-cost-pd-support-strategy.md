@@ -42,6 +42,7 @@ The program's implementation model bundles professional development and support 
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 - [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
+- [Low-dose provider training with website resources and on-demand consultation to support school-based HOPS implementation](hops-provider-training-support-strategy.md)
 
 ## Examples
 -

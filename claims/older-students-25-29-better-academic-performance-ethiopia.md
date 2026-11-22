@@ -53,3 +53,5 @@ In the multivariable logistic regression of the 615-student cross-sectional stud
 - [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related
 - [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — reports the opposite
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](grade-repeaters-lower-performance-except-workshop.md) — related
+- [Students aged 22–24 have lower odds of high academic performance than students aged 18–21 among Jordanian medical-field students](age-22-24-lower-odds-high-cgpa.md) — related
+- [University attended is associated with high academic performance, with Jordan University of Science and Technology students showing higher odds](university-associated-with-high-cgpa.md) — related

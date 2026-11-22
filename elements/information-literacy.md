@@ -67,6 +67,10 @@ Information literacy is the element in which learners identify information needs
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - *Do learners check information from a generative AI the way they check sources found by search?* [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [~M]
 
+## Examples
+
+- [Use the READER acronym to structure critical appraisal of a research article and its applicability to the reader's own practice context](../strategies/reader-critical-appraisal-acronym-strategy.md)
+
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)
 - [Research](research.md)

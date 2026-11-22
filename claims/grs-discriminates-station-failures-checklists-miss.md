@@ -50,3 +50,4 @@ Analysis of station-level pass/fail outcomes for 36 students against a modified-
 - [Checklist scores significantly predict GRS scores in a high-stakes exit OSCE](checklist-predicts-grs-regression-osce.md) — related
 - [Bland-Altman analysis shows a systematic positive bias of about 10 percentage points in favor of GRS over checklists](bland-altman-grs-positive-bias-osce.md) — related
 - [GRS scores are significantly higher than checklist scores in a high-stakes undergraduate exit OSCE](grs-scores-higher-than-checklist-osce.md) — related
+- [End-of-course, summative, high-stakes cross-sectional assessments miss student development over time, whereas programmatic assessment promotes mastery](cross-sectional-high-stakes-assessment-limits-mastery.md) — related

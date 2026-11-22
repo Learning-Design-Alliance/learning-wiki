@@ -47,3 +47,5 @@ Cross-sectional survey (N = 307); the regression prints B = −2.993 (β = −0.
 ## Related Claims
 - [Five variables — knowledge, interest in depression care, caregiving experience, recent in-service training, and school lectures — explained 19% of variance in nurses’ attitudes](five-variables-19-percent-attitude-variance.md) — a broader claim this one bears on
 - [Nurses' attitudes toward pain management become more negative with greater work experience, age, education and prior retraining participation](pain-attitudes-negative-demographic-correlations.md) — related
+- [Participants who completed their most recent ultrasound course most recently showed a trend towards lower and more variable assessment scores](recent-course-completion-trend-lower-scores.md) — related
+- [Nurses who received patient safety education only once in the past year showed lower patient safety activities than those receiving it four or more times](single-annual-safety-education-lower-activities.md) — related

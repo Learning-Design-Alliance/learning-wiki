@@ -46,6 +46,7 @@ The article recommends that academic counsellors "should consider routinely sign
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Routinely screen health professions students for academic stress, anxiety, depression, and sleep disturbance during virtual learning, and incorporate sleep hygiene and resourcefulness training in curricula](routine-screening-sleep-hygiene-resourcefulness-training-strategy.md)
 - [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
+- [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 
 ## Examples
 -

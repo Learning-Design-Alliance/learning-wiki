@@ -75,3 +75,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Better academic achievement predicts better motor skills, aerobic fitness, and muscular fitness one year later.](gpa-predicts-future-fitness.md) — related
 - [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — related
 - [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related
+- [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related

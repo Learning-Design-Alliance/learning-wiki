@@ -73,3 +73,4 @@ Same multivariate linear regression analysis: increasing IWATE difficulty score 
 - [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — reports the opposite
 - [Case complexity handled during the robotic liver resection learning curve increases significantly, with the Iwate difficulty score rising across the series](iwate-difficulty-score-rises-across-learning-curve.md) — related
+- [Estimated blood loss and hematocrit decrease were significantly higher in the first 15 vaginal myomectomy cases than in subsequent groups](vm-bleeding-higher-first-15-cases.md) — related

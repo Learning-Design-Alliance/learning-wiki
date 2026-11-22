@@ -51,3 +51,4 @@ Pearson correlation analysis in the N = 395 validation survey. The article repor
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [The VA-MeCo shows high reliability, with McDonald's ω of .94 for the total score and .82–.88 for the sub-scales](va-meco-high-reliability.md) — related
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — related
+- [C-Scale-I scores correlate positively with the Visual Analogue Confidence Scale (r = 0.61), supporting concurrent validity](c-scale-i-concurrent-validity-cvas.md) — related

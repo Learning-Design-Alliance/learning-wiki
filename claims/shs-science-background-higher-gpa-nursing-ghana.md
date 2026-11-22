@@ -51,3 +51,4 @@ Ordinal logistic regression of last-semester GPA (ordered categories) among 320 
 - [Most young new farmers lack formal agricultural education backgrounds, with over half having no agricultural background at all.](young-new-farmers-non-agricultural-backgrounds.md) — related
 - [Exposure to at least two senior science subjects is associated with higher first-year GPA and higher odds of passing all courses](any-two-sciences-first-year-outcomes.md) — related
 - [Courses closely aligned with a student's home department content are significantly easier for that major even after controlling for student performance level](home-department-course-alignment-dcf.md) — related
+- [Bayesian multilevel ordinal models confirm the upward GPA trend, with cumulative odds of a higher GPA category 43% greater for 2020 than 1999 admits](ordinal-model-confirms-upward-gpa-trend.md) — related

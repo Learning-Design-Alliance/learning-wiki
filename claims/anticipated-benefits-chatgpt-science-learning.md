@@ -69,3 +69,4 @@ Survey analysis also identified formative evaluation (8/29), critical thinking s
 - [Pre-service teachers expressed concerns about ChatGPT's accuracy (11/29) and students' potential over-dependence (13/29), and proposed remedies of diversified information sources and structured classroom interactions](chatgpt-accuracy-overdependence-concerns-remedies.md) — related
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — related
 - [Pre-service teachers integrated ChatGPT into lesson plans spanning five science knowledge domains, with biology most frequent (9/29)](chatgpt-lesson-plans-five-science-domains.md) — related
+- [The co-designed health education unit is anticipated to increase preservice teachers’ HL and eHL levels (anticipated, not yet tested)](anticipated-hl-ehl-increase-pilot-unit.md) — related

@@ -53,6 +53,9 @@ The article recommends that universities integrate sleep education and PA promot
 - [Integrate validated study techniques such as spaced repetition and wellness strategies (sleep, physical activity) into university support programs for entrance examinations](integrate-spaced-repetition-wellness-into-entrance-support-programs.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Emphasize sleep hygiene as a regulating factor for academic performance in emergency remote teaching](sleep-hygiene-emergency-remote-teaching-strategy.md)
+- [Institutions serving Native American students should offer culturally responsive wellness initiatives promoting restorative sleep and meaningful movement](culturally-responsive-wellness-initiatives-indigenous-students.md)
+- [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
+- [Time sleep-related support services for the freshman transition and high-stress academic periods](timed-sleep-support-freshman-and-exam-periods.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Pre-test item difficulties in Table 1 varied widely before any instruction on in
 - [The percentage of questions answered correctly increased from 46.6% pre-intervention to 60% post-intervention (p=0.02)](correct-answer-percentage-46-6-to-60-percent.md) — related
 - [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
 - [The pair of similar Lenz's law questions qualified as highly challenging, with pre-instruction correct-answer percentages in the lower part of the 35%-70% range](similar-lenz-question-pair-highly-challenging.md) — related
+- [Item difficulty varied substantially across the questionnaire, from p = 0.02 to p ≈ 0.89](inpress-item-difficulty-variability.md) — related

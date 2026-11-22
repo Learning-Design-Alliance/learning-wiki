@@ -58,6 +58,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
 - [Adapt GPP scaffolding intensity to individual student proficiency](adaptive-gpp-scaffolding-strategy.md)
 - [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
+- [Use the diverse e-learning activity repertoire (microlearning, gamification, adaptive quizzes, virtual patients) matched to learning needs](elearning-activity-repertoire-medical-education.md)
 
 ## Examples
 -

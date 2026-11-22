@@ -79,3 +79,4 @@ d’ Cohen = 0.58, 95% CI [0.21, 0.95])"
 - [Higher percentage of body fat mass is associated with lower selective attention and concentration in pre-adolescents](body-fat-mass-negative-association-attention.md) — related
 - [Pre-adolescents in the higher-fitness cluster score better on selective attention and concentration than those in the lower-fitness cluster](higher-fitness-cluster-better-selective-attention-concentration.md) — related
 - [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related
+- [Boys' and girls' networks differ structurally: centrality profiles show no significant correlation (out-EI r = 0.39, p = 0.212; in-EI r = 0.28, p = 0.384)](sex-networks-centrality-profiles-uncorrelated.md) — related

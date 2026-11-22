@@ -39,6 +39,7 @@ The strategy connects enrolled students to federal, state, and local benefits (f
 ## Related Strategies
 
 - [Mobilize community colleges to address low-income students' basic needs and financial stability to support completion](college-mobilization-basic-needs-financial-stability.md)
+- [Advocate for community-level changes to housing access, health insurance coverage, child safety, and free or low-cost health services](community-level-advocacy-nssd-outcomes-strategy.md)
 
 ## Examples
 -

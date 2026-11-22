@@ -59,3 +59,4 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — reports the opposite
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
 - [Strengthened PE lowers math scores, with the decrease concentrated among girls](strengthened-pe-lowers-math-scores-girls.md) — related
+- [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related

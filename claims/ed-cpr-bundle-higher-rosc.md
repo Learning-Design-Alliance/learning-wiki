@@ -55,3 +55,6 @@ The review reports this from a pre- and post-evaluation by Rolston et al. of an 
 - [Each minute of defibrillation delay decreases the likelihood of ROSC by 19 percent, per studies the article cites](defibrillation-delay-19-percent-rosc-decline.md) — related
 - [Epinephrine improves ROSC rates but its effect on survival to discharge remains inconclusive, per the cited reviews](epinephrine-rosc-benefit-survival-inconclusive.md) — related
 - [In situ simulation, used most often in the operating room with multidisciplinary learners, is reported to improve the match between the virtual and the real and aid transfer of learning](in-situ-simulation-virtual-real-match.md) — related
+- [Clinical outcomes did not differ across nontechnical skills rating groups in this cohort](no-outcome-difference-across-nts-groups.md) — related
+- [Higher TEAM global ratings are associated with shorter cumulative no-flow time during mechanical CPR deployment in real-world resuscitations](team-global-rating-shorter-mcpr-no-flow-time.md) — related
+- [Higher TEAM global ratings are associated with shorter mechanical CPR deployment duration](team-rating-shorter-mcpr-deployment-duration.md) — a narrower finding that bears on this claim

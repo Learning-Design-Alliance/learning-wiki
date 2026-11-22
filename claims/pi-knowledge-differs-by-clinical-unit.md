@@ -68,3 +68,4 @@ Pairwise follow-up within the same survey comparing the operating room group (me
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
 - [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related
 - [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related
+- [Intensive care nurses have significantly higher MDRPI knowledge scores than nurses working in surgical and internal clinics](icu-nurses-higher-mdrpi-knowledge-than-ward-nurses.md) — a narrower finding that bears on this claim

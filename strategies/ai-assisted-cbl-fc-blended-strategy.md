@@ -70,6 +70,7 @@ The article implements a blended instructional model in which foundational conte
 - [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 - [Use real patients' Internet forum questions as virtual cases for teaching and assessing clinical decision-making in undergraduates](internet-forum-questions-as-virtual-cases-strategy.md)
 - [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](ai-simulation-reflection-assessment-strategy.md)
+- [Deploy AI-assisted pre-consultation nutrition questioning in clinic waiting rooms to prepare patients and focus dietitian time on specialized guidance](ai-preconsultation-tablet-nutrition-strategy.md)
 
 ## Examples
 -

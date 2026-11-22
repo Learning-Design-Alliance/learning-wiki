@@ -65,3 +65,4 @@ Group comparisons in the same 380-student sample found no significant difference
 
 ## Related Claims
 - [In men with low academic performance, GPA is multivariately associated with admission exam test, self-motivation, neuroticism and having a romantic partner positively, and with having children and weekly physical activity hours negatively](men-gpa-multivariate-model-low-performers.md) — related
+- [RDQ students report higher financial strain and more study-work conflicts than Non-RDQ students](rdq-students-financial-strain-work-study-conflicts.md) — related

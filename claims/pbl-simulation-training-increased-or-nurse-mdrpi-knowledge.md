@@ -57,3 +57,4 @@ Single-group pretest–posttest quasi-experiment with 80 OR nurses at one tertia
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [After the PBL improvement intervention, student post-PBL formative assessment scores improved significantly, with an overall Cohen's d of -0.54](pbl-intervention-formative-assessment-gains.md) — related
 - [Both E-book app and conventional lecture training significantly improved nurses' pressure-injury knowledge, attitudes, and confidence within groups](both-formats-improved-pi-outcomes.md) — related
+- [Intensive care nurses have significantly higher MDRPI knowledge scores than nurses working in surgical and internal clinics](icu-nurses-higher-mdrpi-knowledge-than-ward-nurses.md) — related

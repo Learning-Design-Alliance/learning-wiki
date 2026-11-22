@@ -86,6 +86,7 @@ Connections work because they activate and integrate prior knowledge with new te
 - [Annotating Text](../principles/annotating.md) — a recording format that pairs naturally with connection-making during reading
 - [Question-Answer Relationships](../strategies/question-answering.md) — complementary comprehension strategy focused on text-based rather than experience-based reasoning
 - [Teach coursebook texts through four intertextual connection categories before creative writing tasks](four-intertextual-connection-categories-strategy.md)
+- [Use the READER acronym to structure critical appraisal of a research article and its applicability to the reader's own practice context](reader-critical-appraisal-acronym-strategy.md)
 
 ## Examples
 - **Mosaic of Thought comprehension curriculum (Keene & Zimmermann, 1997)** — the source framework that popularized the three connection types in workshop-model reading instruction.

@@ -51,3 +51,4 @@ The report summarizes its own evaluation work on the integrated simulation tools
 - [CAT has the potential to be more valid and reliable than non-adaptive tests](cat-potential-more-valid-reliable-than-non-adaptive.md) — related
 - Teachers reported validity, subjectivity, and feasibility concerns in assessing communication and digital literacy — related
 - [Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey](ct-pck-content-face-validity.md) — related
+- [Rigorous research is still needed on the educational impact, scalability, cost-effectiveness, and fitness-to-practice effects of blending simulation and e-learning](blended-simulation-elearning-research-gap.md) — related

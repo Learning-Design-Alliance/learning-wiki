@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1462 entries** · 0 stable · 1462 in review · 0 drafts
+**1463 entries** · 0 stable · 1463 in review · 0 drafts
 
 ---
 
@@ -1389,6 +1389,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-question structure for school performance inquiry](three-question-structure-for-school-performance-inquiry.md) - The framework structures school performance inquiry around three questions: \"1.
 * [Three-question taxonomy of motivation constructs: beliefs, task value, and reasons for engaging](three-question-taxonomy-of-motivation-constructs-beliefs-task-value-and-reasons-for-engagi.md) - The article organizes motivation constructs using Graham and Weiner's three basic questions — \"Can I do it?\", \"Do I want to do it?\" and \"Why am I doing this task?\" — mapping them onto competence and control beliefs, feelings-related and importance-related task value, and intrinsic versus extrinsic r
 * [Three-role ICT interactivity coding system (object, participant, and tool)](three-role-ict-interactivity-coding-system-object-participant-and-tool.md) - The study developed a coding system defining classroom interactivity as \"actions which are performed by teachers and students once they perceive the supported features of educational technologies\".
+* [Three-segment piecewise-linear grade renormalization method](three-segment-piecewise-linear-grade-renormalization-method.md) - The article recommends mapping raw recitation grades through three continuous line segments whose break points in the domain subdivide the section into three approximately equal numbers of students, leaving two parameters constrained by the goal-average condition plus one distortion-minimizing condi
 * [Three-stage comparative educational experiment (stating–forming–control)](three-stage-comparative-educational-experiment-statingformingcontrol.md) - The article presents a reusable experimental design for psychoeducational research in which, as it prints, the comparative experiment \"as a rule it includes three stages\": a stating stage choosing experimental and control groups and determining the initial level of formation of students' technologic
 * [Three-stage model of articulating educational research with professional practice](three-stage-model-of-articulating-educational-research-with-professional-practice.md) - The article frames formative research as systematization of the pedagogical experience, \"an ongoing exercise in the production of critical knowledge from practice.\" The articulation of educational research with professional practice \"has 3 stages that are sequenced and called referencing, systematiz
 * [Three-step framework for generating validated natural-language explanations of question difficulty](three-step-framework-for-generating-validated-natural-language-explanations-of-question-di.md) - The article introduces a framework that treats difficulty as \"a quantity to be explained\" rather than only estimated.

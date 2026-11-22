@@ -49,3 +49,5 @@ Grade-stratified multivariate analysis in the cross-sectional survey: rare physi
 
 ## Related Claims
 - [Dynamic coupling-improvement effects are grade-dependent, significant in junior but not senior students](coupling-dynamic-effects-junior-subsample.md) — related
+- [Physically active and inactive medical students show no statistically significant difference in mean GPA](physical-activity-gpa-null-medical-students.md) — related
+- [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — related

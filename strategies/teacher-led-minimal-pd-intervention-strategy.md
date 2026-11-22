@@ -57,6 +57,7 @@ The article recommends delivering innovative interventions through students' usu
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Integrate brief classroom-based SRL strategy training into regular math instruction](integrate-srl-training-into-regular-math-instruction.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
+- [Implement TPSR through teacher co-design, professional development, and existing PE programs](tpsr-codesign-pd-implementation-strategy.md)
 
 ## Examples
 -

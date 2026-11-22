@@ -51,3 +51,4 @@ Chi-square subgroup analyses of self-assessed competence items in the DGAV surve
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
 - [Participants judge emergency surgery inadequately represented in both old (76%) and new (47%) German training regulations](training-regulations-inadequately-represent-emergency-surgery.md) — related
 - [Gender-stratified analyses showed only marginal differences: women reported slightly higher significant learning progress only on confidence in approaching new patients (0.8 vs 0.5, p=.032)](gender-differences-marginal-communication-gains.md) — related
+- [Patient satisfaction differs significantly by patient age and gender but not by monthly income or residence](patient-satisfaction-differs-by-age-gender-not-income-residence.md) — related

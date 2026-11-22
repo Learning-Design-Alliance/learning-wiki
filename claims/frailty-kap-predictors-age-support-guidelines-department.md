@@ -53,3 +53,4 @@ Multiple stepwise linear regression (model 5) on the 524-nurse cross-sectional s
 - [Department IVCM policy was strongly associated with consistent knowledge, and training-course attendance showed a marginally significant advantage](department-policy-and-training-course-knowledge-association.md) — related
 - [Recency of frailty-related literature reading shows a borderline association with total KAP and is associated with knowledge scores](frailty-reading-recency-knowledge.md) — related
 - [Among 524 Chinese clinical nurses, only 37.2% were rated good in frailty-management KAP, with good knowledge (10.3%) and practice (13.4%) far less common than good attitudes (65.3%)](nurses-frailty-kap-knowledge-practice-lag-attitudes.md) — related
+- [Nurses familiar with national dengue guidelines scored higher on the C-Scale-I than those not familiar, supporting known-groups validity](c-scale-i-known-groups-guideline-familiarity.md) — related

@@ -51,3 +51,5 @@ Descriptive results from the cross-sectional survey of 514 students: "Out of 514
 - [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
 - [Undernutrition burden was high among the sampled urban primary school children, with wasting at 34.0%, underweight at 24.0%, stunting at 23.8% and overweight at 4.3%](malnutrition-prevalence-urban-primary-schools-northern-ethiopia.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
+- [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
+- [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related

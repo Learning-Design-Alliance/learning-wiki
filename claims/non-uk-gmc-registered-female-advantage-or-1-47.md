@@ -53,3 +53,4 @@ Subgroup regression of 1067 non-UK graduates registered with the GMC, mostly BME
 - [There was no evidence of an interaction between candidate sex and ethnicity in any of the three subgroups](no-sex-ethnicity-interaction-paces.md) — related
 - [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related
 - [UK female medical graduates had 1.18 times the odds of passing PACES at first attempt compared with male UK graduates](uk-graduates-female-advantage-or-1-18.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

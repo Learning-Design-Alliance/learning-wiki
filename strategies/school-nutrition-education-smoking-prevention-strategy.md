@@ -50,6 +50,8 @@ The authors recommend incorporating nutrition education into the school curricul
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 - [Avoid simplistic good/bad food narratives and weight-control-centered framing in school nutrition education to protect psychosocial well-being](avoid-weight-centered-good-bad-food-framing.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Extend institutional food insecurity support beyond food provision to multi-faceted programmes including financial management, budgeting, and nutrition education](multi-faceted-student-food-insecurity-support.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

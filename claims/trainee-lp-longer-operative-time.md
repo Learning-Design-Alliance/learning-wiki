@@ -57,3 +57,4 @@ In the same retrospective cohort (n=77; operative time reported for n=71), Table
 - [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — related
 - [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related
 - [Prior studies report learning curves for laparoscopic pyloromyotomy of roughly 30 cases, reflected mainly in decreasing operating time](prior-lp-learning-curve-operating-time.md) — related
+- [Residents required equal or longer operative times than attending surgeons, significantly so for BCS with SLNB in the MSL and WGL techniques](resident-longer-operative-times-bcs.md) — related

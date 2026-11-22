@@ -70,3 +70,6 @@ Spearman correlation in the same survey between age and knowledge scores, printe
 - [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — reports the opposite
 - [Nurses' pressure injury knowledge scores differ significantly across clinical units, with operating-room nurses scoring higher than outpatient-clinic nurses](pi-knowledge-differs-by-clinical-unit.md) — related
 - [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related
+- [Nurses caring for inpatients show a moderate overall level of knowledge about medical device‐related pressure injuries, scoring 12.82 ± 2.99 on a 0–25 questionnaire](nurses-moderate-mdrpi-knowledge-12-82-of-25.md) — related
+- [Intensive care nurses have significantly higher MDRPI knowledge scores than nurses working in surgical and internal clinics](icu-nurses-higher-mdrpi-knowledge-than-ward-nurses.md) — related
+- [Nurses' MDRPI knowledge shows no significant difference by gender, years of professional experience, or receipt of prior MDRPI training](mdrpi-knowledge-null-gender-experience-training.md) — related

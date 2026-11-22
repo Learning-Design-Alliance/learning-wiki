@@ -50,3 +50,4 @@ Sub-sample OLS regressions splitting 505 respondents at the median WAM (low WAM 
 - [Greater Facebook use is associated with significantly lower performance on the least difficult levels of learning (understanding and application) in introductory accounting](facebook-use-lowers-least-difficult-learning-performance.md) — a broader claim this one bears on
 - [Facebook-use effects on general academic achievement (WAM) are insignificant, indicating findings are unique to the introductory accounting context](facebook-wam-effect-insensitive-context-specific.md) — related
 - [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md) — related
+- [Instagram, Snapchat, and Facebook use, but not TikTok, Twitter, or WhatsApp use, are significantly negatively associated with adolescent GPA](platform-specific-sns-use-gpa-associations.md) — related

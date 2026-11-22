@@ -53,3 +53,4 @@ Descriptive results from the post-test of the same 20-respondent single-group st
 - [German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group](integrative-techniques-improve-german-speaking-outcomes.md) — possibly the same claim (merge candidate)
 - [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related
 - [Post-test RSI distribution shifted upward relative to pre-test (median 0.28 vs 0.22), with nearly all post-test upper-quartile points above the pre-test upper whisker](rsi-post-test-distribution-shift-upward.md) — related
+- [Grade distributions compressed upward, with a growing proportion of students obtaining the maximum 4.0 grade in recent years](grade-distribution-compression-toward-4-0.md) — related

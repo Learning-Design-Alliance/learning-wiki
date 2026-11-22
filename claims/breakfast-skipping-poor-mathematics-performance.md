@@ -51,3 +51,6 @@ Table 3 secondary exposure, Mathematics outcome, adjusted multilevel logistic re
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
 - [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md) — a broader claim this one bears on
 - [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — related
+- [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
+- [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
+- [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — reports the opposite

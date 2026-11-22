@@ -71,3 +71,4 @@ When baseline GPA was added to the regression, the depression effect "failed to 
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
 - [Students in the Possible MDD group have lower GPAs at baseline and at six-month follow-up than students below the cut-off](possible-mdd-group-lower-gpa-baseline-followup.md) — related
+- [Depressive symptoms are highly prevalent (50.7% clinically significant) among Saudi university students but do not independently predict GPA](depression-prevalent-not-gpa-predictor.md) — related

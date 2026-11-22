@@ -50,3 +50,4 @@ Post hoc linkage of IC measures with previously obtained OSCE scores in the 21-s
 - [Specific IC correlates strongly with general IC (r=0.56, P=.008), while their corresponding interaction-category subscales show low, nonsignificant correlations](specific-ic-correlates-with-general-ic.md) — related
 - [Performance in communicative OSCE skills is associated with general willingness to engage with instructional contents, not with targeted practice of specific skills](communication-engagement-not-targeted-practice.md) — related
 - [MMI performance significantly predicted OSCE communication station performance (r = 0.17) but was not significantly related to OSCE overall performance (r = 0.06)](mmi-predicts-osce-communication-not-overall.md) — related
+- [IC-MD scores measured before medical study correlate significantly with interactional skills assessed in third-year OSCE examinations (r=.40 overall)](ic-md-osce-stability-correlation.md) — related

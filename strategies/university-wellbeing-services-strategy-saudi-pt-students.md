@@ -56,6 +56,8 @@ The article recommends that universities address student well-being holistically
 - [Institutions and supervisors should improve doctoral students' well-being and engagement rather than using fear and stress as motivators](support-based-doctoral-supervision-strategy.md)
 - [Routinely signpost academically struggling students to mental health support, building on academic staff depression literacy](signpost-struggling-students-mental-health-support.md)
 - [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
+- [Institutions serving Native American students should offer culturally responsive wellness initiatives promoting restorative sleep and meaningful movement](culturally-responsive-wellness-initiatives-indigenous-students.md)
+- [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 
 ## Examples
 -

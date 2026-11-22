@@ -51,3 +51,4 @@ Interview study of seven graduate students; a PER participant contrasted dynamic
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [Physics graduate students define thinking like a physicist as concept-first reasoning in which concepts are considered before applying mathematics](graduate-students-define-ltp-concept-first.md) — related
 - [Students described learning to think like a physicist as a gradual, ongoing process built through repeated practice, curiosity and the social environment, without a fixed threshold](ltp-gradual-practice-curiosity-social.md) — related
+- [Prioritizing performance goals and grades over mastery orients students toward test performance at the expense of authentic understanding](grade-focus-trivializes-learning-hpe.md) — related

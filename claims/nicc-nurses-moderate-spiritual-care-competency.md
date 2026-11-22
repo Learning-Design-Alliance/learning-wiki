@@ -51,3 +51,5 @@ Descriptive cross-sectional survey of 220 purposively selected nurses at the NIC
 - [Age and working experience each significantly predict higher spiritual care competency scores](age-experience-predict-spiritual-care-competency.md) — related
 - [Nurses' pooled spiritual care competency score is 70.51 (95% CI: 70.23–70.79), indicating a medium level of ability](pooled-nurse-spiritual-care-competency-70-51.md) — related
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
+- [Turkish critical care nurses reported a moderate level of spiritual care competence and a moderate frequency of spiritual care practice, with assessment and implementation the lowest competence subscale](moderate-spiritual-care-competence-ccns-turkiye.md) — related
+- [Nurses' therapeutic communication skill levels are weakly positively correlated with their spiritual care competencies (r = 0.270) in a Turkish hospital sample](therapeutic-communication-positively-correlated-spiritual-care-competence.md) — related

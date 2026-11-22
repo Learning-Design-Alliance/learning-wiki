@@ -51,3 +51,5 @@ Inferential analysis across all items of the field study, using Chi square tests
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
 - [Instructors' competence profiles show no significant association with age, gender or academic field in this exploratory small-sample analysis](no-sociodemographic-association-competence-profiles.md) — related
+- [Gender, ethnicity, international student status, and first-generation status are not associated with depressive symptom trajectory group membership among first-year students](sociodemographics-not-associated-trajectory-groups.md) — a narrower finding that bears on this claim
+- [No significant bivariate associations between TIA knowledge and age, professional cadre, or years of practice; specialty was independently associated with fair knowledge](tia-knowledge-null-bivariate-specialty-or.md) — related

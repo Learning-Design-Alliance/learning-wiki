@@ -52,3 +52,4 @@ Descriptive dimension-level analysis of the 342-nurse survey: "'ethical care com
 - [ICU nurses' palliative care core competency is at a lower-middle level, with a mean PCNCC total score of 58.96 (SD 21.56)](icu-nurses-palliative-core-competency-lower-middle-mean.md) — related
 - [Overall palliative care core competency among the surveyed oncology nurses is moderate (76.02 ± 23.85, 59.3% of maximum), with psychological self-adjustment the weakest dimension.](moderate-overall-competency-psa-weakest-dimension.md) — related
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — related
+- [Critical care nurses most often identified lack of integration into routine practice, the ICU environment, and patient criticality as barriers to providing spiritual care](icu-barriers-spiritual-care-integration.md) — related

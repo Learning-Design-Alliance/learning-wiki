@@ -53,3 +53,7 @@ Descriptive analysis of the cross-sectional survey (N = 600) shows "Most student
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — related
 - [Nearly half of health sciences students fall in the low physical activity category, and 19% do not meet WHO-recommended levels](low-physical-activity-prevalence-health-sciences-students.md) — related
+- [Depressive symptoms are highly prevalent (50.7% clinically significant) among Saudi university students but do not independently predict GPA](depression-prevalent-not-gpa-predictor.md) — related
+- [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — related
+- [More than half of surveyed Saudi university students report low physical activity (53%) and do not meet WHO activity recommendations](low-physical-activity-majority-saudi-students.md) — related
+- [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — related

@@ -50,6 +50,7 @@ A implementable training recipe for classroom-delivered active lessons: "Teacher
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Implement TPSR through teacher co-design, professional development, and existing PE programs](tpsr-codesign-pd-implementation-strategy.md)
 
 ## Examples
 -

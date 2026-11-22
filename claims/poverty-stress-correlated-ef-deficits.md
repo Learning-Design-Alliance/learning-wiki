@@ -58,3 +58,4 @@ The report’s narrative review cites multiple studies linking poverty, low SES,
 - [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related
 - [Covariates: girls show higher reading and behavioral engagement; poverty, child abuse, and neglect are associated with lower reading outcomes](covariates-sex-poverty-maltreatment-school-outcomes.md) — related
 - [Pets can serve as sentinels of environmental health hazards, showing effects such as heat stress before humans](pets-as-sentinels-environmental-health-hazards.md) — related
+- [Maltreatment rarely occurs in isolation: most sampled children experienced multiple types, with psychological abuse plus witnessing violence most common](maltreatment-co-occurrence-combinations.md) — related

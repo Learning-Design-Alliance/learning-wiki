@@ -51,3 +51,4 @@ Binary secondary outcome defined as systematic examination of all relevant probe
 - [Handheld ultrasound practice shortens eFAST examination time on a simulator](handheld-practice-shortens-efast-examination-time.md) — related
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
 - [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related
+- [Credentialled participants were more likely than non-credentialled participants to pass both the eFAST and cardiac ultrasound assessments](credentialled-participants-more-likely-to-pass-pocus-assessments.md) — related

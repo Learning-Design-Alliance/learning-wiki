@@ -9,11 +9,10 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-05
 sources:
   - id: punz-a-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001870"
-    title: "Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. https://journals.publisso.de/en/journals/jme/volume43/zma001870"
+    resource: "https://doi.org/10.3205/zma001870"
+    title: "Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. [doi:10.3205/zma001870](https://doi.org/10.3205/zma001870)"
     author: Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B.
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intervention-group students reported that defining their own learning outcomes improved focus, motivation, perceived learning success, and self-efficacy during their electives. [→ Punz A 2026](#punz-a-2026)
@@ -34,7 +33,7 @@ sources:
 
 ### Punz A 2026
 
-Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. https://journals.publisso.de/en/journals/jme/volume43/zma001870
+Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. [doi:10.3205/zma001870](https://doi.org/10.3205/zma001870)
 
 `q2 · i?` · `qualitative · r3`
 

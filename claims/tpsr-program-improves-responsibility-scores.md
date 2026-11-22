@@ -52,3 +52,4 @@ Semi-experimental pretest-posttest control group study with 55 athlete students 
 - [The TPSR leadership program significantly improved leadership behavior scores (initiation of structure and consideration) on the LBDQ compared with the control group](tpsr-program-improves-lbdq-leadership-scores.md) — related
 - [A social responsibility education program significantly improves the caring and helping component among football sports school students](sr-program-improves-caring-helping.md) — a narrower finding that bears on this claim
 - [A social responsibility education program significantly improves the respect component among football sports school students](sr-program-improves-respect-sports-school.md) — related
+- [International TPSR-based interventions have shown promising improvements in social outcomes](tpsr-international-positive-findings.md) — a broader claim this one bears on

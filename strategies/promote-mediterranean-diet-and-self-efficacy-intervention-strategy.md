@@ -53,6 +53,7 @@ Based on the longitudinal findings, the authors conclude that "education interve
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 - [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

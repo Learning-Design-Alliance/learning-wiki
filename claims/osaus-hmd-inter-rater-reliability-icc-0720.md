@@ -50,3 +50,4 @@ Inter-rater reliability computed with a two-way random effects ICC (model 2,5) o
 - [OSAUS scores correlate strongly with a Global Rating Scale (r = 0.970) for ultrasound HMD performance](osaus-grs-convergent-validity-r-0970.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Novices unexpectedly scored higher than experts on OSAUS for HMD measurement in a simulated setting](osaus-novice-higher-than-expert-scores.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

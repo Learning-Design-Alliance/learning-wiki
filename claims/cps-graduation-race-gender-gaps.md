@@ -80,3 +80,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](stem-problems-tailoring-instruction-challenge.md) — a broader claim this one bears on
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — related
 - [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](boys-retained-more-frequently-than-girls.md) — related
+- [Large racial disparities in grade 3 academic outcomes exist within this CPS-involved infant cohort](racial-disparities-cps-cohort-outcomes.md) — related

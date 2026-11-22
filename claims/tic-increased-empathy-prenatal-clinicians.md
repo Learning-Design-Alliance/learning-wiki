@@ -51,3 +51,4 @@ Thematic analysis of semi-structured interviews with 23 prenatal clinicians foun
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — related
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
 - [Prenatal clinicians describe inadequate, generic, and disengaging TIC training relying heavily on self-directed learning](inadequate-generic-tic-training-prenatal.md) — related
+- [Some physicians' perspectives evolved from individualistic merit-based frameworks toward systemic understanding through patient care, educational and professional experiences](perspective-evolution-toward-systemic-understanding.md) — related

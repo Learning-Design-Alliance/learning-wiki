@@ -84,3 +84,4 @@ The review reports a cluster-randomised facility-based trial (Walker et al.) of 
 - [PRONTO was associated with a 40% reduction in hospital-based neonatal mortality at 8 months postintervention, but not at 4 or 12 months](pronto-neonatal-mortality-reduction-8-months-only.md) — related
 - [PRONTO training showed no statistically significant impact on the incidence of maternal complications](pronto-no-significant-impact-maternal-complications.md) — related
 - [PRONTO simulation training reduced hospital cesarean delivery incidence by about 21% cumulatively over 12 months in intervention hospitals relative to controls](pronto-reduced-cesarean-delivery-incidence.md) — related
+- [The original OBLS curriculum, validated in a randomized controlled trial, significantly improved healthcare workers' knowledge and clinical competencies in managing maternal medical emergencies](obls-rct-improved-knowledge-competencies.md) — related

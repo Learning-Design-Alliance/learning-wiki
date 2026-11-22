@@ -9,11 +9,10 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-05
 sources:
   - id: paridon-h-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001805"
-    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805"
+    resource: "https://doi.org/10.3205/zma001805"
+    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)"
     author: Paridon H.
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies show working memory resources can be exhausted, leading to decreased performance, and restored through a break. [→ Paridon H 2026](#paridon-h-2026)
@@ -34,7 +33,7 @@ sources:
 
 ### Paridon H 2026
 
-Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805
+Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)
 
 `q2 · i?` · `review · r2`
 

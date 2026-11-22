@@ -68,6 +68,7 @@ Authentic tasks support transfer because knowledge encoded in the context of use
 - [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](resource-limited-pbl-pedagogy-over-technology.md)
 - [Replace textbook problems with authentic real-world problems that require deciding what information is needed and justifying assumptions](authentic-real-world-problems-strategy.md)
 - [Anchor career development in problem-solving on a foundation of physical fundamentals](anchor-problem-solving-on-fundamentals.md)
+- [Use realistic scenario-based learning, digital access, and modeling of clear communication in health literacy instruction](scenario-based-learning-modeling-hl-instruction.md)
 
 ## Patterns That Use This Strategy
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic narrative scenarios anchor problem solving

@@ -70,3 +70,4 @@ Logistic regression for persistent absence (10% or more) in the same cohort, rep
 - [Severe menstrual pain in adolescence is associated with more school absence, including persistent absence](menstrual-pain-school-absence-alspac.md) — related
 - [The association between menstrual pain and school absence differed by oral contraceptive use, though without statistical evidence of interaction](contraception-moderates-pain-absence.md) — related
 - [In multivariate-adjusted phenotypic models, all measured child/adolescent health conditions except migraine and asthma are associated with poorer GCSE attainment at 16 (ALSPAC cohort)](phenotypic-health-gcse-associations-alspac.md) — related
+- [Little quantitative evidence exists that menstrual pain or pain management is associated with educational examination performance among Ugandan secondary school girls.](little-evidence-pain-educational-performance.md) — related

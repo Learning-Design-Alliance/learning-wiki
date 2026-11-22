@@ -59,6 +59,7 @@ In its Linking Evidence to Action section, the review recommends that clinical e
 - [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
 - [Establish remote STEM mentoring for girls by matching tailored pairs, choosing proven communication tools, and educating both sides on role-specific challenges](remote-mentoring-implementation-lessons.md)
 - [Match mentors and mentees using application data via speed matching, a stable marriage algorithm, or manual pairing](mentor-mentee-matching-methods.md)
+- [Combine targeted physician education on risk stratification, dual antiplatelet therapy, and vascular imaging with structured referral pathways and expanded neuroimaging access](tia-education-referral-pathway-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article states nutritional counseling was historically assigned to nutrition
 - [Increase dedicated women's nutrition training hours and interventions in ObGyn specialty programs](dedicated-nutrition-training-obgyn-residency.md)
 - [Adopt a dietitian–clinician co-teacher model and multidisciplinary teaching teams to clarify roles and increase appropriate referrals](dietitian-clinician-co-teacher-model.md)
 - [Provide dedicated nutrition counselling slots, extended consultations and postgraduate nutrition pathways including lifestyle medicine curricula and nutrition subspecialties](clinical-integration-postgraduate-nutrition-pathways.md)
+- [Deploy AI-assisted pre-consultation nutrition questioning in clinic waiting rooms to prepare patients and focus dietitian time on specialized guidance](ai-preconsultation-tablet-nutrition-strategy.md)
 
 ## Examples
 -

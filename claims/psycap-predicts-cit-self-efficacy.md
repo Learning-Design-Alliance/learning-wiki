@@ -68,3 +68,4 @@ Spearman correlation analysis of the survey data. The article reports "the self-
 - [PsyCap partially and complementarily mediates the relationship between SDL and competency in interdisciplinary teaching](psycap-complementary-mediation-sdl-cit.md) — related
 - [Self-directed learning strongly predicts psychological capital among university STEM lecturers](sdl-predicts-psycap.md) — related
 - [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related
+- [Psychological capital is positively associated with psychological empowerment and professional competence among educational supervisors](psycap-associated-with-empowerment-and-competence-supervisors.md) — related

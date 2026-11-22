@@ -49,3 +49,4 @@ Prospective cohort study comparing before-and-after quickscan scores (4-point Li
 - [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related
 - [Participants also made 180 'unintended' changes in daily practice, relatively often concerning working conditions and attitude](unintended-changes-working-conditions-attitude.md) — related
 - [Case-based knowledge test scores rose from 52.5% to 65.7% after clinic-based STI training, across all training methods combined, in one uncontrolled pre-post study](sti-clinic-training-knowledge-gains-south-africa.md) — related
+- [Physicians with no recent STI clinical exposure had significantly lower risk assessment, testing, and attitude scores than those managing 11 or more cases](recent-sti-exposure-lower-scores.md) — related

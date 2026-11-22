@@ -71,6 +71,7 @@ Political education front-loads contextual and conceptual knowledge so that late
 - [Pursue two future research directions in XR learning: studying learning designers' situated practice and critically investigating power, politics, and ideology in XR platforms](future-directions-xr-design-practice-and-critical-xr.md)
 - [Pursue a productive future for AIED through deeper engagement between application developers and critical voices from the social sciences and history](aied-developer-critical-social-science-engagement.md)
 - [Sketch the skeleton of a field for background-free learners to enable faster later progress](skeleton-sketch-for-faster-progress.md)
+- [Targeted interventions using structured intergroup contact, diverse patient care experiences and education on structural determinants of health to foster critical consciousness](interventions-structured-intergroup-contact-critical-consciousness.md)
 
 ## Examples
 - **YPAR disproportionality projects**: youth investigate racial disproportionality in school discipline by first studying its historical roots, policy context, and competing explanations before collecting their own data — ensuring findings are interpreted through a structural lens.

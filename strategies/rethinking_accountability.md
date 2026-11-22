@@ -69,6 +69,7 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 - [Design assignments with flexible deadlines during ERT to accommodate learners' increased obligations in crisis times](flexible-deadlines-ert-assignments.md)
 - [Offer instructors grading alternatives that eliminate behavioral zeros](grading-alternatives-to-behavioral-zeros.md)
 - [Use two assessment rubrics so engagement with the adaptive platform can improve grades without penalizing non-users](dual-rubric-platform-incentive.md)
+- [Combat graduate grade inflation with standardized grading rubrics, faculty assessment coaching, rethinking student evaluations in tenure decisions, and alternative feedback methods](combat-graduate-grade-inflation-strategy.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the structure being rethought; alternative formats live here

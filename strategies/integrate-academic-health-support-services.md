@@ -48,6 +48,7 @@ The article recommends that because lower self-perceived academic performance co
 ## Related Strategies
 
 - [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
+- [Identify at-risk students at the start of a semester and deliver just-in-time mental health interventions to protect both psychological health and academic achievement](early-semester-identification-just-in-time-interventions.md)
 
 ## Examples
 -

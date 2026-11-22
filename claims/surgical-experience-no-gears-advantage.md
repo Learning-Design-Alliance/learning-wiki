@@ -50,3 +50,4 @@ Comparison of GEARS overall scores between Residents (≤ 5 years' experience) a
 - [The GEARS-case volume correlation is driven by practicing surgeons with more than 50 cases and is absent among resident/fellow surgeons and those with fewer than 50 cases](gears-volume-correlation-expert-driven-novice-null.md) — related
 - [Total GEARS scores correlate positively with historic case volume across all performers for robotic-assisted cholecystectomy and inguinal hernia repair](gears-case-volume-correlation-all-performers.md) — related
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
+- [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — possibly the same claim (merge candidate)

@@ -93,3 +93,4 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 - [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — reports the opposite
 - [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related
 - [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related
+- [Large racial disparities in grade 3 academic outcomes exist within this CPS-involved infant cohort](racial-disparities-cps-cohort-outcomes.md) — related

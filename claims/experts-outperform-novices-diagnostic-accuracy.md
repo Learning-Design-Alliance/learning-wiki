@@ -51,3 +51,4 @@ Two-way ANOVA of task accuracy from the clinical reasoning task (16 easy and 16 
 - [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](bioworld-successful-solvers-faster-fewer-actions.md) — related
 - [Final-year students' ASCLIRE performance ranks between pre-clerkship students and medical experts, supporting the test's validity](asclire-performance-between-novices-and-experts.md) — related
 - [Second-year medical students showed very low absolute diagnostic accuracy (means near 0.20 on a 0–1 scale) on unfamiliar cardiovascular cases](low-absolute-diagnostic-accuracy-second-year-students.md) — related
+- [Gastroenterologists show substantially higher achalasia knowledge and diagnostic accuracy than other specialties in Türkiye](gastroenterologists-higher-achalasia-knowledge-turkiye.md) — related

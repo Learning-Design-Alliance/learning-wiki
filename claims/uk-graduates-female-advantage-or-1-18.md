@@ -52,3 +52,4 @@ Subgroup regression of 3574 UK medical graduates, predominantly women (58%) and 
 - [The female advantage in first-attempt PACES pass rates is largest in non-UK graduates not registered with the GMC and smallest in UK graduates](sex-effect-size-varies-by-pmq-group.md) — related
 - [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related
 - [Female non-UK graduates registered with the GMC had nearly one and a half times the odds of passing PACES compared with male counterparts](non-uk-gmc-registered-female-advantage-or-1-47.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

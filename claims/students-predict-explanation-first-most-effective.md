@@ -47,3 +47,4 @@ In-class prediction activity during the second course section asked students to 
 ## Related Claims
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
+- [Most medical students believe physical activity affects academic achievement, but a minority believe the effect is negative](student-beliefs-activity-academic-impact.md) — related

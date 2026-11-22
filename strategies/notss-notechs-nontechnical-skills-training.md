@@ -50,6 +50,7 @@ This strategy addresses development of non-technical skills — teamwork, leader
 
 - [Train robotic surgery teams regularly by simulating intraoperative emergencies and maintain a dedicated team](ras-team-emergency-simulation-training-strategy.md)
 - [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
+- [Pair robot-system training with systematic team training including assistants and nurses when introducing robotic surgery](robotic-surgery-team-training-strategy.md)
 
 ## Examples
 -

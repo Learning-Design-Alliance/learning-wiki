@@ -89,3 +89,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Treatment-seeking war-affected youth show chronic, frequent nightmares with severe sleep disturbance and daytime sleepiness at school](chronic-nightmares-sleep-disturbance-school-sleepiness.md) — related
 - [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — related
 - [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](lower-ses-children-unhealthy-lifestyle-patterns.md) — related
+- [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related

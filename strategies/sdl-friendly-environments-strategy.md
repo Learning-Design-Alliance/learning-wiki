@@ -57,6 +57,7 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Implement faculty development programs, continuous formative assessment, and curriculum reform to support student-centred learning](faculty-development-continuous-assessment-strategy.md)
 - [Restructure clinical environments to combine outcomes-oriented formal CPD with informal, social workplace learning](combine-formal-cpd-informal-social-workplace-learning.md)
+- [Use realistic scenario-based learning, digital access, and modeling of clear communication in health literacy instruction](scenario-based-learning-modeling-hl-instruction.md)
 
 ## Examples
 -

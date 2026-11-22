@@ -51,6 +51,7 @@ The authors recommend that hospital nursing leadership implement this training p
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 - [Hospitals and nursing educators should provide spiritual care education courses and integrate them into undergraduate nursing curricula](spiritual-care-education-courses-strategy.md)
 - [Incorporate life-meaning reflection and spiritual care training into nursing intern management to strengthen competencies](spiritual-health-intervention-life-meaning-reflection-strategy.md)
+- [Structured spiritual care training, interdisciplinary collaboration with chaplains, and institutional integration strategies for ICU nursing](structured-spiritual-care-training-icu-nurses.md)
 
 ## Examples
 -

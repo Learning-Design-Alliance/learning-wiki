@@ -50,6 +50,7 @@ The review cautions that health promotion messaging can backfire: "Simplistic na
 - [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
 - [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Universities should deliver targeted multidimensional interventions — food security programs, nutrition education, and psychosocial support — for socially and nutritionally vulnerable student profiles](targeted-multidimensional-nutrition-support-interventions.md)
 
 ## Examples
 -

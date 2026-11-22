@@ -50,3 +50,4 @@ The authors' viewpoint argument organizing competencies under the patient experi
 - [Patients experience healthcare professionals as competent in digital counselling when they support self-management through tailored guidance and disease-specific information](patients-experience-hcp-competence-self-management-support.md) — related
 - [Provider experience competencies prioritize usability, workflow integration, and strategies to mitigate technology-related burnout](provider-experience-digital-health-competencies.md) — related
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related
+- [Factor IV patients hold an informative, patient-centered perspective prioritizing clear everyday language, communication quality, and patient rights](informative-patient-centered-perspective.md) — related

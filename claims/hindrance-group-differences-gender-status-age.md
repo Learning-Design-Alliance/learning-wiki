@@ -48,3 +48,4 @@ SEM results for the N = 370 sample (92.2% female; 21.1% preservice). Table 2 lik
 - [Simulation-related hindrances mediate the relationships between background variables and simulation learning outcomes](hindrance-variable-mediates-background-outcomes-sbl.md) — related
 - [Education level and years of professional experience show no direct significant relationship with simulation experience or outcomes](education-experience-no-direct-relationship-sbl.md) — related
 - [Experienced simulation hindrances are positively associated with communication skills and collaborative learning insights in teacher-education SBL](hindrances-positively-associated-sbl-outcomes-teachers.md) — related
+- [Patient satisfaction differs significantly by patient age and gender but not by monthly income or residence](patient-satisfaction-differs-by-age-gender-not-income-residence.md) — related

@@ -48,3 +48,4 @@ Authors' interpretation offered in the discussion to explain the weak associatio
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — a broader claim this one bears on
 - [In a Fall 2023 physics course, 49% of quiz attempters passed within seven attempts, over 90% of passers did so within five attempts, and exam accuracy ranged from 30% to 61% across problem types](quiz-pass-and-exam-accuracy-descriptives.md) — related
 - [For transfer conceptual problems, quiz-exam association is weak (phi around 0.2) and quiz performance is better than exam performance](transfer-conceptual-weak-association-quiz-better.md) — related
+- [Rote memorization without cognitive transfer leaves students unable to recognize exam-learned symptoms in real patients](rote-memorization-fails-clinical-transfer.md) — a narrower finding that bears on this claim

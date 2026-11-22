@@ -49,3 +49,4 @@ Cross-sectional online survey of Canadian otolaryngology residents (66 of 172 re
 - [Junior residents score lower on OSAKA knowledge than senior residents (83.3% vs 88.9%; p = 0.0219)](junior-residents-lower-osaka-knowledge-scores.md) — related
 - [All surveyed residents consider OSA an important clinical disorder and consider identifying at-risk patients important](osa-attitudes-uniformly-important-residents.md) — related
 - [Residents report low confidence in managing OSA patients (45.5%) and CPAP therapy (15.2%) despite high knowledge](osa-low-confidence-managing-patients-cpap.md) — related
+- [General medical practitioners show moderate diagnostic awareness of OSA, with 76.8% endorsing neck circumference screening but only 57.6% identifying polysomnography as the gold standard](gps-moderate-diagnostic-awareness-psg-gap.md) — related

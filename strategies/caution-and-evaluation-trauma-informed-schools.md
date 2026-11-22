@@ -39,6 +39,7 @@ Based on the empty evidence base, the review recommends that school leaders, pol
 ## Related Strategies
 
 - [Initiate trauma-informed planning before the start of the school year](initiate-trauma-planning-before-school-year-start.md)
+- [Trauma-informed school support strategies for maltreated children](trauma-informed-school-support-maltreated-children.md)
 
 ## Examples
 -

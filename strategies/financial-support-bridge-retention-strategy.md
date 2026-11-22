@@ -51,6 +51,7 @@ The article argues financial barriers disproportionately exclude URM talent: mos
 - [Provide flexible, supportive program structures — free tuition, Flex Lessons, personalized mentorship, and remote coursework — to enable working adult learners to persist](flexible-supportive-structures-working-adult-learners.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 - [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
+- [Financial support programs improve workforce diversity most when specifically targeted to underrepresented minoritized entrants](targeted-financial-support-workforce-diversity.md)
 
 ## Examples
 -

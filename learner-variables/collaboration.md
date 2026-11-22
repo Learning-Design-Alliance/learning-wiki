@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 217 claims (172 show a difference, 31 mixed, 14 no difference) · 187 studies (70 causal, 30 review, 28 qualitative, 20 design, 19 associational, 12 quant-synthesis, 8 theoretical), `q1`–`q3` · 19 of 187 report an effect size · 217 claims rest on one study
+> **Evidence** · 220 claims (175 show a difference, 31 mixed, 14 no difference) · 190 studies (71 causal, 30 review, 28 qualitative, 21 associational, 20 design, 12 quant-synthesis, 8 theoretical), `q1`–`q3` · 19 of 190 report an effect size · 220 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -259,6 +259,9 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students who typically worked in groups earned significantly higher physics grades than those working alone during COVID-19](../claims/twg-higher-grades-than-twa-during-covid.md) [+M] — learners who differ on it differ in outcomes
 - [Students who typically worked in groups reported higher peer influence on self-efficacy than those working alone before and during COVID-19](../claims/twg-higher-pise-than-twa-both-periods.md) [+M] — learners who differ on it differ in outcomes
 - [Collaborative group work gives students opportunities to hone arguments and explanations and builds confidence to share reasoning class-wide](../claims/a2l-group-work-confronts-models.md) [+W] — measured as an outcome of the instruction studied
+- [Named caps are associated with higher overall performance ratings and teamwork domain scores, but not leadership or task management](../claims/named-caps-teamwork-domain-not-leadership.md) [+M] — measured as an outcome of the instruction studied
+- [RN–perfusionist teamwork is negatively associated with nurses' medication and blood administration through the ECMO circuit](../claims/rn-perfusionist-teamwork-negative-medication-administration.md) [+M] — learners who differ on it differ in outcomes
+- [Teamwork within patient safety culture is positively associated with nurses' patient safety activities](../claims/teamwork-culture-associated-safety-activities.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

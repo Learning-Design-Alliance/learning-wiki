@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (54 show a difference, 18 mixed, 13 no difference) · 53 studies (23 causal, 11 associational, 9 review, 4 quant-synthesis, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 10 of 53 report an effect size · 85 claims rest on one study
+> **Evidence** · 88 claims (56 show a difference, 18 mixed, 14 no difference) · 55 studies (23 causal, 12 associational, 10 review, 4 quant-synthesis, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 11 of 55 report an effect size · 88 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -121,6 +121,9 @@ Visual processing is what the brain does with the input that comes through visio
 - [While answering conceptual questions, students' visual attention concentrated on virtual AR representations rather than physical components, before and after feedback](../claims/conceptual-questions-attention-virtual-aois.md) [-M] — measured as an outcome of the instruction studied
 - [Form-substance discrimination develops from novice holistic impressions toward expert analytical separation and responds to pedagogical intervention](../claims/fsd-developmental-trajectory-novice-to-expert.md) [+M] — measured as an outcome of the instruction studied
 - [Humans equate processing ease with validity, so visually fluent presentation biases judgments of content quality](../claims/fluency-bias-processing-ease-equated-with-validity.md) [+M] — learners who differ on it differ in outcomes
+- [Moderate uncorrected hyperopia with reduced near visual function is associated with clinically meaningful early literacy deficits in preschool and kindergarten children](../claims/hyperopia-reduced-near-function-early-literacy-deficit.md) [+W] — learners who differ on it differ in outcomes
+- [Refractive status and cycloplegic spherical equivalence show no significant association with academic performance](../claims/refractive-status-no-association-academic-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Uncorrected hyperopia in school-age children is associated with decreased reading and academic performance](../claims/uncorrected-hyperopia-school-reading-academic-decline.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

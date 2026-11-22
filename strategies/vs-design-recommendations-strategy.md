@@ -84,6 +84,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Enhance virtual laboratory platforms with live experiment videos, mobile-friendly versions, and adaptive learning pathways](openphys-future-development-strategies.md)
 - [Design VR sales simulations with supportive context, greater realism, minimized technical disruptions, and balanced cognitive load](cave-sales-simulation-lessons-learned.md)
 - [Require pre-laboratory play with the simulation and provide more open-ended exploration time](rtr-prelab-play-and-open-exploration.md)
+- [Use the diverse e-learning activity repertoire (microlearning, gamification, adaptive quizzes, virtual patients) matched to learning needs](elearning-activity-repertoire-medical-education.md)
 
 ## Examples
 -

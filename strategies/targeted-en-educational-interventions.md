@@ -58,6 +58,8 @@ The article's recommendation for closing enteral nutrition knowledge gaps is str
 - [Deliver a multifaceted education package combining formal training sessions, knowledge assessment, and patient education pamphlets](psd-multifaceted-education-package-strategy.md)
 - [Provide ongoing in-service training and age-tailored programs to strengthen nurses' infection-prevention knowledge](ongoing-age-tailored-nci-in-service-training-strategy.md)
 - [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
+- [Implement competency-based teaching, simulation-based learning and regular assessments for invasive pressure monitoring](inpress-competency-simulation-training-strategy.md)
+- [Introduce standardised multifaceted training programmes with competency checklists, hands-on refresher courses, and departmental protocols prioritising regional analgesia for hip fractures](standardised-ra-training-and-protocols-strategy.md)
 
 ## Examples
 -

@@ -57,6 +57,7 @@ A multi-component continuing education strategy in which pulmonologists, clinica
 
 - [Continue promoting training programs on inhalers and inhalation technique for both patients and healthcare personnel](continued-inhaler-training-programs-strategy.md)
 - [Deliver specialist GP education on youth suicide risk as small face-to-face group training supplemented by online resources, with young people involved in delivery](gp-youth-suicide-training-strategy.md)
+- [Strengthen primary-care asthma management through practice-based face-to-face training with pulmonologist involvement](practice-based-face-to-face-asthma-training-strategy.md)
 
 ## Examples
 -

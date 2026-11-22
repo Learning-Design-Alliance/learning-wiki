@@ -85,3 +85,4 @@ For the expert robotic surgeon, the T4 CUSUM trend line "had two peaks: the firs
 ## Related Claims
 - [The learning curve for robotic TAPP may be slightly shorter than that for laparoscopic TAPP, for which a reviewed synthesis reports a median of 37.5 procedures (range 13–75)](rtapp-learning-curve-shorter-than-laparoscopic.md) — related
 - [The learning phase of robotic TAPP inguinal hernia repair ends around the 20th procedure for a surgeon in training with the robotic platform and around the 35th procedure for an experienced robotic surgeon](rtapp-learning-phase-20-vs-35-cases.md) — related
+- [A prospective comparison of Hugo RAS versus da Vinci Xi for robotic inguinal hernia repair showed no measurable learning curve in operative time for a da Vinci-experienced surgeon, with significant postoperative quality-of-life improvements](hugo-r-tapp-no-learning-curve-experienced-surgeon.md) — related

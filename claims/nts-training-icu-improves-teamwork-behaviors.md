@@ -79,3 +79,5 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [Team performance in simulated emergencies is highly case-specific: teams varied considerably across cases, with no superb or incapable teams per se](team-performance-context-specificity-simulation.md) — related
 - [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — a broader claim this one bears on
 - [After the ECMO simulation course, most delegates perceived improvements in nontechnical skills including communication and leadership](ecmo-simulation-nontechnical-skill-gains.md) — a narrower finding that bears on this claim
+- [Named caps are associated with higher overall performance ratings and teamwork domain scores, but not leadership or task management](named-caps-teamwork-domain-not-leadership.md) — a narrower finding that bears on this claim
+- [Clinical outcomes did not differ across nontechnical skills rating groups in this cohort](no-outcome-difference-across-nts-groups.md) — related

@@ -56,6 +56,7 @@ The article recommends that trainee eye surgeons participate in focused, intense
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
+- [Residency programs should combine simulation-based training, early surgical exposure, enhanced supervision, competency-based benchmarks, and high-risk scenario practice to reduce intraoperative complications](structured-resident-cataract-training-strategy.md)
 
 ## Examples
 -

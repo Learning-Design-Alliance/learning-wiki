@@ -51,3 +51,4 @@ Final multivariable model from backward selection in the cross-sectional study o
 - [Higher confidence is not associated with greater knowledge among post-rape care providers](confidence-not-associated-with-knowledge.md) — related
 - [Crisis-centre work, recent survivor examination, and seeing more than 60% of survivors are associated with higher provider confidence](crisis-centre-recent-practice-confidence.md) — related
 - [Health providers in South African post-rape services show low knowledge, with a median knowledge score of 37.3%](low-provider-knowledge-post-rape-care-south-africa.md) — related
+- [Older physicians and those outside academic/university hospitals had significantly lower odds of reporting high perceived barriers to STI care](age-setting-perceived-barriers-odds.md) — related

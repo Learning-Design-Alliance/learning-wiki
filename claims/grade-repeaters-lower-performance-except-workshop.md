@@ -55,3 +55,4 @@ Authors' interpretation of the age-by-group predicted performance results (Figur
 - [Repeaters had more than double the odds of being selected compared with freshmen](repeaters-double-selection-odds.md) — related
 - [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](scifablab-172-primary-workshops-2023-24.md) — related
 - [STEM interest and belonging differ by decision stage: students aged 14-15 before the physics choice report a balanced profile, while students aged 16+ who chose physics show a positive STEM orientation](stem-identity-differs-before-after-physics-choice.md) — related
+- [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related

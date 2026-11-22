@@ -75,3 +75,5 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [The LASPME learning curve divides into three proficiency stages, with the preliminary stage ending around the 91st procedure and proficiency reached around the 125th](laspme-three-stage-learning-curve-91-125.md) — related
 - [The ChatGPT group showed the steepest cumulative learning curves for both theoretical knowledge (slope 13.02) and skills (slope 0.62) among the three training groups](chatgpt-group-steepest-learning-curves.md) — related
 - [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
+- [Reconstruction time showed minimal variability from the early phase of the series (median 26 min, IQR 22–30 min), which the authors interpret as stable procedural performance without a prolonged learning curve](hj-reconstruction-time-stable-early-phase.md) — related
+- [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related

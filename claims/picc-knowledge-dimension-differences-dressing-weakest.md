@@ -48,3 +48,4 @@ Kruskal-Wallis H test comparing item correct rates across the five questionnaire
 ## Related Claims
 - [Nurses who previously received PICC maintenance training scored significantly higher on PICC maintenance knowledge than those who had not](prior-picc-training-associated-higher-knowledge.md) — related
 - [Nurses in Hunan province, China show a medium level of PICC maintenance knowledge, with a mean score of 72.86±14.86](picc-maintenance-knowledge-medium-level-hunan-nurses.md) — related
+- [Nurses show misconceptions about prophylactic dressing selection and device fixation, with only 13.8% correctly answering that hydrosol dressings are not superior to foam dressings and 19.4% correctly answering that devices should not be tightly fixed](nurse-misconceptions-dressing-selection-device-fixation.md) — related

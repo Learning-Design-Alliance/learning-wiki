@@ -62,3 +62,4 @@ Analysis of CDE CALPADS data, 2016–17 through 2022–23, defining chronic abse
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — related
 - [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related
+- [Foster care entry at any point before age 5 is associated with lower odds of grade 3 chronic absenteeism](foster-care-entry-lower-chronic-absenteeism.md) — related

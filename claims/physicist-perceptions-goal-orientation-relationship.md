@@ -51,3 +51,4 @@ Interview-based phenomenographic study of 21 upper-level physics students; the a
 - [Students' perceptions of physicists differ in the importance they place on doing research as defining a physicist](research-importance-varies-perceptions-physicist.md) — related
 - [Students' perceptions of being a physicist cluster around research, mindset differences, and exclusivity of accomplishments](three-themes-research-mindset-exclusivity.md) — related
 - [Most students emphasized research as important to being a physicist, which the authors attribute to the studied university's messaging](majority-research-emphasis-university-context.md) — related
+- [Prioritizing performance goals and grades over mastery orients students toward test performance at the expense of authentic understanding](grade-focus-trivializes-learning-hpe.md) — related

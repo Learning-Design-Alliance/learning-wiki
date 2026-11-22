@@ -84,6 +84,7 @@ Mindfulness breaks address the attentional and emotional preconditions for learn
 - [Spaced Practice](spaced-practice-scheduling.md) — both depend on consistent scheduling over time rather than single events
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
+- [Universities should provide exercise breaks, wellness programs, and physical activity campaigns for medical students](exercise-breaks-wellness-programs-medical-students.md)
 
 ## Examples
 - A teacher leads the class through rotating mindfulness and movement exercises, with students taking turns leading — building both regulation skills and ownership.

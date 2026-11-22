@@ -61,3 +61,5 @@ The review's synthesis of the literature identifies leadership as central to dig
 - [Digital instructional leadership is positively associated with comprehensive AI integration in schools](digital-instructional-leadership-ai-integration.md) — a narrower finding that bears on this claim
 - [Transformational leadership is positively associated with comprehensive AI integration in schools](transformational-leadership-ai-integration-schools.md) — a narrower finding that bears on this claim
 - [In a postgraduate PBL course the teacher functions as a positive enabler through facilitation, emotional support, and professional role modeling](pbl-teacher-as-positive-enabler.md) — a narrower finding that bears on this claim
+- [Proactive leader problem-solving plays a central, previously under-examined role in reinforcing PSC in school settings](proactive-leadership-reinforces-psc.md) — related
+- [Exemplary leadership, navigating complexity, and multiskilled leadership are pivotal competencies that enable PSC implementation in a school setting](three-leader-competencies-enable-school-psc.md) — related

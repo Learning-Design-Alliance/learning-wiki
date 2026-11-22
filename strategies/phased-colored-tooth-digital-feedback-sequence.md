@@ -50,6 +50,7 @@ A stepwise lesson sequence for transitioning students from the observational "se
 - [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 - [Integrated three-stage training model (preparation, modelling, reflection) for effective self- and peer feedback practice](three-stage-peer-feedback-training-model.md)
 - [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
+- [Teach morphology-oriented, non-linear scanning protocols and site-specific accuracy evaluation to novice intraoral scanner users](morphology-oriented-scanning-training-strategy.md)
 
 ## Examples
 -

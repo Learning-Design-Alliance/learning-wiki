@@ -47,7 +47,8 @@ The article recommends a bundle of supports for ICU nurses in limited resource s
 - [More than half of observed nurses instilled normal saline before suctioning, contradicting recommendations, though the authors argue this may be justified in non-humidified ventilation settings](../claims/saline-instillation-resource-setting-caveat.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Strengthen ICU eye care through optimised protocols, clear standards, multidisciplinary collaboration and enhanced training programmes](icu-eye-care-protocol-training-strategy.md)
 
 ## Examples
 -

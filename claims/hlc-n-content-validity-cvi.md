@@ -62,3 +62,4 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
 - [Expert content validation rated all rubric items above 0.50 on the item-objective congruence index, ranging from 0.67 to 1.00](ioc-content-validity-acls-rubric.md) — related
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
+- [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related

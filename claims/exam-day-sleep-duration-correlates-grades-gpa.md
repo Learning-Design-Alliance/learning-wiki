@@ -57,3 +57,6 @@ Pearson correlation analysis (Table 2) in the same cross-sectional survey found 
 - [Final exam scores correlate positively with sleep efficiency, negatively with sleep onset latency, and negatively with the MADs of SE, SOL, and TST](exam-score-correlations-sleep-parameters.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
 - [Sleep regularity (SRI) is positively correlated with academic performance (GPA) in undergraduates, independent of sleep duration](sleep-regularity-index-positive-gpa-correlation.md) — related
+- [Nocturnal checking was not independently associated with sleep quality or examination performance once pre-sleep duration was included](nocturnal-checking-no-independent-association.md) — related
+- [Sleep duration, exercise, and most dietary habits show no significant association with average grades among Palestinian medical students during exam periods](sleep-exercise-diet-no-significant-association-grades.md) — reports the opposite
+- [During exam periods, most Palestinian medical students sleep less than 7 hours per day and few exercise](exam-period-short-sleep-low-exercise-prevalence.md) — related

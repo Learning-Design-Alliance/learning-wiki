@@ -57,3 +57,5 @@ Thematic synthesis finding under building connectedness: the review reports that
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
 - [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related
 - [Adequate preparation, including setting clear expectations, priming the learner, and seeking patient permission, is crucial to successful clinical teaching (Level 2b, Grade B)](preparation-crucial-clinical-teaching.md) — related
+- [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — related
+- [Teachers seek leader support and voice concerns only when trust in the leader is strong](teacher-trust-gates-support-seeking.md) — related

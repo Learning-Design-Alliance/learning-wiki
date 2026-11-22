@@ -45,6 +45,7 @@ The authors lay out a research agenda for rubric-based admissions: study impacts
 ## Related Strategies
 
 - [Equity-minded holistic selection rubric with minimal eligibility requirements](equity-minded-holistic-selection-rubric.md)
+- [Combat graduate grade inflation with standardized grading rubrics, faculty assessment coaching, rethinking student evaluations in tenure decisions, and alternative feedback methods](combat-graduate-grade-inflation-strategy.md)
 
 ## Examples
 -

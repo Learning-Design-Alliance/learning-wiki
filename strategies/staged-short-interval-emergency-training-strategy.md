@@ -47,6 +47,7 @@ The article recommends structuring emergency training as consecutive staged phas
 - [Deliver periodic, structured, precise HBB trainings as short one-day sessions at two-month intervals with ongoing quality monitoring through blended learning modalities.](periodic-structured-hbb-blended-training-strategy.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Extend errorless memory training dosage: increase sessions from 12 to 15, lengthen sessions gradually from 30 to 45 minutes, and add revision sessions at sessions 5, 10, and 15](increase-errorless-training-dosage-revision-sessions.md)
+- [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
 
 ## Examples
 -

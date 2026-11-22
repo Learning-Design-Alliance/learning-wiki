@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/depression-prevalent-not-gpa-predictor.md
+---
+
+# Revision history: [claims/depression-prevalent-not-gpa-predictor](../claims/depression-prevalent-not-gpa-predictor.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from pmc-12935905 (Associations of physical activity, disordered eating, and depressive symptoms with academic performance among Saudi university students.) via eval_harness.py + ingest_extractions.py

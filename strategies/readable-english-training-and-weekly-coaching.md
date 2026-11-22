@@ -63,6 +63,7 @@ The page specifies a professional development model for implementing Readable En
 - [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
+- [Low-dose provider training with website resources and on-demand consultation to support school-based HOPS implementation](hops-provider-training-support-strategy.md)
 
 ## Examples
 -

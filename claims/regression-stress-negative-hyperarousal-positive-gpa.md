@@ -57,3 +57,4 @@ Multiple linear regression with GPA as dependent variable and depression, anxiet
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related
 - [Direct academic outcomes were less informative than performance-related LMS behavior: elevated depression and anxiety were not associated with clear academic decline and were even marginally related to higher project scores, but correlated with differences in assessment-page navigation](performance-navigation-over-grades.md) — related
+- [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — reports the opposite

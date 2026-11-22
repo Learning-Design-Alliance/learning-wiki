@@ -91,3 +91,5 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — related
 - [After adjustment, current GPA and knowledge test score — not learning method — were associated with final statistics achievement](gpa-and-knowledge-test-predict-final-score.md) — related
 - [Being female is negatively associated with Math and Science scores but has no significant effect on Reading](female-negative-math-science-not-reading.md) — related
+- [Female gender and higher IQ tertile are significantly positively correlated with academic performance](gender-iq-correlated-academic-performance.md) — related
+- [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — related

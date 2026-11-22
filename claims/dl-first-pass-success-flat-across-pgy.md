@@ -71,3 +71,4 @@ Descriptive proportions from the seven-year CQI-form dataset report DL first pas
 - [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related
 - [For operators with less experience, the GVL is more quickly learned and associated with higher first pass intubation success than DL](gvl-more-quickly-learned-than-dl-for-novices.md) — related
 - [GVL first pass success improved with each calendar year of continued device use in the ED while DL first pass success did not](gvl-improved-over-calendar-years-dl-did-not.md) — related
+- [Time to hypoxia recognition was not significantly associated with laryngoscopy modality or operator experience in simulated intubation](recognition-time-modality-experience-null.md) — related

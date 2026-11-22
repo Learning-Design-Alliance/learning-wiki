@@ -46,6 +46,7 @@ Based on the third factor identified in the study, head teachers in Nepal's publ
 - [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 - [Family Engagement](family-engagement.md)
 - [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](parent-lsc-principal-partnership-strategy.md)
+- [Involve school staff and students in planning, and use workshops, parental meetings, researcher support and materials to optimise adherence](staff-student-codesign-implementation-strategies.md)
 
 ## Examples
 -

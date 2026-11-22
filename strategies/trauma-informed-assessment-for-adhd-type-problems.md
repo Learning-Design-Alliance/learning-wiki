@@ -45,7 +45,8 @@ The authors recommend that education and health care professionals assessing stu
 - [14.5% of the sample scored above the ASRS cutoff for probable ADHD, and the overall abuse latent class was especially associated with ADHD symptoms (35.9% above cutoff vs 10.1% of the non-abused group)](../claims/overall-abuse-class-359-percent-probable-adhd.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Trauma-informed school support strategies for maltreated children](trauma-informed-school-support-maltreated-children.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Based on the reviewed evidence, the review highlights concrete instructional str
 - [Integrate experiential learning activities — community outreach projects, collaborative policy simulations, and applied research opportunities — into dental hygiene curricula](dh-experiential-learning-policy-research-advocacy.md)
 - [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
 - [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
+- [Pair each anti-mediocrity critique with concrete reform steps: programmatic assessment, clinical reasoning tasks, relationship-centred care, and interprofessional collaboration](decalogue-reform-strategies-table1.md)
 
 ## Examples
 -

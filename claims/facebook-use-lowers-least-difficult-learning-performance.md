@@ -51,3 +51,4 @@ Cross-sectional survey of 505 undergraduate introductory accounting students lin
 - [Lower academic achievers (low WAM) drive the negative Facebook effect, with significant negative coefficients on the least difficult exam sections](low-wam-students-drive-facebook-performance-decline.md) — a narrower finding that bears on this claim
 - [Facebook-use effects on general academic achievement (WAM) are insignificant, indicating findings are unique to the introductory accounting context](facebook-wam-effect-insensitive-context-specific.md) — related
 - [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md)
+- [Instagram, Snapchat, and Facebook use, but not TikTok, Twitter, or WhatsApp use, are significantly negatively associated with adolescent GPA](platform-specific-sns-use-gpa-associations.md) — a narrower finding that bears on this claim

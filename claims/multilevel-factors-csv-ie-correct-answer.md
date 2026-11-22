@@ -49,3 +49,4 @@ Multilevel logistic regression with resident physicians nested within hospitals,
 ## Related Claims
 - [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related
 - [Univariable analysis associated correct CSV-IE answers with emergency outpatient volume, PGY-2, general medicine rotation, longer internal medicine rotation, night shifts, and moderate duty hours](univariable-factors-csv-ie-correct-answer.md) — related
+- [Higher patient load was significantly associated with reduced chest X-ray ordering, a comparatively weaker effect than on history-taking](patient-load-reduces-cxr-ordering.md) — related

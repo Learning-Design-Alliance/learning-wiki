@@ -47,6 +47,7 @@ The article recommends structured and standardised pathways so IQNs' diverse ski
 
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 - [Target UK overseas graduates for additional transition support when returning to practise in the UK](targeted-transition-support-uk-overseas-graduates.md)
+- [Provide targeted induction, interview preparation and structured mentorship for international medical graduates applying to surgical training](img-targeted-induction-mentorship-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: alhusayni-ai-2026
     resource: "https://doi.org/10.1097/MD.0000000000046934"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In multivariable logistic regression, PARS-3 (OR = 0.993), GAD-7 (OR = 1.116), and PHQ-9 (OR = 0.965) scores were not significant independent predictors of high versus low GPA category. [→ Alhusayni AI 2026](#alhusayni-ai-2026)
@@ -61,3 +62,8 @@ Multivariable binary logistic regression with GPA as low (≤3.5–4) versus hig
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
+- [Higher behavioral symptoms of disordered eating are associated with lower GPA among Saudi university students, while cognitive eating concerns are not](behavioral-eating-symptoms-lower-gpa.md) — related
+- [Depressive symptoms are highly prevalent (50.7% clinically significant) among Saudi university students but do not independently predict GPA](depression-prevalent-not-gpa-predictor.md) — possibly the same claim (merge candidate)
+- [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
+- [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — reports the opposite
+- [The combined regression model of physical activity, eating-disorder symptoms, depression, age, and specialty is significant but explains only 6.1% of GPA variance](regression-model-modest-gpa-variance.md) — related

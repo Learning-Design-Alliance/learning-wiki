@@ -70,3 +70,4 @@ Phase 4 qualitative interview data (21 interviews, thematic analysis coded indep
 - [Average increase in skills questions (46.8%) exceeded that of knowledge questions (34.7%) across Gen-Equip modules](gen-equip-skills-versus-knowledge-gains.md) — related
 - [Most non-specialist doctors had never referred a patient with a suspicious lesion to a dermatologist in the preceding year](most-doctors-never-referred-suspicious-lesions.md) — related
 - [Self-reported applicability of the module's knowledge received neutral scores for practice skills but positive scores for knowledge gains](applicability-neutral-skills-positive-knowledge.md) — related
+- [Nurses' utilization of genomics in practice is low: family history collection is incomplete and most never facilitate genetic service referrals](nurse-genomic-practice-utilization-low.md) — related

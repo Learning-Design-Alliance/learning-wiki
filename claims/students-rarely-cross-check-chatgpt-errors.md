@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: taylor-a-w-r-2026
     resource: "https://doi.org/10.1111/tct.70360"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although students knew ChatGPT could make mistakes, cross-checking was infrequently observed, and use concentrated on questions students were stuck on, where errors are harder to detect. [→ Taylor A. W. R. 2026](#taylor-a-w-r-2026)

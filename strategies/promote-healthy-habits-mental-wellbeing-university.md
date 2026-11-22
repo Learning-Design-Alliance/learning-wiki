@@ -54,6 +54,7 @@ The article's conclusion urges higher-education policymakers and educators to ac
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
+- [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
 
 ## Examples
 -

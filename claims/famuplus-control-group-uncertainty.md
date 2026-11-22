@@ -12,8 +12,8 @@ newest_evidence: 2026
 recheck_by: 2031
 sources:
   - id: punz-a-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001870"
-    title: "Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. https://journals.publisso.de/en/journals/jme/volume43/zma001870"
+    resource: "https://doi.org/10.3205/zma001870"
+    title: "Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. [doi:10.3205/zma001870](https://doi.org/10.3205/zma001870)"
     author: Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Punz A 2026
 
-Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. https://journals.publisso.de/en/journals/jme/volume43/zma001870
+Punz A, Breakell T, Kühlein T, Harendza S, Kunisch R, Engel B. (2026). FamuPlus – a pilot project to support self-oriented learning through self-created learning outcomes in clinical electives. GMS Journal for Medical Education 43(6), Doc76. [doi:10.3205/zma001870](https://doi.org/10.3205/zma001870)
 
 `q2 · i?` · `qualitative · r2`
 

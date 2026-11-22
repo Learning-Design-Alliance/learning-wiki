@@ -48,3 +48,4 @@ Anonymous open Web-based knowledge survey of nurses, doctors, and pharmacists in
 - [Self-reported experience and confidence are associated with correct vancomycin knowledge responses, and experience mediates roughly 58% of the profession effect on total score](experience-mediates-profession-knowledge-effect.md) — related
 - [First-attempt correct-answer rates in the Vancomycin Interactive mirror the survey gradient: 82% for pharmacists, 68% for doctors, 65% for nurses](vi-first-attempt-rates-profession-pattern.md) — related
 - [Vancomycin knowledge gaps concentrate on loading dose, maintenance dose, and timing of first trough level, with target trough range best answered](vancomycin-knowledge-gaps-loading-dose-timing.md) — related
+- [Clinicians' knowledge, practices, and guidance access regarding maladaptive exercise vary by profession, experience, and personal exercise habits.](profession-exercise-habit-differences-maladaptive-exercise.md) — related

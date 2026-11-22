@@ -49,6 +49,7 @@ The review recommends a multidisciplinary approach in which dietitians lead nutr
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams](teacher-training-apd-symptomatology-identification.md)
 - [Pair ObGyn nutrition training with multidisciplinary dietitian support while building residents' own counseling capacity](multidisciplinary-nutrition-support-obgyn-counseling.md)
+- [Deploy AI-assisted pre-consultation nutrition questioning in clinic waiting rooms to prepare patients and focus dietitian time on specialized guidance](ai-preconsultation-tablet-nutrition-strategy.md)
 
 ## Examples
 -

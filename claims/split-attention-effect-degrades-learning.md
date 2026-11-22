@@ -20,8 +20,8 @@ sources:
     kind: quant-synthesis
     rigour: "?"
   - id: paridon-h-2026
-    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001805"
-    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805"
+    resource: "https://doi.org/10.3205/zma001805"
+    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)"
     author: Paridon H.
     q: 3
     i: 2
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q3`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
@@ -69,7 +69,7 @@ The article reports, citing Schroeder and Cenkci (2018), a meta-analysis of 36 s
 
 ### Paridon H 2026
 
-Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805
+Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. [doi:10.3205/zma001805](https://doi.org/10.3205/zma001805)
 
 `q3 · i2` · `theoretical · r2`
 

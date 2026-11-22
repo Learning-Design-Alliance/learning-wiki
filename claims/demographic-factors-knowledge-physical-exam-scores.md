@@ -52,3 +52,4 @@ Linear regression of demographic factors on follow-up exam scores (Table 4). The
 - [Age and gender significantly predict M1 grade, with better grades for male and younger medical students](age-gender-predict-m1-grade.md) — reports the opposite
 - [Women were proportionally under-selected by the knowledge-based exam despite no selection-by-gender interaction on profiles](women-under-selected-knowledge-exam.md) — related
 - [Training institute (HTI) significantly influenced clinical case and physical exam scores at follow-up](hti-influences-assessment-scores.md) — related
+- [Patient satisfaction differs significantly by patient age and gender but not by monthly income or residence](patient-satisfaction-differs-by-age-gender-not-income-residence.md) — related

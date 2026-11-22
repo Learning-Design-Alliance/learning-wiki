@@ -47,3 +47,4 @@ Null secondary analysis in the Experience and education results section: among t
 ## Related Claims
 - [Prescribing of heart failure medications by HF nurses is associated with access to a specialist multidisciplinary team (42% vs. 31.7%, p = 0.04)](mdt-access-associated-nurse-prescribing-hf.md) — related
 - [Prescribing rates vary widely by country: Danish and British nurses more likely to prescribe, with Italian, Cypriot and Polish nurses notably lower](hf-nurse-prescribing-varies-by-country.md) — related
+- [Genomic knowledge scores increase with level of academic preparation and differ by nursing role](genomic-knowledge-scores-education-gradient.md) — related

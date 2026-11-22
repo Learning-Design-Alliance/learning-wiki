@@ -102,6 +102,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 - [Sequence animations across graded source/observer motion situations](graded-motion-situations-animation-sequence.md)
+- [Residency programs should combine simulation-based training, early surgical exposure, enhanced supervision, competency-based benchmarks, and high-risk scenario practice to reduce intraoperative complications](structured-resident-cataract-training-strategy.md)
 
 ## Examples
 -

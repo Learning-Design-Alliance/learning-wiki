@@ -50,3 +50,4 @@ Cross-sectional observational environmental scan of publicly available AI-relate
 - [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
+- [Only 51 of 174 accredited ophthalmology training programs in the Western world publish a publicly available selection criteria policy](51-of-174-ophthalmology-programs-publish-selection-policy.md) — related

@@ -52,3 +52,4 @@ Logistic regression analysis of the 229 BLS trainees comparing Volta/Oti with Bo
 - [BLS trainees working in tertiary facilities were 80% less likely than those in primary facilities to have adequate BLS knowledge and skills](tertiary-facility-lower-adequate-bls-odds.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — reports the opposite
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
+- [Regional variation in TIA knowledge: physicians outside the South-West showed lower odds of good knowledge (North-Central OR 0.105; North-East OR 0.376)](regional-variation-tia-knowledge-nigeria.md) — related

@@ -84,3 +84,4 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — a broader claim this one bears on
 - [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related
 - [Text-only accuracy across 19 LLMs spans 0.20 to 0.88 with a grand mean of 0.67, stratified by model generation and reasoning budget](cross-model-text-only-accuracy-stratified.md) — related
+- [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related

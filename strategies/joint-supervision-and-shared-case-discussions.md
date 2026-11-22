@@ -53,6 +53,8 @@ This strategy holds that promoting interprofessional learning opportunities such
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Provide simulation-based training approaches and collaborative mentorship opportunities for complex neonatal respiratory disease management](simulation-and-mentorship-neonatal-respiratory-training.md)
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
+- [Targeted educational initiatives, simulation-based learning and interdisciplinary case discussions to close rare-disease knowledge gaps in paediatric training](targeted-rare-disease-education-strategy.md)
+- [Strengthen ECMO-specific education, promote nursing autonomy and delineate RN–perfusionist roles to support nurses' participation in paediatric ECMO care](ecmo-education-autonomy-role-delineation-strategy.md)
 
 ## Examples
 -

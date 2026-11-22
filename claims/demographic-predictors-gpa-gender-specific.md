@@ -52,3 +52,4 @@ Logistic regression of demographic factors on binary GPA (Table 3), adjusted for
 - [Mental health varies by year of study: fourth-year students of both genders scored lowest, with female peaks in year one and male peaks in year three](scl90-by-year-of-study.md) — related
 - [After adjusting for sociodemographic covariates and medical school clustering, odds of passing MRCP Part 1 at first sitting are greater for men and graduate-entry candidates and lower with increasing age, for minority ethnic candidates and for gateway-year candidates](mrcp-part1-model1-adjusted-odds.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
+- [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related

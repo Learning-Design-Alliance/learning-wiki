@@ -48,3 +48,5 @@ Spearman correlation analysis in the same 360-student cross-sectional study; Tab
 - [Social networking addiction is negatively and significantly correlated with academic performance (GPA) among medical sciences students](social-networking-addiction-negative-gpa-correlation.md) — a broader claim this one bears on
 - [Social networking use relates to GPA differently by user profile: engaged users show higher GPA, addicted users lower](sns-user-profile-gpa-moderation-qatar.md) — related
 - [Online vigilance correlates negatively with academic performance in the full sample and strongly in Namibia, but not in the South African or Botswana samples](online-vigilance-correlates-country-pattern.md) — related
+- [The relapse and mood-modification addiction symptoms show significant negative associations with adolescent GPA](relapse-mood-modification-symptoms-lower-gpa.md) — reports the opposite
+- [Higher addictive behaviors related to social network use are significantly associated with lower GPA in adolescents](sns-addictive-behaviors-lower-gpa-adolescents.md) — related

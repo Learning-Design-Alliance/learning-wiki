@@ -50,3 +50,4 @@ Multilevel analyses on 84 completers of group-based MBCT from a larger RCT, with
 - [Group cohesion did not significantly predict reduction of psychological distress after group-based MBCT](group-cohesion-not-predicting-mbct-outcome.md) — related
 - [Observer-rated therapist competence did not predict reduction of psychological distress after group-based MBCT](therapist-competence-not-predicting-mbct-outcome.md) — related
 - [Therapist competence was negatively associated with group cohesion, mainly via the relational skills domain](therapist-competence-negatively-associated-group-cohesion.md) — related
+- [Counselor-reported working alliance was a significant predictor of favorable HOPS outcomes in the prior trial](working-alliance-predicts-hops-outcomes.md) — related

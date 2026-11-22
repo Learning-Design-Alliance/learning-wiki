@@ -64,6 +64,7 @@ Empathy walks operationalize perspective-taking, which reliably improves intergr
 - [Role-Play and Simulation](acting-role-play.md) — broader family of embodied perspective exercises
 - [Community-Based Learning](../principles/community-based-learning.md) — sustained contact produces more durable attitude change than one-off simulation
 - [Combine disability simulation exercises with information, contact with persons with disabilities, and small-group debriefing](combine-disability-simulation-with-information-contact-debriefing.md)
+- [Targeted interventions using structured intergroup contact, diverse patient care experiences and education on structural determinants of health to foster critical consciousness](interventions-structured-intergroup-contact-critical-consciousness.md)
 
 ## Examples
 - **Patient experience walks in health professions education** — nursing and medical programs have students navigate admission, waiting, and discharge as a patient would, then debrief communication and dignity gaps (see Kumagai's framework for narrative and experiential methods in medical education).

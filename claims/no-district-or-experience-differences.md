@@ -51,3 +51,4 @@ Multivariable GEE regression (n = 250) adjusting for district (Bellary vs. Gulba
 - [Nurses aged 51–60 and those with more than 10 years of experience had significantly better nutritional knowledge than the youngest reference groups in multivariable regression](age-experience-predict-nutrition-knowledge.md) — reports the opposite
 - [Previous reading or training on pressure injuries was not significantly associated with nurses' knowledge scores](pi-reading-training-not-associated-with-knowledge.md) — related
 - [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — reports the opposite
+- [ONN competency scores differ significantly by nurse experience, training frequency, age, and education, with the largest difference for experience (d = 1.73)](onn-competency-differs-by-experience-training-age-education.md) — reports the opposite

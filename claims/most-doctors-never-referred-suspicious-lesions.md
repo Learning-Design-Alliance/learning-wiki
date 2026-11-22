@@ -53,3 +53,4 @@ Referral indicator from the cross-sectional questionnaire of 123 NHSL non-specia
 - [Most dental interns report frequent screening, counselling, and referral behaviours for OPMDs and oral cancer](dental-interns-self-reported-screening-practices-opmd.md) — related
 - [Learners self-report changes in clinical practice behavior after using Gen-Equip modules, including family history taking, seeking specialist advice, and referral](gen-equip-self-reported-practice-change.md) — related
 - [Non-specialist doctors in a Sri Lankan tertiary hospital showed unsatisfactory knowledge of melanoma types and metastasis sites](sri-lanka-nonspecialist-doctors-melanoma-knowledge-gaps.md) — related
+- [Referrals from nephrologists and direct interdisciplinary communication were infrequent, with no statistically significant variation across practice settings](infrequent-nephrology-referrals-dental-professionals.md) — related

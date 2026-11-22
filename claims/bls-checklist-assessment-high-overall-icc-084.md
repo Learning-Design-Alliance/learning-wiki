@@ -50,3 +50,4 @@ Reliability analysis of 889 summative assessments collected at school CPR-traini
 - [Peer assessors show strong-to-excellent reliability with professionals, students and other peers (ICC 0.76–0.91)](peer-assessor-reliability-icc-076-to-091.md) — related
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [No systematic scoring difference between medical student and professional assessors](no-scoring-difference-student-professional-assessors.md) — related
+- [VRDC assessments showed strong inter-rater reliability across all five managerial competencies (rwg = 0.82–0.95; ICC(2) = 0.76–0.92)](vrdc-strong-inter-rater-reliability.md) — related

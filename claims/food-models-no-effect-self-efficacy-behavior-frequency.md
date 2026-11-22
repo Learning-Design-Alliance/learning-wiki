@@ -51,3 +51,4 @@ Cluster-randomized trial null results (Table 2): self-efficacy F(1, 201) = 0.49,
 - [Food-model lessons improve adolescents' knowledge of daily food-group servings and of added sugar content in foods and beverages](food-models-servings-and-sugar-content-knowledge.md) — related
 - [Age, grade and sex do not meaningfully predict sugar-literacy outcomes at baseline or after the intervention](demographics-do-not-predict-sugar-literacy-outcomes.md) — related
 - [The intervention changed dietary behaviors for fruits, vegetables, meats and 'other' foods, but not for dairy or grains](constructivist-nutrition-education-behavior-changes.md) — related
+- [A cluster-randomized controlled trial is being conducted to evaluate whether a three-month experiential learning intervention improves nutrition literacy among school-aged children in grades 3–4 compared with standard nutrition education.](cluster-rct-experiential-learning-nutrition-literacy-protocol.md) — related

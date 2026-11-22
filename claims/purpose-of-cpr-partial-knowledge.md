@@ -46,3 +46,4 @@ Results section, second questionnaire part: "only 59.4% students rightly answere
 
 ## Related Claims
 - [Knowledge of compression parameters was low: only 69.6% partially answered the universal compression-to-ventilation ratio correctly and only 33.2% answered all chest-compression depth options correctly](compression-ratio-depth-knowledge-low.md) — related
+- [Knowledge of zeroing procedures was low, with 11%–16% correct answers](inpress-zeroing-knowledge-deficit.md) — related

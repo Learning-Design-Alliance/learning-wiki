@@ -67,6 +67,7 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 - [Comprehensive standardized training with scheduled refresher courses and attitude education for post-rape care providers](comprehensive-training-refresher-attitude-education-strategy.md)
+- [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
 
 ## Examples
 -

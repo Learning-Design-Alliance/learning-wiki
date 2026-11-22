@@ -73,3 +73,8 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — reports the opposite
 - [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](walking-seminar-perceptions-independent-of-activity-level.md) — related
+- [Bivariate gambling-GPA associations were no longer significant in multivariate models in two included studies](bivariate-gambling-gpa-associations-fade-in-regression.md) — related
+- [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — related
+- [Poor sleep duration predicts lower odds of higher academic performance among Native American college students, while PA does not](poor-sleep-lower-academic-performance-pa-null.md) — related
+- [Biological sex is associated with meeting PA guidelines (more males than females), but not with sleep duration, PWB, or academic performance](sex-differences-pa-not-sleep-pwb-gpa.md) — related
+- [Screen time shows no significant association with BMI among university students, and a physical activity association that emerges only after sensitivity analysis](screen-time-bmi-physical-activity-university-students.md) — related

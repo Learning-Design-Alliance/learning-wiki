@@ -54,3 +54,4 @@ Random-effects meta-analysis of 22 effect sizes from the review's included studi
 - [Socioeconomic disadvantage shows a persistent adverse association across both selection and progression stages of medical education](ses-disadvantage-persistent-across-continuum.md) — related
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
 - [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — related
+- [Socioeconomic status does not affect the likelihood of being admitted into a pending program, so the waiting gap is not correct anticipation of rejection](no-ses-difference-pending-admission-likelihood.md) — reports the opposite

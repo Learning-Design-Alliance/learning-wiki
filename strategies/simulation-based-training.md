@@ -86,6 +86,7 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Repeatedly expose medical students to high-fidelity simulation to build psychological stability before clinical encounters](repeated-high-fidelity-simulation-exposure-strategy.md)
 - [Design simulation scenarios around foreseeable crisis problems so participants practice troubleshooting skills](crisis-scenario-design-for-troubleshooting-practice.md)
 - [Build simulation airway curricula around environmental fidelity and deliberate practice, with formal teaching of nontechnical crisis management skills](simulation-airway-curriculum-fidelity-deliberate-practice.md)
+- [Use realistic scenario-based learning, digital access, and modeling of clear communication in health literacy instruction](scenario-based-learning-modeling-hl-instruction.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

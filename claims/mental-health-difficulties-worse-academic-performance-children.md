@@ -47,3 +47,4 @@ Cross-sectional linear regression analysis in 507 schoolchildren (51.5% girls, 7
 ## Related Claims
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related
 - [Mental health difficulties partially mediate (8–25%) the association between cardiorespiratory fitness and academic performance in children](mental-health-partially-mediates-crf-academic-performance.md) — related
+- [Abnormal mental health scores on the Strengths and Difficulties Questionnaire are independently associated with lower GPA](abnormal-sdq-scores-lower-gpa-palestinian-students.md) — a narrower finding that bears on this claim

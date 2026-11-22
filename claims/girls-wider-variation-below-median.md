@@ -50,3 +50,4 @@ Comparison of ten-percentile distributions of composite scores for boys and girl
 ## Related Claims
 - [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](mean-median-sex-difference-slight-versus-pe.md) — related
 - Changing class-interval size to eight places the boys' and girls' modes in the same interval, removing the reported modal sex difference entirely — related
+- [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](age-sex-demographic-differences-school-functioning.md) — reports the opposite

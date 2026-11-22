@@ -48,3 +48,4 @@ ASE outcome model of the same cross-sectional survey of 660 pre-service teachers
 - [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](pwb-ase-ei-predict-cgpa-preservice-teachers.md) — related
 - [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
 - [Emotional intelligence negatively predicts academic self-efficacy among Ghanaian pre-service teachers, contrary to prior literature](ei-negatively-predicts-ase-preservice.md) — related
+- [Higher psychological well-being is associated with increased odds of higher academic performance, but PWB does not moderate the sleep or PA associations](pwb-predicts-academic-performance-no-moderation.md) — related

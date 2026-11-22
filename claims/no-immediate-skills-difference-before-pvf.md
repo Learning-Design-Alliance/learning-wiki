@@ -50,3 +50,4 @@ Discussion-section statement of the trial's immediate post-test result (t = -1.0
 - [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related
 - [CPR quality scores were significantly higher in the experimental group at 3 and 6 months but not immediately after training](zone0-iv-cpr-quality-retention.md) — related
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](zone0-iv-cpr-competence-immediate-nonsignificant.md) — related
+- [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related

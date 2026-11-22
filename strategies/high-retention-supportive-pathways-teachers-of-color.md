@@ -70,6 +70,7 @@ The report recommends that states and districts underwrite preparation costs thr
 - [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
 - [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 - [Pre-service education programs should recruit diverse inner-city students and validate their cultures and experiences](pre-service-programs-validate-diverse-recruits-cultures.md)
+- [Financial support programs improve workforce diversity most when specifically targeted to underrepresented minoritized entrants](targeted-financial-support-workforce-diversity.md)
 
 ## Examples
 -

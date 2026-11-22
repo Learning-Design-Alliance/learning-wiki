@@ -80,3 +80,4 @@ Temporal stability assessed using a test–retest design with 30 participants wh
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related
+- [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related

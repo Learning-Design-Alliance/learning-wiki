@@ -51,3 +51,4 @@ Observational study monitoring 86 final-year physiotherapy students with a Polar
 - [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — related
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — a broader claim this one bears on
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — a broader claim this one bears on
+- [Candidates with higher pre-training resting HRV (RMSSD) pass a three-year military pilot course at a higher rate than those with lower HRV](higher-pretraining-hrv-predicts-pilot-course-completion.md) — related

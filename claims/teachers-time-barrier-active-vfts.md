@@ -50,3 +50,4 @@ Thematic analysis of teacher interviews (n=12) identified time as the leading ba
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — possibly the same claim (merge candidate)
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Teachers value physically active VFTs as flexible, cross-curricular teaching tools usable across subjects and lesson phases](vfts-flexible-cross-curricular-tool.md) — related
+- [Study load is the leading reported barrier to regular physical activity among physically inactive medical students](study-load-leading-barrier-physical-activity.md) — related

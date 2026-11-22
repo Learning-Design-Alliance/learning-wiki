@@ -53,6 +53,7 @@ The article recommends combining continuing professional education with organiza
 - [Develop updated MIH courses for dentists aligned with international guidelines](updated-mih-courses-international-guidelines.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 - [Adopt interactive online diabetic foot education such as the FRAME program to build and maintain stratification skills](frame-online-diabetic-foot-education-strategy.md)
+- [Provide continued professional development, mentorship, and repeated navigation training for oncology nurse navigators](onn-continued-professional-development-strategy.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ Test-retest stability study in which 50 subjects completed the scale at two meas
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
 - [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
+- [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related

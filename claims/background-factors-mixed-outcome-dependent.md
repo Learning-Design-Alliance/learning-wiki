@@ -68,3 +68,4 @@ The review reports that being male is a risk factor for positively framed outcom
 - [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](gender-effect-school-nature-interventions.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [Age and gender showed no significant association with perceived e-learning stress in the adjusted model](age-gender-null-e-learning-stress-adjusted.md) — related
+- [Demographic factors relate to SWB and outcomes: female gender and native residency associate with higher SWB, advancing semester with lower SWB](demographics-swb-gender-semester-residency.md) — related

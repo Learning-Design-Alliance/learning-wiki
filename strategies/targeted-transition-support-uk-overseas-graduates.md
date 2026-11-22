@@ -48,6 +48,7 @@ The article recommends that policy highlight UK overseas graduates as a group th
 ## Related Strategies
 
 - [Develop structured, standardised transition pathways for IQNs including individualised plans, mentorship, CPD and competency-based recognition of prior expertise](structured-standardised-iqn-transition-pathways.md)
+- [Provide targeted induction, interview preparation and structured mentorship for international medical graduates applying to surgical training](img-targeted-induction-mentorship-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Visually graded framing coil positions (optimal/acceptable/insufficient) in the 
 - [Inexperienced operators show significantly longer catheterization times than experienced operators on 3D-printed aneurysm models](inexperienced-longer-catheterization-times-hannes.md) — related
 - [Inexperienced operators commit significantly more dangerous maneuvers than experienced operators in simulated coiling](inexperienced-more-dangerous-maneuvers-hannes.md) — related
 - [Inexperienced operators improve catheterization speed significantly over repeated attempts, more than experienced operators](inexperienced-speed-gain-repeated-attempts-hannes.md) — related
+- [Operator experience shows no significant main effect on full-arch scanning trueness](operator-experience-no-main-effect-trueness.md) — related

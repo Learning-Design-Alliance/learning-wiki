@@ -65,3 +65,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [In a simulated interaction, the NuPaD skill file's structural constraints override a GenAI's default tendency toward immediate, superficial answers](nupad-skill-file-overrides-answer-tendency.md) — related
 - [Epistemic prompting differs from prompt engineering in evaluative orientation: epistemic adequacy versus output quality](epistemic-prompting-vs-prompt-engineering-distinction.md) — related
 - [Traditional physics problems are goal-directed, narrow, disconnected, and simplistic, and elicit undesirable problem-solving behaviors in students](traditional-physics-problems-elicit-undesirable-behaviors.md) — related
+- [Prompt-engineered GPT configuration exhibits objective misalignment: the base model reverts to its general behavior when custom therapeutic instructions conflict with its learned engagement behavior](systemic-gpt-objective-misalignment-base-model.md) — related

@@ -57,3 +57,4 @@ Multivariate logistic regression of UKMED first-attempt outcomes for all candida
 - [Female doctors are more likely than male doctors to pass PACES at first attempt after adjusting for ethnicity](female-doctors-more-likely-pass-paces-first-attempt.md) — a narrower finding that bears on this claim
 - [The gender gap reverses by model choice: males lead univariately but females have higher odds of a first-class degree in the multivariate hierarchical model](gender-gap-reverses-hierarchical-model.md) — related
 - [Gender and culture influence how proposals are written and how successful they are, and dual-anonymous peer review at ESO has not cancelled the gender gap in proposal success rates](gender-bias-proposal-review.md) — related
+- [Male UK medical students are more likely to hold leadership roles and deliver oral presentations, but gender differences are absent in publication rates](gender-leadership-presentations-not-publications-uk-medical-students.md) — related

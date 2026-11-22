@@ -61,6 +61,8 @@ The report recommends state incentives that recruit candidates into high-need fi
 - [Target prospective teachers in childhood and early childhood education to earn special education certificates at first certification, and consider incentives redirecting teachers from administration toward shortage areas](promote-shortage-area-certification-at-first-certification.md)
 - [District hiring and incentive structures that prioritize certification: screening requirements, time limits for uncertified teachers, salary differentials, and designated certification staff](certification-prioritizing-hiring-incentives-strategy.md)
 - [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
+- [Pathway programs specifically designed for underrepresented minoritized students carry the strongest evidence for improving health workforce diversity](pathway-programs-underrepresented-health-professions.md)
+- [Financial support programs improve workforce diversity most when specifically targeted to underrepresented minoritized entrants](targeted-financial-support-workforce-diversity.md)
 
 ## Examples
 -

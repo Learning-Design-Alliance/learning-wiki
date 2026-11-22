@@ -43,6 +43,7 @@ The fact sheet recommends that schools begin trauma-informed planning before stu
 
 - [Proceed with caution in adopting trauma-informed approaches and begin evaluating them, including descriptive and qualitative research on implementation](caution-and-evaluation-trauma-informed-schools.md)
 - [Develop or update continuity of learning plans using evidence-based and promising practices to prepare for blended learning and possible school closures](continuity-of-learning-plan-practices.md)
+- [Trauma-informed school support strategies for maltreated children](trauma-informed-school-support-maltreated-children.md)
 
 ## Examples
 -

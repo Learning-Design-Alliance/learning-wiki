@@ -56,3 +56,4 @@ Pre-post psychometric assessment at T0, T1, T2 during the 8-week pilot (N=45) us
 - [The treatment group showed a clinically meaningful GAD-7 decline of about 5.25 points, from moderate to mild anxiety](gad7-clinically-meaningful-treatment-decline.md) — related
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related
 - [MBSR training significantly reduces teacher strain, with large between-group effect sizes sustained at follow-up](mbsr-reduces-teacher-strain.md) — related
+- [The AI-personalized group was associated with larger stress reduction than standardized and control groups (PSS d = 1.42)](ai-personalized-stress-reduction-pss.md) — related

@@ -129,6 +129,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - **Narrative comparison**: Learners compare multiple first-person or community narratives about the same issue before discussion.
 - **Structured listening rounds**: Small groups take turns summarizing another person's view before offering their own response.
 - [Conduct empathy interviews to understand user experiences with technology](../strategies/empathy-interviews-for-ai-policy-development.md)
+- [Targeted interventions using structured intergroup contact, diverse patient care experiences and education on structural determinants of health to foster critical consciousness](../strategies/interventions-structured-intergroup-contact-critical-consciousness.md)
 
 ## Key Sources
 - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.

@@ -48,6 +48,7 @@ The article's questionnaire results support delivering automated feedback that i
 ## Related Strategies
 
 - [Deliver formative feedback on quantifiable, AI-derived performance metrics with actionable goals during surgical simulation practice](metric-based-formative-feedback-strategy.md)
+- [Use video-based, system-independent suture metrics to deliver intraoperative feedback in surgical training](vision-based-intraoperative-suture-feedback-strategy.md)
 
 ## Examples
 -

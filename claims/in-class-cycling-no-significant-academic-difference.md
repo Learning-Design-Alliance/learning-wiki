@@ -49,3 +49,4 @@ Semester-long randomized trial in an undergraduate exercise physiology lecture c
 - [Participants rate in-class cycle desks as not intrusive or distracting and recommend incorporating activity into the classroom](cycle-desks-perceived-not-distracting-recommended.md) — related
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — related
 - [Cycling desks increase students' classroom energy expenditure by around 36% relative to normal class hours](cycling-desks-increase-classroom-energy-expenditure-36-percent.md) — related
+- [Physically active and inactive medical students show no statistically significant difference in mean GPA](physical-activity-gpa-null-medical-students.md) — related

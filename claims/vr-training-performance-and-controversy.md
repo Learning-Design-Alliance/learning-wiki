@@ -54,3 +54,4 @@ Discussion-section assertion attributing comparative benefits to prior studies (
 - [No studies validated the use of cadavers for robotic surgical training, and no empirical evidence demonstrates transfer of cadaver training skills to live operating rooms](no-validated-cadaver-robotic-training-studies.md) — related
 - [The authors argue that instructional videos are a contribution to animal welfare by reducing the use of live animals in undergraduate veterinary education](instructional-videos-animal-welfare-contribution.md) — related
 - [The review reports domain-specific benefits of VR over traditional teaching approaches in road safety, basketball, Hajj training and abstract subjects](vr-domain-specific-benefits-over-traditional-teaching.md) — related
+- [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related

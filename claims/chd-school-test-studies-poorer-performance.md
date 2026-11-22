@@ -48,3 +48,7 @@ The review's narrative synthesis of four large school‐test studies (NAPLAN, Ar
 ## Related Claims
 - [Extracardiac anomalies, genetic diagnosis, CHD severity, surgical/hospitalization factors and low SES are risk factors for poorer academic achievement or higher SEN in CHD](chd-risk-factors-academic-achievement.md) — related
 - [Children with severe congenital heart defects have significantly higher odds of special education needs than controls (pooled OR 2.32)](severe-chd-higher-sen-odds-pooled-or-2-32.md) — related
+- [Children with both congenital heart disease and a concurrent major noncardiac anomaly had significantly poorer academic outcomes than children with CHD alone.](chd-with-mca-poorer-outcomes-than-chd-alone.md) — related
+- [Qualification for upper secondary school among children with CHD did not change across surgical eras before, during, or after centralization of pediatric heart surgery.](no-improvement-uss-qualification-across-surgical-eras.md) — related
+- [Total grade sum in ninth grade was affected by both CHD complexity and sex, with boys with univentricular heart averaging just above pass grades.](chd-complexity-and-sex-affect-total-grade-sum.md) — a narrower finding that bears on this claim
+- [Risk of not qualifying for upper secondary school at age 16 shows a linear association with congenital heart disease complexity in children without major noncardiac anomalies.](chd-complexity-linear-association-uss-nonqualification.md) — related

@@ -49,6 +49,7 @@ The article's intervention strategy has primary caregivers instructed to try an 
 
 - [Scaffold infant participation in everyday activities with positive affect, encouragement, and guidance adapted to the child's developmental level](scaffold-infant-helping-participation-adaptively.md)
 - [Teach-Model-Coach-Review caregiver coaching with mastery-timed workshops](tmcr-caregiver-coaching-workshops.md)
+- [Family-involvement strategy: pair child experiential nutrition activities with caregiver participation and home recording tasks](family-involvement-nutrition-experiential-activities.md)
 
 ## Examples
 -

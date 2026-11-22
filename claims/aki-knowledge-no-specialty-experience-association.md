@@ -48,3 +48,4 @@ Chi-square test with trend on ordinal categories in the 81-doctor cross-sectiona
 - [Only 1.2% of surveyed non-nephrology doctors had good knowledge of AKI, with 69.2% fair and 29.6% poor](aki-knowledge-mostly-fair-or-poor-ondo-doctors.md) — related
 - [Healthcare providers in Rwandan district hospitals have uniformly low knowledge of pediatric AKI, with a mean score of 2.1/5.0 (42%) and only 3.6% achieving adequate performance.](rwandan-provider-pediatric-aki-knowledge-low.md) — related
 - [Most doctors had received prior formal AKI lectures yet knowledge remained deficient](prior-aki-lectures-insufficient-knowledge.md) — related
+- [No significant bivariate associations between TIA knowledge and age, professional cadre, or years of practice; specialty was independently associated with fair knowledge](tia-knowledge-null-bivariate-specialty-or.md) — related

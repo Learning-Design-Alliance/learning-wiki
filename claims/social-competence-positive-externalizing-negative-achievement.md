@@ -55,3 +55,4 @@ Zero-order correlations (Table 1) in the 6-year longitudinal sample supported th
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related
 - [Mathematics shows the most heterogeneous reciprocal pattern, with early reciprocal links to emotional problems and prosocial behavior and negative externalizing-to-math paths](mathematics-reciprocal-behavior-effects.md) — related
+- [Low academic achievement with external attribution tendency positively moderates the effect of negative life events on externalizing problem behaviors](low-achievement-external-attribution-moderates-externalizing.md) — related

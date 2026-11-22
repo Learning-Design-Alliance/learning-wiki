@@ -53,4 +53,4 @@ The authors' first proposed step for faculty is to establish a forum that crosse
 -
 
 ## Key Sources
-- Booth, S. & Ingerman, Å. (1999). Making sense of Physics in the first year of study. Chalmers University of Technology. https://arxiv.org/abs/physics/9911071
+- Booth, S. & Ingerman, Å. (1999). Making sense of Physics in the first year of study. Chalmers University of Technology. https://arxiv.org/abs/physics/9911071. [doi:10.48550/arxiv.physics/9911071](https://doi.org/10.48550/arxiv.physics/9911071)

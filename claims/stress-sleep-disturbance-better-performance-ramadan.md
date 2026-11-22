@@ -53,3 +53,4 @@ Multivariable logistic regression (same 922-student survey; omnibus χ²(14) = 3
 - [Higher physical and mental fatigue are associated with lower odds of high academic performance in fasting medical students](fatigue-negatively-associated-academic-performance-ramadan.md) — related
 - [Most fasting medical students report fasting-related sleep disruptions and moderate daytime sleepiness](fasting-sleep-disruptions-prevalence-iraqi-students.md) — related
 - [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related
+- [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — reports the opposite

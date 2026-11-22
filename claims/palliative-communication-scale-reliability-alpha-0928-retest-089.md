@@ -84,3 +84,4 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
+- [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related
