@@ -45,7 +45,8 @@ The article's explanatory framework holds that AI and human dialogue "create dis
 - [Ai Syntactic Priming Advantage Survives Controls](../claims/ai-syntactic-priming-advantage-survives-controls.md) [+M]
 
 ## Related Designs
-- 
+
+- [Fear of negative evaluation account: voice-based AI practice raises participation by building knowledge mastery and lowering speaking anxiety](fne-self-efficacy-account-ai-discussion-practice.md)
 
 ## Examples
 -

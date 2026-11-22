@@ -49,3 +49,4 @@ Staff observation from the 2007-08 support programme: Group 3 students (~5% of t
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%](learning-support-raises-level1-physics-passrate.md) — related
 - [Introducing computer-based data processing reduced turnaround times for attendance monitoring and marking tasks in a large first-year physics class](computer-based-administration-reduced-turnaround-times-first-year-physics.md) — related
+- [Across most exercises the attempt-count distribution is dense at low values with a long thin upper tail, distinguishing exercises needing targeted scaffolding for a struggling minority from uniformly hard ones.](long-tail-attempt-distributions-targeted-scaffolding.md) — related

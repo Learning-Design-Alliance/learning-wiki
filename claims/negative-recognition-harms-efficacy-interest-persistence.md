@@ -59,3 +59,4 @@ Qualitative interview study of 38 female physics students; the abstract-level fi
 - [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
 - [The transitions from high school to college introductory physics and from the first year into the physics major are bottlenecks at which women's physics self-efficacy and sense of belonging decline](physics-transitions-bottlenecks-women-self-efficacy.md) — related
+- [Underrepresented undergraduates recall specific public recognition and misrecognition events in STEM contexts that they attribute to shaping their STEM identity and career choices](recognition-misrecognition-events-shape-stem-identity.md) — related

@@ -51,6 +51,7 @@ The authors conclude that alternative methods of sharing research, such as non-p
 - [Disseminate partnership information through blog posts, videos, and infographics](dissemination-blog-posts-videos-infographics.md)
 - [Five recommendations for scientists venturing into science communication with teachers](five-recommendations-scientists-scicomm.md)
 - [Sustain research-dissemination efforts over time rather than one-time workshops](sustained-dissemination-over-time.md)
+- [Have CURE students disseminate their findings through conference poster presentations](cure-conference-poster-dissemination.md)
 
 ## Examples
 -

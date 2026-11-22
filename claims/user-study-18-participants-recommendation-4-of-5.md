@@ -74,3 +74,4 @@ The same 18-participant Likert-scale usability study reports "The overall recomm
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
 - [Users rated SAM positively on satisfaction, response quality, and trust in accuracy](sam-positive-usability-ratings.md) — related
+- [CARES achieved an overall answer relevance score of 1.00, consistently addressing the user's immediately preceding message](cares-answer-relevance-100.md) — related

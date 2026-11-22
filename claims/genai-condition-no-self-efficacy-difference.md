@@ -82,3 +82,5 @@ Topic-level analysis of the same survey found Asymptotic Analysis (Comfort media
 - [Students' self-reported self-confidence in the subject rose from before to after the assignment within the LLM-guided reflection group (Study 1)](llm-reflection-confidence-increase-study1.md) — related
 - [Students reported transferring confidence-rating and explanation strategies from the practice tool to actual midterms and future courses](metacognitive-strategies-transferred-to-real-exams.md) — related
 - [Outreach participants showed significant pre/post gains in data-analysis comfort and AI explanation confidence with large effect sizes (r = .80 and .84, n = 10 matched pairs)](self-efficacy-gains-outreach-workshop.md) — related
+- [Later CAiSEY use raises students' self-reported comfort speaking up and perceived learning, but not focus or motivation](caisey-raises-comfort-and-perceived-learning.md) — related
+- [CAiSEY's participation benefit is lagged and accrues with a second use: no same-session effect and lower participation after a first use](caisey-effect-lagged-second-use-only.md) — related

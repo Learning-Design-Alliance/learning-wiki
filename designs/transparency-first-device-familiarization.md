@@ -48,6 +48,7 @@ This lesson-level pattern opens a laboratory sequence with an exploratory exerci
 - Ncsu Mytech App
 - [Guided problem solving: presenting each laboratory experiment as an experimental problem solved in graded stages](guided-problem-solving-physics-lab.md)
 - [Open-inquiry light-decay laboratory pattern: model proposal, measurement with accessible devices, and validity-range discussion](open-inquiry-light-decay-lab-pattern.md)
+- [Guided black-box modeling sequence: data organization, representation construction, breakdown, and reconstruction](guided-black-box-modeling-sequence.md)
 
 ## Examples
 -

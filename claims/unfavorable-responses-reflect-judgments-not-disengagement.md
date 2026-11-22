@@ -51,3 +51,4 @@ This is the authors' interpretation (discussion of Interview 1 and 2 case data) 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](hands-on-appreciated-insufficient-when-topic-perceived-useless.md) — related
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
+- [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related

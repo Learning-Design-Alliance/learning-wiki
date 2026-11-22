@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/stage-text-concept-supervision-before-cross-modal-adaptation.md
+---
+
+# Revision history: [strategies/stage-text-concept-supervision-before-cross-modal-adaptation](../strategies/stage-text-concept-supervision-before-cross-modal-adaptation.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2610.00973 (Concept Driven Domain Adaptation: Finding an Abstract Needle in a Haystack) via eval_harness.py + ingest_extractions.py

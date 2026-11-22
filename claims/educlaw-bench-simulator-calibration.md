@@ -72,3 +72,4 @@ Field test with about 500 K-12 students across several partner classrooms using 
 - LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531) — related
 - In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students — related
 - MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons — related
+- [A hosting platform's built-in session-review feature rated every simulated cheater as honest, while rubric-based transcript review discriminated](platform-review-tools-rate-cheaters-honest.md) — related

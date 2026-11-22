@@ -54,3 +54,4 @@ Quasi-experimental comparison of retention rates; Table 1 reports 21.05% DFW in 
 - [Failure rates in experiment 3 dropped from 48% to 25% relative to lecture-based control terms](exp3-dfw-rates-drop-48-to-25.md) — related
 - [Under an objective grading scheme, 29% of introductory astronomy students fail to meet minimal college standards, 41% perform satisfactorily, and 30% reach good or superior work](objective-astronomy-grading-29-percent-fail-minimal-standards.md) — related
 - [DFW rates decreased for every student cohort after ALPaCA implementation, with the most significant decreases for women and first-generation students](alpaca-dfw-rates-decreased-cohorts.md) — related
+- [Classes with Learning Assistants had lower WFD (withdrawal, D-grade, F-grade) rates than non-LA classes in each of ten introductory STEM courses, with differences significant at P=0.05 for six of the ten courses](la-classes-lower-wfd-rates-introductory-courses.md) — related

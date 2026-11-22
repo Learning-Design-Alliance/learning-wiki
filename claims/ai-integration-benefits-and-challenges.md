@@ -62,3 +62,4 @@ Narrative synthesis of outcomes reported across the 22 included studies; the rev
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related
 - [Reputation-based weighting raises correlation with instructor grades and corrects consistent over- or under-markers, but depends on historical data and raises equity concerns](reputation-weighting-accuracy-and-equity-tradeoffs.md) — related
 - [After the program, students' essays used professional and ethical AI terminology more frequently, driven by new adoption of terms such as \"bias\" and \"personal info\"](ai-ethics-essay-term-adoption-shift.md) — a narrower finding that bears on this claim
+- [Difficulties faced by named-method implementers include long-standing active learning adoption issues and new issues related to emergent technologies such as Artificial Intelligence](implementation-difficulties-longstanding-and-emergent-ai.md) — related

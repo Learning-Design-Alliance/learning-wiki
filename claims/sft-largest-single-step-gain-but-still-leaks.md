@@ -48,3 +48,4 @@ Training-trajectory analysis of the PT track (RQ1 discussion, Table 3 and Figure
 ## Related Claims
 - [GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 30.0% to 13.3% against the prompt-only base on held-out questions](grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) — related
 - [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — related
+- [Leakage is held, not reduced, for the Qwen3.5/3.8 family, and reduced substantially only for Qwen3-14B](leakage-held-not-reduced-qwen-family-eduardo.md) — related

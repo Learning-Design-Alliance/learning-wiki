@@ -53,3 +53,4 @@ This is the article's theoretical-framework argument, grounded in the distinctio
 - [Concurrent enrollment in a disciplinary course alongside physics amplified a life-science major's sense of physics relevance through mesosystem connections](mesosystem-cross-course-connections-amplify-relevance-maria.md) — related
 - [Unfavorable survey responses about real-world connection can reflect judgments about the practical necessity of using physics rather than a failure to value or perceive relevance](unfavorable-responses-reflect-judgments-not-disengagement.md) — a narrower finding that bears on this claim
 - [Life-science and physical-science students do not significantly differ in the Real-World Connection CLASS category](real-world-connection-no-group-difference.md) — related
+- [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related

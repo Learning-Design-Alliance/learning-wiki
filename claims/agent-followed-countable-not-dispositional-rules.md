@@ -49,3 +49,4 @@ Transcript audit of the deployed GPT-4o agent in the trial's Study 2, comparing 
 - [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](indiscriminate-affirmation-reflection-agent.md) — related
 - [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
 - [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related
+- [LLM agents leak evaluation of answer correctness through praise, word choice, reply length, and pacing, which stops student reasoning](llm-agents-leak-evaluation-correctness.md) — related

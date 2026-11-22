@@ -24,7 +24,8 @@ A reusable codebook development process: a literature-informed preliminary taxon
 ### Claims
 
 ## Related Research Methods
--
+
+- [Inductive coding manual characterizing students’ instrument-choice justifications in three categories plus uncodable](inductive-coding-manual-characterizing-students-instrument-choice-justifications-in-three.md)
 
 ## Key Sources
 - Zhuqian Zhou, Kirk Vanacore, Tamisha Thompson, Jennifer St John, René Kizilcec (2025). Tutor Move Taxonomy: A Theory-Aligned Framework for Analyzing Instructional Moves in Tutoring. National Tutoring Observatory, Cornell University. https://nationaltutoringobservatory.org

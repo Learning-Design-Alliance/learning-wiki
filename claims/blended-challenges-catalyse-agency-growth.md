@@ -50,3 +50,4 @@ Conclusion drawn from the semester-long case trajectory of one teacher handling 
 - [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
 - [Teacher agency development proceeds through temporal phases in which different subsystems dominate](agency-subsystems-dominate-temporally.md) — a broader claim this one bears on
+- [Students rated opportunities and personal growth as significantly outweighing the challenges of the VGC project, with a medium effect](vgc-opportunities-outweigh-challenges.md) — related

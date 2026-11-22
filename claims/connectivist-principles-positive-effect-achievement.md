@@ -53,3 +53,4 @@ The survey reports, citing Zulkifley, Nor, and Siti (2018), an evaluation of a s
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
+- [Participants in the connectivist activity predominantly agreed that connectivism is suitable for collaborative digital learning and that WhatsApp discussions helped them understand physics concepts](student-perceptions-connectivist-activity-favourable.md) — related

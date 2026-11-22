@@ -51,3 +51,4 @@ Results section (§3.2, Figure 3): comparison of NoThink vs. Think conditions ac
 - [Ped. Think Reward achieves the best tutoring performance among trained models, and Thinking Reward is most effective when combined with pedagogical prompting](thinking-reward-needs-pedagogical-prompting.md) — related
 - [Explicit thinking mechanisms degrade rubric-aligned conversation scoring but improve recommendation acceptability](thinking-degrades-scoring-improves-recommendations.md) — related
 - [Training-free tutors rely on teaching-knowledge patterns at 2–3× the rate of RL-trained models with a ~10 percentage-point deficit in intent-level scaffolding](training-free-mkt-piu-redistribution.md) — related
+- [EDUARDO-27B attains the highest MathTutorBench pedagogical reward-model score and win rate over human teachers on MathDial among all tested tutors, including frontier models, with fewer thinking tokens](eduardo-27b-highest-mathtutorbench-pedagogy-win-rate.md) — related

@@ -49,3 +49,4 @@ Case-study analysis of interview extracts from the second interview with one stu
 - [In the case of Sally, exploring physics through legitimate peripheral practice led to declaring a physics major and a shift from moratorium to identity achieved status](sally-moratorium-to-achieved.md) — related
 - [In AdLab observations, a centrally-positioned student's positive affect toward physics became spontaneous and unsolicited](spontaneous-positive-affect-central-membership.md) — related
 - [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related
+- [CoP participation shifted from peripheral, support-seeking engagement to central, contributing membership recognized by peers](cop-participation-peripheral-to-central-shift.md) — related

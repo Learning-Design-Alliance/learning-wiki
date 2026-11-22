@@ -53,3 +53,4 @@ Findings from written responses, informal discussions and formal paid interviews
 - [No significant improvement was observed for voltage problems on parallel or mixed circuits, and students had difficulty differentiating electric potential from voltage](parallel-mixed-circuits-no-improvement.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
 - [Students incorrectly treat the Fermi energy as depending on system size rather than recognizing it as an intrinsic property of the material](fermi-energy-intrinsic-property-difficulty.md) — a narrower finding that bears on this claim
+- [Informal student observations suggest withholding standard formulas shifted attention to graphical structure, but the article reports no controlled learning-outcome evidence](rc-black-box-informal-student-observations.md) — related

@@ -50,3 +50,4 @@ Findings from the transnational comparative mapping (Table I and Annex 1) of sev
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - [Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another](genai-policy-interconnected-system-seven-themes.md) — related
 - [Across countries, the association between school autonomy and students' digital skills is conditional on teacher support, which the authors read as autonomy compensating where teacher support is low](autonomy-teacher-support-compensatory-interaction-digital-skills.md) — related
+- [Course-by-course and per-instructor GenAI decision-making produces mixed messages for students and fragmented expectations across a program](per-course-genai-decisions-fragmented-expectations.md) — related

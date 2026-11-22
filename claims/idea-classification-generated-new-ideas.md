@@ -49,3 +49,4 @@ Case illustration (type c/d): after students devised classification schemes A, B
 - Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed — related
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — a broader claim this one bears on
 - [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related
+- [Students most strongly connected music and physics ideas through keywords related to the physical structure of sound](sound-structure-keywords-strongest-integrators.md) — related

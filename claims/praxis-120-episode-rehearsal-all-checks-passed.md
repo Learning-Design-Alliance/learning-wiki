@@ -51,3 +51,5 @@ Developer-led synthetic domain rehearsal run on 28 September 2026 against the fr
 - [Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each](praxis-provider-failure-no-fabricated-hints.md) — related
 - [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)
 - [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](hardening-rehearsal-50-sessions-and-access-denials.md) — related
+- [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — related
+- [LoopCAT's first 31 August build passed 1,389 unit tests, eight browser-test phases, and 36 accessibility audits](loopcat-verification-record-first-build.md) — related

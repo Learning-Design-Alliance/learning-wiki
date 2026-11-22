@@ -75,3 +75,5 @@ Institutional before-and-after enrollment counts reported in the project narrati
 - [Most ERIRA participants convert to physics/astronomy or STEM majors and minors after the weeklong radio-astronomy field experience](erira-major-conversion-rates.md) — related
 - [Physics programs are fed by service courses and funded through astronomy and astrophysics offerings despite low enrollment](service-courses-and-astronomy-sustain-physics-programs.md) — related
 - [Field work with a telescope plus open-source data work is argued to boost astronomy learning more than videos or books alone](fieldwork-plus-open-data-boosts-astronomy-learning.md) — related
+- [Portable smart telescopes allow students to collect and analyze astronomical images during class, making introductory astronomy more observational and quantitative, according to the author's design argument.](smart-telescopes-make-intro-astronomy-observational.md) — related
+- [Inclusive-culture reforms coincided with shifts in physics enrollment, retention, and female participation](inclusive-culture-female-enrollment-shift.md) — related

@@ -59,3 +59,4 @@ Questionnaire analysis of about 500 students attending the Pisa Masterclass from
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related
 - [The authors claim some students who attended the astrophysics Masterclass later enrolled in the Physics degree course, as an orientation effect](masterclass-orientation-to-physics-degree.md) — related
+- [Preliminary analysis indicates a gender gap on Q15, with male-declaring students achieving better results than female-declaring students, smaller for Q16](gender-gap-q15-preliminary.md) — related

@@ -62,3 +62,4 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
 - [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — a narrower finding that bears on this claim
 - [Skills lab training shows transfer of procedural skills to clinical practice, though transfer evidence is limited](skills-lab-transfer-to-clinical-practice.md) — a narrower finding that bears on this claim
+- [The authors report that empirical effectiveness data for the Gudeg-based model are not yet available](gudeg-model-effectiveness-data-missing.md) — related

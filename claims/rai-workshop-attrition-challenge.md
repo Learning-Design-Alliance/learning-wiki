@@ -50,3 +50,4 @@ Observation of the 2023 workshop offerings. The pilot had four 60-minute session
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — related
 - [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related
+- [Participation in the University of Waterloo automated QKD kit workshops grew from 17 students to 35 students across two consecutive iterations](automated-kit-participation-growth-17-to-35.md) — related

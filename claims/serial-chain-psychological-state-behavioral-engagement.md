@@ -54,3 +54,4 @@ Serial (chained) indirect effect from the same mediation model. The article iden
 - [School climate and academic motivation chain-mediate the effect of academic self-concept on psychological truancy](chain-mediation-climate-motivation-truancy.md) — a narrower finding that bears on this claim
 - [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
+- [Increased engagement mediates the exam performance gains from personalized problem sequencing](engagement-mediation-of-sequencing-gains.md) — related

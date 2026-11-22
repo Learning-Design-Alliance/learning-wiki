@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/affective-language-no-immediate-effect.md
+---
+
+# Revision history: [claims/affective-language-no-immediate-effect](../claims/affective-language-no-immediate-effect.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2607.08952 (Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring Interactions) via eval_harness.py + ingest_extractions.py

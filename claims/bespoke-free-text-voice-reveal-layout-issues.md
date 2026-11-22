@@ -81,3 +81,4 @@ across the entire video” and “very distracting. ”"
 - [Students requested richer content and improved audio, video and download quality when asked to suggest podcast improvements](podcast-improvement-suggestions-content-and-quality.md) — related
 - [Pedagogical experts rated all Learn Your Way components highly (overall experience above 0.90), with Visual Illustration lowest and narrated slides more engaging than slides alone](expert-pedagogy-ratings-components.md) — related
 - [Viewer comments identified readability problems, suggesting color and font changes for future videos](viewer-feedback-color-font-improvements.md) — related
+- [Text-only retrieval over subtitles remains weak for concept-to-example retrieval, suggesting subtitles alone miss visually expressed teaching evidence](text-only-subtitle-retrieval-weak.md) — related

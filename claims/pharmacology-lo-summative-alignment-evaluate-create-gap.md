@@ -71,3 +71,4 @@ Same learning-outcome-to-assessment mapping; "less alignment" was found for Eval
 - [Student-authored PeerWise questions spanned all six revised-Bloom cognitive levels, with Clinical Pharmacology questions skewed toward lower levels](peerwise-question-cognitive-level-distribution.md) — related
 - [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related
 - [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related
+- [The curriculum is pitched roughly a full Bloom level below market demand across the portfolio, a deficit significant in nine of eleven domains](portfolio-cognitive-depth-deficit.md) — related

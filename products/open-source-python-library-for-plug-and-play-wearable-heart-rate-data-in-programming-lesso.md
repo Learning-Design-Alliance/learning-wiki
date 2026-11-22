@@ -26,6 +26,7 @@ The article's authors developed an installable Python library that connects Pola
 ## Related Products and Programmes
 
 - [Edaq530](edaq530.md)
+- [Ollin](ollin.md)
 
 ## Key Sources
 - Hussel Suriyaarachchi, Paul Denny, and Suranga Nanayakkara. 2025. Investigating the Use of Productive Failure as a Design Paradigm for Learning Introductory Python Programming. Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE TS 2025). https://doi.org/10.1145/3641554.3701911

@@ -49,3 +49,4 @@ Semi-structured interview study with 14 international students, analysed via ref
 - [Across all four challenge domains, students' intent to continue using AI significantly exceeds their current satisfaction with it](intent-to-continue-exceeds-satisfaction-all-domains.md) — related
 - [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
+- [Physics Ph.D. students wanted clearer communication about program milestones, logistics, and finances, especially for international students](physics-phd-desire-clarity-milestones-finances.md) — related

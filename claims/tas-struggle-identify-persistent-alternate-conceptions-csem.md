@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-22
 recheck_by: 2023
 sources:
   - id: nafis-i-karim-2018
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
+> **Currency** · newest study 2018 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` TAs enrolled in a semester-long professional development course struggled to identify many common student difficulties on CSEM items that persist after traditional instruction. [→ Nafis I. Karim 2018](#nafis-i-karim-2018)
@@ -58,3 +59,8 @@ Quantitative study in which 81 first-year graduate TAs in a mandatory pedagogy c
 - [TAs' narrow predicted-difficulty range (45%-65% for all but five questions) indicates they lacked a sense of question difficulty from students' perspective](tas-narrow-predicted-difficulty-range.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — a narrower finding that bears on this claim
 - [Most common incorrect answer choices on the CSEM are the same for introductory and upper-level students, with lower percentages among upper-level students](same-alternate-conceptions-intro-upper-level.md) — related
+- [Prior studies using the same method found TAs' knowledge of alternate conceptions is context dependent and that TAs struggled more with the CSEM than the FCI or TUG-K](prior-ta-pck-studies-context-dependence-csem.md) — related
+- [TAs' PCK performance was bimodal across the 18 EMCS questions with student difficulties: poor on nine, moderate on two, and good on seven](ta-emcs-pck-bimodal-performance.md) — related
+- [TAs' ability to identify student alternate conceptions related to the work-kinetic energy theorem is context dependent, ranging from 90% on Q24 to 36% on Q25](ta-pck-work-ke-theorem-context-dependent.md) — related
+- [On the impulse-momentum question Q18, a major disconnect existed between TAs and students: over half of TAs selected options chosen by a combined 15% of students, and only 6% identified the most common student conception (momentum is a scalar)](ta-student-disconnect-momentum-scalar-q18.md) — a narrower finding that bears on this claim
+- [Physics TAs' average normalized PCK score across the full EMCS was 58%, with scores distributed close to normal and 90% of TAs between 45% and 75%](ta-emcs-pck-average-58-percent.md) — a narrower finding that bears on this claim

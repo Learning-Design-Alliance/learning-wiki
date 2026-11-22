@@ -46,3 +46,4 @@ Perceptions item on the Fall 2014 student survey, summarized in Fig. 1, contrast
 
 ## Related Claims
 - [Students without research experience learned about UREs from fewer sources, within an informal, decentralized information environment](informal-ure-information-sources-fewer-without-experience.md) — related
+- [Students associated authentic research with meaningful scientific contribution, engagement in authentic scientific practices, and navigating uncertainty and setbacks, though fewer explicitly identified themselves as researchers or scientists](pv-cure-authenticity-perceptions.md) — related

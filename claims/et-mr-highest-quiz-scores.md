@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: rakib-2025
+  - id: rakib-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00979"
-    title: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)"
+    title: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2026). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 Originally published 2025. [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)"
     author: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M."
     q: 1
     i: "?"
@@ -24,17 +24,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Rakib 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q1 i?` The article reports that the ET and MR conditions produced the highest quiz scores, but relies on a single modality could reduce engagement over time due to diminished novelty. [→ Rakib 2025](#rakib-2025)
+`q1 i?` The article reports that the ET and MR conditions produced the highest quiz scores, but relies on a single modality could reduce engagement over time due to diminished novelty. [→ Rakib 2026](#rakib-2026)
 
 ## Evidence
 
-### Rakib 2025
+### Rakib 2026
 
-Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)
+Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2026). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 Originally published 2025. [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)
 
 `q1 · i?` · `causal · r1`
 
@@ -47,3 +47,5 @@ This is the article's own statement in its Implications section comparing the th
 
 ## Related Claims
 - [In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities](workflows-vary-across-mr-et-tc-modalities.md) — related
+- [Both interactive post-lecture conditions outperformed lecture-only instruction on adjusted post-test scores, while MR and ET did not differ significantly](interactive-conditions-outperform-lecture-only.md) — related
+- [Instructional modality significantly affects baseline-adjusted post-test performance in undergraduate solid mechanics, F(2, 20) = 3.60, p = .048, partial η² = .263](modality-ancova-effect-post-test-solid-mechanics.md) — related

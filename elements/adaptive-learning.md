@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (25 for, 13 mixed, 3 against) · 40 studies (12 causal, 11 review, 5 quant-synthesis, 4 design, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 4 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (27 for, 13 mixed, 3 against) · 42 studies (14 causal, 11 review, 5 quant-synthesis, 4 design, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 5 of 42 report an effect size · 42 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -93,6 +93,8 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines](../claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) [~M] — attached 2026-11-05 from Doroudi, Aleven & Brunskill (2019): adaptive ordering learned from data helped most for independent items and activity-type choice, and was often compared only with random order.
 - [Adaptive e-learning significantly increases neurosurgeons' self-assessed perceived knowledge of UBE](../claims/adaptive-elearning-increases-perceived-ube-knowledge.md) [+M] — attached 2026-11-07 from Motov Stefan et al. (2024), which proposed "Adaptive e-learning module for UBE with 45 probes and distractors".
 - [GenAI personalised test allocation aligns better with a mathematical score-weighting model than with expert allocations, which it misses by a mean error of 1.81](../claims/genai-personalisation-mathematical-model-alignment.md) [+W] — attached 2026-11-21 from Riya Gill et al. (2025), which proposed "Web-based GenAI adaptive learning platform for UK Driving Theory Test revision"; tests this page's relationship.
+- [Adaptive LLM-guided problem sequencing improves unassisted final exam performance by 0.156 SD relative to a fixed easy-to-hard sequence](../claims/adaptive-problem-sequencing-exam-gain-0-15sd.md) [+W] — attached 2026-11-21 from Angel Tsai-Hsuan Chung et al. (2026), which proposed "GenAI tutoring platform integrating guarded chatbot, RAG problem generation, and adaptive sequencing"; tests this page's relationship.
+- [In a controlled classroom study, StuEDM significantly improves posttest performance and normalized learning gain over an Expert baseline and pretest-adjusted posttest score over StuCQL, while overriding students' decisions less than half as often](../claims/stuedm-classroom-outperforms-expert-and-stucql.md) [+M] — attached 2026-11-21 from Md Mirajul Islam (2026), which proposed "StuEDM: an agency-preserving EDM-induced pedagogical policy that intervenes only on disagreement"; tests this page's relationship.
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

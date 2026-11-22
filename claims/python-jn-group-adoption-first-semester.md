@@ -55,3 +55,5 @@ Analysis of student groups' laboratory notebooks during two first-semester exper
 - [Students held generally positive views about integrating computation into the physics laboratory course and maintained them throughout the intervention](positive-student-attitudes-computation-integration.md) — related
 - [Optional Python and Jupyter Notebook use rose from 83% of groups in the first lab experiment to complete adoption in the second, with skill progression from LAB1 to LAB2](python-adoption-lab1-to-lab2.md) — possibly the same claim (merge candidate)
 - [Computation-based activities should be integrated into laboratory tasks with appropriate scaffolding](computation-integration-lab-scaffolding.md) — related
+- [High school participants' coding confidence rose with the curriculum, with 67% reporting intermediate-level confidence after Notebooks 2 and 3 versus 33% beginner-level confidence after Notebook 1](gw-explorer-coding-confidence-gains-high-school.md) — related
+- [Starter notebook prompts for Lab Activities 3 and 4 exhibited more music-physics integration than prompts for other lab activities](instrument-spectral-analysis-prompts-more-integrated.md) — related

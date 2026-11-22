@@ -58,3 +58,4 @@ Assessment-section feedback from the 2023 intern cohort, summarized in Figure 8 
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
 - [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related
+- [Early career ACPSEM ROMP members report wanting more involvement in supervision, academic work and research, a trend not evident for experienced members](early-career-romp-desire-supervision-academic-research.md) — related

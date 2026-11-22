@@ -78,3 +78,4 @@ Same FC questionnaire, offline-course items: 90.5% liked teacher-student interac
 - [Students reported positive experience with the tutor-web: 92% said they learned from it, but 82% preferred a mixture of tutor-web and written homework](tutor-web-student-survey-positive-mixed-preference.md) — related
 - [Flipped classroom techniques with video lectures were reported by one teacher to improve engagement and learning outcomes](flipped-classroom-video-lectures-report-improvement.md) — related
 - [80% of University of Ghana distance education is delivered in blended mode, with about 5600 students learning via a flipped format](ug-distance-education-80-percent-blended.md) — related
+- [Students reported that well-organized pre-lecture notes improved course clarity, though some students used them to be more passive in class](pre-lecture-notes-organization-clarity.md) — related

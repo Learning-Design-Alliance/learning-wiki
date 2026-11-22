@@ -61,3 +61,4 @@ Cohen's kappa was calculated for every category and pair of coders. Agreement be
 - [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related
 - [Expert raters' coded comments cluster into five themes led by poor image generation and interpretation (22%)](pocus-rater-comment-five-themes.md) — related
 - [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
+- [The LLM-as-a-judge production scorer achieves substantial agreement with human rater majority vote (Cohen's kappa = 0.746, accuracy 92.3%)](l2-bench-judge-validation-kappa-0746.md) — reports the opposite

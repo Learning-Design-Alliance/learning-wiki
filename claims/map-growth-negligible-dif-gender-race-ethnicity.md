@@ -57,3 +57,4 @@ The fairness chapter reports Mantel-Haenszel DIF analyses using ETS classificati
 - [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related
 - [SEPCQ-27 items show negligible gender-related differential item function except two Factor 3 items](sepcq-minimal-gender-dif.md) — related
 - [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related
+- [Cohen's d over-estimates item-level DIF effect sizes compared with Cohen's h for proportional success rates](cohens-d-overestimates-fci-dif-effect-sizes.md) — related

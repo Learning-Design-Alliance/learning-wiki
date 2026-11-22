@@ -79,3 +79,4 @@ Same Cheung et al. comparison reported in the review: AI generation of 50 MCQs t
 - [ChatGPT responses during training achieved 100% relevance but only 50% completeness and 60% accuracy, with a 15.9 s average response time](chatgpt-response-quality-metrics.md) — related
 - [Students perceived the MCQ-writing task as having little educational value despite producing high-quality questions](mcq-writing-low-perceived-value.md) — related
 - [Student-generated MCQs written for a competency-based progress test show high quality in post-review, with only 5 corrected and 4 excluded of 144 questions](student-generated-mcq-high-quality-post-review.md) — related
+- [89% of LLM-generated isomorphic MCQs were rated fully specified and solvable as written, usable without expert revision](llm-isomorphic-mcq-89-percent-directly-usable.md) — related

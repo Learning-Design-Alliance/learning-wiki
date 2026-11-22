@@ -50,3 +50,4 @@ Authors' report of informal course feedback, not a controlled evaluation; the ar
 - [Students with no prior quantum computing background can solve entry-level quantum compilation puzzles using Quantum Odyssey's visual puzzle interface](quantum-odyssey-untrained-students-solve-quantum-puzzles.md) — related
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — related
 - [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related
+- [A QTris-based stand-alone educational activity with about 150 high-school students provided encouraging preliminary indications that the game promotes immediate understanding of key Quantum Mechanics concepts](qtris-activity-150-students-preliminary-indications.md) — related

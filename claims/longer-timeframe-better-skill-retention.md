@@ -56,3 +56,4 @@ Authors' stated limitation in the conclusion, citing reference [7]; no data on r
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
+- [The authors report that empirical effectiveness data for the Gudeg-based model are not yet available](gudeg-model-effectiveness-data-missing.md) — related

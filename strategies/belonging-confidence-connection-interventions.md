@@ -57,6 +57,7 @@ Based on their findings, the authors recommend interventions that "strengthen be
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
 - [Address gender bias in STEM classrooms through interventions and explicit discussion rather than assuming representation gains suffice](address-gender-bias-explicitly-stem-classrooms.md)
 - [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
+- [Until more gender-representative research exists, identity-based equity efforts should purposefully consider feminist frameworks in STEM](feminist-stem-frameworks-for-identity-efforts.md)
 
 ## Examples
 -

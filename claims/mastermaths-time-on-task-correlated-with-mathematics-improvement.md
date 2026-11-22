@@ -52,3 +52,4 @@ This is a correlational finding reported from the prior Louw et al. (2008) study
 - [Homework system use and performance showed weak positive correlations (.2 < r < .4) with TerraNova scaled scores, and 65% of variance in homework time was accounted for by schools](weak-correlations-homework-use-achievement.md) — related
 - [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — reports the opposite
 - [Feedback checks correlate moderately positively with project scores (cor = 0.273)](feedback-checks-correlate-with-project-scores.md) — a narrower finding that bears on this claim
+- [Gain in answering efficiency correlated positively but statistically non-significantly (0.32) with time spent on-screen and on-task](q1-time-efficiency-gain-correlation-0-32-nonsignificant.md) — related

@@ -76,3 +76,4 @@ Item classification counts from the same item-level analysis: 6 (20.0%) GenAI-as
 - [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related
 - [Item-total point-biserial correlations inflate item discrimination scores, and item-excluded correlations provide a cleaner measure for classroom tests.](item-excluded-correlation-discrimination.md) — related
 - [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related
+- [AI-supported SQL questions averaged 11.50/18 versus 6.55/18 for database design, with the most conceptually demanding items most discriminating](ai-coursework-marks-spread-not-ceiling.md) — related

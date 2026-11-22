@@ -54,3 +54,4 @@ Meta-analysis of studies grouped by duration (<10 min vs >=10 min) across all st
 - [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related
 - [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related
 - [Students spending fewer than 10 minutes on the GERQN produce unrepresentative data and are excluded](gerqn-time-on-task-cutoff.md) — related
+- [Reported video durations ranged from 0.08 to 30 minutes with no consistently applied threshold, and indexed descriptions most often foregrounded intended users, educational uses, learning content and interactivity](duration-no-stable-threshold.md) — related

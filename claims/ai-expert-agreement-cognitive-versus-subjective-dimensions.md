@@ -84,3 +84,4 @@ Validation subset of 40 dialogues spanning all 8 agents, independently rescored 
 - [Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4](poor-item-level-icc-subjective-osce-items.md) — related
 - [Expert-rated quality of LLM feedback averages 3.98 on a five-point guidance rubric but varies substantially by item (Q9: 4.55; Q15: 3.33)](feedback-guidance-quality-varies-by-item.md) — related
 - [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — reports the opposite
+- [A hosting platform's built-in session-review feature rated every simulated cheater as honest, while rubric-based transcript review discriminated](platform-review-tools-rate-cheaters-honest.md) — related

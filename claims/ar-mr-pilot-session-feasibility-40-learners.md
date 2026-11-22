@@ -69,3 +69,4 @@ The same pilot session reported completion and tolerance only: "formal objective
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

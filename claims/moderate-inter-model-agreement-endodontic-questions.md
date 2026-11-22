@@ -64,3 +64,4 @@ Exploratory agreement analysis based on correctness patterns (not answer-option 
 - [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
 - [Gemini-2.5-Flash showed weaker grading consistency than Claude-3.7-Sonnet (R² = 0.63, residual SD 1.51 vs 1.17), limiting its utility for formal assessment](gemini-flash-grading-inconsistency.md) — related
+- [The LLM-as-a-judge production scorer achieves substantial agreement with human rater majority vote (Cohen's kappa = 0.746, accuracy 92.3%)](l2-bench-judge-validation-kappa-0746.md) — related

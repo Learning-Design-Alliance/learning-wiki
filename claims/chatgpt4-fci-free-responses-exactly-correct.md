@@ -50,3 +50,4 @@ The same expert-test qualitative analysis applied to ChatGPT4: none of its free 
 - [ChatGPT3.5's FCI free responses split between expert-level accuracy and complete incoherence](chatgpt35-fci-free-response-expert-test.md) — related
 - [ChatGPT4 answers 22 of 23 modified FCI questions correctly, performing in the uppermost decile of physics students](chatgpt4-fci-22-of-23-uppermost-decile.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
+- [Post-instruction, students who improved on a free-text FCI item gave shorter, more concise answers, while students with persistent difficulties gave longer answers](ftr-word-count-tracks-understanding-nmq34.md) — related

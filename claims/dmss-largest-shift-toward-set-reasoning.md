@@ -78,3 +78,4 @@ Results-section description of the DMSS probe (different means, same spread). Th
 - [Preliminary results indicate statistically significant differences between two-state approach courses in correctness and code distributions](significant-differences-between-two-state-courses.md) — related
 - [On the different-mean same-spread (DMSS) probe, beyond-intro students were more likely than intro students to apply set reasoning and less likely to apply point reasoning.](dmss-beyond-intro-more-set-reasoning.md) — related
 - [Intro and beyond-intro students were indistinguishable in applying set reasoning on the same-mean different-spread (SMDS) probe, with both primarily displaying set reasoning.](smds-intro-beyond-intro-indistinguishable-set-reasoning.md) — related
+- [Probes that change exactly one variable are a measurement requirement, because a two-variable change cannot isolate which concept failed](one-variable-change-measurement-requirement.md) — related

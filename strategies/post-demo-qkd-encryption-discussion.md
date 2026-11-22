@@ -51,6 +51,7 @@ An immediate post-demonstration discussion connecting the Bell test to secure ke
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [Frame quantum error correction as a privacy constraint: treat detection and recovery operations as eavesdroppers that must never access the encoded information](eavesdropper-framing-quantum-decoding.md)
 - [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
+- [Schrödinger's cat and EPR paradox plush toy demonstrations for superposition and entanglement](schrodinger-cat-epr-plush-toy-demos.md)
 
 ## Examples
 -

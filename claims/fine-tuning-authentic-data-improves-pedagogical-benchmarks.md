@@ -58,3 +58,4 @@ Automated multi-turn evaluations (Fig. 7) of fine-tuned Gemini 2.5 Flash and GPT
 - [Fine-tuning an LLM on expert (task, solution) data significantly improves its student synthesis performance, including capturing the student's behavior](finetuning-improves-llm-ss-student-synthesis.md) — related
 - [GenAI use in the workforce varies by work function and by the expertise of the user, from fine-tuned technical deployments to off-the-shelf applications](genai-use-varies-by-function-and-expertise.md) — related
 - [Dialogue-based RL training on mathematics tutoring dialogues generalizes to unseen educational benchmarks while largely preserving factual knowledge](dialogue-rl-out-of-distribution-generalization.md) — related
+- [RL-trained tutors discover pedagogical moves not named in the reward: push-for-justification more than doubles while support fading is trained out](rl-discovery-push-for-justification-doubles-support-fading-trained-out.md) — related

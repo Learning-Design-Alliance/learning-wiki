@@ -59,3 +59,4 @@ Validation study for the E-CLASS survey described in the design and validation s
 - [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related
 - [The CLASS was developed and validated through extensive student interviews combined with statistical techniques, with interviews as the ultimate test of statement validity](class-developed-with-student-interviews-and-statistics.md) — related
 - [Interviews with 23 lab instructors from 22 countries provided evidence of face, construct, and content validity of the survey](lab-taxonomy-survey-interview-validation-22-countries.md) — related
+- [Expert validation study (N = 221 practitioners, 45 countries) rates task authenticity 4.42/5 and criteria adequacy 4.18/5, exceeding targets](l2-bench-expert-validation-221-practitioners.md) — related

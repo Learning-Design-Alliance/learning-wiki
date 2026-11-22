@@ -47,3 +47,4 @@ A definitional claim from the report's Section 3 framework. Proactive investment
 ## Related Claims
 - [Proactively designing the learning environment for all learners provides support without requiring disability disclosure, in contrast to reactively providing supports for individual students' needs](proactive-udl-avoids-disclosure-reactive-support.md) — related
 - [Postsecondary students must self-disclose disability status to access supports, and disability disclosure may make students vulnerable to stigmatization](postsecondary-disability-self-disclosure-stigmatization-risk.md) — related
+- [Learners rated visual conditions higher on support for ongoing work, and recipients of proactive help rated it as supportive rather than interrupting](learners-rate-visual-tutoring-supportive-not-intrusive.md) — related

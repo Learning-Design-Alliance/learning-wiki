@@ -65,6 +65,7 @@ Student feedback functions as a formative assessment loop applied to teaching it
 - [Close the event with an anonymous participant questionnaire and use it to produce an Event Report guiding future improvements](sk-day-anonymous-survey-event-report.md)
 - [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 - [Implement outreach surveys at the closing moments of the event, assigned to a specific person, without mandatory questions](administer-survey-at-event-close-no-mandatory-questions.md)
+- [Use student group feedback and anonymous surveys at event close to collect actionable improvement items for future editions](asp2026-feedback-driven-improvement-strategy.md)
 
 ## Examples
 - A high-school teacher runs a two-question anonymous Google Form every Friday ("What helped your learning this week? What got in the way?") and opens Monday's class by naming one adjustment.

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 sources:
   - id: griffin-pitts-2026
     resource: "https://doi.org/10.1007/978-3-032-29770-9_56"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Matched pre/post assessment scores improved significantly after the four I-SAIL BFS activities (Cohen's dz = 0.453). [→ Griffin Pitts 2026](#griffin-pitts-2026)

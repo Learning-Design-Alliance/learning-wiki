@@ -48,6 +48,7 @@ Based on observed differences in inquiry behavior, the article recommends that "
 - [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
 - [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
 - [Nudge learners toward active practice and mitigate gaming behavior in LLM-based conversational tutoring](nudge-active-practice-mitigate-gaming.md)
+- [Design adaptive LLM tutors that detect help-seeking situation and state and select response strategies accordingly](adaptive-context-sensitive-response-selection-strategy.md)
 
 ## Examples
 -

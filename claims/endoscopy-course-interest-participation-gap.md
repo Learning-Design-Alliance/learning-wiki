@@ -56,3 +56,4 @@ Self-reported survey data from the same 273-respondent cross-sectional study. Th
 - [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related
 - [Simulators were not integrated into surgical specialist training in 81.8% of clinics, though 94% favored future integration](simulator-training-rarely-integrated-into-surgical-training.md) — related
 - [All surveyed residents wanted more expert-made videos of specific surgical techniques in their training](residents-want-more-expert-technique-videos.md) — related
+- [Early career ACPSEM ROMP members report wanting more involvement in supervision, academic work and research, a trend not evident for experienced members](early-career-romp-desire-supervision-academic-research.md) — related

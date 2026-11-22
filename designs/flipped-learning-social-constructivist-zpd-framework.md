@@ -48,6 +48,7 @@ The article frames flipped learning as a constructivist-inspired approach in whi
 - [Blended learning as a student-centred combination of face-to-face and online instruction](blended-learning-conceptual-framework.md)
 - [Time simulation sessions toward the end of the academic year to engage learners in their zone of proximal development](time-simulation-zpd-end-of-year.md)
 - [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
+- [Vygotskian zone of proximal development scaffolding combined with preparation for future learning guides QuILT design](vygotsky-zpd-scaffolding-quilt-design.md)
 
 ## Examples
 -

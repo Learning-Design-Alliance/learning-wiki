@@ -29,4 +29,4 @@ EAP Talk is an AI-assisted English-for-Academic-Purposes speaking platform devel
 -
 
 ## Key Sources
-- Zou, B., Yuan, Y., Wang, C., & Du, Y. (2026). Can AI Reduce Acculturative Stress? Exploring the Role of AI-Mediated Speaking Practice in Chinese International Students' Perceived Language Insufficiency, Social Isolation, and Academic Pressure. https://www.eaptalk.com
+- Zou, B., Yuan, Y., Wang, C., & Du, Y. (2026). Can AI Reduce Acculturative Stress? Exploring the Role of AI-Mediated Speaking Practice in Chinese International Students' Perceived Language Insufficiency, Social Isolation, and Academic Pressure. https://www.eaptalk.com. [doi:10.48550/arxiv.2605.16653](https://doi.org/10.48550/arxiv.2605.16653)

@@ -67,3 +67,4 @@ Quantitative comparison of two hierarchy specifications using the shortest remed
 - [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) — related
 - [Q-matrix misspecification, if left unchecked, can have important practical implications](q-matrix-misspecification-practical-implications.md) — a broader claim this one bears on
 - [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](reliability-prerequisite-for-test-uses.md) — related
+- [DIF severity classifications are 100% invariant across alternative FCI Q-matrix specifications](fci-dif-severity-invariant-across-q-matrices.md) — related

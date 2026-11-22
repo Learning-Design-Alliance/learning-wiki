@@ -54,3 +54,4 @@ Narrative synthesis in the Discussion of session lengths across the included stu
 - [Educational videos of 5 to 20 minutes are appropriate, with 6 to 9 minutes suggested as ideal for maximizing learning gains while minimizing inattention](video-length-5-20-minutes.md) — related
 - [Video-based feedback sessions run substantially longer than direct observation feedback sessions (26.2 vs. 13.5 minutes)](video-feedback-sessions-longer-than-direct-observation.md) — related
 - [Participant attrition between workshop sessions remained a persistent challenge across both workshop iterations](rai-workshop-attrition-challenge.md) — related
+- [Reported video durations ranged from 0.08 to 30 minutes with no consistently applied threshold, and indexed descriptions most often foregrounded intended users, educational uses, learning content and interactivity](duration-no-stable-threshold.md) — related

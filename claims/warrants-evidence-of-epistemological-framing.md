@@ -58,3 +58,4 @@ Methodological claim grounded in the authors' videotaped observations of group p
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
 - [Student difficulties using graphs in physics are often epistemological framing errors, not just transferred math difficulties](framing-errors-graphs-physics.md) — related
 - [Students' belief that they only need to get answers in a science class often blocks building an appropriate story](answer-focus-blocks-story-building.md) — related
+- [Whole-class discussion traced students' simultaneity difficulty to a tacit agreement assumption, leading to official revision that time and position of an event depend on reference frame](simultaneity-agreement-revision.md) — a narrower finding that bears on this claim

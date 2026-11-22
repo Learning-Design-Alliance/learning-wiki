@@ -70,3 +70,4 @@ Internal-consistency analysis using Cronbach's Alpha as a conservative measure, 
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
 - [Classical test theory validation of SPRUCE showed evidence of validity and reliability at the couplet, AO, and whole-assessment levels](spruce-ctt-validation-couplet-ao-assessment-levels.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

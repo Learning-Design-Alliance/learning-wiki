@@ -52,3 +52,4 @@ Duration data from video recordings of CCC studying sessions. Participants spent
 - [All seven participants met the performance criterion on the first posttest with abstract stimuli, with six scoring 100% correct](ccc-abstract-stimuli-posttest-outcomes.md) — related
 - [Five of seven participants met the 90% performance criterion on the first matching-to-sample posttest with familiar stimuli following CCC training](ccc-familiar-stimuli-posttest-outcomes.md) — related
 - [A CCC training package with video instruction and performance feedback produces 100% graphic organizer fidelity in undergraduate students learning stimulus equivalence relations](ccc-training-package-graphic-organizer-fidelity.md) — related
+- [Participants spent a negligible percentage of time off-screen and off-task (Q4), attributed to the laboratory setting](negligible-q4-off-screen-off-task-lab-setting.md) — related

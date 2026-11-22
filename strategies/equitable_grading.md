@@ -58,9 +58,11 @@ Grades function as feedback and as motivators, so their design has direct learni
 5. Communicate the new system to students and families, including how students can track and improve their own evidence of learning.
 
 ## Related Strategies
+
 - Standards-based grading — the most common structural variant, reporting achievement by learning target rather than accumulated points
 - Retake and revision policies — operationalize the principle that grades should reflect eventual mastery, not first-attempt performance
 - Collaborative norming — the professional-learning mechanism that makes rubric-based grading consistent across graders
+- [Implement assessment retakes as mastery-oriented remediation to build a growth-mindset culture and spread equitable grading school-wide](retakes-as-mastery-remediation-strategy.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — grading is the summative layer on top of assessment design; equitable grading inherits its validity from the quality of the underlying assessments

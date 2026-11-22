@@ -56,3 +56,4 @@ In the exploratory Spearman's correlation analysis, "no significant correlation 
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim
 - [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related
 - [Completion rate (percentage of screen cards viewed) correlated with post-test score, but usage time and formative scores did not](completion-rate-correlates-posttest.md) — related
+- [Gain in answering efficiency correlated positively but statistically non-significantly (0.32) with time spent on-screen and on-task](q1-time-efficiency-gain-correlation-0-32-nonsignificant.md) — related

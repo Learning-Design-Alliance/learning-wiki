@@ -49,3 +49,4 @@ Theoretical argument, not a tested result: the authors reason that if general co
 - [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md) — related
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
 - [Problem solvers rely on experience-built heuristics, including some that engage the unconscious mind](problem-solving-heuristics-experience-built.md) — related
+- [Task-type stratified gains show paradigm completion is the most teachable category (↑3.5% mean gain) while translation tasks show the weakest gains (↓1.1%)](slate-task-type-stratified-gains.md) — a narrower finding that bears on this claim

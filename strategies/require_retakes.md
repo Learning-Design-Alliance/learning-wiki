@@ -63,6 +63,7 @@ Retakes shift the function of assessment from sorting to learning: they treat a 
 - **Test corrections** — a lighter-weight variant where students earn partial credit by analyzing and correcting errors
 - **Spaced retrieval practice** — reassessment scheduling can double as distributed review
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
+- [Implement assessment retakes as mastery-oriented remediation to build a growth-mindset culture and spread equitable grading school-wide](retakes-as-mastery-remediation-strategy.md)
 
 ## Examples
 - **Competency-based courses** (e.g., Western Governors University) require students to reassess on any competency not yet demonstrated at standard; the recorded result is mastery, not attempt count.

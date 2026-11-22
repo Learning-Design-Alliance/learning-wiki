@@ -24,7 +24,8 @@ The review's central contribution is an evaluative framework of eight criteria t
 ### Claims
 
 ## Related Research Methods
--
+
+- [Clustering-validity criterion](clustering-validity-criterion.md)
 
 ## Key Sources
 - Peng Wang, Olga Viberg, Effie Lai-Chong Law, Samuel Greiff. (2026). When Can AI Models Explain Learning? Validity Criteria for AI as Cognitive Models in Education. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10202-y

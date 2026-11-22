@@ -54,3 +54,4 @@ Doubly latent multilevel SEM (Step 2 basic model) on the PISA 2018 cross-cultura
 - [Individual-level and school-level peer cooperation are positively associated with mastery-approach goals in a cross-cultural sample of 15-year-olds](peer-cooperation-positively-linked-mastery-approach-goals.md) — related
 - [Personal learning goals are negatively linked to competition and public negative feedback, and contrary to expectations also negatively linked to interestingness, autonomy support and cognitive stimulation](learning-goals-negative-links-to-practices.md) — reports the opposite
 - [Student-oriented mastery goals are also linked to increased emphasis on competition, an unexpected finding emerging only in the combined model](student-oriented-mastery-goals-competition-link.md) — related
+- [The article argues that timed rank competition should be deferred, not eliminated, in introductory competitive programming courses](defer-competition-introductory-cp.md) — related

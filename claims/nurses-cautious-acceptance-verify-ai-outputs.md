@@ -56,3 +56,4 @@ In the same interview study, most nurses reported willingness to use AI triage s
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [Students and teachers hold ambivalent attitudes toward AI in physics education, welcoming virtual mentoring while worrying about ethics and AI illusions](dual-attitudes-toward-ai-physics-education.md) — related
+- [Coaches resist AI replacing live coaching and diagnosis but welcome it as a behind-the-scenes administrative assistant, with chess a notable exception to skepticism](ai-boundaries-admin-assistant-not-live-coach.md) — related

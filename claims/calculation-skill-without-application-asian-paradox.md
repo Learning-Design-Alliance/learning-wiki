@@ -53,3 +53,4 @@ The author's first-hand teaching observation, offered in the Reactions to the re
 - [Addressing the real/ideal gulf directly without addressing affect failed to shift Judy's view that conceptual reasoning is unimportant](epistemology-targeting-without-affect-fails.md) — related
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
 - [Students learning astronomy topics fail to relate theoretical information with what they experience in the world around them](astronomy-students-fail-relate-theory-to-experience.md) — a narrower finding that bears on this claim
+- [Physics students expressed dissatisfaction with withheld information on Public Exam questions involving procedural knowledge and suggested fully revealed problems with changed values](student-dissatisfaction-withheld-procedural-information.md) — related

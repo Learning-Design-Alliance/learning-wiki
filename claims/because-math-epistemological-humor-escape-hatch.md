@@ -49,3 +49,4 @@ Qualitative discourse analysis of one episode in which five physics majors in a 
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
 - [The group's epistemic stance toward math was constructed in the moment, not a stable robust belief](group-epistemic-stance-context-dependent.md) — related
 - [Tutorial wording (“can we define”) afforded an escape hatch that relieved tension but terminated the physics debate](tutorial-wording-can-we-define-escape-hatch.md) — related
+- [In the group pencil-and-paper tutorial, students shift into Green or Yellow frames after mistakes, with humor restoring an atmosphere of collegial equality](group-tutorial-yellow-frame-defuses-tension-after-mistakes.md) — related

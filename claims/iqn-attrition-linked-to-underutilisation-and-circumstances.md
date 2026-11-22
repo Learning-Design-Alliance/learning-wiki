@@ -68,3 +68,4 @@ Managers described proactive support networks, mentorship and institutional plan
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [Most recruiting managers (34/37; 91.9%) believe IQNs' specialty skills can be effectively transferred to the Australian healthcare context with appropriate support and time](managers-believe-iqn-specialty-skills-transferable-with-support.md) — related
 - [Uncertainty about overseas training quality and bias or mistrust of international qualifications are key barriers to IQN specialty skill transfer](uncertainty-and-bias-barriers-iqn-skill-transfer.md) — related
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](family-recognition-mitigates-formal-misrecognition.md) — related

@@ -112,3 +112,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge and confidence gains persisted above pre-program levels at the fall 2018 subsequent assessment](mipep-gains-persist-subsequent-assessment.md) — related
 - [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](python-skill-retention-three-month-break.md) — related
 - [Understanding declined from immediately after the collaborative exam to the end-of-semester post-understanding self-reflection but remained significantly higher than after the individual exam, in one group with no comparison group](post-review-understanding-retention.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

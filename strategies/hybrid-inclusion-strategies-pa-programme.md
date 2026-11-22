@@ -47,6 +47,7 @@ Participants proposed implementable practices to counter isolation in hybrid del
 
 - [Learning Students Names](learning-students-names.md)
 - [Optional campus workshop during semester break to address missing physical interaction and group interaction](optional-campus-workshop-semester-break.md)
+- [Balance online delivery with maximised face-to-face engagement across a distributed multi-campus programme](online-lecture-face-to-face-campus-balance.md)
 
 ## Examples
 -

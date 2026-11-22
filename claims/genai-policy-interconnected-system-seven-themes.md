@@ -55,3 +55,4 @@ Thematic analysis of the same cohort's policy artifacts and discussions, reporte
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Students articulate context-dependent ethical decision-making about AI rather than a permissible/impermissible binary](ai-ethical-complexity-context-dependent.md) — related
+- [Course-by-course and per-instructor GenAI decision-making produces mixed messages for students and fragmented expectations across a program](per-course-genai-decisions-fragmented-expectations.md) — related

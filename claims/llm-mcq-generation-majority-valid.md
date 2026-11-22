@@ -53,3 +53,4 @@ Systematic review of eight studies published April–October 2023, searched in M
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — related
 - [All eight AI models scored above 75% overall and above 70% in each rating category for ethics MCQ generation](all-eight-models-above-75-percent-ethics-mcqs.md) — related
 - [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — a narrower finding that bears on this claim
+- [89% of LLM-generated isomorphic MCQs were rated fully specified and solvable as written, usable without expert revision](llm-isomorphic-mcq-89-percent-directly-usable.md) — a narrower finding that bears on this claim

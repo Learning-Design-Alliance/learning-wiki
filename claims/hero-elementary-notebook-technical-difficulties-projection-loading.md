@@ -56,3 +56,4 @@ Teacher report on notebook implementation in the in-school implementation findin
 - [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
 - [Ash and Jaspen studied the effects of viewing angle, screen distance, and room illumination on learning with a rear-projection daylight screen](viewing-conditions-rear-projection-study.md) — related
+- [Fifty-two of 169 entrants exited during camera setup, mostly citing camera connection or stable-view difficulties](camera-setup-exits-52-of-169.md) — related

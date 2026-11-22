@@ -57,3 +57,4 @@ Descriptive subscale results from the same pilot (N = 22). Engagement (Cronbach'
 - [Students in a hybrid flipped medical terminology course rated all positive intrinsic motivation dimensions significantly above the neutral midpoint, with perceived tension significantly below it](positive-imi-hybrid-flipped-medical-terminology.md) — related
 - [Mean ratings for game length, difficulty, and gameplay cluster near the ideal midpoint, which the authors interpret as a balanced design](nicu-serious-game-balanced-design-ratings.md) — related
 - [Students in an immersive flipped online course reported high engagement, with all 25 survey items rated significantly above the scale midpoint](immersive-flipped-course-high-engagement-survey.md) — related
+- [Post-engagement problem-solving self-confidence clustered above the scale midpoint, with no responses below 5](pair-post-engagement-confidence-above-midpoint.md) — related

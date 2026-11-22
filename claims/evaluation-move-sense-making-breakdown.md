@@ -51,3 +51,4 @@ Interview excerpt from the evaluation move of the case study at timestamp 15:40.
 - [Another student (Alex) used the velocity equation as a computational tool, calculating final velocities rather than integrating conceptual reasoning with the equation](alex-computational-tool-equation-use.md) — related
 - [A student’s belief that intuition need not be reconciled with mathematical formalism may have prevented her from checking representational consistency](epistemological-beliefs-block-consistency-check.md) — related
 - [Interviewed faculty flexibly moved between conceptual and quantitative reasoning, checking intuition with approximations, estimations and calculations](faculty-flexible-conceptual-quantitative-reasoning.md) — related
+- [Thematic analysis found the simulation supported scientific, quantitative reasoning aligned with formal physics representations](simulation-supports-scientific-reasoning.md) — related

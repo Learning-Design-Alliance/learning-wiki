@@ -48,3 +48,4 @@ Qualitative study of 14 student teams' discussion transcripts and written report
 - [Student teams need structured support for assessing design limitations, feasibility studies, systematic physics-mathematics application, and metacognitive reflection](structured-support-design-limits-metacognition.md) — related
 - [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related
 - [The sequence of creative problem solving processes varied across students, with most students showing non-linear, iterative ordering](cps-process-sequences-varied-nonlinear.md) — related
+- [Integrative thinking in engineering design-based physics essays can be operationalized as three levels of depth: superficial, intermediate, and substantial](three-level-integrative-thinking-rubric-cpde.md) — related

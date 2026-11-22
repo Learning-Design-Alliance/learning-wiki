@@ -51,3 +51,4 @@ Unannounced voluntary follow-up test taken by 106 of the 109 students eight days
 - [PICU staff's minimum competency scores fell at 3-month and 12-month follow-up assessments compared with post-baseline scores after high flow training, in one single-group pre-post study](highflow-retention-loss-3-12-months.md) — a broader claim this one bears on
 - [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — a broader claim this one bears on
 - [Lung isolation insertion time increased from post-test to 2-month follow-up in one group with no comparison group](lung-isolation-insertion-time-decay-two-months.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

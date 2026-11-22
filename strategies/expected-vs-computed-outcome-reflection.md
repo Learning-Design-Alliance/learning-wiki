@@ -47,6 +47,7 @@ The article recommends using the gap between prediction and evaluation as a lear
 - Endless Fun Evaluation Software
 - [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Extend the Gate of Fate to spatial targeting games and role-playing games where antagonists respond to players' quantum reflexes](gof-extensions-rpg-targeting-strategy.md)
 
 ## Examples
 -

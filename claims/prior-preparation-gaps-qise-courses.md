@@ -67,3 +67,4 @@ PH2 on the same course: despite working linear algebra on the board and assignin
 ## Related Claims
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
 - [Advanced mathematical prerequisites, especially linear algebra, are the main barrier to entry in introductory quantum information courses](linear-algebra-prerequisite-barrier-quantum-courses.md) — related
+- [High-school students rate their misty-states-based quantum learning experience higher (8.6/10) than their Quantum Flytrap experience (7.4/10)](hs-students-rate-misty-states-above-quantum-flytrap.md) — related

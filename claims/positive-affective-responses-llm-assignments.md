@@ -74,3 +74,4 @@ After the fifth assignment, ratings remained positive: useful (x̄ = 2.48), chal
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related
+- [Post-engagement problem-solving self-confidence clustered above the scale midpoint, with no responses below 5](pair-post-engagement-confidence-above-midpoint.md) — related

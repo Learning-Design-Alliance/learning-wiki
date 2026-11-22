@@ -52,3 +52,4 @@ Post-interview discussion with Sarah, who wrote a non-zero expression despite qu
 - [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — related
 - [Judy's epistemological view of a real/ideal gulf was context-dependent: present when discussing conceptual problems, absent during equation-based problem-solving](context-dependent-real-ideal-gulf-view.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
+- [Thematic analysis found the simulation supported scientific, quantitative reasoning aligned with formal physics representations](simulation-supports-scientific-reasoning.md) — related

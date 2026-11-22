@@ -26,7 +26,8 @@ An open-source modular software-training curriculum created by the HEP Software 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Run 3 Starterkit Lessons](run-3-starterkit-lessons.md)
 
 ## Key Sources
 - Michel H. Villanueva, Sudhir Malik, Meirin Oan Evans. (2022). Software Training in High Energy Physics. https://arxiv.org/abs/2203.04775

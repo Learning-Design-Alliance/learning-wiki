@@ -49,3 +49,4 @@ Worked-example analysis in Section 2.3.1 applying the Exercises-CLO and CLO-PLO 
 - [ITU-CLO analysis of delivered teaching units identifies CLO4 as underemphasized relative to its intended weight](itu-clo-clo4-underemphasis.md) — related
 - [Student-performance analysis shows five of six CLOs meet the 80% achievement threshold, with CLO4 at 78% flagged for adjustment](isp-clo-clo4-below-80-percent-threshold.md) — related
 - [ITU-PLO indicators show adequate alignment between intended and delivered emphasis across all six PLOs](itu-plo-adequate-alignment-all-plos.md) — related
+- [The shared college core alone covers only about a third of demanded competency breadth, leaving applied domains nearly uncovered](shared-core-partial-demand-coverage.md) — related

@@ -68,3 +68,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
 - [Most blended learning participants were satisfied with online materials, but few interacted with other students' online postings](bl-satisfaction-high-online-interaction-low.md) — related
 - [In class surveys, 93% of students agreed the iOLab-based lab was useful to their learning and 90% indicated the iOLab was easy to use.](iolab-lab-student-survey-usefulness-ease.md) — related
+- [Students valued combining digital and conventional resources, with 19 of 21 strongly agreeing the combination enriched their learning experience](digital-conventional-resource-combination-valued.md) — related

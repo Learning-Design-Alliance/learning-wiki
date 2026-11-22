@@ -46,3 +46,4 @@ The review's stated contribution: noting that "no conceptual frameworks have bee
 
 ## Related Claims
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [The QLP is a conceptual proposal whose effectiveness requires future empirical evaluation](qlp-requires-empirical-evaluation.md) — related

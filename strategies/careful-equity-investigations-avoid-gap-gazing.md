@@ -49,6 +49,7 @@ The article recommends that education researchers examine whether their reforms 
 ## Related Strategies
 
 - [Consider sources of within-group variance when comparing performance between groups of students](consider-within-group-variance-in-gap-analyses.md)
+- [Until more gender-representative research exists, identity-based equity efforts should purposefully consider feminist frameworks in STEM](feminist-stem-frameworks-for-identity-efforts.md)
 
 ## Examples
 -

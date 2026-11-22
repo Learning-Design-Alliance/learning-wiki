@@ -51,3 +51,5 @@ The review's evidence-gaps section (RQ6) states that "Priorities include longitu
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs](llm-fallacy-empirical-validation-agenda.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
+- [The framework carries stated limitations: no empirical evidence yet and an equity risk from elaborate natural-language prompting](epistemic-prompting-limitations-equity.md) — a narrower finding that bears on this claim
+- [The authors report that empirical effectiveness data for the Gudeg-based model are not yet available](gudeg-model-effectiveness-data-missing.md) — a narrower finding that bears on this claim

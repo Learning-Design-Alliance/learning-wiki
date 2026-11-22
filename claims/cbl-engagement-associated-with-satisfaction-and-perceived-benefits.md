@@ -85,3 +85,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related
 - [Students reported learning ways of thinking, learning by doing projects, and requirements for success from the experimental project](project-lab-described-learning.md) — related
 - [Integrating physics into pharmacy education can significantly enhance students' problem-solving and analytical skills](physics-integration-enhances-pharmacy-student-analytical-skills.md) — related
+- [Prior AI experience was associated with more favorable learning-related perceptions after P-A.I.R. engagement](pair-prior-ai-experience-moderators.md) — related

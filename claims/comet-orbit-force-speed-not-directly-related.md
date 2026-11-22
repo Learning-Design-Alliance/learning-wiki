@@ -48,3 +48,4 @@ Reported outcome of enacting-planet sequences tested since 2015: via the comet's
 - [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — a broader claim this one bears on
 - [A three-year experiment with 16-year-old students revealed enhanced understanding of kinematics concepts, though the reported effect on learning was marginal](human-orrery-enhanced-kinematics-understanding-marginal-effect.md) — related
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
+- [Gravitas's connected observing panels let students encounter selection effects and degeneracies through controlled experiments](observing-panels-selection-effects-experiments.md) — related

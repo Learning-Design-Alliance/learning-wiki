@@ -47,3 +47,4 @@ Observation from the think-aloud lab session of Anwar and Ori at the start of th
 ## Related Claims
 - [Students working with single-photon interferometer experiments activate prior knowledge of classical wave interference when first reasoning about single-photon interference and later explaining the quantum eraser](classical-wave-interference-resources-single-photon-labs.md) — related
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — a broader claim this one bears on
+- [Students without physics majors produced an alternative Elitzur-Vaidman solution using polarizing beam splitters, and learners across levels enjoyed working with Quantum Flytrap](non-physics-students-solve-elitzur-vaidman-flytrap.md) — related

@@ -48,3 +48,4 @@ Self-reported survey data from 125 medical students responding to a structured o
 - [Students report improved visual pattern recognition of histological structures after using an educational Instagram account](histo-embryo-instagram-improves-visual-pattern-recognition.md) — a narrower finding that bears on this claim
 - [Students integrate educational Instagram content into self-regulated learning strategies including rapid revision, self-assessment, and consolidation](histo-embryo-instagram-supports-self-regulated-learning.md) — related
 - [Visible interaction rates on an educational Instagram account remain modest relative to total reach, suggesting primarily passive engagement](histo-embryo-passive-engagement-model.md) — related
+- [Nearly all surveyed students reported some degree of perceived conceptual improvement after engaging with the P-A.I.R. framework](pair-perceived-conceptual-improvement.md) — related

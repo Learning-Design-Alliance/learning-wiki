@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (38 for, 28 mixed, 4 against) · 62 studies (34 causal, 12 review, 7 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 62 report an effect size · 64 claims rest on one study
+> **Evidence** · 71 claims (39 for, 28 mixed, 4 against) · 63 studies (35 causal, 12 review, 7 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](../claims/compound-representations-built-by-coordinating-resources.md) [+W] — attached 2026-11-18 from Nandana Weliweriya et al. (2018), which proposed "Design problem-solving tasks so students strategically combine multiple semiotic resources rather than choose between researcher-provided representations".
 - [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](../claims/disciplinary-affordances-can-hinder-other-resources.md) [~W] — attached 2026-11-18 from Nandana Weliweriya et al. (2018), which proposed "Design problem-solving tasks so students strategically combine multiple semiotic resources rather than choose between researcher-provided representations".
 - [The multirepresentational exercise relating centered and conventional unit vectors achieves superior outcomes for interpreting centered unit vector representations](../claims/multirepresentational-exercise-superior-centered-vectors.md) [+M] — attached 2026-11-20 from Christoph Hoyer (2024), which proposed "Teach vector representations by contrasting centered and conventional unit vectors and explaining how to translate between them"; tests this page's relationship.
+- [Students perceived the game and simulation as serving distinct but complementary roles in their learning](../claims/game-simulation-complementary-roles.md) [+W] — attached 2026-11-21 from Koushiki Pohit et al. (2016), which proposed "Game-then-simulation or simulation-then-game integration: one modality primes deeper engagement with the other".
 
 ## Objective and learner-valued goal
 

@@ -69,3 +69,4 @@ Numerical comparison for exemplar items including items 22 and 34 in Table I. Th
 - [Ranking discrepancies may result from response rates for less commonly chosen responses, whose parameters are more sensitive to individual students](rare-response-rates-explain-ranking-discrepancies.md) — related
 - [Filtering rankings to responses chosen by at least 1% of the population reduces ambiguous rankings, suggesting ambiguities come from rarely chosen responses](filtering-rare-responses-reduces-ranking-ambiguity.md) — related
 - [Rankings of incorrect responses appear stable across instruction, and students shift toward the highest-ranked incorrect response after instruction](rankings-stable-across-instruction.md) — related
+- [Item-level D̄ rankings are stable across two independently collected cohorts (Spearman's ρ = 0.78) and essentially uncorrelated with item difficulty (r = −0.12 and r = 0.10)](dbar-stable-uncorrelated-with-pk.md) — related

@@ -57,6 +57,8 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
 - [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](incremental-testing-confirmatory-exploratory.md)
+- [Three deployment modes for a single-meeting quantum module: full, compressed, and flipped](three-deployment-modes-quantum-module.md)
+- [Three-step quick-start process for educators adopting the NuPaD methodology](nupad-three-step-educator-quickstart.md)
 
 ## Examples
 -

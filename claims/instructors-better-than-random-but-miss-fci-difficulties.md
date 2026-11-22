@@ -55,3 +55,4 @@ Study of 30 physics instructors at a large US research university who took the F
 - [Graduate students' identification of introductory students' alternate conceptions on the FCI rose from the individual task to group discussion in one group with no comparison group](group-discussion-improves-pck.md) — related
 - [American, Chinese and other foreign graduate students showed comparable PCK performance at identifying introductory student difficulties](us-familiarity-not-related-to-gs-pck-tugk.md) — related
 - [Recent teaching experience in introductory mechanics does not correlate with instructors' ability to identify students' alternate conceptions on the FCI](teaching-experience-not-correlated-fci-pck.md) — related
+- [Prior studies using the same method found TAs' knowledge of alternate conceptions is context dependent and that TAs struggled more with the CSEM than the FCI or TUG-K](prior-ta-pck-studies-context-dependence-csem.md) — related

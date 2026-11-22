@@ -51,3 +51,4 @@ The review's secondary outcome analysis of costs found "substantiate time effort
 - [Rating transcripts took significantly less time than rating videos (mean 12 vs 73 minutes).](transcript-rating-faster-than-video-rating.md) — related
 - [Video-based feedback sessions run substantially longer than direct observation feedback sessions (26.2 vs. 13.5 minutes)](video-feedback-sessions-longer-than-direct-observation.md) — related
 - [Students and tutors perceived that video slowed the pace of PBL sessions, with some estimating roughly 30 extra minutes](vp-pbl-video-slows-pace.md) — related
+- [Reported video durations ranged from 0.08 to 30 minutes with no consistently applied threshold, and indexed descriptions most often foregrounded intended users, educational uses, learning content and interactivity](duration-no-stable-threshold.md) — related

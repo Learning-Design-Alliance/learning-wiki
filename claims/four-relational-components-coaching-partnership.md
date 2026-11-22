@@ -62,3 +62,5 @@ Requisite Relationship Components section: focus group data showed coaches empha
 - [All eight participants reported positive experiences and a new appreciation for inclusive education practices.](ipd-participants-positive-experiences.md) — related
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
 - [Residents and allied healthcare professionals expressed interest in bi-directional, two-way feedback as a valued feature of a multisource feedback program](msf-bidirectional-feedback-interest.md) — related
+- [Freelance game coaches without shared formal training converge on a common session workflow of rapport building, assessment, gameplay observation, diagnosis, targeted feedback, and a closing summary](coach-session-structure-convergence.md) — related
+- [Coaches position personalized, relationship-centered instruction as their primary value over freely available online content](personalized-coaching-value-over-free-content.md) — related

@@ -152,9 +152,11 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)
 
 ## Examples
+
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.
 - [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 - [Mastery Learning](../strategies/mastery-learning.md)
+- [Mastery-oriented online-judge problem sets with a breadth gate](../designs/mastery-online-judge-sets-breadth-gate.md)
 
 ## Key Sources
 - Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), *Mastery learning: Theory and practice*. Holt, Rinehart and Winston.

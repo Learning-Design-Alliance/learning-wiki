@@ -48,3 +48,4 @@ Analysis of student responses to open-ended exam and pre-test questions after le
 ## Related Claims
 - [Pairing classical and quantum error-correction levels confronts players with the no-cloning difference between bits and qubits](contrastive-error-correction-levels-no-cloning.md) — related
 - [Students perform well (85%+) after lecture alone on basic Born rule probability calculations and identifying possible states, suggesting lecture is sufficient for some foundational concepts](lecture-sufficient-for-some-quantum-basics.md) — related
+- [In the Intro2QC programming tutorial, students implementing Hadamard gates on each qubit of an N-qubit circuit observe measurement outputs forming a fairly uniform distribution of all 2N classical bitstrings](hadamard-uniform-bitstring-distribution.md) — related

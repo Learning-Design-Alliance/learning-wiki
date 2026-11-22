@@ -27,6 +27,7 @@ A European Space Agency competition in which secondary-school teams design, buil
 ## Related Products and Programmes
 
 - [Swift public-facing web resources: GRB Skymap site, GRB Lotto game, and Epo's Chronicles weekly webcomic](swift-public-facing-web-resources-grb-skymap-site-grb-lotto-game-and-epos-chronicles-weekl.md)
+- [RockSat-C](rocksat-c.md)
 
 ## Key Sources
 - Giovanni Bindi. (2017). Improving physics with CanSat. https://arxiv.org/abs/1701.03085

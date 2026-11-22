@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (46 show a difference, 16 mixed, 19 no difference) · 51 studies (25 causal, 10 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 51 report an effect size · 80 claims rest on one study
+> **Evidence** · 83 claims (46 show a difference, 17 mixed, 20 no difference) · 52 studies (26 causal, 10 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 52 report an effect size · 82 claims rest on one study
 
 ## Bottom line
 
@@ -119,6 +119,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [No single MBTI preference combination is best: each learning style has strengths and weaknesses, challenging the reduction of learning potential to a single dimension such as intelligence](../claims/no-best-learning-style-combination.md) [~W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Learners' divergent learning preferences and cognitive styles shaped their evaluations of adaptive versus structured AI tutor styles](../claims/ai-tutor-style-learning-preference-divergence.md) [+M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Video preference correlated positively with total academic scores and especially with the oral presentation component](../claims/video-preference-positive-correlation-scores.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Aligning instructional modality with learner-stated VARK preference does not significantly improve short-term learning gains](../claims/preference-alignment-no-significant-learning-gains.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Exploratory subgroup analyses suggest modality-matched Visual and Kinesthetic learners showed marginal, uncorrected performance improvements](../claims/modality-matched-subgroup-marginal-improvements.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

@@ -72,3 +72,4 @@ Item-test correlation analysis using Pearson correlation of each question with t
 - [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related
 - [The CURrENT shows substantial discriminatory power (Ferguson's δ=0.99) and acceptable item-test correlations](current-discrimination-delta-0-99.md) — possibly the same claim (merge candidate)
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

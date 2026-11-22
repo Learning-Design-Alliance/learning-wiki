@@ -57,3 +57,4 @@ human graders."
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
 - [GPT-4o grades students' written explanations on EMCS conceptual physics questions with accuracy comparable to a human grader (0-3% discrepancy, mean Cohen's kappa 0.77)](gpt4o-grades-written-physics-explanations-comparable-to-human-graders.md) — a broader claim this one bears on
 - [An LLM grader using a four-level explanation-quality rubric achieved substantial agreement with human consensus scores (quadratic-weighted κ=0.78).](llm-grader-substantial-agreement-human-consensus.md) — related
+- [The GPT-4o mini event classifier agrees with domain experts at almost-perfect pairwise levels (κ = 0.841–0.855), reducing multi-rater Fleiss κ only marginally (0.682 to 0.624)](llm-event-classifier-expert-agreement.md) — related

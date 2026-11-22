@@ -47,3 +47,4 @@ Main results comparison (Table 2, Section 4.2) among training-free rows on the D
 - [TEI@N inference-time selection raises the improvement rate on pre-incorrect math scenarios from 59.0% to 81.9% at N=8 over Greedy on a frozen DeepSeek-R1-8B base](tei-selection-raises-improvement-rate-pre-incorrect.md) — related
 - [TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model](tei4-selects-deliberation-rich-candidates.md) — related
 - [Enabling internal thinking dramatically improves LLM tutor performance in simulated mathematics tutoring (+134% Delta Solve Rate, +306% Helpful Rate)](thinking-capability-improves-llm-tutoring.md) — related
+- [Withholding failures of a capable LLM tutor form a descending over-help ladder, from blatant solution leaks to naming the exact bug to over-citing general facts](over-help-ladder-gross-to-subtle.md) — related

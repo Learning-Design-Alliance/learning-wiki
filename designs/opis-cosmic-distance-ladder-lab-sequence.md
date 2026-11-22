@@ -44,7 +44,9 @@ OPIS! is a series of eight interconnected labs for non-majors and potential majo
 - [Skynet Observing Significant Stem Attitude Improvement](../claims/skynet-observing-significant-stem-attitude-improvement.md) [+M]
 
 ## Related Designs
+
 - [Skynet Robotic Telescope Network](../products/skynet-robotic-telescope-network.md)
+- [Eight-laboratory 5E-informed image-to-evidence sequence for introductory Solar System astronomy](seestar-s50-eight-lab-sequence.md)
 
 ## Examples
 -

@@ -51,4 +51,4 @@ A research-based guided inquiry tutorial for upper-level E&M on the method of im
 -
 
 ## Key Sources
-- Kashyap, J. S., Devaty, R. P. and Singh, C. (2026). Instructor Framing and Incentives Shape Physics Students' Engagement and Learning Gains from an Inquiry-Based Electrostatics Tutorial on the Method of Images.
+- Kashyap, J. S., Devaty, R. P. and Singh, C. (2026). Instructor Framing and Incentives Shape Physics Students' Engagement and Learning Gains from an Inquiry-Based Electrostatics Tutorial on the Method of Images. [doi:10.3390/educsci16040594](https://doi.org/10.3390/educsci16040594)

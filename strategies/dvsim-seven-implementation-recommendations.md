@@ -53,6 +53,7 @@ Based on the study's findings, the authors give educators seven recommendations:
 - [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
 - [Motivate students and lower access barriers when integrating voluntary virtual patients into a course](motivate-students-voluntary-vp-integration.md)
 - [Use MVW-CPR team training as pre-training before, or repetitive training after, conventional CPR courses](mvw-cpr-pretraining-before-conventional-courses-strategy.md)
+- [Adoption can begin with one class meeting: tiered classroom-use patterns from prediction demo to independent project](gravitas-tiered-classroom-adoption.md)
 
 ## Examples
 -

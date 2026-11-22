@@ -56,4 +56,4 @@ The article recommends that universities supply structured, student-facing guida
 -
 
 ## Key Sources
-- Potasznik, Amanda, and Daniel Haehn. (2026). Measuring Changes in Instructor Class Design and Student Learning After the Release of Large Language Models (LLMs). 19th International Conference on e-Learning & Innovative Pedagogies. https://arxiv.org/abs/2605.16284
+- Potasznik, Amanda, and Daniel Haehn. (2026). Measuring Changes in Instructor Class Design and Student Learning After the Release of Large Language Models (LLMs). 19th International Conference on e-Learning & Innovative Pedagogies. https://arxiv.org/abs/2605.16284. [doi:10.48550/arxiv.2605.16284](https://doi.org/10.48550/arxiv.2605.16284)

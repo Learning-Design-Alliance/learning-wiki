@@ -41,7 +41,8 @@ A computational essay is "a type of essay or report that explicitly incorporates
 - [Computational Essay Creative Freedom Motivating](../claims/computational-essay-creative-freedom-motivating.md) [+M]
 
 ## Related Designs
-- 
+
+- [Computational Letter writing assignment in a Jupyter notebook addressed to an external reader](computational-letter-jupyter-assignment.md)
 
 ## Examples
 -

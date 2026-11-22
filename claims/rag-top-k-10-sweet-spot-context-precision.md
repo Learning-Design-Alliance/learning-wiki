@@ -53,3 +53,4 @@ Retrieval-setting experiments within the RAGAS evaluation of the system's pipeli
 - [NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion](ncert-tailored-rag-improves-retrieval-precision.md) — related
 - [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
 - [Superfluous everyday details in a problem prompt distract ChatGPT-4 and degrade the physics quality of its responses](superfluous-context-degrades-chatgpt4-physics-responses.md) — a narrower finding that bears on this claim
+- [Initial retrieval ranking in CARES was weak, with a pooled Retrieval Precision Proxy@4 of 0.17](cares-retrieval-precision-proxy-017.md) — related

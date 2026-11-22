@@ -50,3 +50,4 @@ Classical test theory item analysis of posttest responses from the treatment gro
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — a broader claim this one bears on
 - [Transfer effects are context-dependent: task-based and self-narrative indicators show ceiling effects or limited group differences, while behavioral-interaction measures discriminate more strongly](transfer-context-dependence-measurement.md) — related
+- [The module improved high-prior-knowledge learners' efficiency (SCORE/TIME) in answering questions correctly from pre-test to post-test](score-time-efficiency-improved-pre-to-post.md) — related

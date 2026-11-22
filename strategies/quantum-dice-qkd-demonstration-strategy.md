@@ -45,6 +45,7 @@ The Dice support simplified quantum key distribution protocols. With a single di
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [BB84 classroom activity with eavesdropper roles and a security test on part of the key](bb84-classroom-eavesdropping-activity.md)
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
+- [Schrödinger's cat and EPR paradox plush toy demonstrations for superposition and entanglement](schrodinger-cat-epr-plush-toy-demos.md)
 
 ## Examples
 -

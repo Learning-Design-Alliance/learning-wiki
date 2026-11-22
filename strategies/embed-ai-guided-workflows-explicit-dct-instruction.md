@@ -57,6 +57,7 @@ The article's three practical implications for AI-supported writing instruction.
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
 - [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
+- [Accompany GAI-supported collaborative problem-solving with explicit scaffolds prompting students to examine, compare, and justify AI-generated evidence](scaffold-critical-evaluation-of-gai-outputs.md)
 
 ## Examples
 -

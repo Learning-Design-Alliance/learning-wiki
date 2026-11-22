@@ -60,3 +60,4 @@ The article reports, citing Ravenscroft (2011), that "thinking in networks will 
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related
 - From a neo-Vygotskian perspective, research data are social constructs produced by the relationship of researcher, participants, context, and means of data collection — related
 - [Included studies grounded their learning environments in diverse learning theories, and the review argues no single theory suffices](diverse-learning-theories-complementary-use.md) — related
+- [Participants in the connectivist activity predominantly agreed that connectivism is suitable for collaborative digital learning and that WhatsApp discussions helped them understand physics concepts](student-perceptions-connectivist-activity-favourable.md) — a narrower finding that bears on this claim

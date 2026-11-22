@@ -64,3 +64,4 @@ Adversarial payloads appended to 50 real answers from a public, teacher-graded c
 - [Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test](multi-layer-beats-regex-only-bypass.md) — a broader claim this one bears on
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
 - [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](prompt-injection-attacks-bypass-user-literacy.md) — related
+- [In the first full round on version 8, routing, summary-line consistency, and the own-example question were each correct in 5 of 5 runs, and all three prompt-injection attempts were refused](structural-reliability-five-of-five.md) — related

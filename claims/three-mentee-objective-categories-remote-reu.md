@@ -51,3 +51,4 @@ Phenomenographic analysis of mentee interviews across the REU program identified
 - [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
 - [Positive class experiences and experimental opportunities significantly impacted undergraduate physics students' interest in different subfields of physics](class-and-research-experiences-shape-physics-subfield-interest.md) — related
 - [Proximal environmental influences — expert, institutional, field, and global factors — affect physics students' subfield interest and choices](proximal-environmental-influences-physics-subfield-interest.md) — related
+- [Students also valued coursework for exploring physics subfields and building general skills, while noting gaps in research preparation](coursework-subfield-exploration-general-skills.md) — related

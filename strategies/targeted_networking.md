@@ -65,6 +65,7 @@ Network research shows that valuable resources — information, referrals, spons
 - Participating in professional conferences — a venue where targeted preparation (identifying attendees in advance) dramatically raises yield
 - [Connect learners with external collaborators](connect-external-collaborators.md)
 - [Offer trainees feedback-seeking opportunities with people who can serve as coaches aligned to their career aspirations](feedback-seeking-coaching-alignment-strategy.md)
+- [Six defined roles and responsibilities for an early-career special interest group](nesig-six-roles-responsibilities.md)
 
 ## Examples
 - **Research lab rotation programs** (e.g., undergraduate research placements such as [NSF REU](https://www.nsf.gov/funding/opportunities/reu)) — students build durable ties with faculty and peers through high-stakes shared research rather than casual contact.

@@ -54,3 +54,4 @@ Two sequential demonstration settings: an in-depth activity with pre-service tea
 - [Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor](contingent-tutor-frustration-between-baselines.md) — related
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
 - [A role-engineered Gemini Gem engages students in Socratic dialogue where a standard, non-customized Gemini model provides the complete solution directly](role-engineered-gem-socratic-vs-standard-gemini.md) — related
+- [Informal student observations suggest withholding standard formulas shifted attention to graphical structure, but the article reports no controlled learning-outcome evidence](rc-black-box-informal-student-observations.md) — related

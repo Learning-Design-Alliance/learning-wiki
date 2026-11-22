@@ -48,3 +48,4 @@ Inductive thematic analysis of mandatory self-explanation responses collected af
 - [GPP training leads to significantly more backward reasoning attempts on posttest problems](gpp-increases-backward-attempts.md) — related
 - [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](gpp-prior-knowledge-moderation.md) — related
 - [Qualitative interviews identified six themes contextualizing the quantitative patterns, including self-efficacy repair, reduced evaluative threat, and residual planning difficulty.](qualitative-themes-personalized-vocabulary-learning.md) — related
+- [Qualitative themes credited P-A.I.R. with conceptual clarification, structured problem decomposition, metacognitive prompt-crafting, and autonomous practice generation](pair-qualitative-benefit-themes.md) — related

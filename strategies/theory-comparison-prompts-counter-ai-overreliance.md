@@ -54,6 +54,7 @@ During DBR refinement, when students "relied heavily on AI-generated responses a
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 - [Add introductory Colabs for standard EDA tools and peer evaluation before GenAI tasks](introductory-eda-colabs-peer-evaluation-strategy.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
 
 ## Examples
 -

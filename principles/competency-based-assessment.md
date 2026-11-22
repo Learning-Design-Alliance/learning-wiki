@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (36 for, 38 mixed, 2 against) · 74 studies (20 design, 15 causal, 13 associational, 11 review, 10 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 74 report an effect size · 71 claims rest on one study
+> **Evidence** · 77 claims (37 for, 38 mixed, 2 against) · 75 studies (21 design, 15 causal, 13 associational, 11 review, 10 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 75 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [An error-focused checklist is substantially more accurate than a conventional checklist at identifying procedural incompetence in lumbar puncture performances](../claims/error-focused-checklist-identifies-incompetence-lp.md) [+W] — attached 2026-11-09 from Ma Irene W Y et al. (2015), which proposed "Match the assessment tool to the assessment purpose: use error-focused checklists when the goal is identifying incompetence"; tests this page's relationship.
 - [A conventional checklist is more accurate than an error-focused checklist at identifying procedural competence](../claims/conventional-checklist-identifies-competence-lp.md) [+W] — attached 2026-11-09 from Ma Irene W Y et al. (2015), which proposed "Match the assessment tool to the assessment purpose: use error-focused checklists when the goal is identifying incompetence"; tests this page's relationship.
 - [Reaching L2 proficiency — delivering a complete handoff-ready artifact that another role can use without oral rescue — is the threshold that usually determines whether a handoff is safe](../claims/l2-handoff-ready-artifact-threshold.md) [+W] — attached 2026-11-21 from Ingrid Torres et al. (2026), which proposed "Assess programs and gate reviews with a fixed artifact-based rubric and outcome metrics rather than impressions".
+- [The X1-X2-X3 structure made GenAI use visible and assessable as part of the assessed performance itself](../claims/x123-made-ai-use-visible-assessable.md) [+W] — attached 2026-11-21 from Riasat Islam et al. (2026), which proposed "Credit students for transparent tool use, disciplinary revision, and evaluative judgement rather than for producing a plausible answer".
 
 ## Objective and learner-valued goal
 

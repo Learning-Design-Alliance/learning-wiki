@@ -66,6 +66,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 - [Add introductory Colabs for standard EDA tools and peer evaluation before GenAI tasks](introductory-eda-colabs-peer-evaluation-strategy.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
 
 ## Examples
 -

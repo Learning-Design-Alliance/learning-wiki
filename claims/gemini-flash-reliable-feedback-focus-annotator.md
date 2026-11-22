@@ -52,3 +52,4 @@ Validation study of LLM-based annotation of feedback focus types, using a 100-in
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
+- [A three-system human pilot (n=30) validates the VLM learner proxy: significant human posttest gain, 85.7% directional agreement, and perfect cross-system ranking consistency](slate-vlm-proxy-human-pilot-validation.md) — related

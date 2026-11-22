@@ -49,3 +49,4 @@ Narrative synthesis in the discussion, drawing on cited studies (Leasa 2014; Saa
 - [Visual perception dominates multimodal sensory design (98.7%), with auditory (39.7%), kinesthetic (29.5%), tactile (19.2%), and olfactory (1.3%) far less common](visual-perception-dominates-sensory-design.md) — related
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md) — related
 - [Visual learning styles are dominant among surveyed physics students, reaching 53.06% at SHS A](visual-learning-style-dominant-physics-survey.md) — a narrower finding that bears on this claim
+- [In this Informatics sample, Kinesthetic was the predominant VARK preference (72.97%), reflecting disciplinary context](kinesthetic-predominant-vark-informatics-sample.md) — related

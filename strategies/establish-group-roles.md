@@ -89,6 +89,8 @@ Role assignment converts loose cooperation into structured collaboration, which 
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
 - [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
+- [Six defined roles and responsibilities for an early-career special interest group](nesig-six-roles-responsibilities.md)
+- [Rotate defined group roles around a single shared telescope, including a skeptic-checker role](telescope-role-rotation-skeptic-checker.md)
 
 ## Examples
 - **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi

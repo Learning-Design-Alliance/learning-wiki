@@ -20,6 +20,7 @@ The article supplies the theoretical basis for using its discrimination index as
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Discrimination-index rationale for Q-matrix validation grounded in mathematical proofs of lemmas and a theorem**: The article supplies the theoretical basis for using its discrimination index as the foundation of a Q-matrix validation method. The abstract states: "The rationale for using the index as the basis for a proposed validation method is provided in the form of mathematical proofs to several relevant lemmas and a theorem." The index is defined for CDMs subsumed by the generalized DINA model, so the framework is general rather than tied to one specific CDM. (Jimmy de la Torre et al. (2016))
+- **Three-skill FCI Q-matrix: apply vectors, conceptual relationships, visualizations**: The study codes all 30 FCI items against three skills for its G-DINA Q-matrix: "the skills are defined as: apply vectors (k1); conceptual relationships (k2); visual relationships (k3)". Apply vectors covers manipulating vectors in more than one dimension or 1-D sign changes; visualizations covers formal visualizations such as xy plots, bar plots, or line graphs. The coding broadly agrees with Le et al. (2025) except for items 19, 26, and 27. (Wade Naylor et al. (2026))
 
 ### Claims
 - [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](../claims/discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) [+M]
@@ -29,3 +30,4 @@ The article supplies the theoretical basis for using its discrimination index as
 
 ## Key Sources
 - Jimmy de la Torre and Chia-Yi Chiu. (2016). A General Method of Empirical Q-matrix Validation. Psychometrika, Volume 81, Issue 2, June 2016. https://doi.org/10.1007/s11336-015-9467-8
+- Wade Naylor, Raheeq Tahir, Alan S. Cornell, and Xuelan Qiu. (2026). The Force Concept Inventory Across Continents: Testing Q-Matrix Transferability and Cross-Cultural Differences in Mechanics Reasoning. arXiv preprint. https://arxiv.org/abs/2609.12869

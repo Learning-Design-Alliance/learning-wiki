@@ -66,3 +66,4 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Students rated the course and its feedback highly, and most felt expectations were fulfilled](high-satisfaction-and-constructive-feedback-ratings.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
 - [Most student participants are extremely willing to use pedagogical prompts in future learning, though a minority express reluctance](student-willingness-to-use-pedagogical-prompts.md) — related
+- [Most respondents intended to keep using P-A.I.R. and would recommend it to peers, and the two intentions were positively associated](pair-adoption-reuse-recommendation.md) — related

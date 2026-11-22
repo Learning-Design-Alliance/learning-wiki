@@ -42,6 +42,7 @@ The article recommends that because students in agent-enriched contexts engage i
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 - [Pair perceptual scaffolding (checklists) with clinical-integration tasks to close the perception-to-diagnosis gap](pair-checklists-with-integration-tasks.md)
 - [Use structured discussion, argumentation tasks, and guided reflection to bridge AI perception and computational reasoning](structured-discussion-argumentation-ai-literacy.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
 
 ## Examples
 -

@@ -42,7 +42,8 @@ A variant of the project assigns each group a randomly chosen, predefined eavesd
 - [Common student missteps cluster around protocol obfuscation, check-bit sampling, and parameter tuning](../claims/qkd-project-common-missteps.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement the eavesdropper as a quarter-wave plate in a mount visually identical to Alice's and Bob's to keep its presence ambiguous](ambiguous-eavesdropper-quarter-wave-plate.md)
 
 ## Examples
 -

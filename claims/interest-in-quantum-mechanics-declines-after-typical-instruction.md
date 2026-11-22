@@ -55,3 +55,4 @@ Comparative survey analysis of pre- and post-instruction student responses acros
 - [After the visit, students describe learning quantum physics as more useful, interesting or important, and almost none become more negative](learning-quantum-valued-more-positively-after-visit.md) — reports the opposite
 - [A two-part unit on representation in STEM in Modern Physics for Engineers elicits largely positive student reactions](representation-unit-positive-reactions.md) — related
 - [Festival visitors' self-reported interest in quantum technologies decreased significantly from before to after visiting the exhibit in one uncontrolled pre-post study, with a medium effect size (d = 0.44).](festival-exhibit-decreases-interest-quantum.md) — related
+- [Four of five students completing both E-CLASS surveys reported increased interest in physics during the CURE semester](eclass-increased-interest-physics-cure.md) — related

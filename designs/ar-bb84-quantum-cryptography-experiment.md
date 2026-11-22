@@ -48,6 +48,7 @@ An adapted version of the Thorlabs quantum cryptography analogy experiment in wh
 ## Related Designs
 
 - [Modified BB84 QKD setup using macroscopic laser \"qubits\" with an intentional security loophole](modified-bb84-macroscopic-qubits-setup.md)
+- [Manual QKD analogy kit with 3D-printed components and classical-light polarization analogy](manual-qkd-analogy-kit-3d-printed.md)
 
 ## Examples
 -

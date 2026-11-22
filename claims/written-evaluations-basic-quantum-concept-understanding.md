@@ -48,3 +48,4 @@ Written evaluations administered after testing the demonstration at two Chilean 
 ## Related Claims
 - [The demonstration positively impacted students' interest in physics and promoted appreciation of quantum mechanics' role in modern industry, per written evaluations](demo-boosts-interest-physics-quantum-industry-appreciation.md) — related
 - [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related
+- [A QTris-based stand-alone educational activity with about 150 high-school students provided encouraging preliminary indications that the game promotes immediate understanding of key Quantum Mechanics concepts](qtris-activity-150-students-preliminary-indications.md) — possibly the same claim (merge candidate)

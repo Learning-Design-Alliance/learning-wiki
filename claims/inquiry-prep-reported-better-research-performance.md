@@ -48,3 +48,4 @@ The authors' program-level observation in the introduction, explicitly untested:
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [The authors report that AI-led simulated patients in an OSCE ensured assessment consistency by eliminating variability associated with live or standardized patient performances, though the implementation was not formally validated](ai-osce-standardization-assertion.md) — related
+- [The module reports design and alignment only, with no measured learning gains or classroom efficacy data](no-efficacy-data-reported-module.md) — related

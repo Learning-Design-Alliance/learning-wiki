@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-22
 sources:
   - id: devore-2016
     resource: "https://doi.org/10.48550/arXiv.1601.01301"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3` · `i3` large
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students' average score improved from 52.7% on the pretest to 90.8% on the posttest after engaging with the QKD QuILT, a statistically significant difference with Cohen's d = 0.92. [→ DeVore 2016](#devore-2016)
@@ -58,3 +59,6 @@ In-class paired pretest/posttest analysis of 74 upper-level undergraduate quantu
 - [The DSE QuILT was effective in helping upper-level undergraduate and graduate students develop a more robust understanding of foundational quantum mechanics concepts in the double-slit experiment context](quilt-effective-dse-foundational-concepts.md) — related
 - [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related
 - [Engaging with the QuILT substantially improves student performance on quantum computing concepts, with large effect sizes on difficult questions about N vs 2^N distinctions](quilt-improves-quantum-computing-understanding.md) — a narrower finding that bears on this claim
+- [Students' QKD concept scores showed only marginal changes one month after the QuILT, and performance on the far-transfer Bell-state question rose from 72% to 90% in one group measured before and after, with no comparison group](one-month-retention-qkd-quilt.md) — related
+- [After lecture-based instruction, students struggled with how eavesdropper detection works in entanglement-based QKD, and with conditional probability reasoning about correlated measurement outcomes](student-difficulties-qkd-eavesdropper-conditional-probability.md) — related
+- [In classes that received in-class lecture on QKD, students' performance improved significantly from pre-test to post-test after engaging with the QuILT, with large effect sizes on the eavesdropper-detection question](quilt-entanglement-qkd-pre-post-gains.md) — a narrower finding that bears on this claim

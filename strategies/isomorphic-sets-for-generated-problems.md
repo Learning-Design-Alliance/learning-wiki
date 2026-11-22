@@ -45,7 +45,8 @@ To reduce the gap between time spent on algebraic procedures and qualitative des
 - [Collaboration during problem generation occurred mostly within groups, consistent with interrogation logic, while algebra-based problems motivated information seeking across groups](../claims/within-group-interrogation-logic-collaboration.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use LLM-generated isomorphic problems as supplemental instructional content with expert oversight, targeting distractor logic and narrative depth as future improvements](llm-problem-generation-supplemental-with-oversight.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Instructors' report from the Scalability section of the teaching discussion, bas
 ## Related Claims
 - [Assigning students to research teams of four creates accountability and reduces the mentoring load in a physics CURE](teams-of-four-reduce-mentoring-load-cure.md) — related
 - [Institutional opposition is not the main barrier to CUREs; 68% of CURE faculty report teaching a CURE contributed positively toward tenure and promotion, while faculty availability is the limiting factor](cure-faculty-tenure-benefit.md) — related
+- [Interviews with physics and astrophysics instructors identified time as the biggest challenge to implementing CUREs, with barriers overlapping those reported in biology](physics-instructor-cure-barriers.md) — related

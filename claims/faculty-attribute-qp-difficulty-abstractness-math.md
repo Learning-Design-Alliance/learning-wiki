@@ -79,3 +79,4 @@ From the same faculty interview analysis, the article reports that only three of
 - [Few students showed difficulties with the new computing approach, mainly when extending quantum algorithms to more complex problems, and group work with practical exercises helped overcome them](quantum-chapter-student-difficulties-group-work.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
 - [TikTok student creators portray A-level Physics as an intellectual antagonist defined by extreme difficulty, steep conceptual leaps from GCSE, and abstraction](tiktok-portrays-alevel-physics-intellectual-antagonist.md) — related
+- [Thematic analysis found the game fostered intuitive, explorative learning of abstract photoelectric-effect concepts](game-enables-intuitive-explorative-learning.md) — related

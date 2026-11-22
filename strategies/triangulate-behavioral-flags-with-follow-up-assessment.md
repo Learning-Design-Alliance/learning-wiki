@@ -45,6 +45,7 @@ Because API-level telemetry captures interaction patterns but not intent, the ar
 ## Related Strategies
 
 - [Instructor pre-tests the workflow and designates student anomalies as scientifically interesting starting points](instructor-pilot-run-and-anomaly-review-strategy.md)
+- [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 
 ## Examples
 -

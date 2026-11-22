@@ -67,3 +67,4 @@ Sign-test analysis of 66 Phase 1 follow-up respondents found pre-to-follow-up qu
 - [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related
 - [Among participants who showed improvement, performance remained better 4 weeks post-training than before training in a within-group pre-test-to-post-test comparison](training-benefits-retained-four-weeks.md) — related
 - [Knowledge persists 4 weeks after a single presentation, but the visual causal model advantage does not and memory drops substantially](retention-decays-visual-advantage-does-not-persist.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

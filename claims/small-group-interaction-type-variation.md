@@ -51,3 +51,4 @@ Small group time interaction results from the RIOT observations, reported in min
 - [Time allocation between whole class discussion and small group work varies vastly between sections of the same course](wcd-sg-time-allocation-variation.md) — related
 - [Instructors' approaches to helping students make sense of the wavefunction varied widely](qm-wavefunction-teaching-approaches-varied.md) — related
 - [Compared to UC Davis CLASP, both SJSU courses showed much higher Not Interacting time in small-group mode, and SJSU students never shared ideas or presented, leading the author to conclude neither course could fairly be classified as interactive](sjsu-less-interactive-than-clasp.md) — related
+- [In a small-group physics class, the instructor spent most time clarifying instructions and observing while the LA spent most time explaining content and dialoguing](riot2-la-instructor-behavior-differences-small-groups.md) — related

@@ -41,7 +41,9 @@ The course is organized around a mapping, illustrated in Table I, that "provides
 - 
 
 ## Related Designs
-- 
+
+- [Four-level structural analogy between QTris and qubit Quantum Mechanics: observables, states, unitary operations, measurement](qtris-qm-four-level-structural-analogy.md)
+- [The two-state (qubit-first) approach as the framework for a pedagogical reconstruction of QM at high-school level](qubit-first-pedagogical-reconstruction-qm.md)
 
 ## Examples
 -

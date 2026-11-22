@@ -54,3 +54,4 @@ Qualitative SGFS findings on affective and pedagogical support: students describ
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
 - [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related
+- [Students in the physics-agreement class described conditions of psychological safety supporting continuous, collective learning](physics-agreement-psychological-safety.md) — related

@@ -48,6 +48,7 @@ Drawing on collective feedback presented by randomly arranged student groups, th
 - [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
 - [Future ultrasound training research in low-resource settings should add control groups, expand to advanced skills, and include midwives and nurses](expand-ultrasound-training-research-control-groups-midwives-nurses.md)
 - [Field Trips](field_trips.md)
+- [Use student group feedback and anonymous surveys at event close to collect actionable improvement items for future editions](asp2026-feedback-driven-improvement-strategy.md)
 
 ## Examples
 -

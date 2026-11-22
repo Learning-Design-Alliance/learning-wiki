@@ -53,6 +53,7 @@ The article recommends "fostering a positive learning environment that requires 
 - [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
 - [Lecturers should use interactive, student-oriented teaching and foster students' self-regulating learning skills](interactive-teaching-self-regulation-skills-medical-students.md)
 - [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
+- [Design formal and informal STEM programs that recognize youths' STEM accomplishments while fostering personal interest in STEM](recognize-accomplishments-foster-interest-programs.md)
 
 ## Examples
 -

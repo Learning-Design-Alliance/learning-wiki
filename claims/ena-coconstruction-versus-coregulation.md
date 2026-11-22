@@ -66,3 +66,4 @@ ENA subtraction network between the two subclusters showing a co-regulation tend
 ## Related Claims
 - [Active completers split into two interaction subprofiles: active questioners dominated by questioning and negotiation, and responsive navigators dominated by responding and regulatory behaviors](questioners-versus-navigators-subclusters.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
+- [Mentored and non-mentored participants differ significantly along the ENA X-axis, with a large effect size (Cohen's d = 1.72)](ena-x-axis-mentored-group-difference.md) — related

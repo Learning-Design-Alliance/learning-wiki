@@ -51,3 +51,4 @@ Epistemic Network Analysis of coded learner-ChatAI dialogue logs (coding framewo
 - [High-literacy students' ENA networks center on links among AI Improvement Commands, Clarification Questions, and Meta-Commands, described as a collaborative, epistemic approach](high-literacy-collaborative-refinement-network.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
 - [Dashboard use increases test anxiety and mental load but not mental effort](srl-lad-increases-anxiety-mental-load.md) — related
+- [Students most frequently used GAI for knowledge acquisition (60.440% of logs), followed by visualization requests (24.725%) and analytical support (8.242%)](gai-log-themes-knowledge-acquisition-dominant.md) — related

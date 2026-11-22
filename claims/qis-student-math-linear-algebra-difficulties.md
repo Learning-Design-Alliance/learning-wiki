@@ -76,3 +76,4 @@ Follow-up focus interview with Franz, a CS-department instructor at a baccalaure
 - [Advanced mathematical prerequisites, especially linear algebra, are the main barrier to entry in introductory quantum information courses](linear-algebra-prerequisite-barrier-quantum-courses.md) — related
 - [Educators reported gaps between students' self-assessed prior preparation and the Python coding and linear algebra depth their QISE courses required](prior-preparation-gaps-qise-courses.md) — related
 - [Teaching quantum systems through student-written Python simulations deepened students' understanding of linear algebra and quantum physics, according to educator reports](python-simulation-teaching-deepened-understanding.md) — related
+- [Existing quantum computing instruction shows heterogeneous curricula and persistent misconceptions that survive standard instruction](heterogeneous-quantum-curricula-persistent-misconceptions.md) — related

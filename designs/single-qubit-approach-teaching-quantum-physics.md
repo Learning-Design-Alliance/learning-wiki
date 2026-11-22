@@ -46,7 +46,8 @@ The article proposes organizing a high-school introduction to quantum mechanics 
 - 
 
 ## Related Designs
-- 
+
+- [The two-state (qubit-first) approach as the framework for a pedagogical reconstruction of QM at high-school level](qubit-first-pedagogical-reconstruction-qm.md)
 
 ## Examples
 -

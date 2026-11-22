@@ -52,3 +52,4 @@ Confirmatory factor analysis of PIQL pretest responses from three calculus-based
 - [Recent PIQL versions are unidimensional, and the authors interpret the single construct as Physics Quantitative Literacy, suggesting the three facets may develop simultaneously](piql-unidimensional-single-construct.md) — related
 - [Student response patterns on the PIQL fit a unidimensional model rather than the expert-proposed three-facet factor structure](piql-unidimensional-not-three-facet.md) — possibly the same claim (merge candidate)
 - [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related
+- [QCCS v2.2 responses show sufficient unidimensionality to merit a single sum score, supported by both single-factor CFA and PCAR](qccs-unidimensionality-cfa-pcar.md) — related

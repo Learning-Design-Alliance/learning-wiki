@@ -59,3 +59,4 @@ Authors' interpretation from the broad evaluation of qualitative data across thr
 - [Qualitative analysis suggests CTS dialog-based interaction already provides a natural level of learner control.](cts-dialog-provides-natural-learner-control.md) — related
 - [Learning-style groups showed distinct interaction patterns with the LLM chatbot, suggesting potential for personalized VR learning](learning-style-distinct-chatbot-interaction-patterns.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
+- [Chatbot performance differences between groups were not explained by students' prior programming experience](chatbot-performance-not-explained-prior-programming-experience.md) — related

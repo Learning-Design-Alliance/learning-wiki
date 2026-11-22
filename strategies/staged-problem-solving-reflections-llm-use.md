@@ -49,6 +49,7 @@ Add reflection assignments at multiple points in the semester in which students 
 - [Connecting Struggles to Strategies](connecting_struggles_to_strategies.md)
 - [Three-part reflective lesson on LLM use: hands-on problem solving with and without LLMs, instruction on LLM internals, and discussion of educational-impacts research](three-part-reflective-llm-lesson.md)
 - [Devote early course time to LLM capabilities, limitations, and best practices, then let students decide for themselves whether to use LLMs in their research](early-llm-onboarding-course-design-strategy.md)
+- [Report to Future Researchers: a cross-semester reflection assignment that feeds prior cohorts' advice into course onboarding](report-to-future-researchers-strategy.md)
 
 ## Examples
 -

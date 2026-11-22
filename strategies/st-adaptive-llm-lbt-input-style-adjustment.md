@@ -46,6 +46,8 @@ As a forward-looking design recommendation, the authors propose that 'Future wor
 
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Design adaptive LLM tutors that detect help-seeking situation and state and select response strategies accordingly](adaptive-context-sensitive-response-selection-strategy.md)
+- [Use learner preferences as inputs for engagement optimization in adaptive systems, rather than as static styles for improving grades](preferences-as-engagement-optimization-inputs.md)
 
 ## Examples
 -

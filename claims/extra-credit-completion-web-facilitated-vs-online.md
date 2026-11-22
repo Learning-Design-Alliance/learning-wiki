@@ -52,3 +52,4 @@ Motivation proxy measured by extra credit submission rates across the three sect
 - [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related
 - [In the Spring 2015 replication, extra credit was insufficient to motivate voting or problem modification, with only about 5% of about 160 students submitting modifications](spring-2015-motivation-failure.md) — related
 - [Offering scaled extra credit is associated with higher completion of supplemental math assignments and reduced PEER/WA completion disparities](scaled-extra-credit-higher-math-completion-reduced-disparity.md) — related
+- [Engagement with the Public Exam process was high across exams (100%, 81%, 95%) while the number of edited questions increased monotonically from 2 to 4 to 5](engagement-rate-and-edited-questions-over-time.md) — related

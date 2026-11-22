@@ -92,3 +92,4 @@ Cronbach's alpha for the matched dataset; the article argues alpha is a conserva
 - [Post-instruction E-CLASS scores show a small but statistically significant decline from pre-instruction scores in matched data](eclass-pre-post-shift-small.md) — related
 - [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
+- [QCCS v2.2 shows whole-test reliability of 0.83 by both Cronbach's alpha and McDonald's omega, and a Ferguson's delta of 0.98](qccs-reliability-alpha-omega-ferguson-delta.md) — related

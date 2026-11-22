@@ -25,7 +25,9 @@ L2-Bench is a benchmark created by Ben Knight et al. for evaluating AI systems u
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Taxonomy of 12 competencies and 31 subcompetencies composing second language learning design](taxonomy-of-12-competencies-and-31-subcompetencies-composing-second-language-learning-desi.md)
 
 ## Key Sources
 - Ben Knight, Wm. Matthew Kennedy, Danielle Carvalho, Isaac Pattis, and James Edgell. (2026). Ceci n'est pas une explication: Evaluating Explanation Failures as Explainability Pitfalls in Language Learning Systems. MIRAGE Workshop @ IUI 2026. https://arxiv.org/abs/2604.26145
+- James Edgell, Wm. Matthew Kennedy, Ben Knight, Danielle Carvalho, Martin Ku, Isaac Pattis. (2026). L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education. https://arxiv.org/abs/2607.08842

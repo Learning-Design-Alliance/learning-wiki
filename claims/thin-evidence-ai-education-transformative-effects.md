@@ -47,3 +47,4 @@ Theoretical argument in a commentary: the author, citing Holmes et al. (2022), s
 ## Related Claims
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — a narrower finding that bears on this claim
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
+- [The authors report that empirical effectiveness data for the Gudeg-based model are not yet available](gudeg-model-effectiveness-data-missing.md) — a narrower finding that bears on this claim

@@ -73,3 +73,4 @@ The author's own analysis of why the contest was inconclusive, listing untested 
 - [A combined visual-motor-articulatory-auditory spelling method with teacher-directed attention produces better spelling than a predominantly visual silent method in young low-ability boys](combined-multisensory-spelling-method-superior-visual-silent-young-boys.md) — reports the opposite
 - [The combined method's advantage over the visual method held across ability levels, for weaker as well as abler pupils](spelling-method-advantage-across-ability-levels.md) — reports the opposite
 - [Teaching staff judge the performance and preparation of treatment and control students in the practical course as equal despite measured learning differences](staff-judgment-null-despite-learning-gain.md) — related
+- [Performance gains from personalized sequencing are not explained by completing more practice problems](sequencing-does-not-increase-problem-completion.md) — related

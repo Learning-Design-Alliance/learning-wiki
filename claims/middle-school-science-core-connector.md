@@ -48,3 +48,4 @@ Bipartite network of subjects and physics terms projected onto subjects, evaluat
 - [Integrated Science is weakly connected or disconnected from other science subjects, raising concerns it cannot fulfill its intended bridging role](integrated-science-weak-connectivity-bridging.md) — related
 - [Connectivity among the high school subjects Physics, Mechanics and Energy, and Electromagnetism and Quantum is low](low-connectivity-high-school-physics-subjects.md) — related
 - [Integrating Physics and Mathematics into one network raises average degree (22.58) while lowering density relative to either subject alone](integrated-network-higher-degree-lower-density.md) — related
+- [The Indonesian national curriculum's Phase E/F structure creates room for project-based cultural-context learning in physics](indonesian-curriculum-phase-e-f-project-room.md) — related

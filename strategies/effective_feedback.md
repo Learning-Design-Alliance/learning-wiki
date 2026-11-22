@@ -63,6 +63,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - [Check-Ins](../principles/check-ins.md) — low-stakes moments that generate the evidence feedback depends on
 - [Coaching](../elements/coaching.md) — feedback embedded in an ongoing relationship with guided practice
 - [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
+- [Act on response-log findings with unrestricted hint panels, misconception-targeted hints on bottleneck exercises, and revised task wording.](log-informed-hints-and-wording-redesign.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — generates the evidence on which feedback is based

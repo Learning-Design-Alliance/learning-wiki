@@ -50,6 +50,7 @@ The report recommends districts automatically enroll students with qualifying gr
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
 - [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](multiple-measures-dc-placement.md)
 - [District and school leaders should hold widespread discussions of grading practices and pair any expansion of boys' advanced-course enrollment with supports for students and teachers](grading-practice-discussions-and-supported-advanced-placement.md)
+- [Pair open-enrollment advanced coursework with targeted supports and recruitment for underrepresented groups](pair-open-enrollment-with-targeted-recruitment-supports.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Authors' interpretation of the top-5 tables: dengue disease "became significantl
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — a broader claim this one bears on
 - [Non-Japan Asia group scored lower in the Disease-Specific Topics category (p = 0.003), an exploratory finding](gm-ite-disease-specific-topics-asia-lower.md) — related
 - [Seasonal educational phases with structured, domain-relevant uncertainty are linked to increased collective question-posing across all discussion topics](seasonal-exam-uncertainty-increases-question-posing.md) — related
+- [The systems established are extensible to other regions, with Brazil noted as a possible sibling-event site](sibling-workshop-extensibility-brazil.md) — related

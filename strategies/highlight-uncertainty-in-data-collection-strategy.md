@@ -45,6 +45,7 @@ Based on the finding that data collection showed the lowest set-like reasoning a
 ## Related Strategies
 
 - [Design lab activities and lectures around measurement uncertainty: non-verification measurements, peer data comparison, and dedicated uncertainty lectures](uncertainty-focused-lab-design-strategy.md)
+- [Have students choose between instruments and justify their choice, combined with dedicated sessions on measurement uncertainties and data quality](instrument-choice-justification-activity.md)
 
 ## Examples
 -

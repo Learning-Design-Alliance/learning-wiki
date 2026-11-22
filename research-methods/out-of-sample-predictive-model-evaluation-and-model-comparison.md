@@ -31,4 +31,4 @@ The article recommends that predictive claims in PER rest on model performance o
 
 ## Key Sources
 - John M. Aiken, Riccardo De Bin, H. J. Lewandowski, and Marcos D. Caballero. (2021). A Framework for Evaluating Statistical Models in Physics Education Research. https://arxiv.org/abs/2106.11038
-- Bodonhelyi, A., Wang, M., Bozkir, E., Bühler, B., Kasneci, E. (2026). Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education. https://arxiv.org/abs/2602.09904
+- Bodonhelyi, A., Wang, M., Bozkir, E., Bühler, B., Kasneci, E. (2026). Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education. https://arxiv.org/abs/2602.09904. [doi:10.48550/arxiv.2602.09904](https://doi.org/10.48550/arxiv.2602.09904)

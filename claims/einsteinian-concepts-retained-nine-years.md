@@ -69,3 +69,4 @@ Long-term follow-up questionnaire and phone interviews with 11 of the original 2
 - [All follow-up participants remembered at least one hands-on activity, most often from the Gravity Discovery Centre excursion](hands-on-activities-remembered-long-term.md) — related
 - [More than half of pupils' post-intervention explanations invoke modern-physics concepts (spacetime curvature or black holes)](majority-modern-physics-explanations-post-intervention.md) — related
 - [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — related
+- [Concepts learned with the framework were retained after one week, with pass rates equal or better except a 4.2% drop on compilation](scratch-quantum-one-week-retention.md) — related

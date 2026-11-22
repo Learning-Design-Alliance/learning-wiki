@@ -72,3 +72,4 @@ In the transfer test, where "performance in both groups was well below ceiling,"
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [DIY prediction advantage on transfer is limited to receptive transfer and does not extend significantly to productive or explicit conceptual transfer](diy-transfer-advantage-limited-to-receptive-task.md) — related
 - [All Montessori materials encourage active engagement, illustrated by a fetching-and-matching activity that exercises working memory](montessori-materials-active-engagement.md) — a narrower finding that bears on this claim
+- [Recording predictions before observation is reported to improve conceptual engagement and reduce uncritical acceptance of confirming outcomes](prediction-before-observation-engagement.md) — related

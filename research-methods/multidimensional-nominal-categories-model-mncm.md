@@ -28,4 +28,4 @@ The Multidimensional Nominal Categories Model (MNCM) is an item-response model i
 -
 
 ## Key Sources
-- Segado, M., Adair, A., Stewart, J., and Pritchard, D. (2026). Discovering Misconceptions and Misunderstandings From Administrations of Research-Designed Multiple Choice Instruments. arXiv. https://arxiv.org/abs/2606.08986
+- Segado, M., Adair, A., Stewart, J., and Pritchard, D. (2026). Discovering Misconceptions and Misunderstandings From Administrations of Research-Designed Multiple Choice Instruments. arXiv. https://arxiv.org/abs/2606.08986. [doi:10.48550/arxiv.2606.08986](https://doi.org/10.48550/arxiv.2606.08986)

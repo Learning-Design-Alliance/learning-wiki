@@ -48,6 +48,7 @@ The game extends to quantum cryptography: one student plays Alice, another Bob, 
 - [BB84 classroom activity with eavesdropper roles and a security test on part of the key](bb84-classroom-eavesdropping-activity.md)
 - [Debriefing session that reveals Eve and discusses why the setup deviates from ideal BB84](eve-reveal-debriefing-strategy.md)
 - [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
+- [Schrödinger's cat and EPR paradox plush toy demonstrations for superposition and entanglement](schrodinger-cat-epr-plush-toy-demos.md)
 
 ## Examples
 -

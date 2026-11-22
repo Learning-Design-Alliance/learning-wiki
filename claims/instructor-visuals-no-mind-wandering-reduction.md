@@ -55,3 +55,4 @@ In Experiment 1, mind wandering was measured with thought probes at 13 points du
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — related
 - [Instructor-present video lectures improved self-reported attention among honest students relative to instructor-absent lectures](instructor-present-videos-improved-attention.md) — related
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](online-module-ten-percent-mind-wandering-q3.md) — related

@@ -112,3 +112,4 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [AI use in classrooms carries confabulation, bias, privacy, and instructional risks that require active management](four-classroom-ai-risks.md) — related
 - [Many tutoring-system studies collect extensive student data but lack thorough examination of how sensitive information is managed and protected](tutoring-systems-data-privacy-gap.md) — related
 - [Student AI use concentrates on initiating papers, summarizing, and brainstorming, and students themselves worry about privacy, reliability, and overreliance, with critical use varying by educational background](student-perspectives-ai-use-and-concerns.md) — related
+- [All evaluated models violate universal criteria (appropriacy, CEFR level, cultural sensitivity, resource awareness, data privacy)](l2-bench-universal-criteria-violations-all-models.md) — related

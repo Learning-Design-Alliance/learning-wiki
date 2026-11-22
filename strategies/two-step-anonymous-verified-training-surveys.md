@@ -48,6 +48,7 @@ The authors implemented "a two-step survey process, circulated among participant
 - [Live mentoring sessions and Slack support to tailor containerization training to participants' computing environments](live-mentoring-slack-support-tailoring.md)
 - [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 - [Close the event with an anonymous participant questionnaire and use it to produce an Event Report guiding future improvements](sk-day-anonymous-survey-event-report.md)
+- [Use student group feedback and anonymous surveys at event close to collect actionable improvement items for future editions](asp2026-feedback-driven-improvement-strategy.md)
 
 ## Examples
 -

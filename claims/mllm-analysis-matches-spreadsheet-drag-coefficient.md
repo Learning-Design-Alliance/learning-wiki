@@ -48,3 +48,4 @@ Authors' report on their worked Example 1, in which ChatGPT analyzed smartphone 
 ## Related Claims
 - [MLLM-supported analysis offers advantages over conventional methods: time savings, high-quality exportable visualizations, and access to analyses beyond school mathematics](mllm-analysis-advantages-over-conventional.md) — related
 - [MLLMs can analyze alternative experimental data formats, including WAV audio files and video, enabling classroom-scale analyses](mllm-handles-audio-video-data-formats.md) — related
+- [Smartphone accelerometer data fit the same model (R² = 0.90) and its fitted angular velocity differs by less than 1% from the video-analysis value](crank-slider-accelerometer-fit-agreement-video.md) — related

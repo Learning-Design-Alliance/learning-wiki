@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 711 claims (494 for, 189 mixed, 28 against) · 455 studies (205 causal, 91 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 62 of 455 report an effect size · 699 claims rest on one study
+> **Evidence** · 713 claims (494 for, 191 mixed, 28 against) · 456 studies (206 causal, 91 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 62 of 456 report an effect size · 701 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -770,6 +770,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [In a CAVE-based VR sales simulation, condition had no significant effect on presence (IPQ) or social presence (SPQ)](../claims/cave-sales-vr-no-presence-condition-effect.md) [~W] — attached 2026-11-21 from Francesco Vona et al. (2025), which proposed "CAVE-based sales training simulation with four randomized customer-personality × environment conditions".
 - [In an electric-potentials laboratory, students who used either a prebuilt simulation or an AI-generated simulation scored significantly higher on immediate conceptual questions than students using physical equipment (η² = 0.359).](../claims/ai-and-prebuilt-sims-outperform-physical-lab-on-conceptual-questions.md) [+M] — attached 2026-11-21 from Yossi Ben-Zion et al. (2025), which proposed "AI simulation design laboratory activity using Claude AI (Sonnet 4)"; tests this page's relationship.
 - [Students in both simulation conditions reported more favorable attitudes toward their lab than students using physical equipment; between the two simulation groups only lab-liking (AQ1) favored the prebuilt simulation.](../claims/simulation-conditions-more-favorable-attitudes-than-physical-lab.md) [+M] — attached 2026-11-21 from Yossi Ben-Zion et al. (2025), which proposed "AI simulation design laboratory activity using Claude AI (Sonnet 4)".
+- [Sexual counseling skill scores did not differ significantly between the virtual patient, virtual peer, and face-to-face peer simulation groups](../claims/no-group-difference-in-sexual-counseling-skill-scores.md) [~W] — attached 2026-11-21 from Neslihan Yilmaz Sezer et al. (2025), which proposed "Virtual patient simulation model for sexual counseling during pregnancy with four scenario-based synchronous interactions".
+- [Neither the group effect nor the group × time interaction on SABS scores was significant, indicating similar attitude change across the three simulation methods](../claims/no-group-or-interaction-effect-on-sabs-scores.md) [~W] — attached 2026-11-21 from Neslihan Yilmaz Sezer et al. (2025), which proposed "Virtual patient simulation model for sexual counseling during pregnancy with four scenario-based synchronous interactions".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

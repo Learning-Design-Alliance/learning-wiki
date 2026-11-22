@@ -56,7 +56,8 @@ The article leverages PhET sims' design features—allowing students to change p
 - [More chemistry students than physics students needed the MC formula list to identify the correct relationship](../claims/chemistry-more-mc-formula-list-reliance-than-physics.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Introduce the law of the lever with PhET mass-objects simulations before the dynamic law](phet-lever-simulation-lever-law.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Instructor report from classroom implementation of the exploration assignment in
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
 - [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related
 - [Both early-research-exposure contexts increased student motivation to orient their careers toward research](both-contexts-increased-motivation-toward-research.md) — related
+- [Students in lower-agency assignments followed the prompt's integration model while higher-agency assignments elicited greater student-explored integration](assignment-agency-determines-integration-exploration.md) — related

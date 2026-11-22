@@ -59,3 +59,4 @@ Preliminary controlled lesson study reported in the paper's overview of results,
 - [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related
 - [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related
 - [The ASTRA benchmark yields measurable condition-differentiated patterns consistent with its simulation assumptions](astra-benchmark-yields-condition-differentiated-patterns.md) — related
+- [The full four-agent pipeline (domain decomposition plus expert-judge synthesis) approximately triples predictive validity compared to a single-LLM BKT baseline (r = 0.095, not significant)](domain-decomposition-triples-predictive-validity.md) — related

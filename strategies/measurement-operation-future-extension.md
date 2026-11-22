@@ -49,6 +49,7 @@ In the limitations and future improvements section, the authors propose a concre
 - [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 - [Adapt unconventional popular-culture contexts to other quantum physics learning objectives](popular-culture-contexts-other-quantum-concepts.md)
 - [Seven-step moderator sequence for introducing Quantum Port](quantum-port-moderator-sequence.md)
+- [Extend the Gate of Fate to spatial targeting games and role-playing games where antagonists respond to players' quantum reflexes](gof-extensions-rpg-targeting-strategy.md)
 
 ## Examples
 -

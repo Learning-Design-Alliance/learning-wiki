@@ -52,3 +52,4 @@ Qualitative coding of the 38 interviews (6 of 38 students). Examples include an 
 - [Female physics students reported feeling marginalized due to differential gender dynamics in instructor and TA interactions](differential-gender-dynamics-marginalization.md) — related
 - [Case account: absence of mentor praise and encouragement preceded a high-achieving woman physics graduate leaving physics for another field](pollock-lack-of-recognition-case.md) — related
 - [A mentoring perspective argues mentors should positively recognize and praise student progress, citing literature that lack of recognition harms underrepresented students' entry and retention in physics](micro-affirmations-recognize-student-progress.md) — related
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](family-recognition-mitigates-formal-misrecognition.md) — related

@@ -51,6 +51,7 @@ The article proposes a project-based learning framework in which students work i
 - [ROS-based disassembly station with two robots and conveyor belts as the project hardware platform](ros-disassembly-station-two-robots-conveyors.md)
 - [Authentic learning environment framework for cultivating digital innovation skills](authentic-learning-digital-innovation-framework.md)
 - [Seven-module progressive course structure with longitudinal manuscript preparation](seven-module-progressive-srma-course-structure.md)
+- [NMP-HEP curriculum: 120 ECTS over four semesters combining theory, experimental methods, computing and research training](nmp-hep-curriculum-120-ects.md)
 
 ## Examples
 -

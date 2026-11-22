@@ -40,7 +40,9 @@ The instructional pattern places an open-ended computational research project in
 - 
 
 ## Related Designs
+
 - Computational Essay Genre
+- [Split-semester CURE design: traditional instruction first half, authentic research investigation second half](split-semester-cure-lecture-then-research.md)
 
 ## Examples
 -

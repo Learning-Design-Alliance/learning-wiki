@@ -52,3 +52,4 @@ Modality ablation study on CF–KG (Table 6) with three degraded variants (no te
 - [The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40](cfkg-outperforms-baselines-ndcg.md) — related
 - [VBL tools most frequently use textual and visual features, mainly for recommendation, information extraction, summarization, and navigation](vbl-tools-use-text-visual-features.md) — related
 - [Including full question text yields the best NTKT performance; removing text degrades AUC (ID-only 77.06% vs full text 90.32%)](question-text-improves-kt-accuracy.md) — related
+- [Omitting the class-weighted loss causes the most pronounced recall degradation among ablation variants, and removing temporal attention also substantially lowers early recall](class-weighted-loss-temporal-attention-ablations.md) — related

@@ -47,3 +47,4 @@ Authors' interpretation in the Discussion: concepts like recognising celestial o
 ## Related Claims
 - [Introducing the OPIS! robotic-telescope curriculum at UNC-Chapel Hill coincided with a >100% increase in introductory astronomy enrollment over five years and an ≈300% increase in astronomy-track majors and minors](opis-introduction-enrollment-and-majors-increases.md) — related
 - [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — a broader claim this one bears on
+- [Portable smart telescopes allow students to collect and analyze astronomical images during class, making introductory astronomy more observational and quantitative, according to the author's design argument.](smart-telescopes-make-intro-astronomy-observational.md) — related

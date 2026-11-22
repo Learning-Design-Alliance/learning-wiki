@@ -71,3 +71,4 @@ Same section: students suggest options like a journalism English course fulfilli
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [Knowledge decay can be compensated with a thoughtful sequence of courses](decay-compensated-by-sequencing.md) — related
 - [Students’ decisions to take or not take a recommended prerequisite were driven largely by factors unrelated to learning, such as scheduling and program rules](prerequisite-enrollment-reasons-mostly-non-learning.md) — related
+- [Physics Ph.D. students found required core coursework generally not relevant to their research](physics-phd-core-coursework-not-relevant-to-research.md) — related

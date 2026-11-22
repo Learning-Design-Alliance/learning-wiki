@@ -68,3 +68,4 @@ EFA and CFA of the most recent versions (v2.0, v2.1, v2.2) suggest unidimensiona
 - [Confirmatory factor analysis of PIQL response data does not support the intended three-group structure of ratio/proportion, covariation, and negativity items](cfa-fails-piql-three-construct-groups.md) — possibly the same claim (merge candidate)
 - [Recent PIQL versions are unidimensional, and the authors interpret the single construct as Physics Quantitative Literacy, suggesting the three facets may develop simultaneously](piql-unidimensional-single-construct.md) — related
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
+- [QCCS v2.2 responses show sufficient unidimensionality to merit a single sum score, supported by both single-factor CFA and PCAR](qccs-unidimensionality-cfa-pcar.md) — related

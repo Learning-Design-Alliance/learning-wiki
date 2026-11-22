@@ -52,3 +52,4 @@ SEM analysis of the survey; the article reports "social influence (β = 0.049, 9
 - [Gender and age moderate the habit–intention relationship, stronger for males and for those aged 30 or above](gender-age-moderate-habit-intention.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
+- [The three mediator constructs jointly explained roughly half of variance in learning and skill development, perceived value, and global readiness, though no individual predictor reached significance in the LSD or PV models](vgc-mediators-jointly-predict-outcomes.md) — related

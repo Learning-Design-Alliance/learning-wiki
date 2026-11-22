@@ -48,3 +48,4 @@ Background review section: the article attributes to Fredlund a study of third-y
 - [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](compound-representations-built-by-coordinating-resources.md) — related
 - [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](disciplinary-affordances-can-hinder-other-resources.md) — a narrower finding that bears on this claim
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
+- [Students explicitly referenced the \"light speed is the same\" agreement item when articulating wavefront ordering in the tape player scenario](tape-player-light-speed-item-referencing.md) — related

@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion, not a tested result. They state the s
 ## Related Claims
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related
 - [Finger tracking with SurgTrac shows construct validity for time, distance and smoothness across four basic open suturing tasks, discriminating novices from experts](surgtrac-finger-tracking-construct-validity-suturing.md) — related
+- [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — related

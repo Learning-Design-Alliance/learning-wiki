@@ -59,3 +59,4 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [Most surveyed students reported a positive or neutral impact of ChatGPT use on their motivation and active participation in the physics course](chatgpt-positive-motivation-participation-survey.md) — related
 - [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related
 - [Three perspectives on further ChatGPT use emerged: extreme negative, extreme positive, and balanced](three-perspectives-future-chatgpt-use.md) — related
+- [Students overwhelmingly select one of the two offered instruments, and “Either of the two” responses mostly indicate both instruments are considered usable rather than ignorance](either-of-two-means-both-appropriate.md) — related

@@ -71,3 +71,4 @@ Baseline evaluation of LR and XGBoost on OULAD using 10-fold nested cross-valida
 - [XGBoost slightly outperformed a logistic regression baseline in predicting ChatGPT assignment use](xgboost-slightly-outperforms-logistic-baseline.md) — related
 - [The neural network predicts student correctness on unseen questions with F1 of 0.8350 and AUC-ROC of 0.7789](nn-correctness-prediction-holdout-metrics.md) — related
 - [Random Forest performs best at the earliest cutoffs (days 7 and 14) while Gradient Boosting dominates from day 21 onward on OULAD under strict LEAP](leap-model-rankings-by-cutoff.md) — related
+- [Elastic net logistic regression performs comparably to random forest and gradient boosting in predicting first-round Physics Olympiad success and is selected as the final model](elastic-net-comparable-performance-olympiad-success.md) — related

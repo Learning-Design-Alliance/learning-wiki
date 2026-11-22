@@ -79,3 +79,4 @@ Linguistic similarity analysis comparing each final training answer with the cha
 - [Enabling copy and paste increases LLM use during learning, and specifically increases substitutive solution requests but not explanation requests](copy-paste-increases-substitutive-llm-use.md) — related
 - [Some students given complete LLM-generated solutions copied and submitted answers within minutes without engaging with the practice](complete-solution-students-copy-submit-quickly.md) — related
 - [Chatbot messaging dominated usage of the Educational AI Hub, and most student queries concerned software help and conceptual/theory help](ai-hub-chatbot-dominant-usage-query-topics.md) — related
+- [AI-mediated dialogue was most traceable to assessed reports when students used it around concrete artefacts and local decisions, as in the V0536 Peg observing-plan case](genai-traceability-concrete-artefacts.md) — related

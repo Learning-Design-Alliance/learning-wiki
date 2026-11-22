@@ -54,3 +54,4 @@ A null result across all three conditions of the Reversi experiment: "In the far
 - [Cognitive interview study found little evidence that students can treat AI problems as near-transfer tasks from grade-level math and CS](ai-not-near-transfer-from-math.md) — related
 - [Overall performance improved significantly for far transfer (r = 0.53) but not for near transfer (r = 0.30, p = 0.19)](far-transfer-total-score-gain-not-near.md) — reports the opposite
 - [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related
+- [Task-type stratified gains show paradigm completion is the most teachable category (↑3.5% mean gain) while translation tasks show the weakest gains (↓1.1%)](slate-task-type-stratified-gains.md) — related

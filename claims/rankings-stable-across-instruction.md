@@ -70,3 +70,4 @@ Response-frequency comparison across pre- and post-instruction subsets shown in 
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
 - [On any given FMCE item, roughly a fifth of students switch answers between the two courses, while the majority (82.4% on average) give consistent responses](fmce-item-level-answer-consistency.md) — related
 - [The most commonly chosen incorrect response ranks higher in DS2full than DS1full rankings for nearly all items](most-common-incorrect-ranked-higher-ds2.md) — related
+- [Item-level D̄ rankings are stable across two independently collected cohorts (Spearman's ρ = 0.78) and essentially uncorrelated with item difficulty (r = −0.12 and r = 0.10)](dbar-stable-uncorrelated-with-pk.md) — related

@@ -50,3 +50,4 @@ Post-training five-point Likert sentiment item administered after hands-on train
 - [Medical students rated the SP verbal de-escalation workshop highly, with 82% agreeing it met the learning objectives and 86% assigning it a letter grade A](sp-deescalation-workshop-high-student-ratings.md) — related
 - [Attendees perceived that Anatomy Club workshops improved their understanding of anatomy and medical pathologies and increased their anatomical knowledge](anatomy-club-perceived-understanding-knowledge-gains.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
+- [Participation in the ARISS contact shifted participants' survey responses toward the positive end of the scale across measured domains](ariss-africa-contact-positive-attitude-shift.md) — related

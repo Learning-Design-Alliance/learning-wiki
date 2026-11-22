@@ -201,3 +201,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Undergraduate benefit from the hybrid versus conceptual QuILT differed across classes and depended on prior preparation, consistent with a cognitive-load interpretation](undergraduate-hybrid-quilt-benefit-depends-on-prior-preparation.md) — related
 - [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related
 - [Comics and animation are reported to be effective for physics instruction and to increase motivation and retention](comics-animation-effective-physics-instruction.md) — related
+- [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — related

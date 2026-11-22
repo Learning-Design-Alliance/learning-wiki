@@ -43,6 +43,7 @@ The article recommends that research into the dynamics of complex systems be con
 - [Develop a theoretically grounded data-granularity structure and stronger evaluation baselines, including meta-analysis-derived baselines](granularity-and-baseline-optimization-strategy.md)
 - [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
 - [Integrate task- and movement-level assessments into procedure-level multilevel evaluation frameworks](multilevel-integrated-skill-assessment-frameworks.md)
+- [Use repeated measurements by two students to surface disagreements about measurement rules](paired-repeated-measurements-surface-disagreement.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Findings from the TBLT section of the thematic analysis. Teachers reported scaff
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
 - [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related
+- [In an advanced astrophysics laboratory, students framed a constrained GenAI tutor through five principal functions: interface interpreter, warrant organiser, report scaffold, unstable authority and resource whose traces may appear in downstream reports](genai-five-functions-advanced-lab.md) — related

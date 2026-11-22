@@ -75,3 +75,4 @@ Same FATE benchmark of commercial tutors (Table 3): the article reports "Actiona
 - [Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline](gemini-exceeds-human-mean-scivis-literacy-open-source-below.md) — related
 - [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related
 - [LLMs evaluate tutor responses to student math errors at 73-77% accuracy, the weakest performance](llms-evaluate-error-responses-73-77.md) — related
+- [Automated faithfulness evaluation was sensitive to the evaluator model, with Gemini 2.5 Flash scoring 0.31 while GPT-4o-mini and Claude 3 Haiku each scored 0.77](llm-judge-faithfulness-sensitivity.md) — related

@@ -63,6 +63,7 @@ POE works because committing to a prediction activates prior knowledge — inclu
 - [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 - [Adapt the POE (predict-observe-explain) method to smartphone-based physics experiments](poe-smartphone-experiments-strategy.md)
+- [Structure device activities in prediction, observation and explanation stages with comparison-focused tasks](poe-comparison-sequence-3d-printed-devices.md)
 
 ## Examples
 - **Peer Instruction at Harvard** ([Crouch & Mazur, 2001](https://doi.org/10.1119/1.1374249)) — ConcepTests in introductory physics follow the POE cycle: individual clicker vote, peer discussion, re-vote, instructor explanation.

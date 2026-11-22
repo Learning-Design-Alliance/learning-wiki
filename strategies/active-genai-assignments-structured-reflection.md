@@ -63,6 +63,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Design AI-assisted activities that require students to explain reasoning and evaluate AI outputs against disciplinary criteria](ai-assisted-activities-requiring-explanation-and-evaluation.md)
 - [Design GenAI-integrated tasks that cast the tool as an object of critique rather than a solution generator](genai-as-critique-object-task-design.md)
 - [Treat AI-generated solutions as worked-example-like objects for analysis that students reconstruct, question, and test](ai-solutions-as-objects-for-analysis.md)
+- [Accompany GAI-supported collaborative problem-solving with explicit scaffolds prompting students to examine, compare, and justify AI-generated evidence](scaffold-critical-evaluation-of-gai-outputs.md)
 
 ## Examples
 -

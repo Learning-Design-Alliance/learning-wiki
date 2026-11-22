@@ -46,6 +46,7 @@ The strategy places teachers as essential validators in the content pipeline: AI
 - [Position the instructor as human-in-the-loop reviewer of AI-generated difficulty reports before any feedback reaches students](instructor-in-loop-ai-difficulty-reports.md)
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
 - [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
+- [Delay the automated photometry pipeline so students analyse raw data first, then compare with the reference pipeline](delayed-pipeline-student-analysis-first.md)
 
 ## Examples
 -

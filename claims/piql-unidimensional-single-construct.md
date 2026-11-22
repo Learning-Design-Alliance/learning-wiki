@@ -50,3 +50,4 @@ CFA on v2.1 and v2.2 with a unidimensional model shows adequate fit; MMA with LA
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
 - [Student response patterns on the PIQL fit a unidimensional model rather than the expert-proposed three-facet factor structure](piql-unidimensional-not-three-facet.md) — related
 - [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related
+- [QCCS v2.2 responses show sufficient unidimensionality to merit a single sum score, supported by both single-factor CFA and PCAR](qccs-unidimensionality-cfa-pcar.md) — related

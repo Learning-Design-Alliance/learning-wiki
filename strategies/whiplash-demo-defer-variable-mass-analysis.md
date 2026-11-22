@@ -43,7 +43,8 @@ The article recommends two concrete classroom moves. First, the validity limit o
 - [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](../claims/rope-energy-method-beginning-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adoption can begin with one class meeting: tiered classroom-use patterns from prediction demo to independent project](gravitas-tiered-classroom-adoption.md)
 
 ## Examples
 -

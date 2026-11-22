@@ -41,7 +41,8 @@ The module's five activities follow a repeated structure: "Each activity uses a 
 - 
 
 ## Related Designs
-- 
+
+- [Five-activity predict-observe-explain sequence from Hamiltonian structure to finite measurement statistics](hamiltonian-to-sampling-activity-sequence.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ Investigation by Lin and Singh in which professors and students from two junior/
 - [Abstract operator methods produce better student reactions than the series solution of the harmonic oscillator](operator-method-better-student-reactions-than-series-solution.md) — related
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
 - [Common introductory strategies for quantum numbers (orbitals, probability clouds, hydrogen atom) are expert representations not optimized for novice sense-making](expert-representations-quantum-numbers-novice-traps.md) — related
+- [Synthetic-data experiments suggest embedding geometry of physics solutions is driven by surface features rather than conceptual structure, behaving like novices](embeddings-behave-like-novices-surface-features.md) — related

@@ -86,3 +86,4 @@ One-prompt condition for problem bank 2, shown in Figure 2; diagrams had one tra
 ## Related Claims
 - [Storing intermediate outputs in table format increases the reliability of passing information between prompts in a chain](data-table-intermediate-storage-prompt-chain-reliability.md) — related
 - [GenAI services can be used to verify the quality of generated isomorphic problems, identifying and correcting erroneous items](genai-verification-of-generated-item-quality.md) — related
+- [The system failed to vary scenarios for abstract-context questions, using a different scenario in only 5% of such cases](llm-abstract-context-scenario-variation-fails.md) — related

@@ -52,3 +52,6 @@ Figure 3 compares TAs' average predictions of the percentage of students answeri
 - [TAs found the CSEM-related PCK task challenging but reported it was worthwhile for learning to think from students' perspective](tas-found-pck-task-challenging-but-worthwhile.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — related
 - [TAs often selected partially correct answer choices as the most common student difficulty, which frequently misled them](partially-correct-answer-choices-mislead-tas.md) — related
+- [Physics TAs' average normalized PCK score across the full EMCS was 58%, with scores distributed close to normal and 90% of TAs between 45% and 75%](ta-emcs-pck-average-58-percent.md) — related
+- [TAs' PCK performance was bimodal across the 18 EMCS questions with student difficulties: poor on nine, moderate on two, and good on seven](ta-emcs-pck-bimodal-performance.md) — related
+- [TAs consistently overestimated how novice-like introductory students' thinking would be, expecting more novice-like errors than students actually made](tas-overestimate-novice-like-student-thinking.md) — reports the opposite

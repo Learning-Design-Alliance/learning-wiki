@@ -50,3 +50,4 @@ The authors' review of introductory and modern physics textbooks (references 1-7
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — a broader claim this one bears on
 - [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related
 - [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — a broader claim this one bears on
+- [The historical approach to teaching QM at high school stops before the mature framework of QM, omitting its postulates and key consequences](historical-approach-omits-qm-postulates.md) — related

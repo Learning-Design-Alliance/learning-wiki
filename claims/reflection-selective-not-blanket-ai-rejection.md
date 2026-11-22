@@ -58,3 +58,4 @@ Figure 2 analysis of AI-consistent final responses by advice correctness and tas
 - [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
 - [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related
+- [Students who accepted all suggestions wholesale spent significantly less decision time than other students in their condition](non-selective-adopters-spend-less-decision-time.md) — related

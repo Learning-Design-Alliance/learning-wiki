@@ -40,7 +40,8 @@ A Slack channel bot deployed in the Fall 2025 Astro 17 course to answer student 
 - [Gai Utility Ranked Task Focused Work Highest](../claims/gai-utility-ranked-task-focused-work-highest.md) [~M]
 
 ## Related Designs
-- 
+
+- [Markdown textbook with Wiki RAG and custom structural tags](nupad-markdown-textbook-wiki-rag.md)
 
 ## Examples
 -

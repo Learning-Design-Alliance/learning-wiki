@@ -24,7 +24,8 @@ A set of AI-generated numerical and conceptual introductory-physics problem bank
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Publicly accessible isomorphic problem generation website hosted on a Raspberry Pi with GitHub code release](publicly-accessible-isomorphic-problem-generation-website-hosted-on-a-raspberry-pi-with-gi.md)
 
 ## Key Sources
 - Zhongzhou Chen. (2025). Reliable generation of isomorphic physics problems using Generative AI with prompt-chaining and tool use. https://github.com/Zhongzhou/LLM-Isomorphic-problem-creation

@@ -52,6 +52,8 @@ The article recommends two implementable practices to counter students' passive,
 - [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 - [Fade explicit comparison-cycle support across the course (instructions first, then marks, then instructor support)](fading-comparison-cycle-support-strategy.md)
 - [Use structured discussion, argumentation tasks, and guided reflection to bridge AI perception and computational reasoning](structured-discussion-argumentation-ai-literacy.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
+- [Support interactional cycles that integrate explanation, testing, and revision during collaborative AI system design](support-explanation-testing-revision-cycles.md)
 
 ## Examples
 -

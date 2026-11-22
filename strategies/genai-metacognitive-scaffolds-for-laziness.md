@@ -46,6 +46,7 @@ This strategy recommends that GenAI academic search systems "embed metacognitive
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 - [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
+- [Add instructor-designed prompt scaffolds, verification steps, and instructor oversight to structured AI-use implementations](instructor-scaffolds-verification-structured-ai-use.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The brief recommends automatic enrollment policies with an opt-out option, "so s
 - [Adopt automatic-enrollment policies that default students into higher-level math based on prior achievement or demonstrated proficiency](automatic-enrollment-advanced-math-policy.md)
 - [Support struggling advanced-course students with expanded learning time and intensive tutoring](expanded-learning-time-tutoring-advanced-course-support.md)
 - [District and school leaders should hold widespread discussions of grading practices and pair any expansion of boys' advanced-course enrollment with supports for students and teachers](grading-practice-discussions-and-supported-advanced-placement.md)
+- [Pair open-enrollment advanced coursework with targeted supports and recruitment for underrepresented groups](pair-open-enrollment-with-targeted-recruitment-supports.md)
 
 ## Examples
 -

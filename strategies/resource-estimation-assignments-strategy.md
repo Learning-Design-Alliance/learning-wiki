@@ -41,6 +41,7 @@ Resource estimation assignments teach students to use the Microsoft QDK tools th
 
 - [Noise exploration assignments using a noise simulator to teach quantum noise concepts](noise-exploration-assignments-strategy.md)
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
+- [Teach quantum design automation through a guided workflow mirroring an engineering lifecycle: design, estimate, optimize, verify, then export](quantum-design-automation-guided-workflow-strategy.md)
 
 ## Examples
 -

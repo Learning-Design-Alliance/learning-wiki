@@ -69,3 +69,4 @@ Pearson correlation between participation points (which closely reflected attend
 - [More than 92.3% of web-facilitated students earned an overall grade of A compared to 83.3% of hybrid and 62.5% of online students](letter-grade-a-distribution-by-section.md) — related
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [Prior GPA was strongly correlated with overall course success in both sections (overall r = 0.63)](prior-gpa-correlates-course-success.md) — related
+- [Engagement with the Public Exam process was high across exams (100%, 81%, 95%) while the number of edited questions increased monotonically from 2 to 4 to 5](engagement-rate-and-edited-questions-over-time.md) — related

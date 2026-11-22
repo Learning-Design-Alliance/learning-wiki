@@ -48,4 +48,4 @@ The article frames educational comics within a multimodal learning account in wh
 -
 
 ## Key Sources
-- Echiburu, M., Henríquez, C., Valdés, R., & Ríos, C. (2026). Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains. https://arxiv.org/abs/2603.24498
+- Echiburu, M., Henríquez, C., Valdés, R., & Ríos, C. (2026). Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains. https://arxiv.org/abs/2603.24498. [doi:10.48550/arxiv.2603.24498](https://doi.org/10.48550/arxiv.2603.24498)

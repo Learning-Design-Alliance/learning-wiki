@@ -51,9 +51,10 @@ The review proposes shifting from isolated initiatives to coordinated ecosystem-
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting](readiness-assessment-before-alignment-work.md)
 - [Prioritize prospective, in-curriculum evaluations of AI governance interventions over additional isolated benchmark studies](prospective-governance-evaluations-over-benchmarks.md)
+- [Treat the STEM competition landscape as an interconnected ecosystem with multiple entry points rather than as isolated programs](interconnected-competition-ecosystem-entry-points.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Metwalli, S. A., Iliat, A., Thomas, S., Nair, S., Chase, Z. A., & Ceballos, R. R. (2026). The Quantum Education Ecosystem: A Review of Global Initiatives, Methods, and Challenges. arXiv. https://arxiv.org/abs/2604.06293
+- Metwalli, S. A., Iliat, A., Thomas, S., Nair, S., Chase, Z. A., & Ceballos, R. R. (2026). The Quantum Education Ecosystem: A Review of Global Initiatives, Methods, and Challenges. arXiv. https://arxiv.org/abs/2604.06293. [doi:10.48550/arxiv.2604.06293](https://doi.org/10.48550/arxiv.2604.06293)

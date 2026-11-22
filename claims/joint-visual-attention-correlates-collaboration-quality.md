@@ -60,3 +60,4 @@ In the editorial's summary of Schneider et al.'s TinkerLamp study, dyads used mo
 - [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related
 - [Recurrence indicators (gaze, lexical, emotional) predicted collaborative learning process measures but not learning performance](recurrence-indicators-predict-process-not-performance.md) — related
 - [Higher joint visual attention during a collaborative anatomy activity is positively associated with team post-test scores](jva-ratio-positively-associated-team-post-test-scores.md) — related
+- [Attention is weakly correlated with learning outcomes while workload is negatively correlated, supporting attention-workload balancing over attention maximization](attention-weak-workload-negative-outcome-correlation.md) — related

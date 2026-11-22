@@ -74,3 +74,4 @@ Cohen's kappa computed for all sub-questions from a contingency table of all pos
 - [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [The CURrENT shows adequate internal consistency (α=0.74) and very high inter-rater reliability](current-reliability-alpha-and-irr.md) — related
+- [Blind human validation establishes near-perfect inter-rater reliability and 98–99% accuracy of the grounded competency extraction](grounded-extraction-blind-validation-accuracy.md) — related

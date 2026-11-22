@@ -51,3 +51,4 @@ Survey items on nine professional skills (Figure 12) found most respondents gain
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
 - [Most graduating medical students (57%) feel very confident in a teaching role, having mainly developed teaching skills through informal near-peer mentorship](informal-near-peer-development-confidence.md) — related
 - [Physics graduate students developed documentation skills primarily through informal hands-on practice in authentic research settings](hands-on-authentic-practice-develops-documentation.md) — related
+- [Instructors first learn about named active learning methods most often through direct engagement and professional development, with the dominant avenue differing by method](initial-exposure-pathways-vary-by-method.md) — related

@@ -53,3 +53,4 @@ ANCOVA sub-dimension analyses from the same 60-student randomized experiment. Th
 - [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — related
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
+- [GAI-supported fifth-grade groups show more social CPS behaviors (participation, conflict management) but fewer overt cognitive behaviors (task planning, solution reasoning) than control groups](gai-shifts-cps-toward-social-behaviors.md) — related

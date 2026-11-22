@@ -99,3 +99,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](worked-examples-benefit-disadvantaged-students.md) — related
 - [Instructor practices targeting student misconceptions about natural selection are positively associated with learning gains on the CINS-abbr](misconception-targeting-associated-with-gains.md) — related
 - [Authoritative science teaching fosters the mistaken idea that truth is easy to arrive at and self-evident](authoritative-teaching-hinders-enquiry.md) — related
+- [Recording predictions before observation is reported to improve conceptual engagement and reduce uncritical acceptance of confirming outcomes](prediction-before-observation-engagement.md) — related

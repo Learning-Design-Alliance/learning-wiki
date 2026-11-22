@@ -56,3 +56,4 @@ Content validation involved a panel of seven lecturers with a minimum of 15 year
 - [Content validity of the pilot scale was established by a seven-member expert panel](phlcs-content-validity-expert-panel.md) — related
 - [The validation panel comprised 12 health professionals with at least six years of experience, rating the scenario on six Pasquali criteria](delphi-panel-twelve-experts-pasquali-criteria.md) — related
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
+- [Expert validation study (N = 221 practitioners, 45 countries) rates task authenticity 4.42/5 and criteria adequacy 4.18/5, exceeding targets](l2-bench-expert-validation-221-practitioners.md) — related

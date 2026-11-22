@@ -59,3 +59,4 @@ Descriptive log analysis of the experimental group (N = 15) over eight weeks, ag
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](bkt-adaptivity-log-practice-allocation.md) — related
 - [Implementing the pedagogical interaction model's improvement conditions shifted experimental-group students toward higher interaction levels](interaction-levels-improve-experimental-group.md) — related
 - [LMS implementation success is determined by the level of adoption and use by faculty and students](lms-success-determined-by-end-user-adoption.md) — related
+- [Difficulty values for all 15 students in the RAFT condition rose from the novice range to the intermediate range during training, measured within that group from start to end](raft-difficulty-trajectories-novice-to-intermediate.md) — related

@@ -50,3 +50,4 @@ Longitudinal observational evaluation of 15 LLMs on 9,800 NNLE multiple-choice q
 - [Clinical reasoning and prioritization failures dominated LLM errors on the NNLE](clinical-reasoning-prioritization-error-dominance.md) — related
 - [LLM performance varied systematically across NNLE content domains, highest in Fundamentals of Nursing and lowest in Psychiatric Nursing](domain-performance-hierarchy-nnle.md) — related
 - [LLMs performed better on the knowledge-oriented Professional Practice section than the application-oriented Practical Skills section](knowledge-application-section-gap-nnle.md) — related
+- [Edexcel is overwhelmingly the dominant board for A-Level Mathematics, with average intake of about 68% and an upward trajectory](edexcel-dominant-a-level-maths.md) — related

@@ -47,6 +47,7 @@ The article recommends pairing AI-driven learning predictions with interpretabil
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 - [Use explainable AI methods (LIME, SHAP) to investigate the relation between individual features and model predictions](explainable-ai-lime-shap-validity-evidence.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Use post hoc interpretation tools (ALE and fANOVA, or SHAP) across three layers to explain ML-based regime recommendations to families and administrators](interpretability-layers-ale-fanova.md)
 
 ## Examples
 -

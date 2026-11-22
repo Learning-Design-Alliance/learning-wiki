@@ -86,3 +86,4 @@ Context-specific sentiment analysis with a custom lexicon and LDA topic modellin
 - [Students' willingness to use AI varies by task type: greater acceptance for research and idea generation, hesitation for writing and homework](ai-willingness-varies-by-task-type.md) — related
 - [Students attribute the usefulness of AI-generated feedback to twelve features spanning four themes: Evaluation, Content, Presentation, and Depth](twelve-valued-ai-feedback-features-four-themes.md) — related
 - [Professors held a hierarchy of acceptability for GenAI text processing: granular language tasks seen as legitimate, initial drafting viewed with skepticism](genai-text-processing-acceptability-hierarchy.md) — related
+- [Coaches resist AI replacing live coaching and diagnosis but welcome it as a behind-the-scenes administrative assistant, with chess a notable exception to skepticism](ai-boundaries-admin-assistant-not-live-coach.md) — a narrower finding that bears on this claim

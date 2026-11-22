@@ -20,6 +20,7 @@ A context-sensitive planning framework developed for nursing education that link
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Implement nursing education transformation through formal academic–practice partnerships**: The model advocates formal, structured strategic relationships between educational and clinical practice settings spanning practice, education and research. The article states that "Academic practice partnership is an important mechanism to strengthen nursing education, practice and research and help nurses become well positioned to lead change and advance health." Figure 1 shows all strategies should be implemented through a collaborative approach, with mutual and shared goals and resource sharing. (A middle-range model for improving quality of nursing education in Malawi.)
 
 ### Claims
 

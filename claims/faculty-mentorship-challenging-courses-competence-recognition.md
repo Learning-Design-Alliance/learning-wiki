@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-22
 sources:
   - id: jessica-l-rosenberg-2024
     resource: "https://doi.org/10.1103/physrevphyseducres.20.010114"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faculty mentors' encouragement to attempt difficult courses and reassurance about struggling helped interviewed women feel recognized as capable physics students and built competence. [→ Jessica L. Rosenberg 2024](#jessica-l-rosenberg-2024)
@@ -55,3 +56,4 @@ Qualitative interview and open-ended survey analysis of five undergraduate women
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Self-efficacy develops through self-recognition and other-recognition and leads students to seek new opportunities and develop positive feelings about a future career](self-efficacy-recognition-drives-subfield-choice-actions.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related

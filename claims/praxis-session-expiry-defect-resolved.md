@@ -51,3 +51,4 @@ Separate authentication regression harnesses (router/session harness with 58 HTT
 - [Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each](praxis-provider-failure-no-fabricated-hints.md)
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md)
 - [Sharing testing harnesses with students led to higher success levels on automatically graded programming assignments compared to an earlier session without shared harnesses](shared-testing-harnesses-higher-assignment-success.md) — related
+- [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — a broader claim this one bears on

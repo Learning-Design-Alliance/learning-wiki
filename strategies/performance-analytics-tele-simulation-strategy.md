@@ -48,6 +48,7 @@ In its future directions the article recommends that simulation centers implemen
 
 - [Increase 3D simulation training frequency and establish an online MDT discussion platform to optimize the MDT-CDIO model](mdt-cdio-optimization-3d-simulation-online-platform.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Balance online delivery with maximised face-to-face engagement across a distributed multi-campus programme](online-lecture-face-to-face-campus-balance.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ End-of-course university survey (participation 8+8 students) on weekly hours. Re
 - [PHYS 170 students view the course as challenging but not requiring excessive effort, with 85% spending 12 hours or less per week on physics outside class](phys170-challenging-not-excessive-effort.md) — related
 - [Self-estimated workload rises from about twenty to about fifty hours per week in the first lecture weeks and correlates strongly with perceived stress](workload-trajectory-stress-correlation.md) — related
 - [Assignments were rated manageable, with most students spending under two days per assignment](q-beast-assignments-manageable-workload.md) — related
+- [Students reported positive experiences with the CURE course, with most studying 5–8 hours per week outside class](positive-evaluations-cure-plasma-course.md) — related

@@ -44,6 +44,7 @@ The curriculum staggers the introduction of new learning outcomes in each lab ac
 
 - [Gradual-difficulty Jupyter Notebook curriculum combining in-person introductory sessions with asynchronous application notebooks](gradual-difficulty-jn-lab-curriculum.md)
 - [Five-level pyramid hierarchy for AI-integrated engineering curricula based on scaffolded instruction](mlme-pyramid-scaffolded-hierarchy.md)
+- [Scaffolded progressive notebook sequence moving from foundational physics to authentic data-analysis workflows](gw-explorer-scaffolded-notebook-progression.md)
 
 ## Examples
 -

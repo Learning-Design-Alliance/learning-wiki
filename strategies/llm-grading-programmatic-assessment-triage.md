@@ -55,4 +55,4 @@ The article recommends deploying the LLM pipeline as a class-wide programmatic t
 -
 
 ## Key Sources
-- Savage, S., Bralin, A., Hur, P., & Rebello, N. S. (2026). Using Large Language Models to Analyze Engagement in Computational Thinking via Computational Physics Essays. https://arxiv.org/abs/2605.07036
+- Savage, S., Bralin, A., Hur, P., & Rebello, N. S. (2026). Using Large Language Models to Analyze Engagement in Computational Thinking via Computational Physics Essays. https://arxiv.org/abs/2605.07036. [doi:10.48550/arxiv.2605.07036](https://doi.org/10.48550/arxiv.2605.07036)

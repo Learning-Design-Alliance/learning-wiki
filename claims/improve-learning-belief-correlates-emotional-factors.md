@@ -48,3 +48,4 @@ Correlational analysis of post-session questionnaire data (Table 3) in the 102-p
 - [Participants who used ChatGPT V4 consistently reported higher post-session ratings than those who used V3.5 across enjoyment, comfort, clarity, quality, and classroom-integration preferences.](gpt4-users-rate-experience-higher-than-gpt35.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
+- [Perceived conceptual clarity was strongly associated with perceived helpfulness of AI-replicated practice problems](pair-clarity-replication-helpfulness-correlation.md) — related

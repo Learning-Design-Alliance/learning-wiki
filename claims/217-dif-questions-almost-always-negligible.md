@@ -51,3 +51,4 @@ Results of the DIF analysis across the 14 diets, summarised in Table 1. The arti
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
 - [Only eight of 2773 questions (0.29%) in a high-stakes postgraduate medical examination showed notable DIF after multiple-comparison correction, seven with medium and one with large effects](eight-of-2773-questions-notable-dif-mrcpuk.md) — related
+- [14 of 30 FCI items exhibit high DIF between US and South African cohorts after controlling for latent skill mastery](fci-14-of-30-items-high-dif-us-south-africa.md) — related

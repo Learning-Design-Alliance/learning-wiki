@@ -50,3 +50,4 @@ Qualitative content analysis of three rounds of semi-structured focus group inte
 - [Instructional technology is rejected when it mismatches the dominant pedagogy, as with the blackboard in monitorial schools](technology-pedagogy-mismatch-blackboard.md) — related
 - [Concept-guided development of technology use promoted integration of technology supporting different pedagogies, when integration is defined qualitatively](concept-guided-development-promotes-integration.md) — related
 - [Heads of Departments in Zimbabwean universities regarded online teaching as indispensable for embracing the Fourth Industrial Revolution](zimbabwe-hods-online-teaching-indispensable-4ir.md) — related
+- [Physicists surveyed regard sensemaking strategies as indispensable and report their courses could devote more time to them](physicists-regard-sensemaking-strategies-indispensable.md) — related

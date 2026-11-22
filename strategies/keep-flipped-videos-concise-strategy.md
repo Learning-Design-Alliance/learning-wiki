@@ -50,6 +50,7 @@ The authors recommend that teachers new to flipped learning "make an extra effor
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
 - [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
 - [Keep guideline e-learning concise and integrate text with images and videos](concise-multimedia-guideline-e-learning-strategy.md)
+- [Report video purpose, learner activity, context, outcomes and duration together, and design each video around a coherent learning unit rather than a minute limit](report-purpose-activity-context-duration-together.md)
 
 ## Examples
 -

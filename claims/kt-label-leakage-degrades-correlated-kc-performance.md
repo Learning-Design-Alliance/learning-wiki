@@ -48,3 +48,4 @@ Comparison of models trained with and without mitigation strategies on ASSISTmen
 ## Related Claims
 - [The MASK label method outperforms alternative leakage-mitigation strategies across most KT benchmark datasets](mask-label-outperforms-mitigation-alternatives.md) — related
 - [AKT-MLd achieves the best overall performance across benchmarks, with gains most pronounced on high-KC datasets](akt-mld-best-overall-benchmarks.md) — related
+- [Error injection validation shows each SLATE dimension selectively degrades under its targeted corruption, and answer leakage inflates posttest scores while destroying far-transfer performance](slate-error-injection-construct-validity.md) — related

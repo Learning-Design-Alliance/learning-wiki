@@ -46,6 +46,8 @@ The authors recommend that future programming-support systems adapt explanations
 - [Update student profiles dynamically as learners interact with an LLM-powered environment](dynamic-student-profile-updates-llm-tutoring.md)
 - [Develop adaptive, instructor-steerable refinement policies that decide which rubric dimensions to iterate](instructor-steerable-refinement-policies-strategy.md)
 - [Develop adaptive LLM learning-by-teaching systems that dynamically adjust to a learner's input style and cognitive capacity](st-adaptive-llm-lbt-input-style-adjustment.md)
+- [Design adaptive LLM tutors that detect help-seeking situation and state and select response strategies accordingly](adaptive-context-sensitive-response-selection-strategy.md)
+- [Use learner preferences as inputs for engagement optimization in adaptive systems, rather than as static styles for improving grades](preferences-as-engagement-optimization-inputs.md)
 
 ## Examples
 -

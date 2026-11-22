@@ -47,3 +47,4 @@ Second-session analysis of revision choices in the 23-participant study (Table 6
 ## Related Claims
 - [Students were often overconfident about their understanding of how to give peer feedback after chatbot instruction](chatbot-peer-feedback-overconfidence.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
+- [Justifications for accepting flawed suggestions were dominated by vague endorsement and heuristic reasoning, and most students rejecting the fabricated suggestion did not notice the fabrication](justifications-reveal-superficial-evaluation-gaps.md) — related

@@ -41,6 +41,7 @@ In this strategy, the instructor first reviews the student's raw attempt history
 
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
 - [Involve the course instructor in rating and tuning visualization and model parameters](instructor-in-the-loop-visualization-tuning.md)
+- [Delay the automated photometry pipeline so students analyse raw data first, then compare with the reference pipeline](delayed-pipeline-student-analysis-first.md)
 
 ## Examples
 -

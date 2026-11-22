@@ -59,3 +59,4 @@ Benchmark evaluation of ten open-weight LLMs (3.8B-72B) and one closed-weight mo
 - [Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax](safety-quality-independence-academiclaw.md) — related
 - [Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs](llm-scale-does-not-predict-tutor-safety.md) — related
 - [Supervised LearnLM proved a safe, reliable source of tutoring messages: 74.4% approved without edits, zero harmful content, and five factual errors among 3,617 drafts](learnlm-safe-reliable-supervised-messages.md) — related
+- [Across all 10 evaluated systems, near-transfer accuracy (31–42%) consistently exceeds far-transfer accuracy (11–16%)](slate-near-far-transfer-gap.md) — related

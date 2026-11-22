@@ -70,3 +70,4 @@ A time-series plot of best-fit slope m for each semester (Fig. 6), with error ba
 - [Marginal evidence suggests 'giant' and 'dwarf' student populations analogous to the stellar ones, persisting across teaching styles](giant-dwarf-student-populations-hr-analog.md) — related
 - [The post-2016 breakdown of the academic main sequence overlaps remarkably with rising web traffic to the online solution vendors chegg.com and coursehero.com](online-solutions-traffic-overlaps-fit-breakdown.md) — related
 - [Linear rescaling of AI grades toward the y = x line does not yield reliable machine grading because it leaves dispersion uncorrected](grade-rescaling-insufficient-correction.md) — related
+- [Participation in the Public Exam revision process is positively correlated with average exam grade in an introductory physics course (slope 0.142±0.028, p=3.1×10⁻⁷)](participation-exam-grade-correlation-nmsu-physics.md) — related

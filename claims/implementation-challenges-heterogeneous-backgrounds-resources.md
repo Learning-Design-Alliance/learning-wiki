@@ -52,3 +52,4 @@ Instructor-reported challenges from course delivery, described in the Implementa
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — a broader claim this one bears on
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
+- [Difficulties faced by named-method implementers include long-standing active learning adoption issues and new issues related to emergent technologies such as Artificial Intelligence](implementation-difficulties-longstanding-and-emergent-ai.md) — a broader claim this one bears on

@@ -44,7 +44,8 @@ An instructional framework for introducing simple harmonic motion as a completel
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](../claims/shm-differential-equation-alien-to-introductory-students.md) [+W]
 
 ## Related Designs
-- 
+
+- [The bernoullian sequence: introducing the dynamic law via motion as a succession of states of rest](bernoullian-sequence-dynamic-law.md)
 
 ## Examples
 -

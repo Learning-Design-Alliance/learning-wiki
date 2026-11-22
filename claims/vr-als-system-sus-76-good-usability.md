@@ -55,3 +55,4 @@ Standardized SUS questionnaire administered to the 101 participants (Fig. 4 dist
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related
+- [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related

@@ -51,3 +51,4 @@ Intention-to-treat analysis of a crossover randomized trial in which 44 resident
 - [Median time to answer retrieval was shorter with UpToDate (17 min) than with PubMed Clinical Queries (29 min)](uptodate-faster-answer-retrieval-than-clinical-queries.md) — related
 - [UpToDate users reported higher satisfaction with accuracy of retrieved answers, interaction with the system, and overall satisfaction than PubMed Clinical Queries users](uptodate-higher-user-satisfaction-than-clinical-queries.md) — related
 - [In a randomized crossover trial, PICO searching yielded higher average sensitivity and lower average precision than unguided searching, not statistically significant](pico-vs-unguided-sensitivity-precision.md) — related
+- [Initial retrieval ranking in CARES was weak, with a pooled Retrieval Precision Proxy@4 of 0.17](cares-retrieval-precision-proxy-017.md) — related

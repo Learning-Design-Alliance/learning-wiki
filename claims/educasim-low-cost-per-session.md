@@ -52,3 +52,4 @@ Cost accounting from the deployment's methodology section: the platform uses GPT
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](socrates-low-operational-cost.md) — related
 - [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related
 - [Running the AI role-play cost $USD 13.17 for a 20-minute activity with just over 20 students, corresponding to 408 API requests](ai-roleplay-token-cost-feasibility.md) — related
+- [A hosting platform's built-in session-review feature rated every simulated cheater as honest, while rubric-based transcript review discriminated](platform-review-tools-rate-cheaters-honest.md) — related

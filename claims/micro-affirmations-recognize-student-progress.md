@@ -60,3 +60,4 @@ A perspective piece that argues for this principle, citing the literature in gen
 - [Lack of culturally responsive mentoring can produce identity interference with psychological and academic costs for underrepresented mentees](identity-interference-without-culturally-responsive-mentoring.md) — related
 - [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](negative-recognition-harms-efficacy-interest-persistence.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
+- [Family recognition and support sometimes mitigated the negative impact of lack of recognition in formal schooling contexts](family-recognition-mitigates-formal-misrecognition.md) — related

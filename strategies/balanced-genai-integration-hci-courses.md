@@ -46,6 +46,7 @@ The article recommends adjusting HCI classes in response to GenAI's impact, "emp
 ## Related Strategies
 
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
+- [Bounded generative AI week with documented reflection](bounded-generative-ai-week.md)
 
 ## Examples
 -

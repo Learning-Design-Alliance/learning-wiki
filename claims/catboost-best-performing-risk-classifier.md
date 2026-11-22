@@ -72,3 +72,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Modified SANN outperforms baseline models in predicting program correctness](sann-outperforms-baselines-correctness-prediction.md) — related
 - [Visual diagnostics show CatBoost predictions align tightly with actual scores, with regression-to-the-mean errors at the score extremes, while ANN predictions show greater scatter](catboost-hexbin-tight-alignment-tail-errors.md) — related
 - [Non-linear ML models (RF, CatBoost, ANN) consistently outperform multiple linear regression in predicting PISA 2018 math scores across ten countries](nonlinear-ml-outperforms-mlr-pisa-math.md) — related
+- [Elastic net logistic regression performs comparably to random forest and gradient boosting in predicting first-round Physics Olympiad success and is selected as the final model](elastic-net-comparable-performance-olympiad-success.md) — related

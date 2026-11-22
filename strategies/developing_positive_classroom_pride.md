@@ -64,6 +64,7 @@ Recognition of learner success builds positive teacher-learner relationships, an
 - [Check-Ins](5-minute_writing_conferences.md) — routine one-to-one moments where private, age-appropriate recognition can be delivered
 - [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 - [Reward and celebrate student science accomplishments liberally with positive feedback](liberal-rewards-science-accomplishments.md)
+- [Design K-12 and out-of-school interventions that deliberately foster the three significant recognition experiences for underrepresented students](foster-recognition-experiences-interventions-strategy.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — elementary practice of "celebrating student work" through morning meeting shout-outs and displayed work, building collective classroom pride.

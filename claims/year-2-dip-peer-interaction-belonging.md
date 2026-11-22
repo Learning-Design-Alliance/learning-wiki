@@ -50,3 +50,4 @@ Descriptive trend in sense of belonging (1-5 scale) from Fig. 1e, showing a decl
 - [Sense of belonging is best predicted by self-efficacy in every model except year 2 majors, with peer interaction the next best predictor except in year 4](belonging-best-predicted-by-self-efficacy.md) — related
 - [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related
 - [The transitions from high school to college introductory physics and from the first year into the physics major are bottlenecks at which women's physics self-efficacy and sense of belonging decline](physics-transitions-bottlenecks-women-self-efficacy.md) — related
+- [The first Physics Ph.D. cohort reported a weak sense of peer community, linked to credit transfer, few shared courses, few social events, and dispersed physical space](weak-peer-community-first-physics-phd-cohort.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 452 claims (201 for, 194 mixed, 57 against) · 311 studies (127 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 68 of 311 report an effect size · 435 claims rest on one study
+> **Evidence** · 456 claims (204 for, 195 mixed, 57 against) · 314 studies (128 causal, 61 review, 42 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 69 of 314 report an effect size · 439 claims rest on one study
 
 ## Description and scope
 
@@ -324,6 +324,10 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Role-based agents' positive experiences carry trade-offs: the Peer's support can tip into excessive agreement and the Challenger's questioning can feel confrontational to a minority](../claims/agent-role-experience-tradeoffs.md) [~W] — attached 2026-11-21 from Zhengtao Xu et al. (2026), which proposed "Deploy the right agent role for the right pedagogical goal and learning phase rather than searching for a single best agent".
 - [Open-ended self-explanation with LLM feedback produces significantly higher-quality explanations than control on NEI transfer problems in calculus (β=+11.9 percentage points, p=.030, d=0.44).](../claims/llm-open-ended-self-explanation-nei-transfer-explanation-quality.md) [+W] — attached 2026-11-21 from Eason Chen et al. (2026), which proposed "When total practice time is fixed, use open-ended self-explanation with adaptive LLM feedback to trade practice volume for deeper reasoning per problem.".
 - [Under fixed 60-minute practice time, the open-ended condition completed roughly one-quarter as many problems as control (16.9 vs. 58.9) yet showed similar learning gains (+9.3% vs. +9.4%).](../claims/fixed-time-fewer-problems-similar-gains.md) [~W] — attached 2026-11-21 from Eason Chen et al. (2026), which proposed "When total practice time is fixed, use open-ended self-explanation with adaptive LLM feedback to trade practice volume for deeper reasoning per problem.".
+- [An automated calibration loop drove a deployed LLM tutor to full compliance on all four acceptance gates, reaching a 0% earnest revise rate and 100% hint-ceiling compliance](../claims/llm-tutor-full-compliance-four-gates.md) [+M] — attached 2026-11-21 from Yusuf Pisan (2026), which proposed "Put the irreversible decision in code, not in a prompt: compute the help ceiling in a non-LLM policy core fed only trusted state"; tests this page's relationship.
+- [In a simulated interaction, the NuPaD skill file's structural constraints override a GenAI's default tendency toward immediate, superficial answers](../claims/nupad-skill-file-overrides-answer-tendency.md) [+W] — attached 2026-11-21 from Chong Qi (2026), which proposed "Structured questioning loop mapped to Bloom's revised taxonomy with a four-step escalation ladder".
+- [By session 3, SG-tutor students achieved significantly greater pre-to-post learning gains than PR-tutor students despite lower pre-test scores](../claims/sg-greater-learning-gains-session3.md) [+M] — attached 2026-11-21 from Jérôme Brender et al. (2026), which proposed "Design LLM tutors with response-level Socratic guidance rather than prompt-efficiency training to foster durable, understanding-oriented LLM use"; tests this page's relationship.
+- [Students perceived the PR tutor as more effective than the SG tutor despite its weaker learning outcomes](../claims/pr-tutor-perceived-more-favorable.md) [~M] — attached 2026-11-21 from Jérôme Brender et al. (2026), which proposed "Design LLM tutors with response-level Socratic guidance rather than prompt-efficiency training to foster durable, understanding-oriented LLM use"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

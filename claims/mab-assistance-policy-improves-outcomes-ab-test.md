@@ -47,3 +47,4 @@ Large-scale live A/B evaluation of the trained MAB policy against a randomized a
 ## Related Claims
 - [Assistance actions exhibit heterogeneous treatment effects across students, but effect sizes are often too small for contextual bandit policies to significantly outperform well-optimized MAB policies](hte-exists-but-cb-gains-limited.md) — related
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
+- [The authors report AI-Tutor outperforms state-of-the-art baselines on engagement, retention, and final outcomes in a large-scale empirical evaluation](ai-tutor-outperforms-baselines-large-scale-evaluation.md) — related

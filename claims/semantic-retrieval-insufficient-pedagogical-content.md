@@ -51,3 +51,4 @@ Retrieval evaluation (RQ1) on the real corpus of student questions: a semantic-o
 - [Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication](fabrication-despite-successful-retrieval.md) — related
 - [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related
 - [Mohler '09 found incorporating the best student answers with the teacher answer to expand vocabulary effective for unsupervised grading](mohler-2009-student-answer-vocabulary-expansion.md) — related
+- [Text-only retrieval over subtitles remains weak for concept-to-example retrieval, suggesting subtitles alone miss visually expressed teaching evidence](text-only-subtitle-retrieval-weak.md) — a narrower finding that bears on this claim

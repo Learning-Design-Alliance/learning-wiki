@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 224 claims (161 show a difference, 36 mixed, 27 no difference) · 155 studies (74 causal, 26 review, 19 associational, 13 design, 9 theoretical, 8 quant-synthesis, 6 qualitative), `q1`–`q3` · 30 of 155 report an effect size · 222 claims rest on one study
+> **Evidence** · 226 claims (162 show a difference, 37 mixed, 27 no difference) · 157 studies (75 causal, 26 review, 19 associational, 13 design, 9 theoretical, 8 quant-synthesis, 7 qualitative), `q1`–`q3` · 30 of 157 report an effect size · 224 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -265,6 +265,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Enrollment year predicts critical thinking dispositions, with undergraduate 2012 students scoring higher; age shows a small negative association with open-mindedness](../claims/enrollment-year-and-age-predict-ct-dispositions.md) [+M] — learners who differ on it differ in outcomes
 - [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](../claims/genai-misuse-may-undermine-critical-thinking-creativity.md) [+W] — measured as an outcome of the instruction studied
 - [High dependence on AI correlates with lower critical-thinking performance, mediated by cognitive offloading, and AI tools that minimize cognitive struggle risk weakening critical thinking](../claims/ai-cognitive-offloading-lower-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Retrospective self-efficacy survey shows gains in instructional decision-making and higher-order thinking constructs after joining the CoP](../claims/tebs-self-efficacy-gains-after-cop-joining.md) [+M] — measured as an outcome of the instruction studied
+- [Justifications for accepting flawed suggestions were dominated by vague endorsement and heuristic reasoning, and most students rejecting the fabricated suggestion did not notice the fabrication](../claims/justifications-reveal-superficial-evaluation-gaps.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

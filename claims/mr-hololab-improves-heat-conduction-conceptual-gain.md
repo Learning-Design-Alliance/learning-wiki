@@ -50,3 +50,5 @@ Quasi-experimental pilot study in the summer term 2017 at University of Kaisersl
 - [Treatment and control groups differed in pre-knowledge, with the treatment group reaching higher pre-test scores](preknowledge-difference-tg-higher-than-cg.md) — related
 - [The experimental group achieved a higher frequency of scientifically acceptable statements than the control group in the posttest, with the largest idea shifts in thermal conductivity, vision and density](concept-cartoons-scientifically-acceptable-statements.md) — related
 - [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related
+- [Mixed Reality showed the largest normalized learning gain (g = .57), and only the MR group improved reliably from baseline to post-test](mr-largest-normalized-gain-within-group.md) — related
+- [Instructional modality significantly affects baseline-adjusted post-test performance in undergraduate solid mechanics, F(2, 20) = 3.60, p = .048, partial η² = .263](modality-ancova-effect-post-test-solid-mechanics.md) — related

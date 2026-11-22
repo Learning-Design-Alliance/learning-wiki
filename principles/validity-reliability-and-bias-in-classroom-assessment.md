@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 501 claims (262 for, 211 mixed, 28 against) · 378 studies (116 associational, 100 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 378 report an effect size · 493 claims rest on one study
+> **Evidence** · 504 claims (265 for, 211 mixed, 28 against) · 380 studies (117 associational, 101 design, 65 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 37 of 380 report an effect size · 496 claims rest on one study
 
 ## Conditional relationship
 
@@ -345,6 +345,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [QCCS Item 15 v2.1 became nearly impossible (3% correct) because students were reticent to choose 'none of these'](../claims/qccs-item15-v2-1-none-of-these-reticence.md) [+W] — attached 2026-11-21 from Josephine C. Meyer et al. (2026), which proposed "Diagnosing why an assessment item misperforms requires triangulating multiple quantitative and qualitative methodologies".
 - [AI-generated scores show weak agreement with instructor grading of physics lab reports (ρ = 0.38, MAE = 1.01), with the AI assigning lower scores on average](../claims/ai-batch-grading-weak-agreement-instructor-scores.md) [+W] — attached 2026-11-21 from Marcos Abreu et al. (2026), which proposed "Use batch-based AI grading to assist, not replace, instructor evaluation, keeping the instructor as the final arbiter"; tests this page's relationship.
 - [In PB1 AI grading with a mark scheme, models showed systemic over-marking, with ChatGPT-o3 the only evaluator closely aligned with human marks](../claims/pb1-ai-grading-over-marking-o3-alignment.md) [+W] — attached 2026-11-21 from Jonah L. Donaldson et al. (2026), which proposed "Provide LLM graders with a formal mark scheme and grade each solution in an isolated context window"; tests this page's relationship.
+- [14 of 30 FCI items exhibit high DIF between US and South African cohorts after controlling for latent skill mastery](../claims/fci-14-of-30-items-high-dif-us-south-africa.md) [+W] — attached 2026-11-21 from Wade Naylor et al. (2026), which proposed "Test measurement invariance before transferring research-based assessments across educational and cultural contexts"; tests this page's relationship.
+- [Across three transitions, the outcome carrying a given number was nearest to a differently numbered earlier outcome in six of the ten non-identical statement pairs](../claims/outcome-numbering-misalignment.md) [+W] — attached 2026-11-22 from Elakkiya Rajasekar (2026), which proposed "Do not publish an attainment series across a delivery boundary until the outcome statements on either side have been compared automatically".
+- [Every outcome of a core course was substantively redefined between consecutive deliveries while attainment continued to be reported against unchanged outcome numbers](../claims/clo-redefinition-between-deliveries.md) [+W] — attached 2026-11-22 from Elakkiya Rajasekar (2026), which proposed "Do not publish an attainment series across a delivery boundary until the outcome statements on either side have been compared automatically".
 
 ## Objective and learner-valued goal
 

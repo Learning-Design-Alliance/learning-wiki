@@ -51,3 +51,4 @@ Reported summary of the pedagogical grounding results (difficulty and discrimina
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
 - [Cognitive modeling of exact student responses is hardest for multi-select problems and rare-error answers, with select-all accuracy of only 12-15% and cognitive accuracy dropping to as low as 3.7% when answers are incorrect](cognitive-modeling-by-problem-type.md) — related
 - [Negatively discriminating items are relatively common in classroom examinations, with 8% of surveyed items showing r′ below zero, most often due to improper keying.](negative-discrimination-classroom-items.md) — related
+- [Large model performance drops notably on hard L2-Bench tasks, with the top three models all scoring below 80% on 267 tasks](l2-bench-hard-task-performance-drop.md) — related

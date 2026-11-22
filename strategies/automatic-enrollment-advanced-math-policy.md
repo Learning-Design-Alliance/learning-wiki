@@ -46,6 +46,7 @@ The report recommends that states address disparities in advanced math participa
 - [State leaders should eliminate dual credit fees for all students and strengthen automatic enrollment policy implementation](eliminate-dc-fees-strengthen-acceleration-policies.md)
 - [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 - [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
+- [Pair open-enrollment advanced coursework with targeted supports and recruitment for underrepresented groups](pair-open-enrollment-with-targeted-recruitment-supports.md)
 
 ## Examples
 -

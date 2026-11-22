@@ -71,3 +71,4 @@ Same classroom study, consistency analysis: consistent CVS use (correct on at le
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
 - [Instruction increased students' ability to evaluate experiments designed by others on a paper-and-pencil test](experiment-evaluation-gains.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
+- [Medical students' exposure-identification scores and CVS assessment scores showed large, significant rises from pre-test to post-test after learning with SurgGraphQA, in one single-group pre-post study](surggraphqa-learning-gains.md) — related

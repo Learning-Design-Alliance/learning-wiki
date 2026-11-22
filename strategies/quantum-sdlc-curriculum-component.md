@@ -43,6 +43,7 @@ As the second step of the approach, the article recommends that instructors intr
 - [Sequence Qiskit instruction from environment setup through real-QPU job submission with multi-platform examples](qiskit-qpu-job-submission-sequence.md)
 - [Teach Ocean SDK via account setup, Leap/SAPI authentication, and job submission to D-Wave QPUs](ocean-sdk-dwave-teaching-sequence.md)
 - [Teach PennyLane through a Docker-based environment and the Xanadu Codebook with in-class codercises](pennylane-xanadu-codebook-strategy.md)
+- [Teach quantum design automation through a guided workflow mirroring an engineering lifecycle: design, estimate, optimize, verify, then export](quantum-design-automation-guided-workflow-strategy.md)
 
 ## Examples
 -

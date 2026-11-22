@@ -61,3 +61,4 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 - [The SUN multiple-choice exam showed a ceiling effect after the workshop, limiting item discrimination](sun-mc-exam-ceiling-effect.md) — related
 - [Short-answer pre-post test scores showed substantial improvement in core concepts after working with the marble game modules](prepost-conceptual-gains-marble-game.md) — related
 - [Correct tutoring improves AlgoBo's MCQ scores while random irrelevant conversation does not](correct-tutoring-improves-algobo-mcq-scores.md) — related
+- [The module improved high-prior-knowledge learners' efficiency (SCORE/TIME) in answering questions correctly from pre-test to post-test](score-time-efficiency-improved-pre-to-post.md) — related

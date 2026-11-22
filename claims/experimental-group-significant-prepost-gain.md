@@ -49,3 +49,4 @@ Within-group pre/post t-test for the experimental group in the same quasi-experi
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)
+- [Within-condition learning gains appeared only in the adaptive condition: RAFT scores rose significantly pre- to post-test while RoR showed no significant improvement](within-condition-gains-only-raft.md) — related

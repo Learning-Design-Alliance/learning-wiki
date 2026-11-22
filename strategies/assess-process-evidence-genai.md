@@ -52,6 +52,7 @@ The review's actionable takeaways include: "Assess the process: Grade design rat
 - [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 - [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
+- [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 
 ## Examples
 -

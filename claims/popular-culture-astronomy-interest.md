@@ -52,3 +52,4 @@ Qualitative interview finding: two participants independently cited Carl Sagan a
 - [The popularity of individual DES social media posts was unpredictable, with the most popular posts featuring science-art and popular-culture intersections and observatory photographs](des-post-popularity-unpredictable-science-art-popular-culture.md) — related
 - [DES social media primarily reached users already predisposed to science; the article finds no evidence the products inspired new interest in science](des-social-media-reaches-science-predisposed-audiences.md) — related
 - [Space and life in outer space are the most interesting science topics for learners, and learning about astronomical objects promotes abstract thought](astronomy-most-interesting-science-topic.md) — related
+- [AQA's optional second-year module leaves a large share of A-Level Physics candidates without space science](aqa-optional-module-space-science-gap.md) — related

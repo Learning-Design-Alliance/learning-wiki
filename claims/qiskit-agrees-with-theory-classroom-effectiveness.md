@@ -53,3 +53,4 @@ Summary of the article's applications section, in which students of the CET0448 
 - [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related
 - [Preliminary classroom use in the Ferrara M.Sc. quantum computing course received encouraging feedback from both theoretical and coding-skilled students](ferrara-msc-course-encouraging-feedback.md) — related
 - [Interactive scicode-widgets exercises enable seamless transitions between theory, code and analysis in a ridge-regression notebook, per the authors' demonstration](widget-interactivity-seamless-theory-code-analysis.md) — related
+- [High-school students rate their misty-states-based quantum learning experience higher (8.6/10) than their Quantum Flytrap experience (7.4/10)](hs-students-rate-misty-states-above-quantum-flytrap.md) — related

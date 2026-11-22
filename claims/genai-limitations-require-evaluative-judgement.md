@@ -82,3 +82,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — related
 - [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — a narrower finding that bears on this claim
 - [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related
+- [Justifications for accepting flawed suggestions were dominated by vague endorsement and heuristic reasoning, and most students rejecting the fabricated suggestion did not notice the fabrication](justifications-reveal-superficial-evaluation-gaps.md) — a narrower finding that bears on this claim

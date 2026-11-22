@@ -50,3 +50,4 @@ Thematic analysis of the narrative data; the article reports the four agency dim
 - [Only one reviewed ITS (Selfit) organizes training in periodized cycles; most systems rely on repetition without structured plans](its-training-organization-selfit-only.md) — related
 - [Institutional (macro) sources currently provide the highest level of SoTL support in CSD, with programs (meso) providing the fewest](macro-level-highest-sotl-support-csd.md) — a narrower finding that bears on this claim
 - [Implicit learning swindles — mental models, micro-macro and interdisciplinary — emerge in teachers' proposals with high contextualization and operative proposals for overcoming learning difficulties](implicit-swindles-high-contextualization.md) — related
+- [Pedagogical agency enacted leadership: micro-sequencing, macro-sequencing, and systems-thinking changes in instruction](pedagogical-agency-sequencing-systems-thinking.md) — a narrower finding that bears on this claim

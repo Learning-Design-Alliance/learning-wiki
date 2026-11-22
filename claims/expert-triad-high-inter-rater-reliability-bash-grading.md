@@ -119,3 +119,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
 - [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related
 - [Inter-rater reliability of expert rubric scoring was excellent for AP Physics 1 (all ICC > 0.90) and generally strong but more variable for AP Physics 2](expert-rubric-scoring-reliability-icc.md) — related
+- [Blind human validation establishes near-perfect inter-rater reliability and 98–99% accuracy of the grounded competency extraction](grounded-extraction-blind-validation-accuracy.md) — related

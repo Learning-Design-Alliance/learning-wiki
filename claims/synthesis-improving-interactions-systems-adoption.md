@@ -49,3 +49,4 @@ The meta-synthesis's final synthesis identified two main interaction improvement
 - [Misalignment between curricular change and high-stakes testing policy is a macro-level obstacle to adoption](macro-testing-policy-misalignment-hinders-adoption.md) — related
 - [Teachers' lack of pedagogical knowledge about CLT hinders curricular change implementation at the micro-level](micro-teacher-qualifications-hinder-clt-implementation.md) — related
 - [Lack of guidance and inadequate professional development at the macro-level hinders curricular change implementation](macro-lack-guidance-inadequate-pd-hinders-implementation.md) — related
+- [Pedagogical agency enacted leadership: micro-sequencing, macro-sequencing, and systems-thinking changes in instruction](pedagogical-agency-sequencing-systems-thinking.md) — related

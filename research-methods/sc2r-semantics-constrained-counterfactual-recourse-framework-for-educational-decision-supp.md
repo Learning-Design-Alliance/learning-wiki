@@ -28,7 +28,8 @@ SC2R is a three-component pipeline for educational decision support: a predictiv
 - [Activating availability constraints in the IP pipeline lowers SHACL conformance to 0.875 without reducing optimization cost, exposing infeasible plans](../claims/semantic-validation-exposes-infeasible-plans.md) [+M]
 
 ## Related Research Methods
--
+
+- [Feasibility-constrained optimal dynamic treatment regime estimation](feasibility-constrained-optimal-dynamic-treatment-regime-estimation.md)
 
 ## Key Sources
 - Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge. (2026). From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support. arXiv preprint. https://arxiv.org/abs/2608.17618

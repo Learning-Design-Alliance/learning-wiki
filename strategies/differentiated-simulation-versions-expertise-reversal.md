@@ -46,6 +46,7 @@ For future work the authors recommend using EJS to create different versions of 
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

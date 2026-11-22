@@ -51,6 +51,7 @@ Laboratory activities in which students record the statistical fluctuations of m
 - [Use built-in mobile-device sensors for science experiments across unconventional settings such as amusement parks, gyms, parks and means of transport](st-smartphone-sensor-experiments-unconventional-settings.md)
 - [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
 - [Extend uncertainty learning to everyday contexts with fluctuation-based challenges and magnetometer experiments](everyday-fluctuation-challenges-extensions.md)
+- [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Qualitative interview study (Johnson 2020) with 6 undergraduate women physics ma
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — reports the opposite
 - [In the large research university department (Study 2), undergraduate women report male peers ignoring their contributions and male instructors enforcing negative stereotypes, while female peers serve as key support sources](study2-masculine-negative-peer-instructor-culture.md) — related
 - [Four of the seven women described negative high school experiences, including gender bias from teachers and peers](negative-high-school-experiences-gender-bias.md) — related
+- [First-year Physics Ph.D. students described the overall physics department culture as supportive and cooperative](physics-phd-students-describe-supportive-department-culture.md) — related

@@ -52,3 +52,4 @@ Sequential explanatory qualitative strand: brief informal interviews and feedbac
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
+- [Learners report that labeled relation extent, cross-stage image comparison, diverse patient examples, and criteria checklists support surgical learning](learners-value-relation-extent-labels.md) — related

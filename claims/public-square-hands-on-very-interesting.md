@@ -49,3 +49,4 @@ Descriptive tabulation of the closed-ended questionnaire item on the hands-on ex
 - [Festival visitors' self-reported interest in quantum technologies decreased significantly from before to after visiting the exhibit in one uncontrolled pre-post study, with a medium effect size (d = 0.44).](festival-exhibit-decreases-interest-quantum.md) — related
 - [Most surveyed visitors (78.1%) were already familiar with at least one of the experiments presented](public-square-prior-familiarity-78-percent.md) — related
 - [All 52 surveyed visitors said they would like more events like the public-square physics activity](public-square-unanimous-demand-more-events.md) — related
+- [In a 2025 post-workshop survey, 81% of teachers (17/21) rated the QKD kit activity as Very Valuable and the remaining 19% (4/21) rated it as Valuable](teachers-rate-qkd-kit-very-valuable.md) — related

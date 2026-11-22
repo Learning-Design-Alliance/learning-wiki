@@ -63,3 +63,4 @@ Output-level evaluation of DEEPSEEK-V3.2 and GLM-4.7 across direct, CoT, and rea
 - [The authors found no significant difference between paid and free models, or between generative pre-trained and reasoning-based models, in ethics MCQ generation quality (descriptive only)](no-descriptive-difference-paid-free-gpt-reasoning-models.md) — related
 - [GPT-4 context descriptions improve story-matched 3D model generation quality from 3.2 to 4.6 out of 5](gpt4-descriptions-improve-3d-model-context-match.md) — related
 - [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
+- [The system did not consistently preserve distractor logic in generated MCQs, with only 59% preserving the logical structure of distractors overall and 47% for abstract-context numerical questions](llm-mcq-distractor-logic-preservation-weak.md) — related

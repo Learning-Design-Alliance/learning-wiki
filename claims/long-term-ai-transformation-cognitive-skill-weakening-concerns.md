@@ -91,3 +91,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [Participants report that excessive dependence on laboratory tests and imaging erodes students' clinical reasoning and history-taking skills.](paraclinical-dependence-erodes-reasoning-iran.md) — a narrower finding that bears on this claim
 - [Concerns that AI undermines educational values showed mostly non-significant condition differences, with future learning risk only approaching significance (β = 0.41)](future-learning-risk-concern-marginal.md) — related
 - [AI dependency and overtrust erode learner agency: excessive reliance undermines independent problem-solving, and explicit instruction about AI's statistical nature can restore critical engagement](ai-dependency-overtrust-erode-agency.md) — related
+- [The article classifies unmediated GenAI's pedagogical risks in physics education as two illusions and two erosions](genai-illusions-erosions-physics-education.md) — related

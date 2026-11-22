@@ -49,3 +49,4 @@ Descriptive cross-sectional survey of 26 NPMT tutors on attitudes to medical edu
 - [Junior doctor tutors reported high enjoyment and strong overall benefit from participating in the near-peer teaching program](junior-doctor-tutors-enjoyment-benefit-high.md) — related
 - [Junior doctor tutors reported strong likelihood to make teaching a major part of their future careers, and attributed this aspiration partly to their NPMT experience](near-peer-tutoring-future-teaching-aspirations.md) — related
 - [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](near-peer-teaching-stress-relief-minimal.md) — related
+- [Most respondents intended to keep using P-A.I.R. and would recommend it to peers, and the two intentions were positively associated](pair-adoption-reuse-recommendation.md) — related

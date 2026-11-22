@@ -95,6 +95,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - [Educator experiments: pre-lecture fundamentals quizzes, mental math, and prerequisite mathematics assessment](educator-experiments-lecture-preparation.md)
 - [Instructors can facilitate activation and sharing of known shared resources when students do not spontaneously activate them](facilitate-activation-of-shared-resources.md)
 - [Ask students to formulate hypotheses about the experiment's outcome before observing it, then resolve them through the demonstration](hypothesis-formulation-before-elevator-demonstration.md)
+- [Use entry diagnostic assessment, online bridging resources and embedded contextual mathematical support to close the mathematics transition gap](maths-diagnostic-and-bridging-strategy.md)
 
 ## Examples
 - **[KWL charts](https://www.readingrockets.org/strategies/kwl)** — a widely used reading-comprehension routine in which students list what they Know and Want to learn before reading, then return to record what they Learned.

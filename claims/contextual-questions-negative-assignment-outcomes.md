@@ -46,3 +46,4 @@ Regression analysis of dialogue act counts against normalized assessment scores 
 - [Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores](math-conceptual-questions-negative-a6.md) — a narrower finding that bears on this claim
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — a broader claim this one bears on
+- [AI knowledge outcomes were negatively associated with dialogue sequences dominated by directive and suggestion acts](directive-suggestion-sequences-negative-ai-knowledge.md) — related

@@ -47,3 +47,4 @@ Authors' interpretive conclusion (type e), not a tested result. They acknowledge
 ## Related Claims
 - [Open-circuit voltage histograms of student-built panels reveal soldering defects as distinct voltage peaks](voc-histogram-reveals-soldering-defects.md) — a narrower finding that bears on this claim
 - [Materials for student-built solar panels cost about $6.30 per student, roughly $1.17 per Watt of rated panel power](solar-panel-fabrication-cost-6-30-per-student.md) — related
+- [Students significantly improved overall DIRECT performance after instruction, yet TMA showed they did not typically have solid understanding of direct current circuit power](overall-gain-masks-unstable-resource-activation.md) — related

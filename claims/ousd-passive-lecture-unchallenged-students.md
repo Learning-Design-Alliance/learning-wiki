@@ -54,3 +54,4 @@ Classroom observations conducted as part of the OUSD equity review, alongside st
 - [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](student-self-determination-rare-higher-in-active-tasks.md) — related
 - [School engagement with the interventions was low, and the passive or active nature of support was not the key determinant of engagement](literacy-octopus-engagement-low-passive-active-not-key.md) — related
 - [Students in passive lectures agree more strongly that the class involved them as listeners](passive-lecture-rated-more-listener-focused.md) — related
+- [Students reported that well-organized pre-lecture notes improved course clarity, though some students used them to be more passive in class](pre-lecture-notes-organization-clarity.md) — related

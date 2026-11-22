@@ -45,7 +45,8 @@ The Prompt–Reflect–Refine cycle is the study's structured pedagogical routin
 - [Gpt Metacognitive Regulation Growth](../claims/gpt-metacognitive-regulation-growth.md) [+M]
 
 ## Related Designs
-- 
+
+- [The P-A.I.R. framework: a four-step structured AI-use cycle of identify, explain, replicate, and reflect](pair-framework-identify-explain-replicate-reflect.md)
 
 ## Examples
 -

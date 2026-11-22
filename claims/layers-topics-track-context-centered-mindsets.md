@@ -57,3 +57,4 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md) — related
 - [Building relationships with students is a foundational social justice pedagogy in HPE, enacted through knowing students personally and caring teaching strategies](relationships-foundation-social-justice-hpe.md) — related
+- [Coaches position personalized, relationship-centered instruction as their primary value over freely available online content](personalized-coaching-value-over-free-content.md) — related

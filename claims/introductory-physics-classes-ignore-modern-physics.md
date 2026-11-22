@@ -53,3 +53,4 @@ Section 3 of the position paper reports, citing Stadermann, van den Berg and Goe
 - [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related
 - [Entering 12th-grade pupils had little prior knowledge of quantum concepts: entanglement was mentioned twice and EPR once among 55 answers](pupils-little-prior-knowledge-entanglement.md) — a narrower finding that bears on this claim
 - [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — possibly the same claim (merge candidate)
+- [The historical approach to teaching QM at high school stops before the mature framework of QM, omitting its postulates and key consequences](historical-approach-omits-qm-postulates.md) — a narrower finding that bears on this claim

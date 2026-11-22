@@ -47,3 +47,4 @@ Single VPython exercise (charges at fixed positions, a released negative charge)
 
 ## Related Claims
 - [Weighted across components, ChatGPT would have earned a 1.5 course grade — passing, but below the graduation threshold](chatgpt-course-grade-1-5-passing-below-graduation.md) — related
+- [Under versions 7–8, scripted personas produced distinct score profiles, with the self-corrector earning full bonus and the caver none](personas-distinct-score-profiles.md) — related

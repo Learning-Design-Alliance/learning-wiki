@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-22
 recheck_by: 2029
 sources:
   - id: john-hu-and-andrew-j-ash-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` ChatGPT claimed 99% confidence in a wrong op-amp pin diagnosis and made three false statements about the PCB after a second photo. [→ John Hu and Andrew J. Ash 2026](#john-hu-and-andrew-j-ash-2026)

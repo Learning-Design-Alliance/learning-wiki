@@ -66,3 +66,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
 - [Earning badges was associated with greater completion of remaining questions only in round 2, with no significant badge effect in rounds 1 and 3.](badge-effect-on-completion-mixed-by-round.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
+- [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related

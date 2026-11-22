@@ -70,3 +70,4 @@ Post-hoc feature importance analysis (Table 8, top 20 features per subject) usin
 - [The most important feature for the ClickTree model was sequence folder path level 3, representing the subject of the assignment problem.](sequence-folder-path-level-3-most-important-feature.md) — related
 - [For numerical problems, explicit units and included solution strategy dominate prediction of student choice, with substantially better model accuracy](numerical-choice-predictors-units-strategy.md) — reports the opposite
 - [For radio-button problems, cognitive-demand metrics (Bloom level, difficulty, distinct misconceptions) are the strongest random-forest predictors of student choice](radio-choice-predictors-cognitive-demand.md) — a narrower finding that bears on this claim
+- [Mathematics skills are the dominant positive predictor of first-round success, while conventional vocational interests negatively predict success](shap-predictors-olympiad-success.md) — related

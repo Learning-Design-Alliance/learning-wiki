@@ -28,7 +28,8 @@ StudentSimEval is a benchmark dataset, fixed per-student record schema, held-out
 - [Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit](../claims/hsls-mentee-fidelity-attribution-better-than-decisions.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [LearnSim](learnsim.md)
 
 ## Key Sources
 - Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591

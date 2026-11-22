@@ -45,7 +45,8 @@ The Phy Ex course, created by Yves Couder at Université Paris VII, has students
 - 
 
 ## Related Designs
-- 
+
+- [NMP-HEP curriculum: 120 ECTS over four semesters combining theory, experimental methods, computing and research training](nmp-hep-curriculum-120-ects.md)
 
 ## Examples
 -

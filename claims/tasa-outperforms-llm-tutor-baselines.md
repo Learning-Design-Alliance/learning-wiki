@@ -50,3 +50,4 @@ Main results comparison (Table 1) across Assist2017, NIPS34, Algebra2005, and Br
 - [Instantiating TASA with DKT as the knowledge tracing model yields the highest average learning gain among five KT variants](dkt-best-kt-backbone-for-tasa.md) — related
 - [DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench](deeptutor-improves-interactive-tutoring-quality-10-76.md) — related
 - [TACTutor shows no degradation relative to its Qwen backbone on external educational benchmarks, with scores rising on MRBench, TutorBench, LongTutor, and DeepTutor](tactutor-no-degradation-external-benchmarks.md) — related
+- [ToST improves guidance success rates by an average of 11% over educational LLM baselines across four math benchmarks](tost-improves-guidance-success-11-percent.md) — related

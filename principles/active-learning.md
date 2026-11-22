@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (63 for, 38 mixed, 4 against) · 84 studies (43 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 16 of 84 report an effect size · 97 claims rest on one study
+> **Evidence** · 106 claims (64 for, 38 mixed, 4 against) · 85 studies (44 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 17 of 85 report an effect size · 98 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Algebra-based FCI normalized gain reaches the interactive-engagement region (0.36) only when RT labs plus recitations are combined with PER-informed lecture instruction](../claims/combined-rt-labs-perl-lecture-ie-region-fci.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2012), which proposed "Reform gains are largest when PER-informed instruction is implemented in the lecture as well as in labs and recitations"; tests this page's relationship.
 - [Participants on the AI-tutored problem-solving platform (Platform B) achieved raw learning gains 70.43% higher than participants on the traditional video-and-quiz platform (Platform A) in a 3-hour linear regression course](../claims/platform-b-higher-raw-learning-gains.md) [~W] — attached 2026-11-19 from Comparative Study of Learning Outcomes for Online Learning Platforms, which proposed "Design online courses so that the majority of study time is spent on active problem-solving rather than passive video watching and reading".
 - [Students in a lecture-free IPP/PBL quantum mechanics course averaged 34.2% on the QMS, above a traditional lecture-based section's 24.3%](../claims/pbl-quantum-mechanics-qms-scores.md) [+W] — attached 2026-11-21 from Gintaras Dūda (2025), which proposed "A repertoire of active-engagement pedagogies for IPP-based STEM instruction"; tests this page's relationship.
+- [Both interactive post-lecture conditions outperformed lecture-only instruction on adjusted post-test scores, while MR and ET did not differ significantly](../claims/interactive-conditions-outperform-lecture-only.md) [+W] — attached 2026-11-21 from Sharmin Akter et al. (2026), which proposed "Design post-lecture interactive supports as targeted conceptual extensions to lecture, not replacements or general engagement tools"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

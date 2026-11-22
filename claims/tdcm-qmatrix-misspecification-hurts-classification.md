@@ -59,3 +59,4 @@ The article attributes this finding to previous research studies, cited as backg
 - [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](qmatrix-validation-low-change-rate.md) — a narrower finding that bears on this claim
 - [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](reliability-prerequisite-for-test-uses.md) — related
 - [Classification accuracy is high (over 0.9) for most measured skills but low for FCI visualizations (0.79) and EMCS algebra (0.63)](skill-classification-accuracy-three-mechanics-rbas.md) — related
+- [DIF severity classifications are 100% invariant across alternative FCI Q-matrix specifications](fci-dif-severity-invariant-across-q-matrices.md) — a narrower finding that bears on this claim

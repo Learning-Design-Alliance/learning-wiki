@@ -56,3 +56,4 @@ Item response curves for Question 18 computed using data from ~500 Rice student 
 - [Quantitative IRC dot product comparison reveals differences (e.g., item 21, item 38) that qualitative visual comparison missed, revising which items IDW highlighted](dot-product-reveals-non-salient-irc-differences.md) — related
 - [Couplet scoring differentiates among distractor responses on a multiple-choice item, whereas dichotomous scoring gives all distractors the same score](couplet-scoring-differentiates-fci-item18-distractors.md) — related
 - [Applying couplet scoring post development can reveal items that cannot measure a targeted objective: all FCI item 18 options earn a point for principle L4](post-hoc-couplet-scoring-reveals-unmeasurable-objective.md) — related
+- [Free-text responses to an FCI item reveal incorrect ideas not captured by the item's MCQ distractor options](ftr-responses-reveal-ideas-missing-from-mcq-distractors.md) — related

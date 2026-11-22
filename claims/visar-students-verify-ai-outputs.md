@@ -51,3 +51,4 @@ Open-coded interviews with four students and two instructors. Several participan
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
+- [AstroTutor exhibited role drift toward unstable authority, including a grade-like mark suggestion and hallucinated or dimensionally problematic physics formulations, creating a verification burden](genai-unstable-authority-role-drift.md) — related

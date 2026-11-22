@@ -94,3 +94,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Learners rarely used the provided low-cost VR head-mounted displays, with discomfort and dizziness limiting immersive capability's role](low-cost-hmds-rarely-used-discomfort.md) — a narrower finding that bears on this claim
 - [VR removes social barriers in clinical skills training such as auscultation, supporting knowledge retention and skill acquisition](vr-removes-social-barriers-clinical-skills-training.md) — related
 - [Course implementation faced four challenge types, each addressed with targeted pedagogical solutions](implementation-challenges-heterogeneous-backgrounds-resources.md) — related
+- [Difficulties faced by named-method implementers include long-standing active learning adoption issues and new issues related to emergent technologies such as Artificial Intelligence](implementation-difficulties-longstanding-and-emergent-ai.md) — a broader claim this one bears on

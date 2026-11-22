@@ -52,3 +52,4 @@ Test-level analysis limited to students who took both the current and previous t
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) — related
 - [Historical platform data shows undesirable test-taking behaviors trend down as marks scored increase test-on-test, but feedback cannot be isolated as the cause](feedback-behavior-trend-uncontrolled.md) — related
+- [In a small blinded human pilot, ToST receives the strongest learner self-ratings on helpfulness, clarity, willingness to continue, and manageability](tost-human-pilot-learner-ratings.md) — related

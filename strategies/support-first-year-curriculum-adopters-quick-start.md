@@ -55,6 +55,7 @@ Because all interviewed teachers found the curriculum overwhelming in their init
 - [Provide teachers with time, resources and professional development to explore iPads before implementation](teacher-pd-time-for-ipad-implementation.md)
 - [Use curated resources (BEME, Twelve tips, ALiEM primers, AMEE Guides, KeyLIME, ALiEM eBooks) to develop evidence-based educational initiatives](evidence-based-education-resource-toolbox.md)
 - [Support faculty transitioning into DBER with get-started information, project-sustaining mechanisms, and a supportive community](support-faculty-transitioning-into-dber.md)
+- [Three-step quick-start process for educators adopting the NuPaD methodology](nupad-three-step-educator-quickstart.md)
 
 ## Examples
 -

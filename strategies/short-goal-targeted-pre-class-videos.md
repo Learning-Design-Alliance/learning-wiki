@@ -66,6 +66,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Maximize engagement by keeping videos brief, using conversational enthusiastic narration, and packaging videos for the specific course](video-engagement-style-strategies.md)
 - [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 - [Use short (5 to 10 minute) educational videos with conversational narration and visual demonstrations to support learning](short-educational-videos-ipls.md)
+- [Report video purpose, learner activity, context, outcomes and duration together, and design each video around a coherent learning unit rather than a minute limit](report-purpose-activity-context-duration-together.md)
 
 ## Examples
 -

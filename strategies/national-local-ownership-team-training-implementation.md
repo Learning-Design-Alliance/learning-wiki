@@ -48,6 +48,7 @@ The article distils lessons for large-scale implementation of team training. It 
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implementation strategies for establishing a centralized tutor training program: central coordination, stakeholder inclusion, and evaluation of attained skills](centralized-tutor-training-implementation-strategies.md)
 - [Facilitation lessons for sustaining faculty engagement in course transformation](faculty-engagement-facilitation-lessons.md)
+- [Lessons for establishing inter-university programmes: shared vision, research-institute involvement, and flexible cooperation](inter-university-programme-lessons.md)
 
 ## Examples
 -

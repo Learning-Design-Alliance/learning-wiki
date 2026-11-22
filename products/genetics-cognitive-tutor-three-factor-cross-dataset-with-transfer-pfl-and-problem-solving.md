@@ -27,7 +27,8 @@ A dataset of Carnegie Mellon undergraduates’ interactions with the Genetics Co
 - [K* detectors identify no-transfer-shallow learners at student-level cross-validated A′ of 0.766–0.791](../claims/kstar-detects-no-transfer-shallow-learning.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [8,671-problem near-transfer dataset of validated source–variant math problem pairs](8671-problem-near-transfer-dataset-of-validated-sourcevariant-math-problem-pairs.md)
 
 ## Key Sources
 - Gowda, S. M., Baker, R. S., Corbett, A. T., & Rossi, L. M. (2013). Towards Automatically Detecting Whether Student Learning is Shallow. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-013-0006-4

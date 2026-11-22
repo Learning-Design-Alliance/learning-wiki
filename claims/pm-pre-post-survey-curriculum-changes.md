@@ -8,19 +8,19 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: vijay-kanabar-2015
+  - id: vijay-kanabar-2016
     resource: "https://doi.org/10.48550/arXiv.1601.07793"
-    title: "Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2015). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)"
+    title: "Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2016). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. Originally published 2015. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)"
     author: Vijay Kanabar, PhD, Anatoly Temkin, PhD
     q: 2
     i: "?"
     kind: design
     rigour: 2
-  - id: vijay-kanabar-2015-2
+  - id: vijay-kanabar-2016-2
     resource: "https://doi.org/10.48550/arXiv.1601.07793"
-    title: "Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2015). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)"
+    title: "Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2016). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. Originally published 2015. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)"
     author: Vijay Kanabar, PhD, Anatoly Temkin, PhD
     q: 2
     i: "?"
@@ -32,17 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A student survey with pre-tests and post-tests measured knowledge gained in the project management specialization core in 2013-2014. [→ Vijay Kanabar 2015](#vijay-kanabar-2015)
-`q2 i?` Following assessment, a new Agile Software Development course was introduced into the core, the Software Architecture course was revised, and the Distributed Software Development course was strengthened by at least 50%. [→ Vijay Kanabar 2015 (2)](#vijay-kanabar-2015-2)
+`q2 i?` A student survey with pre-tests and post-tests measured knowledge gained in the project management specialization core in 2013-2014. [→ Vijay Kanabar 2016](#vijay-kanabar-2016)
+`q2 i?` Following assessment, a new Agile Software Development course was introduced into the core, the Software Architecture course was revised, and the Distributed Software Development course was strengthened by at least 50%. [→ Vijay Kanabar 2016 (2)](#vijay-kanabar-2016-2)
 
 ## Evidence
 
-### Vijay Kanabar 2015
+### Vijay Kanabar 2016
 
-Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2015). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)
+Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2016). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. Originally published 2015. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)
 
 `q2 · i?` · `design · r2`
 
@@ -50,9 +50,9 @@ The department conducted a student survey with pre-test and post-test analytics 
 
 > "A Student Survey to Measure Changes in Experience, Knowledge, and Competency in Project Management Core Courses was conducted in 2013 -2014. Pre-tests and Post -tests analytics were conducted to measure knowledge gained in a specialization core"
 
-### Vijay Kanabar 2015 (2)
+### Vijay Kanabar 2016 (2)
 
-Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2015). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)
+Vijay Kanabar, PhD, Anatoly Temkin, PhD. (2016). Computer Science Programs, Goals, Student Learning Outcomes and their Assessment. CSECS 2015, Boston, MA. Originally published 2015. [doi:10.48550/arXiv.1601.07793](https://doi.org/10.48550/arXiv.1601.07793)
 
 `q2 · i?` · `design · r2`
 
@@ -69,3 +69,4 @@ The article reports that assessment of the project management program resulted i
 - [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related
 - [Self-rated self-efficacy scores rose from pre-session to post-session within each SBE scenario but did not change across the academic unit: pre-session scores returned to baseline at each new scenario in one group measured before and after](sbe-self-efficacy-does-not-transfer-between-clinical-areas.md) — related
 - [Committee review of security capstone deliverables rated students at High Competency and produced an action plan for curriculum changes](security-capstone-direct-assessment-high-competency.md) — related
+- [Curriculum–market content gaps are systemic across the computing portfolio, concentrated in under-supplied applied domains such as software engineering, systems, web, and security](systemic-content-gaps-applied-domains.md) — related

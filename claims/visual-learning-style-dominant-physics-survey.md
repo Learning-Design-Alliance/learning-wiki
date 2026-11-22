@@ -51,3 +51,4 @@ A 14-item learning style questionnaire administered to the 125 eleventh-grade st
 - [Learning styles tend to change with cognitive and mental development, shifting from kinesthetic dominance in elementary school toward visual and multimodal styles at higher levels](learning-styles-change-across-education-levels.md) — a broader claim this one bears on
 - [Students rated dynamic visual, auditory, and still-image resources as contributing more to skill acquisition than kinesthetic simulator practice or self-written notes](multimodal-resource-contribution-rankings.md) — related
 - [Manipulative materials foster pupils' love for reading more than visual materials, despite pupils being predominantly visual learners.](manipulative-materials-foster-reading-love.md) — related
+- [In this Informatics sample, Kinesthetic was the predominant VARK preference (72.97%), reflecting disciplinary context](kinesthetic-predominant-vark-informatics-sample.md) — reports the opposite

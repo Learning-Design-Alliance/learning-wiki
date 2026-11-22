@@ -47,6 +47,7 @@ The paper's implications-for-practice section recommends "risk-stratified deploy
 ## Related Strategies
 
 - [Ask students to justify each FCI answer in writing when deploying conceptual tests online](fci-written-justifications-strategy.md)
+- [Use multi-format follow-up sub-items (free-text and law-selection MRQ) alongside FCI-style MCQs to probe student reasoning more deeply](multi-format-follow-up-subitems-strategy.md)
 
 ## Examples
 -

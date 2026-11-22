@@ -46,6 +46,7 @@ The authors recommend that future iterations of GPPs incorporate adaptive hints 
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

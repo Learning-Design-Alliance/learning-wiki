@@ -74,3 +74,4 @@ Emmeans trend analysis over GPAs from 2.893 (tenth percentile) to 3.548 (mean) i
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Baseline vocabulary moderates the effect of question-asking practice on science learning, weakening the vocabulary-learning link and equalizing outcomes](vocabulary-moderates-science-learning-equalizing.md) — related
 - [Lower-performing students (bottom 20% on initial practice exams) showed a marginally non-significant trend favoring combined AI + textbook feedback over baseline](combined-feedback-trend-low-performing-students.md) — related
+- [Personalized sequencing gains are larger for beginners and for students in lower-tier schools](sequencing-gains-larger-for-beginners-and-lower-tier-schools.md) — related

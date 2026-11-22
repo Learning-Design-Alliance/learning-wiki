@@ -70,3 +70,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — related
 - [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related
 - [MetaRoundWorm users reported moderate simulator sickness, with disorientation most prominent](vr-condition-moderate-simulator-sickness.md) — a narrower finding that bears on this claim
+- [Virtual reality sickness remained low and unchanged across the MR session, indicating the MR application was well tolerated](mr-vrsq-low-well-tolerated.md) — related

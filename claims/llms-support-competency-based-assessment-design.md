@@ -74,3 +74,4 @@ The review's RQ4 synthesis states this is particularly valuable in fields such a
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related
 - [LLM-generated worked examples and practice sets are often rated usable and helpful by novices, with quality varying and benefiting from instructor review](llm-materials-quality-variance.md) — related
 - [Tier 2 assessment tasks are non-standardizable by design, so closing the assessment gap requires trained professional judgment applied repeatedly rather than rubrics alone](tier2-assessment-nonstandardizable.md) — related
+- [In a preliminary test, LLM generation of context-rich problems with changed thematic focus was unsatisfactory, replacing surface cover stories rather than redesigning scenarios](llm-context-rich-problem-generation-unsatisfactory.md) — related

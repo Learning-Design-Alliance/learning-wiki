@@ -45,6 +45,7 @@ To operationalize competency goals in the reformed curriculum, the authors devel
 - [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
 - [A staged competency-based framework for geriatric dental education with 6 core competencies, 34 sub-competencies, and 72 enabling competencies](staged-competency-framework-geriatric-dentistry.md)
 - [Three-tier ecological environment integrates BPSO guidelines into core courses with physical, classroom, and practice layers](three-tier-ecological-environment-ebp.md)
+- [Two-layer model of competitive programming competence separating algorithmic problem-solving from contest performance](two-layer-cp-competence-model.md)
 
 ## Examples
 -

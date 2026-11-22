@@ -61,3 +61,4 @@ Dependent samples t-tests on SOSESC-P survey responses from three MI courses (N 
 - [Test anxiety increased over the duration of both physics courses for men and women, with women higher in anxiety throughout; self-efficacy declined over Physics 1, and over Physics 2 for women only](test-anxiety-increases-over-course-duration.md) — related
 - [Although the women developed initial interest in physics in diverse ways, they followed a similar trajectory of declining self-efficacy while their coping strategies differed](shared-declining-trajectory-varied-coping.md) — related
 - [Across the semester, men's identity and perceived recognition changed little while women's declined, with small effect sizes](pre-post-gender-effect-sizes-identity-recognition.md) — related
+- [Four of five students completing both E-CLASS surveys reported increased interest in physics during the CURE semester](eclass-increased-interest-physics-cure.md) — related

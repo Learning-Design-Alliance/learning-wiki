@@ -30,7 +30,8 @@ The article proposes expanding assessment beyond the standard select-a-correct-a
 - [The decrease response is viewed by the class as possibly correct but not definitively incorrect: 27% chose it as correct while only 6% eliminated it](../claims/decrease-response-possibly-correct-not-definitively-incorrect.md) [+W]
 
 ## Related Research Methods
--
+
+- [Cave detection: a four-outcome scheme measuring whether a correct answer survives probing](cave-detection-a-four-outcome-scheme-measuring-whether-a-correct-answer-survives-probing.md)
 
 ## Key Sources
 - Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M. (2006). Probing Student Understanding With Alternative Questioning Strategies. https://eric.ed.gov/?q=Probing+Student+Understanding+with+Alternative+Questioning+Strategies

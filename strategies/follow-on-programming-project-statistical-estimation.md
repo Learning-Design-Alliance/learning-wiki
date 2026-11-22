@@ -45,6 +45,7 @@ To reinforce conceptual thinking with quantitative understanding, advanced stude
 ## Related Strategies
 
 - [What’s My Number?](whats_my_number.md)
+- [Extend the Gate of Fate to spatial targeting games and role-playing games where antagonists respond to players' quantum reflexes](gof-extensions-rpg-targeting-strategy.md)
 
 ## Examples
 -

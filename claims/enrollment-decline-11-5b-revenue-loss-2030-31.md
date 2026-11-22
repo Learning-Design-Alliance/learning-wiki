@@ -51,3 +51,4 @@ Bellwether analysis applying federal enrollment projections to 2022–23 per-pup
 - [School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20](state-revenue-reliance-increases-volatility.md) — related
 - California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [The primary driver of declining enrollment is a sustained drop in birth rates, with slowed immigration and expanded school choice as additional drivers](enrollment-decline-drivers-birth-rates-choice.md) — related
+- [Minimum enrolment thresholds for master's programmes threaten the operation of small specialised programmes in Romania](minimum-enrolment-thresholds-specialised-programmes.md) — related

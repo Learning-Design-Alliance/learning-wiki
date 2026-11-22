@@ -62,6 +62,8 @@ The article's central design recommendation is a principled division of labor: a
 - [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 - [Assess reasoning, design, and judgment through design critiques, audit reports, POP documentation, and stakeholder communication exercises rather than correct final answers](assessment-formats-evaluate-reasoning-not-answers.md)
 - [Use LLM grading for programmatic assessment and triage, not for unreviewed student-facing feedback](llm-grading-programmatic-assessment-triage.md)
+- [Delay the automated photometry pipeline so students analyse raw data first, then compare with the reference pipeline](delayed-pipeline-student-analysis-first.md)
+- [Use embeddings for exploratory organization and human-in-the-loop review of student solutions, with external validation before any grading use](embeddings-exploratory-human-in-the-loop-review.md)
 
 ## Examples
 -

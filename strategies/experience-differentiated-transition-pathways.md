@@ -55,6 +55,7 @@ The authors recommend that "transition curricula may benefit from differentiated
 - [Differentiate the training program by surgeon experience level: synthetic exercises for young residents, biological exercises for senior groups](tes-experience-tiered-exercise-allocation.md)
 - [Adapt simulation session length and content to learner experience level, and emphasize maintenance training for low-frequency procedures](adapt-sim-session-to-experience-and-maintain.md)
 - [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
+- [Differentiate module pathways by programme so future clinicians practise critical consumption rather than implementation](programme-differentiated-module-pathways.md)
 
 ## Examples
 -

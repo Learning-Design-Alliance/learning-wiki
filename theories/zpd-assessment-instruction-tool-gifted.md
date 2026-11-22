@@ -84,6 +84,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Derive simulation scenarios from real clinical events and pitch them to the learners' background at the edge of their comfort zone](../strategies/real-event-scenarios-at-comfort-zone-edge.md)
 - [Teacher professional development scenarios built on collective work on actual practices, extending the ZPD to a ZPDP](../strategies/zpdp-collective-work-on-practices-training.md)
 - [Use the CoRP framework to identify students' covariational reasoning resources and target instruction within their zone of proximal development](../strategies/corp-lens-identify-resources-target-instruction.md)
+- [Vygotskian zone of proximal development scaffolding combined with preparation for future learning guides QuILT design](../designs/vygotsky-zpd-scaffolding-quilt-design.md)
 
 ## Key Sources
 - McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

@@ -60,3 +60,4 @@ Qualitative analysis of the resilience cluster (codes: belonging, confidence in 
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Four of the six outreach-experience clusters (community participation, resilience, transformation, audience dialog) are highly interconnected, indicating interrelated impacts](outreach-impact-clusters-interconnected.md) — related
 - [Network analysis of open-ended survey responses from outreach-facilitating physics students reveals six distinct experience clusters with Q=0.476](six-clusters-outreach-experience-network-analysis.md) — a broader claim this one bears on
+- [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related

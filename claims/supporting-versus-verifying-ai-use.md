@@ -68,3 +68,4 @@ Self-reflection data from 38 of the 49 students. Many cited improved understandi
 - [Iterative prompt-crafting to correct chatbot errors fostered critical reflection and developed pedagogical content knowledge](iterative-prompt-crafting-fosters-pck.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Using GenAI as a dialogic agent in secondary school poetry tasks engendered critical thinking and creativity, with students verifying ChatGPT responses through follow-up research](dialogic-genai-engenders-critical-thinking.md) — related
+- [Qualitative themes credited P-A.I.R. with conceptual clarification, structured problem decomposition, metacognitive prompt-crafting, and autonomous practice generation](pair-qualitative-benefit-themes.md) — related

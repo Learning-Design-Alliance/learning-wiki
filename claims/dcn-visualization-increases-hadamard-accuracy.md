@@ -49,3 +49,4 @@ Paired-sample t-test (Holm-adjusted) of accuracy in the within-subject main phas
 - [More transitions between Dirac Notation and DCN visualization are associated with a smaller accuracy benefit from visualization](dcn-transitions-negative-accuracy-benefit.md) — related
 - [Representational competence predicts ECL reduction with DCN visualization, but not accuracy increases or ICL reduction](rc-predicts-ecl-reduction-dcn.md) — related
 - [Relative fixation duration on the visualization does not significantly moderate accuracy or cognitive-load benefits of DCN](fixation-duration-no-moderator-effect-dcn.md) — related
+- [In the Intro2QC programming tutorial, students implementing Hadamard gates on each qubit of an N-qubit circuit observe measurement outputs forming a fairly uniform distribution of all 2N classical bitstrings](hadamard-uniform-bitstring-distribution.md) — related

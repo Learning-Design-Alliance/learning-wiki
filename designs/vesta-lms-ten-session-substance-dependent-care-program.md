@@ -42,7 +42,8 @@ The intervention is a four-week e-learning program delivered through Vesta, a le
 - [E Learning Improves Midwives Clinical Skills Osce](../claims/e-learning-improves-midwives-clinical-skills-osce.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four standardized pregnancy sexual counseling scenarios spanning 16th- and 32nd-week concerns](four-pregnancy-sexual-counseling-scenarios.md)
 
 ## Examples
 -

@@ -87,3 +87,4 @@ Paired-samples t-test within the control group (n=21) receiving regular curricul
 - [Narrative theory instruction improved students' image creativity scores for poster design](narrative-theory-improved-image-creativity-scores.md) — related
 - [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related
 - [The experimental group improved significantly from pre-test to post-test (p<0.001) while the control group showed no statistically significant change](history-informed-group-pretest-posttest-improvement.md) — related
+- [Within-condition learning gains appeared only in the adaptive condition: RAFT scores rose significantly pre- to post-test while RoR showed no significant improvement](within-condition-gains-only-raft.md) — related

@@ -74,3 +74,4 @@ Cross-case finding from the six faculty interviews: Ben, Carl, David, and Franz 
 - [The article claims a self-contained introduction to GKP qubits is achievable for CS-background learners with prerequisites limited to undergraduate linear algebra, probability theory, classical coding theory, and basic complex numbers](gkp-session-cs-prerequisites-only.md) — related
 - [Designing QISE courses for students with varied STEM backgrounds is a recognized curriculum weakness](qise-courses-varied-stem-backgrounds.md) — related
 - [Students reported lower familiarity with quantum benchmarking and applications than with fundamentals](q-beast-students-weak-benchmarking-applications.md) — related
+- [Existing quantum computing instruction shows heterogeneous curricula and persistent misconceptions that survive standard instruction](heterogeneous-quantum-curricula-persistent-misconceptions.md) — a broader claim this one bears on

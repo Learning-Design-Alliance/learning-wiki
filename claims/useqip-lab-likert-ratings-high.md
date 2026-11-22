@@ -46,3 +46,5 @@ Post-workshop surveys (2013-2025) with response rates from 52% (13/25 in 2025) t
 
 ## Related Claims
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
+- [In the QSYS 2023 program, the QKD lab received the highest rating of any of the 11 hands-on lab activities for connecting to and clarifying lecture content, with a mean score of 3.6 on a four-point Likert scale](qsys-qkd-lab-highest-lecture-connection-rating.md) — related
+- [In a 2025 post-workshop survey, 81% of teachers (17/21) rated the QKD kit activity as Very Valuable and the remaining 19% (4/21) rated it as Valuable](teachers-rate-qkd-kit-very-valuable.md) — related

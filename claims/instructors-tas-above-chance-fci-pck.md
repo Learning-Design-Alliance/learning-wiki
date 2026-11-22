@@ -56,3 +56,6 @@ Comparison of 30 instructors and 25 graduate students in a TA training course ag
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — related
 - [Recent teaching experience in introductory mechanics does not correlate with instructors' ability to identify students' alternate conceptions on the FCI](teaching-experience-not-correlated-fci-pck.md) — related
 - [Victory conditions compare AI and human prediction quality against each other and against random guessing, requiring both to significantly beat chance](victory-conditions-beat-random-guessing.md) — related
+- [Prior studies using the same method found TAs' knowledge of alternate conceptions is context dependent and that TAs struggled more with the CSEM than the FCI or TUG-K](prior-ta-pck-studies-context-dependence-csem.md) — related
+- [TAs' ability to identify student alternate conceptions related to the work-kinetic energy theorem is context dependent, ranging from 90% on Q24 to 36% on Q25](ta-pck-work-ke-theorem-context-dependent.md) — related
+- [Physics TAs' average normalized PCK score across the full EMCS was 58%, with scores distributed close to normal and 90% of TAs between 45% and 75%](ta-emcs-pck-average-58-percent.md) — related

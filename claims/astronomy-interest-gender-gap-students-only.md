@@ -51,3 +51,4 @@ Survey analysis of interest by socio-demographic criteria in the two samples (66
 - [About one third of Belgian respondents declare an interest in astronomy, with interest rising with cultural level, ecological concern and science background](belgium-astronomy-interest-one-third.md) — related
 - [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](masterclass-male-female-physics-interest-outside-school-gap.md) — related
 - [Indian secondary students show high interest in astronomy, but career aspiration is higher among resource-poor students (46% vs 30%) and awareness of the astronomer pathway is poor](india-students-astronomy-interest-career-aspirations.md) — related
+- [Preliminary analysis indicates a gender gap on Q15, with male-declaring students achieving better results than female-declaring students, smaller for Q16](gender-gap-q15-preliminary.md) — related

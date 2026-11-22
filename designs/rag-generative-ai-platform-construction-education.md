@@ -44,6 +44,7 @@ A web-based generative AI–supported learning platform developed for constructi
 - [Retrieval-augmented Conversational AI Tutor with modular GROW-aligned coaching routines](rag-conversational-ai-tutor-modular-coaching-routines.md)
 - [Intelligent digital textbook framework with LLM-powered structured dialogue for reading comprehension support](intelligent-digital-textbook-llm-structured-dialogue.md)
 - [RAG-based GenAI chatbot used as the AI-assisted learning support in the external validity study](rag-genai-chatbot-learning-task.md)
+- [Markdown textbook with Wiki RAG and custom structural tags](nupad-markdown-textbook-wiki-rag.md)
 
 ## Examples
 -

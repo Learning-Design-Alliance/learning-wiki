@@ -44,6 +44,7 @@ The article recommends moving beyond a single representation for all learners: "
 - [Future research should identify student populations and contexts differentially affected by representational visuals in mathematics materials](identify-populations-differentially-affected-by-representational-visuals.md)
 - [Involve stakeholders in dashboard co-design and select visualizations that avoid ineffective practices](dashboard-stakeholder-co-design-strategy.md)
 - [Adaptive feedback designs that tailor feedback elaboration and representational format to learner profiles](adaptive-feedback-tailoring-elaboration-and-format.md)
+- [Adaptively time feedback to moments of declining attention or rising workload rather than delivering at fixed intervals](adaptive-timing-over-fixed-interval-feedback.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Simulation-based evaluation on 30 held-out seed questions in a four-turn LLM-sim
 - [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related
 - [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — related
 - [Guided Socratic worked examples carry the chapter's mathematical content, with the learner supplying each intermediate step](socratic-worked-examples-spherical-geometry.md) — related
+- [Leakage is held, not reduced, for the Qwen3.5/3.8 family, and reduced substantially only for Qwen3-14B](leakage-held-not-reduced-qwen-family-eduardo.md) — related

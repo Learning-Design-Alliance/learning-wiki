@@ -75,3 +75,4 @@ The authors' interpretive statement drawn from the usage-log analysis in the Gen
 - [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
 - [Professors framed GenAI as a discussion partner, but observed that students mostly used it for low-level technical tasks rather than Socratic dialogue](genai-discussion-partner-framing-student-gap.md) — reports the opposite
+- [Students most frequently used GAI for knowledge acquisition (60.440% of logs), followed by visualization requests (24.725%) and analytical support (8.242%)](gai-log-themes-knowledge-acquisition-dominant.md) — related

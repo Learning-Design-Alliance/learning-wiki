@@ -64,6 +64,7 @@ Retakes and revisions operationalize [Assessment for Learning](../principles/ass
 - Test-Enhanced Learning — retakes double as additional retrieval events
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
 - [Use two-stage quizzes and reflection-based exam remediation in introductory physics assessments](two-stage-quiz-and-reflection-assessment-strategy.md)
+- [Implement assessment retakes as mastery-oriented remediation to build a growth-mindset culture and spread equitable grading school-wide](retakes-as-mastery-remediation-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery exercises regenerate parallel problems; learners retry until reaching "mastery" level, with hints and instruction available between attempts.

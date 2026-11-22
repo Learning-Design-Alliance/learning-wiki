@@ -40,7 +40,8 @@ The article describes a closed-system AI tutor composed of a RAG pipeline and a 
 - 
 
 ## Related Designs
-- 
+
+- [Markdown textbook with Wiki RAG and custom structural tags](nupad-markdown-textbook-wiki-rag.md)
 
 ## Examples
 -

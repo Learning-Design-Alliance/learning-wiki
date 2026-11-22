@@ -50,3 +50,4 @@ The dissertation's review chapter attributes to prior research (citing reference
 ## Related Claims
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — related
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](online-module-ten-percent-mind-wandering-q3.md) — related

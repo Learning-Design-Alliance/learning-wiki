@@ -54,6 +54,8 @@ The article recommends human oversight of LLM hint generation: its quality check
 - [Radical constructivist MARSGs require mindful development and instructor oversight to ensure learning](radical-constructivist-marsg-oversight.md)
 - [Establish certifying oversight for quantum education materials to combat misinformation and ensure quality](quantum-education-quality-certification-strategy.md)
 - [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Use embeddings for exploratory organization and human-in-the-loop review of student solutions, with external validation before any grading use](embeddings-exploratory-human-in-the-loop-review.md)
+- [Use LLM-generated isomorphic problems as supplemental instructional content with expert oversight, targeting distractor logic and narrative depth as future improvements](llm-problem-generation-supplemental-with-oversight.md)
 
 ## Examples
 -

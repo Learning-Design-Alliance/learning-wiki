@@ -76,3 +76,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Participation in the Pathways to Quantum immersion program increased high school students' awareness of and interest in QIS and QIS-adjacent careers](pathways-quantum-increased-qis-career-awareness-interest.md) — related
 - [Most Pathways participants retained STEM career interest, with 15 of 45 students indicating interest in a QIS-related career](pathways-stem-retention-15-of-45-qis-interest.md) — related
 - [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related
+- [Intro2QC workshop sessions received positive informal feedback, with a large majority of responders rating the workshop experience 8 or higher out of 10](intro2qc-positive-informal-feedback.md) — related

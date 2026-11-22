@@ -13,7 +13,7 @@ generated:
 # Quantum Interactive Learning Tutorials (QuILTs)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 5 studies (3 design, 1 causal, 1 associational), `q2`–`q3` · 2 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 6 studies (4 design, 1 causal, 1 associational), `q2`–`q3` · 3 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 Chandralekha Singh's QuILTs are research-based interactive tutorial materials being developed for graduate quantum-mechanics instruction to connect formalism with conceptual understanding.
@@ -27,6 +27,7 @@ Chandralekha Singh's QuILTs are research-based interactive tutorial materials be
 - **MZI and DSE Quantum Interactive Learning Tutorials (QuILTs)**: Two research-based interactive tutorials on the Mach-Zehnder interferometer and double-slit experiment, part of the Quantum Interactive Learning Tutorial series. The QuILTs "use a guided inquiry-based approach to learning and often include interactive simulations" in which students make predictions, check them with simulations, and receive guidance to reconcile differences. Development included roughly 85 hours of individual think-aloud interviews for the DSE QuILT alone and consultation with five physics faculty members. Both are available to instructors on request. (Alexandru Maries et al. (2017))
 - **Quantum Interactive Learning Tutorial (QuILT) on strong and weak field Zeeman effects using DPT**: A Quantum Interactive Learning Tutorial (QuILT) developed by the authors as a learning tool to help students develop a functional understanding of the corrections to the hydrogen atom energy spectrum due to the Zeeman effect. The article states "We used the difﬁculties as resources in developing a Quan- tum Interactive Learning Tutorial (QuILT)" and that "The initial results from the QuILT are encouraging." The difficulties documented in the written questions and interviews served as the design input for the tutorial. (Emily Marshman et al. (2020))
 - **Quantum Interactive Learning Tutorial (QuILT) on representations of quantum states**: The QuILT is a research-based guided inquiry tutorial helping upper-level undergraduate and Ph.D. students translate quantum states between Dirac notation and position/momentum representations. It "uses a guided inquiry-based approach and consists of teaching-learning sequences in which different concepts build on each other". It explicitly incorporates common difficulties via "hypothetical student discussions in which one student is voicing a common incorrect type of reasoning" and asks students to identify who they agree with and why. The entire Dirac notation QuILT is available on PhysPORT. (Marshman et al. (2024))
+- **Quantum Interactive Learning Tutorial (QuILT) on quantum key distribution using entanglement**: The QuILT is a guided, inquiry-based tutorial that teaches quantum key distribution using two entangled spin-1/2 particles and two Stern-Gerlach apparatuses to generate a random shared key over a public channel. It "actively engages students in the learning process and helps them build links between the concepts learned in class and their real world applications." It integrates a QuVis simulation, guided teaching-learning sequences based on cognitive task analysis, and simulated conversations addressing common difficulties. It was implemented as homework in QM and QCQI courses and validated through iterative testing with students and faculty experts. (Liam Doyle et al. (2026))
 
 ### Claims
 - [Working through the time-development QuILT improved average performance from 53% to 85% on pre-/post-tests in an advanced quantum mechanics course](../claims/quilt-time-development-pre-post-gain.md) [+M]
@@ -38,6 +39,7 @@ Chandralekha Singh's QuILTs are research-based interactive tutorial materials be
 - [Many upper-level undergraduate and graduate students struggle to identify a good basis for finding the corrections to the energy spectrum due to the strong and weak field Zeeman effects](../claims/students-struggle-good-basis-zeeman-dpt.md) [+M]
 - [Many students do not realize degenerate perturbation theory should be used, and memorization of which basis is good masks lack of deep understanding of DPT](../claims/memorization-masks-lack-dpt-understanding.md) [+M]
 - [The QuILT on representations of quantum states produces large learning gains: average normalized gain 0.75 for undergraduates and 0.76 for Ph.D. students, with Cohen's d of 1.6 and 0.60 respectively](../claims/quilt-effectiveness-quantum-state-representations.md) [+M]
+- [In classes that received in-class lecture on QKD, students' performance improved significantly from pre-test to post-test after engaging with the QuILT, with large effect sizes on the eavesdropper-detection question](../claims/quilt-entanglement-qkd-pre-post-gains.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -51,3 +53,4 @@ Chandralekha Singh's QuILTs are research-based interactive tutorial materials be
 - Emily Marshman, Christof Keebaugh, and Chandralekha Singh. (2020). Student difﬁculties with ﬁnding the corrections to the energy spectrum of the hydrogen atom for the strong and weak ﬁeld Zeeman effects using degenerate perturbation theory. https://arxiv.org/abs/2006.07144
 - Singh, C., Asfaw, A., & Levy, J. (2021). Preparing students to be leaders of the quantum information revolution. https://physicstoday.aip.org/
 - Marshman, E., Maries, A., & Singh, C. (2024). Using multiple representations to improve student understanding of quantum states. https://www.physport.org/. [doi:10.1103/physrevphyseducres.20.020152](https://doi.org/10.1103/physrevphyseducres.20.020152)
+- Liam Doyle and Chandralekha Singh. (2026). Improving student understanding via interactive learning tutorial on quantum key distribution using entanglement. https://arxiv.org/abs/2609.09174

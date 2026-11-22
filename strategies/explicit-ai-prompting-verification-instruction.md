@@ -58,6 +58,7 @@ The article recommends that curricula incorporate explicit instruction in effect
 - [Raise student and colleague awareness of AI-related privacy risks through research-ethics curricula](ai-privacy-education-research-curricula.md)
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 - [Students adapt GenAI usage through input-related, output-related, personal and user-awareness strategies](genai-usage-adaptation-strategies.md)
+- [Design GenAI support in assessed laboratory courses with explicit boundaries, verification routines and assessment requirements that preserve epistemic responsibility](genai-lab-design-boundaries-verification.md)
 
 ## Examples
 -

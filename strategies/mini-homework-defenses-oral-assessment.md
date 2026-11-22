@@ -42,6 +42,7 @@ A formative oral assessment structure shared by a faculty member in Electricity 
 - [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
 - [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 - [Appointment-based one-to-one tuition open to all level 1 physics and astronomy students](appointment-one-to-one-tuition-level1-physics.md)
+- [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ Before drafting, issuing organizations respond to Digital Promise's "Five Key Qu
 - [Share a full support plan—vision, choices, incentives, supports, and timeline—before micro-credential implementation](shared-support-plan-before-micro-credential-pilots.md)
 - [Use the Good, Better, Best Fit model to guide educators' selection of micro-credentials](good-better-best-fit-micro-credential-selection.md)
 - [Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching](micro-credential-local-adaptation-steps.md)
+- [AI-aware question authoring cycle: stress-test draft questions with GenAI tools and revise when superficial completion is too easy](ai-aware-question-stress-testing-cycle.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Quasi-experiment comparing 86 control students (previous semester) with 49 quasi
 - [The ALS redesign did not harm perceived acquisition of the course's two specific competencies, which also improved significantly](als-redesign-specific-competencies-also-improved.md) — related
 - [Students report significant perceived improvement in the five competencies they consider most relevant to BA graduate employability, including teamwork and foreign language](als-redesign-improves-top-five-employability-competencies.md) — related
 - [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related
+- [The redesigned CP1–CP3 sequence was implemented across nine offerings from Spring 2022 through Spring 2026, supporting feasibility rather than effectiveness](cp-sequence-nine-offerings-feasibility.md) — related

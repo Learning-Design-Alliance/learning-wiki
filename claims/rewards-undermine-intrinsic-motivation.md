@@ -243,3 +243,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Rules, rewards, and a points system fostered preschool children's respect for the rights and feelings of others during the TPSR program](rules-rewards-foster-preschool-respect.md) — reports the opposite
 - [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](engineering-assessment-rewards-regurgitation.md) — related
 - [Tagging activity occurred precisely in the courses where a tablet-computer prize was offered, suggesting the incentive had its intended effect](prize-incentive-elicited-tagging.md) — related
+- [MSLQ motivation data show modest intrinsic value, higher extrinsic motivation, low interest in physics for its own sake, and high emphasis on grade importance](mslq-motivation-profile-nmsu-physics-students.md) — related

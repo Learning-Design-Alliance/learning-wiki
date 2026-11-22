@@ -64,3 +64,5 @@ Questionnaire analysis of problematic aspects, summarized in Table 3 with counts
 - [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related
 - [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — related
 - [Students engaged in evaluative and verification practices when encountering unreliable AI-generated writing content](visar-students-verify-ai-outputs.md) — related
+- [AstroTutor exhibited role drift toward unstable authority, including a grade-like mark suggestion and hallucinated or dimensionally problematic physics formulations, creating a verification burden](genai-unstable-authority-role-drift.md) — a narrower finding that bears on this claim
+- [Students' principal concerns about P-A.I.R. were mismatch between AI solutions and in-class methods, and AI accuracy and trust](pair-ai-alignment-accuracy-concerns.md) — related

@@ -46,6 +46,7 @@ The intervention's instructional pattern is a graded sequence of Jupyter Noteboo
 - [Computational thinking tasks using Jupyter Notebooks in the physics laboratory](ct-jupyter-notebook-physics-lab-element.md)
 - [Upper-level laboratory course design combining small enrollment, extended lab time, precision experiments, a self-paced Python curve-fitting module, and grade weight on uncertainty skills](phys359-uncertainty-course-design-pattern.md)
 - [Scaffolded lab curriculum that staggers learning outcomes and gradually reduces instructional guidance](scaffolded-lab-curriculum-staggered-outcomes.md)
+- [Scaffolded progressive notebook sequence moving from foundational physics to authentic data-analysis workflows](gw-explorer-scaffolded-notebook-progression.md)
 
 ## Examples
 -

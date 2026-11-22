@@ -50,3 +50,4 @@ Deterministic manipulation check on the primary base with ten paired replicates;
 - [On the primary base, a turn that leaks the answer predicts a higher Opus helpfulness rating and less next-turn independent student work](per-turn-leakage-coupling-primary-base.md) — related
 - [Answer-revealing tutor turns are followed by less independent student work on every tutor base, a deterministic judge-invariant result](leakage-reduces-next-turn-independence-all-bases.md) — related
 - [A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor](contingent-scaffolding-surrenders-full-answer-least.md) — related
+- [Leakage is held, not reduced, for the Qwen3.5/3.8 family, and reduced substantially only for Qwen3-14B](leakage-held-not-reduced-qwen-family-eduardo.md) — related

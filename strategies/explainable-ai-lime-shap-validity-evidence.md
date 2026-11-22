@@ -46,6 +46,7 @@ This strategy recommends using methods of interpretable machine learning and exp
 ## Related Strategies
 
 - [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
+- [Use post hoc interpretation tools (ALE and fANOVA, or SHAP) across three layers to explain ML-based regime recommendations to families and administrators](interpretability-layers-ale-fanova.md)
 
 ## Examples
 -

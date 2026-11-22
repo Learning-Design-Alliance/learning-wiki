@@ -54,3 +54,4 @@ A feedback survey administered towards the end of the event collected responses 
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
+- [In an anonymous survey of 66 participants, most were satisfied with ASP2026, all respondents would recommend ASP, and online participants were less satisfied with the hybrid arrangement](asp2026-survey-satisfaction-hybrid.md) — related

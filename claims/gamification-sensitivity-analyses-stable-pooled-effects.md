@@ -55,3 +55,4 @@ Sensitivity analyses accompanying the review's meta-analyses: exclusion of the t
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
 - [Leave-one-institution-out validation confirmed directional stability of main, interaction, and conditional indirect effects across all six institutional exclusions](leave-one-institution-out-stability-validation.md) — related
 - [The pooled PBL effect is robust to exclusion of any single study, and no publication bias is detected](pbl-pooled-effect-robust-no-publication-bias.md) — related
+- [Exercise-level indicators are robust to the session-gap threshold: exercise ordering is essentially unchanged across 10, 15, 20, and 30 minute caps with a fixed 15-minute closure tail.](session-gap-threshold-sensitivity-robust-ordering.md) — a narrower finding that bears on this claim

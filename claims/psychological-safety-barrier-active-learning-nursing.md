@@ -74,3 +74,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related
 - [Students valued teacher monitoring of project progress, which some said curbed plagiarism, though public commenting embarrassed one participant](teacher-progress-monitoring-mixed-perceptions.md) — related
 - [User experience is a major intervening condition: positive experiences increase GenAI usage while poor experiences decrease it](user-experience-intervening-condition-genai-usage.md) — related
+- [Students in the physics-agreement class described conditions of psychological safety supporting continuous, collective learning](physics-agreement-psychological-safety.md) — related

@@ -48,6 +48,7 @@ The authors recommend that professional development for faculty entering discipl
 
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Professional development for emerging DBER researchers should account for DBER's close ties with disciplinary science and make norms explicit](pd-support-emerging-dber-researchers-strategy.md)
+- [Three-step quick-start process for educators adopting the NuPaD methodology](nupad-three-step-educator-quickstart.md)
 
 ## Examples
 -

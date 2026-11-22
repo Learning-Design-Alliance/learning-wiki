@@ -68,3 +68,4 @@ The conclusions section restates the same comparison as percentage-point decreas
 - [Even with the multi-agent system, some feedback still contains over-praise and over-inference, and Agent 2's detection and revision are not fully accurate](residual-feedback-issues-multi-agent.md) — related
 - [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](multi-agent-tutoring-superior-single-agent.md) — a broader claim this one bears on
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
+- [LLM agents leak evaluation of answer correctness through praise, word choice, reply length, and pacing, which stops student reasoning](llm-agents-leak-evaluation-correctness.md) — related

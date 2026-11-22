@@ -52,3 +52,4 @@ Correlational analysis within the randomized controlled trial, visualized in Fig
 - [Students completing the Proof Blocks activity finished their learning activity about four times faster than students writing proofs from scratch, with no loss in learning](proof-blocks-four-times-faster.md) — related
 - [Proof Blocks problems with distractors took significantly longer to complete than problems without distractors](proof-blocks-distractors-increase-completion-time.md) — related
 - [Proof Blocks problems with distractors produced descriptively higher posttest scores than no-distractors or off-topic problems, but the differences were not statistically significant](proof-blocks-distractors-no-significant-gain.md) — related
+- [Gain in answering efficiency correlated positively but statistically non-significantly (0.32) with time spent on-screen and on-task](q1-time-efficiency-gain-correlation-0-32-nonsignificant.md) — related

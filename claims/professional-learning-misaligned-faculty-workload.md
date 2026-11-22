@@ -90,3 +90,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related
 - [Resistance to digital innovation is particularly evident in institutions with rigid administrative structures where innovation is perceived as an added burden](rigid-administrative-structures-resistance-digital.md) — related
 - [Schools with structured and ongoing professional development programs show a 30% higher adoption rate of digital tools than schools without such programs](structured-pd-30-percent-higher-adoption.md) — related
+- [Difficulties faced by named-method implementers include long-standing active learning adoption issues and new issues related to emergent technologies such as Artificial Intelligence](implementation-difficulties-longstanding-and-emergent-ai.md) — related

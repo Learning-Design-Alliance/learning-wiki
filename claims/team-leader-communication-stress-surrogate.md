@@ -46,3 +46,4 @@ Transcribed communication from the team leader to the team at three measuring po
 
 ## Related Claims
 - [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — related
+- [No detectable time-by-condition difference in socioemotional content or student-student linguistic style matching emerged over the discussion](no-temporal-emergence-of-social-cost-pattern.md) — related

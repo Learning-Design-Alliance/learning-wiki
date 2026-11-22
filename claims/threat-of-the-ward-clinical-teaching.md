@@ -54,3 +54,4 @@ Interview account from a peer tutor in the IPA study at SRFT; he contrasted PAL�
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related
 - [Seminar-like session structure, an anxiety-free atmosphere and tutors' personal commitment were the frame conditions tutees perceived as making the course beneficial](peer-exam-prep-frame-conditions.md) — related
+- [Neurodivergent physics students experience fear of being misinterpreted or viewed as stupid on account of communication breakdowns](fear-of-misinterpretation-neurodivergent-physics-students.md) — related

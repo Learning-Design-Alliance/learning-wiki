@@ -37,4 +37,4 @@ A Jupyter-Notebook pipeline calls OpenAI's GPT-4o API to grade students' written
 ## Key Sources
 - Sean Savage, N. Sanjay Rebello. (2025). Using an LLM to Investigate Students’ Explanations on Conceptual Physics Questions. https://arxiv.org/abs/2508.14823
 - Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, Xiu Tang, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen. (2026). Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement. https://arxiv.org/abs/2601.08545
-- Savage, S., Bralin, A., Hur, P., & Rebello, N. S. (2026). Using Large Language Models to Analyze Engagement in Computational Thinking via Computational Physics Essays. https://arxiv.org/abs/2605.07036
+- Savage, S., Bralin, A., Hur, P., & Rebello, N. S. (2026). Using Large Language Models to Analyze Engagement in Computational Thinking via Computational Physics Essays. https://arxiv.org/abs/2605.07036. [doi:10.48550/arxiv.2605.07036](https://doi.org/10.48550/arxiv.2605.07036)

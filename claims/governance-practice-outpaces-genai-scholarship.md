@@ -59,3 +59,4 @@ Reflexive thematic analysis of ten semi-structured interviews with academic staf
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — reports the opposite
 - [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — related
+- [Difficulties faced by named-method implementers include long-standing active learning adoption issues and new issues related to emergent technologies such as Artificial Intelligence](implementation-difficulties-longstanding-and-emergent-ai.md) — related

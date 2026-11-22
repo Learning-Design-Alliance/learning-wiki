@@ -59,3 +59,4 @@ Mann–Whitney U comparison of post-intervention perception questionnaire scores
 - [No statistical differences were found across feedback methods in survey results for clarity, perceived utility, and skill building](no-statistical-difference-across-feedback-methods.md) — related
 - [Students rate AI-generated and student-generated learning resources as statistically equivalent in code correctness, explanation correctness and helpfulness after blind peer review](ai-resources-rated-equivalent-to-student-resources.md) — related
 - [The AI-supported group rated all six perception metrics more positively, but no difference was significant after multiple-comparison correction](perception-advantage-non-significant.md) — related
+- [In a small blinded human pilot, ToST receives the strongest learner self-ratings on helpfulness, clarity, willingness to continue, and manageability](tost-human-pilot-learner-ratings.md) — related

@@ -44,6 +44,7 @@ The review recommends laboratory experiments as "another effective way to teach 
 - [Couple real published laboratory experiments with simulated-experiments and graphical postprocessing](couple-real-lab-with-simulated-experiments.md)
 - [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
 - [Re-weight IPLS content: de-emphasize projectile motion, constant-acceleration rotations, gravitation, and heat engines; give new prominence to fluids, optics, energy, and entropy; add scaling, strength of materials, and gradient-driven flows](ipls-content-reweighting.md)
+- [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
 
 ## Examples
 -

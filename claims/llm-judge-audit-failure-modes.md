@@ -52,3 +52,4 @@ Exploratory LLM-judge audit applying a human-authored rubric to 253 incorrect fr
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
 - [Perception Errors are the dominant LLM error type under optimized conditions, accounting for 43.06% of errors](perception-errors-dominant-llm-failures.md) — related
+- [Four of 10 frontier systems produce negative learning gains, and all systems with visual aid completeness below 80% produce negative gains](slate-negative-gains-low-visual-completeness.md) — related

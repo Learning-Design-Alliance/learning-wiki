@@ -47,3 +47,4 @@ Descriptive enrollment report from the concluding remarks section of the article
 
 ## Related Claims
 - [Students rated the MATH 4343 course and instructor as excellent (50%) or good (50%), with no negative responses on the evaluation surveys](math4343-positive-student-evaluations.md) — related
+- [Graduate enrolment in physics at the four partner universities is small relative to undergraduate enrolment, challenging continuity of the educational pathway](small-graduate-enrolment-physics-romania.md) — related

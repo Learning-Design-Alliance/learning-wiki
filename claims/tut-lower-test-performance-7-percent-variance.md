@@ -53,3 +53,4 @@ The review reports, citing Wong et al. (2022), that task-unrelated thoughts show
 - [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](mind-wandering-resource-for-regulation.md) — reports the opposite
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
 - [Mind wandering occupies roughly 30% of time in educational activities and accounts for approximately 7% of variability in learning outcomes, per the literature the dissertation reviews](mind-wandering-30-percent-time-7-percent-outcome-variability.md) — related
+- [Participants mind-wandered about 10% of module time (Q3: on-screen, off-task)](online-module-ten-percent-mind-wandering-q3.md) — related

@@ -48,6 +48,7 @@ Each group made a poster and gave a two-minute presentation in the style of a sc
 - [Student Presentations All About Me](student_presentations-all_about_me.md)
 - [Use everyday objects in demonstrations and investigations so lens phenomena connect to students' daily lives](everyday-objects-in-inquiry-demos.md)
 - [End-of-semester public poster session (NanoDay) to advertise student work and build conference-style confidence](nanoday-poster-presentation-strategy.md)
+- [Have CURE students disseminate their findings through conference poster presentations](cure-conference-poster-dissemination.md)
 
 ## Examples
 -

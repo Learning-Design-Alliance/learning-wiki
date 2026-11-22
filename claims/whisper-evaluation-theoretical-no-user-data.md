@@ -46,3 +46,4 @@ The authors' own limitation statement in the evaluation section. No participant 
 
 ## Related Claims
 - [Existing quantum informatics teaching approaches do not yet address all proposed learning outcomes, and the standards remain untested empirically](quantum-standards-gaps-untested.md) — related
+- [The QLP is a conceptual proposal whose effectiveness requires future empirical evaluation](qlp-requires-empirical-evaluation.md) — related

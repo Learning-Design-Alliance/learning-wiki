@@ -46,3 +46,4 @@ Descriptive account of a laboratory activity in the Sounds and Surroundings path
 
 ## Related Claims
 - [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](jcls-observation-indicators-high.md) — related
+- [Students most strongly connected music and physics ideas through keywords related to the physical structure of sound](sound-structure-keywords-strongest-integrators.md) — related
