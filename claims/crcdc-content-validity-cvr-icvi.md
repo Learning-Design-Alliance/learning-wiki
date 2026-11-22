@@ -90,3 +90,4 @@ Item-level and scale-level content validity indices computed after expert review
 - [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
 - [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related
+- [Expert panels rated the questionnaire's content validity as good, with S-CVI of 0.98 (knowledge) and 0.93 (attitude)](content-validity-s-cvi-knowledge-attitude.md) — related

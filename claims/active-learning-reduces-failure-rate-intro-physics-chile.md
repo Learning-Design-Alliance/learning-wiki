@@ -53,3 +53,4 @@ Quasi-experimental pilot comparing 4 active-learning sections with 4 traditional
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — a broader claim this one bears on
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Students in traditionally taught Omani physics sections were more than 3.5 times as likely to fail as students in active-learning sections](mena-active-learning-lowers-failure-odds.md) — related

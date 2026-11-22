@@ -70,3 +70,4 @@ Review synthesis of expertise comparisons: some studies showed higher stress amo
 - [Robotic surgical systems reduced mental workload and perceived stress relative to laparoscopic systems in reviewed studies](robotic-systems-reduce-mental-workload-vs-laparoscopic.md) — related
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — related
+- [Noisy environments impair laparoscopic team performance relative to neutral conditions](noise-worsens-team-performance-vs-neutral.md) — related

@@ -52,3 +52,4 @@ Table 2 secondary exposure analysis, ELA outcome, same adjusted multilevel logis
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
+- [Undergraduate students with A or B GPAs were more likely than D/F students to report healthy dietary behaviors, with no significant difference between C and D/F students](gpa-dietary-behaviors-prevalence-undergraduates.md) — related

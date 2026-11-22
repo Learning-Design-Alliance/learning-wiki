@@ -137,3 +137,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related
 - [VR removes social barriers in clinical skills training such as auscultation, supporting knowledge retention and skill acquisition](vr-removes-social-barriers-clinical-skills-training.md) — a narrower finding that bears on this claim
 - [Blending e-learning before and simulation-based hands-on training afterwards enhances engagement, performance, and skill acquisition](blended-elearning-simulation-enhances-engagement-performance.md) — related
+- [The article identifies lack of understanding, terminology confusion, cybersickness risk, and no standard distribution route as factors limiting VR implementation in UK healthcare](barriers-limited-vr-implementation-uk-healthcare.md) — related

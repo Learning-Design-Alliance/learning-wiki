@@ -54,3 +54,5 @@ Prospective observational analysis of 845 adolescents; self-reported weighted da
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — related
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
+- [A greater number of breaks in sedentary time is associated with higher academic performance in adolescents](more-sedentary-breaks-associated-higher-academic-performance.md) — related
+- [Spending more than 2 hours per day on screen media was significantly associated with poor academic performance among Hargeisa adolescents](screen-time-over-2h-associated-poor-academic-performance.md) — related

@@ -45,6 +45,7 @@ The article recommends schools as the institutional site for protecting youth we
 ## Related Strategies
 
 - [Assess sleep problems early in primary school and provide preventive intervention, including sleep hygiene education, to protect later academic performance](early-assessment-preventive-sleep-intervention.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

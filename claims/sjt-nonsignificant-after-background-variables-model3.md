@@ -72,3 +72,4 @@ Background-variable findings from model 3 of the same cohort analysis; table 3 p
 - [Per decile, EPM decile increases the odds of foundation programme completion roughly twice as much as SJT decile (about 15% vs 8%)](epm-decile-twice-sjt-per-decil-completion-odds.md) — related
 - [All three UK foundation programme selection measures (SJT, EPM decile, educational achievements) are associated with the odds of successful programme completion on univariable analysis](three-selection-measures-predict-foundation-completion-univariable.md) — related
 - [Mature students (aged 21+) were more than twice as likely to finish in the highest EPM quartile in 2012, but this pattern was not apparent in 2013](mature-students-top-epm-2012-only.md) — related
+- [The UKFPO SJT is reliable and adds validity over the EPM in predicting Foundation Programme completion](ukfpo-sjt-validity-over-epm.md) — reports the opposite

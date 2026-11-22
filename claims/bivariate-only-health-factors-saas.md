@@ -59,3 +59,7 @@ Cross-sectional study of 1677 students: bivariate tables show significant associ
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
 - [Waterpipe use during exam periods shows an unexpected positive association with average grades, which the authors attribute to confounding rather than a real effect](waterpipe-use-positive-grades-confounding.md) — related
 - [Spiritual well-being shows significant direct positive associations with physical activity, healthy diet, and no smoking in medical sciences students](swb-direct-positive-health-behaviors-sem.md) — related
+- [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](alcohol-smoking-competency-radiology-residents.md) — related
+- [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — related
+- [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — related
+- [Water pipe use during exams shows a negative association with grades in regression, while cigarette smoking shows no significant association](waterpipe-negative-cigarettes-null-grades.md) — reports the opposite

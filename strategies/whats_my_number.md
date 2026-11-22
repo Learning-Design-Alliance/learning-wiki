@@ -64,6 +64,7 @@ The game's power comes from forcing learners to maintain and update a shrinking 
 - Number Talks — complementary routine for building magnitude and computation reasoning through discourse
 - Guess My Rule — the property-based clue variant focused on pattern and function rather than a single value
 - [Follow-on programming project in which advanced students implement an algorithmic Scientist player](follow-on-programming-project-statistical-estimation.md)
+- [Incorporate both deductive and inductive logic strategies in teaching to enhance conceptual understanding and problem-solving](deductive-inductive-logic-teaching-strategies.md)
 
 ## Related Elements
 - [Application of Knowledge](../elements/application-of-knowledge.md) — each guess applies number properties to a live problem

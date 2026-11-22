@@ -50,3 +50,4 @@ Background section claim: the article reports, citing Cunnington et al. 1997, Ab
 - [Prior automatic MCQ generation approaches produce structurally simple questions (at most two stem entities) testing mainly recall](prior-aqg-simple-recall-questions.md) — related
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — possibly the same claim (merge candidate)
 - [Case-based MCQ maintain discriminative power across academic levels while factual questions discriminate less in high scorers](case-based-mcq-maintain-discrimination.md) — related
+- [Most models had higher accuracy on simple questions (medical knowledge, lower-order, positive) than on complex ones, with Llama showing the reverse pattern](simple-vs-complex-question-accuracy-pattern.md) — related

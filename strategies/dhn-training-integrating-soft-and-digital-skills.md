@@ -55,6 +55,7 @@ Based on the finding that interpersonal and digital competencies are closely int
 
 - [Allocate 10–15% of curriculum hours to structured soft skills training with mandatory modules and OSCE/portfolio assessment](soft-skills-curriculum-hours-allocation-strategy.md)
 - [Integrate AI- and technology-related communication skills systematically into medical curricula](integrate-ai-communication-skills-curricula.md)
+- [Training programs for distributed rural emergency teams should build role clarity, team cohesion, and technology fluency](distributed-team-training-role-clarity-cohesion-technology.md)
 
 ## Examples
 -

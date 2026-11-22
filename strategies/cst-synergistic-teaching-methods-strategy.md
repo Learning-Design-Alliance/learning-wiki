@@ -52,6 +52,7 @@ The authors recommend applying reasoning and case study methods along with inqui
 - [Extend structure-based teaching to related chemistry curricula](cst-extended-curricula-strategy.md)
 - [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 - [Emphasize the inductive way of teaching grammar while varying techniques to students' interests and achievement levels](emphasize-inductive-grammar-teaching-strategy.md)
+- [Incorporate both deductive and inductive logic strategies in teaching to enhance conceptual understanding and problem-solving](deductive-inductive-logic-teaching-strategies.md)
 
 ## Examples
 -

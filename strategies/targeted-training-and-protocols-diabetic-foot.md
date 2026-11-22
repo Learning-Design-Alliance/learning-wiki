@@ -54,6 +54,8 @@ The article recommends combining continuing professional education with organiza
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
 - [Adopt interactive online diabetic foot education such as the FRAME program to build and maintain stratification skills](frame-online-diabetic-foot-education-strategy.md)
 - [Provide continued professional development, mentorship, and repeated navigation training for oncology nurse navigators](onn-continued-professional-development-strategy.md)
+- [Provide researchers with education and training on study design classification and reporting guideline selection, and implement guideline policies matched to guideline availability](researcher-training-study-design-reporting-guidelines.md)
+- [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
 
 ## Examples
 -

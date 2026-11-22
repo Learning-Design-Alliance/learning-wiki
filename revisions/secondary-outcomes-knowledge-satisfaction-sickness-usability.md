@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/secondary-outcomes-knowledge-satisfaction-sickness-usability.md
+---
+
+# Revision history: [claims/secondary-outcomes-knowledge-satisfaction-sickness-usability](../claims/secondary-outcomes-knowledge-satisfaction-sickness-usability.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from pmc-11734328 (Use of virtual reality to remotely train healthcare professionals in paediatric emergency tracheostomy skills: protocol for a multi-centre, non-inferiority educational interventional study with historical controls.) via eval_harness.py + ingest_extractions.py

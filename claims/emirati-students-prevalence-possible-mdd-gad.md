@@ -55,3 +55,4 @@ Baseline screening of the representative cohort of 404 students at one UAE unive
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
 - [Depressive symptoms are highly prevalent (50.7% clinically significant) among Saudi university students but do not independently predict GPA](depression-prevalent-not-gpa-predictor.md) — related
+- [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 275 claims (175 show a difference, 65 mixed, 35 no difference) · 240 studies (116 causal, 58 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 240 report an effect size · 271 claims rest on one study
+> **Evidence** · 277 claims (177 show a difference, 65 mixed, 35 no difference) · 242 studies (116 causal, 60 associational, 24 review, 15 quant-synthesis, 14 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 242 report an effect size · 273 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -332,6 +332,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Deferred AI assistance increased time on task in Week 1 but not in Week 2](../claims/deferred-ai-assistance-time-on-task-week1.md) [~W] — measured as an outcome of the instruction studied
 - [Learners rated visual conditions higher on support for ongoing work, and recipients of proactive help rated it as supportive rather than interrupting](../claims/learners-rate-visual-tutoring-supportive-not-intrusive.md) [+M] — measured as an outcome of the instruction studied
 - [Students using the Redesigned Tutor spent more productive time-on-task than students using the Original Tutor, with comparable idle time](../claims/redesigned-tutor-productive-time-on-task.md) [+M] — measured as an outcome of the instruction studied
+- [Absenteeism is significantly negatively associated with academic performance](../claims/absenteeism-negative-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](../claims/school-absenteeism-associated-poor-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

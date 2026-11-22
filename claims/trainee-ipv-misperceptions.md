@@ -50,3 +50,4 @@ Descriptive results from the cross-sectional survey of 200 trainees list six mis
 - [Perceived barriers to IPV assessment include lack of time, lack of knowledge, and personal discomfort, with medical students reporting these barriers more than surgical residents](ipv-assessment-barriers-trainees.md) — related
 - [Training significantly reduced fear of offending and fear of retraumatizing the client when asking about traumatic events](training-reduced-fear-offending-retraumatizing.md) — related
 - [Most medical students and surgical residents underestimate IPV prevalence in their intended practice, estimating it at 10% or less](trainees-underestimate-ipv-prevalence.md) — related
+- [GPs hold favourable attitudes towards asking about IPV/FV but only one quarter believe patients can make appropriate choices, with registrars more likely to agree](gp-attitudes-favourable-low-patient-autonomy-belief.md) — related

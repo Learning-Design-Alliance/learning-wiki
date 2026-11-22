@@ -66,6 +66,7 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 - [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](focused-more-is-more-generative-processing.md)
 - [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 - [Implement a multi-faceted approach to mitigating digital distraction rather than relying on device bans alone](multi-faceted-digital-distraction-mitigation.md)
+- [Assess surgical team skill by measuring the team's resistance to acoustic distraction](acoustic-distraction-resistance-team-assessment-strategy.md)
 
 ## Examples
 - **Multimedia course design:** applying the coherence principle by replacing decorative stock photos in an online biology module with diagrams tied to the explained process ([Clark & Mayer, 2016](https://doi.org/10.1002/9781119239086)).

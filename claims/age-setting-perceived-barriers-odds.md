@@ -49,3 +49,4 @@ Multivariable logistic regression (n = 133) of high versus low perceived barrier
 - [Physicians with 16–20 years of experience reported significantly higher STI counseling scores than those with 21 or more years](mid-experience-higher-counseling-scores.md) — related
 - [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related
 - [Physicians at tertiary hospitals in Türkiye show higher achalasia knowledge and HREM familiarity than primary-care physicians](tertiary-hospital-physicians-higher-achalasia-knowledge.md) — related
+- [Older age, male gender, greater clinical experience, and academic-hospital setting predict satisfactory GDM knowledge among neonatologists](predictors-neonatologist-gdm-knowledge.md) — related

@@ -52,6 +52,7 @@ The authors recommend that programs treat emotional support as a core component 
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 - [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
+- [Use reassurance and open discussions about medical student syndrome to support health professions students](reassurance-and-discussion-about-mss-strategy.md)
 
 ## Examples
 -

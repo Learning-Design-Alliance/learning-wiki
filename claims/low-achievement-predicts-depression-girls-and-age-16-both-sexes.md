@@ -69,3 +69,4 @@ RI-CLPM results for boys (N=1,871). Adjusted models strengthened the evidence th
 - [Depressive symptoms and academic achievement are negatively associated across adolescence, with a stronger overall association in boys than in girls](depression-achievement-negative-association-stronger-boys.md) — related
 - [Higher depressive symptoms predict lower later academic achievement up to the end of compulsory education (age 16), after which the direction of the association reverses](depressive-symptoms-predict-lower-achievement-until-16-reversal.md) — reports the opposite
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
+- [No significant sex differences in the pathways from maternal depressive symptoms to adolescent academic performance](no-sex-differences-maternal-depression-academic-pathways.md) — related

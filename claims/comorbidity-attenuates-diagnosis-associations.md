@@ -52,3 +52,5 @@ Comparison of crude, socioeconomically adjusted, and fully comorbidity-adjusted 
 - [Excluding psychiatric comorbidity groups one at a time leaves the association between social anxiety disorder and educational outcomes largely unchanged](sad-educational-association-robust-to-comorbidity.md) — reports the opposite
 - [Greater mental disorder comorbidity is associated with progressively lower comprehensive school GPA](comorbidity-gradient-lower-gpa.md) — related
 - [Students diagnosed with a mental disorder during childhood or adolescence have lower comprehensive school achievement than peers without a diagnosis](mental-disorder-lower-comprehensive-school-gpa.md) — related
+- [Higher school achievement is associated with a lower risk of psychiatric comorbidity, following a dose-response gradient](school-achievement-comorbidity-dose-response.md) — related
+- [In within-full-sibling analyses, most school-achievement associations with mental disorders remained intact, though some were attenuated](sibling-comparison-achievement-mental-disorder-associations.md) — related

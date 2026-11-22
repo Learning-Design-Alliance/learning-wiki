@@ -73,3 +73,4 @@ Mann-Whitney U comparisons of attitude items by EBM training status in the same 
 - [Palestinian medical students report limited access to paid databases, funding, and mentorship as barriers to EBM engagement](structural-barriers-ebm-palestinian-students.md) — related
 - [Attitudes towards EBM are positive overall; EBM-trained students agree more strongly on most attitude statements but remain neutral on whether EBM incorporates physician expertise and patient preferences](ebm-attitudes-positive-training-strengthens-agreement.md) — related
 - [Vietnamese physical therapists report a positive attitude toward EBP, with 80–90% agreeing it is necessary, useful, and improves patient care](vietnamese-pts-positive-attitude-toward-ebp.md) — related
+- [Medical radiology technologists held highly favourable attitudes towards EBM despite suboptimal practice](mrt-favourable-ebm-attitudes.md) — related

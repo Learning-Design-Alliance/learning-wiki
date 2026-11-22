@@ -51,3 +51,4 @@ Pretest-posttest self-report study of 244 GPs, long-term follow-up: "participant
 - [The e-module durably increased GPs’ self-efficacy for non-pharmacological treatment, with reported expertise almost tripling from 21.3% to 57%](elearning-durable-self-efficacy-expertise-gain.md) — related
 - [In one uncontrolled pre-post study, GPs’ readiness to adhere to BZD prescribing guidance was assessed; reported success in minimizing prescriptions rose from 18.4% to 56.9%](elearning-readiness-success-minimizing-bzd-tripled.md) — related
 - [GPs reported implementing all demonstrated non-pharmacological strategies, most frequently sleep hygiene education (67.8%) and the ICE model of communication (50.6%)](gps-implemented-nonpharmacological-strategies-elearning.md) — related
+- [Night nurses prefer non-pharmacological sleep interventions first but see a need for sleep medication when these are insufficient](night-nurses-pharmacological-attitudes.md) — related

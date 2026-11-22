@@ -60,3 +60,4 @@ Anonymous standard electronic survey administered after all educational conferen
 - [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related
 - [Student feedback after the redesigned course showed a positive learning curve and experiences](micro-lab-student-survey-positive-experience.md) — related
 - [Students rated the analogy-based quantum course highly (mean 4.5/5) and 79% of comments mentioned engagement](quantum-straw-positive-student-perception.md) — related
+- [Trainees rated the utility of integrating simulation into routine residency training very highly despite no measured knowledge gain](ventsim-high-rated-utility-of-simulation.md) — related

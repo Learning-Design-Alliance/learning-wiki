@@ -79,3 +79,6 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — a narrower finding that bears on this claim
 - [Longer daily screen time is associated with higher depression risk among university students (pooled OR = 1.93 after sensitivity analysis)](screen-time-depression-risk-university-students.md) — related
 - [Screen time is significantly associated with anxiety risk (OR = 1.44) and stress risk (OR = 1.58) among university students](screen-time-anxiety-stress-university-students.md) — related
+- [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — a narrower finding that bears on this claim
+- [Each one-point increase in K6 psychological distress score is associated with a small but significant increase in incident risk of poor academic performance](k6-per-point-increase-academic-risk.md) — a narrower finding that bears on this claim
+- [Structured-interview admits had lower risk of psychological distress two months after enrollment, but cohorts showed similar stress, anxiety and depression by final year](structured-interview-psychological-distress-transient.md) — related

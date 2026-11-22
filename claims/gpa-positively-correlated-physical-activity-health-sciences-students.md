@@ -54,3 +54,4 @@ Cross-sectional observational study of 401 health sciences students using IPAQ-S
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Frequency and type of physical activity show no statistically significant association with mean GPA among physically active students](activity-frequency-type-gpa-anova-null.md) — reports the opposite
+- [Unadjusted mean composite health index scores differed significantly between every GPA level, rising with each higher GPA category](composite-health-index-unadjusted-gpa-gradient.md) — related

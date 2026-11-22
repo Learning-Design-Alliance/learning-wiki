@@ -50,3 +50,4 @@ Pragmatic, single-blind, randomised parallel-group trial; 207 patients (105 EDUC
 - [The educational programme used fewer treatment sessions than the physical training programme (median 3 vs 6)](educational-programme-fewer-sessions-median-3-vs-6.md) — related
 - [No significant between-group differences emerged in physical activity, work ability, quality of life, sick leave or medication use](no-group-differences-physical-activity-work-sick-leave.md) — related
 - [Fear-avoidance beliefs improved more in the educational programme group than in the physical training group at all three follow-ups](fear-avoidance-beliefs-improved-more-in-educational-group.md) — related
+- [The El-Poems trial hypothesizes that e-learning postural education reduces musculoskeletal pain rate and intensity in music students compared with controls](el-poems-hypothesis-mp-reduction.md) — a narrower finding that bears on this claim

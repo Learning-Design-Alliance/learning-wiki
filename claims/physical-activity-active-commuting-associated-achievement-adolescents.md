@@ -70,3 +70,4 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [Vigorous physical activity 2–4 times a week is associated with greater odds of average or above-average academic performance in Korean adolescent boys, but ≥5 times a week with lesser odds](vigorous-pa-boys-academic-performance-korean-adolescents.md) — related
 - [Vigorous physical activity 5 or more times a week is associated with greater odds of average or above-average academic performance in Korean adolescent girls](vigorous-pa-girls-academic-performance-korean-adolescents.md) — related
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
+- [Regular physical activity is significantly positively associated with academic performance in both French and mathematics](physical-activity-positive-academic-performance.md) — related

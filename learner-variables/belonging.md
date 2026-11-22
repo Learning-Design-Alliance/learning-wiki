@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (129 show a difference, 38 mixed, 16 no difference) · 131 studies (30 associational, 27 review, 26 qualitative, 22 causal, 14 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 131 report an effect size · 178 claims rest on one study
+> **Evidence** · 184 claims (130 show a difference, 38 mixed, 16 no difference) · 132 studies (31 associational, 27 review, 26 qualitative, 22 causal, 14 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 132 report an effect size · 179 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -220,6 +220,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Students on AI-inclusive teams reported lower belonging, status, and felt connection than students on all-human teams](../claims/ai-teams-lower-belonging-status-connection.md) [+M] — measured as an outcome of the instruction studied
 - [Students with positive masculinity or negative femininity discrepancies report lower sense of belonging and higher gender stigma consciousness](../claims/belonging-anova-masculinity-femininity-discrepancy.md) [+M] — learners who differ on it differ in outcomes
 - [The first Physics Ph.D. cohort reported a weak sense of peer community, linked to credit transfer, few shared courses, few social events, and dispersed physical space](../claims/weak-peer-community-first-physics-phd-cohort.md) [+M] — measured as an outcome of the instruction studied
+- [47% of post-pandemic freshmen perceive the pandemic worsened their overall academic performance, with higher odds among students with more stress, boredom, introjected regulation, and university connectedness, and lower odds among older students and those with more pride](../claims/pandemic-worsened-academic-performance-predictors.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

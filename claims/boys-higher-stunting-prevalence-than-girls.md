@@ -52,3 +52,4 @@ Descriptive analysis of stunting prevalence by sex across three measurement poin
 - [Persistently stunted children faced the worst schooling outcomes, being three times as likely to enrol late and 3–5 times more likely to be overage for grade](persistent-stunting-worst-schooling-outcomes.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Growth faltered from birth to early childhood, improved until age 4, then stabilised through late childhood](growth-faltering-trajectory-birth-to-late-childhood.md) — related
+- [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related

@@ -50,3 +50,4 @@ The review's domain synthesis reports that "25 of our tools (74%) assessed the '
 - [Lower-level tools mostly assess safety culture while higher-level tools mostly assess team work, risk management and communication](miller-level-domain-shift-safety-tools.md) — related
 - [Assessment instruments in school swimming research focus on technical execution, with few tools aligned to functional aquatic competence](swimming-assessment-instruments-technical-bias.md) — related
 - [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related
+- [Common competency domains across nurse manager instruments include staff advocacy and development, team communication, time management, quality improvement, leadership, problem-solving, and evidence-based practice](common-competency-domains-nm-instruments.md) — related

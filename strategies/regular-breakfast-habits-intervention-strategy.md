@@ -48,6 +48,7 @@ The article recommends that intervention strategies target the development of re
 
 - [Support breakfast consumption and after-school physical activity programs to support student health and learning](breakfast-afterschool-programs-support-learning.md)
 - [Implement school breakfast clubs and active-transport walking programs combining low-GI breakfast with light bilateral coordinative exercise](breakfast-club-coordinative-exercise-strategy.md)
+- [Promote regular student breakfast consumption as a mechanism to strengthen academic achievement](promote-regular-breakfast-consumption-strategy.md)
 
 ## Examples
 -

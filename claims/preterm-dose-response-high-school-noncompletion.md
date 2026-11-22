@@ -49,3 +49,4 @@ Population-based case-control regression on the Quebec birth cohort of 297,820 i
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [Individuals born preterm are less likely to have registered high school grades in the Ministry of Education database in a dose-response pattern](preterm-missing-registered-grades-dose-response.md) — related
 - [Sociodemographic factors are more strongly associated with educational attainment than preterm birth status](sociodemographic-factors-outweigh-preterm-status.md) — related
+- [Children born extremely preterm have the lowest adjusted odds of graduating lower secondary education, upper secondary education, and appearing before the conscription board compared to children born at term](extremely-preterm-lowest-odds-graduation-conscription.md) — related

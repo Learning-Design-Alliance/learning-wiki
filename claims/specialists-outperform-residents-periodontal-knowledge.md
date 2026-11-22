@@ -70,3 +70,4 @@ IMS-only linear regression (Table 9, n = 107); age was not a significant predict
 - [AMD knowledge differs by professional title on five items, with family medicine specialists demonstrating higher knowledge than general practitioners and residents](amd-knowledge-differs-by-professional-title.md) — related
 - [Internal medicine physicians' self-assessed periodontal knowledge increased significantly after completing the survey despite objective knowledge gaps](ims-self-assessment-increased-post-survey.md) — related
 - [Diabetes-periodontitis knowledge is high and comparable between internal medicine physicians and dentists, the only domain where IMS scored higher](diabetes-periodontitis-knowledge-comparable-ims-dentists.md) — related
+- [Physicians in training showed higher general ASD knowledge than certified specialists](physicians-in-training-higher-asd-knowledge.md) — related

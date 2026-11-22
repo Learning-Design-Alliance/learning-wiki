@@ -50,3 +50,4 @@ The review reports, citing Barteit et al., a systematic review of head-mounted d
 - [The HTC Vive head-mounted devices were mostly used to conduct the experiments](htc-vive-most-used-device.md) — related
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
+- [A planned multi-centre, non-inferiority educational interventional study with historical controls will evaluate whether fully remote, unsupervised VR training is non-inferior to traditional tracheostomy training](vr-tracheostomy-non-inferiority-protocol-69-participants.md) — a narrower finding that bears on this claim

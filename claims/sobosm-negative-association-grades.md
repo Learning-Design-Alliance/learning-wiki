@@ -50,3 +50,5 @@ Total-effect path estimate from the parallel mediation model (Fig. 2, panel A) o
 - [SOBOSM is positively associated with social media addiction and social media use, mediating indirect negative effects on maladjustment](sobosm-positive-sma-use-indirect-maladjustment.md) — related
 - [Academic resilience mediates the negative association between smartphone addiction and academic achievement](academic-resilience-mediation-smartphone-achievement.md) — related
 - [Cognitive test anxiety mediates the negative association between smartphone addiction and academic achievement, and was the strongest mediator](cognitive-test-anxiety-mediation-smartphone-achievement.md) — related
+- [Social media addiction and academic engagement serially mediate the social anxiety–academic performance link](serial-mediation-sma-engagement.md) — related
+- [Social anxiety is positively associated with social media addiction among college students](social-anxiety-social-media-addiction-link.md) — related

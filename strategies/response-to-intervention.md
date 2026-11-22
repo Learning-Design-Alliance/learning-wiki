@@ -102,6 +102,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Prioritize mid-year CBM literacy screenings, particularly LNF and LSF, within a multi-point progress-monitoring framework](mid-year-cbm-screening-strategy.md)
 - [Target academic interventions at children with CKD from low-SES families using tutoring, progress monitoring, and proactive school–health communication](academic-interventions-low-ses-ckd-children-strategy.md)
 - [Return graded three-tier tests, guide student reflection on learning-risk topics, and re-evaluate to monitor progress](return-tests-guide-reflection-reevaluate-risks.md)
+- [Screen children HEU for risk of poor academic achievement and study modifiable contributors with multi-level mixed methods](screen-heu-children-academic-risk-strategy.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

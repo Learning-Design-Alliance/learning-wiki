@@ -56,3 +56,4 @@ Wald test comparing regression models with and without an ADHD × sex interactio
 - [Gender is not related to self-concept in children with ADHD, though females report more internalizing problems](gender-not-related-self-concept-adhd-females-more-internalizing.md) — related
 - [Gender is not a significant moderator of the math anxiety–performance relationship](gender-not-moderator-ma-math-link.md) — related
 - [ADHD scale score significantly predicts IGD severity (β = .27, R² = .38), with a stronger predictive value in females (β = .49) than males (β = .21)](adhd-predicts-gd-severity-regression.md) — related
+- [No significant sex differences in the pathways from maternal depressive symptoms to adolescent academic performance](no-sex-differences-maternal-depression-academic-pathways.md) — related

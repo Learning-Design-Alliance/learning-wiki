@@ -52,3 +52,4 @@ Pearson correlation analysis (Table 3, N = 585) among Saudi nursing interns show
 - [Risk for social media addiction negatively predicts academic self-efficacy and clinical performance in nursing interns](sma-negative-prediction-ase-clinical-performance.md) — related
 - [About 23% of the sampled students showed a tendency towards study addiction, exceeding international prevalence rates](study-addiction-tendency-prevalence-german-sample.md) — related
 - [Nomophobia and smartphone addiction are highly prevalent among Filipino high school students](nmp-sa-prevalence-filipino-adolescents.md) — related
+- [Social anxiety is positively associated with social media addiction among college students](social-anxiety-social-media-addiction-link.md) — related

@@ -53,3 +53,4 @@ Cross-sectional online ADKS survey of 231 healthcare professionals in government
 - [Health care staff in a regional Australian health district show moderate overall dementia knowledge, averaging 79% correct on the ADKS](health-staff-moderate-dementia-knowledge-adks-79.md) — related
 - [Dementia knowledge deficits concentrate in the medically oriented ADKS domains of risk factors and course of the disease](knowledge-deficits-risk-factors-course-domains.md) — related
 - [Dementia knowledge differs significantly by professional group, with medical staff scoring highest and support staff lowest](professional-group-differences-dementia-knowledge.md) — related
+- [Primary care providers' dementia-care knowledge scores differ significantly by occupation, while attitudes and skills scores do not](pcp-dementia-knowledge-varies-by-occupation.md) — related

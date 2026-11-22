@@ -55,3 +55,4 @@ Randomized controlled non-inferiority trial with 97 analyzed medical students ra
 - [A one-hour simulation training session on needle visualization improved residents' clinical UGRA success rate compared to no simulation training](simulation-training-improves-ugra-clinical-success.md) — related
 - [After short exposure, video-based CPR self-training yields higher practical manikin simulation scores than a serious game](video-beats-serious-game-cpr-practical-posttest.md) — related
 - [Video-didactic training is comparable to simulation-based training for teaching novices basic lung isolation skills](video-didactic-comparable-simulation-lung-isolation.md) — related
+- [A planned multi-centre, non-inferiority educational interventional study with historical controls will evaluate whether fully remote, unsupervised VR training is non-inferior to traditional tracheostomy training](vr-tracheostomy-non-inferiority-protocol-69-participants.md) — related

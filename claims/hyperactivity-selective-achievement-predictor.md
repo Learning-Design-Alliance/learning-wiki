@@ -52,3 +52,4 @@ Regression analysis of the primary school sample (n = 1754). The article reports
 - [Only the inattention symptom dimension significantly predicts lower final GPA; hyperactivity and impulsivity dimensions are not significant predictors](inattention-dimension-only-significant-predictor-final-gpa.md) — related
 - [Inattention symptoms, but not hyperactivity-impulsivity symptoms, predict academic performance and academic adjustment in South African first-year undergraduates](inattention-not-hyperactivity-predicts-academic-success.md) — related
 - [Regression models explain 23.7% of overall achievement variance in primary school and 17.1% in secondary school](regression-variance-primary-secondary-achievement.md) — related
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](inattention-hyperactivity-subscale-drives-sdb-school-grades.md) — related

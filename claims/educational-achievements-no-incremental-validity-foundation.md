@@ -69,3 +69,4 @@ Model 2 of the same multilevel analysis, with SJT z-score converted to within-ye
 - [Per decile, EPM decile increases the odds of foundation programme completion roughly twice as much as SJT decile (about 15% vs 8%)](epm-decile-twice-sjt-per-decil-completion-odds.md) — related
 - [The relationship between decile rank and completion is non-linear, with differences concentrated at the extreme deciles](nonlinear-decile-outcome6-relationship-extremes.md) — related
 - [The three selection scores intercorrelate only weakly to moderately, with the highest correlation between EPM decile and SJT z-score](selection-measures-intercorrelations-rho-030.md) — related
+- [The UKFPO SJT is reliable and adds validity over the EPM in predicting Foundation Programme completion](ukfpo-sjt-validity-over-epm.md) — related

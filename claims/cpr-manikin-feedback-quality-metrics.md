@@ -60,3 +60,4 @@ Objective manikin-based metrics recorded during the 2-minute compression task in
 - [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related
 - [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related
 - [Chest compression depth was adequate in a majority (55% in 40–50 mm) while compression rate exceeded the guideline maximum in half of providers](rural-ems-compression-depth-rate.md) — related
+- [Paramedic trainees with adequate chest compression rate have higher baseline SDNN than those with inadequate rate; compression depth shows no significant difference](baseline-sdnn-adequate-compression-rate.md) — related

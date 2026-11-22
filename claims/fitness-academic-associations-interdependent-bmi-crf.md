@@ -76,3 +76,7 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — related
 - [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [BMI is negatively associated with adolescent students' academic performance (β = -0.117, p < 0.01)](bmi-negative-association-academic-performance.md) — related
+- [Chances of achieving the highest academic level rose by 165% in mathematics and 484% in Slovak language for fit normal-weight boys versus unfit boys with obesity](chance-increase-165-484-percent-fit-normal-boys.md) — related
+- [Fit, normal-weight boys have significantly higher odds of top academic achievement than unfit boys with obesity](fit-normal-boys-higher-odds-than-unfit-obese-boys.md) — related
+- [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related

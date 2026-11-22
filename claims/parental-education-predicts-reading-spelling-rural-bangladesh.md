@@ -54,3 +54,4 @@ Fully adjusted multiple regression (Table 5) in the 372-child cohort; parental e
 - [Difficult behaviour was negatively associated with reading only, and anthropometry was largely null in adjusted models, with WAZ the sole remaining anthropometric predictor](behaviour-anthropometry-adjusted-associations-rural-bangladesh.md) — related
 - [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — reports the opposite
 - [Mother's and father's education levels each significantly predict eighth-grade mathematics achievement in Taiwan](parent-education-predicts-math-achievement-taiwan.md) — reports the opposite
+- [Parental educational level was strongly associated with children's school test scores in the adjusted models](parental-education-associated-with-test-scores.md) — related

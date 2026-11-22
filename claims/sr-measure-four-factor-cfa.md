@@ -61,3 +61,4 @@ CFA of the 13-item self-report model in the full sample (N = 288) demonstrated "
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
 - [The MUSCAT shows acceptable model fit and internal consistency as a 10-item, two-factor scale (Cronbach's alpha 0.903)](muscat-acceptable-fit-reliability.md) — related
 - [The AIMS three-subscale measurement structure fits the data and yields reliable Rasch measures for middle school students](aims-three-subscale-structure-validated.md) — related
+- [The HLS19-Q12 shows good factorial validity across 17 countries, with CFI ≥ 0.97 and internal consistency above 0.8](hls19-q12-validated-17-countries.md) — related

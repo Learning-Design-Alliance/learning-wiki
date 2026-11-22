@@ -60,3 +60,4 @@ Cross-sectional moderated-moderation regression in a sample of 520 undergraduate
 - [Depressive symptoms predict subsequent academic engagement more strongly than academic engagement predicts depressive symptoms in Chinese college students](ds-predicts-later-academic-engagement-cross-lagged.md) — related
 - [Among university students, lower depression and loneliness scores and higher social satisfaction scores are associated with higher academic achievement](emotional-functioning-correlates-academic-achievement.md) — a broader claim this one bears on
 - [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — possibly the same claim (merge candidate)
+- [High burnout risk does not differ significantly between medical students with lower (≤8) and higher (>8) GPA](no-gpa-burnout-risk-difference-medical-students.md) — related

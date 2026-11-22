@@ -46,3 +46,4 @@ The article's Background section asserts this, citing prior dissemination and tr
 
 ## Related Claims
 - [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
+- [The review literature indicates didactic methods and supervision alone are insufficient to change trainee behavior or improve client outcomes, motivating experiential supplements](didactic-training-insufficient-for-procedural-skill.md) — a narrower finding that bears on this claim

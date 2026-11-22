@@ -88,3 +88,4 @@ Same randomized study; Table 2 shows critical thinking self-confidence d = 0.21,
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related
 - [Senior nursing students earn higher critical thinking total scores than lower-grade peers](critical-thinking-total-score-increases-educational-level.md) — related
 - [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related
+- [Evidence on whether problem-based learning improves nursing students' critical thinking is mixed, with meta-analyses reaching opposite conclusions](pbl-critical-thinking-mixed-meta-analytic-evidence.md) — related

@@ -53,3 +53,4 @@ Observational analysis of 2011-12 attendance records for 24,854 three- and four-
 - [Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students](homeless-students-chronic-absenteeism-double-state-average.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — related
 - [Learning bias in early warning systems over-identifies African American and Hispanic students as at-risk due to biased disciplinary and attendance data](ews-learning-bias-over-identifies-minority-students.md) — related
+- [Neighborhood-disadvantage associations with connectivity change are no longer significant after adjustment for race and ethnicity](neighborhood-findings-nonsignificant-race-adjustment.md) — related

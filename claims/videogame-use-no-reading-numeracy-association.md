@@ -49,3 +49,5 @@ Longitudinal and cross-sectional models across both NAPLAN domains in the same c
 - [Concurrent heavy television and computer use at grade 5 were associated with lower numeracy scores at grade 5](concurrent-tv-computer-grade5-lower-numeracy.md) — related
 - [Using a computer for more than one hour per day at grade 3 predicted a lower NAPLAN numeracy score at grade 5](computer-over-one-hour-grade3-lower-grade5-numeracy.md) — related
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — related
+- [Students with A, B, and C GPAs were significantly more likely than D/F students to watch television and play video games ≤15 hours per week, but social media time showed no GPA differences](gpa-sedentary-screen-time-undergraduates.md) — related
+- [Children meeting the screen time guideline spent more time reading and less time watching television than those not meeting it, suggesting screen time displaces literacy-supporting activities](screen-time-displaces-reading-literacy.md) — related

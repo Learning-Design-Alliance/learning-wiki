@@ -68,3 +68,6 @@ Narrative review citing Chidambaram (1996) on dispersed team communication over 
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — related
 - [Dispersed videoconferencing students rated interaction highest and were observed interacting more than co-located students](dispersed-videoconference-highest-interaction.md) — related
+- [Co-located teams outperformed distributed teams specifically on timely task completion (item 4) and adaptation to changing situations (item 7)](co-located-advantage-task-timeliness-and-adaptability.md) — related
+- [Co-located rural emergency teams received significantly higher TEAM ratings than distributed telemedicine teams on total, teamwork, and overall performance](co-located-teams-higher-team-ratings-than-distributed.md) — a narrower finding that bears on this claim
+- [No significant difference between co-located and distributed teams on leadership (items 1–2) or task management (items 10–11)](no-setting-difference-leadership-task-management.md) — related

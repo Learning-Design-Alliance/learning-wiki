@@ -75,3 +75,4 @@ GEE logistic regression (Table 4) predicting odds of passing each year at first 
 - [Prior educational attainment significantly predicts first-year medical school performance (r = .362)](educational-attainment-predicts-first-year-medical-performance.md) — related
 - [SQA (Scottish) qualifications predict first-year medical school outcome more strongly than GCE qualifications](sqa-qualifications-predict-better-than-gce.md) — related
 - [UKCAT Verbal Reasoning correlates positively with Theory examinations but not with Skills assessments](ukcat-verbal-reasoning-differential-theory-skills-prediction.md) — related
+- [The UCAT adds a small amount of incremental validity to prior educational attainment](ucat-small-incremental-validity-prior-attainment.md) — possibly the same claim (merge candidate)

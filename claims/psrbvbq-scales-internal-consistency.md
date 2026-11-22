@@ -56,3 +56,4 @@ Reliability (item) analysis on the same sample of 322 middle school teachers, wi
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related
+- [The knowledge section of the liberal birthing position questionnaire shows good reliability and structural validity, with four factors explaining 41.0% of variance and Cronbach's alpha of 0.890](knowledge-section-28-items-reliable-valid.md) — related

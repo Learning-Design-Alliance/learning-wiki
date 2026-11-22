@@ -54,6 +54,7 @@ The article recommends a multifaceted approach across individual, institutional,
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
 - [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
+- [Multifaceted EBM-enabling initiatives for radiology technologists: training, resources, dedicated time and institutional leadership support](multifaceted-ebm-enabling-initiatives-radiology.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Model 3 covariate effect; authors explain that older retained learners may inclu
 - [Higher self-reported physical activity, grip strength, and VO2 max are independently associated with better concentration performance in disadvantaged children](fitness-activity-associated-concentration-performance.md) — related
 - [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — related
 - [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](age-sex-demographic-differences-school-functioning.md) — related
+- [Students with better aerobic fitness present better-processed elements and smaller omission errors, and girls and older students show better cognitive functioning scores](better-fitness-better-attention-scores.md) — reports the opposite

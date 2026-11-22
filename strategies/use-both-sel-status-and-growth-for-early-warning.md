@@ -45,6 +45,7 @@ This strategy recommends that early-warning identification of at-risk students s
 - [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
 - [Make SEL measurement narrower in focus but broader in context and depth, choosing specific measures guided by development and skill trajectories](narrower-focus-broader-context-sel-measurement.md)
 - [Use validated context-specific resilience measures to identify students vulnerable to early dropout and target support](measure-academic-resilience-to-support-at-risk-students.md)
+- [Prioritise children vulnerable to falling behind in early and middle grades for educational interventions](prioritise-children-vulnerable-early-middle-grades.md)
 
 ## Examples
 -

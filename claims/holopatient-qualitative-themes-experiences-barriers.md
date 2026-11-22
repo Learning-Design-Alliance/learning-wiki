@@ -73,3 +73,4 @@ Barrier sub-theme from the same focus groups; some HoloLens wearers reported cyb
 - [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
 - [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related
 - [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related
+- [The article identifies lack of understanding, terminology confusion, cybersickness risk, and no standard distribution route as factors limiting VR implementation in UK healthcare](barriers-limited-vr-implementation-uk-healthcare.md) — related

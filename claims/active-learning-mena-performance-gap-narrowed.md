@@ -48,3 +48,4 @@ Performance gap calculated from official final course scores of all five courses
 - [The lowest-performing score tail was eliminated in active-learning offerings, with students below ~25 points appearing exclusively in traditional offerings](active-learning-mena-low-tail-eliminated.md) — related
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a broader claim this one bears on
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
+- [Active-learning sections in the Omani study essentially eliminated the tail of students scoring 35% or less](active-learning-eliminates-low-scoring-tail.md) — related

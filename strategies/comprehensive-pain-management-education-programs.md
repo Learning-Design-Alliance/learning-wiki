@@ -47,6 +47,7 @@ The article's authors conclude that because emergency nurses' pain management kn
 ## Related Strategies
 
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
+- [Provide continuous pain management education programs for nurses regardless of experience level](continuous-nurse-pain-education-programs.md)
 
 ## Examples
 -

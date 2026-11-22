@@ -73,3 +73,4 @@ Incremental validity regressions at ICSM adjusting for A-level scores reported i
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [UKCAT scores retain incremental predictive validity over prior educational attainment for most outcomes, with quantitative reasoning the main exception](ukcat-incremental-validity-over-attainment.md) — related
+- [The UCAT adds a small amount of incremental validity to prior educational attainment](ucat-small-incremental-validity-prior-attainment.md) — related

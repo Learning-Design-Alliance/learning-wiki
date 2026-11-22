@@ -46,6 +46,7 @@ After each roughly 10-minute simulated debriefing, the trainer delivers about 20
 ## Related Strategies
 
 - [Record home simulation practice on the smartphone and review it with a trainer for feedback](record-home-practice-trainer-feedback-strategy.md)
+- [Train-the-trainer facilitator preparation via an intensive 3-day course plus a 2-day standardization workshop with TeamGAINS debriefing](train-the-trainer-facilitator-course-workshop.md)
 
 ## Examples
 -

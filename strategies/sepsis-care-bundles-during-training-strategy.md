@@ -49,6 +49,7 @@ The article recommends that sepsis education be formalized in medical and nursin
 ## Related Strategies
 
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
+- [Targeted educational initiatives to close the gap between evidence-based sepsis recommendations and clinical practice](targeted-educational-initiatives-sepsis-guidelines.md)
 
 ## Examples
 -

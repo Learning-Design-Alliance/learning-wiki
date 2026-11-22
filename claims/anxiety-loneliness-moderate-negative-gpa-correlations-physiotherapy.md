@@ -53,3 +53,4 @@ Cross-sectional correlational analysis of 256 physiotherapy and rehabilitation s
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
+- [Trait anxiety intensity of medical students is negatively correlated with academic performance, while the state anxiety correlation did not reach significance](trait-anxiety-negatively-correlated-academic-performance.md) — related

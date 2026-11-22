@@ -54,3 +54,4 @@ Multilevel analyses of PISA 2012 (480,174 students, 65 countries) and PISA 2015 
 - [National income inequality weakens the culturally based social class test gap (parental education, cultural capital)](income-inequality-weakens-culturally-based-gap.md) — related
 - [Home computer access, linguistic capital, socioeconomic status, and years of computer experience are the most important factors in Chilean 10th graders' digital skills test performance](hlm-factors-chilean-digital-skills.md) — related
 - [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — a narrower finding that bears on this claim
+- [Male sex predicted 0.60 more years of education and each 1 SD higher household economic status predicted 0.82 more years, with no sex-by-HES interaction in phenotypic regression](hes-and-sex-predict-ea-multilevel-regression.md) — related

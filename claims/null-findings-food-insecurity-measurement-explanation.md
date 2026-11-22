@@ -51,3 +51,5 @@ The review's critical appraisal of the four null studies; it notes three used in
 - [Food insecurity prevalence among higher education students averages 44.03% and consistently exceeds national estimates](food-insecurity-prevalence-44-percent-students.md) — related
 - [Food insecurity is significantly associated with academic performance (pooled effect size 2.810)](food-insecurity-academic-performance-ethiopia.md) — reports the opposite
 - [Food insecurity prevalence estimates vary by USDA instrument version, with the 6-item scale yielding higher weighted prevalence than the 10-item scale](usda-scale-version-prevalence-variation.md) — related
+- [Adolescents from food-insecure households in Hargeisa had significantly higher rates of poor academic performance than adolescents from food-secure households](food-insecurity-associated-poor-academic-performance-hargeisa.md) — related
+- [Household food insecurity prevalence among primary school adolescents in Hargeisa City was 59.21%](food-insecurity-prevalence-59-percent-hargeisa-adolescents.md) — related

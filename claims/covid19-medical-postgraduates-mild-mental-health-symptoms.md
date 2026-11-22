@@ -57,3 +57,5 @@ Cross-sectional online survey of 153 medical postgraduates at Zhejiang Universit
 - [There were no significant differences between surgical and internal medicine postgraduates in either mental health or academic performance during the pandemic](covid19-no-surgical-internal-differences-postgraduates.md) — related
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
 - [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related
+- [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
+- [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related

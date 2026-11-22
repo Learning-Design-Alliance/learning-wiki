@@ -63,3 +63,4 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
 - [The association between mental disorder diagnosis and lower school achievement is more pronounced in female than male students](gender-difference-mental-disorder-gpa-females-stronger.md) — related
 - [Poorer mental health, menstrual knowledge, knowledge of pain management and menstrual self-efficacy are associated with lower use of effective pain management and lower reported pain relief.](mental-health-knowledge-self-efficacy-pain-management.md) — related
+- [Female sex is associated with higher academic scores in linear regression but not with poor performance in multivariable analysis](female-sex-mixed-academic-performance-association.md) — related

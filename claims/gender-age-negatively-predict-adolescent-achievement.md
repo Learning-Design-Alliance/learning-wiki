@@ -53,3 +53,4 @@ SEM Model 3 with gender and age as moderator factors; Table 4 reports direct-onl
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — related
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
 - [Higher age, female gender and more time spent on self-study each predict higher GPA among occupational therapy students, controlling for study approaches](age-gender-selfstudy-predict-ot-gpa.md) — reports the opposite
+- [Older student age is negatively associated with grades, and there is no gender difference in performance](age-negative-gender-null-association-grades.md) — reports the opposite

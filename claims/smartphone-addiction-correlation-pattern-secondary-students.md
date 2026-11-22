@@ -53,3 +53,4 @@ Pearson correlation analysis (Table 1, N = 828) among the main variables. The ar
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related
 - [The direction of the relationship between smartphone/internet addiction and academic achievement differs by country: negative for Czech students, positive for Chinese students](addiction-achievement-direction-country-difference.md) — related
+- [Newspapers most frequently report health deterioration, led by dependence/addiction, from teenage smartphone use](newspapers-health-drawbacks-smartphone-teens.md) — related

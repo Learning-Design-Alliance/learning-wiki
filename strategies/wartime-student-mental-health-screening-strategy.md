@@ -53,6 +53,7 @@ The authors recommend that Ukrainian higher education institutions implement mea
 - [Use the UNI to screen students and target psychosocial support services](uni-screening-targeted-support-strategy.md)
 - [Monitor modifiable risk factors for poor academic performance during distance education and support students through university counselling services](monitor-modifiable-risk-factors-de-counselling-support.md)
 - [Identify at-risk students at the start of a semester and deliver just-in-time mental health interventions to protect both psychological health and academic achievement](early-semester-identification-just-in-time-interventions.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

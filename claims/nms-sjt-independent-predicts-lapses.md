@@ -54,3 +54,5 @@ Multivariable logistic regression in the same 705-student cohort, adjusted for E
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related
 - [Competence performance decreases across later admission years, with admission year an independent predictor (β = −0.237)](admission-year-negative-competence-trend.md) — related
 - [Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer](confidence-judgement-not-independent-offer-predictor.md) — related
+- [SJT scores show statistically significant associations with later fitness-to-practise outcomes, with the null independent effect attributed to low power](sjt-predicts-fitness-to-practise-events.md) — related
+- [The UCAT situational judgment subtest weakly predicts professional behaviour in medical school, whilst the cognitive subtests did not](ucat-sjt-weakly-predicts-professional-behaviour.md) — related

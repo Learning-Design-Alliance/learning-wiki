@@ -46,7 +46,8 @@ The authors propose extending their expert-surgeon learning-curve methodology to
 - [Segmenting the surgeon's experience into Novice and Expert phases did not improve OPI-based prediction of case complexity](../claims/skill-segmentation-no-prediction-gain.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Automated video review of a standardised operative step to track trainees' learning curve](automated-vpdt-review-learning-curve-tracking.md)
 
 ## Examples
 -

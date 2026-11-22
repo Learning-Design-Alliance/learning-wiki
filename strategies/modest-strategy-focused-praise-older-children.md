@@ -52,6 +52,7 @@ The article recommends that, for older children (from about age 10) who understa
 - [Praise Effort and Strategies](praise_effort_and_strategies.md)
 - [Growth Mindset Feedback](growth_mindset_feedback.md)
 - [Design feedback to reference only modifiable behaviors and avoid mentioning performance to prevent demotivation](feedback-targets-modifiable-behaviors-only.md)
+- [Avoid excessively frequent praise of high-achieving students while using praise to reduce antisocial behavior](moderate-praise-strategy.md)
 
 ## Examples
 -

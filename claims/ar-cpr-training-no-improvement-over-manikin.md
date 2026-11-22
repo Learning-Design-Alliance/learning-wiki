@@ -59,3 +59,4 @@ The review reports, citing Leary et al. (2020), a comparison of an AR CPR traini
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — reports the opposite
 - [Feedback is essential for learning from simulation-based training](feedback-essential-for-simulation-based-training.md) — related
 - [High-fidelity simulation training produced higher compression fraction than standard low-fidelity manikin training](sim-training-higher-compression-fraction.md) — related
+- [Three minutes of slow-paced breathing before simulated pediatric CPR does not improve recall, compression rate, depth, or cognitive appraisal versus a control video](short-spb-no-cpr-performance-benefit.md) — related

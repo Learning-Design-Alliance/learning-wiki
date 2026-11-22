@@ -56,3 +56,4 @@ Software-recorded analysis of baseline compressions in the training program. Tab
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
 - [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related
 - [Percentage of sufficient compressions, compression depth, and compression frequency show no significant difference between the teaching groups](sufficient-compressions-no-group-difference.md) — related
+- [Paramedic trainees with adequate chest compression rate have higher baseline SDNN than those with inadequate rate; compression depth shows no significant difference](baseline-sdnn-adequate-compression-rate.md) — related

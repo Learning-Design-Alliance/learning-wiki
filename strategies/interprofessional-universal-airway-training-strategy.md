@@ -51,6 +51,7 @@ The review recommends that training move beyond site- and specialty-specific par
 - [Incorporate on-call simulation into departmental inductions, especially in specialties with limited prior exposure](on-call-simulation-as-induction-strategy.md)
 - [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
 - [Provide specific airway management training for non-anaesthesiologist HEMS personnel, supported by simulation access and HEMS-tailored national guidelines](specific-airway-training-non-anaesthesiologist-hems-personnel-strategy.md)
+- [Provide regular early shifts and periodic rotations to high-volume areas for new HEMS physicians with low overall prehospital anaesthesia exposure](regular-early-shifts-and-high-volume-rotations-hems.md)
 
 ## Examples
 -

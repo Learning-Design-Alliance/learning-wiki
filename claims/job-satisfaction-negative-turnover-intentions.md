@@ -55,3 +55,4 @@ Random-effects meta-analysis of 61 studies (N = 41,622 teachers) pooling correla
 - [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
 - [Job satisfaction correlates with performance outcomes for external reports as well as teacher self-reports, though self-report effect sizes are larger](rater-perspective-moderates-job-satisfaction-links.md) — related
+- [Decreased morale and job satisfaction, and increased stress and potential turnover, are the most frequent reported consequences of conflicts](morale-stress-turnover-most-frequent-conflict-consequences.md) — related

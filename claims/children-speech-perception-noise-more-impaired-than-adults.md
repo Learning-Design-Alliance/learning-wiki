@@ -52,3 +52,4 @@ The review reports psychoacoustic studies showing children's speech identificati
 - [Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)](older-adults-reduced-accuracy-severe-noise-only.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — a broader claim this one bears on
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — a narrower finding that bears on this claim
+- [Among boys, elevated high-frequency thresholds and speech-in-noise thresholds are associated with higher parent-reported total, social, attention, internalizing, and externalizing problem scores](boys-hpta-srt-higher-cbcl-problem-scores.md) — related

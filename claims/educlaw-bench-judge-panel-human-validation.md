@@ -65,3 +65,4 @@ Human validation with two domain experts scoring about 40 judged days per axis, 
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — a broader claim this one bears on
 - [Expert instructors judged that AVT learners helped novices make educationally helpful progress in 98% of sessions](avt-novice-impact-expert-assessment.md) — related
 - [A three-system human pilot (n=30) validates the VLM learner proxy: significant human posttest gain, 85.7% directional agreement, and perfect cross-system ranking consistency](slate-vlm-proxy-human-pilot-validation.md) — a narrower finding that bears on this claim
+- [Multi-model cross-verification outperformed the single best model, reaching 94.17% accuracy with two models and 96.33% with three](multimodel-cross-verification-accuracy-gains.md) — related

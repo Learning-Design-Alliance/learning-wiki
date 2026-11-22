@@ -57,3 +57,5 @@ Qualitative findings from two 1-hour focus groups with youth ages 14-18, facilit
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [Higher social media use and screen time are significantly associated with poorer mental health among tertiary students in Ghana](social-media-screen-time-poorer-mental-health-ghana-tertiary.md) — related
 - [Students reported decreased focus and motivation as the most significant negative effect of online classes, alongside mental-health concerns](online-focus-motivation-decline.md) — related
+- [Newspapers most frequently report health deterioration, led by dependence/addiction, from teenage smartphone use](newspapers-health-drawbacks-smartphone-teens.md) — related
+- [Social anxiety is positively associated with social media addiction among college students](social-anxiety-social-media-addiction-link.md) — related

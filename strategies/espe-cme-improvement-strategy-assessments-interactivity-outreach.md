@@ -47,6 +47,7 @@ The authors recommend a set of forward-looking actions to enhance the platform's
 ## Related Strategies
 
 - [Use professional exchange programs and technology-supported CME to extend ID training beyond local provision](exchange-programs-and-cme-technology-id-training.md)
+- [Targeted CME modules, standardized electronic follow-up templates, and stronger pediatric-endocrinology referral links to close the GDM knowledge-practice gap](targeted-cme-followup-templates-gdm-neonatology.md)
 
 ## Examples
 -

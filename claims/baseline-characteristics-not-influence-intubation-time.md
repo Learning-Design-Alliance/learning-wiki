@@ -52,3 +52,4 @@ Post hoc ancillary analysis using a generalized linear model fitting intubation 
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
 - [Learning curve-based individualized simulator training is noninferior to fixed 1-hour training for clinical FOB intubation time in patients](learning-curve-training-noninferior-fob-intubation.md) — related
 - [Video duration and questionnaire time limits had no significant influence on quiz scores](video-duration-quiz-time-no-influence.md) — related
+- [No significant difference in DBS knowledge scores by resident sex or age](no-sex-age-difference-dbs-knowledge.md) — related

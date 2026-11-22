@@ -55,3 +55,4 @@ Authors' summary of the correlation and cluster results in the cross-sectional s
 - [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
 - [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related
 - [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related
+- [BMI correlates with D2 attention scores in age-specific patterns, including a large positive correlation with omissions at ages 11–12](bmi-d2-age-specific-correlations.md) — related

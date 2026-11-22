@@ -49,3 +49,4 @@ Repeated measures ANOVA of pretest, post-test and follow-up burnout scores from 
 - [Teacher narratives after happiness training yield eight recurring themes, including emotional exhaustion and recovery, reconnection with purpose, and improved classroom engagement](happiness-training-eight-qualitative-themes.md) — related
 - [Happiness training significantly improves primary school teachers’ teaching effectiveness across lesson planning, classroom management and student engagement](happiness-training-improves-teaching-effectiveness.md) — related
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
+- [Lifestyle factors predict emotional exhaustion and depersonalization differently](lifestyle-ee-dp-subscale-differences.md) — related

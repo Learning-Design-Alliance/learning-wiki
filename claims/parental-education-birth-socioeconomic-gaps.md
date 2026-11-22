@@ -71,3 +71,4 @@ Group comparisons of cognitive task scores and grades by parental education and 
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
 - [Cognitive performance mediates about 40% of the association between fitness and math and language grades](cognition-mediates-fitness-grades.md) — related
 - [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](fitness-associated-math-language-grades.md) — related
+- [Adolescents with parents with long education had higher grades and a greater predicted probability of grade improvement from age 13 to age 16](parental-long-education-higher-grades-and-improvement.md) — related

@@ -68,3 +68,4 @@ Null correlations reported in the same correlation analysis (Table 2): d2 omissi
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — a broader claim this one bears on
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — a broader claim this one bears on
 - [Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable](d2-error-measures-unrelated-to-fitness.md) — related
+- [VO2max correlates with D2 attention scores in age-specific patterns, with large positive correlations at age 15](vo2max-d2-age-specific-correlations.md) — related

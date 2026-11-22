@@ -75,3 +75,4 @@ ECLS-K mechanism analysis of administrative attendance records distinguishing ex
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](sbp-attendance-reading-gains.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — related

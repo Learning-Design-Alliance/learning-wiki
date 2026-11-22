@@ -66,3 +66,4 @@ In the same models with school fixed effects, "the significant association betwe
 - [Moderate-intensity physical activity is associated with higher academic performance at the 25th percentile of the APS distribution but not at higher quantiles](moderate-activity-aps-25th-percentile.md) — related
 - [Minutes of moderate-to-vigorous physical activity show a negative but trivial prospective association with adolescent English and Math grades](mvpa-trivial-negative-association-grades.md) — related
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — related

@@ -40,6 +40,7 @@ The article states that "Theory driven, web-based intervention programs offer an
 
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
+- [Joint psychological, behavioral and academic support interventions targeting social anxiety and social media addiction to improve academic engagement](joint-intervention-social-anxiety-sma-engagement.md)
 
 ## Examples
 -

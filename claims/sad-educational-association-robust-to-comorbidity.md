@@ -50,3 +50,4 @@ Sensitivity analyses (Table 4) repeating the main adjusted models after excludin
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related
 - [Psychosis, ASD, and ADHD-Inattentive Type independently elevate risk for slow processing speed relative to referred youth without diagnoses](psychosis-asd-adhd-i-elevate-slow-ps-risk.md) — related
 - [Individuals with social anxiety disorder have significantly lower odds of achieving each post-compulsory educational milestone, with finishing upper secondary education showing the greatest impairment](sad-lower-odds-post-compulsory-milestones.md) — related
+- [Higher school achievement is associated with a lower risk of psychiatric comorbidity, following a dose-response gradient](school-achievement-comorbidity-dose-response.md) — related

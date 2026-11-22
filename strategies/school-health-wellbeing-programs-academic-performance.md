@@ -47,6 +47,7 @@ Based on the finding that health problems and stress are associated with poor ac
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Use PMSS scores early in medical education to identify students at risk of poor academic performance and offer tailored support programs](early-pmss-risk-identification-tailored-support.md)
+- [School-based and media-based campaigns plus nutritional school programs to maintain sufficient vitamin D levels in students](school-campaigns-nutritional-programs-vitamin-d.md)
 
 ## Examples
 -

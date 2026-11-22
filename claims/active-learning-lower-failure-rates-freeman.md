@@ -50,3 +50,4 @@ The article reports, citing Freeman and collaborators, a study on 225 students i
 - [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — a broader claim this one bears on
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
+- [A 2014 meta-analysis summarized 225 research studies showing strong positive student effects of active learning across STEM](active-learning-effective-across-stem-freeman-2014.md) — a broader claim this one bears on

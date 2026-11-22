@@ -52,3 +52,4 @@ The review's discussion of methodological limitations reports that bivariate ass
 - [Online gambling findings for academic performance are mixed among college students](online-gambling-academic-performance-mixed-findings.md) — related
 - [Problem/pathological gamblers show significantly worse academic performance than non-gambling or non-problem gambling peers among college students](problem-gamblers-worse-academic-performance-college.md) — related
 - [The association between gambling and academic performance shows no sex-specific differences in the two studies that tested it](no-sex-specific-differences-gambling-gpa.md) — related
+- [Pharmacological neuroenhancement is significantly associated with lower academic performance in bivariate and step-3 analyses](pharmacological-neuroenhancement-lower-academic-performance.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Self-reported barrier items in the 709-student cross-sectional survey; Table 2 s
 - [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Biostatistics and research methodology coursework is associated with prior EBM training, while hospital clinical training is associated with lower EBM training](coursework-associated-ebm-training-clinical-training-inverse.md) — related
+- [Sufficient time, institutional support and EBM resource access were each significantly associated with better EBM practice](time-support-resources-associate-ebm-practice.md) — related

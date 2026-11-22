@@ -71,3 +71,4 @@ Spearman correlation analysis in the same cross-sectional study found "no signif
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite
 - [Low physical activity is independently associated with lower GPA among Palestinian university medical students](low-physical-activity-lower-gpa-palestinian-students.md) — reports the opposite
 - [Waterpipe use during exam periods shows an unexpected positive association with average grades, which the authors attribute to confounding rather than a real effect](waterpipe-use-positive-grades-confounding.md) — related
+- [Traditional coffee is significantly negatively correlated with grades in Spearman analysis but not significant in regression](traditional-coffee-inconsistent-across-analyses.md) — related

@@ -54,6 +54,7 @@ The article recommends a four-part education and system-level response to the me
 - [Integrate case-based learning, visual diagnostic training, and interdisciplinary teaching into medical curricula to strengthen oral diagnosis](integrate-case-based-oral-diagnosis-training-strategy.md)
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 - [Combine targeted physician education on risk stratification, dual antiplatelet therapy, and vascular imaging with structured referral pathways and expanded neuroimaging access](tia-education-referral-pathway-strategy.md)
+- [Targeted CME modules, standardized electronic follow-up templates, and stronger pediatric-endocrinology referral links to close the GDM knowledge-practice gap](targeted-cme-followup-templates-gdm-neonatology.md)
 
 ## Examples
 -

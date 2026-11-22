@@ -69,3 +69,4 @@ Cross-study synthesis of capability mechanisms in the same review. It reports th
 - [Follow-up training and regular supervision from formal health staff, with logistical support, trigger a sense of legitimacy and professional identity in CHVs](chv-role-legitimacy-health-system.md) — related
 - [Intervention designs with frequent supervision and continuous training led to better CHW performance in certain settings](frequent-supervision-continuous-training-better-chw-performance.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [The quality of education FCNs provide and receive varies with geographical context, with FCNs in mountain communities feeling poorly educated and trained](fcn-education-quality-geographic-context.md) — related

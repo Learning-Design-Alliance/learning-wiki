@@ -58,6 +58,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Apply adaptive experiments in CS1 to rapidly improve motivational supports and alternative forms of feedback and explanation](adaptive-experiments-for-cs1-motivation-and-feedback.md)
 - [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](incremental-testing-confirmatory-exploratory.md)
 - [Use conditioned distractor generation as a rapid proxy evaluation of educational AI instead of lengthy learning-outcome studies](conditioned-distractor-rapid-evaluation-strategy.md)
+- [Two consecutive implementation-and-evaluation cycles informed by Comprehensive Dynamic Trials](comprehensive-dynamic-trial-iterative-cycles.md)
 
 ## Examples
 -

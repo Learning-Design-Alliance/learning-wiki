@@ -49,3 +49,4 @@ Observed in the user flow data through the weeks of the 'Basic Spanish 1' MOOC. 
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - [Risk of first probation and attrition is highest early in didactic training, concentrated in the first and second academic units.](early-didactic-risk-window-probation-attrition-pa.md) — related
+- [The review literature indicates didactic methods and supervision alone are insufficient to change trainee behavior or improve client outcomes, motivating experiential supplements](didactic-training-insufficient-for-procedural-skill.md) — related

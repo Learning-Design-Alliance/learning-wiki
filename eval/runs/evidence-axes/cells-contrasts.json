@@ -132826,5 +132826,21 @@
  "media-design\tquestions containing diagrams\ttext-only questions": {
   "label": "diagram-containing questions vs text-only questions",
   "treatment_is_a": true
+ },
+ "active-learning\tactive learning methods\ttraditional instruction": {
+  "label": "active learning methods vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning methods\ttraditional teaching": {
+  "label": "active learning methods vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive focus-group member-checking of draft competency profiles and referral pathway\tdraft tools before focus-group feedback": {
+  "label": "interactive member-checking vs draft tools before feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tdigital gamification using smartphones\tnot stated": {
+  "label": "gamification vs no gamification",
+  "treatment_is_a": true
  }
 }

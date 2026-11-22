@@ -52,3 +52,4 @@ Non-inferiority parallel group randomized controlled trial with 289 first-year m
 - [The application's usability in two RCTs was similar to practicing the ABCDE approach with physical equipment](vr-abcde-usability-similar-to-physical-equipment.md) — a broader claim this one bears on
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Eight basic ABCDE observations were selected for the VR application based on UK resuscitation guidelines and expert input](eight-abcde-observations-selected.md) — related
+- [A planned multi-centre, non-inferiority educational interventional study with historical controls will evaluate whether fully remote, unsupervised VR training is non-inferior to traditional tracheostomy training](vr-tracheostomy-non-inferiority-protocol-69-participants.md) — related

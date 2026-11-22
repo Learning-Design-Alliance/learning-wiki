@@ -60,6 +60,8 @@ The article recommends that universities develop and implement activities and pr
 - [Identify at-risk students at the start of a semester and deliver just-in-time mental health interventions to protect both psychological health and academic achievement](early-semester-identification-just-in-time-interventions.md)
 - [Universities should implement targeted institutional strategies supporting student health during exam periods, including caffeine guidance, smoking cessation, sleep hygiene, and physical activity promotion](exam-period-institutional-health-strategies.md)
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
+- [Universities should provide psychopedagogical support and coordinate student mental-health follow-up with the public health network, and faculty should organize teaching tasks in a balanced way to prevent overload](institutional-psychopedagogical-support-post-pandemic-strategy.md)
 
 ## Examples
 -

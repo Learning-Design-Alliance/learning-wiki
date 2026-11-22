@@ -51,3 +51,5 @@ Univariable logistic regression from the national UKMED cohort; the results sect
 - [Per decile, EPM decile increases the odds of foundation programme completion roughly twice as much as SJT decile (about 15% vs 8%)](epm-decile-twice-sjt-per-decil-completion-odds.md) — related
 - [After controlling for age, disability, number of applications and medical school, EPM decile remains significant but SJT does not](sjt-nonsignificant-after-background-variables-model3.md) — related
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
+- [SJT scores show statistically significant associations with later fitness-to-practise outcomes, with the null independent effect attributed to low power](sjt-predicts-fitness-to-practise-events.md) — related
+- [UCAT scores do not predict health- or conduct-related fitness to practise declarations at GMC registration](ucat-no-prediction-fitness-to-practise-declarations.md) — related

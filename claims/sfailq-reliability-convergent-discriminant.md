@@ -59,3 +59,4 @@ Reliability and validity analysis in Sample 2 (N = 1226): Cronbach's alphas all 
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
 - [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related
+- [Convergent validity testing shows item-dimension correlations above 0.3 and dimension-total correlations above 0.7 for both sections](convergent-validity-correlations-questionnaire.md) — related

@@ -49,6 +49,7 @@ The authors recommend that while first-1000-days nutrition programmes remain cru
 ## Related Strategies
 
 - [Early identification of undernutrition, especially stunting, followed by timely prevention strategies and community-based feeding and agricultural skills interventions at schools](early-identification-undernutrition-prevention-strategy.md)
+- [Recommend nutrition interventions on dietary diversity for school-age children, alongside efforts to raise mothers' educational level and economic empowerment](dietary-diversity-nutrition-intervention-strategy.md)
 
 ## Examples
 -

@@ -85,3 +85,4 @@ Meta-analysis of 45 samples reporting pass/fail or DFW rates. The article report
 - [No statistically significant difference between grading systems in courses 1 and 2](no-significant-grading-difference-courses-1-and-2.md) — related
 - [Pass rates and grade distributions in the general biology course itself are not significantly different between flipped and non-flipped sections](pass-rates-not-different-flipped.md) — related
 - [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — related
+- [Students in traditionally taught Omani physics sections were more than 3.5 times as likely to fail as students in active-learning sections](mena-active-learning-lowers-failure-odds.md) — related

@@ -76,6 +76,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [On-site nurse mentoring programme with regular facility visits integrating case sheets as teaching aids](on-site-nurse-mentoring-visits-strategy.md)
 - [Design CPC/CPD frameworks as a 'mixed' model emphasising practical, simulation-based and team-based activities with evidence of patient contact](mixed-model-cpc-design-strategy.md)
 - [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
+- [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
 
 ## Examples
 -

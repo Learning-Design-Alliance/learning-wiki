@@ -45,6 +45,7 @@ The article recommends that for students with weaker academic performance, adequ
 ## Related Strategies
 
 - [Maintain a regular sleep schedule for children so that every night counts for morning cognitive performance](regular-sleep-schedule-every-night-counts.md)
+- [Policy strategy: promote adequate sleep duration and screen for sleep duration to safeguard adolescent students' physical health alongside academic scores](sleep-duration-screening-policy-strategy.md)
 
 ## Examples
 -

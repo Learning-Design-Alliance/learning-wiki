@@ -59,3 +59,4 @@ Micro-longitudinal ambulatory assessment in which 110 third- and fourth-graders 
 - [Elementary school children show substantial within-person day-to-day fluctuations in working memory performance in the school context](substantial-within-person-daily-wm-fluctuations-children.md) — a narrower finding that bears on this claim
 - [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related
 - [MI skill varied greatly between counsellors and fluctuated within counsellors over time](great-variation-mi-skill-across-counsellors-over-time.md) — a narrower finding that bears on this claim
+- [Students with a bed partner in a different room showed significantly lower sleep quality than students without a roommate](partner-other-room-lower-sleep-quality.md) — related

@@ -53,3 +53,4 @@ Synthesis of psychometric findings across the 6 included instrument-validation s
 - A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — related
 - [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — a narrower finding that bears on this claim
+- [Survey instruments showed acceptable internal consistency and self-reported anatomy scores closely approximated actual results](survey-instrument-validation-integrity.md) — related

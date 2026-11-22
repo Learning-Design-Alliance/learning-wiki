@@ -58,6 +58,8 @@ The article recommends that universities address student well-being holistically
 - [Safeguard visiting research students' well-being through dual supervision, welfare checks, and cohort social support](leaps-welfare-support-strategy.md)
 - [Institutions serving Native American students should offer culturally responsive wellness initiatives promoting restorative sleep and meaningful movement](culturally-responsive-wellness-initiatives-indigenous-students.md)
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
+- [Universities should implement goal-oriented programs promoting the six dimensions of healthy lifestyle behavior](goal-oriented-programs-promote-healthy-lifestyle-dimensions.md)
+- [Provide stress and depression counseling services and support structures in higher education institutions](he-student-stress-depression-counseling-strategy.md)
 
 ## Examples
 -

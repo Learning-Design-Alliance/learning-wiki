@@ -54,3 +54,5 @@ Summary finding from the MCA and cluster analysis of 325 students; the article l
 - [About 56% of first-cycle primary students in North Shoa Zone showed good academic performance, with widespread undernutrition and low breakfast consumption](academic-performance-undernutrition-prevalence-north-shoa.md) — related
 - [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
 - [Unhealthy behaviors cluster: students with lower physical activity, irregular breakfast, and abnormal SDQ scores were more prone to frequent sweet eating](unhealthy-behavior-clustering-palestinian-students.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [A gradient in low achievement prevalence exists across breakfast skipping categories for all NAPLAN tests](low-achievement-gradient-skipping-categories.md) — related

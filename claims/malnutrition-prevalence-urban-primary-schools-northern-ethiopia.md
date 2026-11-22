@@ -51,3 +51,4 @@ Anthropometric assessment of 399 children using WHO 2007 reference standards (HA
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
+- [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related

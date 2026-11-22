@@ -56,3 +56,4 @@ Multivariate regression on NTPS/TFS data using the job and workplace satisfactio
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
 - [Teachers' job satisfaction is negatively associated with absenteeism (pooled r = −0.18)](job-satisfaction-negative-absenteeism.md) — related
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
+- [Decreased morale and job satisfaction, and increased stress and potential turnover, are the most frequent reported consequences of conflicts](morale-stress-turnover-most-frequent-conflict-consequences.md) — related

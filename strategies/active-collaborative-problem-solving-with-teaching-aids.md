@@ -50,6 +50,7 @@ The article recommends that teachers replace teacher-centred presentation with a
 - [Implement active learning strategies such as case studies, group discussions, and virtual collaborative projects to enhance engagement in virtual courses](active-learning-strategies-virtual-engagement-strategy.md)
 - [Explicitly teach problem-solving heuristics (visualizing, checking conservation principles, examining limiting cases) to help students build and employ physical intuition](explicitly-teach-problem-solving-heuristics-strategy.md)
 - [Combine CST with case study, deductive-inductive lecturing, and frame teaching to raise engagement](cst-synergistic-teaching-methods-strategy.md)
+- [Incorporate both deductive and inductive logic strategies in teaching to enhance conceptual understanding and problem-solving](deductive-inductive-logic-teaching-strategies.md)
 
 ## Examples
 -

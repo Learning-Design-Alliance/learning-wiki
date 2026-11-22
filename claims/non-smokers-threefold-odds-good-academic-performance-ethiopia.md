@@ -53,3 +53,4 @@ Multivariable logistic regression among 615 Hawassa University students in an in
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — related
 - [Non-Jordanian students have lower odds of high academic performance than Jordanian students](non-jordanian-students-lower-odds-high-cgpa.md) — related
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
+- [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — a narrower finding that bears on this claim

@@ -51,3 +51,5 @@ Cohort analysis of 1,044 children born 2002–2004 in Karonga district, Malawi, 
 - [Compared to improvers, persistently stunted children were three times as likely to be overage by two or more years by age 11, with no effect on enrolment or repetition](persistent-stunting-versus-improvers-overage.md) — related
 - [Stunting in late childhood was associated with being 2–4 times more likely to be overage for grade by age 11](late-childhood-stunting-overage-for-grade.md) — related
 - [Persistently stunted children faced the worst schooling outcomes, being three times as likely to enrol late and 3–5 times more likely to be overage for grade](persistent-stunting-worst-schooling-outcomes.md) — related
+- [Children exclusively breastfed for 6 months had lower odds of being over-age for grade than those exclusively breastfed for less than 3 months in rural Malawi](ebf-six-months-lower-odds-overage-grade-malawi.md) — related
+- [Over-age for grade rose steadily across primary school in the cohort, reaching 41.9% by age 13](overage-for-grade-increased-age-8-to-13.md) — related

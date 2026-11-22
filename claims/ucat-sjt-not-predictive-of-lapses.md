@@ -52,3 +52,4 @@ Univariable and multivariable logistic regression in the 705-student cohort for 
 - [Mid-training professionalism SJT scores remain an independent predictor of professionalism lapses after adjusting for academic and cognitive performance](nms-sjt-independent-predicts-lapses.md) — related
 - [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related
 - [Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer](confidence-judgement-not-independent-offer-predictor.md) — related
+- [The UCAT situational judgment subtest weakly predicts professional behaviour in medical school, whilst the cognitive subtests did not](ucat-sjt-weakly-predicts-professional-behaviour.md) — reports the opposite

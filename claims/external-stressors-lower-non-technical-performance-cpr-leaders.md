@@ -49,3 +49,4 @@ Randomised cross-over simulator study of 30 anaesthesiologists and residents lea
 - [GEE analysis confirms a significant interaction between non-technical performance and stress on technical CPR performance](gee-interaction-nontechnical-performance-stress.md) — related
 - [A period effect suggests simulator-based CPR scenarios induce self-reflection and improve non-technical performance without explicit feedback or debriefing](simulator-scenarios-self-reflection-improve-nontechnical-performance.md) — related
 - [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related
+- [Wearing super-safe setting PPE significantly impairs team non-technical skills compared with WHO-recommended PPE in simulated ICU crisis scenarios](sss-ppe-impairs-team-nontechnical-skills-simulation.md) — related

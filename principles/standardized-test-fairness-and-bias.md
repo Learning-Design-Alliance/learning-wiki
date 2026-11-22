@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (29 for, 44 mixed, 6 against) · 54 studies (19 associational, 15 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 54 report an effect size · 78 claims rest on one study
+> **Evidence** · 80 claims (30 for, 44 mixed, 6 against) · 55 studies (19 associational, 16 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 55 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Deleting identified unfair items brings fair-item points closer to the ideal line, halving the sum of positive distances](../claims/unfair-item-deletion-halves-positive-distances.md) [+W] — attached 2026-11-17 from Bakman (2007), which proposed "Remove identified unfair items and recalculate scores after the exam to make results trustier and to gain instructional feedback".
 - [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](../claims/pgre-cutoff-eliminates-fellows-disproportionately-women.md) [+W] — attached 2026-11-17 from Emily M. Levesque et al. (2015), which proposed "Do not use hard PGRE percentile cutoffs to eliminate or negatively weight astronomy graduate applications"; tests this page's relationship.
 - [CMC questions disproportionately harm female, low-income, and domestic students relative to their peers](../claims/cmc-questions-disproportionately-harm-marginalized-groups.md) [+W] — attached 2026-11-19 from Nicholas T. Young et al. (2023), which proposed "Do not use complex multiple-choice questions to differentiate top-performing students from others"; tests this page's relationship.
+- [Ranking qualified applicants by verbal GRE produced a statistically significant racial/ethnic imbalance, with White/non-Hispanic applicants overrepresented in the interview-invited pool](../claims/vgre-ranking-white-overrepresented-iti-pool.md) [+W] — attached 2026-11-22 from Eikenberry Megan PT et al. (2025), which proposed "Use race-neutral holistic review incorporating expanded URM factors to foster diversity in admissions after race-based criteria became unlawful".
 
 ## Objective and learner-valued goal
 

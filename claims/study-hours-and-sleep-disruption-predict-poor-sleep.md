@@ -51,3 +51,4 @@ Multivariable logistic regression (Table 5) adjusting for age, gender, departmen
 - [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related
 - [Students reduce sleep duration the night before a test, delaying bedtime by about 1 hour and cutting sleep by roughly 2 hours, with more than 10% sleeping not at all](test-eve-sleep-reduction-undergraduates.md) — related
 - [Summative examinations quadruple the odds of students spending more than two hours per week on voluntary ECG self-study](summative-assessment-increases-self-study-time.md) — related
+- [The lifestyle–competency association is stronger among residents working over 8 hours per day and rotating more night shifts](lifestyle-competency-stronger-long-hours-night-shifts.md) — related

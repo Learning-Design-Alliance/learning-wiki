@@ -54,3 +54,4 @@ Phase 3 exploratory factor analysis of survey responses from 170 valid GP respon
 - [The HLC-N demonstrates good construct validity with a six-factor structure explaining 72.558% of variance and good CFA model fit](hlc-n-good-construct-validity-efa-cfa.md) — related
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
+- [The nine-item DMCIT shows a two-factor structure with adequate reliability in exploratory and confirmatory factor analyses with 247 remote workers](dmcit-two-factor-nine-item-validation.md) — related

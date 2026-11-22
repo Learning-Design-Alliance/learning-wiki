@@ -51,3 +51,4 @@ Table 2 secondary exposure, ELA outcome, adjusted multilevel logistic regression
 - [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — related
+- [Undergraduate students with A or B GPAs were more likely than D/F students to report healthy dietary behaviors, with no significant difference between C and D/F students](gpa-dietary-behaviors-prevalence-undergraduates.md) — related

@@ -66,3 +66,4 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [Twin-shared environmental effects, not sibling-shared (family-wide) effects, explain part of grade variance, consistent with grades reflecting individual achievement](twin-shared-not-sibling-shared-environment-grades.md) — related
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
+- [For women in the middle HES stratum, the shared family environment made an outsized contribution to variability in educational attainment](middle-hes-women-shared-environment-outsized.md) — related

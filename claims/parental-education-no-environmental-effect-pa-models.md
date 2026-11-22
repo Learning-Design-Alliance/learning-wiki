@@ -56,3 +56,4 @@ NTFD phenotypic assortment model fitting in the TwinLife sample, where phenotypi
 - [Phenotypic and genetic associations with musicality are robust to genetic confounding via educational attainment](musicality-communication-links-robust-to-ea-confounding.md)
 - [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — a broader claim this one bears on
 - [The declining ability–attainment correlation persists in robustness checks addressing reverse causality and parental SES](ability-attainment-decline-robust-to-reverse-causality-and-ses.md) — related
+- [For women in the middle HES stratum, the shared family environment made an outsized contribution to variability in educational attainment](middle-hes-women-shared-environment-outsized.md) — related

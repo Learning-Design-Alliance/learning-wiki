@@ -51,6 +51,7 @@ The article recommends monitoring sleep and its school-performance correlates in
 ## Related Strategies
 
 - [Use school-based, nightmare-focused screening and intervention as an accessible first-line entry point for trauma-related sleep problems in students](school-based-nightmare-focused-first-line-entry.md)
+- [Policy strategy: promote adequate sleep duration and screen for sleep duration to safeguard adolescent students' physical health alongside academic scores](sleep-duration-screening-policy-strategy.md)
 
 ## Examples
 -

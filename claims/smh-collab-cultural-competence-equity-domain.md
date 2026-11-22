@@ -50,3 +50,4 @@ Fourth theme in the Results section. Panelists highlighted understanding diverse
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Therapeutic alliance competencies, particularly cultural competency and validation, achieve the strongest consensus among CAMHS crisis team competencies](therapeutic-alliance-strongest-consensus-crisis-competencies.md) — related
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
+- [Four antecedents precede structural competency: sense of decline, understanding of equity, failure of existing frameworks, and critical self-reflection](structural-competency-antecedents.md) — related

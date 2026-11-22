@@ -72,3 +72,4 @@ Data extraction across included studies found only one effect size for personali
 - [Within aptitude test subtests, verbal reasoning (d=0.704) and quantitative reasoning (d=0.643) best predict early program academic results, while abstract and verbal reasoning predict end-of-program outcomes](aptitude-subtests-verbal-quantitative-reasoning-predict-early-academic.md) — related
 - [The AAMC promotes holistic review without presenting quantitative evidence of prediction or reliability, contrary to fair-testing validity standards](aamc-holistic-review-lacks-quantitative-validity-evidence.md) — related
 - [UCAT SJT predictive validity appears larger for the 2013 introductory sitting than for later sittings, consistent with practice effects](ucat-sjt-practice-effect-attenuation.md) — related
+- [Meta-analytic evidence supports the use of SJTs in medical selection](sjt-medical-selection-meta-analytic-support.md) — related

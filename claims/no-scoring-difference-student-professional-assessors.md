@@ -49,3 +49,4 @@ Null result from McNemar's tests comparing item failure-rates between student- a
 - [Peers judged more examinations as failed than professionals (43 vs 22 of 339 ratings)](peers-fail-more-bls-examinations-than-professionals.md) — reports the opposite
 - [The developed BLS assessment shows high overall inter-rater reliability (ICC = 0.84) across professional, student and peer assessors](bls-checklist-assessment-high-overall-icc-084.md) — related
 - [Peer assessors show strong-to-excellent reliability with professionals, students and other peers (ICC 0.76–0.91)](peer-assessor-reliability-icc-076-to-091.md) — related
+- [No significant differences in fracture probability ratings were found between assessors of different experience levels before or after the standardized examination](no-inter-assessor-differences-in-fracture-ratings.md) — related

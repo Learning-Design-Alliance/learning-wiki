@@ -49,3 +49,4 @@ Second-hand finding attributed to cited studies (including a SJT validity system
 - [Most SJT items show positive corrected point-biserial discrimination, with 72% at 0.10 or higher](sjt-items-point-biserial-discrimination-mostly-positive.md) — related
 - [No SJT scale correlated significantly with OSCE performance in the low-stakes sample](sjt-osce-null-low-stakes.md) — related
 - [Average HAM-SJT performance increased drastically in high-stakes years when the test counted toward selection (d = 0.92)](ham-sjt-performance-increases-high-stakes.md) — related
+- [Meta-analytic evidence supports the use of SJTs in medical selection](sjt-medical-selection-meta-analytic-support.md) — related

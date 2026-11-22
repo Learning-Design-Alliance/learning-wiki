@@ -52,6 +52,8 @@ The article recommends that universities support medical students during high-st
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Universities should provide exercise breaks, wellness programs, and physical activity campaigns for medical students](exercise-breaks-wellness-programs-medical-students.md)
+- [Promote healthy exam-period habits among medical students through awareness campaigns and health education programs](exam-period-health-education-campaigns-strategy.md)
+- [Universities should implement goal-oriented programs promoting the six dimensions of healthy lifestyle behavior](goal-oriented-programs-promote-healthy-lifestyle-dimensions.md)
 
 ## Examples
 -

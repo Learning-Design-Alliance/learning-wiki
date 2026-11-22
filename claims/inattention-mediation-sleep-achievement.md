@@ -54,3 +54,6 @@ Post-hoc product-of-coefficients mediation with cluster bootstrap (5,000 iterati
 - [Sleep–achievement correlations are small and inconsistent across grades](sleep-achievement-small-correlations.md) — related
 - [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related
 - [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — related
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](inattention-hyperactivity-subscale-drives-sdb-school-grades.md) — related
+- [No significant association was found between sleep quality and academic achievement (GPA)](no-association-sleep-quality-gpa.md) — related
+- [Snoring and daytime sleepiness subscales show no significant association with academic performance or brain volumes](snoring-sleepiness-subscale-null-academic-brain.md) — related

@@ -62,3 +62,4 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [No effect modification by sex on either academic achievement or physical fitness in the fitness–commencement relation](no-sex-effect-modification-fitness-pathways.md) — related
 - [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — reports the opposite
 - [Single-sex groups increase girls' participation and teacher verbal feedback in physical activity settings](single-sex-groups-increase-girls-participation.md) — related
+- [Higher cardiorespiratory fitness at age 13 is associated with increased odds of receiving A–D grades at age 16 in the whole sample](fitness-age-13-higher-odds-grades-age-16.md) — related

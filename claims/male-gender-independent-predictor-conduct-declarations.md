@@ -49,3 +49,4 @@ Backwards stepwise multivariable logistic regression on UKMED data (N = 770 with
 - [Better performance on the UK Foundation Programme SJT and higher EPM ranking are univariably associated with reduced odds of a conduct-related declaration](sjt-epm-performance-associated-reduced-conduct-declarations.md) — related
 - [The MEARS 'self-esteem' scale is a poor screening tool for conduct-related declarations, with AUC 0.61 and a 'number needed to reject' of approximately 22](mears-self-esteem-poor-screening-conduct-declarations.md) — related
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
+- [UCAT scores do not predict health- or conduct-related fitness to practise declarations at GMC registration](ucat-no-prediction-fitness-to-practise-declarations.md) — related

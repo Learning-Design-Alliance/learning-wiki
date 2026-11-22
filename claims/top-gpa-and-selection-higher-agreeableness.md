@@ -49,3 +49,4 @@ ANCOVA of NEO-FFI agreeableness across four admission groups (F3, 1014 = 3.70; p
 - [Students accepted in voluntary multifaceted selection score lower on neuroticism than lottery-admitted students who did not participate in selection](multifaceted-selection-lower-neuroticism.md) — related
 - [Lottery-admitted students who did not participate in voluntary selection score lower on conscientiousness than all other admission groups](lottery-nonparticipants-lower-conscientiousness.md) — related
 - [Students accepted in a voluntary multifaceted medical selection process score higher on conscientiousness than lottery-admitted students](multifaceted-selection-higher-conscientiousness.md) — related
+- [Students admitted with structured interviews scored higher on openness, conscientiousness, agreeableness and extroversion, lower on neuroticism, and had higher emotional intelligence and social competence](structured-interview-personality-emotional-intelligence.md) — related

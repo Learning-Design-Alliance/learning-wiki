@@ -52,3 +52,4 @@ Content validity evaluation in which 12 medical lecturers as experts rated a 15-
 - [Judges endorsed the simulation as a continuing education strategy with potential to strengthen patient safety culture](judges-endorse-continuing-education-safety-culture-potential.md) — related
 - [Expert judges rated every item of the postvention simulation scenario at CVI 0.90 or higher, exceeding the 0.80 acceptance criterion](postvention-scenario-cvi-all-items-090-or-higher.md) — related
 - [Otolaryngologists rate the simulator's content validity as acceptable across all five items, highlighting its value for the medical student curriculum (mean 5.4)](vr-otoscopy-simulator-content-validity-ratings.md) — related
+- [The developed competency profiles and referral pathway tool had good face validity and were seen as potentially useful by subject matter experts](diabetes-pa-tools-face-validity-usefulness.md) — related

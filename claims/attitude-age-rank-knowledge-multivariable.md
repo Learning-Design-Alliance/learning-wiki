@@ -52,3 +52,4 @@ Final multivariable model from backward selection in the cross-sectional study o
 - [Crisis-centre work, recent survivor examination, and seeing more than 60% of survivors are associated with higher provider confidence](crisis-centre-recent-practice-confidence.md) — related
 - [Health providers in South African post-rape services show low knowledge, with a median knowledge score of 37.3%](low-provider-knowledge-post-rape-care-south-africa.md) — related
 - [Older physicians and those outside academic/university hospitals had significantly lower odds of reporting high perceived barriers to STI care](age-setting-perceived-barriers-odds.md) — related
+- [Older age, male gender, greater clinical experience, and academic-hospital setting predict satisfactory GDM knowledge among neonatologists](predictors-neonatologist-gdm-knowledge.md) — reports the opposite

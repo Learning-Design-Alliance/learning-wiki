@@ -47,3 +47,4 @@ Random‐effects meta‐analyses of standardized test scores (Figures 2 and 3) p
 
 ## Related Claims
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
+- [Children with spina bifida show lower grade means in adjusted analyses, with wide confidence intervals due to small numbers](spina-bifida-lower-grade-means-wide-ci.md) — related

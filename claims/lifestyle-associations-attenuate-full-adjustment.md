@@ -52,3 +52,5 @@ Model 3 regressions (Tables 2–4) show frequency of screen use ORs of 1.09 (0.9
 - [Age-14 time-use composition is significantly associated with Attainment 8 in both weekday and weekend analyses](timeuse-composition-attainment8-association.md) — related
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
 - [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — reports the opposite
+- [High weekday screen time (≥5 h) at age 13 is associated with reduced odds of receiving A–D grades at age 16 compared to low screen time (≤2 h)](high-weekday-screen-time-reduced-odds-grades.md) — reports the opposite
+- [Weekend screen time at age 13 does not significantly predict academic performance at age 16](weekend-screen-time-null-association-grades.md) — a narrower finding that bears on this claim

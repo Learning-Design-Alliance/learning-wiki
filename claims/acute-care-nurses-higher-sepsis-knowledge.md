@@ -58,3 +58,4 @@ One-way ANOVA across clinical areas in the 355-nurse survey found significant di
 - [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related
 - [Most ICU nurses in Dar es Salaam hospitals demonstrated undesirable overall knowledge of ETS evidence-based recommendations](icu-nurses-undesirable-ets-knowledge.md) — related
 - [ICU training was associated with higher knowledge but showed no significant association with observed ETS practice](knowledge-practice-gap-icu-training.md) — related
+- [Nurses in intensive care units scored higher in clinical competence than internal-medicine-ward nurses, who scored higher than emergency-department nurses](ward-gradient-icu-msw-ed-clinical-competence.md) — related

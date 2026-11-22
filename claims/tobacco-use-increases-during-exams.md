@@ -71,3 +71,5 @@ Descriptive comparison of waterpipe use frequency before versus during exams: ou
 - [Non-smoking university students in Southern Ethiopia had about three times higher odds of good academic performance than smokers](non-smokers-threefold-odds-good-academic-performance-ethiopia.md) — related
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Traditional coffee and tea consumption during exam periods is associated with slightly lower average grades among Palestinian medical students](coffee-tea-exam-consumption-lower-grades-palestinian-medical.md) — related
+- [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](alcohol-smoking-competency-radiology-residents.md) — related
+- [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — related

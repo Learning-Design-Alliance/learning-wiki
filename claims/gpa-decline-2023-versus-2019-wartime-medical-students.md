@@ -50,3 +50,4 @@ Comparison of dean's-office GPA data from autumn semesters of 2019 and 2023 acro
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](inverse-correlation-mental-health-gpa-wartime-students.md) — related
+- [Higher depression, anxiety, and stress scores are associated with students reporting that the pandemic worsened their academic performance](negative-affectivity-associated-worse-academic-performance-post-covid.md) — related

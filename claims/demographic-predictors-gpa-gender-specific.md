@@ -53,3 +53,5 @@ Logistic regression of demographic factors on binary GPA (Table 3), adjusted for
 - [After adjusting for sociodemographic covariates and medical school clustering, odds of passing MRCP Part 1 at first sitting are greater for men and graduate-entry candidates and lower with increasing age, for minority ethnic candidates and for gateway-year candidates](mrcp-part1-model1-adjusted-odds.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
 - [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
+- [Female sex is associated with higher academic scores in linear regression but not with poor performance in multivariable analysis](female-sex-mixed-academic-performance-association.md) — related
+- [Fourth-year students had lower odds of poor sleep quality than second-year students](fourth-year-lower-odds-poor-sleep-quality.md) — related

@@ -52,3 +52,4 @@ Auxiliary analyses re-estimating the ACE-moderation models under alternative ass
 - [Genetic variance in educational performance decreases with increasing school SES, partly independent of parental SES](school-ses-gene-environment-interplay.md) — related
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
+- [High-SES students' expectations are also less responsive to a genetic disposition unique to educational expectations, independent of performance and cognitive ability](ses-moderation-genetic-factor-unique-expectations.md) — related

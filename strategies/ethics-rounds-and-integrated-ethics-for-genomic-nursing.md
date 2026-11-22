@@ -47,6 +47,7 @@ The authors recommend that "Ethics rounds in work settings could effectively sup
 - [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
 - [Provide continuous ethics education from undergraduate studies through professional development to support nurses' moral competence](continuous-ethics-education-nursing.md)
 - [Integrate genomics into competency-based nursing education at all training levels and provide continuing education with faculty support](integrate-genomics-competency-based-nursing-education-strategy.md)
+- [Promote continuous ethics education and professional development for nurse managers to maintain high ethical standards](continuous-ethics-education-nurse-managers.md)
 
 ## Examples
 -

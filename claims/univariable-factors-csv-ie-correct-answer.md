@@ -51,3 +51,4 @@ Univariable logistic regression reported in Supplementary file 1 and summarized 
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
 - [Higher-ability examinees are more likely than lower-ability examinees to change answers from wrong to right](higher-ability-more-wrong-to-right-changes.md) — related
 - [Quiz participation declines and scores rise across postgraduate years of residency](participation-declines-scores-rise-by-pgy.md) — related
+- [The lifestyle–competency association is stronger among residents working over 8 hours per day and rotating more night shifts](lifestyle-competency-stronger-long-hours-night-shifts.md) — related

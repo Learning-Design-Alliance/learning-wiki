@@ -58,3 +58,4 @@ In the multivariate model of the 399-child cross-sectional study, father head of
 - [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](non-repeat-rate-sociodemographic-associations.md) — related
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related
 - [Parenthood affects the studying of most student-mothers and student-fathers, with women reporting more schedule flexibility and efficiency gains](parenthood-affects-phd-studying-gendered.md) — related
+- [Being female and having a literate mother were negatively associated with academic performance, while child age was positively associated](sociodemographic-direct-effects-academic-performance.md) — related

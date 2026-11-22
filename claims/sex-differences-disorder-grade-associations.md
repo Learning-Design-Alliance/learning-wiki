@@ -57,3 +57,4 @@ Stratified regression models with interaction tests on the register sample. Tabl
 - [No significant gender differences in depression, loneliness, social satisfaction, or academic achievement scores among university students](no-gender-differences-emotional-functioning-achievement.md) — reports the opposite
 - [The age-at-onset gradient in achievement holds for most disorders and both genders, but for anxiety disorders only in males](anxiety-onset-gradient-males-only.md) — related
 - [The association between mental disorder diagnosis and lower school achievement is more pronounced in female than male students](gender-difference-mental-disorder-gpa-females-stronger.md) — related
+- [Highest-qualification attainment differed by sex: more females achieved University Entrance while more males achieved NCEA level 1 or 2](highest-qualification-sex-differences-ncea.md) — related

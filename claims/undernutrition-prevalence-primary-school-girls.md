@@ -56,3 +56,4 @@ Descriptive frequency analysis of anthropometric classifications at baseline in 
 - [No interaction effects between nutrition groups were found for academic performance over time](no-interaction-effects-nutrition-groups-academic.md) — related
 - [Boys had higher stunting prevalence than girls at birth, early childhood and late childhood](boys-higher-stunting-prevalence-than-girls.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related

@@ -50,6 +50,7 @@ The article recommends addressing the knowledge-practice gap through standardise
 ## Related Strategies
 
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
+- [Standardize a multi-parameter clinical examination protocol through hands-on training, instructional videos, and a bedside pocket card](standardized-exam-protocol-training-strategy.md)
 
 ## Examples
 -

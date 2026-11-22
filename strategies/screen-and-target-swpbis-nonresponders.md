@@ -57,6 +57,7 @@ The article recommends that, given demonstrated variation in SWPBIS responsivene
 - [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 - [Use personalized mastery-learning programs given wide individual variation in performance](mastery-learning-for-surgical-trainees-wide-variation.md)
 - [Pair the individual e-learning program with school-wide organizational responses such as screening meetings to identify children in need of support](school-wide-screening-meetings-strategy.md)
+- [Screen children HEU for risk of poor academic achievement and study modifiable contributors with multi-level mixed methods](screen-heu-children-academic-risk-strategy.md)
 
 ## Examples
 -

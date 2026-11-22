@@ -57,3 +57,4 @@ Descriptive analysis of teacher satisfaction indicators by race/ethnicity from t
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
 - [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related
+- [Decreased morale and job satisfaction, and increased stress and potential turnover, are the most frequent reported consequences of conflicts](morale-stress-turnover-most-frequent-conflict-consequences.md) — related

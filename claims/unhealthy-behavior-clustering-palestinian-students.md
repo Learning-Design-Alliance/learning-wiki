@@ -54,3 +54,5 @@ Authors' observational interpretation of cross-sectional patterns in the 220-stu
 - [Abnormal mental health scores on the Strengths and Difficulties Questionnaire are independently associated with lower GPA](abnormal-sdq-scores-lower-gpa-palestinian-students.md) — related
 - [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [Higher psychological distress (K6) at baseline is associated with unhealthier lifestyle behaviors among undergraduates](higher-distress-unhealthier-lifestyle-behaviors.md) — related

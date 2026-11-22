@@ -51,3 +51,4 @@ Survey results reported with a country-by-country table (Table 1); the article s
 - [The duration of EBP interventions, varying from some hours to even months, was not related to students' EBP competence](intervention-duration-not-related-to-ebp-competence.md) — related
 - [Australian medical schools vary considerably in the teaching methods used for intellectual disability content, with lectures the most frequent method for compulsory units](id-content-teaching-method-variability-australian-medical-schools.md) — related
 - [Tutor basic training scope varies widely across faculties, most frequently 10–20 hours but ranging from about 3 to 50 hours](tutor-basic-training-hours-variation.md) — related
+- [FCN advanced training programs are heterogeneous across countries, ranging from a 10-day UK prescriber program to a one-year graduate course in China](fcn-training-programs-country-heterogeneity.md) — related

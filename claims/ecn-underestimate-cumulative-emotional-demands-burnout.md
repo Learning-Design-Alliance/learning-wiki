@@ -49,3 +49,4 @@ Theme 3 interview data: educators reported ECNs "breaking down and needing…sup
 - [Nurse educators experience an ambiguous dual role supporting ECNs' emotional wellbeing while maintaining educational responsibilities](educator-dual-role-education-pastoral-support.md) — related
 - [Deliberate practice carries stated limitations: it is time-consuming, mentally and physically demanding, and risks burnout without rest](deliberate-practice-limitations-burnout.md) — related
 - [Masking autistic traits consumes substantial cognitive energy and contributes to social isolation, burnout, and mental health problems](masking-costs-burnout-autistic-trainees.md) — related
+- [Whether structural competency alleviates or deepens burnout and moral distress depends on whether its attributes include response and action](burnout-paradox-recognition-versus-response.md) — related

@@ -56,3 +56,4 @@ CFA with structural equation modelling (AMOS 24.0) on the same 352-respondent va
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
 - [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related
+- [The HLQ shows good factorial validity with a 9-factor CFA model and good internal consistency across its 9 scales](hlq-cfa-fit-and-internal-consistency.md) — related

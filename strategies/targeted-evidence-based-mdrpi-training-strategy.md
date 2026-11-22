@@ -48,6 +48,7 @@ The authors recommend that nurses receive education on MDRPI and that organisati
 ## Related Strategies
 
 - [Pair education with system-level changes to shift responsibility attitudes in perioperative teams](pair-education-with-system-level-responsibility-changes.md)
+- [Update undergraduate and in-service PU training to include evidence-based practice, evaluate effectiveness periodically, and have senior nurses guide new graduates](evidence-based-pu-training-update-and-mentoring.md)
 
 ## Examples
 -

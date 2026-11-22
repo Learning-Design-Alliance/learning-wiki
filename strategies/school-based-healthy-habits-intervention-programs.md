@@ -56,6 +56,7 @@ The article recommends that schools deliver intervention programs targeting heal
 - [Deliver experiential healthy-eating activities through flexible, hands-on sensory play with real food in informal settings](flexible-hands-on-sensory-activities-museum.md)
 - [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
 - [Support breakfast consumption and after-school physical activity programs to support student health and learning](breakfast-afterschool-programs-support-learning.md)
+- [Use academic performance as a motivational goal expectation in health communication strategies targeting performance-driven groups](academic-performance-motivational-goal-health-communication.md)
 
 ## Examples
 -

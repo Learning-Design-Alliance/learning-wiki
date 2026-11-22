@@ -47,6 +47,7 @@ The intervention used a written guide refined by experts that "specified the cor
 ## Related Strategies
 
 - [Lesson Plans](lesson_plans.md)
+- [Structure apprenticeship sessions as observation or co-treatment followed by an unstructured 15–20 minute reflective conversation and a written reflective log](apprenticeship-session-structure-strategy.md)
 
 ## Examples
 -

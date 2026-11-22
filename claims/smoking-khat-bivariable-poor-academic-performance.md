@@ -50,3 +50,6 @@ Bivariable cross-tabulation among the 615 students found smoking significantly a
 - [Two-thirds of surveyed university students in Southern Ethiopia achieved good academic performance](two-thirds-good-academic-performance-southern-ethiopia.md) — related
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Tobacco use, including cigarettes, waterpipe, and e-cigarettes, increases during exam periods among Palestinian medical students](tobacco-use-increases-during-exams.md) — related
+- [Avoiding e-cigarette/vape use was the only tobacco behavior associated with GPA among undergraduates, with higher prevalence of non-use among A and B GPA students](gpa-vaping-avoidance-only-tobacco-link.md) — a narrower finding that bears on this claim
+- [Smoking is significantly negatively associated with academic performance](smoking-negative-academic-performance.md) — possibly the same claim (merge candidate)
+- [Water pipe use during exams shows a negative association with grades in regression, while cigarette smoking shows no significant association](waterpipe-negative-cigarettes-null-grades.md) — related

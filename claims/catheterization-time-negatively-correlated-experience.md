@@ -46,3 +46,4 @@ Spearman rank correlation across the six operators' catheterization times in the
 
 ## Related Claims
 - [Inexperienced operators improve catheterization speed significantly over repeated attempts, more than experienced operators](inexperienced-speed-gain-repeated-attempts-hannes.md) — related
+- [Fluctuation index β correlated moderately negatively with operating time (Spearman rho = -0.616), and unlike total time, β can be calculated in real time during surgery](beta-correlates-with-operating-time-realtime.md) — related

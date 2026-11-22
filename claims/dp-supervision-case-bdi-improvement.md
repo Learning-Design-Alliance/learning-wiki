@@ -49,3 +49,4 @@ Single-case report of one client (34-year-old male with MDD) treated by one ther
 - [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related
 - [Psychotherapy regulation and supervision requirements vary across Canadian provinces, potentially limiting skill acquisition](inconsistent-provincial-psychotherapy-regulation-supervision.md) — related
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](experience-linked-ot-psychotherapy-competence-confidence.md) — a broader claim this one bears on
+- [The review literature indicates didactic methods and supervision alone are insufficient to change trainee behavior or improve client outcomes, motivating experiential supplements](didactic-training-insufficient-for-procedural-skill.md) — related

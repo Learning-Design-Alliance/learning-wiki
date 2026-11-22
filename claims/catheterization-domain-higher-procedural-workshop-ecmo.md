@@ -49,3 +49,4 @@ In the randomized trial's blinded video assessment, the catheterization domain m
 - [Total procedural quality scores do not differ significantly between high-fidelity simulation and procedural workshop groups](procedural-quality-score-no-difference-ecmo-training.md) — reports the opposite
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [High-fidelity simulation training is associated with better surgical draping performance than procedural workshop training](high-fidelity-simulation-better-surgical-draping-ecmo.md) — related
+- [Trained clinical nurse specialists can perform diagnostic cardiac catheterizations safely, with high-quality images and shorter procedure times](cns-cardiac-catheterization-safe-shorter-times.md) — related

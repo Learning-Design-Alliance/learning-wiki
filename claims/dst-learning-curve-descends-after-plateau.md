@@ -50,3 +50,4 @@ Retrospective single-center analysis of 60 laparoscopic distal gastrectomy cases
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
 - [Robotic distal gastrectomy induction-phase performance did not differ significantly between a DST-experienced surgeon and conventionally trained, ESSQS-qualified surgeons](rdg-induction-no-dst-difference.md) — related
 - [Students experimentally identify the cycloid path (P4) as the minimum-time descent, with times decreasing from P1 to P4 and increasing again from P5 to P8](cycloid-p4-minimum-descent-time-verified.md) — related
+- [Coached surgeons decreased operative time for sleeve gastrectomy by 14 minutes compared to uncoached surgeons](coached-surgeons-decreased-operative-time-14-minutes.md) — related

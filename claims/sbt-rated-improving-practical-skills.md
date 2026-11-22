@@ -59,3 +59,4 @@ Likert-scale (1–7) ratings of SBT benefits in the 343-participant survey, show
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
 - [Participants rate the SIMULATE URS curriculum highly for educational value, reporting improved skills and OR-transferrable skills](simulate-curriculum-high-educational-value-ratings.md) — related
 - [Physicians trained with a VR dental implant system rate their grasp of the simulator significantly higher than conventionally trained peers across five assessment dimensions](vr-dental-implant-training-higher-subjective-scores.md) — related
+- [Trainees rated the utility of integrating simulation into routine residency training very highly despite no measured knowledge gain](ventsim-high-rated-utility-of-simulation.md) — related

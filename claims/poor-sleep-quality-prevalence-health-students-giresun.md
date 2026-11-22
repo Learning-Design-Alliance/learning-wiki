@@ -50,3 +50,4 @@ Cross-sectional stratified-sample survey of 315 students from medicine, dentistr
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
 - [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](study-time-trades-off-against-sleep.md) — related
 - [Poor sleep quality (PSQI > 5) was present in 85.7% of the sampled medical and dental students](poor-sleep-prevalence-85-7-percent-medical-dental-students.md) — related
+- [88.1% of surveyed healthcare students exhibited poor sleep quality, with a mean PSQI total score of 9.1](kku-students-88-percent-poor-sleep-quality.md) — related

@@ -56,3 +56,5 @@ One-way ANOVA/t-test univariate analysis of the survey; the article reports "No 
 - [Position and palliative care-related education or training, along with work experience, autonomous learning capacity and job satisfaction, show significant bivariate differences in core competency](bivariate-differences-position-training-learning-satisfaction.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related
+- [Nurses' age correlates positively with total clinical competence and its situation management, diagnostic functions, and work role dimensions](age-positive-correlation-clinical-competence-dimensions.md) — reports the opposite
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related

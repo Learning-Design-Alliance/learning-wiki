@@ -69,3 +69,7 @@ Barriers theme (bias, trust, discrimination coded 19 times, 32% of n = 60) inclu
 - [Hospitals lack formal specialty skill transfer models for IQNs, relying instead on informal, ad hoc support](no-formal-iqn-transfer-model-informal-support.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [IQN attrition is attributed to personal and circumstantial factors and to lack of recognition and skill underutilisation, with structured support seen as mitigating it](iqn-attrition-linked-to-underutilisation-and-circumstances.md) — related
+- [Barriers to IQN skill alignment: staffing needs outrank skill match, communication differences complicate skill demonstration, and manager workload limits support](barriers-to-iqn-skill-alignment.md) — related
+- [Recruiting managers' perspectives on IQN specialty skill transfer resolve into three themes: right person right opportunity, barriers to skill alignment, and advancing opportunities](iqn-skill-transfer-three-manager-themes.md) — a broader claim this one bears on
+- [Managers call for centralised support systems to assess and recognise IQN specialty skills, and for early support programmes to build success](managers-call-centralised-assessment-and-early-support.md) — related
+- [Bias and discrimination, including country-of-origin perceptions of skill, hinder IQN skill alignment](racism-bias-hinder-iqn-skill-alignment.md) — related

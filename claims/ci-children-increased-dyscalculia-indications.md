@@ -51,3 +51,4 @@ Standardized calculation test (HRT 1–4) administered to the 45 children with C
 - [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md) — related
 - [The subtraction borrowing effect is more pronounced in children with cochlear implants than in hearing peers](ci-borrow-subtraction-specific-difficulty.md) — related
 - [Computational thinking in primary school children correlates with complex arithmetic (problem completion) and, more weakly, with basic arithmetic operations but not with writing speed](ct-numerical-correlation-primary-school.md) — related
+- [Hearing acuity showed no association with CITO standardized academic achievement test scores](no-association-hearing-cito-test-scores.md) — related

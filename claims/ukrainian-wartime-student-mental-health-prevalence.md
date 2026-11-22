@@ -59,3 +59,4 @@ Cross-sectional online survey of Ukrainian university students conducted Septemb
 - [72% of surveyed Chinese college students reported a certain level of general anxiety during first-wave COVID-19 e-learning](72-percent-gad2-anxiety-covid-elearning.md) — related
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
+- [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related

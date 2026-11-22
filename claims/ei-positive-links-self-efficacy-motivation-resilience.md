@@ -57,3 +57,4 @@ Structural equation modelling of survey data from 518 Chinese university student
 - [Emotional intelligence positively predicts academic performance among secondary students (β = 0.42, p < 0.001)](ei-positively-predicts-academic-performance-adolescents.md) — related
 - [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](ei-positive-associations-pe-outcomes.md) — related
 - [Resilience positively predicts self-motivation towards PE classes](resilience-predicts-self-motivation.md) — related
+- [Learning self-efficacy is positively related to academic achievement and predicts learning motivation and effectiveness](learning-self-efficacy-predicts-motivation-achievement.md) — related

@@ -55,3 +55,4 @@ Concluding statement of the prospective COMPASS analysis (N = 9,898 linked cases
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — reports the opposite
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — possibly the same claim (merge candidate)
 - [The MVPA–academic performance association is modified by BMI z-score, though neither stratified association reaches significance](mvpa-bmi-interaction-gcse.md) — related
+- [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — a narrower finding that bears on this claim

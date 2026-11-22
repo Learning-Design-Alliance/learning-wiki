@@ -67,3 +67,4 @@ Mediation analysis using PROCESS in SPSS with bootstrapping (5000 samples), cont
 - [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — reports the opposite
 - [Socially anxious students rate several instructional practices, particularly those with a social component, as more anxiety provoking, controlling for GPA](social-anxiety-predicts-practice-anxiety-ratings.md) — related
 - [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related
+- [Academic engagement independently mediates the association between social anxiety and academic performance](academic-engagement-mediation-social-anxiety.md) — related

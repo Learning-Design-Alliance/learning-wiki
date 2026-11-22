@@ -51,3 +51,4 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — related
 - [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related
+- [Always skippers differ socio-demographically: poorer health, higher sadness and worries, less frequent good sleep, less educated parents and more disadvantaged areas](always-skippers-sociodemographic-profile.md) — related

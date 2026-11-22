@@ -71,3 +71,4 @@ Subgroup meta-analysis by educational method. PBL (three studies) was "not signi
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — reports the opposite
 - [BOPPPS shows no significant improvement in problem-solving or critical thinking skills compared with traditional teaching](boppps-no-gain-problem-solving-critical-thinking.md) — related
 - [GAI-assisted teaching shows no significant effect on critical thinking skills in the continuous-variable analysis, but the single dichotomous-variable study reports a large difference](gai-teaching-critical-thinking-null-continuous.md) — related
+- [Evidence on whether problem-based learning improves nursing students' critical thinking is mixed, with meta-analyses reaching opposite conclusions](pbl-critical-thinking-mixed-meta-analytic-evidence.md) — reports the opposite

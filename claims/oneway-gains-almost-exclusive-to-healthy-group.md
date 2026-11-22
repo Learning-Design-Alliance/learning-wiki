@@ -74,3 +74,4 @@ One-way tests in the mild dementia group (Table 3): d2 %B F = 4.364, p = 0.047, 
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — reports the opposite
 - [Both study groups progressed in training performance across sessions, with larger gains in healthy older adults in most modules except attention](both-groups-progress-in-training-healthy-larger-gains.md) — related
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on
+- [Age category shows significant main effects on D2 attention scores, with older groups outperforming younger on TR, TA, TR+ and TR-](age-category-main-effect-d2-scores.md) — related

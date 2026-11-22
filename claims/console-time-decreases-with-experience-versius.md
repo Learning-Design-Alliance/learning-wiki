@@ -70,3 +70,5 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related
 - [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
 - [Reconstruction time showed minimal variability from the early phase of the series (median 26 min, IQR 22–30 min), which the authors interpret as stable procedural performance without a prolonged learning curve](hj-reconstruction-time-stable-early-phase.md) — reports the opposite
+- [On-scene time decreases with increasing physician experience, from a median of 33 to 28 minutes](on-scene-time-decreases-with-cumulative-experience.md) — related
+- [Operative time for radical prostatectomy is shorter in advanced learning curves than in initial learning curves](shorter-operative-time-advanced-learning-curve.md) — related

@@ -61,3 +61,4 @@ Cross-sectional evaluation of 10 LLMs on the complete 300-item EBHS written exam
 - [GPT-4.1 achieved the highest accuracy among GPT-4.1, GPT-4o and GPT-4 on Taiwan plastic surgery board questions, but no model reached accuracy sufficient for independent clinical education use](gpt41-highest-accuracy-but-below-clinical-education-threshold.md) — related
 - [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related
 - [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — related
+- [Six of seven LLMs exceeded the CNMLE passing threshold under zero-shot settings, with Chinese-corpus model Baichuan achieving the highest accuracy (86.67%)](llm-cnmle-zero-shot-accuracy-baichuan-highest.md) — related

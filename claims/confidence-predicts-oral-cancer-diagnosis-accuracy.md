@@ -51,3 +51,4 @@ Cross-sectional analytical survey of 252 dentists and dental students diagnosing
 - [Concise, focused case summaries are associated with ChatGPT-4 reaching the correct diagnosis](concise-summaries-associated-correct-diagnosis.md) — related
 - [Treating MIH patients and diagnostic confidence are significantly associated with perceiving a rise in MIH prevalence](mih-prevalence-perception-associations.md) — related
 - [Diagnostic confidence in MIH is significantly associated with dental specialisation among German dentists](mih-diagnostic-confidence-specialisation-association.md) — related
+- [Likelihood of correct classification of ovarian cancer infiltration on videoclips increases with image quality and diagnostic confidence](image-quality-confidence-raise-classification-odds.md) — related

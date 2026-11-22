@@ -52,3 +52,6 @@ Cross-sectional study using a 24-hour FAO-based dietary diversity recall; multiv
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
+- [After adjustment, dietary diversity had a negative indirect effect on academic performance (β = -0.095)](dds-negative-indirect-effect-ap.md) — reports the opposite
+- [40% of school-age children had low dietary diversity and 60% adequate dietary diversity](dietary-diversity-proportion-school-age-children.md) — related
+- [HAZ score, BAZ score, and dietary diversity score showed no direct, indirect, or total effects on academic performance](haz-baz-dds-no-effect-academic-performance.md) — reports the opposite

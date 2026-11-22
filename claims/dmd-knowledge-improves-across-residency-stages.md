@@ -49,3 +49,4 @@ Cross-sectional survey of 151 Omani paediatric residents and paediatricians (Oct
 - [Knowledge and confidence gains from the e-module are largest for medical students and smallest for residents](e-module-gains-largest-in-students.md) — related
 - [DMD management and treatment knowledge is the weakest domain, with about a third of participants unsure about glucocorticoid use](dmd-management-knowledge-weakest-domain.md) — related
 - [First-year residents scored higher on the belief subscale than residents with four or more years of training, while knowledge scores rose with 6–10 years of practice](training-stage-differences-belief-knowledge-subcales.md) — related
+- [DBS knowledge scores increase significantly with residency year, with R4 and R5 residents scoring highest](dbs-knowledge-rises-with-residency-year.md) — related

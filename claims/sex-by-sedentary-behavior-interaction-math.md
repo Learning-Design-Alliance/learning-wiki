@@ -58,3 +58,5 @@ Preliminary moderator analysis of the Millennium Cohort Study data tested sex as
 - [Screen-based sedentary behavior is negatively associated with physical fitness in girls but not significantly in boys after full adjustment](screen-sb-physical-fitness-girls-only.md) — related
 - [Boys spend more time on screen-based sedentary behavior than girls, while girls show better academic performance except in mathematics and science](sex-differences-screen-sb-and-academic-performance.md) — related
 - [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](weekday-weekend-sb-interaction-academic-performance-girls.md) — related
+- [Long sedentary bouts of 30 minutes or more are associated with lower academic performance in both adolescent boys and girls](long-sedentary-bouts-30min-associated-lower-academic-performance.md) — related
+- [No significant sex interactions were found between sex and any of the three movement behaviours in relation to academic performance, so analyses were performed on the entire sample](no-sex-interaction-movement-behaviours-academic-performance.md) — related

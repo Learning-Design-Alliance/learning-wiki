@@ -78,3 +78,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related
 - [Nurses score significantly lower than physicians on knowledge outcomes at all time points](nurses-score-lower-than-physicians-scl-ahit.md) — related
 - [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related
+- [Nurses and public health physicians achieve higher positive predictive value than general practitioners in unadjusted models, but this does not persist after full adjustment](occupation-ppv-unadjusted-fades-adjusted.md) — related

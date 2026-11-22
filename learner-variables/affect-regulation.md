@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 378 claims (264 show a difference, 70 mixed, 44 no difference) · 251 studies (97 associational, 70 causal, 33 review, 21 qualitative, 12 quant-synthesis, 10 design, 8 theoretical), `q1`–`q4` · 54 of 251 report an effect size · 370 claims rest on one study
+> **Evidence** · 379 claims (264 show a difference, 71 mixed, 44 no difference) · 252 studies (98 associational, 70 causal, 33 review, 21 qualitative, 12 quant-synthesis, 10 design, 8 theoretical), `q1`–`q4` · 54 of 252 report an effect size · 371 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -418,6 +418,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Contrastive learning imposes the highest mental demand of all conditions while maintaining high trust and the lowest reported frustration](../claims/contrastive-learning-high-effort-low-frustration.md) [+S] — measured as an outcome of the instruction studied
 - [GenAI availability selectively increased directive, obstacle-oriented, and affective regulatory processes rather than uniformly shifting all processes](../claims/genai-selective-regulatory-process-shift.md) [~W] — measured as an outcome of the instruction studied
 - [MIRACLE shows no significant quantitative effect on Emotion Regulation after the 120-minute intervention](../claims/miracle-no-emotion-regulation-gains.md) [-W] — measured as an outcome of the instruction studied
+- [Better coping is associated with less perceived depression consequences of dyslexia, but not with perceived anxiety or academic consequences](../claims/coping-reduces-perceived-depression-consequences-only.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

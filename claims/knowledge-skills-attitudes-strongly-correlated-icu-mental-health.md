@@ -51,3 +51,4 @@ Pearson correlation analysis in the cross‐sectional survey of 502 ICU nurses; 
 - [VR training interventions can promote knowledge and skills acquisition in health care professionals and students for assessing and treating mental health disorders, though the evidence base is uncertain](vr-training-promotes-mental-health-knowledge-skills.md) — related
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [Knowledge and skills scores correlated strongly with attitude scores](knowledge-attitude-correlation.md) — possibly the same claim (merge candidate)
+- [MSS knowledge, skills, and attitudes correlate positively with each other and with malnutrition interprofessional collaboration](mss-competency-correlations.md) — related

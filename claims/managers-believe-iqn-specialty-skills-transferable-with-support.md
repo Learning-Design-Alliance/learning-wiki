@@ -50,3 +50,4 @@ Cross-sectional online survey with nine open-ended questions, analysed by qualit
 - [Hospitals lack formal specialty skill transfer models for IQNs, relying instead on informal, ad hoc support](no-formal-iqn-transfer-model-informal-support.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — a broader claim this one bears on
 - [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Managers call for centralised support systems to assess and recognise IQN specialty skills, and for early support programmes to build success](managers-call-centralised-assessment-and-early-support.md) — related

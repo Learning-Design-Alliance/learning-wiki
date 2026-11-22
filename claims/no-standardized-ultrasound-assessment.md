@@ -68,3 +68,4 @@ The review's discussion of assessment limitations in undergraduate ultrasound ed
 - [First-year nursing students strongly overestimate their social/communication skills relative to examiner ratings (mean difference −0.141, d = 0.99)](nursing-students-overestimate-communication-osce.md) — related
 - [Agreement between self- and peer-assessment on the CHOLE-VOP is moderate overall but poor for novices, who tend to overestimate their performance, and good for intermediate users](self-peer-assessment-agreement-varies-by-experience.md) — related
 - [OSCEs provide standardized, objective practical assessment but carry high organizational effort and scenario-preparation risks](osce-advantages-limitations-ultrasound.md) — related
+- [Managers' self‐assessments may overestimate competence relative to staff experiences](self-assessment-may-overestimate-competence.md) — related

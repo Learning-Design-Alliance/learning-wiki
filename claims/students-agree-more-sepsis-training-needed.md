@@ -47,3 +47,4 @@ Attitudes section (Q15–17) of the questionnaire administered to 292 students. 
 ## Related Claims
 - [Jamaican healthcare students showed major gaps in septic-shock recognition and sepsis mortality knowledge, with only about 7% knowing the correct annual mortality rate](septic-shock-and-mortality-knowledge-gaps.md) — related
 - [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related
+- [Self-reported knowledge of pediatric sepsis guidelines varies by specialty, with IPSCC best known and ACCM least known](guideline-knowledge-varies-by-specialty.md) — related

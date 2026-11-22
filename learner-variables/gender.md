@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 790 claims (423 show a difference, 195 mixed, 172 no difference) · 552 studies (291 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 552 report an effect size · 782 claims rest on one study
+> **Evidence** · 796 claims (426 show a difference, 195 mixed, 175 no difference) · 556 studies (295 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 556 report an effect size · 788 claims rest on one study
 
 ## How to read this page
 
@@ -829,6 +829,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Author gender and participant gender do not affect perceived message credibility of a science text in Studies 1 and 2](../claims/author-gender-no-credibility-effect.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](../claims/gender-gap-cognitive-performance-taabo-children.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The association between gambling and academic performance shows no sex-specific differences in the two studies that tested it](../claims/no-sex-specific-differences-gambling-gpa.md) [-M] — an instructional effect differs by group
+- [About one in ten cohort members had no secondary qualifications recorded, with no sex difference](../claims/pif-cohort-no-qualification-proportion.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female medical students report higher Year-1 stress perception than male students](../claims/female-students-higher-year1-stress.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female sex is independently associated with higher odds of achieving University Entrance than male sex in the Pacific Islands Families cohort](../claims/female-sex-higher-university-entrance-odds.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Highest-qualification attainment differed by sex: more females achieved University Entrance while more males achieved NCEA level 1 or 2](../claims/highest-qualification-sex-differences-ncea.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant difference in DBS knowledge scores by resident sex or age](../claims/no-sex-age-difference-dbs-knowledge.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant sex differences in the pathways from maternal depressive symptoms to adolescent academic performance](../claims/no-sex-differences-maternal-depression-academic-pathways.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -48,6 +48,7 @@ The article's conclusion recommends that "Expert supervision, critical appraisal
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Cautious, verified use of ChatGPT with critical cross-referencing of AI-provided sources](cautious-verified-chatgpt-use-strategy.md)
 - [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
+- [Use multi-model cross-verification with human adjudication of disagreements to raise LLM accuracy on medical examinations](multimodel-cross-verification-human-adjudication-strategy.md)
 
 ## Examples
 -

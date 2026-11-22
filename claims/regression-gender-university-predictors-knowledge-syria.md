@@ -62,3 +62,4 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [The gender gap reverses by model choice: males lead univariately but females have higher odds of a first-class degree in the multivariate hierarchical model](gender-gap-reverses-hierarchical-model.md) — related
 - [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — reports the opposite
 - [Male Syrian medical students report higher adjusted career regret than female students](male-students-higher-career-regret-syria.md) — related
+- [Female sex is associated with higher academic scores in linear regression but not with poor performance in multivariable analysis](female-sex-mixed-academic-performance-association.md) — reports the opposite

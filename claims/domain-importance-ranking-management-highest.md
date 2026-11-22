@@ -53,3 +53,4 @@ Descriptive analysis of domain scores in the cross-sectional survey of 2,625 phy
 - [Primary healthcare physicians prefer public health, essentials and clinical emergency domains more, while specialists and subspecialists prefer them less](primary-care-specialist-domain-preference-split.md) — related
 - [Accrual accounting and health economics were the least relevant courses and gained among the lowest post-test scores](accrual-accounting-health-economics-least-relevant-lowest-scores.md) — related
 - [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related
+- [Self-perceived competency regarding DDH is higher among physicians with over 10 years of experience, specialists, and those who follow DDH patients](ddh-self-competency-experience-specialists.md) — related

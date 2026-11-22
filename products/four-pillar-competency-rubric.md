@@ -20,6 +20,7 @@ A rubric developed by Smith et al. for assessing manufacturing workforce readine
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Four pillars of advanced practice nursing competency**: The review organizes the specialized competencies of cardiology APNs using a four-pillar framework drawn from the Royal College of Nursing's 2018 Standards for Advanced Level Nursing Practice. As the review states, competencies "were analyzed and divided into the four pillars of advanced practice: advanced clinical practice; leadership; education and learning facilitation; and evidence, research, and development". Each pillar is treated in a dedicated results section with supporting studies, and the framework structures the review's Table 1 competency mapping for each included study. (Sguanci et al. (2025))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A rubric developed by Smith et al. for assessing manufacturing workforce readine
 
 ## Key Sources
 - Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540. [doi:10.48550/arxiv.2608.11540](https://doi.org/10.48550/arxiv.2608.11540)
+- Sguanci, M., Mancin, S., Carù, V., Simonelli, N., Cangelosi, G., Morales Palomares, S., Ferrara, G., Lo Cascio, A. (2025). Exploring the Role of Advanced Practice Nurses in Cardiology: A Scoping Review. International Nursing Review. https://doi.org/10.1111/inr.70054

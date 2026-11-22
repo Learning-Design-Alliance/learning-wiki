@@ -60,3 +60,5 @@ Cross-sectional logistic regression of unhealthy food and beverage intake (more 
 - [The dietary pattern of physically active adolescents is mixed: they report lower daily fruit or fruit juice and legume consumption yet higher daily sweets consumption, alongside the healthier items](pa-diet-pattern-mixed-exceptions.md) — related
 - [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
+- [Undergraduate students with A or B GPAs were more likely than D/F students to report healthy dietary behaviors, with no significant difference between C and D/F students](gpa-dietary-behaviors-prevalence-undergraduates.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — reports the opposite

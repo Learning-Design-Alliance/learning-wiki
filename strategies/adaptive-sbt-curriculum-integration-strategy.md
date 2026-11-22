@@ -56,6 +56,7 @@ The article proposes a four-part approach to integrating simulator-based trainin
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Incorporate a simulation-based ultrasound module into mandatory physician orientation](ultrasound-module-in-mandatory-orientation-strategy.md)
+- [Combine mandatory and optional intervention components so organizations can adapt the intervention to their circumstances](mandatory-optional-components-adaptability-strategy.md)
 
 ## Examples
 -

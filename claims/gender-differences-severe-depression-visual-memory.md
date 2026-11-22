@@ -72,3 +72,4 @@ One-way ANOVA on the five-vignette memory and attention task in the 203-student 
 - [Female Ukrainian medical students reported significantly higher anxiety, stress, and PTSD symptoms than male students during the war](gender-disparity-war-mental-health-medical-students.md) — related
 - [Poorer study skills correlate with higher depressive symptoms among medical students](poor-study-skills-correlate-depressive-symptoms.md) — related
 - [Changes in messaging-app use during the COVID-19 pandemic were significantly related to teachers' sector, discipline, and gender](post-covid-messaging-change-related-sector-discipline-gender.md) — related
+- [78% of post-pandemic freshmen say the pandemic impacted their social relationships, with greater impact reported by females, Italian students, more stressed students, and those using instrumental support or external regulation](pandemic-impact-social-relationships-freshmen-predictors.md) — related

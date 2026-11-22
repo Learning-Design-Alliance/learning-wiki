@@ -47,3 +47,4 @@ Linear regression on the 297,820-participant Quebec birth-cohort case-control sa
 ## Related Claims
 - [Sociodemographic factors are more strongly associated with educational attainment than preterm birth status](sociodemographic-factors-outweigh-preterm-status.md) — related
 - [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md) — related
+- [In upper secondary education, preterm birth was associated with higher GPAs in adjusted linear regression analyses, but these differences were not statistically significant](use-gpa-no-significant-difference.md) — related

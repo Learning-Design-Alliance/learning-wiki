@@ -45,7 +45,8 @@ The article recommends a combined approach in which schools and communities impr
 - [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](../claims/normal-bmi-associated-academic-performance-ethiopia.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recommend nutrition interventions on dietary diversity for school-age children, alongside efforts to raise mothers' educational level and economic empowerment](dietary-diversity-nutrition-intervention-strategy.md)
 
 ## Examples
 -

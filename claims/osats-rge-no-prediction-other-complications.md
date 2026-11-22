@@ -51,3 +51,4 @@ Secondary outcome analysis in the 192-video LAELAPS-3 cohort testing OSATS predi
 - [Higher OSATS scores on video-assessed robotic gastroenterostomy predict a lower rate of grade B/C delayed gastric emptying after robotic pancreatoduodenectomy](osats-rge-score-predicts-grade-bc-dge.md) — related
 - [The predictive value of OSATS for grade B/C DGE remains consistent after excluding patients with concomitant complications that could cause DGE](osats-dge-prediction-robust-to-confounders.md) — related
 - [Specific OSATS elements — gentleness, instrument handling, tissue exposure, and the summary score — significantly predict grade B/C delayed gastric emptying](osats-elements-gentleness-instrument-tissue-predict-dge.md) — related
+- [Fistula rates remained stable over the trial regardless of technique experience, showing learning affected the process outcome but not the patient outcome](fistula-rate-stable-despite-learning.md) — related

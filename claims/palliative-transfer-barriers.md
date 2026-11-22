@@ -50,3 +50,4 @@ Thematic analysis of focus group and critical incident interview data identified
 - [Students identified the palliative care course competencies, supportive qualified nurses and supportive family caregivers as facilitators of learning transfer](palliative-transfer-facilitators.md) — related
 - [Shared decision-making with patients and families is a teaching priority in geriatrics, ICU, and palliative care, shaped by Chinese collectivism and cultural attitudes towards death](shared-decision-making-chinese-collectivism.md) — related
 - [Despite palliative care education, students reported avoiding difficult interactions such as talking about dying, and sometimes lacked competence and confidence](palliative-avoidance-despite-education.md) — related
+- [Nursing students' bioscience knowledge learned through remembering and understanding fades quickly and is difficult to apply in care practice](bioscience-knowledge-remembering-fades-care-practice-gap.md) — related

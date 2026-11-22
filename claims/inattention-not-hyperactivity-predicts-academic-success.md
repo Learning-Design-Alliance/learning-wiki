@@ -77,3 +77,4 @@ Regressions (Tables 6 and 7) on the three-wave completers showed inattention pre
 - [Students who withdrew before graduating had higher inattention symptoms than graduates, but not higher hyperactivity or impulsivity symptoms](inattention-symptoms-higher-among-students-who-withdrew.md) — related
 - [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related
 - [Inattentive symptoms show much stronger associations with educational achievement than hyperactive symptoms, whose direct paths are not significant](inattention-stronger-than-hyperactivity-achievement.md) — related
+- [The inattention/hyperactivity subscale drives the association between SDB severity and school grades](inattention-hyperactivity-subscale-drives-sdb-school-grades.md) — related

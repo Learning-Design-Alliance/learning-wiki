@@ -58,3 +58,5 @@ ANCOVA of the 450-nurse survey relating education level (bachelor's, diploma, po
 - [Education level showed no significant pre-test differences, but diploma-level nurses scored significantly higher than secondary-educated nurses on the gastric cancer post-test (p = 0.039)](education-level-gastric-cancer-post-test-difference.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
 - [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related
+- [Educational level shows no significant effect on total clinical competence except a higher ensuring-quality score among master's-degree nurses](education-level-null-effect-clinical-competence.md) — reports the opposite
+- [ICU nurses' educational level is significantly associated with eye care knowledge scores, with postgraduate nurses scoring highest](icu-nurse-education-level-eye-care-knowledge.md) — reports the opposite

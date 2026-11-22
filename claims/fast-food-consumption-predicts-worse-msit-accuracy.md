@@ -47,3 +47,4 @@ Regression analysis in the reduced model of the adolescent observational study, 
 ## Related Claims
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — related
 - [Higher accelerometer-assessed daily physical activity predicts better interference task performance in adolescents](physical-activity-predicts-msit-accuracy-adolescents.md) — related
+- [Weekly fast food consumption during the exam period is negatively associated with medical students' grades](fast-food-negative-association-grades.md) — related

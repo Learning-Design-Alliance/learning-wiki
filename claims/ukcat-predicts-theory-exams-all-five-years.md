@@ -51,3 +51,4 @@ Univariable multilevel regression of theory-based exam scores on UKCAT scales in
 - [UKCAT scores generally predict skills-based exam performance across medical school, but quantitative reasoning is borderline or non-significant in years 1 and 2 and coefficients are smaller than for theory exams](ukcat-skills-exam-prediction-weaker.md) — related
 - [UKCAT scores retain incremental predictive validity over prior educational attainment for most outcomes, with quantitative reasoning the main exception](ukcat-incremental-validity-over-attainment.md) — related
 - [Degree class predicted year 1 exam performance but not year 2 exams](degree-class-predicts-year1-exams-not-year2.md) — related
+- [The UCAT adds a small amount of incremental validity to prior educational attainment](ucat-small-incremental-validity-prior-attainment.md) — related

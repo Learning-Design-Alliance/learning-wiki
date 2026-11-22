@@ -49,3 +49,4 @@ Multinomial logistic regression in the same Malawi cohort, adjusted for socio-ec
 - [Stunting in late childhood was associated with being 2–4 times more likely to be overage for grade by age 11](late-childhood-stunting-overage-for-grade.md) — related
 - [Compared to improvers, persistently stunted children were three times as likely to be overage by two or more years by age 11, with no effect on enrolment or repetition](persistent-stunting-versus-improvers-overage.md) — related
 - [Persistently stunted children faced the worst schooling outcomes, being three times as likely to enrol late and 3–5 times more likely to be overage for grade](persistent-stunting-worst-schooling-outcomes.md) — related
+- [Over-age for grade rose steadily across primary school in the cohort, reaching 41.9% by age 13](overage-for-grade-increased-age-8-to-13.md) — related

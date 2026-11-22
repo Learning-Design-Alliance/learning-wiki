@@ -50,3 +50,4 @@ Cohort analysis of stunting at ages 4–8 years and age-for-grade at age 11 usin
 - [Children stunted in early childhood were about twice as likely to be at least two years overage-for-grade by age 11](early-childhood-stunting-overage-for-grade-age-11.md) — related
 - [Compared to improvers, persistently stunted children were three times as likely to be overage by two or more years by age 11, with no effect on enrolment or repetition](persistent-stunting-versus-improvers-overage.md) — related
 - [Persistently stunted children faced the worst schooling outcomes, being three times as likely to enrol late and 3–5 times more likely to be overage for grade](persistent-stunting-worst-schooling-outcomes.md) — related
+- [Over-age for grade rose steadily across primary school in the cohort, reaching 41.9% by age 13](overage-for-grade-increased-age-8-to-13.md) — related

@@ -76,3 +76,4 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
 - [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — related
+- [Inter-rater agreement on ovarian cancer infiltration ranges from substantial to very good across sites, lowest in the upper abdomen and highest in the pelvis](substantial-very-good-inter-rater-agreement-ultrasound-staging.md) — related

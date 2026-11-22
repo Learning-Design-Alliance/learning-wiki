@@ -59,3 +59,4 @@ Theme 3 faculty interview data on cultural shifts in learning priorities; facult
 - [KFQ-based TBL cases push students toward choosing wisely and committing to decisions as a parallel to real-life patient care](kfq-tbl-choosing-wisely-commitment-decisions.md) — a narrower finding that bears on this claim
 - [English-language video simulations posed a language barrier that impeded comprehension for Arabic-speaking nursing students](language-barrier-video-simulations-comprehension.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
+- [95.7% of patients consent to recording once they understand surgical coaching](patients-consent-recording-coaching-95-7-percent.md) — related

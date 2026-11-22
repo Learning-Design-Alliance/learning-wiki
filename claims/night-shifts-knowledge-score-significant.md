@@ -58,3 +58,5 @@ Univariate analysis (t-tests/ANOVA) across sociodemographic variables in the 627
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related
 - [ICU nurses who participated in eye care-related training scored higher on eye care competence across knowledge, attitude, practice and total ECCI dimensions](eye-care-training-higher-competence-icu-nurses.md) — related
+- [No statistically significant differences in eye care knowledge, attitudes, or practices across ICU unit types and levels](no-icu-type-differences-eye-care-competence.md) — related
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related

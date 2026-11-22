@@ -50,3 +50,4 @@ Multivariable logistic regression in the cross-sectional study of 481 pupils; ex
 - [Modifiable perinatal exposures — maternal smoking, postnatal corticosteroids, and nonexclusive breastfeeding — are associated with lower attainment, while antenatal corticosteroids are protective](modifiable-perinatal-exposures-attainment.md) — related
 - [Children of self-employed mothers had significantly lower odds of good academic performance than children of government-employed mothers](self-employed-mothers-lower-odds-good-performance.md) — related
 - [Vaginally delivered pupils showed a crude bivariate association with better academic performance than cesarean-delivered pupils](vaginal-delivery-crude-better-academic-performance.md) — related
+- [Breastfeeding status accounts for the HIV-exposure association with academic performance; removing it from the adjusted model restores significance](breastfeeding-moderates-hiv-exposure-academic-association.md) — related

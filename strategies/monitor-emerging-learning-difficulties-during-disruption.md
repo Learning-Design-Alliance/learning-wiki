@@ -47,6 +47,7 @@ The authors recommend that school- and community-based programs "prioritize targ
 - [Focus intervention and monitoring on abilities with the strongest coupling strengths, not only on outcomes below a desired threshold](monitor-strongest-coupling-abilities.md)
 - [Provide early, effective, targeted intensive intervention to disrupt persistent trajectories of reading difficulty](early-intensive-intervention-disrupt-reading-difficulty-trajectories.md)
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
+- [Prioritise children vulnerable to falling behind in early and middle grades for educational interventions](prioritise-children-vulnerable-early-middle-grades.md)
 
 ## Examples
 -

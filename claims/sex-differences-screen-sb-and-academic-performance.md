@@ -52,3 +52,4 @@ Table 2 descriptive comparison (t-tests) of the sample of 541 girls and 499 boys
 - [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](weekday-weekend-sb-interaction-academic-performance-girls.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — related
+- [No significant sex interactions were found between sex and any of the three movement behaviours in relation to academic performance, so analyses were performed on the entire sample](no-sex-interaction-movement-behaviours-academic-performance.md) — related

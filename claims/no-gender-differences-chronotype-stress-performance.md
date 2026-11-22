@@ -77,3 +77,4 @@ Chi-square test of gender against chronotype category among all 148 participants
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — related
 - [Raising the Year-1 standard increased perceived stress, with the increase confined to female students](raising-standard-increased-perceived-stress-females.md) — reports the opposite
 - [Medical students in both cohorts reported perceived stress above population norms for a similar age group](medical-students-stress-above-norms.md) — related
+- [Female medical students report higher Year-1 stress perception than male students](female-students-higher-year1-stress.md) — reports the opposite

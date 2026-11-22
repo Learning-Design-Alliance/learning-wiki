@@ -71,3 +71,7 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [Unhealthy behaviors cluster: students with lower physical activity, irregular breakfast, and abnormal SDQ scores were more prone to frequent sweet eating](unhealthy-behavior-clustering-palestinian-students.md) — related
 - [Daily sweet consumption is associated with lower GPA among Palestinian university medical students, remaining significant after full covariate adjustment](daily-sweet-consumption-lower-gpa-palestinian-students.md) — related
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
+- [Skipping breakfast is negatively associated with academic performance, while skipping other meals is not](breakfast-skipping-negative-academic-performance.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — reports the opposite
+- [Students who sometimes skip breakfast also have increased risk of low achievement on all five NAPLAN tests, though lower than always skippers](sometimes-skippers-increased-risk-all-five-tests.md) — related

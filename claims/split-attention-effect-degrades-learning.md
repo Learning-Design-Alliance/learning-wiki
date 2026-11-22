@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q3`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
@@ -85,7 +85,7 @@ The review reports a meta-analysis on spatial contiguity and split-attention eff
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Schroeder Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, g=0.63 | this claim |
-| Paridon H 2026 | q3 · theoretical · r2 | i2 | this claim |
+| [Paridon H 2026](https://doi.org/10.3205/zma001805) | q3 · theoretical · r2 | i2 | this claim |
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2 | [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) (supports) |
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q2 / q3 · quant-synthesis · r2 | i3; i2; i? | [Integrating spatially or temporally separated but related elements of instructional inform](integration-of-related-elements-large-mean-effect.md) (supports); [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (qualifies); [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies); [Reviews report that the split-attention benefit for novices reverses into a redundancy eff](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Contiguity principles: near placement and simultaneous presentation of corresponding words](contiguity-principles-mayer-2008.md) (supports) |

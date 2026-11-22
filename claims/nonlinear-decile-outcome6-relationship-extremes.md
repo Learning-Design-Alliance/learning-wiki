@@ -49,3 +49,4 @@ Descriptive analysis of proportions awarded outcome 6 by decile in the national 
 - [After controlling for age, disability, number of applications and medical school, EPM decile remains significant but SJT does not](sjt-nonsignificant-after-background-variables-model3.md) — related
 - [In multivariable multilevel models, EPM decile and SJT independently predict foundation completion, but educational achievements do not add incremental value](educational-achievements-no-incremental-validity-foundation.md) — related
 - [All three UK foundation programme selection measures (SJT, EPM decile, educational achievements) are associated with the odds of successful programme completion on univariable analysis](three-selection-measures-predict-foundation-completion-univariable.md) — related
+- [The UKFPO SJT is reliable and adds validity over the EPM in predicting Foundation Programme completion](ukfpo-sjt-validity-over-epm.md) — related

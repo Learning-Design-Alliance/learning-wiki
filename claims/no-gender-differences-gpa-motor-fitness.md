@@ -52,3 +52,4 @@ Null-result t-test comparisons between boys (N = 51) and girls (N = 79) reported
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — reports the opposite
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — reports the opposite
 - [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — reports the opposite
+- [Sex was the second most important RFR predictor for Slovak language, and girls showed higher Slovak-language performance than boys](sex-second-predictor-slovak-girls-advantage.md) — reports the opposite

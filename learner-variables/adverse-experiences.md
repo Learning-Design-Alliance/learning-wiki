@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (58 show a difference, 10 mixed, 5 no difference) · 43 studies (20 associational, 14 review, 3 theoretical, 2 causal, 2 quant-synthesis, 2 design), `q1`–`q3` · 5 of 43 report an effect size · 73 claims rest on one study
+> **Evidence** · 75 claims (59 show a difference, 11 mixed, 5 no difference) · 44 studies (21 associational, 14 review, 3 theoretical, 2 causal, 2 quant-synthesis, 2 design), `q1`–`q3` · 5 of 44 report an effect size · 75 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -109,6 +109,8 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Multivictimization is associated with over threefold increased odds of very poor school performance in maltreated primary-school children](../claims/multivictimization-poor-school-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Multivictimization shows no statistically significant association with special education enrollment, though the result approaches significance](../claims/multivictimization-special-education-null.md) [-W] — learners who differ on it differ in outcomes
 - [Very poor school performance is strongly associated with having a special education decision among maltreated children](../claims/poor-performance-special-education-link.md) [+M] — learners who differ on it differ in outcomes
+- [Early life adversity is negatively associated with cognitive performance and grey matter volume but does not moderate the polygenic score–cognition relationship](../claims/ela-associated-with-cognition-not-a-moderator.md) [~M] — learners who differ on it differ in outcomes
+- [Polygenic variation, total grey matter volume and early life adversity each independently predict cognitive ability in middle and older age adults](../claims/pgs-gmv-ela-independently-predict-cognitive-ability.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

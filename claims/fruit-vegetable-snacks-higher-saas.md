@@ -52,3 +52,6 @@ Linear regression row from the 1677-student cross-sectional study: "Snack- veget
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
 - [Non-HPS students consumed more vegetables and fewer sugary drinks than HPS students](non-hps-students-healthier-diet.md) — related
 - [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related
+- [Fruit and vegetable consumption is significantly associated with academic performance amongst university students when all predominant health behaviours are considered simultaneously](fruit-vegetable-consumption-associated-academic-performance-university-students.md) — related
+- [Undergraduate students with A or B GPAs were more likely than D/F students to report healthy dietary behaviors, with no significant difference between C and D/F students](gpa-dietary-behaviors-prevalence-undergraduates.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — reports the opposite

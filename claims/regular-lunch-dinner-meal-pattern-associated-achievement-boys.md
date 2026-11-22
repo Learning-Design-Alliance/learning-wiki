@@ -51,3 +51,5 @@ In the same cross-sectional logistic regression analysis, regular lunch was asso
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md) — related
+- [Skipping breakfast is negatively associated with academic performance, while skipping other meals is not](breakfast-skipping-negative-academic-performance.md) — reports the opposite
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — related

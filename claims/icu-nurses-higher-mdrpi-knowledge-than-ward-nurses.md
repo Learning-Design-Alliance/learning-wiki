@@ -51,3 +51,4 @@ One‐way ANOVA comparing worked‐unit groups in the 217‐nurse cross‐sectio
 - [Nurses' MDRPI knowledge shows no significant difference by gender, years of professional experience, or receipt of prior MDRPI training](mdrpi-knowledge-null-gender-experience-training.md) — related
 - [Nurses' MDRPI knowledge differs significantly by education level, with postgraduate nurses scoring higher than licensed and vocationally trained nurses](mdrpi-knowledge-rises-with-education-level.md) — related
 - [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related
+- [Nurses in intensive care units scored higher in clinical competence than internal-medicine-ward nurses, who scored higher than emergency-department nurses](ward-gradient-icu-msw-ed-clinical-competence.md) — related

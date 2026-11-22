@@ -54,3 +54,5 @@ Linear regression row from the cross-sectional study of 1677 students: "Breakfas
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
 - [Breakfast eating frequency is significantly associated with academic performance among Chinese medical and dental students](breakfast-frequency-academic-performance-medical-dental.md) — related
 - [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — related
+- [Most South Australian students report skipping breakfast at least sometimes: 57·6% sometimes and 10·1% always](breakfast-skipping-prevalence-south-australia.md) — related
+- [Breakfast, scheduled eating, snacks, fruit, mate, energy drinks, and vitamin C show no significant association with grades](null-associations-breakfast-scheduled-eating-fruit-snacks.md) — reports the opposite

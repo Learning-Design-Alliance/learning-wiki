@@ -52,3 +52,4 @@ Observational COPUS analysis of 264 class sessions (80 clicker, 184 nonclicker) 
 - [Distinct COPUS codes characterize each active learning profile: lecture and clickers for the lecture-like profile, student presentations and whole-class discussion for Modeling Instruction, predictions for CRP labs, and group worksheets for recitations](copus-codes-distinguish-active-learning-profiles.md) — related
 - [Fraction of class time spent on non-interactive lecturing shows no clear relationship to conceptual learning gains in Peer Instruction classrooms](lecturing-time-not-related-to-gains.md) — related
 - [COPUS classroom observations showed AL and TL sections differed in student group work and in instructor lecturing versus facilitation behaviors](cl-copus-al-tl-classroom-behavior-contrasts.md) — related
+- [In a 2018 US study, lecture occupied 80% or more of class time in more than half of 709 observed STEM classes](lecture-dominates-us-stem-classrooms.md) — related

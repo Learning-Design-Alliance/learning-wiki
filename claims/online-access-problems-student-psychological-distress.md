@@ -73,3 +73,6 @@ The review reports, citing Subedi et al., the Nepal nursing-student study in whi
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — related
 - [During India's COVID-19 lockdown, 79.9% of surveyed medical students and faculty actively attended online classes and webinars](lockdown-online-class-attendance-79-9-percent.md) — related
+- [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
+- [Depression among students during COVID-19 has a significant negative effect on their academic performance](covid-depression-negative-academic-performance.md) — related
+- [Family stress among students during COVID-19 significantly generates depression among students](covid-family-stress-generates-depression.md) — related

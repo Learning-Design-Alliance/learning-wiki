@@ -64,3 +64,4 @@ Content validity evaluation from the expert consultation stage, in which 20 expe
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
 - [Iterative expert content validation produced strong content validity for QISCIT, with average CVI rising to 0.97 and expert accuracy to 91% in the final 31-item version](qiscit-content-validity-cvi-097.md) — related
 - [Face and content validity of the C-Scale-I reached perfect indices (S-FVI/Ave = 1.00; S-CVI/Ave = 1.00)](c-scale-i-face-content-validity-perfect-indices.md) — related
+- [Expert panels rated the questionnaire's content validity as good, with S-CVI of 0.98 (knowledge) and 0.93 (attitude)](content-validity-s-cvi-knowledge-attitude.md) — related

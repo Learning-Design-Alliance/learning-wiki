@@ -53,3 +53,4 @@ Gender-specific quadratic OLS models (Table 5) with individual-level covariates,
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
 - [Sleep duration contributes more to variance in Chinese, mathematics, and science performance than to English and arts, but less than socioeconomic status in every subject](shapley-sleep-contribution-by-subject.md) — related
 - [Average sleep hours showed no significant association with academic outcomes or prefrontal function parameters in this adolescent sample](sleep-null-adolescent-grades-prefrontal.md) — reports the opposite
+- [Longer sleep duration is significantly positively associated with academic performance](sleep-duration-positive-academic-performance.md) — related

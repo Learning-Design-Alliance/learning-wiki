@@ -51,3 +51,4 @@ Multivariable logistic regression in the MEARS subpopulation of entrants; self-e
 - [Diagnosis with mental illness independently predicts low self-esteem among Saudi medical students](mental-illness-diagnosis-predicts-low-self-esteem.md) — related
 - [Better performance on the UK Foundation Programme SJT and higher EPM ranking are univariably associated with reduced odds of a conduct-related declaration](sjt-epm-performance-associated-reduced-conduct-declarations.md) — related
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
+- [UCAT scores do not predict health- or conduct-related fitness to practise declarations at GMC registration](ucat-no-prediction-fitness-to-practise-declarations.md) — related

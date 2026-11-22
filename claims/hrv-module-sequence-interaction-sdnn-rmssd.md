@@ -49,3 +49,4 @@ GEE analysis of HRV across timepoints in the cross-over pilot found the interact
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — related
 - [IBVR training yields higher Milestone and DOPS operational performance ratings than TBVR among junior residents](ibvr-higher-milestone-dops-than-tbvr.md) — related
 - [PF students exhibit a larger decrease in cognitive load from pre-instruction practice to post-instruction programming than DI students](pf-larger-cognitive-load-reduction-after-instruction.md) — related
+- [Slow-paced breathing shows no significant Time-by-Group effects on perceived stress, RMSSD, SDNN, or verbal fluency in simulated CPR](spb-no-effect-stress-hrv-fluency.md) — related

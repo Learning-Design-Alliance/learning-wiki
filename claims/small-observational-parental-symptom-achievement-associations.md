@@ -53,3 +53,4 @@ Linear regression in the total MoBa sample (observational cohort analysis). The 
 - [Higher SES and lower depressive symptoms are associated with higher total A-Level scores](ses-depression-a-level-scores.md) — related
 - [Substance use disorders show the largest GPA deficit while eating disorders are associated with slightly higher achievement](substance-use-largest-deficit-eating-disorders-higher-gpa.md) — related
 - [Higher behavioral symptoms of disordered eating are associated with lower GPA among Saudi university students, while cognitive eating concerns are not](behavioral-eating-symptoms-lower-gpa.md) — related
+- [Child functioning in fifth grade predicts adolescent academic performance](child-functioning-predicts-adolescent-academic-performance.md) — related

@@ -48,3 +48,4 @@ Two-way ANOVA with GAD group and gender as factors and age as covariate on basel
 - [Female students with GPA below 3.0 show higher SCL-90 positive rates across all ten dimensions; male differences appear in only five dimensions](gpa-below-3-scl90-positivity-gender-patterns.md) — related
 - [Gender is not a significant moderator of the math anxiety–performance relationship](gender-not-moderator-ma-math-link.md) — related
 - [Students in the Possible MDD group have lower GPAs at baseline and at six-month follow-up than students below the cut-off](possible-mdd-group-lower-gpa-baseline-followup.md) — related
+- [Female students reported significantly more anxiety and hypochondria than male students on the SHAI](female-students-higher-health-anxiety-hypochondria.md) — related

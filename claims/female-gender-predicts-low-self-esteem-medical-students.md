@@ -52,3 +52,4 @@ Multivariate regression analysis of the 1,099-student cross-sectional survey (Ta
 - [24.1% of surveyed Saudi medical students have low self-esteem, 67.2% normal, and 8.7% high](quarter-saudi-medical-students-low-self-esteem.md) — related
 - [Higher self-reported 'self-esteem' on the MEARS non-cognitive test is independently associated with increased odds of a conduct-related declaration](mears-self-esteem-independent-predictor-conduct-declarations.md) — related
 - [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
+- [Male gender is a significant independent predictor of high burnout risk among medical students with lower GPA (≤8)](male-gender-predicts-burnout-lower-gpa.md) — related

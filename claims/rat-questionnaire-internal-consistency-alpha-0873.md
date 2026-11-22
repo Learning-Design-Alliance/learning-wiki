@@ -58,3 +58,4 @@ Post hoc internal consistency computation on nine attitudinal preference items f
 - [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — a broader claim this one bears on
+- [Survey instruments showed acceptable internal consistency and self-reported anatomy scores closely approximated actual results](survey-instrument-validation-integrity.md) — related

@@ -78,3 +78,4 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Experts rated the humanized childbirth simulation scenario adequate on all evaluated aspects, with agreement above 80%](expert-validation-above-80-percent-all-aspects.md) — a narrower finding that bears on this claim
 - [All items in the final version of the ABC competency frameworks reached a Content Validation Index of at least 85% after revision of below-threshold items.](cvi-at-least-85-percent-final-items.md) — related
 - [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related
+- [The developed competency profiles and referral pathway tool had good face validity and were seen as potentially useful by subject matter experts](diabetes-pa-tools-face-validity-usefulness.md) — related

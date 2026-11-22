@@ -87,3 +87,4 @@ Health sciences subgroup analysis: trained students used PubMed/Medline, Medscap
 - [Medical students who received multifaceted EBM training and searched PubMed or Medline more than three times per week increased from 9.7% to 31.7% (P<0.001)](search-frequency-increased-after-ebm-training.md) — related
 - [EBM-trained medical students favour online journals and professional guidelines over printed books as their main source of healthcare information retrieval](ebm-training-shifts-information-sources.md) — related
 - [For students with some prior database use, changes in future resource use (books and Google) were only of marginal statistical significance](group-b-marginal-changes-resource-use.md) — related
+- [Awareness of EBM information sources exceeded their actual use among medical radiology technologists](awareness-use-gap-ebm-sources.md) — related

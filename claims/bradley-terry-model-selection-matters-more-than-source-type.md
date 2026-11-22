@@ -96,3 +96,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [No single LLM significantly outperformed the others on these tutor-move tasks](no-llm-significantly-outperformed-others-tutor-moves.md) — related
 - [The reasoning model o3-mini/low wins most often among judge models but does not significantly outperform the non-reasoning GPT-4o models](reasoning-model-no-significant-judge-advantage.md) — related
 - [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related
+- [Multi-model cross-verification outperformed the single best model, reaching 94.17% accuracy with two models and 96.33% with three](multimodel-cross-verification-accuracy-gains.md) — related

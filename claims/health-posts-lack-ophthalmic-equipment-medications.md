@@ -49,3 +49,4 @@ Equipment and medication audit during visits to 35 health posts (Table 5): dista
 - [Visual acuity testing capability is largely missing: only 14% of PHCWs were trained to measure visual acuity and 5.7% of health posts had a vision chart](visual-acuity-testing-missing-14-percent-trained-5-7-percent-charts.md) — related
 - [Only 8.4% of primary health care workers in eastern Nepal had received eye care training during their professional career](phcws-eastern-nepal-8-4-percent-eye-care-training.md) — related
 - [Enhanced supervision increased the likelihood that facilities retained a functioning torch and a correctly placed visual acuity chart, though most facilities lost both](supervision-increased-equipment-retention.md) — related
+- [The quality of education FCNs provide and receive varies with geographical context, with FCNs in mountain communities feeling poorly educated and trained](fcn-education-quality-geographic-context.md) — related

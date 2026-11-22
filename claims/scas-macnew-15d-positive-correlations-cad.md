@@ -88,3 +88,4 @@ Correlation analysis in the same trial found MacNew and 15D scores correlated at
 - [Orem's SCDNT-based training increased overall quality of life on the 15D in patients with coronary artery disease, with posttest scores significantly higher than control](orem-training-improves-15d-quality-of-life.md) — related
 - [Orem's SCDNT-based training significantly improved disease-specific quality of life on the MacNew in patients with coronary artery disease versus control](orem-training-improves-macnew-quality-of-life.md) — related
 - [Happiness, depression, quality-of-life, and self-care scale scores change significantly at 3 months in both groups, with no difference between education methods](psychosocial-scales-improve-3-months.md) — related
+- [An educational program combined with socio-cognitive support improved physical activity and quality of life for patients after acute coronary syndrome](education-sociocognitive-support-physical-activity-acs.md) — related

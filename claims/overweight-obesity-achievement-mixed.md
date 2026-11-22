@@ -56,3 +56,8 @@ Model 2 of the multivariate regression in the cross-sectional study; in Model 3 
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
+- [Chances of achieving the highest academic level rose by 165% in mathematics and 484% in Slovak language for fit normal-weight boys versus unfit boys with obesity](chance-increase-165-484-percent-fit-normal-boys.md) — related
+- [Fit, normal-weight boys have significantly higher odds of top academic achievement than unfit boys with obesity](fit-normal-boys-higher-odds-than-unfit-obese-boys.md) — related
+- [Higher odds of better academic achievement were not significant for fit normal-weight girls compared with unfit girls with obesity](fit-normal-girls-vs-unfit-obese-girls-null.md) — related
+- [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
+- [Associations between overweight/obesity and poorer academic achievement were more pronounced in girls than boys](weight-achievement-associations-stronger-in-girls.md) — related

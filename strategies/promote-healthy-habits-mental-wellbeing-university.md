@@ -55,6 +55,8 @@ The article's conclusion urges higher-education policymakers and educators to ac
 - [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
+- [Promote healthy exam-period habits among medical students through awareness campaigns and health education programs](exam-period-health-education-campaigns-strategy.md)
+- [Incorporate modifiable lifestyle strategies (NEAT, regular breaks, sleep-protective shift scheduling) into residents' work routines](neat-shift-scheduling-resident-lifestyle-strategy.md)
 
 ## Examples
 -

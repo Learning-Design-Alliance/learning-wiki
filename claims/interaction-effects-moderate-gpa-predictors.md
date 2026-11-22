@@ -69,3 +69,4 @@ Interaction analysis reported with Figure 3 in the additional analyses section. 
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
 - [Students’ learning outcomes did not differ significantly in their pre-test-to-post-test changes by gender, age, admission type, or residency status across the two teaching methods in one study without a comparison group](background-characteristics-not-moderating-e-learning-outcomes.md) — related
 - [General Aptitude Test scores significantly negatively predict preclinical-year cGPA](gat-negatively-predicts-preclinical-cgpa.md) — related
+- [Older student age is negatively associated with grades, and there is no gender difference in performance](age-negative-gender-null-association-grades.md) — related

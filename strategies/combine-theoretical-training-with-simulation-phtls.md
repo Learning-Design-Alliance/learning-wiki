@@ -63,6 +63,7 @@ The article recommends that standardized training programs such as PHTLS be comb
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 - [Use standardized, simulation-based education with high volumes of normal IOC examples to build trainee IOC interpretation confidence and accuracy](simulation-based-ioc-interpretation-training.md)
 - [Structured stroke nurse training program with mandatory certification, annual training hours, and mixed educational formats](stroke-nurse-training-program-luh.md)
+- [Integrate comprehensive eye care training with evidence-based guidelines, hands-on workshops, and simulation-based learning into nursing education](eye-care-training-simulation-workshops-strategy.md)
 
 ## Examples
 -

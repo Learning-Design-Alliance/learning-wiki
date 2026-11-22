@@ -57,3 +57,4 @@ Descriptive analysis of the cross-sectional survey (N = 600) shows "Most student
 - [GPA performance categories do not differ significantly between physically active and inactive students, including when stratified by gender](gpa-category-chi-square-null-physical-activity.md) — related
 - [More than half of surveyed Saudi university students report low physical activity (53%) and do not meet WHO activity recommendations](low-physical-activity-majority-saudi-students.md) — related
 - [Saudi university students who comply with WHO physical activity guidelines are over twice as likely to achieve a high GPA (≥3.75) than those who do not](pa-guideline-compliance-high-gpa-saudi-students.md) — related
+- [In the post-COVID-19 context, prevalence of depression, anxiety, and stress among university students is high, with severe anxiety the most prevalent severe level (42.6%)](post-covid-high-prevalence-negative-affectivity-university-students.md) — related

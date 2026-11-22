@@ -57,3 +57,4 @@ First theme reported in the Results section of the Delphi study. Panelists ident
 - [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related
 - [Communication skills and empathy are regarded as interpersonal skills that enable PSC implementation](leader-interpersonal-skills-enable-psc.md) — a narrower finding that bears on this claim
 - [Exemplary leadership, navigating complexity, and multiskilled leadership are pivotal competencies that enable PSC implementation in a school setting](three-leader-competencies-enable-school-psc.md) — related
+- [The success of FCN health education depends on communication and empathy skills, with caregiver involvement emphasised](fcn-health-education-communication-empathy.md) — related

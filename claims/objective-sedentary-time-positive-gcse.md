@@ -49,3 +49,4 @@ Prospective observational analysis in 845 ROOTS adolescents using combined heart
 - [The association between non-screen sedentary time and GCSE points is inverted U-shaped, peaking around 4 hours/day](inverted-u-nonscreen-sedentary-gcse.md) — related
 - [MVPA at 14.5y is not significantly associated with GCSE academic performance at 16y in British adolescents](mvpa-not-associated-gcse-performance.md) — related
 - [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related
+- [A greater number of breaks in sedentary time is associated with higher academic performance in adolescents](more-sedentary-breaks-associated-higher-academic-performance.md) — related

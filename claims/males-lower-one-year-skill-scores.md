@@ -64,3 +64,4 @@ Random intercept linear mixed effects model (adjusting for within-facility depen
 - [After adjustment for age and years in the profession, female GPs scored significantly higher than male GPs on three of the 13 questions](female-gps-higher-copd-scores-three-questions.md) — related
 - [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — reports the opposite
 - [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — related
+- [Female sex is associated with higher academic scores in linear regression but not with poor performance in multivariable analysis](female-sex-mixed-academic-performance-association.md) — related

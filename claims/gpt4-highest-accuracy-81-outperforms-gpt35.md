@@ -90,3 +90,4 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [GPT-4 and Claude-2.1 outperform engineering faculty on a closed-book mechanics conceptual exam, while human faculty retain an edge in Continuum Mechanics](gpt4-claude-outperform-mechanics-faculty-except-continuum-mechanics.md) — related
 - [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — a narrower finding that bears on this claim
 - [Re-evaluated ChatGPT GPT-3.5 showed no marked improvement (38.8% vs 35.4%), while all models released after September 2024 met the examination's passing criteria](gpt35-stagnant-post-september-2024-models-pass.md) — related
+- [Six of seven LLMs exceeded the CNMLE passing threshold under zero-shot settings, with Chinese-corpus model Baichuan achieving the highest accuracy (86.67%)](llm-cnmle-zero-shot-accuracy-baichuan-highest.md) — related

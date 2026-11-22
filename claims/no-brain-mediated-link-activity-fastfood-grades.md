@@ -57,3 +57,5 @@ Null findings from the multiple mediation models (Sections 3.2.1-3.2.2) in the a
 - [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related
 - [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related
 - [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related
+- [Weekly fast food consumption during the exam period is negatively associated with medical students' grades](fast-food-negative-association-grades.md) — reports the opposite
+- [Moderate-to-vigorous physical activity shows no significant association with academic performance in this sample](physical-activity-no-association-academic-performance.md) — related

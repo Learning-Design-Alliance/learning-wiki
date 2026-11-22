@@ -52,3 +52,5 @@ CFA of single-factor models on data from 94 students, with reliability via Cronb
 - [A newly developed survey instrument measures three distinct, reliable forms of teacher collaboration on Instagram: information seeking, information sharing, and co-creating](three-forms-teacher-collaboration-instagram-instrument.md) — related
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
 - [QCCS v2.2 responses show sufficient unidimensionality to merit a single sum score, supported by both single-factor CFA and PCAR](qccs-unidimensionality-cfa-pcar.md) — related
+- [The HLQ shows good factorial validity with a 9-factor CFA model and good internal consistency across its 9 scales](hlq-cfa-fit-and-internal-consistency.md) — related
+- [The HLS19-Q12 shows good factorial validity across 17 countries, with CFI ≥ 0.97 and internal consistency above 0.8](hls19-q12-validated-17-countries.md) — related

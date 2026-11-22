@@ -54,3 +54,8 @@ Table 3 secondary exposure, Mathematics outcome, adjusted multilevel logistic re
 - [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
 - [Breakfast skipping shows the strongest bridging effect among all lifestyle factors linking conditions and academic performance](breakfast-skipping-strongest-bridge-node.md) — related
 - [Regular breakfast consumption is not significantly associated with GPA in the fully adjusted model](breakfast-gpa-null-association-palestinian-students.md) — reports the opposite
+- [Students who always skip breakfast have increased risk of low achievement on numeracy (RR = 1·78) and reading (RR = 1·63) after adjustment for confounding](always-breakfast-skippers-increased-risk-low-achievement.md) — related
+- [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [A gradient in low achievement prevalence exists across breakfast skipping categories for all NAPLAN tests](low-achievement-gradient-skipping-categories.md) — related
+- [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related
+- [Students who sometimes skip breakfast also have increased risk of low achievement on all five NAPLAN tests, though lower than always skippers](sometimes-skippers-increased-risk-all-five-tests.md) — related

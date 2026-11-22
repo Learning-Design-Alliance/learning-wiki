@@ -51,3 +51,5 @@ Cross-dataset comparison within the same prospective study revealed a reversed p
 - [ChatGPT-4o's subtopic-level accuracy on Chinese questions ranged from 90% (Nerve Disorders) down to 38% (Dentofacial Deformities)](chatgpt-4o-chinese-subtopic-accuracy-range.md) — related
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — related
+- [English-corpus models performed relatively better on Chinese policies-and-ethics questions than Chinese-corpus models did](english-models-ethics-policy-subgroup-advantage.md) — related
+- [Performance gaps between English- and Chinese-trained LLMs are attributed to training-data composition rather than language communication barriers](training-data-composition-not-language-barriers.md) — reports the opposite

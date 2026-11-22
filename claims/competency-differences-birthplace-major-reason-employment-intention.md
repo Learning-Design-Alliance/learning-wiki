@@ -54,3 +54,4 @@ t-tests and one-way ANOVA on the 312-student survey. The printed effect sizes ar
 - [No significant differences in competence scores by residence, professional background, or employment intention for most domains](null-residence-specialty-employment-competence.md) — reports the opposite
 - [Competence-area ratings did not differ significantly by gender, training level or place of practice](og-competence-no-demographic-differences.md) — related
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related

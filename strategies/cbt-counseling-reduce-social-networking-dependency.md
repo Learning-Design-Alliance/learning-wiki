@@ -46,6 +46,7 @@ The article recommends that universities support students at risk of social netw
 ## Related Strategies
 
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
+- [Joint psychological, behavioral and academic support interventions targeting social anxiety and social media addiction to improve academic engagement](joint-intervention-social-anxiety-sma-engagement.md)
 
 ## Examples
 -

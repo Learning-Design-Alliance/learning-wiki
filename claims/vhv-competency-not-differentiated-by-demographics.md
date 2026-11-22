@@ -63,3 +63,5 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 - [Baseline knowledge differed by age and education level, but pre-to-post change scores did not significantly differ between demographic subgroups in a single-group pre-post study of an e-learning course](baseline-demographic-differences-no-subgroup-effect-differences.md) — related
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
 - [High school participants' self-identified quantum computing level was comparable to that of participants with other education levels and occupations](high-school-quantum-level-comparable-other-education-levels.md) — a narrower finding that bears on this claim
+- [No other background variables show statistically significant associations with KM competence dimensions](other-background-variables-null-associations.md) — related
+- [Working shift shows no significant difference in hospital nurses' clinical competence or any of its dimensions](shift-null-clinical-competence.md) — related

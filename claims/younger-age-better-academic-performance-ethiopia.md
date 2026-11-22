@@ -57,3 +57,4 @@ Multivariate logistic regression among 399 public primary school children found 
 - [Attending a private school and being younger are independently associated with higher academic achievement](private-school-younger-age-higher-achievement.md) — related
 - [Children enrolled in private schools scored higher in reading and spelling than children in government schools in rural Bangladesh](private-school-advantage-reading-spelling-rural-bangladesh.md) — related
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](grade-repeaters-lower-performance-except-workshop.md) — related
+- [Older age is associated with better academic performance and lower odds of poor performance among adolescents](age-associated-academic-performance-adolescents.md) — reports the opposite

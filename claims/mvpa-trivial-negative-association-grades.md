@@ -76,3 +76,4 @@ Covariate-adjusted linear mixed models with random intercepts controlling for ba
 - [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related
 - [MVPA at 14.5y is not significantly associated with GCSE academic performance at 16y in British adolescents](mvpa-not-associated-gcse-performance.md) — related
 - [The negative association between vigorous-intensity physical activity and academic performance disappears after adjusting for school fixed effects](vigorous-activity-association-school-fixed-effects.md) — related
+- [Accelerometer-measured vigorous physical activity at age 13 shows no significant adjusted association with academic performance at age 16](vigorous-physical-activity-null-association-grades.md) — related

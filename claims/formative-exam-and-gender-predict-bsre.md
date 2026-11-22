@@ -51,3 +51,4 @@ Regression analysis of BSRE scores from 61 GP registrars in the quantitative pha
 - [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — related
 - [Lower pre-course knowledge score independently predicts greater Research Ethics knowledge gain](lower-baseline-predicts-ethics-gain.md) — related
 - [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — related
+- [Older age, male gender, greater clinical experience, and academic-hospital setting predict satisfactory GDM knowledge among neonatologists](predictors-neonatologist-gdm-knowledge.md) — related

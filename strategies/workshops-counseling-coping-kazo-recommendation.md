@@ -55,6 +55,7 @@ The article's recommendation section proposes concrete school-level actions base
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
 - [Implement educational programmes that enrich university class dynamics so students feel more motivated and can channel academic stress positively](enrich-class-dynamics-programmes-stress-motivation.md)
 - [Universities should evaluate psychological support, academic advising, time-management resources, mentoring and realistic information about medical training demands](evaluate-student-support-against-career-regret.md)
+- [Universities should provide psychopedagogical support and coordinate student mental-health follow-up with the public health network, and faculty should organize teaching tasks in a balanced way to prevent overload](institutional-psychopedagogical-support-post-pandemic-strategy.md)
 
 ## Examples
 -

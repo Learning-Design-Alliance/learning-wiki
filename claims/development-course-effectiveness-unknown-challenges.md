@@ -51,3 +51,4 @@ The training course challenges sub-theme came from content analysis of 33 interv
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Municipal care managers commonly lack palliative care education and report inadequate education resources for staff](manager-palliative-education-gaps.md) — related
+- [Managers' lowest competence scores fall on documentation and consultancy items, with only updating written guidelines differing significantly](lowest-manager-scores-documentation-consultancy.md) — related

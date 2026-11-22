@@ -42,7 +42,8 @@ The article derives design implications from the finding that gender differences
 - [IC-MD performance is fair regarding age and gender, but native German speakers and applicants with ≥ 6 months healthcare work experience score significantly higher](../claims/ic-md-fairness-language-work-experience.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Train interviewers and use more structured interviewing, particularly the MMI, to improve interviewer reliability](train-interviewers-structured-interviewing-mmi-reliability.md)
 
 ## Examples
 -

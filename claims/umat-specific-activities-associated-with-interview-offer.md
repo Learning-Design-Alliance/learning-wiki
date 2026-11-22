@@ -49,3 +49,4 @@ Logistic regression on UMAT-stage responses (n = 1097) in the 2007 Adelaide appl
 - [Each additional preparatory activity undertaken for the UMAT increases the odds of being offered an interview](additional-umat-prep-activity-increases-interview-odds.md) — a broader claim this one bears on
 - [Refining and learning a personal resume and learning the course structure are associated with being offered a place after the oral assessment](oral-assessment-resume-and-course-structure-activities-associated-with-place.md) — related
 - [Difficulties with learning for the UMAT, its timing relative to school exams, and conveying personal skills reduce the odds of an interview offer](umat-difficulties-reduce-interview-odds.md) — related
+- [Students were more likely to receive interviews under the integrative process, but this may reflect a concurrent increase in interview slots](integrative-more-interviews-confounded.md) — related
