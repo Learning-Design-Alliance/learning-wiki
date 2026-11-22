@@ -60,3 +60,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
 - [Students can coordinate correct causal elements yet draw flawed inferences, as in speed/distance compensation arguments the qualitative logic table shows cannot yield a conclusion](flawed-compensation-inference-qualitative-logic.md) — related
 - [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — reports the opposite
+- [Students frequently use multiple mental models inconsistently across expert-equivalent questions](mixed-model-states-student-reasoning.md) — a narrower finding that bears on this claim

@@ -102,6 +102,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Use the elicit-confront-resolve strategy to structure tutorial questions that help students refine documented misconceptions](../strategies/ecr-strategy-tutorial-question-sequencing.md)
 - [Use AI-generated responses on visual and spatial reasoning questions as worked examples of common misconceptions](../strategies/ai-errors-as-misconception-worked-examples.md)
 - [Use per-student misconception scores from research-designed multiple-choice instruments for class-level formative assessment and intervention design](../strategies/misconception-scores-class-formative-assessment-strategy.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](../strategies/peer-instruction-concept-questions.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

@@ -54,3 +54,6 @@ The author's survey-style assessment of introductory physics instruction, stated
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — a broader claim this one bears on
 - [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — a broader claim this one bears on
 - [The historical approach to teaching QM at high school stops before the mature framework of QM, omitting its postulates and key consequences](historical-approach-omits-qm-postulates.md) — related
+- [Omitting 20th-century physics from the curriculum reduces the need for teachers to think creatively about innovative pedagogy](curriculum-omission-limits-pedagogical-imagination.md) — related
+- [The habits of successful mathematics and physics students are rarely taught to freshmen, who would benefit most](habits-rarely-taught-to-freshmen.md) — related
+- [The UK National Curriculum in Science 5-16 contains no reference to relativity, quantum mechanics, statistical processes or chaos theory](uk-national-curriculum-omits-modern-physics.md) — related

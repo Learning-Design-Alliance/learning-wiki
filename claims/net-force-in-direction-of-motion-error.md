@@ -53,3 +53,4 @@ Coded transcript statements from the elevator problem in the think-aloud study; 
 - [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — a broader claim this one bears on
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — a broader claim this one bears on
+- [Students confuse velocity with acceleration, believing zero velocity implies zero net force](zero-velocity-zero-force-misconception.md) — a narrower finding that bears on this claim

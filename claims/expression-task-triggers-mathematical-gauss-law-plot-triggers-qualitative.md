@@ -73,3 +73,4 @@ In the same interview study, ‘when asked to plot the electric field, the same 
 - [Difficulty 1 (global plotting assuming continuity) is far more common than difficulty 2 (plotting expected qualitative behavior)](global-plotting-more-common-than-qualitative-plotting.md) — related
 - [Students trusted mathematically derived expressions when writing them down but plotted the qualitatively expected behavior](trust-math-expression-plot-qualitative-behavior.md) — related
 - [Composer used alongside mathematical expressions helped students reason about the imaginary part of wavefunctions](composer-and-math-support-imaginary-part-reasoning.md) — related
+- [Only some interviewed students could be characterised as having formed a physics knowledge object; for the majority this was far from true](majority-students-no-physics-knowledge-object.md) — related

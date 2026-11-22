@@ -48,3 +48,4 @@ Comparison of the two experimental protocols: 148 students in the IG protocol (i
 - [Students who worked individually after peer discussion spent roughly one third of the time spent on group work, while students who discussed after individual work used the entire allotted time.](time-on-task-after-peer-discussion.md) — related
 - [Individual normalized gains did not differ significantly depending on whether a student was paired with a high- or low-scoring partner.](pairing-ability-level-no-significant-gain-difference.md) — related
 - [A large fraction of group responses was retained: about 80% of individual responses two weeks later matched the pair's group responses.](peer-group-responses-retained-two-weeks.md) — related
+- [Group work on the CSEM yields a large normalized gain (0.39) that is not a test-retest practice effect](group-csem-normalized-gain-0-39-not-practice-effect.md) — related

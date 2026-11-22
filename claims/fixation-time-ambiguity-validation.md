@@ -48,3 +48,4 @@ The author's theoretical argument, grounded in the eye-mind hypothesis (Just and
 ## Related Claims
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — a broader claim this one bears on
 - [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related
+- [Statistical under-representation of women is neither good nor bad per se and cannot by itself justify increasing enrollment](statistical-underrepresentation-not-good-or-bad.md) — a narrower finding that bears on this claim

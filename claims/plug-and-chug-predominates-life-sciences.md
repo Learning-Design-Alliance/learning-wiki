@@ -53,3 +53,4 @@ Authors' interpretation of statement-level CLASS data (Table III): 80% of LS stu
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
 - [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related
 - [A higher percentage of life-sciences than physical-sciences first-year students adopt novice-type problem-solving behaviour such as plug-and-chug on the CLASS test](class-life-sciences-novice-problem-solving.md) — a broader claim this one bears on
+- [Video study of student groups identified six commonly used epistemic games in algebra-based physics problem solving](six-epistemic-games-identified-in-video-study.md) — related

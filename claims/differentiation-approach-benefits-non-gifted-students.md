@@ -55,3 +55,4 @@ A quasi-experimental comparison with non-gifted 6th graders in a public school (
 - [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](differentiated-math-program-increases-gifted-attitude.md) — related
 - [Post-test mathematics attitude scores did not differ significantly between the differentiated-instruction and control groups](gifted-attitude-posttest-no-between-group-difference.md) — related
 - [Traditional (regular-curriculum) instruction did not significantly change gifted students' mathematics attitudes, with descriptive scores decreasing](regular-curriculum-no-attitude-gain-gifted.md) — related
+- [Deferring formal arithmetic to grade 6: experimental students caught up to regularly taught students in algorithmic ability within 4 months](benezet-deferred-arithmetic-4-month-catchup.md) — related

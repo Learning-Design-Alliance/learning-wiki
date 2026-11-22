@@ -17,7 +17,7 @@ sources:
 # The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report proposes that teachers, even enthusiastic ones, typically pass through five distinct stages before becoming education technology integrators and innovators: Entry (students, not the teacher, use technology), Adoption (teachers use technology to support traditional instruction), Adaptation (technology enriches the curriculum through automating familiar practices), Appropriation (technology is integrated and used for its unique capabilities), and Invention (teachers discover new uses and redefine classroom environments). The report states "The following list describes five stages of teacher technology adoption" and that the list "underscores the idea that understanding and using technology well takes time." It is used to argue that professional development must be tailored to teachers' current stage.
@@ -39,6 +39,7 @@ The report proposes that teachers, even enthusiastic ones, typically pass throug
 ### Claims
 
 - [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](../claims/early-concerns-maintained-alongside-later-concerns.md) [~W]
+- [Most self-reported instructional changes by physics faculty fall on the reinvention/invention side of the adoption-invention continuum rather than the adoption side](../claims/faculty-changes-reinvention-invention-dominant.md) [+W] — attached 2026-11-22 from Henderson et al. (2003), which proposed "Adoption-Invention Continuum for characterizing instructional change processes".
 
 ## Related Theories
 

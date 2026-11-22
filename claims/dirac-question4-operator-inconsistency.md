@@ -56,3 +56,4 @@ Performance on question 4 probing understanding of operators, particularly in th
 - [Graduate students recall Ehrenfest's theorem as a memorized fact but many do not understand how it is derived mathematically](ehrenfest-theorem-recalled-by-rote-not-understood.md) — related
 - [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related
 - [Only 45% of upper-level undergraduate students selected the correct answer on a multiple-choice question about the identity operator and expectation value expression in Dirac notation](only-45-percent-correct-q1-expectation-value.md) — related
+- [Students frequently use multiple mental models inconsistently across expert-equivalent questions](mixed-model-states-student-reasoning.md) — a broader claim this one bears on

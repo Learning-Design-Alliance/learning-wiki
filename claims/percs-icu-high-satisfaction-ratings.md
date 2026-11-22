@@ -64,3 +64,4 @@ Post-course evaluation questions on 5-point Likert scales administered to the 69
 - [Midwives rated the compact training highly, with 81% rating it excellent and all stating they would recommend it](high-satisfaction-compact-training.md) — related
 - [Students rated the AMSC highly valuable at course end and reported it prepared them for their internships](amsc-student-evaluation-ratings.md) — related
 - [More than 91% of surveyed participants appreciated the online physics courses and would recommend them to a peer](kahoot-courses-91-percent-satisfaction-recommendation.md) — related
+- [Teaching and Learning Physics students rated the course extremely useful and unanimously recommended it](tlp-course-evaluations-favorable.md) — related

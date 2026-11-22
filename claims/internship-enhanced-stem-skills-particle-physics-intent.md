@@ -59,3 +59,4 @@ Assessment-section feedback from the 2023 intern cohort, summarized in Figure 8 
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
 - [Astronomy/Astrophysics programs are highly heterogeneous in student research engagement and graduate-school plans](heterogeneous-student-goals-astro-majors.md) — related
 - [Early career ACPSEM ROMP members report wanting more involvement in supervision, academic work and research, a trend not evident for experienced members](early-career-romp-desire-supervision-academic-research.md) — related
+- [PFP participants report career interests in academic teaching at more than twice the rate of US physics graduate students overall](pfp-participants-teaching-career-interest.md) — related

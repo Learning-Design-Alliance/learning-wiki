@@ -77,3 +77,4 @@ Episode A from the interview: Judy solved a conceptual waveform question via inf
 - [A student's epistemological stance can shift subtly in the moment toward expecting mathematical formalism to mesh with everyday experience, triggered by a conceptual cue](epistemological-stance-shifts-with-conceptual-cue.md) — related
 - [A student who guessed on an exam problem she could solve used free-body diagrams successfully once prompted, then earned straight A's — her error was epistemological framing, not missing knowledge](case-student-reframing-straight-as.md) — related
 - [The group's epistemic stance toward math was constructed in the moment, not a stable robust belief](group-epistemic-stance-context-dependent.md) — related
+- [When a student shifts to treating knowledge as constructed, her interview explanations reveal her conceptual reasoning about charge flow in detail](constructed-knowledge-reveals-reasoning.md) — related

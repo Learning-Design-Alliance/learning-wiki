@@ -80,3 +80,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [CLCI posttest and follow-up scores correlate more strongly with students' physics grades (r = –.42) than pretest scores (r = –.24)](clci-grades-correlation-criterion-validity.md) — related
 - [ChatGPT's average TUG-K score (10.85, 41.7%) is similar to high-school physics students' average (12.25, 47%)](chatgpt-tug-k-average-similar-to-high-school-students.md) — related
 - [Incorrect vision is a stronger predictor of incorrect TUG-K answers than incorrect reasoning in a logistic regression](incorrect-vision-predicts-incorrect-answers.md) — related
+- [Hidden-variable correlations with normalized gain are small relative to the effect of interactive engagement](hidden-variables-small-versus-ie-effect.md) — related

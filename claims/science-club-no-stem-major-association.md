@@ -56,3 +56,4 @@ Logistic and propensity-matched models in Table 7 for science club: odds ratios 
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
 - [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related
 - [Pathways participants developed intentional action steps toward QIS goals, including coursework plans, university selection, and clubs](pathways-intentional-action-steps.md) — related
+- [School-college science enrichment programs such as Science-Magnet and Science-Olympiad are estimated to raise the ratio of science majors by 10-20%](science-enrichment-programs-10-20-percent-science-majors.md) — related

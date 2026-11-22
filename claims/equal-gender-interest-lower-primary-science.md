@@ -55,3 +55,4 @@ The program included stories about male and female scientists; the authors disco
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related
 - [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](stereotype-label-causes-lower-girls-interest-novel-activity.md) — related
+- [Outreach that shows girls they can succeed in science cannot erase past social influences; it overwrites them with a new influence favoring scientific fields](outreach-overwrites-rather-than-erases-biases.md) — related

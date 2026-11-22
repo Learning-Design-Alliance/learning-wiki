@@ -49,3 +49,4 @@ This is the authors' observation stated in the conclusion, offered as evidence t
 - [A total of 568 students have participated in the astrophysics Masterclasses since 2008, with rising applications](568-students-astrophysics-masterclasses.md) — related
 - [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
 - [Planned professions stated right after a Masterclass largely match respondents' actual later careers](imc-planned-vs-actual-career-diagonal.md) — related
+- [The authors recommend teaching astrophysics as a discrete unit in the middle of a physics course, after groundwork in classical physics such as forces](astrophysics-taught-mid-course-springboard.md) — related

@@ -71,3 +71,4 @@ Students were given an isomorphic purely mathematical system of two equations wi
 - [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
 - [The presence of even a single symbolic variable presents a significant obstacle to engineering students' algebraic reasoning, and symbolizing of proportional verbal statements shows no improvement after one semester of mechanics](single-variable-symbolizing-obstacle-introductory-physics.md) — a broader claim this one bears on
 - [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — related
+- [Preliminary informal evidence indicates students keep up more, spend more time on problem-solving, and shift toward symbol-based methods](preliminary-evidence-quiz-systems-helpful-informal.md) — related

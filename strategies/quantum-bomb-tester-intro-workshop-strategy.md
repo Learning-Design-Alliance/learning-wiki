@@ -47,6 +47,7 @@ The article outlines an eight-step workshop agenda: set the stage with the bomb-
 
 - [Teacher in-service seminars built around the four reasoning tools, sequenced by participant requests](milq-teacher-seminar-sequence-trieste.md)
 - [Run multi-audience student workshops on the desktop QKD system covering physics, electronics, programming and algorithms](qkd-workshop-multi-audience-training.md)
+- [Use interpretations allied to a virtual experiment to enrich quantum mechanics teaching](interpretations-with-virtual-interferometer-strategy.md)
 
 ## Examples
 -

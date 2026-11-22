@@ -50,6 +50,7 @@ The article recommends that simulation teaching be supported by "providing prepa
 - [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
 - [Staged pre-briefing preparation before a simulation scenario (written material, online class, laboratory practice)](staged-pre-briefing-preparation-sequence.md)
 - [Embed a relativity simulation in laboratory sessions with pre-work, collaborative exploration and assessed visual log books](rtr-laboratory-implementation-strategy.md)
+- [Require pre-laboratory play with the simulation and provide more open-ended exploration time](rtr-prelab-play-and-open-exploration.md)
 
 ## Examples
 -

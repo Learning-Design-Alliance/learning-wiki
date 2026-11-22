@@ -48,3 +48,4 @@ Descriptive enrollment counts reported in the Discussion; the authors attribute 
 ## Related Claims
 - [Third-year medical students who took the VR-based IAVSE course achieved higher human anatomy theory scores than students in the traditional laboratory course](iavse-higher-anatomy-theory-scores.md) — related
 - [Adding a quantum computing course-chapter increased elective course enrollment by 24% between the first and second editions](quantum-chapter-enrollment-increase-24-percent.md) — related
+- [PH1140 enrollment increased from 39 to 67 (nearly 70%) during the bridging years, attributed primarily to word of mouth and recruiting](ph1140-enrollment-increase-during-bridging.md) — related

@@ -51,3 +51,4 @@ Leave-one-subject-out cross-validation testing of six regression tree models on 
 - [Most trainees who repeated the pediatric suturing task improved: 71.0% improved their summed score, 16.1% decreased, and first and second trial scores correlated R = 0.89](second-trial-improvement-pediatric-suturing.md) — related
 - [Subjective gentleness ratings correlate negatively with objectively measured force on tissue during robotic suturing](gentleness-negatively-correlated-with-force.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
+- [Spring force on the robot fingers follows Hooke's law, letting students change grip force by joystick pressure](hooke-law-spring-finger-force.md) — related

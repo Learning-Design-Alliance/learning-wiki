@@ -48,6 +48,7 @@ The article's short-term priority response to assessment feedback is to 'establi
 - [Design lab courses so notebooks are an essential, authentic part of lab activities via multi-week projects and peer-reliant collaboration](authentic-notebook-use-multi-week-collaborative-labs.md)
 - [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
 - [Use detailed rubrics and additional TA guidance to increase feedback on student lab notebooks](rubric-guided-ta-notebook-feedback-strategy.md)
+- [Use a workshop with published, refereed proceedings as the exam form for an advanced research course](workshop-proceedings-as-exam.md)
 
 ## Examples
 -

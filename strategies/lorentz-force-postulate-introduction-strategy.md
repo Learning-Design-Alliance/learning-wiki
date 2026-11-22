@@ -42,6 +42,7 @@ The article describes the usual introductory treatment: "in an introductory cour
 - [Teach the integral form of Maxwell's equations as describing field correlations before introducing the differential form](integral-form-as-field-correlations-first.md)
 - [Present Maxwell's equations as enunciative sentences instead of mathematical expressions](maxwell-equations-sentence-form-strategy.md)
 - [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
+- [Teach electrodynamics with Maxwell's equations written in a unit-system-independent notation using three constants](unit-system-independent-maxwell-notation-strategy.md)
 
 ## Examples
 -

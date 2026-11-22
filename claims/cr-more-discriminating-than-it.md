@@ -50,3 +50,4 @@ Psychometric analysis of eight concept-equivalent CR/IT pairs across midterm and
 - [Partial credit in integrated testlets is granted in a discriminating manner, with top-half students converting more available partial credit than bottom-half students](it-partial-credit-discriminating.md) — related
 - [Integrated testlet and constructed-response scores correlate more closely with each other than ITs correlate among themselves, suggesting the formats measure the same construct](it-cr-measure-same-construct.md) — related
 - [Students obtain higher scores on integrated testlets than on concept-equivalent constructed-response questions, a difference largely attributable to guessing baseline](it-scores-higher-than-cr-equivalents.md) — related
+- [Students with stronger pre-test performance made larger gains in the course than weaker students](tlp-prior-knowledge-gain-gradient.md) — related

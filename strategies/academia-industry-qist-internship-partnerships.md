@@ -51,6 +51,7 @@ Beyond in-house research experiences and capstone courses, the article recommend
 - [Prioritize authentic engagement with experts and career exploration to develop informed career goals](authentic-expert-engagement-career-exploration-strategy.md)
 - [Increase experimental skill development opportunities within existing instructional lab courses to prepare students for quantum industry positions](increase-experimental-training-instructional-labs-strategy.md)
 - [Support quantum career preparation by connecting coursework to experiential learning opportunities and professional networks](experiential-learning-quantum-career-preparation-strategy.md)
+- [Summer research internships at a nearby research institution as the substitute for in-house intermediate and advanced laboratory courses](mville-columbia-summer-research-internship.md)
 
 ## Examples
 -

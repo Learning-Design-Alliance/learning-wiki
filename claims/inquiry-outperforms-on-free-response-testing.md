@@ -68,3 +68,4 @@ Results for the electrostatics problem (Figures 1 and 2) by class, lab style and
 - [Calculus-based classes with traditional labs and traditional lecture had the lowest, practically zero, post-test and gain scores on the electrostatics problem](traditional-labs-lecture-lowest-free-response-scores.md) — related
 - [No class performed well on the graph-interpretation and data-analysis problem; this was the one problem where inquiry-based students did not do as well](graph-interpretation-weak-across-all-classes.md) — reports the opposite
 - [On the algebra-based MBT, in-class RT/PERL scores significantly exceeded RT/TL scores (p < 0.003) and INQ scores (p < 0.002), while online scores ran 10-15 percentage points lower](mbt-algebra-based-rt-perl-significantly-higher.md) — related
+- [Students using Physics by Inquiry outperformed calculus-based and algebra-based students on DIRECT 1.1](direct-physics-by-inquiry-outperformed.md) — related

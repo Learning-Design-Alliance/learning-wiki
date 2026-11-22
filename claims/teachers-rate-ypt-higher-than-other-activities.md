@@ -73,3 +73,4 @@ The authors' stated caveat on the teacher survey: the sample comprised only YPT-
 - [YPT-related activities show the most holistic impact on hard skills, with the highest cross-skill correlations of perceived usefulness](ypt-holistic-impact-correlations.md) — related
 - [Teachers perceive that YPT develops students' high-level hard skills considerably more than regular physics classes or other physics competitions](ypt-teachers-high-level-hard-skills.md) — related
 - [Teachers rate YPT's advantage over other competitions as largest for critical assessment of others' results, presentation, debating, English and teamwork](ypt-teachers-unique-skill-advantages.md) — related
+- [Developing and performing a physics show gives undergraduates an early opportunity to apply their knowledge and develop public presentation skills](physics-show-student-skills-development.md) — related

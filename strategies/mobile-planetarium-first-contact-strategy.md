@@ -50,6 +50,7 @@ The strategy brings a mobile inflatable planetarium, which the article says allo
 - [Replace low-relevance take-home artifacts with telescope viewing in astronomy museum programs](replace-low-relevance-activity-telescope-viewing-strategy.md)
 - [Run a school-group contest with a real telescope as the award](school-contest-telescope-award.md)
 - [Run a low-cost school lunar research project combining telescope field work with open-source data analysis](low-cost-school-lunar-research-project-strategy.md)
+- [Scientists should get involved in school visits through astronomy-based programs](scientists-join-astronomy-school-visit-programs.md)
 
 ## Examples
 -

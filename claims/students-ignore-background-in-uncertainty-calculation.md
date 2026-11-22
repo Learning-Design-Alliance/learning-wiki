@@ -54,3 +54,4 @@ Interview-based observation of students in the TEI Piraeus physics laboratory wh
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](weak-source-measurements-motivate-statistics.md) — related
 - [Vocational students showed uneven mastery after the lab path: most used units correctly but very few handled calorimetry or error propagation](vocational-lab-uneven-measurement-skill-outcomes.md) — related
 - [Prior secondary school type (General vs Vocational Lyceum) showed almost no significant difference in radiation knowledge](lyceum-type-no-significant-knowledge-difference.md) — related
+- [General education students who fear calculations readily accept and learn to emulate the Fermi calculation approach, gaining confidence and reporting they retain more.](gen-ed-students-embrace-fermi-calculations.md) — related

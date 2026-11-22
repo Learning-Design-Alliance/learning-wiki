@@ -51,3 +51,4 @@ Two-year study in which 43 first-year physics TAs completed the 30-item MCS indi
 - [Graduate students' CSEM performance rose from individual to group administration after unguided peer interaction, in one uncontrolled pre-post study](unguided-peer-interaction-improves-graduate-csem-scores.md) — related
 - [Knowledge construction occurred in 93% of eligible cases and co-construction in 72% of eligible cases across MCS questions during unguided peer collaboration](construction-co-construction-rates-ta-mcs.md) — related
 - [Physics graduate students benchmark an average MCS score of 83% with KR-20 of 0.87](mcs-graduate-student-benchmark.md) — related
+- [Students in the Teaching and Learning Physics course showed significant average gains on a conceptual electricity and magnetism survey](tlp-course-conceptual-gains-em.md) — related

@@ -49,3 +49,4 @@ Paired t-tests within the control group (df = 16) comparing draft and revision s
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](drafts-improved-significantly-raters-scores.md) — related
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
+- [Students did not show evidence of self-revising when asked to write short first drafts without a forced paired revision assignment](no-self-revision-without-forced-paired-assignment.md) — reports the opposite

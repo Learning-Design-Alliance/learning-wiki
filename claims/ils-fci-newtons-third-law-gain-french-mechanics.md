@@ -72,3 +72,4 @@ T-test on entire-FCI normalized gain for interactive (N=60, <g>=0.119) versus no
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
 - [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — reports the opposite
+- [Students taught with modeling, discourse management, and system schema scored significantly better on the FCI Newton's Third Law questions than students taught with Workshop Physics](system-schema-fci-third-law-posttest-gain.md) — related

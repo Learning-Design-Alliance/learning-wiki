@@ -47,3 +47,4 @@ Authors' interpretation in the Discussion section, citing Metcalfe (2008) for th
 ## Related Claims
 - [Computational skills and critical thinking are among the most transferable job skills an astronomy education provides](computational-skills-transferable-job-skills-astronomy.md) — related
 - [Tracer study finds RTU astronomy graduates employed within six months, with research and computational skills most valued and oral communication flagged for improvement](rtu-astronomy-tracer-study-employment-skills.md) — related
+- [Astronomy master's training develops transferable skills that industry and finance employers value beyond disciplinary specialisation](astronomy-degree-transferable-skills.md) — related

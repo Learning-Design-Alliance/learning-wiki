@@ -47,3 +47,4 @@ Authors' reasoned argument in the ecosystem-disruption section: since generating
 ## Related Claims
 - [Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations](aei-majority-occupations-zero-ai-usage.md) — related
 - [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — related
+- [Just-in-time education experiences are proposed to instill change-coping, socioethical forecasting and assessment abilities in leaders and citizens](jite-instills-leader-citizen-abilities.md) — related

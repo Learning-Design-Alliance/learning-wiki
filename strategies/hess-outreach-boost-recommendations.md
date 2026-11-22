@@ -47,6 +47,7 @@ At the April 2021 H.E.S.S. collaboration meeting, outreach discussions identifie
 
 - [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 - [Immersing awarded students in a year-long scholarship program with monthly meetings, observatory visits and community outreach](maes-icj-scholarship-immersion-strategy.md)
+- [Scientists should get involved in school visits through astronomy-based programs](scientists-join-astronomy-school-visit-programs.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ In the whole-class discussion following the simultaneity tutorial, "students not
 - [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — a broader claim this one bears on
 - [Students explicitly referenced the \"light speed is the same\" agreement item when articulating wavefront ordering in the tape player scenario](tape-player-light-speed-item-referencing.md) — related
+- [When confronted with the tape-player version of the train paradox, most students erroneously conclude that events occurring in one reference frame need not occur in all frames](students-claim-events-frame-dependent-tape-player.md) — related

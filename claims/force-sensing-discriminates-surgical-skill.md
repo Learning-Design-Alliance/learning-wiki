@@ -78,3 +78,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Task completion time was not selected by the best model, suggesting completion time is not necessarily predictive when evaluating surgeons on a finer scale than novice-versus-expert](completion-time-not-predictive-finer-scale.md) — related
 - [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](novise-no-force-or-accuracy-differences.md) — reports the opposite
 - [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related
+- [Spring force on the robot fingers follows Hooke's law, letting students change grip force by joystick pressure](hooke-law-spring-finger-force.md) — related

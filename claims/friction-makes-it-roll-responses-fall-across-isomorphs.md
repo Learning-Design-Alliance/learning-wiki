@@ -50,3 +50,4 @@ Cross-problem comparison of categorized written responses in two calculus-based 
 - [Most physics professors solving the wheel problem focused on only one of the two essential variables, resembling student Category 2 and 3 responses](experts-also-focus-on-one-variable-nonintuitive-problem.md) — related
 - [In a rolling pool-ball problem, 76% of students claimed higher friction lowers final speed, versus 43% on the isomorphic spinning-wheel problem](rolling-context-doubles-friction-opposes-speed-response.md) — related
 - [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
+- [Aristotelian beliefs such as heavier-objects-fall-faster persist but surface only in novel situations](aristotelian-beliefs-novel-contexts.md) — related

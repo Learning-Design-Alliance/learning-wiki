@@ -78,3 +78,5 @@ The review reports, citing De Hosson, Kermen & Parizot (2010), "a deep lack of u
 - [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
 - [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related
 - [Whole-class discussion traced students' simultaneity difficulty to a tacit agreement assumption, leading to official revision that time and position of an event depend on reference frame](simultaneity-agreement-revision.md) — related
+- [A preliminary survey of 164 first-time learners found fewer than a fifth gave the fully correct frame-dependent response after reading popular passages using relativistic mass](oas-164-student-misconception-survey.md) — related
+- [Students made successful quantitative measurements of the Doppler effect and length contraction as a function of speed in the simulation laboratory](rtr-quantitative-measurements-made.md) — related

@@ -68,3 +68,4 @@ Example from Exam 4 of the Figure 4 correlation table (fourth exam in the fall o
 - [Combining the individual, average, and group criteria, significant correlations between studying with helpful methods and exam grades appear on all but 6 of the 21 exams](combined-helpfulness-correlations-all-but-six-exams.md) — related
 - [Students who spend more time on study methods they personally rate as helpful earn higher exam grades (13 of 21 exams show significant correlations)](individual-helpfulness-exam-grade-correlation.md) — related
 - [Students spend most physics exam study time on class slides (problems), old exams, and class slides (conceptual), and least on rereading the textbook](physics-exam-study-time-distribution.md) — related
+- [Preliminary informal evidence indicates students keep up more, spend more time on problem-solving, and shift toward symbol-based methods](preliminary-evidence-quiz-systems-helpful-informal.md) — related

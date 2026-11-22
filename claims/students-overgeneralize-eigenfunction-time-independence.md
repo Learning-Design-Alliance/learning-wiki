@@ -72,3 +72,4 @@ Written surveys and interviews found students conflate eigenfunctions of differe
 - [Students hold a competing misconception that the wave function returns to its original state if one waits long enough after measurement](students-believe-wavefunction-returns-to-original-state.md) — related
 - [Students hold alternative conceptions about wave function collapse, believing it stays stuck or must return to the original wave function](wave-function-collapse-alternative-conceptions.md) — related
 - [Maps based on relations between observables make explicit the eigenstate and commutation knowledge that textbooks underemphasize and students struggle to acquire](observable-relation-maps-eigenstate-difficulties.md) — a broader claim this one bears on
+- [Students use the deciding resource from personal relationships to interpret quantum collapse, as reported by Rosenberg](deciding-resource-personal-relations-quantum.md) — related

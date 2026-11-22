@@ -49,3 +49,4 @@ Paired t-tests on portal log data from 864 teachers compared usage at T1 and T2.
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related
 - [Field usability testing during development surfaced and corrected coding, navigation, image-upload and display problems](writesim-field-usability-iterations-fixed-software-problems.md) — related
 - [The games and sketches increased online visibility, with growing downloads, views and webpage visits during 2011](gw-games-growing-online-engagement-2011.md) — related
+- [In the QuarkNet/Grid e-Lab case study, high school students gather and upload cosmic ray data, analyze it with grid techniques, and share results as online posters](quarknet-elab-authentic-research.md) — related

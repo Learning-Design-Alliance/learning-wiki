@@ -52,6 +52,7 @@ The article proposes that retrieval practice in physics instruction be aimed at 
 
 - [Use didactic challenge questions that demand explanation rather than regurgitation of theory or equations](didactic-challenge-explanation-questions.md)
 - [Flashcard Drill](flashcard-drill.md)
+- [Design problems via a model-based paradigm that induces qualitative, comparative reasoning instead of equation manipulation](model-based-problem-design-paradigm.md)
 
 ## Examples
 -

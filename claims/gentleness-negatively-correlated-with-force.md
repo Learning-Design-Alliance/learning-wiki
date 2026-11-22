@@ -53,3 +53,4 @@ Validation analysis comparing the OSATS grading aspect 'gentleness' (tissue hand
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
 - [A regression model using all four sensor streams (time, tip motion, visibility, grip) best predicted summed OSATS scores of unseen trials, within 4 points 89% of the time with correlation 0.85](tmvg-model-best-unseen-trial-osats-prediction.md) — related
+- [Spring force on the robot fingers follows Hooke's law, letting students change grip force by joystick pressure](hooke-law-spring-finger-force.md) — related

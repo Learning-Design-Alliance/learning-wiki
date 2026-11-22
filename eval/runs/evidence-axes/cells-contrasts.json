@@ -132310,5 +132310,449 @@
  "mastery-learning\tRedesigned Tutor with adaptive problem selection and Mastered Step Skipping\tOriginal Tutor": {
   "label": "mastery-based progression vs conventional progression",
   "treatment_is_a": true
+ },
+ "?\tENGsp05 interview students\tinterview students from PHYSsp05 and ENGfa04": {
+  "label": "one course offering vs multiple course offerings",
+  "treatment_is_a": true
+ },
+ "active-learning\tA students' group-test performance in an A-C pair\tA students' initial individual test": {
+  "label": "group testing vs individual testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tC students working in an A-C pair on the group test\tC students' initial individual test": {
+  "label": "group testing vs individual testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tC students' group-test performance in an A-C pair\tC students' individual performance two weeks later": {
+  "label": "group testing vs individual testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tCCS-based course\ttraditional course": {
+  "label": "CCS-based instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCCS-based instruction\ttraditional lecture format": {
+  "label": "CCS-based instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCCS-based pedagogy\ttraditional lecture": {
+  "label": "CCS-based instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tIQP course with lab-tutorials\tIQP pretest": {
+  "label": "lab-tutorial instruction vs pre-instruction testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tIQP course with lab-tutorials\tother classes studied with MPEX2": {
+  "label": "lab-tutorial instruction vs other instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive Engagement methods\tTraditional instruction": {
+  "label": "interactive-engagement instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive Engagement methods\tTraditional passive instruction": {
+  "label": "interactive-engagement instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-based reformed engineering course emphasizing real-world applications, reasoning development, and conceptual understanding\ttraditional modern physics courses": {
+  "label": "PER-based reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-based reformed engineering course with peer instruction, collaborative homework, interactive simulations, conceptual understanding, and applications\ttraditional modern physics courses": {
+  "label": "PER-based reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-reformed engineering modern physics course\ttraditional engineering modern physics course": {
+  "label": "PER-based reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-reformed engineering modern physics course\ttraditional modern physics courses": {
+  "label": "PER-based reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-reformed engineering modern physics course\ttraditional physics-majors modern physics course": {
+  "label": "PER-based reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP hands-on and group environment\ttraditional lecture-based class": {
+  "label": "SCALE-UP instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tUniversity of Washington-style Tutorial\ttraditional problem-solving session": {
+  "label": "tutorial instruction vs traditional problem-solving session",
+  "treatment_is_a": true
+ },
+ "active-learning\tUniversity of Washington-style Tutorial discussion section\ttraditional problem-solving discussion section": {
+  "label": "tutorial instruction vs traditional problem-solving session",
+  "treatment_is_a": true
+ },
+ "active-learning\tactively predicting the demonstration outcome\tpassively observing a demonstration": {
+  "label": "active prediction vs passive observation",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based instruction\tlecture/demonstration based instruction": {
+  "label": "activity-based instruction vs lecture/demonstration-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based instruction\tlecture/demonstration-based instruction": {
+  "label": "activity-based instruction vs lecture/demonstration-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tafter laboratory-tutorial instruction\tbefore laboratory-tutorial instruction": {
+  "label": "post-lab-tutorial instruction vs pre-lab-tutorial instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tall CGPS groups\ttraditional cookbook-lab control": {
+  "label": "cooperative group problem solving vs traditional cookbook laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\tall cooperative group problem-solving (CGPS) groups\ttraditional cookbook-lab control": {
+  "label": "cooperative group problem solving vs traditional cookbook laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\tclassroom discussion with classmates\tindividual interview without classmates": {
+  "label": "classroom discussion with peers vs individual interview",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-teaching in a PER-based course structure\tMF's pre-co-teaching instructional experience": {
+  "label": "co-teaching vs pre-co-teaching instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative, sequenced relativity tutorials\ttraditional lecture and textbook instruction": {
+  "label": "collaborative sequenced tutorials vs traditional lecture/textbook instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcommitting to and externalizing an answer\trhetorical questions and pausing for thought": {
+  "label": "answer commitment and externalization vs rhetorical questioning and pausing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative group problem solving (CGPS) sections\ttraditional cookbook-lab control section": {
+  "label": "cooperative group problem solving vs traditional cookbook laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\textended class discussion of a nearly identical question\tno reported extended discussion": {
+  "label": "extended class discussion vs no extended discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tfiber-optics demonstrations before lectures\tconventional lecture without demonstrations": {
+  "label": "pre-lecture demonstrations vs no demonstrations",
+  "treatment_is_a": true
+ },
+ "active-learning\tfiber-optics demonstrations before lectures\tlecture without demonstrations": {
+  "label": "pre-lecture demonstrations vs no demonstrations",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup testing in the GI treatment\tindividual testing in the IG treatment": {
+  "label": "group testing vs individual testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work\tnot stated": {
+  "label": "group work vs no specified group work",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work after individual work (IG)\tindividual work before group work": {
+  "label": "individual work followed by group work vs individual work preceding group work",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work and computer use in a standard physics Studio Course\tpredominantly traditional activities adapted to the studio environment": {
+  "label": "collaborative computer-supported studio work vs traditional studio activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup-learning Tutorial on sound waves\ttraditional problem-solving discussion": {
+  "label": "group-learning tutorial vs traditional problem-solving discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\thypothetical AB reinstruction after a wrong-to-different-wrong response\tremaining wrong-to-different-wrong outcome after the same hypothetical reinstruction": {
+  "label": "AB reinstruction after a wrong-to-different-wrong response vs remaining wrong-to-different-wrong outcome",
+  "treatment_is_a": true
+ },
+ "active-learning\thypothetical AB reinstruction after a wrong-to-same-wrong response\thypothetical AB reinstruction after a wrong-to-different-wrong response": {
+  "label": "AB reinstruction after a wrong-to-same-wrong response vs after a wrong-to-different-wrong response",
+  "treatment_is_a": true
+ },
+ "active-learning\thypothetical AB reinstruction of lecture students\thypothetical LB instruction": {
+  "label": "AB reinstruction vs LB instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class problem solving\tinitial skepticism about in-class problem solving": {
+  "label": "in-class problem solving vs no in-class problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class work in the co-taught reformed course\tother course activities": {
+  "label": "in-class work vs other course activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividual work after group work (GI)\tgroup work": {
+  "label": "individual work after group work vs group work alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive-engagement instruction\ttraditional lecture-and-homework instruction": {
+  "label": "interactive-engagement instruction vs traditional lecture-and-homework instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpassively observing a demonstration\tnot seeing the demonstration": {
+  "label": "demonstration observation vs no demonstration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer group interaction before delayed retest\tinitial individual testing": {
+  "label": "peer group interaction before delayed retesting vs initial individual testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tprobability and energy lab-tutorial sequence plus subsequent instruction\tpre-instruction pretest": {
+  "label": "probability-and-energy lab-tutorial sequence vs pre-instruction testing",
+  "treatment_is_a": true
+ },
+ "active-learning\tprobability lab-tutorial activities\tpre-instruction reasoning": {
+  "label": "probability lab-tutorial activities vs pre-instruction reasoning",
+  "treatment_is_a": true
+ },
+ "active-learning\tprobability lab-tutorial activities with repeated physical examples\tpre-instruction expectations and reasoning": {
+  "label": "probability lab-tutorial activities with repeated physical examples vs pre-instruction reasoning",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed engineering course\ttraditional engineering and physics courses": {
+  "label": "reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed engineering course\ttraditional engineering course": {
+  "label": "reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based interactive instructional methods\ttraditional lecture or passive instruction": {
+  "label": "research-based interactive instruction vs traditional lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group guided-inquiry tunnelling tutorial\tlecture-only instruction": {
+  "label": "small-group guided-inquiry tutorial vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group matching of noisy data streams to gravitational-wave templates\tno comparison condition reported": {
+  "label": "small-group data-to-template matching vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents develop and perform a physics show\ttypical intensive program of lectures, problem sets, and laboratory courses": {
+  "label": "student-produced physics show vs conventional lecture/problem-set/laboratory instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents perform Fermi calculations themselves\tnot performing the calculations themselves": {
+  "label": "student-performed Fermi calculations vs no student-performed calculations",
+  "treatment_is_a": true
+ },
+ "active-learning\ttunnelling tutorial replacing one lecture\tlecture-only instruction": {
+  "label": "tunnelling tutorial vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tunguided peer collaboration in pairs\tindividual test completion": {
+  "label": "unguided peer collaboration vs individual test completion",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toutreach that enables girls to choose a field freely\toutreach aimed at maximizing female enrollment in science and engineering": {
+  "label": "autonomy-supportive outreach vs enrollment-maximizing outreach",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tprescriptive laboratory manual\tlearner-directed investigation": {
+  "label": "learner-directed investigation vs prescriptive laboratory manual",
+  "treatment_is_a": false
+ },
+ "autonomy-support\trecruitment aimed at maximizing female enrollment\toutreach supporting free career choice": {
+  "label": "autonomy-supportive outreach vs enrollment-maximizing outreach",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tstudent-controlled development and performance of a physics show\tintensive, rigid physics training with limited opportunity for application": {
+  "label": "student-controlled activity vs rigid instructor-directed training",
+  "treatment_is_a": true
+ },
+ "case-comparison\tchoosing between semi-classical and quantum models\tusing either model when both give the same immediate prediction": {
+  "label": "different-prediction cases vs same-prediction cases",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttraditional quantum model\tsemi-classical model": {
+  "label": "traditional quantum model vs semi-classical model",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter instruction on Newton's laws\tbefore instruction on Newton's laws": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter instruction on Newton’s laws\tbefore instruction on Newton’s laws": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter unmodified quantum-mechanics instruction\tbefore conductivity instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tall instruction on waves, including modified video-based tutorials\tbefore instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tall wave instruction\tbefore all wave instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tanalysis training and discussion\tanalysis before training": {
+  "label": "analysis training and discussion vs pre-training analysis",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdiscussion of physical explanations for ghost-induced temperature changes\tpre-test before class discussion": {
+  "label": "discussion of explanations vs pre-discussion test",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit development of a long-filament bulb as several point sources\tnot stated": {
+  "label": "explicit instruction vs no or unspecified instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction addressing modeling, interpretation, and evaluation\tstrong emphasis on algorithmic approaches": {
+  "label": "modeling, interpretation, and evaluation instruction vs algorithmic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction emphasizing qualitative physics, dimensional analysis, heuristic methods, graphical reasoning, approximation, and guessing\ttraditional formula-focused university physics teaching": {
+  "label": "qualitative and heuristic instruction vs formula-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction in lecture and lab course\tpre-instruction performance": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction on Newton’s laws\tbefore instruction on Newton’s laws": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction that teaches modeling, interpretation, and evaluation\ttraditional instruction emphasizing mathematical manipulation": {
+  "label": "modeling, interpretation, and evaluation instruction vs algorithmic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodel-oriented lessons accompanying deterministic light models\tdeterministic light models without model-oriented lessons": {
+  "label": "model-oriented instruction vs non-model-oriented instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodel-oriented lessons distinguishing models\tdeterministic model presentation without model-oriented instruction": {
+  "label": "model-oriented instruction vs non-model-oriented instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified instruction with video-based tutorials\ttraditional instruction": {
+  "label": "modified video-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified wave instruction\tbefore instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-week symmetry module\tusual introductory curriculum without symmetry instruction": {
+  "label": "symmetry instruction vs usual curriculum without symmetry instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpair of guided relativity tutorials\ttraditional instruction": {
+  "label": "guided tutorials vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprobability instruction followed by additional quantum-physics instruction\tpre-instruction performance": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprobability lab-tutorial instruction\tpre-lab-tutorial performance": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteach students to evaluate and control their own thought processes\task students to turn off problematic prior ideas": {
+  "label": "metacognitive regulation instruction vs suppression of prior ideas",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching energy flow lines as deterministic light paths\tteaching other light models with strict model distinctions": {
+  "label": "deterministic light-path model vs alternative light models",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching modeling, interpretation, and evaluation\ttraditional algorithmic instruction": {
+  "label": "modeling, interpretation, and evaluation instruction vs algorithmic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttopics where connections between intuitive and formal reasoning were stressed strongly and repeatedly\ttopics where the connection was merely transparent or not strongly emphasized": {
+  "label": "strongly emphasized intuitive-formal connections vs minimally emphasized connections",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction in special relativity\tbefore traditional instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction plus modified video-based tutorials on wave propagation\tpre-instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture instruction\tbefore traditional lecture instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture instruction on wave superposition\tno comparison condition reported": {
+  "label": "traditional lecture instruction vs unreported comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttutorial estimation and springy-cube modeling of the bouncing ball\tstudents’ initial free-body-diagram reasoning": {
+  "label": "tutorial estimation and modeling instruction vs initial reasoning",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCCS feedback used to reveal students’ knowledge and misconceptions and adjust teaching\tinstruction without such ongoing feedback": {
+  "label": "formative assessment with feedback-informed instruction vs instruction without ongoing feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfrequent, low-stakes formative assessment\thigh-stakes cumulative exams": {
+  "label": "frequent low-stakes formative assessment vs high-stakes cumulative exams",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tEvents and reference frames and Simultaneity tutorials\tpretest before tutorial instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tindependent discovery with guidance\tknowledge taught directly": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmatching noisy data streams to signal templates with minimal instruction\tnot stated": {
+  "label": "minimal-guidance discovery vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequenced collaborative tutorials on events, reference frames, and simultaneity\tpretest after traditional lecture and textbook instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsmall-group guided-inquiry tunnelling tutorial\tlecture-only instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\ttunnelling tutorial replacing one lecture\tlecture-only instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\ttunnelling tutorial with small-group guided-inquiry worksheets\tlecture-only instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\ttwo guided tutorials on events, reference frames, and simultaneity\tinstruction before the tutorials": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\t100% homework and quiz mastery requirement with repetition without penalty\thomework requirement lifted or conventional grading": {
+  "label": "mastery learning vs conventional grading",
+  "treatment_is_a": true
+ },
+ "media-design\tPhysics in Films using movie scenes and Cinema Fermi problems\ttraditional physical-science general-education teaching": {
+  "label": "film-based/contextualized physics instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tPhysics in Films using movie scenes to illustrate physical principles\ttraditional physical-science general education courses": {
+  "label": "film-based/contextualized physics instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tPhysics in Films using scenes from popular movies\ttraditional physical-science general-education teaching": {
+  "label": "film-based/contextualized physics instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tQ15 passage explicitly stating frame-relative mass increase\tQ5 and Q12 passages about relativistic mass": {
+  "label": "explicit vs implicit statement of frame-relative mass increase",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook illustrations of holography\tillustrations that represent ray-optical fundamentals": {
+  "label": "holographic vs ray-optical illustrations",
+  "treatment_is_a": true
  }
 }

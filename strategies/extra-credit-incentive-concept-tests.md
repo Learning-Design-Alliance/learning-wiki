@@ -46,6 +46,7 @@ Because some students quickly mark down answers on concept-inventory pre- and po
 - [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
 - [Use school credit, apprenticeship-hour recognition and material awards to incentivize student and teacher participation in a reading program](asimov-prize-incentives-pcto-credits-awards.md)
 - [Award extra credit and small rewards to sustain engagement in an optional review game](extra-credit-incentives-optional-game.md)
+- [Mitigate low-gain IE courses through instructor apprenticeship, grade incentives, conceptual exams, and full-course integration of IE methods](ie-implementation-mitigation-strategies.md)
 
 ## Examples
 -

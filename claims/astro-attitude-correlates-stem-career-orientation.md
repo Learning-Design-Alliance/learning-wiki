@@ -58,3 +58,4 @@ Regression analysis of the full survey sample; 370 out of 749 respondents, or ne
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
 - [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related
 - [Tutor communication engagement correlated positively with students' motivation to pursue a STEM career](tutor-engagement-stem-motivation-correlation.md) — related
+- [70% of students in the undergraduate algebra-based physics class expected the subject to consume most of their out-of-class time without yielding good grades](physics-time-grade-expectations.md) — related

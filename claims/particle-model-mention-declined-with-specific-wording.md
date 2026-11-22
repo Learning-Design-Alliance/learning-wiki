@@ -47,3 +47,4 @@ Fig. 10 analysis of the first column showing percentage of students (from the 47
 ## Related Claims
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
 - [Pre-service teachers who mispredicted the penumbra intersection explained it as brighter or more illuminated, reasoning that penumbras contain light particles](penumbra-as-light-particles-misconception.md) — related
+- [Meta-conceptual teaching phases made light more comprehensible and reduced confusion between model and reality](meta-conceptual-phases-reduce-model-reality-confusion.md) — related

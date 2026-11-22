@@ -47,3 +47,5 @@ Qualitative analysis of think-aloud lab sessions of two pairs of students in the
 ## Related Claims
 - [Students entering the single-photon interferometer experiment predicted that single photons would not interfere with themselves because photons pick a path at a beam splitter](students-predict-single-photons-not-interfere.md) — related
 - [Different student pairs activated different, yet overlapping, resource sets to make sense of simultaneous particle-like and wave-like photon behavior](varied-resource-sets-single-photon-interference.md) — related
+- [Over-attaching significance to the deciding resource may interfere with reasoning about multi-particle systems](deciding-resource-overuse-interferes-multiparticle.md) — related
+- [Students bring wave and particle ideas from classical mechanics as distinct resources for learning quantum mechanics](wave-particle-ideas-classical-resources-quantum.md) — related

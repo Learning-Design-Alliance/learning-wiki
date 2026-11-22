@@ -54,3 +54,4 @@ Individual discussions in which the researchers asked some of the graduate stude
 - [A student can stand fast on a developed durable representation and later translate to a second durable representation (mathematics)](stand-fast-then-translate-to-mathematics.md) — related
 - [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — a broader claim this one bears on
 - [End-of-secondary learners recognize field geometry far more readily from centered unit vector representations than from conventional unit vector representations](centered-unit-vectors-geometry-recognized-better.md) — related
+- [General education students who fear calculations readily accept and learn to emulate the Fermi calculation approach, gaining confidence and reporting they retain more.](gen-ed-students-embrace-fermi-calculations.md) — related

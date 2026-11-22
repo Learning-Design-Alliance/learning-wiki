@@ -70,3 +70,4 @@ Survey question 6 summary: dual exposure to 3D vector calculus, differential equ
 - [Only 51% answered the inner product/Fourier transform question correctly, with responses inconsistent with their correct answers to the preceding question](dirac-question2-inconsistency-inner-product.md) — related
 - [Students employ specific coping strategies for reconciling differing presentations of the same topics in math and physics classes, most commonly using online resources](student-coping-strategies-math-physics-differences.md) — related
 - [Most surveyed students reported dissatisfaction with the mathematical rigor of physics explanations, and most said the differing standards of proof affected their learning](student-dissatisfaction-physics-mathematical-rigor.md) — related
+- [Undergraduates who have not taken physics overwhelmingly perceive physics as a very difficult mathematical subject](physics-perceived-difficult-math-subject.md) — related

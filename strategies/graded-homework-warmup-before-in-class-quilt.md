@@ -41,7 +41,8 @@ Based on posttest results, the authors recommend that the QuILT's warmup, which 
 - [Many students ignore the interference of a classical beam of light through the MZI, and this difficulty was reduced after the QuILT (78% to 33% on Q1)](../claims/mzi-quilt-classical-interference-difficulty-reduced.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use interpretations allied to a virtual experiment to enrich quantum mechanics teaching](interpretations-with-virtual-interferometer-strategy.md)
 
 ## Examples
 -

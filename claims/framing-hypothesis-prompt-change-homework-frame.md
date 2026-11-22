@@ -50,3 +50,4 @@ This is the author's interpretive hypothesis (type e) offered in the analysis of
 - [Participation in a context requiring authoring of activity is hypothesized to lead to changes in participation, agency, and identity as instigators of change](authoring-of-activity-builds-agency-and-identity.md) — related
 - [Microscopic studies link student framing to resource activation, and frame shifts are frequent with instructor prompts enabling productive transitions](framing-drives-resource-activation.md) — related
 - [One instructor's framing of the tutorial and tests as not part of the course, with small extra credit, likely reduced student engagement and performance](instructor-framing-reduced-engagement-moi-tutorial.md) — related
+- [Bridge students missed significantly more homework assignments than Non-bridge students, opposite to the motivation hypothesis](bridge-students-missed-more-homework.md) — related

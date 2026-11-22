@@ -47,7 +47,8 @@ Each semester began with a demonstration of psychic powers tied to a unit of int
 - [The extraordinary life forms subscale showed no significant pre-test to post-test decrease (d = .03).](../claims/extraordinary-life-forms-no-significant-decrease.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Use deliberate concealment (e.g. hiding the blow dryer) to make a demonstration's observation seem impossible, then devote class time to debunking the trick](concealed-mechanism-deception-demos.md)
 
 ## Examples
 -

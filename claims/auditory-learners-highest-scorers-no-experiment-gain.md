@@ -57,3 +57,4 @@ OLS regression of total points with VARK learning-preference dummies (Auditory c
 - [Self-reported visual and auditory learning preferences declined significantly across matriculating classes during the study](vark-preferences-declining-trend.md) — related
 - [Learners perform best when supplementary material format matches their stated text or image preference](preference-congruent-supplements-raise-scores.md) — related
 - [Aligning instructional modality with learner-stated VARK preference does not significantly improve short-term learning gains](preference-alignment-no-significant-learning-gains.md) — related
+- [Auditory learning preference shows no apparent correlation with course grade, and low-auditory learners' under-performance in traditional settings is not statistically significant](auditory-preference-no-grade-correlation.md) — reports the opposite

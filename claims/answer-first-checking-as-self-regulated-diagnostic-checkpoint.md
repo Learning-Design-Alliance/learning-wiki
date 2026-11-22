@@ -63,3 +63,4 @@ Incident from the field study's joy/frustration table: participant P03 used the 
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](formative-assessment-informs-low-stakes-a2l.md) — reports the opposite

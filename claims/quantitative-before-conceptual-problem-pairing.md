@@ -47,3 +47,4 @@ The review reports a large-class study in which one group solved only a conceptu
 ## Related Claims
 - [Introductory students answered a conceptual momentum question at roughly half the correct rate of an isomorphic quantitative problem, but performed equally on both when the quantitative question came first](conceptual-quantitative-momentum-gap-introductory.md) — related
 - [In a controlled study, students posed quantitative-conceptual problem pairs answered conceptual problems correctly at a much larger rate than students posed only the qualitative problem](quantitative-conceptual-pairs-improve-conceptual-performance.md) — related
+- [The fraction of expert-like teams (early qualitative analysis) roughly doubles from problem 1 but does not keep rising, and early analysis does not significantly affect correctness](expert-like-teams-double-but-correctness-unchanged.md) — related

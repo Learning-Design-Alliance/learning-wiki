@@ -52,6 +52,7 @@ The author assigns computational projects, including the GW150914 analysis, that
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](test-case-before-grading-case-homework.md)
 - [Embed computational skills into an existing lab course by replacing a preset analysis tool with Python while retaining original lab goals](embed-python-without-altering-course-structure.md)
+- [Have introductory astronomy students measure waveform properties directly from plots with a straight edge and axis labels, then apply standard formulae to extract source parameters](straight-edge-waveform-measurement-extraction.md)
 
 ## Examples
 -

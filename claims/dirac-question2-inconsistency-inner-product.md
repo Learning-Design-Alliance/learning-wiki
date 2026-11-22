@@ -57,3 +57,4 @@ Multiple-choice performance on question 2, which investigated difficulties with 
 - [Inconsistent notations across various texts and online resources confused students and made it difficult to balance learning from multiple resources](notation-inconsistency-confusion-qc.md) — related
 - [Students cited the Dirac delta function and Fourier analysis as topics they never saw presented in math classes and had difficulties with as presented in physics, while dual exposure to 3D vector calculus and differential equations improved understanding](delta-function-fourier-not-in-math-classes.md) — related
 - [Students performed far better on the familiar-context ranking question (83.3% correct) than on abstract-level questions](familiar-context-question-5-success-83-3.md) — related
+- [Students frequently use multiple mental models inconsistently across expert-equivalent questions](mixed-model-states-student-reasoning.md) — a broader claim this one bears on

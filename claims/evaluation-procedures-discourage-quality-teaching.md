@@ -66,3 +66,5 @@ The author's interpretation, offered without data, that board-based worked examp
 ## Related Claims
 - [Assessment pressure acts as a second-order barrier discouraging teachers from changing methodology](assessment-second-order-barrier-methodology.md) — related
 - [Students who perceive teaching as good, and perceive clear goals, supportiveness and relevant courses, are more inclined towards a deep approach](perceived-teaching-quality-deep-approach.md) — related
+- [Job insecurity of contract and adjunct physics teachers, whose contract extensions depend on student evaluations, pressures them to compromise teaching standards](contract-teacher-insecurity-standards.md) — related
+- [Outreach programs toward K-12 girls are typically evaluated by enrollment numbers, which equates more with better and disregards what the women want](outreach-success-measured-by-enrollment-numbers.md) — related

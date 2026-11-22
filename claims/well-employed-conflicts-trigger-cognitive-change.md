@@ -48,3 +48,4 @@ The article asserts, without printing evidence or a test, that "conflicts can ac
 - [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related
 - [The transition from higher education to the labour market is characterised by extensive changes that act as triggers for learning](transition-changes-trigger-learning.md) — related
 - [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
+- [Cognitive conflict — a situation that cannot be accounted for within existing preconceptions — is a process that triggers conceptual change](cognitive-conflict-triggers-conceptual-change.md) — related

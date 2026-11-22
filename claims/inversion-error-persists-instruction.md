@@ -47,3 +47,4 @@ Distractor analysis of the POE items and posttest in the 21-student rotating-dis
 ## Related Claims
 - [Physics students' ability to report the trajectory of a sphere in stationary and rotating frames of reference did not significantly change from pre-test to post-test after observing a lecture demonstration alone, in one single-group pre-post study](demonstration-observation-no-score-effect-rotating-frames.md) — related
 - [Distractor analysis reveals significant conceptual learning during observation of the demonstration and during augmented-video instruction despite low total scores](distractor-analysis-hidden-conceptual-learning.md) — related
+- [Students who passively observe a demonstration learn no more than students who have not seen it, so demonstrations require active prediction to be effective](passive-observation-demonstrations-no-learning-gain.md) — related

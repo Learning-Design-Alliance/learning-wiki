@@ -67,6 +67,7 @@ The strategy operationalizes Bloom's "learning for mastery" model: with adequate
 - [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 - [Allow learners self-paced, unlimited practice repetitions until they judge themselves competent](self-paced-practice-until-self-judged-competency.md)
+- [Sequence the quizzes so prerequisite mastery gates access to later course work](quiz-sequencing-mastery-gating-strategy.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (University of Chicago, 1968)** — the original model: unit tests, corrective instruction, parallel retests, with ~80% of mastery-group students reaching levels only ~20% of control students attained.

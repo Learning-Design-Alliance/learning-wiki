@@ -46,3 +46,4 @@ Narrative review statement attributing the finding to prior studies (the article
 
 ## Related Claims
 - [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — related
+- [Children regularly encounter modern physics concepts through media and technologies, in startling contrast to the physics taught in schools](children-encounter-modern-physics-via-media-and-technology.md) — related

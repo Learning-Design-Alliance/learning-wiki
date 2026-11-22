@@ -53,6 +53,7 @@ Each computational assignment contained a test case: "an initial problem was pos
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
 - [Integrate computation in science classes with tasks beyond procedural programming use, and ensure students have sufficiently strong computational foundations](computation-beyond-procedural-use-strategy.md)
 - [Apply GeCAA's exam-creation lessons: pre-solve every problem, test numerical stability, and synchronize graders with problem writers before grading](gecaa-exam-creation-grading-lessons.md)
+- [Model-as-answer problem solving: assign few rich modeling problems and grade the model, not the numeric answer](model-as-answer-problem-statements.md)
 
 ## Examples
 -

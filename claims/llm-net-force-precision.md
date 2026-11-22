@@ -47,3 +47,4 @@ Keyword-frequency analysis of eight physics terms across the six models' 50 resp
 
 ## Related Claims
 - [ChatGPT-4 is unreliable on a basic conceptual introductory physics question about kinetic energy and momentum, giving the correct answer in only four of eight regenerated responses](chatgpt4-unreliable-ke-momentum-conceptual-question.md) — related
+- [University modeling students show greater conceptual gains than traditional instruction and learn momentum conservation faster](modeling-university-conceptual-gains-momentum.md) — related

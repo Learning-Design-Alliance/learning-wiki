@@ -59,3 +59,4 @@ Observational analysis of thirteen ENEM Natural Sciences questions from 2009–2
 - [Students who attended a physics education course and built an EMI didactical path show nearly no difficulties with motional electromotive force](emi-physics-education-course-motional-emf.md) — related
 - [98% of trainee teachers associate an environmental problem with the physics concepts needed to address it](98-percent-associate-problem-physics-concepts.md) — related
 - [67% of Boyacá secondary students cannot identify the four fundamental interactions of nature](boyaca-students-fundamental-forces-67-percent-unclear.md) — related
+- [In one group with no comparison group, students' concept-question scores rose from pre-test to post-test after the course, and original believers in the ghost-induced temperature-drop myth were more skeptical on the post-test than on the pre-test](misconception-and-concept-question-gains.md) — related

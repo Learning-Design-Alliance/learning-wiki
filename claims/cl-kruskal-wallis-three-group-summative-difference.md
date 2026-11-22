@@ -49,3 +49,4 @@ Omnibus test in the summative results analysis of the case-controlled trial: the
 - [The summative OSCE difference between the 3-D skills cohort and the unguided practice cohort did not reach statistical significance.](cl-3d-vs-unguided-summative-difference-not-significant.md) — related
 - [Unguided practice at a formative OSCE was associated with statistically higher summative OSCE station pass rates than non-attendance, but the cohort's median matched non-attendees and the gain did not reach educational significance.](cl-unguided-practice-summative-gain-not-educationally-significant.md) — related
 - [About three quarters of students pass the formative four-station OSCE, with higher station-level pass rates](aalplus-osce-pass-rates.md) — related
+- [Bridge students attended more conferences than Non-bridge students in the predicted direction, but the difference was not statistically significant](bridge-conference-attendance-not-significant.md) — related

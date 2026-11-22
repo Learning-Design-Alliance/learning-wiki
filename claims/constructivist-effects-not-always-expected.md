@@ -50,3 +50,4 @@ The special issue introduction, a narrative synthesis, attributes this to earlie
 - [The authors argue meaningful learning is possible outside environments labeled constructivist, including lectures](meaningful-learning-possible-outside-constructivist-environments.md) — related
 - [Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest](dinsmore-project-based-declarative-only.md) — a narrower finding that bears on this claim
 - [Portfolios do not work by themselves; they only work if conditions such as mentoring, open structure, a supporting learning environment and direct learning gain are fulfilled](portfolio-conditions-for-success-mentoring-open-structure.md) — related
+- [Diversity is not intrinsically valuable; it is valuable only in its consequences, which must be explicitly shown](diversity-valuable-only-in-consequences.md) — related

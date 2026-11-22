@@ -52,6 +52,7 @@ The article's forward-looking design recommendations for community care simulati
 - [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
 - [Design simulation laboratories with strong student support, clear objectives and information, high fidelity, and active learning strategies](simulation-design-support-objectives-fidelity-active-learning-strategy.md)
 - [Tailor the emotional content of simulation sessions to individual learners' anxiety levels](tailor-simulation-emotional-content-to-learner-anxiety.md)
+- [Require pre-laboratory play with the simulation and provide more open-ended exploration time](rtr-prelab-play-and-open-exploration.md)
 
 ## Examples
 -

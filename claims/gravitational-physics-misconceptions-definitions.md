@@ -51,3 +51,4 @@ Qualitative analysis of students' crossroads definitions in the TLS. The authors
 - [Teachers' language reflected a substance-based, agentive ontology of gravity, treating gravity as an active noun participant capable of pulling](gravity-agent-metaphor-teacher-talk.md) — related
 - [The proportion of students dismissing the Big Bang theory as unsubstantiated speculation decreased from pre-course to post-course](big-bang-dismissal-decreased-post-course.md) — related
 - [Interventions that prematurely curb learners' linguistic or conceptual use of incorrect ontologies might be detrimental to learners' progress](premature-ontology-correction-may-be-detrimental.md) — related
+- [The AQA GCSE exemplar statement that the Universe started from one place is a common misconception, since with no matter there could be no place to define](universe-started-from-one-place-misconception.md) — related

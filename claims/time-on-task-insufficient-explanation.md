@@ -55,3 +55,4 @@ The authors' comparison of percentage of total GT lecture hours devoted to each 
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
 - [The article reports, citing Redish, Saul, and Steinberg, that adding lecture hours on a tested topic did not improve FCI performance, while a tutorial-based section performed better.](extra-lecture-time-not-improving-fci-tutorial-better.md) — related
 - [Transformed electrostatics courses score significantly higher on the CUE post-test than traditional lecture-based courses](cue-transformed-courses-higher-posttest.md) — related
+- [Students using the Chabay and Sherwood text outperformed students using traditional textbooks on DIRECT](direct-chabay-sherwood-outperformed-traditional.md) — related

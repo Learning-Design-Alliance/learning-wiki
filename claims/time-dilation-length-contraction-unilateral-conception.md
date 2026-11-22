@@ -49,3 +49,4 @@ The review reports, citing Selçuk, an analysis of written questionnaires and in
 - [Students at all educational levels experience learning difficulties with frames of reference, the postulates of SRT, and relativistic effects](srt-learning-difficulties-all-levels.md) — a broader claim this one bears on
 - [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related
 - [A metric-first approach to special relativity lets students accomplish much using a single map-frame rather than dual frames](metric-first-single-map-frame.md) — related
+- [After instruction, advanced students fail to recognize spontaneously that simultaneity is relative when drawing spacetime diagrams](students-fail-spontaneous-relativity-simultaneity.md) — related

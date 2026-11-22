@@ -57,3 +57,5 @@ Pre/post FCI administration to 47 students over three cohorts (2011-2013) in the
 - [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
 - [RPS students scored 0.22 standard deviations higher on the post-diagnostic than lecture students with the same incoming physics knowledge](rps-higher-postdiagnostic-learning-gains.md) — related
+- [Interactive-engagement instruction produces roughly twice the average FCI conceptual gain of traditional lecture-and-homework instruction in introductory mechanics](ie-courses-double-normalized-gain-of-traditional.md) — related
+- [Score-based pre-post gain analysis blends distinct learning issues and limits instructional diagnosis](score-based-gain-limits-diagnosis.md) — related

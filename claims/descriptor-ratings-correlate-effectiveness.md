@@ -47,3 +47,4 @@ Spearman rank correlations on pooled final-survey data (GTAs and faculty togethe
 ## Related Claims
 - [Final student ratings of all instructor descriptors except strict correlate significantly with perceived student learning, with strong positive associations for confident, engaging, enthusiastic, organized, relate, relaxed, respect, and understanding](descriptor-ratings-correlate-learning.md) — related
 - [By semester's end, GTAs are rated more engaging, organized, relatable, respected, and understanding than faculty, while faculty are rated more boring](final-gta-faculty-rating-differences.md) — related
+- [Students participated enthusiastically in physical science discussions when topics were familiar from TV shows or movies](familiar-media-topics-drive-enthusiastic-discussion.md) — related

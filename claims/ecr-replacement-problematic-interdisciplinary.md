@@ -54,3 +54,4 @@ Theoretical argument comparing reconciliation frameworks in the physics educatio
 - [Authoritative science teaching fosters the mistaken idea that truth is easy to arrive at and self-evident](authoritative-teaching-hinders-enquiry.md) — related
 - [Usova held that interdisciplinary teaching influences scientific concept formation](interdisciplinary-teaching-influences-concept-formation.md) — related
 - [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — related
+- [Pupils' religiously grounded objections to the Big Bang cannot be simply resolved by citing scientific evidence](religious-objections-not-resolved-by-evidence.md) — a narrower finding that bears on this claim

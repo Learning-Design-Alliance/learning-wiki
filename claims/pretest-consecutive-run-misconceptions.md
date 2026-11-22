@@ -48,3 +48,4 @@ Qualitative analysis of pre-test answer sheets from the prospective teachers, pr
 ## Related Claims
 - [A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) — related
 - [After simulation-based instruction, prospective teachers gave more flexible answers accounting for variability and revised incorrect probability ideas](simulation-post-variability-answers.md) — related
+- [Before instruction, most students answered an 11th-coin-toss question correctly, but many used ensemble expectations or the gambler's fallacy to predict the outcome](coin-toss-pretest-gambler-fallacy-responses.md) — related

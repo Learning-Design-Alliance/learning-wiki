@@ -52,3 +52,4 @@ Written recitation-quiz responses from 70 students solving only problem (2), com
 - [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
 - [Twenty physics professors displayed nearly universal lack of useful intuition on an introductory rolling-motion problem, with seventeen of twenty focusing on only one of two essential factors](professors-lack-intuition-rolling-friction-problem.md) — related
 - [The conception that friction always opposes movement persists among secondary completers and even among beginning university physics students](friction-always-opposes-motion-persistence.md) — related
+- [Aristotelian beliefs such as heavier-objects-fall-faster persist but surface only in novel situations](aristotelian-beliefs-novel-contexts.md) — related

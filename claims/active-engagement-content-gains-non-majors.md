@@ -63,3 +63,4 @@ Three-year assessment of the authors' courses: the conceptual physics course use
 - [Physics programs are fed by service courses and funded through astronomy and astrophysics offerings despite low enrollment](service-courses-and-astronomy-sustain-physics-programs.md) — related
 - [Introductory physics instruction does not substantially improve students' covariational reasoning, even in research-based settings](intro-physics-instruction-limited-covariation-gains.md) — reports the opposite
 - [The GenAI evaluation laboratory fostered high engagement, initiative, and voluntary continuation beyond classroom requirements among non-science majors](genai-astronomy-lab-high-engagement-voluntary-continuation.md) — related
+- [At least 70% of non-science majors in the author's astronomy courses lacked the concept of units and knowledge of scientific notation](astronomy-nonscience-majors-units-notation-gap.md) — related

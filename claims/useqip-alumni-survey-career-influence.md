@@ -53,3 +53,4 @@ Survey sent in early 2026 to all 198 alumni from 2018-2025, receiving 36 respons
 - [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related
+- [A graduate astronomy course can reverse brain drain into brain gain by attracting professionals to posts in the host region and preparing students for diverse career paths](astronomy-graduate-course-brain-gain.md) — related

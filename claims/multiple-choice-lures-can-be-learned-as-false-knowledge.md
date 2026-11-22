@@ -113,3 +113,4 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related
 - [Post-feedback conversion of incorrect answers reaches 36.7% overall, highest for closed-ended items (55.1%) and lower for CGT (35.6%) and open-ended (33.9%) items](post-feedback-conversion-rate-by-question-type.md) — related
 - [No significant condition differences appear on transfer multiple-choice answer selection, including NEI transfer MCQ, though the NEI MCQ estimate favored open-ended in the same direction (d=0.26).](no-significant-transfer-mcq-condition-differences.md) — related
+- [The authors argue extensive use of multiple-choice questions builds student confidence without understanding](mc-questions-foster-confidence-paradox.md) — related

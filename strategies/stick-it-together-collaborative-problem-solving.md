@@ -68,6 +68,7 @@ The individual-first phase is the design's key move: it guarantees every student
 - [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 - [Guide peer cooperation so children assist each other in fine motor operations](folk-games-peer-cooperation-strategy.md)
 - [Colour-coded partial-credit scoring that keeps points in jeopardy during collaboration](two-colour-partial-credit-scoring-strategy.md)
+- [Configure collaborative groups of two to four students, assign roles, and still collect answers individually](a2l-collaborative-group-configuration.md)
 
 ## Examples
 - A 5th-grade teacher uses Stick-It Together to review fraction addition: students solve ¾ + ⅚ individually, then groups must agree on one method and one answer, exposing the "add both numerators and denominators" misconception during negotiation.

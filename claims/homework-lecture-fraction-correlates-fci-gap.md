@@ -71,3 +71,4 @@ Content analysis of lecture and reading topics using the same categories as the 
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
 - [Five of 14 M&I students misapplied F = ma on the falling balls problem, concluding a force difference implies a different fall time](mi-students-misapply-fma-falling-balls.md) — related
 - [The article reports, citing Redish, Saul, and Steinberg, that adding lecture hours on a tested topic did not improve FCI performance, while a tutorial-based section performed better.](extra-lecture-time-not-improving-fci-tutorial-better.md) — related
+- [Preliminary analyses suggest students are more likely to master a concept if they teach it than if they cover textbook homework for the same time](teaching-topic-aids-conceptual-mastery.md) — related

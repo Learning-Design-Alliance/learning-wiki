@@ -49,3 +49,4 @@ Chi-squared test on pretest performance categories (poor, average, good, excepti
 - [Post-test performance categories differed significantly between PLM and CT, with far more exceptional performers after PLM (44 vs 20)](posttest-category-difference-plm-ct.md) — related
 - [Both conventional tutorials and the jigsaw peer learning module significantly improved first-year medical students' pre-to-post test scores](plm-and-ct-both-improve-pre-post-scores.md) — related
 - [The jigsaw peer learning module produced a larger score improvement than conventional tutorials, about 10% higher and statistically significant](plm-gain-exceeds-ct-gain.md) — related
+- [Pretest wrong-response distributions of LB and AB students are largely matched, with a chi-square test yielding p = 0.20 weakly suggesting minor dependence on class type](pretest-wrong-distributions-chi-square-p-020.md) — related

@@ -56,3 +56,4 @@ Qualitative case study of one interviewed student's think-aloud solution to the 
 - [Conceptual math reasoning enables shortcut solutions that reduce written procedures and open more expansive group discussion](conceptual-math-shortcuts-reduce-procedures.md) — related
 - [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related
 - [Interviewed faculty flexibly moved between conceptual and quantitative reasoning, checking intuition with approximations, estimations and calculations](faculty-flexible-conceptual-quantitative-reasoning.md) — related
+- [General education students who fear calculations readily accept and learn to emulate the Fermi calculation approach, gaining confidence and reporting they retain more.](gen-ed-students-embrace-fermi-calculations.md) — related

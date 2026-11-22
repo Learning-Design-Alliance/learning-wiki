@@ -52,3 +52,4 @@ Secondary analysis of the same controlled section comparison, using a B- or bett
 - [Students with Osmosis access had higher odds of scoring 90% or higher on the Pharmacology final exam (OR = 2.88) and of earning a 90%+ final grade in Podiatric Medicine (OR = 2.71)](osmosis-access-high-scorer-odds.md) — related
 - [Students in the adaptive equity-oriented pedagogy section earned significantly higher final assessment scores than control students (p<.0001)](equity-pedagogy-higher-final-assessment-scores.md) — related
 - [Students in the Treatment section (ill-structured problems with socialization-and-creativity instruction) scored higher on physics grades than Traditional-section students](treatment-section-higher-physics-grades.md) — related
+- [Students in the Physics in Films course scored higher on nearly identical exams than students in a traditional section of the same course taught by the same instructor](physics-in-films-higher-exam-averages.md) — related

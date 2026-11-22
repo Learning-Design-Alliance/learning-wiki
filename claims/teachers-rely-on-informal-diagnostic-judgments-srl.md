@@ -54,3 +54,4 @@ The review's synthesis of evidence on AK-SRL, citing multiple studies (e.g., Bä
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
 - [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](oral-reading-judgment-subjective-unreliable.md) — related
+- [Physics faculty want to be part of the solution and use their own intuition and experience to evaluate educational research rather than adopting it wholesale](faculty-want-part-of-solution.md) — related

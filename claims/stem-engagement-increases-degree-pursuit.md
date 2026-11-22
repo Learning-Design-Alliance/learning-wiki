@@ -52,3 +52,4 @@ The report cites UC Davis (2024) findings, without naming their design, in its K
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [SSUK strongly encouraged alumni to pursue physics-related degrees, with 61% of respondents studying physics-related subjects versus 4.1% of UK students nationally](ssuk-strongly-encouraged-physics-degrees.md) — related
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
+- [The course helped physics students cross disciplinary boundaries into education pursuits](tlp-disciplinary-boundary-crossing.md) — a narrower finding that bears on this claim

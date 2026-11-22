@@ -64,3 +64,4 @@ Authors' discussion interpretation of the null main effect, citing treatment-con
 - [The authors attribute the null PBL effect partly to students' adaptation problems when moving from traditional instruction](pbl-adaptation-problems-null-result.md) — related
 - [Small sample size and slight pretest imbalance may have masked potential positive effects of computer games](small-sample-limits-game-effect-detection.md) — related
 - [Four instructors said engaging students in iteration was not a goal of their activities, with three citing a tension between activity coverage and depth](some-instructors-not-goal-iteration-breadth-depth-tension.md) — related
+- [CCS-based courses cover fewer topics than traditional courses, and their efficiency depends on whether learning or exposure is measured](ccs-topic-coverage-tradeoff.md) — related

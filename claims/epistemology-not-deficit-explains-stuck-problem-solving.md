@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2011
+newest_evidence: 2010
 sources:
-  - id: gupta-2011
+  - id: gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1003.4288"
-    title: "Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)"
+    title: "Gupta, A., & Elby, A. (2010). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)"
     author: "Gupta, A., & Elby, A."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Jim's lack of mathematical sense-making—translating and reconciling between mathematical and everyday reasoning—stems in part from his epistemological views about knowledge and learning. [→ Gupta 2011](#gupta-2011)
+`q2 i?` Jim's lack of mathematical sense-making—translating and reconciling between mathematical and everyday reasoning—stems in part from his epistemological views about knowledge and learning. [→ Gupta 2010](#gupta-2010)
 
 ## Evidence
 
-### Gupta 2011
+### Gupta 2010
 
-Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)
+Gupta, A., & Elby, A. (2010). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -56,3 +56,4 @@ Case-study analysis of a clinical interview in which Jim, an engineering major, 
 - [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](epistemological-stance-shifts-with-contextual-cues.md) — related
 - [A student's epistemological stance privileging formalism over perception can be nuanced and flexible rather than a globally robust belief](epistemological-stance-nuanced-flexible.md) — a narrower finding that bears on this claim
 - [Estevan's persistence in science sense-making was stabilized by alignment between his identity as a challenge-lover and his epistemological stance that science involves figuring things out for yourself](identity-epistemology-alignment-persistence.md) — a narrower finding that bears on this claim
+- [A student's epistemological wall between formal and everyday reasoning is associated with between-type reconciliation in only 13% of opportunities versus 46% within type](epistemology-wall-between-type-reconciliation.md) — a narrower finding that bears on this claim

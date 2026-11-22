@@ -71,3 +71,4 @@ The article reports, citing Shaffer and McDermott, that 'when novices are forced
 - [No significant improvement was observed for voltage problems on parallel or mixed circuits, and students had difficulty differentiating electric potential from voltage](parallel-mixed-circuits-no-improvement.md) — related
 - [Discriminating electric current from electrical energy is probably the most intractable problem in teaching electricity](current-versus-energy-most-intractable.md) — related
 - [High-school students commonly hold unclear or erroneous concepts of heat, work and energy, treating heat and work as forms of energy](students-confuse-heat-work-energy-forms.md) — related
+- [Substantial fractions of students hold specific circuit misconceptions: 28% show current/voltage confusion and 17% cannot identify a short](direct-distracter-misconception-percentages.md) — related

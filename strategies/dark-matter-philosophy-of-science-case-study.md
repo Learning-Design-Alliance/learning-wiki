@@ -47,6 +47,7 @@ The article proposes a presentation in which students examine the dark matter pr
 - [Guided enquiry-based programming tasks that signpost the physics and leave the programming method to the student](signposted-physics-open-programming-enquiry-task.md)
 - [Use history and philosophy of science cases, such as the falsifiability of the geocentric model, to teach what makes a theory scientific](demarcation-cases-teach-scientific-reasoning.md)
 - [Nature-of-science debate after the Rutherford experiment: theory-experiment dialectic and the role of mathematics](nature-of-science-debate-rutherford-sequence.md)
+- [Introduce bare and effective mass through standard applications of Newton's second law in a junior-level classical mechanics course.](newton-second-law-effective-mass-introduction.md)
 
 ## Examples
 -

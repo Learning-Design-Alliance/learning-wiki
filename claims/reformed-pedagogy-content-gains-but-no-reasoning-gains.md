@@ -82,3 +82,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Overall pre/post-test scores rose from 61% to 80% for the full sample after a three-phase astronomy dataset activity, in one uncontrolled pre-post study](astronomy-dataset-activity-overall-learning-gains.md) — related
 - [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](class-favorability-explains-tug-k-variance.md) — related
 - [Physics programs are fed by service courses and funded through astronomy and astrophysics offerings despite low enrollment](service-courses-and-astronomy-sustain-physics-programs.md) — related
+- [At least 70% of non-science majors in the author's astronomy courses lacked the concept of units and knowledge of scientific notation](astronomy-nonscience-majors-units-notation-gap.md) — related

@@ -53,3 +53,4 @@ Interpretive analysis of exemplars (Kuhnian concrete exemplary problem solutions
 - [Students' reasoning about quantum key distribution concepts is inconsistent across nearly identical questions before the QuILT](qkd-student-reasoning-inconsistency-across-questions.md) — related
 - [Students' novelty judgments of assessment questions differ sharply by module, with classical dynamics questions judged novel by most students](question-novelty-judgments-vary-by-module.md) — related
 - [OMR difficulty is compounded because its conceptual and mathematical prerequisites are strongly interrelated, making total task solution probability the product of the component probabilities](omr-interrelated-prerequisite-complexity.md) — related
+- [Student responses to equivalent physics questions show strong context dependence](context-dependence-physics-responses.md) — a narrower finding that bears on this claim

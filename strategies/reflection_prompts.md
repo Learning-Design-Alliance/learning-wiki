@@ -65,6 +65,7 @@ Reflection prompts improve learning when they are specific, structured, and tied
 - [Learning Journals](learning-journals.md) — sustained reflection prompts across time, enabling learners to see their own trajectory
 - [Self-Assessment](../elements/self-assessment.md) — reflection prompts with criteria attached become self-assessment
 - [Structure chatbot teacher-training activities as find a right and a wrong answer, guide improvement with questions, then reflect](chatgpt-socratic-activity-three-task-structure.md)
+- [Daily activity journals plus an end-of-project statement of personal growth](jite-journal-personal-growth-statement-strategy.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the verbalization element that reflection prompts elicit

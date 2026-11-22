@@ -47,3 +47,4 @@ Item-level analysis of TA performance on MCS Q25, involving two parallel wires c
 ## Related Claims
 - [MCS item 15 (net force in crossed electric and magnetic fields) showed the largest individual-to-group improvement, with Cohen's d = 0.94, rising from 53% to 95%](mcs-q15-largest-effect-size-d-094.md) — related
 - [First-year physics TAs' performance on the Magnetism Conceptual Survey rose from an average individual score of 74% to an average group score of 94% after unguided peer collaboration, in one uncontrolled pre-post study](unguided-peer-collaboration-improves-ta-mcs-performance.md) — a broader claim this one bears on
+- [Students in the Teaching and Learning Physics course showed significant average gains on a conceptual electricity and magnetism survey](tlp-course-conceptual-gains-em.md) — related

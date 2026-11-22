@@ -71,3 +71,5 @@ From a semi-structured think-aloud interview: one student claimed a qualitative 
 - [During the game students often draw graphs and diagrams, a physics skill they are often not motivated to practice](game-motivates-drawing-graphs-and-diagrams.md) — related
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related
 - [Think-aloud interviews reveal students modifying the problem to fit their diagram and failing to use knowledge they possessed when drawing diagrams of standing waves](diagram-difficulties-standing-waves-interviews.md) — related
+- [When sketching tunnelling wave functions, students show an axis shift, treating the height of the oscillation axis as indicating particle energy](axis-shift-wave-function-sketches.md) — related
+- [Students cannot reason with graphs, missing physical implications such as the rolling condition v = rω](graphical-reasoning-difficulty.md) — related

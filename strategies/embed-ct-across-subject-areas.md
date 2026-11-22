@@ -65,6 +65,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Introduce compulsory scientific programming in Grades 10-12 connected to other science subjects](compulsory-scientific-programming-grades-10-12.md)
 - [Integrate exoplanet data activities across physics and mathematics classes to build data-analysis skills including logarithms and graph construction](cross-subject-exoplanet-data-analysis-strategy.md)
 - [Make scientific programming a second core subject across all three years of the science-and-technology branch](three-year-scientific-programming-core-subject.md)
+- [Embed probabilistic, conditional language into day-to-day science teaching without changing curriculum content](probabilistic-language-embedding-strategy.md)
 
 ## Examples
 -

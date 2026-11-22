@@ -59,3 +59,4 @@ The review attributes this conclusion to Salden, Paas, van der Pal and van Merri
 - [In the Academically Productive Talk system, review material and higher student skill level normally yielded better learning results](apt-moderators-material-and-skill-level.md) — related
 - [Piloting does not necessarily lead to the intended perception or increase of knowledge, since students follow directives without discussing meaning](piloting-not-necessarily-knowledge-gain.md) — related
 - [A key gap in personalized gamification research is static assignment of students to predetermined groups without fluidity](static-personalization-grouping-gap.md) — related
+- [Interactive simulations do not necessarily eliminate passiveness and can support poor learning outcomes](simulations-not-eliminate-passiveness.md) — related

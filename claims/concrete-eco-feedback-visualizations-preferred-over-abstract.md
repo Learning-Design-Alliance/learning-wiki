@@ -56,3 +56,4 @@ Descriptive analysis of Likert attention, satisfaction, and preference ratings f
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
 - [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related
+- [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — related

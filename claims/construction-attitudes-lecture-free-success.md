@@ -50,3 +50,4 @@ Qualitative study using emergent coding applied to student reflections, focus gr
 ## Related Claims
 - [Students in a lecture-free IPP/PBL quantum mechanics course averaged 34.2% on the QMS, above a traditional lecture-based section's 24.3%](pbl-quantum-mechanics-qms-scores.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [Prior evaluation found Teaching and Learning Physics increased student mastery of physics, teaching proficiency, and shifted views from transmissionist to constructivist perspectives](tlp-ucsd-evaluation-outcomes.md) — related

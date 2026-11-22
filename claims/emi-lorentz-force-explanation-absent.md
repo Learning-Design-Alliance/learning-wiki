@@ -51,3 +51,4 @@ Categorization of explanations to questionnaire question D1 across all four grou
 - [Lecture-demonstration predictions prompted gut-feeling reasoning: students had more difficulty reconciling force-field perpendicularity with real setups than with equations](lecture-demo-prediction-gut-feeling.md) — related
 - [One third of scientific high school students, but no other group, wrongly tie electromagnetic induction to the angle between current direction and loop velocity](emi-shs-current-velocity-angle-misconception.md) — related
 - [Conceptual understanding of electromagnetic induction remains substantially unchanged from high school students to physics teachers](emi-understanding-unchanged-across-education-levels.md) — related
+- [After instruction, most students correctly identify that a stationary magnet near a coil induces no current](posttest-stationary-magnet-no-induced-current.md) — related

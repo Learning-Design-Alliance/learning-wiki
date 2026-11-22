@@ -49,3 +49,4 @@ Qualitative validation in the RQ3 Findings section of centrifugal force and impe
 - [Prompting ChatGPT with specific physics preconceptions introduces much response variance that approximates real student FCI distributions](preconception-prompting-yields-variance.md) — related
 - [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
+- [Students cannot make or reason with freebody diagrams and insert fictitious centrifugal forces](freebody-diagram-difficulties.md) — related

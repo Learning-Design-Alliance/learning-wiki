@@ -55,3 +55,4 @@ The meta-synthesis found teachers complained about overloaded curricula regardin
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
 - [Teachers value physically active VFTs as flexible, cross-curricular teaching tools usable across subjects and lesson phases](vfts-flexible-cross-curricular-tool.md) — related
 - [Flexibility in uptake and implementation of university materials was a responsive feature that gave teachers agency to adopt resources at their own pace](flexibility-in-uptake-gives-teachers-agency.md) — related
+- [Adoption of modeling instruction at the university level is impeded by lack of familiarity, resources, and suitable textbooks](modeling-adoption-impediments-university.md) — related

@@ -52,3 +52,4 @@ Comparison of mandatory MCQE scores between the 24 voluntary key-feature examina
 - [Residents who took the intervention MCQ tests reported a perceived educational benefit from testing](residents-perceived-benefit-from-mcq-testing.md) — related
 - [Pass rates on the course test were far higher among elective participants (96% in Course I, 100% in Course II) than among mandatory-curriculum-only controls (4% and 71%)](pbl-elective-higher-pass-rates-osteoporosis-test.md) — related
 - [Students who returned the optional multiple-choice homework gained 0.13 points between level test and final grade, while non-participants lost 0.02](sst-homework-participants-gain-013-nonparticipants-002.md) — related
+- [Students who completed a voluntary mini-practice exam before the second in-class exam show a different grade distribution on that exam than students who did not](mini-practice-exam-second-exam-grade-distribution.md) — related

@@ -49,3 +49,4 @@ The authors' account of program outcomes, illustrated by enumerated examples: mu
 - [Capstone projects produced scholarly outputs including conference presentations and publications](capstone-scholarly-outputs.md) — related
 - [Mentoring FP projects helped a new faculty member integrate into the department and expand her research network](fp-faculty-integration-moses-vignette.md) — related
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
+- [Developing and performing a physics show gives undergraduates an early opportunity to apply their knowledge and develop public presentation skills](physics-show-student-skills-development.md) — related

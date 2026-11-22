@@ -57,3 +57,4 @@ Descriptive analysis of section/category family/student records (N=86,533, Table
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related
+- [Requiring 100% mastery on homework and quizzes with roughly 97% of students achieving it produces only a small shift of the grade-distribution mean when the homework portion of the grade is about ten percent or less](mastery-requirement-small-grade-shift.md) — related

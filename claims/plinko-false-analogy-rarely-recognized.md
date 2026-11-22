@@ -50,3 +50,4 @@ Essay-question study in two PHYS3 semesters comparing student reasoning about a 
 - [Many students in quantum physics courses endorse mechanistic (Newtonian) statements about electrons and atomic structure that quantum theory contradicts](students-endorse-mechanistic-qp-statements.md) — related
 - [Student quantum-thinking scores varied across the five faculty members' courses, with Eric's class highest (3.54 quantum, 2.00 classical)](class-level-variation-quantum-thinking-scores.md) — related
 - [Physics education worldwide lacks a deep course in probability and randomness, which the author argues causes misunderstandings of quantum theory](physics-curricula-lack-deep-probability-course.md) — related
+- [Case study: a junior physics major detected a conflict between his personal analogy and class knowledge but initially followed the analogy](todd-case-metacognitive-conflict-detection.md) — related

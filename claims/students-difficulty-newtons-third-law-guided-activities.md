@@ -53,3 +53,4 @@ Second-hand assertion by the article, citing Sayre et al. 2012 and Smith & Wittm
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [A wall-pressing activity makes Newton's-third-law mutual interaction observable to students](wall-press-activity-reveals-mutual-interaction.md) — a narrower finding that bears on this claim
+- [The author was unable to improve Third Law scores in two years of Workshop Physics but could after adopting modeling, discourse management, and system schema](wp-flat-versus-mdmss-third-law-improvement.md) — a narrower finding that bears on this claim

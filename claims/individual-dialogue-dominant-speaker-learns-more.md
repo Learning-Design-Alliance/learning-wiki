@@ -57,3 +57,4 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 - [Group sizes of five or six led to domination or freeloading, while groups of three or four maximized each member's potential to contribute.](group-size-three-or-four-avoid-freeloading.md) — related
 - [Informing Mode: one student explains while others listen or ask clarifying questions, with consonant and consensual character](informing-mode-consensual-consensual.md) — related
 - [The distribution of within-pair equipment use departs from flat sharing, hinting that one partner — more often the male — takes over the apparatus, an effect marginal at 37 pairs](one-partner-takes-over-equipment-marginal.md) — related
+- [Gains of high (A) and middle (B) achievement students are markedly lower when paired with low (C) achievers, while C-student gains are the same regardless of partner](ab-gains-lower-paired-with-c-cc-gains-unchanged.md) — related

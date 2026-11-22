@@ -49,3 +49,4 @@ Two-tailed t test comparison of FNLAT post-test scores between the congruent and
 - [Learning achievement in the fundamental nursing test is better when preferred and perceived environments fall in the same quadrant by the PCF method](pcf-congruence-better-fnlat-achievement.md) — related
 - [Students perceived the problem-based fundamental nursing curriculum as predominantly lecture-based despite its problem-based design intention](students-perceived-pbln-as-lecture-based.md) — related
 - [First-year nursing students in a problem-based fundamental nursing curriculum mostly prefer a hybrid problem-based and lecture-based learning environment](nursing-students-prefer-pbl-lbl-hybrid.md) — related
+- [Case study: a student with strongly expressed preferences against group learning appeared to succeed in the SCALE-UP environment](case-study-mismatched-preferences-scaleup-success.md) — reports the opposite

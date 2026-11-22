@@ -52,3 +52,4 @@ Graphical gender comparison of DMs for the pooled three-year cohort (Figure 3): 
 - [Multiple-choice question format shows no evidence of disadvantaging female students](no-female-disadvantage-multiple-choice.md) — related
 - [All 16 interviewed students explained that the closer target would be hit first, a reasoning pattern reflecting a valid physical relationship that is incomplete for projectile motion](more-distance-more-time-resource-in-student-explanations.md) — related
 - [The 2020 cohort showed a significantly higher mean %nDM than the 2021 and 2022 cohorts on the FCI pre-test](fci-ndm-2020-cohort-significantly-higher.md) — related
+- [Females used more misconceptions than males in DIRECT interviews, and males outperformed females on the test](direct-gender-misconception-differences.md) — related

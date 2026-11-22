@@ -54,3 +54,4 @@ Post-lesson survey items on attention and understandability. The article also re
 - [Students exposed to the layered curriculum chose activities they believed would reinforce learning and reported increased motivation and responsibility](layered-curriculum-student-activity-choice-motivation.md) — related
 - [Students found the tablet PC lesson difficult to attend to and doubted they would remember its content, while rating it as innovative](student-perceptions-tablet-attention-difficulty.md) — related
 - [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related
+- [Group interviews found that films kept students' attention better than lecture and helped them remember the concepts illustrated in the films](student-interviews-films-aid-attention-and-memory.md) — related

@@ -57,3 +57,4 @@ Logistic regression and propensity-matched models predicting STEM major selectio
 - [Propensity score matching confirms the negative association of low self-esteem with math achievement across three matching strategies](psm-low-self-esteem-math-robustness.md) — related
 - [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related
 - [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related
+- [School-college science enrichment programs such as Science-Magnet and Science-Olympiad are estimated to raise the ratio of science majors by 10-20%](science-enrichment-programs-10-20-percent-science-majors.md) — related

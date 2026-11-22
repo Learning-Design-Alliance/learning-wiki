@@ -90,3 +90,4 @@ Five instructors "mentioned working very hard and relying on teaching themselves
 - [First-year graduate students performed poorly on the QMS despite doing well on quantitative graduate exams](graduate-students-lack-qm-conceptual-understanding.md) — related
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — related
 - [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related
+- [General education students who fear calculations readily accept and learn to emulate the Fermi calculation approach, gaining confidence and reporting they retain more.](gen-ed-students-embrace-fermi-calculations.md) — related

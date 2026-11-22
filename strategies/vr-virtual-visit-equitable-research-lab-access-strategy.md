@@ -49,6 +49,7 @@ The authors propose introducing virtual visits to research laboratories on a per
 
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
 - [Optional campus workshop during semester break to address missing physical interaction and group interaction](optional-campus-workshop-semester-break.md)
+- [Scientists should get involved in school visits through astronomy-based programs](scientists-join-astronomy-school-visit-programs.md)
 
 ## Examples
 -

@@ -78,6 +78,8 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 - [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Examples
 - **Peer Instruction at Harvard** — Eric Mazur's physics course: ConcepTests polled via clickers, with peer discussion between votes; the model has been adopted across thousands of STEM courses ([Peer Instruction](https://peerinstruction4cs.org) resources).

@@ -69,6 +69,7 @@ CBP operationalizes [Mastery Learning](../patterns/competency-based-learning.md)
 - [Sequence CBPS problems from easy to complex and monitor individual progress](cbps-problem-difficulty-sequencing-strategy.md)
 - [Design gamified activities with progressive sequenced levels through which learners advance at their own pace](progressive-sequenced-levels-own-pace-gamification.md)
 - [Restructure the adaptive-course classroom as a discussion-based setting with broad multidisciplinary problems](discussion-based-classroom-broad-multidisciplinary-problems.md)
+- [Sequence the quizzes so prerequisite mastery gates access to later course work](quiz-sequencing-mastery-gating-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — course mastery tracks gate progression on demonstrated proficiency per skill, with spaced retakes

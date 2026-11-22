@@ -44,7 +44,8 @@ The article recommends exploiting the gap between the photograph-based estimate 
 - [In the 2005 World Year of Physics Eratosthenes recreation, 700 paired high schools pooled measurements to obtain an Earth's radius within 6% of the true value](../claims/wyp-2005-eratosthenes-six-percent.md) [+W]
 
 ## Related Strategies
-- 
+
+- [A traceroute-based lab in which students estimate the Earth's radius from Internet packet round-trip times across transoceanic cables](traceroute-earth-radius-lab.md)
 
 ## Examples
 -

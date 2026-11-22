@@ -72,3 +72,5 @@ T-test comparison of pre and post survey scores by gender in a calculus-based in
 - [Men report higher physics self-efficacy and lower test anxiety than women in bioscience-track physics courses, with large gender differences in Physics 1](gender-gaps-self-efficacy-test-anxiety-bioscience-physics.md) — related
 - [Test anxiety increased over the duration of both physics courses for men and women, with women higher in anxiety throughout; self-efficacy declined over Physics 1, and over Physics 2 for women only](test-anxiety-increases-over-course-duration.md) — related
 - [Across the semester, men's identity and perceived recognition changed little while women's declined, with small effect sizes](pre-post-gender-effect-sizes-identity-recognition.md) — related
+- [Positive feelings towards science declined over the first semester, creating a gender gap that did not exist at entry](affect-towards-science-declines-gender-gap-emerges.md) — related
+- [Self-efficacy declines for both genders over the first CEGEP semester, with males consistently more confident than females](self-efficacy-declines-first-semester-gender-gap.md) — related

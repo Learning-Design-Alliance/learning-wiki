@@ -44,6 +44,7 @@ The article's third design guideline calls for clear visual aids such as familia
 - [Multisensory Teaching](multisensory-teaching.md)
 - [Multiple Modalities for Perceiving Information](multiple_modalities_for_perceiving_information.md)
 - [Augment complex diagnostic test result presentations with intuitive, easy-to-understand visualizations](augment-complex-test-results-intuitive-visualization-strategy.md)
+- [Introduce modern physics concepts through conceptually accurate visual models such as Feynman diagrams, suited to animated ICT presentation](feynman-diagram-visual-models-strategy.md)
 
 ## Examples
 -

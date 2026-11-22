@@ -52,3 +52,4 @@ Observational analysis of the UO upper GPA data in figure 1. The article reports
 - [Average grades in the calculus-based physics course 25X show an almost identical threshold at SAT-M just below 600](phys-25x-threshold-sat-m-600.md) — related
 - [SAT and GRE scores correlate at roughly 0.75, consistent with both measuring a stable trait](sat-gre-correlation-075.md) — related
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — related
+- [Students with stronger mathematics backgrounds manage calculus-based physics well even without prior physics coursework](math-background-predicts-calculus-physics-success.md) — related

@@ -46,3 +46,4 @@ Observational trend in completion times across the two successive test phases in
 
 ## Related Claims
 - [Giving students an opportunity to formulate their own responses before peer discussion (IG) did not significantly improve group performance compared with discussing first (GI).](individual-first-before-peer-discussion-no-gain.md) — related
+- [After group discussion, students working individually spent roughly one third of the group-work time, while in other conditions time was roughly equal](time-spent-individual-after-group-one-third.md) — possibly the same claim (merge candidate)

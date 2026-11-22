@@ -56,6 +56,7 @@ Participants described moving away from unsupervised written essays toward more 
 - [Shift assessment away from inauthentic timed examinations toward more scientifically authentic evaluation activities](shift-away-from-timed-examinations.md)
 - [Conduct Level 1 (no-AI) assessments under supervision or as low-stakes formative tasks to protect equity](supervise-no-ai-level-1-assessments.md)
 - [Retire unsupervised closed-response online assessment and shift credit toward process evidence, supervised settings, and AI-transparent work](retire-unsupervised-online-assessment-shift-process-evidence.md)
+- [Pair project-based take-home exams with written reports and oral presentations to assess understanding and expose plagiarism](oral-presentation-pairing-for-project-exams.md)
 
 ## Examples
 -

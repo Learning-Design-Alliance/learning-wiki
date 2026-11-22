@@ -53,3 +53,4 @@ Program-level census by the science education specialists of adopters in six CWS
 - [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related
 - [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related
 - [Discontinuation of research-based instructional strategies after trying fell from 32% of triers in 2008 to 5% in 2019](rbis-discontinuation-fell-32-to-5-percent.md) — related
+- [Most self-reported instructional changes by physics faculty fall on the reinvention/invention side of the adoption-invention continuum rather than the adoption side](faculty-changes-reinvention-invention-dominant.md) — related

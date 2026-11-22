@@ -55,3 +55,4 @@ Close qualitative analysis of a videotaped small-group discussion among teachers
 - [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](teachers-notice-facets-not-metaphor-resource.md) — related
 - [Post-intervention, descriptions of motion in gravitational fields shift away from falling-toward-ground answers, with orbital-motion descriptions doubling](orbital-motion-descriptions-double.md) — related
 - [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related
+- [Dual construction: two simultaneous readouts of one situation — masses-and-motion versus forces-and-distance — yield conflicting answers about kinetic energy](dual-construction-work-energy-two-readouts.md) — related

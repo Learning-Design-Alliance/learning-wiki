@@ -63,6 +63,7 @@ Expertise research shows that what distinguishes experts is not only richer know
 - [Teach students to generate differences between related concepts and associate each feature with its concept name before assessment](generate-differences-associate-features-strategy.md)
 - [Categorize digital medical courses as knowledge-, skill-, or problem-based and match each to its delivery format](three-digital-course-types-delivery-matching.md)
 - [Explicitly teach problem-solving heuristics (visualizing, checking conservation principles, examining limiting cases) to help students build and employ physical intuition](explicitly-teach-problem-solving-heuristics-strategy.md)
+- [Design problems via a model-based paradigm that induces qualitative, comparative reasoning instead of equation manipulation](model-based-problem-design-paradigm.md)
 
 ## Examples
 - **Physics problem sorting** — Chi et al.'s classic paradigm: novices sort mechanics problems by "inclined plane" or "pulley"; experts sort by conservation of energy or Newton's second law. Replicating this as a pre-instruction activity reveals and reshapes novice intuitions.

@@ -48,3 +48,4 @@ Pre-course free-response question answered by 78 students and post-course four-o
 - [The proportion of students endorsing astrology's usefulness decreased after the course, with 89% post-course holding that astrology lacks evidential support](astrology-endorsement-decreased-after-astronomy-course.md) — related
 - [The most common student misconception of the big bang is an explosion of pre-existing matter into empty space](big-bang-explosion-into-empty-space-misconception.md) — related
 - [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related
+- [The authors advocate adding Big Bang nucleosynthesis to A-level cosmology, arguing that with the Hubble relation and CMB it makes the Big Bang theory appear highly watertight](alevel-add-nucleosynthesis-watertight-big-bang.md) — related

@@ -65,3 +65,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [A median class normalized gain of 0.25 is adopted as the holistic threshold of an effective course, following Hake (1998)](median-normalized-gain-025-effective-course-threshold.md) — related
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
 - [All three tutoring methods produced comparable post-test gains on conceptual and computational physics questions](tutoring-methods-comparable-conceptual-computational.md) — related
+- [Interactive-engagement instruction produces roughly twice the average FCI conceptual gain of traditional lecture-and-homework instruction in introductory mechanics](ie-courses-double-normalized-gain-of-traditional.md) — a broader claim this one bears on

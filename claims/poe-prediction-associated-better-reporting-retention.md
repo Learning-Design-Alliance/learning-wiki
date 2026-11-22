@@ -46,3 +46,4 @@ Miller et al. studied predict-observe-explain across 22 mechanics and electricit
 
 ## Related Claims
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
+- [Students who passively observe a demonstration learn no more than students who have not seen it, so demonstrations require active prediction to be effective](passive-observation-demonstrations-no-learning-gain.md) — related

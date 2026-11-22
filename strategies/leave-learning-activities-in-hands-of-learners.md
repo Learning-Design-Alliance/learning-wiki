@@ -44,6 +44,7 @@ A forward-looking recommendation drawn from the findings: as machines increasing
 
 - [Teachers should be less prescriptive and allow students to decide how to carry out mathematics activities](less-prescriptive-teacher-role-pbl-math.md)
 - [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
+- [Use deliberate concealment (e.g. hiding the blow dryer) to make a demonstration's observation seem impossible, then devote class time to debunking the trick](concealed-mechanism-deception-demos.md)
 
 ## Examples
 -

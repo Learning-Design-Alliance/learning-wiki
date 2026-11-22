@@ -85,6 +85,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 - [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](web-assisted-cct-misconception-strategy.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Integrate animated video education into pre-procedural patient education](animated-video-preprocedural-education-strategy.md)
+- [Introduce modern physics concepts through conceptually accurate visual models such as Feynman diagrams, suited to animated ICT presentation](feynman-diagram-visual-models-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated science simulations paired with guided inquiry activities; studies show simulation-plus-guided-activity outperforms simulation alone [~M]

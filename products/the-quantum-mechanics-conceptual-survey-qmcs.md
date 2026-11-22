@@ -13,7 +13,7 @@ generated:
 # The Quantum Mechanics Conceptual Survey (QMCS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (8 for, 4 against) · 4 studies (3 design, 1 associational), `q2` · 0 of 4 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (12 for, 4 against) · 6 studies (3 design, 1 causal, 1 associational, 1 qualitative), `q2` · 0 of 6 report an effect size · 16 claims rest on one study
 
 ## Description
 A 12-question research-based multiple-choice survey developed by McKagan et al. to assess sophomore-level students’ conceptual understanding of quantum mechanics and compare instructional methods.
@@ -37,6 +37,10 @@ A 12-question research-based multiple-choice survey developed by McKagan et al. 
 - [Final exam performance in the graduate course shows no significant correlation with undergraduate-level QMCS conceptual scores](../claims/final-exam-uncorrelated-qmcs.md) [-W]
 - [Advanced undergraduate and graduate students have common difficulties with the time dependence of expectation values in quantum mechanics](../claims/advanced-students-time-dependence-expectation-values-difficulties.md) [+M]
 - [Advanced students' QMS scores are far higher in a class that used concept tests and QuILTs than in classes that did not use these research-based learning tools](../claims/qilt-concept-tests-associated-higher-qms-scores.md) [+M]
+- [A PER-reformed modern physics course for engineering majors produced higher normalized gains on the QMCS than traditional modern physics courses](../claims/reformed-modern-physics-higher-qmcs-gains.md) [+M]
+- [Interviewed students hold a robust misconception that reflection at a barrier is caused by electrons having a range of energies](../claims/reflection-misconception-range-of-energies-robust.md) [+M]
+- [62% of ENGsp05 and 53% of PHYsp05 students selected answers implying energy is lost in tunneling, which the authors report as a lower bound on the misconception's prevalence](../claims/tunneling-energy-loss-misconception-lower-bound.md) [+M]
+- [All four interviewed ENGsp05 students held a previously unreported misconception that the plotted U(x) is not the potential energy of the electron itself but an external energy](../claims/external-potential-energy-misconception-engsp05.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -45,3 +49,5 @@ A 12-question research-based multiple-choice survey developed by McKagan et al. 
 - McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. https://arxiv.org/abs/1007.2015. [doi:10.48550/arxiv.1007.2015](https://doi.org/10.48550/arxiv.1007.2015)
 - Guangtian Zhu and Chandralekha Singh. (2011). Surveying students' understanding of quantum mechanics in one spatial dimension. http://goo.gl/tSKuK
 - Singh, C. and Zhu, G. (2010). Surveying Students' Understanding of Quantum Mechanics. Department of Physics and Astronomy, University of Pittsburgh. https://www.aapt.org. [doi:10.1063/1.3515229](https://doi.org/10.1063/1.3515229)
+- S. B. McKagan, K. K. Perkins and C. E. Wieman. (2006). Reforming a large lecture modern physics course for engineering majors using a PER-based design. https://arxiv.org/abs/physics/0608239
+- S. B. McKagan and C. E. Wieman. (2006). Exploring Student Understanding of Energy through the Quantum Mechanics Conceptual Survey. https://arxiv.org/abs/physics/0608244

@@ -51,3 +51,4 @@ The chapter summarizes multiple misconception studies (Prather et al. 2003; Wall
 - [The proportion of students dismissing the Big Bang theory as unsubstantiated speculation decreased from pre-course to post-course](big-bang-dismissal-decreased-post-course.md) — related
 - [The proportion of responses expressing space as empty dramatically reduced after the soundscape, challenging the empty-space misconception](emptiness-misconception-reduced-after-soundscape.md) — a narrower finding that bears on this claim
 - [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related
+- [The AQA GCSE exemplar statement that the Universe started from one place is a common misconception, since with no matter there could be no place to define](universe-started-from-one-place-misconception.md) — related

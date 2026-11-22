@@ -48,3 +48,4 @@ Correlation analysis of contribution quality indicators (progress, likes, commen
 ## Related Claims
 - [No significant correlation found between participants' behavior and the quality of their contributions](no-behavior-quality-correlation-oc-teachers.md) — related
 - [Self-reported motivations show inconsistent relations with participants' behavior across two iterations of an online teacher community](motivations-behavior-inconsistent-correlations-oc-teachers.md) — related
+- [Comments stored as metadata let students annotate each other's data, plots and posters and build on each others' work as scientists do](quarknet-metadata-comments-collaboration.md) — related

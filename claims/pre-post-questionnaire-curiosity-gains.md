@@ -49,3 +49,4 @@ Pre/post questionnaire comparison using an Astronomy Questionnaire developed by 
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related
+- [The authors report that simple pre-lecture fiber optics demonstrations bring out student curiosity and help students, especially non-science majors, learn more easily](fiber-optics-demonstrations-aid-understanding.md) — related

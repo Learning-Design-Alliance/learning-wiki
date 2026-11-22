@@ -48,6 +48,7 @@ SPOT gives presenters a six-point recipe for making difficult topics such as bla
 - [Use a frontier science facility's detector search as a platform for multi-audience outreach programs](ligo-observatory-outreach-programs.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](grav-wave-education-tools-for-educators.md)
 - [Employing college students as paid on-stage presenters to make physics relatable to young audiences](paid-student-presenters-relatable-role-models.md)
+- [Differentiate web science content by audience: interactive scenarios for novices, reference organization for experts](audience-differentiated-web-content.md)
 
 ## Examples
 -

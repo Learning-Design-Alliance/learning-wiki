@@ -54,3 +54,4 @@ Qualitative case study drawn from approximately 150 hours of video data of upper
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — a broader claim this one bears on
 - [Assessment features, such as not providing numbers, can shift a student's epistemic form and thereby shift their epistemological frame](assessment-features-shift-resource-and-frame.md) — related
 - [Epistemological frame shifts occur at the level of a shift in a single epistemological resource](frame-shifts-via-single-resource-shift.md) — related
+- [Students' capacity for distinguishing between models of light determines whether they can apply holography knowledge in a problem-oriented manner](model-distinguishing-capacity-determines-holography-reasoning.md) — related

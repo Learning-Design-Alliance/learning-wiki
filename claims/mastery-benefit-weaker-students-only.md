@@ -50,3 +50,4 @@ Same median-split analysis of the first clinical trial, top half by final semest
 - [No mastery-versus-traditional difference was seen in the calculus-based friction trial (trial two)](no-difference-calculus-friction-trial.md) — related
 - [Mastery-style homework outperformed traditional-style homework on 9 of 12 post-test questions in the first clinical trial, significantly on 3](mastery-homework-outperformed-trial-one.md) — related
 - [No mastery-versus-traditional difference was seen in the end-of-semester Newton's laws trial (trial three)](no-difference-newtons-laws-trial.md) — related
+- [Students with stronger pre-test performance made larger gains in the course than weaker students](tlp-prior-knowledge-gain-gradient.md) — reports the opposite

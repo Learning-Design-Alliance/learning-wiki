@@ -47,6 +47,7 @@ Because the FCI is administered before instruction, its question-level results c
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Baseline Assessment](baseline-assessment.md)
 - [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
+- [Use confidence-weighted FCI pretests to identify strongly held misconceptions for targeted instruction](wfci-pretest-misconception-identification-strategy.md)
 
 ## Examples
 -

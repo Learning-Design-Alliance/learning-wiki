@@ -49,3 +49,4 @@ The article attributes this claim to cited prior work (references 11 and 18) as 
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](diy-prediction-better-conceptual-learning-than-yoked-observation.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Students who passively observe a demonstration learn no more than students who have not seen it, so demonstrations require active prediction to be effective](passive-observation-demonstrations-no-learning-gain.md) — related

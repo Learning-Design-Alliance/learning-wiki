@@ -55,3 +55,4 @@ Thematic analysis of four open-response survey items following Braun and Clarke 
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
 - [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related
 - [Qualitative themes converged with the quantitative profile on usefulness and enthusiasm but diverged on output quality, surfacing a reliability-sceptical minority](qualitative-divergence-output-quality-reliability-sceptics.md) — related
+- [Students pinpointed the graphical form of the spreadsheet-based algorithm, with automatic graph updating, as the key merit of the approach](spreadsheet-graphical-form-key-merit.md) — related

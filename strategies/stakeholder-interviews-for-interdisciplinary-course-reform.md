@@ -49,6 +49,7 @@ This strategy adapts stakeholder-consultation models of course transformation to
 
 - [Operationalize lab learning goals through stakeholder interviews, prioritization, and concept mapping](stakeholder-interviews-concept-map-lab-goals.md)
 - [Use a case-study stakeholder analysis with questionnaires and interviews to map LMS stakeholder roles, importance, and interactions](case-stakeholder-analysis-lms-questionnaires-interviews.md)
+- [Use faculty interviews to set learning goals and tailor content to the actual student population in upper-division courses](faculty-interviews-set-upper-division-goals.md)
 
 ## Examples
 -

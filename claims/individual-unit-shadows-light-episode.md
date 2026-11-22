@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: weak
-newest_evidence: 2009
+newest_evidence: 2010
 sources:
-  - id: conlin-2009
+  - id: conlin-2010
     resource: "https://doi.org/10.48550/arXiv.1003.0491"
-    title: "Conlin, L., Gupta, A., & Hammer, D. (2009). Where to find the mind: Identifying the scale of cognitive dynamics. [doi:10.48550/arXiv.1003.0491](https://doi.org/10.48550/arXiv.1003.0491)"
+    title: "Conlin, L., Gupta, A., & Hammer, D. (2010). Where to find the mind: Identifying the scale of cognitive dynamics. Originally published 2009. [doi:10.48550/arXiv.1003.0491](https://doi.org/10.48550/arXiv.1003.0491)"
     author: "Conlin, L., Gupta, A., & Hammer, D."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Veronica and Jan showed unsynchronized behaviors and contrasting, mutually resistant epistemological stances, with no group-level transitions, supporting an individual unit of analysis. [→ Conlin 2009](#conlin-2009)
+`q2 i?` Veronica and Jan showed unsynchronized behaviors and contrasting, mutually resistant epistemological stances, with no group-level transitions, supporting an individual unit of analysis. [→ Conlin 2010](#conlin-2010)
 
 ## Evidence
 
-### Conlin 2009
+### Conlin 2010
 
-Conlin, L., Gupta, A., & Hammer, D. (2009). Where to find the mind: Identifying the scale of cognitive dynamics. [doi:10.48550/arXiv.1003.0491](https://doi.org/10.48550/arXiv.1003.0491)
+Conlin, L., Gupta, A., & Hammer, D. (2010). Where to find the mind: Identifying the scale of cognitive dynamics. Originally published 2009. [doi:10.48550/arXiv.1003.0491](https://doi.org/10.48550/arXiv.1003.0491)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,3 +50,5 @@ Qualitative case analysis of a two-student disagreement about light through an a
 - [A teaching assistant's arrival shifts group behavior to the red cluster, corresponding to framing the activity as listening to the TA](ta-arrival-shifts-framing-to-listening.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
+- [Incremental conceptual change adds or deletes single resources, and the two incremental changes in the light-and-shadow tutorial can be independent of each other](incremental-change-independent-additions-light-shadow.md) — related
+- [In the light and shadow tutorial Jan sought a formal, \"physics-oriented\" explanation, and her homework revealed she lacked the everyday understanding she claimed in discussion](jan-physics-oriented-formalism-light-shadow.md) — related

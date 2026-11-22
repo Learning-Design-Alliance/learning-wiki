@@ -50,3 +50,4 @@ The author's theoretical interpretation of the interview data: rather than claim
 - [Mental space integration makes fewer assumptions and has greater explanatory and predictive power than the resources framework for this data](blending-greater-power-than-resources-framework.md) — a broader claim this one bears on
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [In a year-1 key-drop lesson, Mr. S primarily attended and responded to the causal factors within students' ideas](causal-factors-foregrounding-year1.md) — related
+- [University physics students incorrectly explain wavepulse speed as determined by the hand motion that created the wave, both before and after modified instruction](hand-motion-determines-wavepulse-speed-misconception.md) — related

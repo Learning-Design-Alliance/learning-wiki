@@ -72,3 +72,4 @@ In the same conclusion the author argues that "the rich immersive 3D  massively 
 - [Second Life role-play yields higher cultural awareness and diversity understanding than face-to-face role-play](sl-higher-cultural-awareness.md) — related
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](sl-higher-multicultural-acceptance.md) — related
 - [Microworld-type pedagogical software can give significant pedagogical effect despite minimal teaching-management functions](activity-oriented-software-develops-intellect.md) — related
+- [Learning-focus A is non-productive for learning, while B and C carry restricted value](focus-a-nonproductive-b-c-restricted.md) — related

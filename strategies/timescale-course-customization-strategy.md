@@ -43,6 +43,7 @@ The article recommends adapting the timescale course to the audience and availab
 
 - [Teach order-of-magnitude estimation through timescale calculations to build students' timescale intuition](order-of-magnitude-timescale-estimation-strategy.md)
 - [Personalize e-learning content through an entry customization questionnaire and organize topics in graduated complexity levels](customization-questionnaire-personalized-content-strategy.md)
+- [Differentiate web science content by audience: interactive scenarios for novices, reference organization for experts](audience-differentiated-web-content.md)
 
 ## Examples
 -

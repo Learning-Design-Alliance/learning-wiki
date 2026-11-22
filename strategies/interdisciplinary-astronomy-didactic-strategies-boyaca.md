@@ -49,6 +49,7 @@ The article's concluding recommendation is to strengthen scientific concepts thr
 - [Link archaeo-astronomy to science curricula through four common key areas: astronomy, geology, biology and chemistry](archaeo-astronomy-curriculum-links-three-countries.md)
 - [Design interdisciplinary physics courses (e.g., physics for biology and chemistry majors) around applications of physics to the partner discipline without compromising standards](interdisciplinary-applied-physics-courses-strategy.md)
 - [Use aesthetically striking, dual art-science images with the four-step Interdisciplinary Image Reading routine in astronomy lessons](four-step-image-reading-astronomy-lessons-strategy.md)
+- [Extend the film-analysis approach to other disciplines such as astronomy, biology and mathematics](film-analysis-other-disciplines-strategy.md)
 
 ## Examples
 -

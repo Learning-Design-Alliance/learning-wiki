@@ -69,3 +69,4 @@ The authors' synthesis of prior studies: "rubric-based observation tools (though
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
 - [Control-group focus-group participants perceived their structured debriefing as superficial, focused on general overview rather than critical reflection](control-debriefing-perceived-superficial.md) — related
 - [Students who reported skimming tutorials and inconsistently short self-reported times suggest superficial engagement despite perceived effectiveness](superficial-self-study-engagement-skimming-self-report.md) — related
+- [Physics faculty perceive educational researchers as dogmatic promoters of particular curricula rather than as collaborators interested in faculty and students](faculty-perceive-per-dogmatic.md) — related

@@ -62,6 +62,7 @@ Naming a strategy after successfully using it converts an implicit, situational 
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the modeling method that makes strategies visible before students name their own
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a structured version of strategy instruction with turn-taking roles
 - [Teach students to recognize when they are applying heuristics and how to exert control over them](recognize-and-control-heuristics-strategy.md)
+- [File your worked solutions in an organized personal archive](file-your-work-solutions-archive.md)
 
 ## Examples
 - **Polya's heuristics in math class** — a teacher posts "understand, plan, carry out, look back" and, after students solve a hard problem, asks "What was your plan?" and adds student-named heuristics (draw a picture, try a smaller number) to an anchor chart.

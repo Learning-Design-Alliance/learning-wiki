@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 121 claims (76 for, 42 mixed, 3 against) · 97 studies (71 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 20 of 97 report an effect size · 115 claims rest on one study
+> **Evidence** · 122 claims (77 for, 42 mixed, 3 against) · 98 studies (71 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 20 of 98 report an effect size · 116 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -157,6 +157,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Adult learners report similar affect toward the human instructor video and the AI synthetic video](../claims/affect-similar-human-and-ai-video.md) [~M] — attached 2026-11-20 from Lia et al. (2024), which proposed "AI-generated synthetic video learning material built with Synthesia".
 - [Students taught with AI-generated instructional videos perform comparably to students taught with human instructional videos on course quizzes](../claims/aiiv-comparable-quiz-performance-hiv.md) [~M] — attached 2026-11-21 from Dengsheng Zhang (2025), which proposed "Semi-automated AIIV workflow combining Google Gemini script generation, Amazon Polly voice synthesis, and PowerPoint video assembly".
 - [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](../claims/aiiv-positive-student-survey-perceptions.md) [+M] — attached 2026-11-21 from Dengsheng Zhang (2025), which proposed "Semi-automated AIIV workflow combining Google Gemini script generation, Amazon Polly voice synthesis, and PowerPoint video assembly".
+- [Group interviews found that films kept students' attention better than lecture and helped them remember the concepts illustrated in the films](../claims/student-interviews-films-aid-attention-and-memory.md) [+W] — attached 2026-11-22 from C. Efthimiou et al. (2006), which proposed "Physics in Films: a film-based physical science course for non-science majors with genre-specialized sections and electronic response systems".
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -98,3 +98,4 @@ Table I comparison of solo-phase exam percentages between female (N=521) and mal
 - [Female students showed significantly higher FCI gains than male students in the paired 2020 data, despite males' higher pre-test mean](fci-gender-gain-advantage-females-uj-2020.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
 - [Prospective teachers' prior knowledge (half-length FCI) showed no significant relationship with the quality of the tasks they created](fci-prior-knowledge-unrelated-to-task-quality.md) — related
+- [On average there was no gender difference in course performance, though the two largest absolute gains were both women](tlp-gender-performance-pattern.md) — reports the opposite

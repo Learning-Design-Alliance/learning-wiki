@@ -50,3 +50,4 @@ Primary ANCOVA in this pilot randomized between-subjects study (24 undergraduate
 - [Mixed Reality showed the largest normalized learning gain (g = .57), and only the MR group improved reliably from baseline to post-test](mr-largest-normalized-gain-within-group.md) — related
 - [ET and MR conditions produced the highest quiz scores, though no statistical test is reported](et-mr-highest-quiz-scores.md) — related
 - [A mixed-reality holo.lab setting improves undergraduate students' gain in conceptual understanding of heat transfer and thermal conduction, with a small adjusted effect](mr-hololab-improves-heat-conduction-conceptual-gain.md) — related
+- [CCS-based instruction produces more learning than the traditional lecture format and learning of a different, more conceptual kind](ccs-more-different-learning-than-lecture.md) — related

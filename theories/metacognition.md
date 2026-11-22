@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 524 claims (253 for, 241 mixed, 30 against) · 285 studies (138 causal, 63 associational, 34 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 94 of 285 report an effect size · 517 claims rest on one study
+> **Evidence** · 525 claims (253 for, 242 mixed, 30 against) · 286 studies (138 causal, 63 associational, 34 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 8 design), `q1`–`q4` · 94 of 286 report an effect size · 518 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -568,6 +568,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive behavior has a strong positive effect on object-oriented programming performance (γ2 = 0.52, p < 0.001), explaining 27% of variance](../claims/metacognitive-behavior-strong-effect-oop-27-percent-variance.md) [+W] — attached 2026-11-20 from Bostjan Bubnic et al. (2024), which proposed "Two-dimensional metacognition model: off-line metacognitive awareness and on-line metacognitive behavior"; tests this page's relationship.
 - [Interviewed faculty flexibly moved between conceptual and quantitative reasoning, checking intuition with approximations, estimations and calculations](../claims/faculty-flexible-conceptual-quantitative-reasoning.md) [+W] — attached 2026-11-21 from Alexandru Maries et al. (2023), which proposed "Thinking like a physicist: flexible, metacognitive problem-solving with self-scaffolding".
 - [Learners with lower prior knowledge show a greater illusion of understanding, tentatively supporting the Dunning–Kruger effect as a mechanism](../claims/low-knowledge-learners-greater-illusion-of-understanding.md) [+W] — attached 2026-11-21 from Madeleine Hörnlein et al. (2024), which proposed "Illusion of understanding as a metacognitive belief following instructional explanations".
+- [Case study: a junior physics major detected a conflict between his personal analogy and class knowledge but initially followed the analogy](../claims/todd-case-metacognitive-conflict-detection.md) [~W] — attached 2026-11-22 from Keith Oliver et al. (2002), which proposed "Meta-resources: resources students use to evaluate and control their own thought processes".
 
 ## The evidence by question
 

@@ -202,3 +202,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Human participants frame wellbeing through concrete everyday practices while GPT models link it to abstract psychological and clinical constructs.](wellbeing-concrete-humans-abstract-gpt.md) — related
 - [Comics and animation are reported to be effective for physics instruction and to increase motivation and retention](comics-animation-effective-physics-instruction.md) — related
 - [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — related
+- [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — a narrower finding that bears on this claim

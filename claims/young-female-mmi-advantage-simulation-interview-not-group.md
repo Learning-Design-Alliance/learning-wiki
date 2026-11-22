@@ -53,3 +53,4 @@ Hierarchical linear model of 11,658 station ratings within 1438 first-attempt MM
 - [Candidates with a medical family background (at least one parent who is a physician) showed no significant performance differences at any MMI station type](no-medical-family-background-advantage-mmi.md) — related
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — reports the opposite
 - [MMI performance is significantly related to gender and age: female and older candidates scored higher](hamburg-mmi-gender-age-control-variables.md) — a broader claim this one bears on
+- [Females used more misconceptions than males in DIRECT interviews, and males outperformed females on the test](direct-gender-misconception-differences.md) — related

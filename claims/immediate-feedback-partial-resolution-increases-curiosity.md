@@ -53,3 +53,4 @@ The review reports, citing Loewenstein and colleagues (1992, cited in Loewenstei
 - [Students incorrectly considered partially hinting images helpful](students-misjudge-hint-images-as-helpful.md) — related
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [Families reported expanded vocabulary and increased interest in scientific matters after the program](families-report-expanded-vocabulary-and-science-interest.md) — related
+- [Once students commit to and externalize an answer, they become emotionally invested and pay far more attention to subsequent discussion](ccs-answer-commitment-boosts-attention.md) — related

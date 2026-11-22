@@ -47,3 +47,4 @@ Observational result from Table 1 (Fa04, N matched 302, normalized gain 0.54) wh
 ## Related Claims
 - [All semesters using research-based Tutorials in recitation produced higher learning gains than any semester with traditional recitations](tutorials-beat-traditional-recitations.md) — related
 - [Student-designed tutorials produced high normalized learning gains (Hake gain 0.8) in tutored introductory physics students](student-tutorials-hake-gain-0-8.md) — related
+- [Switching to a PER-based textbook raised students' average usefulness ranking of the textbook from 2.1 to 3.2 on a 1–5 scale](per-textbook-usefulness-ranking-rose.md) — related

@@ -53,3 +53,4 @@ This finding addresses the article's third research question on experts' message
 - [The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed](multiple-entry-points-quantum-careers.md) — related
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
+- [Astronomy master's training develops transferable skills that industry and finance employers value beyond disciplinary specialisation](astronomy-degree-transferable-skills.md) — related

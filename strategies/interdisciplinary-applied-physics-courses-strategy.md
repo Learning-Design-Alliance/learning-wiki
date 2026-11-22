@@ -52,6 +52,7 @@ The article recommends specially designed courses for non-physics majors as a wa
 
 - [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
 - [Develop interdisciplinary didactic strategies linking astronomy concepts with physics, chemistry and biology, and revise the curricular distribution of astronomical concepts](interdisciplinary-astronomy-didactic-strategies-boyaca.md)
+- [Extend the film-analysis approach to other disciplines such as astronomy, biology and mathematics](film-analysis-other-disciplines-strategy.md)
 
 ## Examples
 -

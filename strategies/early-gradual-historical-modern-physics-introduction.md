@@ -54,6 +54,7 @@ Based on their findings, the authors propose reforms for introducing modern phys
 
 - [Six didactic proposals for high-school Quantum Physics teaching](six-didactic-proposals-quantum-physics-high-school.md)
 - [Introduce particle physics concepts of scale and matter in elementary education](introduce-particle-physics-early-advocacy.md)
+- [Introduce modern physics concepts through conceptually accurate visual models such as Feynman diagrams, suited to animated ICT presentation](feynman-diagram-visual-models-strategy.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Survey Question 6(b) asked students to sketch a scattering state for a finite sq
 - [Only 34% of beginning graduate students correctly identified all three allowed wavefunctions for an infinite square well; 45% rejected A sin³(πx/a) although it satisfies the boundary conditions](grad-qm-possible-wavefunction-difficulty.md) — related
 - [Students often draw wave function diagrams from memory or memorized procedures without a qualitative feel for the physics](wave-function-sketches-drawn-from-memory.md) — related
 - [Students hold misconceptions that an energy eigenfunction can be simultaneously a bound and a scattering state and that certain potentials allow both](bound-scattering-state-misconceptions.md) — related
+- [When sketching tunnelling wave functions, students show an axis shift, treating the height of the oscillation axis as indicating particle energy](axis-shift-wave-function-sketches.md) — related

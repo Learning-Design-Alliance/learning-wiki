@@ -53,3 +53,4 @@ Post-test answer-choice analysis in the Results section for Q16 (sphere collisio
 - [Mistake type moderated diagnosability: application errors were diagnosable on the conventional problem but invocation errors were not](mistake-type-moderates-self-diagnosability.md) — related
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
 - [TAs consistently overestimated how novice-like introductory students' thinking would be, expecting more novice-like errors than students actually made](tas-overestimate-novice-like-student-thinking.md) — related
+- [University modeling students show greater conceptual gains than traditional instruction and learn momentum conservation faster](modeling-university-conceptual-gains-momentum.md) — related

@@ -51,3 +51,4 @@ Cumulative multiple-choice test administered to different populations: tutorial 
 - [Upper-level E&M students do not perform significantly better than introductory students on the symmetry and Gauss's law concept test](upper-level-em-no-significant-gain.md) — related
 - [First-year physics graduate students improved less than undergraduates (pre 44% to post 73%, normalized gain 0.52), possibly due to lack of grade incentives](quilt-dse-graduate-lower-gain-0-52.md) — related
 - [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — related
+- [Written test scores were 44–61% on average in nonhonor classes and 75% in an honor class, with difficulties consistent with the interviews](rotational-test-scores-44-61-nonhonor-75-honor.md) — related

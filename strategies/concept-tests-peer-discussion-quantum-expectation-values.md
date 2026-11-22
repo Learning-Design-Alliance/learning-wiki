@@ -53,6 +53,7 @@ The authors are developing reflective problems that complement quantitative prob
 - [Use research-based learning tools on Dirac notation, including the guided-inquiry QuILT, reflective problems, and peer concept tests](dirac-notation-research-based-learning-tools-strategy.md)
 - [Integrate qualitative problem tasks into lectures and seminars alongside quantitative tasks](qualitative-problem-tasks-integration-strategy.md)
 - [Sensitize instructors to students' likely conceptual difficulties when teaching first-year graduate quantum mechanics](sensitize-instructors-quantum-conceptual-difficulties.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Examples
 -

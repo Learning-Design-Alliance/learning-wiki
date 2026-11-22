@@ -54,3 +54,4 @@ The authors' analysis of Episode 1 transcript data: Lynn, using a substance-base
 - [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
 - [Post-intervention, descriptions of motion in gravitational fields shift away from falling-toward-ground answers, with orbital-motion descriptions doubling](orbital-motion-descriptions-double.md) — related
 - [Students' crossroads definitions fall into four conceptual categories, with scientific definitions grounded in activity or prior knowledge the most frequent pattern](four-conceptual-categories-student-definitions.md) — related
+- [Dual construction: two simultaneous readouts of one situation — masses-and-motion versus forces-and-distance — yield conflicting answers about kinetic energy](dual-construction-work-energy-two-readouts.md) — related

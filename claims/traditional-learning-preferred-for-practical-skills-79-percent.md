@@ -48,3 +48,4 @@ Institute-preparedness section of the same survey: Table 3 prints 170 (20.5%) YE
 - [Students were relatively satisfied with online exams (74.5% found them well-structured) despite 63% facing technical problems while attempting them](online-exams-well-structured-despite-connectivity-problems.md) — related
 - [Science process skills scores fell from pretest to posttest within the control group under traditional laboratory instruction, without a significant change](traditional-lab-instruction-no-sps-improvement.md) — related
 - [Teachers of large virtual classes in Ghana faced environmental constraints, inadequate institutional support, learner reluctance to participate, inability to monitor attentiveness, and delayed feedback due to class size](large-virtual-class-challenges-ghana-covid.md) — related
+- [Students criticised the laboratory manual as too prescriptive and the simulation controls as difficult to use](rtr-manual-and-controls-criticisms.md) — related

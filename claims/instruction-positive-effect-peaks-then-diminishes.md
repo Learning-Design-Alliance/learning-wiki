@@ -61,3 +61,5 @@ Between-student response curve for Mechanics (Fig. 3), averaged across fall and 
 - [The percentage of unanswered questions (%N/A) increased towards the end of the FCI pre-test](fci-na-responses-increase-toward-test-end.md) — related
 - [Dominant misconceptions persisted from pre-test to post-test, concentrated in questions on Newton's second and third laws, zero vector-sum of forces, and circular motion](persistent-dms-newton-laws-vector-circular.md) — related
 - [Connection-making gains from scaffolding do not persist at delayed post-test, while metacognition gains persist only in the control group](connection-gains-not-persistent-metacognition-mixed.md) — related
+- [In collision prediction tasks, a quarter to a third of groups predicted the correct equal-and-opposite forces, often those using a system schema](collision-predictions-schema-users-physics-answer.md) — related
+- [Students taught with modeling, discourse management, and system schema scored significantly better on the FCI Newton's Third Law questions than students taught with Workshop Physics](system-schema-fci-third-law-posttest-gain.md) — related

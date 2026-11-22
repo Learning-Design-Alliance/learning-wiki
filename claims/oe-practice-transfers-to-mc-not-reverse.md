@@ -3,6 +3,7 @@ type: claim
 title: The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold
 description: The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold
 id: oe-practice-transfers-to-mc-not-reverse
+aliases: [oe-practice-transfers-to-mc-not-converse]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 1
+  - id: cristian-raduta-2005
+    resource: "https://doi.org/10.48550/arXiv.physics/0503124"
+    title: "Cristian Raduta, Gordon Aubrecht. (2005). Cultural differences in answering physics questions: Could they arise from the difference between reasoning expected in answering exam questions in those cultures?. Originally published 2002. [doi:10.48550/arXiv.physics/0503124](https://doi.org/10.48550/arXiv.physics/0503124)"
+    author: Cristian Raduta, Gordon Aubrecht
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r1` · `q1`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q1 i?` The author states that practice with OE questions transfers to MC answering, whereas students practiced on MC questions are not easily able to formulate answers in their own words. [→ C. M. Răduță 2013](#c-m-raduta-2013)
+
+`q1 i?` Students practiced at answering OE questions are at least as able to pick the correct choice from distracters, but students practiced on MC questions are not easily able to formulate answers in their own words. [→ Cristian Raduta 2005](#cristian-raduta-2005)
 
 ## Evidence
 
@@ -41,12 +53,25 @@ This is the author's asserted asymmetry of transfer between question formats, of
 
 > "After long practice at answering MC questions, students are not easily able to formu late an answer in their own words. The converse is not true, however: Students practiced at answering OE questions are at least as able to pick the correct choice from the distracters."
 
+### Cristian Raduta 2005
+
+Cristian Raduta, Gordon Aubrecht. (2005). Cultural differences in answering physics questions: Could they arise from the difference between reasoning expected in answering exam questions in those cultures?. Originally published 2002. [doi:10.48550/arXiv.physics/0503124](https://doi.org/10.48550/arXiv.physics/0503124)
+
+`q1 · i?` · `theoretical · r1`
+
+An assertion in the disadvantages discussion of MC versus OE questions, offered with the argument that answering in one's own words proves deep understanding. The article offers no data for this asymmetry; it is the authors' opinion, which they note should be tested experimentally.
+
+> "The converse is not true, however: Students practiced at answering OE questions are at least as able to pick the correct choice from the distracters."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [US students exposed mostly to MC exams and Romanian students exposed mostly to OE exams answered E&M survey problems in observably different styles, with American students slightly better on average on this small survey](mc-vs-oe-answer-style-us-romanian-em-survey.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](lures-transfer-erroneous-reasoning.md) — related
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
+- [The authors argue extensive use of multiple-choice questions builds student confidence without understanding](mc-questions-foster-confidence-paradox.md) — related

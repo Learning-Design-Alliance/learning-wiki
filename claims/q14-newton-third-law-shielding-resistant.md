@@ -50,3 +50,4 @@ Analysis of CSEM Q14 responses across three student populations: 401 introductor
 - [Most common incorrect answer choices on the CSEM are the same for introductory and upper-level students, with lower percentages among upper-level students](same-alternate-conceptions-intro-upper-level.md) — related
 - [Upper-level students performed well on Coulomb's law and electric field-force connection questions, with post-test performance above 85% and 80% respectively in nearly all contexts](upper-level-strong-coulomb-law-e-field-force.md) — related
 - [In one single-group pre-post study, Q14 (electrical shielding) group scores were 40% versus 26% individually, while on Q30 (Faraday's law) option E rose from 5% to 10% after peer interaction](peer-groups-converge-incorrect-beyond-zpf.md) — related
+- [Students cannot distinguish Newton's second from third law, treating any equal-and-opposite force pair as a third-law pair](second-third-law-confusion.md) — related

@@ -57,3 +57,4 @@ Post hoc psychometric analysis of the 20 final exam items: "KR-20 = 0.63 for the
 - [The labs did not measurably affect conceptual learning: combined conceptual lab-related items showed no significant difference, and only one of 20 multiple-choice items was significant](lab-no-conceptual-learning-effect.md) — related
 - [Lab-course takers entered and left the course with higher content ability, but taking the lab did not interact with this ability gap](lab-students-higher-ability-no-interaction.md) — related
 - [Physics graduate students benchmark an average MCS score of 83% with KR-20 of 0.87](mcs-graduate-student-benchmark.md) — related
+- [Both versions of DIRECT are reliable and valid for assessing DC circuit conceptual understanding](direct-reliable-and-valid.md) — related

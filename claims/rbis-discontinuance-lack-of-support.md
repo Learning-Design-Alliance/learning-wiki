@@ -54,3 +54,4 @@ The article reports, citing prior work (ref 7), that "about a third of these fac
 - [The New Faculty Workshop for Physics and Astronomy supported both subjects' development of their teaching practices](new-faculty-workshop-supports-teaching-growth.md) — related
 - [Reading PERbites rarely led readers to try new instructional strategies or research techniques](perbites-limited-practice-change.md) — related
 - [Discontinuation of research-based instructional strategies after trying fell from 32% of triers in 2008 to 5% in 2019](rbis-discontinuation-fell-32-to-5-percent.md) — related
+- [Most self-reported instructional changes by physics faculty fall on the reinvention/invention side of the adoption-invention continuum rather than the adoption side](faculty-changes-reinvention-invention-dominant.md) — related

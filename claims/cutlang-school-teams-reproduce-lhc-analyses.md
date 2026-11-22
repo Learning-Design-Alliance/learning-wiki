@@ -49,3 +49,4 @@ Team exercise outcomes reported in Section 2.6 (Student Presentations): 8 teams 
 - [Instructors' oral evaluations at final presentations indicated junior and senior undergraduates could access HEP data analysis](cutlang-school-oral-evaluations-accessibility.md) — related
 - [Nine months after the school, most responding students reported comfort with key concepts and 87% agreed they could prepare a simple CutLang ADL file](cutlang-school-knowledge-retention-nine-months.md) — related
 - [Students with no coding or analysis experience performed LHC analyses after ADL/CutLang training at two dedicated schools](adl-cutlang-student-analysis-training-outcomes.md) — related
+- [Analyzing data from a student-built detector introduces students to statistical methods at a level not available in standard courses](detector-data-statistics-beyond-standard-courses.md) — related

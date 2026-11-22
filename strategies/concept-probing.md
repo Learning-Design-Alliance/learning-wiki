@@ -69,6 +69,7 @@ Concept probing operationalizes the principle that new learning is constructed f
 - [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](concept-tests-misconception-diagnosis-strategy.md)
 - [Adjust teaching and learning to reinforce concepts flagged by pre-test misconception data](adjust-teaching-from-pretest-misconception-data.md)
 - [Amend FCI distractors and add free-text and law-selection sub-questions to assess conceptual understanding more deeply](amend-fci-distractors-law-selection-strategy.md)
+- [Use confidence-weighted FCI pretests to identify strongly held misconceptions for targeted instruction](wfci-pretest-misconception-identification-strategy.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — Hestenes, Wells, & Swackhamer's (1992) diagnostic instrument whose distractors encode common Newtonian misconceptions; widely used to probe and re-probe mechanics understanding in physics courses. [https://www.physport.org/assessments/assessment.cfm?A=FCI](https://www.physport.org/assessments/assessment.cfm?A=FCI)

@@ -50,3 +50,4 @@ Mid-semester comparison across sections with deliberately varied exam structures
 - [Writing-containing active-learning treatments (writing-only and discussion+writing) yield higher exam essay performance than discussion-only treatment](writing-treatments-higher-exam-essay-than-discussion-only.md) — related
 - [Students expressed a preference for combined assessment techniques over a single format](students-prefer-combined-assessment-formats.md) — related
 - [Students tended to lean toward objective questions over subjective essay formats in the authors' demographics survey analysis](students-prefer-objective-over-essay-questions.md) — related
+- [The authors propose that expressed learning style preferences may not align with the environment that best produces learning, and that students may apply their styles regardless of course structure](preferences-may-not-align-with-learning-environment.md) — related

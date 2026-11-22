@@ -47,6 +47,7 @@ The report's fourth commitment grounds CT work in research-practice partnerships
 - [Bridge scientist-educator divides by clarifying visions of participation and identifying scalable practices](clarify-visions-and-scalable-practices-stsp-design.md)
 - [Participatory co-design of e-learning content with multi-stakeholder workshops](preterm-birth-participatory-codesign.md)
 - [Human-Centered Design co-design process for developing a departmental-culture survey](hcd-co-design-survey-development-strategy.md)
+- [Form a scientist-teacher-educator-industry 'flight team' partnership to enhance an elementary science unit](scientist-teacher-educator-flight-team-partnership.md)
 
 ## Examples
 -

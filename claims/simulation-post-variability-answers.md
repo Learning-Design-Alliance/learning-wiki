@@ -49,3 +49,4 @@ Authors' qualitative finding on the fourth and fifth questions, where pre-test a
 - [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related
 - [Before instruction, most prospective teachers believed long consecutive runs of heads or tails were impossible and failed to distinguish real from fake coin-flip data](pretest-consecutive-run-misconceptions.md) — related
 - [Students reported that simulation helped them become more aware of their own limitations](students-reported-increased-awareness-of-limitations.md) — related
+- [On a raindrop probability-density pretest, only about one third of students gave the correct answer, with the largest incorrect group treating equal-sized bins or random observation as equal likelihood](raindrop-pretest-equal-bin-reasoning.md) — related

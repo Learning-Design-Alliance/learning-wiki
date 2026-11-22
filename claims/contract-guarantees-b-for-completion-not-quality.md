@@ -52,3 +52,4 @@ The authors' description of the central provision of the contract they use in fi
 - [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related
+- [Job insecurity of contract and adjunct physics teachers, whose contract extensions depend on student evaluations, pressures them to compromise teaching standards](contract-teacher-insecurity-standards.md) — related

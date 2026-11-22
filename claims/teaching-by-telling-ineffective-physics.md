@@ -54,3 +54,4 @@ Overview column asserting a PER research finding, citing Hake's interactive-enga
 - [Multi-agent simulations are chosen because agent-based models help learners ground emergent phenomena in embodied agent-level intuitions](agent-based-models-ground-emergence-in-agent-level-intuitions.md) — related
 - [Teaching data science and machine learning courses helps instructors understand the material at a deeper level and benefits their HEP research](teaching-dsml-deepens-instructor-understanding.md) — related
 - [Many workshop participants could articulate new scientific concepts post-workshop, often grounded in visual or embodied understanding](workshop-learning-gains-embodied-understanding.md) — related
+- [The conceptual ex-nihilo obstacle lies beyond what an average physics teacher is equipped to address, per the article's assessment](ex-nihilo-conceptual-obstacle-beyond-teacher-training.md) — related

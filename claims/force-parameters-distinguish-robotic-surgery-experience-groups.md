@@ -59,3 +59,5 @@ Multicenter prospective study in which 60 participants across three experience g
 - [Force, motion and time parameters were largely uncorrelated in trials-to-proficiency, indicating time and motion monitoring alone does not capture tissue manipulation](force-motion-time-parameters-uncorrelated.md) — related
 - [Most trainees who repeated the pediatric suturing task improved: 71.0% improved their summed score, 16.1% decreased, and first and second trial scores correlated R = 0.89](second-trial-improvement-pediatric-suturing.md) — related
 - [A regression model using all four sensor streams (time, tip motion, visibility, grip) best predicted summed OSATS scores of unseen trials, within 4 points 89% of the time with correlation 0.85](tmvg-model-best-unseen-trial-osats-prediction.md) — related
+- [Spring force on the robot fingers follows Hooke's law, letting students change grip force by joystick pressure](hooke-law-spring-finger-force.md) — related
+- [Expert-rated quality scores of TPTE response lists to the prompt \"force\" correlate with students' course exam performance](tpte-quality-scores-correlate-with-exams.md) — related

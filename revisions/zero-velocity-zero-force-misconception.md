@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/zero-velocity-zero-force-misconception.md
+---
+
+# Revision history: [claims/zero-velocity-zero-force-misconception](../claims/zero-velocity-zero-force-misconception.md)
+
+### 2026-11-22 · ingest · process:wiki-ingest
+Ingested from arxiv-physics/0512158 (Observations on teaching first-year physics) via eval_harness.py + ingest_extractions.py

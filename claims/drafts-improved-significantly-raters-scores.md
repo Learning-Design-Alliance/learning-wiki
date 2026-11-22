@@ -49,3 +49,4 @@ Mixed design ANCOVA of two raters' averaged scores on pre- and postfeedback draf
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
 - [Revised drafts were significantly longer than first drafts, with significant effects of COMPASS score and treatment condition on word count](word-count-increased-significantly-revisions.md) — related
 - [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related
+- [Students did not show evidence of self-revising when asked to write short first drafts without a forced paired revision assignment](no-self-revision-without-forced-paired-assignment.md) — reports the opposite

@@ -47,3 +47,5 @@ The 148 IG-protocol students were divided into categories A (≥70%), B (50–70
 ## Related Claims
 - [Giving students an opportunity to formulate their own responses before peer discussion (IG) did not significantly improve group performance compared with discussing first (GI).](individual-first-before-peer-discussion-no-gain.md) — related
 - [Students who worked in pairs on the CSEM showed significantly higher normalized gain on subsequent individual testing than a control group that took the test individually twice.](peer-pair-csem-higher-normalized-gain.md) — related
+- [Gains of high (A) and middle (B) achievement students are markedly lower when paired with low (C) achievers, while C-student gains are the same regardless of partner](ab-gains-lower-paired-with-c-cc-gains-unchanged.md) — reports the opposite
+- [After pair discussion, average CSEM scores rose from 55% on initial individual testing to 74% on second individual testing two weeks later in one uncontrolled pre-post study.](pair-discussion-gains-retained-two-weeks.md) — related

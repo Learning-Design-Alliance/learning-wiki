@@ -50,3 +50,4 @@ Forecasting component of the fitness-chain megastudy: the article reports that "
 - [Only 8% of the exercise interventions induced behaviour change that was significant and measurable after the four-week intervention](megastudy-only-8-percent-persistent-behaviour-change.md) — related
 - [Among interventions that increased exercise during the intervention, carry-over effects were proportionally similar to previous research](megastudy-carryover-effects-similar-to-previous-research.md) — related
 - [Forecasts of intervention efficacy by scientists, platform staff, and teachers were overly optimistic by a factor of 30 or more, though rank orders correlated across forecasters](nudge-efficacy-forecasts-overly-optimistic.md) — related
+- [Just-in-time education experiences are proposed to instill change-coping, socioethical forecasting and assessment abilities in leaders and citizens](jite-instills-leader-citizen-abilities.md) — reports the opposite

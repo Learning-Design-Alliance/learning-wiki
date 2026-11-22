@@ -49,3 +49,4 @@ Episode analysis of secondary teachers discussing Energy Theater and Energy Cube
 - [Teachers describe energy as losing usefulness when it transforms into thermal or sound energy, while holding total energy constant](teachers-energy-loses-usefulness-transformation.md) — related
 - [Some teachers also judge sound energy as a less useful form, suggesting transformation into sound renders energy unavailable](teachers-sound-energy-less-useful.md) — related
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — related
+- [Students' informal definitions of symmetry converge on the scientists' definition of symmetry as invariance under transformations](student-definitions-converge-symmetry-invariance.md) — related

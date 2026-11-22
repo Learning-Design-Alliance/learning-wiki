@@ -45,6 +45,7 @@ Because many CTE programs hire industry experts who lack teaching experience, th
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
+- [Recommend career-centered IT curricula, cross-university co-teaching, and co-creating syllabi with students to improve IT learning outcomes and employability](career-centered-curricula-coteaching-and-student-codesign-strategy.md)
 
 ## Examples
 -

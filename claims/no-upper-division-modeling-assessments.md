@@ -47,3 +47,4 @@ The article's literature review of existing assessments (e.g., Kuo et al., PSRUS
 ## Related Claims
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](students-meaningfully-model-measurement-tools.md) — related
 - [Instructors identify every Modeling Framework subtask as an important learning outcome for upper-division optics and electronics labs](instructors-identify-all-modeling-subtasks-important.md) — related
+- [Black-box simulation programs do not teach all the skills desired in upper-division physics courses](black-box-applets-insufficient-upper-division.md) — related

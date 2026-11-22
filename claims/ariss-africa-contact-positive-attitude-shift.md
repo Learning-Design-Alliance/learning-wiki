@@ -71,3 +71,4 @@ Pre- and post-event questionnaires on a five-point Likert scale were completed b
 - [The scheduled ARISS contact was successfully executed, lasting approximately 10 minutes of live real-time Q&A with NASA astronaut Nichole Ayers](ariss-africa-contact-execution-ten-minutes.md) — related
 - [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related
+- [Student confidence shifted toward the higher end of the scale from pre-test to post-test, with a net confidence gain of 0.5751 across three sections](confidence-shift-toward-higher-end-post-test.md) — related

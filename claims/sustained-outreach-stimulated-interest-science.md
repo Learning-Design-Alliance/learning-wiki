@@ -68,3 +68,4 @@ Same 50-questionnaire Likert survey; the statement was "My interest in science h
 - [Over 80% of surveyed students reported positive impact of outreach on recognizing connections between physics topics and overall understanding, and 85% on teamwork and networking](outreach-survey-understanding-teamwork-impacts.md) — related
 - [The large majority of senior researchers agreed the outreach portfolio was a good learning experience for students](senior-researchers-endorse-portfolio.md) — related
 - [86.4% of students agreed the course motivated them to pursue a STEM career](qpic-course-motivated-stem-career.md) — related
+- [First-year students reported learning about relativity and increased interest from the Real Time Relativity simulation laboratory](rtr-students-reported-learning-and-interest.md) — related

@@ -50,3 +50,4 @@ One of four positive reasons the authors give for their hybrid approach of givin
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related
 - [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
 - [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related
+- [Job insecurity of contract and adjunct physics teachers, whose contract extensions depend on student evaluations, pressures them to compromise teaching standards](contract-teacher-insecurity-standards.md) — related

@@ -47,6 +47,7 @@ Students schedule timeslots over three or four days and complete "two full quest
 
 - [Points-per-intervention grading scheme to standardize oral exam scoring](points-per-intervention-oral-exam-grading.md)
 - [Randomized question-category assignment with oversize question pool and limited student choice](randomized-oral-exam-category-selection.md)
+- [Analyse pedagogical exposition situations (supervision, oral examination, lectures and seminars) with the four-category outcome space](analyse-exposition-pedagogical-situations-outcome-space.md)
 
 ## Examples
 -

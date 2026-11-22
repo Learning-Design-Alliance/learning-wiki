@@ -55,3 +55,4 @@ Descriptive demographic analysis of 27,265 active UDMOOC participants and 4894 D
 - [YWYL MOOC students are predominantly male, young, educated in STEM, and from developed countries, with most reporting little programming experience](ywyl-mooc-student-background-demographics.md) — related
 - [Demographics alone provide very limited explanatory and predictive information about MOOC achievement](demographics-insufficient-mooc-achievement.md) — related
 - [The OpenHPI quantum MOOCs attracted a heterogeneous audience biased toward male IT professionals with university degrees, but also reached hundreds to thousands of participants outside that profile.](openhpi-quantum-mooc-audience-heterogeneous-it-biased.md) — related
+- [The course and workshop together attracted about an order of magnitude more participants than an average graduate course at the local institutions](course-workshop-participation-impact.md) — related

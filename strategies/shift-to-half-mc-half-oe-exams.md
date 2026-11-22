@@ -17,7 +17,7 @@ sources:
 # Rebalance assessment toward mixed formats and reduce workload density to diversify students' reasoning structure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends rebalancing exam design: "Shift the way exams are held: from almost 100% M C questions to 50% MC questions and 50% OE questions (essays, etc.)", which "will result in a diversification of the reasoning structure that wil l benefit from the advantages of both learning systems". Further recommendations include emphasizing theory-type questions that force students "to think deeper on the theory", giving fewer (or more spaced) homeworks with harder final exams so students gain manageable free time, and increasing high-school physics and mathematics coursework.
@@ -51,6 +51,7 @@ The article recommends rebalancing exam design: "Shift the way exams are held: f
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 - [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](accommodate-every-preference-diversify-strategies.md)
+- [Shift exams from almost 100% multiple-choice to a 50% MC / 50% open-ended mix to diversify reasoning structure](fifty-fifty-mc-oe-exam-mix-strategy.md)
 
 ## Examples
 -

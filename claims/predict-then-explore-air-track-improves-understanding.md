@@ -53,3 +53,4 @@ The article describes explorations in which students first predict (e.g., whethe
 - [The article reports that EDAQino's minimal software forces students to learn sensor, signal-conditioning, sampling and signal-processing principles](edaquino-forces-learning-sensor-principles.md) — related
 - [Tablet-PC video analysis improves conceptual understanding of uniform motion relative to a reference system, but not of velocity-as-rate or velocity-as-vector sub-concepts](video-analysis-improves-reference-system-understanding.md) — related
 - [Hands-on accelerator construction activities engaged learners with energy transfer, forces, and acceleration concepts](hands-on-accelerator-activities-asp2024.md) — related
+- [Cognitive conflict — a situation that cannot be accounted for within existing preconceptions — is a process that triggers conceptual change](cognitive-conflict-triggers-conceptual-change.md) — related

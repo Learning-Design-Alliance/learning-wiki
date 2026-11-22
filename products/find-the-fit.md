@@ -23,13 +23,14 @@ sources:
 # Find the Fit
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 4 studies (3 causal, 1 design), `q1`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 Find the Fit is an enhanced college-advising programme used within Upward Bound that combines personalized planning materials and student text messaging with advisor training webinars.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Science icebreaker activity structure: small groups match ideal signals to noisy data, then a whole-group discussion compares solutions**: The activity runs at the start of a class, workshop or meeting: participants break into groups of two to four, receive a packet of one to four activity sets, and get ten to fifteen minutes to identify the best template/data stream matches. The facilitator then leads a discussion, writing each group's matching solution on a chalk board and resolving differences among groups. The structure serves a traditional icebreaker's purpose while introducing science content. (Michelle B. Larson et al. (2005))
 
 ### Claims
 - [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](../claims/find-the-fit-changed-upward-bound-advising-practices.md) [+W]
@@ -39,6 +40,8 @@ Find the Fit is an enhanced college-advising programme used within Upward Bound 
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](../claims/find-the-fit-increased-four-or-more-college-applications.md) [+M]
 - [Find the Fit did not affect the share of students completing the FAFSA early](../claims/find-the-fit-no-effect-early-fafsa-completion.md) [~M]
 - [Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges](../claims/find-the-fit-shifted-college-applications.md) [+M]
+- [A template-matching icebreaker has participants identify a model gravitational wave signal within a noisy data stream and compare solutions across groups](../claims/gravitational-wave-icebreaker-template-matching.md) [+M]
+- [With minimal instruction, icebreaker participants discover signal-matching criteria such as amplitude, period and initial phase on their own](../claims/icebreaker-discovery-of-signal-features.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -46,9 +49,9 @@ Find the Fit is an enhanced college-advising programme used within Upward Bound 
 ## Key Sources
 - Martinez, A., Linkow, T., Miller, H., & Parsad, A. (2018). Study of Enhanced College Advising in Upward Bound: Impacts on Steps Toward College (Report). Washington, DC: National Center for Education Evaluation, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/study-of-enhanced-college-advising-in-upward-bound-impacts-on-steps-toward-college-report
 - Alina Martinez, Tamara Linkow, Hannah Miller, Amanda Parsad. (2018). Study Snapshot: Study of Enhanced College Advising in Upward Bound: Impacts on Steps Toward College. Washington, DC: National Center for Education Evaluation, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/study-snapshot-study-of-enhanced-college-advising-in-upward-bound-impacts-on-steps-toward-college
-
 <!-- merged 2026-10-10 from elements/find-the-fit-program-element ("Find the Fit: personalized planning materials, student text messaging, and advisor training webinars for enhanced college advising"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Alina Martinez, Tamara Linkow, Hannah Miller, Amanda Parsad. (2018). Study Snapshot: Study of Enhanced College Advising in Upward Bound: Impacts on Steps Toward College. Washington, DC: National Center for Education Evaluation, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/study-snapshot-study-of-enhanced-college-advising-in-upward-bound-impacts-on-steps-toward-college
+- Michelle B. Larson, Louis J. Rubbo, Kristina D. Zaleski and Shane L. Larson. (2005). Science Icebreaker Activities: An Example from Gravitational Wave Astronomy. https://arxiv.org/abs/physics/0503198
 
 # Find the Fit: personalized planning materials, student text messaging, and advisor training webinars for enhanced college advising
 

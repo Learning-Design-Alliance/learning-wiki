@@ -49,3 +49,5 @@ Think-aloud interviews with eight students from an equivalent second-semester al
 - [Students often draw wave function diagrams from memory or memorized procedures without a qualitative feel for the physics](wave-function-sketches-drawn-from-memory.md) — related
 - [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related
 - [Advanced students in quantum mechanics courses show widespread difficulties sketching bound and scattering state wave functions for a finite square well](advanced-students-wave-function-sketch-difficulties.md) — related
+- [Student interviews revealed cognitive conflicts between models, with wave-model terminology used in ray-model contexts](model-conflicts-wave-terminology-in-ray-context.md) — related
+- [Many students have difficulties principally separating spatial and temporal observations when using the wave theory](space-time-confusion-wave-theory.md) — related

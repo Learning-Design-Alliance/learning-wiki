@@ -49,3 +49,4 @@ Video analysis of the oral exam episode shows that after the instructor's questi
 - [Interviewer intervention targeting epistemic form can shift a student's epistemological frame](intervention-shifts-epistemic-form-and-frame.md) — a broader claim this one bears on
 - [An instructor can tacitly notice a student's epistemic framing during problem solving, as inferred from a stimulated recall interview](instructor-tacitly-notices-student-framing.md) — related
 - [When students' frames precede the instructor's, follow-the-leader is common but not dominant (41%), and when the instructor shifts she most likely shifts into conceptual physics](students-lead-instructor-shifts-to-conceptual-physics.md) — related
+- [When a student shifts to treating knowledge as constructed, her interview explanations reveal her conceptual reasoning about charge flow in detail](constructed-knowledge-reveals-reasoning.md) — related

@@ -54,3 +54,4 @@ Analysis of instructor predictions versus actual post-test response fractions on
 - [Physics TAs often expected incorrect answer choices to be common among introductory students when those choices were in fact not common](tas-misidentify-common-incorrect-answers-csem.md) — related
 - [Instructors predict the better email condition but overestimate the magnitude of its effect on student behaviour](instructors-overestimate-email-effectiveness.md) — related
 - [TAs consistently overestimated how novice-like introductory students' thinking would be, expecting more novice-like errors than students actually made](tas-overestimate-novice-like-student-thinking.md) — possibly the same claim (merge candidate)
+- [Instructors new to CCSs are often shocked by how incorrect their expectations of student comprehension are](ccs-reveals-instructor-expectation-errors.md) — a broader claim this one bears on

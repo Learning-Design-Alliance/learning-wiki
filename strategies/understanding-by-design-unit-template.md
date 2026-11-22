@@ -70,6 +70,7 @@ Backward design counters the common "activity-oriented" and "coverage-oriented" 
 - [Use the GRASPS protocol to design performance and authentic assessments](grasps-protocol-performance-assessment-design.md)
 - [Plan writing curriculum backward by starting with desired outcomes and assessment evidence](start-with-end-assessment-writing-curriculum.md)
 - [Use backward design from a known low-vulnerability anchor assessment to derive assessment-design criteria](backward-design-from-low-vulnerability-anchor.md)
+- [Teacher pages with an e-Logbook for tracking, assessing and guiding student research teams](elab-teacher-pages-elogbook-assessment.md)
 
 ## Examples
 - **ASCD UbD Exchange and *Understanding by Design* Professional Development Workbook** — the official template with design standards used in thousands of school systems ([ASCD](https://www.ascd.org))

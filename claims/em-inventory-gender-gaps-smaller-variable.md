@@ -53,3 +53,4 @@ The review reports E&M pretest gaps are small and variable, likely due to a 'flo
 - [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
 - [For one compared student group, CSEM scores averaged 5-6% higher than BEMA scores pre and post with a statistically significant moderate effect size, but absolute and normalized gains were similar](csem-bema-score-comparison-similar-gains.md) — related
+- [On average there was no gender difference in course performance, though the two largest absolute gains were both women](tlp-gender-performance-pattern.md) — related

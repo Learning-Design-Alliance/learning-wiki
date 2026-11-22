@@ -70,3 +70,4 @@ Corpus definition from the Methods section: of 96 qualitatively reviewed article
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
 - Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias — related
 - [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](personalized-refutation-text-conceptual-change-misconception-holders.md) — a narrower finding that bears on this claim
+- [CCS-based instruction produces more learning than the traditional lecture format and learning of a different, more conceptual kind](ccs-more-different-learning-than-lecture.md) — related

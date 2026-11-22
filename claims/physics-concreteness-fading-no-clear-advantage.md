@@ -50,3 +50,4 @@ Narrative review of Johnson et al.'s study of students' procedural learning of e
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [The multi-view approach proceeds from concrete images to abstract rays and may help students adapt their preconceptions toward scientific concepts](concrete-images-to-abstract-rays-bridges-preconceptions.md) — reports the opposite
 - [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related
+- [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — related

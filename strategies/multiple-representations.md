@@ -81,6 +81,7 @@ Multiple representations support abstraction and transfer because identifying th
 - [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 - [Integrate multiple representational tasks with discussion and collaborative work into chemistry teacher education courses, and analyze both correct and incorrect classifications when evaluating instruction](integrate-representational-tasks-and-complementary-analyses-strategy.md)
 - [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
+- [Modeling instructional cycle: introduction and representation, coordination, application, abstraction and generalization, and incremental development](modeling-instructional-cycle-phases.md)
 
 ## Examples
 - **Desmos ([desmos.com](https://www.desmos.com))** — dynamically links equations, graphs, and tables; dragging a slider updates all representations simultaneously, making correspondence perceptual rather than inferred.

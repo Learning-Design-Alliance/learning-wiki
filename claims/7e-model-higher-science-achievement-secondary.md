@@ -134,3 +134,4 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [Guided inquiry produces higher cognitive learning outcomes than conventional learning in chemistry](guided-inquiry-higher-cognitive-outcomes.md) — related
 - [A generative learning model supported by mind mapping media produced higher physics knowledge post-test scores than the teacher's usual model also supported by mind mapping media](generative-model-mind-mapping-higher-physics-posttest.md) — related
 - [GLBCC instruction produced significantly higher science literacy scores than expository learning in Grade XI physics (p < 0.001)](glbcc-higher-science-literacy-than-expository.md) — related
+- [CCS-based instruction produces more learning than the traditional lecture format and learning of a different, more conceptual kind](ccs-more-different-learning-than-lecture.md) — related

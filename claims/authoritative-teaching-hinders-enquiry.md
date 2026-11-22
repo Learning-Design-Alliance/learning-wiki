@@ -48,3 +48,4 @@ The author's interpretation in the Training to think, not to recite section, sup
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
 - [The replacement requirement of elicit-confront-resolve is problematic for interdisciplinary conflicts in which neither conflicting idea is more correct than the other](ecr-replacement-problematic-interdisciplinary.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Teaching a Newtonian framework as unproblematic makes subsequent learning of 20th-century relativistic ideas extremely difficult](newtonian-framework-hinders-later-modern-physics-learning.md) — related

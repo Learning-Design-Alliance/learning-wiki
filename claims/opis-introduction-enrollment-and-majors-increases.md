@@ -77,3 +77,5 @@ Institutional before-and-after enrollment counts reported in the project narrati
 - [Field work with a telescope plus open-source data work is argued to boost astronomy learning more than videos or books alone](fieldwork-plus-open-data-boosts-astronomy-learning.md) — related
 - [Portable smart telescopes allow students to collect and analyze astronomical images during class, making introductory astronomy more observational and quantitative, according to the author's design argument.](smart-telescopes-make-intro-astronomy-observational.md) — related
 - [Inclusive-culture reforms coincided with shifts in physics enrollment, retention, and female participation](inclusive-culture-female-enrollment-shift.md) — related
+- [An undergraduate physics program combining new emphases, research, advising and marketing grew from 5 majors to about 85 majors in five years](physics-program-revitalization-5-to-85-majors.md) — related
+- [Improving undergraduate physics teaching at UHCL coincided with a physics enrollment increase of 20% or more](uhcl-teaching-improvement-20-percent-enrollment-increase.md) — related

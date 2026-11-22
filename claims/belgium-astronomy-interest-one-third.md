@@ -50,3 +50,4 @@ Face-to-face quota survey of 667 members of the Belgian public plus paper questi
 - [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related
 - [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related
 - [Space and life in outer space are the most interesting science topics for learners, and learning about astronomical objects promotes abstract thought](astronomy-most-interesting-science-topic.md) — related
+- [The attentive public is also the most knowledgeable across science topics, linking attentiveness, interest and knowledge](attentive-public-most-knowledgeable-link.md) — related

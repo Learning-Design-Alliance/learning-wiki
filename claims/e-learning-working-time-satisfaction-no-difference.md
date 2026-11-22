@@ -54,3 +54,4 @@ Secondary outcomes in the randomized trial (n = 44 surveyed): no significant dif
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Interactive e-learning yields significantly greater theoretical clinical knowledge gains than passive e-learning in anesthesia residents](interactive-e-learning-beats-passive-knowledge-gains.md) — related
 - [Interactive eModules and a passive Wikipedia-like webpage produce no significant difference in immediate quiz scores for clinical neuroscience learning](no-quiz-difference-immediate-emodule-vs-wiki.md) — related
+- [Interactive simulations do not necessarily eliminate passiveness and can support poor learning outcomes](simulations-not-eliminate-passiveness.md) — related

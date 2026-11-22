@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 30 claims (23 for, 5 mixed, 2 against) · 30 studies (10 qualitative, 8 causal, 5 review, 2 associational, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 3 of 30 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (24 for, 5 mixed, 2 against) · 31 studies (11 qualitative, 8 causal, 5 review, 2 associational, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 3 of 31 report an effect size · 29 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -61,6 +61,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Students described the computational essay as more creative and authentic to physics practice than standard assignments, valuing open-ended problems with multiple solution paths](../claims/essays-felt-creative-and-authentic.md) [+W] — attached 2026-11-18 from Tor Ole Odden et al. (2019), which proposed "Practice perspective of learning".
 - [In engineering maker-based inquiry in physics, only participation in the legitimate form of an engineer contributed to students' learning of the related physics, while participation solely as a technician did not](../claims/embii-engineer-vs-technician-participation-learning.md) [+W] — attached 2026-11-20 from J Guisasola et al. (2022), which proposed "Figured worlds framework applied to engineering maker-based inquiry (EMBI) in physics"; tests this page's relationship.
 - [Students’ drawings of an IPLS studio community of practice are dominated by practice-related elements, with goals fewer and sparsely connected](../claims/ipls-drawings-practice-dominated-goals-sparse.md) [+W] — attached 2026-11-21 from W. Brian Lane et al. (2025), which proposed "Communities of Practice framework applied to introductory labs, with student COP models as internal representations".
+- [Discussing analogies for electric circuits led student F to recognize his faulty model of batteries in series and develop a more expert-like model for voltage addition, though his knowledge remained tied to that context](../claims/analogy-discussion-f-voltage-addition-shift.md) [+W] — attached 2026-11-22 from N. Finkelstein (2004), which proposed "A three-frame model of context for physics learning: task, situation, and idioculture, combining container and weaving-together conceptions".
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

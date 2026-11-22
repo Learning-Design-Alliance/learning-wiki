@@ -53,3 +53,6 @@ Think-aloud interviews with twelve students from different sections about equili
 - [Action-reaction language for Newton's third law implies causality and can mislead learners](action-reaction-language-implies-causality.md) — related
 - [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — a broader claim this one bears on
 - [A wall-pressing activity makes Newton's-third-law mutual interaction observable to students](wall-press-activity-reveals-mutual-interaction.md) — related
+- [RealTime Physics and Tutorials in Introductory Physics teach Newton's Second Law through strikingly different situations, yet both are shown to be effective](rtp-tiip-newton-second-law-contrast.md) — related
+- [Students cannot distinguish Newton's second from third law, treating any equal-and-opposite force pair as a third-law pair](second-third-law-confusion.md) — related
+- [The author was unable to improve Third Law scores in two years of Workshop Physics but could after adopting modeling, discourse management, and system schema](wp-flat-versus-mdmss-third-law-improvement.md) — related

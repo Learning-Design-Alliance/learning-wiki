@@ -51,3 +51,4 @@ From the qualitative questionnaire and interview analysis of the main study, 73,
 - [Students attribute bending of light to classical mechanisms such as an invisible mirror](bending-of-light-attributed-to-invisible-mirror.md) — related
 - [Introductory quantum students have difficulty attributing mass or charge to an electron without also ascribing a localized position (classical attribute inheritance)](classical-attribute-inheritance-electrons.md) — related
 - [Students commonly view time as absolute and unaffected by the inertial observer](time-viewed-as-absolute-by-students.md) — related
+- [A preliminary survey of 164 first-time learners found fewer than a fifth gave the fully correct frame-dependent response after reading popular passages using relativistic mass](oas-164-student-misconception-survey.md) — related

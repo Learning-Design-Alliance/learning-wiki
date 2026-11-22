@@ -64,6 +64,7 @@ The strategy operationalizes active participation for all learners rather than t
 - [Exit Tickets](exit-ticket.md) — the written component can double as a formative artifact collected at the end of class
 - [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
 - [Expose students to learning through exploration, questioning, and writing down questions and answers](srl-exploration-questioning-writing-strategy.md)
+- [Present the double conical roller as a telekinesis magic trick to expose the misconception that high and low are absolute properties of a support surface](double-conic-roller-telekinesis-strategy.md)
 
 ## Examples
 - A fourth-grade teacher asked "What is an equivalent fraction?" Students wrote their responses, shared with partners, and then revised their written definitions after a class discussion surfaced the misconception that equivalence means "looks the same."

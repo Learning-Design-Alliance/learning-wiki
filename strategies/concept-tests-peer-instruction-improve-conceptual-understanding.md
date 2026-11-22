@@ -51,6 +51,8 @@ The concept test/peer instruction model developed by Eric Mazur stops lectures e
 - [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 - [Use clicker question sequences with peer discussion and instructor checkpoints to scaffold difficult quantum concepts within limited class time](cqs-peer-discussion-checkpoints-strategy.md)
+- [Use anonymous electronic response polling with discuss-and-repoll cycles and before-and-after topic polls](anonymous-response-polling-discuss-repoll.md)
+- [Peer instruction with Concept Questions to surface and resolve conceptual confusions](peer-instruction-concept-questions.md)
 
 ## Examples
 -

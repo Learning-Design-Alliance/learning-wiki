@@ -51,3 +51,4 @@ The article describes a Simulated Student architecture targeting three negative 
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [In an experiment, the Simulated Student worked correctly in the majority of situations when correcting the three negative situations](simulated-student-experiment-majority-correct.md) — related
 - [Machine learning, including neural nets, can detect localized instances of good or poor collaboration during collaborative learning](neural-nets-detect-collaboration-quality.md) — related
+- [Interactive simulations do not necessarily eliminate passiveness and can support poor learning outcomes](simulations-not-eliminate-passiveness.md) — related

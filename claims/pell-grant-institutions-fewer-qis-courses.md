@@ -54,3 +54,5 @@ Negative binomial regression across 456 US institutions (Table II) found Pell gr
 - [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
 - [Minority Serving Institutions show the same institutional-type pattern, with quantum and QISE courses concentrated at masters and PhD-granting MSIs](msi-quantum-course-availability-pattern.md) — related
 - [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related
+- [Universities recruit professors whose expertise matches offered IT majors and establish research institutes only for selected IT areas, with Go8 universities showing higher professorship coverage](it-supporting-infrastructure-professorship-and-institutes.md) — related
+- [An informal survey found only a handful of mid-western research universities offered an intermediate general relativity course to undergraduates](few-universities-offer-undergraduate-gr-course.md) — related

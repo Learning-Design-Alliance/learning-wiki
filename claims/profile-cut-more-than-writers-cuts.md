@@ -49,3 +49,4 @@ Results description of the Human Reproduction commentary comparisons: the profil
 - [The report projects that pre-production profile analysis could have increased Human Reproduction learning by 31 percent](profile-analysis-projection-31-percent.md) — related
 - [The profile-shortened version of a film commentary produced learning equal to the longer script writers' and full versions](profile-shortened-commentary-equal-learning.md) — related
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related
+- [Draconian halving revision assignments produce content reorganization, while simple shortening yields only revision by excision](halving-revision-produces-reorganization-excision-otherwise.md) — related

@@ -49,3 +49,4 @@ Archived-score comparison of 60 identical multiple-choice questions from seven f
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Effect sizes for quiz and final exam scores were largest for the flipped physical classroom blended learning group](effect-size-largest-fpcr-bl.md) — related
 - [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related
+- [Students in the Physics in Films course scored higher on nearly identical exams than students in a traditional section of the same course taught by the same instructor](physics-in-films-higher-exam-averages.md) — related

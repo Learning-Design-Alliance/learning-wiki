@@ -55,3 +55,4 @@ Pre-post t-tests reported in Table I of the two-semester survey study. Male self
 - [Female students' fascination with physics decreased significantly more than males' after calculus-based Physics 1, widening the gender gap](female-fascination-declines-calculus-physics-1.md) — related
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
 - [Incoming physics and general science interest predict end-of-course physics self-efficacy, not the reverse, in active-learning physics courses](interest-drives-self-efficacy-directionality.md) — related
+- [Self-efficacy declines for both genders over the first CEGEP semester, with males consistently more confident than females](self-efficacy-declines-first-semester-gender-gap.md) — possibly the same claim (merge candidate)

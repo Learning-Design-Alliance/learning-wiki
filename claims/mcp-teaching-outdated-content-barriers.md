@@ -73,3 +73,4 @@ The authors state the deficit in Modern and Contemporary Physics teaching arises
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — a narrower finding that bears on this claim
 - [Faculty-level analysis identified the previous curriculum as outdated, insufficiently demanding, and misaligned with complex engineering problem attributes](previous-curriculum-drawbacks-motivated-redesign.md) — related
 - [High-school physics curricula emphasize 17th- and 18th-century concepts with minimal modern physics, limiting quantum integration](physics-curricula-minimal-modern-physics.md) — possibly the same claim (merge candidate)
+- [Omitting 20th-century physics from the curriculum reduces the need for teachers to think creatively about innovative pedagogy](curriculum-omission-limits-pedagogical-imagination.md) — related

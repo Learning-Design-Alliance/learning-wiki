@@ -48,3 +48,4 @@ Observational analysis of anonymized OpenHPI registration and survey data (Sect.
 ## Related Claims
 - [38% of course learners successfully completed their quantum MOOC, and over 80% of exam participants passed the final exam.](openhpi-quantum-mooc-completion-and-exam-pass-rates.md) — related
 - [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](udmooc-reaches-underserved-demographics-42-percent-completion.md) — related
+- [The course and workshop together attracted about an order of magnitude more participants than an average graduate course at the local institutions](course-workshop-participation-impact.md) — related

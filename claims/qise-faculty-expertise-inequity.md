@@ -52,3 +52,4 @@ Program-level Curriculum findings from the interview study. Two educators highli
 - [Barriers to integrating physics into the pharmacy curriculum include lack of interdisciplinary collaboration, limited faculty physics expertise, and insufficient laboratory resources](physics-pharmacy-integration-barriers.md) — a broader claim this one bears on
 - [Administrative and bureaucratic approval hurdles impede both new QISE courses and new QISE programs](qise-course-program-approval-bureaucracy.md) — related
 - [QISE program representatives reported shared concerns about student and industry demand, unknown industry needs, and admitting students from broad majors](qise-program-shared-concerns.md) — related
+- [Universities recruit professors whose expertise matches offered IT majors and establish research institutes only for selected IT areas, with Go8 universities showing higher professorship coverage](it-supporting-infrastructure-professorship-and-institutes.md) — related

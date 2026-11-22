@@ -58,3 +58,4 @@ First-person reflective vignette by Dr. Weronika Walkosz, who participated in FP
 - [Direct messages from followers indicate Neutralina inspired young women in Latin America to view science as an attainable career path](neutralina-inspired-young-women-peru.md) — related
 - [Outreach integrated students into the physics community and supported persistence in the major (community participation cluster)](outreach-community-participation-persistence.md) — related
 - [Peers and mentors played crucial roles in students' learning journeys in the Pathways program](peer-mentor-relationships-quantum-program.md) — related
+- [A graduate astronomy course can reverse brain drain into brain gain by attracting professionals to posts in the host region and preparing students for diverse career paths](astronomy-graduate-course-brain-gain.md) — related

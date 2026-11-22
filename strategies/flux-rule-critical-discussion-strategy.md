@@ -42,7 +42,8 @@ If instructors choose, as tradition and textbooks imply, to teach electromagneti
 - [Mle Framework Electromagnetism Teaching](../designs/mle-framework-electromagnetism-teaching.md)
 
 ## Related Strategies
-- 
+
+- [Guide students through applying Lenz's law with prediction, lab testing, and Socratic dialogue](lenz-law-prediction-testing-socratic-labs.md)
 
 ## Examples
 -

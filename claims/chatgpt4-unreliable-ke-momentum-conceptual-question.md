@@ -56,3 +56,4 @@ Illustrative qualitative study in which the authors regenerated ChatGPT-4's answ
 - [Only 36% of introductory physics students correctly identified conserved total mechanical energy on a cyclist-uphill item even after instruction](confusion-forms-of-energy-36-percent.md) — related
 - [For the rolling-hoop problem pair, no significant difference between paired and single presentation, attributed to failure to use conservation of energy correctly](hoop-pair-no-difference-energy-errors.md) — related
 - [ChatGPT4.0 mentioned net force most frequently, indicating more precise framing of when momentum is conserved](llm-net-force-precision.md) — related
+- [University modeling students show greater conceptual gains than traditional instruction and learn momentum conservation faster](modeling-university-conceptual-gains-momentum.md) — related

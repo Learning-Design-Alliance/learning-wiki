@@ -49,3 +49,4 @@ Median-split analysis of partial-credit conversion under the [1, 0.5, 0.1, 0, 0]
 - [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — a narrower finding that bears on this claim
 - [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related
 - [Students obtain higher scores on integrated testlets than on concept-equivalent constructed-response questions, a difference largely attributable to guessing baseline](it-scores-higher-than-cr-equivalents.md) — related
+- [Students with stronger pre-test performance made larger gains in the course than weaker students](tlp-prior-knowledge-gain-gradient.md) — related

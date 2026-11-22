@@ -48,3 +48,4 @@ Analysis of publicly available module descriptions from high-ranked UK universit
 - [Topics around the 25-75% unseen mark constitute cohort knowledge gaps where whole-cohort reteaching may be perceived negatively](cohort-knowledge-gap-25-75-band.md) — related
 - [Most modern physics students have completed calculus II (37.1%) and been introduced to Newtonian mechanics (94%), electricity and magnetism (84.4%), and waves/optics (77.2%) as prerequisites](modern-physics-prerequisites-calculus2-newtonian-em.md) — related
 - [Mechanics and Electricity & Magnetism dominate PICUP Course Contexts, with many junior/senior-level subjects unrepresented and 60 unique topics identified](picup-es-course-context-coverage.md) — related
+- [The UK National Curriculum in Science 5-16 contains no reference to relativity, quantum mechanics, statistical processes or chaos theory](uk-national-curriculum-omits-modern-physics.md) — reports the opposite

@@ -48,6 +48,7 @@ The article outlines a concrete procedure for deriving a course's learning goals
 - [Consult students, physics faculty, and non-physics faculty through interviews to identify learning goals in interdisciplinary course reform](stakeholder-interviews-for-interdisciplinary-course-reform.md)
 - [Use a case-study stakeholder analysis with questionnaires and interviews to map LMS stakeholder roles, importance, and interactions](case-stakeholder-analysis-lms-questionnaires-interviews.md)
 - [Use QISCIT as a baseline measurement at course start, filter or select questions with concept mappings, and convert items to free-response for challenge](qiscit-instructor-usage-strategies.md)
+- [Use faculty interviews to set learning goals and tailor content to the actual student population in upper-division courses](faculty-interviews-set-upper-division-goals.md)
 
 ## Examples
 -

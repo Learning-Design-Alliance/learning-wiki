@@ -931,7 +931,9 @@ def main() -> None:
               f"or check --run-id/--model.", file=sys.stderr)
         sys.exit(1)
 
-    result_files = sorted(model_dir.glob("*.json"))
+    # rglob: an old-style arXiv id carries its archive ("arxiv-physics/0611277"), so its result
+    # is <model>/arxiv-physics/0611277.json; a flat glob silently skipped every one of them
+    result_files = sorted(model_dir.rglob("*.json"))
     if not result_files:
         print(f"[ERROR] No result files in {model_dir}.", file=sys.stderr)
         sys.exit(1)
