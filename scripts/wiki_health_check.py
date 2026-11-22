@@ -144,7 +144,9 @@ def run(skip_doi: bool = False) -> dict:
         # a batch can file a page in the wrong kind; the batch guard reads this count (2026-10-22)
         "misfiled_kind": lint.check_misfiled_kind,
     }
-    lint_results = {name: fn(pages) for name, fn in lint_checks.items()}
+    # a lint warning (claim_url_only) is reported by lint.py, not counted here: the batch guard
+    # reads these counts, and a warning must not stop a batch
+    lint_results = {name: [i for i in fn(pages) if not i.get("warning")] for name, fn in lint_checks.items()}
 
     # Same-folder near-duplicate titles. Deterministic and free, so unlike
     # find_near_duplicates.py's LLM scan this can run on every sweep — which
