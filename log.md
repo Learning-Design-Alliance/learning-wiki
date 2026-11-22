@@ -10,6 +10,15 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-22
+
+* **Ingest**: [principles/spaced-learning](principles/spaced-learning.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+* **Ingest**: [strategies/spaced-repetition-scheduling](strategies/spaced-repetition-scheduling.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+* **Ingest**: [elements/spaced-repetition](elements/spaced-repetition.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+* **Ingest**: [claims/cost-minimizing-scheduler-fewer-review-days-simulation](claims/cost-minimizing-scheduler-fewer-review-days-simulation.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+* **Ingest**: [claims/recall-at-lower-probability-lengthens-half-life-more](claims/recall-at-lower-probability-lengthens-half-life-more.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+* **Ingest**: [claims/review-history-model-predicts-half-life-better-than-hlr](claims/review-history-model-predicts-half-life-better-than-hlr.md) — Ye, Su & Cao (2022), A stochastic shortest path algorithm for optimizing spaced repetition scheduling, KDD '22, doi:10.1145/3534678.3539081
+
 ## 2026-11-21
 
 * **Ingest**: [claims/stuedm-classroom-outperforms-expert-and-stucql](claims/stuedm-classroom-outperforms-expert-and-stucql.md) — Ingested from arxiv-2610.28716 (Offline Apprenticeship Learning for Human-Centric Environments) via eval_harness.py + ingest_extractions.py
