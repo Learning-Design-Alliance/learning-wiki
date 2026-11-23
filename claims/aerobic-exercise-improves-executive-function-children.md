@@ -89,3 +89,4 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 - [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
+- [A child-centered combination therapy of executive-function and sensory-integration activities reduces attention deficit in primary-school children with ADHD (η² = .82)](combination-ef-si-therapy-reduces-attention-deficit.md) — related

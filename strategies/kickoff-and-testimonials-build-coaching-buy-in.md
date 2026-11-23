@@ -41,6 +41,7 @@ This strategy addresses the first administrator action in the report: building t
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Normalize help-seeking through recorded testimonials, leadership messaging, and framing support as academic consultation](normalize-help-seeking-testimonials-consultation.md)
+- [Charter leaders and management organizations should assess teacher understanding and buy-in of their evaluation systems](charter-evaluation-buy-in-assessment-strategy.md)
 
 ## Examples
 -

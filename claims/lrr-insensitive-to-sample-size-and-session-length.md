@@ -49,3 +49,4 @@ Summary finding from the simulation study comparing the LRR (basic R1 and bias-c
 - [PEM behaves similarly to NAP: stable null value of 50%, unaffected by phase lengths, but sensitive to session length and recording procedure](pem-similar-to-nap-procedural-sensitivity.md) — related
 - [PND is sensitive to the number of baseline sessions, observation session length, and recording system, but not to the number of treatment sessions](pnd-sensitive-to-baseline-sessions-session-length-recording-system.md) — related
 - [The basic SMD estimator has small-sample bias inducing sensitivity to the number of baseline sessions; a bias-corrected estimator is examined](smd-small-sample-bias-baseline-sensitivity.md) — related
+- [Continuous duration recording and momentary time sampling directly estimate prevalence, while event counting and partial interval recording require strong additional assumptions](recording-procedure-estimator-assumptions.md) — related

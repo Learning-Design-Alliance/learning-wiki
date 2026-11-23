@@ -55,3 +55,4 @@ Quasi-experiment with 48 purposefully selected third graders randomly assigned t
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [First graders taught Arabic literacy with the systemic approach scored higher on a reading achievement test than traditionally taught peers](systemic-approach-improves-first-grade-reading-achievement.md) — related
 - [The program significantly improved linguistic life skills (oral interpersonal communication) versus control](childrens-literature-program-improves-oral-communication.md) — related
+- [Reviewed Arab-world studies report statistically significant achievement differences favoring e-lab or computer-simulation groups over traditional-method groups](arab-world-e-lab-achievement-studies-favor-experimental-groups.md) — a broader claim this one bears on

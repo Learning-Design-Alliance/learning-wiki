@@ -51,3 +51,4 @@ WWC re-analysis of the Schultz, Barr, & Selman (2001) quasi-experimental study o
 - [Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study](tgfdv-intentions-null-results.md) — related
 - [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related
 - [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related
+- [Intervention-group students showed higher brawl risk indicators than non-intervention students, with fighting histories up to 91.3% versus 25-33.3%](intervention-group-higher-brawl-risk-history.md) — related

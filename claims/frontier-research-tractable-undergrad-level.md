@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: weak
 newest_evidence: 2005
+source_checked: 2026-11-23
 sources:
   - id: jean-macher-and-jürgen-schaffner-bielich-2005
     resource: "https://doi.org/10.1088/0143-0807/26/3/003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report that the chosen frontier research area on compact stars was tractable at the undergraduate level because basic knowledge of thermodynamics, quantum statistics and relativity sufficed. [→ Jean Macher and Jürgen Schaffner-Bielich 2005](#jean-macher-and-jurgen-schaffner-bielich-2005)

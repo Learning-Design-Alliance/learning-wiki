@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 301 claims (228 show a difference, 51 mixed, 22 no difference) · 227 studies (122 associational, 42 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 2 quant-synthesis), `q1`–`q4` · 12 of 227 report an effect size · 299 claims rest on one study
+> **Evidence** · 302 claims (229 show a difference, 51 mixed, 22 no difference) · 228 studies (122 associational, 43 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 2 quant-synthesis), `q1`–`q4` · 12 of 228 report an effect size · 300 claims rest on one study
 
 ## How to read this page
 
@@ -338,6 +338,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Ranking qualified applicants by a race-neutral holistic review rubric showed no significant racial/ethnic difference between the interview-invited and waitlisted pools](../claims/hr-rubric-ranking-no-racial-ethnic-difference-iti-wli.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Cisgender men and white applicants showed greater explicit and implicit anti-Indigenous bias than cisgender women and BIPOC applicants](../claims/demographic-differences-anti-indigenous-bias-applicants.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The fraction of physics PhDs awarded to African American students has remained flat at a few percent for two decades, far below their US population representation](../claims/physics-phds-african-american-flat-few-percent.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Retention disproportionately affects males, non-Hispanic Black students, and students from lower income families](../claims/retention-disproportionately-affects-at-risk-groups.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

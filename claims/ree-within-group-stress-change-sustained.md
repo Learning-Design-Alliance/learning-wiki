@@ -53,3 +53,4 @@ Within-group paired sample t tests (Table 3) in the treatment group of the rando
 - [Religious education undergraduates showed very high baseline perceived stress with no significant difference between treatment and control groups before the intervention](ree-trial-high-baseline-stress-equivalent-groups.md) — related
 - [Within the experimental group, test anxiety drops significantly from pretest to posttest and pretest to follow-up, with no significant change between posttest and follow-up](cbt-music-within-group-gains-maintained.md) — related
 - [Perceived stress decreases from the first to the second simulation in both groups, while presence remains stable and group-equal](perceived-stress-decreases-across-simulations.md) — related
+- [Within the experimental group, stress-scale scores decreased significantly from pretest to posttest after the 8-week swimming training program](swimming-training-reduced-stress-experimental-group-11-13.md) — related

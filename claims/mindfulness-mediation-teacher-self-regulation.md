@@ -56,3 +56,4 @@ Standard two-step mediation analysis (Baron & Kenny; Bühner & Ziegler) regressi
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — related
 - [MBSR training significantly reduces teacher strain, with large between-group effect sizes sustained at follow-up](mbsr-reduces-teacher-strain.md) — related
 - [Changes in mindfulness at post-test fully mediate training effects on most self-regulation outcomes at 3-month follow-up](mindfulness-mediation-selfregulation-followup.md) — possibly the same claim (merge candidate)
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](no-differences-maas-scs-intimacy.md) — related

@@ -78,3 +78,4 @@ Same pre-registered OLS analysis applied to pair accuracy, a stricter post hoc m
 - [Before instruction, most prospective teachers believed long consecutive runs of heads or tails were impossible and failed to distinguish real from fake coin-flip data](pretest-consecutive-run-misconceptions.md) — related
 - [Training shifted novices' response bias toward saying 'at risk' without improving sensitivity](training-shifts-bias-not-sensitivity.md) — related
 - [Without feedback, participants rely on stereotyped stylistic assumptions about AI texts (static, prepared, cohesive, polythematic); feedback weakens these cues](stylistic-stereotype-cues-no-feedback.md) — related
+- [A dataset development exercise in a junior-level course had students scrape web images, read metadata, and train an AI program to detect fake photos](dataset-exercise-scrape-metadata-fake-photo-ai.md) — related

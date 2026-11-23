@@ -49,3 +49,4 @@ A-B-A single-subject study of three boys with ADHD; CCTT near-miss counts were a
 - [BRIEF Global Executive Composite T-scores decreased after Cog-Fun intervention and remained improved at follow-up](brief-gec-improved-cog-fun-adhd.md) — related
 - [Working memory, planning/organization, and organization of materials showed greater BRIEF changes than emotional control or inhibition after Cog-Fun](brief-metacognition-subitems-greater-changes.md) — related
 - [Parent-reported homework problems decreased after Cog-Fun intervention, with continued improvement at follow-up for two participants](hpc-homework-problems-decreased-cog-fun.md) — related
+- [A child-centered combination therapy of executive-function and sensory-integration activities reduces attention deficit in primary-school children with ADHD (η² = .82)](combination-ef-si-therapy-reduces-attention-deficit.md) — related

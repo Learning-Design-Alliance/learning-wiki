@@ -75,3 +75,4 @@ Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four pos
 - [No significant pre–post changes in office discipline referrals occurred in the full sample following school-wide professional development](no-prepost-odr-change-full-sample.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — related
 - [SWPBIS adoption in US schools shows an ascending trend, reaching over 14,000 trained schools](swpbis-us-adoption-ascending-trend.md) — related
+- [In the same sample, the RP intervention reduced discipline incident records (ODRs) even though suspensions did not decline overall](rp-reduced-odr-same-sample.md) — related

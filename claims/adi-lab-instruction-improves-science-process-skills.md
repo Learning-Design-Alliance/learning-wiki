@@ -51,3 +51,4 @@ ANCOVA of Science Process Skills Test post-test scores with pretest as covariate
 - [ADI-based laboratory instruction does not significantly change pre-service teachers' argumentativeness compared to traditional laboratory instruction](adi-no-change-argumentativeness.md) — related
 - [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](jigsaw-laboratory-higher-science-process-skills.md) — a narrower finding that bears on this claim
 - [Argumentation-based teaching shows no significant effect on 7th graders' scientific process skills compared to the current program when pretest scores are controlled](argumentation-teaching-no-effect-scientific-process-skills-grade7.md) — reports the opposite
+- [A reviewed study found e-lab effectiveness in developing scientific thinking varied by e-lab type, favoring enquiry-based e-labs](redha-2010-enquiry-e-lab-scientific-thinking.md) — related

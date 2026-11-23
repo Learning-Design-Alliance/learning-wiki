@@ -75,3 +75,4 @@ The authors warn, citing Rosenthal & Jacobson (1968), of "a risk of creating a s
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](llm-team-formation-gender-bias-skill-based.md) — related
 - [Teacher expectancy effects: seeded expectations led treated students to outperform peers (as reported by the review)](teacher-expectancy-self-fulfilling-prophecy.md) — related
 - [Automated LLM feedback may reduce instructor unconscious bias by evaluating responses equally without identification](llm-feedback-reduce-instructor-unconscious-bias.md) — related
+- [Rosenthal and Jacobson's classroom experiment found manipulated teacher expectations raised late-bloomer students' IQ scores](pygmalion-classroom-experiment-iq-gains.md) — related

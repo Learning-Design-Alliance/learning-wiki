@@ -49,3 +49,4 @@ Light-touch process evaluation using telephone interviews with a random sample o
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related
 - [Parents reported that their children were motivated by the HGCs and their attitude to maths became more positive, though parent feedback was limited](parent-feedback-hgc-motivation.md) — related
 - [Course adherence was low: only 20% of parents who began the course attended all eight sessions, and 42% attended fewer than four](koppouders-low-course-adherence.md) — related
+- [The majority of mothers (95%) reported that parenting became easier after the support group sessions, citing improved communication, patience, support and discipline](mothers-report-easier-parenting-after-support-groups.md) — related

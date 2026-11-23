@@ -59,3 +59,4 @@ The review reports this randomized trial, "considered the gold-standard for prog
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](sss-reduced-test-anxiety-growth-fifth-grade.md) — related
 - [CALM produced a steeper cortisol awakening response than control](calm-steeper-cortisol-awakening-response.md) — related
 - [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](see-plus-improves-socio-emotional-task-performance.md) — related
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](no-differences-maas-scs-intimacy.md) — related

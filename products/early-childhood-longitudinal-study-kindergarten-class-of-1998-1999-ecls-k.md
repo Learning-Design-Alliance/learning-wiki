@@ -26,6 +26,7 @@ ECLS-K is a nationally representative longitudinal dataset tracking children fro
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **ECLS-K 1998-1999 longitudinal cohort dataset**: The Early Childhood Longitudinal Study, Kindergarten Class 1998-1999 is the national dataset this study analyzes. The article describes it as "a nationally representative sample following a longitudinal cohort of 21,260 kindergarteners until the eighth grade", with data collected at seven waves from fall kindergarten 1998-99 through spring eighth grade 2007. It includes administrator surveys, teacher assessments, direct child assessments, child questionnaires, and parent surveys, and provides IRT-scaled achievement scores comparable across time points. (Hwang et al. (2016))
 
 ### Claims
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](../claims/delayed-entrants-behind-in-math-first-grade.md) [+W]
@@ -41,8 +42,8 @@ ECLS-K is a nationally representative longitudinal dataset tracking children fro
 
 ## Key Sources
 - Malone, L. M.; West, J.; Denton Flanagan, K.; Park, J. (2006). The Early Reading and Mathematics Achievement of Children Who Repeated Kindergarten or Who Began School a Year Late. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics. https://www.mathematica.org/publications/the-early-reading-and-mathematics-achievement-of-children-who-repeated-kindergarten-or-who-began-school-a-year-late
-
 <!-- merged 2026-10-10 from elements/ecls-k-1998-99-longitudinal-dataset ("Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Hwang, S., Cappella, E., & Schwartz, K. (2016). Examining Multidimensional Middle Grade Outcomes after Early Elementary School Grade Retention. SREE Spring 2016 Conference Abstract.
 
 # Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K)
 

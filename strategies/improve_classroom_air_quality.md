@@ -112,6 +112,7 @@ Elevated CO₂ and poor ventilation measurably reduce attention, decision-making
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment lever; both address conditions that operate below the level of instruction
 - [Check-ins](../principles/check-ins.md) — brief symptom and comfort check-ins surface air-quality problems (headaches, drowsiness, stuffiness) that students otherwise don't report
 - [Prioritise interventions to reduce traffic and emissions near schools, with indoor air filtration as a complementary opportunity](reduce-traffic-emissions-near-schools-strategy.md)
+- [Play-based classroom exercises in which children identify clean versus dirty air and physically cover nose and mouth when exposed to smoke](clean-dirty-air-cover-nose-strategy.md)
 
 ## Examples
 - **Denmark classroom intervention studies** — Wargocki and Wyon's field experiments in Danish primary schools showed that improving outdoor air supply and lowering classroom temperature improved performance on reading and mathematics tasks.

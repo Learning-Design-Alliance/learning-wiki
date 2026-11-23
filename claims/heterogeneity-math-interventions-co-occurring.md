@@ -65,3 +65,4 @@ Heterogeneity assessment in the CHE meta-analysis of 60 effect sizes nested in n
 - [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related
 - [Closeness centrality has a negative lower predictive interval bound and high heterogeneity (I²=79%), making it unreliable as an indicator of success](closeness-centrality-unreliable-indicator.md) — a narrower finding that bears on this claim
 - [Individual gains in skills and knowledge were highly heterogeneous, ranging from 13% to 48%](individual-gain-heterogeneity-13-48-percent.md) — a narrower finding that bears on this claim
+- [True effects in the choice-making re-analysis are highly heterogeneous across cases](choice-making-between-case-heterogeneity.md) — related

@@ -91,3 +91,6 @@ An open question for learning designers is durability: most evaluations measure 
 - [Personalized normative feedback is the dominant technique among CBIs lacking a broad theory](personalized-normative-feedback-dominant-technique.md) — related
 - [Web-based self-help intervention reduced problem drinking more than control among adult problem drinkers](web-based-self-help-reduced-problem-drinking.md) — related
 - [The intervention produced a mean incremental effect of 0.73 glasses per week reduction in alcohol use and 0.49 fewer binge drinking occasions per 30 days relative to control.](alcoholic-alert-incremental-effects.md) — related
+- [Negative consequences and protective behaviors did not differ significantly among cohorts, though most students used safe transportation and ate before drinking](consequences-protective-behaviors-no-cohort-difference.md) — related
+- [Electronic social norms, risk reduction, and combined birthday-card messages produced no significant difference in 21st birthday drinks consumed among college students](electronic-birthday-card-interventions-no-drinking-difference.md) — related
+- [Students overestimated peer 21st birthday drinking despite receiving a corrective social norms message](norms-message-failed-to-correct-misperceptions.md) — related

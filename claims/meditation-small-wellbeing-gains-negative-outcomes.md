@@ -91,3 +91,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — a narrower finding that bears on this claim
 - [Higher stress significantly lowers students' well-being, interest in learning, and mathematics achievement](stress-negative-effects-wellbeing-interest-achievement.md) — related
 - [Releasing unnecessary muscle tension while performing everyday actions can foster a more relaxed, open mind that supports learning](releasing-muscle-tension-relaxed-mind-learning.md) — related
+- [Both meditation groups reported higher post-intervention connectedness with others in the room than the control group](meditation-groups-higher-in-room-connectedness.md) — a narrower finding that bears on this claim

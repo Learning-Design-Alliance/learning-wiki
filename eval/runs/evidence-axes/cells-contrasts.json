@@ -133638,5 +133638,9 @@
  "media-design\tbold-text highlighting of six locations\tno highlighting": {
   "label": "bold-text highlighting vs no highlighting",
   "treatment_is_a": true
+ },
+ "autonomy-support\tallowing choice-making\tno-choice baseline condition": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
  }
 }

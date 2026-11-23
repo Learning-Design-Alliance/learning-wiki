@@ -80,3 +80,4 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 - [SW-PBIS implementation showed no statistically significant longitudinal effects on elementary and middle school academic achievement in Minnesota](swpbis-no-significant-academic-achievement-effects-minnesota.md) — related
 - [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related
 - [No statistically significant differences were found between HIPPY and comparison children on discipline referrals](hippy-no-significant-discipline-referral-differences.md) — related
+- [In the same sample, the RP intervention reduced discipline incident records (ODRs) even though suspensions did not decline overall](rp-reduced-odr-same-sample.md) — related

@@ -55,6 +55,7 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 - [Use preventive disciplinary and restorative justice approaches rather than exclusionary discipline for students experiencing homelessness](restorative-discipline-for-homeless-students.md)
 - [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 - [Target child factors (emotion understanding, social skills) and teacher classroom management in school-based intervention for youth with elevated CU traits](school-intervention-target-child-teacher-factors.md)
+- [Target restorative practices implementation support toward students with a prior suspension history](rp-target-prior-suspension-students-strategy.md)
 
 ## Examples
 -

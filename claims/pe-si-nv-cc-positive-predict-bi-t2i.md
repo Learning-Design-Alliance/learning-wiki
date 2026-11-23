@@ -57,3 +57,4 @@ Structural model (latent-variable SEM) of survey responses from 400 students wit
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — reports the opposite
 - [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related
 - [Social influence and price value do not significantly predict intention to use eLearning-based CPD](si-pv-null-predictors-elcpd.md) — related
+- Performance expectancy remains the best predictor of behavioral intention in the attitude-extended UTAUT model when attitude predicts use behavior — related

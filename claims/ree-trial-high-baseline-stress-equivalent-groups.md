@@ -50,3 +50,4 @@ Baseline (Time 1) between-group comparison in Table 2 from the randomized contro
 - [A 10-week REE program delivered via WhatsApp significantly reduced perceived stress at post-test among religious education undergraduates compared with a control group](ree-whatsapp-reduces-stress-posttest-religious-education-undergraduates.md) — related
 - [Within the treatment group, perceived stress dropped significantly from pre-test to post-test and remained stable from post-test to follow-up](ree-within-group-stress-change-sustained.md) — related
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
+- [The control group showed no significant change in stress scores from pretest to posttest while continuing normal daily life](control-group-stress-unchanged-without-swimming-training.md) — related

@@ -78,3 +78,4 @@ Pearson correlation analysis of individual change scores (post minus pre) within
 - [Combined breakfast and exercise improves mathematics test score over a morning in adolescents compared with fasting and sedentary behavior](breakfast-exercise-improve-math-score-adolescents.md) — related
 - [Blood glucose falls over the morning in fasted groups relative to the combined breakfast-and-exercise group](fasted-groups-blood-glucose-decline.md) — related
 - [No effects of combined breakfast and exercise on working memory (Digit-Span) or oral word fluency](no-effect-digit-span-oral-word-fluency.md) — related
+- [A child-centered combination therapy of executive-function and sensory-integration activities reduces attention deficit in primary-school children with ADHD (η² = .82)](combination-ef-si-therapy-reduces-attention-deficit.md) — related

@@ -46,3 +46,5 @@ A pre-post test experimental study in which "One hundred and forty-two typically
 
 ## Related Claims
 - [Both information-only and imagined-contact-only interventions were tested against a control for improving attitudes toward peers with disabilities](information-and-imagined-contact-interventions-tested-separately.md) — related
+- [Combined (descriptive plus explanatory) information yields only a small effect on social intentions and no effect on general attitudes towards people with Asperger syndrome](combined-information-small-effect-social-intentions-only.md) — reports the opposite
+- [Imagined contact improves academic behavioural intentions towards a hypothetical peer with Asperger syndrome, especially when combined with combined information](imagined-contact-improves-academic-intentions-as-peer.md) — a narrower finding that bears on this claim

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-23
 recheck_by: 2028
 sources:
   - id: gyeonggeon-lee-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A VLM prompted with the DAST-C rubric scored the 15 stereotype features with an average machine-human agreement of 79%, which the author calls fair. [→ Gyeonggeon Lee 2025](#gyeonggeon-lee-2025)

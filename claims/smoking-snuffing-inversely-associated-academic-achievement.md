@@ -59,3 +59,4 @@ Cross-sectional logistic regression of smoking and snuffing (occasional or daily
 - [Boys show slightly better cognitive performance than girls, with girls less likely to achieve high cognitive performance after adjustment](gender-gap-cognitive-performance-taabo-children.md) — related
 - [Moderate and low alcohol consumption are associated with lower perceived-competency, while smoking shows no significant association with competency](alcohol-smoking-competency-radiology-residents.md) — related
 - [Exceeding single-occasion alcohol consumption risk and current smoking are each associated with lower GPA among university students](alcohol-smoking-lower-gpa-university-students.md) — related
+- [School-based educational curricula targeting secondhand smoke avoidance among children aged 4 to 6 are scarce, with one Chinese exception reporting a 40.6% decrease in indoor exposure](school-based-shs-education-ages-4-6-scarce.md) — related

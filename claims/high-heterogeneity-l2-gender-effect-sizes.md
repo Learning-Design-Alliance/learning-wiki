@@ -56,3 +56,4 @@ Heterogeneity test within the same three-level random-effects meta-analysis. The
 - [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related
 - [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related
 - [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related
+- [True effects in the choice-making re-analysis are highly heterogeneous across cases](choice-making-between-case-heterogeneity.md) — related

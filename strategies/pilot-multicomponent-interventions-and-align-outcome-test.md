@@ -52,6 +52,7 @@ Drawing on this evaluation, the report recommends that a multi-component literac
 - [Develop and refine the programme further, including targeted oral language support, before subjecting it to a full trial](talk-for-writing-refine-before-full-trial-strategy.md)
 - [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 - [Apply case study methods more widely to identify key intervention components and monitor adherence in surgical trials](case-studies-to-monitor-key-components-and-adherence.md)
+- [Use this single-session expressive writing study as a pilot for future trials varying writing form, administration mode, and session frequency](ew-pilot-future-administration-variations.md)
 
 ## Examples
 -

@@ -60,9 +60,11 @@ Movement that is meaningfully tied to content — rather than incidental — sup
 5. Connect explicitly back to the content: after the activity, ask learners to explain or demonstrate the concept without the music to check that learning transferred beyond the ritual.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the broader family of embodied enactment strategies; music and dance activities are its rhythmic, musical subset
 - [Active Recess](active-recess.md) — unstructured physical activity; complements but does not replace content-linked structured movement
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — familiar songs and dances can serve as the activation hook for a new topic
+- [Deliver gymnastics training accompanied by non-verbal rhythmic music in 16-week sessions for children with ASD and DS](gymnastics-with-nonverbal-music-program-strategy.md)
 
 ## Examples
 - **Sesame Street / Sesame Workshop** (https://www.sesameworkshop.org) — decades of content-embedded songs and movement segments designed with explicit curricular goals in numeracy and literacy.

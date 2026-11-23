@@ -60,3 +60,4 @@ Retention analysis by race/ethnicity across the 2017 and 2018 cohorts using Leas
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
 - [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](no-trajectory-difference-cohort2.md) — related
 - [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related
+- [Retention disproportionately affects males, non-Hispanic Black students, and students from lower income families](retention-disproportionately-affects-at-risk-groups.md) — related

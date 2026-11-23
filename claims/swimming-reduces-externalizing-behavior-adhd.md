@@ -51,3 +51,4 @@ Parents completed the CBCL/4–18 (Arabic form) pre and post in the cluster-rand
 - [Swimming training improves additional thinking time on the Hayling test in children with ADHD](swimming-improves-hayling-additional-thinking-time.md) — related
 - [Swimming training reduces error scores on the inhibition condition of the Hayling test in children with ADHD](swimming-reduces-hayling-part-b-error-scores.md) — related
 - [FSS-PSV significantly decreased externalized problem behaviors of experimental-group children, its basic aim](fss-psv-decreases-externalized-problem-behaviors.md) — related
+- [In a one-group pre-test/post-test study, CBCL scores for children’s withdrawn, social, attention, rule-breaking and aggressive behaviour problems decreased significantly from baseline to six months after a 24-week support group intervention](support-group-intervention-decreases-cbcl-behaviour-problems.md) — related

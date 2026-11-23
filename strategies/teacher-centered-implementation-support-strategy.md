@@ -50,6 +50,7 @@ The article concludes that tool selection should be guided by classroom context,
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [Provide three categories of support to help primary school EFL teachers implement IFLT: administrative support, intercultural materials and resources, and practice-oriented teacher training](three-support-categories-iflt-implementation.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Employ trained teachers with adequate infrastructure to integrate e-labs into science lessons](teacher-training-infrastructure-e-lab-employment-strategy.md)
 
 ## Examples
 -

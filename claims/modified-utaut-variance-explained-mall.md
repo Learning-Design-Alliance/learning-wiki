@@ -55,3 +55,4 @@ The path model fitted to Rasch-calibrated measures of 293 learners explained "62
 - [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
 - [The modified UTAUT-2 model with computer literacy explains 68% of variance in intention to use eLearning-based CPD](model-explains-68-percent-variance-intention.md) — related
+- [Extending UTAUT with attitude does not enhance explanatory power: all three extended models underperformed the original UTAUT model](attitude-extension-no-explanatory-gain.md) — related

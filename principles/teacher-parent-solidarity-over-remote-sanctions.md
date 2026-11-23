@@ -157,6 +157,7 @@ Trust as rated by teachers, trust as rated by parents, children's behaviour, att
 - [Family Engagement](../strategies/family-engagement.md)
 - [Structured relationship-building teacher home visits](../elements/structured-teacher-home-visits-family-engagement.md) — the home-visit component tested in DC Public Schools.
 - [Teachers guide parents on homework support types and hold family meetings on learning goals](../strategies/teacher-guidance-family-meetings-homework-support.md)
+- [Health-promotion parenting intervention combining trust-based coaching, motivational video, counseling with parents and home visits](../strategies/health-promotion-parenting-intervention-package.md)
 
 ## Key Sources
 - Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
