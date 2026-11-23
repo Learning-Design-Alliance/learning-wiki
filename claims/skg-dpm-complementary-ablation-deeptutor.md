@@ -62,3 +62,4 @@ Component ablation (Figure 9) of SKG, DPM, or both from the full pipeline. The a
 - [Removing real-time adjustment or personalized recommendations lowers engagement and retention in ablations](ablation-realtime-personalization-components.md) — related
 - [Static onboarding metadata personalization yields the highest adaptability scores in AI tutoring responses](static-onboarding-metadata-highest-adaptability.md) — related
 - [Removing the retrieval component sharply reduced instructional accuracy and expressive clarity of generated content](retrieval-augmentation-crucial-for-accuracy-clarity.md) — related
+- Component ablations show the empirical value of adaptive selection and archive regularization is domain dependent — related

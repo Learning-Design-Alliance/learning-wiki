@@ -49,3 +49,4 @@ ANCOVA on the TLC-2 Reasoning subtest with pretest as covariate in the randomize
 
 ## Related Claims
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on
+- [Study 2: significant effects on linguistic comprehension and proximal measures (g = .33 to .45) but no statistically significant differences on standardized reading or listening comprehension](study2-proximal-gains-no-standardized-transfer.md) — related

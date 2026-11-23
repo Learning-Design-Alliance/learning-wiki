@@ -55,6 +55,7 @@ For introducing new students to electric and magnetic fields, the article recomm
 - [Progression of three experiments — CPT observation, magnetometry, and atomic clock locking — on one shared apparatus](cpt-three-experiment-progression-strategy.md)
 - [Present Maxwell's equations as enunciative sentences instead of mathematical expressions](maxwell-equations-sentence-form-strategy.md)
 - [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
+- [Introduce Maxwell's equations with two-dimensional examples before generalizing to 3D](2d-first-maxwell-equations-strategy.md)
 
 ## Examples
 -

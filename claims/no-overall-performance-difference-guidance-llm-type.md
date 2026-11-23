@@ -51,3 +51,4 @@ Primary outcome analysis of the Prolific randomized controlled trial (N=356): Kr
 - [Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions](prompted-ai-raises-overall-post-test-score.md) — reports the opposite
 - [All models perform better on structured output tasks than on open-ended competencies, with significant per-model differences across competencies](l2-bench-structured-vs-open-ended-competencies.md) — related
 - [Prompting patterns were unrelated to task performance but understanding-driven prompters with high-quality prompts showed significantly greater learning gains](understanding-driven-prompting-predicts-learning.md) — related
+- LLM guidance did not significantly increase the total number of victims saved in the simulated search-and-rescue task — related

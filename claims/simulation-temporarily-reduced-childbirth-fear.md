@@ -50,3 +50,4 @@ Robust mixed ANOVA of childbirth-fear scores across four time points in the thre
 - [Breech birth wearable simulation students showed higher empathic tendency than control students across time points](breech-simulation-higher-empathy-than-control.md) — related
 - [Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months](social-media-use-gains-not-sustained-after-training.md) — related
 - [Empathy showed no significant post-test group difference but a significant group-by-time interaction, with the experimental group catching up from a lower baseline](empathy-group-by-time-interaction-catch-up.md) — related
+- [In the single study with both-group follow-up, attendance improvements were maintained at 4.5 months and self-reported fear and anxiety decreased significantly](school-refusal-followup-attendance-maintained-anxiety-decreased.md) — related

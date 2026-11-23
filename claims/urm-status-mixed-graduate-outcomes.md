@@ -54,3 +54,4 @@ Linear probability model on 495 students (Table 2); the article separately repor
 - [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related
 - [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
 - [Underrepresented groups are more likely to start graduate study in a master's program rather than entering a Ph.D. program directly](underrepresented-groups-more-likely-masters-first-path.md) — related
+- [Only a small minority of Ph.D. graduates become advisors, and long-run productivity widens among those who persist](concentrated-intellectual-reproduction-descriptives.md) — related

@@ -47,3 +47,4 @@ Curriculum learning analysis (§4.4, Figure 3): training data arranged by comple
 ## Related Claims
 - [A fully learned curriculum (deterministic ordering of generator inputs) makes GTN training more effective than other curriculum variants](gtn-full-curriculum-outperforms-other-variants.md) — related
 - [Sequencing rather than concept selection explains most of the EVOL–PPO-vanilla EP gap on ASSIST15 L=10](sequencing-explains-evol-ppo-gap.md) — related
+- [Problem-difficulty-based curricula consistently outperform random shuffling, with gains of up to 3–6% on easier datasets](problem-difficulty-curricula-beat-shuffled-baseline.md) — related

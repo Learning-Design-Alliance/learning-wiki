@@ -51,6 +51,7 @@ The authors recommend experimental activities that confront students' ideas: "re
 - [Misconception Repair](misconception-repair.md)
 - [Emphasize concepts, hands-on experiments and emotion-raising stories in science teaching to ease conceptual change](concept-oriented-teaching-hands-on-experiments-suspense-stories.md)
 - [Mass, Density, and Buoyancy Experiments](mass-density-and-buoyancy-experiments.md)
+- [Deploy the demonstration as a Predict–Observe–Explain sequence in which students commit to predictions before confronting the counterintuitive impedance surge](poe-skin-effect-cognitive-activation.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Response-rate analysis of free-expansion, gas-mixing, and irreversible isochoric
 - [Students incorrectly think work is done in an irreversible free expansion of a gas into a vacuum](work-attributed-in-free-expansion.md) — related
 - [Graduate students struggled most with the Expansions question, frequently claiming zero entropy change for the free expansion and rarely recognizing the state-function basis for equal entropy changes](free-expansion-entropy-sign-difficulty-graduate.md) — reports the opposite
 - [Upper-level students more often than introductory students expect entropy to increase in reversible cyclic processes, despite entropy being a state variable](entropy-increase-expectation-cyclic-processes.md) — related
+- [Dice-throwing simulations let introductory students see entropy increase monotonically to its equilibrium maximum (the second law)](dice-simulation-entropy-increases-to-maximum.md) — related

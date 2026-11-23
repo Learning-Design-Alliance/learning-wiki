@@ -56,3 +56,4 @@ The author's argument in Section 3, citing how textbooks introduce the SHM solut
 - [The qualitative SHM approach and rigorous mathematical approaches complement each other](qualitative-and-rigorous-shm-approaches-complement.md) — related
 - [A qualitative analysis of SHM can reveal key features of the motion to students who are not mathematically well prepared](qualitative-shm-analysis-reveals-features-weak-math-students.md) — related
 - [The uniform circular motion derivation of SHM is criticized in the literature as nonphysical and confusing to students](uniform-circular-motion-shm-derivation-criticized.md) — related
+- [The project argues that excessive scientific specialization alienates the lay public, and that simple, intuitive science communication connecting everyday phenomena to scientific laws counters this](overspecialization-alienates-public-divulgation-counters.md) — related

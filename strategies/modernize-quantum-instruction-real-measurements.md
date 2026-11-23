@@ -57,4 +57,4 @@ The article recommends updating quantum courses to teach how momentum of single 
 -
 
 ## Key Sources
-- Freericks, J. K. (2023). How to measure the momentum of single quanta. arXiv. https://arxiv.org/abs/2302.12303
+- Freericks, J. K. (2023). How to measure the momentum of single quanta. arXiv. https://arxiv.org/abs/2302.12303. [doi:10.1140/epjs/s11734-023-00967-6](https://doi.org/10.1140/epjs/s11734-023-00967-6)

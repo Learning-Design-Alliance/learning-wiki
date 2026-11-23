@@ -111,3 +111,4 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — related
 - [The authors interpret that adult linguistic gains through EMI require some focus on form and language guidance, making ICLHE more effective than content-only EMI](focus-on-form-needed-adult-emi-gains.md) — a narrower finding that bears on this claim
 - [Full-immersion EMI students show no statistically significant gains in any measured language domain over one year, despite descriptive improvement trends](full-immersion-emi-no-significant-gains.md) — related
+- [Listening input is prioritized over speaking output: comprehension is deemed more vital than production in L2 acquisition](listening-input-over-speaking-output.md) — reports the opposite

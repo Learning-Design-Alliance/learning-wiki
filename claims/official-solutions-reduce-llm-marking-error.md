@@ -49,3 +49,4 @@ Comparison of blind versus solution-informed marking on GCSE, A-Level and textbo
 - [False reference solutions degrade LLM absolute marking accuracy but leave rank-order agreement largely intact](false-solutions-degrade-accuracy-not-ranking.md) — related
 - [LLM markers show robust rank-order agreement with human markers on blind university exam questions and structured curriculum questions](llm-rank-order-agreement-structured-physics-questions.md) — related
 - [LLM-powered error detectors show a consistent performance gap (conformity bias) between conventional and alternative solutions to math word problems](llm-conformity-bias-mwp-error-detection.md) — related
+- [State-of-the-art LLMs struggle to locate the first error step in student math solutions even when given the gold reference solution](llms-struggle-first-error-localization-with-gold-solution.md) — related

@@ -46,7 +46,8 @@ The article's refined marking scheme function generates or refines scoring guide
 - [AAG system scores align closely with human TA scores on open-ended statistics questions, with Pearson correlations of 0.75 and 0.82](../claims/aag-ta-score-correlation-open-ended.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use role-prompted VLMs with the DAST-C rubric to automatically score drawn images and provide scoring rationales for classroom use](vlm-role-prompting-dast-auto-scoring-strategy.md)
 
 ## Examples
 -

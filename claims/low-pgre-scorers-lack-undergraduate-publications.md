@@ -49,3 +49,4 @@ Analysis of undergraduate publication records among the survey's low-scoring res
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — a broader claim this one bears on
 - [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](pgre-cutoff-eliminates-fellows-disproportionately-women.md) — related
 - [Prize postdoctoral fellows in astronomy report Physics GRE scores spanning the full percentile range, with about 30% below the 50th percentile](prize-fellows-pgre-scores-span-full-range.md) — related
+- [A first-author paper is not a de facto requirement for admission to astronomy graduate programs, despite growing perception that it is](first-author-paper-not-required-for-admission.md) — related

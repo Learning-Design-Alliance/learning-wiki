@@ -42,7 +42,8 @@ After data are collected by the Geiger detector and downloaded into a computer, 
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](../claims/weak-source-measurements-motivate-statistics.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a simulated Geiger-counter experiment to tie experiments to statistical analysis](simulated-geiger-counter-statistics-teaching-strategy.md)
 
 ## Examples
 -

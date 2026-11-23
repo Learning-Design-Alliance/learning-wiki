@@ -49,6 +49,7 @@ The article's proactive GenAI agents go beyond answering queries: they follow "p
 
 - [Train ChatGPT to pose a follow-up question after each answer to check learner understanding through retrieval practice](chatgpt-followup-questions-retrieval-practice.md)
 - [GenAI learning interfaces should actively scaffold monitoring, evaluation, and AI-shaping behaviors adolescents may not bring to the interaction on their own](scaffold-monitoring-evaluation-ai-shaping-genai-interfaces.md)
+- [Apply Guided Inquiry Learning scaffolding — phase-conditioned guidance plus hypothesis verification — to structure LLM agents' inquiry](guided-inquiry-scaffolding-for-llm-agents.md)
 
 ## Examples
 -

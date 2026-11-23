@@ -65,3 +65,7 @@ Numerical analysis of CDPK accuracy against parameter count for open-weight mode
 - [RAG with slide text improves exam-question performance across all tested LLMs, with the smallest model showing the least improvement](rag-slide-text-improves-all-llm-performance.md) — related
 - [Qwen3.5-35B-A3B offered the best throughput and memory balance of three open-source LLMs benchmarked on consumer-grade hardware for translation](qwen-selected-optimal-throughput-memory-balance.md) — related
 - [In the ablation study, slide effects scale with student-model capacity (negative ↓1.4% for the 3B model), puzzle context is the strongest factor, and full-frame presentation outperforms 3-frame sampling by ~3%](slate-slide-effect-scales-student-capacity.md) — related
+- Model capacity is a strict secondary prerequisite: reasoning captures the Pareto frontier only from 7B upward, and below that incorrect traces run 1.5-2× longer than correct ones — related
+- Injected conceptual hints consistently improve performance on logic and planning tasks across model sizes, with the largest gains in smaller models — related
+- Larger Qwen-3 models show lower in-context function-learning error, with a boost from 8B to larger sizes but no significant difference between 14B and 32B — related
+- Scaling model parameters brings only marginal gains in logical reasoning, and even the largest base models fall short of reasoning models — related

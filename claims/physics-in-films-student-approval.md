@@ -48,3 +48,6 @@ In-class response-system survey data tabulated in Tables 1–4 across Summer 200
 - [Students strongly supported further development of the Physics in Films course in class evaluations](physics-in-films-student-support-evaluations.md) — possibly the same claim (merge candidate)
 - [Post-course, more than 80% of students reported high levels of both met expectations and interest in the course](high-post-course-expectations-met-and-interest.md) — related
 - [The Physics in Films approach, which uses popular movie scenes to illustrate physical principles, excited student interest and improved student performance in general education physical science.](physics-in-films-improved-interest-performance.md) — related
+- [95% of students agreed or strongly agreed the course should be developed further as more interesting than the standard physical science course](pseudoscience-flavor-develop-further-95-percent.md) — related
+- [93% of students agreed or strongly agreed they would recommend the course to friends](pseudoscience-flavor-recommend-to-friends-93-percent.md) — related
+- [84% of students agreed or strongly agreed that the movie topics selected for physics analysis were interesting](pseudoscience-flavor-topics-interesting-84-percent.md) — possibly the same claim (merge candidate)

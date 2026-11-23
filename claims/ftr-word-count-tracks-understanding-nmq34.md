@@ -50,3 +50,4 @@ Word-count analysis of the FTR version of NMQ 34 for the 47 students who receive
 - [ChatGPT4 gives no completely confused FCI free responses, with 20 of 23 assessed exactly correct](chatgpt4-fci-free-responses-exactly-correct.md) — related
 - [Reasoning for correct annotations is significantly shorter than for incorrect ones for most Talk Moves constructs, with Relating to Others the sole significant exception where correct reasoning is longer](concise-reasoning-predicts-correct-annotations.md) — related
 - [Free-text responses to an FCI item reveal incorrect ideas not captured by the item's MCQ distractor options](ftr-responses-reveal-ideas-missing-from-mcq-distractors.md) — related
+- Correct responses are shorter than incorrect ones in both reasoning modes, with incorrect answers often containing more verbose or repetitive content — related

@@ -55,6 +55,7 @@ The authors' forward-looking recommendation for university educators: because wo
 - [Target perceived recognition, not received recognition, when designing interventions to close gender gaps in perceived peer recognition](target-perceived-recognition-interventions.md)
 - [Gather undergraduate women's own suggestions, separated into personal advice for peers and suggestions for physics instructors](women-suggestions-peers-and-instructors-strategy.md)
 - [Interventions that strengthen belonging, academic confidence, and social connection—particularly for women in male-dominated STEM fields](belonging-confidence-connection-interventions.md)
+- [Invest in women's dormitories and safe housing, female faculty, targeted STEM scholarships and mentorship, and cultural legitimacy across fields](dormitories-female-faculty-stem-scholarship-strategy.md)
 
 ## Examples
 -

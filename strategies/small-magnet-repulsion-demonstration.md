@@ -44,6 +44,7 @@ A classroom demonstration using small magnets on notepad paper: two configuratio
 ## Related Strategies
 
 - [Use the app's parameter manipulation to teach three classroom topics: magnetic force, magnetic flux, and dipole moment/torque](electric-motor-app-three-classroom-topics-strategy.md)
+- [Three-arrangement ring-magnet demonstration for quantitatively comparing action and reaction forces](ring-magnet-three-arrangement-newton-third-law-strategy.md)
 
 ## Examples
 -

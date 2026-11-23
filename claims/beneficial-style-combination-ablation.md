@@ -49,3 +49,4 @@ Ablation over style combinations (Figure 4 and Table 8) on Llama-3.1-8B and Code
 - Adding comments to mathematical code-based rationales improves LLM math reasoning, with concise comments slightly outperforming detailed comments — related
 - [Hardcoded solutions consistently outperform generalized solutions in mathematical code-based rationales](hardcoded-solutions-outperform-generalized-solutions.md) — related
 - [Descriptive variable naming in code-based rationales generally outperforms obscure naming for LLM math reasoning](descriptive-naming-outperforms-obscure-naming-math-rationales.md) — related
+- Domain priors from meaningful variable names improve LLM mathematical model discovery compared with abstract variable names — related

@@ -55,6 +55,7 @@ POE is a constructivist strategy in which students first make a prediction about
 - [Ask students to formulate hypotheses about the experiment's outcome before observing it, then resolve them through the demonstration](hypothesis-formulation-before-elevator-demonstration.md)
 - [Implementing constructivist engagement elements within a traditional lecture format](constructivist-elements-in-lecture-t1.md)
 - [Structure device activities in prediction, observation and explanation stages with comparison-focused tasks](poe-comparison-sequence-3d-printed-devices.md)
+- [Deploy the demonstration as a Predict–Observe–Explain sequence in which students commit to predictions before confronting the counterintuitive impedance surge](poe-skin-effect-cognitive-activation.md)
 
 ## Examples
 -

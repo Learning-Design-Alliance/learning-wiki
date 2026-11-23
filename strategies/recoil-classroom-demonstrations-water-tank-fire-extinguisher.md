@@ -53,6 +53,7 @@ The article recommends two simple classroom experiments to explain recoil throug
 - [Run the Nerf Gun Challenge with balloons of varying mass to visualise the origin of the uncertainty principle](nerf-gun-challenge-uncertainty-principle.md)
 - [Use simple classroom demonstrations (fan, light ball, spring scale) of a jet impinging on a curved surface to teach flow curvature, lift, turbulence and entrainment](coanda-classroom-demonstration-strategy.md)
 - [Introduce the recoil principle through familiar, hands-on examples such as balloons, string-guided balloon rockets and water rockets](recoil-principle-hands-on-introduction.md)
+- [Three-arrangement ring-magnet demonstration for quantitatively comparing action and reaction forces](ring-magnet-three-arrangement-newton-third-law-strategy.md)
 
 ## Examples
 -

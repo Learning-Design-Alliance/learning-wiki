@@ -62,3 +62,4 @@ Analysis of intervention 1 and 2 students' written quiz solutions after learning
 - [Students apply the Principle of Equivalence correctly outside but fail inside a gravitational field](equivalence-principle-fails-inside-gravitational-field.md) — related
 - [Students invoke relationships between only two of the three first-law variables (variable-exclusion reasoning), leading to incorrect inferences](variable-exclusion-reasoning-first-law.md) — related
 - [Students' capacity for distinguishing between models of light determines whether they can apply holography knowledge in a problem-oriented manner](model-distinguishing-capacity-determines-holography-reasoning.md) — related
+- [Gravitational definitions of weight leave students with misconceptions about weight and weightlessness](gravitational-weight-definitions-mislead-students.md) — related

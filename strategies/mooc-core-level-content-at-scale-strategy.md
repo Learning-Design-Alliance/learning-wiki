@@ -44,6 +44,7 @@ The article recommends that even with thousands of students a MOOC should contin
 ## Related Strategies
 
 - [Use MOOCs mainly as elective courses and for educating massive audiences, with multidisciplinary design and implementation](mooc-elective-and-massive-audience-strategy.md)
+- [Discursive, illustrative presentation of rigorous science content without technical formalization for lay audiences](discursive-illustrative-divulgation-without-formalization.md)
 
 ## Examples
 -

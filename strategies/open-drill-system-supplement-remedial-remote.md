@@ -51,6 +51,7 @@ Because the tutor-web is freely accessible without regard to physical location o
 - [Use web-based learning as a flexible supplemental tool before practical training, pending further research on its optimal use](web-course-supplemental-before-practical-training.md)
 - [Supplement tutoring with vetted online video lectures and modeled solutions to close analogues](vetted-online-videos-and-analogue-solutions.md)
 - [Supplement computer-based mathematics courses with videos of experienced users working problems, and use over-qualified teachers, because optimized methods embed subconscious knowledge](videos-of-experienced-users-strategy.md)
+- [Supplement anyspeed instruction with web-based problems, on-line solvers, and a discover-it-yourself maze](anyspeed-web-resources-strategy.md)
 
 ## Examples
 -

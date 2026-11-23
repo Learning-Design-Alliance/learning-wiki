@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/high-adherence-cardiovascular-endurance-effect.md
+---
+
+# Revision history: [claims/high-adherence-cardiovascular-endurance-effect](../claims/high-adherence-cardiovascular-endurance-effect.md)
+
+### 2026-11-23 · ingest · process:wiki-ingest
+Ingested from eric-ej1123140 (The Impact of Classroom Physical Activity Breaks on Middle School Students' Health-Related Fitness: An Xbox One Kinetic Delivered 4-Week Randomized Controlled Trial) via eval_harness.py + ingest_extractions.py

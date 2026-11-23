@@ -48,6 +48,7 @@ The review's future research agenda lists five directions: prospective multicent
 ## Related Strategies
 
 - [Standardize reporting of LLM versions, processing dates, input selection criteria, and data quality protocols in future MCQ benchmarking research](standardized-llm-benchmarking-reporting-strategy.md)
+- [Separate learning-outcome and faculty-agreement questions in future evaluation of AI oral assessment](calliope-future-evaluation-strategy.md)
 
 ## Examples
 -

@@ -55,6 +55,7 @@ The interactive event runs a fixed sequence: introduction to OSP, sharing of lea
 - [Hand out purposely broken code samples for learners to fix or improve](broken-code-sample-repair-strategy.md)
 - [Customize recorded simulation data using the _recorder object to match the research question](ejs-recorder-customization-strategy.md)
 - [Guide students to build their own EJS simulations in five steps: new project, design interface, add code, test and run, share](ejs-five-step-simulation-authoring-strategy.md)
+- [A five-stage didactic sequence in which students analyze the Huaso jump with video tracking tools](huaso-jump-didactic-sequence.md)
 
 ## Examples
 -

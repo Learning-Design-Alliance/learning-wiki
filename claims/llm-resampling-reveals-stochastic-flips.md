@@ -69,3 +69,4 @@ In the same case study, the user adopted the rare "No" outcome as the new branch
 - [GPT-2 generates different text for the same prompt across repeated runs, demonstrating its stochastic output](gpt2-stochastic-output-varies-across-runs.md) — a broader claim this one bears on
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [The benchmark procedure is stable under stochastic decoding, with a maximum accuracy standard deviation of 0.43% over 20 repeated runs](cdpk-benchmark-stability-0-43-percent-sd.md) — related
+- [LLM agents repeat prior hypotheses and refine them in model-specific ways, suggesting a confirmation-bias-like tendency](llm-hypothesis-repetition-confirmation-bias.md) — related

@@ -68,3 +68,4 @@ The author states the generation method scales to "an academic group, including 
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
 - [First-semester engineering students entering universities of applied sciences show widespread mathematics and physics misconceptions on easy science problems](first-semester-engineering-students-widespread-science-misconceptions.md) — related
+- [The test problems served as weekly control works for first-year physics students in 2005](weekly-control-works-first-year-mechanics-relativity-2005.md) — related

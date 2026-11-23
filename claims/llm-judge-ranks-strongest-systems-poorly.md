@@ -52,3 +52,4 @@ Comparison of Layer 1 judge ranking against Layer 2 crowd Elo ranking for the te
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - Systems that both beat the baselines learn similar curricula across disjoint feature groups, as shown by positive Spearman rank correlations between their orderings — related
+- [Structural knowledge deficits in LLMs remain invisible to accuracy-based and LLM-as-judge reasoning evaluations](psr-invisible-to-accuracy-and-llm-judge-evaluation.md) — related

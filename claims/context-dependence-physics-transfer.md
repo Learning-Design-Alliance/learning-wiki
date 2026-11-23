@@ -52,3 +52,5 @@ An illustrative argument from the column's "Learning is context-dependent" secti
 - [Angular momentum conservation can be solved pedagogically with the wedge product, with tile area giving the magnitude](wedge-product-angular-momentum-example.md) — related
 - [In classroom implementation, students sometimes express surprise when rescaling collapses data onto a common relation, and differ in when they question what the fitted constant characterizes; no systematic assessment was conducted](informal-observations-student-surprise-rescaling.md) — related
 - [Traditional physics problems are goal-directed, narrow, disconnected, and simplistic, and elicit undesirable problem-solving behaviors in students](traditional-physics-problems-elicit-undesirable-behaviors.md) — related
+- [A research topic at the forefront of active neutron-star research can be tractable for an undergraduate student](frontier-research-tractable-undergrad-level.md) — related
+- [Nuclear Beavers represents beta decay as a falling block converting between proton and neutron species](nuclear-beavers-beta-decay-emerges-naturally.md) — related

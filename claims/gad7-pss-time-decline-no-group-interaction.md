@@ -73,3 +73,4 @@ Simple slope analysis of PSS in the same GLMM framework; both groups' declines w
 - [PHQ-8 depression scores showed no significant change over time or between groups](phq8-no-significant-depression-change.md) — related
 - [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related
 - [The AI-personalized group was associated with larger stress reduction than standardized and control groups (PSS d = 1.42)](ai-personalized-stress-reduction-pss.md) — related
+- In a 14-day randomized pilot, the 'Reverie' intervention group showed significantly lower post-intervention perceived stress than the non-intervention group after controlling for baseline (ANCOVA p=.016) — reports the opposite

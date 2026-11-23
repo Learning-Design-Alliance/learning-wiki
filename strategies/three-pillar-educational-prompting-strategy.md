@@ -53,6 +53,7 @@ The article's implementable recipe for educational prompting: "a prompt was craf
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 - [Use an iteratively crafted system prompt requiring one correct answer, three plausible distractors, no giveaway clues, parallel options, and mixed cognitive levels](llm-mcq-generation-prompt-template.md)
 - [Constrain LLM feedback prompts to physics content with a rubric and ideal-answer example](llm-feedback-prompt-constraints-strategy.md)
+- [Decomposed coding with a GPT-polished few-shot prompt for reliable LLM text classification](polished-few-shot-decomposed-coding-strategy.md)
 
 ## Examples
 -

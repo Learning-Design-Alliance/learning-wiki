@@ -52,3 +52,4 @@ The authors report, from their educational experience, that the equivalence of t
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Students may interpret and apply a given Taylor series yet be unable to generate an appropriate expansion in a novel context](interpret-given-taylor-series-but-cannot-generate-novel.md) — related
 - [Introductory students widely believe the entropy of an isolated system must remain unchanged, confusing nonequilibrium isolated systems with equilibrium ones](isolated-system-entropy-unchanged-misconception.md) — related
+- [Dice-throwing simulations let introductory students see entropy increase monotonically to its equilibrium maximum (the second law)](dice-simulation-entropy-increases-to-maximum.md) — related

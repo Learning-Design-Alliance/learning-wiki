@@ -29,4 +29,4 @@ The article proposes extending the traditional school value-added model, a rando
 -
 
 ## Key Sources
-- Leckie, G., Parker, R., Goldstein, H., & Tilling, K. (2023). Mixed-Effects Location Scale Models for Joint Modeling School Value-Added Effects on the Mean and Variance of Student Achievement. https://www.gov.uk/school-performance-tables
+- Leckie, G., Parker, R., Goldstein, H., & Tilling, K. (2023). Mixed-Effects Location Scale Models for Joint Modeling School Value-Added Effects on the Mean and Variance of Student Achievement. https://www.gov.uk/school-performance-tables. [doi:10.3102/10769986231210808](https://doi.org/10.3102/10769986231210808)

@@ -47,6 +47,7 @@ The article builds a complete problem-based learning case around a historically 
 
 - [Use the customizable robot platform for varied scientific exercises, e.g. a forensic physics investigation of a robotic car crash](robot-platform-forensic-physics-and-cross-domain-exercises.md)
 - [Design computer-based simulation training around common malpractice cases identified from forensic experience](malpractice-case-based-simulation-design-strategy.md)
+- [Using culturally relevant and historically significant events as contexts for teaching physics](culturally-significant-events-physics-teaching.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article describes a nation-wide call to young people aged 15 and older for a
 ## Related Strategies
 
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
+- [A bundle of pupil programs: weekly lecture courses for talented pupils, two-week internships with tutoring, Kinderuni for ages 8-12, and a CERN-anniversary video contest with a 3-day CERN visit as prize](pupil-programs-lectures-internships-contest-strategy.md)
 
 ## Examples
 -

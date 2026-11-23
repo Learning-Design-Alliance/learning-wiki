@@ -49,3 +49,4 @@ Ablation study on GeoVAD-Bench under the Auto-Aux setting comparing base model, 
 - [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related
 - [Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving](four-process-error-categories-dominate-failures.md) — related
 - [Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation](process-metrics-separate-correct-incorrect-solutions.md) — related
+- Under retrospection training, correct recorded turns increase in likelihood more often than incorrect ones, a pattern consistent with indirect credit assignment — related

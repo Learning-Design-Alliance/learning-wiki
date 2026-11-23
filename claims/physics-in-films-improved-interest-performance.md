@@ -68,3 +68,5 @@ In the concluding comments the authors state that use of Fermi problems and calc
 - [Group interviews found that films kept students' attention better than lecture and helped them remember the concepts illustrated in the films](student-interviews-films-aid-attention-and-memory.md) — related
 - [Students participated enthusiastically in physical science discussions when topics were familiar from TV shows or movies](familiar-media-topics-drive-enthusiastic-discussion.md) — related
 - [Students strongly approved of the Physics in Films course on in-class response-system questions in Summer and Fall 2002](physics-in-films-student-approval.md) — related
+- [In the Pseudoscience-flavor class of 90 students, almost every student participated in heated discussions driven by movie scenes](pseudoscience-flavor-near-universal-discussion-participation.md) — a narrower finding that bears on this claim
+- [84% of students agreed or strongly agreed that the movie topics selected for physics analysis were interesting](pseudoscience-flavor-topics-interesting-84-percent.md) — a narrower finding that bears on this claim

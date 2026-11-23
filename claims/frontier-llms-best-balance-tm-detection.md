@@ -89,3 +89,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related
 - [Fine-tuned GPT-3.5 surpassed fine-tuned BERT in automatic scoring of science written responses, with a statistically significant 9.1% average accuracy increase](finetuned-gpt35-surpasses-bert-science-scoring.md) — related
 - [Randomized multi-task fine-tuning shows inconsistent benefits, achieving the best Position F1 but performing poorly on Lead](randomized-multitask-inconsistent-aes-benefits.md) — related
+- [LLMs satisfy mathematical prerequisite dependencies far less often than human learners despite matching or exceeding human accuracy](llms-violate-prerequisite-dependencies-despite-high-accuracy.md) — related

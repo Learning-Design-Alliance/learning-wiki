@@ -47,3 +47,4 @@ Pilot-study regression (Table 1, Column 1) with controls and school fixed effect
 ## Related Claims
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Personalized sequencing gains are larger for beginners and for students in lower-tier schools](sequencing-gains-larger-for-beginners-and-lower-tier-schools.md) — related
+- [In metric-tiered training, the most effective difficulty tier depends on task difficulty: high-entropy tiers help easier tasks, low-entropy tiers help harder ones](metric-tier-effects-depend-task-difficulty.md) — related

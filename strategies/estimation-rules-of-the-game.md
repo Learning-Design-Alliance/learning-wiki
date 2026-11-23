@@ -48,6 +48,7 @@ Introduced early in the class, these rules require students to develop their own
 ## Related Strategies
 
 - [Estimation Activities](estimation-activities.md)
+- [Forbid calculators during estimation work and have students practice putting in numbers by hand to rebuild their numerical sense](forbid-calculators-build-number-sense.md)
 
 ## Examples
 -

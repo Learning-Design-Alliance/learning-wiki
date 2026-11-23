@@ -44,6 +44,7 @@ The guide treats recruitment as a design task, not an afterthought: researchers 
 - [Protect student and staff privacy when recruiting districts and schools for impact studies](recruitment-protect-student-staff-privacy.md)
 - [Address districts' and schools' urgent priorities and needs when recruiting them for impact studies](recruitment-address-urgent-priorities-needs.md)
 - [Account for limited staff capacity when recruiting districts and schools for research](recruitment-account-limited-staff-capacity.md)
+- [Define the target inference population first, then recruit across institution types using advisory boards, advertisements, snowball sampling, and information sessions](target-population-first-recruitment-strategy.md)
 
 ## Examples
 -

@@ -52,6 +52,7 @@ The article enumerates prompting techniques used to improve LLM results without 
 - [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 - [Improve LLM performance on TCM examinations by incorporating TCM texts into training, developing specialized TCM LLMs, and using chain-of-thought prompting](specialized-tcm-llm-training-and-chain-of-thought-strategy.md)
 - [Teachers can apply prompting techniques such as the Persona Pattern to design personalized learning scenarios, inquiry-based physics activities, and tailored assessment questions](persona-pattern-personalized-scenarios-assessment-strategy.md)
+- [Decomposed coding with a GPT-polished few-shot prompt for reliable LLM text classification](polished-few-shot-decomposed-coding-strategy.md)
 
 ## Examples
 -

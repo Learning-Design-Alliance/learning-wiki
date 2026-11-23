@@ -62,3 +62,4 @@ Self-report questionnaire from a focus group of school pupils at one school, rep
 - [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related
 - [Only about a quarter of teachers observed student interest in quantum-related careers after the activities, with most responses neutral](modest-career-interest-after-activities.md) — related
 - [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related
+- [About half of students still reported disliking science and not wanting to read science after the course](persistent-student-dislike-of-science-after-course.md) — related

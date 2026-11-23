@@ -57,6 +57,7 @@ Method 2 asks students to "select a research topic and then identify and read se
 - [Research-ethics certification and referencing software as required scaffolding for undergraduate original-research papers](ethics-certification-referencing-software-strategy.md)
 - [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
 - [Structure undergraduate courses so students autonomously carry out smartphone-based experimental research projects on everyday phenomena, with an introductory lesson, feedback, and graded presentations.](mdet-student-research-project-strategy.md)
+- [Run a three-month guided research project for undergraduates on a topic at the research frontier](three-month-undergrad-compact-star-research-project.md)
 
 ## Examples
 -

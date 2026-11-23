@@ -50,6 +50,7 @@ Because participation is optional and the game runs near the final-exam period, 
 - [Group Points System](group-points-system.md)
 - [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
 - [Add a professor team to a course review game to heighten healthy competition](professor-team-boosts-competition-strategy.md)
+- [Offer participation incentives sized to the data burden, consulting the advisory board or IRB to avoid undue influence](sized-incentives-avoid-undue-influence.md)
 
 ## Examples
 -

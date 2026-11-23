@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (148 show a difference, 42 mixed, 39 no difference) · 150 studies (67 causal, 33 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 45 of 150 report an effect size · 226 claims rest on one study
+> **Evidence** · 232 claims (150 show a difference, 43 mixed, 39 no difference) · 152 studies (69 causal, 33 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 45 of 152 report an effect size · 229 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -266,6 +266,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Skills most directly practiced in the NM-PAL model — information retrieval, narrative competence, and structured oral presentation — showed the largest item-level score differences](../claims/nm-pal-largest-gains-in-practiced-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Pre-post self-assessments showed increases across all assessed competence domains, with larger gains for managing digital innovations than narrative communication](../claims/prepost-gains-larger-digital-than-narrative.md) [+M] — measured as an outcome of the instruction studied
 - [Authoritative parenting predicted children's Grade 2 math achievement but not receptive vocabulary or Chinese reading](../claims/authoritative-parenting-predicts-math-not-language.md) [-W] — measured as an outcome of the instruction studied
+- [Oral language and listening comprehension interventions improved language and reading comprehension after 20-30 weeks of instruction but not after 9 weeks among young struggling readers](../claims/oral-language-intervention-20-30-weeks-gains.md) [~M] — measured as an outcome of the instruction studied
+- [Ten weeks of MMB instruction for L2 listening comprehension produces a statistically significant difference between pre- and post-test in primary schools, per the study's main hypothesis](../claims/mmb-listening-hypothesis-verified.md) [+M] — measured as an outcome of the instruction studied
+- [The review reports that digital stories significantly improved English listening comprehension of 6-year-old Spanish learners versus no multimedia lessons](../claims/digital-stories-spanish-learners-significant.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

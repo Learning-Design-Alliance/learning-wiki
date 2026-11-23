@@ -51,3 +51,4 @@ Scaling analysis of the Qwen2.5 family (3B, 7B, 14B, 32B deployed locally via Ol
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) — related
 - [Observed case pass rates closely align with expected case pass rates computed under question independence](observed-cpr-matches-expected-independence-benchmark.md) — related
 - [Smaller LLMs more often used undefined symbols, missed equations, and hallucinated equations; a 14B parameter model (Phi4) achieved only about 70% accuracy on the task](small-llms-undefined-symbols-phi4-70-percent.md) — related
+- Larger Qwen-3 models show lower in-context function-learning error, with a boost from 8B to larger sizes but no significant difference between 14B and 32B — related

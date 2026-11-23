@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-23
 sources:
   - id: t-rindler-daller-2020
     resource: "https://doi.org/10.1088/1361-6404/ab6c6b"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in an advanced cosmology course who calculated CMB spectra for ΛCDM and three exotic models with CLASS were able to grasp the impact of cosmological parameters on CMB observables and understand CMB physics in a direct way. [→ T. Rindler-Daller 2020](#t-rindler-daller-2020)
@@ -50,3 +51,4 @@ Classroom study in a winter 2018/19 lecture course at the University of Vienna: 
 - [Virtual lab delivery produced learning outcomes the authors report as comparable to in-person physical labs](virtual-labs-effective-as-in-person-physics-labs.md) — related
 - [Pilot post-tests of the Powers of the Universe module show 78% of students preferred powers of ten notation and 98% expanded their understanding of the scale of the Universe](meu-extreme-numbers-module-post-test.md) — related
 - [Students in both pilots singled out interactive real-time waveform plotting and parameter exploration as the components most responsible for building understanding and computational comfort](gw-explorer-visualization-driven-learning.md) — related
+- [Real-time spectral generation lowers the barrier to incorporating CMB power spectra into courses in more detail than solver-based approaches allow](realtime-spectra-lower-course-barrier.md) — related

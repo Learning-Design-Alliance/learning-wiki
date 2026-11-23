@@ -47,6 +47,7 @@ Quark Wars scales across knowledge levels. On a beginner level players read out 
 
 - Quark Wars Outdoor Game
 - [Use a dice roll in the advanced game so a candidate Higgs combination may be only a background event](higgs-dice-background-event-strategy.md)
+- [Hadronic ice-cream: free ice cream whose scoops represent quark flavors, with guests ordering mesons or baryons instead of single scoops](hadronic-ice-cream-quark-flavor-activity.md)
 
 ## Examples
 -

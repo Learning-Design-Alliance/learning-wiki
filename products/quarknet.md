@@ -29,3 +29,4 @@ QuarkNet is a long-term teacher professional-development and particle-physics ou
 
 ## Key Sources
 - Arce-Larreta, E., Assamagan, K., Barzi, E., Bilow, U., Cecire, K., de Jong, S., Donati, S., Goldfarb, S., Klammer, J., Muronga, A., & Niland, M. (2021). The Necessity of International Particle Physics Opportunities for American Education. Snowmass 2021 Contributed Paper. https://www.snowmass21.org
+- Chris Quigg. (2005). Comunicare Fisica all'americana. Comunicare Fisica 2005, Frascati. https://arxiv.org/abs/physics/0511254

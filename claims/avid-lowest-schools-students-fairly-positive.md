@@ -50,3 +50,4 @@ Summary of findings for students attending schools in the lowest overall categor
 - [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related
 - [Over 90% of elementary and middle school students rated the Quarked! hands-on program 3 or higher out of 5, with more than half giving the top rating](quarked-hands-on-program-high-engagement-ratings.md) — related
 - [Over half of surveyed students would tell friends they enjoyed the program, and 46% would mention specific program content](students-would-share-enjoyment-with-friends.md) — related
+- [93% of students agreed or strongly agreed they would recommend the course to friends](pseudoscience-flavor-recommend-to-friends-93-percent.md) — related

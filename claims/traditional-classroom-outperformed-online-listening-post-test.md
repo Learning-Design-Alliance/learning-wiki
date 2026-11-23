@@ -56,3 +56,4 @@ Quasi-experiment with 44 Syariah and Law Faculty students (22 control, 22 experi
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
 - [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related
 - [Online students reported higher motivation, cohesion, interaction and elaboration, and lower sponging, than classroom students](online-group-higher-motivation-interaction-elaboration.md) — related
+- [A cited quasi-experimental study found no visible listening-comprehension difference for multimedia use, though experimental students were more motivated](wang-null-difference-motivation-gain.md) — reports the opposite

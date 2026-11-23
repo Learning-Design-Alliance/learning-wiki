@@ -53,4 +53,4 @@ The article proposes concrete steps to make sonification mainstream in astronomy
 -
 
 ## Key Sources
-- Zanella, A., Harrison, C.M., Lenzi, S., Cooke, J., Damsma, P., Fleming, S.W. (2022). Sonification and Sound Design for Astronomy Research, Education and Public Engagement. https://arxiv.org/abs/2206.13536
+- Zanella, A., Harrison, C.M., Lenzi, S., Cooke, J., Damsma, P., Fleming, S.W. (2022). Sonification and Sound Design for Astronomy Research, Education and Public Engagement. https://arxiv.org/abs/2206.13536. [doi:10.1038/s41550-022-01721-z](https://doi.org/10.1038/s41550-022-01721-z)

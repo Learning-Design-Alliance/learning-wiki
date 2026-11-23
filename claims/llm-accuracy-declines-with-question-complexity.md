@@ -61,3 +61,4 @@ Difficulty–accuracy analysis (Fig. 5) of the 30-iteration accuracy data across
 - [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim
 - [SLM physics performance declines monotonically with Bloom's cognitive complexity and is weakest on procedural knowledge](slm-performance-declines-with-cognitive-complexity.md) — a narrower finding that bears on this claim
 - [Most models had higher accuracy on simple questions (medical knowledge, lower-order, positive) than on complex ones, with Llama showing the reverse pattern](simple-vs-complex-question-accuracy-pattern.md) — reports the opposite
+- LLM logical-reasoning accuracy on SLR-BENCH declines sharply as curriculum complexity increases, with no model succeeding on the hard tier — a narrower finding that bears on this claim

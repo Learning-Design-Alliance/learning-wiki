@@ -50,3 +50,4 @@ The article reports, citing the 2019 UNESCO 'Women in Science' fact sheet, that 
 - [Athena participants' GR is much higher than for physics studies at university level in Geneva (GR = 0.32) but still below the maturité-level ratio (GR = 1.4)](athena-gr-exceeds-physics-study-choice.md) — related
 - [Role-model interactions between girls and women scientists reached almost 1000 girls in Ethiopia](role-model-interactions-almost-1000-girls-ethiopia.md) — related
 - [The ACU and IOP identified five key areas for intervention to strengthen physics training, research, infrastructure and collaboration in nine Sub-Saharan African countries.](acu-iop-five-intervention-areas.md) — related
+- [Female professors in Physics and Astronomy at German universities stagnated below 14%, holding 12.9% of professorships in 2019 and 13.7% in 2020 and 2021](german-physics-astronomy-female-professors-below-14-percent.md) — a narrower finding that bears on this claim

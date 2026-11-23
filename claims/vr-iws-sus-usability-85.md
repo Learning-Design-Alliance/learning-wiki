@@ -62,3 +62,4 @@ Usability assessment in the multisite trial used the 10-item SUS with the 21 stu
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
 - [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

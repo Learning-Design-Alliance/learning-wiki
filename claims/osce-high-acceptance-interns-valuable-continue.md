@@ -76,3 +76,4 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related
 - [In a preliminary classroom deployment, students rated Insight's feedback neutral-to-somewhat-agreeable, with 53.6% wanting to continue using it](insight-classroom-survey-positive-perceptions.md) — related
 - [Intro2QC workshop sessions received positive informal feedback, with a large majority of responders rating the workshop experience 8 or higher out of 10](intro2qc-positive-informal-feedback.md) — related
+- [92% of students agreed or strongly agreed they learned something from the course](physics-in-films-learned-something-92-percent.md) — related

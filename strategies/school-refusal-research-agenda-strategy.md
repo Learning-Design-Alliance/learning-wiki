@@ -17,7 +17,7 @@ sources:
 # Future school refusal research should prioritize better-controlled designs, independent replications, longer-term follow-up, larger samples, and evaluation of functionally based treatment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking agenda for strengthening the school refusal intervention evidence base. The authors state that "independent replications of the manualized interventions examined in this review are needed, as are longer-term evaluations of effects of interventions," and that future studies "could benefit from larger sample sizes and attention to mitigating potential biases to improve statistical power and causal inference." They also urge rigorous evaluation of functionally based prescriptive treatment, identified by experts as promising but lacking rigorous evaluation. This strategy targets researchers and school or mental health professionals designing intervention evaluations for school-age youth with school refusal behavior.
@@ -43,7 +43,8 @@ The review's forward-looking agenda for strengthening the school refusal interve
 - [Psychosocial interventions for school refusal behavior produce moderate, statistically significant improvements in school attendance](../claims/school-refusal-interventions-improve-attendance-moderate.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize long-term follow-up studies, independent replications, and larger samples in school refusal treatment research](school-refusal-research-priorities-strategy.md)
 
 ## Examples
 -

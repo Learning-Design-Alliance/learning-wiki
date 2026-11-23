@@ -47,6 +47,7 @@ The article recommends that prevention strategies rebuild naturally occurring so
 - [Positive Intention & Generosity in Networking](positive-intention-generosity-in-networking.md)
 - [Provide adult support through group facilitators, mentors, and a school advocate for transitioning at-risk youth](adult-support-facilitators-mentors-advocate.md)
 - [Reduce clinical group sizes and strengthen mentoring and feedback structures](reduce-group-sizes-strengthen-mentoring.md)
+- [Co-facilitate school prevention programs with young adult community mentors to increase student buy-in and cultural relevance](community-mentor-cofacilitation-strategy.md)
 
 ## Examples
 -

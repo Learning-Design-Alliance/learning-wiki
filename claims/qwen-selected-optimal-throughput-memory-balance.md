@@ -50,3 +50,4 @@ Benchmark study reported in the model-selection subsection, run on a single NVID
 - [Practical on-device LLM deployment is limited to roughly 4-billion-parameter models because memory grows nearly linearly and generation speed drops sharply beyond that size](on-device-deployment-limited-4b-parameters.md) — related
 - [CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters](cdpk-scales-with-model-size-dropoff-below-8b.md) — related
 - [A RAG-augmented LLM translation pipeline raised pre-human-review translation accuracy from approximately 80% to over 95%](rag-llm-translation-accuracy-above-95-percent.md) — related
+- On Jetson Nano, InkubaLM achieved 129ms TTFT, 33ms average inter-token latency, 45.2 tokens/second at 8.4W — related

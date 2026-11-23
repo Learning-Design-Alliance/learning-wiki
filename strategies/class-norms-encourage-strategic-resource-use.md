@@ -43,6 +43,7 @@ Because intervention benefits were larger in classes where more peers used the E
 ## Related Strategies
 
 - [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
+- [Offer participation incentives sized to the data burden, consulting the advisory board or IRB to avoid undue influence](sized-incentives-avoid-undue-influence.md)
 
 ## Examples
 -

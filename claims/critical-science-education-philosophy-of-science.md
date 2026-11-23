@@ -52,3 +52,4 @@ Theoretical argument in Siegel's plenary paper on science education. He holds th
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
 - [Philosophy teachers are divided on transformative education, with some associating it with indoctrination](teacher-ambivalence-toward-transformative-education.md) — related
 - [The article argues, citing Chomsky and Schmidt, that schooling can function to disempower students and diminish broad critical thinking](schooling-can-disempower-critical-thinking.md) — related
+- [Historical examples show scientific prejudice can delay acceptance of correct theories, so history should inform science teaching](historical-prejudice-in-science-teaching.md) — a narrower finding that bears on this claim

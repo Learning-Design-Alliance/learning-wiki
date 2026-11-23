@@ -63,3 +63,4 @@ Focus-group evidence from the pilot shows participants "were able to correctly u
 - [The bottleneck for introductory quantum instruction is the absence of a coherent activity sequence, barrier-targeted prompts, and aligned assessment tools, not the absence of a usable simulator](quantum-instruction-bottleneck-is-design-packaging-not-simulators.md) — related
 - [Thematic analysis found the game fostered intuitive, explorative learning of abstract photoelectric-effect concepts](game-enables-intuitive-explorative-learning.md) — a narrower finding that bears on this claim
 - [The article argues that embedding quantum operations in game mechanics can cultivate quantum intuition through play](quantum-intuition-through-play-argument.md) — possibly the same claim (merge candidate)
+- [Anecdotal trial: a few children who played Quantum Focus became motivated to learn quantum mechanics](children-playing-quantum-focus-want-to-learn-quantum-mechanics.md) — related

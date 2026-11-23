@@ -97,6 +97,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](../strategies/four-step-fraction-explanation-sequence.md)
 - [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](../strategies/less-structured-problems-scaffolding-fading-strategy.md)
 - [Provide cognitive guidance—structured environments and explicit instructional support—to help LLM learners move beyond pattern-matching](../strategies/cognitive-guidance-for-llm-learners.md)
+- [Apply Guided Inquiry Learning scaffolding — phase-conditioned guidance plus hypothesis verification — to structure LLM agents' inquiry](../strategies/guided-inquiry-scaffolding-for-llm-agents.md)
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

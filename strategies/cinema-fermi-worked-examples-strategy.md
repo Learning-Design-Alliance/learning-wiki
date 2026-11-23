@@ -49,6 +49,7 @@ The article's stated intent is 'to provide instructo rs with examples they can u
 
 - [Estimation Activities](estimation-activities.md)
 - [Analyze a film scene quantitatively with generous assumptions in favor of the film to evaluate whether its depicted plan is physically feasible](generous-assumption-scene-feasibility-analysis.md)
+- [Use pseudoscientific movie scenes as the context for teaching physics concepts and scientific skepticism](pseudoscience-movie-scenes-physics-context-strategy.md)
 
 ## Examples
 -

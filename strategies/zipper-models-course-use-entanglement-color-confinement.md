@@ -47,4 +47,4 @@ The article recommends zipper models as easier-to-handle versions of paper-strip
 -
 
 ## Key Sources
-- Greinert, F.; Ubben, M. (2023). Quantum physics at your fingertips – from paper strips to zippers. PhyDid B - Didaktik der Physik - Beiträge zur DPG-Frühjahrstagung. https://ojs.dpg-physik.de/index.php/phydid-b/article/view/1362
+- Greinert, F.; Ubben, M. (2023). Quantum physics at your fingertips – from paper strips to zippers. PhyDid B - Didaktik der Physik - Beiträge zur DPG-Frühjahrstagung. https://ojs.dpg-physik.de/index.php/phydid-b/article/view/1362. [doi:10.48550/arxiv.2312.06269](https://doi.org/10.48550/arxiv.2312.06269)

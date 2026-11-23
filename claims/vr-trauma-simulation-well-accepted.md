@@ -50,3 +50,4 @@ Post-simulation questionnaire study of the VR intervention group (n = 28). The a
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Immersive VR training was acceptable and usable, but cybersickness affected nearly half of participants](vr-training-acceptable-usable-cybersickness.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

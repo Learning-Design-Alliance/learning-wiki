@@ -52,3 +52,4 @@ Qualitative analysis of students' crossroads definitions in the TLS. The authors
 - [The proportion of students dismissing the Big Bang theory as unsubstantiated speculation decreased from pre-course to post-course](big-bang-dismissal-decreased-post-course.md) — related
 - [Interventions that prematurely curb learners' linguistic or conceptual use of incorrect ontologies might be detrimental to learners' progress](premature-ontology-correction-may-be-detrimental.md) — related
 - [The AQA GCSE exemplar statement that the Universe started from one place is a common misconception, since with no matter there could be no place to define](universe-started-from-one-place-misconception.md) — related
+- [Gravitational definitions of weight leave students with misconceptions about weight and weightlessness](gravitational-weight-definitions-mislead-students.md) — related

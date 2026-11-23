@@ -51,3 +51,4 @@ Benchmark comparison in the Results section on the Socratic code-debugging datas
 - [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — related
 - [Sampling multiple Socratic questions (Sample-5) yields better performance than greedy decoding](sample-5-beats-greedy-decoding-socratic.md) — related
 - [Student performance correlates positively with the teacher's DPO optimization progress and with the share of positive-influence data](teacher-learning-student-performance-correlation.md) — related
+- [Generated content averaged BLEU 0.688, cultural relevance 4.4/5 and fluency 4.2/5 across tested African languages, with isiZulu highest and Amharic lowest](multilingual-quality-african-languages.md) — related

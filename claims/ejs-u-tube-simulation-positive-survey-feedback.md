@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-23
 sources:
   - id: fredy-a-orjuela-2023
     resource: "https://doi.org/10.1088/1361-6552/acdb27"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students and teachers in a Vibrations and Waves course reported positive feedback on the simulation, with a sentiment analysis of student comments around 90% positive. [→ Fredy A. Orjuela 2023](#fredy-a-orjuela-2023)

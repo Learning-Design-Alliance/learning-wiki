@@ -49,6 +49,7 @@ The article recommends supplementing face-to-face physics teaching with a dedica
 ## Related Strategies
 
 - [Use an open on-line drill system as a supplement to in-class teaching, for remote learning, and as remedial material for students lacking prerequisites](open-drill-system-supplement-remedial-remote.md)
+- [Supplement anyspeed instruction with web-based problems, on-line solvers, and a discover-it-yourself maze](anyspeed-web-resources-strategy.md)
 
 ## Examples
 -

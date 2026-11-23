@@ -48,4 +48,4 @@ The article's algorithms determine uncertainty thresholds dynamically from previ
 -
 
 ## Key Sources
-- Sahir, Ercüment İlhan, Srijita Das, Matthew E. Taylor. (2022). Methodical Advice Collection and Reuse in Deep Reinforcement Learning. Proc. of the Adaptive and Learning Agents Workshop (ALA 2022). https://arxiv.org/abs/2204.07254
+- Sahir, Ercüment İlhan, Srijita Das, Matthew E. Taylor. (2022). Methodical Advice Collection and Reuse in Deep Reinforcement Learning. Proc. of the Adaptive and Learning Agents Workshop (ALA 2022). https://arxiv.org/abs/2204.07254. [doi:10.48550/arxiv.2204.07254](https://doi.org/10.48550/arxiv.2204.07254)

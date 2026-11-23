@@ -70,3 +70,4 @@ LIWC Differentiation analysis (contrastives such as but, however, except) compar
 ## Related Claims
 - [Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity](llm-causal-feature-dependencies-lexical-versus-syntactic.md) — related
 - [Reasoning for correct annotations is significantly shorter than for incorrect ones for most Talk Moves constructs, with Relating to Others the sole significant exception where correct reasoning is longer](concise-reasoning-predicts-correct-annotations.md) — related
+- The dominant bottleneck in LLM logical reasoning is semantic rather than syntactic, with recurring failure modes identified — related

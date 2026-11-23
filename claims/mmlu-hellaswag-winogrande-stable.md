@@ -50,3 +50,4 @@ Benchmark evaluation (Table 2) across the seven-benchmark suite; the article rep
 - [Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions](context-length-no-effect-fkt.md) — related
 - [Training LLMs on student-tutor dialogues to model student behavior significantly reduces reasoning accuracy on the ARC benchmark](student-data-paradox-arc-decline.md) — related
 - [Training LLMs on tutor responses does not produce the performance decline seen with student-response training](tutor-control-no-decline.md) — related
+- ACER-trained models improve knowledge-intensive benchmarks ARC and GPQA by more than two absolute percentage points while remaining stable on AGIEval, GSM8K, and HellaSwag — related

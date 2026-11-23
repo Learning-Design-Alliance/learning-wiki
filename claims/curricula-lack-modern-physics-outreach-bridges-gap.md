@@ -48,3 +48,4 @@ Authors' argument (e), not a tested result: most students finish high school bel
 - [Popular descriptions of particle physics are largely flawed and often simply wrong, and the inaccuracies extend through high school into university-level physics books](popular-particle-physics-accounts-largely-flawed.md) — related
 - [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related
 - [Extra-curricular particle physics activities increased general interest in physics among students aged 16-19 in the UK and Germany](particle-physics-outreach-increases-student-interest.md) — a narrower finding that bears on this claim
+- [Science teaching should transmit the picture of an active, alive science, including its failures and difficulties, to students mainly at college level](teach-active-alive-science-image.md) — related

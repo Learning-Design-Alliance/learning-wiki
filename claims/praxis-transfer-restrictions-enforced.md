@@ -54,3 +54,4 @@ Results of the 120-episode synthetic rehearsal (Results section, workflow and au
 - [Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall](gpt4-redaction-compared-to-prior-methods.md) — related
 - [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)
 - [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — a broader claim this one bears on
+- [The later safeguard candidate passed local verification suites covering consent gating, rating receipts, scoped export, review regression, provider score contracts and recording lifecycle](calliope-candidate-local-verification.md) — related

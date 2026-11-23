@@ -54,6 +54,7 @@ Drawing on the model's emphasis on peer support, faculty interaction, and hands-
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 - [Establish mentorship development activities and train-the-mentor programs to expand and improve mentorship](mentorship-development-and-train-the-mentor.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
+- [Invest in women's dormitories and safe housing, female faculty, targeted STEM scholarships and mentorship, and cultural legitimacy across fields](dormitories-female-faculty-stem-scholarship-strategy.md)
 
 ## Examples
 -

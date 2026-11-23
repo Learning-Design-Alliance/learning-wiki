@@ -48,6 +48,7 @@ To address the disadvantages of no physical interaction with equipment and no di
 - [Concrete strategies for building inclusion in hybrid cohorts: induction photos at lectern, leaving audio/camera on after class, extended on-campus breaks, and proactive communication about exam disruptions](hybrid-inclusion-strategies-pa-programme.md)
 - [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
 - [Propose hybrid experiential learning combining virtual and physical laboratories to bridge theory and practice in quantum education](hybrid-virtual-physical-lab-strategy.md)
+- [Use a simulated Geiger-counter experiment to tie experiments to statistical analysis](simulated-geiger-counter-statistics-teaching-strategy.md)
 
 ## Examples
 -

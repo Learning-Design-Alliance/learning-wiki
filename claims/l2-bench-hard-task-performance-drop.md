@@ -51,3 +51,4 @@ Benchmark evaluation of nine models on the full L2-Bench task set; the article i
 - [Models struggle more in pedagogically demanding low-proficiency and low-resource contexts, with smaller models varying more across contexts](l2-bench-context-performance-low-resource.md) — related
 - [All tested LLMs exceeded the NMLE passing threshold yet stayed below 80% accuracy across all units and years](llms-pass-nmle-but-ceiling-below-80-percent.md) — related
 - [OmniEdu-27B achieves the best overall curriculum-grounding performance among evaluated models, raising K12-Bench EM from 52.11% to 63.12%](omniedu-27b-best-curriculum-grounding-k12-bench.md) — related
+- LLM logical-reasoning accuracy on SLR-BENCH declines sharply as curriculum complexity increases, with no model succeeding on the hard tier — related

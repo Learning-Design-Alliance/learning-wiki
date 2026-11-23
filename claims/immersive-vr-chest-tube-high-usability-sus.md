@@ -50,3 +50,4 @@ Secondary analysis of a randomized controlled trial; 22 medical students with no
 - [Immersive VR training was acceptable and usable, but cybersickness affected nearly half of participants](vr-training-acceptable-usable-cybersickness.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

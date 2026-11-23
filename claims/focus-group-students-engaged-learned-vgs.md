@@ -50,3 +50,4 @@ A qualitative focus group study of students' VGS experiences conducted by the te
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
 - [Engaging the teaching team early is essential for curricular uptake of virtual gaming simulation](teaching-team-engagement-essential-vgs-uptake.md) — related
 - [Students who appreciated the virtual slides more than their peers had a distinct profile of professionally motivated active learners](professionally-motivated-active-learner-profile.md) — related
+- [Anecdotal trial: a few children who played Quantum Focus became motivated to learn quantum mechanics](children-playing-quantum-focus-want-to-learn-quantum-mechanics.md) — related

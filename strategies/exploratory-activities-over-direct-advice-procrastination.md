@@ -39,6 +39,7 @@ The article's closing recommendation is that interventions letting students expl
 ## Related Strategies
 
 - [Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing](relational-buy-in-strategies-restorative-implementation.md)
+- [Open-ended group exploration: let students build the largest and most exotic nuclei and submit their discoveries](open-group-exotic-nuclei-building-strategy.md)
 
 ## Examples
 -

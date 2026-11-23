@@ -47,3 +47,4 @@ In the same pilot eye-tracking task, difficult ECGs elicited greater pupil dilat
 ## Related Claims
 - [Expert cardiologists interpret ECGs significantly faster and with higher diagnostic accuracy than residents across all task difficulty levels](experts-faster-more-accurate-ecg-interpretation.md) — related
 - [Experts show lower pupil dilation changes than residents during ECG interpretation, indicating lower cognitive load](experts-lower-pupil-dilation-cognitive-load.md) — a narrower finding that bears on this claim
+- LLM support increases pupil size variability, and this effect is attenuated for experts, suggesting reduced expert sensitivity to the added cognitive demands of guidance integration — related

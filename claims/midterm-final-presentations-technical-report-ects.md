@@ -50,3 +50,4 @@ Program evaluation and assessment structure described by the organizers. Interns
 - [Over eight years, 166 fellows attended the ESO CCASP and all who took the final certification exam passed it](ccasp-166-graduates-final-exam-pass.md) — related
 - [Lung cancer CCASP: mean module-test pass of 81% and a 100% certification exam pass for all 16 attenders](ccasp-lung-program-exam-outcomes.md) — related
 - [Breast cancer CCASP: mean module-test pass of 79.3% and certification exam pass of 83%, with 7% failing](ccasp-breast-program-exam-outcomes.md) — related
+- Web lecture archives became unplanned public outreach, with outside viewers arriving via search engines rather than the lab's home page — related

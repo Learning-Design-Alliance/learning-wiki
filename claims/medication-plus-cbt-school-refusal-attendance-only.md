@@ -53,3 +53,5 @@ Separate meta-analysis of two RCTs (Bernstein et al., 2000; Wu et al., 2013) com
 - [Only six rigorous studies of school refusal interventions exist, all testing CBT variants, and most carry high risk of performance and detection bias](school-refusal-evidence-base-sparse-high-bias.md) — related
 - [Psychosocial interventions for school refusal behavior show a very small, nonsignificant effect on anxiety at post-test](school-refusal-interventions-anxiety-nonsignificant.md) — related
 - [Psychosocial interventions for school refusal behavior produce moderate, statistically significant improvements in school attendance](school-refusal-interventions-improve-attendance-moderate.md) — related
+- [CBT combined with medication favors medication-plus-CBT on attendance in school refusal](cbt-medication-attendance-school-refusal.md) — possibly the same claim (merge candidate)
+- [Adding medication to CBT shows no significant short-term effect on anxiety in school refusal](cbt-medication-no-anxiety-effect-school-refusal.md) — possibly the same claim (merge candidate)

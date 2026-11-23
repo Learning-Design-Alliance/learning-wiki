@@ -51,3 +51,4 @@ Illustrative scenario analysis under the Governance pillar, not an empirical mea
 - Simulation allows the expense and effect of a policy change to be evaluated before implementation — a broader claim this one bears on
 - [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](sequential-risk-policy-concentrates-failures.md) — related
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Advisorship workload in U.S. universities rose about 40% from 1971 to 2024, and advisor-student co-authorship grew to about 11%](rising-advisorship-workload-mass-science.md) — related

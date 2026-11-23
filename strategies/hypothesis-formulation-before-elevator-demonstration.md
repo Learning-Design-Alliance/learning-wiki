@@ -47,6 +47,7 @@ Before showing the elevator experiment, students were asked to predict what a pe
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 - [Predicting](predicting.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
+- [Deploy the demonstration as a Predict–Observe–Explain sequence in which students commit to predictions before confronting the counterintuitive impedance surge](poe-skin-effect-cognitive-activation.md)
 
 ## Examples
 -

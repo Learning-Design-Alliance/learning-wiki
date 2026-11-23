@@ -52,3 +52,4 @@ Control group of 20 learners received ten sessions of audio-only instruction. Th
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — reports the opposite
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
+- [Ten weeks of MMB instruction for L2 listening comprehension produces a statistically significant difference between pre- and post-test in primary schools, per the study's main hypothesis](mmb-listening-hypothesis-verified.md) — related

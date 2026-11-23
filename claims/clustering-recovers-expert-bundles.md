@@ -75,3 +75,4 @@ Local neighborhood analysis identifying, for every program, its single nearest n
 - [Clustering fine-tuned BERT embeddings of award descriptions yields an accurate automatic award labeler, with Agglomerative Clustering using Ward linkage performing best (Rand Index 0.990)](finetuned-bert-clustering-award-autolabeler.md) — related
 - [In simulation, the MFM prior recovered the true number of latent learner clusters without pre-specification in 90% of replications](mfm-prior-cluster-enumeration-recovery.md) — related
 - [Hierarchical clustering of effect equivalence coefficients was reported to identify two meta-groups: a Symbolic Reasoning group and a Commonsense Memorization group](instruction-meta-groups-symbolic-commonsense.md) — related
+- Cosine similarity on Wasserstein task embeddings reconstructs task group structure, and policy reuse weights align with task similarity after fine-tuning — related

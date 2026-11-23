@@ -47,4 +47,4 @@ The project tags each article with a difficulty marker so readers can select mat
 -
 
 ## Key Sources
-- Batziou, E., Boula, S., Kalomenopoulos, M., Kantzas, D., Spanakis-Misirlis, A., & Spanakis-Misirlis, V. (2021). 2' science: A Science Communication Project for Astrophysics. 37th International Cosmic Ray Conference (ICRC 2021). https://arxiv.org/abs/2108.03036
+- Batziou, E., Boula, S., Kalomenopoulos, M., Kantzas, D., Spanakis-Misirlis, A., & Spanakis-Misirlis, V. (2021). 2' science: A Science Communication Project for Astrophysics. 37th International Cosmic Ray Conference (ICRC 2021). https://arxiv.org/abs/2108.03036. [doi:10.22323/1.395.1388](https://doi.org/10.22323/1.395.1388)

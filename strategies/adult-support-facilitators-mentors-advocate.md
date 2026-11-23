@@ -54,6 +54,7 @@ The article identifies adult support as continuously present in dropout preventi
 - [Adopt power-sharing and reciprocity strategies such as mentoring and cooperative learning to strengthen social bonds and build protective factors](power-sharing-strategies-build-protective-factors.md)
 - [Empowering Students Through Self-Advocacy](empowering_students_through_self-advocacy.md)
 - [Build shared adult capacity across disciplines, systems, and settings to support whole child development](shared-adult-capacity-across-settings-strategy.md)
+- [Co-facilitate school prevention programs with young adult community mentors to increase student buy-in and cultural relevance](community-mentor-cofacilitation-strategy.md)
 
 ## Examples
 -

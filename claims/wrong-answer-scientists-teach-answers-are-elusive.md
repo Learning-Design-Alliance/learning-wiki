@@ -53,3 +53,4 @@ The author's theoretical argument opening the essay: students rarely encounter s
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
 - [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — related
 - [The book's stated aim is to awaken the scientist that every child carries inside, positioning science learning as universal rather than elite](scientist-in-every-child-positioning.md) — related
+- [Historical examples show scientific prejudice can delay acceptance of correct theories, so history should inform science teaching](historical-prejudice-in-science-teaching.md) — related

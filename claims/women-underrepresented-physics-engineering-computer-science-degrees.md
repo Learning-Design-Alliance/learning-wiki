@@ -54,3 +54,4 @@ Descriptive statistics reported in the guide's overview, drawn from National Sci
 - [US bachelor’s degrees in physics, chemistry, and the physical sciences and engineering declined as a percentage of all degrees awarded between 1984 and 2011](us-physical-science-degrees-declined-1984-2011.md) — related
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related
 - After GIPWG's establishment, women's share of IPA awards rose from 9% to 23% and of DAE C. V. Raman Lecture speakers from 8% to 24% since 2017 — related
+- [By 2019 six faculties recorded female shares above 45–55%, some surpassing parity, while Engineering, ICT, Computer Science and Physics stayed below 20%](faculty-level-female-share-variation-2019.md) — related

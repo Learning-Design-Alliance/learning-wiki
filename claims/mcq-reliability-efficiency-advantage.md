@@ -70,3 +70,4 @@ The review reports marking-cost comparisons: open-ended items cost 300 times mor
 - [Scores on open-ended and multiple-choice assessments are highly correlated, with correlations of 0.92 for stem-equivalent items and 0.85 for non-stem-equivalent items across published studies](mcq-open-ended-high-score-correlations.md) — related
 - [Well-constructed context-rich multiple-choice items can assess five of Bloom's six cognitive levels, so the question's phrasing rather than the response format determines the cognitive level tested](context-rich-mcq-higher-order.md) — related
 - [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — reports the opposite
+- Output format, not knowledge domain, dictates reasoning-distillation efficiency: open-ended tasks reach the Pareto frontier while multiple-choice tasks fall behind — related

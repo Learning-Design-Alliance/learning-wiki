@@ -56,3 +56,5 @@ The article reports, citing its reference [12], that introductory physics studen
 - [Four of five students failed to recognize that pressure must increase with distance from an obstacle to provide the net centripetal force on a fluid element](four-fifths-miss-pressure-increase-away-obstacle.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
 - [Students invoke relationships between only two of the three first-law variables (variable-exclusion reasoning), leading to incorrect inferences](variable-exclusion-reasoning-first-law.md) — related
+- [Gravitational definitions of weight leave students with misconceptions about weight and weightlessness](gravitational-weight-definitions-mislead-students.md) — related
+- [Students hold misconceptions about weight and struggle to apply weight concepts in weightlessness and accelerated environments](student-misconceptions-weight-weightlessness.md) — a broader claim this one bears on

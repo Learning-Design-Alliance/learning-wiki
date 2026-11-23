@@ -53,3 +53,5 @@ Developer-led synthetic domain rehearsal run on 28 September 2026 against the fr
 - [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](hardening-rehearsal-50-sessions-and-access-denials.md) — related
 - [Version 1.0.0 of Gravitas demonstrates capability and scientific verification but not measured learning gains](gravitas-no-learning-gain-evidence-yet.md) — related
 - [LoopCAT's first 31 August build passed 1,389 unit tests, eight browser-test phases, and 36 accessibility audits](loopcat-verification-record-first-build.md) — related
+- [The later safeguard candidate passed local verification suites covering consent gating, rating receipts, scoped export, review regression, provider score contracts and recording lifecycle](calliope-candidate-local-verification.md) — a narrower finding that bears on this claim
+- Duplicate evaluation requests in the final release reported an already-submitted state without repeat evaluation in the exercised path — a narrower finding that bears on this claim

@@ -50,6 +50,7 @@ The article evaluates a curriculum intervention by combining a concept inventory
 
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Evaluate interdisciplinary course success with triangulated quantitative and qualitative measures, including pre/post tests, rubric-tracked journals, and an in-class ethics conference](pose-triangulated-course-evaluation-plan.md)
+- [For concept inventories, either require one common instrument or let instructors choose a research-validated inventory matched to course topics, addressing comparability analytically](concept-inventory-selection-tradeoff.md)
 
 ## Examples
 -

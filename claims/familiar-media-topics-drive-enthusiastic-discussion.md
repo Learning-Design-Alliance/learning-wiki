@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: weak
 newest_evidence: 2004
+source_checked: 2026-11-23
 sources:
   - id: c-efthimiou-and-r-llewellyn-2004
     resource: "https://doi.org/10.48550/arXiv.physics/0404064"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructor experience showed a strong tendency toward enthusiastic student participation when the physical science topic was familiar from TV or movies. [→ C. Efthimiou and R. Llewellyn 2004](#c-efthimiou-and-r-llewellyn-2004)
@@ -50,3 +51,5 @@ The authors' interpretation of their experience teaching the course and of discu
 - [Final student ratings of all instructor descriptors except strict correlate significantly with perceived student learning, with strong positive associations for confident, engaging, enthusiastic, organized, relate, relaxed, respect, and understanding](descriptor-ratings-correlate-learning.md) — related
 - [Final student ratings of all instructor descriptors except strict correlate significantly with perceived teaching effectiveness, with strong positive associations for confident, engaging, enthusiastic, organized, relate, relaxed, respect, and understanding](descriptor-ratings-correlate-effectiveness.md) — related
 - [The Physics in Films approach, which uses popular movie scenes to illustrate physical principles, excited student interest and improved student performance in general education physical science.](physics-in-films-improved-interest-performance.md) — related
+- [In the Pseudoscience-flavor class of 90 students, almost every student participated in heated discussions driven by movie scenes](pseudoscience-flavor-near-universal-discussion-participation.md) — a narrower finding that bears on this claim
+- [84% of students agreed or strongly agreed that the movie topics selected for physics analysis were interesting](pseudoscience-flavor-topics-interesting-84-percent.md) — related

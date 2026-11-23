@@ -42,6 +42,7 @@ The authors found that after five months of research, coding the show in the Nig
 
 - [Survey the venue's equipment capabilities before developing content past the research phase](survey-venue-equipment-before-content-development.md)
 - [Let learners choose personally resonant topics to sustain motivation in long interdisciplinary projects](personal-resonance-topic-choice-long-projects.md)
+- [Make student media-production projects a more normal part of undergraduate teaching](student-video-production-projects.md)
 
 ## Examples
 -

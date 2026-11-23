@@ -50,3 +50,4 @@ Budget sensitivity simulation varying per-component AI budget from 0 to 1 (Fig. 
 - [Optimal AI allocation concentrates resources on components above a common residual-gap threshold, yielding over 14% greater gain than proportional allocation](optimal-ai-allocation-exceeds-proportional.md) — related
 - [Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters](lora-rank-diminishing-parameter-efficiency-returns.md) — related
 - [Resource allocation across education sessions can be formulated and solved as a convex optimization problem maximizing terminal student sentiment](convex-optimization-resource-allocation-sentiment.md) — related
+- Retrieval depth k shows diminishing returns: large hint blocks become counterproductive, with a sharp drop at k=9 in ALFWorld and reduced scores at k=6 and 9 in WebShop — related

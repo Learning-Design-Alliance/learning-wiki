@@ -38,7 +38,7 @@ A Mathematica toolkit comprising a prior-research table, target-setting guide, s
 ## Key Sources
 - Kate Place, Gregory Chojnacki, Virginia Knechtel, Andy Gothro, Megan Shoji, Lindsay Fox. (2023). Measurement and Evaluation Plan Template. Mathematica. https://www.mathematica.org/publications/measurement-and-evaluation-plan-template
 <!-- merged 2026-10-10 from elements/me-plan-companion-publications-suite ("Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Ananthanarayan, B., Das, S., Lahiri, A., Sheikh, S., & Talukdar, S. (2024). Group Theory in Physics: An Introduction with Mathematica. https://arxiv.org/abs/2408.01441
+- Ananthanarayan, B., Das, S., Lahiri, A., Sheikh, S., & Talukdar, S. (2024). Group Theory in Physics: An Introduction with Mathematica. https://arxiv.org/abs/2408.01441. [doi:10.1140/epjs/s11734-024-01245-9](https://doi.org/10.1140/epjs/s11734-024-01245-9)
 
 # Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template
 

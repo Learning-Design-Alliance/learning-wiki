@@ -75,3 +75,4 @@ Exploratory linear mixed-effects regression of Stage 2 per-question completion t
 - [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related
 - [Performance incentives increase time invested in the assisted reasoning task](incentives-increase-stage1-completion-time.md) — related
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
+- [Higher learned dependency weakens sensitivity to information accuracy (negative accuracy × dependency interaction)](dependency-weakens-trust-calibration.md) — related

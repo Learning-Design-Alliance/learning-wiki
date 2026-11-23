@@ -64,3 +64,4 @@ The authors' own classroom experience using Tracker with their students, framed 
 - [In-app automated data analysis shifts an experiment's instructional focus, e.g. from teaching data analysis to teaching basic kinematics](in-app-analysis-shifts-experiment-focus.md) — related
 - [Students self-report improved understanding of position-velocity-acceleration relationships after the smartphone activity](smartphone-activity-self-reported-understanding-gains.md) — related
 - [Stroboscopic photos retain pedagogical value even though Tracker can automatically track motion and plot graphs](stroboscopic-photos-value-despite-automatic-tracking.md) — related
+- [Understanding physics means knowing when and why an approximation (like constant acceleration) usefully applies to a real system, not memorizing mathematical facts](physics-understanding-is-knowing-when-approximations-apply.md) — related

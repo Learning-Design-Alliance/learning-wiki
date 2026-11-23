@@ -47,3 +47,4 @@ Exercise 6 attaches the sticky blob to a spring; after a perfectly inelastic col
 ## Related Claims
 - [Comparing analytic with Euler and Euler-Cromer numerical solutions led students to quantify iteration error, which affected position but not velocity](analytic-versus-numerical-solution-error-activity.md) — related
 - [Finite time steps produce a measurable numerical offset and turn-to-turn oscillations in the extracted perihelion motion, which students use to estimate simulation error](timestep-numerical-error-offset-oscillations.md) — related
+- [Simple airtrack simulations can provide experiential data sufficient for students to formulate their own models of motion](simulations-support-own-motion-models.md) — related

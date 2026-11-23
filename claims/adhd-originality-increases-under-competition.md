@@ -52,3 +52,4 @@ Study 2, a lab experiment with 46 adults with ADHD and 44 controls, manipulated 
 - [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
 - [Adults with ADHD report more real-world creative achievements than healthy controls](adhd-more-real-world-creative-achievements.md) — related
 - [Increasing extrinsic motivation via reward and competition interacts with group membership in reducing attention-task differences between children with ADHD and TD children](motivation-group-interaction-attention-adhd.md) — related
+- [Competition alone, with no niche bonus (λ = 0), induces significant specialization in learner populations, exceeding random baselines in all six domains](competition-alone-induces-specialization-lambda-zero.md) — related

@@ -44,6 +44,7 @@ Across the Quantum Control and Quantum Devices & Computers courses, new quantum 
 - [Use a familiar-object starter activity to introduce modeling trade-offs before demanding content](familiar-object-starter-modeling-tradeoffs.md)
 - [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
 - [Recommended additions for future implementations of the filter activity](filter-activity-future-implementation-recommendations.md)
+- [Teach BV by starting from the classical parity circuit and rotating it into the quantum form](start-classical-circuit-rotate-to-quantum-strategy.md)
 
 ## Examples
 -

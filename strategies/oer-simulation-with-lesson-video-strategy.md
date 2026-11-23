@@ -46,6 +46,7 @@ Each experiment names the specific simulation students use and pairs it with a d
 - [Use OER-based simulations and video analysis to simulate in-person physics labs remotely](oer-simulation-video-analysis-virtual-labs-strategy.md)
 - [Pair student-collected video datasets from physical home-buildable apparatus with PhET and/or oPhysics simulations in online labs](video-dataset-labs-plus-simulations-online-em.md)
 - [Scaffolded simulation-based hypothesis testing in virtual astronomy labs](scaffolded-simulation-hypothesis-testing-strategy.md)
+- [Simple data presentation: repeated trials, averaged run-off lengths, and hand-drawn or spreadsheet graphs](simple-student-data-presentation-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Distributional evaluation comparing fine-tuned and prompted LLMs against real st
 - [Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP](pass-rate-distribution-explains-split-gap.md) — related
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
 - [LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned](llm-error-alignment-depends-on-model-and-prompting-strategy.md) — related
+- Cosine similarity on Wasserstein task embeddings reconstructs task group structure, and policy reuse weights align with task similarity after fine-tuning — related

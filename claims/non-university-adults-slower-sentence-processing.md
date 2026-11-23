@@ -49,3 +49,4 @@ Group main effects in mixed ANOVAs across 60 adults: Text total fixation η²p =
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related
 - [Visual support reduces global sentence reading times and regressions in adult readers](visual-support-reduces-global-sentence-reading-times.md) — related
 - [Lexical simplification benefits non-university adults more than university adults, though it helps both groups](lexical-simplification-benefit-larger-for-non-university-adults.md) — related
+- LLM support reduces mean fixation duration in simulated SAR, consistent with partial offloading of information acquisition — a narrower finding that bears on this claim

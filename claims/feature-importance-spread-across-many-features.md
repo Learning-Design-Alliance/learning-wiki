@@ -71,3 +71,4 @@ Post-hoc feature importance analysis (Table 8, top 20 features per subject) usin
 - [For numerical problems, explicit units and included solution strategy dominate prediction of student choice, with substantially better model accuracy](numerical-choice-predictors-units-strategy.md) — reports the opposite
 - [For radio-button problems, cognitive-demand metrics (Bloom level, difficulty, distinct misconceptions) are the strongest random-forest predictors of student choice](radio-choice-predictors-cognitive-demand.md) — a narrower finding that bears on this claim
 - [Mathematics skills are the dominant positive predictor of first-round success, while conventional vocational interests negatively predict success](shap-predictors-olympiad-success.md) — related
+- [Semantic alignment between the reference and the student's work is the most important feature for correct error localization](semantic-recall-most-important-error-localization-feature.md) — reports the opposite

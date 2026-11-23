@@ -70,3 +70,4 @@ The review's synthesis of included studies (RQ1 findings section) reports that i
 - [Hallucinations and erroneous output are the most significant constraint on GenAI usage, keeping academic literature the primary knowledge source](hallucinations-most-significant-genai-constraint.md) — related
 - [Students were skeptical of genAI for physics theory and verified its factual information with trusted sources](student-skepticism-genai-theory-verification.md) — a narrower finding that bears on this claim
 - [AI response quality was consistently high across cohorts, with Correct & Helpful responses between 89.39% and 94.67%, and quality loss stemming mainly from correct-but-unhelpful misalignment rather than incorrectness](ai-response-quality-high-and-stable.md) — related
+- Information accuracy has a significant positive effect on trust in AI-generated health information in both experiments — related

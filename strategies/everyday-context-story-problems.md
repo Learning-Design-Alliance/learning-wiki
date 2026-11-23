@@ -54,6 +54,7 @@ Following context-based science education, teachers base instruction in everyday
 - [Real World Math Applications](real-world_math_applications.md)
 - [Leverage students' lived experiences and support systems in course reform, beyond framing activities in interesting contexts](leverage-lived-experiences-and-support-systems-for-relevance.md)
 - [Anchor an experimental problem in a widely used technical patent so students connect school physics to real devices](patent-anchored-olympiad-problem-strategy.md)
+- [Using culturally relevant and historically significant events as contexts for teaching physics](culturally-significant-events-physics-teaching.md)
 
 ## Examples
 -

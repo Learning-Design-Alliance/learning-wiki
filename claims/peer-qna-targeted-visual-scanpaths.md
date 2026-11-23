@@ -68,3 +68,4 @@ Same scanpath analysis; saccade amplitudes, which indicate how broadly participa
 - [Peer questions direct student attention to primary instructional content in a complex VR lecture topic](peer-qna-increases-fixation-on-instructional-content.md) — related
 - [Peer question-asking shows a non-significant trend toward higher knowledge scores in both topics](peer-qna-learning-outcome-trend.md) — related
 - [Shorter mean saccade duration is associated with higher knowledge scores in the complex topic](saccade-duration-negative-correlation-knowledge.md) — related
+- LLM support reduces mean fixation duration in simulated SAR, consistent with partial offloading of information acquisition — related

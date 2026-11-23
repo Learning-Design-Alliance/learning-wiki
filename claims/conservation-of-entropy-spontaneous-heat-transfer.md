@@ -48,3 +48,4 @@ Survey response-rate analysis of spontaneous heat-transfer items (17, 53) in the
 ## Related Claims
 - [Many introductory students are unaware that total entropy must increase in irreversible processes such as free expansion and gas mixing, while upper-level students succeed](unaware-total-entropy-increases-irreversible.md) — a broader claim this one bears on
 - [Introductory students widely believe the entropy of an isolated system must remain unchanged, confusing nonequilibrium isolated systems with equilibrium ones](isolated-system-entropy-unchanged-misconception.md) — related
+- [Dice-throwing simulations let introductory students see entropy increase monotonically to its equilibrium maximum (the second law)](dice-simulation-entropy-increases-to-maximum.md) — related

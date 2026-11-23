@@ -111,3 +111,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Teams that learn better use AR less as the activity progresses, while robot usage does not significantly affect learning gain](less-ar-use-signals-abstraction-learning.md) — related
 - [Switching from long-form videos to LLM-generated reels did not increase cognitive load](reelsed-no-cognitive-load-increase.md) — related
 - [The problem-solving task acted as a stress test that amplified differences between conditions, with much higher workload than the concept-explanation task](task2-stress-test-workload.md) — related
+- LLM support increases pupil size variability, and this effect is attenuated for experts, suggesting reduced expert sensitivity to the added cognitive demands of guidance integration — related

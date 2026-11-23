@@ -50,3 +50,4 @@ Experimental comparison of four GTN variants with increasing control over the or
 - [GTN-produced synthetic data generalizes to learner architectures never seen during meta-training](gtn-synthetic-data-generalizes-across-architectures.md) — related
 - Random shuffling of training data is not essential: systems trained on coherent original-order data perform on par with, or better than, shuffled systems — related
 - [Curriculum learning with easy-to-hard data ordering yields better final performance than shuffled vanilla learning on both benchmarks](yoda-curriculum-learning-improves-robustness.md) — related
+- [Problem-difficulty-based curricula consistently outperform random shuffling, with gains of up to 3–6% on easier datasets](problem-difficulty-curricula-beat-shuffled-baseline.md) — related

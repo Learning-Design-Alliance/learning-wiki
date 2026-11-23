@@ -54,6 +54,7 @@ The article's prompt-engineering recipe combines few-shot prompting with physics
 - [Improve LLM feedback quality via JSON-schema prompts with hidden scoring keys and preprocessing code into structured dictionaries](llm-prompt-schema-and-preprocessing-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 - [Constrain LLM feedback prompts to physics content with a rubric and ideal-answer example](llm-feedback-prompt-constraints-strategy.md)
+- [Decomposed coding with a GPT-polished few-shot prompt for reliable LLM text classification](polished-few-shot-decomposed-coding-strategy.md)
 
 ## Examples
 -

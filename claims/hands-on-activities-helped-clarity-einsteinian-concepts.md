@@ -61,3 +61,4 @@ Five-question views questionnaire given only at the end of the programme (Table 
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
 - [Students in focus groups wanted more interactive activities like SPARC while valuing teachers' foundational instruction](sparc-focus-groups-teacher-complement.md) — related
 - [Student feedback on extra-credit creative physics projects was overwhelmingly positive, with students reporting enjoyment and deeper physics thinking](positive-feedback-extra-credit-physics-humanities-projects.md) — related
+- [About half of students still reported disliking science and not wanting to read science after the course](persistent-student-dislike-of-science-after-course.md) — related

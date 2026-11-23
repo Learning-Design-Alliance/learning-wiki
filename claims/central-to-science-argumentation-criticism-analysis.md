@@ -49,3 +49,4 @@ Editorial discussion section of the conference report, summarizing a common them
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Historical examples show scientific prejudice can delay acceptance of correct theories, so history should inform science teaching](historical-prejudice-in-science-teaching.md) — related

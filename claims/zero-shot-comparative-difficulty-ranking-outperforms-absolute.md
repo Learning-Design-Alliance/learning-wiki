@@ -53,3 +53,4 @@ Zero-shot evaluation on CMCQRD using ChatGPT3.5: 250 samples for absolute scorin
 - [Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](direct-llm-estimation-beats-dummy-regressor-k5-items.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - Systems that both beat the baselines learn similar curricula across disjoint feature groups, as shown by positive Spearman rank correlations between their orderings — related
+- LLMs performing in-context regression on GP-sampled functions achieve errors close to empirical GP regression and well below a 1-NN baseline — related

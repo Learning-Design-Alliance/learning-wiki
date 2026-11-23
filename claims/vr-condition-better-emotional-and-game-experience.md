@@ -84,3 +84,4 @@ AttrakDiff questionnaire administered post-session; the VR condition "significan
 
 ## Related Claims
 - [Participants in the VR condition showed more physical engagement, exploration and sharing behavior than slides participants](vr-condition-greater-physical-engagement-and-exploration.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

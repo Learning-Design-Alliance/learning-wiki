@@ -50,3 +50,4 @@ True/false response-rate analysis of item 27 in the STPFaSL-Long validation data
 - [Many introductory students are unaware that total entropy must increase in irreversible processes such as free expansion and gas mixing, while upper-level students succeed](unaware-total-entropy-increases-irreversible.md) — related
 - [Students understand Boltzmann's microscopic meaning of entropy but not its relation to the Clausius definition or why entropy never decreases for an isolated system](entropy-boltzmann-clausius-link-obscure.md) — related
 - [Students at all levels fail to correctly apply ΔS = δQrev/T in reversible adiabatic and isothermal processes](misapplication-delta-s-qrev-over-t.md) — related
+- [Dice-throwing simulations let introductory students see entropy increase monotonically to its equilibrium maximum (the second law)](dice-simulation-entropy-increases-to-maximum.md) — related

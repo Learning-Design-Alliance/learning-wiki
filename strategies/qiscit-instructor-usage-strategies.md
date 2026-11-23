@@ -45,6 +45,7 @@ The article recommends several concrete uses of QISCIT for introductory QIS inst
 ## Related Strategies
 
 - [Operationalize lab learning goals through stakeholder interviews, prioritization, and concept mapping](stakeholder-interviews-concept-map-lab-goals.md)
+- [For concept inventories, either require one common instrument or let instructors choose a research-validated inventory matched to course topics, addressing comparability analytically](concept-inventory-selection-tradeoff.md)
 
 ## Examples
 -

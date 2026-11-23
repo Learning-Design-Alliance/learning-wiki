@@ -68,3 +68,4 @@ Narrative review section on German financial aspects. After a period of 500-Euro
 - [German medical school admission is centrally managed, GPA-driven, and allocates spots threefold (20% state ranking, 60% faculty process, 20% waiting semesters)](german-medical-admission-threefold-allocation.md) — related
 - [Residency entry differs structurally: US graduates use the centralized NRMP match, while German graduates apply independently to institutions with residencies of 48–72 months that can start any time of year](residency-entry-nrmp-versus-german-decentralized.md) — related
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
+- Application fees are financially burdensome for most astronomy graduate applicants and limit how many programs they apply to, yet fewer than half applied for fee waivers — related

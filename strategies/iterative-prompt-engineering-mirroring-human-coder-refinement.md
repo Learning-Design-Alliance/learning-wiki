@@ -55,6 +55,7 @@ The article describes an iterative prompt engineering process that mirrors human
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
 - [Stepwise prompt-dialogue workflow: start with a comprehensive prompt, then refine through focused interactive dialogue](stepwise-mllm-prompt-dialogue-analysis.md)
 - [Six-step human-LLM collaborative annotation framework for large-scale emotion dataset construction](human-llm-collaborative-annotation-framework-t-med.md)
+- [Decomposed coding with a GPT-polished few-shot prompt for reliable LLM text classification](polished-few-shot-decomposed-coding-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ When the pandemic forced MIPEP online in June 2020, the program was 'taught sync
 - [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 - [Provide remote real-time guidance during student practice, allowing the teacher to observe operations and correct technique from a distance](remote-real-time-practice-guidance-strategy.md)
 - [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
+- [Collect classroom observations at scale via mailed standardized recording equipment, and plan logistics around instructional milestones with intensive tracking and follow-up](mailed-recording-milestone-logistics.md)
 
 ## Examples
 -

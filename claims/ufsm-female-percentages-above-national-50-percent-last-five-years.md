@@ -71,3 +71,4 @@ Table 3 reports female graduate percentages for the last 5 years: 50% for daytim
 - [In the licenciatura (physics teaching) course at UFSC, success rates are 17,7% for women and 19% for men (23% after excluding recent incomers).](ufsc-licenciatura-success-rates-women-men.md) — related
 - [In the bacharelado (bachelor in physics) course at UFSC, success rates are 13,4% for women and 16,8% for men (19,6% and 21,4% after correction).](ufsc-bacharelado-success-rates-women-men.md) — related
 - [Women physics degree recipients increased 200%, from a yearly average of 0.75 to 2.4, reaching about 30% of graduates](women-physics-graduates-200-percent-increase.md) — related
+- [Female students constitute about 35% of Bachelor's but only about 23% of Master's Physics students in Germany, indicating fewer women pursue advanced degrees](german-physics-bachelor-35-percent-master-23-percent-female.md) — related

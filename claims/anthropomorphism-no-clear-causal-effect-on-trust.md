@@ -83,3 +83,4 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 - [Anthropomorphizing chatbots has both positive effects on engagement and motivation and negative effects through unrealistic expectations and frustration](anthropomorphism-dual-engagement-frustration-effects.md) — related
 - [Explainability fosters trust and engagement with AI systems among students and educators in educational settings](explainability-fosters-trust-in-educational-ai.md) — related
 - [Latent class profiles differ sharply: computer-based systems are 100% non-anthropomorphic with 90% text-based feedback, while verbal systems are 100% physical-robot interaction and multimodal systems are 80% fully anthropomorphic](lca-class-feature-profiles.md) — related
+- Bold-text visual attention cues do not significantly affect trust in AI-generated health information in either experiment (null) — a narrower finding that bears on this claim

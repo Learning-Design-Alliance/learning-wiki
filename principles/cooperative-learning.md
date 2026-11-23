@@ -155,6 +155,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Use STAD-style individual progress scores with translated group scores as grade incentives in cooperative learning](../strategies/individual-progress-score-group-incentive-strategy.md)
 - [Deploy school computers for cooperative rather than one-per-student use](../strategies/cooperative-computer-deployment-strategy.md)
 - [Refine group work by adding individual accountability: individual member work, re-implemented roles and rules, self or peer grading, and separated per-meeting tasks](../strategies/group-work-individual-accountability-refinements.md)
+- [Municipalized after-school science tutoring with individual attention plus peer discussion groups](../strategies/doposcuola-scientifico-individual-plus-peer-discussion.md)
 
 ### Validated
 - [Cooperative learning improves achievement when groups have positive interdependence and individual accountability.](../claims/cooperative-learning-improves-achievement.md) [+S] — Johnson & Johnson's (2009) synthesis of 60+ years of research found cooperative methods consistently outperformed competitive and individualistic conditions when both defining conditions were present.

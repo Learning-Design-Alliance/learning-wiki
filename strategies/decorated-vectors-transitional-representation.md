@@ -46,7 +46,8 @@ For instructors who find full bivector tiles too big a leap, the paper recommend
 - [The authors argue that representing angular quantities as oriented tiles eliminates student conflation of linear and angular velocity directions and removes reliance on right-hand rules](../claims/bivector-tiles-reduce-conflation-argument.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Decorated vectors as an intermediate step toward the bivector description](decorated-vectors-intermediate-step.md)
 
 ## Examples
 -

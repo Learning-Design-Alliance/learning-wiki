@@ -70,3 +70,4 @@ Narrative review attributing this to Nussbaum y colaboradores: primary pupils "n
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
 - [Prior to intervention, pupils showed poor understanding of gravity as interaction but good grasp of Euclidean geometry basics](prior-knowledge-gravity-effects-euclidean-basics.md) — related
+- [The term microgravity, used without its exact meaning, can strengthen the misconception that gravity is small far from Earth, where it remains about 8.4 m/s² at 400 km](microgravity-term-strengthens-gravity-misconception.md) — related

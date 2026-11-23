@@ -58,3 +58,4 @@ Similarly, gpt-5 (0.378) performs better than gpt-5-nano (0.314), and gpt-4o
 - [Frontier open-source LLMs translated complex typed student physics responses at about 88% accuracy, 8.5% below the 96.5% human-grader agreement threshold](llm-equation-extraction-88-percent-below-human-threshold.md) — related
 - [Sycophancy effects are generally much larger for smaller LLMs, and the newer GPT-4.1 shows more sycophancy than GPT-4o](sycophancy-larger-in-smaller-models.md) — related
 - [LLM-scored open responses show predictive validity comparable to human scoring via correlation with MCQ scores on the same learning objectives](predictive-validity-llm-scoring-mcq-correlation.md) — related
+- [On the LearnArena benchmark, GPT-4o achieves the best average win rate (0.77), and learning ability improves with model scale but with diminishing gains](learnarena-gpt4o-best-scale-diminishing-gains.md) — related

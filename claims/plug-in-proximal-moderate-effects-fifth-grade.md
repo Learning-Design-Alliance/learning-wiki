@@ -48,3 +48,4 @@ Randomized trial: 48 fifth graders with poor comprehension (TOSREC below 30th pe
 ## Related Claims
 - [The text-processing intervention significantly improved struggling middle school readers' performance on a proximal vocabulary measure](text-processing-intervention-proximal-vocabulary-gain.md) — related
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — related
+- [Syntheses of grades 4-12 reading intervention research report small-to-moderate treatment effects and consistent benefits of explicit instruction in knowledge, summarization, and text-based discourse](adolescent-reading-syntheses-small-moderate-effects.md) — a broader claim this one bears on

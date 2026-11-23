@@ -51,3 +51,4 @@ ANCOVA analysis of the quasi-experimental trial with 64 educators found the inte
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — a broader claim this one bears on
 - [CALM reduced daily physical symptoms and showed trend-level reductions in time pressure and depersonalization](calm-reduces-physical-symptoms-stress-burnout.md) — related
 - [The intervention did not affect school burnout symptoms; both conditions reported increased burnout from pre to 1-year follow-up.](explore-your-brain-no-burnout-effect.md) — related
+- [No between-group differences were found between CALM and CALM-R on clinical improvement at postintervention or follow-up, with small between-group effect sizes](calm-calm-r-no-between-group-difference.md) — related

@@ -54,3 +54,5 @@ Numerical results reported with Fig. 2 across three Qwen3 scales under one fixed
 - [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — related
 - [Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1](model-size-and-lora-rank-joint-effects.md) — related
 - [Scaling model size improves performance within K-5 and at the boundary but does not recover Beyond-K-5 performance](scaling-helps-in-scope-not-beyond-k5.md) — related
+- Model capacity is a strict secondary prerequisite: reasoning captures the Pareto frontier only from 7B upward, and below that incorrect traces run 1.5-2× longer than correct ones — a narrower finding that bears on this claim
+- [Larger learner models achieve higher normalized learning gains, with interactive clarification benefits growing as capacity increases](learner-scale-increases-interactive-learning-gains.md) — related

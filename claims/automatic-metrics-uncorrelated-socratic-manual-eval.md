@@ -55,3 +55,4 @@ Automatic evaluation over the full benchmark using bipartite maximum matching (E
 - [A DPO-optimized Llama 2-7B model gives the best Rouge-L scores among all compared Socratic question generation methods, including GPT-3.5 and GPT-4 prompting baselines](dpo-llama2-best-rouge-l-socratic-question-generation.md) — related
 - [GPT-4 (CoT) prompting achieves the highest recall but the lowest F1 score among GPT baselines because most of its generated questions do not match ground truth](gpt4-cot-highest-recall-lowest-f1.md) — related
 - [High-utility questions are weakly related to exam-question similarity and Bloom's cognitive depth, suggesting they are not paraphrases of exam questions](high-utility-questions-not-exam-paraphrases.md) — related
+- [Generated content averaged BLEU 0.688, cultural relevance 4.4/5 and fluency 4.2/5 across tested African languages, with isiZulu highest and Amharic lowest](multilingual-quality-african-languages.md) — related

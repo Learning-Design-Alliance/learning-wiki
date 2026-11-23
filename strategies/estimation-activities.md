@@ -93,6 +93,8 @@ Estimation works as a form of [activation](../principles/activation.md): committ
 - [Order of magnitude analysis: deliberately discarding precision to estimate and evaluate magnitudes](order-of-magnitude-analysis-strategy-physics-equations.md)
 - [Give instructors worked Cinema Fermi Problem examples to develop skill in recognizing Fermi problems and making Fermi calculations in their own courses](cinema-fermi-worked-examples-strategy.md)
 - [Use Fermi problems grounded in local natural events to train pre-service physics teachers in estimation and logical reasoning](fermi-problems-local-events-teacher-training.md)
+- [Use everyday estimation problems, such as the rebounding tennis ball on a basketball, to test physical reasoning without exact calculation](everyday-estimation-rebound-problem-strategy.md)
+- [Forbid calculators during estimation work and have students practice putting in numbers by hand to rebuild their numerical sense](forbid-calculators-build-number-sense.md)
 
 ## Examples
 - **Fermi problems in physics classrooms** — "How many atoms are in a human body?" Students decompose the question, estimate each part, then compare against the accepted value; widely used in University of Maryland's Physics Education Research Group materials ([Einstein Project Fermi problems](https://www.physics.umd.edu/perg/)).

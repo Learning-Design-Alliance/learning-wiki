@@ -48,3 +48,4 @@ Mixed-training experiments (nc/nm in {0.25,0.5,1.0}) on Llama-3.1-8B-Instruct, w
 ## Related Claims
 - [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related
 - [Tutor models trained on ten misconceptions simultaneously learn each misconception while overall correct accuracy remains stable or improves (93% to 98%)](tutor-model-multi-misconception-no-accuracy-tradeoff.md) — related
+- A sequential curriculum with just 25% reasoning data recovers most reasoning-distillation accuracy gains at a fraction of the training cost — related

@@ -45,6 +45,7 @@ AHaH lets students form an approximate image of any cosmology by varying paramet
 
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 - [Teach parameter dependence by having students compute spectra for deliberately ruled-out exotic models with real scientific software rather than parameter-slider applets](exotic-model-comparison-strategy-real-software.md)
+- [Pair CosmoSlider exploration with explicit instruction on the physical mechanisms underlying CMB anisotropies](cosmoslider-with-mechanism-instruction.md)
 
 ## Examples
 -

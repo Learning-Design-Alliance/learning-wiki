@@ -48,3 +48,4 @@ Model-comparison aggregation across the metric benchmark in Results. The article
 ## Related Claims
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
 - [On the MathDial problem set with SymPy access, o3-mini(high) and Claude 3.5 Sonnet achieved the highest problem-solving accuracy at 90.00%](o3-mini-highest-mathdial-accuracy.md) — related
+- [On the LearnArena benchmark, GPT-4o achieves the best average win rate (0.77), and learning ability improves with model scale but with diminishing gains](learnarena-gpt4o-best-scale-diminishing-gains.md) — related

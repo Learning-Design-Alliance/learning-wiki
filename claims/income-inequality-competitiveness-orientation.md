@@ -70,3 +70,4 @@ Multilevel analysis of PISA 2000 (77,498 students, 32 countries) with domain-gen
 - [National income inequality is associated with students perceiving their schoolmates as more competitive and less cooperative (PISA 2018)](income-inequality-perceived-competitiveness-cooperativeness.md) — related
 - [Experimentally induced income inequality increases competitiveness orientation and favors instrumental over intrinsic cooperativeness](induced-inequality-orientations-experiment.md) — related
 - [Experimentally induced income inequality increases perceived competitiveness and decreases perceived cooperativeness of the school environment](induced-inequality-perceived-school-climate.md) — related
+- [Competition alone, with no niche bonus (λ = 0), induces significant specialization in learner populations, exceeding random baselines in all six domains](competition-alone-induces-specialization-lambda-zero.md) — related

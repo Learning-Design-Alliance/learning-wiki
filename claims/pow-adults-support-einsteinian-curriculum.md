@@ -57,3 +57,4 @@ Attitudinal post-questionnaire (Likert-type scale) from 25 adults attending the 
 - [In the face-to-face micro-credential course, half the participants were unclear about the everyday relevance of Einsteinian physics, prompting added real-world content](mc1-relevance-gap-drove-curriculum-refinement.md) — related
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
 - [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related
+- [About half of students still reported disliking science and not wanting to read science after the course](persistent-student-dislike-of-science-after-course.md) — related

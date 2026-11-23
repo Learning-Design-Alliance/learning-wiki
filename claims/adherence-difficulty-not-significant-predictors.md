@@ -47,3 +47,4 @@ In the HLM models with all three predictors entered, adherence and patient diffi
 ## Related Claims
 - [Therapist competence on the CTCS-SP significantly predicts patient outcome on the CGI-I in cognitive therapy for social anxiety disorder, explaining 48% of outcome variance](competence-predicts-cgi-outcome-ct-social-anxiety.md) — related
 - [Therapist competence on the CTCS-SP significantly predicts outcome on the Liebowitz Social Anxiety Scale residualized gain score, explaining 20% of outcome variance](competence-predicts-lsas-outcome-ct-social-anxiety.md) — related
+- [Nurses in CALM used more consultation than CALM-R nurses, but consultation use was not associated with adherence ratings or child outcomes](calm-nurses-consultation-use.md) — related

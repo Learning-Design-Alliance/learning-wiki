@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 351 claims (217 show a difference, 61 mixed, 73 no difference) · 245 studies (99 causal, 58 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 245 report an effect size · 342 claims rest on one study
+> **Evidence** · 352 claims (217 show a difference, 62 mixed, 73 no difference) · 246 studies (100 causal, 58 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 246 report an effect size · 343 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -402,6 +402,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Multiple hint iterations improve student gains, with a second hint often contributing meaningfully, though gains vary sharply by language](../claims/multiple-hints-improve-gains-language-dependent.md) [~M] — an instructional effect differs with it
 - [Most Hybrid learners did not switch languages during the course, defaulting primarily to English-only use](../claims/hybrid-learners-majority-english-only.md) [-M] — measured as an outcome of the instruction studied
 - [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+M] — learners who differ on it differ in outcomes
+- [Oral language and listening comprehension interventions improved language and reading comprehension after 20-30 weeks of instruction but not after 9 weeks among young struggling readers](../claims/oral-language-intervention-20-30-weeks-gains.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
