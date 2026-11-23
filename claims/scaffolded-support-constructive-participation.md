@@ -72,3 +72,4 @@ Covariate-adjusted within-setting models from Results Section 2.3 of the observa
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
 - [Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns](everyday-llm-use-engagement-prevalence.md) — related
 - [Sustained scaffolding—continuing to guide rather than execute on the student's behalf—differentiates high- from low-performing optimization methods across dialog turns](sustained-scaffolding-differentiates-method-performance.md) — related
+- Trajectory-derived scaffolds constructed automatically from one reference trajectory per context retain or exceed hand-built scaffold gains across three settings — related

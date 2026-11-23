@@ -49,3 +49,4 @@ Post-assessment (N = 18) administered to UNLV introductory-physics undergraduate
 - [After an after-school GW Explorer workshop, 89% of post-survey high school respondents correctly identified gravitational waves as spacetime perturbations and 78% reported increased interest in astrophysics](gw-explorer-high-school-post-survey-gains.md) — related
 - [Students in both pilots singled out interactive real-time waveform plotting and parameter exploration as the components most responsible for building understanding and computational comfort](gw-explorer-visualization-driven-learning.md) — related
 - [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related
+- [A research topic at the forefront of active neutron-star research can be tractable for an undergraduate student](frontier-research-tractable-undergrad-level.md) — related

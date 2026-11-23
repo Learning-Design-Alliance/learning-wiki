@@ -50,3 +50,4 @@ The author's reflective conclusion about the video modeling pedagogy used in the
 - [Dynamic particle models with incorrect force values, juxtaposed against real video data, compel students to rethink their force assumptions in projectile motion](dynamic-particle-model-refutes-impetus-misconceptions.md) — a narrower finding that bears on this claim
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Students developed a class norm that a good video for measuring motion must keep the camera still and show the whole motion, enabling frame-by-frame measures of acceleration](good-video-norm-acceleration.md) — related
+- [Simple airtrack simulations can provide experiential data sufficient for students to formulate their own models of motion](simulations-support-own-motion-models.md) — related

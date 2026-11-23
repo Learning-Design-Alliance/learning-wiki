@@ -54,3 +54,4 @@ Comparative analysis of the six evaluated models' accuracies on the 310-case ben
 - [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related
 - [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
 - [A larger tutor model (LLaMA-3.3-70B) yields greater student gains than a smaller one, especially for low-resource languages](larger-tutor-model-greater-student-gains.md) — reports the opposite
+- Scaling model parameters brings only marginal gains in logical reasoning, and even the largest base models fall short of reasoning models — related

@@ -50,6 +50,7 @@ A concrete recipe: students record the phenomenon with a smartphone or digital c
 - [Use classroom comparison of video analysis and smartphone sensors to discuss experimental and numerical concepts](classroom-comparison-video-sensors-discussion-strategy.md)
 - [60-minute inquiry lesson using video analysis and modeling with Tracker on real-life motion examples](tracker-video-analysis-inquiry-lesson.md)
 - [Use two smartphones — one as an on-cart accelerometer, one as a tripod-mounted video camera — plus free Tracker software for quantitative lab data](dual-smartphone-accelerometer-video-strategy.md)
+- [Use a released plastic spring filmed with a digital camera as a home experiment to teach elastic waves](spring-digital-camera-elastic-wave-home-experiment.md)
 
 ## Examples
 -

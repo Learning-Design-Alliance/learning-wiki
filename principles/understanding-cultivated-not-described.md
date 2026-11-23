@@ -173,6 +173,7 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 - [The Target-Task Model: a six-stage guided-discovery problem-solving model for teaching science](../designs/target-task-model-six-stages.md)
 - [Use exploratory activities rather than telling students what to do when addressing procrastination](../strategies/exploratory-activities-over-direct-advice-procrastination.md)
 - [Use the exploration strategy: have students discuss, criticize and review ideas in the material before seeking knowledge](../strategies/exploration-discussion-strategy-arabic-reading.md)
+- [Open-ended group exploration: let students build the largest and most exotic nuclei and submit their discoveries](../strategies/open-group-exotic-nuclei-building-strategy.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

@@ -187,6 +187,7 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 - [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](../strategies/predict-then-simulate-lake-level-tasks.md)
 - [Use dynamic software so students visualize, explore and discuss data instead of only computing](../strategies/dynamic-software-data-exploration-discussion-strategy.md)
 - [Just-in-time evaluation: let students examine the process and parameters during the experiment and compare outcomes to theoretical predictions immediately](../strategies/just-in-time-mr-data-evaluation.md)
+- [Open-ended group exploration: let students build the largest and most exotic nuclei and submit their discoveries](../strategies/open-group-exotic-nuclei-building-strategy.md)
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465

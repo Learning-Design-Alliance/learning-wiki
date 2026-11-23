@@ -56,3 +56,4 @@ Same multivariate path analysis of at-risk first graders (model fit reported wit
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](grade3-comprehension-predicted-by-word-reading-and-listening.md) — related
 - [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md)
+- [Oral language and listening comprehension interventions improved language and reading comprehension after 20-30 weeks of instruction but not after 9 weeks among young struggling readers](oral-language-intervention-20-30-weeks-gains.md) — related

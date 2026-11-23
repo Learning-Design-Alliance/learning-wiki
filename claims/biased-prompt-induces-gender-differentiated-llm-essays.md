@@ -52,3 +52,4 @@ Validation phase generating 1,600 LLM career essays (400 per gender per conditio
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — a broader claim this one bears on
+- [Generative AI (Midjourney v 6.1) produces stereotypical images of scientists, with lab coat in 97%, eyeglasses in 97%, male gender in 81% and Caucasian in 85% of the 100 human-scored images](midjourney-scientist-images-stereotyped-dast.md) — related

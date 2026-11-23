@@ -61,6 +61,7 @@ Progress tracking is the element in which learners or instructors monitor advanc
 
 - [Board data dashboards for governance-level progress monitoring](../strategies/board-data-dashboards-progress-monitoring.md)
 - [Plan a built-in stealth assessment dashboard that tracks student progress from gameplay data](../strategies/stealth-assessment-dashboard-gameplay-data.md)
+- [Collect classroom observations at scale via mailed standardized recording equipment, and plan logistics around instructional milestones with intensive tracking and follow-up](../strategies/mailed-recording-milestone-logistics.md)
 
 ## Related Elements
 

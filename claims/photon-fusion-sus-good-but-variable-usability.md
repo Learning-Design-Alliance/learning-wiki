@@ -75,3 +75,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
 - [The tangible Engineering Toolkit was rated significantly more usable than Mixed Reality on the System Usability Scale, d = 1.58](et-higher-usability-than-mr.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

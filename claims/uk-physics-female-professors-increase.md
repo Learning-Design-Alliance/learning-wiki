@@ -47,3 +47,4 @@ Review of UK physics staff statistics reports "an increase from just 55 female f
 ## Related Claims
 - [Female undergraduate numbers in UK physics rose from 20% to 26% of the total between 2011/12 and 2021/22](uk-physics-female-undergraduates-increase.md) — related
 - [Women remain underrepresented in US physics, with men holding most senior positions (8% full professors), though numbers of women are increasing at all levels](women-underrepresented-us-physics-8-percent-full-professor.md) — related
+- [Female professors in Physics and Astronomy at German universities stagnated below 14%, holding 12.9% of professorships in 2019 and 13.7% in 2020 and 2021](german-physics-astronomy-female-professors-below-14-percent.md) — related

@@ -54,3 +54,4 @@ Randomized two-group experiment with 30 beginning L1-Persian EFL learners (15 pe
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Absence of any of the three model components slows EFL language development](missing-component-slows-development.md) — a broader claim this one bears on
+- [Listening input is prioritized over speaking output: comprehension is deemed more vital than production in L2 acquisition](listening-input-over-speaking-output.md) — reports the opposite

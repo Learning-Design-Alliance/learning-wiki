@@ -53,3 +53,4 @@ The chapter reports Karpicke and Zaromb (2010, Experiment 3), where subjects sor
 - [Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) — related
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — related
 - [Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems](off-line-self-reports-memory-reconstruction-problem.md) — related
+- The problems were taken from or inspired by sources listed at the end of the article — related

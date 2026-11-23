@@ -47,6 +47,7 @@ The article recommends presenting abstract curriculum material through real-time
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Design complementary computational and non-computational modeling activities to support teacher adoption of computational modeling](complementary-computational-noncomputational-modeling.md)
 - [Use pharmacy-context laboratory experiments such as measuring diffusion coefficients, fluid viscosity, and thermal properties of pharmaceutical materials](pharmacy-context-physics-lab-experiments-strategy.md)
+- [Use PC-based electromagnetic simulations as a pedagogical tool in basic electrodynamics courses](pc-electromagnetic-simulations-basic-courses.md)
 
 ## Examples
 -

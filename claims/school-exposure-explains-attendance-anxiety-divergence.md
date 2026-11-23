@@ -52,3 +52,4 @@ Authors' interpretive explanation (attributed to Last et al., 1998 and Heyne, pe
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a broader claim this one bears on
 - [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
+- [Psychosocial treatments for school refusal show no significant short-term effect on anxiety at posttest](school-refusal-interventions-anxiety-nonsignificant.md) — related

@@ -75,3 +75,4 @@ Online Learning Readiness Scale descriptive analysis from the same survey with a
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
+- [Intervention-group participants rated the game positively on experience and usability (SUS total 71.5, SD=5.92; high positive affect, flow and immersion; PAESIS α=0.74)](reverie-user-experience-sus-geq-paesis.md) — related

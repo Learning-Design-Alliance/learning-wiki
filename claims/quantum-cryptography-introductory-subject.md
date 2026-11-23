@@ -49,3 +49,4 @@ In the introduction the authors argue, without reporting empirical data, that qu
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related
 - [Quantum algorithms were the area of interest chosen by the most participants, followed by quantum machine learning and quantum cryptography](quantum-algorithms-top-interest-area.md) — related
+- [Discussing the search for fundamental laws can help graduate students choose research areas and motivate undergraduates amid declining physics enrolment](fundamental-laws-discussion-motivates-students.md) — related

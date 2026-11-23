@@ -52,3 +52,4 @@ Within-model comparison at Time 2b, immediately after the Time 2a zero-shot rete
 - [Classification accuracy varied substantially by cognitive demand category: Procedures without Connections was most accurate (avg. 94%) and Doing Mathematics least (avg. 33%)](classification-accuracy-varies-by-cognitive-demand-category.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
+- LLMs are effective few-shot learners but not many-shot learners: performance peaks then declines as in-context examples increase — related

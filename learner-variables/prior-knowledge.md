@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 325 claims (187 show a difference, 89 mixed, 49 no difference) · 260 studies (96 causal, 48 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 42 of 260 report an effect size · 307 claims rest on one study
+> **Evidence** · 326 claims (188 show a difference, 89 mixed, 49 no difference) · 261 studies (97 causal, 48 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 42 of 261 report an effect size · 308 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -373,6 +373,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Worked example type interacted with prior knowledge: Guided examples benefited low prior knowledge students while Buggy examples benefited high prior knowledge students](../claims/ati-buggy-high-guided-low-prior-knowledge.md) [~S] — an instructional effect differs with it
 - [Exploratory analysis found no significant moderation of learning by prior knowledge, with a possible low-prior-knowledge advantage of proactive tutoring reported only as a hypothesis](../claims/exploratory-prior-knowledge-moderation-not-significant.md) [-M] — an instructional effect differs with it
 - [Predicted benefits of intensified ELA coursework vary with prior achievement, estimated highest among students near or slightly above average proficiency](../claims/cate-heterogeneity-prior-ela-achievement.md) [+M] — an instructional effect differs with it
+- [Expertise moderates LLM-driven attention allocation: experts maintain greater engagement with the task environment than novices and show stronger LLM-related changes in visual exploration](../claims/expertise-moderates-llm-attention-allocation.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -66,6 +66,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
 - [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
 - [For online lab courses, use interactive virtual labs, simulations, and reflective assignments based on pedagogical journal articles](virtual-labs-simulations-journal-article-reflection-labs.md)
+- [Use PC-based electromagnetic simulations as a pedagogical tool in basic electrodynamics courses](pc-electromagnetic-simulations-basic-courses.md)
 
 ## Examples
 -

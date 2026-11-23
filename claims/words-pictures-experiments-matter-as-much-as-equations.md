@@ -49,3 +49,4 @@ The author's concluding recommendation, offered as an argument rather than a tes
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — related
 - [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — related
+- [The project argues that excessive scientific specialization alienates the lay public, and that simple, intuitive science communication connecting everyday phenomena to scientific laws counters this](overspecialization-alienates-public-divulgation-counters.md) — related

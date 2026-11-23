@@ -50,3 +50,4 @@ Post hoc cross-judge robustness audit in which GPT-5.6 Sol rescored the identica
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — a broader claim this one bears on
 - [On the primary base, a turn that leaks the answer predicts a higher Opus helpfulness rating and less next-turn independent student work](per-turn-leakage-coupling-primary-base.md) — related
 - [In the Opus-only ablation, a prompt-only Socratic instruction outscores the full routed policy on judged pedagogy at near-tied helpfulness](socratic-prompt-only-matches-routed-pedagogy.md) — related
+- Single-order delivery success does not establish shift-level performance: GPT-5.6 Sol achieves 92% single-order success yet recovers only 76% of oracle shift income — related

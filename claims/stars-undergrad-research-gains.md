@@ -67,3 +67,4 @@ Subgroup comparison within the same evaluation of the STARS program: URM and fem
 - [IRES research-abroad experiences produce increased knowledge, statistically significant gains in international-collaboration skills and confidence, and increased desire to work with scientists from other countries](ires-research-abroad-gains.md) — related
 - [Student researchers in ARiC projects produced recognised scientific discoveries, including 25 pulsars, hundreds of asteroids and a Trans-Neptunian object](aric-student-scientific-discoveries.md) — related
 - [The Pulsar Search Collaboratory shows positive effects on middle and high-school students' science identity, self-efficacy, and STEM intentions relative to a control group](psc-student-identity-self-efficacy-gains.md) — related
+- [A research topic at the forefront of active neutron-star research can be tractable for an undergraduate student](frontier-research-tractable-undergrad-level.md) — related

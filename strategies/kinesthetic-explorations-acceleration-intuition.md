@@ -46,6 +46,7 @@ The article recommends giving students opportunities for kinesthetic exploration
 
 - [Have participants write, draw, and physically enact their own imagined situations to deepen imagery](magid-2014-imagery-enhancement-recommendations.md)
 - [Instructors should attend to student gestures and inquire about early gesture occurrences rather than interrupt with content prompts](attend-to-student-gestures-inquiry-strategy.md)
+- [Interleave thought experiments throughout a lesson to develop students' physical imagination, using about three examples of each idea](interleave-thought-experiments-three-examples.md)
 
 ## Examples
 -

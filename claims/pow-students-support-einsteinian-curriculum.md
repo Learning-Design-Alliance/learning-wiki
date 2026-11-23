@@ -78,3 +78,4 @@ Same student questionnaire (N=20), statement 2(g) posed negatively; 35% strongly
 - [Typical institute outreach activities (bars, schools, TV, newspapers) do not reach the young adult to mid-30s age group](typical-outreach-misses-young-adults.md) — related
 - [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related
 - [Hands-on astronomy visits were extremely well appreciated by children and teachers and promoted early excitement of science](astronomy-outreach-appreciated-promotes-excitement.md) — related
+- [About half of students still reported disliking science and not wanting to read science after the course](persistent-student-dislike-of-science-after-course.md) — related

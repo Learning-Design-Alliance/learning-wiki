@@ -86,3 +86,4 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [Reading strategies deployed by trained learners are those linked with effective readers, while untrained learners show beginner-reader strategies](strategy-training-shifts-reading-strategies.md) — related
 - [Reciprocal teaching shows a very high effect size of ES = 0.74 on student learning](reciprocal-teaching-high-effect-size.md) — related
 - [A reciprocity cycle in which past attendees become student-teachers sustains the peer teaching community over time](giving-back-cycle-sustains-peer-teaching-community.md) — related
+- [Syntheses of grades 4-12 reading intervention research report small-to-moderate treatment effects and consistent benefits of explicit instruction in knowledge, summarization, and text-based discourse](adolescent-reading-syntheses-small-moderate-effects.md) — a broader claim this one bears on

@@ -41,6 +41,7 @@ The guide recommends that researchers sample schools in a way that represents th
 - [Assess and adjust for differences between the study sample and the target population](assess-adjust-sample-population-differences.md)
 - [Actively manage school recruitment to protect the generalizability of impact studies](manage-school-recruitment-generalizability.md)
 - [Define the target population as the first step in designing a generalizable impact study](define-target-population-first-generalizable-impact-studies.md)
+- [Define the target inference population first, then recruit across institution types using advisory boards, advertisements, snowball sampling, and information sessions](target-population-first-recruitment-strategy.md)
 
 ## Examples
 -

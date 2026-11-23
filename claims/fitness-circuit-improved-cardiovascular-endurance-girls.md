@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest study with intact classes of Form Four girls
 - [A ten-week in-class fitness circuit intervention significantly improved cardiovascular endurance among Malaysian secondary school boys](fitness-circuit-improved-cardiovascular-endurance-boys.md) — related
 - [Regular twice-weekly 40-minute physical education alone lacked sufficient intensity to enhance cardiovascular endurance](regular-pe-insufficient-intensity-cardiovascular-endurance.md) — related
 - [The treated class showed greater gains in tapping endurance, leading in endurance on both hands by the second test despite greater initial fatigue](treated-class-tapping-endurance-gain.md) — related
+- [A 4-week daily classroom physical activity break intervention shows no significant intention-to-treat effects on middle school students' cardiovascular endurance, upper body strength, abdominal strength, or flexibility](itt-null-classroom-pa-fitness-effects.md) — related

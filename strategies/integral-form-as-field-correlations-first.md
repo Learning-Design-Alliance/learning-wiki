@@ -44,6 +44,7 @@ The article notes the integral form of Maxwell's equations is usually taught fir
 - [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](ga-experiment-sequence-master-equation-mind-map.md)
 - [Introduce the Lorentz force as a postulated experimental equation to define E and B before Maxwell's equations](lorentz-force-postulate-introduction-strategy.md)
 - [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
+- [Introduce Maxwell's equations with two-dimensional examples before generalizing to 3D](2d-first-maxwell-equations-strategy.md)
 
 ## Examples
 -

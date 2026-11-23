@@ -53,3 +53,4 @@ Comparison of overall Trial 2 scores across 11 models from six families (Table 2
 - [Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law](adaptation-gains-grow-with-model-capacity.md) — related
 - [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](omniedu-tuning-improves-all-three-educational-capability-groups.md) — related
 - [Six AI tutors individually matched human tutoring, with Gemma 4 31B equivalent at 918× lower cost per percentage point of learning gain](gemma-4-31b-equivalent-human-tutoring-918x-cheaper.md) — related
+- Scaling model parameters brings only marginal gains in logical reasoning, and even the largest base models fall short of reasoning models — related

@@ -116,3 +116,4 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 - [Integrated instruction significantly improves content knowledge of taught science and social studies material (g = 0.89), but not on standardized knowledge measures](integrated-instruction-content-knowledge-g-089.md) — related
 - [Neither REACH variant provided confident evidence of improving reading comprehension in particular, as opposed to skills such as word recognition.](reach-no-secure-comprehension-effect.md) — related
 - [In-context (top-down) vocabulary training had no significant impact on reading comprehension](top-down-training-no-comprehension-impact.md) — related
+- [Syntheses of grades 4-12 reading intervention research report small-to-moderate treatment effects and consistent benefits of explicit instruction in knowledge, summarization, and text-based discourse](adolescent-reading-syntheses-small-moderate-effects.md) — related

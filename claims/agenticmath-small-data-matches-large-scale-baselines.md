@@ -48,3 +48,4 @@ Benchmark evaluation (Table 2) comparing AgenticMath fine-tuned Llama3-8B at 30K
 - [Increasing AgenticMath-generated training data from 7.5K to 22.5K samples yields consistent accuracy gains for Llama3-8B across benchmarks](agenticmath-data-size-positive-correlation-accuracy.md) — related
 - [At 30K and 60K data scales, AgenticMath outperforms all compared baselines across four base models on six math benchmarks](agenticmath-sota-at-small-data-scales.md) — related
 - [Domain-adapted small math models outperform much larger general-purpose LLMs on mathematical reasoning benchmarks](small-math-tuned-models-beat-large-llms.md) — related
+- Curriculum learning on SLR-BENCH yields substantial in-domain and downstream reasoning gains for SLR-tuned Llama-3.1-8B — related

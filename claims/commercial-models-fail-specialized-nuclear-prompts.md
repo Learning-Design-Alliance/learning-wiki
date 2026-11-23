@@ -52,3 +52,4 @@ Section 6 comparison of GPT-Image-2, Gemini-3.1-Flash-Image, and Midjourney on 3
 - [The CLIP text-image alignment score failed to capture fine-tuning improvements, contradicting KID, CMMD, and human judgment](clip-score-fails-to-capture-fine-tuning-gains.md) — related
 - [Fine-tuning on the 1,000-image nuclear dataset improves image fidelity of SD models, with KID and CMMD decreasing over training steps](fine-tuning-improves-sd-nuclear-image-fidelity.md) — related
 - [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](multi-llm-comparison-gemini-more-accurate.md) — related
+- [Generative AI (Midjourney v 6.1) produces stereotypical images of scientists, with lab coat in 97%, eyeglasses in 97%, male gender in 81% and Caucasian in 85% of the 100 human-scored images](midjourney-scientist-images-stereotyped-dast.md) — related

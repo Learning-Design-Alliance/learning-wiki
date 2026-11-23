@@ -49,3 +49,4 @@ Qualitative self-report section citing named teacher examples: one teacher reloa
 - [Educators identify curriculum problems including poor subject integration, late clinical exposure, and outdated content, and report that faculty development changed their teaching](curriculum-integration-faculty-development-theme.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
+- [An unplanned discovery of teachers attending Saturday Morning Physics catalyzed Fermilab's Education Office and Lederman Science Education Center](smp-teacher-discovery-education-office.md) — related

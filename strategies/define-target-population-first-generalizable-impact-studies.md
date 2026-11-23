@@ -43,6 +43,7 @@ This strategy comes from a practical guide for researchers designing education i
 - [Select a sample of schools, including replacement schools when needed, to support generalizable impact studies](school-sampling-with-replacement-schools-generalizability.md)
 - [Triangulate internal-validity findings with interaction analyses, propensity-score generalizability indices, and adapted extensions to establish external validity](triangulation-approach-generalizability.md)
 - [Specify implementation research questions as a distinct step in impact study design](specify-implementation-research-questions-step.md)
+- [Define the target inference population first, then recruit across institution types using advisory boards, advertisements, snowball sampling, and information sessions](target-population-first-recruitment-strategy.md)
 
 ## Examples
 -

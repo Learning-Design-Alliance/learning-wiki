@@ -52,3 +52,4 @@ Distractor-choice analysis of ENEM 2009 question 27 (astronaut/Hubble item, corr
 - [Secondary-school completers show persistent difficulties with basic physics concepts in mechanics, thermal phenomena and geometric optics on ENEM 2009–2014 items](enem-persistent-physics-concept-difficulties.md) — related
 - [Brazilian high-school graduating students answer on average only about one third of Enem Natural Sciences items correctly, with the mean slowly decreasing from 2009 to 2014](enem-natural-sciences-one-third-correct-answers.md) — related
 - [67% of Boyacá secondary students cannot identify the four fundamental interactions of nature](boyaca-students-fundamental-forces-67-percent-unclear.md) — related
+- [The term microgravity, used without its exact meaning, can strengthen the misconception that gravity is small far from Earth, where it remains about 8.4 m/s² at 400 km](microgravity-term-strengthens-gravity-misconception.md) — related

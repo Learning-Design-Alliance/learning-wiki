@@ -62,3 +62,4 @@ Fine-grained analysis of symbolic success rates across the three labeled difficu
 - [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim
 - [LLM grading bias relative to TAs varies with question difficulty: near-zero on trivial and easy questions, mildly stringent on medium, and more generous than TAs on hard questions](llm-grading-bias-varies-by-question-difficulty.md) — related
 - [RAG provides greater benefits on difficult questions, with the largest gains on hard questions](rag-bigger-gains-hard-questions.md) — related
+- On AppWorld, REPAIR's combination raises average goal completion from 9.28% to 16.28% over ACE (ADD), but challenge-split SGC stays below 3% for every variant — related

@@ -48,6 +48,7 @@ The authors' forward-looking recommendation for lab-course design: notebooks nee
 - [Establish and use rubrics for lab notebooks, oral talks, written papers, and final projects](rubrics-for-lab-reports-talks-and-projects.md)
 - [Design lab activities so students must rely on their notebooks in ways that emulate authentic documentation](authentic-documentation-lab-activity-design.md)
 - [Making assumptions visible by reserving a dedicated notebook area during investigations](making-assumptions-visible-notebook-practice.md)
+- [Make student media-production projects a more normal part of undergraduate teaching](student-video-production-projects.md)
 
 ## Examples
 -

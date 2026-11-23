@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (11 for, 6 mixed, 1 against) · 16 studies (5 causal, 4 design, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 17 studies (6 causal, 4 design, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -69,6 +69,7 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](../claims/difficulty-adaptation-manipulation-check-task-correctness.md) [+W]
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 - [Learners with low L2 proficiency (under 700 TOEIC) answer comprehension quizzes more correctly with the adaptive playback speed system than without it](../claims/system-improves-comprehension-low-proficiency.md) [+M] — attached 2026-11-21 from Laugh at Your Own Pace: Basic Performance Evaluation of Language Learning Assistance by Ad, which proposed "Adaptive playback speed system that adjusts video speed by 0.1x steps based on laughter detection in punchline scenes"; tests this page's relationship.
+- [An instance-level adaptive curriculum that promotes problems upon reaching 50% accuracy improves sample efficiency and prevents performance plateaus](../claims/instance-level-curriculum-sample-efficiency.md) [+W] — attached 2026-11-23 from Justin Chih-Yao Chen et al. (2026), which proposed "Cog-DRIFT framework for adaptive reformulation-based curriculum RL"; tests this page's relationship.
 
 ## The evidence by question
 

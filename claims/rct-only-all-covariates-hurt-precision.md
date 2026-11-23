@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2024
 sources:
   - id: c-z-mann-2024
-    resource: "https://github.com/manncz/aeis-aux-rct"
-    title: "C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch. (2024). Using publicly available auxiliary data to improve precision of treatment effect estimation in a randomized efficacy trial. Proceedings of the 17th International Conference on Educational Data Mining. https://github.com/manncz/aeis-aux-rct"
+    resource: "https://doi.org/10.5281/zenodo.12729874"
+    title: "C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch. (2024). Using publicly available auxiliary data to improve precision of treatment effect estimation in a randomized efficacy trial. Proceedings of the 17th International Conference on Educational Data Mining. [doi:10.5281/zenodo.12729874](https://doi.org/10.5281/zenodo.12729874)"
     author: C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### C. Z. Mann 2024
 
-C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch. (2024). Using publicly available auxiliary data to improve precision of treatment effect estimation in a randomized efficacy trial. Proceedings of the 17th International Conference on Educational Data Mining. https://github.com/manncz/aeis-aux-rct
+C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch. (2024). Using publicly available auxiliary data to improve precision of treatment effect estimation in a randomized efficacy trial. Proceedings of the 17th International Conference on Educational Data Mining. [doi:10.5281/zenodo.12729874](https://doi.org/10.5281/zenodo.12729874)
 
 `q2 · i?` · `causal · r2`
 

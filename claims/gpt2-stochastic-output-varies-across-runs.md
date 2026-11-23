@@ -49,3 +49,4 @@ Classroom observation during the GPT-2 paragraph-generation exercise in a Master
 - [The benchmark procedure is stable under stochastic decoding, with a maximum accuracy standard deviation of 0.43% over 20 repeated runs](cdpk-benchmark-stability-0-43-percent-sd.md) — related
 - [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related
 - [Re-sampling the same question against a fixed interaction history produces diverging LLM answers, revealing stochastic flips and trajectory bifurcation](llm-resampling-reveals-stochastic-flips.md) — a narrower finding that bears on this claim
+- [LLM agents repeat prior hypotheses and refine them in model-specific ways, suggesting a confirmation-bias-like tendency](llm-hypothesis-repetition-confirmation-bias.md) — related

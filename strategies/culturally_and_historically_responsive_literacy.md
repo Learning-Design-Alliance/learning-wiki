@@ -84,6 +84,7 @@ CHRL extends culturally relevant pedagogy ([Ladson-Billings, 1995](https://doi.o
 - [Use cultural data sets from students' everyday worlds as a gateway to literary interpretation](cultural-data-sets-gateway-interpretation.md)
 - [Engage learners consciously, reflectively, and critically in using texts to understand their world](critically-engage-learners-with-texts-world.md)
 - [Pair an action-based silent reading method with instruction in literary appreciation and extensive reading](complement-action-reading-with-literary-appreciation.md)
+- [Using culturally relevant and historically significant events as contexts for teaching physics](culturally-significant-events-physics-teaching.md)
 
 ## Examples
 - **Hill Pedagogy / Black literary societies model** — Muhammad's own curricular examples use 19th-century Black literary society reading lists and questions as models for contemporary units that pair canonical skills work with identity and criticality goals (Muhammad, 2020)

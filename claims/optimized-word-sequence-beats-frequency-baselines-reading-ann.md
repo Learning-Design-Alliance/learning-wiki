@@ -49,3 +49,4 @@ Simulation study comparing optimized time-varying distributions against baseline
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
 - [Curriculum strategies in AI training often yield faster convergence and better generalization, but difficulty in ML reflects optimization rather than learner readiness](curriculum-learning-sequencing-gains-and-limits.md) — a broader claim this one bears on
 - [Moodle's built-in randomization is insufficient for Statistics courses, while moodlequizR provides far greater randomization](moodlequizr-randomization-exceeds-moodle-builtin.md) — related
+- [An adaptive curriculum targeting the policy's measured weaknesses raises evaluation income by 18% over uniform sampling, 10% over a static curriculum, and 14% over random targeting at 100 updates](adaptive-curriculum-improves-shift-income.md) — related

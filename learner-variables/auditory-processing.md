@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (46 show a difference, 20 mixed, 10 no difference) · 42 studies (25 causal, 10 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 15 of 42 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (48 show a difference, 20 mixed, 10 no difference) · 43 studies (26 causal, 10 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 15 of 43 report an effect size · 76 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -112,6 +112,8 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Secondary auditory task accuracy and reaction times do not change significantly over laparoscopic training](../claims/secondary-task-behaviour-unchanged-over-training.md) [-M] — measured as an outcome of the instruction studied
 - [Phoneme discrimination training did not produce consistent improvements in speech perception in noise](../claims/phoneme-training-no-speech-in-noise-improvement.md) [~M] — measured as an outcome of the instruction studied
 - [Among boys, elevated high-frequency thresholds and speech-in-noise thresholds are associated with higher parent-reported total, social, attention, internalizing, and externalizing problem scores](../claims/boys-hpta-srt-higher-cbcl-problem-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Ten weeks of MMB instruction for L2 listening comprehension produces a statistically significant difference between pre- and post-test in primary schools, per the study's main hypothesis](../claims/mmb-listening-hypothesis-verified.md) [+M] — measured as an outcome of the instruction studied
+- [The review reports that digital stories significantly improved English listening comprehension of 6-year-old Spanish learners versus no multimedia lessons](../claims/digital-stories-spanish-learners-significant.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

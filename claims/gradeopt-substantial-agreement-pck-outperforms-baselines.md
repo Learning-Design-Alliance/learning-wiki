@@ -56,3 +56,4 @@ Secondary analysis of agreed-on human codes from 268 U.S. middle school mathemat
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
 - [Multi-agent LLM parsers achieve near-perfect agreement with human experts when evaluating the reliability of LLM-generated SRL scaffolds](multi-agent-llm-reliability-evaluation-near-perfect-agreement.md) — related
 - [LLM-based grading of open-ended geometry explanations shows substantial agreement with teacher judgments (overall agreement 0.866, Cohen's κ = 0.737)](llm-grading-substantial-teacher-agreement-open-ended-geometry.md) — related
+- [GPT-4o achieved substantial agreement with human raters for the Physics Concepts theme (Cohen's κ = 0.7) after optimization](gpt4o-substantial-agreement-physics-concepts-coding.md) — related

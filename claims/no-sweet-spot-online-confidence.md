@@ -53,3 +53,4 @@ Authors' interpretation of their regression analyses of application success and 
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
+- A MIP gap tolerance of 2% achieves near-optimal solution quality at roughly half the computational cost — related

@@ -51,3 +51,4 @@ Eye-tracking analysis of pupil diameter change from baseline during the learning
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
 - [Experts show lower pupil dilation changes than residents during ECG interpretation, indicating lower cognitive load](experts-lower-pupil-dilation-cognitive-load.md) — related
 - [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](chat-melody-mental-effort-not-mental-load.md) — related
+- LLM support increases pupil size variability, and this effect is attenuated for experts, suggesting reduced expert sensitivity to the added cognitive demands of guidance integration — reports the opposite

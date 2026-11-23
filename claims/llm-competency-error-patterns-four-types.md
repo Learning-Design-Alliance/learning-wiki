@@ -113,3 +113,5 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [AI response quality was consistently high across cohorts, with Correct & Helpful responses between 89.39% and 94.67%, and quality loss stemming mainly from correct-but-unhelpful misalignment rather than incorrectness](ai-response-quality-high-and-stable.md) — related
 - [Error type depends on question style: explain and define questions fail mainly through conceptual and exam-technique errors](question-style-predicts-error-type-gravity.md) — related
 - [Single-turn prompts are insufficient for most realistic LLM-assisted data analysis tasks](single-turn-prompts-insufficient-llm-data-analysis.md) — related
+- The dominant bottleneck in LLM logical reasoning is semantic rather than syntactic, with recurring failure modes identified — a broader claim this one bears on
+- Agent failures recur across later tasks: 81.0% of verified failures in a 500-task run are semantically related to at least one later failure — related

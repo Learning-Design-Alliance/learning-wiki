@@ -50,6 +50,7 @@ The Network promoted science to broad publics through attractive public lectures
 ## Related Strategies
 
 - [Special class for gifted pupils in science in Nis attracting over one thousand pupils](seenet-mtp-special-class-gifted-pupils-nis.md)
+- [Physik im Apollo: popular science talks on abstract topics interwoven with acrobatics and music at a local theater, with physicists or physics-connected artists on stage](physik-im-apollo-art-physics-lectures.md)
 
 ## Examples
 -

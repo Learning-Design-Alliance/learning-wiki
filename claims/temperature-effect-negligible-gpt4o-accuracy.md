@@ -53,3 +53,4 @@ Simulation analysis varying temperature across 30 runs with Greenhouse-Geisser c
 - [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related
 - [GPT-4o's accuracy varies by exam unit, peaking at 94.7% on digestive and respiratory systems (Unit 3, 2021)](gpt4o-unit3-digestive-respiratory-peak.md) — related
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
+- [Optimal LLM hyperparameter settings peaked at Temperature = 1.1 and top-p = 0.8, with domain-specific themes favoring lower values](hyperparameter-optima-vary-by-theme.md) — related

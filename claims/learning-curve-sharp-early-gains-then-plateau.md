@@ -48,3 +48,4 @@ Learning-curve modeling of field-study logs: for each student–question pair, t
 - [At least 119 cumulative ETI cases are required for EM trainees to reach an 85% first attempt success probability, with lower thresholds for less strict criteria](119-eti-cases-for-85-percent-fas.md) — related
 - [CUSUM-based studies suggest 22 to 45 intubation attempts are needed to reach a less-than-20% failure rate, rising to 57 to 75 attempts at a less-than-10% failure rate](intubation-attempts-competency-cusum-ranges.md) — related
 - [Cumulative endotracheal intubation experience is associated with increased first attempt success among emergency medicine trainees after adjustment for device, indication, and airway difficulty](cumulative-eti-experience-increases-first-attempt-success.md) — related
+- Retrieval depth k shows diminishing returns: large hint blocks become counterproductive, with a sharp drop at k=9 in ALFWorld and reduced scores at k=6 and 9 in WebShop — related

@@ -133386,5 +133386,257 @@
  "media-design\tsound combined with graphical visualisations, videos or a GUI\tsound not combined with these media": {
   "label": "Sound-plus-visual media vs sound-only media",
   "treatment_is_a": true
+ },
+ "active-learning\tPseudoscience-flavor course\tstandard physical science course": {
+  "label": "pseudoscience-flavored course vs standard physical science course",
+  "treatment_is_a": true
+ },
+ "active-learning\tPseudoscience-flavor course with passionate class discussions\ttraditional course with passive attendance": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive clarification\tpassive consumption": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive workshop activities, games, and discussions\tnot stated": {
+  "label": "active learning vs unspecified activity level",
+  "treatment_is_a": true
+ },
+ "debriefing\tfollow-up feedback session discussing modelling outcomes\tnot stated": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tfollow-up feedback session using modelling outcomes\tstudents' understanding before reflecting on modelling outcomes": {
+  "label": "outcome-focused debriefing vs learner-understanding-focused debriefing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tD2E sampling\tRandom and Length baselines, plus E2D and SME": {
+  "label": "D2E sampling vs baseline sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tForward curriculum (FCL)\tReverse curriculum (RCL)": {
+  "label": "Forward curriculum (easy-to-hard) vs reverse curriculum (hard-to-easy)",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLG-based ascending curriculum\trandomly shuffled baseline": {
+  "label": "LG-based ascending curriculum vs random ordering",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLG-based reverse curriculum\tLG-based forward curriculum": {
+  "label": "Forward curriculum vs reverse curriculum",
+  "treatment_is_a": false
+ },
+ "example-problem-sequencing\tPMD difficulty-ranked partitioned batch sampling\tlength-based sampling": {
+  "label": "PMD sampling vs length-based sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tPMD difficulty-ranked partitioned batch sampling\trandom sampling": {
+  "label": "PMD sampling vs random sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tPMD sampling\tRandom and Length baselines, plus E2D and SME": {
+  "label": "PMD sampling vs baseline sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tPME sampling\tRandom and Length baselines, plus E2D and SME": {
+  "label": "PME sampling vs baseline sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSEC curriculum\trandom curriculum": {
+  "label": "Self-Evolving Curriculum (SEC) vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSEC difficulty-based curriculum\trandom curriculum": {
+  "label": "Self-Evolving Curriculum (SEC) vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSEC-2D adaptive curriculum with one arm per problem type–difficulty combination\trandom curriculum": {
+  "label": "SEC-2D adaptive curriculum vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSEC-2D multi-task curriculum\trandom curriculum": {
+  "label": "SEC-2D multi-task curriculum vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSLR curriculum training\tLlama-3.1-8B base model without SLR training": {
+  "label": "SLR training vs no SLR training",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSMD sampling\tRandom and Length baselines, plus E2D and SME": {
+  "label": "SMD sampling vs baseline sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSelf-Evolving Curriculum (SEC)\tdifficulty-ordered curriculum": {
+  "label": "Self-Evolving Curriculum (SEC) vs difficulty-ordered curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tSelf-Evolving Curriculum (SEC)\trandom curriculum": {
+  "label": "Self-Evolving Curriculum (SEC) vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tZPD-based curriculum prioritizing challenging yet learnable examples\trandom curriculum": {
+  "label": "ZPD-based curriculum vs random curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tdifficulty-score-based sampling strategies\tbaseline methods": {
+  "label": "Difficulty-score-based sampling vs baseline methods",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tdifficulty-score-based sampling strategies\trandom sampling": {
+  "label": "Difficulty-score-based sampling vs random sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tdifficulty-score-based sampling strategies\tstandard random sampling": {
+  "label": "Difficulty-score-based sampling vs random sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tearly exposure to difficult examples\trandom and easy-first sampling": {
+  "label": "Difficult-first exposure vs easy-first or random sampling",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tforward curriculum, easy-to-hard\treverse curriculum, hard-to-easy": {
+  "label": "Forward curriculum (easy-to-hard) vs reverse curriculum (hard-to-easy)",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\thigh-entropy training tier\tother entropy tiers": {
+  "label": "High-entropy training tier vs other entropy tiers",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tlow-entropy training tier\tother entropy tiers": {
+  "label": "Low-entropy training tier vs other entropy tiers",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tproblem-difficulty curriculum ordering\trandomly shuffled baseline": {
+  "label": "Problem-difficulty ordering vs random ordering",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tproblem-difficulty curriculum ordering\trandomly shuffled training data": {
+  "label": "Problem-difficulty ordering vs random ordering",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tproposed difficulty-score-based sampling methods in few-shot fine-tuning\tbaseline methods": {
+  "label": "Difficulty-score-based sampling vs baseline methods",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\treasoning-step reverse curriculum\trandomly shuffled training data": {
+  "label": "Reasoning-step reverse curriculum vs random ordering",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\treverse curriculum, hard-to-easy\tforward curriculum, easy-to-hard": {
+  "label": "Forward curriculum (easy-to-hard) vs reverse curriculum (hard-to-easy)",
+  "treatment_is_a": false
+ },
+ "example-problem-sequencing\treverse curriculum: high-variability problems first\tforward curriculum: low-variability problems first": {
+  "label": "Forward curriculum vs reverse curriculum",
+  "treatment_is_a": false
+ },
+ "example-problem-sequencing\tsymbol-complexity ascending curriculum\trandomly shuffled baseline": {
+  "label": "Symbol-complexity ascending curriculum vs random ordering",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSFT curriculum training on SLR-BENCH\tuntuned Llama-3.1-8B-IT": {
+  "label": "task-specific fine-tuning vs untuned model",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTeach quantitative checks of assumptions and discuss dubious problems\tAssign textbook analyses without examining their assumptions": {
+  "label": "explicit instruction in checking assumptions vs assumptions left unexamined",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tZWC in-context with relevant API documentation\tZWC zero-shot without API documentation": {
+  "label": "in-context prompting with relevant documentation vs zero-shot prompting without documentation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tblended text-processing and linguistic comprehension intervention with explicit vocabulary instruction\tcontrol condition": {
+  "label": "blended intervention with explicit vocabulary instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tblended text-processing and linguistic-comprehension intervention\tcontrol condition": {
+  "label": "blended text-processing and linguistic-comprehension intervention vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tblended text-processing and linguistic-comprehension intervention with oral discourse\tcontrol": {
+  "label": "blended intervention with oral discourse vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit inference instruction\tcomparison conditions": {
+  "label": "explicit inference instruction vs comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlistening-comprehension and oral-language discourse intervention\tcontrol condition": {
+  "label": "listening-comprehension and oral-language discourse intervention vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteach quantitative checks of approximations and assumptions\ttextbook treatment leaving assumptions unexamined": {
+  "label": "explicit instruction in checking approximations and assumptions vs assumptions left unexamined",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttext-based discourse with guided summarization and inference\tcontrol condition": {
+  "label": "text-based discourse with guided summarization and inference vs control",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinteractive clarification from instructor\tpassive consumption of instructor solutions": {
+  "label": "interactive vs passive feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tadaptive curriculum\tuniform sampling": {
+  "label": "adaptive curriculum vs uniform sampling",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tadaptive curriculum targeting diagnosed policy weaknesses\tuniform sampling": {
+  "label": "adaptive curriculum vs uniform sampling",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tadaptive curriculum targeting diagnosed weaknesses\tuniform sampling": {
+  "label": "adaptive curriculum vs uniform sampling",
+  "treatment_is_a": true
+ },
+ "gamification\t14-day Reverie AI serious game intervention\tno additional intervention; normal life": {
+  "label": "gamification/serious game vs no intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tReverie Gen-AI serious game\tnon-intervention": {
+  "label": "gamification/serious game vs no intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tReverie Gen-AI serious game\tnon-intervention group; GEQ-Core comparison not reported": {
+  "label": "gamification/serious game vs no intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Quantum Focus\tno comparison reported": {
+  "label": "gamification/serious game vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tGuided Inquiry Learning (GIL)\tIL-based exploration": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "interleaving\tInterleaved schedule\tother curriculum schedules": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tadaptive instance-level curriculum\tstatic mixtures of reformulations": {
+  "label": "adaptive instance-level curriculum vs static mixtures of reformulations",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tinstance-level adaptive curriculum\tstatic mixtures of reformulations": {
+  "label": "adaptive instance-level curriculum vs static mixtures of reformulations",
+  "treatment_is_a": true
+ },
+ "media-design\tPseudoscience-flavor physical science course using films\tstandard physical science course": {
+  "label": "film-based instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tbold-text highlighting\tno highlighting": {
+  "label": "bold-text highlighting vs no highlighting",
+  "treatment_is_a": true
+ },
+ "media-design\tbold-text highlighting of key AI-generated text\tno text highlighting": {
+  "label": "bold-text highlighting vs no highlighting",
+  "treatment_is_a": true
+ },
+ "media-design\tbold-text highlighting of six locations\tno highlighting": {
+  "label": "bold-text highlighting vs no highlighting",
+  "treatment_is_a": true
  }
 }

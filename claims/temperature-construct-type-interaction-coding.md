@@ -79,3 +79,4 @@ Pairwise reliability analysis across temperature settings. Higher-temperature pa
 - [Hyperparameter setting with maximum token 53 and temperature 1 (Set C) yields the most accurate AGE grading performance](age-hyperparameter-set-c-most-accurate.md)
 - [Data contamination and single-dataset limitations restrict generalizability of LLM benchmarking results on dental specialization exams](llm-dental-benchmark-data-contamination-limitation.md) — related
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
+- [Optimal LLM hyperparameter settings peaked at Temperature = 1.1 and top-p = 0.8, with domain-specific themes favoring lower values](hyperparameter-optima-vary-by-theme.md) — related

@@ -56,3 +56,4 @@ Qualitative error analysis of student work across groups, described in the resul
 - [Students discovered the inherent slope bias from the small circle of rotation in the centripetal force procedure themselves, via the larger percent difference with theory](students-discovered-centripetal-procedure-bias.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
 - [Students confuse velocity with acceleration, believing zero velocity implies zero net force](zero-velocity-zero-force-misconception.md) — related
+- [Students hold misconceptions about weight and struggle to apply weight concepts in weightlessness and accelerated environments](student-misconceptions-weight-weightlessness.md) — related

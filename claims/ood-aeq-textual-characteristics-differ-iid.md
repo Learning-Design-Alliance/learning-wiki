@@ -50,3 +50,4 @@ Descriptive textual-characteristics analysis (Table 1, Textstat/SpaCy metrics an
 - [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](lime-pos-reliance-varies-by-dataset.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset](text-splicing-improves-ood-bloom-classification.md) — related
+- Out of domain, CoT accuracy collapses on longer traces and deeper recursion stacks while recursive models stay accurate across most of the shift — related

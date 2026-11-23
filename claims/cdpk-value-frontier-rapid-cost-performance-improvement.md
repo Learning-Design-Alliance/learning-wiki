@@ -53,3 +53,5 @@ Numerical analysis of benchmarked models' input-token costs against CDPK accurac
 - [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](cache-dominant-82-9-percent-tokens.md)
 - [LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard](cdpk-accuracy-range-28-89-closed-models-lead.md) — related
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
+- [Aryabhata 1.0 achieves 86.0% accuracy on the JEE Main 2025 January session and 90.2% on the April session with roughly 2K tokens per response](aryabhata-jee-main-2025-accuracy.md) — related
+- Output format, not knowledge domain, dictates reasoning-distillation efficiency: open-ended tasks reach the Pareto frontier while multiple-choice tasks fall behind — related

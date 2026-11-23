@@ -53,6 +53,7 @@ The article recommends having students solve the multiple-body motion equations 
 - [Use effective-potential orbit problems as accessible undergraduate research topics in general relativity](orbit-problems-undergraduate-research-strategy.md)
 - [Have students implement the Euler method in a spreadsheet to numerically solve a nonlinear equation of motion](euler-method-spreadsheet-strategy-nonlinear-oscillator.md)
 - [Follow a five-step modeling-to-analysis sequence when introducing numerical simulation of physical problems](five-step-numerical-modeling-sequence.md)
+- [Simple data presentation: repeated trials, averaged run-off lengths, and hand-drawn or spreadsheet graphs](simple-student-data-presentation-strategy.md)
 
 ## Examples
 -

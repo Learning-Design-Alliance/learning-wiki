@@ -52,3 +52,4 @@ Teacher-agent comparisons from the same preliminary lesson study across five bac
 - [In pairwise LLM-judge comparisons PsyScore-AEF wins over 90% in Actionability against GPT-4o and Llama, and removing the psychometric module reduces Adaptivity and Tone wins with PsyScore retaining above 75%](psyscore-feedback-actionability-win-rates.md) — related
 - [DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench](deeptutor-improves-interactive-tutoring-quality-10-76.md) — related
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](splashlearn-agency-gamification-alignment.md) — related
+- [ZPDs of different LLMs differ significantly: Z✗→✓ and Z✗→✗ examples overlap little across models while Z✓ examples are largely shared](zpd-overlap-low-across-models.md) — related

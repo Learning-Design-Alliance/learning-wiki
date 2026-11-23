@@ -47,6 +47,7 @@ A compact classroom workflow for a 50-minute meeting built on a predict–observ
 - [Data Driven Dialogue](data-driven-dialogue.md)
 - [Postactivity discussion resolves conflicting evidence across data types and connects student phylograms to scientific consensus](postactivity-discussion-multiple-evidence.md)
 - [Specification-table tolerance half-widths as acceptance criteria for photonic device verification](tolerance-halfwidth-acceptance-reasoning-strategy.md)
+- [Triple-pendulum normal-mode prediction and observation extension](triple-pendulum-normal-mode-extension.md)
 
 ## Examples
 -

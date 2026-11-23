@@ -50,3 +50,4 @@ Confirmatory factor analyses comparing nested factor structures in a sample of 4
 - A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](group-mean-differences-els-word-reading-advantage.md) — related
 - [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](vocabulary-mediation-differs-els-non-els.md) — related
+- [Oral language and listening comprehension interventions improved language and reading comprehension after 20-30 weeks of instruction but not after 9 weeks among young struggling readers](oral-language-intervention-20-30-weeks-gains.md) — related

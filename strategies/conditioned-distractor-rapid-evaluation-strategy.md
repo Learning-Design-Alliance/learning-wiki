@@ -51,6 +51,7 @@ The article recommends evaluating educational AI systems through the two-phase c
 ## Related Strategies
 
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Separate learning-outcome and faculty-agreement questions in future evaluation of AI oral assessment](calliope-future-evaluation-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Error-type breakdown of the same GPT-4 diagnosis analysis across all tutoring to
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
 - [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related
 - [Correct classification of CPR performance depends significantly on the presented error type, varying widely across the six errors](error-type-determines-cpr-classification.md) — related
+- [LLMs satisfy mathematical prerequisite dependencies far less often than human learners despite matching or exceeding human accuracy](llms-violate-prerequisite-dependencies-despite-high-accuracy.md) — related

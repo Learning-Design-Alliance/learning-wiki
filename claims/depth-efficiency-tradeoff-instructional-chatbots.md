@@ -57,3 +57,4 @@ Qualitative findings from the 41-instructor user study, drawn from surveys and 1
 - [Learners' divergent learning preferences and cognitive styles shaped their evaluations of adaptive versus structured AI tutor styles](ai-tutor-style-learning-preference-divergence.md) — related
 - [GenAI use in the workforce varies by work function and by the expertise of the user, from fine-tuned technical deployments to off-the-shelf applications](genai-use-varies-by-function-and-expertise.md) — related
 - [Supervised LearnLM sessions appeared more efficient, with tutors sustaining more simultaneous conversations, though throughput was not rigorously measured](supervised-learnlm-sessions-efficiency-signals.md) — related
+- [A feedback session presenting modelling outcomes deepened students' understanding of trade-offs, prompted reconsideration of some choices, and addressed misconceptions](feedback-session-deepens-understanding-trade-offs.md) — related

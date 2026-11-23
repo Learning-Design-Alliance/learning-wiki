@@ -53,3 +53,4 @@ Pretest–treatment–posttest classroom quasi-experiment with 31 native English
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Argument quality differences between treatment and control groups were not statistically significant in the first week of online discussion](argument-quality-week-one-not-significant.md) — related
+- [Multimedia-based instruction yields a greater than 10% increase in L2 listening comprehension versus a 2.4% gain under regular instruction over a 10-week intervention](mmb-instruction-over-ten-percent-listening-gain.md) — related

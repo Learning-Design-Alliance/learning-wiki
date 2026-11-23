@@ -62,3 +62,4 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related
 - [The OSG was well received: most respondents would take it again and nearly all would recommend it](osg-high-satisfaction-recommendation.md) — related
 - [Most students in the course preferred active learning methods over traditional methods and wanted them in other disciplines](students-prefer-active-learning-pharmacy-course.md) — related
+- [93% of students agreed or strongly agreed they would recommend the course to friends](pseudoscience-flavor-recommend-to-friends-93-percent.md) — related

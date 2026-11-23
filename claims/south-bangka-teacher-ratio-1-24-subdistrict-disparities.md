@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-23
 recheck_by: 2026
 sources:
   - id: rahadian-2023
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The average teacher-student ratio in South Bangka Regency is 1:24, but sub-district data show discrepancies between 1:20 and 1:29, with some sub-districts reaching 1:29. [→ Rahadian 2023](#rahadian-2023)

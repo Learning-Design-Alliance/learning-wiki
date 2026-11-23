@@ -49,3 +49,4 @@ Paper survey of one group of fourth-year boot camp students after completing the
 ## Related Claims
 - [A vast majority of students rated the online research course as valuable and of acceptable quality](students-rate-online-research-course-valuable-acceptable-quality.md) — related
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
+- [92% of students agreed or strongly agreed they learned something from the course](physics-in-films-learned-something-92-percent.md) — related

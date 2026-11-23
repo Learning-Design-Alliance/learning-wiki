@@ -52,3 +52,4 @@ Token-cost analysis of one example slide (Figure 3(a)) comparing OCR text input 
 - [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — reports the opposite
 - [Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models](cogevol-single-pass-latency-and-cost.md) — related
 - [Multimodal RAG with slide images outperforms text-only slide retrieval for a vision-capable LLM](multimodal-rag-slide-images-outperform-text.md) — related
+- [Distilled models use 10-60% fewer tokens than retrieval-augmented teachers while achieving higher success](distilled-models-fewer-tokens-than-rag.md) — related

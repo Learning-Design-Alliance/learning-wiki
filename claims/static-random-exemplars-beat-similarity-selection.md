@@ -48,3 +48,4 @@ RQ2 exemplar-selection comparison testing static random selection against BM25, 
 - [Adding positive (worked) examples to guidelines raises inter-annotator agreement and in-context learning performance](positive-examples-boost-annotation-and-icl.md) — related
 - [CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation](cpig-improves-response-originality-over-iterations.md) — reports the opposite
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — a broader claim this one bears on
+- Providing prerequisite knowledge in context does not scaffold LLM performance better than same-skill or semantically similar exemplars — related

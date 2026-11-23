@@ -46,4 +46,4 @@ The article opens with an informal chapter introducing Mathematica terms and def
 -
 
 ## Key Sources
-- Ananthanarayan, B., Das, S., Lahiri, A., Sheikh, S., & Talukdar, S. (2024). Group Theory in Physics: An Introduction with Mathematica. https://arxiv.org/abs/2408.01441
+- Ananthanarayan, B., Das, S., Lahiri, A., Sheikh, S., & Talukdar, S. (2024). Group Theory in Physics: An Introduction with Mathematica. https://arxiv.org/abs/2408.01441. [doi:10.1140/epjs/s11734-024-01245-9](https://doi.org/10.1140/epjs/s11734-024-01245-9)

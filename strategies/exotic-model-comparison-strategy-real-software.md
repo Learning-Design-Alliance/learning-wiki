@@ -46,6 +46,7 @@ This teaching strategy has students compute CMB and matter power spectra themsel
 ## Related Strategies
 
 - [Explore extreme cosmologies by varying energy-density parameters in the visualization](extreme-cosmology-parameter-exploration-strategy.md)
+- [Pair CosmoSlider exploration with explicit instruction on the physical mechanisms underlying CMB anisotropies](cosmoslider-with-mechanism-instruction.md)
 
 ## Examples
 -

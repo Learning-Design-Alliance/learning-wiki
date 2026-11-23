@@ -54,3 +54,4 @@ Comparison of Qwen2.5 family models (7B, 14B, 32B, 72B), which share architectur
 - [Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model](emotion-plus-theory-prompting-ablation-gain.md) — related
 - [Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%](multi-turn-dialogue-amplifies-tutor-harm.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
+- Model capacity is a strict secondary prerequisite: reasoning captures the Pareto frontier only from 7B upward, and below that incorrect traces run 1.5-2× longer than correct ones — related

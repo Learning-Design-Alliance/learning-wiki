@@ -44,6 +44,7 @@ EQUIP can capture interactions live, via prerecorded video, or both, and althoug
 - [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](advance-data-reports-with-debrief-protocols.md)
 - [Use video streaming technology instead of in-person observers to assess pre-K classroom quality](video-streaming-virtual-classroom-observation-strategy.md)
 - [Have users self-report competence-development activities instead of monitoring their devices](user-self-reported-development-activities.md)
+- [Collect classroom observations at scale via mailed standardized recording equipment, and plan logistics around instructional milestones with intensive tracking and follow-up](mailed-recording-milestone-logistics.md)
 
 ## Examples
 -

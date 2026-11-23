@@ -49,3 +49,4 @@ Prompt-engineering analysis (Figure 6) comparing simple, mechanics-specific, and
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related
 - [Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading](domain-specific-knowledge-limits-llm-grading-precision.md) — related
 - [Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent](prompt-design-affects-mcq-accuracy-asymmetrically.md) — related
+- [GPT-4o performed best on domain-specific themes (PC, MC) while GPT-4.5 performed better on Engineering Design](model-choice-moderates-llm-coding-agreement.md) — related

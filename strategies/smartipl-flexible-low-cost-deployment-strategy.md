@@ -52,6 +52,7 @@ The review recommends using SmartIPLs as a complementary modality rather than a 
 - [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
 - [Lend students a sensor-equipped nano board to expand at-home physics experiments while protecting their smartphones](lend-nano-board-at-home-experiments-strategy.md)
 - [Deploy low-cost hands-on lab kits simultaneously across face-to-face, hybrid, and remote modalities](mailable-turn-key-lab-kit-multimodal-deployment-strategy.md)
+- [Lecture demonstration plus student-side smartphone exploration with no prerequisites beyond smartphone access](cosmoslider-lecture-demonstration-smartphone-exploration.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Ablation study (Table II) testing five degraded configurations for Llama-3-7b an
 - [GPT-4 outperforms Llama-3-7b on learner engagement and knowledge retention across all tested datasets](gpt4-outperforms-llama3-les-krr.md) — related
 - [GPT-4 with real-time analysis achieves higher engagement improvement and user satisfaction than Llama-3-7b with dynamic adjustment](ml-integration-engagement-satisfaction.md) — related
 - [Removing any of TASA's three modules degrades performance, with the forgetting score contributing an average 6.8% drop in normalized learning gain when eliminated](tasa-ablation-module-importance.md) — related
+- Component ablations show the empirical value of adaptive selection and archive regularization is domain dependent — related

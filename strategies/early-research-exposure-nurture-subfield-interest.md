@@ -46,6 +46,7 @@ The article recommends engaging undergraduates in research early, based on its f
 ## Related Strategies
 
 - [Summer research internships at a nearby research institution as the substitute for in-house intermediate and advanced laboratory courses](mville-columbia-summer-research-internship.md)
+- [Use undergraduate-level review articles and standard textbooks as baselines for student research projects](textbook-baselines-student-projects.md)
 
 ## Examples
 -

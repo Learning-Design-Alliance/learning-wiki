@@ -70,3 +70,4 @@ Same within-subjects experiment; baseline-corrected pupil diameter served as an 
 - [Peer question-asking shows a non-significant trend toward higher knowledge scores in both topics](peer-qna-learning-outcome-trend.md) — related
 - [Peer questions produce longer mean fixation durations and shorter saccade amplitudes, indicating more targeted visual scanpaths](peer-qna-targeted-visual-scanpaths.md) — related
 - [Shorter mean saccade duration is associated with higher knowledge scores in the complex topic](saccade-duration-negative-correlation-knowledge.md) — related
+- LLM support increases pupil size variability, and this effect is attenuated for experts, suggesting reduced expert sensitivity to the added cognitive demands of guidance integration — related

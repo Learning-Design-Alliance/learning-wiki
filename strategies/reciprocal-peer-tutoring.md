@@ -94,6 +94,7 @@ RPT converts review and practice into an active, social format: explaining mater
 - [Deliver RAP strategy instruction through peer tutoring with trained high-achieving classmates as one-on-one tutors](peer-tutoring-rap-delivery-strategy.md)
 - [Use peer tutoring role experience in university classrooms to build pre-service teachers' awareness of CL implementation factors](pt-role-experience-strategy.md)
 - [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
+- [Municipalized after-school science tutoring with individual attention plus peer discussion groups](doposcuola-scientifico-individual-plus-peer-discussion.md)
 
 ## Examples
 - **Classwide Student Teams–Achievement Divisions adaptations and Fantuzzo's reciprocal tutoring** — classwide RPT in elementary mathematics where dyads alternate tutor/tutee roles weekly with structured materials and reward systems; improved computation fluency and conduct.

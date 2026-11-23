@@ -50,3 +50,4 @@ Ghazali Daniel Aiham, Breque Cyril, Sosner Philippe, Lesbordes Mathieu, Chavagna
 - [Stress increases during every high-fidelity simulation session and decreases during and after debriefing, regardless of repetition regimen](stress-increases-during-simulation-decreases-debriefing.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — a broader claim this one bears on
 - [Stress response differs by gender but not by professional status among EMS team members in simulation](gender-but-not-status-effect-on-stress-response.md) — related
+- Daily stress trajectories diverged over the 14-day intervention, with a significant group×time interaction (LMM p=.006) and lower VAS scores in the intervention group after day 10 — related

@@ -68,3 +68,4 @@ Length analysis for the Getting Students to Relate construct, where "correct rea
 - [Supervised classifiers can predict whether an LLM's Talk Moves annotation is correct using only the LLM's accompanying reasoning text, with a Random Forest reaching F1 = 0.83](llm-reasoning-predicts-annotation-correctness.md) — related
 - [Correct LLM annotations are marked by higher density of causal connectors in their reasoning, while syntactic complexity (Differentiation) does not distinguish correct from incorrect reasoning](causal-logic-marks-correct-llm-reasoning.md) — related
 - [Post-instruction, students who improved on a free-text FCI item gave shorter, more concise answers, while students with persistent difficulties gave longer answers](ftr-word-count-tracks-understanding-nmq34.md) — related
+- Correct responses are shorter than incorrect ones in both reasoning modes, with incorrect answers often containing more verbose or repetitive content — related

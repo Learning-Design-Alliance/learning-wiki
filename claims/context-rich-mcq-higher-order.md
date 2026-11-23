@@ -71,3 +71,4 @@ The review reports studies of the effect of stimulus on thought processes in ope
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
 - [Students learn what they are tested on, so physics instruction needs well-defined, measurable learning goals and assessment tools commensurate with those goals](well-defined-learning-goals-physics-assessment.md) — related
 - [Student responses to equivalent physics questions show strong context dependence](context-dependence-physics-responses.md) — related
+- [Reformulating hard open-ended problems into MCQ or cloze formats reduces empirical difficulty, with a consistent ordering MCQ4 ≤ MCQ10 ≤ Cloze ≤ Open-ended](reformulation-reduces-difficulty-ordering.md) — related

@@ -144,3 +144,5 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [Core problem-statement metrics show only moderate judge agreement, and multi-class metrics (Bloom level, difficulty) perform poorly](problem-statement-metrics-moderate-categorical-poor.md) — a narrower finding that bears on this claim
 - [Expert-rated quality of LLM feedback averages 3.98 on a five-point guidance rubric but varies substantially by item (Q9: 4.55; Q15: 3.33)](feedback-guidance-quality-varies-by-item.md) — related
 - [LLM reliability on instructional moves varies by construct: stronger on explicit, structurally constrained moves and weaker on socially and metacognitively demanding ones](llm-reliability-varies-by-talk-move-construct.md) — related
+- [Human learners' knowledge states subsume weaker learners' nearly perfectly, while LLMs show substantially lower and more fragmented subsumption](llms-lack-coherent-knowledge-subsumption.md) — related
+- [LLMs reached only moderate agreement with human raters on Metacognitive Thinking, a non-domain-specific theme](llms-moderate-only-metacognitive-thinking.md) — related

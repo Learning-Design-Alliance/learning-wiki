@@ -46,6 +46,7 @@ For the 2012 masterclasses the article keeps LHC data as the main thrust and pla
 ## Related Strategies
 
 - [Represent Higgs decay modes as four-card lepton combinations in the card game](higgs-decay-four-card-combination-strategy.md)
+- [CERN Masterclasses: high-school students analyze real CERN data and rediscover e.g. the Higgs boson](cern-masterclasses-real-data-rediscovery-strategy.md)
 
 ## Examples
 -

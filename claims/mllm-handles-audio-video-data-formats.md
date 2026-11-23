@@ -67,3 +67,4 @@ Authors' report on Example 3, real-time spectroscopy of blood volume dynamics fr
 ## Related Claims
 - [MLLM-supported analysis offers advantages over conventional methods: time savings, high-quality exportable visualizations, and access to analyses beyond school mathematics](mllm-analysis-advantages-over-conventional.md) — a broader claim this one bears on
 - [MLLM-based analysis of smartphone accelerometer data aligns with conventional spreadsheet analysis of the same dataset](mllm-analysis-matches-spreadsheet-drag-coefficient.md) — related
+- Across two release runs, all eight retrieved synthetic audio files were byte-identical to their inputs by SHA-256 hash — related

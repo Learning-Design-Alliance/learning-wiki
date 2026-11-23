@@ -71,3 +71,4 @@ In the systematic experiments over the 200 typed Olympiad responses, the 14B Phi
 - [Scaling Qwen2.5 from 3B to 32B parameters improved both metrics and reduced the consistency gap by approximately 50%](model-scaling-reduces-consistency-gap.md) — related
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
+- Larger Qwen-3 models show lower in-context function-learning error, with a boost from 8B to larger sizes but no significant difference between 14B and 32B — related

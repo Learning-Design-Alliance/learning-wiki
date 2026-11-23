@@ -45,6 +45,7 @@ Because the standard probabilistic interpretation of QM requires probability cal
 ## Related Strategies
 
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
+- [Introduce the random-sampling experiment at several levels of a physics laboratory course](multi-level-probabilistic-measurement-lab.md)
 
 ## Examples
 -

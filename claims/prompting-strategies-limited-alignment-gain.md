@@ -56,3 +56,4 @@ Comparison of six LLMs prompted under zero-shot, zero-shot with category names a
 - [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](teacher-draft-stage-adaptivity-exceeds-llms.md) — related
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
 - [Few-shot prompting significantly improves LLM performance in both readability manipulation and information preservation for leveled-text generation](few-shot-prompting-improves-leveled-text-generation.md) — related
+- LLMs are effective few-shot learners but not many-shot learners: performance peaks then declines as in-context examples increase — related

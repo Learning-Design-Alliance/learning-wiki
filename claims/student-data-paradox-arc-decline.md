@@ -49,3 +49,4 @@ Benchmark evaluation (Table 2, ARC 25-shot) comparing the base vicuna-7b-v1.5 mo
 - [Training to model student responses drops TruthfulQA multiple-choice accuracy, with hallucination tokens partially recovering it](truthfulqa-mc2-drop-and-hal-recovery.md) — related
 - [Training LLMs on tutor responses does not produce the performance decline seen with student-response training](tutor-control-no-decline.md) — related
 - [Performance on MMLU, HellaSwag, and Winogrande remains relatively stable regardless of student or tutor response training](mmlu-hellaswag-winogrande-stable.md) — related
+- ACER-trained models improve knowledge-intensive benchmarks ARC and GPQA by more than two absolute percentage points while remaining stable on AGIEval, GSM8K, and HellaSwag — related

@@ -45,6 +45,7 @@ From its review of quaternion teaching literature, the article highlights strate
 
 - [Use the simple duality example of geometric algebra to introduce learners to the idea of duality without large mathematical obstacles](duality-as-accessible-didactic-entry.md)
 - [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
+- [Use meta-principles of physics (unity of nature, plenitude, mathematical beauty) as didactic themes when comparing quaternion and matrix representations](meta-principles-didactic-themes-relativity.md)
 
 ## Examples
 -

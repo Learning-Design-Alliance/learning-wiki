@@ -70,3 +70,4 @@ BCH-adjusted pairwise comparisons (Table 6) of career crafting means across prof
 - [Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles](resources-prospectively-differentiate-ai-profile-membership.md) — related
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
 - [Academic empowerment shows no statistically significant association with academic performance after adjustment](empowerment-no-significant-association-academic-performance.md) — related
+- [Physics identity differs significantly across latent classes, with the Low professional and identity-based support class lower than both other classes](physics-identity-differs-across-lca-classes.md) — related

@@ -51,6 +51,7 @@ CLASP's core instructional structure is studio-type discussion/laboratory (DL) s
 ## Related Strategies
 
 - [Build community within the course through activities that help students learn about their classmates, supporting self-efficacy, identity, and belonging.](clasp-community-building-activities.md)
+- [Libera Università: self-managed semi-professional science course cycles outside institutional schooling](libera-universita-self-managed-science-courses.md)
 
 ## Examples
 -

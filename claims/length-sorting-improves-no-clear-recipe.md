@@ -48,3 +48,5 @@ Results section comparing sorted baselines (long→short and short→long, follo
 - Optimized curricula for word representation training substantially outperform the strongest shuffled, sorted, and coherent baselines on downstream NLP tasks — related
 - Learned curricula are task-specific: syntactic-simplicity orderings suit POS and parsing, prototypicality orderings suit sentiment, and NER prefers short-to-long paragraph order — related
 - Random shuffling of training data is not essential: systems trained on coherent original-order data perform on par with, or better than, shuffled systems — related
+- [Logit-gap (confidence margin) curricula consistently outperform the shuffled baseline, with Reverse CL providing the most consistent gains](logit-gap-curricula-reverse-most-consistent.md) — related
+- [Problem-difficulty-based curricula consistently outperform random shuffling, with gains of up to 3–6% on easier datasets](problem-difficulty-curricula-beat-shuffled-baseline.md) — related

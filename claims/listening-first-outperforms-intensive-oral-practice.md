@@ -57,3 +57,4 @@ The paper reports, citing Postovsky (1974, 1975), that his studies supported the
 - [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related
+- [Listening input is prioritized over speaking output: comprehension is deemed more vital than production in L2 acquisition](listening-input-over-speaking-output.md) — possibly the same claim (merge candidate)

@@ -53,6 +53,7 @@ The article's inclusive-practices strategy spans recruitment (early, community-i
 - [Institutionalize undergraduate research with credit, faculty load credit and summer funding as central to student satisfaction and recruitment](undergrad-research-credit-incentives-strategy.md)
 - [Recruit for inclusive hackathons through personal invitations in pairs, women-only preparatory events, reduced competition emphasis, explicit valuation of non-coding skills, and role-based coordination](inclusive-hackathon-recruitment-strategies.md)
 - [Sustained funding and outreach recommendations for growing local participation in Hawai'i astronomy](sustained-mentoring-funding-and-outreach-hawaii-astronomy.md)
+- [Invest in women's dormitories and safe housing, female faculty, targeted STEM scholarships and mentorship, and cultural legitimacy across fields](dormitories-female-faculty-stem-scholarship-strategy.md)
 
 ## Examples
 -

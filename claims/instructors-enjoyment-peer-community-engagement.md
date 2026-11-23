@@ -82,3 +82,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related
 - [Students reported majority-positive experiences with the peer review process and perceived experiential learning in the video project](positive-peer-review-experience-experiential-learning.md) — a narrower finding that bears on this claim
 - [Human connections with instructors and peers were the factors most tied to student satisfaction and performance in pandemic online courses](human-connection-tied-to-online-satisfaction.md) — related
+- [Undergraduate students who produced the relativistic videos report learning research, creative-production and communication skills beyond a normal course](student-video-production-learning.md) — related

@@ -60,3 +60,4 @@ Authors' qualitative reflection on failure modes encountered across the ten-week
 - [Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.](no-conceptual-hallucinations-28-contexts.md) — related
 - [Cooperative Project-Based Learning Methodology Engages Students in AI Topics](cpbl-methodology-ai-engagement.md) — a broader claim this one bears on
 - [The authors report that the three-phase project approach produced significant learning outcomes in Big Data skills](three-phase-big-data-significant-learning-outcomes.md) — related
+- Agent failures recur across later tasks: 81.0% of verified failures in a 500-task run are semantically related to at least one later failure — related

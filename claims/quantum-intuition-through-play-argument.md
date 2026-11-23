@@ -53,3 +53,4 @@ This is the article's central theoretical argument, stated in the abstract and c
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
 - [The game is argued to be playable and educational for novices as well as for those versed in particle physics](card-game-accessible-across-knowledge-levels.md) — a narrower finding that bears on this claim
+- [Anecdotal trial: a few children who played Quantum Focus became motivated to learn quantum mechanics](children-playing-quantum-focus-want-to-learn-quantum-mechanics.md) — a narrower finding that bears on this claim

@@ -20,6 +20,8 @@ VEGA is a generative-AI nursing education agent built on the CAFA platform that 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Kalman-filter state estimation with FSM-based gain scheduling for rocket flight-phase detection**: The Vega software implements a 1 DoF Kalman filter estimating height, vertical velocity, and an acceleration offset, fed by IMU and barometer readings at 100 Hz. The filter output drives a finite state machine whose phases (Calibration, Ready, Thrusting, Coast, Apogee, Main, Touchdown) trigger user-configured actions. The measurement noise is gain-scheduled by flight phase: during thrusting "the Kalman filter trusts the IMU the most as pressure readings are not very reliable during this phase," and after apogee it ignores IMU readings because parachute dangling makes them unusable. (Jonas Binz et al. (2024))
+- **Vega ground station with FHSS 2.4 GHz LoRa telemetry link**: The ground station receives data from the Vega board and sends commands, enabling real-time tracking of rocket position, velocity, and health. It runs on an ESP32-S2 microcontroller with two SX1280 radios tested for a range of up to 10km at 100mW, a transflective display readable in bright sunlight, and a GNSS module. The telemetry link uses 2.4 GHz LoRa with Frequency-Hopping Spread Spectrum, which the article says makes transmissions "much more resistant to interference and more difficult to intercept," and supports single and dual tracking modes. (Jonas Binz et al. (2024))
 
 ### Claims
 - [Nursing students rated VEGA's overall usability at 3.62 ± 1.04 on the MARS, with information the highest domain (4.25 ± 0.87) and engagement the lowest (3.40 ± 1.09)](../claims/vega-mars-usability-pilot.md) [+W]
@@ -30,3 +32,4 @@ VEGA is a generative-AI nursing education agent built on the CAFA platform that 
 
 ## Key Sources
 - Shin Sujin, Choi Jaehwa, Hong Eunmin, Lee Miji, Go Jinseon, Yu Subin, Lee Minjae. (2026). Development of vignette-based evaluation with generative artificial intelligence (VEGA) for nursing students: a pilot study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09685-8
+- Jonas Binz, Nemanja Stojoski, Luca Jost. (2024). CATS: Empowering the next generation of rocket scientists through educational flight computers. 26th ESA symposium on european rocket and balloon programmes and related research. https://github.com/catsystems/

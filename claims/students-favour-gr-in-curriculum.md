@@ -72,3 +72,4 @@ Post-questionnaire item Q10 addressing the study's main research question on cur
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
 - [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related
 - [Nine of eleven follow-up participants said the primary Einsteinian physics intervention prepared them for future science learning](intervention-prepared-future-science-learning.md) — related
+- [About half of students still reported disliking science and not wanting to read science after the course](persistent-student-dislike-of-science-after-course.md) — related

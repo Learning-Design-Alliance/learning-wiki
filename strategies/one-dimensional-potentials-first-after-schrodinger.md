@@ -37,7 +37,8 @@ The author recommends that once the Schrödinger equation is introduced, applica
 - apply the Schrödinger equation to physical potentials and connect quantum mechanics to real applications
 
 ## Related Strategies
-- 
+
+- [Introduce Maxwell's equations with two-dimensional examples before generalizing to 3D](2d-first-maxwell-equations-strategy.md)
 
 ## Examples
 -

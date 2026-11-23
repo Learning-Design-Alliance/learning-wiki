@@ -51,3 +51,4 @@ Program-level descriptive statistics reported by the organizers, covering 1984-2
 - [The summer school shows growth indicators: school network, participation and applications increased](pigelleto-growth-indicators.md) — related
 - [The Fermilab Italian student training program hosted approximately 550 students from more than 20 Italian universities over 36 years](fermilab-italian-training-550-students.md) — related
 - [The Fermilab Italian summer training program has grown from 4 students in 1984 to an average of about 30 trainees per year, exceeding 500 participants in total](fermilab-italian-program-growth-500-students.md) — related
+- Web lecture archives became unplanned public outreach, with outside viewers arriving via search engines rather than the lab's home page — related

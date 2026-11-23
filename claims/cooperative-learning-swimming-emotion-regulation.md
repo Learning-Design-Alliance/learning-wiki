@@ -55,3 +55,4 @@ Randomized controlled trial of 120 adolescents aged 12–16 assigned 1:1:1 to th
 - [Swimming skill mastery did not differ significantly across the three pedagogical models](swimming-skill-mastery-no-group-difference.md) — related
 - [Emotion regulation and social adaptability were strongly positively correlated after intervention, with the steepest regression slope in the cooperative learning group](emotion-regulation-social-adaptability-correlation.md) — related
 - [Gender and age did not significantly moderate the intervention effects of the three teaching models](gender-age-no-moderation-swimming-intervention.md) — related
+- The intervention group improved significantly in three adaptive CERQ strategies (positive refocusing p=.017, positive reappraisal p=.028, perspective-taking p=.034) while other dimensions did not reach significance — related

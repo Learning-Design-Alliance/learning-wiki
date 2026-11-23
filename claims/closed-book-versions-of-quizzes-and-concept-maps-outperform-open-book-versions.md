@@ -75,3 +75,4 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
 - [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](closed-book-advantage-with-reinspection.md) — related
 - [Formative assessment done often and kept low-stakes focuses on the distribution of answers and reasoning rather than the right answer](formative-assessment-informs-low-stakes-a2l.md) — related
+- The Open-Book Paradox: removing documentation during parameter updates (Closed-SFT) yields robust internalization, while Open-SFT fails completely without documentation at test time — related

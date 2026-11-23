@@ -41,6 +41,7 @@ For presenting particle physics to the general public, the author reports that h
 ## Related Strategies
 
 - [Physicist-mediated explanation strategy: teach quantum ideas in lay terms before introducing the graphical argument](lay-terms-then-pictures-teleportation-explanation-strategy.md)
+- [Discursive, illustrative presentation of rigorous science content without technical formalization for lay audiences](discursive-illustrative-divulgation-without-formalization.md)
 
 ## Examples
 -

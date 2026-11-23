@@ -70,3 +70,4 @@ Validation-item correlations in the same survey correlation matrix. The game "wa
 - [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
 - [Playing Quantum Odyssey increases participants' interest in finding out more about quantum computing](quantum-odyssey-increases-quantum-learning-interest.md) — related
+- [Anecdotal trial: a few children who played Quantum Focus became motivated to learn quantum mechanics](children-playing-quantum-focus-want-to-learn-quantum-mechanics.md) — related

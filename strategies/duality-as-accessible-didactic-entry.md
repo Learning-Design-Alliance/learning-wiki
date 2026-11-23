@@ -46,6 +46,7 @@ The article proposes exploiting the mathematically simple and clear example of d
 ## Related Strategies
 
 - [Draw on constructive methods, educational software, and physical analogies such as the Dirac belt trick when teaching quaternions](quaternion-teaching-pedagogical-strategies-review.md)
+- [Use meta-principles of physics (unity of nature, plenitude, mathematical beauty) as didactic themes when comparing quaternion and matrix representations](meta-principles-didactic-themes-relativity.md)
 
 ## Examples
 -

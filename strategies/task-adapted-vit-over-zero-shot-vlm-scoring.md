@@ -43,6 +43,7 @@ When scoring student drawings at scale, adapt a pretrained vision transformer wi
 ## Related Strategies
 
 - [Use domain-specific fine-tuning of open-source diffusion models to build trustworthy generative AI tools for specialized technical domains](domain-specific-fine-tuning-for-trustworthy-generative-ai.md)
+- [Use role-prompted VLMs with the DAST-C rubric to automatically score drawn images and provide scoring rationales for classroom use](vlm-role-prompting-dast-auto-scoring-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Within-model comparison of Zero-shot versus CoT prompting on PersonaPath reporte
 - [The two targeted ablations produce small, partially counter-directional effects: removing the construct map does not materially change the composite score (p = 0.34 on equivalence)](varia-ablation-null-effects.md) — related
 - [Chain-of-Thought prompting improves LLM performance on complex reasoning questions by eliciting step-by-step breakdowns](cot-prompting-improves-complex-reasoning.md) — related
 - Performance of the framework improves with a larger candidate question bank and a larger base model — related
+- Pass@k-based difficulty estimation introduces selection bias toward flawed problems; filtering helps Llama consistently but affects Qwen only marginally — related

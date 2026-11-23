@@ -52,3 +52,4 @@ Mixed ANOVAs on target-word measures in the 2×2×2 experiment with 60 adults; F
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](visual-support-improves-sentence-comprehension-accuracy.md) — related
 - [Contextual diversity — the number of unique documents a word appears in — is more closely associated with adult lexical processing than raw frequency](contextual-diversity-beats-raw-frequency.md) — related
+- LLM support reduces mean fixation duration in simulated SAR, consistent with partial offloading of information acquisition — a narrower finding that bears on this claim

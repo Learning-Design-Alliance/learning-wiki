@@ -73,3 +73,4 @@ Diary self-study: although "take somebody's call" had been heard and seen on a d
 - [The authors attribute the dictogloss advantage to depth of processing, discovery learning, pushed output, noticing, awareness raising, negotiation, and collaboration](dictogloss-advantage-processing-noticing-negotiation-account.md) — related
 - [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](feedback-plus-modified-output-question-development.md) — a narrower finding that bears on this claim
 - [Input-based and output-based instruction yielded the same results for beginning learners, but output opportunities favored more proficient learners](input-vs-output-instruction-proficiency-moderation.md) — related
+- [Listening input is prioritized over speaking output: comprehension is deemed more vital than production in L2 acquisition](listening-input-over-speaking-output.md) — reports the opposite

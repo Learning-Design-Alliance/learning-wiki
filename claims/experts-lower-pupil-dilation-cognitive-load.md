@@ -50,3 +50,4 @@ Pupil dilation, used as a proxy for cognitive load, was measured with eye-tracki
 - [Increased ECG task difficulty raises pupil dilation, particularly among less experienced readers](task-difficulty-increases-pupil-dilation-novices.md) — a broader claim this one bears on
 - [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — related
 - [Generating a prediction enhances pupil dilation both during anticipation of the answer and in response to seeing it](prediction-enhances-pupil-dilation-anticipation-and-surprise.md) — related
+- LLM support increases pupil size variability, and this effect is attenuated for experts, suggesting reduced expert sensitivity to the added cognitive demands of guidance integration — related

@@ -47,3 +47,4 @@ Wald tests with pairwise comparisons on T3 mathematics test scores, controlling 
 ## Related Claims
 - [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — reports the opposite
 - [Primary school mathematics students fall into three latent profiles of control, value and achievement emotions: Positive, Mixed and Negative](three-emotion-profiles-primary-maths.md) — related
+- [Physics identity differs significantly across latent classes, with the Low professional and identity-based support class lower than both other classes](physics-identity-differs-across-lca-classes.md) — related

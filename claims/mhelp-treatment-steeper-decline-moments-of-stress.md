@@ -52,3 +52,4 @@ GLMM analysis (Gamma distribution, log link) of daily Moments of Stress from the
 - [In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores](experimental-group-steeper-learning-trajectory.md) — related
 - [The control group showed significant ADHD symptom decline during baseline but a smaller-than-expected decline during the subsequent phase](control-group-slope-flattened-after-baseline.md) — related
 - [PHQ-8 depression scores showed no significant change over time or between groups](phq8-no-significant-depression-change.md) — related
+- Daily stress trajectories diverged over the 14-day intervention, with a significant group×time interaction (LMM p=.006) and lower VAS scores in the intervention group after day 10 — related

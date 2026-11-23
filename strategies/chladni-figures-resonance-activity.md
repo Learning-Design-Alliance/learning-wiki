@@ -45,6 +45,7 @@ A laboratory activity in which a speaker connected to a function generator drive
 
 - [Sequenced extracurricular laboratory path: Shive machine, sound with oscilloscope, acoustic interference, then resonance](sequenced-waves-laboratory-path-strategy.md)
 - [Have students compare calculated vibrational frequencies with literature values and explore higher-level model chemistries](normal-mode-literature-comparison-strategy.md)
+- [Triple-pendulum normal-mode prediction and observation extension](triple-pendulum-normal-mode-extension.md)
 
 ## Examples
 -

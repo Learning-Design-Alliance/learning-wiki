@@ -43,7 +43,8 @@ A sequence of three investigations on the 3D-printed mechanical Paul trap — ba
 - Variation Theory Three Stages Marton
 
 ## Related Strategies
-- 
+
+- [Run the rotating saddle demonstration as an interactive sequence with student prediction, incremental frequency increases, and repeated dispensation](interactive-ln2-saddle-demonstration-sequence.md)
 
 ## Examples
 -

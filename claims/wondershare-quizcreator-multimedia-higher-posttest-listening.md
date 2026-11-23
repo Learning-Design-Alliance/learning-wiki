@@ -67,3 +67,5 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite
 - [Students receiving written pre-placement materials outperform video-material students on the end-of-placement knowledge test](written-materials-better-knowledge-test-than-video.md) — related
 - [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related
+- [The review reports that digital stories significantly improved English listening comprehension of 6-year-old Spanish learners versus no multimedia lessons](digital-stories-spanish-learners-significant.md) — related
+- [A cited quasi-experimental study found no visible listening-comprehension difference for multimedia use, though experimental students were more motivated](wang-null-difference-motivation-gain.md) — reports the opposite

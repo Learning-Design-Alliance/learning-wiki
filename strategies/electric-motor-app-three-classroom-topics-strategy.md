@@ -50,6 +50,7 @@ The article proposes three topics addressable with the app. For magnetic force, 
 - Simufisica Electric Motor App
 - [Hands-on small-magnet demonstration in which the factor-two difference is experienced as a roughly 20 per cent difference in repulsion distance](small-magnet-repulsion-demonstration.md)
 - [Have students encounter varied situations in which magnetic flux, not just magnetic field, changes](varied-flux-change-situations-strategy.md)
+- [Three-arrangement ring-magnet demonstration for quantitatively comparing action and reaction forces](ring-magnet-three-arrangement-newton-third-law-strategy.md)
 
 ## Examples
 -

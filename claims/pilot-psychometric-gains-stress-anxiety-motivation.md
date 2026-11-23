@@ -57,3 +57,4 @@ Pre-post psychometric assessment at T0, T1, T2 during the 8-week pilot (N=45) us
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related
 - [MBSR training significantly reduces teacher strain, with large between-group effect sizes sustained at follow-up](mbsr-reduces-teacher-strain.md) — related
 - [The AI-personalized group was associated with larger stress reduction than standardized and control groups (PSS d = 1.42)](ai-personalized-stress-reduction-pss.md) — related
+- In a 14-day randomized pilot, the 'Reverie' intervention group showed significantly lower post-intervention perceived stress than the non-intervention group after controlling for baseline (ANCOVA p=.016) — related

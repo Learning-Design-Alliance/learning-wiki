@@ -107,3 +107,4 @@ In the same study, the main effect for relevancy was also significant for the lo
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — a narrower finding that bears on this claim
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related
+- Bold-text visual attention cues do not significantly affect trust in AI-generated health information in either experiment (null) — related

@@ -100,6 +100,7 @@ Experimentation supports learning by making learners active generators and teste
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
 - [Invite student-generated questions from the problem context to launch additional learning cycles in which students identify variables, hypothesize, design experiments, and test predictions](../strategies/garlic-student-question-learning-cycles.md)
 - [Present the Arduino experiment before the theoretical content, with students generating hypotheses in small groups](../strategies/experiment-before-theory-group-hypotheses-strategy.md)
+- [Apply Guided Inquiry Learning scaffolding — phase-conditioned guidance plus hypothesis verification — to structure LLM agents' inquiry](../strategies/guided-inquiry-scaffolding-for-llm-agents.md)
 
 ## Key Sources
 - Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48. [doi:10.1207/s15516709cog1201_1](https://doi.org/10.1207/s15516709cog1201_1)

@@ -56,6 +56,7 @@ The article's proposed optimal combination integrates simulations and real exper
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 - [Frontload experimentation and data analysis with real or virtual optical experiments before introducing mathematical formalism](experiments-before-mathematics-quantum-course-strategy.md)
 - [Propose hybrid experiential learning combining virtual and physical laboratories to bridge theory and practice in quantum education](hybrid-virtual-physical-lab-strategy.md)
+- [Introduce the random-sampling experiment at several levels of a physics laboratory course](multi-level-probabilistic-measurement-lab.md)
 
 ## Examples
 -

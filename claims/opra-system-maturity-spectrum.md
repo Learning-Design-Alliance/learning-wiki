@@ -51,3 +51,4 @@ The article reports "a broad spectrum of the system maturity" across OPRA system
 - [OPRA systems lean toward either scaffolded or exploratory peer learning based on design choices](opra-scaffolded-vs-exploratory-orientation.md) — related
 - [A tradeoff exists between OPRA system flexibility and ease of use](opra-flexibility-ease-of-use-tradeoff.md) — related
 - [Introducing formal system requirements midway through preliminary design surfaced conflicting design choices and required rework, but the rework produced greater consistency and design maturity across subsystems](early-preliminary-design-before-srd-rework.md) — related
+- [A counting construction proves that synchronized global pacing can be insufficient when contexts need conflicting amounts of assisted practice](synchronized-global-pacing-insufficiency.md) — related

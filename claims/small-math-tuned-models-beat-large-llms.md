@@ -51,3 +51,4 @@ Benchmark comparison in Table 2 reports few-shot chain-of-thought scores showing
 - [Fine-tuning LLMs on 30K-90K AgenticMath samples matches or surpasses baselines trained on 400K-2.3M samples on math reasoning benchmarks](agenticmath-small-data-matches-large-scale-baselines.md) — related
 - [CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters](cdpk-scales-with-model-size-dropoff-below-8b.md) — related
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) — related
+- Curriculum learning on SLR-BENCH yields substantial in-domain and downstream reasoning gains for SLR-tuned Llama-3.1-8B — related

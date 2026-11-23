@@ -51,6 +51,7 @@ Based on their findings that girls were more anxious and had lower quality of li
 - [Academic counseling that builds adolescent girls' academic confidence and parental involvement in educational activities](academic-counseling-girls-confidence-parental-involvement-strategy.md)
 - [Reducing Test Anxiety](reducing-test-anxiety.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Implement exercise-based intervention programmes within physical education to support adolescent psychosocial adjustment and reduce anxiety](pe-exercise-intervention-for-psychosocial-adjustment-strategy.md)
 
 ## Examples
 -

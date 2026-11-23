@@ -47,6 +47,7 @@ The article recommends reallocating scholarly attention from capability benchmar
 - [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 - [Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs](shared-deidentified-osce-registry.md)
 - [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
+- [Separate learning-outcome and faculty-agreement questions in future evaluation of AI oral assessment](calliope-future-evaluation-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends deploying LLMs on curated knowledge bases rather than ret
 - [Augment LLMs with retrieval-augmented generation using authoritative subspecialty resources to address remaining knowledge gaps on board-style examinations.](rag-subspecialty-resources-llm-knowledge-gaps.md)
 - [Fine-tune and train LLMs with domain-specific medical datasets to improve effectiveness in specialized fields like radiology](domain-specific-training-data-for-llms-in-radiology.md)
 - [Use LLM in-context student synthesis with expert-data fine-tuning rather than building complex student-modeling pipelines](llm-incontext-student-synthesis-strategy.md)
+- [Remove hint strings and few-shot demonstrations from student training data to force internalization](remove-hints-from-student-training-data.md)
 
 ## Examples
 -

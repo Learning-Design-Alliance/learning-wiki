@@ -50,3 +50,4 @@ Qualitative case-study analysis in §4.3 comparing outputs of Zero-Shot, SFT, DP
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
 - [AI chatbots' incorrect answers on the CINECA test are predominantly logical errors rather than information or statistical errors](chatbot-incorrect-answers-predominantly-logical-errors.md) — related
+- [Error type predicts localization deviation: question-misunderstanding errors are predicted later than they occur, while missing/extra-variable errors are predicted slightly earlier](error-type-predicts-localization-deviation.md) — related

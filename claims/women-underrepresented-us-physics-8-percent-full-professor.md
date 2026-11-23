@@ -48,3 +48,4 @@ Descriptive claim the article makes citing AIP statistics reports on women in ph
 ## Related Claims
 - [Women earn substantial shares of bachelor's degrees in most math and science fields but remain underrepresented in computer sciences, physics, and engineering](women-underrepresented-physics-engineering-computer-science-degrees.md) — related
 - [Female full professors in UK physics departments rose from under 8% in 2012/13 to approaching 14% in 2020/21](uk-physics-female-professors-increase.md) — related
+- [Female professors in Physics and Astronomy at German universities stagnated below 14%, holding 12.9% of professorships in 2019 and 13.7% in 2020 and 2021](german-physics-astronomy-female-professors-below-14-percent.md) — related

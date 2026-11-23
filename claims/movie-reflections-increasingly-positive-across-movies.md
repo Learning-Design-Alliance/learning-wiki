@@ -46,3 +46,4 @@ Content analysis of 61 trainee teachers' written MES responses after each of thr
 
 ## Related Claims
 - [Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study](movie-intervention-raises-multiculturalism-perceptions.md) — related
+- [84% of students agreed or strongly agreed that the movie topics selected for physics analysis were interesting](pseudoscience-flavor-topics-interesting-84-percent.md) — related

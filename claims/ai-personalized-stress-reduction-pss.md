@@ -50,3 +50,4 @@ Figure 5 in the results section reports intervention effects across outcome doma
 - [Pre-to-post improvements over time were significant for all measures except the Stroop Test, and perceived stress decreased over time](active-breaks-time-effects-all-variables.md) — related
 - [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — related
 - [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related
+- In a 14-day randomized pilot, the 'Reverie' intervention group showed significantly lower post-intervention perceived stress than the non-intervention group after controlling for baseline (ANCOVA p=.016) — related

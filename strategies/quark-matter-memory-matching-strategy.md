@@ -43,6 +43,7 @@ In the layperson-level variant, cards are placed face down and players turn two 
 - Memory Of Quark Matter Card Game
 - [Memory Game (Matching)](memory-game-matching.md)
 - [Represent Higgs decay modes as four-card lepton combinations in the card game](higgs-decay-four-card-combination-strategy.md)
+- [Hadronic ice-cream: free ice cream whose scoops represent quark flavors, with guests ordering mesons or baryons instead of single scoops](hadronic-ice-cream-quark-flavor-activity.md)
 
 ## Examples
 -

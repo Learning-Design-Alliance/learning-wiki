@@ -45,7 +45,8 @@ The experimental phase uses a transparent plastic bottle with a small orifice, a
 - [Undergraduates completing the viscous-film spreading project obtain a solution compatible with published fluid mechanics results with minimal instructor supervision.](../claims/pbl-viscous-film-minimal-supervision-solution.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a released plastic spring filmed with a digital camera as a home experiment to teach elastic waves](spring-digital-camera-elastic-wave-home-experiment.md)
 
 ## Examples
 -

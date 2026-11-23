@@ -53,3 +53,4 @@ Qualitative analysis of 27 think-aloud interviews conducted during Fall 2022, in
 - [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related
 - [Students seldom convert conceptual questions into quantitative ones, even when explicitly encouraged by an interviewer](students-avoid-conceptual-to-quantitative-conversion.md) — related
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
+- [Nuclear Beavers represents beta decay as a falling block converting between proton and neutron species](nuclear-beavers-beta-decay-emerges-naturally.md) — related

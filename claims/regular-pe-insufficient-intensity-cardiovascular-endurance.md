@@ -54,3 +54,4 @@ Authors' interpretation (type e) of the control groups' results in the discussio
 - [Single-component interventions (teacher training alone) appeared more promising for academic performance than combined or multicomponent PE interventions](single-intervention-strategies-more-effective.md) — related
 - [Students engage in activity for only about 40% of PE lesson time, and few after-school program observations meet physical activity targets](low-activity-levels-pe-and-asp-sessions.md) — related
 - [Single-sex groups increase girls' participation and teacher verbal feedback in physical activity settings](single-sex-groups-increase-girls-participation.md) — related
+- [A 4-week daily classroom physical activity break intervention shows no significant intention-to-treat effects on middle school students' cardiovascular endurance, upper body strength, abdominal strength, or flexibility](itt-null-classroom-pa-fitness-effects.md) — related

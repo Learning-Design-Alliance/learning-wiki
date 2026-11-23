@@ -52,3 +52,4 @@ Authors' observation from the Discussion section: a student brought her own game
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
 - [Real-world case studies in forensic physics enhance student engagement and motivation at the undergraduate level](real-world-forensic-cases-enhance-engagement.md) — related
+- [Anecdotal trial: a few children who played Quantum Focus became motivated to learn quantum mechanics](children-playing-quantum-focus-want-to-learn-quantum-mechanics.md) — related

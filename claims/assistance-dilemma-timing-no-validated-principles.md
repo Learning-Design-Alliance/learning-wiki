@@ -68,3 +68,4 @@ The article attributes this finding to prior work on productive failure; the rev
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
+- [A counting construction proves that synchronized global pacing can be insufficient when contexts need conflicting amounts of assisted practice](synchronized-global-pacing-insufficiency.md) — related

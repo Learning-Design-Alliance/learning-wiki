@@ -50,6 +50,7 @@ The review prescribes concrete safeguards for ethical tutoring-system deployment
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Deploy solar-powered edge devices with community review and local data governance for sustainable AI-driven education](solar-community-governed-edge-deployment.md)
 
 ## Examples
 -

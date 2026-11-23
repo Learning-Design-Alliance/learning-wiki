@@ -83,3 +83,4 @@ The review cites task- and model-specific accuracy investigations (Ding et al.; 
 - [SMART occasionally generates outlier responses with fidelity issues that are inaccurately scored and hurt difficulty prediction](smart-outlier-responses-fidelity-issues.md) — a narrower finding that bears on this claim
 - [Mistranslations of technical physics terms changed the physical meaning of specific FI questions, causing incorrect LLM answers despite sound reasoning](technical-term-mistranslations-change-physics-meaning.md) — related
 - [Anonymized vignettes illustrate differentiated trust strategies emerging after consequential AI failure](vignettes-differentiated-trust-strategies.md) — related
+- Information accuracy has a significant positive effect on trust in AI-generated health information in both experiments — related
