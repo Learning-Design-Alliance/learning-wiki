@@ -87,6 +87,7 @@ Peer explanation converts passive comprehension into generative processing: expl
 **[POGIL](https://pogil.org)** — Structured group roles in guided-inquiry activities assign explanation and reporting duties, ensuring every student periodically articulates reasoning.
 
 **Reciprocal Teaching (Palincsar & Brown)** — Students take turns explaining and questioning text segments in small groups; the explainer role rotates so all learners practice articulation.
+- [Prompt young children's self-explanations by having them explain the solution to another child, guided by open-ended step questions](../strategies/explain-to-another-child-self-explanation-prompt.md)
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

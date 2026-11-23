@@ -84,3 +84,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
 - [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related
 - [Cluster analysis of MCA coordinates identifies four student profiles differing in food access, dietary habits, and faculty composition](four-student-cluster-profiles-nutrition-academic.md) — related
+- [Two types of effective learners can be identified: anticipative reasoners and principle-based explorers](two-types-effective-learners.md) — related

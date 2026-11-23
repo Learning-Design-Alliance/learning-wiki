@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (131 show a difference, 39 mixed, 15 no difference) · 103 studies (50 associational, 32 causal, 11 review, 3 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 28 of 103 report an effect size · 182 claims rest on one study
+> **Evidence** · 193 claims (136 show a difference, 41 mixed, 16 no difference) · 106 studies (51 associational, 32 causal, 11 review, 5 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 106 report an effect size · 190 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -220,6 +220,14 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Anxiety-free self-concept mediated the association of short sedentary bouts and breaks with academic performance in girls](../claims/anxiety-free-self-concept-mediation-girls.md) [~M] — learners who differ on it differ in outcomes
 - [In boys, total and intellectual self-concept mediated only the association between 5–14 minute sedentary bouts and academic performance](../claims/self-concept-mediation-boys-only-5-14-min-bouts.md) [~M] — learners who differ on it differ in outcomes
 - [Total and intellectual self-concept mediate the association between all sedentary time patterns and academic performance in girls](../claims/self-concept-mediation-sedentary-academic-girls.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](../claims/social-comparison-paths-corresponding-self-concept.md) [+M] — measured as an outcome of the instruction studied
+- [Achievement in one subject has significantly negative paths to self-concept in the other, dissimilar subject (dimensional comparison contrast effects)](../claims/dimensional-comparison-negative-paths-math-l1.md) [+M] — measured as an outcome of the instruction studied
+- [Achievement levels have strongly positive effects on self-concepts within subjects and negative effects between subjects](../claims/achievement-levels-within-positive-between-negative-self-concept.md) [+M] — measured as an outcome of the instruction studied
+- [Mathematics and L1 achievements correlate strongly positively while mathematics and L1 self-concepts correlate near zero](../claims/achievement-high-self-concept-low-correlations.md) [-W] — learners who differ on it differ in outcomes
+- [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](../claims/asc-predicts-later-achievement-meta-analysis.md) [+M] — learners who differ on it differ in outcomes
+- [Prior achievement significantly predicts later academic self-concept after controlling for initial ASC (β = 0.16)](../claims/achievement-predicts-later-asc-meta-analysis.md) [+M] — measured as an outcome of the instruction studied
+- [Self-concept changes show small positive effects on subsequent achievements within subjects, examined for the first time, with between-subject effects positive or near-zero](../claims/self-concept-changes-positive-effects-on-achievements.md) [~W] — learners who differ on it differ in outcomes
+- [Subject similarity moderates dimensional comparison effects: strong contrast for dissimilar subjects, reduced contrast for similar verbal subjects, and near-zero effects for similar math/science subjects](../claims/subject-similarity-moderates-dimensional-comparison.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

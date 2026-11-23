@@ -53,3 +53,6 @@ Analysis of the Geometry96-97 dataset via LFA model discovery found a forward-vs
 - [A hypothesis-driven KC model splitting forward/backward only for circle and square area items predicts student performance best on the novel dataset](sqrt-skill-cir-sq-distinct-best-fit.md) — related
 - [In a novel dataset, forward-to-backward performance drops were specific to items requiring square-root application (circle and square area), supporting generalization of the hidden-difficulty interpretation](square-root-difficulty-generalizes-novel-dataset.md) — related
 - [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related
+- [The Embed difficulty factor increases the difficulty of Circle-area, with CAembed introduced after students have practiced CAalone](embed-factor-increases-circle-area-difficulty.md) — related
+- [LFA finds alternative cognitive models with better statistical fit than the original Geometry Area Unit model](lfa-improves-cognitive-model-fit.md) — related
+- [Searching from a merged model, LFA recovers most original skill distinctions but suggests Circle-circumference and Circle-diameter need not be separate skills](lfa-merged-model-skill-recovery.md) — related

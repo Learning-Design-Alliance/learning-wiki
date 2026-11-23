@@ -129,6 +129,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 - [Worked Example Routine](worked_example_routine.md) — a structured classroom routine that formalizes this cycle
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — an extension that pairs two worked examples for comparison
 - [Consider alternatives to self-explanation — instructional explanations, sequenced problem solving, retrieval practice — given its time demands](weigh-alternatives-to-self-explanation-time-demands.md)
+- [Present worked examples to novices and gradually fade them out as knowledge increases](fade-worked-examples-with-increasing-expertise.md)
 
 ## Examples
 - **Sweller & Cooper's algebra sequence (1985)** — alternating worked-example/problem pairs replaced conventional problem solving in algebra instruction, halving time-to-criterion while improving test accuracy.

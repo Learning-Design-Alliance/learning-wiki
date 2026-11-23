@@ -56,3 +56,4 @@ Interpretation of the two randomized experiments (combined n = 505): Experiment 
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [PS-I outperforms I-PS on the interpersonal-relationship strategy in the near-transfer scenario (Client B)](ps-i-better-interpersonal-strategy-near-transfer.md) — a narrower finding that bears on this claim
+- [In Experiment 2 there was no advantage for either procedure at Stage 1, with both groups performing at a high level](no-advantage-either-procedure-stage1-experiment2.md) — related

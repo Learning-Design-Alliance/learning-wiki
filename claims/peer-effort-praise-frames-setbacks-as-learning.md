@@ -49,3 +49,4 @@ Authors' interpretation of observed episodes in which students praised each othe
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
 - [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
+- [Process-focused praise and practices foster mastery orientation, persistence, and better performance under failure compared with person-focused ones](process-focus-better-than-person-focus.md) — related

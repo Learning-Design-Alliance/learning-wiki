@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (168 show a difference, 25 mixed, 33 no difference) · 185 studies (97 causal, 23 review, 17 qualitative, 15 associational, 15 design, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 185 report an effect size · 220 claims rest on one study
+> **Evidence** · 229 claims (169 show a difference, 26 mixed, 34 no difference) · 187 studies (99 causal, 23 review, 17 qualitative, 15 associational, 15 design, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 36 of 187 report an effect size · 223 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -264,6 +264,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Quiz-based feedback methods showed a consistent but non-significant trend of stronger performance on novel post-learning tasks involving new concept combinations](../claims/quiz-feedback-trend-novel-task-transfer.md) [-M] — measured as an outcome of the instruction studied
 - [Mechanics Baseline problem-solving scores correlate strongly with FCI conceptual scores, supporting that IE methods enhance problem-solving ability](../claims/mb-fci-correlation-ie-problem-solving.md) [+M] — learners who differ on it differ in outcomes
 - [LLM problem-solving ability has little bearing on error localization accuracy](../claims/problem-solving-ability-weakly-correlated-error-localization.md) [-M] — learners who differ on it differ in outcomes
+- [Concurrent strategy assessment did not significantly alter problem-solving latencies](../claims/concurrent-strategy-assessment-no-reactivity.md) [-M] — measured as an outcome of the instruction studied
+- [ICC students transferred an understanding of ratio rather than a multiple-case strategy, maintaining their advantage on a single-case transfer problem](../claims/transferred-ratio-not-case-strategy.md) [+W] — measured as an outcome of the instruction studied
+- [Practice reduces latency and increases accuracy for practiced problems while novel-problem performance stays constant](../claims/practice-latency-accuracy-practiced-vs-novel-pyramid.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

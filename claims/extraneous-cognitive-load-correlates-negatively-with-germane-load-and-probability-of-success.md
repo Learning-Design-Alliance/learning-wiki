@@ -77,3 +77,4 @@ Same correlational analysis, CLM extraneous subscale against QCM: "extraneous co
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related
 - [Germane load showed a degree of negative correlation with total score and CA2, suggesting assessment policies may not reward deep reflection](germane-load-negative-correlation-ca2.md) — related
+- [A partial overlap exists between the motivational subdimension probability of success and a cognitive load measure](probability-of-success-overlaps-cognitive-load.md) — related

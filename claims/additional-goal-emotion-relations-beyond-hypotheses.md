@@ -54,3 +54,4 @@ Additional associations from the same ESM multilevel models (1409 assessments, 1
 - [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](state-performance-goals-predict-pride-anxiety-shame-within-persons.md) — related
 - [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) — related
 - [Intraindividual and interindividual correlations between achievement goals and emotions are statistically independent yet empirically convergent, with goals and emotions less correlated within persons](intra-interindividual-correlations-independent-yet-convergent.md) — related
+- [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — related

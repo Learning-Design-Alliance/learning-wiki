@@ -253,3 +253,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](explaining-may-not-promote-active-sense-making.md) — related
 - [Prompting LLMs to explain before answering improves their accuracy on mechanics conceptual questions](explanation-first-prompting-improves-llm-mechanics-accuracy.md) — related
 - [Adding self-explanation prompts to tutored practice produced greater explanation ability and conceptual transfer without extra instructional time](self-explanation-prompts-improve-transfer.md) — a narrower finding that bears on this claim
+- [Most self-explanation characteristics can be regarded as relatively stable person characteristics generalizable across examples](self-explanation-characteristics-stable.md) — a narrower finding that bears on this claim

@@ -60,3 +60,4 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Young students' age-related cognitive capacities and self-regulatory strategies are proposed as potential boundary conditions limiting their benefit from Productive Failure](age-related-boundary-conditions-productive-failure.md) — related
 - [Model-based learning emerges in adolescence in standard paradigms but 5-year-old children use it in simplified paradigms with higher rewards](model-based-learning-paradigm-moderation.md) — related
 - [Neither sex nor age was significantly associated with executive function scores in the 6–9-year-old sample](sex-age-not-associated-executive-functions.md) — related
+- [Under high support and practice, reflective judgment shows developmental spurts between ages 18-20 and 23-25/26, but the hypothesized 14-15 spurt appears only in stage-specific and highest-stage data](prji-developmental-spurts-18-20-23-25.md) — related

@@ -53,3 +53,4 @@ The review reports Marwiang et al. (2025)'s comparison of learners using the sam
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — a broader claim this one bears on
 - [Implementation intention formation enhances accessibility of specified opportunities and automates goal-directed responses](implementation-intentions-component-processes-accessibility-automation.md) — related
 - [A mathematics game with embedded diagnostic mechanisms enhanced students' interest and reduced their mathematics anxiety](diagnostic-mechanism-math-game-interest-anxiety.md) — related
+- [Learner-adapted instruction based on rapid diagnostic monitoring produced significantly higher knowledge gains than randomly assigned instruction](learner-adapted-format-higher-gains.md) — related

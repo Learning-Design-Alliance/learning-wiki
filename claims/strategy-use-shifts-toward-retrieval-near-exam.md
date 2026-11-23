@@ -49,3 +49,4 @@ Descriptive analyses of daily strategy use across the four course weeks (Table 4
 - [Formulating implementation intentions did not increase university students' use of distributed practice during a four-week course](implementation-intentions-no-increase-distributed-practice.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](strategy-reports-shift-to-retrieval-with-practice.md) — related

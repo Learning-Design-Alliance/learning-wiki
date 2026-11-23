@@ -50,3 +50,5 @@ Analytical argument (with an algebraic rearrangement of the I/E regression equat
 - [Within-domain effects in the difference I/E model decrease after controlling for between-domain effects when classic I/E between-domain effects are negative](difference-ie-within-effects-decrease-controlling-between-domain.md) — related
 - [Negative frame-of-reference effects are hypothesized to be truncated in pure self-efficacy measures relative to self-concept measures](frame-of-reference-effects-truncated-pure-self-efficacy-hypothesis.md) — related
 - [Structural assessment measures domain understanding differently from verbal assessment](structural-assessment-differs-from-verbal-assessment.md) — related
+- [Achievement levels have strongly positive effects on self-concepts within subjects and negative effects between subjects](achievement-levels-within-positive-between-negative-self-concept.md) — related
+- [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related

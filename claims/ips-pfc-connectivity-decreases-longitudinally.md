@@ -52,3 +52,4 @@ Whole-brain voxelwise hierarchical linear modeling of gPPI task-related connecti
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
 - Age-related connectivity changes persist after controlling for head motion, which itself decreases with age — related
 - [Richer home numeracy experiences are associated with stronger number-specific functional connectivity between the left IPS and other regions.](home-numeracy-positive-ips-connectivity.md) — related
+- [fMRI activation in HIPS, motor cortex, and LIPFC tracks the probability of being in different learning states](fmri-roi-activation-tracks-learning-states.md) — related

@@ -60,3 +60,4 @@ The review's assumption-check analysis (Table 1) found "the unidimensionality as
 - [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md)
 - Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales — related
 - [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related
+- [Quality of self-explanations is a multidimensional construct rather than a unidimensional one](self-explanation-quality-multidimensional.md) — related

@@ -46,3 +46,4 @@ Within-subjects experiment (N=36) using the Remember/Know paradigm after each vi
 - [History retention quiz scores are significantly lower under the digital-self agent than under the non-self agent](digital-self-lowers-history-retention.md) — related
 - [In Experiment 1, reminder+interference yielded greater recollection strength than interference alone on Remember/Know judgments](exp1-remember-know-interaction-opposite-prediction.md) — related
 - [Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues](training-shifts-cues-away-from-familiarity.md) — related
+- [Know responses in the remember/know procedure underestimate familiarity; an independence correction is required](know-responses-underestimate-familiarity.md) — related

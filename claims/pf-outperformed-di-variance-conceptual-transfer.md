@@ -68,3 +68,4 @@ Classroom-based study with 9th-grade students learning the concept of variance; 
 - [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — related
 - [PF problem-solving before instruction activates prior knowledge and generates multiple, non-canonical solution pathways](pf-activates-prior-knowledge-multiple-pathways.md) — related
 - [PF and DI produce similar initial programming performance on Python list tasks immediately after instruction](pf-di-similar-initial-python-list-performance.md) — related
+- [Invention activities produce better conceptual attempts on the standardization problem than tell-and-practice, while tell-and-practice produces better performance on the variability problem](invention-vs-tell-and-practice-learning-performance.md) — related

@@ -125,3 +125,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — related
 - [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — related
 - [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — related
+- [Intervention programs designed to promote parents' involvement show weaker and sometimes negative effects in internally valid studies](involvement-interventions-weak-effects.md) — reports the opposite

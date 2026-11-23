@@ -66,6 +66,7 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
 - [Balance structure and open-endedness by scaffolding agency with modeling, coaching, and fading support](scaffold-agency-modeling-coaching-fading.md)
 - [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](less-structured-problems-scaffolding-fading-strategy.md)
+- [Present worked examples to novices and gradually fade them out as knowledge increases](fade-worked-examples-with-increasing-expertise.md)
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the modeled–guided–independent practice arc is its central structure

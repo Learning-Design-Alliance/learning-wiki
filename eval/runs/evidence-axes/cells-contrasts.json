@@ -133686,5 +133686,137 @@
  "interleaving\tmixed practice\tblocked practice": {
   "label": "interleaved practice vs blocked practice",
   "treatment_is_a": true
+ },
+ "active-learning\tEnd-of-semester free-response conceptual questions\tpre-discussion ConcepTest responses": {
+  "label": "End-of-semester free-response conceptual questions vs pre-discussion ConcepTest responses",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction\ttraditional lecturing": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction across 1991–1997\ttraditional instruction in 1990": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction course\ttraditionally taught course": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction in Spring 2000\ttraditional instruction in Spring 1999": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with ConcepTests and peer discussion\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with conceptual peer discussion\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with cooperative problem-solving activities\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with peer discussion\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with problem solving in discussion sections and homework\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with problem-solving workshops and homework\ttraditional instruction": {
+  "label": "Peer Instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion after individual answer\tindividual answer before discussion": {
+  "label": "Peer discussion after individual answering vs individual answering without peer discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tpostcourse Peer Instruction survey\tprecourse survey": {
+  "label": "Postcourse survey vs precourse survey",
+  "treatment_is_a": true
+ },
+ "active-learning\trefined Peer Instruction in 1993–1997\tearlier Peer Instruction implementation in 1991": {
+  "label": "Refined Peer Instruction vs earlier Peer Instruction implementation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparents viewed as autonomy supportive\tparents viewed as controlling": {
+  "label": "autonomy-supportive parenting vs controlling parenting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparents' autonomy support\tparents' controlling involvement": {
+  "label": "autonomy-supportive parenting vs controlling parenting",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinventing with contrasting cases\ttell-and-practice with contrasting cases": {
+  "label": "Inventing vs tell-and-practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinventing with contrasting cases\ttell-and-practice": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinventing with contrasting cases (ICC)\ttell-and-practice (T&P)": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinventing with contrasting cases before being told\ttell-and-practice: explicit concepts and formulas before practice": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinventing with contrasting cases before telling\ttell-and-practice instruction": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinventing with contrasting cases; concepts and formulas told afterward\ttell-and-practice; concepts and formulas told beforehand": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinventing with contrasting cases; concepts told afterward\ttell-and-practice; concepts and formulas told beforehand": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinvention activities\ttell-and-practice activities": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\ttell-and-practice before contrasting cases\tinvent with contrasting cases before telling": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttell-and-practice before worksheet\tinventing with contrasting cases before explicit instruction": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttell-and-practice instruction\tinvention activities": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttell-and-practice: formulas and concepts before cases\tinventing with contrasting cases: invent first, explicit instruction afterward": {
+  "label": "explicit instruction vs invention",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlearner-adapted sequence based on rapid diagnostic performance\trandomly assigned instructional-format sequence": {
+  "label": "adaptive vs non-adaptive instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with additional explanatory text\tanimation without additional explanatory text": {
+  "label": "animation with additional explanatory text vs animation without additional explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with additional explanatory text\tanimation without additional text": {
+  "label": "animation with additional explanatory text vs animation without additional explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated worked examples\tsplit-source worked examples": {
+  "label": "integrated worked examples vs split-source worked examples",
+  "treatment_is_a": true
  }
 }

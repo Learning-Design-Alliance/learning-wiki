@@ -51,3 +51,4 @@ KC model comparison on the 2012 dataset using AIC, BIC, and 10-fold item- and st
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related
 - [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md) — a broader claim this one bears on
 - [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related
+- [Searching from a merged model, LFA recovers most original skill distinctions but suggests Circle-circumference and Circle-diameter need not be separate skills](lfa-merged-model-skill-recovery.md) — related

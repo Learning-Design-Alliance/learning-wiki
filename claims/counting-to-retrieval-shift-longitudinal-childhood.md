@@ -51,3 +51,4 @@ Longitudinal behavioral strategy assessment in 28 children ages 7-9 at two time 
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
 - [Trial-level analysis replicates discrete-trials effects: fluency decreases with problem size, is faster for addition than subtraction, and increases across grade](rpm-replicates-operation-problem-size-grade-effects.md) — related
+- [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](strategy-reports-shift-to-retrieval-with-practice.md) — related

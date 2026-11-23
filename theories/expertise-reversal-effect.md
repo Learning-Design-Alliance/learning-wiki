@@ -13,7 +13,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (11 for, 4 mixed, 1 against) · 17 studies (7 review, 6 causal, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 17 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (16 for, 4 mixed, 1 against) · 20 studies (9 causal, 7 review, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 2 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
@@ -36,6 +36,11 @@ The expertise reversal effect is the idea that instructional guidance that helps
 - [Less experienced users benefit more from XR training, though evidence is mixed across longitudinal studies](../claims/novices-benefit-more-from-xr-training.md) [+W]
 - [Programming language and prior experience interact on GUI-programming exam success: novices do better with the blocks-based language, experienced students with the text-based language](../claims/language-experience-interaction-gui-exam.md) [+W]
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](../claims/no-interaction-approach-mpk-mpsa.md) [~W]
+- [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](../claims/expertise-reversal-interaction-rapid-test.md) [+W] — attached 2026-11-23 from Slava Kalyuga et al. (2004), which proposed "Cognitive load theory account of the expertise reversal effect via schemas and long-term working memory"; tests this page's relationship.
+- [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](../claims/worked-examples-superior-for-inexperienced-learners.md) [+W] — attached 2026-11-23 from Kalyuga et al. (2001), which proposed "Expertise-reversal account within cognitive load theory: guidance that helps novices becomes redundant and burdensome as expertise grows".
+- [For more experienced learners, problem solving proved superior to studying worked examples (a redundancy effect) in Experiment 2](../claims/redundancy-effect-problem-solving-superior-experienced-learners.md) [+W] — attached 2026-11-23 from Kalyuga et al. (2001), which proposed "Expertise-reversal account within cognitive load theory: guidance that helps novices becomes redundant and burdensome as expertise grows"; tests this page's relationship.
+- [Novices benefit from additional on-screen text explaining animations while experts are impaired by it on the retention test (expertise reversal for the redundancy principle)](../claims/expertise-reversal-redundancy-retention.md) [+M] — attached 2026-11-23 from Günter Daniel Rey (2011), which proposed "Expertise reversal effect within cognitive load theory"; tests this page's relationship.
+- [The expertise reversal for the redundancy principle also appears on transfer: additional text raises novices' transfer scores but lowers experts'](../claims/expertise-reversal-redundancy-transfer.md) [+M] — attached 2026-11-23 from Günter Daniel Rey (2011), which proposed "Expertise reversal effect within cognitive load theory"; tests this page's relationship.
 
 ## The evidence by question
 - *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+S]

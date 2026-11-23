@@ -58,3 +58,4 @@ T2 structural mediation model (N = 216) testing H5–H7; the article reports DE 
 - [In one uncontrolled pre-post study, self-reported creative self-efficacy and psychological empowerment responses fell overall from pretest to posttest but rose significantly from pretest to posttest in 2023](hcd-workshop-gains-year-interaction.md) — related
 - [Academic motivation significantly and positively predicts students' mental well-being (β = 0.317)](acm-positive-predicts-mental-wellbeing.md) — related
 - [Medical students' academic adaptability positively predicts immersion in learning (Beta = 0.655, P<0.01)](adaptability-positively-predicts-immersion-learning.md) — related
+- [Math self-efficacy positively predicted behavioral, cognitive, emotional, and social engagement in math](math-self-efficacy-predicts-all-engagement-dimensions.md) — related

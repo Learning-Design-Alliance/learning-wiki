@@ -55,3 +55,4 @@ Interindividual multiple regression on trait assessments (480 cases: 120 student
 - [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) — related
 - [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](state-performance-goals-predict-pride-anxiety-shame-within-persons.md) — related
 - [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](session-specific-performance-goals-student-experiences.md) — related
+- [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — a broader claim this one bears on

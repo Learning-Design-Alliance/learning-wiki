@@ -70,3 +70,4 @@ Linear mixed effects models (Model 6) on N = 40,516 students nested in programs 
 - [Grade distributions compressed upward, with a growing proportion of students obtaining the maximum 4.0 grade in recent years](grade-distribution-compression-toward-4-0.md) — a narrower finding that bears on this claim
 - [Grade-inflation trajectories varied substantially across academic programs, with some programs showing downward trends and no systematic STEM versus non-STEM differences](program-trajectories-heterogeneous-no-stem-difference.md) — related
 - [Odds of a first-class STEM degree rose from 2015/16 and peaked in 2020/21 during COVID-19, while mean Tariff scores declined, suggesting possible grade inflation](first-class-odds-rose-peak-2020-21-grade-inflation.md) — related
+- [MBA GPA is less reliable than undergraduate GPA, attributed to grade-inflation ceiling effects and group projects](mba-gpa-lower-reliability.md) — related

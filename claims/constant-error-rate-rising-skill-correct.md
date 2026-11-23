@@ -70,3 +70,4 @@ The same 88 students' actions restricted to a single skill (area of a regular po
 - [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](singing-accuracy-negatively-accurated-repetition-curve.md) — related
 - [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Practice reduces latency and increases accuracy for practiced problems while novel-problem performance stays constant](practice-latency-accuracy-practiced-vs-novel-pyramid.md) — related

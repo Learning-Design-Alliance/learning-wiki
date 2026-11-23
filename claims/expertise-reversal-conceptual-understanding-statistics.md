@@ -54,3 +54,4 @@ Two-way ANOVA (instructional method × prior knowledge group) on conceptual unde
 - [Most existing task complexity frameworks rely on objective measures and neglect learner expertise](complexity-frameworks-neglect-expertise.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
 - [Overall choice frequency did not differ by condition or prior knowledge, but the condition pattern reversed across prior-knowledge groups](choice-frequency-pk-condition-reversal.md) — related
+- [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](expertise-reversal-interaction-rapid-test.md) — a narrower finding that bears on this claim

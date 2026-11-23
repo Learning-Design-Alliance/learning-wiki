@@ -78,3 +78,4 @@ Same factorial experiment, follow-up within the higher-prior-knowledge group: th
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](prior-knowledge-moderates-algebra-outcomes.md) — related
 - [In Experiment 1, the effect of worked-example assignments did not differ between low and high prior knowledge students](exp1-no-prior-knowledge-interaction.md) — related
+- [For more knowledgeable learners, problem solving showed only a non-significant trend over worked examples (f = 0.36)](problem-solving-trend-experts-not-significant.md) — related

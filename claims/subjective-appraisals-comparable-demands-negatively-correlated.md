@@ -50,3 +50,4 @@ Exploratory ANOVAs (RQ3, Table 3) on six subjective-appraisal measures showed no
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related
 - [The order of video and virtual experiments (video-virtual vs. virtual-video) does not affect conceptual understanding in remote inquiry learning](experiment-sequence-no-effect-remote-inquiry.md) — related
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
+- [Negative monitoring statements (stating lack of understanding) are negatively correlated with post-test performance](negative-monitoring-correlates-poorer-performance.md) — related

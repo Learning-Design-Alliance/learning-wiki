@@ -44,4 +44,4 @@ For RL-based learning path recommendation, where evaluating a tutoring strategy 
 -
 
 ## Key Sources
-- Choi, Y., Lee, Y., Shin, D., Cho, J., Park, S., Lee, S., Baek, J., Bae, C., Kim, B., Heo, J. (2020). EdNet: A Large-Scale Hierarchical Dataset in Education. https://arxiv.org/abs/1912.03072
+- Choi, Y., Lee, Y., Shin, D., Cho, J., Park, S., Lee, S., Baek, J., Bae, C., Kim, B., Heo, J. (2020). EdNet: A Large-Scale Hierarchical Dataset in Education. https://arxiv.org/abs/1912.03072. [doi:10.1007/978-3-030-52240-7_13](https://doi.org/10.1007/978-3-030-52240-7_13)

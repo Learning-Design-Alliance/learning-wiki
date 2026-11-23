@@ -127,3 +127,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Computerized feedback (VocSyl) outperformed a pacing board and active control on multisyllabic speech outcomes in children with speech impairments including ASD](vocsyl-computerized-feedback-speech-productions.md) — related
 - [The review reports, citing Didehbani et al., that young adults with high-functioning autism showed significant increases on social cognitive measures after VR social cognition training](vr-social-cognition-training-autism-significant-gains.md) — related
 - [Protocol hypothesizes TeachTown will improve cognitive ability, language, school readiness, and social skills of students with autism](teachtown-student-outcome-hypotheses.md) — related
+- [Intervention programs designed to promote parents' involvement show weaker and sometimes negative effects in internally valid studies](involvement-interventions-weak-effects.md) — reports the opposite

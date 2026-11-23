@@ -52,3 +52,4 @@ One-way ANOVAs in the course sample compared male and female students on EPIC an
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — reports the opposite
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — reports the opposite
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related
+- [Female students report higher school membership than males, with no middle- versus high-school difference](pssm-gender-difference-no-school-level-decline.md) — related

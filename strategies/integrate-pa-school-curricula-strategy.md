@@ -52,6 +52,7 @@ The article recommends that schools increase physical activity in daily curricul
 ## Related Strategies
 
 - [Develop physical activity or sports programs that strengthen peer relationships to improve the academic performance of adolescents experiencing depression](sports-programs-strengthen-peer-relationships-strategy.md)
+- [Teachers can foster students' achievements across subjects by fostering self-concepts and supporting awareness of self-concept increases](foster-self-concepts-to-enhance-achievements.md)
 
 ## Examples
 -

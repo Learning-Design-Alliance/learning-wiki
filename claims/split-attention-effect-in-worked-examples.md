@@ -91,3 +91,6 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 - [For novice learners, worked examples are more effective and often more efficient than conventional problem solving (the worked example effect)](worked-example-effect-novices-review.md) — related
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — related
+- [Children studying integrated worked examples outperformed those studying split-source examples on acquisition and delayed similar-problem tests](integrated-beats-split-source-compare-problems.md) — related
+- [Integrated worked examples elicited more correct inferences and more solution-linked rereads than split-source examples](integrated-examples-inference-making-rereads.md) — a narrower finding that bears on this claim
+- [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](worked-examples-superior-for-inexperienced-learners.md) — related

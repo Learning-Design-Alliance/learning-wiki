@@ -52,3 +52,4 @@ Principal Component Analysis on matched pre- and post-survey question scores; th
 - [PLIC shows course-level test-retest reliability: pre-survey means do not differ across semesters after correction](plic-test-retest-reliability.md) — related
 - [Student scores increase from pre- to post-survey on all outcome constructs, with ceiling effects on self-efficacy and perceived agency](pre-post-gains-all-constructs-ceiling.md) — related
 - [Within both lab conditions, scores rose from pre-test to post-test on all five constructs, with the largest Cohen's d for self-efficacy (d > 0.8)](prepost-gains-all-constructs-both-labs.md) — related
+- [Quality of self-explanations is a multidimensional construct rather than a unidimensional one](self-explanation-quality-multidimensional.md) — related

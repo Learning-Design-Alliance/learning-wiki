@@ -48,3 +48,4 @@ Confirmatory factor analysis within SEM (Mplus 7, maximum likelihood) on the blo
 - [Block teaching produced more positive perceptions of the biostatistics course than traditional didactic teaching among medical postgraduates](block-teaching-more-positive-biostatistics-perceptions.md) — related
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — related
+- [The ability confound hypothesis for normative goal-achievement links is unsupported](ability-confound-hypothesis-unsupported.md) — related

@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (17 for, 21 mixed, 2 against) · 32 studies (16 causal, 6 review, 4 design, 4 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 32 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (19 for, 21 mixed, 2 against) · 33 studies (17 causal, 6 review, 4 design, 4 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 33 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -93,6 +93,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-explanation after worked/completion example pairs yields higher post-test problem-solving (near transfer) performance than concept map completion or model concept map study in novice physiotherapy students](../claims/self-explanation-higher-posttest-problem-solving-physiotherapy.md) [~M] — attached 2026-11-09 from Dyer et al. (2015), which proposed "Combine worked/completion example pairs with an additional integrative activity chosen for the target outcome".
 - [The four-step worked-example approach was implemented across multiple theoretical physics courses with active student participation and most students solving the final problem](../claims/four-step-worked-examples-feasible-upper-division-physics.md) [+W] — attached 2026-11-19 from Philipp Scheiger et al. (2023), which proposed "Four-step worked-example sequence: fully elaborated example, written self-explanations, error finding and correction, then independent problem solving".
 - [The Lagrangian mechanics four-step example was tested in a 90-minute online seminar with satisfying student performance](../claims/lagrangian-example-90min-seminar-test.md) [+W] — attached 2026-11-19 from Philipp Scheiger et al. (2023), which proposed "Four-step worked-example sequence: fully elaborated example, written self-explanations, error finding and correction, then independent problem solving".
+- [Children studying integrated worked examples outperformed those studying split-source examples on acquisition and delayed similar-problem tests](../claims/integrated-beats-split-source-compare-problems.md) [+W] — attached 2026-11-23 from Wangari Mwangi et al. (1998), which proposed "Integrate solution steps into the relevant sections of word-problem story text rather than presenting them as a separate source".
+- [Integrated worked examples elicited more correct inferences and more solution-linked rereads than split-source examples](../claims/integrated-examples-inference-making-rereads.md) [+W] — attached 2026-11-23 from Wangari Mwangi et al. (1998), which proposed "Integrate solution steps into the relevant sections of word-problem story text rather than presenting them as a separate source".
 
 ## Illustrative design instance and observation record
 

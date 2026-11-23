@@ -87,3 +87,4 @@ Post-hoc paired samples t-tests on response times (Table 2) in Experiment 1 (40 
 - [In Experiment 1, reminder+interference produced better associative recognition than interference alone, contrary to reconsolidation-interference predictions](exp1-reminder-interference-better-than-interference-alone.md) — related
 - [In Experiment 1, reminder+interference yielded greater recollection strength than interference alone on Remember/Know judgments](exp1-remember-know-interaction-opposite-prediction.md) — related
 - [Across item recognition, associative recognition, and free recall paradigms, reminder-potentiated behavioural interference did not impair declarative memory within-subjects](no-behavioural-reconsolidation-interference-within-subjects.md) — a broader claim this one bears on
+- [Familiarity-based recognition discriminations are made faster than recollection-based discriminations](familiarity-faster-than-recollection.md) — related

@@ -51,3 +51,6 @@ Automated LFA search over Q matrices was run on eleven DataShop datasets across 
 - [LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines](lt-mkt-outperforms-kt-baselines-four-datasets.md) — related
 - [A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit](datashop-model-improved-geometry-mastery.md) — related
 - [A hypothesis-driven KC model splitting forward/backward only for circle and square area items predicts student performance best on the novel dataset](sqrt-skill-cir-sq-distinct-best-fit.md) — a narrower finding that bears on this claim
+- [LFA finds alternative cognitive models with better statistical fit than the original Geometry Area Unit model](lfa-improves-cognitive-model-fit.md) — a narrower finding that bears on this claim
+- The LFA implementation evaluates a single model in seconds and searches hundreds of models in 4-5 hours — related
+- [Searching from a merged model, LFA recovers most original skill distinctions but suggests Circle-circumference and Circle-diameter need not be separate skills](lfa-merged-model-skill-recovery.md) — a narrower finding that bears on this claim

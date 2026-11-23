@@ -56,3 +56,4 @@ SEM path analysis in the same sample of 343 learners found PE significantly pred
 - [Exhaustion mediates links of demands and both grit facets to depression and life satisfaction; engagement mediates perseverance of effort to life satisfaction](exhaustion-engagement-mediation-paths.md) — related
 - [Only perseverance of effort, not consistency of interests, is positively related to schoolwork engagement](perseverance-effort-engagement-consistency-null.md) — related
 - [Grit-perseverance, but not grit-passion, is significantly and positively related to college academic performance](perseverance-not-passion-predicts-grades.md) — related
+- [Only perseverance of effort significantly predicted math self-efficacy among Chinese primary school students in Macau](perseverance-predicts-math-self-efficacy-macau.md) — related

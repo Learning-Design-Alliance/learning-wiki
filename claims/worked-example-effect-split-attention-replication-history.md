@@ -70,3 +70,4 @@ The article reports that data indicated the worked example effect could be obtai
 - [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — a broader claim this one bears on
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — related
+- [Year 3 children studying worked examples made significantly fewer incorrect attempts than children solving equivalent conventional problems](worked-examples-fewer-incorrect-attempts-young-children.md) — related

@@ -56,3 +56,4 @@ Regression analysis reported in the Discussion of results from both school group
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](mvpa-steps-predict-math-scores-middle-school.md) — related
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — reports the opposite
 - [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — reports the opposite
+- [Sex did not predict math anxiety, engagement, or achievement; general anxiety positively predicted all three MA dimensions](covariate-effects-sex-general-anxiety-ma.md) — related

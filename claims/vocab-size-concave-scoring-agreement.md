@@ -50,3 +50,4 @@ Bayesian meta-regression of 890 QWK observations. The quadratic vocabulary effec
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — a broader claim this one bears on
 - [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](task-difficulty-linear-metacognitive-strategies.md) — a broader claim this one bears on
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — a broader claim this one bears on
+- [No diminishing return relation between self-explanations and learning gains was found](no-diminishing-return-self-explanations.md) — related

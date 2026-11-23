@@ -57,3 +57,4 @@ Within-class comparisons in the group-randomized trial using the Services Assess
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
 - [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
+- [Students receiving school-based counseling were concentrated in the Low PSSM group, suggesting diagnostic value](pssm-low-scores-counseled-students.md) — related

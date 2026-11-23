@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (21 for, 17 mixed) · 40 studies (17 causal, 6 theoretical, 5 quant-synthesis, 5 review, 5 associational, 2 qualitative), `q1`–`q4` · 9 of 40 report an effect size · 32 claims rest on one study
+> **Evidence** · 39 claims (22 for, 17 mixed) · 41 studies (18 causal, 6 theoretical, 5 quant-synthesis, 5 review, 5 associational, 2 qualitative), `q1`–`q4` · 9 of 41 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -111,6 +111,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Once students commit to and externalize an answer, they become emotionally invested and pay far more attention to subsequent discussion](../claims/ccs-answer-commitment-boosts-attention.md) [+W] — attached 2026-11-22 from Ian Beatty (2004), which proposed "Designing CCS questions around pedagogic goals, ambiguity, and divisive answer distributions"; tests this page's relationship.
 - [Clickers add no significant conceptual-learning or problem-solving benefit over flashcards within Peer Instruction](../claims/clickers-no-added-learning-benefit-over-flashcards.md) [~W] — attached 2026-11-22 from N. Lasry (2004), which proposed "Implement Peer Instruction with low-budget flashcards when clicker costs are prohibitive, because the pedagogy is effective regardless of response modality".
 - [Clicker and flashcard groups did not differ significantly in FCI score at the start or end of the semester](../claims/clicker-flashcard-fci-pre-post-no-difference.md) [~W] — attached 2026-11-22 from N. Lasry (2004), which proposed "Implement Peer Instruction with low-budget flashcards when clicker costs are prohibitive, because the pedagogy is effective regardless of response modality".
+- [Peer discussion substantially increases the number of students answering a ConcepTest correctly when the initial percentage correct is between 35% and 70%, and students rarely change from correct to incorrect (6%)](../claims/pi-discussion-increases-conceptest-correct-answers.md) [+W] — attached 2026-11-23 from Catherine H. Crouch et al. (2001), which proposed "Select ConcepTests of intermediate difficulty so that 35%–70% of students answer correctly before discussion"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

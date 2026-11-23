@@ -50,3 +50,4 @@ Controlled experiments adding concurrent on-screen text to narrated animations o
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — reports the opposite
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — a broader claim this one bears on
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
+- [Novices benefit from additional on-screen text explaining animations while experts are impaired by it on the retention test (expertise reversal for the redundancy principle)](expertise-reversal-redundancy-retention.md) — related

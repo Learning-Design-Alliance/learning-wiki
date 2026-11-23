@@ -50,3 +50,4 @@ Moderator analysis across the meta-analytic data set (Tables 2–3), with printe
 - [MAv goals correlate negatively with performance in education (r = -.13) but are unrelated in sports (r = .02)](mav-negative-education-unrelated-sports.md) — related
 - [Achievement domain moderates the PAv goal–performance correlation: negative in work (r = -.20) and education (r = -.14) but not significant in sports (r = -.04)](pav-negative-education-work-not-sports.md) — related
 - [In the sports domain, approach goals correlate positively with performance while avoidance goals are unrelated to performance; in education, all four goal types relate significantly to performance](sports-approach-positive-avoidance-null.md) — related
+- [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite

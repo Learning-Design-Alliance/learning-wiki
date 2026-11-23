@@ -52,3 +52,4 @@ The review reports Huang's meta-analysis of "data from 39 independent samples", 
 - [A meta-analysis of 68 longitudinal studies found prior achievement predicted subsequent self-concept and prior self-concept predicted subsequent achievement](wu-2021-meta-analysis-reciprocal-self-concept-achievement.md) — related
 - [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — related
+- [Prior achievement significantly predicts later academic self-concept after controlling for initial ASC (β = 0.16)](achievement-predicts-later-asc-meta-analysis.md) — related

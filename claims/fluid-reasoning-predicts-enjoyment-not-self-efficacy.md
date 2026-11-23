@@ -53,3 +53,4 @@ SEM result for fluid reasoning (ICAR Letter and Number Series, 9 items, 30 s per
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
+- [Adaptability to situations positively predicted cognitive, emotional, and social math engagement](adaptability-predicts-cognitive-emotional-social-engagement.md) — related

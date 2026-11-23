@@ -56,3 +56,4 @@ Internal structure analysis across the eight simulator metrics in each of two te
 - [The VR assessment shows high interscenario reliability (Cronbach α of 0.82) adequate for summative assessment](vr-assessment-cronbach-alpha-082.md) — related
 - [The complete VR TTE test shows high internal consistency reliability (alpha = .88) and consistent performer performance (ICC r(35) = .81)](vr-tte-test-reliability-alpha-icc.md) — related
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related

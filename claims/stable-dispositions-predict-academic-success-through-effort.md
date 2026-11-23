@@ -65,3 +65,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — a narrower finding that bears on this claim
 - [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related
 - [Conscientiousness robustly predicts academic performance beyond cognitive ability](conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) — related
+- [Only perseverance of effort significantly predicted math self-efficacy among Chinese primary school students in Macau](perseverance-predicts-math-self-efficacy-macau.md) — a narrower finding that bears on this claim

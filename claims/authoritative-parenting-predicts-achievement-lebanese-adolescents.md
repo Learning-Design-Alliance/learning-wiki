@@ -51,3 +51,4 @@ Multivariate linear regression (Model 2) in a two-wave study of 345 adolescents 
 - [Attending a private school and being younger are independently associated with higher academic achievement](private-school-younger-age-higher-achievement.md) — related
 - [Parenting style relates to achievement indirectly through self-efficacy alone and through intention alone](indirect-effects-self-efficacy-intention-separately.md) — related
 - [Increases in adherence to the Mediterranean diet are associated with increases in academic achievement among Lebanese adolescents at both 6- and 12-month follow-up](mediterranean-diet-adherence-increase-associated-academic-achievement.md) — related
+- [Parents' positive perceptions of children's academic competence foreshadow children's achievement even after adjusting for earlier achievement](parent-positive-beliefs-foreshadow-achievement.md) — related

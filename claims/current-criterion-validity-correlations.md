@@ -48,3 +48,4 @@ Criterion-validity analysis correlating CURrENT scores with independent measures
 ## Related Claims
 - [CURrENT scores correlate highly with students' final exams and course grades in junior E&M](current-scores-correlate-with-final-exams-and-grades.md) — possibly the same claim (merge candidate)
 - [CMR CUE scores show criterion validity comparable to the FR version](cmr-cue-criterion-validity.md) — related
+- [Overall GPA correlates most strongly with reliably measured individual performance (final exam .65) and less with group project (.49) and participation (.34) grades](gpa-correlates-with-individual-course-measures.md) — related

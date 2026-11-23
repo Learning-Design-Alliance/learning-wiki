@@ -56,3 +56,4 @@ Reliability analysis in the psychometric-testing stage with 441 undergraduate st
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
 - [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related
 - [The C-SCCS shows high internal consistency (Cronbach's alpha .93, .92, .89) and split-half reliability of .84](c-sccs-internal-consistency-alphas-split-half.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related

@@ -61,3 +61,6 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
 - [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
 - [A piecewise power law model explains individual learning curves significantly better than a single power law](ppl-fits-individual-learning-curves-better-than-single-pl.md) — related
+- [Simulation analysis supports recovery of three states with within-state speedup but cannot discriminate power from exponential functions](hmm-simulation-sensitivity-three-states.md) — related
+- [Hidden Markov modeling of practice latencies favors a three-learning-state model with within-state speedup](hmm-three-learning-states-best-fit.md) — related
+- [Fitting the extended power-law logistic model yields per-skill initial difficulty and learning rates, with Pentagon-area hardest and Parallelogram-area easiest](lfa-skill-difficulty-learning-rates.md) — related

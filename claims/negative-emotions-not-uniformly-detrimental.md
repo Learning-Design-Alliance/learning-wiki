@@ -55,3 +55,4 @@ Theoretical argument in the commentary's integration-versus-differentiation sect
 - [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](negative-achievement-emotions-elearning-rote-strategies.md) — related
 - [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related
 - [Having choice over exercise objects raises the emotional valence of children's learning experience in the ITS](choice-raises-emotional-valence-learning-experience.md) — a narrower finding that bears on this claim
+- [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — reports the opposite

@@ -53,3 +53,4 @@ Exploratory analysis (RQ4) comparing judgement-of-learning bias (judgement × 10
 - [Learning gains from remote inquiry with virtual and video experiments remain relatively stable from post-test to eight-week follow-up, with a slight decline](remote-inquiry-gains-stable-at-follow-up.md) — related
 - [Students' subjective appraisals of the remote inquiry lesson are comparable across conditions, and perceived cognitive demands correlate negatively with test scores](subjective-appraisals-comparable-demands-negatively-correlated.md) — related
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
+- [Negative monitoring statements (stating lack of understanding) are negatively correlated with post-test performance](negative-monitoring-correlates-poorer-performance.md) — related

@@ -56,3 +56,4 @@ The review reports, citing Ehm et al. (2019), that RI-CLPMs showed no statistica
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — possibly the same claim (merge candidate)
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
+- [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related

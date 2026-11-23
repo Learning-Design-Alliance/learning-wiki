@@ -18,7 +18,7 @@ sources:
 # Logistic Knowledge Tracing Models (LFA, PFA, KTM)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The survey's logistic branch covers Learning Factor Analysis, Performance Factor Analysis and Knowledge Tracing Machines. "Logistic models represent the probability of students cor- rectly answering exercises as a logistic function of the student and KC parameters." LFA uses initial knowledge, KC easiness and KC learning rate; PFA uses prior failures, prior successes and KC easiness; KTM uses factorization machines to encode side information about exercises or students.
@@ -40,6 +40,8 @@ The survey's logistic branch covers Learning Factor Analysis, Performance Factor
 ### Claims
 
 - [EPFA estimates fewer trials to mastery for above-average students and more trials for below-average students relative to standard PFA](../claims/epfa-mastery-trials-by-student-level.md) [~W]
+- [LFA finds alternative cognitive models with better statistical fit than the original Geometry Area Unit model](../claims/lfa-improves-cognitive-model-fit.md) [+W] — attached 2026-11-23 from Hao Cen et al. (2005), which proposed "Learning Factors Analysis: a semi-automated method combining a statistical model, difficulty factors, and A* search for cognitive model improvement".
+- [LFA detects hidden knowledge components as learning-curve blips without visual inspection, as in the Compose-by-multiplication split](../claims/lfa-detects-hidden-blip-cm-split.md) [+W] — attached 2026-11-23 from Hao Cen et al. (2005), which proposed "Learning Factors Analysis: a semi-automated method combining a statistical model, difficulty factors, and A* search for cognitive model improvement".
 
 ## Related Theories
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)

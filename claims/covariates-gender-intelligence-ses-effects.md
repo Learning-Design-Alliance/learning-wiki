@@ -67,3 +67,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — related
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related
 - [Male gender relates to lower English grades but not Math or Science grades](male-gender-lower-english-grades-only.md) — related
+- [Sex did not predict math anxiety, engagement, or achievement; general anxiety positively predicted all three MA dimensions](covariate-effects-sex-general-anxiety-ma.md) — related
