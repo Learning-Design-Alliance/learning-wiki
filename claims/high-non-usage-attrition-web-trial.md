@@ -72,3 +72,5 @@ Subgroup analysis including only intervention participants who logged on at leas
 - [Exploratory subgroup analyses suggest males and the most-stressed quartile may benefit more from the stress-coping instruction, but no subgroup effect reached significance](subgroup-exploratory-benefit-stress-coping.md) — related
 - [A brief web-based empowerment intervention for disability claimants had no significant short- or long-term effects on empowerment, self-efficacy, mastery, or coping](web-empowerment-intervention-no-empowerment-effect.md) — related
 - [The web-based intervention significantly increased claimants' subjective knowledge about social security arrangements and disability assessment procedures](web-intervention-increased-claimant-knowledge.md) — related
+- Only 64% of intervention-group respondents used the Web-based Healthy Weight Assistant at least once, and only 3% used it as often as intended — related
+- Intention-to-treat analyses showed no meaningful significant effects of the HWA intervention on dietary or physical activity behavior — related

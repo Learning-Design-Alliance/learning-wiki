@@ -43,7 +43,8 @@ The article recommends capacity-building mechanisms for CHW programmes: "thoroug
 
 
 ## Related Strategies
-- 
+
+- [Community mobilization through sensitization campaigns, monthly meetings, and VDC/SMC involvement](score-community-mobilization-vdc-smc.md)
 
 ## Examples
 -

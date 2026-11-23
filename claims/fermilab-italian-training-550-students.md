@@ -47,3 +47,4 @@ Program history reported in the paper's section on training of Italian/European 
 
 ## Related Claims
 - [The Fermilab summer program has hosted approximately 530 Italian students from more than 20 Italian universities over 34 years, with engineering students now as many as physics students](fermilab-italian-summer-program-530-students.md) — related
+- [The Fermilab Italian summer training program has grown from 4 students in 1984 to an average of about 30 trainees per year, exceeding 500 participants in total](fermilab-italian-program-growth-500-students.md) — related

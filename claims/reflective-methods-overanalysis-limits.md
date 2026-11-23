@@ -49,3 +49,4 @@ The paper's stated limitations of reflective methods, in its institutionalizatio
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](consciousness-prominent-in-change-not-habits.md) — related
+- [The authors argue universities should treat research participation as a goal in itself and make lifelong research feasible for all members](lifelong-research-as-university-goal.md) — related

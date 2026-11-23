@@ -52,6 +52,7 @@ Laboratory activities in which students record the statistical fluctuations of m
 - [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
 - [Extend uncertainty learning to everyday contexts with fluctuation-based challenges and magnetometer experiments](everyday-fluctuation-challenges-extensions.md)
 - [Distribute personal, low-cost rheometry instruments to each student to accelerate engagement in advanced fluid mechanics](personal-low-cost-instrument-distribution-strategy.md)
+- [Run the sensor-location lab as a cumulative four-quadrant tracing procedure with a phone outline and teardown-site verification](four-quadrant-radial-line-tracing-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article lays out an implementable workflow for IPTW with large-scale survey 
 ## Related Strategies
 
 - [Use propensity score matching with ATT estimation to reduce selection bias when comparing childcare arrangements in longitudinal administrative data](propensity-matching-childcare-arrangement-comparison.md)
+- [Adopt multiple imputation and improve missing-data reporting practices in PER quantitative studies](adopt-mi-improve-missing-data-reporting-strategy.md)
 
 ## Examples
 -

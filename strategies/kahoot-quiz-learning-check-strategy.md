@@ -50,6 +50,7 @@ Beyond checking the correctness of students' individual answers, the handout pro
 - [Use a gamified audience response system in the synchronous online phase to activate students](gamified-ars-activation-synchronous-online.md)
 - [Game Based Review](game-based-review.md)
 - [University students design and monitor gamified activities (escape room and Kahoot! quiz) to teach an SDG to secondary students](escape-room-kahoot-sdg-strategy.md)
+- [Use a prepared Kahoot! quiz as a playful learning check with per-question and per-student answer visibility](kahoot-quiz-learning-control.md)
 
 ## Examples
 -

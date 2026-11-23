@@ -52,6 +52,7 @@ The authors recommend systematically incorporating dental trauma education into 
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Prioritize dental trauma education in the nursing curriculum, delivered by dentists](dental-trauma-education-nursing-curriculum-strategy.md)
+- [Interactive small-group workshops with case study discussions as the educational format for changing nursing practice](interactive-workshops-case-discussions-pain-education.md)
 
 ## Examples
 -

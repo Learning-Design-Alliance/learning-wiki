@@ -48,6 +48,7 @@ The authors publish how to make the simulators freely and keep them as open tech
 - [Release the game free and editable so educators adapt categories, language and cultural context, with a mime mode extending inclusion to sign language](adapt-drawing-science-game-free-editable.md)
 - [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](open-source-code-access-peer-instruction.md)
 - [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
+- [Publish all training programs and their sources online under a free license so third parties can adopt them](open-training-programs-free-license.md)
 
 ## Examples
 -

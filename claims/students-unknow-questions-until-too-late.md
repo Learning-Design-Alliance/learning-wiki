@@ -53,3 +53,4 @@ In the focus groups, a current student described the problem of not knowing what
 - [Financial and logistical pressures precluded low-income students from anticipatory socialization for college](summer-tasks-preclude-anticipatory-socialization.md) — related
 - [A majority of PER graduate students did not know the field existed until they were already in graduate school](per-grad-students-discover-field-in-graduate-school.md) — related
 - [Physics students expressed dissatisfaction with withheld information on Public Exam questions involving procedural knowledge and suggested fully revealed problems with changed values](student-dissatisfaction-withheld-procedural-information.md) — related
+- [First-generation Native Hawaiian students face financial barriers that can interrupt college persistence, including dropping out over unpaid funding](financial-barriers-native-hawaiian-astronomy-students.md) — related

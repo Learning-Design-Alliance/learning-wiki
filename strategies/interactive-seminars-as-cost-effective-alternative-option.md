@@ -52,6 +52,7 @@ Interactive seminars accommodate large groups (about 80 students) while preservi
 
 - [Case-study-focused PBL unit design combining weekly in-person tutorials, case-based practicals and H5P interactive activities for large cohorts](case-study-pbl-unit-design-strategy.md)
 - [Offer walking seminars wherever the seminar goal is discussion, and start them early in a programme](offer-walking-seminars-discussion-goal-strategy.md)
+- [Interactive small-group workshops with case study discussions as the educational format for changing nursing practice](interactive-workshops-case-discussions-pain-education.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ Rather than relying solely on fixed scenarios, ASTRA proposes automatically gene
 - [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 - [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
 - [Use scale results to give GPs individualised feedback reports and design targeted continuing education on identified competency gaps](gp-depression-scale-feedback-driven-continuing-education-strategy.md)
+- [Introduce a closed-loop curriculum in which the generator adapts generated samples to the learner's progress](gtn-closed-loop-curriculum-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ The authors' unquantified classroom-experience report in the Conclusions section
 ## Related Claims
 - [An optics-based approach using classical light polarization provides a clear and accessible way to represent quantum states and gate operators and facilitates learning and transfer to other STEM skills in a high school quantum computing course](classical-optics-represents-quantum-states-high-school.md) — related
 - [End-of-year focus groups revealed that students left the quantum computing course with a stronger self-reported understanding of matrix algebra and classical computing, beyond quantum topics](quantum-course-transfer-matrix-algebra-classical-computing.md) — related
+- [The authors report that secondary school students find the devices engaging and are surprised by mathematics' real-world applications](outreach-devices-found-engaging-surprising-real-world.md) — related

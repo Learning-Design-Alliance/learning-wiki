@@ -50,6 +50,7 @@ The author describes an admissions rubric his program is developing to replace o
 - [Community-level challenges: reform program admissions practices, reward appropriate practices, and remove the GRE from program rankings](community-challenges-gre-reform.md)
 - [Replace standardized test cutoffs with structured interviews and bridge master's programs in graduate admissions](interviews-replace-gre-cutoffs.md)
 - [Pair admissions of lower-scoring students with compensating changes to other admissions criteria or program structure to maintain graduation rates](compensating-changes-for-low-scorer-admissions.md)
+- [Advocate against employing physics GRE cut-off scores in admissions because they additionally exclude applicants from smaller, less resourced institutions](advocate-against-pgre-cutoff-scores.md)
 
 ## Examples
 -

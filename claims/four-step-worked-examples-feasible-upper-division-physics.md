@@ -51,3 +51,4 @@ Instructor-reported experience across several university courses (mathematics re
 - [Commonly recommended physics textbooks do not use a consistent, clear problem-solving methodology in worked examples](textbooks-lack-consistent-problem-solving-methodology.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [The Lagrangian mechanics four-step example was tested in a 90-minute online seminar with satisfying student performance](lagrangian-example-90min-seminar-test.md) — a narrower finding that bears on this claim
+- [The interdisciplinary relation between Green's functions and the method of images is not developed in didactic physics textbooks](green-functions-images-absent-didactic-textbooks.md) — related

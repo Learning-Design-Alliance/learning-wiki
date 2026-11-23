@@ -51,3 +51,4 @@ The author's argument in Section 3, citing how textbooks introduce the SHM solut
 - [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — related
 - [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related
 - [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related
+- [The interdisciplinary relation between Green's functions and the method of images is not developed in didactic physics textbooks](green-functions-images-absent-didactic-textbooks.md) — related

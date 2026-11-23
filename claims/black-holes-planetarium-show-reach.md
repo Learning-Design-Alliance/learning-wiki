@@ -50,3 +50,4 @@ Distribution figures for the planetarium show Black Holes: The Other Side of Inf
 - [The UM-D, HFC and FAAC partnership delivers large-scale annual K-12 and public astronomy outreach, with of order a thousand schoolchildren per year at the planetarium](umd-hfc-faac-outreach-partnership-impact.md) — related
 - [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related
 - [The free 'Totality' planetarium show was distributed to 147 planetariums and documented well over 180,000 views across reporting venues, rentals and YouTube](totality-show-180000-views-147-planetariums.md) — related
+- [Captain Einstein has been viewed by more than 2500 festival visitors with generally very positive response, attracting a wide range of backgrounds](captain-einstein-festival-outreach-2500-visitors.md) — related

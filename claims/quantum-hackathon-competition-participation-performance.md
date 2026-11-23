@@ -66,3 +66,4 @@ Evaluation of student performance based on the number of objectives each team so
 
 ## Related Claims
 - [Students enjoyed the first day's microcycle lectures and activities (lecture ratings 3.71–4.42 on a 5-point scale), but second-day competition participants were neutral on feeling motivated to complete challenges](quantum-hackathon-enjoyment-motivation-ratings.md) — related
+- [Participatory events such as hackathons foster cross-disciplinary mixing and experimentation confidence, while conventional lectures were poorly attended](participatory-events-over-lectures-for-mixing.md) — related

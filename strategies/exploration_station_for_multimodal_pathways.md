@@ -59,8 +59,10 @@ The strategy treats mode selection as a learnable design decision rather than a 
 6. Debrief pathway choices in [Class Discussion](../elements/class-discussion.md) so students articulate why a mode served (or failed to serve) their purpose [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ## Related Strategies
+
 - [Workshop-based writing instruction](workshop-based_writing_instruction.md) — the station extends workshop time into multimodal mode exploration
 - [Choice-based learning](choice-based_learning.md) — the pathway choice is a form of structured autonomy
+- [Pathway choice for the classroom: the fully dimensional route is conceptually easier but yields more complicated formulas](pathway-choice-fully-dimensional-vs-far-source.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — exploration is a low-stakes practice space for mode decisions before assessed composition

@@ -49,3 +49,4 @@ Unsupervised machine learning (LDA with Gibbs sampling) applied to combined free
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](thematic-analysis-lda-topics-set-themes.md) — related
 - [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related
 - [Students identify end-of-module quizzes with feedback, time limits, FAQ sections and expert discussion forums as strategies to consolidate e-learning](quizzes-feedback-forums-consolidate-e-learning.md) — related
+- LDA reproduced human-coded themes in a validation test on roughly 9000 Huffington Post headlines — related

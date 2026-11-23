@@ -50,3 +50,4 @@ Numerical modeling result from the Results section of a supervised machine learn
 - [A reduced model using only the five meaningful features performs nearly as well as the full 44-feature model](five-feature-model-nearly-full-performance.md) — related
 - [After rubric implementation, admissions decisions from application data could not be acceptably modeled, even with hyperparameter tuning](post-rubric-application-data-unmodelable.md) — related
 - [A conditional inference forest acceptably models pre-rubric physics graduate admissions decisions, with physics GRE score, quantitative GRE score, and undergraduate GPA the only meaningful features](pre-rubric-admissions-model-quantitative-metrics-meaningful.md) — related
+- [The conditional inference forest achieves mostly outstanding AUC (>0.9) stable across cut-offs, and three features suffice for AUC near 0.9](cif-auc-stable-three-features.md) — related

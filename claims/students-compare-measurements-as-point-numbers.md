@@ -52,3 +52,4 @@ Interview observations in the gamma-attenuation experiment, illustrated by a cas
 - [Vocational students showed uneven mastery after the lab path: most used units correctly but very few handled calorimetry or error propagation](vocational-lab-uneven-measurement-skill-outcomes.md) — related
 - [Prior secondary school type (General vs Vocational Lyceum) showed almost no significant difference in radiation knowledge](lyceum-type-no-significant-knowledge-difference.md) — related
 - [The module works for students across a wide range of prior technical backgrounds, as shown by the differing CrabSat and DiscoSat approaches](tuppersat-works-across-technical-backgrounds.md) — related
+- [Using the student-built spectrometer in formal classrooms initiates productive discussion of random and systematic measurement errors](spectrometer-error-discussion-classroom.md) — related

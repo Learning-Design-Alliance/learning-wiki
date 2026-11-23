@@ -74,3 +74,4 @@ The author's interpretation of the photogate and tape-timer transcripts: student
 - [Analyzing the same phenomenon through two different measurement methods leads students to realize different spectral ranges require different equipment and measurement precision](two-methods-different-equipment-precision.md) — related
 - [Tablet-PC video analysis improves conceptual understanding of uniform motion relative to a reference system, but not of velocity-as-rate or velocity-as-vector sub-concepts](video-analysis-improves-reference-system-understanding.md) — related
 - [The authors report a clear advantage of automatic timing in onsite labs (photogate) over home kit timing for the measuring g and Newton's 2nd Law experiments](onsite-photogate-timing-accuracy-advantage.md) — related
+- [Stroboscopic photos retain pedagogical value even though Tracker can automatically track motion and plot graphs](stroboscopic-photos-value-despite-automatic-tracking.md) — related

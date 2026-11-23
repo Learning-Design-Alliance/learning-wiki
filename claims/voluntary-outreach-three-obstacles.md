@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-23
 recheck_by: 2021
 sources:
   - id: clarkson-2016
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
+> **Currency** · newest study 2016 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors identify time and personnel pressure, difficulty finding time for innovation, and mission-centricity as three important obstacles to maintaining sustained voluntary outreach involvement. [→ Clarkson 2016](#clarkson-2016)

@@ -49,3 +49,7 @@ Aggregate satisfaction result across the 2006–2015 questionnaire series, resta
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
 - [Overall feedback on the storytelling activity was very positive, with 86.8% of students willing to participate again](positive-overall-feedback-willingness-participate-again.md) — related
+- [Most ERN 2018 ex-post respondents said the event strongly contributed to showing that science is fun and that it actively involves citizens](ern-2018-ex-post-science-is-fun-and-involvement.md) — related
+- The Frascati Scienza NIGHT project grew over thirteen editions to more than 60 partners, 400 events/year in 30 cities and over 50,000 attendees — related
+- Participant satisfaction with ERN organization efficiency remains high and constant at 92% across years, and 46% of attendees had participated in previous editions — related
+- Trivia Night games with the public revealed that participants valued ERN as a European cooperation opportunity and requested more year-round activities and closer interaction with laboratories — related

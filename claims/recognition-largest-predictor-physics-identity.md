@@ -54,3 +54,4 @@ SEM path analysis of the 501-student pre/post survey; the article notes this is 
 - [Perceived recognition is the largest predictor of physics identity among self-efficacy, interest, and the environmental factors](perceived-recognition-largest-predictor-physics-identity.md) — possibly the same claim (merge candidate)
 - [Pre-instruction belonging prospectively predicts post recognition, self-efficacy, agency, and higher-knowledge PLIC profile membership](belonging-upstream-predictor-lab-learning.md) — related
 - [Changes in perceived recognition fully mediate the relationship between course grade and changes in physics identity, with no remaining direct grade effect](perceived-recognition-mediation-grades-identity.md) — related
+- [The claim that female students do not identify with physics because they perceive less recognition rests on an arrow direction the data do not determine](gender-recognition-arrow-direction-unsupported.md) — related

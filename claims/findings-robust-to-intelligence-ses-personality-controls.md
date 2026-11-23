@@ -53,3 +53,4 @@ Supplemental analyses adding general intelligence, family SES (SSS) and the othe
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related
 - [Trait conscientiousness in adolescents is positively associated with gray matter volume in the bilateral superior parietal lobe and negatively with the right middle frontal gyrus](conscientiousness-spl-positive-mfg-negative-gmv.md) — related
 - [Bilateral SPL volume correlates with academic performance (r = 0.24) but right MFG volume does not](spl-volume-correlates-academic-performance-mfg-does-not.md) — related
+- [Brain–achievement and brain–intelligence associations persist after adjusting for family socioeconomic status](cl-ses-robustness.md) — related

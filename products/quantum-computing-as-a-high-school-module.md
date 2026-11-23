@@ -28,3 +28,4 @@ A freely available Creative Commons course module developed by Hughes et al. tha
 
 ## Key Sources
 - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel Sun, and Jessica Turner. (2020). Teaching Quantum Computing to High School Students. https://arxiv.org/abs/2004.07206
+- Anastasia Perry, Ranbel Sun, Ciaran Hughes, Joshua Isaacson, Jessica Turner. (2020). Quantum Computing as a High School Module. arXiv. https://arxiv.org/abs/1905.00282

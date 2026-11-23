@@ -49,3 +49,4 @@ Pearson correlations computed per graduating class cohort (2009–2014) after no
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [Step 1 score distributions shifted a full standard deviation above the range predicted by MCAT scores](step1-curve-shift-full-sd.md) — related
+- [MCAT composite scores correlate positively but fairly weakly with USMLE Step 1 (r=0.39) and Step 2 CK (r=0.31) scores](mcat-composite-correlates-usle-step1-step2ck.md) — related

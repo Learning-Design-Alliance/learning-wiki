@@ -50,6 +50,7 @@ This strategy addresses the time-constraint barrier by embedding self-directed s
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Schedule guided self-study in low-workload periods and integrate it into the curriculum rather than adding it on top](schedule-gss-in-low-workload-periods.md)
 - [Integrate the simulator into the formal oculoplastics curriculum with dedicated scheduled practice time early in residency](dedicated-scheduled-simulator-time-early-residency-strategy.md)
+- [Build researcher confidence by integrating autonomous projects into degree credit and extending opening hours](credit-integration-and-evening-hours-confidence.md)
 
 ## Examples
 -

@@ -68,3 +68,5 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Some female students report gender-dynamics challenges in lab groups: perceived assumptions about competence, being overlooked, and fear of invalidation](female-students-gender-dynamics-challenges-lab-groups.md) — related
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related
+- [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](individual-feedback-loop-homophily-bias-stereotype-threat.md) — related
+- [Women of color in astronomy and planetary science experienced the highest rates of negative workplace experiences, per Clancy et al. (2017)](women-of-color-highest-negative-workplace-experiences.md) — related

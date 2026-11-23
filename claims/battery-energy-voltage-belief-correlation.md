@@ -47,3 +47,4 @@ Correlational analysis of response patterns on DIRECT version 1.1 multiple-batte
 
 ## Related Claims
 - [Discussing analogies for electric circuits led student F to recognize his faulty model of batteries in series and develop a more expert-like model for voltage addition, though his knowledge remained tied to that context](analogy-discussion-f-voltage-addition-shift.md) — related
+- [Students often lack qualitative understanding of simple electric circuits, particularly circuits with multiple batteries in multiple loops](student-difficulty-multiple-battery-circuits.md) — a broader claim this one bears on

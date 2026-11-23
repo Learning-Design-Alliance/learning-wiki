@@ -53,3 +53,4 @@ Questionnaire-based evaluation of the Einsteinmobil travelling exhibition (secti
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
+- [Extra-curricular particle physics activities increased general interest in physics among students aged 16-19 in the UK and Germany](particle-physics-outreach-increases-student-interest.md) — related

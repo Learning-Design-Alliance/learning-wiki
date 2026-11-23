@@ -52,3 +52,4 @@ Narrative review statement in the article's barrier overview, reporting that man
 - [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — a narrower finding that bears on this claim
 - [In the non-majors physics class, exam scores inversely correlated with Impostor Syndrome (R² = 0.258, p = 0.0019)](exam-scores-inversely-impostor-syndrome-nonmajors.md) — related
+- [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](individual-feedback-loop-homophily-bias-stereotype-threat.md) — related

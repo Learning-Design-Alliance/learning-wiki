@@ -41,6 +41,7 @@ The article recommends several support strategies for undergraduates transitioni
 - [Apply seven principles for blending positive aspects of web-facilitated, hybrid, and online environments in undergraduate education](seven-principles-blended-undergraduate-education.md)
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
 - [Adapt e-learning training with time estimates, blended learning, and peer mentoring to support communication-strategy delivery](e-solas-future-adaptations-blended-peer-mentor.md)
+- [Lower the barriers to first use and stimulate adherence with new content, reminders, and explicit usage expectations](reduce-startup-barriers-reminders-new-content.md)
 
 ## Examples
 -

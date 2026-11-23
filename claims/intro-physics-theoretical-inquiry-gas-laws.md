@@ -51,3 +51,4 @@ The author describes, from his own teaching practice, a classroom exercise in wh
 - [Dialogic inquiry course activities led students to an unexpected dark-matter inference from ICM X-ray temperatures](unexpected-dark-matter-discovery-icm-activity.md) — a narrower finding that bears on this claim
 - [The author reports that students' misconceptions about the applicability of the equipartition theorem were largely eliminated after the many-gas data approach](equipartition-misconceptions-eliminated-data-approach.md) — related
 - [Introductory students’ grasp of the proportionality between internal energy and temperature for an ideal gas is weak and strongly context-dependent](weak-context-dependent-e-t-proportionality.md) — related
+- [The RHIC perfect-fluid discovery can be introduced even at primary and secondary levels of physics education](rhic-perfect-fluid-teachable-school-levels.md) — related

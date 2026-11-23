@@ -69,3 +69,4 @@ Table 2 reports Pearson's r and partial correlations controlling for GPA and MCA
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
 - [Seven institutional variables correlate significantly with both Step 1 and Step 2 scores, while total enrollment does not](institutional-variables-correlate-usle-scores.md) — related
 - [Private schools average about five points higher on Step 1 than public schools](private-schools-higher-step1.md) — related
+- [MCAT composite scores correlate positively but fairly weakly with USMLE Step 1 (r=0.39) and Step 2 CK (r=0.31) scores](mcat-composite-correlates-usle-step1-step2ck.md) — related

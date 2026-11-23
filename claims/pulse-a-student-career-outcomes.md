@@ -70,3 +70,4 @@ Descriptive report that non-engineering roles on the team also yielded career ou
 - [The PULSE-A team grew to 60 consistently contributing members with over 100 undergraduates participating since inception, which the authors call the mission's greatest accomplishment](pulse-a-team-growth-engagement.md) — related
 - [Over 91% of USEQIP students from 2022-2025 secured a paid research internship](useqip-internship-placement-rate.md) — related
 - [Astronomy master's training develops transferable skills that industry and finance employers value beyond disciplinary specialisation](astronomy-degree-transferable-skills.md) — related
+- [A lab-supported thesis program extended internships into about six-month Laurea research stays, with many participants later hired at the lab or in the field](laurea-thesis-program-pipeline-return.md) — related

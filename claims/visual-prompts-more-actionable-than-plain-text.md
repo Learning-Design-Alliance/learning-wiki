@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-23
 sources:
   - id: hilliger-2026
     resource: "https://doi.org/10.18608/jla.2026.9143"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In card-sorting sessions across three courses at two universities, students judged prompts with visual elements such as bar or pie charts more actionable and easier to interpret than text-only prompts. [→ Hilliger 2026](#hilliger-2026)

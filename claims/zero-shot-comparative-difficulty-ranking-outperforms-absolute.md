@@ -52,3 +52,4 @@ Zero-shot evaluation on CMCQRD using ChatGPT3.5: 250 samples for absolute scorin
 - [Zero-shot difficulty-ranking performance plateaus with decreasing variance as the number of samples/comparisons K increases](zero-shot-performance-plateaus-with-k.md) — a broader claim this one bears on
 - [Zero-shot GPT-4o difficulty ratings, rescaled and entered in grade-specific regressions, beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items](direct-llm-estimation-beats-dummy-regressor-k5-items.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
+- Systems that both beat the baselines learn similar curricula across disjoint feature groups, as shown by positive Spearman rank correlations between their orderings — related

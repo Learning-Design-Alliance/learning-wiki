@@ -52,3 +52,4 @@ Regression covariates in the 99,559-student survey with institution fixed effect
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
 - [Female students reported significantly higher satisfaction with the course's online resources than male students](gender-gap-online-resource-satisfaction.md) — a narrower finding that bears on this claim
 - [LSRC integration in rural classrooms faces challenges from student competency gaps, socio-cultural differences, and the limits of live-streaming format](lsrc-rural-integration-challenges.md) — related
+- [HBV knowledge scores were lower among rural, less-educated, and non-physician respondents](hbv-knowledge-demographic-differences.md) — related

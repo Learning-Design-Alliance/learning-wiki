@@ -67,6 +67,7 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](../strategies/open-source-release-of-handmade-simulators.md)
 - [Remix workflow: build on expert source code through analyze-then-modify stages](../strategies/ejs-remix-existing-source-code-strategy.md)
 - [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](../strategies/open-source-code-access-peer-instruction.md)
+- [Publish all training programs and their sources online under a free license so third parties can adopt them](../strategies/open-training-programs-free-license.md)
 
 ## Key Sources
 - Wiley, D. (2014). The MOOC misstep and the open education infrastructure. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/open_educational_resources](https://edtechbooks.org/lidtfoundations/open_educational_resources)

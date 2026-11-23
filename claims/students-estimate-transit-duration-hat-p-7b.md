@@ -50,3 +50,4 @@ Classroom estimation activity in which secondary-school students read the transi
 - [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — related
 - [Using circular-orbit geometry, students estimated the semi-major axis of Kepler-2 as 0.0366±0.0011 AU, near the accepted value](students-estimate-semi-major-axis-circular-orbit.md) — related
 - [Exoplanet transit exercise uses 20 Spitzer images of HD 189733b for students to measure light curves and derive planet size and distance](spitzer-transit-exoplanet-exercise.md) — related
+- [Student-calculated WASP-2 parameters agree with accepted values despite a simplified approach](wasp2b-calculated-parameters-match-accepted-values.md) — related

@@ -71,3 +71,4 @@ Row of Table 2(a) reporting the paired t-test for the R/S communication item: me
 - [Participants evaluated the course positively: 74% were very satisfied with its content and 89% rated their existential communication competences better than before](participants-satisfied-and-rate-competences-better.md) — related
 - [The course changed GPs' perceived importance of only two of the eight communication skills: communicating about R/S concerns and active listening and being present](perceived-importance-unchanged-except-two-skills.md) — related
 - [GPs reported changing their usual clinical practice with patients outside the pilot trial](gps-changed-usual-practice-beyond-pilot-patients.md) — related
+- [The authors expect diagnostic competence to improve in both groups after the training course, with a further long-term gain in the intervention group only](minskin-expected-training-course-effect-plus-long-term-feedback-effect.md) — related

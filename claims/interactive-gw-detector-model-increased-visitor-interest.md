@@ -53,3 +53,4 @@ Survey of 171 visitors to the RSSE exhibit using electronic and paper questionna
 - [Screening animations alone may raise scientific awareness, but additional context is essential for science learning](animation-alone-insufficient-context-needed.md) — related
 - [Visitors' subjective knowledge of quantum science and technologies rose significantly and substantially from pre-test to post-test after visiting a quantum pop-up exhibit at a music festival, in one uncontrolled pre-post study (d = 0.80).](festival-exhibit-increases-subjective-knowledge-quantum.md) — related
 - [Most surveyed visitors (78.1%) were already familiar with at least one of the experiments presented](public-square-prior-familiarity-78-percent.md) — related
+- [Captain Einstein has been viewed by more than 2500 festival visitors with generally very positive response, attracting a wide range of backgrounds](captain-einstein-festival-outreach-2500-visitors.md) — related

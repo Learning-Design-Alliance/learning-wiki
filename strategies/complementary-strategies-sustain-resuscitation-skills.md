@@ -58,6 +58,7 @@ Because knowledge and skills declined significantly within about two years of co
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Incorporate the two-minute bag and mask training into existing neonatal resuscitation training programs, with frequent repetition](incorporate-two-minute-mask-training-into-nrp-programs.md)
 - [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
+- [Regular reminder tags after the intervention to sustain positive behaviour change in pain management](reminder-tags-sustain-pain-management-behaviour.md)
 
 ## Examples
 -

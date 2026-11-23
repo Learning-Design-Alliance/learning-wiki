@@ -50,3 +50,4 @@ Univariate analysis (Table 2) of the 100-school USN&WR dataset reports significa
 - [MCAT scores show the strongest correlation with USMLE Step 1 scores among nine institutional variables](mcat-strongest-correlate-usle-step1.md) — related
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [US-specific evidence links USMLE scores, medical school honours, clerkship grades and AOA membership to resident performance, while PhD, prior clinical research and GPA were not shown to be predictive](us-predictors-ophthalmology-resident-performance.md) — related
+- [MCAT composite scores correlate positively but fairly weakly with USMLE Step 1 (r=0.39) and Step 2 CK (r=0.31) scores](mcat-composite-correlates-usle-step1-step2ck.md) — related

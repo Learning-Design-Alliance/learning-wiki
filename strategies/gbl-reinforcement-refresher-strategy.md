@@ -52,6 +52,7 @@ Because performance gains from game-based learning diminished by two months, the
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
 - [Add a reinforcing booster counseling session after a personalized risk reduction plan to help sustain safer sex behavior change](ciss-booster-session-sustain-behavior-change.md)
+- [Regular reminder tags after the intervention to sustain positive behaviour change in pain management](reminder-tags-sustain-pain-management-behaviour.md)
 
 ## Examples
 -

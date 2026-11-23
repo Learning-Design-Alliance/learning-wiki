@@ -50,6 +50,7 @@ Since 2012 the initiative has offered two consecutive days of workshop activitie
 
 - [Interdisciplinary hands-on art-science-culture workshops (carving, clay, art-making)](nsw-interdisciplinary-art-science-workshops.md)
 - [Embodied orientation lessons that mark compass directions in the room and align internal and external compasses](which-way-is-north-embodied-orientation.md)
+- [Present star maps as an experiential, hands-on event with time fixed a few hours after sunset and seasons organizing the sky](experiential-prime-time-stargazing-strategy.md)
 
 ## Examples
 -

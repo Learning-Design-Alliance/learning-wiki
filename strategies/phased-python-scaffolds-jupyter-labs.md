@@ -55,6 +55,7 @@ A implementable approach in which computational tasks are introduced gradually a
 
 - [Introduce LLM concepts through hands-on Python activities that progress from simple examples to increasing complexity with physics-related tasks](hands-on-python-llm-introduction-strategy.md)
 - [Embed computational skills into an existing lab course by replacing a preset analysis tool with Python while retaining original lab goals](embed-python-without-altering-course-structure.md)
+- [Have students write the demodulation code themselves, or supply instructor-provided code, scaled to student skill level](student-written-demodulation-code-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The article reports the growth of the annual International Masterclasses campaig
 - [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — related
 - [International Masterclasses reached over 10,000 students in 50 countries in the 2017 season](imc-2017-scale-10000-students-50-countries.md) — related
 - [IPPOG's three pillar activities have engaged over 200,000 students and teachers to date](ippo-three-activities-engaged-over-200000.md) — related
+- [The International Masterclasses programme engages more than 13,000 high school students per year in 60 countries in analysing real LHC data](international-masterclasses-scale-reach.md) — possibly the same claim (merge candidate)

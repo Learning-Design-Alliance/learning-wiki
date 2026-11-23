@@ -49,3 +49,4 @@ Prospective before–after measurement in 164 people with type 2 diabetes with c
 - [Patient HbA1c reduction does not differ significantly between participants whose community-based providers improved in knowledge/skills and those whose providers did not](provider-skill-improvement-hba1c-null-link.md) — related
 - [Adding simulation education and case management to standard DSME produced a significantly greater HbA1c decrease than DSME alone over 6 months in adults with type 2 diabetes](se-cm-added-to-dsme-greater-hba1c-reduction-t2dm.md) — related
 - [Diabetic patients at a student-run free clinic's health educator program showed significant A1c improvement over a mean of 12.5 months](srfc-phe-a1c-improvement-12-months.md) — related
+- [A completed RCT of motivational interviewing in teenagers with diabetes demonstrated persisting HbA1c improvements up to two years compared with non-specific counselling](mi-rct-teenagers-persisting-hba1c-improvements.md) — related

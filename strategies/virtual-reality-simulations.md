@@ -80,6 +80,7 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](mixed-learning-mode-vr-plus-tactile.md)
 - [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
 - [Split-testing format: embodied interaction versus 3D video demonstration within the same VR environment](within-vr-split-testing-format.md)
+- [Use interactive VR molecular manipulation to generate seeds for automated sampling searches and to let experts express 3d biomolecular intuition collaboratively](vr-seeds-for-automated-molecular-sampling.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]

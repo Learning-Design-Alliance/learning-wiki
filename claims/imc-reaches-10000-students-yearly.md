@@ -52,3 +52,4 @@ Program description in the paper's overview of international outreach and educat
 - [International Masterclasses let students worldwide analyze real ATLAS particle collision data, attracting around 13,000 students from around 60 countries annually](masterclasses-real-atlas-data-13000-students.md) — related
 - [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related
 - [International Masterclasses let high-school students analyse real experimental data and present results, engaging over 13,000 students annually across 60 countries](ippo-international-masterclasses-real-data-engagement.md) — related
+- [The International Masterclasses programme engages more than 13,000 high school students per year in 60 countries in analysing real LHC data](international-masterclasses-scale-reach.md) — related

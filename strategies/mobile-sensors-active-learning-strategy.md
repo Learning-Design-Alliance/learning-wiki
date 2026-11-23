@@ -49,6 +49,7 @@ The article recommends integrating mobile-device sensors not merely as new instr
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
 - [Laboratory activities based on mobile-device sensor fluctuations to teach error analysis and uncertainties](mobile-sensor-fluctuation-lab-activities-error-analysis.md)
 - [Use built-in mobile-device sensors for science experiments across unconventional settings such as amusement parks, gyms, parks and means of transport](st-smartphone-sensor-experiments-unconventional-settings.md)
+- [Use classroom comparison of video analysis and smartphone sensors to discuss experimental and numerical concepts](classroom-comparison-video-sensors-discussion-strategy.md)
 
 ## Examples
 -

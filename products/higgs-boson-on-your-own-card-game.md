@@ -21,6 +21,7 @@ A teacher- and learner-usable educational card game built on the 66-card Quark M
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Higgs Boson – on Your Own card game**: A Memory-style card game built on the 66-card Quark Matter deck, in which cards represent colored (anti)quarks and black-and-white leptons laid face down in an ordered table. The author describes it as "a hands-on and easily accessible tool that allows interested teachers, students and also motivated lay-persons to play with the properties of the newly found particle". Players keep cards only when they form valid lepton-antilepton pairs, mesons or baryons, and win either by detecting a Higgs decay or by collecting the most cards. (T. Csörgő (2012))
+- **Extended phase-transition sequence culminating in perfect liquid quark matter**: The article frames RHIC physics educationally through an extended sequence of states of matter: the familiar solid to liquid to gas sequence of phase transitions is followed, at the largest temperatures made by humans, by a transition to a perfect, liquid state of quarks. This framing grounds the card game's content, in which players detect particles from the perfect fluid of quarks as it evolves and hadronizes. (J. Csörgő et al. (2012))
 
 ### Claims
 
@@ -30,3 +31,4 @@ A teacher- and learner-usable educational card game built on the 66-card Quark M
 
 ## Key Sources
 - T. Csörgő. (2012). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. http://www.kfki.hu/~csorgo/talks/12/2012-12-04-TCs-Higgs-boson-on-your-own.pdf
+- J. Csörgő, Cs. Török and T. Csörgő. (2012). Memory of Quark Matter Card Game. http://www.lulu.com/spotlight/Reszecskeskartya

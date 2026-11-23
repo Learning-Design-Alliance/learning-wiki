@@ -99,6 +99,8 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
 - [Anchor physics teaching in everyday-life contexts, using newspaper and advertisement story problems](everyday-context-story-problems.md)
 - [Design physics problems set in local ocean-literacy contexts so students connect physics to maritime life](ocean-literacy-contextual-physics-problems-strategy.md)
+- [Anchor an experimental problem in a widely used technical patent so students connect school physics to real devices](patent-anchored-olympiad-problem-strategy.md)
+- [Motivate each mathematical tool by its physics application before formal development](physics-application-first-motivation-strategy.md)
 
 ## Examples
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).

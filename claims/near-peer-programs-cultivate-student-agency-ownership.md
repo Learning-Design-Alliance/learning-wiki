@@ -48,3 +48,4 @@ Theoretical argument from the guide's introduction about what student-led near-p
 - [Structured near-peer mentoring communities can intentionally provide information and foster relationships across all student backgrounds, whereas informal mentoring tends to be readily accessible mainly to students from well-resourced backgrounds](structured-mentoring-reaches-all-backgrounds.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Students involved in near-space balloon exploration showed excitement and a sense of ownership of the project](student-ownership-near-space-exploration.md) — a narrower finding that bears on this claim

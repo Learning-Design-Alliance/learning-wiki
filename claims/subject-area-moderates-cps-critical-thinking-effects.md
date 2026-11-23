@@ -66,3 +66,4 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 - [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related
 - [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](flipped-classroom-larger-effect-basic-science-subjects.md) — related
 - [The effect of academic interest on academic performance varies across disciplines, largest in natural sciences and smallest in social sciences](academic-interest-effect-varies-by-discipline.md) — related
+- [Students judge infographics most useful in natural science courses and least useful in social science courses](infographics-usefulness-varies-by-discipline.md) — related

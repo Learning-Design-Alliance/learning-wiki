@@ -46,7 +46,9 @@ The activity mounts one smartphone on the cart to record acceleration with a fre
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](../claims/tracker-video-analysis-infers-kinematics-values.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use classroom comparison of video analysis and smartphone sensors to discuss experimental and numerical concepts](classroom-comparison-video-sensors-discussion-strategy.md)
+- [Use student-filmed videos of everyday phenomena to build stroboscopic photos for motion analysis](student-filmed-video-stroboscopic-photo-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (32 for, 5 mixed) · 33 studies (13 causal, 11 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 33 report an effect size · 36 claims rest on one study
+> **Evidence** · 39 claims (34 for, 5 mixed) · 34 studies (13 causal, 12 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 34 report an effect size · 38 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -76,6 +76,8 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Confidence-weighted microdevice physics scores significantly increase after the sticker microfluidics activity](../claims/significant-confidence-weighted-score-gains.md) [+W] — attached 2026-11-19 from Delgado et al. (2022), which proposed "Sticker microfluidics classroom activity with four multilayer devices of increasing complexity".
 - [Correct responses that triangle angle sums can differ from 180 degrees rise from 11.3% to 83.6% after the balloon-geometry activity](../claims/balloon-activity-triangle-angle-gains.md) [+W] — attached 2026-11-20 from Corey McInerney et al. (2023), which proposed "Balloon-and-triangle activity for non-Euclidean geometry".
 - [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](../claims/giant-arduino-replica-inclusive-handling.md) [+W] — attached 2026-11-20 from Fior et al. (2025), which proposed "Large microcontroller Arduino Uno replica with magnetic connections".
+- [Student groups building and using the low-cost spectrometer achieve accurate wavelength measurements within a 15-minute task](../claims/student-built-spectrometer-accurate-measurements.md) [+W] — attached 2026-11-23 from Robert Fischer (2012), which proposed "Diffraction-grating spectrometer built from a printout, translucent tape and a 1000 lines/mm grating".
+- [Using the student-built spectrometer in formal classrooms initiates productive discussion of random and systematic measurement errors](../claims/spectrometer-error-discussion-classroom.md) [+W] — attached 2026-11-23 from Robert Fischer (2012), which proposed "Diffraction-grating spectrometer built from a printout, translucent tape and a 1000 lines/mm grating".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

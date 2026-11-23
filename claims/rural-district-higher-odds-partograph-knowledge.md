@@ -52,3 +52,4 @@ Multivariable logistic regression in the cross-sectional survey of 373 providers
 - [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — related
 - [59.8% of obstetric care providers in West Cameroon had a good level of partograph knowledge](west-cameroon-partograph-good-knowledge-59-8.md) — related
 - [72.1% of obstetric care providers in West Cameroon systematically used the partograph](west-cameroon-partograph-systematic-use-72-1.md) — related
+- [HBV knowledge scores were lower among rural, less-educated, and non-physician respondents](hbv-knowledge-demographic-differences.md) — related

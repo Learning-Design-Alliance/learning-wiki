@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-23
 sources:
   - id: gorrindo-p-2014
     resource: "https://doi.org/10.1097/ACM.0000000000000164"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean hemoglobin A1c improved significantly from 9.6 to 7.9 after a mean of 12.5 ± 1.5 months in the PHE program cohort. [→ Gorrindo P 2014](#gorrindo-p-2014)

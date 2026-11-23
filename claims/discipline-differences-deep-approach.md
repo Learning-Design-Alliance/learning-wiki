@@ -67,3 +67,4 @@ The review reports countervailing and null discipline findings: one study found 
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — related
 - Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next — related
 - [The path from psychological quality to professional recognition is stronger in applied disciplines (Social Sciences, Engineering) than in theoretical disciplines (Humanities, Natural Sciences)](discipline-moderates-quality-to-recognition-path.md) — related
+- [Students judge infographics most useful in natural science courses and least useful in social science courses](infographics-usefulness-varies-by-discipline.md) — related

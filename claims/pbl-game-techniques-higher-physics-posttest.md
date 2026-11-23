@@ -88,3 +88,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — related
 - [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](comics-ar-newton-laws-acceptance-learning.md) — related
 - [Students new to physics typically have considerable difficulty with Newton's third law, which guided activities can address](students-difficulty-newtons-third-law-guided-activities.md) — related
+- [Elastic-sheet-based Einstein-before-Newton teaching outperformed a Newtonian force-law variant with French 9th-graders](elastic-sheet-einstein-before-newton-outperforms.md) — related

@@ -30,3 +30,4 @@ A WordPress-based astroparticle-physics education and outreach web resource run 
 
 ## Key Sources
 - Y. Kazarina, V. Khristyuk, A. Kruykov, E. Postnikov, V. Samoliga, A. Shigarov, V. Tokareva, and D. Zhurov. (2020). Educational and Outreach Resource for Astroparticle Physics. https://arxiv.org/abs/2009.10920
+- Pavel Bezyazeekov, Igor Bychkov, Nikolay Budnev, Daria Chernykh, Yulia Kazarina, Dmitriy Kostunin, Alexander Kryukov, Roman Monkhoev, Alexey Shigarov, and Dmitriy Shipilov. (2021). Towards the Baikal Open Laboratory in Astroparticle Physics. https://arxiv.org/abs/1906.10594

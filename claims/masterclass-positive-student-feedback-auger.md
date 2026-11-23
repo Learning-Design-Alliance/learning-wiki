@@ -47,3 +47,4 @@ Short post-activity questionnaires administered to masterclass participants; the
 ## Related Claims
 - [Students find the introductory theory portion of the masterclass difficult and prefer practical experiments](masterclass-theory-intro-found-difficult.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
+- [Course materials for the astroparticle physics course are open-source and published online](astroparticle-course-open-materials.md) — related

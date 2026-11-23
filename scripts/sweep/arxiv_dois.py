@@ -127,7 +127,11 @@ def earlier_year_supported(aid, year):
     if not f.exists():
         return False
     head = f.read_text(encoding="utf-8", errors="ignore")[:4000]
+    # a year that ends or starts a range ("between 2001 and 2018", "2012-2018") is the data's span,
+    # not a publication of this article (Odden et al. 2020, split batch 5)
+    in_range = re.compile(rf"(?:\d{{4}}\s*(?:-|–|to|and)\s*{year}(?!\d))|(?:(?<!\d){year}\s*(?:-|–|to)\s*\d{{4}})")
     return any(PUB_WORDS.search(head[max(0, m.start() - 120):m.end() + 120])
+               and not in_range.search(head[max(0, m.start() - 12):m.end() + 8])
                for m in re.finditer(rf"(?<!\d){year}(?!\d)", head))
 
 

@@ -47,3 +47,4 @@ Wilcoxon comparison of post-course intention scores between self-reported adopte
 ## Related Claims
 - [Physicians' self-rated intention to adopt targeted behaviors rose from pre-test to post-test after CPD courses in one uncontrolled pre-post study when all nine courses were analyzed together](cpd-courses-increase-physician-intention.md) — related
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
+- [A priori hypotheses: CPD participation will be positively associated with physician intentions, and instrument scores will correlate with self-reported behaviour at three months](cpd-intentions-behaviour-predictive-validity-hypotheses.md) — related

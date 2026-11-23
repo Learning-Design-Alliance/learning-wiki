@@ -72,3 +72,4 @@ Comparison group of students aged 16+ who already decided to continue physics, s
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
 - [Older students who had failed an academic year showed lower end-of-year academic performance than younger peers, except in the workshop group](grade-repeaters-lower-performance-except-workshop.md) — related
 - [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related
+- [Adults with little or no physics background feel more welcome at shows advertised for children aged 10 and older than at shows advertised for ages 15 and older](adults-prefer-younger-audience-advertising.md) — related

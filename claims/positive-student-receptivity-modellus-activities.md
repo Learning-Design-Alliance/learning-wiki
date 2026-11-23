@@ -73,3 +73,4 @@ Same 2009 questionnaire responses: alongside positive reactions, "students also 
 - [Students experienced difficulty starting fieldwork due to the ambiguous nature of ill-structured problems, team-balance frustration, and felt 8 weeks were not enough](pf-course-reported-difficulties-ambiguity-team-balance-duration.md) — related
 - [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related
 - [Student reactions to the open-ended remote course were strongly polarized, with substantial frustration alongside high declared interest](bimodal-student-reactions-open-ended-course.md) — related
+- [Surveyed undergraduates report learning difficulties in lecture-based courses that they associate with insufficient visualization of materials](undergraduates-report-visualization-related-learning-difficulties.md) — related

@@ -51,6 +51,7 @@ The article describes four facilitation aspects: attending to participants' emot
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 - [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 - [Manage the emotional weight of equity topics by co-facilitating with trusted colleagues, mixing lighter articles with heavier ones, and building stamina through repeated attendance](heavy-topic-management-strategy.md)
+- [Facilitate harassment discussions by educating organizers, partnering with campus centers and experts, using external facilitators over multiple semesters, providing mental health access, setting ground rules and expectations, arranging quiet and counselor rooms, holding men-only caucus groups, and sharing institutional policies](facilitation-strategies-harassment-discussions.md)
 
 ## Examples
 -

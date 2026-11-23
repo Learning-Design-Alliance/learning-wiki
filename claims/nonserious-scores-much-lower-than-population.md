@@ -50,3 +50,4 @@ Figure 6 compares score distributions for each RBAI between all actual-populatio
 - [The Pattern Recognition Test flags 0.6%–1.3% of real RBAI populations as non-serious but nearly zero simulated random guessers](prt-flags-0-6-1-3-percent-nonserious.md) — related
 - [The Uncommon Answers Test identifies slightly more than 2% of real test takers as non-serious versus large fractions of simulated random guessers](uat-flags-slightly-over-2-percent-nonserious.md) — related
 - [Nonserious test-taking behavior varies widely across medical schools in the low-stakes BPT, from 1% to 26%](nonserious-test-taking-range-schools.md) — related
+- [Simulations of guessing strategies cannot explain the low confidence at low knowledge levels; best fits use approximately 25% guessers](guessing-simulations-cannot-explain-effect.md) — related

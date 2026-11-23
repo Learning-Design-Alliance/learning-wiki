@@ -57,3 +57,4 @@ Comparative synthesis within the review's literature analysis, citing multiple p
 - [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
 - [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related
+- [Women of color in astronomy and planetary science experienced the highest rates of negative workplace experiences, per Clancy et al. (2017)](women-of-color-highest-negative-workplace-experiences.md) — related

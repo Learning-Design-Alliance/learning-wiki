@@ -51,3 +51,4 @@ Quartile-based graphical analysis in Study 1, replicating the approach of Dunnin
 - [The better residents perform objectively, the more they underestimate their performance, while the worst quartile overestimates it](better-performance-more-underestimated.md) — related
 - [The Dunning-Kruger effect manifests consistently across semester cohorts and genders, with negative correlations in every cohort for both female and male students](dke-consistent-across-cohorts-and-genders.md) — related
 - [On the knowledge test, the highest performers significantly underestimated their scores while lower performers significantly overestimated theirs](high-performers-underestimate-low-overestimate-knowledge-test.md) — related
+- [Calibration error is consistently lower for the least knowledgeable, contradicting the Dunning-Kruger effect](calibration-error-lower-for-least-knowledgeable.md) — reports the opposite

@@ -49,3 +49,4 @@ Case analysis of Task III from audio-taped class discussion and instructor refle
 - [The water-flow analogy fails to support the current–energy (voltage) distinction because students confuse the pump's pressure with the rate of water flow](water-flow-analogy-fails-voltage-distinction.md) — related
 - [Designing a lesson plan on capacitance led student K to recognize the limits of her own understanding, a shift the article attributes to the task and situation rather than to content alone](lesson-plan-task-revealed-k-capacitance-gaps.md) — related
 - [Case study: a junior physics major detected a conflict between his personal analogy and class knowledge but initially followed the analogy](todd-case-metacognitive-conflict-detection.md) — related
+- [Students often lack qualitative understanding of simple electric circuits, particularly circuits with multiple batteries in multiple loops](student-difficulty-multiple-battery-circuits.md) — a broader claim this one bears on

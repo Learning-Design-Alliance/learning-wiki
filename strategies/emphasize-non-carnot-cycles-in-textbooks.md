@@ -43,7 +43,8 @@ The article recommends that Thermodynamics textbooks and instruction attach more
 - [Upper-division physics students show high engineering error ratios (above 50%) but low science error ratios (~10%) on a Stirling-cycle efficiency test](../claims/stirling-test-high-engineering-error-ratios.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add the concepts of maximum specific cycle net work and optimal compression/pressure ratio to Engineering Thermodynamics teaching and revised textbooks](add-max-net-work-concepts-to-thermodynamics-teaching.md)
 
 ## Examples
 -

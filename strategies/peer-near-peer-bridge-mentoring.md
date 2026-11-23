@@ -50,6 +50,7 @@ The article recommends opportunities for peer and near-peer mentorship, in which
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Departmental practices to broaden astronomy access: inclusive community, faculty and graduate student interaction, undergraduate research, and career expectancy communication](inclusive-astronomy-department-practices.md)
 - [Update undergraduate and in-service PU training to include evidence-based practice, evaluate effectiveness periodically, and have senior nurses guide new graduates](evidence-based-pu-training-update-and-mentoring.md)
+- [Students develop and present the outreach show themselves, with senior-student mentoring and a yearly new show](student-developed-physics-shows.md)
 
 ## Examples
 -

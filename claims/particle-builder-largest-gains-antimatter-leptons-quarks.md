@@ -49,3 +49,4 @@ Per-question gain analysis plotted in Figure 4, with error bars showing the stan
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — related
 - [Particle Builder study (N=225) found students learned concepts directly related to the game's core mechanics](particle-builder-n225-learned-core-mechanic-concepts.md) — a broader claim this one bears on
 - [The speeded spot-and-name mechanic of Particle Dobble is intended to give repeated retrieval practice on particle names and families](spot-and-name-retrieval-practice-mechanic.md) — related
+- [The card game's course mirrors the time evolution of quark-gluon plasma from neutrino escape to hadronization](game-course-mirrors-plasma-evolution.md) — related

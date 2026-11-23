@@ -68,6 +68,7 @@ The matching mechanic forces retrieval of each word's location and identity, and
 - [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
 - [Supplementary games and practice forms to extend vocabulary practice after the core game](supplementary-games-and-practice-forms.md)
 - [Use index-card games as follow-up activities to consolidate and retain new vocabulary](index-card-game-vocabulary-follow-up.md)
+- [Memory-style matching variant requiring valid particle combinations](quark-matter-memory-matching-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card flip is a retrieval attempt; the game is structured practice in game form

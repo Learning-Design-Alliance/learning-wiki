@@ -46,3 +46,4 @@ Analysis of semi-structured think-aloud interviews with 17 university and 11 hig
 
 ## Related Claims
 - [Student explanations of the tautochrone property revealed numerous misconceptions, including constant-acceleration beliefs and velocity-acceleration confusion](tautochrone-question-misconceptions.md) — related
+- [Students often lack qualitative understanding of simple electric circuits, particularly circuits with multiple batteries in multiple loops](student-difficulty-multiple-battery-circuits.md) — a broader claim this one bears on

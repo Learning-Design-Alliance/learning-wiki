@@ -53,3 +53,4 @@ Random effects subgroup analysis by subject area across the 43 studies (Table 6)
 - No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — related
 - [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](flipped-classroom-larger-effect-basic-science-subjects.md) — related
 - [No statistically significant difference in calculus achievement was found among students by major (medicine, applied medical science, engineering, computer science, science)](no-achievement-difference-by-major-flipped-calculus.md) — related
+- [Students judge infographics most useful in natural science courses and least useful in social science courses](infographics-usefulness-varies-by-discipline.md) — related

@@ -53,6 +53,7 @@ The article proposes using unobtrusive physiological sensing (EDA and HR via wri
 
 - [Choose sensing configurations by target metric and deployment burden, favoring compact five-stream or chest-ECG setups for lightweight deployments](engagement-sensing-configuration-tradeoff-strategy.md)
 - [Design multimodal biometric sensing deployments to be minimally intrusive and validated against educational outcomes](minimally-intrusive-biometric-sensing-validation.md)
+- [Use biometric mood sensing with machine learning to adaptively personalize the learning experience](biometric-mood-adaptive-personalization.md)
 
 ## Examples
 -

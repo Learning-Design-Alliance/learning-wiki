@@ -30,7 +30,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 25 studies (9 causal, 7 review, 3 qualitative, 3 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 25 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 26 studies (9 causal, 8 review, 3 qualitative, 3 theoretical, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 26 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M] — not yet checked against its sources
+- [Practical training with observation of practice and problem solving enables CHWs to perform and correctly read rapid diagnostic tests](../claims/practical-training-improves-chw-rdt-performance.md) [+W] — attached 2026-11-23 from Paintain Lucy Smith et al. (2014), which proposed "Support community case management with interactive practical training, clear guidelines, and regular supportive supervision"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

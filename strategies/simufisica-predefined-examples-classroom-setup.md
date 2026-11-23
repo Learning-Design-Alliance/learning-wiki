@@ -40,6 +40,7 @@ The simulator's lower toolbar provides an Examples button with predefined config
 ## Related Strategies
 
 - [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](open-source-code-access-peer-instruction.md)
+- [Use a set of predefined central-force exercises, solvable by simulation and in some cases analytically, as classroom activities](predefined-central-force-exercise-set.md)
 
 ## Examples
 -

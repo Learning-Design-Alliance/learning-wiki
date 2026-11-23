@@ -49,6 +49,7 @@ The article's respondents judged current school initiatives insufficient and rec
 ## Related Strategies
 
 - [Strengthen school-based mental health services, special educators and early-detection awareness programmes for depression and learning disorders](strengthen-school-mental-health-and-educator-services.md)
+- [Community mobilization through sensitization campaigns, monthly meetings, and VDC/SMC involvement](score-community-mobilization-vdc-smc.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The protocol prescribes a set of implementation strategies to optimise adherence
 - [Family Engagement Supporting Children With Disabilities](family_engagement-supporting_children_with_disabilities.md)
 - [Head teachers should involve parents through meetings, report card attendance, and joint improvement plans](head-teacher-parental-involvement-practices.md)
 - [Design joint school–family work programs that make parents aware of their support for adolescent physical activity](joint-school-family-parental-support-programs.md)
+- [Community mobilization through sensitization campaigns, monthly meetings, and VDC/SMC involvement](score-community-mobilization-vdc-smc.md)
 
 ## Examples
 -

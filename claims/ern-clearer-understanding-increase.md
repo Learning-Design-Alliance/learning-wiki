@@ -46,3 +46,4 @@ Descriptive trend from the ex-post questionnaire item on the event's contributio
 
 ## Related Claims
 - [Teachers' lesson-sharing reflections increasingly referenced the five essential features of inquiry across five lesson-sharing events](lesson-sharing-refs-essential-features-increase.md) — related
+- [Ex-post respondents mostly agreed research is fun, important for development, and that most learned of the event through friends and websites](ern-2018-ex-post-perceptions-of-research.md) — related

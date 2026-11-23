@@ -50,3 +50,4 @@ The review attributes this finding to Milne and Ladner's systematic analysis of 
 ## Related Claims
 - [An accessibility audit found all endorsed AP Computer Science Principles curricula are not fully accessible, per the review citing Stefik et al.](ap-csp-curricula-not-fully-accessible-audit.md) — related
 - [Traditional astronomy research, education and outreach relies heavily on visual presentation, which is a barrier to participation by blind and visually impaired persons](visual-reliance-barrier-bvi-astronomy.md) — related
+- [A diversity of models is needed so that learners with disabilities can access concepts that visual or aural models exclude](model-diversity-disability-accessibility.md) — a broader claim this one bears on

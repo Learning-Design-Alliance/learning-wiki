@@ -54,3 +54,4 @@ Narrative review statement in the stereotype threat section; the article reports
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
 - [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related
+- [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](individual-feedback-loop-homophily-bias-stereotype-threat.md) — related

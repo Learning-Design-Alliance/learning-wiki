@@ -66,3 +66,4 @@ Topic-number tuning: the authors tested topic numbers from 15 to 22, reasoning t
 ## Related Claims
 - [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
 - [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](lda-six-topics-from-student-feedback.md) — related
+- [Random-initialization instability in LDA was addressed by clustering topics across 500 runs and selecting the most central model](clustering-aggregation-stabilizes-lda.md) — related

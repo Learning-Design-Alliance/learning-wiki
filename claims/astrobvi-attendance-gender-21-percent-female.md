@@ -49,3 +49,4 @@ Gender reporting for the seven 2019 workshops, presented in Figure 8. The articl
 - [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](retreat-and-catch-up-framing-high-attendance.md) — related
 - [Seven AstroBVI workshops in Lima reached 165 blind and visually impaired participants, 68 with low vision and 97 with blindness](astrobvi-peru-165-bvi-participants-seven-workshops.md) — related
 - [QuCS attendees were predominantly doctoral-level and showed a substantial gender imbalance (83.85% male, 14.62% female)](qucs-attendee-demographics-doctoral-gender-imbalance.md) — related
+- Female attendance and representation rose between CS18 and CS19, exceeding field-wide fractions of women astronomers — related

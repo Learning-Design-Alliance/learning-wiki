@@ -49,3 +49,4 @@ An expert diagnosis of a syllabus error from the author's field, explaining that
 - [The Doppler shift Student Representation Task sequences representation creation to confront known reasoning difficulties, culminating in QCR = 4 graphing](doppler-shift-srt-confronts-difficulties.md) — related
 - [Students misinterpret color differences between elliptical and spiral galaxies, including as Doppler redshift and blueshift](galaxy-color-redshift-misconception.md) — related
 - [Beyond expanding-substrate models, expanding-space preconceptions are more likely to hinder than aid understanding of peculiar velocities, out-of-flow galaxies, and bound systems](expanding-space-preconceptions-hinder-beyond-models.md) — related
+- [The rubber balloon cosmology model leads audience members to misidentify the centre of the universe with the balloon's three-dimensional centre](rubber-balloon-embedding-centre-misconception.md) — related

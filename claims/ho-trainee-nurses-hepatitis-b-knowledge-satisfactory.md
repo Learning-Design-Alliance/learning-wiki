@@ -50,3 +50,4 @@ Descriptive cross-sectional survey of 358 student nurses in Ho, Ghana, using a s
 - [Despite satisfactory knowledge, trainee nurses showed poor attitudes and unsafe practices toward hepatitis B, including needle recapping](trainee-nurses-poor-attitude-unsafe-practices-hepatitis-b.md) — related
 - [Knowledge level showed a non-significant association with vaccination status among trainee nurses](knowledge-vaccination-status-non-significant-association.md) — related
 - [Vaccination coverage was satisfactory overall but varied significantly by program of study and year of study among trainee nurses](vaccination-status-varies-by-program-and-year.md) — related
+- [Large minorities of surveyed health professionals lacked knowledge of HBV symptoms, outcomes, transmission modes, and prevention](hbv-knowledge-gaps-symptoms-transmission-prevention.md) — related

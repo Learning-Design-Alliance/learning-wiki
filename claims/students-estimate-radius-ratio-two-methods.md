@@ -67,3 +67,4 @@ Data-file method: after finding the maximum flux between transits and the minimu
 - [Students estimated the orbital period of Kepler-2 from two consecutive transits as 2.201631±0.011335 days, close to the literature value](students-estimate-orbital-period-kepler-2.md) — related
 - [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — related
 - [Secondary-school students' averaged estimation of the HAT-P-7b transit duration from the MAST light curve (0.1667±0.009 days) matches the literature value](students-estimate-transit-duration-hat-p-7b.md) — related
+- [Student-calculated WASP-2 parameters agree with accepted values despite a simplified approach](wasp2b-calculated-parameters-match-accepted-values.md) — related

@@ -91,3 +91,4 @@ Path analysis within the SEM of survey data from 1203 students, estimated with D
 - [Changes in perceived recognition fully mediate the relationship between course grade and changes in physics identity, with no remaining direct grade effect](perceived-recognition-mediation-grades-identity.md) — related
 - [Mentored participants' computing identity narratives show stronger connections among interest, competence, recognition, and sense of belonging](mentorship-integrated-identity-network.md) — related
 - [Public recognition of STEM accomplishments without personal interest in STEM may not meaningfully nurture STEM identity](recognition-without-interest-insufficient-for-stem-identity.md) — related
+- [The claim that female students do not identify with physics because they perceive less recognition rests on an arrow direction the data do not determine](gender-recognition-arrow-direction-unsupported.md) — related

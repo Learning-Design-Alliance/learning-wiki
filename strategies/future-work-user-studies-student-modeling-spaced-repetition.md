@@ -59,6 +59,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Future directions for ML-based science assessment: generalizability, unbalanced data handling, user guidelines, and score interpretation supports](ml-science-assessment-future-directions-strategy.md)
 - [Future system development: enrich learner profiles with language background, attentional variability, and neurodiversity, and run in-classroom evaluations](future-enrich-profiles-in-classroom-evaluation.md)
 - [Develop adaptive LLM learning-by-teaching systems that dynamically adjust to a learner's input style and cognitive capacity](st-adaptive-llm-lbt-input-style-adjustment.md)
+- [Integrate gamified AI assistance into the development environment to reduce the learning curve](gamified-ai-assistance-in-dev-environment.md)
 
 ## Examples
 -

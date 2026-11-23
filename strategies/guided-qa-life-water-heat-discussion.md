@@ -37,7 +37,8 @@ The introduction scripts a short question-and-answer sequence: the teacher asks 
 - Explaining the key conditions needed to find potential life outside Earth
 
 ## Related Strategies
-- 
+
+- [Open the lesson with Mars landing videos and phenomenological discussion questions](mars-landing-video-priming-discussion.md)
 
 ## Examples
 -

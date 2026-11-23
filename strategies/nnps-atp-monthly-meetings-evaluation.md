@@ -47,6 +47,7 @@ An implementable operating routine for school-family partnership teams: ATP memb
 - [Structured and Sustained Family Engagement Programs](structured_and_sustained_family_engagement_programs.md)
 - [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 - [Undergraduate leadership and iterative refinement of program design](undergraduate-leadership-iterative-program-refinement.md)
+- [Community mobilization through sensitization campaigns, monthly meetings, and VDC/SMC involvement](score-community-mobilization-vdc-smc.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The article summarizes its event-design considerations into two categories: "par
 - [Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available](multilingual-communication-channels-el-families.md)
 - [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
 - [Zoom Family Hours](zoom_family_hours.md)
+- [Facilitate harassment discussions by educating organizers, partnering with campus centers and experts, using external facilitators over multiple semesters, providing mental health access, setting ground rules and expectations, arranging quiet and counselor rooms, holding men-only caucus groups, and sharing institutional policies](facilitation-strategies-harassment-discussions.md)
 
 ## Examples
 -

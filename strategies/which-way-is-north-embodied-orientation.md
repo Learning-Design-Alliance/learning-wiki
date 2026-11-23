@@ -44,6 +44,7 @@ The article describes curriculum such as "Which way is North?" and "Follow the S
 
 - [Dual-site Native Skywatchers educator workshops embedding star knowledge in authentic cultural context](native-skywatchers-educator-workshops.md)
 - [Night-sky field test where students apply their circumpolar maps and stellar compass under real conditions](night-sky-field-application-strategy.md)
+- [Present star maps as an experiential, hands-on event with time fixed a few hours after sunset and seasons organizing the sky](experiential-prime-time-stargazing-strategy.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ The authors report that "The vast majority of students performed well on these t
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — related
 - [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related
+- [The theodolite parallax activity yields distance measurements within about 10% for model-star distances up to 16 m, though pupil-group accuracy ranged from 10% to about 50%](theodolite-parallax-activity-10-percent-accuracy.md) — related

@@ -41,6 +41,7 @@ The TAN project makes all professional development materials openly accessible: 
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 - [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](open-source-code-access-peer-instruction.md)
 - [Share and embed interactive simulations via auto-generated URLs, embedded webpage fragments, or forked open-source code for course materials](visualpde-share-simulations-via-url.md)
+- [Publish all training programs and their sources online under a free license so third parties can adopt them](open-training-programs-free-license.md)
 
 ## Examples
 -

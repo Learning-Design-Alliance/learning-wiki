@@ -48,6 +48,7 @@ The article prescribes a concrete teaching sequence: "The lesson should consist 
 ## Related Strategies
 
 - [Teach longitude derivation in two consecutive steps: first a Longitude Clock exercise with five time readings, then plotting seven positions from Cook's second voyage](two-step-longitude-clock-activity.md)
+- [Teaching sequence: model lens, reconstruct Einstein's derivation, then consolidate by contrasting model with geometric modeling](three-lesson-lensing-teaching-sequence.md)
 
 ## Examples
 -

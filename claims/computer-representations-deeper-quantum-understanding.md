@@ -60,3 +60,4 @@ Stated pedagogical goal in the preface of a Master's/PhD lecture manual; the aut
 - [Managers value cross-domain fluency connecting quantum computation with domain areas such as chemistry, finance, AI, and optimization](cross-domain-fluency-quantum-applications-valued.md) — related
 - [Grade 5 students' informal responses about quantum varied widely, ranging from concrete concepts to misconceptions conflating quantum with other science](grade5-student-quantum-conceptions-varied.md) — a narrower finding that bears on this claim
 - [The article argues that embedding quantum operations in game mechanics can cultivate quantum intuition through play](quantum-intuition-through-play-argument.md) — a narrower finding that bears on this claim
+- [Interactive 3D mixed-reality environments let learners 'play' with STEM problems, which the authors argue improves understanding of theory and applications](mr-3d-play-with-stem-problems.md) — related

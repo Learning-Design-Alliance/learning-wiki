@@ -87,6 +87,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 - [Sentence Combining](sentence-combining.md) — a complementary technique for teaching syntactic flexibility through explicit practice
 - [Modeling](modeling.md) — the broader strategy of expert demonstration that mentor texts instantiate for writing
 - [Arouse desired emotions in pupils through art, literature, history, and imitation of admired models](art-literature-arouse-emotions-associated-ideas.md)
+- [Write explanatory text in a conversational first-person voice that anticipates reader difficulty](conversational-companion-voice-strategy.md)
 
 ## Examples
 - **Units of Study in Writing (Lucy Calkins, Teachers College Reading & Writing Project)** — workshop curriculum built on reading published authors as mentors, then imitating their moves in student writing (https://www.unitsofstudy.com)

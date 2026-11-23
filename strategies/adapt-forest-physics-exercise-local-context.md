@@ -49,6 +49,7 @@ The authors propose transposing the exercise to other universities by keeping it
 - Two Day Forest Physics Project Exercise
 - [Use low-cost Arduino hardware for do-it-yourself homework experiments, online curricula, and emerging-country physics labs](arduino-diy-homework-and-mooc-experiments-strategy.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
+- [Use Fermi problems grounded in local natural events to train pre-service physics teachers in estimation and logical reasoning](fermi-problems-local-events-teacher-training.md)
 
 ## Examples
 -

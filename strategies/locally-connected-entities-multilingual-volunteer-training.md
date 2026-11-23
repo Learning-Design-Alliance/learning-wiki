@@ -47,6 +47,7 @@ PACS e-Lab grows the campaign by inviting organizations that already have commun
 - [Rely on existing experts and invest in building expertise from within the communities served, including Grow Your Own faculty recruitment](rely-on-existing-experts-build-community-expertise.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Co-creating astronomy outreach with marginalised community leaders and cultural agents](co-created-astronomy-outreach-marginalised-communities.md)
+- [Translate ready-made science outreach material into under-served languages using local professional astronomers](translate-outreach-material-into-underserved-languages.md)
 
 ## Examples
 -

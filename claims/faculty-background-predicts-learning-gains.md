@@ -45,4 +45,4 @@ Aggregate observational analysis across Tables 1 and 2, covering roughly 4000 st
 
 
 ## Related Claims
--
+- [The article reports, citing Pollock and Finkelstein (2008), that student learning gains with Tutorials in Introductory Physics were consistently large at CU-Boulder, with some variation attributable to curricular choice or faculty familiarity with PER](tutorials-gains-consistently-large-cu-boulder.md) — related

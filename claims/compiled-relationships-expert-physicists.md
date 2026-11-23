@@ -75,3 +75,5 @@ Qualitative analysis of the 10 interview transcripts found this compiled-relatio
 - [In a preliminary experiment, physics graduate students used quantities not given in the task and applied known models, behaviors distinct from mathematics graduate students](physics-grad-students-proxy-and-compiled-models-preliminary.md) — related
 - [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — related
 - [Physics graduate students define thinking like a physicist as concept-first reasoning in which concepts are considered before applying mathematics](graduate-students-define-ltp-concept-first.md) — related
+- [The book argues fluent physics-style mathematical thinking consists of translating thoughts into equations rather than applying memorized formula templates](physicists-translate-thoughts-into-equations.md) — related
+- [Students familiar with similar triangles rapidly formulate the diffraction relation a/b = λ/d when given a clear drawing](students-rapidly-formulate-diffraction-relation.md) — related

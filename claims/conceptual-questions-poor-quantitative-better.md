@@ -69,3 +69,4 @@ The author's own exam data over four years of including simple conceptual questi
 - [Graduate physics core courses, particularly electricity and magnetism, were perceived to emphasize mathematical technique and rapid pacing at the expense of conceptual engagement](core-courses-math-focused-hinder-ltp.md) — related
 - [High-achieving first-year physics students with strong FCI scores still struggle with fundamental concepts on estimation and conceptual-reasoning problems](high-fci-scores-mask-fundamental-difficulties.md) — related
 - [Traditional physics instruction overemphasizes algorithmic math processing and neglects interpretation and evaluation steps](traditional-instruction-neglects-interpret-evaluate-steps.md) — related
+- [Students often lack qualitative understanding of simple electric circuits, particularly circuits with multiple batteries in multiple loops](student-difficulty-multiple-battery-circuits.md) — a narrower finding that bears on this claim

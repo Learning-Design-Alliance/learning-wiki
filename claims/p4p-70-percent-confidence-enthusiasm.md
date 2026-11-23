@@ -56,3 +56,4 @@ Annual student feedback from the Python4Physics program, as reported by the auth
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
 - [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related
 - [Workshop observations documented strong collaboration, enthusiasm, and increasing comfort with technical vocabulary](roboblimp-qualitative-engagement-teamwork.md) — related
+- [Summer research internships and mentoring experiences inspired Native Hawaiian students to persist toward PhDs in astronomy](internships-inspire-native-hawaiian-astronomy-persistence.md) — a narrower finding that bears on this claim

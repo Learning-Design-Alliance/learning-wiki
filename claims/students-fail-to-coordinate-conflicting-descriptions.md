@@ -77,3 +77,5 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Over-attaching significance to the deciding resource may interfere with reasoning about multi-particle systems](deciding-resource-overuse-interferes-multiparticle.md) — related
 - [Students use the deciding resource from personal relationships to interpret quantum collapse, as reported by Rosenberg](deciding-resource-personal-relations-quantum.md) — related
 - [A single student used multiple, rapidly switching interpretations of the same wave physics situations, including object-like and event-like reasoning within one interview](students-hold-multiple-switching-interpretations.md) — a narrower finding that bears on this claim
+- [Building the mass-spring Fortran code produces cyclic meaningful learning in which the code itself becomes a new subsumer](fortran-code-as-new-subsumer-cyclic-learning.md) — related
+- [Students risk acquiring the misconception that all multidimensional wave functions are separable when taught only separable solutions](multidimensional-wavefunctions-separable-misconception.md) — a narrower finding that bears on this claim

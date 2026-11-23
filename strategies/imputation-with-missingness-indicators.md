@@ -45,6 +45,7 @@ For quantitative PER data with missing values, the article recommends imputing m
 ## Related Strategies
 
 - [Use multiple imputation and non-response probability weighting to estimate unbiased impacts on classroom quality](multiple-imputation-nonresponse-weighting-quality-impacts.md)
+- [Adopt multiple imputation and improve missing-data reporting practices in PER quantitative studies](adopt-mi-improve-missing-data-reporting-strategy.md)
 
 ## Examples
 -

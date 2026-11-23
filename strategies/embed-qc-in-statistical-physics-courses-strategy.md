@@ -51,6 +51,7 @@ The authors recommend integrating quantum computing into the undergraduate curri
 - [Expand QISE access by embedding QISE concepts into existing engineering courses, investing at non-PhD-granting institutions, and offering interdisciplinary courses](embed-qise-existing-engineering-courses.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Develop modular quantum sensing curricular resources that integrate into existing undergraduate quantum-related courses](modular-quantum-sensing-curricular-resources.md)
+- [Use a satellite-data-driven, web-accessible dose tool to connect space-weather theory with real-time radiation-protection practice for undergraduates](satellite-driven-realtime-tool-teaching-space-radioprotection.md)
 
 ## Examples
 -

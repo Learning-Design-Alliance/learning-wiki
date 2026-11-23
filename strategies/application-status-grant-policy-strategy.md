@@ -48,6 +48,7 @@ The article's policy analysis of the stratum results recommends that, from a cos
 ## Related Strategies
 
 - [Ten state policy recommendations for student-centered financial aid systems](state-financial-aid-design-recommendations.md)
+- [Recruit through announced grants, qualification thresholds, and thorough interviews that check stated skills](grant-announcement-interview-recruitment-strategy.md)
 
 ## Examples
 -

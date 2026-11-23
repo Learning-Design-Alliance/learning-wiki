@@ -51,3 +51,4 @@ Descriptive analysis of survey data from 424 teachers; the quote reports the 89%
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
 - [Teachers prefer to start ILS design from empty pedagogical structures rather than domain content](teachers-prefer-empty-templates-over-domain-content.md) — related
 - [Booklets or leaflets and internet text-and-figures were the public's preferred delivery modes for cancer information](public-preferred-delivery-booklets-internet.md) — related
+- [Course materials for the astroparticle physics course are open-source and published online](astroparticle-course-open-materials.md) — a narrower finding that bears on this claim

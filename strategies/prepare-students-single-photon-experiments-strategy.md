@@ -47,6 +47,7 @@ Instructors prepare students for the conceptually and technically complex single
 
 - [Balance optical-alignment practice with completing experiments through sequencing, shared setups, and instructor realignment](balance-alignment-practice-with-completion-strategy.md)
 - [Use an analogy setup with simulated quantum measurements to make a quantum student lab affordable, quick, robust and portable](analogy-setup-affordable-quantum-lab-strategy.md)
+- [Substitute simulators for specialized single-photon equipment in high school quantum labs](simulator-substitution-for-quantum-labs.md)
 
 ## Examples
 -

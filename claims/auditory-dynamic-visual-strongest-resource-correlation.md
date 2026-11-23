@@ -48,3 +48,4 @@ Spearman rank correlation network analysis of questionnaire contribution scores 
 - [Students' preference levels for the four learning modalities were positively correlated, and cluster analysis separated a lower-preference group (135 students) from a higher-preference group (170 students)](learning-preferences-correlated-two-clusters.md) — related
 - [Students rated dynamic visual, auditory, and still-image resources as contributing more to skill acquisition than kinesthetic simulator practice or self-written notes](multimodal-resource-contribution-rankings.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Students rate visual representation and better perception of complex information as the main contributions of infographics](infographics-perceived-benefits-visual-representation.md) — related

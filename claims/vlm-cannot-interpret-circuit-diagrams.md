@@ -58,3 +58,4 @@ Demonstration examples in the limitations section: when asked to list elements a
 - [Mantel-Haenszel analysis flags three iCMA questions with significant male bias, all requiring interpretation of multi-dimensional diagrams](male-bias-multidimensional-diagram-questions.md) — related
 - [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — a broader claim this one bears on
 - [API-based evaluation fails on graphical and mathematical content because the model cannot parse images, tables, graphs and embedded equations](chatgpt-api-cannot-parse-figures-equations.md) — a broader claim this one bears on
+- [Olympiad participants reliably solve the circuit problem but none solved the technical-application task, indicating a need to complement physics education](epo10-application-task-unsolved-by-participants.md) — related

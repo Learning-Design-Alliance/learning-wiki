@@ -43,7 +43,8 @@ Before each event, facilitators began meeting about six months prior to plan tec
 - [A Year 3 beta-testing hackathon expanded screening software from three binary yes/no parameters to more than ten continuous parameters and exposed distribution-specific bugs](../claims/hackathon-beta-testing-software-expansion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide organizers with a tree-structured hackathon planning kit that guides event design through questions about event goals](hackathon-planning-decision-tree.md)
 
 ## Examples
 -

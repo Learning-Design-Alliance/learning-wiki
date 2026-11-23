@@ -43,6 +43,7 @@ For running the measurement with relatively large groups, the authors used small
 ## Related Strategies
 
 - [Technology Accessibility](technology_accessibility.md)
+- [Use a student-run speed-of-sound experiment as an introduction to Bayesian data analysis](speed-of-sound-experiment-introduces-bayesian-analysis.md)
 
 ## Examples
 -

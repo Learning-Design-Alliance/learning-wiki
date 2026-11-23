@@ -54,3 +54,4 @@ Thematic finding from the focus groups with 24 BME graduate-entry students; part
 - [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related
 - [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related
 - [Masking autistic traits consumes substantial cognitive energy and contributes to social isolation, burnout, and mental health problems](masking-costs-burnout-autistic-trainees.md) — related
+- At the unit level, out-group requests for change are experienced by the privileged in-group as status threats, producing defensiveness that deepens group separation — related

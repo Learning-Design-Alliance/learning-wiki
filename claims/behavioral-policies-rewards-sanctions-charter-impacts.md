@@ -51,3 +51,4 @@ The summary's list of consistently associated policies includes "comprehensive b
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — a broader claim this one bears on
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related
+- [Sanctioning cheaters for hindering learning requires five conditions, including that cheating actually interfered with learning](five-conditions-for-sanctioning-cheaters.md) — related

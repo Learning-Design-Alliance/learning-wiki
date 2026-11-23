@@ -92,6 +92,7 @@ Estimation works as a form of [activation](../principles/activation.md): committ
 - [Teach order-of-magnitude estimation through timescale calculations to build students' timescale intuition](order-of-magnitude-timescale-estimation-strategy.md)
 - [Order of magnitude analysis: deliberately discarding precision to estimate and evaluate magnitudes](order-of-magnitude-analysis-strategy-physics-equations.md)
 - [Give instructors worked Cinema Fermi Problem examples to develop skill in recognizing Fermi problems and making Fermi calculations in their own courses](cinema-fermi-worked-examples-strategy.md)
+- [Use Fermi problems grounded in local natural events to train pre-service physics teachers in estimation and logical reasoning](fermi-problems-local-events-teacher-training.md)
 
 ## Examples
 - **Fermi problems in physics classrooms** — "How many atoms are in a human body?" Students decompose the question, estimate each part, then compare against the accepted value; widely used in University of Maryland's Physics Education Research Group materials ([Einstein Project Fermi problems](https://www.physics.umd.edu/perg/)).

@@ -38,6 +38,7 @@ SEERNet standardized how researchers establish that a proposed platform study is
 ## Related Strategies
 
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
+- [Catalyse member projects with small-scale seed grants and skilled cross-disciplinary fellows](small-seed-grants-and-cross-disciplinary-fellows.md)
 
 ## Examples
 -

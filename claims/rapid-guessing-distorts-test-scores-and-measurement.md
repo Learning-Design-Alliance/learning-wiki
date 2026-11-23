@@ -136,3 +136,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [The Easy Questions Test identifies 3%–4.6% of real test takers as non-serious versus 41%–51% of simulated random guessers](eqt-flags-3-to-4-6-percent-nonserious.md) — related
 - [The Uncommon Answers Test identifies slightly more than 2% of real test takers as non-serious versus large fractions of simulated random guessers](uat-flags-slightly-over-2-percent-nonserious.md) — related
 - [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — a narrower finding that bears on this claim
+- [Simulations of guessing strategies cannot explain the low confidence at low knowledge levels; best fits use approximately 25% guessers](guessing-simulations-cannot-explain-effect.md) — a narrower finding that bears on this claim

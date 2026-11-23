@@ -71,3 +71,4 @@ Topic-level analysis of unit-level concepts addressed by each Exercise Set (Figu
 - [PICUP learning objectives split nearly evenly between physics-only and computational-training goals, with few addressing both](picup-es-objective-balance-physics-computation.md) — related
 - [Over two-thirds of PICUP Exercise Sets provide code for only a single programming platform despite a three-platform recommendation, though nearly all (57 of 62) are platform agnostic](picup-es-single-platform-dominance.md) — related
 - [Classical mechanics, oscillations, waves and optics, quantum mechanics, relativity, circuits and electric and magnetic fields are core first-year material across sampled high-ranked UK universities](core-first-year-physics-content-uk-universities.md) — related
+- [The redesigned RDB collapses many categories into four main physics topics with 44 physics topics and 41 item types filterable, plus a new school-topic tag](rdb-redesign-categorisation.md) — related

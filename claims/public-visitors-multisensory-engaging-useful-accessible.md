@@ -47,3 +47,4 @@ Questionnaires with the same three questions as the HS students, answered by Fes
 ## Related Claims
 - [High-school students rate multi-sensory astronomy exploration as highly engaging and report increased confidence that astronomy is accessible for blind and visually impaired people](hs-students-multisensory-engaging-accessibility-confidence.md) — related
 - [Visitors overwhelmingly reported that the pre-service teachers' explanations helped them understand the phenomena, with 96.9% answering yes and 81.3% rating clarity as excellent](public-square-explanations-high-approval.md) — related
+- [Captain Einstein has been viewed by more than 2500 festival visitors with generally very positive response, attracting a wide range of backgrounds](captain-einstein-festival-outreach-2500-visitors.md) — related

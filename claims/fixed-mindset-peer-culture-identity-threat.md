@@ -65,3 +65,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [A hidden-curriculum culture in which difficulties are seen as a sign of weakness makes seeking support and additional training stigmatising, particularly for IMGs and BME UKGs](hidden-curriculum-weakness-stigma-help-seeking.md) — related
 - [Semantic network analysis showed statistically significant interdependencies between positive persistence and growth mindset, important early undergraduate experiences, gender stereotype threat, external recognition, and confidence](persistence-interdependencies-semantic-network.md) — related
 - [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related
+- At the unit level, out-group requests for change are experienced by the privileged in-group as status threats, producing defensiveness that deepens group separation — related

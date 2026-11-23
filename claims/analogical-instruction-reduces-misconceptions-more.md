@@ -56,3 +56,4 @@ Percentages of misconceptions per question (Table 2) before and after instructio
 - [Analogies in science teaching are implemented through verbal instructions, videos, and images or illustrations, often combined within one analogy](analogy-didactic-resources-verbal-video-images.md) — related
 - [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
 - [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — related
+- [A student misconception equates the limit of the circuit current as internal resistance tends to zero with the current's value at zero, which the article refutes using function continuity](limit-versus-value-circuit-misconception.md) — related

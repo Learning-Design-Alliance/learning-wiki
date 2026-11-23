@@ -44,6 +44,7 @@ The article recommends supporting secondary-school explanation of thermodynamics
 
 - [Use a piston-in-tube heating exercise with an experimentally verifiable oscillatory solution in thermodynamics courses and laboratories](piston-in-tube-time-dependent-exercise-strategy.md)
 - [Extend basic molecular dynamics simulations with elastic bonds and anchored atoms for demonstrations beyond the pure Lennard-Jones system](md-bonds-and-anchoring-enhancements.md)
+- [Use Algodoo Brownian-motion animations across school levels: illustrate random motion at high school, teach data-treatment procedures and statistical-physics concepts at undergraduate level](algodoo-bm-multilevel-teaching-strategy.md)
 
 ## Examples
 -

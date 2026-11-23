@@ -48,6 +48,7 @@ The article recommends that "coursebook designers may consider integrating guide
 
 - [Combine translation-based contrastive analysis with phonological-awareness instruction when teaching formulaic sequences](combine-pbi-tbi-chunk-instruction.md)
 - [Include or exclude sentence context in explicit formulaic sequence teaching based on teaching motivation, since context adds no measurable learning benefit for low-proficiency learners.](optional-context-fs-explicit-teaching.md)
+- [Treat embedded exercises as an integral part of a lecture course to stimulate active reading](exercises-as-part-of-course-active-reading.md)
 
 ## Examples
 -

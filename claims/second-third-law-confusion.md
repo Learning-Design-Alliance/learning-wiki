@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2005
+source_checked: 2026-11-23
 recheck_by: 2010
 sources:
   - id: sanjoy-mahajan-2005
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
+> **Currency** · newest study 2005 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` None of the students could prove that a composite object's weight equals the sum of individual weights, and their explanations confused the second and third laws. [→ Sanjoy Mahajan 2005](#sanjoy-mahajan-2005)

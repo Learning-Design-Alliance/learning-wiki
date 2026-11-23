@@ -51,3 +51,4 @@ The article's descriptive account (type d/e) of the Big Bang Collective's Europe
 - [The Black Holes: The Other Side of Infinity planetarium show has reached over two million viewers worldwide](black-holes-planetarium-show-reach.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
 - [Outreach mediated by teachers engages students more deeply than physicists' single outreach events](teacher-mediated-outreach-deeper-engagement.md) — related
+- [Captain Einstein has been viewed by more than 2500 festival visitors with generally very positive response, attracting a wide range of backgrounds](captain-einstein-festival-outreach-2500-visitors.md) — related

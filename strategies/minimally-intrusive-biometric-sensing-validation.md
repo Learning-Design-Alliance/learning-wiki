@@ -50,6 +50,7 @@ The review's guidance for future multimodal sensing work is to prioritize minima
 - [Use unobtrusive wearable sensing of physiological signals to tailor educational strategies and group students by synchronized responses](wearable-sensing-tailored-strategies-strategy.md)
 - [Measure online learners' attentional states by integrating multimodal sensing with retrospective recall and thought probes](multimodal-attention-probe-retrospective-recall-strategy.md)
 - [Use wearable devices as an objective alternative to self-report for tracking student sleep in academic-performance research](wearable-devices-objective-sleep-tracking-strategy.md)
+- [Use biometric mood sensing with machine learning to adaptively personalize the learning experience](biometric-mood-adaptive-personalization.md)
 
 ## Examples
 -

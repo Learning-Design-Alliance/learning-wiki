@@ -55,3 +55,4 @@ Survey of 590 questionnaires (roughly 200 each year, 2013-2015) filled out by Sl
 - [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
 - [Most former Masterclass respondents build careers outside science or R&D, most frequently in IT](imc-careers-spread-across-professions.md) — related
 - [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related
+- [Extra-curricular particle physics activities increased general interest in physics among students aged 16-19 in the UK and Germany](particle-physics-outreach-increases-student-interest.md) — related

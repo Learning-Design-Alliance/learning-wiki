@@ -47,6 +47,7 @@ The game maps the decay modes the ATLAS and CMS experiments found — H0 → γ�
 
 - [Use a dice roll in the advanced game so a candidate Higgs combination may be only a background event](higgs-dice-background-event-strategy.md)
 - [Expand the 2012 masterclasses with a CMS W/Z ratio exercise and deeper ATLAS W-boson data](2012-lhc-masterclass-expansions.md)
+- [Memory-style matching variant requiring valid particle combinations](quark-matter-memory-matching-strategy.md)
 
 ## Examples
 -

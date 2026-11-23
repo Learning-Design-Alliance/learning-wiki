@@ -69,3 +69,4 @@ Study 2 replicated Study 1 with N = 158 students in Foundations of Education, sa
 - [In Study 3, among students who cheated, cheating extent was lower in unproctored exams, with a gender by exam type interaction driven by male students](study3-cheating-extent-gender-interaction.md) — related
 - [Study 4 replicated lower cheating rates in unproctored exams with reminders present, though with anecdotal Bayes evidence](study4-unproctored-rate-replication-reminders.md) — related
 - [With academic integrity reminders present, the exam-format effect on cheating rate disappears (Study 3 null)](reminders-eliminate-exam-format-rate-effect.md) — reports the opposite
+- [Reducing cheating will not necessarily improve learning](curbing-cheating-does-not-necessarily-improve-learning.md) — related

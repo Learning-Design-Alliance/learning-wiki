@@ -53,3 +53,4 @@ Subject moderator analysis of the included studies (Table 3), covering seven sub
 - [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](pbl-discipline-moderator-no-significant-difference.md) — related
 - [Intervention effects did not differ between physics and English subjects](genai-srl-effects-no-subject-differences.md) — related
 - [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](gender-gap-subject-grades-chinese-cohort.md) — related
+- [Students judge infographics most useful in natural science courses and least useful in social science courses](infographics-usefulness-varies-by-discipline.md) — related

@@ -58,6 +58,7 @@ To know when online learners have attentional problems, the article integrates e
 
 - [Design multimodal biometric sensing deployments to be minimally intrusive and validated against educational outcomes](minimally-intrusive-biometric-sensing-validation.md)
 - [Concatenate eyeglass-detection features with model outputs so the network can down-weight unreliable gaze features](concatenate-glass-features-gaze-downweighting.md)
+- [Use biometric mood sensing with machine learning to adaptively personalize the learning experience](biometric-mood-adaptive-personalization.md)
 
 ## Examples
 -

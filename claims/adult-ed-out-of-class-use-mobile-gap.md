@@ -81,3 +81,4 @@ The report attributes this figure to a Tyton Partners report, not to its own stu
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Accessing the course via PC/laptop versus tablet/smartphone predicted the problem solving score, but not the total medical statistics score](access-device-predicts-problem-solving-not-total-score.md) — related
 - [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — related
+- [Stroboscopic photos from student-made videos let students analyse motion intuitively and work outside the laboratory at their own pace](stroboscopic-photos-student-videos-outside-classroom.md) — related

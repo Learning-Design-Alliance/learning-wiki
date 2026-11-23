@@ -48,3 +48,4 @@ Focus group discussions and post-course survey feedback from the 9-student remot
 - [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related
 - [Students most often cited visualisation of complicated processes as the most helpful aspect of the activity.](visualisation-most-helpful-aspect.md) — related
 - [Student feedback consistently rated the coding exercises as the most valuable and effective learning activity in Fundamentals of Quantum Engineering.](qe-coding-exercises-most-valuable-activity.md) — reports the opposite
+- [The GPU re-write of the solver was not complicated, especially with guidance, and served as a useful exercise for understanding GPU computation](gpu-rewrite-not-complicated-useful-exercise.md) — related

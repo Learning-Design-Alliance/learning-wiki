@@ -51,3 +51,4 @@ The LSAGS analysis found no effect of having a mentor other than one's advisor o
 - [HHMI Gilliam Fellowship 2.0 restructured awarding and required advisor mentorship training, with more than 240 advisors completing the course by September 2022](gilliam-fellowship-2-0-advisor-mentorship-training.md) — related
 - [REU participation and prior family familiarity gave Alex access to prospective advisors before matriculation, enabling pre-graduate-school matching](reu-access-enabled-early-advisor-matching.md) — related
 - [Physics PhD students characterize joining a research group as a significant decision because of the advisor relationship, long-term commitment, career impact, and risk of leaving](joining-research-group-significant-decision-phd.md) — related
+- [Summer research internships and mentoring experiences inspired Native Hawaiian students to persist toward PhDs in astronomy](internships-inspire-native-hawaiian-astronomy-persistence.md) — related

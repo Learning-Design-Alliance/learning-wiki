@@ -55,3 +55,4 @@ Discussion-section finding from the interview study: participants at intersectio
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim
 - [Participation in a welcoming research community of practice built astronomy identity, belonging, and competence, and mitigated imposter syndrome](research-community-astronomy-identity.md) — related
 - [Bell Burnell Graduate Scholarship applicants in 2022 and 2023 were overwhelmingly from multiple under-represented groups](bell-burnell-applicants-intersectional-underrepresentation.md) — related
+- [Women of color in astronomy and planetary science experienced the highest rates of negative workplace experiences, per Clancy et al. (2017)](women-of-color-highest-negative-workplace-experiences.md) — related

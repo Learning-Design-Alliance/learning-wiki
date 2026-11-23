@@ -46,6 +46,7 @@ The article recommends that the teacher "demonstrate some simple yet revealing f
 
 - [Use light propagation in a glass rod as a blown-up fiber model to teach acceptance angle, numerical aperture, and Rayleigh scattering](glass-rod-light-propagation-demonstration.md)
 - [Use a water jet optics demonstration to teach total internal reflection as the principle underlying fiber optics](water-jet-optics-demonstration-strategy.md)
+- [Use eye-catching physical demonstrations to begin mathematics outreach at busy science fairs](physical-demonstrations-science-fair-outreach.md)
 
 ## Examples
 -

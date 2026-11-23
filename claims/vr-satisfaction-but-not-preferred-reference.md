@@ -54,3 +54,4 @@ User experience survey (CSQ-VR plus satisfaction items) completed by all 17 part
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
 - [Most students remained open to VR use in anatomy examinations despite preferring physical specimens](students-open-to-vr-despite-preference.md) — related
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related
+- Participants overwhelmingly prefer VR for molecular manipulation tasks, citing depth perception, walking around the molecule, and two-handed control — related

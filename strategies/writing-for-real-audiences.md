@@ -68,6 +68,7 @@ Authentic audiences raise the stakes of writing and make rhetorical choices (ton
 - [Writing Across the Curriculum](writing-across-the-curriculum.md) — authentic audiences arise naturally when writing serves disciplinary purposes
 - [Collaborative Writing](collaborative-writing.md) — co-authoring for a shared audience adds negotiation of rhetorical decisions
 - [Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising](reading-as-the-reader-activity.md)
+- [Write explanatory text in a conversational first-person voice that anticipates reader difficulty](conversational-companion-voice-strategy.md)
 
 ## Examples
 - **[National Writing Project](https://www.nwp.org)** — teacher networks built around publishing student writing for community and online audiences; its research consistently links audience awareness to revision quality.

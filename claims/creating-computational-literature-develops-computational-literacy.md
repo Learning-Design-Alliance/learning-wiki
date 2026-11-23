@@ -81,3 +81,4 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [How students approach developing social computational literacy varies across individuals and is driven by unspoken assumptions](social-computational-literacy-variable-unspoken-assumptions.md) — related
 - [Students prioritize cognitive over material computational literacy when advising understanding over finishing assignments](understanding-prioritized-over-finishing-assignments.md) — related
 - [No-code quantum simulation tools are limited when learners do not transition to more formal mathematical approaches](no-code-quantum-tools-limited-without-formal-transition.md) — related
+- [Pairing kinesiology undergraduates with little programming background alongside experienced UE4 developers let students rapidly build HoloLens demonstrations of multisensory-integration experiments](hololens-kinesiology-developer-pairing.md) — related

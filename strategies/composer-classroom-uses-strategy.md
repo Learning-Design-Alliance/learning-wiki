@@ -45,6 +45,7 @@ The article enumerates four ways instructors can use Composer in an educational 
 - [Use dynamic software so students visualize, explore and discuss data instead of only computing](dynamic-software-data-exploration-discussion-strategy.md)
 - [Pair simulations with guided-inquiry activities rather than relying on undirected exploration](guide-simulation-exploration-with-activities.md)
 - [Introduce each representation in context and provide visual aids before classroom use of Quantum Composer](composer-classroom-usage-teaching-strategy.md)
+- [Use a set of predefined central-force exercises, solvable by simulation and in some cases analytically, as classroom activities](predefined-central-force-exercise-set.md)
 
 ## Examples
 -

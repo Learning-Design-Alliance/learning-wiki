@@ -49,3 +49,4 @@ Author's informal observation, offered without measurement, comparing student au
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
 - [Hands-on astronomy visits were extremely well appreciated by children and teachers and promoted early excitement of science](astronomy-outreach-appreciated-promotes-excitement.md) — related
+- [A storyline format better holds the attention of the audience than a lecture-style physics show, according to the authors' experience](storyline-holds-audience-attention-physics-show.md) — related

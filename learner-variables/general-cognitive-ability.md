@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (154 show a difference, 57 mixed, 37 no difference) · 173 studies (69 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 40 of 173 report an effect size · 245 claims rest on one study
+> **Evidence** · 250 claims (155 show a difference, 57 mixed, 38 no difference) · 174 studies (70 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 41 of 174 report an effect size · 247 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -284,6 +284,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [High-SES students' expectations are less responsive to cognitive ability, a pattern in line with the compensatory advantage mechanism](../claims/ses-moderation-responsiveness-cognitive-ability.md) [~M] — learners who differ on it differ in outcomes
 - [Applying cognitive human capital theory, the projected IQ gain corresponds to a per-capita productivity gain of $1,750 to $2,981 by 2060](../claims/iq-gain-productivity-estimate-2060.md) [+W] — learners who differ on it differ in outcomes
 - [Childhood IQ directly predicts adult wealth, with a standardized total effect of 0.24](../claims/childhood-iq-predicts-adult-wealth.md) [+M] — learners who differ on it differ in outcomes
+- [General intelligence correlates with CNCEE academic performance and explains additional variance beyond gender, age and total gray matter volume](../claims/cl-rapm-cncee-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [General intelligence partially mediates the association between left DLPFC gray matter density and CNCEE academic performance](../claims/cl-intelligence-mediation-dlpfc-cncee.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

@@ -157,3 +157,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — a narrower finding that bears on this claim
 - [Students' focus on solution-finding segments suggests they may not attend to conceptual video elements any more than in a passive lecture](conceptual-attention-like-passive-lecture.md) — related
 - [Recorded video demonstrations offer classroom advantages over live demonstrations, including slow motion, annotations, visible detail and easier logistics](recorded-demonstration-advantages-over-live.md) — related
+- [Stroboscopic photos from student-made videos let students analyse motion intuitively and work outside the laboratory at their own pace](stroboscopic-photos-student-videos-outside-classroom.md) — a narrower finding that bears on this claim

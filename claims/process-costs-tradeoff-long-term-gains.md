@@ -49,3 +49,4 @@ The editorial discusses Wang, Rosé and Chang's study of brainstorming and group
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
+- [Misleading model features disproportionately discourage learners who actively try to think models through](misleading-features-discourage-active-learners.md) — related

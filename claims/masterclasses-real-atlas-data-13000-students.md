@@ -51,3 +51,4 @@ The article reports participation figures for the International Masterclasses pr
 - [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — related
 - [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related
 - [International Masterclasses let high-school students analyse real experimental data and present results, engaging over 13,000 students annually across 60 countries](ippo-international-masterclasses-real-data-engagement.md) — related
+- [The International Masterclasses programme engages more than 13,000 high school students per year in 60 countries in analysing real LHC data](international-masterclasses-scale-reach.md) — related
