@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interact-create-apply-ai-engagement-modes
 title: "Three ways to engage with AI in educational contexts: Interact, Create, and Apply"
 description: "Building on the research-based 4 As framework for families' AI literacy dimensions, the brief distinguishes \"three ways to engage with AI in educational contexts: Interact, Create, and Apply.\" This taxonomy organizes..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: perceptual-tradition-self-concept-foundations
 title: "Theoretical foundations: the perceptual tradition and self-concept theory"
 description: "Invitational Education 'emanates from two theoretical perspectives: the perceptual tradition and self-concept theory.' The perceptual tradition maintains that 'people do what they do because of how they perceive the w..."
 status: review

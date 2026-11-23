@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-category-language-app-evaluation-framework
 title: "Four-category framework for evaluating language-learning apps: technology, pedagogy, user experience, and language learning"
 description: The article presents an evaluation framework grounded in prior app-evaluation frameworks and SLA task-design principles, offered as reflection questions rather than a scored rubric.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-learning-mindsets-framework
 title: "Four learning mindsets framework: belonging, success expectancy, growth mindset, and task value"
 description: "The synthesis names four learning mindsets that are particularly important for students' academic behaviors, persistence, and performance, expressed from the student's point of view: \"I belong in this learning communi..."
 status: review

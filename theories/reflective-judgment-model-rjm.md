@@ -1,5 +1,6 @@
 ---
 type: theory
+id: reflective-judgment-model-rjm
 title: Reflective Judgment Model (RJM)
 description: The Reflective Judgment Model, developed by King and Kitchener (1994), is a model of adult cognitive development related to epistemological beliefs.
 status: review

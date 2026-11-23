@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-category-fairness-resource-taxonomy
 title: "Four-category taxonomy of fairness-in-education resources: Material, Procedural, Directories, Organizational"
 description: The guide organizes bias-free education resources into a four-part taxonomy.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interpersonal-styles-as-generalized-expectancies
 title: Interpersonal styles equated with generalized expectancies in social learning theory
 description: "The article reinterprets interpersonal styles — the basic behavioral units of interpersonal processes — as generalized expectancies within Rotter's social learning theory, alongside specific expectancies that develop..."
 status: review

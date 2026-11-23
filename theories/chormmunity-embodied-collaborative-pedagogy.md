@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chormmunity-embodied-collaborative-pedagogy
 title: "Chormmunity: collaborative embodied text-making as liberatory pedagogy"
 description: "Chormmunity is a group pedagogy in which participants co-create a movement text or ritual as an embodied 'document' of meaning."
 status: review

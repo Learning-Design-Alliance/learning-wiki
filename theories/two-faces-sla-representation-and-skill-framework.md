@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-faces-sla-representation-and-skill-framework
 title: "Two-faces framework: language acquisition as distinct mental representation and skill components"
 description: "The article proposes that language is not monolithic but consists of two broad domains: mental representation, defined as \"the abstract, implicit, and underlying linguistic system in a speaker's mind/brain\", and skill..."
 status: review

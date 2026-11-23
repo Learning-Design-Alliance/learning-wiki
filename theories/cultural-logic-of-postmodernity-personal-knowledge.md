@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cultural-logic-of-postmodernity-personal-knowledge
 title: Personal knowledge genres sit within the cultural logic of postmodernity, where specific empowerment can accompany overall social control
 description: The article locates narrative and storying genres within emergent cultural patterns of contemporary societies and economies.
 status: review

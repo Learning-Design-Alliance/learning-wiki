@@ -1,5 +1,6 @@
 ---
 type: theory
+id: symbolic-interactionism-shared-symbols-framework
 title: "Symbolic interactionism: individuals and society as inseparable, held together by changing shared symbols"
 description: The essay locates Goffman in the symbolic interactionist tradition of Mead, Blumer, James, Cooley, Dewey and Thomas, a tradition favoring field research over laboratory studies and armchair writing.
 status: review

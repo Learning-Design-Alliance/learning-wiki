@@ -1,5 +1,6 @@
 ---
 type: theory
+id: graduated-classroom-design-emotional-disturbance-levels
 title: Graduated classroom-design framework matching environmental control to three levels of emotional disturbance
 description: "The booklet organizes all its design schemes around a single axis: the degree of emotional disturbance of the children served."
 status: review

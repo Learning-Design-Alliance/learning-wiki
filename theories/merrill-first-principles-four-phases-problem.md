@@ -1,5 +1,6 @@
 ---
 type: theory
+id: merrill-first-principles-four-phases-problem
 title: "Merrill's First Principles of Instruction: four phases revolving around a problem"
 description: "The digest presents Merrill's (2002) First Principles of Instruction as the most recent comprehensive framework for designing lessons aimed primarily at cognitive learning, springing from an eclectic perspective that..."
 status: review

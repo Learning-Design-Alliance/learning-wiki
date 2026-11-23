@@ -1,5 +1,6 @@
 ---
 type: theory
+id: access-design-use-digital-equity-gaps
 title: "Three commonplace digital equity gaps for AI and emerging educational technologies: access, design, and use"
 description: "Building on the US National Educational Technology Plan, the brief identifies \"three commonplace gaps that impact digital equity for AI and all emerging educational technologies: gaps in access, design, and use.\" For..."
 status: review

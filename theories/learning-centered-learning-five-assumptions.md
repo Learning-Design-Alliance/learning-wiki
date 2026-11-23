@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-centered-learning-five-assumptions
 title: "Learning-centered learning: a construct resting on five philosophical learning assumptions"
 description: "The article names and describes 'learning-centered learning,' a 21st-century construct that shifts educators' mindset from controlling teaching toward the learner and the learning process."
 status: review

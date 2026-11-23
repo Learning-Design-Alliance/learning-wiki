@@ -1,5 +1,6 @@
 ---
 type: theory
+id: heuristic-account-stigmatizing-labels
 title: Heuristic-based decision-making account of how stigmatizing labels shape public judgments
 description: "The article frames label effects through cognitive heuristics: \"Stigmatizing labels are thought to lead to heuristically based decision-making."
 status: review

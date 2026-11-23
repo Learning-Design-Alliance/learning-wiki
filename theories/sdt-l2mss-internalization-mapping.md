@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sdt-l2mss-internalization-mapping
 title: Internalization-based mapping between SDT motivation types and L2MSS self constructs
 description: The article organizes the two motivation theories along a shared internalization continuum.
 status: review

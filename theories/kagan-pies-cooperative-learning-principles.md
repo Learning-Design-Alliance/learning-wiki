@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kagan-pies-cooperative-learning-principles
 title: "Kagan's PIES principles of cooperative learning"
 description: "The article adopts Kagan's (1994) four basic principles of cooperative learning, captured by the acronym PIES: \"Positive interdependence, Individual accountability, Equal participation, Simultaneous interaction\"."
 status: review

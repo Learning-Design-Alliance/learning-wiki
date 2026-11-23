@@ -1,5 +1,6 @@
 ---
 type: theory
+id: general-goals-career-industrial-technological-emphasis
 title: "General goals of industrial arts: career emphasis and industrial-technological emphasis"
 description: Chapter III presents two inter-related types of general goals for the entire K-12 industrial arts program.
 status: review

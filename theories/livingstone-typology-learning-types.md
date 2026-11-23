@@ -1,5 +1,6 @@
 ---
 type: theory
+id: livingstone-typology-learning-types
 title: Four-part typology of adult learning based on knowledge structure and primary agency
 description: "The paper proposes a typology distinguishing four basic types of learning along two axes: whether the knowledge structure is pre-established or situational, and whether primary agency lies with teachers or learners."
 canonical: true

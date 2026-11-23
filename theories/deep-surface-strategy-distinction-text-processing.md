@@ -1,5 +1,6 @@
 ---
 type: theory
+id: deep-surface-strategy-distinction-text-processing
 title: Deep versus surface learning strategies as determinants of scientific text understanding
 description: The article organises cognitive learning strategies by the depth of processing they induce.
 status: review

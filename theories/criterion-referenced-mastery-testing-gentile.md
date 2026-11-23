@@ -1,5 +1,6 @@
 ---
 type: theory
+id: criterion-referenced-mastery-testing-gentile
 title: Criterion-referenced (mastery) testing as the advocated grading framework
 description: "The essay's central framework: each student is \"judged solely in relation to these pre-established criteria\" — the course objectives — \"and independently of the performance of any other student.\" Students who have not..."
 status: review

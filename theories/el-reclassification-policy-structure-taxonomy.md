@@ -1,5 +1,6 @@
 ---
 type: theory
+id: el-reclassification-policy-structure-taxonomy
 title: Four-category taxonomy of state EL reclassification policy structures by kind and number of test-based criteria
 description: "The brief organizes state EL reclassification policies into four groups arranged in ascending complexity: single ELP criterion, multiple ELP criteria, optional non-ELP criteria, and mandated non-ELP criteria."
 status: review

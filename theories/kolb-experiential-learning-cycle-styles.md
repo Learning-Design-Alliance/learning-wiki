@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kolb-experiential-learning-cycle-styles
 title: "Kolb's experiential learning cycle and four learning styles"
 description: "The article adopts Kolb's model in which \"knowledge is created through the transformation of experience\" via a four-stage cycle of concrete experience, reflective observation, abstract conceptualization, and active ex..."
 status: review

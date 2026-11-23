@@ -1,5 +1,6 @@
 ---
 type: theory
+id: task-planning-taxonomy-ellis
 title: "Ellis's taxonomy of task planning in task-based language teaching"
 description: "The review adopts Ellis's (2005) classification of task planning, in which \"Planning in task-based learning and teaching can be cataloged into two kinds: pre-task planning and within-task planning.\" Pre-task planning..."
 status: review

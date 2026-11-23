@@ -1,5 +1,6 @@
 ---
 type: theory
+id: krashen-five-hypotheses-bilingual-principles
 title: "Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs"
 description: "The packet states principles for second language acquisition are best stated by Krashen's (1981) five hypotheses: acquisition-learning, natural order, monitor, input, and affective filter."
 status: review

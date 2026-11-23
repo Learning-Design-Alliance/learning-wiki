@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dli-three-dimension-classification
 title: "Three-dimension classification of district-led innovations: technical infrastructure, implementation approach, and scalability"
 description: "The report organizes its five featured District-Led Innovations along three dimensions: technical infrastructure requirements (foundational, enhanced, advanced), implementation approach (in-house, partnership, externa..."
 status: review

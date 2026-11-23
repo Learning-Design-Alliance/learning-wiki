@@ -1,5 +1,6 @@
 ---
 type: theory
+id: neyman-framework-clustered-rct-causal-models
 title: Neyman causal inference framework distinguishing finite-population and super-population models for clustered education RCTs
 description: The report grounds the estimation of average treatment effects in two-stage clustered RCTs in the Neyman causal inference framework.
 status: review

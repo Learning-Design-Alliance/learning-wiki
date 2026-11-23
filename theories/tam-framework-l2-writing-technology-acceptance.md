@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tam-framework-l2-writing-technology-acceptance
 title: "Technology Acceptance Model (revised by Venkatesh and Davis) as a framework for evaluating L2 learners' acceptance of writing technologies"
 description: "The study applies the Technology Acceptance Model, adapted from Venkatesh and Davis's (2000) revised TAM, in which intention to use new technologies is based on perceived usefulness and perceived ease of use."
 status: review

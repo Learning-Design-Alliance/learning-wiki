@@ -1,5 +1,6 @@
 ---
 type: theory
+id: threefold-ritual-pattern-separation-transition-reincorporation
 title: Threefold ritual pattern of separation, transition, and reincorporation in African coming-of-age ceremonies
 description: "The paper describes African initiation ceremonies as following a three-part ritual structure: rites of separation, a middle liminal phase of transition, and reincorporation."
 status: review

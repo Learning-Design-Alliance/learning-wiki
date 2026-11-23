@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teacher-factor-landscape-secondary-writing
 title: Teacher-factor landscape for secondary writing improvement
 description: The brief organizes its content around a landscape of teacher factors that drive improvement in secondary writing outcomes.
 status: review

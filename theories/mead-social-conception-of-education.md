@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mead-social-conception-of-education
 title: "Mead's social conception of education recognizing both the child and society"
 description: "The course description of Mead's Course 50, quoted in the article, frames two inadequate one-sided theories of education: a psychological theory justified by the development of the child, and a sociological theory sug..."
 status: review

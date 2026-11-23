@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mental-models-framework-day-night-cycle
 title: "Mental models framework: children's conceptual understandings as coherent, theory-like structures constrained by presuppositions"
 description: "The article adopts Vosniadou and colleagues' account in which \"children represent scientific concepts in the form of theory-like structures that are internally coherent and empirically accurate,\" structures \"constrain..."
 status: review

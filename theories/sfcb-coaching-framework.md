@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sfcb-coaching-framework
 title: Solution-focused cognitive-behavioural (SF/CB) coaching framework for a psychology of coaching
 description: "The dissertation proposes a solution-focused, cognitive-behavioural framework for coaching with normal, non-clinical populations, defining coaching as \"a collaborative solution-focused, results-orientated systematic p..."
 status: review

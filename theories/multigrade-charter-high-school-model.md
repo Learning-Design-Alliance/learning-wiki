@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multigrade-charter-high-school-model
 title: Multi-grade charter high school model as a promising configuration for long-term attainment
 description: "The report highlights multi-grade charter high schools — those that \"include grades 6-12, 7-12, or K-12\" — as a school configuration associated in Chicago with substantial positive effects on ACT scores, graduation, a..."
 status: review

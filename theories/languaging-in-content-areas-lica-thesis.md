@@ -1,5 +1,6 @@
 ---
 type: theory
+id: languaging-in-content-areas-lica-thesis
 title: "The 'Languaging in the Content Areas' (LICA) thesis as a formulating theory of post-elementary reading"
 description: "A still formulating theory of post-elementary reading, called the 'Languaging in the Content Areas', or LICA, thesis (Manzo and Sherk, submitted manuscript)."
 canonical: true

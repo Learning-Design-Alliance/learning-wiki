@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-part-effective-data-use-framework
 title: "Three-part framework for effective data use: system development, a coherent use plan, and support for use"
 description: "The brief organizes effective data use in education into three complementary strands addressed across a brief series: developing and enhancing data systems, developing a coherent plan for effectively using data, and s..."
 status: review

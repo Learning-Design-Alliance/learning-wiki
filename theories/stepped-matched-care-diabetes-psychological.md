@@ -1,5 +1,6 @@
 ---
 type: theory
+id: stepped-matched-care-diabetes-psychological
 title: Stepped/matched care model for psychological care in diabetes
 description: "The review proposes stepped- or matched care as the organizing model for embedding psychological care in diabetes services: people receive the least intensive yet effective care first, with escalation to specialized c..."
 status: review

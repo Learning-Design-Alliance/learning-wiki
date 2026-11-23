@@ -1,5 +1,6 @@
 ---
 type: theory
+id: collective-leveling-compromise
 title: Collective leveling as a proposed compromise for pacing group instruction
 description: "Collective leveling is Arlin's (1984) proposal, discussed and rejected in this article, that a predetermined level for the pace and rigor of group instruction should be set near the middle of students' individual lear..."
 status: review

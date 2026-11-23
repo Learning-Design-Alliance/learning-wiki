@@ -1,5 +1,6 @@
 ---
 type: theory
+id: clt-three-load-types-framework
 title: "Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types"
 description: The article presents Cognitive Load Theory as a psychological theory from cognitive science, originated by John Sweller in the late 1980s, explaining how the design of learning materials affects learning given limited...
 status: review

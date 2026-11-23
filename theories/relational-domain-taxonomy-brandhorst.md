@@ -1,5 +1,6 @@
 ---
 type: theory
+id: relational-domain-taxonomy-brandhorst
 title: "Taxonomy of Educational Objectives: Relational Domain"
 description: "The article proposes a taxonomy conceptualizing interpersonal skills as observable behaviors amenable to measurement, supplementing Bloom's cognitive and affective taxonomies."
 status: review

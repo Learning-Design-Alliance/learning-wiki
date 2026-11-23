@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tridimensional-attitude-model-ocf-analysis
 title: Tridimensional attitude model (cognitive-affective-conative) combined with an adapted error treatment model for analyzing OCF attitudes
 description: "The study applies Schiffman and Kanuk's (2004) attitude model, in Jain's (2014) tridimensional version, in which attitudes comprise cognitive (beliefs), affective (feelings), and conative (behavior) components whose c..."
 status: review

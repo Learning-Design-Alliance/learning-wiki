@@ -1,5 +1,6 @@
 ---
 type: theory
+id: pace-of-learning-pol-construct
 title: "Pace of Learning (POL): the slope of a student's achievement growth as an organizing construct for recovery policy"
 description: "The brief defines pace of learning as the rate at which a student improves, calculated from prior test records: \"This rate is referred to as the student's pace of learning (POL)\" and \"Mathematically, this is calculate..."
 status: review

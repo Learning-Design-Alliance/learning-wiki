@@ -1,5 +1,6 @@
 ---
 type: theory
+id: rosell-aguilar-app-taxonomy-language-learning
 title: "Taxonomy of mobile apps for language learning: three groups plus a separate dictionaries/translators category"
 description: The article proposes a classification of apps usable for language learning, arguing that classifying apps into types helps learners, teachers, and researchers conceptualize and evaluate them.
 status: review

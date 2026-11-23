@@ -1,5 +1,6 @@
 ---
 type: theory
+id: pjbl-course-design-matrix
 title: "Course design matrix for project-based pedagogies: two spectrums, four quadrants"
 description: The article proposes a 2x2 matrix for describing variations in project-based course design.
 status: review

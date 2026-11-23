@@ -1,5 +1,6 @@
 ---
 type: theory
+id: fba-individualized-problem-solving-process
 title: Functional behavioral assessment as an individualized, operant-based problem-solving process
 description: "The report defines FBA as \"an individualized problem-solving process for addressing student problem behavior\"."
 status: review

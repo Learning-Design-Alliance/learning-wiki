@@ -1,5 +1,6 @@
 ---
 type: theory
+id: jagged-profiles-concept
 title: Jagged profiles concept of learner variability
 description: "The article adopts Todd Rose's concept of \"jagged profiles,\" which the paper describes as recognizing \"that each learner has distinctly different strengths and areas of growth or variability.\" This concept underpins t..."
 status: review

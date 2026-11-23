@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sauve-fifteen-currents-ee-taxonomy
 title: "Sauvé's taxonomy of fifteen currents of environmental education"
 description: "The article reports that, grounded in a review of the international EE literature, Sauvé (2005) established fifteen different \"currents,\" each a general way of envisioning and practicing EE, divided into long-traditio..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: connectivism-network-theory-framework
 title: Connectivism as a network theory of knowledge and learning with principles of autonomy, diversity, interactivity and openness
 description: "Connectivism, introduced by Siemens in 2004, is characterized in the survey as \"a network theory of knowledge and learning with an emphasis on the use of digital technology to enhance and extend interaction online\"."
 status: review

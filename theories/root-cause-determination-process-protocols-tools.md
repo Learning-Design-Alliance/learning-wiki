@@ -1,5 +1,6 @@
 ---
 type: theory
+id: root-cause-determination-process-protocols-tools
 title: A recommended process with detailed protocols and tools for defining problems and determining their root causes in schools
 description: The paper proposes a process, protocols and tools for school teams to define problems to be investigated and determine their root causes, drawing on facilitation experience in schools and industrial settings plus rese...
 status: review

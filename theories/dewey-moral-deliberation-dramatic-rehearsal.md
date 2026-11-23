@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dewey-moral-deliberation-dramatic-rehearsal
 title: "Dewey's moral deliberation as dramatic rehearsal of competing possible lines of action"
 description: "Dewey's moral deliberation, introduced in 1932, is the article's central explanatory framework for moral education: it is the process used in dealing with a moral problem, defined as \"a dramatic rehearsal of various c..."
 status: review

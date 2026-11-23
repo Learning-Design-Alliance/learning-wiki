@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-efficacy-theory
 title: Self-Efficacy Theory
 description: Self-Efficacy Theory holds that a learner's task-specific belief in their own capability to succeed — distinct from general self-confidence or actual ability — is one of the strongest drivers of motivation, task choice, persistence, and resilience.
 canonical: true

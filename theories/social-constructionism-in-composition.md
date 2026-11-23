@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-constructionism-in-composition
 title: Social constructionism as the basis for collaborative writing instruction
 description: "The paper defines social constructionism as \"a philosophy of knowledge whichasserts that truth is not something eternal\" but a product of human activity, holding that \"meaning is not privately constructed but is gener..."
 canonical: true

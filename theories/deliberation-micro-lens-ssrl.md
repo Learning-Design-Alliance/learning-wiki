@@ -1,5 +1,6 @@
 ---
 type: theory
+id: deliberation-micro-lens-ssrl
 title: Deliberation as a micro-level lens for operationalizing socially shared regulation of learning
 description: "The article proposes deliberation — the \"deliberative, negotiation characteristic of interactions for regulation in CL contexts\" — as a new micro-level theoretical lens for SSRL."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-mode-psmt-probabilistic-reasoning-model
 title: "A three-mode model of preservice teachers' probabilistic reasoning: mathematical, subjective, and outcome-oriented"
 description: "The study models PSMTs' probabilistic reasoning in a unified schema with three categories: mathematically oriented thinkers relying on theoretical probability, subjectively oriented thinkers using personal information..."
 status: review

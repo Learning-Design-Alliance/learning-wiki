@@ -1,5 +1,6 @@
 ---
 type: theory
+id: adsd-sentiment-fairness-metric
 title: Absolute distributional sentiment divergence (ADSD) as a distribution-level fairness metric for generated replies
 description: ADSD is a proposed metric that quantifies sentiment bias by measuring the divergence between the sentiment-score distributions a model produces for original posts and for gender-counterfactual posts.
 status: review

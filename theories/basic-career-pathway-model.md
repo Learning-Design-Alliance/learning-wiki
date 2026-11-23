@@ -1,5 +1,6 @@
 ---
 type: theory
+id: basic-career-pathway-model
 title: Basic career pathway model with multiple entry points, stackable credentials, and multiple exit points
 description: The guide presents a basic career pathway model as a structural framework for organizing connected education and training programs.
 status: review

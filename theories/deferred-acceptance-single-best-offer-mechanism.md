@@ -1,5 +1,6 @@
 ---
 type: theory
+id: deferred-acceptance-single-best-offer-mechanism
 title: Deferred acceptance with a single best offer
 description: GoCPS assigns students via a computerized deferred acceptance process, also used to match medical residents to hospitals, in which each applicant is considered for the highest-ranked eligible program with available se...
 status: review

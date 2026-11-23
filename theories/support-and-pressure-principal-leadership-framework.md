@@ -1,5 +1,6 @@
 ---
 type: theory
+id: support-and-pressure-principal-leadership-framework
 title: Support-and-pressure principal leadership framework for productive school improvement
 description: "The article's central framework holds that principals of improving Chicago elementary schools lead by combining support and pressure on the adults who work with children."
 status: review

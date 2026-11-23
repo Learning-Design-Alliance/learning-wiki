@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interactive-model-of-reading-schwantes
 title: "The interactive model of reading: meaning is constructed only when higher and lower level processes interact"
 description: The review describes the interactive model, used by Schwantes as his theoretical framework, as an alternative to bottom-up and top-down models of reading.
 status: review

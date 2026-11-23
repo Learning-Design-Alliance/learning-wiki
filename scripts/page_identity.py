@@ -68,10 +68,12 @@ WIKI_ROOT = Path(__file__).parent.parent
 #
 # Theories stay out: nothing in the spec addresses one. A page type gains an
 # id when something outside the wiki depends on pointing at it.
-# Every content kind a design document can name, which is now every kind but
-# theories — nothing in the spec addresses one. processes and methods are here
-# because they are precisely what `realizes:` resolves to.
-IDENTIFIED_TYPES = tuple(f for f in ok.CONTENT_FOLDERS if f != "theories")
+# Every content kind. Theories joined on 2026-11-23: the simulator in
+# Learning-engineering-research keeps its mechanism and rival cards, and its parameter
+# store, outside the wiki, and they point at the theories each mechanism instantiates
+# (maintainer: the wiki's pages feed one way into those cards). processes and methods
+# are here because they are precisely what `realizes:` resolves to.
+IDENTIFIED_TYPES = tuple(ok.CONTENT_FOLDERS)
 
 ID_RE = re.compile(r"^id:[ \t]*([^\n]*)$", re.M)
 ALIASES_RE = re.compile(r"^aliases:[ \t]*(\[[^\]]*\])[ \t]*$", re.M)

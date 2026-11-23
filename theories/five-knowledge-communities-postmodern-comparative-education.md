@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-knowledge-communities-postmodern-comparative-education
 title: Five postmodern-favorable knowledge communities in comparative education discourse
 description: "The paper identifies, through close exegetic reading of some 60 texts, five textual communities favorable to postmodernism in comparative education: Postmodernist Deconstructions, Radical Alterity, Semiotic Society, R..."
 status: review

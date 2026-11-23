@@ -1,5 +1,6 @@
 ---
 type: theory
+id: l2-motivational-self-system-framework
 title: "Dörnyei's L2 Motivational Self System as a three-component framework for L2 learning motivation"
 description: "The article presents Dörnyei's (2005) L2 Motivational Self System as a comprehensive framework for L2 learning motivation, derived from Higgins' Self-Discrepancy Theory."
 status: review

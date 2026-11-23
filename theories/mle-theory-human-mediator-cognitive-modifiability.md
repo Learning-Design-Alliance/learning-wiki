@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mle-theory-human-mediator-cognitive-modifiability
 title: "Feuerstein's Mediated Learning Experience (MLE) theory: a human mediator modifies the learner's interaction with stimuli to build cognitive modifiability"
 description: MLE theory holds that intelligence is modifiable and that learning proceeds most effectively when a human mediator interposes between stimuli and the learner.
 status: review

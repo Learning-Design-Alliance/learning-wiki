@@ -1,5 +1,6 @@
 ---
 type: theory
+id: group-based-teacher-paced-mastery-learning-model
 title: Group-based, teacher-paced mastery learning model (Bloom)
 description: "The article describes Bloom's group-based, teacher-paced mastery learning model as an alternative to individually paced models such as PSI for postsecondary settings."
 status: review

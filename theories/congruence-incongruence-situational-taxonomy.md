@@ -1,5 +1,6 @@
 ---
 type: theory
+id: congruence-incongruence-situational-taxonomy
 title: Four-category taxonomy of adaptive and maladaptive congruence/incongruence
 description: "The article proposes that congruence and incongruence of communication must be analyzed situationally, yielding four categories: adaptive congruence (open honest communication in close intimate relationships), maladap..."
 status: review

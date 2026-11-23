@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multimedia-gloss-theoretical-foundations-mit-dct-gtml
 title: "Theoretical foundations of multimedia glosses: Multiple Intelligences Theory, Dual Coding Theory, and Generative Theory of Multimedia Learning"
 description: The article grounds multimedia glosses in three frameworks.
 status: review

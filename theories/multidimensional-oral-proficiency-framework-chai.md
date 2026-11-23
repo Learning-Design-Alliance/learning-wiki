@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multidimensional-oral-proficiency-framework-chai
 title: Multidimensional oral proficiency assessment framework grounded in communicative competence theory
 description: "The article operationalizes spoken competence as a set of distinct but interrelated component skills, building on communicative competence theory, which \"identifies four components that sit beneath effective language..."
 status: review

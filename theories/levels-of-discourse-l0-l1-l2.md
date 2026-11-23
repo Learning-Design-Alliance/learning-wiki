@@ -1,5 +1,6 @@
 ---
 type: theory
+id: levels-of-discourse-l0-l1-l2
 title: Levels of discourse taxonomy for student/computer interaction (L0, L1, L2)
 description: The report models communication between a student and a machine as occurring at three levels of discourse.
 status: review

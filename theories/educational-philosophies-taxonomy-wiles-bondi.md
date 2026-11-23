@@ -1,5 +1,6 @@
 ---
 type: theory
+id: educational-philosophies-taxonomy-wiles-bondi
 title: "Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism"
 description: The article organizes its analysis with a taxonomy of educational philosophies drawn from Wiles and Bondi (2015) and other proponents.
 status: review

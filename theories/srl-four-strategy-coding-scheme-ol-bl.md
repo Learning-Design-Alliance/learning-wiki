@@ -1,5 +1,6 @@
 ---
 type: theory
+id: srl-four-strategy-coding-scheme-ol-bl
 title: Four-dimension coding scheme for SRL strategies in online and blended learning (metacognitive, motivational, cognitive, mixed)
 description: The article organizes SRL interventions using a coding scheme with four primary strategy dimensions applied to online learning (OL) and blended learning (BL) contexts.
 status: review

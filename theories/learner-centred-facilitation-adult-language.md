@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learner-centred-facilitation-adult-language
 title: Learner-centred facilitation of adult language learning
 description: "The guide adopts Carl Rogers' view that \"we cannot teach a person anything directly; we can only facilitate his or her learning\" as its organising framework for adult language teaching."
 status: review

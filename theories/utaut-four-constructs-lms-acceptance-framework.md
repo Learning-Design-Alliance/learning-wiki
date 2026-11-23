@@ -1,5 +1,6 @@
 ---
 type: theory
+id: utaut-four-constructs-lms-acceptance-framework
 title: UTAUT framework for technology acceptance
 description: "The Unified Theory of Acceptance and Use of Technology (UTAUT) explains individuals' acceptance of a technology through four determinants of an individual's aim of use."
 status: review

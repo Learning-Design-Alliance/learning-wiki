@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-reflexive-justification-strategy
 title: Self-reflexive justificatory strategy
 description: A justificatory strategy in which a theory or commitment is justified by applying to itself the very standards it endorses, without vicious circularity or question-begging.
 status: review

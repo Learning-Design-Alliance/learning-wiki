@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ex-ante-broader-impacts-frameworks-taxonomy
 title: Five frameworks for evaluating ex ante broader impacts of research vary in emphasis on methods versus outcomes
 description: "The report describes five frameworks that can be used to evaluate ex ante broader impacts: the HERG Payback Framework, SIAMPI, Contribution Mapping, the Research Contribution Framework, and the RAPID Outcome Mapping A..."
 status: review

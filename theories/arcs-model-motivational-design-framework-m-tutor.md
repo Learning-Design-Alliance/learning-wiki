@@ -1,5 +1,6 @@
 ---
 type: theory
+id: arcs-model-motivational-design-framework-m-tutor
 title: ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation
 description: "The article adopts Keller's ARCS model as both theoretical framework and measurement basis, holding that \"learning motivation is influenced by four components: Attention, Relevance, Confidence, and Satisfaction\"."
 status: review

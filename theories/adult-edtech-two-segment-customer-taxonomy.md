@@ -1,5 +1,6 @@
 ---
 type: theory
+id: adult-edtech-two-segment-customer-taxonomy
 title: "Two-segment customer taxonomy for the adult learning ed-tech market: learning providers as primary segment, independent learners as secondary segment"
 description: The guide organizes the adult learning market around two customer segments.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: flammer-transfer-correlation-model
 title: A conceptual model deriving transfer from all-or-none learned common and falsely-common task elements and the product-moment correlation
 description: The model treats tasks as sets of mutually independent hypothetical elements whose extension corresponds to average mastery time.
 canonical: true

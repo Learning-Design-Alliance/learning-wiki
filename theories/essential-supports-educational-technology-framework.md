@@ -1,5 +1,6 @@
 ---
 type: theory
+id: essential-supports-educational-technology-framework
 title: Essential Supports for Educational Technology framework
 description: "The article organizes the conditions for school technology use into a framework of interacting supports: student-side factors (technology availability to students, home use/background, belief in technology) and staff-..."
 status: review

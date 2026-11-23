@@ -1,5 +1,6 @@
 ---
 type: theory
+id: von-restorff-effect-text-marking
 title: The von Restorff effect in text marking
 description: The von Restorff effect is used to explain how underlining and other text marking function by isolating information against a homogeneous background, directing attention and supporting recall of the marked material.
 canonical: true

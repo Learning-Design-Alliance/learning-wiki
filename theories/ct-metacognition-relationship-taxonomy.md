@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ct-metacognition-relationship-taxonomy
 title: Critical thinking as a product of metacognition within self-regulated learning
 description: "The article reviews competing accounts of how critical thinking and metacognition relate: Halpern claims critical thinking is a product of metacognition, using skills like monitoring thinking, checking progress, ensur..."
 status: review

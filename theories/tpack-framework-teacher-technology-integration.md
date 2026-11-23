@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tpack-framework-teacher-technology-integration
 title: TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration
 description: "The TPACK Framework (Mishra & Koehler, 2006) adds a technology filter to Shulman's pedagogical content knowledge theory."
 status: review

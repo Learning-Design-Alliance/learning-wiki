@@ -1,5 +1,6 @@
 ---
 type: theory
+id: l2-motivational-self-system
 title: L2 Motivational Self System
 description: "Dörnyei's account of second-language motivation as the pull of an ideal L2 self, the pressure of an ought-to L2 self, and the learner's immediate L2 learning experience."
 canonical: true

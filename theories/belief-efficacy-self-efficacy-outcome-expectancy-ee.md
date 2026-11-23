@@ -1,5 +1,6 @@
 ---
 type: theory
+id: belief-efficacy-self-efficacy-outcome-expectancy-ee
 title: Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)
 description: "The article applies Bandura's (1977) self-efficacy construct to teaching environmental education, defining belief efficacy as comprising two components: \"a person's perception of ability to perform the behavior (self-..."
 status: review

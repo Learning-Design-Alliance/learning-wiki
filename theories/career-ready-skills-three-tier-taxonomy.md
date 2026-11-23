@@ -1,5 +1,6 @@
 ---
 type: theory
+id: career-ready-skills-three-tier-taxonomy
 title: "Career-ready skills comprise three tiers: academic skills, employability skills, and technical skills"
 description: "Drawing on a Career Readiness Paper from ACTE (source URL printed on the slide), the presentation organizes career-ready skills into three numbered tiers: \"Academic Skills\" (reading, research, writing, mathematical ca..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: supportive-versus-developmental-practices-taxonomy
 title: Taxonomy of supportive versus developmental practices in teacher professional communities
 description: "The article proposes that professional community activities fall into two types: \"Supportive practices are interactions through which teachers exchange information, advice, and approaches for addressing specific tasks..."
 status: review

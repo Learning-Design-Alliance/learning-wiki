@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sm-mechanisms-reactivity-perceived-autonomy
 title: "Mechanisms of change in self-management interventions: reactivity to self-monitoring and perceived autonomy"
 description: The review proposes two behavioral principles underlying SM.
 status: review

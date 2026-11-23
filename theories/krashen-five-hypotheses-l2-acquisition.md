@@ -1,5 +1,6 @@
 ---
 type: theory
+id: krashen-five-hypotheses-l2-acquisition
 title: "Krashen's five hypotheses of second language acquisition as principles for bilingual program design"
 description: "The packet operationalizes Cummins's and Canale & Swain's theories using Steve Krashen's (1981) five hypotheses: the acquisition-learning hypothesis (two separate processes, acquisition resembling L1 development and l..."
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: charter-effects-four-dimension-framework
 title: Charter school effects as a multi-dimensional policy question spanning achievement, attainment, integration, and competition
 description: "The report organizes its evaluation of charter schools around four outcome dimensions named in its title: \"Effects on Achievement, Attainment, Integration, and Competition.\" This framing treats charter schooling as a..."
 status: review

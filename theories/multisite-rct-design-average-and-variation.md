@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multisite-rct-design-average-and-variation
 title: Multisite randomized trials as a design for estimating both average effects and cross-site variation
 description: "The article presents multisite randomized controlled trials, in which \"individuals are randomly assigned to alternative treatment arms within sites\", as a design that can estimate both the cross-site average effect of..."
 status: review

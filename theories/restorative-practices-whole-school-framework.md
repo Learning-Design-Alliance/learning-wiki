@@ -1,5 +1,6 @@
 ---
 type: theory
+id: restorative-practices-whole-school-framework
 title: Restorative practices as the grounding framework of the program
 description: The program is grounded in restorative practices, operationalized through 11 essential elements that center on the importance of communication, responsibility, restoration, and separating the deed from the doer.
 status: review

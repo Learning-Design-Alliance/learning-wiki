@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-learning-theory-proactive-aggression
 title: Social learning theory account of proactive aggression as learned, goal-directed behavior
 description: "The article grounds proactive aggression in social learning theory, under which \"people acquire aggressive responses in the same way that they acquire other complex forms of social behavior\" via observational learning..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: longitudinal-irt-calibration-approaches-taxonomy
 title: Taxonomy of four calibration and scoring approaches for multi-timepoint survey measures
 description: "The article organizes scoring options for repeated survey administration into four approaches ordered by complexity: (1) cross-sectional IRT calibration with a unidimensional model using a single timepoint, (2) longit..."
 status: review

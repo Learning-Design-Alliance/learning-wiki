@@ -1,5 +1,6 @@
 ---
 type: theory
+id: winne-hadwin-four-category-tap-coding-scheme
 title: "Four-category operationalization of Winne and Hadwin's four-stage SRL model for tutored problem-solving verbalizations"
 description: "The study operationalizes SRL in think-aloud transcripts as four categories grounded in Winne and Hadwin's four-stage model: \"processing information, planning, enacting, and realizing errors\"."
 status: review

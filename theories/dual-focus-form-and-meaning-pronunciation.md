@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-focus-form-and-meaning-pronunciation
 title: Dual-focus approach to pronunciation instruction combining simultaneous attention to form and communicative intent
 description: The dual-focus approach holds that effective pronunciation teaching must combine a simultaneous focus on form (accuracy) and meaning (communicative context) to promote transfer to spontaneous speech.
 status: review

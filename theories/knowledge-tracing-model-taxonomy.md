@@ -1,5 +1,6 @@
 ---
 type: theory
+id: knowledge-tracing-model-taxonomy
 title: Technical Taxonomy of Fundamental Knowledge Tracing Models
 description: "The survey's first organizing axis sorts fundamental KT models by technical route: \"the proposed taxonomy splits existing KT methods into three categories\" — Bayesian models built on probability models, logistic model..."
 canonical: true

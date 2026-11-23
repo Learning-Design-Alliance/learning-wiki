@@ -1,5 +1,6 @@
 ---
 type: theory
+id: classifier-optimizer-feedback-loop-aid-allocation
 title: Feedback-loop framework coupling a gradient-boosting enrollment classifier with an auto-start simulated-quenching optimizer for multi-objective financial aid allocation
 description: The framework treats aid allocation strategy as a searchable solution space of merit and need buckets and amounts.
 status: review

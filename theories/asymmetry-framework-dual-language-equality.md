@@ -1,5 +1,6 @@
 ---
 type: theory
+id: asymmetry-framework-dual-language-equality
 title: Asymmetry framework for analyzing equality in dual language programs
 description: "The article develops asymmetry, defined as \"a lack of proportion,\" as an analytical tool for studying whether a dual language program delivers equal educational opportunity."
 status: review

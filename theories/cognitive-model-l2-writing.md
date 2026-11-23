@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-model-l2-writing
 title: Cognitive Model of L2 writing
 description: The Cognitive Model treats L2 writing as a complex mental activity involving strategies and problem-solving skills, emphasizing the mental processes occurring during composing.
 status: review

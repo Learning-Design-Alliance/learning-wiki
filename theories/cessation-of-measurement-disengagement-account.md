@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cessation-of-measurement-disengagement-account
 title: Cessation-of-measurement account of test-taking disengagement identified via response time
 description: The chapter advances an account in which disengaged test taking is understood as a momentary cessation of measurement that can be identified using response time.
 status: review

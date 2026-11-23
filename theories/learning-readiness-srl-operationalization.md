@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-readiness-srl-operationalization
 title: Learning readiness as an operationalization of self-regulated learning (SRL)
 description: "The article grounds the WEC's learning readiness construct in self-regulated learning theory, which it defines as \"the ability to regulate cognition, behaviours, and emotions to achieve academic goals\"."
 status: review

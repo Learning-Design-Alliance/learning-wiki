@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mle-three-universal-criteria
 title: "Three universal MLE criteria: intentionality and reciprocity, mediation of meaning, and transcendence"
 description: "Within MLE theory, Feuerstein offers twelve criteria of mediated interaction, of which three are treated as universal and sufficient: intentionality and reciprocity (deliberately guiding the child's alertness and exch..."
 status: review

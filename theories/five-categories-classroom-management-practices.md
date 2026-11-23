@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-categories-classroom-management-practices
 title: Five broad categories of evidence-based classroom management practices (Simonsen et al. taxonomy)
 description: "The article organizes evidence-based classroom management practices, drawing on a prior systematic review of 81 studies, into five broad categories: \"(1) maximize structure and predictability, (2) post, teach, review,..."
 status: review

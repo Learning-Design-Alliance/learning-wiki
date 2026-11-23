@@ -1,5 +1,6 @@
 ---
 type: theory
+id: skehan-limited-attention-capacity-child-task-recasts
 title: "Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development"
 description: "Skehan's limited attention capacity model holds that learners have finite attentional resources, so increasing the cognitive demands of a task shifts attention toward task content and away from linguistic form."
 status: review

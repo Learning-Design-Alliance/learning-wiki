@@ -1,5 +1,6 @@
 ---
 type: theory
+id: field-dependence-independence-dichotomous-concepts
 title: "Witkin's dichotomous concepts of field-dependent and field-independent cognitive styles"
 description: "The review presents Witkin's dichotomous cognitive-style concepts, derived from the orientation tests and the embedded figures test."
 status: review

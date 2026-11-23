@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-essential-supports-framework-uchicago-consortium
 title: Five Essential Supports framework for improving student learning
 description: "The agenda describes the Consortium's Five Essential Supports framework, in which five dimensions of school organization are \"known to be linked to improving student outcomes\"."
 canonical: true

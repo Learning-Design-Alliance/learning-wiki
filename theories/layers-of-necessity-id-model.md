@@ -1,5 +1,6 @@
 ---
 type: theory
+id: layers-of-necessity-id-model
 title: Layers of Necessity Model
 description: The Layers of Necessity Model, developed by Tessmer and Wedman, proposes that designers create multiple layers of instructional design activities depending on the particularities of different design situations.
 status: review

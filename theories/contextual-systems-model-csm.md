@@ -1,5 +1,6 @@
 ---
 type: theory
+id: contextual-systems-model-csm
 title: "Contextual Systems Model (CSM): child/family and school/schooling as interrelated systems"
 description: "Pianta and Walsh's (1996) Contextual Systems Model, presented in the review as an improvement over earlier models, is based on Ford and Lerner's Developmental System Theory."
 status: review

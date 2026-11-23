@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-environment-aspects-early-academic-competence
 title: Learning-environment aspects framework for early academic competence
 description: The article organizes its review around aspects of the learning environment that it identifies as most closely tied to early academic success.
 status: review

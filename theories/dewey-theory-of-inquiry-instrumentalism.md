@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dewey-theory-of-inquiry-instrumentalism
 title: "Dewey's theory of inquiry: reflection as the instrument that resolves problematic situations"
 description: "Dewey's theory of inquiry, which the paper calls the centerpiece of his philosophy and often equated with scientific method, holds that much behavior is automatic, driven by habit and impulse."
 status: review

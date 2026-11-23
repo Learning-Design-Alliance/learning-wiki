@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-constitutive-dimensions-affordances
 title: "Five constitutive dimensions of affordances: perceptibility, learning valence, compositionality, normativity, intentionality"
 description: "The paper draws on prior work identifying five constitutive dimensions that define an affordance's nature: perceptibility, learning valence, compositionality, normativity, and intentionality."
 status: review

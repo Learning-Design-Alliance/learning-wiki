@@ -1,5 +1,6 @@
 ---
 type: theory
+id: demographic-variable-mutability-framework
 title: Demographic variable mutability as an organizing distinction for predictor selection
 description: The article organizes the debate around what a demographic variable is and whether schools can change it.
 status: review

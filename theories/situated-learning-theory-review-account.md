@@ -1,5 +1,6 @@
 ---
 type: theory
+id: situated-learning-theory-review-account
 title: Situated Learning theory (legitimate peripheral participation in communities of practice)
 description: The review presents Situated Learning as the framework originating with Lave and Wenger in the early 1990s, in which learning occurs within authentic activities, contexts and cultures rather than isolated settings.
 status: review

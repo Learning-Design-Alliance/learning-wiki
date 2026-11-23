@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-level-instructional-coaching-trajectory-teacher-change
 title: A three-level trajectory of instructional coaching situated within a recursive teacher change process
 description: "The brief's central framework organizes coaching responsibilities along a trajectory of three levels — initial steps, necessary supports, and sustaining efforts — while mapping mentoring and advocacy responsibilities..."
 status: review

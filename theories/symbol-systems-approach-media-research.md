@@ -1,5 +1,6 @@
 ---
 type: theory
+id: symbol-systems-approach-media-research
 title: The symbol systems approach to studying media and computers in education
 description: "The symbol systems approach holds that media can be \"usefully distinguished in terms of the symbol systems which they present and the kinds of symbol-using skills which they evoke, afford, or inculcate\"."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-set-lexical-memory-model
 title: Four-set student lexical memory model with staged progression from introduction to long-term retention
 description: "The adaptive tutoring algorithm formalizes each student's lexical memory as four non-intersecting sets: \"N – units assigned to the student and pending introduction; P – units in the process of active acquisition; S –..."
 status: review

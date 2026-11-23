@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-essential-supports-framework-illinois
 title: The Five Essential Supports framework identifies five organizational conditions for school improvement
 description: "The five essential supports framework posits that school improvement depends on five organizational conditions: effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instr..."
 status: review

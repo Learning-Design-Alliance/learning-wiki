@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-properties-improvement-data-timely-clear-malleable-predictive
 title: "Four-property framework for effective school improvement data: timely, clear, malleable, and predictive"
 description: "The article proposes that data useful for school improvement must satisfy four properties: it must be \"timely, clear, malleable, and predictive\"."
 status: review

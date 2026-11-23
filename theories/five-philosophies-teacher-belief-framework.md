@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-philosophies-teacher-belief-framework
 title: Five-philosophy framework of teacher beliefs (Realism, Idealism, Pragmatism, Existentialism, Phenomenology)
 description: "The article organizes teachers' philosophical beliefs into five basic philosophies, exemplified by the Ames Philosophical Belief Inventory."
 status: review

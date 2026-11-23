@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-basic-educational-philosophies-traditional-vs-contemporary
 title: "Five basic educational philosophies: traditional-conservative versus contemporary"
 description: "The article frames teachers' educational beliefs with five basic approaches: \"perennialism, essentialism, progressivism, existentialist education and reconstructivism\"."
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-basic-elements-cooperative-learning-adults
 title: "Five basic elements must be structured into a cooperative learning activity: positive goal interdependence, face-to-face interaction, individual accountability, social skills, and group processing"
 description: The handbook sets out five basic elements, attributed to cooperative learning research, that teachers must deliberately build into a cooperative activity for adult learners.
 status: review

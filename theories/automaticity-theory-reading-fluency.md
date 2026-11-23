@@ -1,5 +1,6 @@
 ---
 type: theory
+id: automaticity-theory-reading-fluency
 title: "Automaticity Theory: fluency develops through repeated practice that frees attention for comprehension"
 description: Automaticity Theory (AT) is presented as a main theory in developing reading fluency, emphasizing word recognition.
 status: review

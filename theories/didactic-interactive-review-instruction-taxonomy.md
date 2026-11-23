@@ -1,5 +1,6 @@
 ---
 type: theory
+id: didactic-interactive-review-instruction-taxonomy
 title: "Didactic, interactive, and review: a three-approach taxonomy of elementary instruction"
 description: This report organizes elementary classroom instruction into three approaches distinguished by teacher and student behaviors.
 status: review

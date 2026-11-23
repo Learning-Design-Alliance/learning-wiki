@@ -1,5 +1,6 @@
 ---
 type: theory
+id: type-i-type-ii-balance-framework-multiple-testing
 title: A framework that balances Type I and Type II errors for addressing the multiple testing problem in social policy impact evaluations
 description: The article presents a framework for handling the multiple testing problem in social policy impact evaluations.
 status: review

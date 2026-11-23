@@ -1,5 +1,6 @@
 ---
 type: theory
+id: strategy-adaptability-cognitive-flexibility-math
 title: Strategy adaptability as an index of cognitive flexibility in mathematics problem solving
 description: The paper frames cognitive flexibility in mathematics as the ability to select strategies that are appropriate and efficient for a given problem.
 status: review

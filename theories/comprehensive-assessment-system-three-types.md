@@ -1,5 +1,6 @@
 ---
 type: theory
+id: comprehensive-assessment-system-three-types
 title: "Comprehensive assessment system framework: summative, interim, and formative assessments with complementary purposes"
 description: "The article organizes assessment around a framework in which \"multiple forms of assessment that each emphasize a different purpose and use\" complement one another across levels of an education agency."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: item-position-effects-interaction-definition
 title: Item position effects as an interaction between item location and test-taker performance
 description: "Item position effects (IP effects) are defined as \"the interaction between the position of a test item in a test booklet and the performance a test taker displays on the same item\" (Qian, 2014, as cited)."
 status: review

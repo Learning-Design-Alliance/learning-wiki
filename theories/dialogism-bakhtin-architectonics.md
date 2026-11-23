@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dialogism-bakhtin-architectonics
 title: "Dialogism: Bakhtin's dialogic reconceptualization of architectonics as a philosophy of interrelations mediated by language and texts"
 description: "The article presents dialogism as Bakhtin's appropriation and reinterpretation of Kantian architectonics."
 status: review

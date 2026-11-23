@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-anticipation-start-stop-mdc-intermediate-stage
 title: Dual anticipation of start and stop as an intermediate stage in constructing the multiplicative Double Counting scheme
 description: "The article postulates that constructing the first multiplicative scheme, multiplicative Double Counting (mDC), requires a dual anticipation: anticipating where to shift each count of a composite unit (unit rate, firs..."
 status: review

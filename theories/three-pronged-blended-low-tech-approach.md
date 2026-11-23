@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-pronged-blended-low-tech-approach
 title: "Three-pronged approach to blended learning in low-tech settings: pedagogy training, mother-tongue content, and infrastructure"
 description: "The pilot's organizing framework is a \"three-pronged approach\" combining (1) training Haitian educators in tech-informed pedagogy, (2) increasing availability of culturally relevant, mother-tongue digital content, and..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ecological-dynamics-mathematics-learning-theory
 title: "Ecological dynamics as a theory of mathematics learning: mathematical concepts emerge from guided discovery of sensorimotor schemes oriented on attentional anchors"
 description: "Ecological dynamics blends dynamical systems theory and ecological psychology's theory of affordances; the article applies it to mathematics education, modeling learning as 'the complex and adaptive self-organizing of..."
 status: review

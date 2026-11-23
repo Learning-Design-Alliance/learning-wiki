@@ -1,5 +1,6 @@
 ---
 type: theory
+id: environmental-neuroscience-active-ingredients-framework
 title: Environmental neuroscience active-ingredients framework
 description: "The article frames environmental neuroscience as a field aiming to identify the \"active ingredients\" of the physical environment — specific features such as air quality, ambient noise levels, and light exposure that a..."
 status: review

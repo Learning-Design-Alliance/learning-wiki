@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kagan-structural-approach-kcls
 title: "Kagan's structural approach to cooperative learning (KCLS)"
 description: "KCLS is a content-free, step-by-step structural approach to cooperative learning consisting of \"contemporary psycho-social behaviours with social interaction sequences which can transform teaching\"."
 status: review

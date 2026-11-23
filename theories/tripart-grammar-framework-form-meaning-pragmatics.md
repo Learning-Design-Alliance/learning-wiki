@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tripart-grammar-framework-form-meaning-pragmatics
 title: "Larsen-Freeman's tri-part grammatical framework: form, meaning, and pragmatics"
 description: "The bibliography describes, citing Larsen-Freeman (1991), a proposed solution to debates over use and disuse of grammar teaching: a tri-part grammatical framework presented as a pie chart."
 status: review

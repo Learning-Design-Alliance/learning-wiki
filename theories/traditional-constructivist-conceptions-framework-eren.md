@@ -1,5 +1,6 @@
 ---
 type: theory
+id: traditional-constructivist-conceptions-framework-eren
 title: Traditional versus constructivist conceptions of teaching/learning framework
 description: "The article organizes prospective teachers' conceptions about teaching/learning under two philosophically grounded categories: traditional and constructivist conceptions."
 status: review

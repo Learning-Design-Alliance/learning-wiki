@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-determination-theory
 title: Self-Determination Theory
 description: Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected.
 canonical: true

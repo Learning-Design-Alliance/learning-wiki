@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multiple-local-coherences-real-time-stability
 title: "Multiple local coherences: stability of student thinking as sustained by real-time activity"
 description: This framework characterizes student understanding and behavior as multiple local coherences that are variable yet exhibit local stabilities.
 status: review

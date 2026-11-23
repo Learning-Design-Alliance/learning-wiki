@@ -1,5 +1,6 @@
 ---
 type: theory
+id: inclusion-mechanisms-stigmatisation-peer-effects-individualisation
 title: "Competing theoretical mechanisms account for inclusion effects: anti-stigmatisation and peer benefits versus risks of misaligned individualisation"
 description: "The review organises the field around opposing theoretical mechanisms, noting \"a rather surprising lack of pedagogical, psychological, or didactic theories regarding the specific ways in which inclusive education may..."
 status: review

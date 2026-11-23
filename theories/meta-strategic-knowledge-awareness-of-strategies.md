@@ -1,5 +1,6 @@
 ---
 type: theory
+id: meta-strategic-knowledge-awareness-of-strategies
 title: "Meta-Strategic Knowledge (MSK): awareness of the thinking strategies used in certain environments, governing the cognitive system"
 description: Drawing on Zohar and David (2009), the article presents Meta-Strategic Knowledge as a branch of metacognitive monitoring that includes knowledge of tasks and knowledge of strategies.
 status: review

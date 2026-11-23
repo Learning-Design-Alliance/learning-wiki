@@ -1,5 +1,6 @@
 ---
 type: theory
+id: integrated-learning-civic-competence
 title: "Integrated Learning (IL): a philosophy linking subject contents to real-world issues to promote civic competence transversally"
 description: Integrated Learning is proposed as a way of educating students and promoting civic competence at informal and non-formal levels.
 status: review

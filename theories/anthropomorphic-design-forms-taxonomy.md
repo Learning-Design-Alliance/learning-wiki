@@ -1,5 +1,6 @@
 ---
 type: theory
+id: anthropomorphic-design-forms-taxonomy
 title: DiSalvo et al. taxonomy of four anthropomorphic design forms
 description: The review presents the DiSalvo et al.
 status: review

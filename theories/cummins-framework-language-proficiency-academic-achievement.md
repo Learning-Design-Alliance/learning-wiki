@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cummins-framework-language-proficiency-academic-achievement
 title: "Cummins' theoretical framework relating language proficiency to academic achievement via threshold and interdependence hypotheses"
 description: Cummins proposes that a framework relating language proficiency to academic achievement is needed to set rational entry/exit criteria for bilingual programs.
 status: review

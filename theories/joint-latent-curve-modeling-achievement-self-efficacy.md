@@ -1,5 +1,6 @@
 ---
 type: theory
+id: joint-latent-curve-modeling-achievement-self-efficacy
 title: Joint latent curve modeling of achievement and self-efficacy as parallel developmental processes
 description: The article proposes fitting latent curve models that jointly estimate growth in mathematics achievement and academic self-efficacy from repeated measures, allowing the two constructs to have unique developmental traj...
 status: review

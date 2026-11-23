@@ -1,5 +1,6 @@
 ---
 type: theory
+id: adult-superior-language-learning-capabilities
 title: "Neurolinguistic account of adults' superior language learning capabilities"
 description: The digest presents a neurolinguistic account, citing Walsh and Diller (1978), that replaces the 1960s critical-period hypothesis.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-response-account-of-persuasion
 title: "Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects"
 description: "The paper reproduces Greenwald's (1968) analysis of persuasion as a complex stimulus evoking a complex cognitive response, whose essential dimensions are response content (acceptance versus rejection) and intensity."
 status: review

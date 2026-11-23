@@ -1,5 +1,6 @@
 ---
 type: theory
+id: krashen-monitor-model-five-hypotheses
 title: "Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning"
 description: "The article presents Krashen's theory of second language acquisition as an explanatory framework built on five hypotheses: the Acquisition-Learning distinction, the Natural Order Hypothesis, the Monitor Hypothesis, th..."
 canonical: true

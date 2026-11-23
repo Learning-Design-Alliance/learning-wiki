@@ -1,5 +1,6 @@
 ---
 type: theory
+id: balanced-assessment-system-wide-range-of-methods
 title: Balanced assessment system encompassing a wide range of methods beyond tests
 description: The article defines a balanced assessment system as an organizing framework for school assessment practice.
 status: review

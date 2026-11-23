@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-stage-fairness-aware-identification-pipeline
 title: Three-stage fairness-aware analytical pipeline for early at-risk student identification
 description: "The article proposes an analytical framework that identifies at-risk students at three points in a course: a Demog stage using demographic information only, Stage 1 adding learning activities up to the first unit revi..."
 status: review

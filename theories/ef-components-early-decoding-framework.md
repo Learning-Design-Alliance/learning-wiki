@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ef-components-early-decoding-framework
 title: "Executive function components in early decoding: working memory, inhibitory control, and cognitive flexibility"
 description: "The article frames early decoding as drawing on executive function, defined as \"cognitive resources to control attention to the print, recall the relevant phonological codes, ignore irrelevant codes, and flexibly shif..."
 status: review

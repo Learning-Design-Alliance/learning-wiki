@@ -1,5 +1,6 @@
 ---
 type: theory
+id: invitational-education-model
 title: "Invitational Education: a model of the educative process built on four value-based assumptions"
 description: "Invitational Education is 'a metaphor for an emerging model of the educative process consisting of four value-based assumptions about the nature of people and their potential.' It provides 'both a theoretical framewor..."
 status: review

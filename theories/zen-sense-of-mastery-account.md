@@ -1,5 +1,6 @@
 ---
 type: theory
+id: zen-sense-of-mastery-account
 title: "Zen-derived sense-of-mastery account of mastery learning's accumulated benefits"
 description: "The paper develops an account, drawn from Zen training traditions, in which a learner intensely focuses on a very small domain, masters it, and then uses \"this sense of mastery as a guide to the tackling of new tasks...."
 status: review

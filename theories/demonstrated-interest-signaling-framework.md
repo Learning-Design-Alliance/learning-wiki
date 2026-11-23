@@ -1,5 +1,6 @@
 ---
 type: theory
+id: demonstrated-interest-signaling-framework
 title: "Demonstrated interest: applicant contacts with admissions offices as signals of enrollment probability"
 description: "The article frames applicants' contacts with admissions offices, such as campus visits, as signals that admissions officers read as interest in enrolling."
 status: review

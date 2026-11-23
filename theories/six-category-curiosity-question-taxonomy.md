@@ -1,5 +1,6 @@
 ---
 type: theory
+id: six-category-curiosity-question-taxonomy
 title: Six-category question taxonomy for measuring curiosity in STEM contexts
 description: The article devises a categorization scheme for student questions as a simple measurement tool for curiosity, since existing curiosity theories do not categorize question types.
 status: review

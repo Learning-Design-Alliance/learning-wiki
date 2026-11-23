@@ -1,5 +1,6 @@
 ---
 type: theory
+id: myness-otherness-dialogical-culture-framework
 title: Myness–Otherness dialogical framework of culture in EFL learning
 description: "The article frames culture as \"a progression from monological to dialogical processes\" in which learners recognize \"Myness\" and \"Otherness\" — the relationship between the individual's own cultural identity and that of..."
 status: review

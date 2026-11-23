@@ -1,5 +1,6 @@
 ---
 type: theory
+id: turnaround-school-definition-criteria
 title: Turnaround schools as a distinct category of school improvement
 description: "The guide defines turnaround schools by two criteria: they \"began as chronically poor performers\" with generally 20 percent or more of students failing state proficiency standards over two or more consecutive years, a..."
 status: review

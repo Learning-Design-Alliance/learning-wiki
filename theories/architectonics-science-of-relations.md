@@ -1,5 +1,6 @@
 ---
 type: theory
+id: architectonics-science-of-relations
 title: "Architectonics: the philosophical tradition of building and relating meaning, knowledge, and experience"
 description: "Architectonics is presented as a concept permeating the Western philosophical tradition, defined by Holquist as \"the science of relations\" and by the article as \"a means of contemplating the various ways that we build..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-patterns-adapting-individual-differences
 title: Three patterns of instructional adaptation to individual differences, each with distinct measurement requirements
 description: Drawing on Cronbach (1967), the paper identifies three patterns of adapting instruction to individual differences.
 status: review

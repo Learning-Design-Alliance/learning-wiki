@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-enrollment-three-mechanisms-theory
 title: Dual enrollment as a credit-based transition-to-college mechanism operating through college exposure, early credit accumulation, and cost reduction
 description: "The report describes dual enrollment programs as collaborations between secondary and postsecondary institutions that \"allow high school students to take college courses and earn college credits while still attending..."
 status: review

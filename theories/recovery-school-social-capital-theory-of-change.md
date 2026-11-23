@@ -1,5 +1,6 @@
 ---
 type: theory
+id: recovery-school-social-capital-theory-of-change
 title: "Recovery school theory of change: sober peer connectedness and social capital support recovery and academic achievement"
 description: The review describes a theory of change in which recovery schools build on social connectedness within the educational environment.
 status: review

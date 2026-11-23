@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teacher-self-efficacy-field-specific-belief
 title: Teacher self-efficacy belief as a field-specific judgment influencing instructional choices
 description: "The article frames teacher self-efficacy within Bandura's social learning theory, defining it as \"judgments of people regarding their capacities of coordinating and implementing activities to achieve specific performa..."
 status: review

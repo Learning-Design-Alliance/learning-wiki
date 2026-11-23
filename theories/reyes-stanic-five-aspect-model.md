@@ -1,5 +1,6 @@
 ---
 type: theory
+id: reyes-stanic-five-aspect-model
 title: "Reyes and Stanic's five-aspect model of differences in mathematics achievement"
 description: "The review describes Reyes and Stanic's (1988) model explaining differences in mathematics achievement based on race, sex, and socioeconomic status."
 status: review

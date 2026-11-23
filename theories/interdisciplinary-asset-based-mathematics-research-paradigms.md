@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interdisciplinary-asset-based-mathematics-research-paradigms
 title: Critique of dominant research paradigms in mathematics learning and a shift toward interdisciplinary, asset-based approaches
 description: "The chapter's organizing argument is that prevailing research paradigms for understanding mathematics learning are inadequate and should be replaced by interdisciplinary and asset-based approaches."
 status: review

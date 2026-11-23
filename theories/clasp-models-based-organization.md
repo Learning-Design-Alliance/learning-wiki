@@ -1,5 +1,6 @@
 ---
 type: theory
+id: clasp-models-based-organization
 title: "Models-based curriculum organization: introductory physics structured around a set of 27 models rather than a serial sequence of topics"
 description: CLASP organizes its one-year curriculum around a set of 27 models — collections of ideas and relationships among them that prove useful for making sense of, explaining, and predicting phenomena — rather than the tradi...
 status: review

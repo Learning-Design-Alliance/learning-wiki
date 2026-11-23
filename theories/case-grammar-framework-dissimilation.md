@@ -1,5 +1,6 @@
 ---
 type: theory
+id: case-grammar-framework-dissimilation
 title: Case-grammar framework for analyzing dissimilation
 description: The paper adopts C.
 status: review

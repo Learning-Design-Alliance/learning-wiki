@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ernest-mathematics-related-belief-systems-framework
 title: "Ernest's Mathematics-Related Belief Systems as a framework for characterizing preservice teachers' philosophies of mathematics"
 description: "The article uses Ernest's (1991a) framework of mathematics-related belief systems, comprising five belief clusters concerning mathematics, to characterize and track a preservice teacher's philosophy."
 status: review

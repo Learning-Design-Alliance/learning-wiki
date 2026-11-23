@@ -1,5 +1,6 @@
 ---
 type: theory
+id: vector-hypothesis-partial-element-integration
 title: "Vector hypothesis: each higher taxonomy level integrates only a subset of the elements of lower-level behaviors"
 description: "The authors propose that Knowledge's Type A behaviors be viewed as a vector of unique elements, with each higher level integrating only a subset of those elements rather than the whole vector."
 canonical: true

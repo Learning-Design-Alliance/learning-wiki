@@ -1,5 +1,6 @@
 ---
 type: theory
+id: equity-relevant-research-for-whom-under-what-conditions
 title: Equity-relevant research as answering for whom and under what conditions an improvement works
 description: "The report frames equity-relevant research through two concepts: equity \"respects variability among learners\" including differences in strengths, needs, experiences, and opportunities, and equity respects that educati..."
 status: review

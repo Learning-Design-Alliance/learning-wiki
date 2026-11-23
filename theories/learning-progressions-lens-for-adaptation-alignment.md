@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-progressions-lens-for-adaptation-alignment
 title: "Mathematical learning progressions as a lens for evaluating teachers' curriculum adaptations"
 description: "The study uses mathematical learning progressions as the standard against which teachers' content adaptations to middle school math curricula are judged."
 status: review

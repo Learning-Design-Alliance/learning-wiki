@@ -1,5 +1,6 @@
 ---
 type: theory
+id: preschool-ef-five-dimension-framework
 title: Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5
 description: "The article frames preschool executive function (ages 2 to 6) as spanning five foundational dimensions: \"working memory, inhibitory control, shift/cognitive flexibility, emotional control, and planning/organization\"."
 status: review

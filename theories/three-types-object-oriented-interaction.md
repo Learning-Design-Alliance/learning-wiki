@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-types-object-oriented-interaction
 title: "Framework of three types of object-oriented interaction: coordination, cooperation, and communication"
 description: The framework distinguishes three qualitatively different types of epistemological subject-object-subject relations in collaborative learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: problem-solving-followed-by-instruction
 title: Problem-Solving Followed by Instruction
 description: Students attempt a problem before receiving instruction on the canonical solution, so that the attempt activates prior knowledge and exposes knowledge gaps that make the later instruction more effective than instruction delivered first.
 canonical: true

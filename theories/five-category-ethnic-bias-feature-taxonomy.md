@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-category-ethnic-bias-feature-taxonomy
 title: Five-category feature taxonomy for classifying ethnic bias in educational texts
 description: "The article organizes candidate bias signals into a taxonomy of \"five categories: psycholinguistic markers, linguistic abstraction, language valence, ethnic group mentions, and contextual attributes\"."
 status: review

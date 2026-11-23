@@ -1,5 +1,6 @@
 ---
 type: theory
+id: eportfolio-social-pedagogy-ecosystem
 title: ePortfolio Social Pedagogy Ecosystem
 description: "A framework in which ePortfolio learning occurs through three interrelated modes of social learning activities: authoring a written ePortfolio on a digital platform, presenting the ePortfolio in a webinar platform, an..."
 status: review

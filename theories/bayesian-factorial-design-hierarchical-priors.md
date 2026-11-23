@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bayesian-factorial-design-hierarchical-priors
 title: Bayesian approach to factorial design using hierarchical priors and partial pooling
 description: The paper introduces a Bayesian framework for factorial experiments in education research.
 status: review

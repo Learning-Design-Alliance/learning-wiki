@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tbl-three-phase-laboratory-format
 title: "Team-based learning format: pre-class preparation, readiness assurance, and concept application"
 description: "Team-based learning (TBL) is a student-centered instructional format that, as the article describes citing Michaelsen & Sweet (2008), \"transforms teacher-centered classrooms with pre-class preparation, group work, and..."
 status: review

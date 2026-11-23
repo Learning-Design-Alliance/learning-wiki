@@ -1,5 +1,6 @@
 ---
 type: theory
+id: element-interactivity-complexity-criterion-clt
 title: Element interactivity as the CLT criterion of subject complexity
 description: "Within Cognitive Load Theory, element interactivity is defined as \"the coordination of many information elements working simultaneously to complete a task\" and is treated as the criterion of a subject's complexity."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cbe-variable-time-mastery-definition
 title: Competency-based education defined by variable-time mastery of measurable competencies
 description: "The brief defines competency-based education as an approach whose \"key feature is that students are to master clearly defined and measurable learning outcomes (the required 'competencies'), but the time a student take..."
 status: review

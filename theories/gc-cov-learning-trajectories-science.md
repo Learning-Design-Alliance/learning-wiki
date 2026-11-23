@@ -1,5 +1,6 @@
 ---
 type: theory
+id: gc-cov-learning-trajectories-science
 title: Learning trajectories for graph comprehension and covariational reasoning as frameworks for mathematics-in-science integration
 description: The report articulates two learning trajectories framing mathematics in OpenSciEd investigations.
 status: review

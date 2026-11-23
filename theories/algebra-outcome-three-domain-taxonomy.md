@@ -1,5 +1,6 @@
 ---
 type: theory
+id: algebra-outcome-three-domain-taxonomy
 title: "Three-domain taxonomy of algebra learning outcomes: conceptual knowledge, procedural knowledge, and procedural flexibility"
 description: The guide organizes the knowledge and skills algebra students are expected to master into three outcome domains used to classify study results.
 status: review

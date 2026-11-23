@@ -1,5 +1,6 @@
 ---
 type: theory
+id: automaticity-theory-repeated-reading-basis
 title: Automaticity theory as the theoretical basis of repeated reading
 description: The report grounds repeated reading in the theory of automaticity, developed in the 1960s and 1970s.
 status: review

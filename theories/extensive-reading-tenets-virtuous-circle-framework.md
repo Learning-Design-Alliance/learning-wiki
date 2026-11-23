@@ -1,5 +1,6 @@
 ---
 type: theory
+id: extensive-reading-tenets-virtuous-circle-framework
 title: "Extensive reading framework: ten tenets and the virtuous circle of the good reader"
 description: "The article presents extensive reading as an approach in which learners \"read quickly large amounts of easy and varied self-selected material to build fluency and consolidate language knowledge\", with reading as its o..."
 status: review

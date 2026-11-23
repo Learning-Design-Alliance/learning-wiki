@@ -1,5 +1,6 @@
 ---
 type: theory
+id: soka-value-creating-education-happiness-aim
 title: "Soka value-creating education: the aim of education is the learner's happiness in a contributive, transformative social context"
 description: Value-creating pedagogy, outlined by Tsunesaburo Makiguchi, holds that creating value is a uniquely human endeavor augmenting daily life and the joy of learning.
 status: review

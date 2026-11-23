@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sea-lre-policy-three-goals-taxonomy
 title: "State education agency LRE policies cluster around three goals: influencing out-of-district placement, controlling institutional programs, and deinstitutionalization"
 description: The report organizes the state policies it surveyed into a three-goal taxonomy.
 canonical: true

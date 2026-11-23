@@ -1,5 +1,6 @@
 ---
 type: theory
+id: intervention-bkt-model
 title: "Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states"
 description: Intervention-BKT (IBKT) extends Bayesian Knowledge Tracing by adding input nodes representing instructional interventions such as elicit and tell.
 status: review

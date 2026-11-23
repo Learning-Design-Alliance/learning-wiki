@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cresst-problem-solving-model
 title: CRESST model of problem solving
 description: "The problem-solving assessment model from the National Center for Research on Evaluation, Standards, and Student Testing, used as this study's theoretical frame."
 canonical: true

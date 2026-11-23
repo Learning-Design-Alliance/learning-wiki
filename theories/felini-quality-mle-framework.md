@@ -1,5 +1,6 @@
 ---
 type: theory
+id: felini-quality-mle-framework
 title: A systematic framework of 35 indicators grouped under five quality criteria for MLE in Italian elementary schools
 description: "The article presents a systematic framework of \"35 indicators for good MLE activities in Italian elementary schools.\" The indicators are organized under five quality criteria — teaching methods, actors, organization,..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: commognition-framework-thinking-as-communication
 title: "Commognitive framework: thinking as communication and learning as participation in mathematical discourse"
 description: Commognition, named from the combination of communication and cognition, conceptualizes thinking as self-communication and learning mathematics as participation in a discourse.
 status: review

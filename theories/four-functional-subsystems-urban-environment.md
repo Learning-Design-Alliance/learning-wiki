@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-functional-subsystems-urban-environment
 title: Four functional subsystems of the urban environment
 description: "In the conference's general session address, sociologist H."
 status: review

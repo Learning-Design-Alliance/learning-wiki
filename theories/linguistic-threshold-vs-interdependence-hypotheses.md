@@ -1,5 +1,6 @@
 ---
 type: theory
+id: linguistic-threshold-vs-interdependence-hypotheses
 title: Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension
 description: "The review presents two dueling hypotheses about English Language Learners' reading, discussed by Bernhardt and Kamil (1995)."
 status: review

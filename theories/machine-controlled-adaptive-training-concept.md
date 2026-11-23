@@ -1,5 +1,6 @@
 ---
 type: theory
+id: machine-controlled-adaptive-training-concept
 title: "Machine-controlled adaptive training: task difficulty varies as a function of trainee performance"
 description: In adaptive training, the task presented to the trainee varies as a function of how well he performs.
 status: review

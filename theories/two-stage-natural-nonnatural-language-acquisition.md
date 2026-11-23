@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-stage-natural-nonnatural-language-acquisition
 title: "Two-stage model of native language acquisition: natural oral-aural stage followed by nonnatural literacy stage"
 description: "The article presents a stage model of native language acquisition in which the first stage is natural oral-aural development, \"better known as speaking and listening,\" gained in the home before school, and the second..."
 status: review

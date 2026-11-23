@@ -1,5 +1,6 @@
 ---
 type: theory
+id: expanded-accountability-framework
 title: Expanded accountability
 description: A lens developed by Dr.
 status: review

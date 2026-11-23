@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mobile-user-typology-adoption-predictor-framework
 title: Mobile user typology as a candidate predictor in mobile learning adoption models, substituting for effort expectancy
 description: The article proposes that the four-class mobile user typology derived from latent class cluster analysis — eclectic, Internet, basic, and offline entertainment users — be introduced into technology adoption models suc...
 status: review

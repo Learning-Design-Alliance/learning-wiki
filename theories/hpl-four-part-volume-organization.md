@@ -1,5 +1,6 @@
 ---
 type: theory
+id: hpl-four-part-volume-organization
 title: "Four-part organization of How People Learn: learners and learning, teachers and teaching, and future directions"
 description: "The volume's table of contents organizes the science of learning into four parts: an introduction; 'Learners and Learning' covering how experts differ from novices, learning and transfer, how children learn, and mind..."
 status: review

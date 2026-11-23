@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-learning-expectancy-framework
 title: Social learning theory expectancy framework (generalized and specific expectancies)
 description: "Rotter's social learning theory, as applied in this article, conceptualizes behavior as determined by generalized expectancies, such as locus of control (internal versus external reinforcement), and by specific expect..."
 canonical: true

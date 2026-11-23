@@ -1,5 +1,6 @@
 ---
 type: theory
+id: 4cid-math-model-secondary-tertiary
 title: 4C/ID Math Model for secondary-tertiary mathematics instruction
 description: The 4C/ID Math Model is an empirically confirmed adaptation of the Cognitive Load Theory-based Four-Component Instructional Design Model for secondary-tertiary mathematics.
 status: review

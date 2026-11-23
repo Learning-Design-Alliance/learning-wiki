@@ -1,5 +1,6 @@
 ---
 type: theory
+id: six-theories-of-anthropomorphism
 title: Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities
 description: "The article reviews six accounts of anthropomorphism, defined as \"the tendency to atribute human motvaton, characteristcs, or behavior to nonhuman enttes\"."
 status: review

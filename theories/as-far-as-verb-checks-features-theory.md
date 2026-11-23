@@ -1,5 +1,6 @@
 ---
 type: theory
+id: as-far-as-verb-checks-features-theory
 title: As-far-as-a-verb-can-check-its-features theory of adverb order and scope within TP
 description: "The author proposes a principle, named the \"as-far-as-a-verb-can-check-its-features theory\", to explain adverb order and scope."
 status: review

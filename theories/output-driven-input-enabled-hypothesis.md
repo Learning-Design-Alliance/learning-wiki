@@ -1,5 +1,6 @@
 ---
 type: theory
+id: output-driven-input-enabled-hypothesis
 title: "Output-driven, input-enabled hypothesis: output as both driving force and objective of EFL teaching"
 description: A tentative theory of foreign language teaching for tertiary-level students, proposed by Wen (2013, 2014, 2015), which “places emphasis on the importance of language output, or specifically teaching students to do thi...
 status: review

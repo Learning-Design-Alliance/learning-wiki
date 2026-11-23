@@ -1,5 +1,6 @@
 ---
 type: theory
+id: embodiment-theory-montessori-mind-movement
 title: "Theory of embodiment: cognition and meaning grounded in bodily action and perception, consistent with Montessori's view of mind and movement"
 description: "The theory of embodiment sees meaning and cognition as deeply rooted in physical existence: bodily experience and interaction support systems of thought, and meaning arises through embodied organism-environment intera..."
 status: review

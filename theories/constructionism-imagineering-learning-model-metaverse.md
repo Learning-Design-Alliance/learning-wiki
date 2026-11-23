@@ -1,5 +1,6 @@
 ---
 type: theory
+id: constructionism-imagineering-learning-model-metaverse
 title: "Constructionism imagineering learning model via metaverse with four main elements: inputs, learning process, output, and feedback"
 description: The article develops a learning model that integrates imagineering learning with constructionism learning and delivers it through the metaverse, a virtual environment where learners interact through avatars as 3D grap...
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: competing-theories-action-chicago-school-reform
 title: "Competing theories of action for school change in Chicago: business-oriented, teaching-and-learning, community-dialogue/equity, and parental-control views"
 description: "The report organizes Chicago school-reform actors' views of school change into a typology of competing theories of action."
 status: review

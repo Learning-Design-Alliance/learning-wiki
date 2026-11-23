@@ -1,5 +1,6 @@
 ---
 type: theory
+id: part-whole-spatial-recall-model
 title: Part-whole processing model of spatial recall
 description: "The article proposes a model of cognitive processing in which effective recall of spatial attributes depends on treating spatial arrays as part-whole relations: individual features are encoded and recalled as discrete..."
 status: review

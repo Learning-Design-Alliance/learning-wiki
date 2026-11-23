@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tc-effect-character-position-flexibility
 title: The transposed-character effect as an index of flexibility in processing character position information in logographic scripts
 description: "The article frames the transposed-character (TC) effect as a behavioral index of how strictly readers encode the position of characters within two-character logographic words: \"The TC effect shows the flexibility of c..."
 status: review

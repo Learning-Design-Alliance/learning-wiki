@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bilingual-education-interaction-model
 title: "Model of bilingual education: outcomes as interaction of background, child input, and educational treatment factors"
 description: "The paper integrates its two hypotheses into an overall model of bilingual education in which \"educational outcomes are explained as a function of the interaction between background, child input, and educational treat..."
 canonical: true

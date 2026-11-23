@@ -1,5 +1,6 @@
 ---
 type: theory
+id: alumni-connections-co-design-model
 title: "The Alumni Connections co-design model: designing alumni surveys with school communities rather than for them"
 description: "The guide's organizing framework is a co-design model in which cross-functional teams including students, families, teachers, and alumni jointly create alumni surveys."
 status: review

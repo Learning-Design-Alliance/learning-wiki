@@ -1,5 +1,6 @@
 ---
 type: theory
+id: critical-pedagogy-as-rhetorical-education
 title: "Giroux's critical pedagogy is a program of rhetorical education in which pedagogy is a form of cultural production"
 description: "The paper interprets Henry Giroux's critical pedagogy as explicitly rhetorical education."
 status: review

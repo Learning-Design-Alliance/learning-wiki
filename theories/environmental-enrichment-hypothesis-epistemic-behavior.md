@@ -1,5 +1,6 @@
 ---
 type: theory
+id: environmental-enrichment-hypothesis-epistemic-behavior
 title: Environmental enrichment hypothesis as an account of how cognitive ability and curiosity translate into knowledge attainment
 description: "The environmental enrichment hypothesis holds that engagement in epistemic behaviors enriches the environment, \"thus providing more opportunity for the acquisition of knowledge\"."
 status: review

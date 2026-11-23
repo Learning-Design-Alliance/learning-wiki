@@ -1,5 +1,6 @@
 ---
 type: theory
+id: jem-second-screen-design-rationale
 title: Joint media engagement (JEM) as a design target for family science learning
 description: "The paper's organizing framework is joint engagement with media (JEM): intentionally designed shared media experiences that support learning."
 status: review

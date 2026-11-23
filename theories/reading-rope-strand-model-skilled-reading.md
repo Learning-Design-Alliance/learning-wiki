@@ -1,5 +1,6 @@
 ---
 type: theory
+id: reading-rope-strand-model-skilled-reading
 title: "Reading Rope (Strand Model of Skilled Reading): word recognition and language comprehension as multifaceted strands"
 description: "Scarborough's 2001 Strand Model, or Reading Rope, elaborates the Simple View by treating each component as multifaceted: the word recognition strand encompasses phonological awareness, decoding, and sight recognition,..."
 status: review

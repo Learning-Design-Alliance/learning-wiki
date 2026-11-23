@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sel-framework-versus-competency-distinction
 title: SEL frameworks as organizing tools distinct from the competencies they structure
 description: "The brief distinguishes frameworks from competencies: competencies are the knowledge, attitudes, and skills people need to be socially and emotionally competent, while a framework organizes and names those competencie..."
 status: review

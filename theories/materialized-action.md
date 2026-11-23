@@ -1,5 +1,6 @@
 ---
 type: theory
+id: materialized-action
 title: Materialized Action
 description: Learning emerges from the intra-action of a learner's body and a material's own properties (tension, spring-back, thickness) across nested levels of a made artifact — materials are treated as active co-constructors of understanding, not passive tools a learner's mental model is projected onto.
 canonical: true

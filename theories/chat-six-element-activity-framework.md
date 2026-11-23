@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chat-six-element-activity-framework
 title: Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)
 description: The article presents activity theory as a socio-cultural and historical lens for holistically analyzing human activity systems.
 status: review

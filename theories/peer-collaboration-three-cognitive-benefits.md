@@ -1,5 +1,6 @@
 ---
 type: theory
+id: peer-collaboration-three-cognitive-benefits
 title: "Crook's three cognitive benefits of peer collaboration: articulation, conflict, and co-construction"
 description: "The article presents Crook's (1994) account that \"peer collaboration offers three cognitive benefits: articulation, conflict, and co-construction.\" Articulation: students must make intuitive and emerging ideas explici..."
 status: review

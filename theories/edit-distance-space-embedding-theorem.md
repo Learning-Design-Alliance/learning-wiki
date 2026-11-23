@@ -1,5 +1,6 @@
 ---
 type: theory
+id: edit-distance-space-embedding-theorem
 title: "Edit distance space: Euclidean embedding of states under a symmetric edit distance"
 description: "The article introduces \"the notion of an edit distance space, a continuous space in which each state corresponds to one vector and the Euclidean distance between vectors corresponds to the edit distance between two st..."
 status: review

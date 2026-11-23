@@ -1,5 +1,6 @@
 ---
 type: theory
+id: perceptual-learning-framework-fh2t
 title: "Perceptual Learning as the theoretical framework underlying FH2T's design"
 description: "The Graspable Math team used the theory of Perceptual Learning to develop FH2T, aiming to deepen students' conceptual understanding of algebraic structure."
 status: review

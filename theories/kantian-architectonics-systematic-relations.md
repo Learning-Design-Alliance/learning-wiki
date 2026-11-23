@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kantian-architectonics-systematic-relations
 title: "Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education"
 description: "Architectonics is defined in the article as \"the constructive role of cognition in perception\" and as \"the 'art of systems'\" — the unity of manifold cognition under one idea."
 status: review

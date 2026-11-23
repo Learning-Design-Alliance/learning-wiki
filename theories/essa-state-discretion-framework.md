@@ -1,5 +1,6 @@
 ---
 type: theory
+id: essa-state-discretion-framework
 title: ESSA as a federal policy framework granting states more discretion over standards, assessment, school improvement, and educator effectiveness
 description: The report describes the Every Student Succeeds Act as the current authorization of the federal Elementary and Secondary Education Act.
 status: review

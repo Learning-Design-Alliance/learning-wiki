@@ -1,5 +1,6 @@
 ---
 type: theory
+id: student-centered-environments-assumptions-framework
 title: Assumptions-and-functions framework of student-centered learning environments
 description: "The paper identifies common assumptions underlying student-centered learning environments, drawn from \"a synthesis of empirical research, theory, and supporting examples\" in situated cognition, microworld design, ment..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tech-ecosystem-systemic-barrier-taxonomy
 title: Systemic and economic barrier taxonomy across the technology learning and workforce ecosystem
 description: "The scan organizes barriers to Black learners' and workers' technology career entry and advancement into six ecosystem layers: educational and training opportunities, social capital access, financial capital access an..."
 status: review

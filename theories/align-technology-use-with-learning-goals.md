@@ -1,5 +1,6 @@
 ---
 type: theory
+id: align-technology-use-with-learning-goals
 title: Align technology use with specific learning goals rather than adopting technology for its own sake
 description: "The guide's overarching framework holds that the value of educational technology lies in how it is used, not in the technology itself, because technologies evolve rapidly."
 status: review

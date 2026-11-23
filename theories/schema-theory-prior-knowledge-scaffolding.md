@@ -1,5 +1,6 @@
 ---
 type: theory
+id: schema-theory-prior-knowledge-scaffolding
 title: "Schema theory: learning new information depends on relating it to existing mental blueprints"
 description: The article invokes schema theory and cognitive science to explain how the brain structures knowledge.
 status: review

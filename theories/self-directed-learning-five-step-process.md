@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-directed-learning-five-step-process
 title: Self-directed learning as a five-step process learners control themselves
 description: Self-directed learning (SDL) derives from andragogy and describes a process in which the adult learner guides and directs the process, participating fully in evaluating learning needs, planning, implementing and evalu...
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: transfer-appropriate-processing-account-of-retrieval-practice
 title: Transfer-Appropriate Processing Account of Retrieval Practice
 description: Transfer-appropriate processing holds that performance is best when initial learning processing matches the processing required on a later final assessment.
 canonical: true

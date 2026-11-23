@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-commonplaces-narrative-inquiry-space
 title: Three commonplaces—temporality, sociality, and place—specify the dimensions of a narrative inquiry space
 description: The article presents the three-dimensional narrative inquiry space as the organizing framework for making meaning of experience.
 status: review

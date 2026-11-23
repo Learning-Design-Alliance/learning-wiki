@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mi-theory-eight-intelligences-taxonomy
 title: "Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth"
 description: "The review briefly outlines Gardner's MI theory before presenting critics."
 status: review

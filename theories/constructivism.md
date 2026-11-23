@@ -1,5 +1,6 @@
 ---
 type: theory
+id: constructivism
 title: Constructivism
 description: Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know.
 canonical: true

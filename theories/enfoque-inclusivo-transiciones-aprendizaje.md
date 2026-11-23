@@ -1,5 +1,6 @@
 ---
 type: theory
+id: enfoque-inclusivo-transiciones-aprendizaje
 title: Enfoque inclusivo de las transiciones en el aprendizaje
 description: El informe adopta un enfoque inclusivo de las transiciones en el aprendizaje, cuestionando la concepción tradicional lineal (hogar→guardería→escuela→trabajo) por androcéntrica, siguiendo estudios feministas críticos.
 status: review

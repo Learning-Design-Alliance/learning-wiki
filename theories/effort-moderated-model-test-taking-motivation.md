@@ -1,5 +1,6 @@
 ---
 type: theory
+id: effort-moderated-model-test-taking-motivation
 title: Effort-moderated model of unmotivated test-taking behavior
 description: The effort-moderated model is one of several types of models proposed to represent unmotivated test-taking behavior, describing how response accuracy depends on test-taker effort as reflected in response times.
 status: review

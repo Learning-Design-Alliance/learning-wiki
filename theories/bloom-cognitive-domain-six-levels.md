@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bloom-cognitive-domain-six-levels
 title: "Bloom's Taxonomy cognitive domain as a six-level framework for classifying examination questions"
 description: "The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956, as the organizing framework for analyzing assessment."
 status: review

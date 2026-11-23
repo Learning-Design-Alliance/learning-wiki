@@ -1,5 +1,6 @@
 ---
 type: theory
+id: grammar-as-mediator-words-context-widdowson
 title: "Widdowson's account of grammar as mediator between words and context for the achievement of meaning"
 description: "The bibliography reports, citing Widdowson (1988), the argument that grammar is more than a collection of sentence patterns: it is \"the mediator between words and context for the achievement of meaning\"."
 status: review

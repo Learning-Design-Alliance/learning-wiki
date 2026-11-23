@@ -1,5 +1,6 @@
 ---
 type: theory
+id: coaching-as-partnership-approach
 title: Coaching as a partnership among principals, coaches, and teachers
 description: "The report adopts a partnership framing of instructional coaching, attributed to Knight (2007), in which principals, coaches, and teachers all \"define, understand, and engage in coaching as a partnership.\" Under this..."
 status: review

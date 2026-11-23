@@ -1,5 +1,6 @@
 ---
 type: theory
+id: shop-operational-readiness-framework-astronauts-operational-athletes
 title: SHOP operational readiness framework positioning astronauts as operational athletes
 description: The Spaceflight Human Optimization and Performance (SHOP) framework is a translational, multidisciplinary framework that positions astronauts as operational athletes and organizes countermeasures and monitoring across...
 status: review

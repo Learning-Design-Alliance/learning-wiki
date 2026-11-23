@@ -1,5 +1,6 @@
 ---
 type: theory
+id: lightbody-equality-framework-cel
 title: "Lightbody's four-element framework of equality in community-engaged learning"
 description: "Lightbody's (2017) framework structures equality in CEL around four interrelated elements: \"power-sharing and rep- resentation, partnerships, bureaucracy, and funding and resources\"."
 status: review

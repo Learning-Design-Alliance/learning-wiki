@@ -1,5 +1,6 @@
 ---
 type: theory
+id: evaluation-technical-assistance-liaison-model
 title: "Evaluation technical assistance (ETA): liaison-provided support to grantees developing interventions and evaluations simultaneously"
 description: Evaluation technical assistance (ETA) is support provided to grantees of federal initiatives to help them build evidence while designing and implementing interventions.
 status: review

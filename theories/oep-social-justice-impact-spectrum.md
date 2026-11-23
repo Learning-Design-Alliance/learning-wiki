@@ -1,5 +1,6 @@
 ---
 type: theory
+id: oep-social-justice-impact-spectrum
 title: "Social justice impact spectrum for OEP: transformative, ameliorative, neutral or negative"
 description: "The article extends Hodgkinson-Williams and Trotter's framework, built on Fraser's model of social justice, to expansive process-centric OEP."
 status: review

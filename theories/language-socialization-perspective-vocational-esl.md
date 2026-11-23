@@ -1,5 +1,6 @@
 ---
 type: theory
+id: language-socialization-perspective-vocational-esl
 title: Language socialization perspective on combined language and occupational skills training
 description: "The article interprets participants' learning through a language socialization lens, in which language learning, sociocultural knowledge, and social interaction are interdependent."
 status: review

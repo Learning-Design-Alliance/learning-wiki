@@ -1,5 +1,6 @@
 ---
 type: theory
+id: writing-process-three-task-groups-cyclical
 title: "Writing process approach: prewriting, drafting, and revising as overlapping cyclical task groups"
 description: The manual organizes writing instruction around a process approach that focuses less on the product than on the writer.
 status: review

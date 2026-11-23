@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mead-three-phases-of-the-act
 title: "Mead's three phases of the act: emotional, aesthetic, and intellectual"
 description: In the reconstructed lectures Mead distinguishes three phases in the development of the act.
 status: review

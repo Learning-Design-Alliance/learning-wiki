@@ -1,5 +1,6 @@
 ---
 type: theory
+id: adolescent-brain-development
 title: Adolescent Brain Development
 description: Adolescent brain development is marked by a maturational mismatch — the limbic system's reward and emotion circuitry matures years before the prefrontal cortex's executive-control circuitry — that helps explain adolescent risk-taking, emotional intensity, and sensitivity to social reward.
 canonical: true

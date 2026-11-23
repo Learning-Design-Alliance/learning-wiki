@@ -1,5 +1,6 @@
 ---
 type: theory
+id: privacy-plural-context-dependent-concept
 title: Privacy as a plural, context-dependent concept operationalized as restriction of access to personal information
 description: "The article frames privacy as a concept lacking universal definition, quoting Solove that \"privacy is not reducible to a singular essence; it is a plurality of different things.\" Definitions vary by time period, cultu..."
 status: review

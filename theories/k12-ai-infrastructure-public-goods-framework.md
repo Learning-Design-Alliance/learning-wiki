@@ -1,5 +1,6 @@
 ---
 type: theory
+id: k12-ai-infrastructure-public-goods-framework
 title: K‑12 AI infrastructure as shared public goods bridging general-purpose models and learning-specific applications
 description: "The report defines AI infrastructure for education as \"foundational building blocks such as data, models, and algorithms needed to bridge the gap between general-purpose tools and learning-specific applications.\" It e..."
 status: review

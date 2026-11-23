@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dialogic-teaching-versus-conversation
 title: Dialogic teaching as distinct from ordinary classroom conversation
 description: "The forum reports Leung's (2014) distinction between the dialogic and conversational nature of classroom interaction and feedback, drawing on Alexander's (2008) term dialogic teaching."
 status: review

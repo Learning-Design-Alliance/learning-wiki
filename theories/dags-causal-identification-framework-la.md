@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dags-causal-identification-framework-la
 title: Directed acyclic graphs as a nonparametric framework for identifying causal effects in learning analytics
 description: The article presents DAGs, pioneered by Pearl, as a way of visually encoding causal assumptions among variables of interest so researchers can reason about bias and identification.
 status: review

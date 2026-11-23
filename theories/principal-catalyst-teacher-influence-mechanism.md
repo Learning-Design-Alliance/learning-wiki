@@ -1,5 +1,6 @@
 ---
 type: theory
+id: principal-catalyst-teacher-influence-mechanism
 title: "Dual-support mechanism: deep principal leadership catalyzes collective instructional work while teacher influence makes it meaningful"
 description: The report proposes an explanatory account of how the three key conditions work together in small schools.
 status: review

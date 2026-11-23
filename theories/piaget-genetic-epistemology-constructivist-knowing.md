@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-genetic-epistemology-constructivist-knowing
 title: "Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge"
 description: "The book presents Piaget's genetic epistemology as the developmental backbone of constructivism: rather than justifying knowledge by timeless logic, it investigates how children build knowledge."
 status: review

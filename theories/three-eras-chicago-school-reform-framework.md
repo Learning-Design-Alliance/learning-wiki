@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-eras-chicago-school-reform-framework
 title: "Three eras of Chicago school reform: Decentralization, Accountability, Diversification"
 description: The report organizes 20 years of Chicago school reform into three eras defined by district leadership and central reform policies.
 status: review

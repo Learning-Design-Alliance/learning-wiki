@@ -1,5 +1,6 @@
 ---
 type: theory
+id: six-staff-development-models-taxonomy
 title: Six models of staff development ordered by ascending complexity, each implying a distinct staff-developer role
 description: "The monograph's second organizing axis identifies six models: expert-presenter, clinical-supervision, skill-training, action-research, organization-development, and change-process."
 status: review

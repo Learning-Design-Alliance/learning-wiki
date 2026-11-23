@@ -1,5 +1,6 @@
 ---
 type: theory
+id: strategic-interaction-method-three-dimensions
 title: "DiPietro's Strategic-Interaction Method gives equal significance to form and function and analyzes conversation along formal, transactional, and interactional dimensions"
 description: The Strategic-Interaction (S-I) Method, designed by Robert J.
 status: review

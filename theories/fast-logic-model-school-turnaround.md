@@ -1,5 +1,6 @@
 ---
 type: theory
+id: fast-logic-model-school-turnaround
 title: FAST logic model linking family strengthening to school turnaround
 description: The FAST program rests on a logic model (Exhibit 1) in which parent-child relationship building, parent-school engagement, parental social support, and improved home environment lead to improved child behavior and cla...
 status: review

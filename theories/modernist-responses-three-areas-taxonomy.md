@@ -1,5 +1,6 @@
 ---
 type: theory
+id: modernist-responses-three-areas-taxonomy
 title: "Modernist responses to the postmodern challenge form three broad areas: orthodox, critical pedagogy, and performativity texts"
 description: On the right side of the debate field, the paper patterns modernist responses into three genres.
 status: review

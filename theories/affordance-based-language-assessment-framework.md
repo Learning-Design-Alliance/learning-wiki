@@ -1,5 +1,6 @@
 ---
 type: theory
+id: affordance-based-language-assessment-framework
 title: "Affordance-based assessment framework: linguistic ability as emergent property of organism-environment interaction"
 description: The paper proposes an affordance-based framework for language assessment that shifts attention from measuring discrete outcomes toward documenting how learners engage with their affordance landscape, understood as the...
 status: review

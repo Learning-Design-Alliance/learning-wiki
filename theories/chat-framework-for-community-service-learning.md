@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chat-framework-for-community-service-learning
 title: Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning
 description: CHAT is described as a cross-disciplinary framework for studying how humans purposefully transform natural and social reality as a culturally and historically situated, socially mediated process.
 status: review

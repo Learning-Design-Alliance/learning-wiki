@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ct-integration-framework-three-circles
 title: "A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies"
 description: The report introduces a framework for integrating computational thinking into K-12 teaching, organized as three concentric circles.
 status: review

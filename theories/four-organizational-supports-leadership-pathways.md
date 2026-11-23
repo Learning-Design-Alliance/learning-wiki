@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-organizational-supports-leadership-pathways
 title: Four organizational supports mediating leadership effects on instruction and learning
 description: The article organizes school leadership effects through the Bryk et al.
 status: review

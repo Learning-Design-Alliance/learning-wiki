@@ -1,5 +1,6 @@
 ---
 type: theory
+id: instance-theory-memory-retrieval-automaticity
 title: "Instance Theory of automaticity: automatization as a shift from algorithmic processing to single-step memory retrieval"
 description: "Logan's Instance Theory explains automaticity as a memory phenomenon rather than a resource limitation: a novice performs a task with a general algorithm, and after repetitions retrieves specific past solutions, so pe..."
 status: review

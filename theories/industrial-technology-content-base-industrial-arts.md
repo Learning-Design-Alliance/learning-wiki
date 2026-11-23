@@ -1,5 +1,6 @@
 ---
 type: theory
+id: industrial-technology-content-base-industrial-arts
 title: Industrial technology as the content base for industrial arts
 description: The guide argues that industrial arts should draw its content from industrial technology rather than industry as a whole.
 status: review

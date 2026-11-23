@@ -1,5 +1,6 @@
 ---
 type: theory
+id: relative-age-special-education-diagnosis-framework
 title: Relative age as a factor in special education diagnosis
 description: "The article treats a student's relative age among classroom peers as a factor influencing whether the student is diagnosed as disabled and receives special education services."
 status: review

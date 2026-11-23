@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bkt-four-parameter-two-form-model
 title: "Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)"
 description: "Bayesian Knowledge Tracing models student learning of a skill with four parameters: P(L0) the initial probability the student knows the skill, P(G) the guessing probability, P(S) the slipping probability, and P(T) the..."
 status: review

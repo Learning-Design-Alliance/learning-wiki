@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-type-competency-assessment-taxonomy
 title: "A three-type taxonomy of competency-based mathematics assessment: traditional tests, checklist formats, and authentic portfolio-embedded assessment"
 description: The guide organizes its model assessments along a three-type axis developed with the Ohio Council of Teachers of Mathematics task force for implementing NCTM Standards in grades 1 through 8.
 status: review

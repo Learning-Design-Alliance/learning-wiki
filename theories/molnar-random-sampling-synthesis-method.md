@@ -1,5 +1,6 @@
 ---
 type: theory
+id: molnar-random-sampling-synthesis-method
 title: "Molnar's random-sampling method: synthesis of rules and no-rules toward a higher order of symmetry"
 description: "Vera Molnar's computer-based artistic method treats randomness as a viable approach to artistic expression rather than as chaos or disorder."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-approaches-school-family-engagement-taxonomy
 title: "Three-approach taxonomy of school-family engagement: traditional parent involvement, school-parent partnership, and family- and community-centered engagement"
 description: "The brief categorizes school-family engagement research into three approaches distinguished by the school's relationship with families, intentions and goals, decision-making structure, and communication with parents."
 status: review

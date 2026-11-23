@@ -1,5 +1,6 @@
 ---
 type: theory
+id: alternative-growth-measures-three-types
 title: "Three alternative student growth measure types for teacher evaluation: commercially available assessments, locally developed common assessments, and teacher-developed student learning objectives"
 description: The report organizes alternative measures of student achievement growth used in teacher evaluation into three types that do not rely on traditional annual state assessments.
 status: review

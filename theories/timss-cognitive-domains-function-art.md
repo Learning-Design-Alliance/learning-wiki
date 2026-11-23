@@ -1,5 +1,6 @@
 ---
 type: theory
+id: timss-cognitive-domains-function-art
 title: TIMSS cognitive domains (Knowing, Applying, Reasoning) as an analytical lens for function art evaluation
 description: The study repurposes the TIMSS cognitive framework—originally designed for standardized test construction—as an interpretive lens for analyzing student cognition in open-ended, creative function art tasks.
 status: review

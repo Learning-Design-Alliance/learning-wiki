@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-linguistics-usage-based-meaning-motivates-form
 title: Cognitive Linguistics as a usage-based model of language in which meaning motivates form
 description: "The article presents Cognitive Linguistics (CL) as a framework in which \"language is a dynamic interplay of complex subsystems composed of symbolic units, and meaning is the driving force behind form\"."
 status: review

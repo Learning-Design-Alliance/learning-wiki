@@ -1,5 +1,6 @@
 ---
 type: theory
+id: skill-theory-optimal-real-performance
 title: "Fischer and Knight's skill theory of cognitive development in real children"
 description: "Fischer and Knight present skill theory as a tool for analyzing children's development, explaining how the same child can show both stagelike developmental levels and wide performance variations."
 status: review

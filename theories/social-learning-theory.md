@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-learning-theory
 title: Social Learning Theory
 description: Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations.
 canonical: true

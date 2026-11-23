@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interaction-hypothesis-negotiation-comprehensible-input
 title: "Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition"
 description: "The article organizes its study around Long's interaction hypothesis, under which modification of interaction in NNS-NS encounters keeps interaction going and provides comprehensible input."
 status: review

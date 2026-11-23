@@ -1,5 +1,6 @@
 ---
 type: theory
+id: deliberate-practice-framework-ericsson-pool
 title: Deliberate practice framework
 description: "The deliberate practice framework, drawn from Ericsson and Pool, holds that expertise is built through \"meticulously structured and purposefully engaged practice\" rather than innate talent or favorable environment alone."
 status: review

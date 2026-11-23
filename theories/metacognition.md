@@ -1,5 +1,6 @@
 ---
 type: theory
+id: metacognition
 title: Metacognition
 description: Metacognition is knowledge about one's own thinking and the ability to regulate cognitive strategies accordingly; it develops gradually across childhood, with distinct failure modes describing why a learner does or doesn't benefit from a strategy they could, in principle, use.
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: accuracy-fairness-tradeoff-group-fairness-framework
 title: Accuracy-fairness trade-off framework for educational predictive models using group fairness metrics
 description: The article organizes the evaluation of student performance prediction around group fairness, operationalized through the Equal Opportunity Difference (EOD), which measures maximum disparity in true-positive rates acr...
 status: review

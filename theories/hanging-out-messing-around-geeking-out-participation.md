@@ -1,5 +1,6 @@
 ---
 type: theory
+id: hanging-out-messing-around-geeking-out-participation
 title: "Hanging out, messing around, and geeking out: a three-level participation framework instantiated in YOUmedia's space design"
 description: "The report organizes teen digital media participation along a continuum identified through Mimi Ito et al.'s ethnographic research: \"hanging out\" is primarily social and friendship driven, \"messing around\" is where in..."
 status: review

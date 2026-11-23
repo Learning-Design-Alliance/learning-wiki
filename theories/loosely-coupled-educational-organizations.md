@@ -1,5 +1,6 @@
 ---
 type: theory
+id: loosely-coupled-educational-organizations
 title: Educational organizations as loosely coupled systems defined by practices rather than structure
 description: "Following Weick (1976), the paper portrays educational organizations as \"loosely coupled systems\" in which groups interact \"without compromising their identity.\" Loose coupling carries \"connotations of impermanence, d..."
 status: review

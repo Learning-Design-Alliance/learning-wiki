@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mental-models-situational-alternative
 title: Mental models as a situational alternative to schema theory for comprehending novel situations and texts
 description: The essay presents mental models, following McNamara, Miller and Bransford (1991) and Johnston-Laird (1989), as an alternative to schema theory for understanding novel situations and objects that schema-to-text matchi...
 status: review

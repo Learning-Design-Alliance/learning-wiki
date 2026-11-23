@@ -1,5 +1,6 @@
 ---
 type: theory
+id: metaphor-links-presentational-propositional
 title: Metaphor as the linking mechanism between presentational and propositional knowing
 description: "Drawing on Mezirow's two dimensions of awareness and Lakoff and Johnson's conceptual metaphor theory, the article treats metaphor as the bridge between imagistic and rational construal."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-design-concepts-ai-learning
 title: "Five new design concepts for AI in learning: orchestrating, augmenting, expanding natural interactions, broadening competencies, and revealing connections"
 description: Beyond familiar personalized, adaptive, or blended learning, the panel identified five recurrent design concepts.
 status: review

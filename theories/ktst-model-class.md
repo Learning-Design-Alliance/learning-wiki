@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ktst-model-class
 title: Knowledge tracing set transformers (KTSTs)
 description: "KTSTs are a model class for knowledge tracing that predicts the correctness of a student's next response from their interaction history with a learning system."
 status: review

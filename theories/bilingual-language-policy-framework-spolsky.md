@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bilingual-language-policy-framework-spolsky
 title: "Bilingual language policy conceptual framework based on Spolsky's three elements"
 description: "The article builds a conceptual framework for researching language policy on bilingual education in higher education, grounded in Spolsky's definition that \"a language policy consist of three elements: language practi..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: plc-five-dimensions-four-stage-scale
 title: Professional Learning Communities defined by five dimensions with a four-stage development scale
 description: "The article adopts the PLC construct as \"a group of teachers who share a common understanding of education, reflect on their work, and exchange their practices to improve student learning\", organized into five dimensi..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: programmed-instruction-six-element-framework
 title: "Programmed instruction framework: six-element operant-conditioning lesson format"
 description: "The digest describes the behaviorist model derived from Skinner's operant conditioning as the dominant mid-twentieth-century framework for lesson design."
 status: review

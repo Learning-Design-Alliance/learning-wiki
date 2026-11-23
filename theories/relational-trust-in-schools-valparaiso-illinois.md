@@ -1,5 +1,6 @@
 ---
 type: theory
+id: relational-trust-in-schools-valparaiso-illinois
 title: Relational trust in schools
 description: "Relational trust is the construct the article uses to organize trust relationships in schools: it \"involves respecting, caring for, and believing in the honesty and competence of one's colleagues.\" The article treats..."
 status: review

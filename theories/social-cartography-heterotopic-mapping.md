@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-cartography-heterotopic-mapping
 title: Social cartography as heterotopic mapping of perspectival difference
 description: "Social cartography is the paper's own methodological contribution: a spatial, postmodern mapping practice that juxtaposes in one intertextual field all knowledge positions in a debate, including outlying ones, rather..."
 status: review

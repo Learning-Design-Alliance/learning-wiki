@@ -1,5 +1,6 @@
 ---
 type: theory
+id: civic-imagination-framework-rural-ct
 title: Civic imagination as a guiding framework for rural computing education
 description: "Civic imagination is an organizing framework the project borrows from Sam Ford's three-sentence summary, adapted for educators."
 status: review

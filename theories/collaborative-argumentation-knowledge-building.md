@@ -1,5 +1,6 @@
 ---
 type: theory
+id: collaborative-argumentation-knowledge-building
 title: Collaborative argumentation as collective knowledge building and consensus seeking
 description: "The primer frames collaborative argumentation as \"a process in which students actively build knowledge and consensus through critical thinking and communicating with others\"."
 status: review

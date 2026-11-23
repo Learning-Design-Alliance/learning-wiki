@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kolb-learning-style-inventory-four-abilities
 title: "Kolb's Learning Style Inventory and experiential learning theory"
 description: "Kolb's Learning Style Inventory, derived from experiential learning theory, measures an individual's relative emphasis on four learning abilities: Concrete Experience, Abstract Conceptualization, Active Experimentatio..."
 status: review

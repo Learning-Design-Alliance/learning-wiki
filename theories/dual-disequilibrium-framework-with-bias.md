@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-disequilibrium-framework-with-bias
 title: "Strauss's dual disequilibrium framework extended with a Bias directionality indicator"
 description: "The article tests and extends Strauss's (1972) elaboration of Piaget's equilibration model, which distinguishes two aspects of structural instability: \"external disequilibrium refers to the interplay of current struct..."
 status: review

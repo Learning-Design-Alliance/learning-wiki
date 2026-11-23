@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bioecological-model-of-human-development
 title: Bioecological Model of Human Development
 description: Bronfenbrenner's bioecological model holds that development is driven by sustained proximal interactions occurring within a nested set of environmental systems, from the immediate to the broadly cultural, across time.
 canonical: true

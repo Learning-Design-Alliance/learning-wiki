@@ -1,5 +1,6 @@
 ---
 type: theory
+id: supervisory-teacher-coaching-model
 title: Supervisory teacher coaching as a reform professional-development activity
 description: "Supervisory teacher coaching is a form of coaching in which \"an outside expert or supervisor who gives specific, positive, and corrective coaching when needed provides supervisory teacher coaching,\" offered after an o..."
 status: review

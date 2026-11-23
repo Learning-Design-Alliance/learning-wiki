@@ -1,5 +1,6 @@
 ---
 type: theory
+id: weick-enactment-model
 title: "Weick's enactment model: understanding the environment by actively transforming it through action"
 description: "Drawing on Weick (1979, 2009), the paper defines enactment as \"the process of actively transforming the environment through action\": people in organizations understand their environment by playing an active role in co..."
 status: review

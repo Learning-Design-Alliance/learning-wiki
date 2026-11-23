@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bartholomew-horowitz-four-category-adult-attachment-model
 title: Bartholomew and Horowitz four-category model of adult attachment
 description: "The article adopts Bartholomew and Horowitz's (1991) model, in which adult attachment is classified into four categories based on combinations of positive and negative models of self and others."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-stage-emerging-tech-adoption-framework-pk12
 title: Three-stage framework for emerging technology adoption in PK-12 education
 description: "The framework organizes emerging technology decision-making into three stages: \"(1) initial evaluation, (2) adoption, and (3) post-adoption.\" Each stage pairs objectives with criteria and stakeholder-specific question..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: thick-authenticity-four-types-framework
 title: "Thick authenticity: four types of authentic learning occurring together"
 description: "The article adopts Shaffer and Resnick's (1999) framework of thick authenticity, in which four types of authentic learning occur together: personally meaningful learning, learning connected to the real world outside s..."
 status: review

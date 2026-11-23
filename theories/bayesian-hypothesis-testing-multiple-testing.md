@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bayesian-hypothesis-testing-multiple-testing
 title: Bayesian hypothesis testing as an approach to the multiple testing problem
 description: The report treats Bayesian hypothesis testing as one of the approaches addressed for handling multiple testing in education impact evaluations.
 status: review

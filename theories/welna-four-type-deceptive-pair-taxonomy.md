@@ -1,5 +1,6 @@
 ---
 type: theory
+id: welna-four-type-deceptive-pair-taxonomy
 title: Four-type taxonomy of semantic relations in grapho-phonemically related Polish-English word pairs
 description: "The article organizes formally similar English/Polish word pairs by their semantic relation, following Lyons's distributional types."
 status: review

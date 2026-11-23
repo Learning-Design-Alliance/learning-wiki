@@ -1,5 +1,6 @@
 ---
 type: theory
+id: seven-stages-of-concern-innovation
 title: Seven Stages of Concern About an Innovation
 description: "The Stages of Concern (SoC) concept, generalized from Fuller's work on teacher concerns and part of the Concerns-Based Adoption Model, describes seven hypothesized stages through which individuals' concerns about an i..."
 status: review

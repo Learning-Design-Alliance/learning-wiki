@@ -1,5 +1,6 @@
 ---
 type: theory
+id: human-in-the-loop-topic-modeling-llm-qualitative-framework
 title: Hybrid human-in-the-loop framework integrating topic modeling, LLM prompting, and human coding
 description: The article introduces a multi-stage methodological framework for qualitative analysis at scale.
 status: review

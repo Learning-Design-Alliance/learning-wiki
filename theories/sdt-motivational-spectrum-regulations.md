@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sdt-motivational-spectrum-regulations
 title: SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation
 description: "The article describes SDT's motivational spectrum as a fine-grained alternative to viewing motivation as all-or-nothing: \"a spectrum of motivation from amotivation (literally, without motivation) through externally mo..."
 status: review

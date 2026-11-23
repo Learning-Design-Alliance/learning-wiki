@@ -1,5 +1,6 @@
 ---
 type: theory
+id: nkrumah-consciencism-african-personality
 title: "Nkrumah's consciencism: the African personality defined by a cluster of humanist principles underlying traditional African society"
 description: "The article presents Nkrumah's philosophy of consciencism as the intellectual map enabling African society to digest Western, Islamic, and Euro-Christian elements so they fit the African personality."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: idc-three-loops-interest-creativity-habit
 title: "IDC theory's three interconnected loops of interest, creativity, and habit as a learning design philosophy"
 description: "IDC theory organizes learning activity design around three cycles: sparking student interest, fostering individual creativity, and inculcating lifelong learning habits."
 status: review

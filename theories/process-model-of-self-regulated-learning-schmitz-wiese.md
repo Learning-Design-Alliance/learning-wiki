@@ -1,5 +1,6 @@
 ---
 type: theory
+id: process-model-of-self-regulated-learning-schmitz-wiese
 title: Process Model of Self-Regulated Learning (Schmitz and Wiese)
 description: "The study is built on the process model of self-regulated learning by Schmitz and Wiese, an adaptation of Zimmerman's conception."
 canonical: true

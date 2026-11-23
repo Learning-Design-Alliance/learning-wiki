@@ -1,5 +1,6 @@
 ---
 type: theory
+id: expectancy-value-homework-effort
 title: Expectancy-value account of homework effort and motivation
 description: "The paper applies expectancy-value theory to homework: since teachers cannot watch students outside school, effort depends on whether students value the assignment and expect they can make progress on their own."
 status: review

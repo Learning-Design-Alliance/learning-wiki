@@ -1,5 +1,6 @@
 ---
 type: theory
+id: rpp-dimension-3-support-practitioner-goals
 title: "Henrick, Cobb, Penuel, Jackson and Clark's Dimension 3: RPPs should support the practitioner side in achieving its goals"
 description: This framework dimension holds that a primary goal of research-practice partnerships is to support the improvement efforts of the partner practice organization.
 status: review

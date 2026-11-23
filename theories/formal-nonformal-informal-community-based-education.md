@@ -1,5 +1,6 @@
 ---
 type: theory
+id: formal-nonformal-informal-community-based-education
 title: Typology of community-based education as formal, nonformal, and informal processes
 description: The paper differentiates community-based education into three categories.
 status: review

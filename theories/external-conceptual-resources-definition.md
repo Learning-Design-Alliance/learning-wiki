@@ -1,5 +1,6 @@
 ---
 type: theory
+id: external-conceptual-resources-definition
 title: External conceptual resources as cross-context frameworks, tools, and concepts in teacher learning ecologies
 description: "The article defines external conceptual resources as \"frameworks, tools, and concepts that transcend different teacher learning environments, which are external to the local school context and echo voices external to..."
 status: review

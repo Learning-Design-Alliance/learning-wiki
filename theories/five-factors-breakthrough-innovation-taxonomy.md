@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-factors-breakthrough-innovation-taxonomy
 title: Five-factor taxonomy distinguishing education innovations as breakthroughs
 description: "The article proposes that \"Five factors can distinguish an education innovation as a 'breakthrough'\": discontinuity; substantial improvement in outcomes; system reconfiguration; generativity and new opportunity spaces..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mpsa-cone-three-modes-framework
 title: "MPSA Cone: a cone-shaped framework of three modes of problem-solving action (technical, interpretive, emancipating)"
 description: The MPSA Cone is a conceptual framework that maps three modes of problem-solving action onto a relationship cone.
 status: review

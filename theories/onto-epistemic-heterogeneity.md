@@ -1,5 +1,6 @@
 ---
 type: theory
+id: onto-epistemic-heterogeneity
 title: Onto-Epistemic Heterogeneity
 description: Onto-epistemic heterogeneity holds that learners' diverse ways of being (ontology) and ways of knowing (epistemology) are interconnected resources that should be treated as constitutive of disciplinary knowledge, not supplementary to it.
 canonical: true

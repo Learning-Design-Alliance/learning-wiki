@@ -1,5 +1,6 @@
 ---
 type: theory
+id: reloop-remnant-based-design-based-estimators
 title: "ReLOOP/ReLOOP+: design-based causal estimators combining remnant-trained imputations with leave-one-out covariate adjustment"
 description: "ReLOOP and ReLOOP+ are covariate-adjusted A/B test effect estimators that train an outcome-prediction model on 'remnant' users who were not randomized, generate predictions for experimental participants, and use those..."
 status: review

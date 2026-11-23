@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tzur-three-teachers-perspectives-taxonomy
 title: "Tzur et al.'s three teachers' perspectives: traditional, perception-based and conception-based"
 description: "The article adopts Tzur et al.'s (2001) characterization of teachers' practice as three perspectives: \"tradit ional, perception-based and conception -based\"."
 status: review

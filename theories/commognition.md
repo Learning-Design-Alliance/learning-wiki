@@ -1,5 +1,6 @@
 ---
 type: theory
+id: commognition
 title: Commognition
 description: A discursive theory of mathematical thinking (communication + cognition) holding that mathematical thinking is not a private mental process but a form of communication that develops through participation in mathematical discourse, so learning to think mathematically means individualizing that discourse rather than acquiring internal representations.
 canonical: true

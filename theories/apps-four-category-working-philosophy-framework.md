@@ -1,5 +1,6 @@
 ---
 type: theory
+id: apps-four-category-working-philosophy-framework
 title: "Apps's four-category framework for a working philosophy of adult education"
 description: Apps proposes a framework adult educators can use to identify, analyze, judge, and evaluate their beliefs about adult education.
 status: review

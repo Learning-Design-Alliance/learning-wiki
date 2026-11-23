@@ -1,5 +1,6 @@
 ---
 type: theory
+id: turiels-social-domain-theory
 title: Turiel's Social Domain Theory
 description: Turiel's social domain theory holds that children differentiate three distinct kinds of social knowledge from early in development — moral, societal, and personal — rather than reasoning from a single, unified level of moral development.
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: osp-guided-inquiry-and-constructionism
 title: "OSP's two pedagogical approaches: guided inquiry and constructionism"
 description: The article states that the two main pedagogical approaches used in OSP are guided inquiry and constructionism.
 status: review

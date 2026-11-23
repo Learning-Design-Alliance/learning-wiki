@@ -1,5 +1,6 @@
 ---
 type: theory
+id: general-philosophies-taxonomy-apps
 title: Taxonomy of four general philosophies organized by the three basic philosophical questions
 description: "Chapter 3 surveys four general philosophical systems—idealism, realism, experimentalism, and existentialism—using three organizing questions: what is reality (metaphysics), how do we know (epistemology), and what is o..."
 status: review

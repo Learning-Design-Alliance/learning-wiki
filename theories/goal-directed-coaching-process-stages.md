@@ -1,5 +1,6 @@
 ---
 type: theory
+id: goal-directed-coaching-process-stages
 title: Goal-directed coaching process staged as joint planning, action/practice, observation, individual reflection, feedback, and reflective discussion in a loop
 description: "The article adapts Hanft, Rush, and Shelden's (2004) coaching stages framework and adds a stage to produce its own process model."
 status: review

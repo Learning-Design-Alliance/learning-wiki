@@ -1,5 +1,6 @@
 ---
 type: theory
+id: inclusive-pedagogies-three-categories
 title: "Inclusive pedagogies taxonomy: accessible instruction, connecting to homes and communities, and combating inequity"
 description: The report organizes inclusive computing pedagogy into three categories.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: feedback-loops-definition
 title: "Feedback loops: purposeful, bidirectional, iterative interactions that transform knowledge, actions, or goals"
 description: The report defines a feedback loop as an interaction between two or more parties that is purposeful, bidirectional, and iterative and transforms the knowledge, actions, or goals of the engaged parties.
 canonical: true

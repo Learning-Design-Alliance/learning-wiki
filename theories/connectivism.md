@@ -1,5 +1,6 @@
 ---
 type: theory
+id: connectivism
 title: Connectivism
 description: Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.
 canonical: true

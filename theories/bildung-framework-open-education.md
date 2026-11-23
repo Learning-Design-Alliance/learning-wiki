@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bildung-framework-open-education
 title: Bildung as a theoretical framework for open education
 description: "The article introduces Bildung (self-cultivation, self-realization) as \"a powerful reflective tool and framework for approaching open education.\" Bildung is understood as a free, dialogical, dialectical interplay betw..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: empowerment-five-component-definition-counselling
 title: "Empowerment in counselling defined as a five-part process of awareness, skill and capacity, exercise, non-infringement, and support for others' empowerment"
 description: The article defines empowerment in counselling by drawing on social work, community psychology, education, multicultural counselling, and feminist literatures.
 status: review

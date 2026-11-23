@@ -1,5 +1,6 @@
 ---
 type: theory
+id: electric-bike-vision-human-centered-ai
 title: The electric bike vision of human-centered educational technology
 description: "The presentation articulates a framing metaphor for AI in education drawn from the Office of Ed Tech report: we envision a technology enhanced future more like an electric bike and less like robot vacuums."
 status: review

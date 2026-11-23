@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sociotechnical-pedagogical-usability-three-dimensions-lxd
 title: Three-dimension sociotechnical-pedagogical usability framework for learning experience design
 description: The article organizes its heuristic framework around three usability dimensions drawn from Jahnke et al.
 status: review

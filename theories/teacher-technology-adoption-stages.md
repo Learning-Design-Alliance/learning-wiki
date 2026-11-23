@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teacher-technology-adoption-stages
 title: "The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention"
 description: "The report proposes that teachers, even enthusiastic ones, typically pass through five distinct stages before becoming education technology integrators and innovators: Entry (students, not the teacher, use technology)..."
 canonical: true

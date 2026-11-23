@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-phase-srl-chatbot-scaffolding-framework
 title: Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles
 description: The study organizes chatbot design around a three-phase conceptualization of self-regulated learning—planning, task execution, and post-task reflection—drawn from the common structure of prominent SRL models.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: effective-pd-three-element-model-chicago
 title: "Model of effective professional development: frequency of participation, content exposure, and pedagogical quality linked to instruction and innovation"
 description: The report presents a model of effective professional development built on a consensus view in the field.
 status: review

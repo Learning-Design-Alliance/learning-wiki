@@ -1,5 +1,6 @@
 ---
 type: theory
+id: vygotsky-three-classes-of-mediators-zpd
 title: "Vygotsky's account of mediated activity: three classes of mediators and the Zone of Proximal Development"
 description: "Vygotsky's approach treats higher mental processes as functions of mediated activity; the article states \"He suggested three major classes of mediators: material tools, 'psychological tools,' andother human beings.\" M..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-educational-philosophies-framework
 title: Five educational philosophies framework (perennialism, idealism, realism, experimentalism, existentialism)
 description: "The article organizes teachers' philosophical orientations into five categories used by the Wiles and Bondi Philosophical Preferences Assessment: perennialism, idealism, realism, experimentalism and existentialism."
 status: review

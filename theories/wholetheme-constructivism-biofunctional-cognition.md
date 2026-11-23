@@ -1,5 +1,6 @@
 ---
 type: theory
+id: wholetheme-constructivism-biofunctional-cognition
 title: "Wholetheme constructivism: knowledge understood from the whole, with parts emerging in the context of the whole"
 description: "Wholetheme constructivism is the paper's organizing framework, derived from biofunctional cognition."
 status: review

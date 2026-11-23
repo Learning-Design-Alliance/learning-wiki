@@ -1,5 +1,6 @@
 ---
 type: theory
+id: procedural-resources-resource-graphs-integration
 title: "Procedural resources and resource graphs: extending the resources framework to model epistemic actions in mathematical problem solving"
 description: "Within the Knowledge-in-Pieces resources framework, a resource is \"an idea or a tool that one uses in problem solving\" with no inherent correctness."
 status: review

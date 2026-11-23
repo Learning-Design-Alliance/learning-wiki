@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ar-enhanced-analytics-framework
 title: AR enhanced analytics as a constructivist-, experiential-, and cognitively-grounded integration of AR technology with learning analytics
 description: The review frames AR enhanced analytics as the systematic collection, analysis, and interpretation of data from AR interactions in learning environments, grounded in constructivist, experiential, situated/embodied, an...
 status: review

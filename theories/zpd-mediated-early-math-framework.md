@@ -1,5 +1,6 @@
 ---
 type: theory
+id: zpd-mediated-early-math-framework
 title: "Vygotskian social-constructivist framework: mediated learning within the zone of proximal development guides preschool mathematical learning"
 description: "The article adopts Vygotsky's social-constructivist theory, in which \"learning is more likely to occur if adults or older children mediate young children's learning experiences.\" Learning happens in the zone of proxim..."
 status: review

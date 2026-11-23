@@ -1,5 +1,6 @@
 ---
 type: theory
+id: task-repetition-slightly-altered-tasks
 title: Task repetition as repetition of the same or slightly altered tasks, distinct from audiolingual drills
 description: "Task repetition is defined in contrast to the repetition of the audiolingual method: it is the \"repetition of the same or slightly altered tasks – whether whole tasks, or parts of a task\" (Bygate and Samuda, 2005, as..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-generation-conceptual-frameworks-economic-security-child-wellbeing
 title: Two conceptual frameworks for intentionally combined parent-and-child programs
 description: The brief presents two conceptual frameworks intended to guide programs serving low-income parents and children through combined activities.
 status: review

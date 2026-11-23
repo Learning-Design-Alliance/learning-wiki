@@ -1,5 +1,6 @@
 ---
 type: theory
+id: culturally-sustaining-pedagogy-fourth-c
 title: "Culturally sustaining pedagogy as a fourth 'C' in computing education pathways"
 description: "The presentation adds culturally sustaining pedagogy (citing Paris, 2012; Paris & Alim, 2014; Wilson-Lopez, 2016) as a fourth 'C' alongside the project's competencies, curricula, and credentialing."
 status: review
