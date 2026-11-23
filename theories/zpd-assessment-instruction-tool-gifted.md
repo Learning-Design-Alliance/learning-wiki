@@ -1,5 +1,6 @@
 ---
 type: theory
+id: zpd-assessment-instruction-tool-gifted
 title: Zone of Proximal Development as an assessment and instruction tool
 description: "The ZPD is defined by Vygotsky as \"the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under ad..."
 canonical: true

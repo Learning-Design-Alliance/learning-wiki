@@ -1,5 +1,6 @@
 ---
 type: theory
+id: weiner-attribution-dimensions-locus-stability-control
 title: "Weiner's dimensional organization of attributions: locus of control, stability, and later controllability"
 description: "Weiner expanded Heider's model by organizing the four attribution factors into two dimensions: locus of control (internal vs."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kas-data-analysis-standards-structure
 title: "Kentucky Academic Standards structure Data & Analysis into storage, collection/visualization/transformation, inference & models, and impacts of computing"
 description: "The webinar organizes the K-2 Computer Science standards for Data & Analysis into three sub-areas plus an ethics-related impacts standard: \"E-DA-01: Appropriately store and modify digital files\"; \"E-DA-02: Standard 2:..."
 status: review

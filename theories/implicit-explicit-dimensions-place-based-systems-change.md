@@ -1,5 +1,6 @@
 ---
 type: theory
+id: implicit-explicit-dimensions-place-based-systems-change
 title: Implicit and explicit dimensions of place-based systems change as complementary axes for funder assessment
 description: The organizing framework of the tool distinguishes implicit and explicit dimensions of place-based systems change that funders must consider together.
 status: review

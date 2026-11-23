@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sdt-three-basic-needs-intrinsic-motivation
 title: "Self-determination theory: three basic psychological needs underpin intrinsic motivation"
 description: The article presents self-determination theory as an explanatory framework in which intrinsic motivation, the drive to engage in activity for its own sake, is sustained by satisfying three basic psychological needs.
 status: review

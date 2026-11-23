@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teacher-agency-system-framework-cdst
 title: "Framework of the teacher agency system: agency as multi-layered interacting subsystems"
 description: The article proposes a framework of teacher agency as a complex dynamic system.
 status: review

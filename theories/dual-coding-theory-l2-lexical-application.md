@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-coding-theory-l2-lexical-application
 title: Dual coding theory (Paivio) as an account of visual facilitation of L2 lexical knowledge
 description: "Dual coding theory holds that cognition comprises verbal and nonverbal (imagery) systems that are \"functionally independent yet interconnected\"; when both systems process information, the combination produces qualitat..."
 status: review

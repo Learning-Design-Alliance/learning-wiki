@@ -1,5 +1,6 @@
 ---
 type: theory
+id: gardner-integrative-instrumental-model-context-limits
 title: "Gardner's Integrative-Instrumental model and its context-dependence"
 description: "Gardner and Lambert's socio-educational model divides L2 motivation into integrative orientation (\"a desire to learn the L2 in order to identify with members from the L2 community\") and instrumental orientation (pract..."
 status: review

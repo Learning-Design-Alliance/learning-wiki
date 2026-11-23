@@ -1,5 +1,6 @@
 ---
 type: theory
+id: crucible-courses-adk-jump-enculturation
 title: "Crucible courses: intermediate courses combining a large ADK jump with enculturation that accelerate trajectories toward central participation in a discipline's community of practice"
 description: "The authors introduce \"crucible courses\" as \"the ﬁrst courses in which students work on diﬃcult physics problems surrounded primarily by other physics students, are treated by their professors as junior physicists, an..."
 status: review

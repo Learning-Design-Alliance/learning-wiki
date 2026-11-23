@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multivariate-true-score-model-norms
 title: Multivariate true score model for achievement and growth norms
 description: "The norming approach is \"a model-based approach employing a multivariate true score model that factors out known imprecision of scores\" from fall, winter, and spring test scores."
 status: review

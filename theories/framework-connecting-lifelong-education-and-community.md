@@ -1,5 +1,6 @@
 ---
 type: theory
+id: framework-connecting-lifelong-education-and-community
 title: Framework connecting lifelong education and community through formal, nonformal, and informal providers
 description: The paper presents a conceptual framework, illustrated in Figure 1, that links lifelong education to community educational providers.
 status: review

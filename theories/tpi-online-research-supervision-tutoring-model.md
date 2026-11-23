@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tpi-online-research-supervision-tutoring-model
 title: Research project supervision (TPI) as a special case of tutoring with identified organizational and process elements
 description: "The article presents a model for online research project tutoring (TPI) in which supervision is treated as \"a special case of tutoring that offers the student guidance and orientation in aspects linked to the acquisit..."
 status: review

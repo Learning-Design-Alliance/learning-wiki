@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-level-dynamic-learning-model-bao
 title: Two-level measurement-based dynamic model of learning with α, β, and γ transition processes
 description: "The article models a student's measured knowledge as a two-level system in which the measured-correct level holds the score and the measured-wrong level holds its complement."
 status: review

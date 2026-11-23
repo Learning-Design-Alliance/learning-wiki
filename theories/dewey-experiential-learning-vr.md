@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dewey-experiential-learning-vr
 title: "Experiential learning: students develop opinions of a concept through interaction with information"
 description: "The article frames VR-based instruction as an instance of Dewey's experiential learning, quoting Dewey's claim that \"there is an intimate and necessary relation between the processes of actual experience and education..."
 status: review

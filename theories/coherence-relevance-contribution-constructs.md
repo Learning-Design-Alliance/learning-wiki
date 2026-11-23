@@ -1,5 +1,6 @@
 ---
 type: theory
+id: coherence-relevance-contribution-constructs
 title: "Three constructs of equitable participation: coherence, relevance, and contribution"
 description: "The article organizes student experience measurement around three constructs that prior research indicates \"together provide a good predictor of equity in science classrooms.\" Coherence refers to student perspectives..."
 status: review

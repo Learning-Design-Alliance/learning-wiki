@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-conditions-of-arting
 title: "Three coined conditions of arting: artistic causality, idiosyncratic meaning, and intentional symbolization"
 description: "The report coins three terms for the basic conditions of making art, present from early childhood: artistic causality (the artist as proactive origin), idiosyncratic meaning (private, affective, image-bound meaning),..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-dimensional-group-growth-model
 title: Two-dimensional model of group growth (community problems and group problems, with growth, regression, and plateaus)
 description: The study defines group growth operationally as developing the capacity to solve increasingly complex problems, both the community problem a group attempts and problems of group operations.
 status: review

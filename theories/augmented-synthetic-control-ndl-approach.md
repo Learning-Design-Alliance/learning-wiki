@@ -1,5 +1,6 @@
 ---
 type: theory
+id: augmented-synthetic-control-ndl-approach
 title: Augmented synthetic control method for estimating counterfactual outcomes of no-deadlines programs
 description: "The memo applies the augmented synthetic control method (Ben-Michael, Feller, and Rothstein 2021a), which the article says uses \"a specifically weighted average of comparison units for which the pre-implementation out..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-component-student-engagement-framework
 title: "Three-component model of student engagement: behavioral, emotional, and cognitive"
 description: The synthesis organizes student engagement as three interrelated components.
 status: review

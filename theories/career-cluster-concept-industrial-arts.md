@@ -1,5 +1,6 @@
 ---
 type: theory
+id: career-cluster-concept-industrial-arts
 title: Career cluster concept for organizing industrial arts study
 description: The guide adopts the career cluster concept, holding that careers may be classified into logically related groups on the basis of identical or similar elements, enabling core educational experiences to facilitate lear...
 status: review

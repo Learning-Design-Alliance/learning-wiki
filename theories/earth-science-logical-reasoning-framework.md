@@ -1,5 +1,6 @@
 ---
 type: theory
+id: earth-science-logical-reasoning-framework
 title: "Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method"
 description: The article adopts a three-part framework of Earth Science methodology as an analytic tool for coding curriculum inquiry tasks.
 status: review

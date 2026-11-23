@@ -1,5 +1,6 @@
 ---
 type: theory
+id: negotiation-of-meaning-sequences-model-smith
 title: "Negotiation of meaning sequences model (Varonis & Gass, revised by Smith) with trigger and resolution parts"
 description: "The study's analytic framework codes chat interaction into negotiation of meaning sequences consisting of \"two parts: trigger and resolution\"."
 status: review

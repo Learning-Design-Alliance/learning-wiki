@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tblt-components-framework-panahi
 title: Task-based language teaching framework with six systematic components and three lesson stages
 description: The article presents task-based language teaching (TBLT) as the strong version of communicative language teaching, whose central element is the task.
 status: review

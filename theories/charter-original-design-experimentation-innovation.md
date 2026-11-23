@@ -1,5 +1,6 @@
 ---
 type: theory
+id: charter-original-design-experimentation-innovation
 title: "Original charter school design rationale: alternative public schools enabling experimentation and innovation within the public school system"
 description: The publication describes the founding conception of charter schools as publicly funded but deliberately different institutions.
 status: review

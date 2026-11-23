@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ace-generic-and-value-adding-roles
 title: "Two fundamental roles of ACE providers: a generic role and a four-way value-adding role"
 description: The report distinguishes two fundamental roles for ACE providers in the national VET system.
 status: review

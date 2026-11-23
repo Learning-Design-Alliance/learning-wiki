@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-dimensions-of-lifelong-education
 title: "Three dimensions of lifelong education: vertical integration, horizontal integration, and learning to learn"
 description: The paper organizes lifelong education along three dimensions.
 status: review

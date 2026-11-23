@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kendon-gesture-continuum-framework
 title: "Kendon's Gesture Continuum as the framework for classifying nonverbal devices"
 description: "The article draws on Kendon's (1980) Gesture Continuum and McNeill's view of gestures as \"components of speech, not accompaniments but actually integral parts of it\"."
 status: review

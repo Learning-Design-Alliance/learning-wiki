@@ -1,5 +1,6 @@
 ---
 type: theory
+id: megastudy-massive-field-experiment-method
 title: "The megastudy: a massive field experiment comparing many interventions in one population on one objectively measured outcome"
 description: "The article introduces the megastudy as a methodological innovation for applied behavioural science: \"a massive field experiment in which the effects of many different interventions are compared in the same population..."
 status: review

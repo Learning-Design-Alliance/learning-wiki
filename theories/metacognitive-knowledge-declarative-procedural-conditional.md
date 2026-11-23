@@ -1,5 +1,6 @@
 ---
 type: theory
+id: metacognitive-knowledge-declarative-procedural-conditional
 title: "Metacognitive knowledge framework: knowledge of cognition divided into declarative, procedural, and conditional knowledge"
 description: "The article adopts Flavell's and Schraw's framework in which metacognition comprises metacognitive knowledge and regulation of cognition, and knowledge of cognition \"can be further divided into three kinds of metacogn..."
 status: review

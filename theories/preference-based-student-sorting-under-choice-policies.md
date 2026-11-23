@@ -1,5 +1,6 @@
 ---
 type: theory
+id: preference-based-student-sorting-under-choice-policies
 title: Preference-based sorting of students into schools under different school-choice policies
 description: The brief organizes its policy analysis around how parental preferences translate into the sorting of students across schools under alternative school-choice policies.
 status: review

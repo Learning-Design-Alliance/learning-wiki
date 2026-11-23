@@ -1,5 +1,6 @@
 ---
 type: theory
+id: situated-learning-contexts-of-use
 title: "Situated learning: knowledge and skills are learned in contexts that reflect how the knowledge will be used in real life"
 description: "Situated learning is defined as \"the notion of learning knowledge and skills in contexts that reflect the way the knowledge will be useful in real life,\" and is called \"the sine qua non of apprenticeship.\" The paper a..."
 status: review

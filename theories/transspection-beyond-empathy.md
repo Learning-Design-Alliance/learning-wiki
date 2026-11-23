@@ -1,5 +1,6 @@
 ---
 type: theory
+id: transspection-beyond-empathy
 title: "Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy"
 description: "Drawing on Lerner's account of empathy and Maruyama's concept of transspection, the essay distinguishes empathy, the capacity to imagine oneself in another role within one's own culture, from transspection, the capaci..."
 canonical: true

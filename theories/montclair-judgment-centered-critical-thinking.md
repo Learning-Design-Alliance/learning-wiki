@@ -1,5 +1,6 @@
 ---
 type: theory
+id: montclair-judgment-centered-critical-thinking
 title: Montclair conception of critical thinking as judgment supported by disciplinary canons
 description: "The Institute for Critical Thinking at Montclair State College defines critical thinking through its concern with judgment: students should see course content within a nexus of justification and application, learning..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cf-types-explicit-implicit-continuum
 title: Corrective feedback types as a continuum from explicit to implicit
 description: The review presents corrective feedback as an interactional strategy making learners aware of incorrect language use and providing models for more appropriate L2 use.
 status: review

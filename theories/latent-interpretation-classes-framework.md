@@ -1,5 +1,6 @@
 ---
 type: theory
+id: latent-interpretation-classes-framework
 title: Latent interpretation classes as a representation of differential interpretation of vague quantifiers
 description: This framework represents individual differences in how respondents interpret vague quantifiers of behavioral frequency as variability between latent interpretation classes, rather than as continuous individual differ...
 status: review

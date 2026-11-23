@@ -1,5 +1,6 @@
 ---
 type: theory
+id: simple-view-of-reading-product-model
 title: "Simple View of Reading: comprehension as the product of word recognition and language comprehension"
 description: The Simple View of Reading, proposed by Gough and Tunmer in 1986, holds that reading comprehension is the product of word recognition and language comprehension.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sel-discrete-skills-versus-broad-competency-framings
 title: "Two framings of SEL for measurement: discrete skills versus broad competency"
 description: The brief organizes the measurement problem around two alternative conceptualizations of social-emotional learning.
 status: review

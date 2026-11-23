@@ -1,5 +1,6 @@
 ---
 type: theory
+id: icap-four-mode-engagement-taxonomy
 title: "ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction"
 description: "ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products."
 canonical: true

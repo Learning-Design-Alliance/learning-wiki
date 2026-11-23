@@ -1,5 +1,6 @@
 ---
 type: theory
+id: equity-centered-strategic-learning-definition
 title: Equity-centered strategic learning as a four-part organizational capability
 description: "The article defines equity-centered strategic learning as an organizational capability with four linked parts: setting equity-focused goals, forming hypotheses about reaching them, building supportive culture and syst..."
 status: review

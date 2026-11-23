@@ -1,5 +1,6 @@
 ---
 type: theory
+id: humanizing-mathematics-as-boundary-blurring
 title: Humanizing Mathematics as Boundary Blurring
 description: "The author's conceptualization of humanizing mathematics, contrasted with approaches that bring cultural knowledge into school mathematics."
 canonical: true

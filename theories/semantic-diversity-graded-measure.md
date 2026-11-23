@@ -1,5 +1,6 @@
 ---
 type: theory
+id: semantic-diversity-graded-measure
 title: Semantic diversity as a graded measure of contextual diversity based on document content overlap
 description: Semantic diversity, introduced by Jones et al.
 status: review

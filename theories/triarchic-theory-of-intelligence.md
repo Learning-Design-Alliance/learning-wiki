@@ -1,5 +1,6 @@
 ---
 type: theory
+id: triarchic-theory-of-intelligence
 title: Triarchic Theory of Intelligence
 description: Robert Sternberg's triarchic theory holds that intelligence has three empirically separable components — analytical, creative, and practical — so a learner can score high on one without scoring high on the others.
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: hip-ur-three-layer-taxonomy
 title: Three-layer funnel taxonomy for designing high-impact undergraduate research experiences
 description: The article presents a three-layer taxonomy used primarily by practitioners during the design of high-impact undergraduate research experiences.
 status: review

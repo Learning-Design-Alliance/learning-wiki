@@ -1,5 +1,6 @@
 ---
 type: theory
+id: collingwood-method-re-enactment-interpolating-interrogating
 title: "Collingwood's methodology for reconstructing the past from primary sources: re-enactment, interpolating, and interrogating"
 description: "Collingwood's methodological approach treats primary source documents and relics as evidence for imaginatively reconstructing the past through three processes."
 status: review

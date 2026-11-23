@@ -1,5 +1,6 @@
 ---
 type: theory
+id: simple-view-of-reading-gough-tunmer
 title: "Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension"
 description: The Simple View of Reading is a theoretical model of reading comprehension that the review adopts as a core framework.
 status: review

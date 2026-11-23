@@ -1,5 +1,6 @@
 ---
 type: theory
+id: will-skill-tool-model-digital-data-use
 title: Will-skill-tool model as a framework for teacher digital data use in schools
 description: "The will-skill-tool (WST) model conceptualizes technology integration through three dimensions: \"1) teacher motivation and beliefs (will), 2) their competencies and skills (skill), and 3) the availability and accessib..."
 status: review

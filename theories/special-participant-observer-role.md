@@ -1,5 +1,6 @@
 ---
 type: theory
+id: special-participant-observer-role
 title: "Special participant observer role stepping within the artist's artistic serial"
 description: "Because arting is a unitless psychic phenomenon centered in the artist's stream of consciousness, the report argues the researcher must adopt a special participant observer role."
 status: review

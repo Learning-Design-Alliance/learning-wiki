@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interpersonal-dimension-of-teacher-feedback
 title: Interpersonal dimension of teacher feedback on student writing
 description: "The article frames feedback on student writing as more than an instructional or informational phenomenon: each paper has a real human author, and the way feedback is received and processed may be influenced by interpe..."
 status: review

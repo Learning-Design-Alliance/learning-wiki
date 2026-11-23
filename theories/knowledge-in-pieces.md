@@ -1,5 +1,6 @@
 ---
 type: theory
+id: knowledge-in-pieces
 title: Knowledge in Pieces
 description: Knowledge in pieces holds that learners' intuitive ideas, including misconceptions, are many small context-cued knowledge elements that are refined and reorganised during learning, in contrast to the view that misconceptions are coherent, stable theories to be replaced.
 canonical: true

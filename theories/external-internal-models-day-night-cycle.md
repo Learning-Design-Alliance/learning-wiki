@@ -1,5 +1,6 @@
 ---
 type: theory
+id: external-internal-models-day-night-cycle
 title: Modelos externos e internos (vivenciales) como dos representaciones complementarias del ciclo día-noche
 description: "El artículo distingue dos representaciones del movimiento aparente del Sol: el modelo externo, en el que un observador fuera de la Tierra ve el planeta rotar con el Sol fijo, y el modelo interno o vivencial, en el que..."
 status: review

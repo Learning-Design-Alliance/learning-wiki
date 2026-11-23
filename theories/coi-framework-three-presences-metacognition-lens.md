@@ -1,5 +1,6 @@
 ---
 type: theory
+id: coi-framework-three-presences-metacognition-lens
 title: "Community of Inquiry framework: three overlapping presences for understanding collaborative online learning"
 description: The Community of Inquiry (CoI) framework is used in this article as the theoretical lens for understanding how metacognition is manifested in a shared online learning environment.
 status: review

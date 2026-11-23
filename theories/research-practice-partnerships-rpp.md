@@ -1,5 +1,6 @@
 ---
 type: theory
+id: research-practice-partnerships-rpp
 title: Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice
 description: RPPs bring researchers and practitioners together to study problems of practice from the field.
 status: review

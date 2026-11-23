@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-styles-theory-framework
 title: Learning styles theory as a theoretical framework for K-12 assessment and instruction
 description: The article discusses learning styles theory as its theoretical framework for examining how students are classified by preferences for taking in, processing, and demonstrating information in education.
 status: review

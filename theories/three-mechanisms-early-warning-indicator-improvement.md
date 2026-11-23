@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-mechanisms-early-warning-indicator-improvement
 title: Three mechanisms through which early warning indicators drive improvements in student performance
 description: "The article organizes the use of ninth-grade early warning indicators around three mechanisms: focusing conversations and efforts on actionable problems, identifying students for intervention, and using indicator patt..."
 status: review

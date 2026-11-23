@@ -1,5 +1,6 @@
 ---
 type: theory
+id: prek4-investment-three-category-classification
 title: Three-category state PreK4 investment classification (High, Growing, Low)
 description: The report develops a classification scheme that sorts states into three PreK4 investment categories using NIEER Yearbook participation rates for four-year-olds at two time points (AY2011-12 and AY2022-23).
 status: review

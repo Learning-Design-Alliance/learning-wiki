@@ -1,5 +1,6 @@
 ---
 type: theory
+id: agency-communion-figure-ground-framework
 title: Agency/communion as figure/ground rather than polarity
 description: "The paper's central organizing framework reconceives Bakan's agency/communion polarity."
 status: review

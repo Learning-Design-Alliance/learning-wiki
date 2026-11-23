@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ikeda-global-citizenship-three-components
 title: "Ikeda's philosophy of global citizenship rests on inner transformation, dialogue, and global citizenship, expressed as wisdom, courage, and compassion"
 description: "The article presents Ikeda's philosophy of value-creating education for global citizenship as congruent with Urbain's findings of \"three major components of Ikeda's philosophy of peace: 1) inner transformation, 2) dia..."
 status: review

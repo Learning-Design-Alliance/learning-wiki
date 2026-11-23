@@ -1,5 +1,6 @@
 ---
 type: theory
+id: community-of-practice-membership-trajectories
 title: "Community of practice with Wenger's five membership trajectories"
 description: A community of practice is a group of people, formally or informally bound, who engage in and identify themselves with a common practice, joining practice with analysis and reflection to create shared knowledge.
 status: review

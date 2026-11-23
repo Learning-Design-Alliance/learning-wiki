@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mental-self-government-five-dimension-thinking-styles
 title: Theory of Mental Self-government as a five-dimension taxonomy of thinking styles
 description: "The article organizes thinking styles measurement around Sternberg's Theory of Mental Self-government, which it calls a popular theory that \"includes the most elements of thinking styles and structures that correspond..."
 status: review

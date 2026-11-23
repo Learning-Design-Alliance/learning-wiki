@@ -1,5 +1,6 @@
 ---
 type: theory
+id: nested-contexts-of-reception-framework
 title: Nested contexts of reception (NCOR) framework
 description: "The NCOR framework, from Golash-Boza and Valdez (2018) building on Portes and Rumbaut, \"conceptualizes educational institutions as one of several interrelated contexts which shape educational outcomes for immigrant yo..."
 status: review

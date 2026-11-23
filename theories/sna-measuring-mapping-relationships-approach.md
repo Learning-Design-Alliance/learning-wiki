@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sna-measuring-mapping-relationships-approach
 title: Social network analysis as a methodological approach to measuring and mapping relationships
 description: The brief presents social network analysis as a methodological approach for program evaluation.
 status: review

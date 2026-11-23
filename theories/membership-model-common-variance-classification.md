@@ -1,5 +1,6 @@
 ---
 type: theory
+id: membership-model-common-variance-classification
 title: Membership model for classifying individuals into the common variance model
 description: A companion model to the Bayes factor test that moves from testing the average assumption to person-level classification.
 status: review

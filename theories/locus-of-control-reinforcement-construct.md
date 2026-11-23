@@ -1,5 +1,6 @@
 ---
 type: theory
+id: locus-of-control-reinforcement-construct
 title: "Rotter's internal-external locus of control of reinforcement construct"
 description: "The article organizes its predictions around Rotter's (1966) \"control of reinforcement\" construct, described as \"a dimension of belief or expectancy about the locus of reinforcing consequences for behavior.\" It repres..."
 status: review

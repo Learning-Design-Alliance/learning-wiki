@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-dimensions-affective-development-framework
 title: Five-dimension framework of affective development in preschool children
 description: "The report organizes affective development into five interrelated dimensions chosen because they appeared central to development: emergence of self, caretaker attachment, adaptation-mastery, self-concept, and socializ..."
 status: review

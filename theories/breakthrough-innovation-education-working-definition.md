@@ -1,5 +1,6 @@
 ---
 type: theory
+id: breakthrough-innovation-education-working-definition
 title: Working definition of breakthrough innovation in education
 description: "The article defines breakthrough innovation in education as \"a highly novel advance that fundamentally redefines an entrenched problem or its opportunity space, enables significant improvements in learning outcomes, m..."
 status: review

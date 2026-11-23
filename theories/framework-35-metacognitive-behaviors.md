@@ -1,5 +1,6 @@
 ---
 type: theory
+id: framework-35-metacognitive-behaviors
 title: Framework of 35 metacognitive behaviors for coding reading-strategy use
 description: The researchers created a coding framework of 35 metacognitive behaviors, skills, and strategies drawn from a literature review, used to judge whether student interview responses demonstrated metacognition.
 status: review

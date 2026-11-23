@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-perspectives-targeted-interventions
 title: "Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory"
 description: "The review organises the theoretical background of included interventions into three superordinate components: adaptation of behaviour (social learning theory), individual cognitive learning (cognitive developmental t..."
 status: review

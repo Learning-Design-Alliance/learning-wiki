@@ -1,5 +1,6 @@
 ---
 type: theory
+id: symbol-systems-framework-gardner-salomon
 title: "Symbol systems framework: symbols, symbol systems, and symbolic products"
 description: "The review organizes its analysis with Gardner's distinction between symbols, symbol systems, and symbolic products."
 status: review

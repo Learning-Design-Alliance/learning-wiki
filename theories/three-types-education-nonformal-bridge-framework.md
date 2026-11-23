@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-types-education-nonformal-bridge-framework
 title: Three-type framework of informal, formal and non-formal education with non-formal education as bridge
 description: The article defines informal education as the ongoing transmission of knowledge, skills, values and attitudes woven into day-to-day community life, and formal education as its systematized, specialized, professionally...
 status: review

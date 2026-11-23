@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ethic-of-care-female-principals-six-categories
 title: "Six-category categorization of the ethic of care in female principals' leadership"
 description: "Through constant comparative analysis of interview, observation, and document data, the study conceptualized the ethic of care and female principals as six categories shown in Figure 1: teaching and learning, making a..."
 status: review

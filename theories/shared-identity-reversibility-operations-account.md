@@ -1,5 +1,6 @@
 ---
 type: theory
+id: shared-identity-reversibility-operations-account
 title: "Shared cognitive operations account: identity and reversibility underlie conservation, pretense play, and gender constancy"
 description: The article proposes that qualitative and quantitative forms of identity and reversibility share common cognitive system properties, so exercise of these operations in one domain transfers to others.
 status: review

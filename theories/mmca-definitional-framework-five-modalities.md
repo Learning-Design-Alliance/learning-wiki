@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mmca-definitional-framework-five-modalities
 title: Definitional framework of five modalities in MMCA research
 description: "The review develops a definitional framework classifying modalities used in MMCA studies into five categories: auditory, visual, physiological, kinesthetic, and tactile."
 status: review

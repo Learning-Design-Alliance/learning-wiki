@@ -1,5 +1,6 @@
 ---
 type: theory
+id: janusian-process-creative-thinking
 title: "The Janusian process: actively conceiving multiple opposites simultaneously as a mechanism of creativity"
 description: "The Janusian process is defined in the article as \"actively conceiving multiple opposites or antitheses simultaneously\", named for the Roman god Janus whose faces looked in multiple opposite directions."
 status: review

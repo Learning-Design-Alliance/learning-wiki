@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dimensions-of-scale-up-framework
 title: Framework of the dimensions of scale-up explaining why effect sizes might decrease as scale increases
 description: The article develops a framework of the dimensions of scale-up, an explanatory account of why intervention effect sizes might shrink as interventions move from small studies to broader adoption.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: active-ingredients-coaching-conceptual-framework
 title: Conceptual framework of active ingredients of instructional coaching comprising characteristics, relational contexts, and processes
 description: "The article proposes a conceptual model of the active ingredients of instructional coaching, defined as \"those unique components of an intervention that constitute what is hypothesized as responsible for targeted teac..."
 status: review

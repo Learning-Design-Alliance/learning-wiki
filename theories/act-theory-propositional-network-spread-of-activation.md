@@ -1,5 +1,6 @@
 ---
 type: theory
+id: act-theory-propositional-network-spread-of-activation
 title: "Anderson's ACT theory of memory: declarative knowledge as a propositional network activated by spread of activation"
 description: "The report describes Anderson's ACT theory as a general theory of the architecture and basic processes of the human information processing system, one aspect of which is memory."
 status: review

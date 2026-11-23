@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-regulated-learning
 title: Self-Regulated Learning
 description: Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
 canonical: true

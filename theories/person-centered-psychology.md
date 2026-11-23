@@ -1,5 +1,6 @@
 ---
 type: theory
+id: person-centered-psychology
 title: Person-Centered Psychology
 description: A humanistic, Rogerian framework holding that unconditional positive regard, empathic listening, and facilitator congruence create the relational safety needed for genuine vulnerability and transformative learning, especially in conversations about power, privilege, and identity.
 canonical: true

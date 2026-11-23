@@ -1,5 +1,6 @@
 ---
 type: theory
+id: semantic-network-theory
 title: Semantic network theory of learning
 description: Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes.
 canonical: true

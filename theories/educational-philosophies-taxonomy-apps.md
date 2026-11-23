@@ -1,5 +1,6 @@
 ---
 type: theory
+id: educational-philosophies-taxonomy-apps
 title: Taxonomy of five educational philosophies for adult education
 description: "Chapter 4 describes five educational philosophies that grow out of the general systems: essentialism, perennialism, progressivism, reconstructionism, and existentialism."
 status: review

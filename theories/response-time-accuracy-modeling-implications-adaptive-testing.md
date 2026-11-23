@@ -1,5 +1,6 @@
 ---
 type: theory
+id: response-time-accuracy-modeling-implications-adaptive-testing
 title: Incorporating response time into measurement models for adaptive testing must account for acceleration and idiosyncratic within-person time-accuracy variation
 description: The article advances an account of how response time behavior should enter measurement models in adaptive testing.
 status: review

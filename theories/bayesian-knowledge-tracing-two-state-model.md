@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bayesian-knowledge-tracing-two-state-model
 title: Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 description: The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (gue...
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: leitner-queue-network
 title: Leitner Queue Network
 description: "The Leitner Queue Network is the article's stochastic model of a spaced repetition system, embedding an exponential forgetting curve in a network of queues, one per Leitner deck; it is \"based on ideas from queueing th..."
 canonical: true

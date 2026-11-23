@@ -1,5 +1,6 @@
 ---
 type: theory
+id: epistemic-frame-hypothesis-skive
 title: "Epistemic frame hypothesis: communities of practice have SKIVE-based epistemic frames internalized through training and induction"
 description: The epistemic frame hypothesis holds that any community of practice has a culture whose base structure comprises skills, knowledge, identity, values, and epistemology.
 status: review

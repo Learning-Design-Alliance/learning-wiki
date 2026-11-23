@@ -1,5 +1,6 @@
 ---
 type: theory
+id: language-of-inquiry-as-language-of-reasons
 title: "The univocal language of inquiry: the language of reasons across disciplines"
 description: "Siegel argues that although techniques of inquiry differ across disciplines, inquiry is fundamentally the same activity everywhere: the creation and critical examination of reasons and their power to warrant hypotheses."
 status: review

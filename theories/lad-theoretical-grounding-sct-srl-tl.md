@@ -1,5 +1,6 @@
 ---
 type: theory
+id: lad-theoretical-grounding-sct-srl-tl
 title: Theoretical grounding of LAD design in SCT, SRL, constructivism, social cognitive theory, and transformative learning
 description: The article argues LAD design should be anchored in established educational theoretical frameworks, identifying that very few LAD designs articulate their grounding.
 status: review

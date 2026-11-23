@@ -1,5 +1,6 @@
 ---
 type: theory
+id: iux-inclusive-user-experience-ler
 title: Inclusive user experience (IUX) as a learner-centered design approach for LER technologies
 description: "The toolkit defines IUX as \"a user-centered design approach that emphasizes inclusivity through the intentional process of creating tools that everyone can use,\" involving diverse communities in user research across d..."
 status: review

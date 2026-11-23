@@ -1,5 +1,6 @@
 ---
 type: theory
+id: warner-four-step-time-series-analysis-interactions
 title: "Warner's four-step time-series analysis of behavioral interaction data"
 description: The article applies and demonstrates a four-step framework for analyzing behavioral time-series of social interaction, attributed to Warner (1998).
 status: review

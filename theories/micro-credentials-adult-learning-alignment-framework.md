@@ -1,5 +1,6 @@
 ---
 type: theory
+id: micro-credentials-adult-learning-alignment-framework
 title: "Micro-credential earning as professional learning aligned to Learning Forward standards and Knowles's adult learning principles"
 description: "The paper frames earning micro-credentials as a high-leverage professional learning activity aligned with Learning Forward's Standards for Professional Learning—Learning Communities, Leadership, Resources, Learning De..."
 status: review

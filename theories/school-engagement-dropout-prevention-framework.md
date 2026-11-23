@@ -1,5 +1,6 @@
 ---
 type: theory
+id: school-engagement-dropout-prevention-framework
 title: School engagement as the organizing framework for dropout prevention
 description: "The panel's organizing account holds that 'The panel viewed increasing student engagement as critical to preventing dropping out.' Engagement has behavioral components — attendance, class participation, effort, and av..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: curriculum-design-three-dimensions-framework
 title: "Three-dimension framework for analyzing curriculum material design: mathematical emphasis, instructional approach, and support for teachers"
 description: "The article organizes its comparative analysis of curriculum materials around three design dimensions: \"mathematical emphasis, instructional approach, and support for teachers.\" The framework treats curriculum materia..."
 status: review

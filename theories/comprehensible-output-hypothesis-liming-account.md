@@ -1,5 +1,6 @@
 ---
 type: theory
+id: comprehensible-output-hypothesis-liming-account
 title: "Swain's Comprehensible Output Hypothesis with a circular input-output-intake model"
 description: "The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast to Krashen's Comprehensible Input Hypothesis, holds that learners must be \"pushed toward the delivery of a message that is not only convey..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-semantic-mapping-strategy-variants
 title: "Three variants of semantic mapping instruction: teacher-initiated, student-mediated, and teacher-student interactive"
 description: The article distinguishes three ways of organizing semantic mapping instruction.
 status: review

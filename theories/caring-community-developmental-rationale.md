@@ -1,5 +1,6 @@
 ---
 type: theory
+id: caring-community-developmental-rationale
 title: "Developmental rationale: caring school communities meeting needs for autonomy, belonging, and competence"
 description: "The program rests on a research-based account of students' academic, social, and ethical development."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: feminist-interconnected-science-framework
 title: A feminist view of science based on interconnectedness, relationships as webs, and legitimate subjectivity
 description: The paper advances an account of science, drawing on Gilligan, Fox Keller and others, in which relationships between phenomena are seen as a connected web rather than a hierarchy, subjectivity and human experience are...
 status: review

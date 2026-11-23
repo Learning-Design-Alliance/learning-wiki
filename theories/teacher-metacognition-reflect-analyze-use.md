@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teacher-metacognition-reflect-analyze-use
 title: Teacher metacognition as knowing how to reflect on, analyze, and put thought to use — including regulating problem solving for others
 description: "The article defines metacognition for its study as \"knowing how to reflect on thought, how to analyze that thought, and how to put thought and analysis to use in the future\"."
 status: review

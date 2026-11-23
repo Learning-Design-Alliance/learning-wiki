@@ -1,5 +1,6 @@
 ---
 type: theory
+id: 3us-framework-usability-usefulness-utilization
 title: "The 3Us framework: usability, usefulness, and utilization as three indicators for evaluating new solutions"
 description: "The guide organizes implementation measurement around three indicators: usability, usefulness, and utilization of a new solution."
 status: review

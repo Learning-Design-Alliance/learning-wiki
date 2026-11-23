@@ -1,5 +1,6 @@
 ---
 type: theory
+id: seasonal-learning-summer-loss-accountability-framework
 title: Seasonal learning patterns and summer loss as an accountability-relevant phenomenon
 description: The brief treats seasonal learning patterns and summer loss as a measurable phenomenon with direct consequences for how schools are evaluated.
 status: review

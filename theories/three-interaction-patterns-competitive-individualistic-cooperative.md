@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-interaction-patterns-competitive-individualistic-cooperative
 title: "Three basic interaction patterns: competitive, individualistic, and cooperative"
 description: "The digest presents, attributing the taxonomy to David and Roger Johnson, three basic types of interaction patterns people find themselves in: a competitive pattern where \"individuals complete for limited resources, w..."
 status: review

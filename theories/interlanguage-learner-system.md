@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interlanguage-learner-system
 title: "Interlanguage: learners form self-contained linguistic systems intermediate between native and target language"
 description: "Interlanguage, a term Selinker (1972) adopted from \"interlingual\", names the second language learner's system that \"has a structurally intermediate status between the native and target language learners\"."
 status: review

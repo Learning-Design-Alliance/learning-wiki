@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cultural-appropriateness-framework-four-domains
 title: "Cultural Appropriateness Framework: peripheral, evidential, linguistic, and sociocultural domains for adapting health interventions"
 description: "The Cultural Appropriateness Framework \"examines how cultural values, beliefs, and preferences can inform the adaptation or development of health interventions\" across four domains: Peripheral (appealing design elemen..."
 status: review

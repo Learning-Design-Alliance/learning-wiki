@@ -1,5 +1,6 @@
 ---
 type: theory
+id: wtc-model-l2-pronunciation-framework
 title: "MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables"
 description: The article uses the WTC model (MacIntyre et al., 1998) as its organizing framework, which takes into account the many variables present when initiating a communicative exchange in the L2.
 status: review

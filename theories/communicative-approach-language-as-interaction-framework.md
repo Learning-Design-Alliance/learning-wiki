@@ -1,5 +1,6 @@
 ---
 type: theory
+id: communicative-approach-language-as-interaction-framework
 title: Communicative Approach as a language-teaching framework grounded in language as interaction in context
 description: "The Communicative Approach treats language as \"it is interpersonal activity and has a clear relationship with society\", so language study must examine the use of language in both linguistic and social context."
 status: review

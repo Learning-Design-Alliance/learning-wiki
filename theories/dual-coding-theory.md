@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-coding-theory
 title: Dual Coding Theory
 description: Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems.
 canonical: true

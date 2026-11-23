@@ -1,5 +1,6 @@
 ---
 type: theory
+id: existentialism-educational-philosophy
 title: Existentialism (Educational Philosophy)
 description: Existentialism holds that individuals are free to determine their own meaning and identity rather than possessing one given in advance; educationally it emphasizes personal choice, authentic self-direction, and discomfort with treating students as objects to be measured or standardized.
 canonical: true

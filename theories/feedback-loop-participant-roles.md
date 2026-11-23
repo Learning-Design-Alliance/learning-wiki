@@ -1,5 +1,6 @@
 ---
 type: theory
+id: feedback-loop-participant-roles
 title: "Six participant roles in feedback loops: translators, facilitators, users, informants, advisors, designers"
 description: The report identifies recurring participant roles that contribute to knowledge transformation in feedback loops.
 canonical: true

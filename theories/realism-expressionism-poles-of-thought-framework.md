@@ -1,5 +1,6 @@
 ---
 type: theory
+id: realism-expressionism-poles-of-thought-framework
 title: Realism and Expressionism as poles of thought around which related schools cluster
 description: The course rationale organizes the study of modern cultural movements around two poles.
 status: review

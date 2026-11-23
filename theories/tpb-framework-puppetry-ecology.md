@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tpb-framework-puppetry-ecology
 title: "Ajzen's theory of planned behaviour as a framework for puppetry-based ecology teaching"
 description: "The article uses Ajzen's theory of planned behaviour as its theoretical framework, holding that a learner's decision to participate in learning activities \"is shaped by three main elements: their attitude towards lear..."
 status: review

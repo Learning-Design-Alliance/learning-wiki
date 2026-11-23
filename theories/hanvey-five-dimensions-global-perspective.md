@@ -1,5 +1,6 @@
 ---
 type: theory
+id: hanvey-five-dimensions-global-perspective
 title: "Hanvey's five-dimension framework for an attainable global perspective"
 description: "The essay organizes a global perspective into five dimensions: perspective consciousness, state-of-the-planet awareness, cross-cultural awareness, knowledge of global dynamics, and awareness of human choices."
 canonical: true

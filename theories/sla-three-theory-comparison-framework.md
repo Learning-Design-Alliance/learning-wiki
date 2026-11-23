@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sla-three-theory-comparison-framework
 title: Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics
 description: "The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Complexity Theory, and Atkinson's Socio-cognitive Theory along two axes: philosophy and nature/characteristics."
 status: review

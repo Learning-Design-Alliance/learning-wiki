@@ -1,5 +1,6 @@
 ---
 type: theory
+id: focused-unfocused-task-distinction-tblt
 title: Focused vs. unfocused communicative task distinction in task-based language teaching
 description: "Within task-based language teaching, Ellis's distinction separates tasks designed to elicit a particular grammatical form from tasks designed for general communicative language use."
 status: review

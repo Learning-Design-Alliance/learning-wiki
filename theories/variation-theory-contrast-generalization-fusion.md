@@ -1,5 +1,6 @@
 ---
 type: theory
+id: variation-theory-contrast-generalization-fusion
 title: "Variation theory: contrast, generalization, and fusion as necessary conditions for discerning aspects of an object of learning"
 description: Variation theory holds that learning occurs when a learner discerns aspects of an object of learning previously unnoticed, and that discernment requires variation against invariance.
 status: review

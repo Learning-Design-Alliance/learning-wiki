@@ -1,5 +1,6 @@
 ---
 type: theory
+id: impactful-technology-use-six-categories
 title: "Impactful technology use framework: six categories of student skills technology should develop"
 description: "The report defines impactful technology use as more than simply using technology tools: \"Impactful technology use is the ability of educators to use technology to develop their students' skills in six imperative categ..."
 status: review

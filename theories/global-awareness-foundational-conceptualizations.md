@@ -1,5 +1,6 @@
 ---
 type: theory
+id: global-awareness-foundational-conceptualizations
 title: "Two foundational conceptualizations of global awareness: earth as one interdependent system and humankind as one family"
 description: The Project is built on two foundational conceptualizations that define what global awareness means at the K-8 level.
 status: review

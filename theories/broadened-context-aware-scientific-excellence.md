@@ -1,5 +1,6 @@
 ---
 type: theory
+id: broadened-context-aware-scientific-excellence
 title: A broadened, context-aware conception of scientific excellence encompassing resilience, mentorship, community impact, flexibility, and navigation of structural challenges
 description: The editorial proposes an alternative view of excellence that goes beyond narrow measurable indicators such as high-impact publications, citation scores, and institutional prestige.
 status: review

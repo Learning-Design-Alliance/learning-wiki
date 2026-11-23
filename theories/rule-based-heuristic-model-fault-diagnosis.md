@@ -1,5 +1,6 @@
 ---
 type: theory
+id: rule-based-heuristic-model-fault-diagnosis
 title: Rule-based model of fault diagnosis as selection among ordered rules-of-thumb
 description: "The article proposes that fault diagnosis involves \"the use ofaset of rules-of-thumb (orheuristics)from which the human selects, using some type of priority structure.\" Based on Experiments Three, Five, and Six, an or..."
 status: review

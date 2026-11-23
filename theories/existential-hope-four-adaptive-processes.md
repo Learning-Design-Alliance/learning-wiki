@@ -1,5 +1,6 @@
 ---
 type: theory
+id: existential-hope-four-adaptive-processes
 title: Four adaptive processes transform radical uncertainty and existential threat into existential hope
 description: "The framework proposes four adaptive coping processes: \"embracing uncertainty, value articulation, futuring, and relational orienting.\" Embracing uncertainty involves distress tolerance and acceptance; value articulat..."
 status: review

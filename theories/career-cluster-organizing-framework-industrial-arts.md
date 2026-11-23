@@ -1,5 +1,6 @@
 ---
 type: theory
+id: career-cluster-organizing-framework-industrial-arts
 title: "Career-cluster organization of industrial arts content around the U.S. Office of Education's fifteen career clusters"
 description: The guide organizes industrial arts content around career clusters rather than isolated tool skills.
 status: review

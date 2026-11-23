@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mechanistic-reasoning
 title: Mechanistic Reasoning
 description: Mechanistic reasoning explains a phenomenon by identifying the interacting entities, properties, and activities — organized in space and time — that cause it, in contrast to teleological (purpose-based) or circular (restating-the-effect) explanations.
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: prabhu-learner-effort-typology
 title: "Prabhu's typology of learner effort: reproduction, simulation, construction and deployment"
 description: "Prabhu identifies different forms of effort by language learners in the classroom and proposes a typology built on two underlying concepts: imitation, where the learner copies the language knower's (the teacher's) beh..."
 status: review

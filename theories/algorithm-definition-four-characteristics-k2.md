@@ -1,5 +1,6 @@
 ---
 type: theory
+id: algorithm-definition-four-characteristics-k2
 title: "Algorithms defined as precise step-by-step plans with four characteristics: finite, inputs and outputs, effective, definite"
 description: "The webinar defines algorithms as \"precise step-by-step plans or procedures to meet an end goal or to solve a problem\" and presents four defining characteristics teachers can use when introducing the concept to young..."
 status: review

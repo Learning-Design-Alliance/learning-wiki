@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-phase-interest-development
 title: Four-Phase Model of Interest Development
 description: Hidi and Renninger's model holds that interest develops in four phases, from a transient situational spark through to a stable, well-developed personal interest, with only some situational interest ever making that transition.
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: lre-dual-components-proximity-and-interaction
 title: "Least restrictive environment defined by two components: proximity to the regular educational environment and opportunity to interact with non-handicapped children"
 description: The report defines the LRE concept from P.L.
 canonical: true

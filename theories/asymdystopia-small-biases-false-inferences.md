@@ -1,5 +1,6 @@
 ---
 type: theory
+id: asymdystopia-small-biases-false-inferences
 title: "Asymdystopia: small biases raise the risk of false inferences as studies are powered to detect smaller impacts"
 description: "Asymdystopia is the authors' name for the phenomenon whereby \"the potential for small biases to increase the risk of making false inferences as studies are powered to detect smaller impacts\" grows."
 status: review

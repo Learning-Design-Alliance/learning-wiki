@@ -1,5 +1,6 @@
 ---
 type: theory
+id: six-change-agent-roles-staff-development
 title: Six change-agent roles framework for regional staff development staff
 description: "The project adopts a change-agent role framework, attributed by the report to writers such as Leach and Owens, in which project staff perform six roles: analyst, advisor, advocate, systems linkers, innovator, and trai..."
 status: review

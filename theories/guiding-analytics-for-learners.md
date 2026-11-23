@@ -1,5 +1,6 @@
 ---
 type: theory
+id: guiding-analytics-for-learners
 title: Guiding analytics for learners
 description: "The review proposes a new class of learning analytics, guiding analytics for learners, which it \"define[s] as analytics based on the analysis of student (log) data according to learning theories or content-oriented st..."
 status: review

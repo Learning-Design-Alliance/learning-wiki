@@ -1,5 +1,6 @@
 ---
 type: theory
+id: federation-university-case-based-experiential-model
 title: "Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting"
 description: "The Federation University model is a program-level teaching framework for community and human services education that integrates Kolb's four-stage experiential cycle with case-based teaching."
 status: review

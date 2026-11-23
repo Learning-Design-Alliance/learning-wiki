@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multidimensional-domain-specific-locus-of-control
 title: "Locus of control of reinforcement as a multidimensional, domain-specific construct rather than Rotter's unidimensional generalized expectancy"
 description: "The article argues that Rotter's (1966) locus of control of reinforcement, originally \"conceptualized by Rotter as a generalized expectancy variable,\" has been found to be multidimensional and should be defined as sev..."
 status: review

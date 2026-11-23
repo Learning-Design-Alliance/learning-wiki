@@ -1,5 +1,6 @@
 ---
 type: theory
+id: design-based-causal-inference-approach
 title: Design-based approach to causal inference
 description: "The brief presents the design-based approach to causal inference, describing \"their key concepts and how they compare to model-based methods.\" It presents \"rudiments of the design-based approach..."
 status: review

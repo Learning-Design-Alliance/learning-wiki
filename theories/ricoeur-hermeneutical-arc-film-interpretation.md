@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ricoeur-hermeneutical-arc-film-interpretation
 title: "Ricoeur's hermeneutical arc as a three-step model of film interpretation"
 description: "The article applies Ricoeur's hermeneutical arc to film experience as a movement through three steps: narrative understanding (an intuitive first approach in which the viewer constructs 'a world of the text'), narrato..."
 status: review

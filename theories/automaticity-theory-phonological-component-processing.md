@@ -1,5 +1,6 @@
 ---
 type: theory
+id: automaticity-theory-phonological-component-processing
 title: "Automaticity theory: automatizing component subskills frees controlled processing for higher-order functions such as comprehension"
 description: "The article draws on McLaughlin's (1987) cognitive theory and information processing models, in which learning a complex cognitive skill requires the automatization of component subskills."
 status: review

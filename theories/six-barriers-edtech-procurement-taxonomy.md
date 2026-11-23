@@ -1,5 +1,6 @@
 ---
 type: theory
+id: six-barriers-edtech-procurement-taxonomy
 title: Six-barrier taxonomy of K-12 ed-tech procurement challenges
 description: "The report organizes its interview and workshop findings into six themes that name the major barriers districts face when purchasing education technology: public scrutiny, school culture, procurement regulations, uncl..."
 status: review

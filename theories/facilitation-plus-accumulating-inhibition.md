@@ -1,5 +1,6 @@
 ---
 type: theory
+id: facilitation-plus-accumulating-inhibition
 title: "Dual-process account of category access: general initial facilitation plus accumulating inhibition determined by the number of prior retrievals"
 description: "The article proposes that two opposing processes operate during retrieval from semantic memory categories: a general initial facilitation (category \"warm up\") that speeds early retrievals, and a compounding inhibition..."
 status: review

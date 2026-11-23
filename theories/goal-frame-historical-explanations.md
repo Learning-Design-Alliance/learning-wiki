@@ -1,5 +1,6 @@
 ---
 type: theory
+id: goal-frame-historical-explanations
 title: "Goal frame for historical explanations: Goal, Plan, Action, Outcome slots"
 description: "The Goal frame is an abbreviated story grammar adapted for history text, with four slots assumed to constitute the \"main ideas\" of an historical explanation."
 status: review

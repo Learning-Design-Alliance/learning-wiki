@@ -1,5 +1,6 @@
 ---
 type: theory
+id: democratic-localism-organizational-change-theory
 title: "Reform theory: expanded local democratic participation stimulates organizational change that fosters improved teaching and learning"
 description: "The book is organized around an implicit causal theory of the Chicago reform: expanded local democratic participation is expected to stimulate organizational change within schools, which in turn fosters improved teach..."
 status: review

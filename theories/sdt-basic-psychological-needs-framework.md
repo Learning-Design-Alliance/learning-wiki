@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sdt-basic-psychological-needs-framework
 title: "Self-determination theory: a motivation and personality theory built on three basic psychological needs"
 description: "Self-determination theory is described in the article as \"a comprehensive theory of motivation and personality, focused on nurturing inner motivational resources to enhance optimal functioning.\" Its key component is t..."
 status: review

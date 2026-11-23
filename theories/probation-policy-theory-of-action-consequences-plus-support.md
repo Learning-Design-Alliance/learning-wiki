@@ -1,5 +1,6 @@
 ---
 type: theory
+id: probation-policy-theory-of-action-consequences-plus-support
 title: "Chicago probation policy theory of action: consequences combined with support increase educator motivation and capacity"
 description: "The Chicago school probation policy rests on an implicit theory of action in which \"threat (or consequences), combined with support, will increase educator motivation and capacity to improve performance\", which in tur..."
 status: review

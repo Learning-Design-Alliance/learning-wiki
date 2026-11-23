@@ -1,5 +1,6 @@
 ---
 type: theory
+id: peircean-architectonics-interdisciplinary-paradigm
 title: Peircean architectonics as an interdisciplinary paradigm organized by triadic logic
 description: "Architectonics is presented as the cross-disciplinary term for the systematic, constructivist nature of all relations and creations, appropriated by Peirce from Kant's art of constructing systems of knowledge."
 status: review

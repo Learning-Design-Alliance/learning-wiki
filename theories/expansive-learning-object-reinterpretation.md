@@ -1,5 +1,6 @@
 ---
 type: theory
+id: expansive-learning-object-reinterpretation
 title: "Expansive learning: object reinterpreted and widened when activity-system components change and generate contradictions"
 description: Drawing on Engeström and on Virkkunen and Kuutti, the article presents expansive learning as a transformation in the object of activity.
 status: review

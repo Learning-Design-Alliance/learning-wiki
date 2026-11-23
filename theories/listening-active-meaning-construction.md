@@ -1,5 +1,6 @@
 ---
 type: theory
+id: listening-active-meaning-construction
 title: Listening as an active process of constructing meaning from a stream of sounds
 description: "The paper argues that although listening is classified as a receptive skill, it is not passive: \"Listeners do not passively absorb the words, but actively attempt to grasp the facts and feelings in what they hear\"."
 status: review

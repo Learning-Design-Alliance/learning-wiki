@@ -1,5 +1,6 @@
 ---
 type: theory
+id: merrill-first-five-principles-framework-sarfo-2010
 title: "Merrill's first five principles of instruction as the framework for quality teaching and learning"
 description: "The article adopts Merrill's first principles of instruction as its organizing framework: \"1) task centeredness, 2) demonstration, 3) activation, 4) application, and 5) integration\"."
 status: review

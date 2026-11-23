@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chat-activity-system-lens-plc-mathematics
 title: Cultural-historical Activity Theory and activity-system analysis as a lens for examining PLC in mathematics
 description: "The review uses CHAT, in which \"activity systems are taken as the smallest unit of analysis\", to conceptualise PLC as practices where people with different roles interact to develop their practice."
 status: review

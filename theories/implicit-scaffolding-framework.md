@@ -1,5 +1,6 @@
 ---
 type: theory
+id: implicit-scaffolding-framework
 title: "Implicit scaffolding framework: guidance built into the tool via affordances, constraints, cueing and feedback"
 description: The implicit scaffolding framework holds that scaffolding need not be written or verbal but can be built into the design of a learning tool, so that students find productive inquiry paths without explicit instructions.
 status: review

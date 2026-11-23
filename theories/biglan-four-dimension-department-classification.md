@@ -1,5 +1,6 @@
 ---
 type: theory
+id: biglan-four-dimension-department-classification
 title: "Biglan's four-dimension model for classifying academic departments"
 description: "Biglan's empirically derived model classifies academic departments on dimensions of hard versus soft (paradigm existence), pure versus applied (concern with application), non-life versus life (involvement with living..."
 status: review

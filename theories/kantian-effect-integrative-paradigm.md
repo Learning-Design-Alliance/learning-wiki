@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kantian-effect-integrative-paradigm
 title: "The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles"
 description: "The Kantian Effect is the article's proposed metaphor for the scholarship of integration and a paradigm for reimagining interdisciplinarity."
 status: review

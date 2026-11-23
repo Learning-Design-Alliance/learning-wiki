@@ -1,5 +1,6 @@
 ---
 type: theory
+id: feuerstein-mle-twelve-criteria
 title: "Feuerstein's Mediated Learning Experience theory with twelve criteria of mediation"
 description: "Feuerstein's Mediated Learning Experience (MLE) theory explains differential cognitive development through the quality of interaction between a learner and a human mediator, which the article defines as \"the interacti..."
 status: review

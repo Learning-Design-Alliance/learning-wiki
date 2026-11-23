@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-hypotheses-imagery-perception-substrates
 title: Three-hypothesis framework for the neural relationship between visual imagery and visual perception
 description: "The article organises the imagery-perception debate around three hypotheses attributed to Roland and Gulyás: anatomical separation of imagery and perception areas, imagery areas as a subset of perception areas, or ide..."
 status: review

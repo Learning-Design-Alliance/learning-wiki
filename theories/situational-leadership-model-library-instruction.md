@@ -1,5 +1,6 @@
 ---
 type: theory
+id: situational-leadership-model-library-instruction
 title: Situational Leadership Model as a framework for assessing library learners and selecting instructional style
 description: "The paper adapts Hersey's Situational Leadership Model, already used in management, teaching, nursing and counseling, as a conceptual framework for librarians providing individual instruction."
 status: review

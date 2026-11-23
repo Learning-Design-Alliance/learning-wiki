@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cmr-context-metaphor-relationship-model
 title: "Context Metaphor Relationship (CMR) model for easing youths' transitions into residential treatment"
 description: "The CMR model is the article's solution to procedural admissions: it organizes admissions around three emphases."
 status: review

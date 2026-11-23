@@ -1,5 +1,6 @@
 ---
 type: theory
+id: goal-action-outcome-frame-history-explanations
 title: "Goal-Action-Outcome frame: explanations of many historical events have a generic structure of goal, action, and outcome"
 description: "The analysis of Why-Action explanation questions rests on a generic structure attributed to Armbruster and Anderson (1982): \"explanations of many historical events have a generic structure consisting of three causally..."
 status: review

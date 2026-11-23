@@ -1,5 +1,6 @@
 ---
 type: theory
+id: knowles-andragogy-assumptions-framework
 title: "Andragogy: Knowles' framework of assumptions about adult learning, distinct from pedagogy"
 description: "Andragogy is Malcolm Knowles' theoretical framework of assumptions about how adults learn, argued since 1968 under the banner of \"andragogy, not pedagogy.\" The essay explains that the term predates Knowles, going \"bac..."
 status: review

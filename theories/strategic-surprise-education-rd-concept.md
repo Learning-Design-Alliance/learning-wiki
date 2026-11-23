@@ -1,5 +1,6 @@
 ---
 type: theory
+id: strategic-surprise-education-rd-concept
 title: "Strategic surprise as an organizing concept for education R&D"
 description: The paper defines strategic surprise as an exogenous or emergent shift that outruns existing sensing and response cycles, forcing rapid reorientation.
 status: review

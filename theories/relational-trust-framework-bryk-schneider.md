@@ -1,5 +1,6 @@
 ---
 type: theory
+id: relational-trust-framework-bryk-schneider
 title: "Relational trust: effective social relationships in and around schools as a prime resource for school improvement"
 description: "Relational trust is the concept Bryk and Schneider develop to name \"how effective social relationships—which they term relational trust—can serve as a prime resource for school improvement.\" It is built from case stud..."
 status: review

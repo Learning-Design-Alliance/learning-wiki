@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ecotone-framing-of-assessment-accommodations
 title: "Ecotone framing: accommodations occupy a transitional zone between two stable states in assessment"
 description: "The article proposes a metaphorical framework in which accommodations sit \"like an ecotone of sorts\" — a transitional zone — between two ports."
 status: review

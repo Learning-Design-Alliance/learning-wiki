@@ -1,5 +1,6 @@
 ---
 type: theory
+id: expertise-reversal-multimedia-revisions
 title: Expertise reversal effect applied to multi-principle visual revisions
 description: "The expertise reversal effect is the phenomenon in which \"guidance intended to assist learning actually makes learning more difficult for students with higher levels of prior knowledge\" because the guidance is redunda..."
 status: review

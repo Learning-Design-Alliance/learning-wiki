@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-imperatives-conceptual-framework-building
 title: Four imperatives for building the conceptual framework of library and information science
 description: "The article proposes four imperatives for fostering collaboration across the branches of library and information science: \"Stay with a problem to develop concepts\", apply the field's conceptual framework to findings,..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: depth-of-word-knowledge-continuum
 title: Depth of word knowledge continuum (association, comprehension, generation)
 description: The article describes word knowledge as existing on a continuum of depth, with levels described as minimal, partial, and full, and, following Stahl, as association, comprehension, and generation.
 status: review

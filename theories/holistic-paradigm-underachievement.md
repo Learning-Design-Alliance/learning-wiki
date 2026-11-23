@@ -1,5 +1,6 @@
 ---
 type: theory
+id: holistic-paradigm-underachievement
 title: "Holistic paradigm: underachievement as a multi-factor, multi-level phenomenon"
 description: "The review proposes the Holistic paradigm as a third approach that, despite difficulties of application, \"seems to account for most of the deficiencies of the other two models\"."
 status: review

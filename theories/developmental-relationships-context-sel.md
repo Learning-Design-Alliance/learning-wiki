@@ -1,5 +1,6 @@
 ---
 type: theory
+id: developmental-relationships-context-sel
 title: "Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers"
 description: A second organizing concept holds that experiences influence development most when embedded in strong relationships.
 status: review

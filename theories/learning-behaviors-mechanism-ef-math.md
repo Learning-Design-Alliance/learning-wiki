@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-behaviors-mechanism-ef-math
 title: Learning-related behaviors as a mechanism linking executive function to mathematics achievement
 description: "The article advances the account that children's learning-related behaviors, specifically task orientation, are a mechanism through which executive function relates to mathematics achievement."
 status: review

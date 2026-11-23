@@ -1,5 +1,6 @@
 ---
 type: theory
+id: indigenous-hl2-motivation-framework-te-huia
 title: "Heritage-language motivation framework for indigenous HL2 learners: revitalisation, identity, and cultural participation"
 description: The article organises Māori HL2 learner motivation around the interplay of cultural revitalisation, identity, and access to cultural practices.
 status: review

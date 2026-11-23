@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-types-school-politics-taxonomy
 title: "Four-type taxonomy of school politics under Chicago decentralization: strong democracy, consolidated principal power, maintenance, and adversarial"
 description: "From survey and case study data, the authors develop a four-part classification of school politics under the reform: strong democracy, consolidated principal power, maintenance, and adversarial."
 status: review

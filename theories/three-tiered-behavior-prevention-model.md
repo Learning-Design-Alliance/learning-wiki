@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-tiered-behavior-prevention-model
 title: Three-tiered prevention model of behavioral supports
 description: The guide organizes behavioral support around a three-tiered prevention model in which universal prevention is the first component.
 status: review

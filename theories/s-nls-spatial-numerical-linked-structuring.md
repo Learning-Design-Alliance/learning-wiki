@@ -1,5 +1,6 @@
 ---
 type: theory
+id: s-nls-spatial-numerical-linked-structuring
 title: "S*NLS as the linking mechanism between spatial structuring and numerical structuring"
 description: "S*-numerical linked structuring (S*NLS) is a form of reasoning coordinating S*-structuring, the mental construction of organization for sequences of physical/mental actions on perceptual or imagined material, with N-s..."
 status: review

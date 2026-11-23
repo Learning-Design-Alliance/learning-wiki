@@ -1,5 +1,6 @@
 ---
 type: theory
+id: metacognition-making-thinking-visible-arts
 title: Metacognition as a framework for making thinking visible across artistic and academic learning
 description: "The article presents metacognition as \"the awareness and understanding of one's thinking and learning processes,\" introduced through training with evidence behind embedding it instructionally."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bayesian-adaptive-program-evaluation-framework
 title: Bayesian adaptive randomized program evaluation framework
 description: "The article presents a Bayesian approach to randomized program evaluations in which the design \"adapts to accumulating evidence\": over the course of an evaluation, \"more study subjects are allocated to treatment arms..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interpersonal-complementarity-principle
 title: Interpersonal complementarity principle (Leary Circumplex / Carson)
 description: "The article organizes its hypotheses around the complementarity principle from the Leary Interpersonal Circumplex: high-probability elicitation-response sequences (dominance followed by submissiveness, submissiveness..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: ritual-exploration-routines-de-ritualization
 title: Ritual versus exploration routines and the process of de-ritualization
 description: Drawing on Lavie et al.
 status: review

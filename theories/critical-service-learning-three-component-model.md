@@ -1,5 +1,6 @@
 ---
 type: theory
+id: critical-service-learning-three-component-model
 title: "Critical service-learning model with three components: social change orientation, power redistribution, and authentic relationships"
 description: "Critical service-learning is a model that adopts a social justice framework, as opposed to a more \"apolitical helper\" model of service-learning, and demands an analysis of power structures and social change (Mitchell,..."
 status: review

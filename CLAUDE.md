@@ -1096,9 +1096,15 @@ page's id is stable and unique within its kind** — because a rename breaks a c
 has already shipped, silently, outside this repo.
 
 So the six kinds a design document can point at carry `id:` equal to their filename:
-**elements, principles, patterns, claims, learner-variables, strategies**. Theories stay
-out — nothing in the spec addresses one. A page type gains an id when something *outside*
-the wiki depends on pointing at it.
+**elements, principles, patterns, claims, learner-variables, strategies**, and since then every
+content kind. A page type gains an id when something *outside* the wiki depends on pointing at it.
+**Theories gained theirs on 2026-11-23** (1,326 stamped, no collisions): the simulator in
+Learning-engineering-research keeps its parameter store and its mechanism and rival cards in
+its own repo, and points each one at the wiki pages it rests on (maintainer: "the parameter
+store lives in the simulator. It just references each line to its source in the wiki"; theories,
+elements and patterns "feed one way to the mechanism and rival cards"). So the wiki's job for the
+simulator is stable addresses, every referenced source present, and each study's configuration in
+`observations/`; the model, its parameters and their filter are not written here.
 
 **Strategies were nearly left out, and that would have been wrong.** `findings/0008`'s
 contract names only claim, pattern, element and principle slugs, and the reverse index
@@ -2182,6 +2188,7 @@ generated:
 ```markdown
 ---
 type: theory
+id: [theory-slug]      # equal to the filename
 title: [Theory Name]
 description: [One-sentence summary of what this theory proposes]
 status: draft

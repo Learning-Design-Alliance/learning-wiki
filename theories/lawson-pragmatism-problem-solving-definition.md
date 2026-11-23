@@ -1,5 +1,6 @@
 ---
 type: theory
+id: lawson-pragmatism-problem-solving-definition
 title: "Lawson's problem-solving definition of pragmatism as applied to Washington"
 description: "The article recounts Bill Lawson's account of pragmatism, which locates \"solving basic life problems\" as fundamental to the tradition and requires a pragmatist to understand the problem being solved and then think cre..."
 status: review

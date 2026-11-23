@@ -1,5 +1,6 @@
 ---
 type: theory
+id: health-promoting-schools-prevention-integration-framework
 title: Health-promoting schools as a forum integrating educational goals with prevention of risky behaviors
 description: "The host volume's framing theory treats schooling and prevention as mutually reinforcing: it \"examines educational goals and prevention of risky behaviors as parallel and complementary processes and provides evidence..."
 status: review

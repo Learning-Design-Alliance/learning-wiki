@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-module-oer-competency-framework
 title: Four-module competency framework for production, search, diffusion and mobilization of OER
 description: "The article organizes the competencies at stake into four modules: production of OER (creative thinking, digital literacy, multimedia management literacy), search/selection (information management, English and other l..."
 status: review

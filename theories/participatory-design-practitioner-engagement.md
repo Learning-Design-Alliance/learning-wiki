@@ -1,5 +1,6 @@
 ---
 type: theory
+id: participatory-design-practitioner-engagement
 title: Participatory design as a discrete approach to engaging practitioners in research design
 description: "Participatory design is presented as a relatively discrete way to work with practitioners, promoting \"iterative construction of emerging designs\" and generating results co-interpreted by researchers and the participan..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chicago-five-turnaround-reform-models-taxonomy
 title: Five Chicago school turnaround reform models mapped to four federal intervention models
 description: "The report organizes Chicago's 1997-2010 district-mandated interventions into five models—Reconstitution, School Closure and Restart, the School Turnaround Specialist Program, Academy for Urban School Leadership, and..."
 status: review

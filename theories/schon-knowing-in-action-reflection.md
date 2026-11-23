@@ -1,5 +1,6 @@
 ---
 type: theory
+id: schon-knowing-in-action-reflection
 title: "Schon's knowing-in-action and the distinction between reflection-in-action and reflection-on-action"
 description: "The paper presents Schon's account of tacit knowledge: knowing-in-action (KIA) is knowledge tacit in the way we do things, which 'unconsciously controls how we act in relationship to our environment in any situation'."
 status: review

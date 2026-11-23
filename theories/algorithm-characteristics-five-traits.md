@@ -1,5 +1,6 @@
 ---
 type: theory
+id: algorithm-characteristics-five-traits
 title: "Five defining characteristics of algorithms: finite, input, outputs, effective, definiteness"
 description: "The deck presents a framework, attributed to Shuchi Grover, defining algorithms as \"precise step-by-step plans or procedures to meet an end goal or to solve a problem\" and algorithmic thinking as the skill of developi..."
 status: review

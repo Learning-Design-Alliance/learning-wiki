@@ -1,5 +1,6 @@
 ---
 type: theory
+id: developmental-research-designs
 title: Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 description: Studying change over time requires choosing among three research designs — cross-sectional, longitudinal, and sequential — each with a different tradeoff between cost, duration, and the specific confounds (cohort effects, attrition, practice effects) it is vulnerable to.
 canonical: true

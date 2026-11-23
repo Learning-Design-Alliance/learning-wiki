@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cra-component-definition-framework
 title: Culturally Responsive Assessment framework built from component definitions of culture, responsiveness, and assessment
 description: "The guide defines CRA through a component-based approach: instructors and students first build working definitions of the individual terms culture, responsiveness, and assessment before assembling a definition of CRA."
 status: review

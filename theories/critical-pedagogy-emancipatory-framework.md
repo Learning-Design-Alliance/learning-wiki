@@ -1,5 +1,6 @@
 ---
 type: theory
+id: critical-pedagogy-emancipatory-framework
 title: "Critical pedagogy as an emancipatory framework contrasting with Freire's banking model of education"
 description: "The article presents critical pedagogy, developed from Freire, Gramsci, Apple, Giroux, McLaren and Shor, as an alternative to traditional 'banking' pedagogy in which teachers are the sole authority and learners passiv..."
 status: review

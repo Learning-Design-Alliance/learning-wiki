@@ -1,5 +1,6 @@
 ---
 type: theory
+id: crt-versus-nrt-assessment-purposes
 title: Criterion-referenced versus norm-referenced tests as two distinct assessment purposes
 description: The brief organizes its comparison around a distinction between two test purposes.
 status: review

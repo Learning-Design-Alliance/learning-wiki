@@ -1,5 +1,6 @@
 ---
 type: theory
+id: non-constant-alpha-error-reduction-model
 title: Generalized non-constant α model framing learning as an error-reduction process
 description: In Section VI the article generalizes the γ-process as a special case of the α-process with α linearly dependent on score, allowing α to be a function of the score including constant, linear, and higher-order terms (Eqs.
 status: review

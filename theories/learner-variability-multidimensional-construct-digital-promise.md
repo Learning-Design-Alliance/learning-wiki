@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learner-variability-multidimensional-construct-digital-promise
 title: Learner variability as a multidimensional construct spanning cognitive, social, emotional, and background factors
 description: "The survey defines \"learner variability\" as a construct covering the abilities students have and the challenges they bring to learning."
 status: review

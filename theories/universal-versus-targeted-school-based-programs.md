@@ -1,5 +1,6 @@
 ---
 type: theory
+id: universal-versus-targeted-school-based-programs
 title: Distinction between universal and targeted school-based programs
 description: The report draws a scope distinction among school-based programs that determines who receives the intervention.
 status: review

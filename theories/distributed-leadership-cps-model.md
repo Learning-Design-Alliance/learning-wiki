@@ -1,5 +1,6 @@
 ---
 type: theory
+id: distributed-leadership-cps-model
 title: Distributed leadership model for school principals
 description: "The playbook describes distributed leadership as an approach Chicago Public Schools encourages, in which \"principals, assistant principals, teachers, and other school staff share responsibilities to support students'..."
 status: review

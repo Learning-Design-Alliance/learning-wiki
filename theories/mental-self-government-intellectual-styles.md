@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mental-self-government-intellectual-styles
 title: "Sternberg's mental self-government model of intellectual styles"
 description: Sternberg proposes that intellectual style concerns how people use their intelligence rather than how much they have, analogizing the mind to a government.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: jagged-profile-no-average-student
 title: "Jagged profile: learner characteristics that guide learning capacity cannot be described by one-dimensional values like IQ or standardized test scores"
 description: "Drawing on Todd Rose's The End of Average (2016), the paper argues there is no such person as the \"average\" student."
 status: review

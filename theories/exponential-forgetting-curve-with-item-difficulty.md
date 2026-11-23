@@ -1,5 +1,6 @@
 ---
 type: theory
+id: exponential-forgetting-curve-with-item-difficulty
 title: Exponential Forgetting Curve with Item Difficulty
 description: The article adopts a variant of the exponential forgetting curve, in which recall is binary and recall probability decays exponentially with time since last review at a rate reduced by memory strength.
 canonical: true

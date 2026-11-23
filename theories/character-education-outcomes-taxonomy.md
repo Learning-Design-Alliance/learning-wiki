@@ -1,5 +1,6 @@
 ---
 type: theory
+id: character-education-outcomes-taxonomy
 title: Taxonomy of character education outcomes organized from broad student/other levels to specific cognitive, affective, and behavioral constructs
 description: The report develops a hierarchical taxonomy for classifying outcomes measured in character education research, built iteratively from WWC, WWCEP, and PCEP classification approaches and refined as the review proceeded.
 status: review

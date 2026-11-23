@@ -1,5 +1,6 @@
 ---
 type: theory
+id: differential-measurement-barrier-framework-vi-math
 title: "Barriers framework: differential item functioning as the mechanism of math inaccessibility for students with visual impairments"
 description: "The brief organizes its findings around a barriers account of math inaccessibility: some assessment items function differently for students with visual impairments who use screen readers than for other students, creat..."
 status: review

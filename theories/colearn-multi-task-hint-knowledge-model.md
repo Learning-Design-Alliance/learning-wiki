@@ -1,5 +1,6 @@
 ---
 type: theory
+id: colearn-multi-task-hint-knowledge-model
 title: "Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking"
 description: Colearn extends the DKVMN memory-augmented knowledge tracing model by encoding each interaction as a tuple (qt, rt, ht) of question, response, and hint usage, and by adding hint-taking prediction as an auxiliary task...
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: eb-fluency-development-practical-framework
 title: "A practical framework for emergent bilinguals' reading fluency development"
 description: "The paper distills the eleven reviewed studies and the classical Kuhn studies into a sequenced framework for EB fluency instruction: \"Begin with accessible, meaningful texts; provide teacher or adult fluent modeling;..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: srl-motivational-goal-setting-monitoring-control-framework
 title: Self-regulated learning as a motivational, cyclical process of goal setting, monitoring, and control
 description: The review frames self-regulated learning as a cognitive-motivational approach in which learners actively manage their own learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bayesian-adaptive-policy-evaluation-heterogeneous-effects
 title: Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects
 description: The article presents a statistical method for randomized policy evaluations that efficiently estimates heterogeneous treatment effects, identifying what works for whom.
 status: review

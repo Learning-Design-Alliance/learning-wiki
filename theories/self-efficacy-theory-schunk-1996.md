@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-efficacy-theory-schunk-1996
 title: "Self-efficacy theory: beliefs about one's capabilities to learn or perform behaviors at designated levels"
 description: "The paper presents self-efficacy theory as beliefs concerning one's capabilities to learn or perform behaviors at designated levels."
 status: review

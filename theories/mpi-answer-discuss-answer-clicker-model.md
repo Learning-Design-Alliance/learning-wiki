@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mpi-answer-discuss-answer-clicker-model
 title: Modified peer instruction answer-discuss-answer model for clickers in mathematics content courses
 description: "The article describes an answer-discuss-answer implementation \"similar in nature to the modified peer instruction model (MPI) described by Milner-Bolotin et al."
 status: review

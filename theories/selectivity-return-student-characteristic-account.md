@@ -1,5 +1,6 @@
 ---
 type: theory
+id: selectivity-return-student-characteristic-account
 title: Human-capital sorting account in which measured selectivity returns reflect student characteristics rather than college effects
 description: "The publication page frames college selectivity returns as an empirical quantity whose estimate changes with identification and data scope: the paper \"uses administrative earnings data to the effect of attending a hig..."
 status: review

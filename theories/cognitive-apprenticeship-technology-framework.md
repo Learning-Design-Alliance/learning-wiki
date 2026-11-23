@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-apprenticeship-technology-framework
 title: Cognitive apprenticeship applies the modelling, coaching, and fading paradigm of traditional apprenticeship to cognitive skills, with technology realizing resource-intensive learning environments
 description: "Cognitive apprenticeship is Collins's framework for restoring the resource-intensive teaching of earlier apprenticeship-based eras using computers."
 status: review

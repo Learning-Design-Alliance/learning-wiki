@@ -1,5 +1,6 @@
 ---
 type: theory
+id: adolescent-brain-reconstruction-zone-sensitive-period
 title: "Adolescence as a neurobiological 'reconstruction zone' — a sensitive period in which experiential input shapes executive function and social cognition"
 description: "The review presents an emergent neurobiological model in which \"the brain undergoes dynamic changes throughout adolescence\" and structural and behavioral changes interact."
 status: review

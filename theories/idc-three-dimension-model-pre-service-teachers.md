@@ -1,5 +1,6 @@
 ---
 type: theory
+id: idc-three-dimension-model-pre-service-teachers
 title: Three-dimension model of instructional design competence for pre-service teachers (knowledge, ability, personal attributes)
 description: "The article develops and validates a competence model in which instructional design competence comprises three dimensions: knowledge and understanding of instructional design, ability in instructional design, and pers..."
 status: review

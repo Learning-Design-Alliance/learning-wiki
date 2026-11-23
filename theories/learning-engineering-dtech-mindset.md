@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learning-engineering-dtech-mindset
 title: "Learning engineering: educators take research and turn it into classroom solutions using engineering problem-solving processes"
 description: "Learning engineering, as described in this report, applies engineering problem-solving processes to problems of educational practice: Uncapher described 'the synergy around design thinking and science of learning' as..."
 status: review

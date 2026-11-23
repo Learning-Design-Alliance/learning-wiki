@@ -1,5 +1,6 @@
 ---
 type: theory
+id: pragmatism-and-progressivism-educational-philosophy
 title: Pragmatism and Progressivism (Educational Philosophy)
 description: Pragmatism holds that reality is evolving rather than fixed, and that thought must produce action toward practical problems; Progressivism, its educational descendant, translates this into student-centered, experiential, project-based learning with the teacher as facilitator rather than lecturer.
 canonical: true

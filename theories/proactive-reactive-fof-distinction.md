@@ -1,5 +1,6 @@
 ---
 type: theory
+id: proactive-reactive-fof-distinction
 title: "Proactive vs. reactive focus on form: two timing alternatives for grammar attention within communicative teaching"
 description: The article presents the proactive/reactive distinction (attributed to Doughty and Williams, 1998) as the organizing taxonomy for timing of focus on form within communicative language teaching.
 status: review

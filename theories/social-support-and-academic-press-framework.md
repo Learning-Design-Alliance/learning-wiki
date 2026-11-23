@@ -1,5 +1,6 @@
 ---
 type: theory
+id: social-support-and-academic-press-framework
 title: Social support for academic learning and academic press as complementary school conditions
 description: The report defines two complementary conditions for achievement.
 status: review

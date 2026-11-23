@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-strand-research-evaluation-department-organization
 title: "Three-strand organization of a district research and evaluation department: Instructional Support, Data Analysis, and Data Management"
 description: "The report recommends that the Department of Research and Evaluation be \"organized around three major strands with three corresponding sub-units: Instructional Support, Data Analysis, and Data Management.\" Instruction..."
 status: review

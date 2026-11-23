@@ -1,5 +1,6 @@
 ---
 type: theory
+id: french-da-discursive-formations-ee
 title: French Discourse Analysis framework of discursive formations and enunciative modalities applied to EE teacher training
 description: "The study adopts French Discourse Analysis, in which \"discourse\" is written or oral text studied in terms of its meaning in a social context, and discourses are rule-bound sets of statements that impose limits on what..."
 status: review

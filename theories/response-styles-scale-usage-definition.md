@@ -1,5 +1,6 @@
 ---
 type: theory
+id: response-styles-scale-usage-definition
 title: Response styles as scale-usage differences independent of true score
 description: Response styles are patterns in how survey respondents use Likert scale categories.
 status: review

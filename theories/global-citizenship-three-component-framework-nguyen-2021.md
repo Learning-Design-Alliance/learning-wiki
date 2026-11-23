@@ -1,5 +1,6 @@
 ---
 type: theory
+id: global-citizenship-three-component-framework-nguyen-2021
 title: "Three-component framework of global citizenship: social responsibility, global competence, and global civic engagement"
 description: The article adopts a conceptual framework in which global citizenship comprises three components.
 status: review

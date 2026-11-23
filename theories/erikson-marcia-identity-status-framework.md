@@ -1,5 +1,6 @@
 ---
 type: theory
+id: erikson-marcia-identity-status-framework
 title: Erikson-Marcia psychosocial development and ego identity status framework
 description: "The paper organizes its study around Erikson's lifespan psychosocial development theory, in which identity involves sameness and continuity and can be destabilized by later life changes such as immigration, and Marcia..."
 status: review

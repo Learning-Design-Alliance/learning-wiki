@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kolb-four-stage-experiential-learning-model
 title: "Kolb's four-stage experiential learning model and its four learning style categories"
 description: "The review describes Kolb's experiential learning model, in which \"learning theoretically is undertaken on the basis of a four-stage cycle\": Concrete Experience, Reflective Observation, Abstract Conceptualization and..."
 status: review

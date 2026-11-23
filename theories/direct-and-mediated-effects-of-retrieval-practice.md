@@ -1,5 +1,6 @@
 ---
 type: theory
+id: direct-and-mediated-effects-of-retrieval-practice
 title: Direct versus Mediated Effects of Retrieval Practice
 description: A distinction the chapter uses to organize retrieval research.
 canonical: true

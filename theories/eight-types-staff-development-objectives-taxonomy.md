@@ -1,5 +1,6 @@
 ---
 type: theory
+id: eight-types-staff-development-objectives-taxonomy
 title: "Eight-type taxonomy of staff development objectives: five teacher-centered, one student-centered, one curriculum-centered, one school-centered"
 description: "The monograph's first organizing axis classifies everything staff development might aim at into eight main types."
 status: review

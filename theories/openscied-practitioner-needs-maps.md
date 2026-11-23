@@ -1,5 +1,6 @@
 ---
 type: theory
+id: openscied-practitioner-needs-maps
 title: "OpenSciEd practitioner needs maps: a conjecture-map-style framework linking seven support themes to three broad outcomes"
 description: "The report organizes practitioner-identified needs into maps showing relationships and dependencies among needs, grouped into seven themes: professional learning, teacher agency/collaboration/management, teacher capac..."
 status: review

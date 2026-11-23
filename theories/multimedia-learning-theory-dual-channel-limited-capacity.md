@@ -1,5 +1,6 @@
 ---
 type: theory
+id: multimedia-learning-theory-dual-channel-limited-capacity
 title: "Multimedia learning theory: dual channels, limited capacity, and active selection, organization and integration"
 description: The article draws on multimedia learning research (Mayer, Sweller) to explain why multimedia presentations can outperform text.
 status: review

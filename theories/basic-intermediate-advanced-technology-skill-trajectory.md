@@ -1,5 +1,6 @@
 ---
 type: theory
+id: basic-intermediate-advanced-technology-skill-trajectory
 title: "Three-stage skill trajectory: Basic, Intermediate, and Advanced technology use"
 description: "The Toolkit's Conceptual Frameworks describe a developmental trajectory of technology sophistication."
 status: review

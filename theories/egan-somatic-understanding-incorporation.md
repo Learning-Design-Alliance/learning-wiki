@@ -1,5 +1,6 @@
 ---
 type: theory
+id: egan-somatic-understanding-incorporation
 title: "Egan's developmental understanding model: later understandings build on and incorporate the Somatic"
 description: "The article draws on Kieran Egan's (1997) model of developmental understanding, in which prelinguistic bodily knowing from infancy undergirds later linguistic experience."
 status: review

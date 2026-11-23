@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-activity-systems-plc-mathematics
 title: Three activity systems for PLC in mathematics, differing in object, mediating artifacts and norms
 description: "The review constructs three distinct activity systems from the 32 studies: system A with the object of developing norms for collaboration, system B with developing teachers' understanding about mathematics and its tea..."
 status: review

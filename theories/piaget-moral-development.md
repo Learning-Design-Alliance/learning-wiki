@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-moral-development
 title: Piaget's Theory of Moral Development
 description: Piaget held that children's moral reasoning shifts from a heteronomous morality of constraint — rules as fixed, authority-given, and enforced by immanent justice — to an autonomous morality that weighs intention and treats rules as revisable social agreements.
 canonical: true

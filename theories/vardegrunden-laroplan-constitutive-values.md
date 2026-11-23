@@ -1,5 +1,6 @@
 ---
 type: theory
+id: vardegrunden-laroplan-constitutive-values
 title: "Värdegrunden: the läroplan as consensual steering document of constitutive democratic values"
 description: "The Swedish läroplan is \"a consensually constructed document and a symbol of broad political agreement\" and a steering document identifying the steering values in education."
 status: review

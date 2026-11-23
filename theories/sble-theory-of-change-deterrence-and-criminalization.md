@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sble-theory-of-change-deterrence-and-criminalization
 title: "Theory of change for school-based law enforcement: deterrence logic with expected safety benefits and possible criminalizing side effects"
 description: The review articulates a general theory of change (Figure 1) for SBLE programs, spanning patrol strategies, school resource officer allocation, police-school liaisons, safe routes programs, and community/problem-orien...
 status: review

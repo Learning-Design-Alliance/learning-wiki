@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-research-types-edtech-product-development
 title: "Three types of research in ed tech product development: learning sciences, user research, and evaluation research"
 description: The guide organizes research-based ed tech product development around three research types that emerged from a crowdsourcing campaign with nearly fifty companies.
 status: review

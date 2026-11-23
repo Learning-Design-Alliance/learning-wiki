@@ -1,5 +1,6 @@
 ---
 type: theory
+id: modelability-three-design-principles
 title: "Modelability: designing learning ecosystems to support generalizable predictive models via three principles"
 description: "Modelability is defined as \"the extent to which a system is designed to support the development of models that are generalizable\"."
 status: review

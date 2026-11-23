@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-educator-styles-hierarchy
 title: "Hierarchy of four educator styles: information provider, facilitator, demonstrator, and doer"
 description: The how dimension of educator activity is captured by four styles derived primarily from field data and ranked by educator initiative.
 status: review

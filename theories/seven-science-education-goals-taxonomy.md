@@ -1,5 +1,6 @@
 ---
 type: theory
+id: seven-science-education-goals-taxonomy
 title: Seven goals for secondary science education with spatial consequences
 description: "The paper organizes science education goals into seven reference words: power, social impact, product, process, enquiry, world view, and individual responsibility for learning."
 status: review

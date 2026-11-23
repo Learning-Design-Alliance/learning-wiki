@@ -1,5 +1,6 @@
 ---
 type: theory
+id: language-function-framework-home-bilingual-use
 title: "Language function framework for describing bilingual children's communicative functions in home settings"
 description: "The study applies \"a language function framework\" to provide \"a descriptive analysis of the communicative functions performed by these children.\" It organizes analysis of home language use around the functions childre..."
 status: review

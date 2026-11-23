@@ -1,5 +1,6 @@
 ---
 type: theory
+id: historical-thinking-definition-doing-history
 title: Historical thinking defined as skills for analyzing and applying historical content knowledge to interpret the past, distinct from content knowledge itself
 description: The report defines historical thinking as the disciplinary skills students use to interpret the past, distinguishing them from historical content knowledge (facts about periods, themes, regions, people, events).
 status: review

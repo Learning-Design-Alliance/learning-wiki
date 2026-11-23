@@ -1,5 +1,6 @@
 ---
 type: theory
+id: graphical-modeling-conditional-dependence-framework
 title: Graphical modeling as learning the conditional dependence structure of multivariate relations
 description: "The article frames graphical modeling as a framework for characterizing multivariate relations: \"The basic idea is to characterize multivariate relations by learning the conditional dependence structure.\" Variables su..."
 status: review

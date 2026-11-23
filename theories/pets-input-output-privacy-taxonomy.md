@@ -1,5 +1,6 @@
 ---
 type: theory
+id: pets-input-output-privacy-taxonomy
 title: Taxonomy of PETs by input privacy versus output privacy
 description: "The article organizes PETs into two categories: input privacy methods, which largely relate to limiting access and use of data under active management, and output privacy, which minimizes the risk of reidentification..."
 status: review

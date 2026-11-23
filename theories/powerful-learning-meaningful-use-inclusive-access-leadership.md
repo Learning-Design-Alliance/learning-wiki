@@ -1,5 +1,6 @@
 ---
 type: theory
+id: powerful-learning-meaningful-use-inclusive-access-leadership
 title: Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership
 description: "The report defines \"powerful learning\" as \"experiences that engage learners' hearts and minds,\" characterized by being personal and accessible, collaborative and connected, authentic and challenging, and inquisitive a..."
 status: review

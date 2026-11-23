@@ -1,5 +1,6 @@
 ---
 type: theory
+id: epistemic-injustice
 title: Epistemic Injustice
 description: Epistemic injustice describes wrongs done to people specifically in their capacity as knowers — through testimonial injustice (unwarranted credibility discounting) or hermeneutical injustice (a gap in shared interpretive resources) — and reframes marginalized people's lived experience as a legitimate epistemic resource rather than a deficit.
 canonical: true

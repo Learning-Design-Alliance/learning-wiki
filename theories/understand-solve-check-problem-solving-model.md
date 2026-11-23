@@ -1,5 +1,6 @@
 ---
 type: theory
+id: understand-solve-check-problem-solving-model
 title: Understand-solve-check model of examinee problem solving
 description: "A general cognitive model of performance on figural response items, adapted from Lewis and Polson's theory of computer interface use and grounded in verbal protocols from one pilot subject."
 status: review

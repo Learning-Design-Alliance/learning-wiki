@@ -1,5 +1,6 @@
 ---
 type: theory
+id: houle-three-orientations-adult-learners
 title: "Houle's typology of adult learners as goal-oriented, activity-oriented and learning-oriented"
 description: "Houle's 1961 study The Inquiring Mind, from which concepts of self-directed learning first emerged, classified adult learners into three orientations."
 status: review

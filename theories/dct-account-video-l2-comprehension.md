@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dct-account-video-l2-comprehension
 title: Dual coding theory as the explanatory account of video-supported L2 text comprehension
 description: "The article uses Paivio's dual coding theory (DCT) to explain why video plus narration plus text fosters comprehension."
 status: review

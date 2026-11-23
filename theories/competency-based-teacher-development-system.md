@@ -1,5 +1,6 @@
 ---
 type: theory
+id: competency-based-teacher-development-system
 title: Competency-based teacher development system built on a competency map, multiple ways to learn, and demonstrations of competence
 description: The paper proposes a teacher development system in which teachers progress based on demonstrations of their abilities rather than seat time.
 status: review

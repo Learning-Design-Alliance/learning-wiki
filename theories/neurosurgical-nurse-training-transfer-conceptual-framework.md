@@ -1,5 +1,6 @@
 ---
 type: theory
+id: neurosurgical-nurse-training-transfer-conceptual-framework
 title: Conceptual framework of training transfer in neurosurgical specialty nurse education
 description: A framework, presented as Figure 1, depicting training transfer as an adaptive reconstruction process shaped by individual readiness, educational design, organizational support, and specialty-specific clinical context.
 status: review

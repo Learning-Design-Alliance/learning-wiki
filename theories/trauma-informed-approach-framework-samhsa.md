@@ -1,5 +1,6 @@
 ---
 type: theory
+id: trauma-informed-approach-framework-samhsa
 title: "SAMHSA-based framework of trauma-informed approaches: four assumptions, six key principles, and three core domains"
 description: "The review defines a trauma-informed approach, drawing on SAMHSA and NCTSN, as a program, organization, or system that \"realizes the impact of trauma, recognizes the symptoms of trauma, responds by integrating knowled..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: holistic-student-support-framework
 title: Holistic student support as the organizing framework for effective advising
 description: "The guide's overarching framework holds that advising is most effective when integrated within holistic student support."
 status: review

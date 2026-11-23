@@ -1,5 +1,6 @@
 ---
 type: theory
+id: technology-imagery-perception-model
 title: Technology-imagery-perception (TIP) model
 description: "The TIP model is \"a psychological perception model rather than a design-performance model\" organizing audience reception of digitally framed traditional art in three layers: a technology layer of perceived immersive,..."
 status: review

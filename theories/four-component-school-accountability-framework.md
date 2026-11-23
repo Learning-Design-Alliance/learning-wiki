@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-component-school-accountability-framework
 title: "Four-component school accountability framework: participation, evaluation, transparency, and feedback mechanisms"
 description: The article defines school accountability as responsibly carrying out roles and tasks and structures it into four core components.
 status: review

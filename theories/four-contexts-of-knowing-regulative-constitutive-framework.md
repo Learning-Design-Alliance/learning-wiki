@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-contexts-of-knowing-regulative-constitutive-framework
 title: Four contexts of knowing framework based on regulativeness and constitutiveness of knowledge and community
 description: The paper articulates a heuristic framework, developed by Silverman (1993), that differentiates areas of study by substantive and communal variation rather than standard divisions such as natural versus social science.
 status: review

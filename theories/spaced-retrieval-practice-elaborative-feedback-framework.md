@@ -1,5 +1,6 @@
 ---
 type: theory
+id: spaced-retrieval-practice-elaborative-feedback-framework
 title: Three complementary cognitive-science learning principles implemented as spaced retrieval practice with elaborative feedback
 description: "The article organizes its intervention around three robust and complementary learning principles: retrieval practice (testing enhances retention and transfer), feedback containing correct answers with elaboration on w..."
 status: review

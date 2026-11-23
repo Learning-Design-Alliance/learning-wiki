@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cbam-change-process-diagnostic-dimensions
 title: "Concerns-Based Adoption Model: change is a process with diagnosable dimensions"
 description: "The Concerns-Based Adoption Model (CBAM) is the article's conceptual framework for understanding innovation adoption in education."
 status: review

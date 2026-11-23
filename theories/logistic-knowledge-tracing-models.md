@@ -1,5 +1,6 @@
 ---
 type: theory
+id: logistic-knowledge-tracing-models
 title: Logistic Knowledge Tracing Models (LFA, PFA, KTM)
 description: "The survey's logistic branch covers Learning Factor Analysis, Performance Factor Analysis and Knowledge Tracing Machines."
 canonical: true

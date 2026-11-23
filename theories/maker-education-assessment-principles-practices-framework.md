@@ -1,5 +1,6 @@
 ---
 type: theory
+id: maker-education-assessment-principles-practices-framework
 title: An assessment-planning framework for maker education built on eight principles and five practices
 description: "The paper's central contribution is an organizing framework answering its essential question about assessing maker education."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: scale-drift-across-years-and-grades-challenge
 title: Scale drift across years and grades as a measurement challenge arising from changing instruction, materials, and standards
 description: The article frames scale drift as the measurement-stability problem that arises when educational measurement scales must remain interpretable across years and grades.
 status: review

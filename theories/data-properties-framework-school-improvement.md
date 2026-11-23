@@ -1,5 +1,6 @@
 ---
 type: theory
+id: data-properties-framework-school-improvement
 title: Framework for understanding the critical properties of data that matter for student achievement
 description: "The article describes a framework offered by Elaine Allensworth for understanding \"the critical properties of data\" and the tools educators need to focus on the metrics most relevant to student achievement."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-hypothesis-testing-language-theory
 title: "Cognitive theory: children are born with processing abilities and learn language by forming and testing hypotheses and rules"
 description: The paper describes the cognitive theory, which, like the nativistic theory, holds that children are born with certain abilities to learn language but disagrees about what these abilities are.
 status: review

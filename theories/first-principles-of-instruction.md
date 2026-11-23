@@ -1,5 +1,6 @@
 ---
 type: theory
+id: first-principles-of-instruction
 title: First Principles of Instruction
 description: First Principles of Instruction is M. David Merrill's synthesis of common ground across instructional design theories, holding that learning is most effective, efficient, and engaging when it is problem-centered and involves activation, demonstration, application, and integration.
 canonical: true

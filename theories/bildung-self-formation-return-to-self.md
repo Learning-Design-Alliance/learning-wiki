@@ -1,5 +1,6 @@
 ---
 type: theory
+id: bildung-self-formation-return-to-self
 title: Bildung as self-formation through encounter with the world and return to oneself
 description: The article presents Bildung, rooted in Von Humboldt and extended by Gadamer, as the development of a personal and academic identity achieved by going out to the external world and reflecting the experience back into...
 status: review

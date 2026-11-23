@@ -1,5 +1,6 @@
 ---
 type: theory
+id: tpack-development-stages-recognizing-to-advancing
 title: Five-stage TPACK development trajectory from recognizing to advancing
 description: "Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, describe TPACK development as five stages: recognizing (knowledge), accepting (persuasion), adapting (decision), exploring (implementation)..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: aigc-affordance-enacted-competence-theory
 title: AIGC affordance as enacted competence within affordance-actualization theory
 description: "The article grounds its model in Affordance-Actualization Theory, defining AIGC affordance as \"students' perceived generative action possibilities in human-AI interaction\" and operationalizing it as enacted competence..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: chat-seven-stage-research-model
 title: Seven-stage CHAT-based research model for technology integration studies (context exploration through interpretation and reporting)
 description: "The article proposes a research model generated from the CHAT case study, moving through seven stages: research context exploration, literature review, defining research questions, establishing a research conceptual f..."
 status: review

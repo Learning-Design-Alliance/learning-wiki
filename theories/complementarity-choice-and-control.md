@@ -1,5 +1,6 @@
 ---
 type: theory
+id: complementarity-choice-and-control
 title: "Complementarity: choice and control as mutually enhancing opposites in student assignment"
 description: "The guide's organizing framework is complementarity, \"wherein opposites are attracted and completed by each other and thereby serve as mutual enhancements.\" Applied to assignment policy, \"control and choice enhance ea..."
 canonical: true

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-types-ai-early-literacy-platforms
 title: "Four types of AI in early literacy platforms: ASR, reinforcement learning, AI classifiers, and LLMs"
 description: "The report organizes the AI embedded in early literacy products into four types: \"Automated Speech Recognition (ASR)\" which converts spoken language to text; Reinforcement Learning enabling adaptive, personalized lear..."
 status: review

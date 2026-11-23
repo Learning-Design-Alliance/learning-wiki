@@ -1,5 +1,6 @@
 ---
 type: theory
+id: systems-change-shifting-conditions-holding-problems-in-place
 title: Systems change defined as shifting the conditions that produce and hold societal problems in place
 description: "The brief's organizing framework is systems change, which it defines as \"shifting the conditions that produce and hold societal problems in place.\" It applies this framework to place-based partnerships in education th..."
 status: review

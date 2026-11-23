@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dialogism-intertextuality-hypertextuality-genealogy
 title: "Dialogism, intertextuality, and hypertextuality: the language-centered genealogy leading to connectivism"
 description: "The article describes a chain of language-centered theories within architectonic thought: Bakhtin's dialogism, in which \"languages do not exclude each other, but rather intersect with each other in many different ways..."
 status: review

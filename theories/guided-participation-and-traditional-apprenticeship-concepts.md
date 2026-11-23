@@ -1,5 +1,6 @@
 ---
 type: theory
+id: guided-participation-and-traditional-apprenticeship-concepts
 title: Guided participation and traditional apprenticeship as core CA concepts
 description: Guided participation refers to the processes and systems of involvement between learners as they communicate and coordinate efforts in culturally valued activity; the article calls it the social element of cognitive a...
 status: review

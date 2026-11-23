@@ -1,5 +1,6 @@
 ---
 type: theory
+id: integrated-testlet-framework
 title: "Integrated testlets: ordered, inter-dependent MC item sets enabled by immediate feedback"
 description: "Integrated testlets are context-dependent item sets in which, per the article, \"certain items are purposefully inter-dependent and are thus presented in a particular order\", unlike traditional testlets whose items are..."
 status: review

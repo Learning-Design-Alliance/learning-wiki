@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-scaffolding-experiential-reality-construction
 title: "Piaget's model of a conceptual scaffolding of objects, space, time, and causality frames the construction of experiential reality"
 description: "In Piaget's Construction of Reality in the Child, von Glasersfeld finds a model of how learners build a coherent experiential reality: \"he presented a model of how a basic scaffoldingthe conceptual structure of object..."
 status: review

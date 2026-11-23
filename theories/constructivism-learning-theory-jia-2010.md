@@ -1,5 +1,6 @@
 ---
 type: theory
+id: constructivism-learning-theory-jia-2010
 title: "Constructivism learning theory: knowledge as assumption, learning as active construction, students as subjects, teachers as helpers"
 description: The article presents constructivism as a learning theory developed from behaviorism through cognitivism, with philosophical roots in Socrates and Kant and psychological roots in Dewey, Piaget, and Vygotsky.
 status: review

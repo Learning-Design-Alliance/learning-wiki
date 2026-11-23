@@ -1,5 +1,6 @@
 ---
 type: theory
+id: network-based-continuous-improvement-education
 title: Network-based continuous improvement in education
 description: "Network-based continuous improvement (CI) is an approach in which \"a network of schools using CI to iteratively test and refine strategies that address a common challenge while learning from one another.\" Schools with..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: neurotheology-distributed-networks-state-trait-framework
 title: "Neurotheology framework: distributed neural networks for spiritual experience and the state-versus-trait distinction"
 description: "Neurotheology is defined in the review as \"the scientific investigation of the relationship between brain function and religious or spiritual experience\"."
 status: review

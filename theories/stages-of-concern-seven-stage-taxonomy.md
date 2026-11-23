@@ -1,5 +1,6 @@
 ---
 type: theory
+id: stages-of-concern-seven-stage-taxonomy
 title: "Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns"
 description: The Stages of Concern (SoC) framework, one dimension of the Concerns-Based Adoption Model, classifies the concerns a person may have about involvement with an innovation into seven ordered stages.
 status: review

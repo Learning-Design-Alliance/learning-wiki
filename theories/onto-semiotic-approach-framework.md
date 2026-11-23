@@ -1,5 +1,6 @@
 ---
 type: theory
+id: onto-semiotic-approach-framework
 title: Onto-Semiotic Approach (OSA) framework for analyzing mathematical knowledge and instruction
 description: The OSA addresses epistemological, ontological and semiotic-cognitive problems in mathematics teaching by proposing a system of theoretical notions and methodological tools.
 status: review

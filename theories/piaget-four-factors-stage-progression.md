@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-four-factors-stage-progression
 title: "Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration"
 description: The handbook identifies the mechanism Piaget proposes for moving from one stage to the next.
 status: review

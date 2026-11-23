@@ -1,5 +1,6 @@
 ---
 type: theory
+id: activity-theory-mediated-activity-system
 title: "Activity theory: a mediated activity system framework for analyzing cognition in context"
 description: "The paper presents activity theory, originating with Leont'ev and extended by Cole, Engestrom, Nardi, Kuutti, and Kaptelinin, as a descriptive framework centered on a \"mediated activity system\" that \"comprises the ind..."
 canonical: true

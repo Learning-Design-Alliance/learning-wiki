@@ -1,5 +1,6 @@
 ---
 type: theory
+id: teaching-styles-warmth-and-control
 title: Teaching Styles as Warmth and Control
 description: Soar and Soar's framework treats classroom warmth and control as two independent dimensions rather than opposite ends of one continuum, yielding four distinct teaching-style profiles — authoritarian, authoritative, permissive, and neglectful — each with a characteristic motivational climate.
 canonical: true

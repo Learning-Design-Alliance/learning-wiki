@@ -1,5 +1,6 @@
 ---
 type: theory
+id: edit-based-hint-policy-framework
 title: Mathematical framework of edit-based hint policies
 description: "The article provides \"precise definitions of key concepts in the field of edit-based hint policies and integrate them into a mathematical framework\"."
 status: review

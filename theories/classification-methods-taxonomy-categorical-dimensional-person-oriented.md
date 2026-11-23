@@ -1,5 +1,6 @@
 ---
 type: theory
+id: classification-methods-taxonomy-categorical-dimensional-person-oriented
 title: "Three-method taxonomy of child classification: categorical, dimensional, and person-oriented"
 description: The article organizes classification of school-age children into three approaches.
 status: review

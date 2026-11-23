@@ -1,5 +1,6 @@
 ---
 type: theory
+id: brt-clue-variable-paradigm-shift
 title: "BRT clue variable paradigm shift: clues become the learning field itself"
 description: "The article proposes a paradigm shift in which Bloom's clue variable, originally a parameter affecting teaching quality, is elevated to directly define the learning unit."
 status: review

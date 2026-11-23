@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-stages-ordinal-hierarchy
 title: "Piaget's stages as an ordinal hierarchy of schemes for coping with the environment"
 description: "Humm's overview paper presents Piaget's framework for physical educators: two functional invariants, adaptation and structure, operate from birth, with adaptation accomplished by assimilation and accommodation."
 status: review

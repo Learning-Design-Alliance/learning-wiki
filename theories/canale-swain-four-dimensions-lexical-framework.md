@@ -1,5 +1,6 @@
 ---
 type: theory
+id: canale-swain-four-dimensions-lexical-framework
 title: "Canale and Swain's four dimensions of communicative competence as a lexical exercise framework"
 description: "Robinson adopts Canale and Swain's (1980) checklist of four dimensions of communicative competence as the organizing framework for vocabulary materials."
 status: review

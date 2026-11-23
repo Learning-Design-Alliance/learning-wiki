@@ -1,5 +1,6 @@
 ---
 type: theory
+id: retrieval-practice-account-hocs-clickers
 title: Retrieval-practice account of why HOCS clicker questions benefit LOCS exam performance
 description: "The article explains its counterintuitive finding with a retrieval-practice mechanism: when students answer higher-order clicker questions, they must \"practice recalling factual material in order to “solve” the proble..."
 status: review

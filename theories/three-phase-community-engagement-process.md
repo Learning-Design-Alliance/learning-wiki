@@ -1,5 +1,6 @@
 ---
 type: theory
+id: three-phase-community-engagement-process
 title: "Three-phase process for community engagement: Before, During, and After"
 description: "The guide organizes community engagement work into three phases: 'Before, During, and After community engagement.' Phase 1 lays groundwork (objectives, questions, engagement type, piloted materials), Phase 2 covers re..."
 status: review

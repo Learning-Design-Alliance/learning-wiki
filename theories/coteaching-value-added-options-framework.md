@@ -1,5 +1,6 @@
 ---
 type: theory
+id: coteaching-value-added-options-framework
 title: Options framework for addressing co-teaching in value-added models
 description: The article organizes the policy problem of co-teaching in value-added models as a set of options available to policymakers, building on earlier work that described the Full Roster Method.
 status: review

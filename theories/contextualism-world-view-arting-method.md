@@ -1,5 +1,6 @@
 ---
 type: theory
+id: contextualism-world-view-arting-method
 title: Contextualism as the world view and general method for studying arting
 description: "The report adopts Pepper's contextualism as its world hypothesis, taking the historic event as root metaphor and treating the drawing process as an act in its context."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: school-closure-spatial-injustice
 title: School closure as spatial injustice
 description: "The paper adopts the framing, attributed to Tieken and Auldridge-Reveles (2019), that closures concentrated in poor communities and communities of color constitute \"spatial injustice.\" The injustice lies in closure de..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: fye-five-course-types-taxonomy
 title: Five-type taxonomy of first year experience courses
 description: "The report organizes first year experience courses into five types identified by Barefoot and Fidler in the early 1990s: \"extended orientation, academic seminars with uniform content, academic seminars with variable c..."
 status: review

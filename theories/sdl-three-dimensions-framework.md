@@ -1,5 +1,6 @@
 ---
 type: theory
+id: sdl-three-dimensions-framework
 title: Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal
 description: "Following formulations by Caffarella and O'Donnell, the authors propose that debate about self-directed learning is \"crucially including three dimensions\": self-initiated learning occurring within or outside formal co..."
 status: review

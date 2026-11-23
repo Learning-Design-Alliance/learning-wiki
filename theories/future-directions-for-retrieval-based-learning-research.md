@@ -1,5 +1,6 @@
 ---
 type: theory
+id: future-directions-for-retrieval-based-learning-research
 title: Future Directions for Retrieval-Based Learning Research
 description: "The chapter closes by \"highlighting four possible avenues\": deepening understanding of mechanisms and linking them to global models of memory; resolving how to balance retrieval success and effort; adopting a contextu..."
 canonical: true

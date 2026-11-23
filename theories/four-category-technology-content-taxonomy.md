@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-category-technology-content-taxonomy
 title: Four-category categorical system for organizing technology content into teachable units
 description: "The monograph proposes a scheme for cutting \"the technological pie into digestable pieces\" for general education, organizing content about technology under four headings: \"energy conversion and power transmissicm,mate..."
 status: review

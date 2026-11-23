@@ -1,5 +1,6 @@
 ---
 type: theory
+id: kotter-8-step-leading-change-framework
 title: "Kotter's 8-Step Process for Leading Change as a framework for school technology implementation"
 description: "Kotter's 8-Step Process for Leading Change is a change management roadmap for leaders, organized into three phases: creating a climate for change, making the change happen, and sustaining the change."
 status: review

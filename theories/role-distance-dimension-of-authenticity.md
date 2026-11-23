@@ -1,5 +1,6 @@
 ---
 type: theory
+id: role-distance-dimension-of-authenticity
 title: "Role distance as one dimension of authenticity: a continuum from complete role embracement to complete role alienation"
 description: "The paper proposes linking Goffman's concept of role distance to Halpin and Croft's concept of authenticity, treating authenticity as a \"derived concept\" positioned on a role distance continuum."
 status: review

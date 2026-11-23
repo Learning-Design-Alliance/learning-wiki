@@ -1,5 +1,6 @@
 ---
 type: theory
+id: mead-four-phase-high-school-framework
 title: "Mead's four-phase framework groups high school students by readiness, protection needs, and responsibility rather than age alone"
 description: In her 1960 essay on the high school of the future, Mead proposed four phases of learners.
 status: review

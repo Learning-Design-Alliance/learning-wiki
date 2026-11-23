@@ -1,5 +1,6 @@
 ---
 type: theory
+id: 4p4ct-four-pedagogies-for-ct-framework
 title: "4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects"
 description: The 4P4CT (Four Pedagogies for CT) framework is a conceptual framework for teaching CT to all students in all subject matters, rooted in constructivism and constructionism.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: first-second-language-acquisition-similarity
 title: "Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar"
 description: The article proposes that adult second language acquisition resembles child first language acquisition in key respects without being identical to it.
 status: review

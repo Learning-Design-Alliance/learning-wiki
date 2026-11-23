@@ -1,5 +1,6 @@
 ---
 type: theory
+id: self-regulated-learning-homework-priority
 title: Self-regulated learning as the priority outcome of remote independent work
 description: "The paper defines self-regulated learning as \"the ability for a student to plan, monitor, reflect on, and adjust their own learning\" and argues it should be the priority during pandemic schooling."
 status: review

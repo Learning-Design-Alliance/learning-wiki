@@ -1,5 +1,6 @@
 ---
 type: theory
+id: critical-speculative-design-pedagogy
 title: Critical Speculative Design Pedagogy
 description: A framework for justice-oriented science learning that combines speculative design (imagining and prototyping alternative futures) with critical consciousness-raising, so that youth redesign unjust sociotechnical patterns rather than only critique them.
 canonical: true

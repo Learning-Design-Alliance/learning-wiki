@@ -1,5 +1,6 @@
 ---
 type: theory
+id: two-eyed-seeing-methodology
 title: Two-eyed seeing methodology
 description: A methodology developed in the Canadian context, formalized by Albert and Murdena Marshall, in which Indigenous and Western knowledges co-exist in an educational setting.
 status: review

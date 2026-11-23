@@ -1,5 +1,6 @@
 ---
 type: theory
+id: learner-positioning-system-lps
 title: "Learner Positioning System (LPS): a GPS-like system positioning each learner with a learner profile, learning map, and resource bank"
 description: The paper envisions Learner Positioning Systems, analogous to a geographic GPS, that help learners position themselves in their learning.
 status: review

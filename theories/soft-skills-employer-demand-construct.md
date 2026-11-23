@@ -1,5 +1,6 @@
 ---
 type: theory
+id: soft-skills-employer-demand-construct
 title: Soft skills as a distinct set of capabilities employers seek in new hires
 description: The publication treats soft skills as a recognizable category of capabilities that employers evaluate when hiring, distinct from technical credentials.
 status: review

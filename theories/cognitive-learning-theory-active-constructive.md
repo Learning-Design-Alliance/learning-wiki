@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-learning-theory-active-constructive
 title: "Cognitive learning theory: learners are active, build on prior learning, and learning is a change in mental structures"
 description: "The paper presents cognitive learning theory, citing Eggen and Kauchak, as the view that \"learners are active in their attempts to understand the world\" and that learning is a change in mental structures rather than o..."
 status: review

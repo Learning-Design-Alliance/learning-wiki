@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cooperative-versus-collaborative-learning-distinction
 title: Distinction between cooperative learning and collaborative learning as two approaches to students working in groups
 description: The primer defines two distinct approaches to students working in groups.
 status: review

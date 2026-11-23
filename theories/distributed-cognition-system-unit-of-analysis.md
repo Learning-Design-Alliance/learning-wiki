@@ -1,5 +1,6 @@
 ---
 type: theory
+id: distributed-cognition-system-unit-of-analysis
 title: "Distributed cognition: cognition as a function of a system of people and tools"
 description: "The paper describes distributed cognition as extending the unit of analysis beyond the individual to the context in which the individual operates, so that \"cognition is seen as less a function of the individual as muc..."
 status: review

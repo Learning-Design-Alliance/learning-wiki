@@ -1,5 +1,6 @@
 ---
 type: theory
+id: functional-relations-consonance-dissonance-typology
 title: "Functional-relations typology: logical, pragmatic, and pure consonance, with dissonance as a post-functional unstable state"
 description: "The paper translates Festinger's system of cognitive relations into functional terms, defining types of consonance among neuronal elements."
 status: review

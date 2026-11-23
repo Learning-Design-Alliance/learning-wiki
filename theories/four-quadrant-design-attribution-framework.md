@@ -1,5 +1,6 @@
 ---
 type: theory
+id: four-quadrant-design-attribution-framework
 title: Four-quadrant inferential framework for interpreting human attribution responses to robot design
 description: "The article crosses two dimensions—whether the robot was designed to be humanlike and whether humans attribute human characteristics to it—yielding four outcomes: aligned anthropomorphism, emergent anthropomorphism, h..."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-apprenticeship-web-teacher-education
 title: Cognitive apprenticeship model (Collins et al.) as a framework for Web-based teacher education
 description: The article applies the cognitive apprenticeship model, in which the teacher first models expert-level practices, then designs scaffolds supporting learners in applying them, coaches throughout, and encourages articul...
 status: review

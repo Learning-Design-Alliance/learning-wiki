@@ -1,5 +1,6 @@
 ---
 type: theory
+id: cognitive-framework-hierarchical-navigation
 title: Cognitive framework of hierarchical navigation as matching of context, topic and/or resource-type concepts to taxonomy categories
 description: "The article proposes a cognitive framework in which navigating a taxonomy-based interface involves \"a cognitive process of matching the context, topic and/or resource type to the taxonomy categories\"."
 status: review

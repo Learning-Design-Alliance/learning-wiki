@@ -1,5 +1,6 @@
 ---
 type: theory
+id: piaget-three-types-of-knowledge
 title: Three types of knowledge — social, physical, and logico-mathematical — require different ways of learning
 description: The handbook distinguishes three kinds of knowledge with different origins and learning pathways.
 status: review

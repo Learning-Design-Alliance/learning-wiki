@@ -1,5 +1,6 @@
 ---
 type: theory
+id: transparency-through-exploration-approach
 title: Transparency through exploration approach for transparent learning analytics
 description: The article adopts a transparency through exploration approach, in which transparency of the LA process is achieved by giving users interactive, exploratory control over how indicators are produced, rather than only e...
 status: review

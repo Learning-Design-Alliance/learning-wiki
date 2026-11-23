@@ -1,5 +1,6 @@
 ---
 type: theory
+id: five-cs-empowerment-counsellor-education-model
 title: "Five Cs model of counsellor education: Collaboration, Competence, Context, Critical Consciousness, and Community"
 description: "The article proposes a general model of counsellor education with three central goals: to empower students, to train counsellors to practice in a manner designed to empower clients, and to provide counsellor education..."
 status: review

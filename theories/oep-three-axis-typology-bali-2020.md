@@ -1,5 +1,6 @@
 ---
 type: theory
+id: oep-three-axis-typology-bali-2020
 title: Three-axis typology of open educational practices
 description: "The article offers a typology of OEP that goes beyond OER use, situating each practice along three axes: \"From content-centric to process-centric; From teacher-centric to learner-centric; From primarily pedagogical to..."
 status: review

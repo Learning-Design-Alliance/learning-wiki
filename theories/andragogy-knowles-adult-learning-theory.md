@@ -1,5 +1,6 @@
 ---
 type: theory
+id: andragogy-knowles-adult-learning-theory
 title: "Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction"
 description: "Andragogy, the art and science of leading and educating adults, is the study's organizing lens."
 status: review

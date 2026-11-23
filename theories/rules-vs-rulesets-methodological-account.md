@@ -1,5 +1,6 @@
 ---
 type: theory
+id: rules-vs-rulesets-methodological-account
 title: "Rules-versus-rulesets methodological account: rulesets answer exploratory sequential questions while regression answers average unique-impact questions"
 description: This account distinguishes what rule induction methods can and cannot answer relative to regression.
 status: review

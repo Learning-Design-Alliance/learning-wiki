@@ -1,5 +1,6 @@
 ---
 type: theory
+id: lst-model-rapid-guessing-decomposition
 title: Latent State Trait (LST) decomposition of test disengagement over repeated administrations
 description: "The study applies a Latent State Trait (LST) model to decompose an individual's relative standing at each test occasion into two components."
 status: review

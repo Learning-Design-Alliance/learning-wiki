@@ -1,5 +1,6 @@
 ---
 type: theory
+id: interpersonal-theory-agency-communion-complementarity
 title: "Interpersonal theory: Agency and Communion dimensions and the principle of complementarity"
 description: "The article uses interpersonal theory (Kiesler, 1996) to map interpersonal behavior and styles on two orthogonal dimensions: Agency, manifesting in strivings for power or control, and Communion, manifesting in strivin..."
 status: review

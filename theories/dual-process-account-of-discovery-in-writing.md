@@ -1,5 +1,6 @@
 ---
 type: theory
+id: dual-process-account-of-discovery-in-writing
 title: Dual-Process Account of Discovery in Writing
 description: Writing generates new understanding through two largely independent processes — spontaneous, dispositionally-guided text production that synthesizes new ideas from implicit knowledge, and deliberate rhetorical revision of text structure — rather than through a single process of controlled, rhetorically-guided composition.
 canonical: true
