@@ -44,7 +44,8 @@ Since the lighter Gemini 3 Flash slightly outperformed the larger Gemini 3 Pro a
 - [LLM error profiles differ by model: GPT-4o shows frequent hallucination, Gemini 2.5 Flash systematic visual-interpretation errors, Gemini 2.5 Pro balanced but reasoning-limited performance](../claims/model-specific-llm-error-profiles-csat.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop unified physics benchmarks and language-specific evaluations for LLMs](unified-physics-benchmarks-for-llm-evaluation.md)
 
 ## Examples
 -

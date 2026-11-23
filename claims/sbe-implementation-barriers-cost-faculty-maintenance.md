@@ -83,3 +83,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Before implementation, lecturers identified content volume as the primary exam-preparation challenge and reported insufficient time and resources for personalised feedback.](lecturer-baseline-needs-exam-preparation.md) — related
 - [Interviews with physics and astrophysics instructors identified time as the biggest challenge to implementing CUREs, with barriers overlapping those reported in biology](physics-instructor-cure-barriers.md) — related
 - Most clinicians caring for febrile children lack paediatric-specific training, and resource gaps including diagnostics, equipment, staffing, and medications impede assessment and treatment — related
+- [Participating teams face challenges including low astronomy interest, internet and electricity costs, lack of computers, and missing Windows operating systems](pacselab-participation-challenges.md) — related

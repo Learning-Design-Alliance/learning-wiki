@@ -58,3 +58,4 @@ Observation from the Table 1 results on QATD2k and MathDial: "DKT achieves compa
 - [ANN prediction accuracy depends on hidden-node count, with 9 hidden nodes optimal and larger or smaller configurations showing overfitting or underfitting](hidden-node-count-ann-overfitting-underfitting.md) — related
 - [Instantiating TASA with DKT as the knowledge tracing model yields the highest average learning gain among five KT variants](dkt-best-kt-backbone-for-tasa.md) — related
 - [ParLD (GPT-4.1) outperforms traditional knowledge-tracing baselines on final-turn performance prediction on MathDial and CoMTA](parld-outperforms-kt-baselines-performance-prediction.md) — related
+- [The optimal number of frozen layers depends on data complexity and target-domain data volume: more frozen layers suit complex, small datasets; fewer suit simpler, larger ones](frozen-layer-count-depends-on-data-complexity-and-volume.md) — related

@@ -92,3 +92,4 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Non-technical skills improved significantly in mixed-experience teams in an exploratory analysis, a finding the authors say requires confirmation with an adequate sample size](nts-improvement-mixed-experience-teams.md) — related
 - [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — a narrower finding that bears on this claim
 - [Interprofessional training is associated with significantly better postcourse communication/teamwork self-efficacy for doctors, but not overall or leadership scores](ip-doctors-communication-teamwork-gain.md) — related
+- [Team leaders report gains in skills, confidence, and interest in astronomy among participants](pacselab-reported-skill-interest-gains.md) — related

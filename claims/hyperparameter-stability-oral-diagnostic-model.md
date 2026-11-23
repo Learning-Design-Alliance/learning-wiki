@@ -57,3 +57,4 @@ Hyperparameter sensitivity analysis of the diagnostic model, presented in Fig. 5
 - [Model clustering performance rises monotonically with hidden dimensionality, with the steepest gains over the first three dimensions](hidden-dimensionality-monotonic-vmeasure-rise.md) — related
 - [TASA performance is stable for retrieval weight λ in the range 0.3–0.7, with optimal results at λ = 0.5](retrieval-weight-lambda-stable-range.md) — a narrower finding that bears on this claim
 - [SurgGraph's accuracy is stable over wide ranges around its two calibrated depth thresholds and degrades only at physically implausible settings](surggraph-threshold-sensitivity-stability.md) — a narrower finding that bears on this claim
+- Systematic grid-search hyperparameter tuning improved the Siamese network's text-similarity accuracy — related

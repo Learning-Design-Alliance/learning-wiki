@@ -70,3 +70,4 @@ The review reports a common practice of comparing operationalizations: studies "
 - [SNA, particularly when combined with content analysis, can provide a detailed understanding of interactions between network members, supporting optimisation of course design, learner-group composition and dropout identification](sna-combined-content-analysis-understanding-interactions.md) — related
 - Indices of centrality and density were the SNA measures most often used in e-learning research — related
 - [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related
+- [Role, exchange, and interaction name generators produce different networks and should not be used as proxies for one another](name-generator-type-produces-different-networks.md) — related

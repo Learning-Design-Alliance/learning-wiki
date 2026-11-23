@@ -43,6 +43,7 @@ The article prescribes a three-phase evaluation recipe for educational initiativ
 
 - [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
 - [Mixed-instrument evaluation plan combining efficacy and interest surveys, interviews, and a staged statistical analysis plan](stem-center-evaluation-instrument-plan.md)
+- [Layered assessment strategy combining diagnostic pre-tests, formative observation, immediate summative assessment, and delayed reflective assessment](layered-lab-assessment-diagnostic-formative-summative-reflective.md)
 
 ## Examples
 -

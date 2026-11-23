@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-23
 recheck_by: 2029
 sources:
   - id: álvaro-suárez-2024
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
+> **Currency** · newest study 2024 · checked against its sources 2026-11-23 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 21,6% of students correctly understood Ampère's law and its limitations when applying it to two surfaces bound by the same curve, while around two thirds showed lack of comprehension of the law and the circulation operator. [→ Álvaro Suárez 2024](#alvaro-suarez-2024)

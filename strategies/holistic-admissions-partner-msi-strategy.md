@@ -51,6 +51,7 @@ Among the paper's recommendations to departments on admissions are three concret
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
 - [Blueprint recommendations for institutions implementing centralized, data-driven holistic review](holistic-review-implementation-blueprint-strategy.md)
+- [Restructure physics departments so that inclusive policies and norms are packaged with recruiting and developing Black graduate students, postdocs, and professors](inclusive-restructuring-recruitment-development-package.md)
 
 ## Examples
 -

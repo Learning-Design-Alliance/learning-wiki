@@ -50,3 +50,4 @@ Descriptive statement in the introduction reviewing the group's existing outreac
 - [The outreach programme reached over 620 students aged 10-15 through more than 25 events in two years, with initial results indicating ignited motivation for physics especially among girls](borgelt-2024-outreach-reached-620-students.md) — related
 - [More than 70% of CMSatDESY followers fall within the 18-34 age range, indicating the target audience is reached](cmsatdesy-followers-18-34-majority.md) — related
 - [Neutralina expanded beyond Instagram into in-person events and YouTube to deepen engagement](neutralina-multiformat-expansion.md) — related
+- Credibility of direct science-communication channels (research institute websites, researcher blogs, public conferences by scientists) grew among the Italian public between 2008 and 2012, while newspaper science inserts stayed flat — related

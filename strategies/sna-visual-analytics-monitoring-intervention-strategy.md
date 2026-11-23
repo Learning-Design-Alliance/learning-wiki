@@ -52,6 +52,7 @@ The article recommends that instructors use social network analysis visualizatio
 ## Related Strategies
 
 - [Network-aware PBL facilitation: use SNA indicators to diagnose isolation and distribute participation](network-aware-pbl-facilitation.md)
+- [Use visual network-elicitation tools in qualitative data collection to empower participants and surface unique perspectives](visual-network-elicitation-tools-strategy.md)
 
 ## Examples
 -

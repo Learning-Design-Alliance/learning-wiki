@@ -111,3 +111,6 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [The GPT-4o rubric scorer aligned reasonably well with expert judgments (84.6% accuracy) and its rubric-level judgments matched TAs' final judgments 88.7% of the time](llm-rubric-scorer-validity-84-6-percent.md) — related
 - [Feedback quality rubric criteria showed significant pre-test-to-post-test gains across models after a single judge-guided regeneration step, with self-regulated next steps showing the largest gain, in one single-group pre-post study.](judge-guided-regeneration-improves-feedback-quality.md) — related
 - [Few-shot prompting produced minimal change in relative model rankings, with Llama showing marked improvement](few-shot-prompting-minimal-ranking-change.md) — related
+- [CLIP-RN50x64 is the best zero-shot model on STEM, outperforming GPT-3.5-Turbo by 5.9 percentage points, but math improves only marginally](clip-best-zero-shot-math-hardest.md) — related
+- Performance of the framework improves with a larger candidate question bank and a larger base model — related
+- Instruction-based fine-tuning on LAZY REVIEW significantly improves LLM lazy-thinking detection over zero-shot and few-shot baselines — related

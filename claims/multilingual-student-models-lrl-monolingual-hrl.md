@@ -48,3 +48,4 @@ Analysis of Δ rows in Table 1 comparing Mistral-7B and Aya-8B gains under LLaMA
 ## Related Claims
 - [English-only student prompting generally outperforms multilingual prompting for student gains, except when instructions and hints are both in the native language](english-only-prompting-beats-multilingual-prompting-llm-tutoring.md) — related
 - [Hint language substantially impacts student gains, with English hints generally most effective from larger tutors but native-language hints competitive in specific cases](hint-language-impacts-student-gains.md) — related
+- [Multilingual mBERT embeddings uniformly outperform monolingual ELECTRA embeddings when parsing Old English with Modern English-trained models](mbert-beats-electra-on-oe-parsing.md) — related

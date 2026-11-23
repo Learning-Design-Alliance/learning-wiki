@@ -17,7 +17,7 @@ sources:
 # Embed software skills training in degree programs so students contribute earlier and gain transferable career skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that because individual universities do not uniformly provide software training before PhD research, the HEP community should initiate learning early in preparing a software-equipped physicist. Imparting software skills while undergrads, master and PhD students pursue their degrees can help jump-start contribution to the experiment and prepare them for a STEM degree or a career inside or outside academia, which the authors call a win-win for readying the workforce. The training fabric has extended from early graduate students to undergraduate and master student level, with outreach reaching K-12 students and teachers.
@@ -51,6 +51,7 @@ The article argues that because individual universities do not uniformly provide
 - [Offer open certification for passing qualifying examinations as a low-overhead credential that can credit generalist preparation outside degree programs.](open-certification-qualifying-examinations.md)
 - [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
 - [Proactively build a professional community as an asset during institutional disruption](build-community-network-asset.md)
+- [Establish a Master's degree in Applied Physics as a pathway to technological careers and a springboard toward PhDs](masters-applied-physics-pathway-strategy.md)
 
 ## Examples
 -

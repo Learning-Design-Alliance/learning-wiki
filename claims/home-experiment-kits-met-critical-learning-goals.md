@@ -70,3 +70,4 @@ Authors' interpretive statement in the remote implementation section: at-home ex
 - [Meeting course learning goals and covering the same content were instructors' primary motivations when designing remote labs](instructor-motivations-learning-goals-content.md) — related
 - [The authors report a clear advantage of automatic timing in onsite labs (photogate) over home kit timing for the measuring g and Newton's 2nd Law experiments](onsite-photogate-timing-accuracy-advantage.md) — related
 - [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related
+- [The article reports, citing Corter and colleagues, that remote hands-on lab experiments are at least as effective as traditional brick-and-mortar labs for student learning](remote-hands-on-labs-at-least-as-effective-corter.md) — related

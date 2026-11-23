@@ -51,3 +51,4 @@ Theoretical/argumentative claim from the introduction: the paper's stated object
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Bi-stable drawings help show that quantum teleportation transports no object, because the destination identity is present from channel preparation](bi-stable-drawings-teleportation-misconception.md) — related
 - [Quantum pictorialism instruction enabled UK high-school students to pass a graduate-level quantum computing exam](quantum-pictorialism-case-study-results.md) — related
+- [The qandies model enables explaining quantum information concepts, including teleportation, to students and the general public without mathematics](qandies-explain-quantum-concepts-without-mathematics.md) — related

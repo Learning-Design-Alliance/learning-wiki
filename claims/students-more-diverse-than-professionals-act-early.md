@@ -50,3 +50,4 @@ Comparative finding from the 2020 CanPhysCounts survey reported in the article: 
 - [The first Canada-wide intersectional survey of physics demographics collected detailed identity data from 2532 physics students and professionals](canadian-physics-counts-first-national-survey.md) — a broader claim this one bears on
 - [Gender-diverse people comprised a larger share of the physics sample (3.5%) than of the Canadian general population, especially among students](gender-diverse-overrepresented-physics-students.md) — related
 - [Sexually diverse respondents were more than twice as prevalent among physics students as among professionals](sexually-diverse-students-double-professionals.md) — a narrower finding that bears on this claim
+- [Women's representation in Indian physics drops from about 31% among research scholars to about 14% among faculty, showing a leaky pipeline](india-physics-leaky-pipeline-31-to-14-percent.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Pre-course SKA question answered by 73 students and post-course three-option que
 - [Scaffolding produced a medium-effect improvement in pre-service teachers' conceptual understanding of electromagnetism and waves and optics](scaffolding-medium-effect-conceptual-understanding.md) — related
 - [College students commonly misconstrue radio images of the Milky Way as depictions of sound rather than light](radio-image-sound-misconception.md) — related
 - [Conceptual appropriation of astrophysics topics reached the rubric's highest levels by Workshop 4, with more explicit and vocabulary-rich responses than in earlier workshops](conceptual-appropriation-gains-ct-sequence.md) — related
+- [Textbook circle representations of waves do not convey that wave speed is unchanging in a medium](circle-representation-hides-unchanging-wave-speed.md) — related

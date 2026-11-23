@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Following the COVID-19 emergency, Lab2Go@home was born, promoting experiments done with poor materials or low-cost tools such as smartphone apps and the Arduino board. [→ Mirco Andreotti 2021](#mirco-andreotti-2021)

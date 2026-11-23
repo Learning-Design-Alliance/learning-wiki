@@ -45,6 +45,7 @@ Open-ended survey responses revealed frequent misunderstanding of sonification, 
 ## Related Strategies
 
 - [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
+- [Provide context, description and repeated listening for sonifications, and introduce ear training from primary school](ear-training-for-sonification-literacy.md)
 
 ## Examples
 -

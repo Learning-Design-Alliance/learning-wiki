@@ -68,3 +68,4 @@ Individual semi-structured interview with Ben six months after the activity. The
 - [A whole class discussion revealing that the model broke down directly challenged Ali and Ben's model-verifying frame](whole-class-discussion-challenges-model-verifying-frame.md) — related
 - [Students entering a physics lab designed for model evaluation may initially frame the lab as verifying a provided model rather than evaluating it](students-frame-labs-as-model-verification.md) — related
 - [A model-verifying frame causes students to ignore instructional hints and resist searching for contradictory evidence](model-verifying-frame-ignores-instructional-hints.md) — related
+- [In a six-month reflective assessment, pilot-cohort students reported that the lab's data analysis, visualization, and instrumentation skills were valuable and applicable across diverse fields.](six-month-reflective-assessment-skills-transfer.md) — related

@@ -48,7 +48,8 @@ The article proposes a structured classroom implementation blending theoretical 
 - [Validation MSE reaches its minimum at epoch 127, and early stopping there prevents overfitting](../claims/early-stopping-validation-minimum-epoch-127.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Restrict initial pendulum displacement according to timing precision: 10° for photodiode, 15° for accelerometer, no restriction below 45° for stopwatch](timing-precision-displacement-restriction-strategy.md)
 
 ## Examples
 -

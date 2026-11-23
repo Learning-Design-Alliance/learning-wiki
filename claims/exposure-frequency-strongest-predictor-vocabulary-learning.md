@@ -49,3 +49,4 @@ In the eye-tracking study of native and non-native English speakers reading an a
 - [Total reading time independently contributed to the learning of word meaning](total-reading-time-predicts-word-meaning.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related
+- [A practice-makes-perfect effect: word frequency in student trials strongly correlates with the words' learning curves](trial-frequency-practice-makes-perfect.md) — related

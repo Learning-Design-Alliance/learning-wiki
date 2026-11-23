@@ -60,3 +60,4 @@ The review attributes this conclusion to Salden, Paas, van der Pal and van Merri
 - [Piloting does not necessarily lead to the intended perception or increase of knowledge, since students follow directives without discussing meaning](piloting-not-necessarily-knowledge-gain.md) — related
 - [A key gap in personalized gamification research is static assignment of students to predetermined groups without fluidity](static-personalization-grouping-gap.md) — related
 - [Interactive simulations do not necessarily eliminate passiveness and can support poor learning outcomes](simulations-not-eliminate-passiveness.md) — related
+- [Static random exemplar selection outperforms similarity-based selection, and adding more exemplars does not enhance performance](static-random-exemplars-beat-similarity-selection.md) — a narrower finding that bears on this claim

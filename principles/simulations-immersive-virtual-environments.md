@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 577 claims (370 for, 182 mixed, 25 against) · 372 studies (167 causal, 81 review, 44 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 372 report an effect size · 571 claims rest on one study
+> **Evidence** · 578 claims (371 for, 182 mixed, 25 against) · 373 studies (167 causal, 81 review, 45 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 373 report an effect size · 572 claims rest on one study
 
 ## Conditional relationship
 
@@ -575,6 +575,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [The trial will test whether increased simulation-based team training is related to decreased sick leave, enhanced patient safety culture, improved Apgar scores, and cost-related benefits](../claims/sbtt-trial-four-planned-outcomes.md) [~W] — attached 2026-11-22 from Schram A. et al. (2024), which proposed "High-quantity, high-frequency in situ simulation-based team training embedded in departmental working hours"; tests this page's relationship.
 - [Repeated in situ simulations of COVID-19 ICU admission surfaced infection control workflow problems, with no additional changes needed after the eighth simulation](../claims/in-situ-simulation-iterative-deficit-detection-icu.md) [+W] — attached 2026-11-22 from Choi Gordon Y.S. et al. (2020), which proposed "Use in situ simulation in the real clinical workplace to evaluate and improve system performance before an anticipated high-risk event".
 - [Observed safety threats during simulated COVID-19 intubation clustered in six domains: PPE donning/doffing, intubation preparation, circuit setup, environmental protection, communication, and drug/equipment access](../claims/simulation-safety-threat-domains-covid-intubation.md) [+W] — attached 2026-11-22 from Choi Gordon Y.S. et al. (2020), which proposed "Use in situ simulation in the real clinical workplace to evaluate and improve system performance before an anticipated high-risk event".
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](../claims/ejs-u-tube-simulation-positive-survey-feedback.md) [+W] — attached 2026-11-23 from Fredy A. Orjuela et al. (2024), which proposed "Use interactive virtual-lab simulations as a supplement to physics laboratories when cost, facilities, or distance create practical barriers".
 
 ## Objective and learner-valued goal
 

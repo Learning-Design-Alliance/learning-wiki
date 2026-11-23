@@ -50,3 +50,4 @@ The authors' report of informal student feedback from their own course implement
 - [wxMaxima fails to compute several rational-function integrals that Axiom and the commercial 3M software can compute](wxmaxima-fails-rational-function-integrals.md) — related
 - [Narrative MSF comments are predominantly positive and rarely constructive, and respondents use very polite language that can mask criticism](narrative-msf-comment-quality.md) — related
 - [Student perceptions of online mathematics tutoring were predominantly positive, with positive comments outnumbering negative comments three to one](student-perceptions-predominantly-positive.md) — related
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](ejs-u-tube-simulation-positive-survey-feedback.md) — related

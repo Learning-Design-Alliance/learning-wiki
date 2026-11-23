@@ -49,3 +49,4 @@ Distribution-level simulation metrics in Table 2 compare Response Gen ZS, Respon
 - [Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation](rl-stages-needed-faithful-student-simulation.md) — related
 - [GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall](grpo-sfs-reward-beats-dpo.md) — related
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
+- [Student performance correlates positively with the teacher's DPO optimization progress and with the share of positive-influence data](teacher-learning-student-performance-correlation.md) — related

@@ -52,3 +52,4 @@ Offline comparative experiment on the English subset of the MARS dataset (4,800 
 - [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related
 - [Removing any single modality degrades CF–KG only moderately, with text removal causing the largest drop (NDCG 0.625 to 0.593)](cfkg-robust-modality-removal.md) — related
 - [Validation MSE reaches its minimum at epoch 127, and early stopping there prevents overfitting](early-stopping-validation-minimum-epoch-127.md) — related
+- Models trained on augmented data converge to the best model in fewer epochs than models trained on original data — related

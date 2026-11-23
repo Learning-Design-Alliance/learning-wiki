@@ -46,3 +46,4 @@ Descriptive account of corpus selection in Section 4.2: Dev and Eval sets were d
 
 ## Related Claims
 - [Existing public L2 English corpora cover narrower speaker ranges than the S&I Corpus 2025](si-corpus-breadth-versus-existing-corpora.md) — related
+- [The baseline cascaded BERT text-grader predicts holistic CEFR speaking scores at RMSE 0.445 with Pearson correlation 0.746 on the S&I Dev set](s-i-2025-baseline-sla-rmse-0-445.md) — related

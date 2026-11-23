@@ -71,6 +71,7 @@ Equity problems in classroom discourse are typically invisible to teachers becau
 - [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
 - [Weigh live, video, and customized nonverbal data collection methods when using EQUIP](equip-data-collection-method-tradeoffs.md)
 - [Use EQUIP data to take action: test new strategies, collect data again, and align professional development to surfaced needs](use-equip-data-to-take-action.md)
+- [Read equity data for what is missing: notice erased populations, non-disaggregated data, and imposed binaries](reading-for-whats-missing-in-equity-data.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — observation analytics are a form of assessment *of teaching*, run through the same formative logic

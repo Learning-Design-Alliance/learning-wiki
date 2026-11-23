@@ -49,3 +49,4 @@ Quantitative evaluation of both chatbots on all 31 BEMA items, each screenshot s
 - [ChatGPT-4o's BEMA performance exceeds the average score of a 12214-student university sample, but students outperform it on ten specific items](chatgpt-4o-exceeds-student-bema-average.md) — related
 - [ChatGPT-4o outperforms students most on formal and mathematical reasoning items, where it averages 93% against students' 28%](chatgpt-4o-formal-math-items-advantage.md) — related
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
+- [ChatGPT-4o shows the overall best TUG-K performance, outperforming all other tested chatbots including its subscription-based counterpart ChatGPT-4](chatgpt-4o-best-tug-k-performance.md) — related

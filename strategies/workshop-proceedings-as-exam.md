@@ -49,6 +49,7 @@ The article proposes and documents an assessment format in which students' exami
 - [Involve students in the full publishing process, including journal selection, copyright and plagiarism discussion, contribution definition, and responding to referee feedback](full-publishing-process-student-involvement-strategy.md)
 - [Pair project-based take-home exams with written reports and oral presentations to assess understanding and expose plagiarism](oral-presentation-pairing-for-project-exams.md)
 - [Establish and use rubrics for lab notebooks, oral talks, written papers, and final projects](rubrics-for-lab-reports-talks-and-projects.md)
+- [Present one cosmology chapter in academic-article format to give students contact with scientific writing](academic-article-format-chapter-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Results section describing the measurement procedure shown in Fig. 3: distance i
 
 ## Related Claims
 - [Students overwhelmingly expect the stopwatch method to be more accurate, but the low-tech height method is actually the best of the three techniques](students-misjudge-height-method-accuracy.md) — related
+- Measured inter-particle spacing and the sound speed derived from it closely match the virtual laboratory's simulated spacing and the literature value. — related

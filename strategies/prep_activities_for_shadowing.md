@@ -62,6 +62,7 @@ Unprepared observers lack the schemas to know where to look, so much of an exper
 - [Debriefing](../strategies/debriefing.md) — the necessary post-observation counterpart; prep sets up what debriefing harvests
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](video-instruction-supervised-practice-prepost-strategy.md)
 - [Engage observers as active learners throughout the post-simulation debrief, seeking their input before the performing participant](observer-engagement-during-debriefing.md)
+- [Build space test proficiency through simulators first, then shadowing by seasoned operators during high-tempo activities (the backseat IP model)](simulator-then-backseat-ip-space-test-training.md)
 
 ## Examples
 - **Clinical education**: medical and nursing students receive the patient chart and a "what would you do next?" prompt before shadowing rounds, then discuss decisions in post-round debriefs; simulation programs formalize this as prebriefing (e.g., standards from the International Nursing Association for Clinical Simulation and Learning).

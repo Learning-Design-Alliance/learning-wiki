@@ -47,6 +47,7 @@ The study recommends that educators include creative and interactive posts that 
 ## Related Strategies
 
 - [Use a LinkedIn group community to complement classroom learning rather than replace it](linkedin-complement-classroom-strategy.md)
+- [Use bi-weekly social media quizzes based on recent articles to stimulate learning and audience engagement](biweekly-instagram-quiz-strategy.md)
 
 ## Examples
 -

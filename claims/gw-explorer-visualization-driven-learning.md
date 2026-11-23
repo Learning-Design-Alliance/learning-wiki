@@ -52,3 +52,4 @@ Qualitative post-survey responses from the UNLV undergraduate cohort echo the hi
 - [A CLASS-based computer lab comparing ΛCDM with exotic cosmological models enabled students to grasp the impact of cosmological parameters on CMB observables](class-exotic-models-cmb-lab-student-understanding.md) — related
 - [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related
 - [Computer simulations visualize dynamic model components and student exercises applying the models support learning to handle models](computer-simulation-supports-model-construction.md) — related
+- [The authors assert that coupling interactive 3D visualizations with manipulable parameters and immediate visual feedback translates abstract concepts into visualizations that facilitate understanding](interactive-widgets-immediate-feedback-facilitate-understanding.md) — related

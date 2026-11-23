@@ -41,6 +41,7 @@ Because most users will not install Python and dependencies locally, OSSCAR iden
 
 - [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](open-source-code-access-peer-instruction.md)
 - [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
+- [Combine custom JupyterLab extensions on an institutional JupyterHub to give students a bespoke, ready-to-use computing environment](institutional-jupyterhub-custom-extensions-strategy.md)
 
 ## Examples
 -

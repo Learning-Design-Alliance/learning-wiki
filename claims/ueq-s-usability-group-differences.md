@@ -50,3 +50,4 @@ Usability was assessed with the validated User Experience Questionnaire-Short (8
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [The slideshow condition received higher usability (SUS) ratings than the VR application despite both scoring above the usability benchmark](slideshow-higher-sus-than-vr.md) — related
 - [VR learning produced higher hedonic-quality and overall user-experience ratings than slideshow learning](vr-higher-hedonic-user-experience.md) — related
+- [Adding pedagogy to the teacher and pragmatism to the learner increases learning efficiency of goal-conditioned agents across all tested modalities](pedagogy-pragmatism-increase-gc-agent-efficiency.md) — related

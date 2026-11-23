@@ -58,3 +58,4 @@ Authors' interpretation of the hierarchical regression results for the 99-studen
 - [Self-formed laboratory groups show demographic homogeneity varying by section: a physics-major section split by gender while a teacher-major section formed heterogeneous groups](lab-group-composition-demographic-variation.md) — related
 - [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — related
 - [AI-generated hint use was equitable across gender and race/ethnicity groups, with most students trying at least one hint](ai-hints-use-equitable-across-groups.md) — related
+- [Gender and ethnicity did not predict centrality in a physics learning-center homework-help network (Brewe and coauthors)](gender-ethnicity-not-predict-centrality-brewe-2012.md) — related

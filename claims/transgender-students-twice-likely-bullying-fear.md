@@ -62,3 +62,4 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — related
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related
 - [Harassment within the past year affected 23% of LGB respondents and 31–39% of transgender individuals, per a 2010 study the Guide cites](lgb-harassment-rates-2010-study.md) — related
+- Online harassment prevalence varies by demographics: 64% of individuals under 30 have experienced some form of online harassment, around 70% of lesbian, gay, or bisexual adults report experiencing it, and men report more harassment of any kind than women — related

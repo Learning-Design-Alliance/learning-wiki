@@ -48,3 +48,4 @@ Descriptive results of the ERN 2018 ex-post questionnaire, in which "60% replied
 - [Most ERN 2018 ex-post respondents said the event strongly contributed to showing that science is fun and that it actively involves citizens](ern-2018-ex-post-science-is-fun-and-involvement.md) — possibly the same claim (merge candidate)
 - Word of mouth was the most effective channel for awareness of ERN (37%), followed by social networks (23%), with over 52% of attendees informed by the awareness campaign — related
 - [The event's contribution to a clearer understanding of what research is rose from 21% of participants in 2010 to 56% in 2015](ern-clearer-understanding-increase.md) — related
+- Credibility of direct science-communication channels (research institute websites, researcher blogs, public conferences by scientists) grew among the Italian public between 2008 and 2012, while newspaper science inserts stayed flat — related

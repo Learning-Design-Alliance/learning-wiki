@@ -53,6 +53,7 @@ The article's intervention model pairs anti-racism didactic content with experie
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 - [Integrate obesity simulation suits into broader multimodal designs with structured prebriefing, guided reflection, and debriefing rather than using them as standalone interventions](oss-embed-in-multimodal-design.md)
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
+- [Combine a virtual laboratory with a physical experimental system so students develop their own understanding of the phenomenon](virtual-lab-plus-experiment-acoustics-strategy.md)
 
 ## Examples
 -

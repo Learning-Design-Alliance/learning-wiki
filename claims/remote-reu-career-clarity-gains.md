@@ -72,3 +72,4 @@ Reported outcome of the remote REU interviews: the article states these gains ar
 - [Remote REU mentees' objectives fell into three categories: gaining research experience and career clarity, learning about physics subfields, and making connections with a broader community](three-mentee-objective-categories-remote-reu.md) — related
 - [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
 - [REU attendees report exposure to academia beyond their home institution as a benefit, including demystifying graduate school](reu-exposure-to-academia-demystifying.md) — related
+- [Students reported the PCTO research experience as formative and as shaping their interest in research careers](pcto-student-reflections-research-career.md) — related

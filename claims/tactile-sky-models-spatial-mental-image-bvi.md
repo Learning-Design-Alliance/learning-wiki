@@ -50,3 +50,4 @@ The article's project-experience account (type e) states that hemisphere models 
 - [The tactile sky models were well accepted by sighted students and teachers in outreach activities](tactile-models-accepted-sighted-students-teachers.md) — related
 - [A BVI student found it very difficult to locate sonified areas because no spatial reference showed where the camera and screen were.](edukoi-bvi-student-spatial-reference-difficulty.md) — related
 - [Careless selection of astronomy images can promote undesirable alternative concepts, so image selection and detailed descriptions are crucial](image-selection-prevents-alternative-concepts-astronomy.md) — related
+- [BVI users in a pilot test correctly associated faster vibrations with closer stars and slower vibrations with more distant stars](vibration-distance-mapping-intuitive-bvi.md) — a narrower finding that bears on this claim

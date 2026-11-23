@@ -54,3 +54,4 @@ ROC analysis in the Results section (Fig. 1) plus Table 1 calibration metrics. L
 - [The model's posterior confidence estimates are conservative: over 95% of predictions the model claims 90–95% confidence in are correct](peer-grading-confidence-estimates-conservative.md) — related
 - [NIG-head predictive uncertainty is dominated by epistemic uncertainty and shows negligible correlation with the absolute engagement score (Pearson r 0.016 aleatoric, 0.025 epistemic)](epistemic-dominant-uncertainty-uncorrelated-with-engagement.md) — related
 - [Stated confidence discriminates correct from incorrect responses (GPT-5.2 AUROC approximately 0.87 to 0.90), though most configurations are net underconfident](llm-confidence-discriminates-correctness.md) — related
+- The meta-trained model's predictive probabilities are well calibrated, with confidence and accuracy both rising as more questions are asked — related

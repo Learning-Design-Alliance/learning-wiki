@@ -65,3 +65,4 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
+- [Uncertainty-driven advice collection changes when advice is requested from the teacher, spreading requests across training rather than consuming the budget early](uncertainty-driven-advising-changes-advice-schedule.md) — related

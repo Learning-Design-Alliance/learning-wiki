@@ -50,3 +50,4 @@ Theoretical argument in a perspective article: the authors contend AI equips stu
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
 - [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
+- [Real-world case studies in forensic physics enhance student engagement and motivation at the undergraduate level](real-world-forensic-cases-enhance-engagement.md) — related

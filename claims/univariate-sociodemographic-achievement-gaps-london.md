@@ -47,3 +47,4 @@ Descriptive summary of age 11 scores across component identities (Table 1) repli
 
 ## Related Claims
 - [Stratum relative standing shifts between the age 11 and age 16 cohorts: the largest negative shift (-0.48 SD) is for summer-born FSM-eligible boys of Unclassified ethnicity without SEN, and the largest positive shift (0.53 SD) for autumn-born Asian girls with SEN not eligible for FSM](stratum-shifts-between-cohorts-london.md) — related
+- [Variance in student adjusted achievement is higher for SEN and FSM students and lower for summer born, girls, Black, and Asian students](sen-fsm-students-higher-adjusted-achievement-variance.md) — related

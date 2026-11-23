@@ -49,3 +49,4 @@ The article's framing statement, offered without reported data or test statistic
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
 - [Open-ended student feedback yielded four themes: PBL is acceptable, challenging but beneficial, improves soft skills, and suits only students with basic accounting knowledge](pbl-qualitative-feedback-four-themes.md) — related
 - [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related
+- [Students found the fractal drum project challenging but motivating, and reported that its scope and difficulty improved their confidence in their own coding abilities](fractal-drum-project-student-confidence-motivation.md) — related

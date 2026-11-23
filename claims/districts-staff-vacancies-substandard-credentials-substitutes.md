@@ -56,3 +56,4 @@ Survey results on staffing solutions (Figure 5): substandard credentials 55%, su
 - [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related
 - [Out-of-field teaching is more common in high-poverty schools and lower tracks, concentrating the least qualified teachers with disadvantaged students](out-of-field-teaching-poverty-concentration.md) — a broader claim this one bears on
 - [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related
+- [South Bangka's average teacher-student ratio is reasonable at 1:24, but sub-district ratios range from 1:20 to 1:29, indicating unequal teacher distribution](south-bangka-teacher-ratio-1-24-subdistrict-disparities.md) — related

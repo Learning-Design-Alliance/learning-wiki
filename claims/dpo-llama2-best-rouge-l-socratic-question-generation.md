@@ -50,3 +50,4 @@ Benchmark comparison in the Results section on the Socratic code-debugging datas
 - [GPT-4 (CoT) prompting achieves the highest recall but the lowest F1 score among GPT baselines because most of its generated questions do not match ground truth](gpt4-cot-highest-recall-lowest-f1.md) — related
 - [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — related
 - [Sampling multiple Socratic questions (Sample-5) yields better performance than greedy decoding](sample-5-beats-greedy-decoding-socratic.md) — related
+- [Student performance correlates positively with the teacher's DPO optimization progress and with the share of positive-influence data](teacher-learning-student-performance-correlation.md) — related

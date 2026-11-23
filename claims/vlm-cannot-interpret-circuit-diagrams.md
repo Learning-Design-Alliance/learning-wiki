@@ -59,3 +59,4 @@ Demonstration examples in the limitations section: when asked to list elements a
 - [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — a broader claim this one bears on
 - [API-based evaluation fails on graphical and mathematical content because the model cannot parse images, tables, graphs and embedded equations](chatgpt-api-cannot-parse-figures-equations.md) — a broader claim this one bears on
 - [Olympiad participants reliably solve the circuit problem but none solved the technical-application task, indicating a need to complement physics education](epo10-application-task-unsolved-by-participants.md) — related
+- [Chatbots perform better on tasks relying on linguistic input than on tasks requiring visual interpretation of graphs](chatbots-linguistic-tasks-easier-than-graph-interpretation.md) — a narrower finding that bears on this claim

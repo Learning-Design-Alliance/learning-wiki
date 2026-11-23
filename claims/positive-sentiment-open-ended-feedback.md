@@ -76,3 +76,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related
 - [Thematic coding of open-ended feedback showed positive learning outcomes reported by 58.54%, 63.64%, and 100.00% of respondents across the three academic years](qlab-qualitative-thematic-positive-outcomes.md) — related
 - [Students in focus groups wanted more interactive activities like SPARC while valuing teachers' foundational instruction](sparc-focus-groups-teacher-complement.md) — related
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](ejs-u-tube-simulation-positive-survey-feedback.md) — related

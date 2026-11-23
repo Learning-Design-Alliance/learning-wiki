@@ -50,3 +50,4 @@ Participant feedback survey collected from 16 participants a week after the hack
 - [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — related
 - [Hackathon participants reported increases in understanding, interest, skills, and confidence, and most expected to apply what they learned within the following year](hackathon-self-reported-gains-and-adoption.md) — related
 - [All 52 surveyed visitors said they would like more events like the public-square physics activity](public-square-unanimous-demand-more-events.md) — related
+- 94% of all participants and 100% of African-affiliated/origin participants said they would be interested in attending a similar conference in future — related

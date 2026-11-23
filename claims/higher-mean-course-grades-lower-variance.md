@@ -48,3 +48,4 @@ Analysis of final grades of 217 applied-physics students in 27 core courses at W
 ## Related Claims
 - [The first principal component of course grades explains almost 40% of total variance and tracks students' mean grade](first-pc-explains-40-percent-variance.md) — related
 - [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
+- [School means and variances of student adjusted achievement are negatively correlated, so high-mean schools tend to be low-variance schools](negative-school-mean-variance-association-london.md) — related

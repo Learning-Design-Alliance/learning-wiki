@@ -48,6 +48,7 @@ The article describes a set of Canadian national groups working for equity in ST
 
 - [Use women scientists as role models sharing life stories with girls](women-scientists-role-model-life-story-interactions.md)
 - [National-level actions: create astrostatistics chapters and working groups, partner with CANSSI, set conference guidelines, and build a national Centre of Excellence](national-astrostatistics-training-actions.md)
+- [Astronomical Society of India Working Group on Gender Equity activities](asi-wgge-gender-equity-activities.md)
 
 ## Examples
 -

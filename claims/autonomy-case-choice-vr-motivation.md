@@ -55,3 +55,4 @@ Interpretive finding from the interview analysis, reported in the Discussion. Fo
 - [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — related
 - [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — related
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related
+- [Participants with disabilities reported that SonoUno allowed them to explore data and choose options at will, an autonomy they said few research tools offer](sonouno-choice-needs-autonomy.md) — a narrower finding that bears on this claim

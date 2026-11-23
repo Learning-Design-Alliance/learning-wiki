@@ -53,3 +53,4 @@ The report's synthesis of prior research, citing a Texas study tracking middle s
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — a narrower finding that bears on this claim
 - [Youth offenders show greatly elevated rates of undiagnosed language disorder](youth-offenders-elevated-language-disorder.md) — related
+- [Gatekeeping in STEM comprises power-backed behaviors, practices, and traditions that guard disciplinary boundaries and push marginalized scientists out](gatekeeping-boundary-guarding-pushes-scientists-out.md) — related

@@ -50,3 +50,4 @@ Timing outcome measured with the simulator's built-in timer during the month-6 a
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [In one single-group pre-post study with no comparison group, hands-on image acquisition scores did not change from post-training to month 6, while name recall scores fell 29% and probe adjustment scores fell 38%](rtee-decay-varies-by-domain.md) — related
 - [A single spaced-repetition simulation session one month after the washout reduces rTEE skill decay from 41% to 19%, though scores do not return to baseline](spaced-repetition-reduces-rtee-decay.md) — related
+- Published short articles achieve a mean reading time of 2 minutes 12 seconds, matching the project's two-minute goal — related

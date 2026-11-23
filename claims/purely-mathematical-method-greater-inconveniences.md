@@ -56,3 +56,4 @@ Majorana's notes argue the mathematical method, which presents the formalism fro
 - [Instructors collectively identify eight sources of quantum misconceptions spanning teaching methods, educational materials, and students](eight-instructor-reported-misconception-sources.md) — related
 - [Teaching quantum computing is reported to face challenges including counter-intuitive principles, advanced mathematics, scarce beginner materials, and misconceptions](quantum-computing-teaching-challenges.md) — related
 - [Most students did not perceive the mathematical formalism as an obstacle, instead coming to see mathematics as an interpretative language](mathematics-as-interpretive-language-quantum.md) — related
+- [No quantum mechanics textbook fully describes how to measure the momentum of a particle in a clear way, and imprecise language makes most instruction incomplete](no-textbook-fully-describes-momentum-measurement.md) — related

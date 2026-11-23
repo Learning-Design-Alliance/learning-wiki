@@ -49,3 +49,4 @@ Table S7 (Study 2) reports the distribution of overchallenge and underchallenge 
 - [Test boredom relates positively to over- and underchallenge and negatively to intrinsic and extrinsic value](test-boredom-antecedents-control-value.md) — related
 - The number of manipulation trials showed little variation across participants and was deliberately not statistically controlled — related
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
+- Juror Likert responses to forensic evidence show scale compression, with most responses in the top two scale categories regardless of experimental condition — related

@@ -81,3 +81,4 @@ Correlational analysis of model size versus F1 across the 18 models. The article
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — reports the opposite
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — reports the opposite
 - [Multimodal RAG with slide images outperforms text-only slide retrieval for a vision-capable LLM](multimodal-rag-slide-images-outperform-text.md) — a narrower finding that bears on this claim
+- [Chatbots perform better on tasks relying on linguistic input than on tasks requiring visual interpretation of graphs](chatbots-linguistic-tasks-easier-than-graph-interpretation.md) — reports the opposite

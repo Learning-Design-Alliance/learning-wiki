@@ -50,3 +50,4 @@ Retrospective survey of 307 former IAYC participants (58 nationalities, ages 16-
 - [A majority of surveyed minority-group members, and about a third of those with impostor syndrome, felt the camp helped them reach their goals](iayc-minority-impostor-syndrome-support.md) — related
 - [Former participants report international outcomes including travel abroad, international collaboration and living in a different country](iayc-international-outcomes.md) — related
 - [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related
+- One year after the conference, respondents reported new collaborations and career gains: 58% discussed project ideas with intent to collaborate, 16% had started a joint project, and 100% reported new ideas, contacts and CV listing — related

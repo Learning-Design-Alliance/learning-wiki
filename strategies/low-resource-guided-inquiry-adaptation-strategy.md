@@ -59,6 +59,7 @@ The article recommends that resource-limited schools implement guided inquiry la
 - [For online lab courses, use interactive virtual labs, simulations, and reflective assignments based on pedagogical journal articles](virtual-labs-simulations-journal-article-reflection-labs.md)
 - [Adapt the forest physics exercise to other settings and disciplines by preserving its salient points](adapt-forest-physics-exercise-local-context.md)
 - [Attend to student characteristics, resource availability, and time allocation when implementing guided inquiry](guided-inquiry-implementation-conditions-strategy.md)
+- [Combine a virtual laboratory with a physical experimental system so students develop their own understanding of the phenomenon](virtual-lab-plus-experiment-acoustics-strategy.md)
 
 ## Examples
 -

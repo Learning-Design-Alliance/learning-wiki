@@ -70,3 +70,4 @@ Section 4.5 auxiliary diagnostics of instruction following (IFEval) and scientif
 - [LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales](lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales.md) — related
 - [A single difficulty-weighted SFT run on a vision-language base model reaches 61.64% overall accuracy on TutorBench, surpassing Gemini-3 Pro (58.52%)](difficulty-weighted-sft-transfers-tutorbench.md) — related
 - [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](omniedu-largest-gains-scaffolding-longitudinal-evidence.md) — related
+- [Post-training on dialogue games causes a substantial drop in instruction-following ability as measured by IFEval](dialogue-game-training-drops-ifeval.md) — reports the opposite

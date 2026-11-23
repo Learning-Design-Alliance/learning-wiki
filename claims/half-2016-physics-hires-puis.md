@@ -48,3 +48,4 @@ The employment section recreates an AIP Fall 2017 Physics Trends graphic (Figure
 ## Related Claims
 - [PUIs and other non-Ph.D.-granting institutions host the majority of US post-secondary educational opportunity](puis-majority-postsecondary-opportunity.md) — related
 - [PUI faculty are under-represented on Decadal Survey panels and committees (2 of 115 members in 2010)](pui-underrepresentation-decadal-panels.md) — related
+- [PUI faculty have roughly half the research time of R1 faculty due to disproportionate teaching and service burdens](pui-faculty-research-time-half-of-r1.md) — related

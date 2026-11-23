@@ -49,3 +49,7 @@ Self-report survey of team leaders across recruiting units, described in Section
 - [Asteroid search is the leading PACS e-Lab project with 90.7% participation](asteroid-search-leading-project-90-7-participation.md) — related
 - [Geographical participation ranks East Africa highest, followed by North, West, Southern, and Central Africa](asteroid-search-participation-east-africa-leads.md) — related
 - [Over 60 PACS e-Lab-affiliated citizen scientists have made 32 provisional asteroid discoveries, most working in teams](pacselab-32-provisional-asteroid-discoveries.md) — related
+- PACS e-Lab has recruited 691 citizen scientists organized in 70 units across 45 African countries as of June 2024 — related
+- [Asteroid search is the leading PACS e-Lab project by participation, partly because it is a prerequisite for other projects](pacselab-asteroid-search-leading-project.md) — related
+- Recruitment of citizen astronomers rose steadily from 2020, with a sharp drop in 2024 attributed to project development and mid-year timing — related
+- [Recruited citizen scientists are unevenly distributed across Africa's five zones, with West Africa leading and Central Africa last](pacselab-west-africa-leads-recruitment.md) — related

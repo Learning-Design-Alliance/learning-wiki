@@ -58,3 +58,4 @@ Observational analysis of stop-out behavior among CPS graduates in the classes o
 - [A hurdle mentality of focusing learning elsewhere once a module is assessed is the main barrier to using feedback](hurdle-mentality-feedback-barrier.md) — related
 - [Across its first three editions Athena enrolled on average 70–80 pupils per year, with 80–90% obtaining participation certificates and withdrawal around 15–20%](athena-participation-completion-rates.md) — related
 - [Enrollment delay prospectively predicts late drops, while late drops do not predict subsequent delay](enrollment-delay-prospectively-predicts-late-drops.md) — related
+- [Community college students face high attrition, and participating in STEM research increases their chances of working toward a higher degree](cc-research-participation-increases-degree-pursuit.md) — related

@@ -47,6 +47,7 @@ The article's implementation recipe for VR labs pairs students so that while one
 - Universe Sandbox Moon Phase Vr Activity
 - Unity Stellar Parallax Vr Activity
 - [Sequence immersive VR viewing with an introductory lecture and teacher-facilitated reflective group dialogues to make VR experiences collaborative](vr-viewing-lecture-reflection-sequence.md)
+- [Run pre-conference networking and training activities (buddy pairing, introductory videos, talk/poster guidance) before an international meeting](preconference-networking-training-strategy.md)
 
 ## Examples
 -

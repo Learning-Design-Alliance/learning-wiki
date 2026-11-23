@@ -66,6 +66,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 - Text sets for content units — curation applied to disciplinary reading
 - Book talks and read-alouds — the promotion layer that drives circulation of curated titles
 - [Select books with detailed, varied, culturally relevant illustrations for dialogic reading with young children](select-detailed-culturally-relevant-books-for-dialogic-reading.md)
+- [Arrange popular-science articles into three difficulty levels matched to readers' background](three-difficulty-levels-articles-strategy.md)
 
 ## Examples
 - **DonorsChoose / First Book Marketplace** (https://www.firstbook.org) — common channels teachers use to fund and acquire diverse, low-cost titles for classroom collections.

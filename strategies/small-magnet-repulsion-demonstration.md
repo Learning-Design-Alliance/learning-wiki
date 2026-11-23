@@ -42,7 +42,8 @@ A classroom demonstration using small magnets on notepad paper: two configuratio
 - [The authors judge the rewritten formula suitable for presentation to even younger students and useful for explanations in molecular dynamics applications](../claims/rewritten-form-suitable-for-younger-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the app's parameter manipulation to teach three classroom topics: magnetic force, magnetic flux, and dipole moment/torque](electric-motor-app-three-classroom-topics-strategy.md)
 
 ## Examples
 -

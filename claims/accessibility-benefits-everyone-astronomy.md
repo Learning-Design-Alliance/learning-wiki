@@ -51,3 +51,4 @@ Interviewee GF asserts that improved accessibility helps everyone and that makin
 - [Both BVI and non-BVI audiences found the show's sound representations useful and enjoyable, with roughly 90% scoring 4 or 5](sounds-useful-enjoyable-bvi-non-bvi.md) — related
 - [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related
 - [High-school students rate multi-sensory astronomy exploration as highly engaging and report increased confidence that astronomy is accessible for blind and visually impaired people](hs-students-multisensory-engaging-accessibility-confidence.md) — related
+- Astronomy and data-analysis experts performed no better than non-experts at identifying mock planet-transit signals in sonified noisy light curves, though they outperformed non-experts with standard visualisations — related

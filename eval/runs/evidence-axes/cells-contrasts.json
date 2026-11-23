@@ -133146,5 +133146,245 @@
  "media-design\ttext-heavy explanatory design with data-use and credit information\tless text-heavy design with explanatory information restored later": {
   "label": "Text-heavy explanatory design with data-use and credit information vs less text-heavy design",
   "treatment_is_a": true
+ },
+ "active-learning\tparticipation in PACS e-Lab asteroid-search activities\tno comparison stated": {
+  "label": "active learning vs no active learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation in PACS e-Lab astronomy projects\tno comparison stated": {
+  "label": "active learning vs no active learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tSonoUno user-controlled data exploration and interaction\texisting tools or working without accessible access": {
+  "label": "user-controlled vs non-user-controlled learning",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tYODA with the generalized-question stage\tYODA without the generalized-question stage": {
+  "label": "with generalized-question stage vs without generalized-question stage",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tYODA with the harder-question stage\tYODA without the harder-question stage": {
+  "label": "with harder-question stage vs without harder-question stage",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tcurriculum learning ordered by increasing complexity\trandomly shuffled vanilla learning": {
+  "label": "increasing-complexity curriculum vs randomly shuffled learning",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tstatic exemplar selection\tdynamic exemplar selection using BM25, embedding similarity, or Vote-K": {
+  "label": "dynamic exemplar selection vs static exemplar selection",
+  "treatment_is_a": false
+ },
+ "example-problem-sequencing\tstatic random exemplar selection\tBM25, Top-K embedding similarity, and Vote-K selection": {
+  "label": "BM25/embedding/Vote-K exemplar selection vs static random exemplar selection",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tGATA trained with instructions retained\tGATA trained with instructions stripped": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGATAD trained with instructions\tGATAD-S trained with instructions stripped": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconcise comments in code rationales\tno comments in code rationales": {
+  "label": "code rationales/comments vs no code rationales/comments",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdescriptive variable and function names\tobscure variable and function names": {
+  "label": "descriptive naming vs obscure naming",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thardcoded code solutions\tgeneralized reusable-function solutions": {
+  "label": "hardcoded solutions vs generalized reusable-function solutions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tqualitative physical-reasoning analysis of SHM\trigorous mathematical analysis of SHM": {
+  "label": "qualitative analysis vs rigorous mathematical analysis",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvibration mapping explained\tautonomous exploration before explanation": {
+  "label": "explanation before exploration vs autonomous exploration before explanation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tStudent trials without teacher demonstrations\tCausal language modeling baseline": {
+  "label": "Student trials vs causal language modeling only",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tTnD with student trials and teacher demonstrations\tcausal language modeling only": {
+  "label": "Trial-and-demonstration learning vs causal language modeling only",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tYODA with iterative feedback and answer refinement\tYODA without refinement": {
+  "label": "Iterative feedback and answer refinement vs no refinement",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstudent trials only\tcausal language modeling only": {
+  "label": "Student trials vs causal language modeling only",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tteacher demonstrations only\tcausal language modeling only": {
+  "label": "Teacher demonstrations vs causal language modeling only",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tteacher-student evaluation-refinement\tGPT-4-only responses": {
+  "label": "Teacher-student evaluation and refinement vs GPT-4-only responses",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttrial-and-demonstration learning\tcausal language modeling only": {
+  "label": "Trial-and-demonstration learning vs causal language modeling only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTnD with 40 CDI words masked out from teacher demonstrations\tstandard TnD with teacher demonstrations containing the CDI words": {
+  "label": "masked vs unmasked teacher demonstrations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTnD with 40 CMN words masked out from teacher demonstrations\tstandard TnD with teacher demonstrations containing the CMN words": {
+  "label": "masked vs unmasked teacher demonstrations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTnD with 40 target words masked out from teacher demonstrations\tstandard TnD with teacher demonstrations containing the target words": {
+  "label": "masked vs unmasked teacher demonstrations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlazy-thinking feedback\tguideline-based rewrites": {
+  "label": "guideline-based rewrites vs lazy-thinking feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tnegative feedback ('no')\tpositive feedback ('yes')": {
+  "label": "positive vs negative feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tpositive verbal feedback\tnegative verbal feedback": {
+  "label": "positive vs negative feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprosody-augmented TAMER using speech content and prosody\tTAMER baseline using speech content only": {
+  "label": "prosody-augmented vs speech-content-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\t“yes” utterances\t“no” utterances": {
+  "label": "positive vs negative feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tQuark Matter particle-interaction card game\tno comparison stated": {
+  "label": "gamified/game-based learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tlearning particle-interaction rules through the card game\tnot stated": {
+  "label": "gamified/game-based learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying particle-physics card games\ttraditional presentation of particle-physics topics not stated": {
+  "label": "gamified/game-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying the Quark Matter card game\tno comparison condition stated": {
+  "label": "gamified/game-based learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0 to 2 years of professional experience\tmore than 20 years of professional experience": {
+  "label": "0–2 years of professional experience vs more than 20 years of professional experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0–2 years of professional experience\tmore than 20 years of professional experience": {
+  "label": "0–2 years of professional experience vs more than 20 years of professional experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0–2 years of professional practice\tover 20 years of professional practice": {
+  "label": "0–2 years of professional experience vs more than 20 years of professional experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 SD higher SES\taverage SES": {
+  "label": "higher SES vs average SES",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 SD higher household economic status\tlower household economic status": {
+  "label": "higher household economic status vs lower household economic status",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 patient safety education session in the past year\t4 or more sessions in the past year": {
+  "label": "one patient-safety education session vs four or more sessions",
+  "treatment_is_a": false
+ },
+ "learner-difference\t1-SD higher adolescent school achievement\taverage school achievement": {
+  "label": "higher adolescent school achievement vs average school achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-SD higher overall competency rating\t1-SD lower overall competency rating": {
+  "label": "higher overall competency rating vs lower overall competency rating",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-SD higher overall competency rating\tlower overall competency rating": {
+  "label": "higher overall competency rating vs lower overall competency rating",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-point higher TEAM global rating\t1-point lower TEAM global rating": {
+  "label": "higher TEAM global rating vs lower TEAM global rating",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-point higher TEAM leadership score\t1-point lower TEAM leadership score": {
+  "label": "higher TEAM leadership score vs lower TEAM leadership score",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-unit higher persistence at 2–3 years\tlower persistence at 2–3 years": {
+  "label": "higher persistence at 2–3 years vs lower persistence at 2–3 years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1-year residents\tresidents with 4 or more years": {
+  "label": "1-year residents vs residents with 4 or more years",
+  "treatment_is_a": false
+ },
+ "learner-difference\t10-minute increase in sleep duration among rural students\t10 minutes less sleep among rural students": {
+  "label": "increased sleep duration vs decreased sleep duration",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10-minute increase in sleep duration among urban students\t10 minutes less sleep among urban students": {
+  "label": "increased sleep duration vs decreased sleep duration",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10-percentage-point decrease in birth-year malaria prevalence\thigher birth-year malaria prevalence": {
+  "label": "lower birth-year malaria prevalence vs higher birth-year malaria prevalence",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10th-grade students\t9th-grade students": {
+  "label": "10th-grade students vs 9th-grade students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t11 years or more since nephrology training\tless than 2 years since nephrology training": {
+  "label": "11 or more years since nephrology training vs less than 2 years since nephrology training",
+  "treatment_is_a": true
+ },
+ "learner-difference\t11th-grade boys\t11th-grade girls": {
+  "label": "11th-grade boys vs 11th-grade girls",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12U Biology enrolment trend\t12U Physics enrolment trend": {
+  "label": "12U Biology enrolment trend vs 12U Physics enrolment trend",
+  "treatment_is_a": true
+ },
+ "media-design\tHubble documentary reviews\treviews of the other six scientific documentaries": {
+  "label": "Hubble documentary reviews vs other scientific documentary reviews",
+  "treatment_is_a": true
+ },
+ "media-design\tbelt model illustrating frequency, wavelength, and wave speed\ttextbook illustration using a group of circles to represent waves": {
+  "label": "Belt-model illustration vs circle-group textbook illustration",
+  "treatment_is_a": true
+ },
+ "media-design\tdemonstrative evidence included\tno demonstrative evidence": {
+  "label": "Demonstrative evidence vs no demonstrative evidence",
+  "treatment_is_a": true
+ },
+ "media-design\tdemonstrative evidence included\tstandard testimony without demonstrative evidence": {
+  "label": "Demonstrative evidence vs testimony-only evidence",
+  "treatment_is_a": true
+ },
+ "media-design\toctave-separated piano pitches for star magnitude\tvisual intensity differences in stars or LEDs": {
+  "label": "Auditory pitch coding vs visual intensity coding",
+  "treatment_is_a": true
+ },
+ "media-design\tsound combined with graphical visualisations, videos or a GUI\tsound not combined with these media": {
+  "label": "Sound-plus-visual media vs sound-only media",
+  "treatment_is_a": true
  }
 }

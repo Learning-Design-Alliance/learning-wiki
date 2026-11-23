@@ -47,3 +47,4 @@ Analytical derivation (Eqs. 2-3) of cross-entropy for a least-squares model fit,
 ## Related Claims
 - [A reinforcement learning model with separate surprise and uncertainty learning-rate parameters per condition best fits gambling behavior, though individual parameter estimates did not reach significance](rl-model-separate-surprise-uncertainty-el-ol.md) — related
 - [KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other](kl-versus-bce-loss-ablation.md) — related
+- [KL divergence loss with small τ (≤ 1.0) mitigates noisy-label corruption better than extreme logit matching](small-tau-kl-mitigates-noisy-labels.md) — related

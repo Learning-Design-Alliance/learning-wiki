@@ -45,6 +45,7 @@ Because teachers' negative attitudes changed positively after experiencing the i
 
 - [Provide prospective teachers with cooperative learning experiences during pre-service training](pre-service-cooperative-learning-experiences.md)
 - [Use peer tutoring role experience in university classrooms to build pre-service teachers' awareness of CL implementation factors](pt-role-experience-strategy.md)
+- [Use in-service training to increase teacher knowledge, skills, and confidence, funded through BOS budget slots](in-service-training-bos-funding-teacher-competence.md)
 
 ## Examples
 -

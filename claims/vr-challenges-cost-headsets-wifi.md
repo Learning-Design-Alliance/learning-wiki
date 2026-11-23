@@ -84,3 +84,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Students identified workload, technical problems, content overload and lack of face-to-face interaction as barriers to the beta e-learning program](e-learning-barriers-workload-technical-content-overload.md) — related
 - [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related
 - [The article identifies lack of understanding, terminology confusion, cybersickness risk, and no standard distribution route as factors limiting VR implementation in UK healthcare](barriers-limited-vr-implementation-uk-healthcare.md) — related
+- [Participating teams face challenges including low astronomy interest, internet and electricity costs, lack of computers, and missing Windows operating systems](pacselab-participation-challenges.md) — related

@@ -49,3 +49,4 @@ WER comparison of cascaded, partial-cascaded and end-to-end Whisper-based SGEC s
 - [Prompt-conditioned end-to-end SGEC, conditioning on a fluent transcription during training and inference, improves WER modestly and raises feedback Precision by 3.54 on LNG and 3.69 on S&I over the non-prompted model](prompt-conditioned-sgec-improves-feedback-precision.md) — related
 - [Pseudo-labeled training data from over 2,500 hours of unlabeled learner speech improves small-model end-to-end SGEC, but offers limited benefit for large-v2 models once manual annotations are added](pseudo-labeled-data-sgec-model-size-moderates.md) — related
 - [Fine-tuning Whisper on local Malay and Tamil speech data lowers WER, especially on children's speech](singakids-asr-finetuning-wer-gains.md) — related
+- [The baseline Whisper-small ASR system transcribes L2 learner speech at a 10.4% WER on the S&I Dev set](s-i-2025-baseline-asr-wer-10-4.md) — related

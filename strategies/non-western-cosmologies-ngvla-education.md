@@ -50,6 +50,7 @@ Table 1 lists opportunities "to incorporate non-Western cosmologies into the edu
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](indigenous-non-indigenous-collaborative-pedagogy.md)
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
 - [Co-creating astronomy outreach with marginalised community leaders and cultural agents](co-created-astronomy-outreach-marginalised-communities.md)
+- [Teach historical cosmologies as an interdisciplinary opportunity with History and Geography teachers](historical-cosmologies-interdisciplinary-strategy.md)
 
 ## Examples
 -

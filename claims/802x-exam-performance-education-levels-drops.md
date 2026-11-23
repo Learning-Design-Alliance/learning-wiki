@@ -88,3 +88,4 @@ Figure 5 analysis of Drops' mean grades. The article reports many participants s
 ## Related Claims
 - [Performance increases monotonically with the number of practice exams following a slightly concave learning curve without considerable kinks](performance-increases-monotonically-with-practice-exams-concave-curve.md) — reports the opposite
 - [Class attendance in the General Physics courses tended to drop after the midterm exam as the semester end approached.](attendance-drops-after-midterm.md) — related
+- [Neural models show no obvious performance drop across grade levels, unlike the human learning curve](no-grade-level-performance-drop-models.md) — related

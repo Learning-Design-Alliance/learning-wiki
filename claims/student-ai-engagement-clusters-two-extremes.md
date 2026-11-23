@@ -57,3 +57,4 @@ Observational synthesis of the authors' multi-year instructional practice with s
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
 - [Pilot course observations are consistent with the three-phase inoculation cycle](pilot-course-inoculation-cycle-observations.md) — related
+- [Humans have a tendency to accept AI explanations with a less critical view](humans-accept-explanations-less-critically.md) — related

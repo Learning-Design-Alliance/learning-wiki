@@ -48,3 +48,4 @@ Analytical/illustrative calculation using posterior means of ν² and σ²t from
 ## Related Claims
 - [Lower µ-values in the Weighted Gain Score produce larger learning gain estimates, while higher µ-values produce smaller estimates](wgs-mu-parameter-rescales-learning-gain.md) — related
 - [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related
+- Fully blind scoring of conference applications produced lower average scores for African submissions, so positive-action up-weighting was applied to achieve the target representation — related

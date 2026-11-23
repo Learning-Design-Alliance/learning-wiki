@@ -93,6 +93,7 @@ Diagnostic assessment is the evidence-gathering half of [Assessment for Learning
 - [Adjust teaching and learning to reinforce concepts flagged by pre-test misconception data](adjust-teaching-from-pretest-misconception-data.md)
 - [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
 - [Use confidence-weighted FCI pretests to identify strongly held misconceptions for targeted instruction](wfci-pretest-misconception-identification-strategy.md)
+- [Layered assessment strategy combining diagnostic pre-tests, formative observation, immediate summative assessment, and delayed reflective assessment](layered-lab-assessment-diagnostic-formative-summative-reflective.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — the canonical physics concept inventory; its distractors encode specific Newtonian misconceptions, letting instructors diagnose *which* intuitive model a student holds rather than just whether they are wrong.

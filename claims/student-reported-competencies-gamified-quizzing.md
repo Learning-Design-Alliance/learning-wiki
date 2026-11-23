@@ -59,3 +59,4 @@ Thematic analysis of open-ended questionnaire responses, coded independently by 
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
 - [Peer leaders attribute critical thinking change to interacting with others, utilizing different approaches to learning, and problem solving](peer-leaders-attributed-ct-factors-three-themes.md) — related
 - [Anonymous peer review supports perceived competence: students perceived improved work quality, critical thinking and workplace skills, with noted difficulties](anonymous-peer-review-perceived-competence.md) — related
+- [Team leaders report gains in skills, confidence, and interest in astronomy among participants](pacselab-reported-skill-interest-gains.md) — related

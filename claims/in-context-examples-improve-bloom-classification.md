@@ -66,3 +66,4 @@ RQ2 evaluation across five datasets and five prompting strategies (Table 3). Few
 - [Prompting technique effects are task-dependent: few-shot and self-consistency help, while chain-of-thought helps praise detection but hurts error recognition](prompting-techniques-task-dependent-tutor-moves.md) — a broader claim this one bears on
 - [Few-shot prompting produced larger accuracy gains than model updates alone for both AI tools](few-shot-gains-exceed-model-update-gains.md) — related
 - [Few-shot prompting with two exemplars per cognitive-demand category improved both AI tools' classification accuracy (Gemini 58% to 67%; Coteach 50% to 75%)](few-shot-prompting-improves-math-task-classification.md) — related
+- Instruction-based fine-tuning on LAZY REVIEW significantly improves LLM lazy-thinking detection over zero-shot and few-shot baselines — related

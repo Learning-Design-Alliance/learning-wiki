@@ -42,6 +42,7 @@ For readers unfamiliar with the field, the authors recommend starting with at le
 ## Related Strategies
 
 - [Direct research effort toward measuring temperament and character factors, which operate largely independently of intelligence and may be more educable](research-measure-temperament-character-factors.md)
+- [Offer multiple reading paths through the walkthrough depending on reader background](hhl-multiple-reading-paths-strategy.md)
 
 ## Examples
 -

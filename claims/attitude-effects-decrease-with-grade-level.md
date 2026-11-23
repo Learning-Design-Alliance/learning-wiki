@@ -54,3 +54,4 @@ Meta-regression of overall attitude effects (Akçay et al. excluded) found a sig
 - [No significant differences in attitude effects between the five types of innovative teaching approach](no-approach-differences-attitude-effects.md) — related
 - [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related
 - [Multimedia-assisted physics teaching significantly reduced students' negative attitudes to physics across all five measured aspects](multimedia-teaching-reduced-negative-physics-attitudes.md) — related
+- [Cross-temporal achievement-g trajectories are differentiated by school grade: younger students show decreasing positive-manifold strength while older students show no decreases or even increases](grade-differentiated-achievement-g-trajectories.md) — related

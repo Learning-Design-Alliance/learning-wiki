@@ -55,3 +55,4 @@ Findings from the qualitative survey case study, analyzed through a critical fem
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — a broader claim this one bears on
 - [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related
 - [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related
+- Encounters with oppression exact time and emotional labor from scientists of color, reducing the time and energy available for their scientific work — related

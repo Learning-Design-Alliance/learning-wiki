@@ -74,3 +74,4 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related
 - [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related
 - [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](sarp-enjoyment-fsm-differential.md) — related
+- [In a forest plot of intervention effectiveness, all listed interventions show negative effect sizes, with Real-Time Monitoring in High Schools and Digital Literacy in Colleges showing larger and more consistent negative effects](forest-plot-all-interventions-negative-effect-sizes.md) — related

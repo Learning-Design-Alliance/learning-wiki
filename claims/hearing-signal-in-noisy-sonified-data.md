@@ -47,3 +47,4 @@ Interviewee GF argues that human hearing has "tremendous dynamic range and tempo
 ## Related Claims
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — a broader claim this one bears on
 - [The Ling Six Sounds Test was used to ascertain children's ability to discriminate speech sounds.](ling-six-sounds-test-procedure.md) — related
+- Astronomy and data-analysis experts performed no better than non-experts at identifying mock planet-transit signals in sonified noisy light curves, though they outperformed non-experts with standard visualisations — related

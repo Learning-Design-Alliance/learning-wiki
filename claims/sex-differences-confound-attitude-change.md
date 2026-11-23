@@ -63,3 +63,4 @@ The authors report that "Men and women Ss varied in their responses to these con
 - [Female students reported more nervousness but higher gained-competence ratings than male students](gender-differences-nervousness-and-competence-gains.md) — related
 - [The detrimental effect of numerus clausus on learning was significant among female students but not among male students (Study 3)](numerus-clausus-learning-gender-interaction.md) — related
 - [Self-rated self-efficacy scores rose from pre-test to post-test after SBTT in one uncontrolled pre-post study, with a larger rise among men than women](sbtt-self-efficacy-sex-difference.md) — related
+- Female participants rate physicians displaying unempathic nonverbal behavior as less empathic and less warm than male participants do — related

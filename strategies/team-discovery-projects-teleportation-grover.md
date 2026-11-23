@@ -46,6 +46,7 @@ Two group projects of three students each anchor the second half of the course. 
 - [Use carefully selected contrasting cases to have students discover general rules rather than explaining the rules first](contrasting-cases-discover-rules-strategy.md)
 - [Extend the game with a state-measurement operation to introduce simple quantum algorithms](measurement-operation-future-extension.md)
 - [Adapt unconventional popular-culture contexts to other quantum physics learning objectives](popular-culture-contexts-other-quantum-concepts.md)
+- [Teach quantum computing through applied coding of Grover's search with fully provided, replicable code](applied-grover-coding-teaching-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Cluster analysis (k-means with elbow method) of the survey usage variables in th
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
 - [Among heavy internet-resource users, greater use of non-AI internet resources during online exams correlates negatively with online exam scores](heavy-internet-users-negative-exam-correlation.md) — a narrower finding that bears on this claim
 - [In an online introductory statistics course, the model automatically identified four distinct learner profiles without a prespecified cluster count](four-learner-profiles-coursekata-statistics.md) — related
+- [K-means with the Elbow method determines an optimal cluster count of two for both the mathematics and Portuguese datasets](kmeans-elbow-optimal-two-clusters.md) — related

@@ -54,3 +54,4 @@ Reliability analysis (Fig. 2, Table 1) on the SciEntsBank Test_UD split. Verbali
 - [Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions](feedback-improves-confidence-calibration.md) — related
 - [A hybrid confidence measure combining model-based signals with dataset-derived aleatoric uncertainty achieves the highest AUROC and strongest accuracy gains in selective grading of LLM-graded short answers](hybrid-confidence-highest-auroc-selective-asag.md) — related
 - [A standard single-agent LLM baseline produces high perceived understanding despite the lowest objective learning (an overconfidence effect)](baseline-llm-overconfidence-misalignment.md) — a narrower finding that bears on this claim
+- Self-ensembling with input variations substantially reduces calibration error while maintaining or improving task performance, with max probability ensembling the most consistent strategy — related

@@ -64,3 +64,4 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [Iterative prompt-crafting to correct chatbot errors fostered critical reflection and developed pedagogical content knowledge](iterative-prompt-crafting-fosters-pck.md) — related
 - [Debugging code was the most common use of genAI among student groups, but its efficiency meant students skipped learning to identify errors themselves](genai-debugging-most-common-use-efficiency-tradeoff.md) — related
 - [Pilot course observations are consistent with the three-phase inoculation cycle](pilot-course-inoculation-cycle-observations.md) — related
+- [Humans have a tendency to accept AI explanations with a less critical view](humans-accept-explanations-less-critically.md) — reports the opposite

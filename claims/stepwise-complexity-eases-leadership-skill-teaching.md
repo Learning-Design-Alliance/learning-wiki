@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-23
 sources:
   - id: meshel-alexander-md-2023
     resource: "https://doi.org/10.5811/westjem.2022.12.57735"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Critical team skills were taught and reinforced in a manageable and streamlined manner, with leadership skills easier with smaller team structure and learners working up to commanding a much larger team in later cycles. [→ Meshel Alexander MD 2023](#meshel-alexander-md-2023)

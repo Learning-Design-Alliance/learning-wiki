@@ -54,6 +54,7 @@ The article's design lessons for accessible shows: complete the soundtrack first
 - [Podcast Based Learning](podcast-based-learning.md)
 - [Multiple Ways to Perceive Information](multiple_ways_to_perceive_information.md)
 - [Providing Multiple Means of Representation](providing_multiple_means_of_representation.md)
+- [Use individual show sections combined with tactile models to create accessible interactive workshops, and design future astronomy soundtracks to aid accessible communication](show-sections-with-tactile-models-workshops-strategy.md)
 
 ## Examples
 -

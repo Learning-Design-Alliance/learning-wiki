@@ -53,3 +53,4 @@ Regression result from the 2055-nurse cross-sectional survey; the master/doctor 
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — reports the opposite
 - [Genomic knowledge scores increase with level of academic preparation and differ by nursing role](genomic-knowledge-scores-education-gradient.md) — related
 - [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — related
+- [Despite 90% of South Bangka teachers holding at least a Bachelor's degree, the average Teacher Competency Test (UKG) score is only 47](south-bangka-ukg-47-despite-90-percent-bachelors.md) — related

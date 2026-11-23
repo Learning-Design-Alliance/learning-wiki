@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-23
 sources:
   - id: sergio-rojas-2010
     resource: "https://doi.org/10.48550/arXiv.1011.0687"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author argues that introducing SHM as solving a second order non-homogeneous ordinary differential equation is a topic unfamiliar to most students in their first calculus-based physics course and causes difficulties for both students and instructors. [→ Sergio Rojas 2010](#sergio-rojas-2010)
@@ -52,3 +53,6 @@ The author's argument in Section 3, citing how textbooks introduce the SHM solut
 - [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related
 - [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related
 - [The interdisciplinary relation between Green's functions and the method of images is not developed in didactic physics textbooks](green-functions-images-absent-didactic-textbooks.md) — related
+- [The qualitative SHM approach and rigorous mathematical approaches complement each other](qualitative-and-rigorous-shm-approaches-complement.md) — related
+- [A qualitative analysis of SHM can reveal key features of the motion to students who are not mathematically well prepared](qualitative-shm-analysis-reveals-features-weak-math-students.md) — related
+- [The uniform circular motion derivation of SHM is criticized in the literature as nonphysical and confusing to students](uniform-circular-motion-shm-derivation-criticized.md) — related

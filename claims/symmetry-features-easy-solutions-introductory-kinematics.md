@@ -46,3 +46,4 @@ Theoretical argument in the article's opening section: the author asserts that t
 
 ## Related Claims
 - [Symmetry-based kinematic problems are particularly useful for stimulating students' reasoning on richer physical situations such as central force motion](symmetry-problems-stimulate-reasoning-richer-situations.md) — related
+- [A qualitative analysis of SHM can reveal key features of the motion to students who are not mathematically well prepared](qualitative-shm-analysis-reveals-features-weak-math-students.md) — a narrower finding that bears on this claim

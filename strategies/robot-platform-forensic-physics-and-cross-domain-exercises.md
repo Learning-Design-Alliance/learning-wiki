@@ -48,6 +48,7 @@ The authors propose extending the platform beyond the light-following exercise: 
 ## Related Strategies
 
 - [Complement open robot inquiry with written reports, presentations, or parallel structured tasks to make grading feasible](robot-inquiry-grading-via-reports-and-parallel-tasks.md)
+- [Use a real-life forensic physics case as problem-based inquiry material in undergraduate physics courses](forensic-physics-case-pbl-strategy.md)
 
 ## Examples
 -

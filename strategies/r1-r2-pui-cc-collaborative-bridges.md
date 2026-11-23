@@ -47,6 +47,8 @@ The report regards as central the building of collaborative bridges between facu
 - [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
 - [Develop and financially support regional astronomy associations and regularly held regional meetings](support-regional-astronomy-meetings-strategy.md)
 - [Create collaborative cross-institutional research partnerships between four-year colleges and under-resourced institutions, facilitated by a professional researcher and a community college instructor](cross-institutional-cc-research-partnership-creation.md)
+- [Build collaboration models that let PUI and community college faculty lead front-line HEP research with their students](pui-cc-faculty-collaboration-strategy.md)
+- [Expand PUI and CC access to HEP research through flexible funding, scaled collaboration membership, and reassigned time](pui-cc-hep-access-strategies.md)
 
 ## Examples
 -

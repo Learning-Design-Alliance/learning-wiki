@@ -64,4 +64,4 @@ Design decision from the early-endeavors phase: the prototype's frequency limita
 
 
 ## Related Claims
--
+- The computer sound card's signal acquisition meets the requirements of low-frequency physics experiments within 0 to 1200 Hz — related

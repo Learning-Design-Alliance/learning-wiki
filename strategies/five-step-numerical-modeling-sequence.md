@@ -51,4 +51,4 @@ A stepwise recipe for computational problem solving that the article presents as
 -
 
 ## Key Sources
-- Oliveira, H. A., Vieira, C. V., & Kroetz, T. (2017). Aprendizagem significativa através da modelagem computacional de sistemas físicos. https://arxiv.org/abs/1711.09695
+- Oliveira, H. A., Vieira, C. V., & Kroetz, T. (2017). Aprendizagem significativa através da modelagem computacional de sistemas físicos. https://arxiv.org/abs/1711.09695. [doi:10.48550/arxiv.1711.09695](https://doi.org/10.48550/arxiv.1711.09695)

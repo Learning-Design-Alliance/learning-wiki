@@ -49,6 +49,7 @@ Because undergraduate research projects are short (a semester or summer) and stu
 - [Build collaborative bridges between R1 institutions and R2/PUI/CC faculty](r1-r2-pui-cc-collaborative-bridges.md)
 - [Institutionalize undergraduate research with credit, faculty load credit and summer funding as central to student satisfaction and recruitment](undergrad-research-credit-incentives-strategy.md)
 - [Sustained funding and outreach recommendations for growing local participation in Hawai'i astronomy](sustained-mentoring-funding-and-outreach-hawaii-astronomy.md)
+- [Build collaboration models that let PUI and community college faculty lead front-line HEP research with their students](pui-cc-faculty-collaboration-strategy.md)
 
 ## Examples
 -

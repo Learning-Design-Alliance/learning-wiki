@@ -40,7 +40,8 @@ The authors recommend supplementing standard twin-paradox lessons with lines of 
 - Sr Handles Accelerated Frames Flat Spacetime
 
 ## Related Strategies
-- 
+
+- [Teach proper acceleration and time dilation from inertial frames only, using a computational experiment, without resorting to the accelerated observer's frame](inertial-frame-only-computational-rindler-strategy.md)
 
 ## Examples
 -

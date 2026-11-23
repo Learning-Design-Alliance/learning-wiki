@@ -51,6 +51,7 @@ A five-hour classroom sequence in which each group receives an identical straw a
 - [Deploy smartphone-based labs as flexible, low-cost complements to traditional labs across classroom, home, and remote settings](smartipl-flexible-low-cost-deployment-strategy.md)
 - [Five-step methodology for introducing smartphone apps into exact-science courses](five-step-smartphone-app-methodology.md)
 - [Hand out one spectrometer printout per group of two to three students and master the measurement in teamwork](spectrometer-teamwork-printout-per-group.md)
+- [Measure the LED turn-on voltage U* visually through a straw waveguide using at least five repeated readings and the median](median-of-five-visual-threshold-ustar.md)
 
 ## Examples
 -

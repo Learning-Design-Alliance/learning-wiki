@@ -47,3 +47,4 @@ The review describes regression-based and constrained-optimization selection mod
 ## Related Claims
 - [Selecting a cohort using Casper-weighted admission scores produced no statistically significant demographic differences from the actually admitted cohort, with about 46% overlap](casper-weighted-selection-no-significant-diversity-change.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
+- Fully blind scoring of conference applications produced lower average scores for African submissions, so positive-action up-weighting was applied to achieve the target representation — a narrower finding that bears on this claim

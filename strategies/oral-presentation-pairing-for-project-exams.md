@@ -54,6 +54,7 @@ Each take-home exam required a written report and an in-class oral presentation,
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Sampled oral code interviews over accepted solutions](sampled-oral-code-interviews.md)
 - [Use a workshop with published, refereed proceedings as the exam form for an advanced research course](workshop-proceedings-as-exam.md)
+- [Present one cosmology chapter in academic-article format to give students contact with scientific writing](academic-article-format-chapter-strategy.md)
 
 ## Examples
 -

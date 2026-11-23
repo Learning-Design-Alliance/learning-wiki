@@ -53,3 +53,4 @@ Human reviewers curated answers from GPT-4's item-by-item explanations without a
 - [Qualitative analysis of LLM answer explanations identified 3 ambiguous examination questions, supporting LLM use for question quality assurance](llm-explanations-flag-ambiguous-questions.md) — related
 - [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
+- [Among questions Bard answered correctly, some correct options were chosen by chance with fabricated explanations, and Bard hallucinated numerical values for variables](bard-hallucinated-explanations-physics-gre.md) — related

@@ -46,6 +46,7 @@ Based on finding that both coaches and peers were called upon for grant and fell
 ## Related Strategies
 
 - [Mentoring](mentoring.md)
+- [Increase attention to training students and mentoring faculty in grant writing to gain F31 and T32 funding support for medical physics PhD training](grant-writing-training-for-f31-t32-funding.md)
 
 ## Examples
 -

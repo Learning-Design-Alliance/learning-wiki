@@ -64,3 +64,4 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](insitu-simulation-emergent-leadership-team-identity.md) — related
 - [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — a broader claim this one bears on
 - [In-situ simulation with real teams in their standard environment introduces the social and cultural context needed for effective team training](in-situ-simulation-introduces-cultural-context.md) — related
+- [Team leaders report gains in skills, confidence, and interest in astronomy among participants](pacselab-reported-skill-interest-gains.md) — related

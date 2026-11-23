@@ -49,3 +49,4 @@ Descriptive participation statistics reported in the section on prize rules, wit
 - [A Brazilian edition of the ASIMOV Prize took place in 2020 with encouraging results, and international replication is planned](asimov-prize-brazil-2020-replication.md) — related
 - [The authors argue the 'two cultures' divide can be addressed with cultural and social tools such as science popularisation books and school-research collaboration](asimov-prize-two-cultures-addressed.md) — related
 - [Participants are equally divided between boys and girls, but 65% of ASIMOV Prize winners are female](asimov-prize-female-winners-65-percent.md) — related
+- [ASIMOV Prize participation grew from several hundred reviews from five regions (2016) to more than 12,000 student writeups from twenty regions (2022 edition), attracting equal numbers of male and female students](asimov-prize-12000-reviews-gender-balanced.md) — related

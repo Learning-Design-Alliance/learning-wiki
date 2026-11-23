@@ -71,3 +71,4 @@ Descriptive report that non-engineering roles on the team also yielded career ou
 - [Over 91% of USEQIP students from 2022-2025 secured a paid research internship](useqip-internship-placement-rate.md) — related
 - [Astronomy master's training develops transferable skills that industry and finance employers value beyond disciplinary specialisation](astronomy-degree-transferable-skills.md) — related
 - [A lab-supported thesis program extended internships into about six-month Laurea research stays, with many participants later hired at the lab or in the field](laurea-thesis-program-pipeline-return.md) — related
+- [The DOE Community College Internship program averaged 78 student participants per year from 2014 to 2020](cci-average-78-students-per-year.md) — related

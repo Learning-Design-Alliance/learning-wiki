@@ -49,3 +49,4 @@ National survey of the Canadian physics community (CanPhysCounts 2020, N=2532, s
 ## Related Claims
 - [Canadian physics students are much more demographically diverse than working professionals, indicating the importance of acting early to retain diverse physicists](students-more-diverse-than-professionals-act-early.md) — possibly the same claim (merge candidate)
 - [BIPOC representation fell by one-half between student and professional roles while White women's representation remained relatively consistent](bipoc-representation-halves-student-to-professional.md) — related
+- [Women's representation in Indian physics drops from about 31% among research scholars to about 14% among faculty, showing a leaky pipeline](india-physics-leaky-pipeline-31-to-14-percent.md) — a narrower finding that bears on this claim

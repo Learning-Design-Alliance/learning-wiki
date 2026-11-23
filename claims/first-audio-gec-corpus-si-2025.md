@@ -48,3 +48,4 @@ The authors' descriptive claim in the related-work section: prior written GEC sh
 - [Written corrective feedback reduces grammatical errors in EFL post-test writing](wcf-reduces-grammatical-errors-posttest.md) — related
 - [Correcting common spoken errors in a second dynamic assessment transfers to a written development-referenced assessment](common-error-correction-transfers-to-written-dra.md) — related
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
+- [The Speak & Improve Challenge 2025 is the first shared task to address spoken GEC and holistic spoken language assessment](first-shared-task-spoken-gec-and-sla.md) — related

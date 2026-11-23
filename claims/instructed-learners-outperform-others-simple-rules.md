@@ -54,3 +54,4 @@ Randomized four-condition experiment with 104 adult ESL learners; the results co
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite
 - [Simple-before-complex training order yields better grammar learning than complex-before-simple order, driven by the simple rule](simple-first-training-order-better-grammar-learning.md) — related
+- [Mixing teaching signals (demonstrations and instructions) is superior to using demonstrations only or instructions only for goal-conditioned agents](mixing-demonstrations-instructions-superior.md) — related

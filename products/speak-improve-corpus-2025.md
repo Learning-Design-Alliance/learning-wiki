@@ -37,3 +37,4 @@ A publicly released corpus of approximately 315 hours of CEFR A2–C1 L2 English
 ## Key Sources
 - Kate Knill, Diane Nicholls, Mark J.F. Gales, Mengjie Qian, Pawel Stroinski. (2024). Speak & Improve Corpus 2025: an L2 English Speech Corpus for Language Assessment and Feedback. https://arxiv.org/abs/2412.11986
 - Mengjie Qian, Rao Ma, Stefano Bannò, Mark J.F. Gales, Kate M. Knill. (2025). End-to-End Spoken Grammatical Error Correction. arXiv. https://arxiv.org/abs/2506.18532
+- Mengjie Qian, Kate Knill, Stefano Banno, Siyuan Tang, Penny Karanasou, Mark J.F. Gales, Diane Nicholls. (2024). Speak & Improve Challenge 2025: Tasks and Baseline Systems. https://arxiv.org/abs/2412.11985

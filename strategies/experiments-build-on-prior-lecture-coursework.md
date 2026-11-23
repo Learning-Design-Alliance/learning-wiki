@@ -47,6 +47,7 @@ For the longer term, the authors recommend that given how experimental reasoning
 ## Related Strategies
 
 - [Teach single-quanta experiments by presenting actual data from original sources with clicker-question discussion, omitting extraneous technical details.](single-quanta-original-data-clicker-discussion-strategy.md)
+- [Modernize quantum instruction by including how to measure the momentum of a single quanta and by teaching measurement beyond the von Neumann paradigm](modernize-quantum-instruction-real-measurements.md)
 
 ## Examples
 -

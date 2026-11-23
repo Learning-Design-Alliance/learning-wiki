@@ -69,3 +69,4 @@ Within the benefits-of-high-self-efficacy theme, the article reports that "Havin
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — a narrower finding that bears on this claim
+- [Students reported the PCTO research experience as formative and as shaping their interest in research careers](pcto-student-reflections-research-career.md) — related

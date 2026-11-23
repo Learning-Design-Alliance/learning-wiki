@@ -48,7 +48,7 @@ The strategy organizes physics content into a comic magazine with anime-like cha
 - [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](../claims/comics-ar-newton-laws-acceptance-learning.md) [+W]
 
 ## Related Strategies
-- 
+
 
 ## Examples
 -

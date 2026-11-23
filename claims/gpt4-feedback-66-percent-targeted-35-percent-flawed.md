@@ -83,3 +83,4 @@ Same coding study of GPT-generated hints: general hints restated the field's goa
 - [About 30% of ChatGPT-generated hints failed manual quality checks, all due to incorrect answers or solution steps](chatgpt-hint-30-percent-rejection-rate.md) — related
 - [Davinci-003 API can generate questions of varying difficulty and evaluate student answers from instructions and context](davinci-003-generates-graded-questions-and-evaluates-answers.md) — related
 - [Multiple hint iterations improve student gains, with a second hint often contributing meaningfully, though gains vary sharply by language](multiple-hints-improve-gains-language-dependent.md) — related
+- [Step-wise error rate, the average ratio of erroneous steps to total steps in supervision, correlates strongly with downstream performance: lower rates correspond to higher accuracy.](step-wise-error-rate-correlates-with-performance.md) — related

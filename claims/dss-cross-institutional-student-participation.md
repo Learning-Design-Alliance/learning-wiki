@@ -47,3 +47,4 @@ Descriptive report of the DSS partnership (begun January 2023) between Henry For
 
 ## Related Claims
 - [A cross-institutional teacher group defining open inquiry moves through temporal phases in which bringing information dominates first, taking and consensus grow, and consensus finally predominates](nflc-bring-take-consensus-phases.md) — related
+- [The astronomy research writing project has yielded 10 submitted manuscripts, a few published in the Journal of Double Star Observation](pacselab-10-manuscripts-double-star.md) — related

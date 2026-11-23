@@ -47,3 +47,4 @@ Descriptive comparison of survey-derived counts of active asteroid citizen scien
 
 ## Related Claims
 - [PACS e-Lab's asteroid search campaign engaged about 595 citizen astronomers from 58 teams in 40 African countries](pacselab-595-citizen-scientists-40-countries.md) — related
+- [Recruited citizen scientists are unevenly distributed across Africa's five zones, with West Africa leading and Central Africa last](pacselab-west-africa-leads-recruitment.md) — reports the opposite

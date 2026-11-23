@@ -50,6 +50,7 @@ From player feedback, the authors recommend clearer guidance about the game's go
 - [Refine digital escape rooms with adaptive difficulty, clear feedback and instructions, and collaborative gameplay](escape-room-design-refinements-strategy.md)
 - [Iterate PAL programs toward interactive, teacher-configurable serious games with home and cross-grade variants](pal-future-serious-game-iteration-strategy.md)
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
+- [Introduce simplified game versions to younger learners with rules added gradually alongside the physics](gradual-rule-introduction-simplified-card-game.md)
 
 ## Examples
 -

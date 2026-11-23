@@ -52,3 +52,4 @@ Post-bootcamp survey of the pilot bootcamp cohort; 35 of 60 students responded. 
 - [Audience members rate the sonification-based planetarium show very highly overall, with 91% giving a score of 4 or 5 out of 5](audio-universe-high-overall-audience-ratings.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
+- [A 1.5-hour day-one networking/ice-breaker session was rated highly by participants, with 91% scoring 4 or 5, and equal positivity among African-affiliated participants](day-one-icebreaker-highly-rated.md) — related

@@ -71,3 +71,4 @@ Six one-way ANOVAs with Tukey post-hoc comparisons tested the three clusters acr
 - [Novices' visual attention did not differ between pediatric and adult box trainers](no-visual-attention-difference-pediatric-adult-trainers.md) — related
 - [Fixation on not-moving objects was lower for more-skilled novices, contradicting the expected looking-ahead pattern](not-moving-object-fixation-contradicts-hypothesis.md) — related
 - [Eye-tracking and mental workload metrics differentiate novice proficiency groups and distinguish them from expert performance in laparoscopic peg transfer training](eye-tracking-metrics-differentiate-laparoscopic-proficiency-groups.md) — possibly the same claim (merge candidate)
+- [K-means with the Elbow method determines an optimal cluster count of two for both the mathematics and Portuguese datasets](kmeans-elbow-optimal-two-clusters.md) — related

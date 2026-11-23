@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-23
 sources:
   - id: felszeghy-szabolcs-2019
     resource: "https://doi.org/10.1186/s12909-019-1701-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighty-three percent of students reported the platform created a risk-free anonymous environment in which they could practice without fear of judgment or critical errors. [→ Felszeghy Szabolcs 2019](#felszeghy-szabolcs-2019)

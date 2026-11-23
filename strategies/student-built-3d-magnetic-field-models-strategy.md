@@ -48,6 +48,7 @@ The article suggests an exercise in which students 'create their own models in m
 - [Free students from routine programming work when using computer modelling in physics](free-students-from-routine-programming.md)
 - [Motivate the infinite-sheet-of-charge toy model with a conceptual derivation showing why the field is constant and when the model applies](conceptual-derivation-infinite-sheet-charge.md)
 - [Build a dynamic function-generation system so teachers can draw arbitrary 2D or 3D graphs without printing new markers](dynamic-function-generation-teacher-authored-vr-graphs.md)
+- [Use a hybrid analytical-computational strategy based on superposition to let students explore magnetic fields of realistic systems at all points in space](hybrid-superposition-computational-strategy-magnetism.md)
 
 ## Examples
 -

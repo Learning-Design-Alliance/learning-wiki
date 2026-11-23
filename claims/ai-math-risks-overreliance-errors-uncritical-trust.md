@@ -245,3 +245,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Single-turn prompts are insufficient for most realistic LLM-assisted data analysis tasks](single-turn-prompts-insufficient-llm-data-analysis.md) — a narrower finding that bears on this claim
 - [In an advanced astrophysics laboratory, students framed a constrained GenAI tutor through five principal functions: interface interpreter, warrant organiser, report scaffold, unstable authority and resource whose traces may appear in downstream reports](genai-five-functions-advanced-lab.md) — related
 - [In a simulated interaction, the NuPaD skill file's structural constraints override a GenAI's default tendency toward immediate, superficial answers](nupad-skill-file-overrides-answer-tendency.md) — related
+- [Humans have a tendency to accept AI explanations with a less critical view](humans-accept-explanations-less-critically.md) — a narrower finding that bears on this claim

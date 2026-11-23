@@ -44,7 +44,8 @@ The article recommends specific abstract-level features because many clinicians 
 - [Presenting test accuracy results as natural frequencies significantly increased participants' understanding compared with sensitivity and specificity percentages](../claims/natural-frequencies-improve-dtar-understanding.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Repeat the key message three times: spoiler in the Introduction, message claim in the Results, moral in Conclusions](repeat-message-three-times.md)
 
 ## Examples
 -

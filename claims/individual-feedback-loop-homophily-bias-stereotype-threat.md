@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-23
 recheck_by: 2024
 sources:
   - id: kathryn-v-johnston-2019
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
+> **Currency** · newest study 2019 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In a conceptual toy model drawn from the social-science literature and the author's experience, homophily among in-group members in academic organizations leads to implicit bias against the out-group, which reinforces stereotypes and triggers stereotype threat, heightens imposter syndrome and weakens belonging, whose apparent discomfort causes in-group withdrawal that reinforces homophily. [→ Kathryn V. Johnston 2019](#kathryn-v-johnston-2019)

@@ -27,4 +27,4 @@ A school–university astronomy research and education project developed by NUCL
 -
 
 ## Key Sources
-- Lewis, F. (2018). FTP and NSO: Astronomy With (Several) Robotic Telescopes. Robotic Telescopes, Student Research and Education (RTSRE) Proceedings, Vol. 1, No. 1. https://arxiv.org/abs/1807.00762
+- Lewis, F. (2018). FTP and NSO: Astronomy With (Several) Robotic Telescopes. Robotic Telescopes, Student Research and Education (RTSRE) Proceedings, Vol. 1, No. 1. https://arxiv.org/abs/1807.00762. [doi:10.48550/arxiv.1807.00762](https://doi.org/10.48550/arxiv.1807.00762)

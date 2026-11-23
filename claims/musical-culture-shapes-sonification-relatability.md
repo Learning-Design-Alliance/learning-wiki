@@ -49,3 +49,4 @@ Theoretical argument in the introduction, citing Garcìa-Benito and Pérez-Monte
 - [Uncritically centering Greek and Arabic constellations in planetariums disconnects audiences from their local night sky](eurocentric-constellations-disconnect-audiences.md) — related
 - [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md) — a broader claim this one bears on
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
+- [Sonification soundscapes evoke audience-specific emotional reactions, requiring audience knowledge and venue atmosphere preparation](soundscape-emotions-audience-reactions.md) — a narrower finding that bears on this claim

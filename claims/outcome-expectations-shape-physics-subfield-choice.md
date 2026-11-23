@@ -52,3 +52,4 @@ Thematic analysis of the outcome-expectations construct grouped student expectat
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
 - [Acceptable degree of black-box methodology varies by physics subfield, shaping where AI can assist](black-box-acceptability-varies-by-subfield.md) — related
 - [Students also valued coursework for exploring physics subfields and building general skills, while noting gaps in research preparation](coursework-subfield-exploration-general-skills.md) — related
+- [Career paths at the intersection of physics and machine learning remain tenuous, with few physics-department ML courses and thesis work in ML often not accepted as physics](physics-ml-career-path-tenuous.md) — related

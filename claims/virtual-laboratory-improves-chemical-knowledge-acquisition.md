@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-23
 sources:
   - id: herga-et-al-2014
     resource: "https://eric.ed.gov/?id=EJ1043246"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group (mean 32.19) scored significantly higher than the control group (mean 23.02) on the total knowledge test after the experiment (t = 8.850, P = 0.000). [→ Herga et al. 2014](#herga-et-al-2014)

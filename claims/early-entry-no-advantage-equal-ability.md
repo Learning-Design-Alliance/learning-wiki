@@ -48,3 +48,4 @@ In this reply to Strayer's review, Winch restates the monograph's research quest
 - [Winch's age-weighted method of measuring school progress cannot test the value of preliminary kindergarten teaching in large American cities](age-weighted-progress-method-scope-limit.md) — related
 - [English defense of early school entry shifts from intellectual advantage to moral advantage and attention development when faced with contrary evidence](early-entry-defense-shifts-moral-attention.md) — related
 - [The monograph's conclusions on entry age were independent of the form of teaching adopted, across schools with different educational attitudes](entry-age-conclusions-independent-of-teaching-form.md) — related
+- [Demonstrations work best early in teaching and instructions best later, matching developmental psychology findings](demonstrations-first-instructions-later.md) — related

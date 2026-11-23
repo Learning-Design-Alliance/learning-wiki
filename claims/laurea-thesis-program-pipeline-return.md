@@ -49,3 +49,4 @@ The article's retrospective account of the Laurea thesis program started by E. B
 - [The Fermilab Italian summer training program has grown from 4 students in 1984 to an average of about 30 trainees per year, exceeding 500 participants in total](fermilab-italian-program-growth-500-students.md) — related
 - [Students transferred course knowledge to later coursework, theses, internships, graduate programs, and jobs, including continued use of R/Rcmdr](knowledge-transfer-beyond-course.md) — related
 - [PULSE-A participation is associated with professional and academic outcomes for students, including internships at research institutions and engineering companies and continued academic work in laser communication and related fields](pulse-a-student-career-outcomes.md) — related
+- [The DOE Community College Internship program averaged 78 student participants per year from 2014 to 2020](cci-average-78-students-per-year.md) — related

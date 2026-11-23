@@ -47,3 +47,4 @@ Simulation experiments in the Point Mass environment with 2D and 3D context spac
 ## Related Claims
 - [In the sparse-reward ball-catching environment all curricula enable learning with similar reward, and initializing the context distribution does not significantly change performance](all-curricula-enable-learning-ball-catching.md) — related
 - [SPDL lets the agent escape the local optimum in the Ant environment where ALP-GMM and random curricula do not improve reward](spdl-escapes-local-optimum-ant.md) — related
+- [SEBN-guided curricula produce more robust policies that reach success more quickly than other curricula in continuous control and robotics environments](sebn-curricula-outperform-baselines-continuous-robotics.md) — related

@@ -50,3 +50,4 @@ Authors' descriptive account of the logistic growth implementation: "The data ca
 - [Visualizing an array of driven spring-mass systems on the resonance graph is hypothesized to build greater physical intuition of resonance](resonance-graph-visualization-intuition-hypothesis.md) — related
 - [SIZR zombie apocalypse epidemiology model as an engaging course example](sizr-zombie-epidemiology-course-example.md) — related
 - [Computer simulations visualize dynamic model components and student exercises applying the models support learning to handle models](computer-simulation-supports-model-construction.md) — related
+- [The authors assert that coupling interactive 3D visualizations with manipulable parameters and immediate visual feedback translates abstract concepts into visualizations that facilitate understanding](interactive-widgets-immediate-feedback-facilitate-understanding.md) — related

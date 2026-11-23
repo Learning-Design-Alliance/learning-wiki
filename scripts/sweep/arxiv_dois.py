@@ -130,8 +130,13 @@ def earlier_year_supported(aid, year):
     # a year that ends or starts a range ("between 2001 and 2018", "2012-2018") is the data's span,
     # not a publication of this article (Odden et al. 2020, split batch 5)
     in_range = re.compile(rf"(?:\d{{4}}\s*(?:-|–|to|and)\s*{year}(?!\d))|(?:(?<!\d){year}\s*(?:-|–|to)\s*\d{{4}})")
+    # nor is a year in a template stub ("Journal xx (xx)"), in a submission or forthcoming notice, in a
+    # meeting's dates ("11-16 July 2021") or in a study's name ("Snowmass 2021") (split batch 6)
+    not_publication = re.compile(r"\bxx\b|submitted to|to appear|\d{1,2}\s*[-–]\s*\d{1,2}\s+[A-Z][a-z]+\s*$|"
+                                 r"Snowmass\s*$", re.I)
     return any(PUB_WORDS.search(head[max(0, m.start() - 120):m.end() + 120])
                and not in_range.search(head[max(0, m.start() - 12):m.end() + 8])
+               and not not_publication.search(head[max(0, m.start() - 120):m.start()])
                for m in re.finditer(rf"(?<!\d){year}(?!\d)", head))
 
 

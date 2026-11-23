@@ -13,7 +13,7 @@ generated:
 # PACS e-Lab–IASC Pan-African Asteroid Search Campaign
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 A monthly International Astronomical Search Collaboration programme run with PACS e-Lab in which African teams analyze supplied astronomical image datasets and submit asteroid-candidate reports for expert validation.

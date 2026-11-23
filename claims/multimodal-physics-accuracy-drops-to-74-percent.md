@@ -83,3 +83,5 @@ Cochran's Q test for paired proportions comparing the three models on the 44 mul
 - [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](chatgpt-tug-k-reasoning-versus-vision-correctness.md) — a narrower finding that bears on this claim
 - [ChatGPT-4o's BEMA errors fall into three difficulty types, with spatial coordination of representations and rules the most prevalent](three-chatbot-difficulty-types-bema.md) — related
 - [Multimodal RAG with slide images outperforms text-only slide retrieval for a vision-capable LLM](multimodal-rag-slide-images-outperform-text.md) — related
+- [The Advanced Data Analysis plug-in did not consistently improve ChatGPT-4's TUG-K performance](ada-plugin-no-consistent-tug-k-improvement.md) — related
+- [Categorizing TUG-K items by knowledge objectives or procedures reveals few generalizable patterns of chatbot difficulty](item-categorizations-reveal-few-chatbot-patterns.md) — related

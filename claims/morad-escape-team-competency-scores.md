@@ -51,3 +51,4 @@ Descriptive analysis of team performance across 12 groups using the research com
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
 - [A research-based escape room was rated 3.7 ± 0.31 out of 5 for overall experience by health professions student participants](morad-escape-overall-experience-rating.md) — related
 - [The Statistics station was the most difficult and most discriminating station, with a difficulty index of 50% and a discrimination index of 100%](statistics-station-highest-difficulty-discrimination.md) — related
+- [An online astrophysics escape room in Zoom drew 70 participants and received very positive feedback](escape-zoom-exoplanets-participants.md) — related

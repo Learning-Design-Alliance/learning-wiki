@@ -50,6 +50,7 @@ The guide structures deep reading as three cumulative comprehension checkpoints,
 - [Cloze Exercises](cloze_exercises.md)
 - [KWL Chart](kwl-chart.md)
 - [KWL](kwl.md)
+- [Offer multiple reading paths through the walkthrough depending on reader background](hhl-multiple-reading-paths-strategy.md)
 
 ## Examples
 -
