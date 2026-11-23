@@ -60,6 +60,7 @@ Discipline is most effective when embedded in a relationship the learner perceiv
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — a structured, brief one-on-one format well suited to post-disciplinary check-ins
 - [Relationship-building through brief empathic messages](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~M] — the classroom-level intervention this strategy implements at the individual level
 - [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
+- [Target restorative practices implementation support toward students with a prior suspension history](rp-target-prior-suspension-students-strategy.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the conversational vehicle for the follow-up

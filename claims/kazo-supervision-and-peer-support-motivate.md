@@ -50,3 +50,4 @@ Descriptive item analysis from Table 2 of the motivation questionnaire. The arti
 - [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
+- Peer influence is identified as the main factor encouraging adolescents to fight — related

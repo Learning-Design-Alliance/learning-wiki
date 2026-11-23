@@ -54,3 +54,4 @@ The re-analysis in STATA reported "I2 value of 100.0%", indicating "a large amou
 - [Reconfigured teaching strategy subtopics yield a pooled effect size of ES = 0.497, a medium effect on student achievement](reconfigured-teaching-strategies-pooled-medium-effect.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related
+- [True effects in the choice-making re-analysis are highly heterogeneous across cases](choice-making-between-case-heterogeneity.md) — related

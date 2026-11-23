@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 268 claims (167 show a difference, 57 mixed, 44 no difference) · 145 studies (58 associational, 43 causal, 19 review, 14 quant-synthesis, 7 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 36 of 145 report an effect size · 264 claims rest on one study
+> **Evidence** · 269 claims (168 show a difference, 57 mixed, 44 no difference) · 146 studies (58 associational, 44 causal, 19 review, 14 quant-synthesis, 7 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 36 of 146 report an effect size · 265 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -305,6 +305,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Students high-fit in muscular endurance in both years outperformed other endurance-change groups, but the H-N and N-N groups did not differ](../claims/muscular-endurance-hh-outperforms-exam.md) [~M] — learners who differ on it differ in outcomes
 - [The association between non-organized physical activity and subsequent Physical Education grades is significant in girls only](../claims/non-organized-physical-activity-pe-grades-girls-only.md) [~M] — learners who differ on it differ in outcomes
 - [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](../claims/aerobic-fitness-strongest-relationship.md) [+M] — learners who differ on it differ in outcomes
+- [School-based exercise practices reduced obesity and overweight prevalence in 9-11 year old girls over 4 months, while the control group's change was not significant](../claims/sbep-reduced-obesity-overweight-prevalence.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

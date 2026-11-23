@@ -51,3 +51,4 @@ Internalizing CBCL items were analyzed in the randomized trial. The article repo
 - [Swimming training improves additional thinking time on the Hayling test in children with ADHD](swimming-improves-hayling-additional-thinking-time.md) — related
 - [Twelve weeks of game-based swimming training improves Hayling test execution times in children with ADHD](swimming-improves-hayling-execution-times-adhd.md) — related
 - [Swimming training reduces error scores on the inhibition condition of the Hayling test in children with ADHD](swimming-reduces-hayling-part-b-error-scores.md) — related
+- [Self-reported anxious/depressed and somatic complaints CBCL domain scores did not change significantly from baseline to six months in one uncontrolled pre-post study](no-significant-change-anxious-depressed-somatic-cbcl.md) — reports the opposite

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-23
 recheck_by: 2029
 sources:
   - id: potel-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Investigations found ChatGPT achieved about 85% accuracy on one task and endorsed incorrect statements up to 26% of the time on another, and users interacting with LLMs performed no better than controls at identifying relevant medical conditions. [→ Potel 2026](#potel-2026)

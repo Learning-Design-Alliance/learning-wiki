@@ -71,3 +71,4 @@ ANCOVA on PedsQL emotional, social, and school functioning scores in the RCT. Ad
 - [School-based cognitive activity training significantly improved LOTCA Total and Visual Perception scores in refugee children compared to controls](cat-improves-lotca-total-visual-perception-refugee-children.md) — related
 - [Cognitive activity training significantly improved reading speed in refugee children while controls showed no change](cat-improves-reading-speed.md) — related
 - [Children using RMT long-term report greater improvement in quality of life, with no group differences on parent- or teacher-rated outcomes](rmt-improves-child-rated-quality-of-life.md) — related
+- [The SBEP intervention group scored significantly higher than controls on total health-related quality of life and most Kid-KINDL sub-dimensions, but not on the friends sub-dimension](sbep-higher-hrql-subdimensions.md) — related

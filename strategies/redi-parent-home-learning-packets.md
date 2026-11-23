@@ -42,6 +42,7 @@ As part of REDI, parents receive take-home materials supporting the program's go
 - [Home-Based Literacy Support](home-based_literacy_support.md)
 - [Non-intensive Home Numeracy Environment (HNE) Intervention Program](non-intensive-home-numeracy-environment-hne-intervention-program.md)
 - [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
+- [Health-promotion parenting intervention combining trust-based coaching, motivational video, counseling with parents and home visits](health-promotion-parenting-intervention-package.md)
 
 ## Examples
 -

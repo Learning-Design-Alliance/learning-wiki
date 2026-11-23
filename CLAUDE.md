@@ -44,6 +44,9 @@ work is done, not that the check is broken.
   ("Model of Causality in Social Learning Theory") was auto-applied to 69 pages as Bandura
   (1977); it took a manual audit to catch. `cc.titles_align()` guards the containment case
   that let it through, and `enrich.verify_page_citations()` gates every newly written page.
+  A DOI registered with another agency (mEDRA, for one) counts when its record passes the same
+  title, first-author and year check (maintainer, 2026-11-22); `https://doi.org/ra/<doi>` names the
+  agency. A record with no authors cannot pass the first-author check, so its DOI is not asserted.
 - **`classify_doi`'s `error` status is not `wrong_paper`.** A failed lookup means Crossref
   was unreachable. Stripping on `error` deletes good DOIs from every page touched during an
   outage.
@@ -242,7 +245,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   unless it rests on a report from a named evaluation organisation (WWC/IES/REL, Mathematica, MDRC, AIR, RAND,
   Abt, SRI, WestEd, Westat, Child Trends, the UChicago Consortium, NWEA, LPI, Urban Institute, CRESST, CREDO;
   maintainer: "evaluation reports are useful") or a principle, pattern or 10+ design pages cite it. A kept
-  claim of the last kind carries a `> **Evidence quality** ·` line saying what it rests on. New sources come
+  claim of the last kind carries a `> **Evidence quality** ·` line saying what it rests on. Lint *warns*
+  (`claim_url_only`, not counted, and left out of the health counts the batch guard reads) on a claim whose
+  evidence cites a URL but no DOI and no evaluation report (maintainer, 2026-11-22: "just warn"); 7,408
+  claims were in that state when the warning was added. New sources come
   from syntheses and from `chase_citations.py`, not from ERIC or arXiv topic search.
 - **A claim is kept when a design decision could change because of it** (maintainer, 2026-10-13).
   That covers evidence about a design choice, the reliability of a component a design relies on
@@ -267,7 +273,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   entry by entry, preferring the published version's (Crossref, title and first author aligned, year
   within one) over the preprint's DataCite DOI, so one study carries one DOI wherever it is cited;
   `--upgrade` moves entries already citing a preprint DOI. A cited year that is not the paper's is
-  corrected to the record's, and an earlier one is kept as "Originally published YYYY".
+  corrected to the record's. An earlier one is kept as "Originally published YYYY" only when the
+  article's own front matter ties that year to a publication (maintainer, 2026-11-22: check the source
+  first); a year ending a data range, a template's placeholder date, a meeting's dates, a study's name
+  ("Snowmass 2021") or a "submitted to" / "to appear" notice does not count.
+- **Text extracted from a PDF that is glyph codes is never extracted from** (maintainer, 2026-11-22).
+  `fetch_article.py` decodes hex glyph codes (`/G4A/G65` is "Je") and refuses text still made of codes,
+  such as old TeX font codes (`/CW/CT`), fetched or cached: decoding those loses "c" and the ligatures,
+  and a quotation taken from that text is not the article's.
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,

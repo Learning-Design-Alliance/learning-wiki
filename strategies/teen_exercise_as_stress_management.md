@@ -62,6 +62,7 @@ Exercise is one of the better-evidenced non-pharmacological interventions for ad
 - Mindfulness and breathing practices — complementary acute-regulation tools; yoga combines both
 - Goal-setting with micro-goals — the progression structure that sustains adherence
 - [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
+- [Offer structured swimming training programs to encourage stress reduction in students aged 11-13](swimming-training-program-stress-reduction-strategy.md)
 
 ## Examples
 - **School-based programs**: interventions embedding structured physical activity into the school day show reduced depressive symptoms and improved well-being in adolescent populations [+M]

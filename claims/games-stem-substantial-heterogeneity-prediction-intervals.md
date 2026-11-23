@@ -66,3 +66,4 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](scifablab-172-primary-workshops-2023-24.md) — related
 - [Individual FCI learning gains were highly heterogeneous across students, for both intervention-related and non-intervention items](heterogeneous-individual-fci-gains-comics-intervention.md) — related
 - [Grade-inflation trajectories varied substantially across academic programs, with some programs showing downward trends and no systematic STEM versus non-STEM differences](program-trajectories-heterogeneous-no-stem-difference.md) — related
+- [True effects in the choice-making re-analysis are highly heterogeneous across cases](choice-making-between-case-heterogeneity.md) — related

@@ -49,3 +49,4 @@ Parent-rated BRIEF was administered at baseline, post-intervention, and follow-u
 - [Cog-Fun intervention significantly reduced impulsive near-miss errors on the Children's Color Trails Test in school-aged children with ADHD](cctt-near-misses-decreased-cog-fun.md) — related
 - [Parent-reported homework problems decreased after Cog-Fun intervention, with continued improvement at follow-up for two participants](hpc-homework-problems-decreased-cog-fun.md) — related
 - [Qualitative video analysis showed improved planning, organization, and independence in self-directed learning tasks after Cog-Fun intervention](video-self-directed-learning-improved-cog-fun.md) — related
+- [A child-centered combination therapy of executive-function and sensory-integration activities reduces attention deficit in primary-school children with ADHD (η² = .82)](combination-ef-si-therapy-reduces-attention-deficit.md) — related

@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (132 show a difference, 38 mixed, 16 no difference) · 134 studies (31 associational, 27 review, 26 qualitative, 22 causal, 14 design, 8 theoretical, 6 quant-synthesis), `q1`–`q4` · 9 of 134 report an effect size · 181 claims rest on one study
+> **Evidence** · 188 claims (133 show a difference, 38 mixed, 17 no difference) · 135 studies (31 associational, 27 review, 26 qualitative, 23 causal, 14 design, 8 theoretical, 6 quant-synthesis), `q1`–`q4` · 9 of 135 report an effect size · 183 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -223,6 +223,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [47% of post-pandemic freshmen perceive the pandemic worsened their overall academic performance, with higher odds among students with more stress, boredom, introjected regulation, and university connectedness, and lower odds among older students and those with more pride](../claims/pandemic-worsened-academic-performance-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](../claims/social-school-factors-mediate-depression-attainment.md) [+M] — learners who differ on it differ in outcomes
 - [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](../claims/individual-feedback-loop-homophily-bias-stereotype-threat.md) [+W] — learners who differ on it differ in outcomes
+- [Both meditation groups reported higher post-intervention connectedness with others in the room than the control group](../claims/meditation-groups-higher-in-room-connectedness.md) [+M] — measured as an outcome of the instruction studied
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](../claims/no-differences-maas-scs-intimacy.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

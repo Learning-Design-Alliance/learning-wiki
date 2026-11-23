@@ -48,3 +48,4 @@ Univariate ANCOVAs following a significant MANCOVA (F(4,95) = 2.78, p = .031, η
 - [Generating answers before searching raises pre-search curiosity, but the group difference disappears after the search](answer-first-raises-pre-search-curiosity.md) — related
 - [Correlates of recall diverge by condition: search performance and prior knowledge predict recall only in the thinking-before-googling group, while metacognitive and motivational correlates emerge only in the googling-only group](recall-correlates-diverge-by-condition.md) — related
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](no-differences-maas-scs-intimacy.md) — related

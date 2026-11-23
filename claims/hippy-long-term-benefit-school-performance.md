@@ -55,3 +55,4 @@ This conclusion synthesizes the study's quasi-experimental, retrospective, cross
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — a broader claim this one bears on
 - [Preschool attendees outperform informal-care peers on academic achievement from kindergarten through early adolescence](preschool-academic-benefits-persist-through-adolescence.md) — a broader claim this one bears on
 - [No statistically significant differences were found between HIPPY and comparison children on discipline referrals](hippy-no-significant-discipline-referral-differences.md) — a narrower finding that bears on this claim
+- [Long-term 'sleeper effects' of early elementary retention on adolescent outcomes are under-studied](retention-sleeper-effects-adolescent-outcomes-understudied.md) — related

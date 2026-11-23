@@ -28,4 +28,4 @@ RAP Club is a 12-session universal, school-based group intervention adapted from
 -
 
 ## Key Sources
-- Mendelson, T., Clary, L. K., Sibinga, E., Tandon, D., Musci, R., Mmari, K., Salkever, D., Stuart, E., & Ialongo, N. (2020). A randomized controlled trial of a trauma-informed school prevention program for urban youth: Rationale, design, and methods. Contemporary Clinical Trials. https://www.baltimorecityschools.org/district-overview
+- Mendelson, T., Clary, L. K., Sibinga, E., Tandon, D., Musci, R., Mmari, K., Salkever, D., Stuart, E., & Ialongo, N. (2020). A randomized controlled trial of a trauma-informed school prevention program for urban youth: Rationale, design, and methods. Contemporary Clinical Trials. https://www.baltimorecityschools.org/district-overview. [doi:10.1016/j.cct.2019.105895](https://doi.org/10.1016/j.cct.2019.105895)

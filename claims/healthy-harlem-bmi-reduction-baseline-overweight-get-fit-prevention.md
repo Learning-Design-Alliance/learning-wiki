@@ -53,3 +53,4 @@ The evaluation reports BMI outcomes for the targeted subgroup: students "who wer
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — a broader claim this one bears on
 - [Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support](healthy-harlem-self-efficacy-social-support-impacts.md) — related
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
+- [School-based exercise practices reduced obesity and overweight prevalence in 9-11 year old girls over 4 months, while the control group's change was not significant](sbep-reduced-obesity-overweight-prevalence.md) — related

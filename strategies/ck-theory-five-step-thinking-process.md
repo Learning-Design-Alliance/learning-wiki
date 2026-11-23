@@ -48,7 +48,8 @@ The article recommends a five-step thinking process for applying C-K theory to c
 - [Overemphasis of C-K theory without complete understanding can interrupt and block thinking rather than enhance it](../claims/ck-theory-overemphasis-risk.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Recommendations for applying the five-step conceptual framework technique](conceptual-framework-technique-recommendations.md)
 
 ## Examples
 -

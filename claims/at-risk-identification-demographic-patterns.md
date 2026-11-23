@@ -73,3 +73,4 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — related
 - [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — related
 - [No demographic or prior-knowledge risk factors for being excluded from small groups or dropping out could be identified; students with and without grades were similar](no-demographic-risk-factors-lab-dropout.md) — reports the opposite
+- [Retention disproportionately affects males, non-Hispanic Black students, and students from lower income families](retention-disproportionately-affects-at-risk-groups.md) — related

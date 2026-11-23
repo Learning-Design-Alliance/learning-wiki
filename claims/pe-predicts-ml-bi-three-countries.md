@@ -50,3 +50,4 @@ SEM analysis of questionnaire data from 588 university students in Tunisia, Moro
 - [Effort expectancy positively influences behavioural intention to adopt m-learning in the three countries](ee-predicts-ml-bi-three-countries.md) — related
 - [Social influence predicts m-learning behavioural intention only in Morocco, not in Tunisia or Libya](si-predicts-bi-only-morocco.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
+- Performance expectancy remains the best predictor of behavioral intention in the attitude-extended UTAUT model when attitude predicts use behavior — related

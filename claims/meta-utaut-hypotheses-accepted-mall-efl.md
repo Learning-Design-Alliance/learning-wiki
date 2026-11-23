@@ -55,3 +55,5 @@ Cross-sectional online survey of 396 MALL users in EFL contexts, analyzed with P
 - [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
 - [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related
+- [In extended UTAUT models, attitude is a significant positive predictor of both behavioral intention and use behavior](attitude-significant-predictor-bi-ub-utaut.md) — related
+- Performance expectancy remains the best predictor of behavioral intention in the attitude-extended UTAUT model when attitude predicts use behavior — related

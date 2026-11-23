@@ -59,3 +59,5 @@ Structural equation model on the same 976-participant survey; the printed paths 
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — reports the opposite
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
+- [In Model 3 with all possible relationships, a new direct effect of facilitating conditions on behavioral intention emerges (β= .111)](fc-to-bi-new-effect-model3.md) — related
+- Performance expectancy remains the best predictor of behavioral intention in the attitude-extended UTAUT model when attitude predicts use behavior — related

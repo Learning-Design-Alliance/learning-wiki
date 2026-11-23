@@ -69,3 +69,4 @@ A null result: the gender-science Implicit Association Test did not differ by ad
 - [Addressing women in the masculine reduces the time they spend on a maths test relative to men and to feminine address](masculine-address-reduces-women-test-effort.md) — related
 - [On a task stereotypically associated with women's strengths (empathy reading comprehension), women perform better when addressed in the masculine](masculine-address-helps-women-on-female-stereotyped-task.md) — related
 - [The effect of feminine address on women's maths scores is stronger among those who acquired Hebrew early in childhood](hebrew-acquisition-age-moderates-address-effect.md) — related
+- [At baseline, teachers in the training groups showed lower agreement with masculine-norm and violence-tolerance statements than control teachers](baseline-masculinity-attitudes-lower-training-groups.md) — related

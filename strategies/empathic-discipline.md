@@ -88,6 +88,7 @@ The intervention targets teachers' implicit theories of misbehavior: when teache
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 - [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
+- [Target restorative practices implementation support toward students with a prior suspension history](rp-target-prior-suspension-students-strategy.md)
 
 ## Examples
 - **Okonofua, Paunesku, & Walton (2016) field trial** — A 45-minute online module for 39 middle-school math teachers cut suspensions roughly in half (from ~9.6% to ~4.8% of students) across five middle schools, with the largest gains for Black and Latino students ([PDF](https://www.pnas.org/doi/10.1073/pnas.1523698113)).

@@ -59,6 +59,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Align infrastructural AI investment with sustained teacher professional capacity development in vocational institutions](align-infrastructure-investment-with-teacher-capacity-development.md)
 - [Prioritize six coordinated future directions: equity, evidence-based design, curriculum coherence, workforce alignment, educator support, and infrastructure sharing](quantum-education-ecosystem-future-directions.md)
 - [Implement blended simulation and e-learning through faculty development, infrastructure investment, and CBME alignment](blended-simulation-elearning-implementation-strategy.md)
+- [Employ trained teachers with adequate infrastructure to integrate e-labs into science lessons](teacher-training-infrastructure-e-lab-employment-strategy.md)
 
 ## Examples
 -

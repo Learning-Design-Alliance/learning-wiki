@@ -53,3 +53,4 @@ Within-cohort pairwise comparisons of MAAS scores from T1 to T3 (Fig. 4b), asses
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
 - [MBSR participation transiently improved exam performance, detectable only at completion of the intervention](mbsr-transient-exam-improvement.md) — related
 - [Mindfulness and perceived stress are inversely correlated in preclinical medical students at both measurement points](mindfulness-stress-inverse-correlation-medical-students.md) — related
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](no-differences-maas-scs-intimacy.md) — reports the opposite

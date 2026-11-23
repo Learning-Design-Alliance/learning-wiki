@@ -46,4 +46,4 @@ AHC is a domain-informed, rule-based training system for Craftax-Full that, as t
 -
 
 ## Key Sources
-- Zhu, Jiayu; Li, Luyuan; Shi, Yuyuan; Dong, Hanyi. (2026). Anchor-and-Harvest Curriculum: A Fully Unmasked Non-LLM Curriculum for Craftax. https://arxiv.org/abs/2610.15328
+- Zhu, Jiayu; Li, Luyuan; Shi, Yuyuan; Dong, Hanyi. (2026). Anchor-and-Harvest Curriculum: A Fully Unmasked Non-LLM Curriculum for Craftax. https://arxiv.org/abs/2610.15328. [doi:10.48550/arxiv.2610.15328](https://doi.org/10.48550/arxiv.2610.15328)

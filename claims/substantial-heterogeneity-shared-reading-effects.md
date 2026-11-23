@@ -50,3 +50,4 @@ Heterogeneity test within the multilevel meta-analysis of 19 single-case studies
 - [Effects of grant aid on persistence and completion are heterogeneous across studies, justifying random-effects meta-analysis](grant-aid-effects-heterogeneous-across-studies.md) — related
 - Effect-size heterogeneity across Covid-19 studies is essentially total (I2 = 100%), justifying a random-effects model — a narrower finding that bears on this claim
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
+- [True effects in the choice-making re-analysis are highly heterogeneous across cases](choice-making-between-case-heterogeneity.md) — related

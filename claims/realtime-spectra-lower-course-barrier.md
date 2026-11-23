@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-23
 sources:
   - id: andreas-nygaard-2026
     resource: "https://doi.org/10.48550/arXiv.2601.16919"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that because spectra can be generated in real time, instructors can incorporate CMB power spectra into courses in more detail than traditional Einstein–Boltzmann-solver approaches would permit within available time. [→ Andreas Nygaard 2026](#andreas-nygaard-2026)

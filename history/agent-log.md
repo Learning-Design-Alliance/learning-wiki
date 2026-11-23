@@ -5,6 +5,38 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-23 · source sweep complete; four rules from the maintainer on 2026-11-22
+
+The source sweep (`scripts/sweep/`) finished at 14:19 UTC: every queue is settled, PMC teaching
+trials, the arXiv education-research universe, ERIC intervention studies and, last, the 846 sources
+the screening models split on (eight batches, `j-scrsplit-1` to `-8`, PRs #589 to #595). Each batch
+was triaged and merged on a green `validate`.
+
+- **Scope.** Both scope models agreeing that a page is not about learning removed it, logged in
+  `eval/removed/pages.ndjson` (780 such removals across the sweep). The split-vote batches carried far
+  more of them than earlier tranches, chiefly machine-learning papers in which "teacher", "student",
+  "curriculum" and "in-context learning" are models, and practitioner surveys and clinical work. Pages
+  both models voted out were kept when they bear on teaching: AI tutors' reliability on physics test
+  items, automated-scoring agreement, classroom lab hardware and simulations, a teaching card game,
+  learning-curve claims, and academic outcomes.
+- **DOIs from other agencies count** (CLAUDE.md, the DOI rule): Bouchefra 2023 (mEDRA) on nine claims;
+  DataCite and Zenodo records (Mahdaviazad 2021, Mann et al. 2024, the EDM society's deposit) by the
+  same title, first-author and year check.
+- **Lint warns on a URL-only claim** (`claim_url_only`): 7,408 claims cite a URL but no DOI and no
+  evaluation report, almost all written 2026-10-31 to 11-08 by batches whose lint accepted any URL.
+  The maintainer chose a warning over a failure or a removal pass.
+- **"Originally published YYYY" is written only from the source**: in every batch checked by hand
+  most such notes were unsupported. The check reads the article's front matter and ignores data
+  ranges, template dates, meeting dates, study names and "to appear" notices (six known cases).
+- **Glyph-coded PDF text is refused** (`fetch_article._refuse_garbled`): 5 of 15,147 cached texts;
+  hex codes are decoded, TeX codes refused. One claim had quoted a source as raw hex; it was decoded.
+- **Two operational lessons.** A container restart mid-ingest leaves the batch on a dead proxy: let
+  ingest finish, stop the batch, rerun `enrich.verify_page_citations` on its pages through the live
+  proxy, then `--post-only` (split batch 5; no DOI was removed). And `drive.sh` writes the batch counter
+  only when a batch completes, so after killing one, set `counter-<tranche>` before `start.sh`, or the
+  restarted driver reuses the label. A `git fetch` that runs out of disk leaves a
+  `.git/objects/pack/tmp_pack_*` file (10.5 GB here) that is safe to delete.
+
 ## 2026-11-20 · a third published LDA research release enters the wiki as a cited source
 
 (Corrected the same day: the first version of this entry called it the first. Two earlier

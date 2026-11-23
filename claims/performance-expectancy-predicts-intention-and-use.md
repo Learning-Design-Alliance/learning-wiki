@@ -54,3 +54,4 @@ In the path analysis of 293 learners' Rasch-calibrated measures, the direct path
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](bi-weak-effect-actual-mall-use.md) — related
 - [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related
+- Performance expectancy remains the best predictor of behavioral intention in the attitude-extended UTAUT model when attitude predicts use behavior — related

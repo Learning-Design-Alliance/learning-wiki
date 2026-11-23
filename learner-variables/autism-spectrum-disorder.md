@@ -14,7 +14,7 @@ generated:
 # Autism Spectrum Disorder
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (21 show a difference, 14 mixed, 5 no difference) · 21 studies (5 review, 5 associational, 4 causal, 4 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q3` · 6 of 21 report an effect size · 39 claims rest on one study
+> **Evidence** · 41 claims (22 show a difference, 14 mixed, 5 no difference) · 22 studies (5 causal, 5 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q3` · 6 of 22 report an effect size · 40 claims rest on one study
 
 ## How to read this page
 
@@ -62,6 +62,7 @@ In the research autism appears as a population a design targets (communication s
 - [Based on teacher report, 46% of intervention children versus 31% of control children recovered or improved on the SSiS Autism subscale, a non-significant difference](../claims/first-step-responder-analysis-teacher-report.md) [-M] — instruction changes it
 - [Parents of children at risk of ASD reported significantly greater reductions in autism symptoms and improved empathy after First Step, with non-significant medium effects on communication and cooperation](../claims/first-step-parent-reported-outcomes-asd-risk.md) [~M] — instruction changes it
 - [During the motor intervention, time spent in solitary playground engagement decreases significantly in the experimental group](../claims/motor-intervention-decreases-solitary-engagement.md) [+M] — instruction changes it
+- [Post-training balance, coordination and flexibility were significantly better in the ASD group than in the DS group](../claims/asd-outperformed-ds-post-training.md) [+M] — learners who differ on it differ in outcomes
 
 ### Differences found between autistic and non-autistic people
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](../claims/asd-adults-processing-speed-composite-deficit.md) [+M] — learners who differ on it differ in outcomes

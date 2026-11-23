@@ -52,3 +52,4 @@ Linear model predicting post-score from lab treatment and pre-score, fit to 273 
 - [Following instruction, SQI-lab students favor the residual-distribution expert response much more than traditional-lab students](sqi-students-favor-residual-distribution-response.md) — related
 - [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
+- [A reviewed study found e-lab effectiveness in developing scientific thinking varied by e-lab type, favoring enquiry-based e-labs](redha-2010-enquiry-e-lab-scientific-thinking.md) — related

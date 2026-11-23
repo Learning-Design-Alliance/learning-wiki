@@ -75,3 +75,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Perceived ease of use strongly influences perceived usefulness and enjoyment, and exerts significant indirect effects on attitude and usage intention](peu-indirect-effects-attitude-intention.md) — reports the opposite
 - [Perceived Usefulness, Perceived Ease of Use, and Behavioral Intention toward ABCD technologies show no significant relationship among college students](pu-peou-bi-no-relationship-abcd-assessments.md) — reports the opposite
 - [All six TAM/UTAUT construct scores were significantly above the neutral midpoint 3.0 with large effect sizes (r = 0.68 to 0.81)](ai-automation-acceptance-above-midpoint-large-effects.md) — related
+- [In Model 3 with all possible relationships, a new direct effect of facilitating conditions on behavioral intention emerges (β= .111)](fc-to-bi-new-effect-model3.md) — related

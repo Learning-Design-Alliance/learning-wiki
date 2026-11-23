@@ -57,3 +57,4 @@ Within-class comparison of SWPBIS versus comparison schools in the 4-year group-
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on
+- [In the same sample, the RP intervention reduced discipline incident records (ODRs) even though suspensions did not decline overall](rp-reduced-odr-same-sample.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-23
 sources:
   - id: c-z-mann-2024
     resource: "https://doi.org/10.5281/zenodo.12729874"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A random forest imputation model using all covariates from the RCT sample alone produced a less precise effect estimate than adjusting for only the pretest. [→ C. Z. Mann 2024](#c-z-mann-2024)

@@ -47,3 +47,4 @@ Mediational path models with autoregressive and cross-lagged pathways (CFIs > 0.
 ## Related Claims
 - [Preschool attendees outperform informal-care peers on academic achievement from kindergarten through early adolescence](preschool-academic-benefits-persist-through-adolescence.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Long-term 'sleeper effects' of early elementary retention on adolescent outcomes are under-studied](retention-sleeper-effects-adolescent-outcomes-understudied.md) — related

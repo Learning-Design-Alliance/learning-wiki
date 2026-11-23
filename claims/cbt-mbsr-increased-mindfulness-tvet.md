@@ -51,3 +51,4 @@ MRM ANOVA on VEMS mindfulness scores in the same RCT. Treatment mindfulness rose
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — related
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — related
 - [Treatment-by-group interaction effects in the MANCOVA were significant across all three outcomes, suggesting tailored CBT-MBSR strategies were especially effective](cbt-mbsr-treatment-group-interaction-effects.md) — related
+- [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](no-differences-maas-scs-intimacy.md) — reports the opposite

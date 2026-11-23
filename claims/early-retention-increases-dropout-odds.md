@@ -71,3 +71,4 @@ Sensitivity check using the parallel multinomial logistic analysis with covariat
 - [Prior analyses with this sample found no harm to achievement or motivation at the transition to high school, yet retention still raises dropout odds](retention-no-achievement-motivation-harm-but-dropout.md) — possibly the same claim (merge candidate)
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](postpolicy-retention-effect-smaller-but-larger-impact.md) — related
 - [Early grade retention did not significantly affect the likelihood of earning a GED versus graduating from high school](retention-no-effect-ged-versus-graduation.md) — related
+- [Retained students' spring 2007 academic and psychosocial outcomes are reported descriptively, with formal treatment effects still forthcoming](retained-group-descriptive-outcomes-forthcoming-effects.md) — related

@@ -50,6 +50,7 @@ The article's program ran "8 weeks with frequency twice per week for 50 minutes 
 ## Related Strategies
 
 - [Implement ITSS twice weekly for about 30 minutes per session over 7 months to 1 year, with teacher professional development and coaching](itss-dosage-and-pd-implementation-strategy.md)
+- [Deliver gymnastics training accompanied by non-verbal rhythmic music in 16-week sessions for children with ASD and DS](gymnastics-with-nonverbal-music-program-strategy.md)
 
 ## Examples
 -

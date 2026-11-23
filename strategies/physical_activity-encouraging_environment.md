@@ -65,6 +65,7 @@ Environmental interventions work by changing defaults rather than relying on ind
 - Physically active lessons — integrate movement with academic content rather than competing with it
 - [Design daily school programmes that schedule meals, play and frequent short recreation periods alongside lessons](chaillou-whole-organism-daily-programme.md)
 - [Implement school breakfast clubs and active-transport walking programs combining low-GI breakfast with light bilateral coordinative exercise](breakfast-club-coordinative-exercise-strategy.md)
+- [Increase school-based and extracurricular sports activity participation to improve children's health-related quality of life](increase-sbep-extracurricular-sports-hrql.md)
 
 ## Related Elements
 - [Supportive information](../elements/supportive-information.md) — signage and norms that make activity options legible
