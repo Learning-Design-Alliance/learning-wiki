@@ -53,3 +53,4 @@ Cross-sectional study of 350 students; adjusted logistic regression on GPA. The 
 - [Female gender, normal waist circumference and good mindfulness predict normal BMI](predictors-normal-bmi-students.md) — related
 - [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — reports the opposite
 - [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — reports the opposite
+- [Underweight children were significantly less likely to score high academic performance than their normal-weight counterparts](underweight-associated-with-low-academic-performance.md) — related

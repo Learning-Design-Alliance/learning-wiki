@@ -63,3 +63,4 @@ Stepwise multiple linear regression on 256 students, with entry threshold p < 0.
 - [An explanatory stepwise regression including student, tutor and group factors explains 75% of grade variance, with interactivity, cohesion and social capital as significant positive predictors](explanatory-regression-explains-grade-variance.md) — related
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [Social anxiety is negatively associated with college students' academic performance (GPA)](social-anxiety-negative-academic-performance.md) — related
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

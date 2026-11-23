@@ -58,3 +58,4 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Gender affects non-dominant completion time, significant only in the novice group](gender-nd-completion-time-novice-only.md) — related
 - [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](intimate-examination-gender-divide-jordan.md) — a narrower finding that bears on this claim
 - [Males dominated computer control in mixed-gender groups, and female undergraduates were never observed controlling the computer](male-computer-domination-mixed-gender-groups.md) — related
+- [Prior studies report that men spend less time and produce fewer errors than women in surgical simulator training, a difference the authors say is largely unaddressed](sex-differences-surgical-simulator-training.md) — related

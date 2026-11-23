@@ -67,3 +67,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Weight status is strongly associated with academic performance: obesity negatively, normal weight positively](weight-status-associated-academic-performance.md) — related
 - [Higher BMI z-score is associated with lower Stroop score and greater moderate-to-vigorous physical activity with higher Stroop score](bmi-and-mvpa-stroop-associations.md) — related
 - [Higher physical activity and fitness are linked to better cognition and academic achievement in children in some but not all studies, with possibly stronger effects in children with ADHD, low fitness, or overweight](physical-activity-cognition-children-mixed.md) — a broader claim this one bears on
+- [Average physical activity shows no significant association with learning goal achievement during an examination period](average-physical-activity-not-related-to-learning-goal-achievement.md) — related

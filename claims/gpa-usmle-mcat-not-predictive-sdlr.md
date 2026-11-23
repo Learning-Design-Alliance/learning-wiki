@@ -49,3 +49,4 @@ Multiple regression analysis in fourth-year medical students found the standardi
 - [Institutional GPA added incremental validity over MCAT alone for predicting institutional USMLE scores (ΔR² 2% for Step 1, 4% for Step 2 CK)](gpa-incremental-validity-over-mcat-usmle.md) — related
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [No evaluation variable predicted the self-determination subscale of self-directed learning readiness](no-predictor-self-determination-subscale.md) — a narrower finding that bears on this claim
+- [Combining MCAT score with uGPA did not increase predictive associations with most outcome measures, unlike prior medical-student studies](mcat-ugpa-combination-no-gain.md) — related

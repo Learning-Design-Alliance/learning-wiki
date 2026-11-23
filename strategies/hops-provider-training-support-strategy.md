@@ -52,6 +52,7 @@ The protocol specifies a training and technical-support model adapted from prior
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids](superkids-no-cost-pd-support-strategy.md)
 - [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

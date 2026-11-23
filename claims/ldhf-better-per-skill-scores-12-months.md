@@ -50,3 +50,5 @@ Per-skill OSCE comparison at 12 months post-training in the cluster randomized c
 - [Rural providers showed significantly greater skills declines in manual removal of the placenta and active management of the third stage of labor](rural-providers-greater-skills-decline-mrp-amtsl.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
 - [The TRAD arm scored better on knowledge tests at baseline and immediately after training in some thematic areas, such as AMTSL and neonatal resuscitation](trad-better-early-knowledge-scores.md) — related
+- [The authors hypothesize simulation-based LDHF/m-Mentoring will yield better satisfaction, knowledge and skill outcomes and greater cost-effectiveness than group-based training](ldhf-hypothesis-better-outcomes-cost.md) — related
+- [A cluster randomized trial is planned comparing LDHF/m-Mentoring versus traditional group-based training across 60 Nigerian health facilities (protocol, no results yet)](ldhf-vs-trad-cluster-rct-protocol.md) — related

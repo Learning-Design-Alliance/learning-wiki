@@ -51,6 +51,7 @@ The team adopted an explicitly anti-oppressive and anti-colonial approach to adv
 - [Use liberating structures — World Café rotations and Spiral Journaling — to balance power dynamics in co-design workshops](world-cafe-spiral-journal-codesign-engagement.md)
 - [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 - [Adopt a one-page Event Participation Code of Conduct distributed before and at meetings](one-page-code-of-conduct-meetings.md)
+- [Structured facilitation of virtual meetings: preparation, ground rules, equitable turn-taking, and post-meeting reflection](structured-facilitation-virtual-promotions-meetings.md)
 
 ## Examples
 -

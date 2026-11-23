@@ -52,3 +52,4 @@ Multiple linear regression on the 627-nurse survey: "junior: β = −0.220, p < 
 - [Lower job satisfaction is associated with lower KAP total and dimension scores for PED](job-satisfaction-negatively-associated-ped-kap.md) — related
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [Lower job titles, fewer years of experience, lower education and lower-level hospitals were associated with better eye care practices, contrary to the knowledge dimension pattern](junior-nurses-better-eye-care-practices-contrary-pattern.md) — related
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — related

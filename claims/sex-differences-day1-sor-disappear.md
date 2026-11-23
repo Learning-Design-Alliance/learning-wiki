@@ -66,3 +66,4 @@ The same subgroup analysis found that during the training process there were "no
 ## Related Claims
 - [VSA correlates with VR surgical performance mainly early in training, with correlations for the complex task not detectable by day 9](vsa-correlates-early-training.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
+- [Prior studies report that men spend less time and produce fewer errors than women in surgical simulator training, a difference the authors say is largely unaddressed](sex-differences-surgical-simulator-training.md) — reports the opposite

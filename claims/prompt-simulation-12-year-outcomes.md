@@ -51,3 +51,4 @@ The article cites PROMPT as evidence that simulation-based education using maste
 - [Among shoulder dystocia cases, the risk of permanent brachial plexus birth injury was significantly lower after simulation training (43.5% vs 6.0%)](sd-cases-bpbi-risk-lower-post-training.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Permanent brachial plexus birth injury incidence decreased after implementation of systematic simulation training despite rising shoulder dystocia incidence](simulation-training-reduced-permanent-bpbi-incidence.md) — related
+- [Prior observational studies of PROMPT training reported large reductions in adverse perinatal outcomes, motivating the randomised evaluation](prompt-observational-outcome-improvements.md) — related

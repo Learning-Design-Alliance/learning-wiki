@@ -53,3 +53,4 @@ Secondary subgroup analysis of the 50-nurse sample: the Mann-Whitney U test foun
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
 - [Nurses' ECG arrhythmia interpretation knowledge rose significantly from pre-test to post-test after a self-directed e-learning package in cardiology units, in one uncontrolled pre-test/post-test study](sdl-package-improves-nurse-ecg-arrhythmia-interpretation.md) — related
 - [SDL readiness shows no significant differences by gender, living condition, or presence of a doctor in the immediate family](no-sdl-differences-gender-living-family-doctor.md) — related
+- EBPQ and PES-NWI scores show no difference between female and male primary care nurses — related

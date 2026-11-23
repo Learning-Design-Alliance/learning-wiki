@@ -51,3 +51,4 @@ Post hoc comparisons from the ANCOVA analyses of the nationwide dataset, reporte
 - [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related
 - [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — related
 - [The fitness–achievement association is subject-dependent: stronger for math, science and social science than for language and foreign language](subject-dependent-fitness-achievement-association.md) — related
+- [Students high-fit in aerobic fitness in both years 1 and 3 outperformed all other aerobic-fitness-change groups on the BCTJH exam](aerobic-hh-group-outperforms-exam.md) — related

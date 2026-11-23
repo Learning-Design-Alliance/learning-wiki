@@ -91,3 +91,4 @@ Group 2 navigation analysis: "a lower proportion of exam -related activity" with
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — reports the opposite
 - [Depression shows a significant negative direct association with academic performance (GPA)](depression-negative-direct-association-gpa.md) — reports the opposite
+- Time spent online and pages opened show inconsistent, target-dependent associations with e-therapy outcomes — related

@@ -88,3 +88,4 @@ Author's general conclusion from the four series: a theoretical argument that hi
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Third-graders' language-formatted, Arabic numeral-formatted, and estimation arithmetic outcomes are separable but highly related latent factors](arithmetic-outcomes-format-specific-separable.md) — related
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
+- Inferring from a group probability to an individual patient has little warrant, so population-level evidence cannot close the gap to the individual case — related

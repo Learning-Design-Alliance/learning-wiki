@@ -52,3 +52,4 @@ Observation from the pre- and post-course trials of the seven-novice construct-v
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
 - [Multidirectional stitching training causes less suture-tissue damage compared with traditional instruction](multidirectional-stitching-tissue-integrity.md) — related
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
+- [New hazardous complications of TaTME (urethral lesions, pelvic side-wall damage) are reported and the authors state they need further attention in education](tatme-hazardous-complications-need-education.md) — related

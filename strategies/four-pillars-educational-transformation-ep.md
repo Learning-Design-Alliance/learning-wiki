@@ -52,6 +52,7 @@ Building on PBP principles, the statement proposes four implementation pillars: 
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 - [Harmonize European HF nurse education, training and career pathways through an updated curriculum, accreditation and certification](harmonize-hf-nurse-education-career-pathway.md)
+- [Introduce new endoscopic techniques through structured national training programmes with competency-based assessment, accreditation and error/near-miss analysis](structured-competency-based-endoscopy-training-programmes.md)
 
 ## Examples
 -

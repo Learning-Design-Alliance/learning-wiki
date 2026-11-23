@@ -50,3 +50,4 @@ Focus group direct observation and feedback theme; one resident said "I have nev
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — reports the opposite
 - [Residents judged procedure logbooks inadequate as assessment because they do not reflect performance, ensure direct observation or provide feedback](procedure-logbooks-inadequate-assessment.md) — related
+- [Residents agree autopsies are an important learning tool but report lacking knowledge and skills for the requisition process](residents-lack-autopsy-requisition-skills.md) — related

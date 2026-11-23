@@ -52,6 +52,7 @@ The article recommends that educators and parents build activity settings emphas
 - [Create a task-oriented motivational climate focused on the learning process to protect mental health and favour academic performance](task-climate-process-focus-strategy.md)
 - [Develop physical activity or sports programs that strengthen peer relationships to improve the academic performance of adolescents experiencing depression](sports-programs-strengthen-peer-relationships-strategy.md)
 - [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
+- [Strengthen physical activity engagement through physical education classes and create task-oriented motivational climates](strengthen-pe-activity-task-climates-strategy.md)
 
 ## Examples
 -

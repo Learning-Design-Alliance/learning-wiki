@@ -55,6 +55,7 @@ The article recommends adopting immersive VR to address the lack of structured s
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Co-design VR communication scenarios with nurse educators and technology developers, incorporating authentic clinical cases and language resources](co-design-vr-scenarios-educators-developers.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Use simulated ward environments to train and assess surgical ward round processes through repeated safe practice](simulated-ward-round-training-strategy.md)
 
 ## Examples
 -

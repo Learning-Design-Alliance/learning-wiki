@@ -60,3 +60,4 @@ Cross-sectional partial correlation analysis of 713 adolescents, adjusted for ag
 - [Cardiorespiratory fitness is positively associated with general intelligence in adolescents on both the D48 and Raven tests, adjusting for sex and age](crf-associated-with-intelligence-adolescents.md) — related
 - [Students classified as fit show better academic achievement than unfit students across fitness components](fit-vs-unfit-groups-academic-achievement.md) — related
 - [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related
+- [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](aerobic-fitness-strongest-relationship.md) — related

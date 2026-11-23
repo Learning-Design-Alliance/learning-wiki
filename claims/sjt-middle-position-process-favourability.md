@@ -47,3 +47,4 @@ Repeated-measures ANOVAs comparing SJT process favourability (M = 4.39, SD = 1.2
 ## Related Claims
 - [No significant main effects of gender, ethnic background or first-generation university status on applicant perceptions of an SJT](no-main-subgroup-differences-sjt-perceptions.md) — related
 - [First-generation university students, but not non-first-generation students, prefer rating formats over pick-one formats](first-generation-students-prefer-rating-format.md) — related
+- [Applicants judged the SJT the least difficult but the most important part of the admission examination](sjt-rated-least-difficult-most-important.md) — related

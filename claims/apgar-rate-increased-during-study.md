@@ -52,3 +52,4 @@ Descriptive prevalence analysis across the six study periods in the 12 randomise
 - [In a single-group pre-post study, the percentage of neonates not breathing at 1 minute and not appropriately receiving bag and mask ventilation fell from pretraining to post-training](hbb-training-increases-appropriate-bag-mask-ventilation.md) — related
 - [No statistically significant differences in adverse maternal or neonatal outcomes between pre- and post-intervention periods](no-significant-change-adverse-outcomes-twin-birth-training.md) — related
 - [Units with higher pre-study Apgar<7 rates maintained higher rates during the study (OR=2.09)](prestudy-high-apgar-rate-predictor.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

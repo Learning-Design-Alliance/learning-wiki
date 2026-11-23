@@ -49,3 +49,4 @@ Post-quiz 5-point Likert questionnaire in the same randomized trial of 39 parame
 - [Paramedics taught the NIHSS with an interactive e-learning module achieved better overall quiz scores than paramedics taught with the subtitled NIHSS video](elearning-module-better-nihss-quiz-scores-paramedics.md) — related
 - [The video group scored better than the e-learning group on the dysarthria item, which the e-learning module lacked video extracts for](video-group-better-dysarthria-item.md) — related
 - [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — related
+- [No conclusive evidence exists to recommend one paramedic training method over another; most extended-skill studies combined theory and practical training](no-evidence-preferred-paramedic-training-method.md) — related

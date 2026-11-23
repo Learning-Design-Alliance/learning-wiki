@@ -49,3 +49,4 @@ Quantitative descriptive analysis of 22 students' self-reported MITI scores afte
 - [Students found motivational interviewing challenging but identified the MITI tool as useful for promoting self-reflection and isolating MI skills](students-find-mi-challenging-miti-useful-reflection.md) — related
 - [Students self-reported a mode of four across all five MITI global sub-scores, indicating perceived high-level MI skills](students-self-report-mode-four-miti-subscores.md) — possibly the same claim (merge candidate)
 - [Self-efficacy correlates with clinical performance in PT and SLP students but not OT students](self-efficacy-clinical-performance-pt-slp-not-ot.md) — related
+- [Nurses' self-ratings of their MI performance greatly overestimated their coded MITI performance on four of five global dimensions and on most behavior counts](nurse-self-ratings-overestimate-miti-performance.md) — related

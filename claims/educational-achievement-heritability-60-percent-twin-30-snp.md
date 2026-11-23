@@ -86,3 +86,4 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 - [Choice of specific A-level subjects is more heritable (50–80%) and less influenced by shared environment (0–23%) than the choice to continue at A-level](subject-choice-more-heritable-than-continuation.md) — related
 - [Subject-specific A-level heritabilities range from 35% for history to 76% for chemistry, but the study lacks power to detect these differences](subject-heritability-range-history-chemistry.md) — a narrower finding that bears on this claim
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
+- [University quality remains substantially heritable (47%) even after prior entrance exam achievement is accounted for](university-quality-heritable-beyond-prior-achievement.md) — a narrower finding that bears on this claim

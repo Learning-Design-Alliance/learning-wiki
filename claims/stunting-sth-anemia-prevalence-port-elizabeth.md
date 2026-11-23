@@ -53,3 +53,4 @@ Descriptive statistics from the cross-sectional baseline (n = 1277 with valid se
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Among South African primary school girls, higher cardiorespiratory fitness is consistently associated with higher grades and stunting with poorer grades in language and mathematics](crf-stunting-girls-academic-achievement-south-africa.md) — related
 - [Boys had higher stunting prevalence than girls at birth, early childhood and late childhood](boys-higher-stunting-prevalence-than-girls.md) — related
+- Stunting prevalence was significantly higher in male than female primary school children in the study sample — related

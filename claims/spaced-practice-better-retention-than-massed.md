@@ -53,3 +53,4 @@ The review cites a systematic review (Cecilio-Fernandes et al.) on spacing of su
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related

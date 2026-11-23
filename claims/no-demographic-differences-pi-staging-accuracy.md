@@ -64,3 +64,4 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Nurses’ late-life depression knowledge did not differ significantly by demographic or characteristic variables](no-demographic-differences-lld-knowledge.md) — related
 - [Baseline knowledge differed by age and education level, but pre-to-post change scores did not significantly differ between demographic subgroups in a single-group pre-post study of an e-learning course](baseline-demographic-differences-no-subgroup-effect-differences.md) — related
 - [No significant difference in DBS knowledge scores by resident sex or age](no-sex-age-difference-dbs-knowledge.md) — related
+- [Neither PI nor MMI scores were statistically significantly associated with sex, age, race, or pre-university academic ability](pi-mmi-scores-no-demographic-academic-association.md) — related

@@ -51,3 +51,4 @@ Perceived-importance ratings for 16 fall risk factors in the cross-sectional sur
 - [Frequency of standardized fall-risk tool use is strongly associated with higher fall-prevention knowledge scores among Saudi physical therapists](tool-use-frequency-linked-to-knowledge.md) — related
 - [Saudi physical therapists show a knowledge-practice gap: 52.1% have high fall-prevention knowledge but only 14.8% consistently use standardized assessment tools](pt-fall-prevention-knowledge-practice-gap.md) — related
 - [Education level is not significantly associated with fall-prevention knowledge among Saudi physical therapists](education-level-not-linked-to-fall-prevention-knowledge.md) — related
+- Higher self-assessed competence in supporting self-determination of persons with memory disorders and in falls prevention is associated with higher self-rated quality of care — related

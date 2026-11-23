@@ -195,3 +195,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Teachers cite a lack of professional development, especially infrequent or untailed training, as a major barrier to digital integration](lack-tailored-pd-barrier-digital-integration.md) — related
 - [Existing Minecraft-in-education research assumes infrastructure and teacher support unavailable in low-resource, multilingual, exam-oriented settings](minecraft-research-assumes-well-resourced-settings.md) — related
 - [Experts identified workload, training and cost as key barriers, and funding, clear policy documents and regulatory requirements as key enablers, for implementing ECEC physical activity policy](ecec-physical-activity-barriers-enablers.md) — related
+- Most clinicians caring for febrile children lack paediatric-specific training, and resource gaps including diagnostics, equipment, staffing, and medications impede assessment and treatment — related
+- [Implementing peer review with audit and feedback without embedded researchers proved not feasible in Dutch primary care](peer-review-audit-feedback-implementation-infeasible.md) — related

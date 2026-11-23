@@ -84,3 +84,5 @@ The Flynn effect is one of the best-replicated findings in intelligence research
 ## Related Claims
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
 - [US cohort achievement trends per decade are steeper in math (median 0.19sd) than in reading (median 0.04sd) across linked surveys](math-gains-exceed-reading-gains-us-cohorts.md) — related
+- The projected US ability rise to 2060 is roughly a quarter to a sixth of the twentieth-century international Flynn-effect rate — a narrower finding that bears on this claim
+- [US population-average cognitive ability (17-year-olds) is projected to rise to about 103 (optimistic) or 102 (pessimistic) IQ by 2060, at 0.76 or 0.45 IQ points per decade](us-iq-projection-2060-naep.md) — a narrower finding that bears on this claim

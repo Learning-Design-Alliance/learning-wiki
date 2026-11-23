@@ -47,3 +47,5 @@ Self-reported practice-frequency data (four-point scale, Cronbach's alpha 0.782)
 ## Related Claims
 - [Post-training success rates in observed procedural skills rose markedly, reaching 100% in oxygen administration and fracture stabilization and 90% in endotracheal intubation](post-training-skill-success-rates-gains.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
+- [No conclusive evidence exists to recommend one paramedic training method over another; most extended-skill studies combined theory and practical training](no-evidence-preferred-paramedic-training-method.md) — related
+- [Paramedics trained in specialised skills for children with special healthcare needs made more appropriate interventions, but this did not change transport or admission rates](specialised-training-children-appropriate-care.md) — related

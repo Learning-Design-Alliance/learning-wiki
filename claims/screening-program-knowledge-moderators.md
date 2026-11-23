@@ -49,3 +49,4 @@ Survey results on the screening-program subtopic among 401 family physicians, wi
 - [Family physicians' awareness of lesser-known DDH risk factors (foot deformity, first-born baby, ligamentous laxity, and others) is below 50%](ddh-risk-factor-awareness-gaps.md) — related
 - [Self-perceived competency regarding DDH is higher among physicians with over 10 years of experience, specialists, and those who follow DDH patients](ddh-self-competency-experience-specialists.md) — related
 - [Congresses are a main knowledge source for physicians (61.1%) but far less for nurses (15%)](congresses-knowledge-source-physicians-vs-nurses.md) — related
+- Obstetrician-gynecologists who know the preeclampsia guidelines counsel and follow up patients more often than those who do not — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Hyewon Jang. (2026). Measurement of the effect of member performances on team ou
 - [The mean of member scores correlates with team outcomes (r = 0.60) while the standard deviation correlates only weakly (r = 0.36)](mean-sd-member-scores-team-outcome-correlation.md) — related
 - [Member performances explain less than half the variance in team outcomes in two-stage exams](member-performance-explains-less-than-half-team-variance.md) — related
 - [In regression models, the best and mean of member performances significantly affect team outcomes, whereas the standard deviation has a weak effect](regression-best-mean-significant-sd-weak-team-outcomes.md) — related
+- Virtual team size predicts decision-making effectiveness, with social loafing observed even in four-member teams — related

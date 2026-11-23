@@ -87,3 +87,4 @@ Same Model 1 regression, contrasting programme types against standard entry. Gat
 - [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — reports the opposite
 - [Demographic variables (gender, ethnicity, socioeconomic status, age) are not significant predictors of community college astronomy performance](demographics-not-predictors-community-college-astronomy-performance.md) — related
 - [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related
+- [Socio-demographic predictors of UMAT score change on re-sitting: gains predicted by male gender and NZ origin, and reduced by longer interval, older age and non-English language background](umat-score-change-predictors.md) — related

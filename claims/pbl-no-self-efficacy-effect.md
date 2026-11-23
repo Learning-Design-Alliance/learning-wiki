@@ -51,3 +51,4 @@ Mixed-model analysis of the General Self-Efficacy Scale in the COR-PRIM randomis
 - [Self-efficacy (GSES) scores were significantly higher in the intervention group at 1 month after on-call initiation](sps-cbl-higher-gses-one-month.md) — related
 - [The audit team's self-rated general self-efficacy (GSE) scores rose from pre-test to post-test after communication training, in one uncontrolled pre-post study](communication-training-improved-general-self-efficacy.md) — related
 - [Smartphone-based video feedback did not improve general self-efficacy as measured by the GSE Scale](video-feedback-no-gse-self-efficacy-change.md) — related
+- [COR-PRIM is designed to test whether one year of PBL patient education improves beliefs, self-efficacy and empowerment to change self-care more than home-sent patient information](cor-prim-hypothesis-pbl-vs-home-sent-info.md) — related

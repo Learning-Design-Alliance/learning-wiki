@@ -50,3 +50,4 @@ Review synthesis reporting that in 34 studies CHWs reported community "trust and
 - [Lack of clarity on CHW tasks and roles, especially from the community side, lowered CHW motivation and performance](role-clarity-lack-lowers-chw-motivation-performance.md) — related
 - [Embedment of CHWs in community and health systems diminished workload and increased CHW credibility](chw-embedment-diminishes-workload-increases-credibility.md) — related
 - [A mix of financial and non-financial incentives, predictable for CHWs, is an effective strategy to enhance CHW performance, especially for CHWs with multiple tasks](predictable-mixed-incentives-enhance-chw-performance.md) — a broader claim this one bears on
+- Community support, feedback, and rewards shape CHW performance, sometimes more than health system support — related

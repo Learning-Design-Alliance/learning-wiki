@@ -57,3 +57,5 @@ Multiple regression on UKMED graduate-entrant data predicting normalised FPAS SJ
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
 - [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related
 - [Differential attainment on the UKFPO SJT is relatively small, similar to the EPM, and modest compared with other selection tools](sjt-differential-attainment-modest.md) — related
+- [SJT score shows no significant relationship with UKCAT cognitive ability scores](integrity-sjt-no-ukcat-relationship.md) — reports the opposite
+- [Unadjusted, several sociodemographic groups differ in allocation: women, state-school and graduate entrants were more likely, and FSM, income-support and non-White applicants less likely, to reach a higher-choice school](univariate-allocation-associations.md) — related

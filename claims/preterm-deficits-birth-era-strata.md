@@ -78,3 +78,5 @@ Subgroup meta-analysis by birth era for mathematics. The most severe impairments
 - [High-risk treatment protocols and age at diagnosis show no significant association with reading scores in this cohort](high-risk-protocol-age-diagnosis-reading-null.md) — related
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
 - [Qualification for upper secondary school among children with CHD did not change across surgical eras before, during, or after centralization of pediatric heart surgery.](no-improvement-uss-qualification-across-surgical-eras.md) — related
+- [Negative effects of prematurity on academic outcomes appear unchanged despite increased survival in the antenatal steroids and surfactant era](preterm-academic-outcomes-unchanged-surfactant-era.md) — possibly the same claim (merge candidate)
+- [Preterm children score 0.71 SD below full-term peers in arithmetic](preterm-arithmetic-deficit-0-71-sd.md) — related

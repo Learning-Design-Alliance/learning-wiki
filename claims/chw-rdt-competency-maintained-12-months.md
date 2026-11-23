@@ -55,3 +55,5 @@ Longitudinal GEE analysis of 103 CHWs observed with a 20-step checklist at train
 - [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related
 - [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
 - [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related
+- [Practical training with observation of practice and problem solving enables CHWs to perform and correctly read rapid diagnostic tests](practical-training-improves-chw-rdt-performance.md) — related
+- [Short, competency-based training with on-site mentoring supports CHW performance in malaria case management](short-competency-based-chw-training-malaria.md) — related

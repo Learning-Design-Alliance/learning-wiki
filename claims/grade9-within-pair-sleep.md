@@ -55,3 +55,4 @@ Grade 9 BW models showed within-pair sleep quality effects on reading and mathem
 - [Within-pair daytime sleepiness differences predict all four outcomes in Grade 3](within-pair-sleepiness-grade3.md) — related
 - [Inattention mediates the association between daytime sleepiness and reading and mathematics in Grade 3](inattention-mediation-sleep-achievement.md) — related
 - [Students with a bed partner in a different room showed significantly lower sleep quality than students without a roommate](partner-other-room-lower-sleep-quality.md) — related
+- [On days with better sleep quality, students report better daily learning goal achievement](daily-sleep-quality-predicts-daily-learning-goal-achievement.md) — related

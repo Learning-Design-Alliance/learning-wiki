@@ -54,6 +54,7 @@ The article advocates that "simulation training has become widely available, we 
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Use iVR refresher training before infrequently performed procedures to refresh skill and knowledge](ivr-refresher-before-rare-procedures-strategy.md)
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
+- [Schedule frequent hands-on training for ET and EasyTube if these devices are kept in pediatric emergency carts](frequent-training-for-et-ezt-in-emergency-carts.md)
 
 ## Examples
 -

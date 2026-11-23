@@ -51,6 +51,7 @@ The review recommends that future studies take advantage of technology improveme
 - [Internet-based application for post-discharge adherence reminders and health education](app-based-followup-adherence-support-strategy.md)
 - [Deliver physician behaviour-change training via the internet to enable wide, low-cost dissemination across health systems](internet-delivery-scalable-physician-training-strategy.md)
 - [Use the World Wide Web and information technologies as interactive tools in space science education programmes at all levels](www-it-tools-space-science-education.md)
+- [Use modern web-based or app-based teaching aids, such as video guides and smartphone training apps, to speed GPs' uptake of vestibular techniques](web-app-teaching-aids-vestibular-uptake.md)
 
 ## Examples
 -

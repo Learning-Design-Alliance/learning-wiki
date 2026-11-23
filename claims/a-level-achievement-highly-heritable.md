@@ -74,3 +74,5 @@ Same univariate ACE model-fitting analysis, comparing the humanities composite w
 - [Age-to-age change in achievement is largely explained by non-shared environmental factors, while genetic and shared environmental influences are stable](genetic-stability-environmental-change-achievement.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
 - [Choice of specific A-level subjects is more heritable (50–80%) and less influenced by shared environment (0–23%) than the choice to continue at A-level](subject-choice-more-heritable-than-continuation.md) — related
+- [Shared environmental influence is substantial for university enrolment (36%) but non-significant for university achievement, where heritability falls to 46%](shared-environment-university-enrolment.md) — related
+- [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related

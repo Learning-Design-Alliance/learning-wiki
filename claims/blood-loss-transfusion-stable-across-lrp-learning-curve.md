@@ -59,3 +59,4 @@ Kruskal–Wallis testing of estimated blood loss across the three groups (means 
 - [Task achievement rates showed no significant decrements across VRT sessions, supporting the appropriateness of the difficulty progression design](vr-pmt-no-achievement-decrement-sessions.md) — related
 - [Estimated blood loss and hematocrit decrease were significantly higher in the first 15 vaginal myomectomy cases than in subsequent groups](vm-bleeding-higher-first-15-cases.md) — reports the opposite
 - [Intraoperative blood loss is lower in advanced learning curve radical prostatectomy than in initial learning curve cases](lower-blood-loss-advanced-learning-curve.md) — reports the opposite
+- [Increasing surgeon laparoscopic experience had no notable effect on conversion odds in either arm, suggesting surgeons were already expert at laparoscopic surgery](rolarr-laparoscopic-experience-negligible-effect.md) — related

@@ -53,3 +53,4 @@ Phase-wise comparison of outcomes in the single-surgeon series (Table 4 reports 
 - [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related
 - [Ninety-day postoperative morbidity was similar before and after completion of the learning phase for both the trainee and the expert robotic surgeon](rtapp-morbidity-similar-across-learning-phases.md) — reports the opposite
 - [The cataract surgery learning curve is steep: basic competency after about 80 cases and surgical finesse after about 300 cases](cataract-learning-curve-80-300-cases.md) — related
+- [No actual learning curve for TaTME could be extracted from the included studies because a proficiency curve has yet to be determined](tatme-learning-curve-not-extractable.md) — related

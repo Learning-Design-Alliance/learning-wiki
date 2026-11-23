@@ -67,3 +67,4 @@ Quasi-experimental pre/post study during COVID-19 with 143 patients and 72 emerg
 - [Structured conversation guides shift goals-of-care conversations beyond code status and support behavior change when implementation supports are present](conversation-guides-shift-beyond-code-status.md) — related
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — a broader claim this one bears on
 - [Only 14.5–40% of patients with serious illness have a goals conversation with their clinician, and documented orders frequently discord with patient preferences](low-rate-gopc-conversations-discordant-orders.md) — related
+- The percentage of physicians suggesting pre-emptive dose reduction rose from 29% to 53% after an electronic alert was presented in an electronic medical record, in one single-group pre-post study — related

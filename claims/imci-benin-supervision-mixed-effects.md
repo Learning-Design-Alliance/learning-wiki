@@ -51,3 +51,4 @@ Multivariable regression on register data found supervision visits significant f
 - [For adequate fever treatment, more supervision visits attenuated the decline in health worker performance seen with increasing age](imci-benin-supervision-attenuates-age-decline.md) — related
 - [Routine supportive supervision on iCCM was not significantly associated with correct management of childhood illness](routine-supervision-not-associated-correct-management.md) — related
 - [Greater supervisory visit frequency is associated with stronger IMCI training benefits in most performance domains](imci-supervision-associated-stronger-benefits.md) — a broader claim this one bears on
+- CHW diagnosis of pneumonia under integrated CCM is variable, with median agreement with clinician gold standard of 63.7% — related

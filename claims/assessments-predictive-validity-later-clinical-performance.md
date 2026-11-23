@@ -60,3 +60,4 @@ The review's narrative synthesis of predictive validity studies (peer ratings, p
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — a narrower finding that bears on this claim
 - [Multiple-choice assessment correlates at least as highly as open-ended assessment — and possibly more highly — with subsequent workplace performance after graduation](mcq-predicts-workplace-performance-better.md) — a narrower finding that bears on this claim
 - [Year 1 communication ratings inversely predicted year 5 OSCE performance for traditional curriculum students only](year1-communication-inverse-year5-osce-traditional.md) — a narrower finding that bears on this claim
+- [SJT score correlates negatively with prior academic attainment (r = -.19)](integrity-sjt-negative-academic-correlation.md) — related

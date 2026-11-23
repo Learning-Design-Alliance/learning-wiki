@@ -47,3 +47,4 @@ Univariate mixed regression from the RCT's planned analysis (Table 3). The stand
 ## Related Claims
 - [Neither the SEMLA nor the DIL intervention produced measurable effects on preschool children's language, communication, executive functions, socioemotional comprehension, or early math skills](semla-dil-preschool-intervention-null-effects.md) — related
 - [Fidelity of implementation and percentage of instructional time on engaged reader processes added only 2% explained variance to comprehension post-test scores beyond controls](fidelity-time-added-2-percent-variance-comprehension.md) — related
+- [The trial protocol hypothesizes positive intervention effects of both SEMLA and DIL on executive functions, early maths, socioemotional skills, communication and language in preschool children](semla-dil-hypothesized-positive-effects.md) — related

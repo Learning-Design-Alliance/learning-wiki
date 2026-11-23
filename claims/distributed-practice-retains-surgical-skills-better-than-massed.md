@@ -49,3 +49,4 @@ The review's synthesis across the spacing studies it includes, stating distribut
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — related
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — a broader claim this one bears on
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — possibly the same claim (merge candidate)
+- [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related

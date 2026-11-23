@@ -48,3 +48,6 @@ Stratified mixed-model analysis of the randomised COR-PRIM trial (n=72 PBL, n=71
 - [The PBL group's self-rated health (EQ-VAS) increased significantly at 1, 3 and 5 years compared with baseline, with no significant changes in the control group](pbl-improved-self-rated-health-eqvas.md) — related
 - [HDL cholesterol increased significantly at 1, 3 and 5 years in the PBL group compared with baseline, with no significant change in the control group](pbl-increased-hdl-cholesterol-5-year.md) — related
 - [PBL produced no significant group effect or change over time in general self-efficacy (GSES)](pbl-no-self-efficacy-effect.md) — related
+- [COR-PRIM is designed to test whether one year of PBL patient education improves beliefs, self-efficacy and empowerment to change self-care more than home-sent patient information](cor-prim-hypothesis-pbl-vs-home-sent-info.md) — related
+- [A pilot study found it feasible to organise the PBL patient education study in primary health care, with 53% of eligible patients joining](cor-prim-pilot-feasible-in-phc.md) — related
+- [A prior study using PBL after CHD significantly improved hope for the future and illness knowledge compared to controls after one year](tingstrom-pbl-improved-hope-knowledge.md) — related

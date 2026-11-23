@@ -52,3 +52,4 @@ The review reports on studies of virtual psychotherapy supervision during the pa
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related
 - [Adequate face-to-face supervision affected trainee confidence in decision-making](face-to-face-supervision-affects-decision-confidence.md) — related
 - [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related
+- Virtual teams tend to underperform face-to-face teams in decision making, per meta-analyses cited by the review — related

@@ -51,3 +51,4 @@ Systematic review finding from the Results section. The review reports a "32%–
 - [The leadership and commitment of administrators and heads of units were fundamental for attendance at the educational programme.](leadership-and-commitment-fundamental-for-programme-attendance.md) — related
 - [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related
 - [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related
+- [Lack of training in minimising tears and keeping the perineum intact is the most commonly reported obstacle to reducing episiotomy rates](training-gap-obstacle-episiotomy-reduction.md) — related

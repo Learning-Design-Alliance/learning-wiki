@@ -53,3 +53,4 @@ Cross-sectional survey of 646 newly enrolled students at the National University
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related
 - [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related
 - [Empathy scores on the Jefferson Scale for Empathy did not significantly change from pre-test to post-test after MAGIC, in one uncontrolled pre-post study](magic-no-empathy-change-jse.md) — related
+- Discipline groups differ in Bio-Psycho-Social competencies: therapy disciplines highest on professional knowledge and skills, social support disciplines highest on using the environment — related

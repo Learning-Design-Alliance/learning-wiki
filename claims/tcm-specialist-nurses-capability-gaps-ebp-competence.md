@@ -51,3 +51,4 @@ Qualitative interview study of 17 TCM specialist nurses in Eastern China, analyz
 - [Lack of time and institutional resource constraints are reported as major barriers to EBP competence among TCM specialist nurses, in both grassroots and tertiary hospitals](time-and-resource-barriers-tcm-nurse-ebp.md) — related
 - [Stakeholder buy-in from leaders, managers, physicians, and patients is reported by TCM specialist nurses as a key influence on their EBP competence development](stakeholder-buy-in-shapes-tcm-nurse-ebp-competence.md) — related
 - [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related
+- School nurses perceive multiple factors influencing EBP implementation in schools, including English-language barriers and lack of skills, support, and resources — related

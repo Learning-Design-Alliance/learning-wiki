@@ -47,6 +47,7 @@ The article describes a three-day workshop in which students practice cephalic b
 ## Related Strategies
 
 - [Schedule preclinical simulation sessions in the first weeks of the semester, before clinical placement](preclinical-simulation-before-clinical-placement.md)
+- [Develop and evaluate a local training program in normal vaginal birth without episiotomy, addressing attitudes and evidence generalisability](local-episiotomy-training-program-strategy.md)
 
 ## Examples
 -

@@ -79,6 +79,7 @@ Texting works because it lowers the behavioral cost of engagement: parents act o
 - [Send procedural training videos via text message before practical sessions](send-procedural-training-videos-text-message.md)
 - [Coordinated teacher–parent support practices to strengthen self-efficacy, buoyancy, and mathematics performance](coordinated-teacher-parent-support-math.md)
 - [Send text-message educational content at optimal times with repetition and keep messages concise](optimal-timing-repetition-concise-text-messages.md)
+- [Use brief scripted weekly check-in calls to enhance parental engagement without providing therapeutic advice](weekly-scripted-check-in-calls-engagement.md)
 
 ## Examples
 - **[READY4K](https://ready4k.parentpowered.com)** (Stanford-developed, now ParentPowered) — weekly texted literacy tips matched to classroom curriculum; a large randomized trial in San Francisco showed gains in early literacy [~S].

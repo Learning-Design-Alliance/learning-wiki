@@ -50,3 +50,4 @@ RA-CUSUM change-point analysis of the same 1384-patient cohort dichotomized by s
 - [Volume and age tertile analyses consistently showed earlier change points for higher-volume and younger surgeons, with middle tertiles in between](tertile-consistency-volume-age-change-points.md) — a broader claim this one bears on
 - [Higher-volume surgeons reached the proficiency change point for 1- to 5-year mortality at 14 cases versus 31 cases for lower-volume surgeons](higher-volume-surgeons-earlier-longterm-mortality-change-point.md) — related
 - [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related
+- [Endoscopist proficiency gain curves show early change points for mortality: four cases for 30-day mortality in cancer EMR and two cases in non-cancer EMR](emr-proficiency-gain-curve-mortality-change-points.md) — related

@@ -48,6 +48,7 @@ In the Discussion the authors state that "One possible way to improve mental hea
 ## Related Strategies
 
 - [School counselors implementing cross-age peer mentoring as a research-based school-climate intervention in rural, high-poverty schools](counselor-led-cross-age-mentoring-climate-strategy.md)
+- [Raise future competence levels through health-focused and early-environmental interventions including pre-school education, reading to children, and cognitive training](health-and-preschool-interventions-competence.md)
 
 ## Examples
 -

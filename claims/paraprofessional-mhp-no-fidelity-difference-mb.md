@@ -51,3 +51,4 @@ Fidelity analysis of 160 audio-recorded MB sessions from a cluster-RCT, using li
 - [Race concordance between facilitator and group was not significantly associated with adherence or competency outcomes](race-concordance-not-associated-mb-fidelity.md) — related
 - [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — reports the opposite
 - [Facilitators previously trained on the 1-on-1 MB modality plus a call showed significantly greater adherence than those trained via a recording of an in-person training](training-modality-adherence-mb.md) — reports the opposite
+- [Paraprofessional facilitators trained for 4.5 days plus weekly phone supervision adhered to over 90% of prescribed session content in a community pediatric weight control program](paraprofessional-high-content-adherence-community-weight-control.md) — related

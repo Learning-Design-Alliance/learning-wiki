@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-23
 sources:
   - id: bos-bonnie-linda-h-a-2017
     resource: "https://doi.org/10.1186/s12875-017-0625-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants showed a statistically significant increase on 5 of the 11 quickscan questions after completing the e-learning program, including items on sexual history taking, feeling competent, chlamydia testing policy, and considering HIV in flu-like symptoms. [→ Bos-Bonnie Linda H. A. 2017](#bos-bonnie-linda-h-a-2017)
@@ -50,3 +51,6 @@ Prospective cohort study comparing before-and-after quickscan scores (4-point Li
 - [Participants also made 180 'unintended' changes in daily practice, relatively often concerning working conditions and attitude](unintended-changes-working-conditions-attitude.md) — related
 - [Case-based knowledge test scores rose from 52.5% to 65.7% after clinic-based STI training, across all training methods combined, in one uncontrolled pre-post study](sti-clinic-training-knowledge-gains-south-africa.md) — related
 - [Physicians with no recent STI clinical exposure had significantly lower risk assessment, testing, and attitude scores than those managing 11 or more cases](recent-sti-exposure-lower-scores.md) — related
+- [Countries where GPs regularly provide chlamydia testing (England, Sweden) had national STI strategies specifically mentioning chlamydia, GP-specific chlamydia guidelines, and STI management more firmly established in the GP residency training curriculum than France and Estonia](gp-chlamydia-testing-linked-to-strategy-guidelines-training.md) — related
+- [Nearly all PNs and GPs correctly identify that testing is warranted for symptomatic or risk-indicating presentations](high-accuracy-symptomatic-testing-scenarios.md) — related
+- [An intervention study in South West England increased chlamydia testing rates in general practice by providing training, resources and support to GP staff](training-resources-support-increased-gp-testing.md) — related

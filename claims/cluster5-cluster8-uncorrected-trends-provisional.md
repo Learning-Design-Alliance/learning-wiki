@@ -48,3 +48,4 @@ Cluster-level GLMs across the five retained thalamic territories. For Cluster 8,
 - [Resting-state thalamic coupling with default-mode and executive-control networks was not prominent in childhood](childhood-thalamic-dmn-ecn-coupling-not-prominent.md) — related
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related
 - [Time spent in the current pedagogy did not predict Cluster 2 connectivity, arguing against a simple cumulative-dose interpretation](no-cumulative-dose-effect-cluster2-fc.md) — related
+- [Structural connectivity differences between experts and novices appear only as uncorrected trends, with no expertise-related differences surviving FDR correction](structural-connectivity-expertise-trends-only.md) — a narrower finding that bears on this claim

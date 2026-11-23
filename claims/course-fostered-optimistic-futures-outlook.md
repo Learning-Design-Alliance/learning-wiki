@@ -58,3 +58,4 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [Teachers reported strong positive impacts after the QCaMP teacher camp, including increased confidence delivering quantum, computing, math, and physics instruction](qcamp-teacher-survey-positive-impacts.md) — related
 - [Raising school students' interest in quantum technologies was rated a high need by 40 of 52 survey participants](raising-student-quantum-interest-high-need-40-of-52.md) — related
 - [Educators anticipate a near-term quantum 'winter' or contraction in investment while remaining optimistic about long-term QIST impact](quantum-winter-expected-long-term-optimism.md) — related
+- [A prior study using PBL after CHD significantly improved hope for the future and illness knowledge compared to controls after one year](tingstrom-pbl-improved-hope-knowledge.md) — related

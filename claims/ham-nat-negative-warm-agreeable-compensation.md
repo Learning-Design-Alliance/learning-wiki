@@ -51,3 +51,4 @@ Authors' interpretation of the regression finding that HAM-Nat was negatively re
 - [Better HAM-SJT performance at admission predicts more warm-agreeable behavior during practical training, independent of cognitive performance and demographics](ham-sjt-predicts-warm-agreeable-behavior.md) — reports the opposite
 - [Professional prequalification shows no significant relation to warm-agreeable behavior, and its correlation with emotional stability diminishes once covariates are controlled](prequalification-null-communal-emotional-stability.md) — related
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
+- [Women consistently outperform men on the SJT part of the medical admission test with weak to moderate effect sizes](women-outperform-men-sjt-medical-admission.md) — related

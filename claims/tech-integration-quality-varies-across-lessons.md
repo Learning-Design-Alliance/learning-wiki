@@ -56,3 +56,4 @@ Variance component analysis of diary data from 18 teachers found that 70-88% of 
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - [Class-level residual variance remains high after adjustment, indicating substantial unobserved class-level factors](residual-class-variance-high-after-adjustment.md) — related
 - [In the G Study, most observed-score variance lies in the person-by-item interaction for FA (~60%) and in the items themselves for SCI (42%)](g-study-variance-items-dominate-error.md) — related
+- Self-rated QoC varies significantly between work units, but a major part of the variation remains unexplained by competence, guideline and demographic variables — a narrower finding that bears on this claim

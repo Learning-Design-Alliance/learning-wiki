@@ -50,3 +50,4 @@ Backwards stepwise multivariable logistic regression on UKMED data (N = 770 with
 - [The MEARS 'self-esteem' scale is a poor screening tool for conduct-related declarations, with AUC 0.61 and a 'number needed to reject' of approximately 22](mears-self-esteem-poor-screening-conduct-declarations.md) — related
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
 - [UCAT scores do not predict health- or conduct-related fitness to practise declarations at GMC registration](ucat-no-prediction-fitness-to-practise-declarations.md) — related
+- [Male sex, higher IELTS speaking score and lower PLAB part 2 first-attempt score are independent multivariable predictors of eventual fitness to practise censure in PLAB international medical graduates](multivariable-independent-predictors-censure.md) — related

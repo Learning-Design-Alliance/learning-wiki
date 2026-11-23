@@ -68,3 +68,4 @@ The remaining four checkpoints (recognize the situation, call for help, blood ga
 - [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](fc-higher-overall-ants-scores-anesthesia-simulation.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
+- Clinical diagnoses agree poorly with autopsy diagnoses, especially for pulmonary embolism and liver cirrhosis, in a 141-autopsy retrospective review — related

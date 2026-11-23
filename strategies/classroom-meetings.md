@@ -59,9 +59,11 @@ Classroom meetings operationalize the classroom as a community of practice, buil
 5. Fade facilitation: shift agenda-setting and chairing roles to students as they gain competence ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — the individual-level counterpart; meetings aggregate check-ins into collective sense-making
 - [Restorative Circles](restorative-circles.md) — a conflict-repair variant of the meeting format
 - [Cooperative Learning](cooperative-learning.md) — meetings build the norms that make group work function
+- [Structured facilitation of virtual meetings: preparation, ground rules, equitable turn-taking, and post-meeting reflection](structured-facilitation-virtual-promotions-meetings.md)
 
 ## Examples
 - **[Responsive Classroom](https://www.responsiveclassroom.org)** Morning Meeting — daily greeting, sharing, group activity, and news-and-announcements; supported by a three-year longitudinal study linking implementation fidelity to reading and math gains ([Rimm-Kaufman et al., 2007](https://doi.org/10.1016/j.jsp.2006.10.003)).

@@ -56,3 +56,4 @@ Hierarchical linear model analysis of the TOCA-C Poor Emotional Regulation subsc
 - [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related
 - [The IY TCM program increased teacher-reported prosocial behavior and overall social competence (d = 0.13 each)](iy-tcm-increased-prosocial-and-social-competence.md) — related
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — possibly the same claim (merge candidate)
+- [Prior trials of the Incredible Years TCM course alone detected changes in teacher behaviour but little evidence of change in teacher-rated child well-being](tcm-prior-trials-teacher-behaviour-change-limited-child-evidence.md) — reports the opposite

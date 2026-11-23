@@ -51,3 +51,4 @@ Complier-average causal effect analysis of the cluster RCT, estimated with a two
 - [The Fit to Study intervention was marked by poor fidelity: fewer than half of intervention schools delivered the intervention in at least 50% of PE lessons, and achieved VPA levels were below target](fit-to-study-poor-fidelity.md) — related
 - [No CACE intervention effects on reading at immediate post-test for either moderate or high compliance levels](gbg-no-cace-effect-post-test.md) — possibly the same claim (merge candidate)
 - [Specialist PE teachers delivered more lessons per week and were more actively engaged in teaching than generalist classroom teachers](specialist-teachers-more-engaged-lessons-look.md) — related
+- [The Fit to Study trial hypothesises that a one-year programme of vigorous physical activity delivered during PE lessons improves maths attainment in Year 8 pupils relative to control](fit-to-study-vpa-maths-attainment-hypothesis.md) — related

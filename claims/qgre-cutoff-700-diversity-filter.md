@@ -58,3 +58,4 @@ The author's descriptive analysis of ETS QGRE score distributions by race/ethnic
 - [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related
 - [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related
 - [GRE score cutoffs used to triage doctoral applicants disproportionately excluded URM applicants, with triage rates for Black and Hispanic applicants roughly double to triple those of white male applicants](gre-cutoff-triage-disproportionately-excluded-urm-applicants.md) — related
+- [Men perform considerably better than women in the physics and mathematics parts of the admission test](men-outperform-women-physics-mathematics-admission.md) — related

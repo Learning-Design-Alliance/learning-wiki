@@ -53,6 +53,7 @@ The article recommends recurrent competency-based in-service training so that ex
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 - [Develop a well-planned, legally binding, long-term CBE reform strategy with cooperation among the MoH's three human resource departments](legally-binding-cbe-reform-strategy.md)
 - [Introduce systematic dementia-specific education or training for all health care staff, including support staff](systematic-dementia-specific-education-all-staff.md)
+- [Provide sufficient workplace time to address national guidelines and develop competences, treating this as a supervisor's task](supervisor-time-to-address-guidelines-strategy.md)
 
 ## Examples
 -

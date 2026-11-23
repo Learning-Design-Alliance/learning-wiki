@@ -52,3 +52,4 @@ Qualitative content and frequency analysis of 30 surgical and 30 psychiatric int
 - [Qualitative interviews identify the doctor-patient relationship as the most prominent area of perceived exchange learning](interviews-doctor-patient-relationship-prominent.md) — related
 - [Interviewed students frequently reported that outreach developed communication skills, with leadership and teamwork mentioned by nearly 50% and 35% of interviews respectively](outreach-interview-communication-teamwork-skills.md) — related
 - [Students most frequently named collaboration as the competence required for the practice task](collaboration-most-named-required-competence.md) — related
+- Nurses are present in only 44% of surgical ward rounds, with patient notes forming the main doctor–nurse communication channel — related

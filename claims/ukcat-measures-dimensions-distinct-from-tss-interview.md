@@ -54,3 +54,4 @@ Pearson correlations (Table 2) between UKCAT measures and the other pre-admissio
 - [UKCAT total explains around 5% of variance in EPM and 6% in H&C in bivariate regression](ukcat-total-variance-explained-composites.md) — related
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
 - [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related
+- [SJT score shows no significant relationship with UKCAT cognitive ability scores](integrity-sjt-no-ukcat-relationship.md) — related

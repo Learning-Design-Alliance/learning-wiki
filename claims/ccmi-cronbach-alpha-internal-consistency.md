@@ -56,3 +56,4 @@ Internal-consistency analysis of the pooled CCMI post-test data at CU. The artic
 - [ProtoPIQL whole-test scores are fairly normally distributed with mean 11 of 18 but internal reliability below accepted thresholds](protopiql-score-distribution-reliability.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
 - [Classroom multiple-choice tests average 62 items with a mean test score of 65% and a length-adjusted reliability of 0.77, establishing a baseline for as-deployed classroom MCT psychometrics.](classroom-mct-baseline-psychometrics.md) — related
+- [Participants rated the integrity SJT positively on acceptability, with item means from 3.4 to 4.4 on a 5-point scale](integrity-sjt-acceptability-ratings.md) — related

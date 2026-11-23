@@ -53,6 +53,7 @@ The article describes a pragmatic, scalable intervention format: PE teachers inc
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
+- [Embed short vigorous activity bursts into existing PE lessons to raise adolescent activity without disrupting curriculum delivery](embed-vpa-bursts-within-pe-lessons-strategy.md)
 
 ## Examples
 -

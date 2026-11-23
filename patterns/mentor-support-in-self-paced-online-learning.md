@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 110 claims (57 for, 47 mixed, 6 against) · 88 studies (20 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 design, 8 theoretical), `q1`–`q4` · 12 of 88 report an effect size · 100 claims rest on one study
+> **Evidence** · 112 claims (59 for, 47 mixed, 6 against) · 89 studies (20 causal, 17 associational, 15 review, 11 quant-synthesis, 10 qualitative, 8 design, 8 theoretical), `q1`–`q4` · 12 of 89 report an effect size · 102 claims rest on one study
 
 ## Description and scope
 
@@ -123,6 +123,8 @@ Claims read against the model on 2026-10-19 that do not change it; each keeps th
 - [Checkpoints, definitions and staged pacing improved clarity for novice programmers using an AI tutor](../claims/checkpoints-and-definitions-improved-clarity.md) [+W] — about the design of an AI tutor's dialogue, which this page leaves to [AI Tutoring](ai-tutoring.md)
 - [Reflection interventions in higher education: medium average effect, varying with duration and peer interaction](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M] — bears on reflection prompts a mentor might use in a check-in, but tests reflection activities, not mentor contact; it does not change the default
 - [Proactive engagement support (pre-session walkthrough calls and login monitoring) produced successful session logins](../claims/proactive-engagement-support-logins.md) [+W] — attached 2026-11-05 from Veinot Tiffany C (2026), which proposed "Plan engagement support (proactive pre-session calls and login monitoring) as part of technology support"; tests this page's relationship.
+- [Supported digital interventions are more effective than unsupported ones, though the difference is not necessarily great](../claims/supported-digital-interventions-more-effective-than-unsupported.md) [+W] — attached 2026-11-22 from Fairburn Christopher G. (2017), which proposed "To retain scalability, support for digital treatment should come from a non-specialist practitioner whose role is solely to enhance adherence"; tests this page's relationship.
+- [Completion rates of direct-to-user digital interventions are low when there is no accompanying support](../claims/low-completion-unsupported-digital-interventions.md) [+W] — attached 2026-11-22 from Fairburn Christopher G. (2017), which proposed "To retain scalability, support for digital treatment should come from a non-specialist practitioner whose role is solely to enhance adherence"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

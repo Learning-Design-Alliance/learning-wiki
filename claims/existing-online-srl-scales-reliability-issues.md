@@ -67,3 +67,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
 - [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](fasci-cronbach-alpha-below-target.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
+- [The MPI's inter-interview reliability of 0.56 falls below accepted standards of 0.70–0.90, supporting only moderate confidence in consistent candidate discrimination](mpi-inter-interview-reliability-0-56-below-standards.md) — a narrower finding that bears on this claim

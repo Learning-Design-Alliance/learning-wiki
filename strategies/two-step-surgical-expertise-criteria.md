@@ -49,6 +49,7 @@ The review proposes that expertise criteria for a specific intervention be devel
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
 - [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
+- [Collect periodic surgeon self-reported experience data and adjust for it statistically when a trial's experimental technique is still being learned](collect-surgeon-experience-data-adjust-learning-effects.md)
 
 ## Examples
 -

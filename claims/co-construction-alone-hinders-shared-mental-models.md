@@ -53,3 +53,4 @@ Regression analysis of team learning behaviors predicting shared mental model in
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — related
 - [Qualitative studies identify dynamics, patterns, and development in team learning behaviours, linked to situated knowledge and transactivity](qualitative-studies-dynamics-patterns-development.md) — related
 - [Team cognition predicts team performance: transactive memory systems (20%) and shared mental models (10%) explain significant variance, and situational awareness shows the largest relationship but rests on a small sample](team-cognition-predicts-team-performance.md)
+- Virtual teams find it harder to develop shared mental models and transactive memory systems — related

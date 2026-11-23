@@ -68,3 +68,5 @@ Classical univariate twin model on the total sample: MZ and DZ twin correlations
 - [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related
 - [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
+- [Shared environmental influence on achievement tapers off at university while remaining substantial for educational choices, consistent with the generalist genes hypothesis](shared-environment-tapers-university-generalist-genes.md) — related
+- [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related

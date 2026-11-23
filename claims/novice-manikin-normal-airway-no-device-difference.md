@@ -48,3 +48,4 @@ Randomized crossover manikin study with 35 novice anesthesia nurses, each perfor
 ## Related Claims
 - [Under cervical immobilization, novices using McGrath VL and Pentax AWS intubated faster and with higher first-attempt success than with the Macintosh laryngoscope](cervical-immobilized-vl-faster-higher-first-attempt-success.md) — related
 - [Both videolaryngoscopes yielded lower subjective difficulty and more Cormack Lehane grade I glottic views than Macintosh in both manikin scenarios](vl-better-glottic-view-and-lower-difficulty.md) — related
+- [AirQ, AuraGain, and the laryngeal tube were inserted correctly within 30 s by all 41 participants under physiologic and cervical-immobilization conditions, while endotracheal intubation and EasyTube lagged](airq-aurag-lt-full-success-physiologic-cs.md) — related

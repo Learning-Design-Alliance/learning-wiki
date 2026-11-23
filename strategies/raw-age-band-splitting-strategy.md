@@ -45,7 +45,8 @@ Based on participant and parent feedback, the authors recommend adapting the pro
 - [Participant-initiated interaction with the R@W program was limited, with 10.7% of participants e-mailing weekly and 26.6% joining chat sessions](../claims/raw-low-participant-initiated-interaction.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Involve target end-users in co-design reference groups to review language, feedback logic and module presentation](parent-reference-group-codesign-workshops.md)
 
 ## Examples
 -

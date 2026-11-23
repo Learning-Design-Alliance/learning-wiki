@@ -49,3 +49,4 @@ The article's framing argument: healthcare is a complex adaptive system whose be
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — related
+- [The authors cautiously conclude pre-MRI training does not improve image quality or reduce sedation use, citing limited studies, heterogeneity, and inconsistent training methods](pre-mri-training-cautious-null-conclusion.md) — a narrower finding that bears on this claim

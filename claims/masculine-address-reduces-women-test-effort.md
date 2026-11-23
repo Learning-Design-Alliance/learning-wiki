@@ -53,3 +53,4 @@ Time-on-test analysis in the main experiment, restricted to participants who ans
 - [Feminine address lowers agreement that science is for men, but does not change implicit associations](feminine-address-lowers-science-is-for-men.md) — related
 - [The effect of feminine address on women's maths scores is stronger among those who acquired Hebrew early in childhood](hebrew-acquisition-age-moderates-address-effect.md) — related
 - [On a task stereotypically associated with women's strengths (empathy reading comprehension), women perform better when addressed in the masculine](masculine-address-helps-women-on-female-stereotyped-task.md) — related
+- [Prior studies report that men spend less time and produce fewer errors than women in surgical simulator training, a difference the authors say is largely unaddressed](sex-differences-surgical-simulator-training.md) — related

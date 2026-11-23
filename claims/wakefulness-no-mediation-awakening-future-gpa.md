@@ -49,3 +49,4 @@ Mediation analysis using the PROCESS macro in SPSS in the 45-student sample, tes
 - [Nighttime sleep awakening frequency accounts for unique variance in future GPA beyond current GPA](awakening-frequency-unique-variance-future-gpa.md) — related
 - [Self-reported daytime wakefulness is positively correlated with both current and future GPA](self-reported-wakefulness-correlates-gpa.md) — related
 - [Mindfulness affects academic achievement indirectly through the mediating role of adaptability (Sobel T = 7.551)](adaptability-mediates-mindfulness-achievement.md) — related
+- [Positive affect mediates the relation of average sleep quality and average physical activity with learning goal achievement; negative affect does not](positive-affect-mediates-average-health-behavior-learning-goal-relation.md) — related

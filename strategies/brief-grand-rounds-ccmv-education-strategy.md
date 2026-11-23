@@ -48,6 +48,7 @@ The article describes a brief 20-minute PowerPoint presentation at department gr
 ## Related Strategies
 
 - [Create and disseminate educational material on Chagas-related heart disease, especially in higher-prevalence areas, targeting recognition, testing and early treatment](chagas-provider-education-materials-strategy.md)
+- [Develop educational projects promoting hygienic precautions and routine preconception CMV counseling by doctors](hygiene-education-projects-ccmv-prevention.md)
 
 ## Examples
 -

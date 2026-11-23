@@ -49,3 +49,4 @@ Multivariable regression on register data found case complexity significant at p
 - [Children with danger signs received substantially worse care for febrile, respiratory, and diarrheal illnesses, but significantly better anemia treatment](imci-benin-danger-signs-worse-care-except-anemia.md) — related
 - [Supervision visits in the previous six months were associated with improved care for fever and anemia, but with lower odds of recommended pneumonia treatment](imci-benin-supervision-mixed-effects.md) — related
 - [Guideline adherence in the simulation varied by clinical case, with a possible learning effect, and Orient-COVID's benefit extended to all cases except case #6](orient-covid-case-id-learning-effect.md) — related
+- Clinicians rely on clinical guidelines, history, and physical examination to diagnose febrile illness, but report lower confidence when presentations do not fit guideline flow charts — related

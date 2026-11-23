@@ -191,6 +191,7 @@ The expectation should weaken if direct comparisons with comparable learners and
 - [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](../strategies/phase-matched-cfc-analogy-template-usage.md)
 - [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](../strategies/focus-instructional-strategies-strategy.md)
 - [Mathematica programming assignments to build mental representations of mathematical objects](../strategies/mathematica-assignments-mental-representations.md)
+- [Improve CVD prevention decision aids by explaining CVD risk basics, including medication and lifestyle options, balancing icon-array risk presentation, and adding action support](../strategies/four-improvements-cvd-decision-aids-low-health-literacy.md)
 
 ## Key Sources
 - Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L. (2014). Concreteness fading in mathematics and science instruction: A systematic review. *Educational Psychology Review, 26*(1), 9–25. [doi:10.1007/s10648-014-9249-3](https://doi.org/10.1007/s10648-014-9249-3)

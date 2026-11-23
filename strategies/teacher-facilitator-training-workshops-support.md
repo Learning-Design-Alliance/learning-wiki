@@ -59,6 +59,7 @@ The programme's implementation model trains regular classroom teachers as facili
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

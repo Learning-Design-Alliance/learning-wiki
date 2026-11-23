@@ -52,3 +52,4 @@ Separate whole-brain regression analyses per age group (children, adolescents, a
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
 - [In children, the BOLD numerical ratio effect correlates with individual differences in the behavioral ratio effect in right OTC, left superior parietal cortex, and bilateral IFG; no such correlation reaches significance in adults](brain-behavior-ratio-correlations-children.md) — related
 - [Age-related increases in IPS connectivity are specifically related to math, not reading, skills](ips-connectivity-specific-to-math-not-reading.md) — related
+- [Bilateral SPL volume correlates with academic performance (r = 0.24) but right MFG volume does not](spl-volume-correlates-academic-performance-mfg-does-not.md) — related

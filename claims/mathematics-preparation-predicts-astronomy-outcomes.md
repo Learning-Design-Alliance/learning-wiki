@@ -68,3 +68,4 @@ Logistic regression (Table VII): repeated mathematics odds ratio 0.671 [0.513, 0
 - [Each additional astronomy course taken raises the odds of passing astronomy by 71%](multiple-astronomy-courses-71-percent-more-likely-pass.md) — related
 - [Elementary and special education candidates from programs rated higher on literacy and math preparation have higher odds of passing the TPA](literacy-math-preparation-predicts-tpa-passing.md) — related
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
+- [Higher average learning goal achievement predicts higher odds of passing all six examinations](learning-goal-achievement-predicts-examination-success.md) — related

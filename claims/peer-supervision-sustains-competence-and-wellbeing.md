@@ -49,3 +49,4 @@ Thematic analysis of FGDs and supervisor interviews. A worker praised group disc
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
 - [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](supervisors-not-first-resort-for-workplace-learning.md) — related
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
+- [Preliminary evidence suggests supervised digital treatment may dramatically reduce clinician time needed without sacrificing effectiveness](supervised-digital-treatment-reduces-clinician-time.md) — related

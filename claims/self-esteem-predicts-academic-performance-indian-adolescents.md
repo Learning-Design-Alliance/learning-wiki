@@ -69,3 +69,4 @@ Same adjusted multilevel model, life satisfaction measured with the 5-item Satis
 - [No significant associations between GPA and relationship status, parental status, academic year, residence, self-esteem, competence, well-being, or life satisfaction](null-associations-gpa-demographic-psychosocial.md) — reports the opposite
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — related
 - [The class–performance association holds significantly in only one of the six schools, with inconsistent patterns across school clusters](school-level-inconsistency-class-performance.md) — related
+- [Students' individual school performance is positively associated with life satisfaction](individual-performance-life-satisfaction-positive.md) — related

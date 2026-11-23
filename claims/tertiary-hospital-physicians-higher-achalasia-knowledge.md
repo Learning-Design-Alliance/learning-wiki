@@ -72,3 +72,4 @@ Regression model for HREM familiarity in the same survey; hospital level was sig
 - [Older physicians and those outside academic/university hospitals had significantly lower odds of reporting high perceived barriers to STI care](age-setting-perceived-barriers-odds.md) — related
 - [Routine inquiry about achalasia symptoms and patient referral are suboptimal among Turkish physicians](suboptimal-symptom-inquiry-referral-achalasia.md) — related
 - [Male physicians report higher achalasia knowledge and diagnostic recognition, while female physicians report more self-perceived deficiencies](gender-differences-achalasia-knowledge-turkiye.md) — related
+- Physicians in secondary/tertiary care diagnosed anaphylaxis significantly more often than primary care/private practice physicians — related

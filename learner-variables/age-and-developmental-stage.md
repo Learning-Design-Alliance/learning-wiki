@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (169 show a difference, 59 mixed, 33 no difference) · 216 studies (89 associational, 50 causal, 27 review, 24 quant-synthesis, 12 theoretical, 8 design, 6 qualitative), `q1`–`q4` · 32 of 216 report an effect size · 259 claims rest on one study
+> **Evidence** · 263 claims (170 show a difference, 59 mixed, 34 no difference) · 218 studies (90 associational, 50 causal, 27 review, 25 quant-synthesis, 12 theoretical, 8 design, 6 qualitative), `q1`–`q4` · 32 of 218 report an effect size · 261 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -293,6 +293,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older children and boys show worse outcomes within the sample: age relates to very poor performance and sex to special education](../claims/age-sex-demographic-differences-school-functioning.md) [+M] — learners who differ on it differ in outcomes
 - [No significant difference in DBS knowledge scores by resident sex or age](../claims/no-sex-age-difference-dbs-knowledge.md) [-M] — learners who differ on it differ in outcomes
 - [Older adolescents (15–16) show more boredom, less fun, less physical activity, lower academic performance and higher alcohol consumption than younger adolescents (12–14)](../claims/age-differences-older-adolescents-worse-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Academic difficulties of preterm children appear stable across development from early childhood to adolescence](../claims/preterm-academic-difficulties-stable-development.md) [-M] — learners who differ on it differ in outcomes
+- [Older facial age is associated with higher actual academic performance and female faces are perceived as more attractive](../claims/age-correlates-actual-performance-faces-rated-attractive.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -46,6 +46,7 @@ The authors propose that if a robust quantitative relationship between stitch pl
 
 - [Validate automated video analytics and reach metric consensus before widespread adoption in surgical training](validate-video-analytics-before-adoption.md)
 - [Provide trainees with quantified, explainable feedback (estimated GOALS scores and SHAP-derived comments) rather than raw metrics or opaque tier labels](quantified-explainable-feedback-strategy-surgical-training.md)
+- [Prototype AI feedback system showing surgeons their skill strengths and weaknesses quantitatively](ai-feedback-prototype-strengths-weaknesses.md)
 
 ## Examples
 -

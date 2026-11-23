@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 50 claims (22 for, 25 mixed, 3 against) · 44 studies (13 causal, 9 design, 8 review, 6 quant-synthesis, 4 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 44 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (23 for, 26 mixed, 3 against) · 45 studies (13 causal, 9 design, 8 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 45 report an effect size · 50 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -101,6 +101,8 @@ Assessment is the structured collection of evidence about learner understanding,
 - [A hybrid take-home/in-class exam produced lower self-reported stress while completing the exam than a traditional in-class exam in introductory physics (pMW = 0.019)](../claims/hybrid-exam-lower-completion-stress.md) [+W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
 - [Completing a hybrid take-home/in-class exam was rated as increasing mastery more than completing a traditional exam (pMW = 0.035)](../claims/hybrid-exam-completion-mastery.md) [+W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
 - [The hybrid exam did not induce significantly more preparation stress than traditional testing (pMW = 0.492)](../claims/hybrid-exam-preparation-stress-null.md) [~W] — attached 2026-11-20 from Paul Stonaha (2023), which proposed "Hybrid take-home/in-class summative exam for introductory physics".
+- [Applicants flagged as a concern at two or more MMI stations scored significantly lower on the MMI than those flagged at one or none, with no corresponding PI difference](../claims/mmi-concern-two-stations-lower-mmi-score.md) [+W] — attached 2026-11-22 from Allan Pau et al. (2016), which proposed "Ten-station multiple mini interview with per-station concern flagging for medical school applicant selection".
+- [The MMI was rated acceptable by applicants, with no statistically significant sex or race differences in acceptability item scores](../claims/mmi-acceptable-multicultural-context.md) [~W] — attached 2026-11-22 from Allan Pau et al. (2016), which proposed "Ten-station multiple mini interview with per-station concern flagging for medical school applicant selection".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

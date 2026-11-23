@@ -48,3 +48,4 @@ Cross-sectional survey analysis of four attitude items averaged into a composite
 ## Related Claims
 - [Nurse educators, part-time workers, males and Christians had significantly higher research knowledge and skills scores than their counterparts](predictors-research-knowledge-skills-ghana-nurses.md) — related
 - [Working as a clinical nurse and working in inpatient units negatively predict EBP competence and clinical decision-making](clinical-inpatient-roles-negative-predictors.md) — related
+- School nurses hold positive attitudes toward EBP but believe EBP implementation would increase their workload — related

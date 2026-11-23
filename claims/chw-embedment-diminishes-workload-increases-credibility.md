@@ -50,3 +50,5 @@ Synthesis-level finding of the systematic review of 140 studies, stating that "E
 - [Clearly defined CHW roles and clear communication processes among health system levels could strengthen CHW performance](clear-roles-communication-strengthen-chw-performance.md) — related
 - [Community trust and respect from the community was an important non-financial incentive enhancing CHW motivation](community-trust-respect-nonfinancial-incentive-chw-motivation.md) — related
 - [Extended curative tasks increased CHW self-reported motivation and community recognition](curative-tasks-increase-chw-motivation-recognition.md) — related
+- Health system factors are the most important determinants of CHW performance in malaria programs — related
+- Large population coverage and multiple tasks are associated with poor CHW performance, though integrated multitasking can be sustained with support — related

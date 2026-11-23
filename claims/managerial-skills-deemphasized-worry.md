@@ -54,3 +54,4 @@ A key finding reporting stakeholder concern: while instructional leadership is a
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related
 - [Managerial skills, particularly time management and task management, are viewed as crucial for successful middle management](managerial-skills-time-management-crucial-middle-managers.md) — related
 - [Recent physics education research is argued to overemphasize conceptual teaching while deemphasizing standard mathematical reasoning](per-overemphasizes-conceptual-deemphasizes-math.md) — related
+- [Survey respondents most often reported performing administrative, management and teaching functions for which they had not been prepared in their education programmes](unprepared-additional-job-functions.md) — related

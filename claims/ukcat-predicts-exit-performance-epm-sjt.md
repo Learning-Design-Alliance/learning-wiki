@@ -78,3 +78,4 @@ Pearson/Spearman correlation analysis in the Results section of the same cohort.
 - [Total UKCAT score correlates significantly but weakly with first-year medical school performance](ukcat-total-weakly-correlates-with-outcome.md) — related
 - [UCAT cognitive total and verbal reasoning subtests show the most evidence of predictive validity across outcome measures, with abstract reasoning showing the least](ucat-cognitive-total-verbal-reasoning-most-predictive.md) — related
 - [The UCAT situational judgment subtest weakly predicts professional behaviour in medical school, whilst the cognitive subtests did not](ucat-sjt-weakly-predicts-professional-behaviour.md) — related
+- [SJT score shows no significant relationship with UKCAT cognitive ability scores](integrity-sjt-no-ukcat-relationship.md) — reports the opposite

@@ -62,9 +62,11 @@ RJC works as a learning intervention because it converts a disciplinary event in
 - [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](../claims/denver-restorative-justice-suspension-gap-narrowed.md) [~W]
 
 ## Related Strategies
+
 - [Restorative Circles](../strategies/restorative-circles.md) — proactive community-building variant used before harm occurs
 - [Peer Mediation](../strategies/peer-mediation.md) — student-led conflict resolution between peers without a harm/offense frame
 - [Social-Emotional Learning Curricula](../strategies/social-emotional-learning-curricula.md) — builds the skills conferencing exercises
+- [Structured facilitation of virtual meetings: preparation, ground rules, equitable turn-taking, and post-meeting reflection](structured-facilitation-virtual-promotions-meetings.md)
 
 ## Examples
 - **Oakland Unified School District** ([https://www.ousd.org](https://www.ousd.org)) — whole-school restorative justice program that reduced suspensions substantially after replacing exclusionary discipline with conferencing and circles.

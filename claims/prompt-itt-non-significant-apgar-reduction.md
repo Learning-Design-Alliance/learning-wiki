@@ -51,3 +51,5 @@ Stepped-wedge cluster RCT across 12 Scottish maternity units with ≥900 births/
 - [Duration of exposure to PROMPT training did not affect the Apgar<7 at 5 min outcome](prompt-exposure-duration-null.md) — related
 - [Extending the analysis to all 15 large Scottish maternity units showed no intervention effect](prompt-fifteen-unit-analysis-null.md) — related
 - [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related
+- [Power calculation: with 12 units, three intervention steps and average cluster size of 1200 births per semester, the trial can detect a 35% or greater reduction in the Apgar <7 rate](thistle-power-detect-35-percent-reduction.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

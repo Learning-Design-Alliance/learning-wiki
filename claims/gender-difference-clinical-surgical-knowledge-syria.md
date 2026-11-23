@@ -57,3 +57,4 @@ Welch independent-samples t-test comparing male (n=237) and female (n=263) stude
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Male students show significantly higher SBP and lower SpO2 than female students at each time point, with negligible clinical significance](males-higher-sbp-lower-spo2-across-time-points.md) — a narrower finding that bears on this claim
 - [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — reports the opposite
+- [Males scored significantly higher than females on HPAT-Ireland Sections 1 and 3, but not on the total score or LCE](gender-differences-hpat-sections.md) — related

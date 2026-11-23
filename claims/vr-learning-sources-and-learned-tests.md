@@ -50,3 +50,4 @@ Multiple response analysis in the results section of the 233-intern survey. Tabl
 - [Saudi physical therapy interns show low VR treatment-maneuver knowledge in both academic and internship phases](low-vr-treatment-knowledge-academic-internship.md) — related
 - [A learning analytics student model discriminates between trained and untrained students in VR lineworker training maneuvers](la-student-model-discriminates-trained-untrained-vr-lineworkers.md) — related
 - [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — related
+- [Not knowing how to perform the technique is the most important reason GPs give for not using repositioning manoeuvres and vestibular rehabilitation](not-knowing-technique-main-barrier-gp-vestibular.md) — related

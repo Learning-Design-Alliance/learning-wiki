@@ -51,6 +51,7 @@ The article recommends that simulation-based episiotomy training be offered regu
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](combine-vr-task-training-with-stroke-team-simulation.md)
 - [Consider multiprofessional team training in obstetrics involving all staff within their units](multiprofessional-team-training-obstetrics-recommendation.md)
 - [Include midwives and obstetricians in anesthesia provider courses to support multidisciplinary practice change](multidisciplinary-attendance-refresher-course-strategy.md)
+- [Directed educational activities and continuing education to improve guideline implementation in post-preeclampsia care](directed-educational-activities-pe-guideline-implementation.md)
 
 ## Examples
 -

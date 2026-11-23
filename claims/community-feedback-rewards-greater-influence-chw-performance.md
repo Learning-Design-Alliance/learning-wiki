@@ -51,3 +51,4 @@ The review reports a Ugandan study in which CMDs stated that "community support 
 - [Community selection of CHWs positively influenced CHW motivation or performance in some studies, but effects were not uniform](community-selection-mixed-effect-chw-motivation.md) — related
 - [Lack of clarity on CHW tasks and roles, especially from the community side, lowered CHW motivation and performance](role-clarity-lack-lowers-chw-motivation-performance.md) — related
 - [Extended curative tasks increased CHW self-reported motivation and community recognition](curative-tasks-increase-chw-motivation-recognition.md) — related
+- Community support, feedback, and rewards shape CHW performance, sometimes more than health system support — possibly the same claim (merge candidate)

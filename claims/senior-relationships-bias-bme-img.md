@@ -72,3 +72,4 @@ In the same qualitative dataset, the group contrast was reported as perceived as
 - [A hidden-curriculum culture in which difficulties are seen as a sign of weakness makes seeking support and additional training stigmatising, particularly for IMGs and BME UKGs](hidden-curriculum-weakness-stigma-help-seeking.md) — related
 - [IMG trainees face cultural differences, colloquial-language barriers and lack of trust from seniors, and often look to IMG peers for support instead](img-cultural-differences-lack-trust-peer-support.md) — related
 - [Senior doctors, pharmacists, and nurses exerted informational and normative social influence on trainee doctors' prescribing](senior-and-pharmacist-social-influence-prescribing.md) — related
+- [IMG doctors who passed the PLAB exam perform less well than UK-trained counterparts in subsequent competence reviews](plab-imgs-perform-less-well-than-uk-graduates.md) — related

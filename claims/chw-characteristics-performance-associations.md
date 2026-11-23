@@ -51,3 +51,4 @@ Review synthesis of CHW characteristic studies (e.g. Crispin et al. 2012 in Keny
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
 - [Clearly defined CHW roles and clear communication processes among health system levels could strengthen CHW performance](clear-roles-communication-strengthen-chw-performance.md) — related
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related
+- [CHW demographic characteristics — sex, marital status, education, and experience — are associated with performance](chw-demographics-performance-malaria.md) — a narrower finding that bears on this claim

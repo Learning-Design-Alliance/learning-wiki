@@ -50,3 +50,4 @@ Score-distribution and admission-fraction analysis by institution size and selec
 - [The physics GRE score was the only rubric construct differing by undergraduate program size regardless of how larger programs were defined](rubric-program-size-physics-gre-only-robust.md) — related
 - [Only the general GRE and physics GRE rubric scores differed between applicants from more or less selective undergraduate institutions](rubric-selectivity-differences-gre-only.md) — related
 - [A rubric-based physics graduate admissions system admitted significantly more applicants with low UGPA and GRE scores than the prior system](rubric-admissions-increased-low-scorer-admits.md) — related
+- [The authors interpret the specialty-score pattern as maintained by self-selection and admission pressure](self-selection-interpretation-of-specialty-score-pattern.md) — related

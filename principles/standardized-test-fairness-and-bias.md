@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (30 for, 44 mixed, 6 against) · 55 studies (19 associational, 16 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 55 report an effect size · 79 claims rest on one study
+> **Evidence** · 82 claims (31 for, 45 mixed, 6 against) · 56 studies (20 associational, 16 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 56 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,8 @@ Claims found while rewriting, used in the default design or the situation table 
 - [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](../claims/pgre-cutoff-eliminates-fellows-disproportionately-women.md) [+W] — attached 2026-11-17 from Emily M. Levesque et al. (2015), which proposed "Do not use hard PGRE percentile cutoffs to eliminate or negatively weight astronomy graduate applications"; tests this page's relationship.
 - [CMC questions disproportionately harm female, low-income, and domestic students relative to their peers](../claims/cmc-questions-disproportionately-harm-marginalized-groups.md) [+W] — attached 2026-11-19 from Nicholas T. Young et al. (2023), which proposed "Do not use complex multiple-choice questions to differentiate top-performing students from others"; tests this page's relationship.
 - [Ranking qualified applicants by verbal GRE produced a statistically significant racial/ethnic imbalance, with White/non-Hispanic applicants overrepresented in the interview-invited pool](../claims/vgre-ranking-white-overrepresented-iti-pool.md) [+W] — attached 2026-11-22 from Eikenberry Megan PT et al. (2025), which proposed "Use race-neutral holistic review incorporating expanded URM factors to foster diversity in admissions after race-based criteria became unlawful".
+- [Simulated single-examiner analyses of ethnic bias produce massive false positives because examiner marks are confounded with candidate performance](../claims/single-examiner-bias-analysis-false-positives.md) [+W] — attached 2026-11-22 from McManus I C et al. (2013), which proposed "Use two independent examiners per station in high-stakes clinical examinations to support probity and enable bias detection"; tests this page's relationship.
+- [In MRCP(UK) PACES/nPACES, no examiners showed significant sex bias and only one examiner showed evidence consistent with ethnic bias](../claims/no-sex-bias-one-ethnic-bias-examiner.md) [~W] — attached 2026-11-22 from McManus I C et al. (2013), which proposed "Use two independent examiners per station in high-stakes clinical examinations to support probity and enable bias detection"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -228,6 +230,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
 - [Use differential item functioning analysis and psychometric equating studies to validate FCI gender fairness](../strategies/dif-analysis-fci-gender-fairness.md)
 - [Make routine DIF analysis part of high-stakes assessment governance: identify, review, withdraw and publicise questions with notable DIF](../strategies/routine-dif-monitoring-and-question-removal-strategy.md)
+- [Evaluate high-stakes admission-test practice effects at the item level and reconsider selection procedures where re-sitting may disadvantage first-time candidates](../strategies/item-level-evaluation-of-retest-practice-effects.md)
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.

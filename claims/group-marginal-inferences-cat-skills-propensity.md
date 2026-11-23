@@ -53,3 +53,4 @@ Group-level marginal inference over the causal EM-derived FSCMs compatible with 
 - Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — related
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [Expert-elicited causal model is compatible with observed data but slightly less predictive than a data-learned Bayesian network](expert-causal-model-vs-data-learned-bn-predictive-accuracy.md) — related
+- Inferring from a group probability to an individual patient has little warrant, so population-level evidence cannot close the gap to the individual case — related

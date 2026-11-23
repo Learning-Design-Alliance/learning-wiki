@@ -53,6 +53,7 @@ The article recommends school-based supports for healthy behaviours as potential
 - [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 - [Address regular breakfast consumption habits to shift adolescents from low-energy screen-based behaviors toward higher-intensity physical activity](regular-breakfast-habits-intervention-strategy.md)
 - [Promote regular student breakfast consumption as a mechanism to strengthen academic achievement](promote-regular-breakfast-consumption-strategy.md)
+- [Integrate measures of educational performance into trials of interventions promoting breakfast consumption and other health behaviours](integrate-educational-measures-into-health-behaviour-trials.md)
 
 ## Examples
 -

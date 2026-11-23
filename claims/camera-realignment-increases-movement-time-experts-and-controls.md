@@ -65,3 +65,4 @@ Post hoc t-test on movement time in the same 2 × 2 mixed-design experiment conf
 ## Related Claims
 - [Camera realignment decreases movement smoothness for both groups, with controls degraded more severely than experts](camera-realignment-decreases-smoothness-more-for-controls.md) — related
 - [Expert surgeons move faster and more smoothly than naive controls overall in the laparoscopic peg-transfer task](experts-faster-and-smoother-than-controls-overall.md) — related
+- [Increasing surgeon laparoscopic experience had no notable effect on conversion odds in either arm, suggesting surgeons were already expert at laparoscopic surgery](rolarr-laparoscopic-experience-negligible-effect.md) — related

@@ -48,3 +48,4 @@ Reported in the results of the think-aloud study; a Belgian GP is quoted saying 
 ## Related Claims
 - [GPs in different countries identified aspects of the intervention that did not reflect their national culture or healthcare system](country-contextual-mismatches-intro-intervention.md) — a broader claim this one bears on
 - [GPs in five European countries viewed the INTRO web-based antibiotic prescribing intervention as broadly acceptable, feasible and useful for improving clinical practice](intro-intervention-acceptable-feasible-five-countries.md) — related
+- GPs' key barriers to delayed prescribing are mistrust that patients will delay, fear of missing serious diagnoses, expected prescription misuse, and time pressure — related

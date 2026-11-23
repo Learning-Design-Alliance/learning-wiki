@@ -66,3 +66,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Breakout rooms with a shared whiteboard can productively replicate collaborative case-problem solving online, albeit at a slower pace](breakout-rooms-replicate-collaborative-case-problem-solving-online.md) — related
 - [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — related
 - [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related
+- [Online lectures with integrated assessment can produce results superior to the classroom for large courses, per some experimental evidence](online-integrated-assessment-superior-large-courses.md) — related

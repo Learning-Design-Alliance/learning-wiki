@@ -72,3 +72,5 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
 - [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](confidence-statements-significant-gains-three-areas.md) — related
 - [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — related
+- [Paramedics trained with extended skills can autonomously assess and manage elderly patients with minor acute conditions, reducing ED attendance and hospital admission](paramedic-extended-skills-reduce-ed-conveyance.md) — related
+- [Paramedics trained in specialised skills for children with special healthcare needs made more appropriate interventions, but this did not change transport or admission rates](specialised-training-children-appropriate-care.md) — related

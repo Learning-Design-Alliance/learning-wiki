@@ -71,3 +71,4 @@ Multilevel analysis of morning working memory updating as a function of the prev
 - [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](tiredness-predicts-afternoon-working-memory.md) — related
 - [Elementary school children show substantial within-person day-to-day fluctuations in working memory performance in the school context](substantial-within-person-daily-wm-fluctuations-children.md) — related
 - [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related
+- [On days with better sleep quality, students report better daily learning goal achievement](daily-sleep-quality-predicts-daily-learning-goal-achievement.md) — related

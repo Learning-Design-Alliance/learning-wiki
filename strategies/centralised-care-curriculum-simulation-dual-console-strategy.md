@@ -55,6 +55,7 @@ The authors propose a structured pathway for introducing innovative surgical tec
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Introduce a standardized complex laparoscopic procedure via structured supervision with an expert assistant in every case](structured-supervision-expert-assistant-all-cases.md)
+- [Introduce new endoscopic techniques through structured national training programmes with competency-based assessment, accreditation and error/near-miss analysis](structured-competency-based-endoscopy-training-programmes.md)
 
 ## Examples
 -

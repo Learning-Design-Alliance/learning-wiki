@@ -53,3 +53,5 @@ Anthropometric assessment of 399 children using WHO 2007 reference standards (HA
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related
 - [In this sample, 9.1% of children were stunted, 7.1–7.2% infected with STH, and 19.2% anemic](stunting-sth-anemia-prevalence-port-elizabeth.md) — related
+- [Undernutrition is prevalent among primary school children in Debre Markos Town, northwest Ethiopia, with 56.2% having some form of undernutrition](debre-markos-undernutrition-prevalence-56-percent.md) — related
+- Stunting prevalence was significantly higher in male than female primary school children in the study sample — related

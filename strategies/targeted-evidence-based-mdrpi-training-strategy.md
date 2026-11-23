@@ -50,6 +50,7 @@ The authors recommend that nurses receive education on MDRPI and that organisati
 - [Pair education with system-level changes to shift responsibility attitudes in perioperative teams](pair-education-with-system-level-responsibility-changes.md)
 - [Update undergraduate and in-service PU training to include evidence-based practice, evaluate effectiveness periodically, and have senior nurses guide new graduates](evidence-based-pu-training-update-and-mentoring.md)
 - [Disseminate updated clinical guidelines through mobile notifications and periodic quick examinations, and revise nursing curricula toward practical, motivational training](guideline-dissemination-mobile-notification-nurse-curriculum-revision.md)
+- [Use survey findings on PHC professionals' HPV knowledge gaps and concerns to update curricula and guide postgraduate training](update-curricula-postgraduate-hpv-training.md)
 
 ## Examples
 -

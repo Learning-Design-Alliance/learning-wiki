@@ -51,3 +51,4 @@ Results section comparison of episiotomy rates during the video-only phase versu
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
 - [Blended learning (animated e-learning video plus structured face-to-face training) reduced OASIS incidence by 74% versus baseline and by 52% versus e-learning alone](blended-learning-reduced-oasis-74-percent.md) — related
 - [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related
+- [Lack of training in minimising tears and keeping the perineum intact is the most commonly reported obstacle to reducing episiotomy rates](training-gap-obstacle-episiotomy-reduction.md) — related

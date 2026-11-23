@@ -50,3 +50,4 @@ Cross-sectional health facility assessment of the most experienced delivery prov
 - [Vignette competence varied significantly by facility type, with hospital respondents scoring highest (70%) and clinic respondents lowest (45%)](emoc-vignette-competence-varies-by-facility-type.md) — related
 - [Higher average annual delivery workload per skilled birth attendant is associated with higher vignette competence](higher-delivery-workload-associated-with-higher-competence.md) — related
 - Midwives in public facilities are significantly more knowledgeable about pre-eclampsia than midwives in private facilities, while physicians show no such difference — related
+- Task analysis survey data show task sharing of at least 74% between basic and general nurse cadres across Mozambican health facility types — related

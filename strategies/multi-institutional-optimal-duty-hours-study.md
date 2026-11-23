@@ -51,6 +51,7 @@ The review endorses the ACS task force recommendation to fund a multi-institutio
 - [Use simulation technologies and skills labs to accelerate learning when operative exposure is reduced](simulation-skills-labs-reduced-operative-exposure.md)
 - [Create opportunities for trainees to learn the skills of balancing competing professional values and work-life demands](create-opportunities-teach-balance-skills.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Base surgeons' work-hour decisions on studies of competent practicing surgeons rather than on surgical learners](work-hour-policy-from-competent-surgeon-studies.md)
 
 ## Examples
 -

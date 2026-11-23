@@ -52,3 +52,4 @@ Narrative synthesis of the professional-behaviour outcome section, reporting two
 - [Pre-admission UCAT SJT scores are not statistically significantly predictive of professionalism lapses in medical students](ucat-sjt-not-predictive-of-lapses.md) — reports the opposite
 - [UCAT cognitive total and verbal reasoning subtests show the most evidence of predictive validity across outcome measures, with abstract reasoning showing the least](ucat-cognitive-total-verbal-reasoning-most-predictive.md) — related
 - [Mid-training professionalism SJT scores remain an independent predictor of professionalism lapses after adjusting for academic and cognitive performance](nms-sjt-independent-predicts-lapses.md) — related
+- [SJT score shows no significant relationship with UKCAT cognitive ability scores](integrity-sjt-no-ukcat-relationship.md) — related

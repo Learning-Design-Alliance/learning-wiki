@@ -49,3 +49,4 @@ Sensitivity analyses repeating the primary model with the nonstandardized overal
 - [Male sex, non–US medical school graduation, and DO degree are associated with higher adjusted antibiotic prescribing rates](physician-factors-higher-antibiotic-prescribing.md) — related
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
 - [Residency programs account for more prescribing variance than individual competency ratings, but competency ratings improve model fit](variance-components-program-vs-competency.md) — related
+- [Learning effects model estimates were robust to missing experience data and to overly influential observations from sparse peripheral experience regions](rolarr-learning-model-robustness-checks.md) — related

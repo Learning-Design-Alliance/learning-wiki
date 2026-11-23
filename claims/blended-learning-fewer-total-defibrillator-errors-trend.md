@@ -50,3 +50,4 @@ Randomized controlled trial of 101 nurses and residents randomized 1:1 to blende
 - [More blended learning participants performed error-free procedures than face-to-face participants, though not statistically significant, with cardioversion the most error-prone procedure](blended-learning-more-error-free-procedures.md) — related
 - [Novices made fewer total errors in VR than in cross-sectional viewing, with a trend approaching significance](novices-fewer-errors-vr-trend.md) — related
 - [Dyads showed only a non-significant trend toward a lower error rate than individuals](dyads-error-rate-trend-not-significant.md) — related
+- [More patient-student touchpoints showed a non-significant trend toward greater A1c improvement](touchpoints-a1c-nonsignificant-trend.md) — related

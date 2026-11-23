@@ -73,3 +73,4 @@ Same SEM, Table 2: WQ direct effect on M1 of 0.247 (SE 0.147); the article attri
 - [The IC-MD shows no correlation with TMS results and GPA, complementing cognitive-ability-based selection quotas](ic-md-divergent-validity-cognitive-criteria.md) — related
 - [Students admitted via the pre-university GPA quota earned better written and oral M1 exam grades than students in all other admission quotas](gpa-quota-best-written-oral-m1-grades.md) — related
 - [Despite inferior pre-university GPAs, selection-quota students did not differ significantly from GPA-quota students on exam attempts, temporal continuity or passing rates](selection-quota-matches-gpa-on-progress.md) — related
+- [After full adjustment, type of secondary education remained tied to performance on the mandatory admission tests, while maternal education and body weight were no longer significant](school-type-tied-to-test-performance-after-adjustment.md) — related

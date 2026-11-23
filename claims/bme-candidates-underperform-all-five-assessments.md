@@ -54,3 +54,4 @@ Observational analysis of the linked examination database, in which 854 (37.4%) 
 - [The new-format CSA is better predicted by PACES than the old-format CSA, with no evidence of differential bias against BME candidates](new-csa-better-predicted-by-paces-no-ethnicity-interaction.md) — related
 - [Non-white students performed less well on the research methods and statistics exams](ethnicity-predicts-exam-performance-clinical-psychology-training.md) — related
 - [Non-white students underperformed on undergraduate BMS and clinical assessments but had equivalent MRCP(UK) performance and were equally likely to be on the Specialist Register](ethnicity-underperformance-undergraduate-equivalent-register.md) — reports the opposite
+- [Simulated single-examiner analyses of ethnic bias produce massive false positives because examiner marks are confounded with candidate performance](single-examiner-bias-analysis-false-positives.md) — related

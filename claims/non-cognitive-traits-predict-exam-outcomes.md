@@ -52,3 +52,4 @@ Correlational analysis against year 1 and year 2 examination marks in the HYMS c
 - [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — a broader claim this one bears on
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — a broader claim this one bears on
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
+- [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related

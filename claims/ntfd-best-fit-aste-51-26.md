@@ -71,3 +71,5 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
+- [Shared environmental influence is substantial for university enrolment (36%) but non-significant for university achievement, where heritability falls to 46%](shared-environment-university-enrolment.md) — related
+- [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related

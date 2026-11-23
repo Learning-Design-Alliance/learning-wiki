@@ -50,3 +50,4 @@ Ordinal regression model with random intercept, controlling for prior CMV educat
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [Awareness of free CMV education resources rises from 10% to 97% after course completion](cmv-elearning-increases-resource-awareness.md) — related
 - [Primary assessment performance declines significantly between the end of the course and 3–4 months later, but remains above the pre-course level](abcde-performance-declines-but-remains-above-baseline.md) — related
+- [Prevention counseling delivered by healthcare providers is reported to be highly effective at raising CMV awareness among pregnant women](provider-counseling-raises-cmv-awareness.md) — related

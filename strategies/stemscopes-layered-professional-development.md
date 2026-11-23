@@ -66,6 +66,7 @@ Implementation is supported through multiple professional development formats ra
 - [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 - [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

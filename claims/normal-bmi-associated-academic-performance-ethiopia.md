@@ -52,3 +52,5 @@ Cross-sectional study with clinical nutritional assessment (weight and height me
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — reports the opposite
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
 - [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — reports the opposite
+- [Stunted children were significantly less likely to score high academic performance than normal-nutrition children](stunting-associated-with-low-academic-performance.md) — related
+- [Underweight children were significantly less likely to score high academic performance than their normal-weight counterparts](underweight-associated-with-low-academic-performance.md) — related

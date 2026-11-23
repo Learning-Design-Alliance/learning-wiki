@@ -49,3 +49,4 @@ Observational report from the authors' own seminar series: reduced organization 
 - [Most colleagues invited to speak at MICA seminars found the experience rewarding but did not remain active in exploring virtual worlds](mica-seminar-speakers-did-not-remain-active.md) — related
 - [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related
 - [Virtual seminars reach global audiences comparable in size to medium-sized conferences](virtual-seminars-global-audience-scale.md) — related
+- Digital technology addresses global dissemination barriers: treatment gaps exceed 90% in India and China, and 38 identified innovations use digital technology to disseminate psychological treatments — related

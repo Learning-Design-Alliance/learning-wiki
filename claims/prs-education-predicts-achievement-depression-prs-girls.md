@@ -66,3 +66,4 @@ Covariate results from the fully adjusted RI-CLPM for girls. For boys there was 
 ## Related Claims
 - [Polygenic risk scores for educational attainment and cognitive performance show the most consistent associations with language traits, and these associations are stronger for English than Chinese literacy phenotypes](prs-ea-cp-stronger-english-than-chinese.md) — related
 - [Child IQ shows a strong positive association with academic achievement and a small inverse association with depressive symptoms in both sexes](child-iq-achievement-and-depression.md) — related
+- [Sex-stratified analysis did not point to different effects of ADHD polygenic scores between boys and girls](adhd-pgs-no-sex-difference-effects.md) — related

@@ -76,3 +76,4 @@ The multivariate logistic regression, adjusted for intelligence quotient, motor 
 - [Lower gestational age at birth is associated with lower classic mini-mental, total IQ, perceptual reasoning and processing speed scores in multivariate analysis](gestational-age-associated-cognitive-scores-regression.md) — related
 - [About one in ten preterm school-age children assessed shows low or borderline IQ, with mean total IQ near the population mean](preterm-iq-low-borderline-10-9-percent.md) — related
 - [All very preterm children with full-scale IQ <70 or neurosensory impairment received at least one support service, and IQ <70 is more strongly associated with poor educational performance than NSI](preterm-iq70-nsi-support-need.md) — related
+- [VP/VLBW children show lower mathematic and general cognitive abilities than term comparisons at 8 years](vpvlbw-lower-math-cognition-age-8.md) — related

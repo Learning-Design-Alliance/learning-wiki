@@ -50,3 +50,4 @@ Cross-sectional comparison of three training-duration groups (18 trainees 4–12
 - [Learning outcomes after handmade-phantom training do not differ between PGY-1 residents and undergraduate medical students](no-pgy1-ugy-performance-difference.md) — related
 - [PGY2 trainees scored significantly better than PGY1 trainees in organization and efficiency, communication skills, and overall performance on the pharmacist Mini-CEX](pgy2-outperform-pgy1-mini-cex-domains.md) — related
 - [PGY trainees scored highest in nursing professionalism and lowest in physical examination on the nursing-specific Mini-CEX](pgy-trainees-highest-professionalism-lowest-physical-examination.md) — related
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — related

@@ -55,3 +55,4 @@ Analysis of the T-COMP total social competence score in the cluster randomized t
 - [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](iy-tcm-baseline-risk-moderation.md) — a narrower finding that bears on this claim
 - [The IY TCM program increased teacher-reported prosocial behavior and overall social competence (d = 0.13 each)](iy-tcm-increased-prosocial-and-social-competence.md) — possibly the same claim (merge candidate)
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related
+- [Prior trials of the Incredible Years TCM course alone detected changes in teacher behaviour but little evidence of change in teacher-rated child well-being](tcm-prior-trials-teacher-behaviour-change-limited-child-evidence.md) — reports the opposite

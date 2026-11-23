@@ -57,3 +57,4 @@ Standardized linear regressions on 492 students predicting Graduate GPA (Table 4
 - [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related
 - [Graduate GPA is the admissions-related measure most strongly correlated with PhD completion (rpb = 0.43)](ggpa-strongest-correlate-phd-completion.md) — related
 - [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — reports the opposite
+- [uGPA was a more consistent predictor than the MCAT of graduate school GPA and medical school preclinical and clinical GPAs across cohorts](ugpa-more-consistent-predictor-than-mcat.md) — related

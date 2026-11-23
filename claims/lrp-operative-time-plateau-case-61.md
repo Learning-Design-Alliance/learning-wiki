@@ -78,3 +78,4 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [Reconstruction time showed minimal variability from the early phase of the series (median 26 min, IQR 22–30 min), which the authors interpret as stable procedural performance without a prolonged learning curve](hj-reconstruction-time-stable-early-phase.md) — related
 - [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related
 - [Operative time for radical prostatectomy is shorter in advanced learning curves than in initial learning curves](shorter-operative-time-advanced-learning-curve.md) — related
+- [No actual learning curve for TaTME could be extracted from the included studies because a proficiency curve has yet to be determined](tatme-learning-curve-not-extractable.md) — related

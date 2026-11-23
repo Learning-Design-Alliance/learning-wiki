@@ -48,3 +48,4 @@ Field testing across two cohorts of CBT-E trainees completing tests via the Exam
 - [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related
 - [The brief QStream pilot had a 13% attrition rate among clinicians who commenced, which the authors judged acceptable for this cohort](qstream-pilot-attrition-rate.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
+- [Digital training enables large-scale therapist training research, including a global cohort study involving over 750 clinicians](digital-training-scales-therapist-education-research.md) — related

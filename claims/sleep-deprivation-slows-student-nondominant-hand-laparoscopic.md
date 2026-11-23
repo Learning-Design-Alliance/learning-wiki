@@ -54,3 +54,5 @@ Randomized crossover trial in the Surgical Skills Lab Dresden: 55 proficiency-tr
 - [Sleep deprivation does not significantly change laparoscopic error rates in either students or surgeons](sleep-deprivation-no-error-rate-difference.md) — related
 - [The standardized simulated night shift successfully induced acute sleep deprivation, confirmed by sleepiness scales and vital parameters](simulated-night-shift-induces-sleepiness-manipulation-check.md) — related
 - [Sleep-deprived surgeons take significantly longer on peg transfer and circle cutting, while sleep-deprived students were faster in circle cutting](sleep-deprivation-task-completion-time-cohorts-diverge.md) — related
+- [Technical dexterity of unconsciously competent surgeons did not differ from rested to postcall measurements on basic laparoscopic tasks in a single-group pre-post study](sleep-deprivation-spares-autonomous-surgeon-dexterity.md) — reports the opposite
+- Simulated laparoscopic performance becomes significantly poorer as task difficulty increases — related

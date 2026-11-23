@@ -59,3 +59,5 @@ In the cross-sectional survey, univariate analysis showed skipping breakfast "OR
 - [Daily sweet consumption is associated with lower GPA among Palestinian university medical students, remaining significant after full covariate adjustment](daily-sweet-consumption-lower-gpa-palestinian-students.md) — related
 - [Students who always skip breakfast have increased risk of low achievement on numeracy (RR = 1·78) and reading (RR = 1·63) after adjustment for confounding](always-breakfast-skippers-increased-risk-low-achievement.md) — reports the opposite
 - [Not consuming breakfast daily is associated with lower GPA among university students](breakfast-skipping-lower-gpa-university-students.md) — reports the opposite
+- [Breakfast consumption is significantly and positively associated with educational performance in 9–11-year-old children, adjusted for gender and individual- and school-level FSM entitlement](breakfast-consumption-associated-better-sats.md) — related
+- [The free school breakfast intervention showed no evidence of an effect on educational outcomes in an intention-to-treat analysis](breakfast-intervention-no-educational-outcome-effect.md) — related

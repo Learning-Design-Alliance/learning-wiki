@@ -49,3 +49,4 @@ Systematic review and meta-analysis by Lonsdale and colleagues of interventions 
 - [Students engage in activity for only about 40% of PE lesson time, and few after-school program observations meet physical activity targets](low-activity-levels-pe-and-asp-sessions.md) — related
 - [Providing students with choice of activities and brief periods of free choice increases physical activity and MVPA during PE lessons](student-choice-increases-pe-physical-activity.md) — related
 - [Specialist-taught PE lessons produced more minutes of student MVPA than generalist-taught PE lessons, but the proportion of lesson time in MVPA did not differ](specialist-pe-more-mvpa-minutes-per-lesson-look.md) — a narrower finding that bears on this claim
+- [A pilot with fifteen adolescents wearing heart rate monitors indicated that the intervention's warm-up and infusions produced heart rates in the vigorous zone](vpa-warm-up-infusions-pilot-heart-rate-vigorous-zone.md) — related

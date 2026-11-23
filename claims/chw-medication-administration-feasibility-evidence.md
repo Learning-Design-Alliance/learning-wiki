@@ -47,3 +47,4 @@ Narrative review of prior literature in the Discussion section, citing a study o
 ## Related Claims
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — a broader claim this one bears on
 - [Lady Health Workers currently perform antenatal identification, danger-sign screening, counselling and referral tasks that form the existing platform for community-level pre-eclampsia care in Pakistan](lhw-current-antenatal-responsibilities-platform.md) — related
+- [Trained TBAs tightly coupled amoxicillin administration with referral, and 84.6% of referred neonates completed referral to a rural health center](tba-referral-amoxicillin-coupling-completion.md) — a narrower finding that bears on this claim

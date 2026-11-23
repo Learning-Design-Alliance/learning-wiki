@@ -132886,5 +132886,77 @@
  "explicit-instruction\tsleep-medicine instruction\tno sleep-medicine instruction": {
   "label": "explicit instruction/training vs no instruction/training",
   "treatment_is_a": true
+ },
+ "?\tlow-GI medical-nutrition-therapy education\tpre-intervention baseline": {
+  "label": "low-GI medical-nutrition-therapy education vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t90 min case-based discussion\troutine practice without the intervention": {
+  "label": "case-based discussion vs routine practice",
+  "treatment_is_a": true
+ },
+ "active-learning\t90 min case-based instruction\troutine practice without the intervention": {
+  "label": "case-based instruction vs routine practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tSEMLA group-based activities and interactional structures\tDIL individual digital training": {
+  "label": "group-based interactive learning vs individual digital training",
+  "treatment_is_a": true
+ },
+ "active-learning\tSEMLA group-based socioemotional and material learning\tBRUK active control": {
+  "label": "group-based learning vs active control",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative paired training with peer observation and communication\ttraining alone": {
+  "label": "collaborative paired training vs training alone",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed access to instruction or feedback\texternally controlled access to instruction or feedback": {
+  "label": "self-directed vs externally controlled access",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1.5-hour case-based documentation module\tpreintervention documentation": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taudience-appropriate GI translations with client-focused tools\tstandard medical nutrition therapy teaching": {
+  "label": "tailored explicit instruction vs standard instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\telectronic alert with TMS–warfarin management advice\tno alert before receiving the advice": {
+  "label": "alerted advice vs unalerted advice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trefresher training\tbefore refresher training": {
+  "label": "refresher instruction vs no refresher instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-study training programme for children with special healthcare needs\tnon-trained paramedics": {
+  "label": "training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal and written low-GI communication\tbefore communication": {
+  "label": "explicit communication vs no communication",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tindependent training with automated feedback\tproctored training": {
+  "label": "Automated feedback with independent training vs proctored training",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstandardized instructor feedback\tno instructor feedback": {
+  "label": "Instructor feedback vs no instructor feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttimely supervisor feedback\tno or delayed supervisor feedback": {
+  "label": "Timely feedback vs delayed or no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMISS-21 written patient feedback plus usual verbal multisource feedback\tusual verbal multisource feedback alone": {
+  "label": "written plus verbal feedback vs verbal feedback alone",
+  "treatment_is_a": true
+ },
+ "media-design\ticon arrays showing benefits and harms\ticon arrays showing benefits only": {
+  "label": "benefits and harms vs benefits only",
+  "treatment_is_a": true
  }
 }

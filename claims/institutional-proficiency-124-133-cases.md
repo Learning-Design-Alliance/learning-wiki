@@ -56,3 +56,4 @@ Moving average time-to-proficiency analysis of chronological case series at two 
 - [Conversions concentrate early in the robotic liver resection learning curve: 8 of 9 conversions occurred before case 66](conversions-concentrate-before-full-mastery-phase.md) — related
 - [A surgeon's robotic liver resection learning curve divides into four phases: Competency (cases 1–20), Proficiency (21–30), Early Mastery (31–65), and Full Mastery (66–100)](four-phase-robotic-liver-learning-curve.md) — related
 - [Perioperative outcomes vary significantly across learning-curve phases, with morbidity peaking at 80% in the Proficiency phase when major resections begin](outcomes-vary-across-learning-phases-morbidity-peaks-phase-2.md) — related
+- [No actual learning curve for TaTME could be extracted from the included studies because a proficiency curve has yet to be determined](tatme-learning-curve-not-extractable.md) — related

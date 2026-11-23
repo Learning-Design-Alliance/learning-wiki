@@ -50,3 +50,4 @@ Survey of 105 Lebanese primary care practitioners measured beliefs about waterpi
 - [Nearly two thirds of surveyed primary care practitioners had not received smoking cessation training, and half lacked awareness of waterpipe cigarette equivalence](training-gaps-and-cigarette-equivalence-unawareness.md) — related
 - The top perceived barriers to providing waterpipe cessation advice are patient non-compliance, limited training and knowledge, and lack of available cessation programs — related
 - [Physician smoking status is associated with cigarette counseling frequency but not with waterpipe counseling](physician-smoking-status-counseling-link.md) — related
+- [Primary care clinicians show substantial knowledge gaps about smoking prevalence and impacts in later life, with only 47% aware that approximately 10 life years are lost to smoking-related disease](clinician-knowledge-gaps-smoking-older-adults.md) — related

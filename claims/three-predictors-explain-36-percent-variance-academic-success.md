@@ -72,3 +72,4 @@ Model-change statistics from the stepwise regression in Table 3. Model 2 added e
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
 - [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

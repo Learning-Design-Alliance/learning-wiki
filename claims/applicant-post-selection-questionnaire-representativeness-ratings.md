@@ -50,3 +50,5 @@ Post-selection questionnaire administered to second-round applicants; 458 answer
 - [German medical school applicants evaluate the open-ended online SJT Casper favorably, rating it fair and less stressful than other exams](casper-german-pilot-acceptable-test-takers.md) — related
 - [Medical students score significantly higher than flight school applicants on adherence to procedures and communication](medical-students-adherence-communication-higher.md) — related
 - [Adverse impact of SJTs on under-represented groups is generally less than for cognitive or academic tests](sjt-less-adverse-impact-than-cognitive-tests.md) — related
+- [Participants rated the integrity SJT positively on acceptability, with item means from 3.4 to 4.4 on a 5-point scale](integrity-sjt-acceptability-ratings.md) — related
+- [The MMI was rated acceptable by applicants, with no statistically significant sex or race differences in acceptability item scores](mmi-acceptable-multicultural-context.md) — related

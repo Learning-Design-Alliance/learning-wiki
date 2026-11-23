@@ -48,3 +48,4 @@ Cohort comparison of programmatic outcomes at a midwestern PA program: a class o
 - [A smaller share of the simulation-based MMI cohort failed to progress on time academically (6.4%) than of the two prior panel-interview cohorts (8.0% and 10.1%)](mmi-simulation-cohort-on-time-progression.md) — related
 - [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](mmi-simulation-similar-pance-pass-rates.md) — related
 - [Multiple mini-interviews significantly predict early clinical exams (d=0.417) and early academic results (d=0.195), while panel interviews show no significant predictive effects](mmi-predicts-early-outcomes-panel-interviews-do-not.md) — related
+- [The MPI is more resource-efficient than panel interviews: 160 evaluators interviewed 600 candidates versus 290 interviewers for 587 candidates under the panel format](mpi-feasibility-fewer-evaluators-than-panel.md) — related

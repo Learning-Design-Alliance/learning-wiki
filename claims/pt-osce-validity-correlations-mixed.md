@@ -103,3 +103,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related
 - [Case report marks correlated with academic rather than clinical performance, questioning their validity as clinical indicators](case-reports-correlate-with-academic-not-clinical-performance.md) — related
 - [All P1–P6 exam question scores correlated positively and relatively strongly with the overall CSR exercise grade](pearson-correlations-question-exercise-grade.md) — related
+- [MPI total scores show moderate correlations with first-year OSCE performance (r = 0.24 physical examination, r = 0.33 communication, r = 0.30 total), supporting the extrapolation inference](mpi-predictive-validity-first-year-osce.md) — related

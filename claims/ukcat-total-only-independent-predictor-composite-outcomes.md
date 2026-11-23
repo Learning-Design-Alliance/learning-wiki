@@ -52,3 +52,4 @@ Retrospective observational study of one 2007 Glasgow cohort (n = 187 with compl
 - [UKCAT shows little relationship with the other pre-admission criteria, suggesting it measures different dimensions](ukcat-measures-dimensions-distinct-from-tss-interview.md) — related
 - [UKCAT total explains around 5% of variance in EPM and 6% in H&C in bivariate regression](ukcat-total-variance-explained-composites.md) — related
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
+- [On multiple regression, only Total HPAT-Ireland significantly predicted Year 2 Total OSCE score, with modest predictive power](hpat-total-predicts-year2-total-osce.md) — related

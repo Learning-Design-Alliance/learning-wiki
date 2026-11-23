@@ -77,3 +77,4 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [In a case study, two students' computational thinking and physics understanding co-developed through negotiating and cohering multiple perspectives during collaborative agent-based modeling](collaborative-agent-based-modeling-perspectival-shifts-case.md) — related
 - [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related
 - [Effective small-group work in physics produces co-construction of knowledge: students can figure out answers together that they would not figure out alone](peer-co-construction-of-knowledge-physics.md) — related
+- Virtual teams find it harder to develop shared mental models and transactive memory systems — related

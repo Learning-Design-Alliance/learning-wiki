@@ -60,3 +60,4 @@ Univariate chi-square analysis of first-attempt pass/fail outcomes for 5780 Part
 - [Demographic variables (gender, ethnicity, socioeconomic status, age) are not significant predictors of community college astronomy performance](demographics-not-predictors-community-college-astronomy-performance.md) — related
 - [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related
 - [Gender and culture influence how proposals are written and how successful they are, and dual-anonymous peer review at ESO has not cancelled the gender gap in proposal success rates](gender-bias-proposal-review.md) — related
+- [Socio-demographic predictors of UMAT score change on re-sitting: gains predicted by male gender and NZ origin, and reduced by longer interval, older age and non-English language background](umat-score-change-predictors.md) — related

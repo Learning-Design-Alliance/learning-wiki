@@ -47,3 +47,4 @@ Descriptive analysis of the 22 students who reported all MITI results; Table 2 p
 ## Related Claims
 - [Students found motivational interviewing challenging but identified the MITI tool as useful for promoting self-reflection and isolating MI skills](students-find-mi-challenging-miti-useful-reflection.md) — related
 - [Health students self-assess their motivational interviewing skills as competent and higher than scores expected from beginners](students-self-assess-mi-skills-competent-miti.md) — possibly the same claim (merge candidate)
+- [Nurses' self-ratings of their MI performance greatly overestimated their coded MITI performance on four of five global dimensions and on most behavior counts](nurse-self-ratings-overestimate-miti-performance.md) — related

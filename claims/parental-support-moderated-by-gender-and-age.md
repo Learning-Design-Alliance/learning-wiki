@@ -76,3 +76,4 @@ MANOVA (Wilks' lambda, partial eta squared) of gender and age factors and the fo
 - [Indirect effects from emotional regulation and parent-child relationship to later worries through online learning self-efficacy are significantly stronger for girls than boys](indirect-effects-stronger-girls.md) — related
 - [Improvement in parent-child relationships during suspension is associated with girls' greater emotional regulation and self-efficacy and less digital entertainment use, but shows no significant associations for boys](pcr-protects-girls-not-boys.md) — related
 - [Past parental activity (APAF3) shows non-monotonic associations: medium support groups were least bored and had the best grades](past-parental-activity-nonmonotonic-boredom-grades.md) — related
+- [The association between non-organized physical activity and subsequent Physical Education grades is significant in girls only](non-organized-physical-activity-pe-grades-girls-only.md) — related

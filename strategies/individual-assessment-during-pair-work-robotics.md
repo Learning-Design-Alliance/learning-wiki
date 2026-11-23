@@ -45,6 +45,7 @@ A proposed assessment procedure for shared-robot pair work: students alternate o
 - [Navigator-Tourist Peer Learning](navigator-tourist_peer_learning.md)
 - [Peer Tutoring With Structured Materials](peer-tutoring-with-structured-materials.md)
 - [Use peer assessment of individual procedures to broaden skill evaluation beyond randomly selected examinations](peer-assessment-broadens-skill-evaluation-strategy.md)
+- [Pair trainees for real-time competency assessment and feedback during skills practice](paired-training-real-time-peer-assessment-strategy.md)
 
 ## Examples
 -

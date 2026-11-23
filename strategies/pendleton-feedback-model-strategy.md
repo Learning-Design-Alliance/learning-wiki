@@ -40,6 +40,7 @@ The article recommends a participant-driven feedback method, such as Pendleton's
 
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](debriefing-before-feedback-simulations.md)
 - [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
+- [Deliver written patient feedback as an intervention pack with Pendleton-framework guided self-reflection before the final consultation](pendleton-reflection-on-written-patient-feedback.md)
 
 ## Examples
 -

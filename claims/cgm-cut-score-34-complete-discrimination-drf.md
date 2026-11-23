@@ -59,3 +59,4 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [A contrasting-groups pass/fail score of 48/50 points produced no false positives or false negatives](vr-tte-test-pass-fail-score-48.md) — related
 - [Contrasting-groups pass/fail standards were established for both simulator tests with overlapping-score consequences of one misclassified participant each](contrasting-groups-pass-fail-standards-colonoscopy.md) — related
 - [A pass–fail standard of 358 points set by the contrasting groups method misclassifies two of 20 novices and two of 20 experienced surgeons](tablt-pass-fail-358-contrasting-groups.md) — related
+- [Misclassified experts had fewer years of experience than the expert-group average, while novice misclassifications were not explained by experience](misclassification-pattern-years-of-experience.md) — related

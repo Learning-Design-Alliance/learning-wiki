@@ -54,3 +54,6 @@ Random-effects meta-analysis of 33 cohort/cross-sectional studies pooling mean d
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [VPT 13-year-olds perform below FT peers in mathematics even after controlling for age and social risk](vpt-below-ft-mathematics-age-social-risk-adjusted.md) — reports the opposite
+- [Academic difficulties of preterm children appear stable across development from early childhood to adolescence](preterm-academic-difficulties-stable-development.md) — related
+- [Negative effects of prematurity on academic outcomes appear unchanged despite increased survival in the antenatal steroids and surfactant era](preterm-academic-outcomes-unchanged-surfactant-era.md) — a broader claim this one bears on
+- [Preterm children score 0.44 and 0.52 SD lower on reading and spelling](preterm-reading-spelling-deficits.md) — possibly the same claim (merge candidate)

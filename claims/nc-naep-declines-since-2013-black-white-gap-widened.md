@@ -72,3 +72,4 @@ The report's background section, summarizing NAEP trend data (Exhibit 4), states
 - [In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures](nc-oc-schools-outperformed-2015-16.md) — related
 - [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
+- [NAEP-based IQ scores rose for all groups from 1978/80 to 2012, but from 1992 to 2012 Whites showed no rise while all three minority groups did](naep-1978-2012-group-trends.md) — related

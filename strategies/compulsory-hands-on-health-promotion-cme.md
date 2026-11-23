@@ -46,6 +46,7 @@ For physicians already in service, the article recommends that "In-service physi
 - [Train allied health professionals to deliver counseling, nutrition education and hygiene support, offsetting physician workload](allied-health-professional-health-promotion-training.md)
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
 - [Targeted continuing education, structured sexual health training, and standardized screening protocols to strengthen STI prevention in primary care](targeted-sti-training-screening-protocols-strategy.md)
+- [Strengthen theoretical and clinical training in hyperuricemia and rheumatology for primary health care physicians to reduce misprescribing risk](strengthened-hyperuricemia-rheumatology-training-phc-physicians.md)
 
 ## Examples
 -

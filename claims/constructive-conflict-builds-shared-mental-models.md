@@ -55,3 +55,4 @@ Multiple regression analysis on 27 student teams in a business simulation game r
 - [Qualitative studies identify dynamics, patterns, and development in team learning behaviours, linked to situated knowledge and transactivity](qualitative-studies-dynamics-patterns-development.md) — related
 - [Team cognition predicts team performance: transactive memory systems (20%) and shared mental models (10%) explain significant variance, and situational awareness shows the largest relationship but rests on a small sample](team-cognition-predicts-team-performance.md)
 - [Task conflict can be constructive for group decisions while relationship conflict is usually dysfunctional, and higher conflict levels are usually associated with lower trust](task-versus-relationship-conflict-group-trust.md) — related
+- Virtual teams find it harder to develop shared mental models and transactive memory systems — related

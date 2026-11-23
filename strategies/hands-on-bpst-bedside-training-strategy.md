@@ -53,6 +53,7 @@ A multi-component hands-on training recipe for teaching a clinical skill: face-t
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Blended learning package combining an animated e-learning video with structured face-to-face training and supervised real-life practice](blended-bpst-training-package-strategy.md)
 - [Standardize a multi-parameter clinical examination protocol through hands-on training, instructional videos, and a bedside pocket card](standardized-exam-protocol-training-strategy.md)
+- [Develop and evaluate a local training program in normal vaginal birth without episiotomy, addressing attitudes and evidence generalisability](local-episiotomy-training-program-strategy.md)
 
 ## Examples
 -

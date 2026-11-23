@@ -59,3 +59,4 @@ Two-way ANOVA with Tukey post hoc comparison of GRE Q means by gender across the
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
 - [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related
+- [Men perform considerably better than women in the physics and mathematics parts of the admission test](men-outperform-women-physics-mathematics-admission.md) — related

@@ -56,3 +56,4 @@ Construct validity study (study [127]) evaluating the LMC for objective measurem
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [Deep learning models trained on JIGSAWS kinematic and video data achieve high accuracy in predicting surgeon skill level and mOSATS scores](deep-learning-high-accuracy-skill-prediction-jigsaws.md) — related
 - [The skill assessment network distinguishing novice from expert surgeons reached only 56% test accuracy, failing to achieve useful performance](skill-assessment-network-56-percent-accuracy-failed.md) — related
+- Machine-learning optimization of the network reached a correct judgment ratio of 0.99 on the training dataset by the seventh trial — related

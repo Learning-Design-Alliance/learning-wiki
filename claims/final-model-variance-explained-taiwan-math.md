@@ -49,3 +49,4 @@ Final multilevel model (Model 5) for the TIMSS 2011 Taiwan sample. The article r
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [Regression models combining demographics, lifestyle, and fitness explain 23.7% to 58.0% of variance in academic performance](regression-models-variance-academic-performance.md) — related
 - [About 21.5% of the variance in eighth-grade mathematics achievement in Taiwan lies between schools](icc-21-5-percent-between-schools-taiwan-math.md) — related
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

@@ -47,6 +47,7 @@ The article closes with policy recommendations grounded in its finding that soci
 ## Related Strategies
 
 - [Policies improving school attendance, supporting low-income households and expanding early childhood education to raise academic outcomes in low-income urban settings](attendance-income-early-education-policy-strategy.md)
+- [School initiatives targeting vulnerable students' well-being alongside academic performance](school-initiatives-student-wellbeing-initiatives.md)
 
 ## Examples
 -

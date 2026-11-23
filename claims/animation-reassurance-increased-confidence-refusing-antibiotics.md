@@ -49,3 +49,4 @@ Inductive thematic analysis of semistructured telephone interviews with 15 presc
 - [Prescribers reported high pre-existing confidence with slight postintervention increases in communication-related confidence](high-confidence-slight-post-intervention-increases-communication.md) — related
 - [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related
 - [Interviewed nurses reported skill development, empowerment and improved confidence, and reflection on their practice following the intervention](qualitative-empowerment-skill-development-reflection.md) — related
+- [More experienced and more highly trained clinicians report greater comfort withholding antibiotics and watching and waiting in likely viral illness](experience-comfort-withholding-antibiotics.md) — related

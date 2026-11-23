@@ -53,3 +53,4 @@ Mutually adjusted regression analyses of years 1 and 5 outcomes (Additional file
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
 - [UKCAT shows little relationship with the other pre-admission criteria, suggesting it measures different dimensions](ukcat-measures-dimensions-distinct-from-tss-interview.md) — related
 - [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related
+- [In Year 1, none of the Irish selection criteria (LCE, HPAT-Ireland, or combined) were significantly related to OSCE communication or clinical performance](year1-no-selection-criteria-predict-osce.md) — a narrower finding that bears on this claim

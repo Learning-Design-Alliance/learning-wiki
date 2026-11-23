@@ -49,3 +49,4 @@ Observational correlational analysis in the LUST cohort; the printed effect size
 - [Perceived Medical School stress increases significantly between the end of freshman year and the end of sophomore year, a potential window for stress-management interventions](pmss-stress-increases-freshman-to-sophomore.md) — related
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Older student age is positively correlated with e-learning satisfaction](age-positive-e-learning-satisfaction.md) — related
+- [Older facial age is associated with higher actual academic performance and female faces are perceived as more attractive](age-correlates-actual-performance-faces-rated-attractive.md) — related

@@ -61,3 +61,4 @@ Bivariate analysis of demographic characteristics among 550 nurses found working
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related
 - [Nurses' MDRPI knowledge shows no significant difference by gender, years of professional experience, or receipt of prior MDRPI training](mdrpi-knowledge-null-gender-experience-training.md) — reports the opposite
+- PES-NWI Physician/Nurse relationship factor scores differ significantly by years of professional experience (p < 0.027) — related

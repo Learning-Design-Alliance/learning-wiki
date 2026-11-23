@@ -57,3 +57,4 @@ Cross-sectional survey of 130 Sri Lankan medical undergraduates using the Genos 
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — reports the opposite
 - [Female students report significantly higher expectation and interest scores than male students before training, and higher expectation after training](gender-differences-obstetric-expectation-interest.md) — related
+- [Males scored significantly higher than females on HPAT-Ireland Sections 1 and 3, but not on the total score or LCE](gender-differences-hpat-sections.md) — related

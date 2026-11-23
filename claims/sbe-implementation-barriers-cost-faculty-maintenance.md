@@ -82,3 +82,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — related
 - [Before implementation, lecturers identified content volume as the primary exam-preparation challenge and reported insufficient time and resources for personalised feedback.](lecturer-baseline-needs-exam-preparation.md) — related
 - [Interviews with physics and astrophysics instructors identified time as the biggest challenge to implementing CUREs, with barriers overlapping those reported in biology](physics-instructor-cure-barriers.md) — related
+- Most clinicians caring for febrile children lack paediatric-specific training, and resource gaps including diagnostics, equipment, staffing, and medications impede assessment and treatment — related

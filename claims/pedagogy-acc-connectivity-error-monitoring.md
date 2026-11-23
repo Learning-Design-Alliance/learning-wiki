@@ -68,3 +68,4 @@ Exploratory PPI analysis: after incorrect responses, Montessori students showed 
 - [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related
 - [The Montessori–traditional connectivity difference in Cluster 2 increases with age, with Montessori-enrolled children showing a steeper age-related FC increase](pedagogy-age-interaction-cluster2-steeper-increase.md) — related
 - [Children show greater neural activity for correct than incorrect responses, opposite the adult error-monitoring pattern](children-correct-greater-activation.md) — related
+- [No-Go accuracy correlates with R SMA beta-power connectivity: positive with right parahippocampal gyrus and negative with left SFG and anterior cingulate cortex](nosma-beta-nogo-accuracy-correlations.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-23
 sources:
   - id: kissel-ka-2025
     resource: "https://doi.org/10.1097/CCE.0000000000001200"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For sepsis recognition, 57.4% of respondents shared barriers and 62.4% shared facilitators, including confounding clinical pictures, confidence or competence perceptions, and blood collection delays. [→ Kissel KA 2025](#kissel-ka-2025)

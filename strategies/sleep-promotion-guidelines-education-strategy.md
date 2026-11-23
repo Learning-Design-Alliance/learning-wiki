@@ -52,6 +52,7 @@ The article recommends that nursing homes implement institutional guidelines for
 
 - [Provide researchers with education and training on study design classification and reporting guideline selection, and implement guideline policies matched to guideline availability](researcher-training-study-design-reporting-guidelines.md)
 - [Routinely screen health professions students for academic stress, anxiety, depression, and sleep disturbance during virtual learning, and incorporate sleep hygiene and resourcefulness training in curricula](routine-screening-sleep-hygiene-resourcefulness-training-strategy.md)
+- [Provide continuous nurse training on neonatal sleep, following ANA guidelines, covering sleep-inducing positions and safe sleep measures](continuous-nurse-training-neonatal-sleep.md)
 
 ## Examples
 -

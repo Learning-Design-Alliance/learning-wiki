@@ -50,3 +50,4 @@ Mixed-effects binary logistic regression for the 2012 cohort. After multiple adj
 - [Ethnicity effects on MRCS Part A are no longer independently predictive once all sociodemographic factors including socioeconomic and educational background are adjusted for](part-a-ethnicity-not-independent-full-adjustment.md) — related
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](ses-course-type-not-independent-predictors-epm.md) — related
 - [Students from state-funded schools are significantly more likely to finish in the top tier of EPM rankings than students from independent schools](state-school-students-more-likely-top-epm-rankings.md) — related
+- [After controlling for application score and competition ratio, Asian and Black applicants have lower odds of allocation to a preferred foundation school than White applicants](ethnicity-predicts-foundation-allocation.md) — related

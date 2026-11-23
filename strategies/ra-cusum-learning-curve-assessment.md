@@ -50,6 +50,7 @@ The review recommends using risk-adjusted cumulative sum (RA-CUSUM) analysis to 
 - [Select early-phase laparoscopic radical prostatectomy patients for smaller prostates and no anticipated lymph node dissection to shorten initial operative times](early-phase-lrp-patient-selection-strategy.md)
 - [Adopt CUSUM analysis as a standardized self-monitoring tool when assessing learning curves of new surgical techniques](cusum-standardized-self-monitoring-strategy.md)
 - [Use CUSUM analysis of procedure time to quantify the surgical learning curve for a novice team adopting a new procedure](cusum-learning-curve-analysis-surgical-training.md)
+- [Surgeons in the learning period can select lower-BMI hernia patients to overcome the learning curve more easily](select-low-bmi-patients-during-tep-learning-period.md)
 
 ## Examples
 -

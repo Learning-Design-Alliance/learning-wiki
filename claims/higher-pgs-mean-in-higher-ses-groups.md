@@ -62,3 +62,4 @@ Between-family analysis of PGS means across four SES groups in 2335 children wit
 - [PGS–achievement associations did not differ across socio-economic strata: no significant Cog or NonCog PGS × SES interaction was detected](no-pgs-ses-interaction-achievement.md) — a broader claim this one bears on
 - [The declining ability–attainment correlation persists in robustness checks addressing reverse causality and parental SES](ability-attainment-decline-robust-to-reverse-causality-and-ses.md) — related
 - [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related
+- [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related

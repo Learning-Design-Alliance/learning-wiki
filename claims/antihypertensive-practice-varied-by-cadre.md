@@ -48,3 +48,4 @@ Qualitative finding on treatment practice by cadre: provision of antihypertensiv
 ## Related Claims
 - [Concern that the ‘Standing Order’ does not explicitly authorize CHEWs to treat pre-eclampsia made some providers hesitant to manage the condition](standing-order-scope-limit-chew-treatment-hesitation.md) — related
 - [LHWs do not carry blood pressure devices or antihypertensive medications and refer women with suspected hypertension to the nearest public facility](lhw-no-bp-device-refer-hypertension.md) — related
+- Task analysis survey data show task sharing of at least 74% between basic and general nurse cadres across Mozambican health facility types — related

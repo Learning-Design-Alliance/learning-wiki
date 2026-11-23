@@ -53,6 +53,7 @@ The article's recommendation for maintaining intubating LMA skills in doctors wh
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
+- [Schedule frequent hands-on training for ET and EasyTube if these devices are kept in pediatric emergency carts](frequent-training-for-et-ezt-in-emergency-carts.md)
 
 ## Examples
 -

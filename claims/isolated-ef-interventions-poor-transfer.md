@@ -61,3 +61,4 @@ Review synthesis of EF intervention studies and meta-analyses (e.g. Melby-Lervå
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — related
 - [Near transfer from cognitive training is real and appears moderated by participant age, unlike far transfer](near-transfer-real-age-moderated.md) — related
 - [Training produces near transfer to an untrained switching task, limited to switch cost at short CSIs](near-transfer-switch-cost-short-csi.md) — related
+- [The REPeaT trial hypothesizes that improvements in working memory will be associated with gains in decision-making, mathematics achievement, social skills, behaviour, and quality of life (far transfer)](wm-gains-hypothesized-transfer-functional-outcomes-tbi.md) — reports the opposite

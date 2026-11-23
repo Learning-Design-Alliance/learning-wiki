@@ -49,3 +49,4 @@ Logistic regression on the 2022 cohort identifying predictors of high course use
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [In the unmatched analysis, the OSCE failure rate was significantly lower for high users than low users of the PPES course](ppes-high-users-lower-failure-rate.md) — related
 - [The PPES course benefit was greatest for the middle 60% of the class by previous academic performance, with non-significant effects for the lowest and top 20%](ppes-middle-performers-greatest-benefit.md) — related
+- [Higher average learning goal achievement predicts higher odds of passing all six examinations](learning-goal-achievement-predicts-examination-success.md) — related

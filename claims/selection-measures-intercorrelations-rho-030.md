@@ -51,3 +51,4 @@ Secondary correlational analysis of the three selection measures across the full
 - [Per decile, EPM decile increases the odds of foundation programme completion roughly twice as much as SJT decile (about 15% vs 8%)](epm-decile-twice-sjt-per-decil-completion-odds.md) — related
 - [After controlling for age, disability, number of applications and medical school, EPM decile remains significant but SJT does not](sjt-nonsignificant-after-background-variables-model3.md) — related
 - [GAMSAT correlates more strongly with FPAS-EPM whereas UKCAT correlates more strongly with FPAS-SJT, though the two aptitude tests share much variance](gamsat-epm-ukcat-sjt-differential-validity.md) — related
+- [SJT scores correlate only weakly with the cognitive test parts, while biology and chemistry show the strongest mutual correlation](sjt-weak-correlation-cognitive-parts.md) — related

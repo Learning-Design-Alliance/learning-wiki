@@ -58,3 +58,4 @@ One-way ANOVA on survey data from 438 nursing professionals. The article reports
 - [Senior physician-leaders (older age, longer oncology experience, longer leadership experience) consistently rate task management and leading others higher than less experienced leaders](senior-leaders-rate-task-management-leading-others-higher.md) — reports the opposite
 - [Older (65–74) healthcare faculty used most active learning techniques at the highest rates, contradicting assumptions about senior faculty resistance](older-faculty-high-active-learning-use.md) — reports the opposite
 - [Knowledge of hepatitis B among trainee nurses was significantly associated with age group and year of study, with third-year students showing the best knowledge](hepatitis-b-knowledge-age-level-study-association.md) — reports the opposite
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — related

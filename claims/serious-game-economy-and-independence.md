@@ -68,3 +68,4 @@ Amount-of-help OSATS step from the direct rating in the same RCT; the interventi
 - [Overall SARMS-rated anastomosis quality improved significantly across sessions, with the motion and speed categories showing the strongest significant gains](sarms-quality-improves-motion-speed-significant.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — a broader claim this one bears on
 - [The serious-game group performed digital exploration of the pleural cavity significantly better, a key patient-safety step](serious-game-digital-exploration.md) — related
+- [Preliminary evidence suggests supervised digital treatment may dramatically reduce clinician time needed without sacrificing effectiveness](supervised-digital-treatment-reduces-clinician-time.md) — related

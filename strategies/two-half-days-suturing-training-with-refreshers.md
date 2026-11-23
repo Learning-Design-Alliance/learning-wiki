@@ -49,6 +49,7 @@ The article recommends a specific training dosage: "one half day to practice sut
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
+- [Give all trainees a standardized video-based introduction to the technique before hands-on training](standardized-video-introduction-surgical-skills-strategy.md)
 
 ## Examples
 -

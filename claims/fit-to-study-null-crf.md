@@ -58,3 +58,4 @@ Primary ITT analysis of the Fit to Study cluster RCT (93 schools, 16,017 pupils 
 - [A 1-year school-based karate intervention improved cardiorespiratory fitness more than traditional PE lessons](karate-intervention-improves-cardiorespiratory-fitness.md) — related
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](gamification-program-improves-crf-college-students.md) — related
+- [The Fit to Study trial hypothesises that a one-year programme of vigorous physical activity delivered during PE lessons improves maths attainment in Year 8 pupils relative to control](fit-to-study-vpa-maths-attainment-hypothesis.md) — related

@@ -53,3 +53,4 @@ Descriptive results from the cross-sectional survey of 514 students: "Out of 514
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Regular breakfast consumption is consistently associated with good academic performance across clusters](breakfast-consumption-academic-performance-association.md) — related
 - [Maternal complete higher education connects to regular breakfast and positive health behaviors in the MCA biplot](maternal-education-breakfast-health-behaviors.md) — related
+- [Children with any kind of undernutrition had significantly lower average subject scores than other children](undernutrition-mean-score-difference-all-subjects.md) — related

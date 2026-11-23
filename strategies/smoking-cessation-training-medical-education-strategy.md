@@ -49,6 +49,7 @@ The article recommends eliminating the training barrier by introducing smoking c
 ## Related Strategies
 
 - [Online competency training in sleep medicine as continuing professional development for physicians](online-sleep-medicine-competency-training-strategy.md)
+- [Develop clinician capacity, knowledge, and confidence in seizing teachable moments for smoking cessation in older patients, including those with chronic or terminal illness](build-clinician-capacity-teachable-moments-older-smokers.md)
 
 ## Examples
 -

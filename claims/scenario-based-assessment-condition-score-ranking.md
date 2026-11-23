@@ -52,3 +52,4 @@ Scenario-based individual interviews of 6 Cameroonian doctors (3 general physici
 - [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](nurse-sepsis-knowledge-gaps-eastern-china.md) — related
 - [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related
 - [A self-survey and a scenario-based competence assessment tool for emergency medicine show a statistically insignificant mean difference and moderate agreement when applied to Cameroonian healthcare professionals](self-survey-scenario-competence-assessment-agreement-cameroon.md) — related
+- [Only 33% of surveyed Russian physicians diagnosed anaphylaxis in a clearly presented paediatric clinical scenario](russian-physicians-33-percent-diagnose-anaphylaxis.md) — related

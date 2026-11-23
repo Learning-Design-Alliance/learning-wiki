@@ -80,3 +80,7 @@ Subgroup meta-analyses by gestational age. Very preterm children showed signific
 - [Achievement-test scores were lowest in ELGANs, while LPT, PT, and term infants scored similarly](elgans-lowest-scores-other-ga-groups-similar.md) — related
 - [The impact of maternal social factors on achievement-test scores is similar across all gestational-age groups (no GA × social factors interaction)](social-factor-effect-similar-across-ga-groups.md) — related
 - [Preterm birth is associated with lower total and core subject GPA in lower secondary education, with the largest disparity in mathematics (0.71 grade points higher for term vs. extremely preterm)](preterm-lower-lse-gpa-mathematics.md) — related
+- [Gestational age, PVL and IQ differences explain heterogeneity, but GA and PVL effects hinge on one extreme study](meta-regression-ga-pvl-iq-moderators.md) — related
+- [Negative effects of prematurity on academic outcomes appear unchanged despite increased survival in the antenatal steroids and surfactant era](preterm-academic-outcomes-unchanged-surfactant-era.md) — a broader claim this one bears on
+- [Preterm children score 0.71 SD below full-term peers in arithmetic](preterm-arithmetic-deficit-0-71-sd.md) — related
+- [Preterm children score 0.44 and 0.52 SD lower on reading and spelling](preterm-reading-spelling-deficits.md) — related

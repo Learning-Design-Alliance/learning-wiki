@@ -54,3 +54,4 @@ Multivariate regression on the 40-student RCT's scores (Table 2) found "The only
 - [Age, gender, and academic year predict academic achievement in pharmacology alongside perceptions](demographics-predict-pharmacology-achievement.md) — reports the opposite
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — reports the opposite
+- [Socio-demographic predictors of UMAT score change on re-sitting: gains predicted by male gender and NZ origin, and reduced by longer interval, older age and non-English language background](umat-score-change-predictors.md) — related

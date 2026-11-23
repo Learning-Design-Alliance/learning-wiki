@@ -73,3 +73,4 @@ Spearman correlation analysis in the same cross-sectional study found "no signif
 - [Waterpipe use during exam periods shows an unexpected positive association with average grades, which the authors attribute to confounding rather than a real effect](waterpipe-use-positive-grades-confounding.md) — related
 - [Traditional coffee is significantly negatively correlated with grades in Spearman analysis but not significant in regression](traditional-coffee-inconsistent-across-analyses.md) — related
 - [Across all analyzed lifestyle habits, students maintaining a healthier lifestyle obtained better academic results in this sample](overall-healthy-lifestyle-associated-academic-performance.md) — reports the opposite
+- [Average physical activity shows no significant association with learning goal achievement during an examination period](average-physical-activity-not-related-to-learning-goal-achievement.md) — related

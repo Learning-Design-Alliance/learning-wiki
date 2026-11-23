@@ -54,3 +54,4 @@ Discussion-section interpretation. The article did not rigorously assess feedbac
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — reports the opposite
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
+- [All 17 schools detail compulsory courses and individual performance, while none include dean comments, research award explanations, or standardized examination scores](mspr-universal-and-absent-criteria.md) — related

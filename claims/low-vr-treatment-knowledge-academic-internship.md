@@ -48,3 +48,4 @@ Descriptive results from the same cross-sectional survey (n = 233). The academic
 ## Related Claims
 - [Saudi physical therapy interns show low VR assessment-test knowledge learned in both academic and internship phases](low-vr-test-knowledge-academic-internship.md) — related
 - [Few interns had a formal university VR curriculum, and informal sources dominated VR learning; learned tests and maneuvers differed by phase](vr-learning-sources-and-learned-tests.md) — related
+- [Not knowing how to perform the technique is the most important reason GPs give for not using repositioning manoeuvres and vestibular rehabilitation](not-knowing-technique-main-barrier-gp-vestibular.md) — related

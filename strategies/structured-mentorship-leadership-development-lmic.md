@@ -52,6 +52,7 @@ The article recommends formal training initiatives, "such as structured mentorsh
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Use team-based training approaches so clinical leadership development transfers skills while building teams and reducing resistance to change](team-based-clinical-leadership-training-strategy.md)
 - [Provide formal training and accreditation for surgical trainers to support effective feedback delivery, and evaluate such interventions robustly](formal-trainer-training-effective-feedback.md)
+- [Improve leadership skills of nurse coordinators to foster an evidence-based practice culture in primary health care](nurse-coordinator-leadership-training-ebcp-strategy.md)
 
 ## Examples
 -

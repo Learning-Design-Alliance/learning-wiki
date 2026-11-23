@@ -50,6 +50,7 @@ The article recommends that schools embed structured physical activity into the 
 - [Comprehensive School Physical Activity Programs](comprehensive-school-physical-activity-programs.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
+- [Embed short vigorous activity bursts into existing PE lessons to raise adolescent activity without disrupting curriculum delivery](embed-vpa-bursts-within-pe-lessons-strategy.md)
 
 ## Examples
 -

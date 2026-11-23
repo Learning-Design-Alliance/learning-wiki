@@ -54,3 +54,5 @@ Qualitative thematic analysis of interviews (n=15). Examples include scheduling 
 - [Fewer than one-third of new depressed patients prescribed an antidepressant are followed up soon and regularly in accordance with FDA recommendations](fewer-than-one-third-antidepressant-followup.md) — related
 - [GPs in five European countries viewed the INTRO web-based antibiotic prescribing intervention as broadly acceptable, feasible and useful for improving clinical practice](intro-intervention-acceptable-feasible-five-countries.md) — related
 - [Most participants in the STAR blended learning program reported increased awareness of antibiotic resistance, greater self-confidence, and at least some change in consultation style and prescribing behaviour](star-gps-reported-awareness-confidence-prescribing-change.md) — related
+- [A 1.5-hour educational module on patient decision-making capacity showed no effect on paramedic documentation of transport refusals](capacity-documentation-training-no-effect.md) — related
+- Social influences including patient trust, existing relationships, and perceived patient expectations shape GPs' antibiotic prescribing decisions — related

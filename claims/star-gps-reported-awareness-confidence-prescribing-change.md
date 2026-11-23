@@ -49,3 +49,5 @@ Thematic content analysis of semi-structured telephone interviews with 31 purpos
 - [Participants judged the research evidence and guidelines, the online communication skills examples, and practice-specific prescribing and resistance data the most influential STAR components](star-most-influential-components-evidence-communication-data.md) — related
 - [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related
 - [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related
+- [More experienced and more highly trained clinicians report greater comfort withholding antibiotics and watching and waiting in likely viral illness](experience-comfort-withholding-antibiotics.md) — related
+- Clinician discomfort with diagnosing primary viral illness leads to increased empiric antibiotic prescribing for febrile children — related

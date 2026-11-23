@@ -62,3 +62,4 @@ Correlation analysis of the four study variables in the 221-participant sample. 
 - [Children's psychological well-being (WHO-5 index) was similar between the physical activity and control groups at baseline and after 1 academic year](well-being-similar-physical-activity-trial.md) — related
 - [Time spent on homework is negatively associated with academic performance, while attending extracurricular activities is positively associated](homework-time-negative-extracurricular-positive-aps.md) — related
 - [Stress mediates the negative paths from psychological distress and workload to academic performance, with motivation buffering the workload path](stress-mediation-motivation-moderation-blended.md) — related
+- [Higher physical activity and lower TV/video consumption at baseline predict better Physical Education grades one year later](physical-activity-and-tv-viewing-predict-pe-grades.md) — related

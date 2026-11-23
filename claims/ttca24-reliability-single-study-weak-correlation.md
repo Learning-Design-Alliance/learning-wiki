@@ -48,3 +48,4 @@ The review reports DeMoor et al.'s single-centre observational study of 70 traum
 ## Related Claims
 - [A systematic review of ED resuscitation video review identified four unique NTS assessment tools, with T-NOTECHS used in six of nine studies](four-tools-nts-video-review-ed-nine-studies.md) — a broader claim this one bears on
 - [T-NOTECHS inter-rater reliability varies widely across ED video-review studies, from moderate (ICC 0.48) to excellent (ICC 0.94)](tnotechs-reliability-variable-icc-ed-video.md) — related
+- [Construct-based tools (NOTECHS, OTAS) are the most commonly used construct-type team performance measures and showed moderate validity evidence (8–10 of 15) in this setting](construct-based-tools-moderate-validity-mis.md) — related

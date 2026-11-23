@@ -56,3 +56,4 @@ Convergent validity analysis correlating DPCC-MS scores with admission MMI score
 - [The DPCC-MS shows acceptable internal consistency and item discrimination for both junior and senior medical students](dpcc-ms-acceptable-internal-consistency.md) — related
 - [MMI performance is significantly related to gender and age: female and older candidates scored higher](hamburg-mmi-gender-age-control-variables.md) — related
 - [MMI performance significantly predicted OSCE communication station performance (r = 0.17) but was not significantly related to OSCE overall performance (r = 0.06)](mmi-predicts-osce-communication-not-overall.md) — related
+- [SJT score correlates moderately with MMI score (r = .32; .47 disattenuated)](integrity-sjt-correlates-mmi.md) — related

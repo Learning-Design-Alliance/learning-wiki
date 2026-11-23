@@ -69,3 +69,4 @@ Step 2 of the hierarchical regressions (Table 7, N = 144). The article states du
 ## Related Claims
 - [Four conscientiousness facets (competence, dutifulness, achievement, self-discipline) predict academic performance; dutifulness also predicts clinical marks](conscientiousness-facets-predict-dental-performance.md) — related
 - [AI-context variables and personality traits add incremental variance to self-directed learning beyond covariates, but personality-trait × AI-dimension interactions add only a substantively small increment](hierarchical-regression-incremental-variance-sdl.md) — related
+- [Adding perceived conscientiousness in a hierarchical regression significantly increases explained variance in actual academic performance](hierarchical-regression-conscientiousness-variance-increase.md) — related

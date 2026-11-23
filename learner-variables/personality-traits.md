@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (118 show a difference, 41 mixed, 23 no difference) · 89 studies (50 associational, 16 review, 13 causal, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 27 of 89 report an effect size · 182 claims rest on one study
+> **Evidence** · 189 claims (124 show a difference, 41 mixed, 24 no difference) · 91 studies (52 associational, 16 review, 13 causal, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 29 of 91 report an effect size · 189 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -217,6 +217,13 @@ Personality traits are relatively stable individual differences, most often meas
 - [Trait-aware advising: conscientiousness and neuroticism jointly moderate the workload–achievement relation, and self-efficacy relates to workload choice and grades](../claims/trait-moderation-of-workload-achievement-relation-advising.md) [~M] — an instructional effect differs with it
 - [Objective markers of conscientiousness in medical students predict future UKFPO SJT scores](../claims/conscientiousness-predicts-sjt-scores.md) [+M] — learners who differ on it differ in outcomes
 - [SOP-Striving uniquely predicts higher school grades in both middle and high school students, even after controlling for conscientiousness and neuroticism](../claims/sop-striving-predicts-higher-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Adding perceived conscientiousness in a hierarchical regression significantly increases explained variance in actual academic performance](../claims/hierarchical-regression-conscientiousness-variance-increase.md) [+M] — learners who differ on it differ in outcomes
+- [After controlling for attractiveness (and age and sex), perceived conscientiousness from faces significantly predicts actual academic performance](../claims/perceived-conscientiousness-predicts-actual-gpa-after-controls.md) [+M] — learners who differ on it differ in outcomes
+- [Alternative mediation models in which brain structure mediates conscientiousness effects, or performance mediates conscientiousness effects on brain structure, were not significant](../claims/alternative-mediation-models-null.md) [-M] — learners who differ on it differ in outcomes
+- [The conscientiousness–brain structure and mediation findings persist after controlling for general intelligence, family SES and other Big Five traits](../claims/findings-robust-to-intelligence-ses-personality-controls.md) [+M] — learners who differ on it differ in outcomes
+- [Trait conscientiousness in adolescents is positively associated with gray matter volume in the bilateral superior parietal lobe and negatively with the right middle frontal gyrus](../claims/conscientiousness-spl-positive-mfg-negative-gmv.md) [+M] — learners who differ on it differ in outcomes
+- [Trait conscientiousness mediates the influence of bilateral SPL and right MFG gray matter volume on academic performance](../claims/conscientiousness-mediation-brain-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](../claims/conscientiousness-predicts-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

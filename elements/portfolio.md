@@ -108,6 +108,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](../strategies/iterative-review-dops-portfolio-authenticity.md)
 - [Implement comprehensive portfolios as learner charts within programmatic assessment, documenting progress longitudinally to service both learning and assessment](../strategies/comprehensive-portfolio-learner-chart-programmatic-assessment.md)
 - [Use supplementary workshops, learning portfolios and formative testing to promote engagement with clinical skills SDL](../strategies/workshops-portfolios-formative-testing-promote-sdl.md)
+- [Document online learning achievements in a transcript-like record and a portfolio of coursework](../strategies/document-achievements-transcript-portfolio.md)
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.

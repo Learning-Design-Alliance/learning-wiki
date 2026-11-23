@@ -50,3 +50,4 @@ Mediation analysis (Mediation Toolbox, bootstrapping with 10,000 samples for 95%
 - [In college students, gray matter volume of the cerebellum is positively associated with GPA, while caudate nucleus and left lateral orbitofrontal cortex volumes are negatively associated with GPA](cerebellum-positive-caudate-ofc-negative-gmv-gpa-college.md) — related
 - The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims — related
 - [Trait impulsivity is negatively associated with college GPA](impulsivity-negatively-associated-college-gpa.md) — related
+- [Trait conscientiousness mediates the influence of bilateral SPL and right MFG gray matter volume on academic performance](conscientiousness-mediation-brain-achievement.md) — related

@@ -70,3 +70,4 @@ Same longitudinal study: the review reports the negative correlation with verbal
 - [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md) — related
 - [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md) — related
 - [Pinyin typing effects on brain activation, gray matter, and connectivity remain significant after regressing out confounding variables](pinyin-typing-effects-robust-to-covariates.md) — related
+- [PC/internet consumption, but not other screen media, predicts lower Mathematics grades one year later](pc-internet-use-predicts-lower-mathematics-grades.md) — related

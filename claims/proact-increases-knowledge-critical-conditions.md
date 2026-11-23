@@ -67,3 +67,4 @@ Cross-sectional survey of 538 in-hospital staff comparing trained versus untrain
 - [proACT training increases self-confidence to identify, initially treat, and communicate critical conditions, sustained over six months, most prominently among assistant nurses](proact-increases-self-confidence.md) — related
 - [Familiarity with and daily use of the NEWS routine rose from pre-test to post-test after proACT training in one uncontrolled pre-post study, with the largest increase among physicians](proact-increases-news-familiarity-use.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [Paramedics trained in specialised skills for children with special healthcare needs made more appropriate interventions, but this did not change transport or admission rates](specialised-training-children-appropriate-care.md) — related

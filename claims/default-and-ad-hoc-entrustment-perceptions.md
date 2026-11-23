@@ -48,3 +48,4 @@ Thematic analysis of semistructured interviews with 12 Swiss geriatric psychiatr
 - [Default entrustment in workplaces threatens instructional alignment and should be explicitly addressed in competency-based curriculum design](default-entrustment-threatens-instructional-alignment.md) — related
 - [Levels of resident supervision are shaped by social norms for self-entrustment, situational complexity, and entrustment-based discussions](factors-influencing-supervision-levels-residents.md) — related
 - [TT cases were selectively simpler, in older children, and performed during working hours on weekdays, reflecting ad hoc entrustment-based case selection](tt-case-selection-simpler-in-hours.md) — related
+- [Provisional diagnoses are frequently altered in 27% of cases at post-take ward rounds, making PTWRs vital educational experiences](ptwr-diagnosis-altered-27-percent.md) — related

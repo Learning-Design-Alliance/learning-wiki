@@ -46,6 +46,7 @@ The article recommends asynchronous pre-recorded lectures so synchronous meeting
 
 - [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
+- [Prefer structured courseware with modularized videos, integrated assessments, and set schedules, and engage actively with discussion forums](prefer-structured-courseware-and-forums.md)
 
 ## Examples
 -

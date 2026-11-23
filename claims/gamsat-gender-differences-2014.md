@@ -1,0 +1,51 @@
+---
+type: claim
+title: Male GAMSAT candidates outperform females on the Overall score and Section 3, with no significant difference in Section 2 in 2014
+description: Male GAMSAT candidates outperform females on the Overall score and Section 3, with no significant difference in Section 2 in 2014
+id: gamsat-gender-differences-2014
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-22
+evidence_strength: moderate
+newest_evidence: 2015
+sources:
+  - id: mercer-annette-2015
+    resource: "https://doi.org/10.1186/s12909-015-0316-3"
+    title: "Mercer Annette, Crotty Brendan, Alldridge Louise, Le Luc, Vele Veronica. (2015). GAMSAT: A 10-year retrospective overview, with detailed analysis of candidates’ performance in 2014. BMC Medical Education. https://doi.org/10.1186/s12909-015-0316-3"
+    author: Mercer Annette, Crotty Brendan, Alldridge Louise, Le Luc, Vele Veronica
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 3
+---
+
+# Male GAMSAT candidates outperform females on the Overall score and Section 3, with no significant difference in Section 2 in 2014
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` In 2014 males scored higher than females on the Overall score and Section 3, while the Section 2 difference was not statistically significant. [→ Mercer Annette 2015](#mercer-annette-2015)
+
+## Evidence
+
+### Mercer Annette 2015
+
+Mercer Annette, Crotty Brendan, Alldridge Louise, Le Luc, Vele Veronica. (2015). GAMSAT: A 10-year retrospective overview, with detailed analysis of candidates’ performance in 2014. BMC Medical Education. https://doi.org/10.1186/s12909-015-0316-3
+
+`q3 · i?` · `associational · r3`
+
+2014 performance analysis by sex (Table 2): male Overall mean 58.69 vs female 56.39, t-test p 0.000; Section 3 p 0.000; Section 2 t-test p 0.140, not significant. The article reports the gender pattern reversed over the decade.
+
+> "Males have consistently outperformed females on the Overall score and on Section 3. In the initial years, females outperformed males on Sections 1 and 2, however in the last seven years males have outperformed females in Section 1 and the difference between females and males in Section 2 has diminished."
+
+## Discussion
+
+
+## Related Claims
+- [GAMSAT candidate numbers more than tripled over the decade, with repeat takers rising to 45% and only small score gains on re-sitting](gamsat-candidate-numbers-and-repeats.md) — related
+- [In 2014, 36.9% of GAMSAT candidates achieved a Typical Entry Score, with proportions varying by gender, age, language, degree and discipline](gamsat-tes-proportions-2014.md) — related
+- [GAMSAT Overall and Section 3 scores decrease with increasing candidate age, while Section 2 scores have usually increased with age](gamsat-age-gradient-scores.md) — related
+- [GAMSAT performance has been stable over 2005–2014 with high reliability and only moderate correlations between its three sections](gamsat-stable-high-reliability-moderate-section-correlations.md) — related

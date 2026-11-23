@@ -52,6 +52,7 @@ The article recommends identifying undernutrition early, especially stunting, an
 ## Related Strategies
 
 - [Prioritise nutritional and learning needs of persistently stunted children in future interventions, and consider improving nutrition beyond age 2](prioritise-persistently-stunted-children-interventions.md)
+- [Implement nutrition screening programs and health–education sector collaboration to improve primary school academic performance](nutrition-screening-program-primary-schools-strategy.md)
 
 ## Examples
 -

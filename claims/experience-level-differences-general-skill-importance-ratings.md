@@ -57,3 +57,4 @@ Bonferroni-corrected Welch ANOVA of five general-skill importance ratings across
 - [Anatomy teaching hours fell from over 800 hours around 1930 to about 200 hours today, and clinicians increasingly report inadequate anatomical knowledge of students](anatomy-hours-reduced-800-to-200-clinician-complaints.md) — related
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — related
 - [Content validity: expert consensus identified six essential TP biopsy skills, with zone identification rated most important by 100% of respondents](tp-biopsy-essential-skills-content-validity.md) — related
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — related

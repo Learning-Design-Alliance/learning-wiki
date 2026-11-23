@@ -55,3 +55,4 @@ Logistic regression of demographic factors on binary GPA (Table 3), adjusted for
 - [Female students have lower odds of engaging in physical activity than male students](female-students-lower-odds-physical-activity.md) — related
 - [Female sex is associated with higher academic scores in linear regression but not with poor performance in multivariable analysis](female-sex-mixed-academic-performance-association.md) — related
 - [Fourth-year students had lower odds of poor sleep quality than second-year students](fourth-year-lower-odds-poor-sleep-quality.md) — related
+- [Socio-demographic predictors of UMAT score change on re-sitting: gains predicted by male gender and NZ origin, and reduced by longer interval, older age and non-English language background](umat-score-change-predictors.md) — related

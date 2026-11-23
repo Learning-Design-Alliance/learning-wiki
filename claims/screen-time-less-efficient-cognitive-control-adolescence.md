@@ -56,3 +56,4 @@ A scoping review synthesizing 16 task-unrelated and task-related neuroimaging st
 - Research on childhood screen use falls into three distinct periods: pre-2016 focused on addiction and health, 2016–2020 on educational applications and the role of families, and post-2020 on negative repercussions for identity construction, health, well-being, and behaviour. — related
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
 - [Newspapers most frequently report health deterioration, led by dependence/addiction, from teenage smartphone use](newspapers-health-drawbacks-smartphone-teens.md) — related
+- [PC/internet consumption, but not other screen media, predicts lower Mathematics grades one year later](pc-internet-use-predicts-lower-mathematics-grades.md) — related

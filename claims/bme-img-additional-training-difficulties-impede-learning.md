@@ -54,3 +54,6 @@ National qualitative study of 137 participants (96 trainees, 41 trainers) in 16 
 - [International medical graduates are far less likely than UK graduates to pass UK postgraduate medical written and clinical examinations at first attempt after adjustment](img-less-likely-pass-postgraduate-exams-first-attempt.md) — related
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
 - [UK overseas graduates were more likely than other graduate groups to receive a less satisfactory ARCP outcome in postgraduate training](uk-og-less-satisfactory-arcp-outcomes.md) — related
+- [IMG doctors are likely to be disadvantaged in licensing regardless of medical competence because of unfamiliarity with language and educational system](imgs-disadvantaged-by-language-and-system-familiarity.md) — a narrower finding that bears on this claim
+- [Non-EEA IMGs in Europe face licensing processes described as disorganized, bureaucratic, and stricter than those for EU/EEA IMGs](non-eea-img-licensing-processes-stricter-and-inconsistent.md) — related
+- [IMG doctors who passed the PLAB exam perform less well than UK-trained counterparts in subsequent competence reviews](plab-imgs-perform-less-well-than-uk-graduates.md) — related

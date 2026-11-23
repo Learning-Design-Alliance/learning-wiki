@@ -55,6 +55,7 @@ The article recommends expanding post-graduation asthma education and building p
 - [Collaborative COPD education combining specialist-led training events, spirometry interpretation training, clinical audit with individual benchmarking, and a mobile app](collaborative-copd-education-audit-benchmarking-strategy.md)
 - [Build periodic diabetes care training for primary care physicians into mandatory annual CME](periodic-cme-diabetes-training-for-pcps.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
+- [Strengthen theoretical and clinical training in hyperuricemia and rheumatology for primary health care physicians to reduce misprescribing risk](strengthened-hyperuricemia-rheumatology-training-phc-physicians.md)
 
 ## Examples
 -

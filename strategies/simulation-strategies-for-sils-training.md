@@ -47,6 +47,7 @@ The authors recommend that surgical training programs take the lead in safely te
 - [Teach a defined SILS skill set: crossed instruments, ambidextrous dissection, left-handed endoloop application, and angled-scope navigation](sils-skill-set-training-strategy.md)
 - [Train senior residents in SILS after demonstrated proficiency in traditional LC, with case-step review and pre-case verbal walkthrough.](sils-training-after-lc-proficiency-strategy.md)
 - [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
+- [Develop tailored simulation-based training programs for single-incision surgical systems](tailored-simulation-training-single-site-systems.md)
 
 ## Examples
 -

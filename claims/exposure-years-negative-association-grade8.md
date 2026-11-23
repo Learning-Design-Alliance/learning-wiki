@@ -48,3 +48,4 @@ Descriptive regression of grade-8 INVALSI competence scores on years of social m
 - [The negative effect of early social media adoption is cumulative: it is more pronounced the earlier the account was created and intensifies by grade 10](cumulative-social-media-exposure-effect-intensifies.md) — related
 - [Opening a social media account in grade 6 causally lowers Italian and mathematics competence scores relative to waiting until grade 9 or later](early-social-media-grade6-lowers-italian-math-scores.md) — related
 - [Smartphone pervasiveness mediates a substantial share of the negative effect of early social media adoption on competences, while parental control explains little and well-being none](smartphone-pervasiveness-mediation-learning.md) — related
+- [PC/internet consumption, but not other screen media, predicts lower Mathematics grades one year later](pc-internet-use-predicts-lower-mathematics-grades.md) — related

@@ -47,3 +47,5 @@ MCQ knowledge comparisons across the four assessment periods in the cluster rand
 ## Related Claims
 - [The TRAD arm scored better on knowledge tests at baseline and immediately after training in some thematic areas, such as AMTSL and neonatal resuscitation](trad-better-early-knowledge-scores.md) — related
 - [Knowledge attainment immediately after training did not differ significantly between the video-debriefing and standard-training arms](video-debriefing-knowledge-attainment-not-significant.md) — related
+- [The authors hypothesize simulation-based LDHF/m-Mentoring will yield better satisfaction, knowledge and skill outcomes and greater cost-effectiveness than group-based training](ldhf-hypothesis-better-outcomes-cost.md) — reports the opposite
+- [A cluster randomized trial is planned comparing LDHF/m-Mentoring versus traditional group-based training across 60 Nigerian health facilities (protocol, no results yet)](ldhf-vs-trad-cluster-rct-protocol.md) — related

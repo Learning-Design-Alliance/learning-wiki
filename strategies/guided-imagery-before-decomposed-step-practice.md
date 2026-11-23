@@ -50,6 +50,7 @@ An implementable teaching activity: before practicing each decomposed action and
 - [Breathing Exercises](breathing_exercises.md)
 - [Use mental practice as an addition to physical practice for procedural skill learning in medical education](mental-practice-for-procedural-learning-strategy.md)
 - [Deliver a mental imagery session combining relaxation, teacher-guided mentalization of each protocol step, and independent rehearsal within time matched to conventional review](relaxation-guided-mentalization-rehearsal-protocol.md)
+- [Teach the psychomotor movements on a transparent shoebox before adding the laparoscopic view](sequential-psychomotor-before-visuospatial-training-strategy.md)
 
 ## Examples
 -

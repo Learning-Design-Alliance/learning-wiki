@@ -50,3 +50,4 @@ Comparison of GPS prediction in the GWA discovery target trait versus GCSE outco
 - [EduYears GPS correlates positively with GCSE (7.6% of variance) and with the selection factors ability (2.1%), achievement (5.2%) and family SES (6.6%)](eduyears-gps-correlates-selection-factors-gcse.md) — related
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](high-gps-compensates-low-ses-university.md) — related
+- [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related

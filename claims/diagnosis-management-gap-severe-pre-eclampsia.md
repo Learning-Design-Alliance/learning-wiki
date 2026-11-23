@@ -50,3 +50,4 @@ Case-scenario knowledge questionnaire administered to 197 providers in the cross
 - [Knowledge and use of magnesium sulphate among community health workers was sub-optimal, with diazepam repeatedly stated as the treatment of choice](mgso4-knowledge-suboptimal-diazepam-default.md) — related
 - Health facilities in Kinshasa show poor readiness to manage pre-eclampsia, with a median readiness score of 53.8% of 13 commodities — related
 - [Providers show very low awareness of evidence-based pre-eclampsia prophylaxis: 14.2% name low-dose aspirin and 7.1% name calcium](low-awareness-pre-eclampsia-prophylaxis.md) — related
+- [Correct anaphylaxis diagnosis was strongly associated with choosing adrenalin as first-line treatment](diagnosis-associated-with-adrenalin-choice.md) — related
