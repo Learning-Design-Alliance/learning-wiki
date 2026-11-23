@@ -50,3 +50,4 @@ Institutional-level correlations using published UKFPO 2014 school means; the ar
 - [Total written assessment time at medical school correlates positively with graduates' mean first-attempt postgraduate examination performance, including after controlling for entry qualifications.](assessment-time-correlates-postgraduate-attainment.md) — reports the opposite
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — reports the opposite
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
+- [SJT score correlates negatively with prior academic attainment (r = -.19)](integrity-sjt-negative-academic-correlation.md) — related

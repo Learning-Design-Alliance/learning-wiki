@@ -71,3 +71,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Child sex does not moderate the associations of aggressive behavior, emotional, or attention problems with academic attainment](no-sex-interaction-problems-attainment.md) — related
 - [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — reports the opposite
 - [Gender differences in grade mean and variability are already present in childhood and do not increase during adolescence](grade-gender-gap-present-in-childhood-not-adolescent-growth.md) — related
+- [Sex-stratified analysis did not point to different effects of ADHD polygenic scores between boys and girls](adhd-pgs-no-sex-difference-effects.md) — related

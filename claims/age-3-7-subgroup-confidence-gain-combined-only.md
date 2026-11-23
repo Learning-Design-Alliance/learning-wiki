@@ -47,3 +47,4 @@ Age-subgroup analysis within the randomised trial; in the 3–7 years subgroup t
 ## Related Claims
 - [An interactive educational animated video alone is non-inferior to combined regular and interactive videos for children's MRI cooperativeness outcomes](interactive-video-noninferior-combined-videos-mri.md) — possibly the same claim (merge candidate)
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [Training shows no effect on successful MRI scanning in subgroups of studies published before and after 2008](pre-mri-training-no-effect-before-after-2008-subgroups.md) — related

@@ -49,3 +49,4 @@ A theoretically derived condition from the article's cognitive load analysis of 
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](collective-working-memory-effect-complexity-dependent.md) — related
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — a broader claim this one bears on
+- Virtual teams find it harder to develop shared mental models and transactive memory systems — related

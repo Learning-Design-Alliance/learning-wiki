@@ -52,3 +52,4 @@ Narrative synthesis of several systematic reviews of advanced nursing practice (
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related
 - [Nurse-led biologics practices improve monitoring, therapy appropriateness, and quality of life while reducing costs](nurse-led-biologics-practices-improve-outcomes.md) — a narrower finding that bears on this claim
 - [Success rate after USG-PVC training does not differ significantly between nurses, physicians, and ED-technicians](no-success-rate-difference-nurses-physicians-technicians.md) — related
+- [Paramedics trained with extended skills can autonomously assess and manage elderly patients with minor acute conditions, reducing ED attendance and hospital admission](paramedic-extended-skills-reduce-ed-conveyance.md) — a narrower finding that bears on this claim

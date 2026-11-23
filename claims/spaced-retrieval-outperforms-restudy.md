@@ -83,3 +83,4 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — related
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — a narrower finding that bears on this claim
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related
+- [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related

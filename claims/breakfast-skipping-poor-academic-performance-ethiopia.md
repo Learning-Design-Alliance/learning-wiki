@@ -67,3 +67,4 @@ Subgroup meta-analysis of nutrition-related predictors within the review; four s
 - [Students who always skip breakfast have increased risk of low achievement on numeracy (RR = 1·78) and reading (RR = 1·63) after adjustment for confounding](always-breakfast-skippers-increased-risk-low-achievement.md) — related
 - [Most South Australian students report skipping breakfast at least sometimes: 57·6% sometimes and 10·1% always](breakfast-skipping-prevalence-south-australia.md) — related
 - [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
+- [The free school breakfast intervention showed no evidence of an effect on educational outcomes in an intention-to-treat analysis](breakfast-intervention-no-educational-outcome-effect.md) — related

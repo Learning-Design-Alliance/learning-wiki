@@ -49,3 +49,4 @@ Multivariable multilevel ordinal logistic regression (table 7) on the same 34,75
 - [Selection outcomes did not mirror subsequent ARCP performance, with a re-ordering of UK and non-UK overseas graduates explained largely by differential interview performance](selection-arcp-mismatch-reordering.md) — related
 - [No significant difference in ARCP outcomes between UK overseas graduates expected to sit PLAB and those EEA-qualified and exempt from it](no-plab-status-difference-within-uk-og-arcp.md) — related
 - [UK overseas graduates were more likely than non-UK international medical graduates to be deemed appointable at specialty selection, but less likely than UK or EEA graduates](uk-og-appointability-gradient-selection.md) — related
+- [IMG doctors who passed the PLAB exam perform less well than UK-trained counterparts in subsequent competence reviews](plab-imgs-perform-less-well-than-uk-graduates.md) — related

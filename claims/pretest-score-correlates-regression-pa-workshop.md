@@ -49,4 +49,4 @@ Multivariable ordinary least squares regression on pre-test scores (n = 870 per 
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [At least half of surveyed pediatricians gave incorrect answers on physical activity to fight obesity in youth](pediatricians-incorrect-obesity-pa-answers.md) — related

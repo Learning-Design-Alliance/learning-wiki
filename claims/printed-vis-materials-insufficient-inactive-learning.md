@@ -47,3 +47,4 @@ The article cites a prior study (Fox and Rainie), reporting that "regardless of 
 ## Related Claims
 - [Constructing the HPV ontology from VIS documents posed challenges including class creation, inclusion decisions, and ambiguous medical terminology](viso-hpv-authoring-challenges-ambiguity.md) — related
 - [Internet is the primary source of vaccine information for most NICU parents](internet-primary-vaccine-information-source-nicu-parents.md) — a narrower finding that bears on this claim
+- The article reports that GPs in Norway, Australia and Italy have in common weak knowledge of HPV infection and vaccination — related

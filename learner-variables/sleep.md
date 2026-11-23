@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (76 show a difference, 29 mixed, 14 no difference) · 56 studies (34 associational, 14 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 16 of 56 report an effect size · 119 claims rest on one study
+> **Evidence** · 127 claims (81 show a difference, 31 mixed, 15 no difference) · 59 studies (36 associational, 15 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 17 of 59 report an effect size · 127 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -155,6 +155,15 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Sleep quality and Mediterranean diet adherence each relate to nursing students' self-efficacy](../claims/sleep-and-diet-predict-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Sleep quality index correlates negatively with Mediterranean diet adherence, self-efficacy and average academic grade](../claims/sleep-quality-index-negative-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [University students with poor sleep quality obtain lower academic scores than students with good sleep quality](../claims/poor-sleep-quality-lower-academic-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Blinded evaluators rated intoxicated performance competent more often than rested/postcall on easy tasks, and correctly recognized incompetence only on the difficult task](../claims/evaluators-recognize-incompetence-only-difficult-task.md) [~M] — learners who differ on it differ in outcomes
+- [On days with better sleep quality, students report better daily learning goal achievement](../claims/daily-sleep-quality-predicts-daily-learning-goal-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [On the most difficult task, intoxicated surgeons performed significantly worse than sleep-deprived surgeons, with large interaction effect sizes](../claims/intoxication-worse-than-sleep-deprivation-on-difficult-task.md) [~M] — learners who differ on it differ in outcomes
+- [Poorer school grade average is associated with later weekend bedtime in 14-year-olds, independent of gender, pubertal stage and IQ](../claims/poor-grades-later-weekend-bedtime.md) [+M] — learners who differ on it differ in outcomes
+- [Positive affect mediates the relation of average sleep quality and average physical activity with learning goal achievement; negative affect does not](../claims/positive-affect-mediates-average-health-behavior-learning-goal-relation.md) [+M] — learners who differ on it differ in outcomes
+- [Technical dexterity of unconsciously competent surgeons did not differ from rested to postcall measurements on basic laparoscopic tasks in a single-group pre-post study](../claims/sleep-deprivation-spares-autonomous-surgeon-dexterity.md) [-M] — learners who differ on it differ in outcomes
+- Sleep-deprived versus intoxicated state did not significantly affect any laparoscopic outcome variable, and participants were faster when intoxicated [-M] — learners who differ on it differ in outcomes
+- [Students with higher average sleep quality report better average learning goal achievement during an examination period](../claims/average-sleep-quality-predicts-learning-goal-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Weekend bedtime mediates a significant fraction of the relationship between grey matter volume and school performance](../claims/weekend-bedtime-mediation-gmv-school-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

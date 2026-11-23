@@ -56,3 +56,4 @@ The review's summary of the studies using scales and rating devices, stating tha
 - [Calls to use the 16PF for selecting counselor trainees are premature because findings vary and the specification equation lacks cross-validation](16pf-counselor-selection-premature.md) — a narrower finding that bears on this claim
 - Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation — possibly the same claim (merge candidate)
 - [Most counselor personality variables investigated since 1960 were not significantly related to the effectiveness criteria employed](rowe-1975-counselor-traits-unrelated.md) — possibly the same claim (merge candidate)
+- [Higher general facilitator characteristic ratings at time 2 were unexpectedly associated with less loss in percent overweight](facilitator-characteristics-time2-less-weight-loss.md) — a narrower finding that bears on this claim

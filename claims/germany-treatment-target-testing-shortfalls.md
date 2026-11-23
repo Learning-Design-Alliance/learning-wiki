@@ -66,3 +66,4 @@ AXDEV-NA mixed-methods needs assessment finding on Canadian physicians: overesti
 - [Management-phase gaps: physicians in all four countries lacked formal training in counseling and coaching patients, with suboptimal therapeutic relationships and limited understanding of psychosocial adherence issues](counseling-coaching-training-gap-management.md) — related
 - [Thirteen challenges in GP/FP care of type 2 diabetes are common across at least three of four countries (Austria, Canada, Germany, UK)](thirteen-common-diabetes-care-gaps-four-countries.md) — a broader claim this one bears on
 - [Referral and context barriers: suboptimal diabetic-team integration in the UK, Canada and Germany, and bureaucracy and third-party payer constraints across countries](team-integration-and-context-barriers.md) — related
+- [Only low to moderate percentages of patients met ADA outcome benchmarks for A1c, LDL, and blood pressure](srfc-phe-outcome-benchmarks-low-moderate.md) — related

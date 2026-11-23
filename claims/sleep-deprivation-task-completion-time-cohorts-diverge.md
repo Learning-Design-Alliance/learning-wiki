@@ -73,3 +73,4 @@ Task-time analysis of the student cohort (Table 4). Students were faster only in
 - [Acute sleep deprivation significantly slows the non-dominant hand of trained medical students across all three laparoscopic tasks](sleep-deprivation-slows-student-nondominant-hand-laparoscopic.md) — related
 - [Sleep deprivation does not significantly change laparoscopic error rates in either students or surgeons](sleep-deprivation-no-error-rate-difference.md) — related
 - [Expert surgeons move faster and more smoothly than naive controls overall in the laparoscopic peg-transfer task](experts-faster-and-smoother-than-controls-overall.md) — related
+- [Technical dexterity of unconsciously competent surgeons did not differ from rested to postcall measurements on basic laparoscopic tasks in a single-group pre-post study](sleep-deprivation-spares-autonomous-surgeon-dexterity.md) — reports the opposite

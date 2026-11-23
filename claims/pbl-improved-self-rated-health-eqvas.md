@@ -67,3 +67,5 @@ Omnibus time × group interaction test for EQ-VAS in the trial's mixed-model ana
 - [HDL cholesterol increased significantly at 1, 3 and 5 years in the PBL group compared with baseline, with no significant change in the control group](pbl-increased-hdl-cholesterol-5-year.md) — related
 - [A 1-year PBL intervention significantly increased patient empowerment (SWE-CES) at 3 and 5 years in the PBL group, which did not change significantly over time in the control group](pbl-increased-patient-empowerment-5-year-chd.md) — related
 - [PBL produced no significant changes in BMI or weight over 5 years; only the control group's weight rose significantly at 1 year](pbl-no-bmi-weight-changes.md) — related
+- [A pilot study found it feasible to organise the PBL patient education study in primary health care, with 53% of eligible patients joining](cor-prim-pilot-feasible-in-phc.md) — related
+- [A prior study using PBL after CHD significantly improved hope for the future and illness knowledge compared to controls after one year](tingstrom-pbl-improved-hope-knowledge.md) — related

@@ -51,3 +51,4 @@ Correlational analysis of n=26 students completing the mandatory third-year OSCE
 - [A standardized self-report questionnaire of the same competencies did not significantly correlate with any criterion measure, unlike the assessment center](questionnaire-failed-to-predict-criteria.md) — related
 - [Within the assessment center, the role play was the best predictor of overall AC performance, but construct validity between elements was low](ac-element-construct-validity-low.md) — related
 - [First-year assessment center scores predict fourth-year external peer feedback of communicative and social behavior](ac-predicts-peer-feedback-year-4.md) — related
+- [MPI total scores show moderate correlations with first-year OSCE performance (r = 0.24 physical examination, r = 0.33 communication, r = 0.30 total), supporting the extrapolation inference](mpi-predictive-validity-first-year-osce.md) — related

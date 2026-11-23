@@ -41,6 +41,7 @@ Based on the finding that standardized Passport to Literacy benefited mid-to-hig
 ## Related Strategies
 
 - [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
+- [Treat intensive retreat practice as a candidate active ingredient when designing and studying long-term mindfulness interventions](retreat-practice-active-ingredient-strategy.md)
 
 ## Examples
 -

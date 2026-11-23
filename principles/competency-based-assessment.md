@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (37 for, 38 mixed, 2 against) · 75 studies (21 design, 15 causal, 13 associational, 11 review, 10 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 75 report an effect size · 72 claims rest on one study
+> **Evidence** · 78 claims (38 for, 38 mixed, 2 against) · 76 studies (21 design, 16 causal, 13 associational, 11 review, 10 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 76 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [A conventional checklist is more accurate than an error-focused checklist at identifying procedural competence](../claims/conventional-checklist-identifies-competence-lp.md) [+W] — attached 2026-11-09 from Ma Irene W Y et al. (2015), which proposed "Match the assessment tool to the assessment purpose: use error-focused checklists when the goal is identifying incompetence"; tests this page's relationship.
 - [Reaching L2 proficiency — delivering a complete handoff-ready artifact that another role can use without oral rescue — is the threshold that usually determines whether a handoff is safe](../claims/l2-handoff-ready-artifact-threshold.md) [+W] — attached 2026-11-21 from Ingrid Torres et al. (2026), which proposed "Assess programs and gate reviews with a fixed artifact-based rubric and outcome metrics rather than impressions".
 - [The X1-X2-X3 structure made GenAI use visible and assessable as part of the assessed performance itself](../claims/x123-made-ai-use-visible-assessable.md) [+W] — attached 2026-11-21 from Riasat Islam et al. (2026), which proposed "Credit students for transparent tool use, disciplinary revision, and evaluative judgement rather than for producing a plausible answer".
+- [Blinded evaluators rated intoxicated performance competent more often than rested/postcall on easy tasks, and correctly recognized incompetence only on the difficult task](../claims/evaluators-recognize-incompetence-only-difficult-task.md) [+W] — attached 2026-11-22 from Mohtashami Fariba MD et al. (2014), which proposed "Exclude simple tasks from competence assessments because they cannot distinguish competent from incompetent performers".
 
 ## Objective and learner-valued goal
 

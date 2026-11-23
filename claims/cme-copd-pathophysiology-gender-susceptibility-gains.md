@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-23
 sources:
   - id: drexel-carole-2011
     resource: "https://doi.org/10.2147/COPD.S18257"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants more often recognized alveolar destruction as the etiology of dyspnea on exertion (94% versus 74%, P = 0.007). [→ Drexel Carole 2011](#drexel-carole-2011)

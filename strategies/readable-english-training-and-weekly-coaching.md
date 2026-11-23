@@ -64,6 +64,7 @@ The page specifies a professional development model for implementing Readable En
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Low-dose provider training with website resources and on-demand consultation to support school-based HOPS implementation](hops-provider-training-support-strategy.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

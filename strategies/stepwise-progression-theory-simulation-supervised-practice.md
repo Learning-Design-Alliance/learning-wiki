@@ -79,6 +79,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Structure vaginal myomectomy training as approximately 30–34 supervised cases with mentorship and stepwise responsibility for trainees with prior vaginal surgery experience](vm-training-30-34-supervised-cases-strategy.md)
 - [Incorporate endolymphatic hydrops imaging into radiology curricula with standardized assessment protocols and hands-on case review](eh-imaging-curricula-standardized-protocols-hands-on-review.md)
 - [Introduce new surgical techniques through centralised care, a validated learning curriculum, mandatory simulation training and dual-console supervised procedures](centralised-care-curriculum-simulation-dual-console-strategy.md)
+- [Introduce new endoscopic techniques through structured national training programmes with competency-based assessment, accreditation and error/near-miss analysis](structured-competency-based-endoscopy-training-programmes.md)
 
 ## Examples
 -

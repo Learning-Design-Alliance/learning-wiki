@@ -54,3 +54,5 @@ Time-point t-tests and repeated measures ANOVA in the NW-CHILD study comparing u
 - [Stunting showed prolonged significant negative influences on language, mathematics, and grade point average, with the stunted group underperforming by almost 9% over the long term](stunting-language-math-gpa-long-term-deficit.md) — related
 - [Undernutrition categories each affected at least 20% of the girls at baseline, and stunting affected 17.4% over the follow-up period](undernutrition-prevalence-primary-school-girls.md) — related
 - [Most participants were in the normal BMI category (53.6%) and reported high GPA (79.9%, mean 4.28 ± 0.41 on a 5.0 scale).](descriptive-bmi-gpa-profile-kku-females.md) — related
+- [Children with any kind of undernutrition had significantly lower average subject scores than other children](undernutrition-mean-score-difference-all-subjects.md) — reports the opposite
+- [Underweight children were significantly less likely to score high academic performance than their normal-weight counterparts](underweight-associated-with-low-academic-performance.md) — reports the opposite

@@ -48,3 +48,4 @@ Interview theme 6: participants raised concerns about prescription costs, polyph
 - [Experiencing the benefits of curative treatment — absence of flares and improved wellbeing — motivated long-term adherence to ULT](experiencing-benefits-motivated-long-term-adherence.md) — related
 - [Periodic nurse contact, monitoring and ongoing dialogue encouraged participants to persist with ULT during up-titration](ongoing-dialogue-monitoring-encouraged-persistence.md) — related
 - [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related
+- 88.1% of surveyed physicians would recommend a low-purine diet and lifestyle changes for asymptomatic hyperuricemia, while 27.4% and 21.9% would prescribe short-term and long-term ULT respectively — related

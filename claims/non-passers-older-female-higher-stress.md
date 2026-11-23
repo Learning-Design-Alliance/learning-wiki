@@ -51,3 +51,4 @@ Descriptive analysis of the small subgroup of non-passers (n = 11 printed in Res
 - [Older medical students report higher perceived Medical School stress, with weak positive correlations between age and PMSS scores at both time points](age-correlates-with-pmss-stress.md) — related
 - [PMSS sum scores measured 2 and 14 months before the first medical examination independently predict medical students' M1 grade, with better grades for students with lower stress scores](pmss-scores-predict-m1-grade.md) — a broader claim this one bears on
 - [Perceived Medical School stress increases significantly between the end of freshman year and the end of sophomore year, a potential window for stress-management interventions](pmss-stress-increases-freshman-to-sophomore.md) — related
+- [Older facial age is associated with higher actual academic performance and female faces are perceived as more attractive](age-correlates-actual-performance-faces-rated-attractive.md) — related

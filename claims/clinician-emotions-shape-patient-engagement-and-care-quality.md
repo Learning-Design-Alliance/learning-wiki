@@ -51,3 +51,4 @@ The review reports two studies by Isbell and colleagues examining ED providers' 
 - [Emotional competence enhances diagnostic and therapeutic clinical reasoning most clearly in life-threatening emergency situations](ec-enhances-cr-in-life-threatening-emergencies.md) — a narrower finding that bears on this claim
 - [Fear and clinical uncertainty were associated with more cautious clinical decisions, including more admissions, more diagnostic tests, and more antibiotic prescriptions](fear-and-uncertainty-lead-to-cautious-decisions.md) — related
 - [The effects of emotions on non-procedural skills in real-world clinical settings were inconclusive, with contrasting findings on stress and performance](stress-nonprocedural-skills-real-world-inconclusive.md) — related
+- Social influences including patient trust, existing relationships, and perceived patient expectations shape GPs' antibiotic prescribing decisions — related

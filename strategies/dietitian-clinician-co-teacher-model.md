@@ -50,6 +50,7 @@ The review recommends a multidisciplinary approach in which dietitians lead nutr
 - [Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams](teacher-training-apd-symptomatology-identification.md)
 - [Pair ObGyn nutrition training with multidisciplinary dietitian support while building residents' own counseling capacity](multidisciplinary-nutrition-support-obgyn-counseling.md)
 - [Deploy AI-assisted pre-consultation nutrition questioning in clinic waiting rooms to prepare patients and focus dietitian time on specialized guidance](ai-preconsultation-tablet-nutrition-strategy.md)
+- [Position Registered Dietitians as key knowledge translators for GI education, supported by reviewed and co-developed education tools](rds-as-gi-knowledge-translators-strategy.md)
 
 ## Examples
 -

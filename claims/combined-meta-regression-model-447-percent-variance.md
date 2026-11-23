@@ -49,3 +49,4 @@ Meta-regression Model 3 on 27 studies. The article reports "QM (df = 8) = 25.7; 
 - Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity — related
 - [None of five moderators (pilot study, retention test, word-selection method, vocabulary outcome, number of words taught) significantly explained heterogeneity in effect sizes](five-moderators-non-significant-vocabulary-meta-analysis.md) — related
 - Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

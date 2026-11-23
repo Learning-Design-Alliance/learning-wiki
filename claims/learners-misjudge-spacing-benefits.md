@@ -137,3 +137,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related
 - [Spaced practice, elaboration, and dual coding are reported more frequently by students with excellent academic performance, while interleaving, retrieval practice, and concrete examples show no significant differences](spaced-practice-elaboration-dual-coding-differ-by-performance.md) — related
+- [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related

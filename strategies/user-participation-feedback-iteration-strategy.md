@@ -48,6 +48,7 @@ An implementable improvement cycle in which users submit feedback instantly thro
 
 - [Iteratively improve a VR course through continuous evaluation and informal feedback](iterative-evaluation-driven-vr-course-improvement.md)
 - [Five prioritized improvements for AI tutoring prototypes: instant core-strategy layer, curriculum tags, dynamic geometry, step-specific buttons, automated wrong-book](aitutor-prioritized-improvements.md)
+- [Involve target end-users in co-design reference groups to review language, feedback logic and module presentation](parent-reference-group-codesign-workshops.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Same qualitative study. A participant said the point-of-care tool empowered her 
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
 - [Lay health workers reported increased TB and HIV knowledge and job-specific knowledge after the training](lhw-reported-knowledge-gains-tb-hiv.md) — related
+- [The SPEED trial is designed to test whether standardized-patient training of healthcare workers increases AYA retention in HIV care, with 80% power to detect a 15% difference between control and intervention periods](speed-trial-sp-training-retention-hypothesis.md) — related

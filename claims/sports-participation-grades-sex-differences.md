@@ -80,3 +80,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Physical activity is positively associated with academic performance, but the article could not demonstrate an association for team sports specifically](physical-activity-associated-academic-performance-team-sports-not.md) — related
 - [The sports-team–grades association is not dose-dependent in females, where two teams show the highest odds](sports-grades-association-not-dose-dependent-females.md) — related
 - [In a nationally representative U.S. adolescent sample, participating in more sports teams is associated with higher odds of reporting mostly A's or B's, in a dose-dependent pattern](sports-team-participation-dose-dependent-better-grades.md) — related
+- [The association between non-organized physical activity and subsequent Physical Education grades is significant in girls only](non-organized-physical-activity-pe-grades-girls-only.md) — related

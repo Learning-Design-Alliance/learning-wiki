@@ -53,3 +53,4 @@ Register-review cohort analysis of 9,330 initial consultations by the first 32 I
 - [Supervision visits in the previous six months were associated with improved care for fever and anemia, but with lower odds of recommended pneumonia treatment](imci-benin-supervision-mixed-effects.md) — related
 - [For adequate fever treatment, more supervision visits attenuated the decline in health worker performance seen with increasing age](imci-benin-supervision-attenuates-age-decline.md) — related
 - [Routine supportive supervision on iCCM was not significantly associated with correct management of childhood illness](routine-supervision-not-associated-correct-management.md) — related
+- CHW diagnosis of pneumonia under integrated CCM is variable, with median agreement with clinician gold standard of 63.7% — related

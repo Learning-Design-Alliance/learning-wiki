@@ -84,4 +84,5 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — a narrower finding that bears on this claim
 - [Greater ease of training is associated with shorter total SCIG training time and shorter preparation duration](ease-of-training-associated-with-shorter-training-and-preparation-times.md) — related
 - [Prior published studies report SILC learning curves ranging from 5 to 75 cases, without differentiating surgeons by prior training or experience](prior-silc-learning-curve-5-to-75-cases.md) — related
+- [Increasing surgeon laparoscopic experience had no notable effect on conversion odds in either arm, suggesting surgeons were already expert at laparoscopic surgery](rolarr-laparoscopic-experience-negligible-effect.md) — reports the opposite
 

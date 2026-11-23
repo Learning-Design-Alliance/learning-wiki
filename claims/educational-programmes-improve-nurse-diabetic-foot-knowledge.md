@@ -55,3 +55,4 @@ Systematic review narrative synthesis of nine quasi-experimental studies; knowle
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
 - [Simulation-based learning consistently improves knowledge, skills, and self-efficacy in diabetes education, especially with structured debriefing and progressive case complexity](simulation-consistent-gains-diabetes-education.md) — related
+- [Group patient education led by personnel skilled in the chosen educational model improved knowledge, empowerment or self-efficacy in diabetes and COPD reviews](group-education-skilled-leaders-improve-outcomes.md) — related

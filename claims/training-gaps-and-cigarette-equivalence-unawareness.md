@@ -50,3 +50,4 @@ Demographic survey of 105 Lebanese primary care practitioners found "nearly two 
 - [Most primary care practitioners lack knowledge of waterpipe smoking cessation techniques, including nicotine replacement therapy](pcps-lack-waterpipe-cessation-knowledge.md) — related
 - The top perceived barriers to providing waterpipe cessation advice are patient non-compliance, limited training and knowledge, and lack of available cessation programs — related
 - [Physician smoking status is associated with cigarette counseling frequency but not with waterpipe counseling](physician-smoking-status-counseling-link.md) — related
+- [Primary care clinicians show substantial knowledge gaps about smoking prevalence and impacts in later life, with only 47% aware that approximately 10 life years are lost to smoking-related disease](clinician-knowledge-gaps-smoking-older-adults.md) — related

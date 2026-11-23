@@ -50,3 +50,4 @@ Cross-sectional survey of 233 PT interns across 19 Saudi universities; the resul
 - [Few interns had a formal university VR curriculum, and informal sources dominated VR learning; learned tests and maneuvers differed by phase](vr-learning-sources-and-learned-tests.md) — related
 - [Internship vestibular-test knowledge and workshop attendance are the only unique predictors of competence](regression-competence-predictors.md) — related
 - [Self-reported competence is high while applied case-report knowledge is low among PT interns](competence-case-report-discrepancy.md) — related
+- [Not knowing how to perform the technique is the most important reason GPs give for not using repositioning manoeuvres and vestibular rehabilitation](not-knowing-technique-main-barrier-gp-vestibular.md) — related

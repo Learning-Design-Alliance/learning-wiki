@@ -57,3 +57,4 @@ Summary statistics from the multiple regression on proportion of exam points ear
 - [High school GPA alone explains 20.6–63.3% of API variance depending on degree, with the full models explaining 42.8–71.6%](gpa-variance-api-by-degree.md) — related
 - [Instructors using the percent scale shifted roughly 14% of exam-item grade weight into non-zero F grades, an effect not explained by student GPA](percent-scale-shifts-grade-weight-nonzero-fs.md) — related
 - [Bayes' theorem exam scores showed a pronounced ceiling effect, with roughly 28–31% of students earning perfect scores in both conditions](bayes-exam-ceiling-effect-perfect-scores.md) — related
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

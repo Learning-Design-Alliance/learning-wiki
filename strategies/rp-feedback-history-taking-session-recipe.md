@@ -58,6 +58,7 @@ A concrete session recipe from the ten-week Introduction to Clinical Medicine co
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
 - [Run the feedback session with teacher-led recommendations: clear introduction, explain the feedback dilemma, encourage open discussion, avoid the word 'feedback' for student roles, and end with a debrief](holistic-feedback-session-recommendations.md)
+- [Deliver written patient feedback as an intervention pack with Pendleton-framework guided self-reflection before the final consultation](pendleton-reflection-on-written-patient-feedback.md)
 
 ## Examples
 -

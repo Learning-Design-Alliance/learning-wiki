@@ -66,3 +66,4 @@ Extension of the derivation to several correlated predictors under multivariate 
 ## Related Claims
 - [Random forest imputation of missing predictor values did not meaningfully improve auxiliary model performance over simple mean imputation](mean-imputation-sufficient-auxiliary-model.md) — related
 - [Fitting an imputation model with all covariates using only the small trial sample reduces precision relative to pretest-only adjustment](rct-only-all-covariates-hurt-precision.md) — related
+- [Learning effects model estimates were robust to missing experience data and to overly influential observations from sparse peripheral experience regions](rolarr-learning-model-robustness-checks.md) — related

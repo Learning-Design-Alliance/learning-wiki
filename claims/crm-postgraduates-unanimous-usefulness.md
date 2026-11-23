@@ -47,3 +47,4 @@ Evaluation with 11 postgraduate students (nine completed both sessions) who drew
 
 ## Related Claims
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
+- [Provisional diagnoses are frequently altered in 27% of cases at post-take ward rounds, making PTWRs vital educational experiences](ptwr-diagnosis-altered-27-percent.md) — related

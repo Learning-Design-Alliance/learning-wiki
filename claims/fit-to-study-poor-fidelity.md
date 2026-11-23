@@ -70,3 +70,4 @@ Objective accelerometer (Axivity AX3) measurement during a single PE lesson in a
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [Specialist-taught PE lessons produced more minutes of student MVPA than generalist-taught PE lessons, but the proportion of lesson time in MVPA did not differ](specialist-pe-more-mvpa-minutes-per-lesson-look.md) — related
 - [Specialist PE teachers delivered more lessons per week and were more actively engaged in teaching than generalist classroom teachers](specialist-teachers-more-engaged-lessons-look.md) — related
+- [The Fit to Study trial hypothesises that a one-year programme of vigorous physical activity delivered during PE lessons improves maths attainment in Year 8 pupils relative to control](fit-to-study-vpa-maths-attainment-hypothesis.md) — related

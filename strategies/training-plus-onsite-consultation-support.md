@@ -74,6 +74,7 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Combine a brief Teach-Back skills workshop with ongoing guided self-reflection surveys for telehealth communication training](workshop-plus-guided-self-reflection-strategy.md)
 - [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

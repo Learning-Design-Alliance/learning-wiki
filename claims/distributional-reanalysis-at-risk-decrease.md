@@ -54,3 +54,4 @@ Re-analysis of data from a large-scale cluster-randomized trial of the Incredibl
 - [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related
 - [The IY TCM program showed no significant effects on disruptive behavior or concentration problems in schools already implementing PBIS](iy-tcm-no-effect-disruptive-concentration.md) — related
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related
+- [Prior trials of the Incredible Years TCM course alone detected changes in teacher behaviour but little evidence of change in teacher-rated child well-being](tcm-prior-trials-teacher-behaviour-change-limited-child-evidence.md) — related

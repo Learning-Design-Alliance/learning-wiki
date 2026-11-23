@@ -47,6 +47,7 @@ The article recommends a combined approach in which schools and communities impr
 ## Related Strategies
 
 - [Recommend nutrition interventions on dietary diversity for school-age children, alongside efforts to raise mothers' educational level and economic empowerment](dietary-diversity-nutrition-intervention-strategy.md)
+- [Implement nutrition screening programs and health–education sector collaboration to improve primary school academic performance](nutrition-screening-program-primary-schools-strategy.md)
 
 ## Examples
 -

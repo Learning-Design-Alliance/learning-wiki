@@ -46,7 +46,8 @@ The article recommends continuing education for GPs on road traffic crash injury
 - [Australian GPs surveyed showed predominantly moderate to high knowledge of WAD and PTSD](../claims/gps-moderate-high-knowledge-wad-ptsd.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Address GP pain-management knowledge gaps through inter-professional education, including ECHO-model telementoring, combined with reimbursement and organisational incentives](interprofessional-education-pain-dementia-strategy.md)
 
 ## Examples
 -

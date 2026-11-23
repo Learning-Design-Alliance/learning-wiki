@@ -72,3 +72,4 @@ Standard setting for the phantom-model test using the contrasting-groups method.
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
 - [A Contrasting Groups' Method pass/fail standard of 34.0 points completely discriminated between novices and experienced surgeons, with no false positives or false negatives](cgm-cut-score-34-complete-discrimination-drf.md) — related
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](contrasting-groups-cutoff-91-raised-to-expert-average-96.md) — related
+- [Misclassified experts had fewer years of experience than the expert-group average, while novice misclassifications were not explained by experience](misclassification-pattern-years-of-experience.md) — related

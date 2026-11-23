@@ -53,6 +53,7 @@ Learners in small groups of 4–6 observe peers in SP encounters from outside OS
 - [Combine immediate standardized-patient feedback, video review, and self-feedback diary entries as the core of OSCE remediation](video-remediation-with-sp-feedback-and-self-feedback-diary.md)
 - [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
 - [Offer conversation training with simulated patients to prepare international medical students for patient encounters](conversation-training-simulated-patients-international-students.md)
+- [Use SP feedback, video review, and facilitated group debriefing after each simulated encounter to build HCW skills](sp-encounter-feedback-debriefing-cycle.md)
 
 ## Examples
 -

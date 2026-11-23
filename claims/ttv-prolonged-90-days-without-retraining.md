@@ -48,3 +48,4 @@ Skill-retention reevaluation in the same randomized crossover manikin study, con
 - [Novice doctors achieve significantly faster time to successful ventilation with i-gel than with Aura-i at both initial and 90-day manikin assessments](igel-faster-ttv-than-aura-i-novices.md) — related
 - [Novice doctors rated i-gel significantly easier to manipulate than Aura-i, and both devices harder to insert at the 90-day reassessment](igel-rated-easier-than-aura-i.md) — related
 - [Insertion success rates, first-attempt success, bronchoscopy view, and insertion scores showed no significant differences between i-gel and Aura-i in novices](lma-success-and-quality-outcomes-comparable.md) — related
+- [A single 6-month-delayed second run showed significantly faster insertion times for all devices under tongue edema, and higher success rates mainly for ET and EzT, in one group measured before and after with no comparison group](six-month-skill-retaining-training-effect.md) — related

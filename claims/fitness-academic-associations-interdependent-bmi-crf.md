@@ -81,3 +81,5 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Fit, normal-weight boys have significantly higher odds of top academic achievement than unfit boys with obesity](fit-normal-boys-higher-odds-than-unfit-obese-boys.md) — related
 - [Unfit boys with obesity and unfit overweight girls have significantly lower odds of high academic achievement than fit, normal-weight peers](unfit-obese-boys-overweight-girls-lower-odds.md) — related
 - [Higher physical activity and fitness are linked to better cognition and academic achievement in children in some but not all studies, with possibly stronger effects in children with ADHD, low fitness, or overweight](physical-activity-cognition-children-mixed.md) — related
+- [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](aerobic-fitness-strongest-relationship.md) — related
+- [Students high-fit in muscular strength in both years outperformed other strength-change groups on the exam](muscular-strength-hh-outperforms-exam.md) — related

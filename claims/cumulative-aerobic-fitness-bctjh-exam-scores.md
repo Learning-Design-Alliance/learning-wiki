@@ -56,3 +56,5 @@ Nationwide observational cohort matching three years of Ministry of Education fi
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
 - [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](fitness-indirect-effect-via-motor-skills.md) — related
 - [The authors interpret null effects of physical activity interventions in prior RCTs as possibly explained by the difficulty of academic tests and high overall scores](null-rct-effects-explained-by-test-difficulty.md) — related
+- [Students high-fit in aerobic fitness in both years 1 and 3 outperformed all other aerobic-fitness-change groups on the BCTJH exam](aerobic-hh-group-outperforms-exam.md) — a narrower finding that bears on this claim
+- [Fitness trajectories suggest a dose-response pattern: sustained high fitness (H-H) yielded the highest exam scores, followed by N-H, H-N, and N-N](fitness-dose-response-trajectory.md) — possibly the same claim (merge candidate)

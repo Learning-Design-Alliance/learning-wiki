@@ -51,3 +51,4 @@ Theme 5 faculty interview data on balancing teaching modalities; one faculty mem
 - [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
 - [A focus group of radiotherapy education experts favoured the end-to-end case study approach using an anthropomorphic phantom in simulation-based learning](focus-group-favors-end-to-end-phantom-sbl.md) — related
 - [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related
+- Surgeons spend under 2 min 30 s per patient at the bedside on ward rounds, less than a third of the recommended 9–10 min — related

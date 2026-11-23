@@ -60,6 +60,7 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Guide stage-based small groups through a five-year career planning path with senior mentors](five-year-career-planning-small-groups.md)
 - [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
 - [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
+- [Improve leadership skills of nurse coordinators to foster an evidence-based practice culture in primary health care](nurse-coordinator-leadership-training-ebcp-strategy.md)
 
 ## Examples
 -

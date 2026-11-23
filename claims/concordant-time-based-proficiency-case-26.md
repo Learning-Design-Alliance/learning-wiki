@@ -51,3 +51,4 @@ CUSUM chart of operative time across the same 51-case chronological series ident
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
 - [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related
+- [No actual learning curve for TaTME could be extracted from the included studies because a proficiency curve has yet to be determined](tatme-learning-curve-not-extractable.md) — related

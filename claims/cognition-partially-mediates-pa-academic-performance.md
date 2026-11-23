@@ -73,3 +73,4 @@ The authors' interpretation of the Model 2 results: cognition reduced but did no
 - [Sleep disturbances partially mediate the relationship between academic stress and depressive symptoms](sleep-disturbances-partial-mediation-stress-depression.md) — related
 - [Cognition is strongly associated with academic performance in primary school children (standardised coefficient = 0.750)](cognition-strongly-associated-academic-performance.md) — related
 - [PA–cognition and PA–academic performance pathways differed by ethnicity: significant for New Zealand European students, non-significant for non-New Zealand European students](pa-pathways-ethnicity-subgroup.md) — related
+- [Positive affect mediates the relation of average sleep quality and average physical activity with learning goal achievement; negative affect does not](positive-affect-mediates-average-health-behavior-learning-goal-relation.md) — related

@@ -52,3 +52,4 @@ Adjusted GEE regression models from the national cohort. The quote reports the t
 - [Modifiable perinatal exposures — maternal smoking, postnatal corticosteroids, and nonexclusive breastfeeding — are associated with lower attainment, while antenatal corticosteroids are protective](modifiable-perinatal-exposures-attainment.md) — related
 - [Early neonatal sepsis is associated with parent-rated inattention and hyperactivity symptoms, and severe intraventricular hemorrhage with altered Piaget operational stage](early-sepsis-severe-hemorrhage-attention-cognitive-changes.md) — related
 - [Several neonatal and sociodemographic variables show no association with school-age outcomes in this cohort](preterm-null-associations-apgar-income-schooling-ventilation.md) — reports the opposite
+- [Bronchopulmonary dysplasia explains 44% of between-study variance in academic performance](bpd-explains-44-percent-academic-variance.md) — related

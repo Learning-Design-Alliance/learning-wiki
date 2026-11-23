@@ -48,3 +48,4 @@ Process data collected from participating units via standardised sheets and cour
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — a broader claim this one bears on
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [When actual implementation dates were used, PROMPT training showed no evidence of improvement in Apgar<7 at 5 min rates](prompt-as-implemented-no-effect.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

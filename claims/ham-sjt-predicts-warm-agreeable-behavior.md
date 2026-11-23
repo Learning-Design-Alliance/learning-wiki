@@ -52,3 +52,4 @@ Linear mixed models on supervisor ratings from the same longitudinal sample of 2
 - [Better HAM-Nat performance is negatively related to warm-agreeable behavior, suggesting SJTs may compensate for negative selection effects of cognitive admission tests on communal characteristics](ham-nat-negative-warm-agreeable-compensation.md) — reports the opposite
 - [Professional prequalification shows no significant relation to warm-agreeable behavior, and its correlation with emotional stability diminishes once covariates are controlled](prequalification-null-communal-emotional-stability.md) — related
 - [The interaction between professional prequalification and HAM-SJT performance did not significantly predict any supervisor rating](prequalification-sjt-interaction-null.md) — related
+- [Women consistently outperform men on the SJT part of the medical admission test with weak to moderate effect sizes](women-outperform-men-sjt-medical-admission.md) — related

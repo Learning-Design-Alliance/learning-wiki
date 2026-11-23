@@ -92,3 +92,4 @@ Step-2 model-change test in the inhibition model; parallel non-significant chang
 - [Across all three task types, joint tapping yields modestly but reliably lower synchronization variability than solo tapping in 4–5-year-olds](joint-tapping-main-effect-variability.md) — related
 - [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related
 - [The overall pattern of associations between interaction patterns and AI knowledge outcomes was unlikely to have occurred by chance](correlation-pattern-nonrandom-monte-carlo.md) — related
+- [Structural connectivity differences between experts and novices appear only as uncorrected trends, with no expertise-related differences surviving FDR correction](structural-connectivity-expertise-trends-only.md) — a narrower finding that bears on this claim

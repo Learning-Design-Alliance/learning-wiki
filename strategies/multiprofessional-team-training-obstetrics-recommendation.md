@@ -51,6 +51,7 @@ Based on their null results and the literature, the authors recommend that "futu
 - [Advocate regular simulation training for the whole delivery team, including senior staff](whole-team-regular-simulation-training.md)
 - [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
 - [Involve local domain-unit staff for the full workshop day rather than as an end-of-day panel](local-domain-staff-full-day-workshop-involvement.md)
+- [Implement annual local multi-professional intrapartum emergency training via in-house trainers trained at a central train-the-trainers programme](in-house-train-the-trainers-local-implementation.md)
 
 ## Examples
 -

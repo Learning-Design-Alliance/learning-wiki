@@ -60,6 +60,7 @@ The article recommends that nurse managers and innovation mentors treat post-cou
 - [Post-course refreshers, support and mentorship, plus preparing placement sites and educating nurses, families and policy makers about palliative care](palliative-transfer-support-strategy.md)
 - [Structured preparation and coaching of teaching assistants before delivering inquiry laboratories](teaching-assistant-preparation-for-inquiry-labs.md)
 - [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
+- [Use spaced, onsite simulation practice with mobile mentoring and peer coaching to sustain clinical learning after training](spaced-onsite-simulation-with-mobile-mentoring-strategy.md)
 
 ## Examples
 -

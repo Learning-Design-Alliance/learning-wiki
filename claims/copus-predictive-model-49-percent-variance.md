@@ -49,3 +49,4 @@ Leave-one-out tests across 69 classes, with 9 out-of-range predictions removed. 
 - [Math SAT/ACT percentile and concept inventory pre-score together predict roughly 20-30% of variance in physics 1 final exam scores across three institutions](prep-measures-explain-20-30-percent-exam-variance.md) — related
 - [Gradient boosted models achieve lower out-of-sample mean absolute and mean squared error than OLS and mixed-effects models when predicting LASSO concept-inventory post-test scores](gradient-boosted-lower-error-lasso-posttest.md) — related
 - [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related
+- E-therapy trials show high variability in sample size and a mean discontinuation rate of approximately 23% — related

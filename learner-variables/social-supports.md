@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (148 show a difference, 37 mixed, 13 no difference) · 146 studies (54 associational, 31 qualitative, 21 causal, 17 review, 10 theoretical, 8 quant-synthesis, 5 design), `q1`–`q3` · 18 of 146 report an effect size · 198 claims rest on one study
+> **Evidence** · 199 claims (149 show a difference, 37 mixed, 13 no difference) · 147 studies (54 associational, 32 qualitative, 21 causal, 17 review, 10 theoretical, 8 quant-synthesis, 5 design), `q1`–`q3` · 18 of 147 report an effect size · 199 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -234,6 +234,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Past parental activity (APAF3) shows non-monotonic associations: medium support groups were least bored and had the best grades](../claims/past-parental-activity-nonmonotonic-boredom-grades.md) [~M] — learners who differ on it differ in outcomes
 - [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](../claims/social-school-factors-mediate-depression-attainment.md) [+M] — learners who differ on it differ in outcomes
 - [The relationship between parental support and the outcomes is moderated by gender and age, with significant interaction effects in the multivariate analysis](../claims/parental-support-moderated-by-gender-and-age.md) [~M] — learners who differ on it differ in outcomes
+- [ASHAs gained self-efficacy through job-derived knowledge, social capital, and family and community support, which improved their service delivery](../claims/asha-self-efficacy-enablers-qualitative.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

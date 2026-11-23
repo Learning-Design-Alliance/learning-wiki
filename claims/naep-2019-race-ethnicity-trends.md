@@ -56,3 +56,4 @@ The NAEP 2019 results by race/ethnicity report average 2019 scores by student gr
 - [Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles](naep-2019-grade-8-reading-declines.md) — related
 - [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related
 - [Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states](naep-2019-state-reading-declines.md) — related
+- [NAEP-based IQ scores rose for all groups from 1978/80 to 2012, but from 1992 to 2012 Whites showed no rise while all three minority groups did](naep-1978-2012-group-trends.md) — related

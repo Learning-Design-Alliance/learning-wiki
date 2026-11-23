@@ -50,3 +50,6 @@ ANOVA comparing mean scores across specialty competitiveness levels in the retro
 - [Passing licensing exams on first attempt is critical for matching into highly competitive specialties](first-attempt-pass-critical-competitive-specialties.md) — related
 - [Higher COMLEX Level 2 CE scores are associated with matching into first-choice residency](higher-comlex-level-2-ce-score-first-choice.md) — related
 - [Pre-clinical GPA is not a predictor of matching into highly competitive specialties when considered with COMLEX Level 1](pre-clinical-gpa-not-predictor-competitive-specialties.md) — related
+- [USMLE Step 1 scores differ significantly across residency specialties](step1-scores-differ-across-specialties.md) — related
+- [USMLE Step 2 CK scores differ significantly across residency specialties, though less strongly than Step 1](step2-ck-scores-differ-across-specialties.md) — related
+- [Residency specialty match is significantly associated with the combination of USMLE Step 1 and Step 2 CK scores](usmle-scores-associated-with-residency-specialty-manova.md) — related

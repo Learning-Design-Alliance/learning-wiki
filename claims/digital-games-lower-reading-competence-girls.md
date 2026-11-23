@@ -48,3 +48,4 @@ Regression models for girls in the cross-sectional study. The article reports "l
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
 - [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related
+- [Adolescents at lower secondary schools report higher TV/video and game console consumption than highest secondary school students, while physical activity and PC/mobile use do not differ by school type](school-type-differences-in-screen-time-and-activity.md) — related

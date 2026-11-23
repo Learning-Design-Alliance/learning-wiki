@@ -50,3 +50,5 @@ Frequency analysis of the procedural (open-ended) interview part across both spe
 - [Ten literature-based competences are described by over 70% of interviewees in both surgery and psychiatry](ward-round-ten-common-competences.md) — reports the opposite
 - [Ward round competences are distributed by role: teaching to senior doctors, organization to residents](ward-round-role-distribution-teaching-organization.md) — related
 - [Interviewed students frequently reported that outreach developed communication skills, with leadership and teamwork mentioned by nearly 50% and 35% of interviews respectively](outreach-interview-communication-teamwork-skills.md) — related
+- Nurses are present in only 44% of surgical ward rounds, with patient notes forming the main doctor–nurse communication channel — related
+- Surgeons spend under 2 min 30 s per patient at the bedside on ward rounds, less than a third of the recommended 9–10 min — related

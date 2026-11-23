@@ -49,3 +49,4 @@ Baseline questionnaire (T1) of 92 students applying a 5-point Likert scale. In T
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related
 - [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related
+- [Residents agree autopsies are an important learning tool but report lacking knowledge and skills for the requisition process](residents-lack-autopsy-requisition-skills.md) — related

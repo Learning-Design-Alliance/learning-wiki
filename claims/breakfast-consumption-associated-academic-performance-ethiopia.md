@@ -70,3 +70,5 @@ Cross-sectional study of 514 first-cycle primary students in North Shoa Zone, Et
 - [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
 - [A gradient in low achievement prevalence exists across breakfast skipping categories for all NAPLAN tests](low-achievement-gradient-skipping-categories.md) — related
 - [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](school-absenteeism-associated-poor-academic-performance.md) — related
+- [Breakfast consumption is significantly and positively associated with educational performance in 9–11-year-old children, adjusted for gender and individual- and school-level FSM entitlement](breakfast-consumption-associated-better-sats.md) — related
+- [Wasting (WHZ) was not significantly associated with academic performance in this sample](wasting-not-associated-with-academic-performance.md) — related

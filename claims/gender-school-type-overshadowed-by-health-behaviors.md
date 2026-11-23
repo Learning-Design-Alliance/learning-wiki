@@ -50,3 +50,4 @@ Hierarchical multivariate logistic regression: Model 1 (private school aOR 2.39,
 - [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — related
 - [Medium physical activity is associated with higher achievement, but the association is not significant once socio-cognitive factors are added](medium-physical-activity-achievement-mixed.md) — related
 - [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — related
+- [Girls and students not attending the highest school track report significantly lower life satisfaction](girls-non-gymnasium-lower-life-satisfaction.md) — related

@@ -50,3 +50,4 @@ MITI MI Spirit scores (mean of Evocation, Collaboration and Autonomy Support) fr
 - [Mean MI skill of quitline counsellors improved in most MITI variables over two-and-a-half years of training and supervision](mi-skill-improved-most-miti-variables.md) — a broader claim this one bears on
 - [Open Questions skill was not retained after October 2006](open-questions-skill-not-retained-after-october-2006.md) — related
 - [The Reflections-to-Questions ratio was the fastest-acquired skill, reaching proficiency within about six months](reflections-to-questions-ratio-reached-threshold-six-months.md) — related
+- [Percent complex reflections was the MITI summary score on which most nurses achieved beginning proficiency, while percent open questions and MI spirit rating were the scores on which fewest did](miti-complex-reflection-most-open-question-fewest-proficiency.md) — related

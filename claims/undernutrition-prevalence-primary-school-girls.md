@@ -58,3 +58,4 @@ Descriptive frequency analysis of anthropometric classifications at baseline in 
 - [Nearly half of the sampled students fall in the normal-weight BMI category while overweight and obesity together exceed 47%](bmi-distribution-overweight-obesity-exceed-47-percent.md) — related
 - [Stunting prevalence was 26.6% and thinness 28.9% among school-age children in the study districts](stunting-thinness-prevalence-pastoral-ethiopia.md) — related
 - [In this sample, 9.1% of children were stunted, 7.1–7.2% infected with STH, and 19.2% anemic](stunting-sth-anemia-prevalence-port-elizabeth.md) — related
+- [Children with any kind of undernutrition had significantly lower average subject scores than other children](undernutrition-mean-score-difference-all-subjects.md) — related

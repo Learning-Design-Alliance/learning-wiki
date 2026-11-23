@@ -49,3 +49,4 @@ Multivariable logistic regression in the cross-sectional study (n = 630), with t
 - [Lower household income and caregiver unemployment show the strongest associations with poorer parent-rated academic performance in children with CKD](income-employment-strongest-ses-drivers-ckd-academic.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — related
+- [Lower family monthly income and younger child age were significantly associated with low academic performance](income-and-age-associated-with-academic-performance.md) — a narrower finding that bears on this claim

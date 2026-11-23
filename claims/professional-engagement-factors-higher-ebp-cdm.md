@@ -54,3 +54,4 @@ Univariate comparisons in the 387-nurse survey (Table 3); e.g., research-experie
 - [Most surveyed research assistants lacked original research publications, and about half reported sufficient foreign language proficiency for scientific literature](research-assistants-low-publication-foreign-language-profile.md) — related
 - [English reading competence is the most critical barrier to applying EBP among Vietnamese physical therapists](english-competence-top-barrier-ebp-vietnam.md) — related
 - [Nurses who received EBN education/training or perceived EBN knowledge scored higher on EBP competency in univariate analysis](ebn-education-knowledge-univariate-differences.md) — related
+- [EBP knowledge, skills, and self-efficacy correlate positively with education level, continuing education, journal reading, and EBP training among school nurses](school-nurse-ebp-demographic-correlations.md) — related

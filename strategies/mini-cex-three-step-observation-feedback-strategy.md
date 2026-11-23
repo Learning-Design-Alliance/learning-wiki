@@ -49,6 +49,7 @@ The article recommends implementing the Mini-CEX tool as an assessment and teach
 - [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
 - [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
+- [Pair trainees for real-time competency assessment and feedback during skills practice](paired-training-real-time-peer-assessment-strategy.md)
 
 ## Examples
 -

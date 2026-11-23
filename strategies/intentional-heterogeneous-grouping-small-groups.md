@@ -56,6 +56,7 @@ The essay recommends instructor-assigned heterogeneous grouping using beginning-
 - [Standard-Based Regrouping](standard-based_regrouping.md)
 - [Divide the class into four groups, with teachers forming balanced groups for primary pupils](four-group-division-hands-on-stem.md)
 - [Configure collaborative groups of two to four students, assign roles, and still collect answers individually](a2l-collaborative-group-configuration.md)
+- [Facilitate heterogeneous within-class grouping to avoid profuse upward or downward comparisons](heterogeneous-within-class-grouping-wellbeing.md)
 
 ## Examples
 -

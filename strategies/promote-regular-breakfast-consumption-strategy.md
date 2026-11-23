@@ -52,6 +52,7 @@ The article recommends that education stakeholders and policymakers support regu
 
 - [Support breakfast consumption and after-school physical activity programs to support student health and learning](breakfast-afterschool-programs-support-learning.md)
 - [Address regular breakfast consumption habits to shift adolescents from low-energy screen-based behaviors toward higher-intensity physical activity](regular-breakfast-habits-intervention-strategy.md)
+- [Integrate measures of educational performance into trials of interventions promoting breakfast consumption and other health behaviours](integrate-educational-measures-into-health-behaviour-trials.md)
 
 ## Examples
 -

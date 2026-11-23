@@ -54,3 +54,4 @@ Multivariable logistic regression in the cross-sectional study (n = 630) identif
 - [Frequent habitual breakfast consumption was significantly associated with good academic performance among Hargeisa adolescents](habitual-breakfast-associated-academic-performance.md) — related
 - [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related
 - [Concurrent heavy television and computer use at grade 5 were associated with lower numeracy scores at grade 5](concurrent-tv-computer-grade5-lower-numeracy.md) — related
+- [Adolescents at lower secondary schools report higher TV/video and game console consumption than highest secondary school students, while physical activity and PC/mobile use do not differ by school type](school-type-differences-in-screen-time-and-activity.md) — related

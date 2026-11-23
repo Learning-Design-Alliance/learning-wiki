@@ -56,3 +56,5 @@ Observational analysis of five cohorts in the same nationwide dataset, comparing
 - [Aerobic and muscular fitness do not independently predict future academic achievement.](fitness-no-independent-prediction-gpa.md) — reports the opposite
 - [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) — related
 - [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](fitness-indirect-effect-via-motor-skills.md) — related
+- [Students high-fit in aerobic fitness in both years 1 and 3 outperformed all other aerobic-fitness-change groups on the BCTJH exam](aerobic-hh-group-outperforms-exam.md) — related
+- [Fitness trajectories suggest a dose-response pattern: sustained high fitness (H-H) yielded the highest exam scores, followed by N-H, H-N, and N-N](fitness-dose-response-trajectory.md) — related

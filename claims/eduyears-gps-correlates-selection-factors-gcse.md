@@ -50,3 +50,4 @@ Correlational analysis of EduYears GPS with selection factors and GCSE in the TE
 - [EduYears polygenic scores predict achievement increasingly with age (about 4% at KS1 to 10% at GCSE) and show largely stable effects, with less than 1% age-specific prediction](eduyears-gps-increasing-stable-prediction-achievement.md) — related
 - [EduYears GPS predicts more variance in GCSE scores (about 10%) than in its GWA target trait, adult years of education (about 4%)](gps-predicts-more-gcse-than-educational-attainment.md) — related
 - [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](high-gps-compensates-low-ses-university.md) — related
+- [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related

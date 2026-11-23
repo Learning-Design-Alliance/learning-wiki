@@ -53,3 +53,4 @@ In the survey's univariate analyses, the practice dimension showed significant d
 - [ICU nurses held positive attitudes toward eye care, but positive attitudes did not fully translate into prioritising eye care in practice](positive-attitudes-not-translating-eye-care-practice.md) — related
 - [No statistically significant differences in eye care knowledge, attitudes, or practices across ICU unit types and levels](no-icu-type-differences-eye-care-competence.md) — related
 - [Higher work experience is associated with higher clinical competence in all dimensions except ensuring quality](work-experience-higher-competence-except-ensuring-quality.md) — related
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — reports the opposite

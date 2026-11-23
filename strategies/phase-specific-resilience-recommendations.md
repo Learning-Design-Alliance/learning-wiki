@@ -49,6 +49,7 @@ Following the curriculum analysis, multidisciplinary collaboration with senior s
 ## Related Strategies
 
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
+- [Strengthen paediatric and IMCI training, clinical reasoning instruction, and community-level education for clinicians managing febrile children](strengthen-paediatric-imci-training-strategy.md)
 
 ## Examples
 -

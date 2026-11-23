@@ -54,3 +54,4 @@ Univariable comparisons in the 6040-graduate cohort show passers had higher EPM 
 - [UKFPO EPM and SJT scores do not correlate with postgraduate attainment or with assessment time at medical-school level.](epm-sjt-no-correlation-postgraduate-attainment.md) — reports the opposite
 - [Students who studied physics in high school scored higher on an unannounced junior-high/first-year-high-school physics quiz than those who did not](quiz-score-gap-by-high-school-physics-study.md) — related
 - [ENARM pass rates rise steeply with prior ENAM score level, from 25.2% among applicants who did not take the ENAM to 99.2% among those scoring above 15](enarm-pass-rate-by-enam-category.md) — related
+- [SJT score correlates negatively with prior academic attainment (r = -.19)](integrity-sjt-negative-academic-correlation.md) — related

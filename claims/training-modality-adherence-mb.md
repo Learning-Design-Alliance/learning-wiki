@@ -47,3 +47,4 @@ Secondary analysis of the 160-session fidelity dataset using linear mixed models
 ## Related Claims
 - [Facilitators with less than a master's degree tended to show better adherence to the MB curriculum than those with a master's degree or higher](facilitator-education-adherence-mb.md) — related
 - [Paraprofessionals and mental health professionals show no significant differences in adherence or competency when delivering the Mothers and Babies group intervention](paraprofessional-mhp-no-fidelity-difference-mb.md) — reports the opposite
+- [Paraprofessional facilitators trained for 4.5 days plus weekly phone supervision adhered to over 90% of prescribed session content in a community pediatric weight control program](paraprofessional-high-content-adherence-community-weight-control.md) — related

@@ -48,3 +48,5 @@ As-implemented analysis of the stepped-wedge trial modelling a categorical expos
 - [The overall Apgar<7 at 5 min rate increased during the study period, from 1.32% pre-intervention to 1.59% post-intervention](apgar-rate-increased-during-study.md) — related
 - [When actual implementation dates were used, PROMPT training showed no evidence of improvement in Apgar<7 at 5 min rates](prompt-as-implemented-no-effect.md) — related
 - [PROMPT training implementation showed no significant reduction in term babies with Apgar<7 at 5 min in the intention-to-treat analysis of 12 Scottish maternity units](prompt-itt-non-significant-apgar-reduction.md) — related
+- [Power calculation: with 12 units, three intervention steps and average cluster size of 1200 births per semester, the trial can detect a 35% or greater reduction in the Apgar <7 rate](thistle-power-detect-35-percent-reduction.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

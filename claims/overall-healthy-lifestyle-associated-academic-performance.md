@@ -50,3 +50,6 @@ Overall conclusion of the cross-sectional study of 1745 students; the abstract s
 - [Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits](mediterranean-diet-adherence-alone-no-significant-self-regulation-association.md) — related
 - [Children meeting more healthy lifestyle habits show higher self-regulation](more-healthy-habits-higher-self-regulation.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [Average language, mathematics and GPA scores increased with higher diet quality in the Chilean sample](average-scores-increase-with-diet-quality-chile.md) — a narrower finding that bears on this claim
+- [Students with higher average sleep quality report better average learning goal achievement during an examination period](average-sleep-quality-predicts-learning-goal-achievement.md) — a narrower finding that bears on this claim
+- [The proportion of students with good academic performance was at least twice as high among those with healthy diets as among those with unhealthy diets](good-performance-twice-as-high-healthy-diet.md) — a narrower finding that bears on this claim

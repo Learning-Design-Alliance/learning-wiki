@@ -19,7 +19,7 @@ sources:
 # GSA
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 design), `q1`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A teacher professional-development system that guides educators in videotaping, coding, and reviewing their own classroom teaching to identify strengths and areas for change.
@@ -29,10 +29,12 @@ A teacher professional-development system that guides educators in videotaping, 
 - **Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development**: The Guided Self-Analysis System for Professional Development is a set of materials through which teachers analyze recordings of their own classroom teaching. The document states that "The Guided Self-Analysis System consists of materials which guide the teacher in analyzing his own teaching behavior, so that he can gain an objective understanding of his strengths and weaknesses." Teachers make 15-20 minute videotapes, replay each tape three or four times with a different workbook each time, code observed behaviors on coding forms, and build profiles of their habitual techniques that can be compared across successive tapings. The system is described as an "open system" adaptable to varied tea (Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview (1970))
 - [From models and closed cues to open cues](../designs/models-closed-cues-to-open-cues-language-independence.md): the cueing strategy in Workbook C of the language unit
 - **Gender–sexuality alliances (GSAs) as school clubs supporting LGBTQ+ youth wellbeing and academic engagement**: Gender–sexuality alliances (GSAs) are school clubs that "provide space for LGBTQ+ youth and their heterosexual cisgender peer allies to mutually support one another and advocate for LGBTQ+ people." They are now in an estimated 44% of U.S. secondary schools. Typically, GSAs meet weekly or biweekly for up to 1 hour during or after the regular school day. During meetings, youth socialize, support one another, discuss issues faced by the LGBTQ+ community, learn about LGBTQ+ affirming resources, or plan and engage in advocacy efforts. This study examined specific experiences within GSAs—peer responsiveness, advisor responsiveness, and leadership—as predictors of wellbeing and academic outcomes. (Poteat et al. (2025))
+- **Global School Adaptation (GSA) questionnaire: a 20-item teacher-rated measure of school abilities and behavior at age five**: The Global School Adaptation (GSA) score is a questionnaire completed by kindergarten teachers to assess children's abilities and behaviors in the classroom. As the article states, it "allows for assessment of the children's abilities and behaviors in the classroom" and was previously used by the French ministry of education. It comprises 20 items exploring five areas: language, transferable skills, socialization, motor skills, and number processing, each scored 1 to 3, giving a total from 20 to 60 with higher scores indicating higher school performance. In this study it was completed at age five plus or minus two months and validated as a screening tool for adverse neurodevelopmental outcomes in preterm children. (Nusinovici Simon et al. (2018))
 
 ### Claims
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](../claims/performance-goal-discrepancy-motivates-teacher-change.md) [+W]
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [+W]
+- [Parental separation is associated with lower teacher-rated school performance at age five in preterm children, but only among children with low GSA scores](../claims/parental-separation-lowers-school-performance-low-gsa-preterm.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -41,6 +43,7 @@ A teacher professional-development system that guides educators in videotaping, 
 - Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 <!-- merged 2026-10-10 from theories/gsa-guided-self-analysis-system ("Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Poteat, V. P., Calzo, J. P., Yoshikawa, H., Kellogg, D., Marx, R. A., Richburg, A., & Lipkin, A. (2025). Youth experiences in gender–sexuality alliances predict academic engagement but not disaffection through social–emotional wellbeing. Child Development, 96, 847–864. https://doi.org/10.1111/cdev.14209
+- Nusinovici Simon, Olliac Bertrand, Flamant Cyril, Müller Jean-Baptiste, Olivier Marion, Rouger Valérie, Gascoin Géraldine, Basset Hélène, Bouvard Charlotte, Rozé Jean-Christophe, Hanf Matthieu. (2018). Impact of parental separation or divorce on school performance in preterm children: A population-based study. PLoS ONE. https://doi.org/10.1371/journal.pone.0202080
 
 # Guided Self-Analysis System (GSA): teacher self-analysis of videotaped lessons as professional development
 

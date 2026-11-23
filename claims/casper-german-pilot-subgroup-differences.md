@@ -93,3 +93,4 @@ Welch t-test comparing Casper performance by parental academic degree as the soc
 - [Female medical school applicants outperformed male applicants on the piloted SJT in both years, with a medium effect size in 2017](sjt-gender-female-advantage-indonesia-pilot.md) — related
 - [SJT scores showed no significant differences across ethnic subgroups in two Indonesian applicant cohorts](sjt-no-ethnic-score-differences-indonesia-pilot.md) — related
 - [Entrance test performance differs by demographic factors with small effect sizes, and no difference by parents' birthplace](ham-nat-demographic-score-differences-small.md) — related
+- [Female participants scored significantly higher than males on the integrity SJT (d = 0.46)](integrity-sjt-gender-difference.md) — related

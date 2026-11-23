@@ -52,3 +52,5 @@ Planned univariate mixed regression analysis of the cluster-randomized trial (43
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
 - [Neither group, field of study, nor gender significantly predicted math post-test scores in the extended ANCOVA model](ancova-field-gender-no-significant-impact.md) — related
+- [The trial protocol hypothesizes positive intervention effects of both SEMLA and DIL on executive functions, early maths, socioemotional skills, communication and language in preschool children](semla-dil-hypothesized-positive-effects.md) — reports the opposite
+- [The protocol hypothesizes negative SES moderation of intervention effects and positive ECERS-3 moderation of SEMLA effects](ses-ecers-moderation-hypotheses.md) — related

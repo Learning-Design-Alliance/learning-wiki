@@ -48,6 +48,7 @@ The article recommends that support for children born very preterm operate acros
 - [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
 - [Prioritize equity-focused public policy and long-term follow-up and support for families of children born preterm](long-term-support-for-children-born-preterm.md)
 - [Incorporate socioeconomic factors into outcome discussions with families of preterm infants](discuss-ses-factors-with-preterm-families.md)
+- [Raise future competence levels through health-focused and early-environmental interventions including pre-school education, reading to children, and cognitive training](health-and-preschool-interventions-competence.md)
 
 ## Examples
 -

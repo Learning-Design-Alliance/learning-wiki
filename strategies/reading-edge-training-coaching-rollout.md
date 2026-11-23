@@ -74,6 +74,7 @@ The program's professional development model combines an initial workshop with o
 - [Implement structured professional development that pairs technical skills with pedagogical strategies, hands-on workshops, peer collaboration, and ongoing mentorship](strategy-pedagogy-focused-digital-pd-programs.md)
 - [Teacher professional development as the vehicle for transferring an advanced quantum curriculum into regular school practice](teacher-pd-transfer-quantum-curriculum.md)
 - [Implement TPSR through teacher co-design, professional development, and existing PE programs](tpsr-codesign-pd-implementation-strategy.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

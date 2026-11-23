@@ -53,3 +53,4 @@ Bivariate comparison in the sample of 174 (33 men, 141 women): mean exam grade 4
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
 - [Female students scored higher on the strategic approach scale than male students](female-students-higher-strategic-approach.md) — related
 - [Higher age, female gender and more time spent on self-study each predict higher GPA among occupational therapy students, controlling for study approaches](age-gender-selfstudy-predict-ot-gpa.md) — related
+- [Women consistently outperform men on the SJT part of the medical admission test with weak to moderate effect sizes](women-outperform-men-sjt-medical-admission.md) — related

@@ -59,3 +59,4 @@ Descriptive analysis of ETS test-taker data (test years 2009-2015) showing demog
 - [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related
 - [The Center for Bright Beams trained 20 PhD students and 11 postdocs since 2016, with at least 40 more expected to graduate by its 2026 sunset](cbb-training-outcomes-since-2016.md) — related
 - [Greater representation of underrepresented minoritized faculty on admissions committees is associated with a more diverse matriculated student body](minoritized-faculty-admissions-committees-student-diversity.md) — related
+- [Men perform considerably better than women in the physics and mathematics parts of the admission test](men-outperform-women-physics-mathematics-admission.md) — related

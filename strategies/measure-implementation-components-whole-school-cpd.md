@@ -43,6 +43,7 @@ The evaluators recommend that future studies of whole-school CPD programmes syst
 
 - [Implement ReflectED as a whole-school programme and allow more than one year for it to become embedded](reflected-whole-school-implementation-strategy.md)
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
+- [Apply case study methods more widely to identify key intervention components and monitor adherence in surgical trials](case-studies-to-monitor-key-components-and-adherence.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (17 for, 16 mixed, 3 against) · 22 studies (8 quant-synthesis, 6 causal, 5 review, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 7 of 22 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (18 for, 16 mixed, 3 against) · 23 studies (8 quant-synthesis, 6 causal, 5 review, 2 design, 1 associational, 1 qualitative), `q1`–`q3` · 7 of 23 report an effect size · 35 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -86,6 +86,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Twelve weeks of daily active breaks significantly improved psychological resilience in management students, with a significant Group × Time interaction favouring the experimental group](../claims/active-breaks-improve-resilience-management-students.md) [+M] — attached 2026-11-05 from Latino Francesca; Tafuri Francesco; Maisuradze Mariam; Tafuri Maria Giovanna (2025), which proposed "12-week active-break intervention protocol for university management students".
 - [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](../claims/active-breaks-improve-executive-function-stroop.md) [~W] — attached 2026-11-05 from Latino Francesca; Tafuri Francesco; Maisuradze Mariam; Tafuri Maria Giovanna (2025), which proposed "12-week active-break intervention protocol for university management students"; tests this page's relationship.
 - [Both PA breaks and leisure-time physical activity are positively associated with daily perceived study ability](../claims/pa-breaks-ltpa-study-ability.md) [+W] — attached 2026-11-07 from Teuber Monika et al. (2024), which proposed "Bewegungssnack digital (exercise snack digital) video-based physical activity breaks".
+- [A pilot with fifteen adolescents wearing heart rate monitors indicated that the intervention's warm-up and infusions produced heart rates in the vigorous zone](../claims/vpa-warm-up-infusions-pilot-heart-rate-vigorous-zone.md) [+W] — attached 2026-11-22 from Wassenaar T. M. et al. (2019), which proposed "Fit to Study VPA-in-PE intervention: 4-minute warm-up bursts plus three 2-minute infusions per hour of PE".
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

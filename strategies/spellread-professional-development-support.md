@@ -77,6 +77,7 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 - [Implement TPSR through teacher co-design, professional development, and existing PE programs](tpsr-codesign-pd-implementation-strategy.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

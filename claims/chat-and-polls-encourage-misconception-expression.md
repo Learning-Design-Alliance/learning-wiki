@@ -56,3 +56,4 @@ Authors' experiential finding from the 13-week online course, concerning the pla
 - [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related
 - [QEP's debut Perimeter Institute workshop produced anecdotal evidence of student engagement and takeaways about quantum ethics](qep-workshop-anecdotal-engagement.md) — related
 - [User experience is a major intervening condition: positive experiences increase GenAI usage while poor experiences decrease it](user-experience-intervening-condition-genai-usage.md) — related
+- Virtual teams generate more ideas than face-to-face teams due to reduced production blocking — related

@@ -53,3 +53,4 @@ Phase boundaries were derived by cumulative average analysis of operation time a
 - [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — a broader claim this one bears on
 - [Full-Case idle time from MyIntuitive telemetry falls as a surgeon progresses through the robotic pancreaticoduodenectomy learning curve](telemetry-idle-time-falls-across-rpd-learning-curve.md) — related
+- [No actual learning curve for TaTME could be extracted from the included studies because a proficiency curve has yet to be determined](tatme-learning-curve-not-extractable.md) — related

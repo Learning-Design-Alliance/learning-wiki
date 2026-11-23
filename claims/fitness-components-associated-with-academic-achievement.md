@@ -70,3 +70,4 @@ The same regression analysis shows muscular strength's associations were subject
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related
 - [Muscular fitness shows no association with academic performance in primary school children](muscular-fitness-no-academic-association.md) — related
 - [Mathematics shows the strongest association with muscular fitness among school subjects](mathematics-strongest-muscular-fitness-association.md) — reports the opposite
+- [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](aerobic-fitness-strongest-relationship.md) — reports the opposite

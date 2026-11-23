@@ -68,3 +68,4 @@ UKGs were more critical of ARCPs, which they felt could depend on colleagues sig
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
 - [BME UK graduates and international medical graduates in postgraduate training are perceived to face additional difficulties that affect their learning and performance compared with white UK graduates](bme-img-additional-training-difficulties-impede-learning.md) — related
+- [Non-EEA IMGs in Europe face licensing processes described as disorganized, bureaucratic, and stricter than those for EU/EEA IMGs](non-eea-img-licensing-processes-stricter-and-inconsistent.md) — related

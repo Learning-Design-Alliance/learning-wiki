@@ -63,6 +63,7 @@ The article recommends that low-resource universities support achievement throug
 - [Monitor modifiable risk factors for poor academic performance during distance education and support students through university counselling services](monitor-modifiable-risk-factors-de-counselling-support.md)
 - [Integrate spiritual well-being into university student support and health promotion programs, targeting meaning, coping, and emotional resilience](integrate-swb-university-support-programs.md)
 - [Integrated campus health promotion: physical activity support plus routine screening for disordered eating and depressive symptoms](integrated-campus-health-promotion-strategy.md)
+- [Raise future competence levels through health-focused and early-environmental interventions including pre-school education, reading to children, and cognitive training](health-and-preschool-interventions-competence.md)
 
 ## Examples
 -

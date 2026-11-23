@@ -55,3 +55,4 @@ Univariable chi-squared and rank tests in a retrospective longitudinal cohort of
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](ses-course-type-not-independent-predictors-epm.md) — related
 - [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related
+- [Socio-demographic predictors of UMAT score change on re-sitting: gains predicted by male gender and NZ origin, and reduced by longer interval, older age and non-English language background](umat-score-change-predictors.md) — related

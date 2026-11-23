@@ -62,3 +62,5 @@ Multilevel meta-analysis of cross-sectional (k = 35) and longitudinal (k = 8) ob
 - [Muscular strength, flexibility and overall fitness show no significant association with general intelligence in adolescents](strength-flexibility-not-associated-with-intelligence.md) — related
 - [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — a narrower finding that bears on this claim
 - [Higher self-reported physical activity, grip strength, and VO2 max are independently associated with better concentration performance in disadvantaged children](fitness-activity-associated-concentration-performance.md) — a narrower finding that bears on this claim
+- [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](aerobic-fitness-strongest-relationship.md) — related
+- [Students high-fit in muscular strength in both years outperformed other strength-change groups on the exam](muscular-strength-hh-outperforms-exam.md) — a narrower finding that bears on this claim

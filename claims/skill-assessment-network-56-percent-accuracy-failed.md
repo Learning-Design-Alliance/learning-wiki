@@ -51,3 +51,5 @@ Test-set evaluation of the skill assessment network on first-attempt mitral stit
 - [In the narrative synthesis, deep learning models classify surgeon skill levels from kinematic data with accuracy up to 95.4%](deep-learning-skill-classification-up-to-95-percent.md) — reports the opposite
 - [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](lmc-construct-validity-dexterity-assessment.md) — related
 - [Deep learning models classify open suturing videos into three skill levels with up to 75% accuracy and 72% F1, comparable to individual human raters](video-models-three-level-open-suturing-skill-classification.md) — related
+- [A trained chaos neural network correctly judged 79% of unseen surgeons as expert or novice from hand-motion parameters](ai-hand-motion-classifies-surgeon-expertise-79-percent.md) — related
+- Machine-learning optimization of the network reached a correct judgment ratio of 0.99 on the training dataset by the seventh trial — related

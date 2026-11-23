@@ -55,3 +55,4 @@ Narrative synthesis of reliability data across included T-NOTECHS studies; Stein
 - [T-NOTECHS assessment of trauma-team non-technical skills by video analysis shows excellent reliability for the overall score (average ICC 0.94; single-rater ICC 0.84)](tnotechs-video-reliability-overall-excellent.md) — related
 - [Video analysis may improve T-NOTECHS reliability compared with live observation, based on comparison with prior live-observer findings](video-analysis-improves-tnotechs-reliability-suggestion.md) — related
 - [Inter-rater reliability of the DPCC-MS varies substantially across rater pairs, from poor to excellent](dpcc-ms-inter-rater-reliability-variable.md) — related
+- [Construct-based tools (NOTECHS, OTAS) are the most commonly used construct-type team performance measures and showed moderate validity evidence (8–10 of 15) in this setting](construct-based-tools-moderate-validity-mis.md) — related

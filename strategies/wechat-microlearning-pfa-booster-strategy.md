@@ -53,6 +53,7 @@ Facing the observed decline in skills at the 2-month follow-up, the authors reco
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Use open free virtual courses and real-time smartphone consultation with specialists to train and support first-level providers in VIA/VILI](virtual-courses-smartphone-consultation-via-vili-training.md)
 - [Offer continuous digital self-management programs to support long-term adherence where face-to-face programs are inaccessible](digital-oa-program-long-term-access-strategy.md)
+- [Use spaced, onsite simulation practice with mobile mentoring and peer coaching to sustain clinical learning after training](spaced-onsite-simulation-with-mobile-mentoring-strategy.md)
 
 ## Examples
 -

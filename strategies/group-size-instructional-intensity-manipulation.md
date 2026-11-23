@@ -46,6 +46,7 @@ The study manipulates group size as a proxy of instructional intensity to examin
 ## Related Strategies
 
 - [Teacher-as-researcher experimental design via Terracotta in Canvas](terracotta-teacher-as-researcher.md)
+- [Treat intensive retreat practice as a candidate active ingredient when designing and studying long-term mindfulness interventions](retreat-practice-active-ingredient-strategy.md)
 
 ## Examples
 -

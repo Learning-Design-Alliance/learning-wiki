@@ -51,3 +51,4 @@ Item-discrimination analysis of the pilot SJT in the same 303-respondent sample,
 - [Situational judgment tests reflect job performance and discriminate average from low performers, suggesting screening use](sjt-screening-discriminates-performers.md) — related
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related
+- [The SJT was the least discriminatory test part of the admission examination in most years](sjt-least-discriminatory-test-part.md) — related

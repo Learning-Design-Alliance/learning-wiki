@@ -68,3 +68,4 @@ Adjusted regression Models 3–4 (n=47 intervention, n=44 control) of six self-r
 - [Intervention-prompted behaviors explain a substantial share of endline score variance, led by quiz performance (43%), then daily readings (10%) and CME courses (3%)](variance-decomposition-intervention-prompted-behaviors.md) — related
 - [Quiz participation and accessing daily readings are each positively associated with endline test scores when considered alone](quiz-participation-and-readings-associated-endline.md) — related
 - [Performance on daily SMS quizzes is the strongest predictor of endline medical knowledge scores among HIV clinicians in an mCME intervention](sms-quiz-performance-predicts-endline-knowledge.md) — related
+- [Continuing medical education is available at all sites but often inaccessible to clinicians due to time constraints, distance, and understaffing](cme-access-barriers-kenyan-clinics.md) — related

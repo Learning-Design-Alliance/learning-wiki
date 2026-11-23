@@ -48,3 +48,4 @@ Self-reported practice over the previous month, asked at T1 and T3 and analysed 
 - [The eLearning course dramatically increases midwives' confidence in providing CMV advice, from 6% to 95% agreeing, maintained at three months](cmv-elearning-increases-confidence.md) — related
 - [Awareness of free CMV education resources rises from 10% to 97% after course completion](cmv-elearning-increases-resource-awareness.md) — related
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
+- [Prevention counseling delivered by healthcare providers is reported to be highly effective at raising CMV awareness among pregnant women](provider-counseling-raises-cmv-awareness.md) — related

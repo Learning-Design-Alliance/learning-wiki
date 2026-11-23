@@ -47,3 +47,4 @@ Longitudinal analysis of 4,890 TEDS twins with genotype data and National Pupil 
 ## Related Claims
 - [EduYears polygenic scores predict achievement increasingly with age (about 4% at KS1 to 10% at GCSE) and show largely stable effects, with less than 1% age-specific prediction](eduyears-gps-increasing-stable-prediction-achievement.md) — related
 - [Prediction of educational achievement from GPS and SES increases steadily from age 7 to age 16](gps-ses-prediction-increases-school-years.md) — related
+- [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related

@@ -71,3 +71,4 @@ Multivariable logistic regression on survey responses identified specialty and h
 - [Easy access to HREM is rare among Turkish physicians, with most reporting difficult or uncertain access](limited-hrem-access-turkiye-survey.md) — related
 - [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related
 - [Achalasia knowledge and training exposure show no significant association with age or hospital level for training participation](no-age-or-training-level-association-achalasia.md) — related
+- Physicians in secondary/tertiary care diagnosed anaphylaxis significantly more often than primary care/private practice physicians — related

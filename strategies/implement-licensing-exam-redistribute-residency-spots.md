@@ -46,7 +46,8 @@ Based on their findings, the authors recommend two policy actions for Peruvian m
 - [Median ENARM scores differ substantially across specialties, highest in Cardiology and lowest in Radiotherapy and Family and Community Medicine](../claims/enarm-median-scores-vary-by-specialty.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Integrate research on licensing effectiveness with research on workforce needs and mobility](integrate-licensing-research-with-workforce-planning.md)
 
 ## Examples
 -

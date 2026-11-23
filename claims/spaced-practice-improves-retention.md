@@ -393,3 +393,4 @@ Experiment 1 of the article. Undergraduates at a US university learned to count 
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related
 - [The distributed practice effect appears to depend on task type and task complexity as well as the interval between sessions](distributed-practice-effect-depends-on-task-type-complexity.md) — a narrower finding that bears on this claim
+- [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related

@@ -52,3 +52,4 @@ Meta-analytic synthesis of cognitive contributions to team performance (Table 4)
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md)
 - [Teams with shared mental models synchronize more easily, while teams with inconsistent models suffer ineffective team processes](shared-models-synchronize-inconsistent-models-suffer.md) — related
 - [Movement and proximity metrics relate to team situation awareness: teams with higher rated SA showed less movement, and time spent near the primary surgeon predicted NOTSS scores](proximity-movement-metrics-track-team-sa.md) — related
+- Virtual teams find it harder to develop shared mental models and transactive memory systems — related

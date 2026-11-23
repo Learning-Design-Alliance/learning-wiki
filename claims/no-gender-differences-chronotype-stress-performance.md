@@ -78,3 +78,4 @@ Chi-square test of gender against chronotype category among all 148 participants
 - [Raising the Year-1 standard increased perceived stress, with the increase confined to female students](raising-standard-increased-perceived-stress-females.md) — reports the opposite
 - [Medical students in both cohorts reported perceived stress above population norms for a similar age group](medical-students-stress-above-norms.md) — related
 - [Female medical students report higher Year-1 stress perception than male students](female-students-higher-year1-stress.md) — reports the opposite
+- EBPQ and PES-NWI scores show no difference between female and male primary care nurses — related

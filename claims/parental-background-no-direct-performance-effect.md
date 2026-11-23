@@ -78,3 +78,4 @@ Same SEM, Table 2: mother German coefficient -0.276 (SE 0.089, p = 0.002) on M1 
 - [Parental SES components differentially relate to parent-supported art participation and academic performance](parental-ses-components-vap2-academic.md) — related
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related
 - [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](non-repeat-rate-sociodemographic-associations.md) — reports the opposite
+- [After full adjustment, type of secondary education remained tied to performance on the mandatory admission tests, while maternal education and body weight were no longer significant](school-type-tied-to-test-performance-after-adjustment.md) — related

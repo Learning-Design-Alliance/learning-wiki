@@ -153,3 +153,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [A proactive Proberbot (VoiceViz) that intervenes with open-ended questions when teams appear stuck engendered more collaborative interactions, deeper discussions and more hypotheses](proberbot-probing-engenders-deeper-discussion.md) — related
 - [A one-time talk-distribution seating diagnostic is associated with more balanced think-pair-share participation by end of term, per unquantified practitioner observation](talk-distribution-seating-diagnostic-observation.md) — related
 - [Collaborative group work gives students opportunities to hone arguments and explanations and builds confidence to share reasoning class-wide](a2l-group-work-confronts-models.md) — related
+- [Students can learn as much by observing peers learn a task as by performing it themselves (vicarious learning)](vicarious-learning-observing-peers-claim.md) — related

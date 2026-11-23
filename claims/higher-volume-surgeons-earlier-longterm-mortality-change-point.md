@@ -68,3 +68,5 @@ Results section reports the change-point outcomes before and after 14 cases for 
 - [R1 resection margin proficiency change points occurred earlier for higher-volume and younger surgeons than for their comparison groups](resection-margin-change-points-volume-age.md) — related
 - [Younger surgeons reached the proficiency change point for 1- to 5-year mortality at 13 cases versus 48 cases for older surgeons](younger-surgeons-earlier-longterm-mortality-change-point.md) — related
 - [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related
+- [Endoscopist proficiency gain curves show early change points for mortality: four cases for 30-day mortality in cancer EMR and two cases in non-cancer EMR](emr-proficiency-gain-curve-mortality-change-points.md) — related
+- [Low-volume and high-volume endoscopists learned at a similar rate, with low-volume endoscopists' early-case outcomes equivalent to high-volume endoscopists' over the first eight cases](similar-learning-rate-low-high-volume-endoscopists.md) — reports the opposite

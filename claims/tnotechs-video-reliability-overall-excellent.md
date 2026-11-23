@@ -50,3 +50,4 @@ Retrospective video analysis of 18 consecutive real trauma resuscitations at a l
 - [Averaging T-NOTECHS scores across three assessors yields excellent reliability for all five behavioral domains, whereas single-rater reliability is fair for two domains](tnotechs-three-rater-domain-reliability.md) — related
 - [T-NOTECHS inter-rater reliability varies widely across ED video-review studies, from moderate (ICC 0.48) to excellent (ICC 0.94)](tnotechs-reliability-variable-icc-ed-video.md) — related
 - [Video analysis may improve T-NOTECHS reliability compared with live observation, based on comparison with prior live-observer findings](video-analysis-improves-tnotechs-reliability-suggestion.md) — possibly the same claim (merge candidate)
+- [Construct-based tools (NOTECHS, OTAS) are the most commonly used construct-type team performance measures and showed moderate validity evidence (8–10 of 15) in this setting](construct-based-tools-moderate-validity-mis.md) — related

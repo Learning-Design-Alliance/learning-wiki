@@ -48,3 +48,4 @@ Construct-validity study in which a novice test group of seven participants perf
 - [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — related
 - [Torque signatures during the circular suture show sinus-like patterns that shift toward lower values during training, indicating improved symmetry and teamwork](torque-signature-patterns-tatme.md) — related
 - [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — related
+- [New hazardous complications of TaTME (urethral lesions, pelvic side-wall damage) are reported and the authors state they need further attention in education](tatme-hazardous-complications-need-education.md) — related

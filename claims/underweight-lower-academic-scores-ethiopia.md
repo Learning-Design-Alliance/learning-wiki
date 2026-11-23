@@ -55,3 +55,4 @@ Subgroup meta-analysis pooling two studies of Ethiopian schoolchildren. The revi
 - [School feeding programs show mixed, statistically nonsignificant pooled effects on academic performance (1.314, CI crossing null)](school-feeding-programs-nonsignificant-pooled-effect.md) — related
 - [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](normal-bmi-associated-academic-performance-ethiopia.md) — reports the opposite
 - [Underweight girls showed no statistically significant academic differences from normal-weight girls at any time point or over time](underweight-no-significant-academic-differences.md) — reports the opposite
+- [Underweight children were significantly less likely to score high academic performance than their normal-weight counterparts](underweight-associated-with-low-academic-performance.md) — possibly the same claim (merge candidate)

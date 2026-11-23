@@ -56,3 +56,5 @@ Cross-sectional observational evaluation of 64 trained health workers at their f
 - [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related
 - [After training and RDT introduction, antimalarial prescriptions fell from 56% to 33% of febrile patients while 76% were offered a test](rdt-introduction-reduced-antimalarial-prescriptions.md) — related
 - [The one-day RDT training cost US$101 per health worker, with over half spent on travel and per-diems](rdt-training-cost-101-per-worker.md) — related
+- [Practical training with observation of practice and problem solving enables CHWs to perform and correctly read rapid diagnostic tests](practical-training-improves-chw-rdt-performance.md) — related
+- [Short, competency-based training with on-site mentoring supports CHW performance in malaria case management](short-competency-based-chw-training-malaria.md) — related

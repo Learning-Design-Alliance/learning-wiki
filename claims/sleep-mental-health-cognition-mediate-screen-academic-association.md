@@ -58,3 +58,4 @@ PROCESS macro (Model 4) mediation analysis with 5,000 bootstrap resamples on the
 - [Mediation of the screen time–performance relationship through BMI and subjective health perception was not verified](bmi-subjective-health-mediation-not-verified.md) — related
 - [Screen time is significantly negatively correlated with Chinese, mathematics, English and overall academic performance among Chinese junior middle school students](screen-time-negative-academic-performance-ceps.md) — related
 - [Social relationship construction mediates the screen time–performance relationship more strongly than physical and mental health](social-constructs-stronger-mediator-than-health.md) — related
+- [Positive affect mediates the relation of average sleep quality and average physical activity with learning goal achievement; negative affect does not](positive-affect-mediates-average-health-behavior-learning-goal-relation.md) — related

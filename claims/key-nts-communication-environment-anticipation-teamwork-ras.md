@@ -53,3 +53,4 @@ Systematic review per PRISMA searching PubMed, PsycINFO, MEDLINE and EMBASE; sev
 - [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related
 - [Objective assessment and non-technical skills training were not uniformly included across the 29 comprehensive RAS curricula.](ras-curricula-objective-assessment-nts-not-uniform.md) — related
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
+- Robot-assisted abdominal surgery increases team demands that teams were not always able to address effectively, resulting in increased operating times — related

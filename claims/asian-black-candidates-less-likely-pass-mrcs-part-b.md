@@ -54,3 +54,4 @@ Multivariate logistic regression in the Part B cohort (final model N = 1125) adj
 - [OSCE station-level underperformance differs across ethnic minority subgroups](osce-station-disparities-vary-by-subgroup.md) — related
 - [Black and Asian students have significantly lower odds of achieving a first-class STEM degree than White students after multivariate adjustment](black-asian-lower-odds-first-class-stem-degrees.md) — related
 - [Raw ethnic disparities in UK medical students' extracurricular attainment largely attenuate after adjustment, though white students remain more likely to receive academic prizes](ethnic-disparities-attenuated-after-adjustment-prizes-persist.md) — related
+- [After controlling for application score and competition ratio, Asian and Black applicants have lower odds of allocation to a preferred foundation school than White applicants](ethnicity-predicts-foundation-allocation.md) — related

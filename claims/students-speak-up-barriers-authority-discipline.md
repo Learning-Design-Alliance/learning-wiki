@@ -48,3 +48,4 @@ Descriptive survey items on comfort speaking up administered to 255 medical stud
 ## Related Claims
 - [Most European final‐year medical students lack confidence in prescribing skills and feel inadequately prepared and dissatisfied with their undergraduate CPT education](low-confidence-and-dissatisfaction-with-cpt-teaching.md) — related
 - [Prior to the workshops, medical students felt uncomfortable initiating proactive screening conversations with adolescents about sensitive topics](medical-students-uncomfortable-initiating-adolescent-screening-preworkshop.md) — related
+- [Practising clinicians report the theoretical ideal of informed consent is exceedingly difficult, if not impossible, to enact in practice](informed-consent-ideal-impossible-in-practice.md) — related

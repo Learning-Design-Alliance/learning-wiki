@@ -90,3 +90,4 @@ Group comparison in the N = 70 study: participants with ≥ 6 months healthcare 
 - [German medical school applicants evaluate the open-ended online SJT Casper favorably, rating it fair and less stressful than other exams](casper-german-pilot-acceptable-test-takers.md) — related
 - [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
 - [Candidates with German as their first language performed better at the Hamburg MMI irrespective of station type (b = 0.16, p < 0.001)](native-german-speakers-better-mmi-all-station-types.md) — related
+- [Female participants scored significantly higher than males on the integrity SJT (d = 0.46)](integrity-sjt-gender-difference.md) — related

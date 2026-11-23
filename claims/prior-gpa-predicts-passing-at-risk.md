@@ -50,3 +50,4 @@ Univariate logistic regression in the same matched-sample study of 128 at-risk s
 - [Passing rate is significantly positively correlated with advising, GPA, and gender among at-risk students](passing-correlations-advising-gpa-gender.md) — possibly the same claim (merge candidate)
 - [HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA](hsgpa-strongly-predicts-college-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [Higher average learning goal achievement predicts higher odds of passing all six examinations](learning-goal-achievement-predicts-examination-success.md) — related

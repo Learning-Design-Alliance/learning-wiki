@@ -50,3 +50,4 @@ Comparison of year 1 video-rated Interview Rating Scale totals by gender in the 
 ## Related Claims
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [All-female committees rated male candidates approximately one point higher than female candidates in semi-structured medical school interviews, though the difference was not statistically significant](ff-committees-rated-male-candidates-one-point-higher.md) — related
+- [Female participants scored significantly higher than males on the integrity SJT (d = 0.46)](integrity-sjt-gender-difference.md) — related

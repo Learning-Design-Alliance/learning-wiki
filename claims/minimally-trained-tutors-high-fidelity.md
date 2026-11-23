@@ -53,3 +53,4 @@ Fidelity observations of 13.5% of tutoring sessions, twice each semester, by res
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
+- [Paraprofessional facilitators trained for 4.5 days plus weekly phone supervision adhered to over 90% of prescribed session content in a community pediatric weight control program](paraprofessional-high-content-adherence-community-weight-control.md) — related

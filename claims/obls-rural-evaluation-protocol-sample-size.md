@@ -66,3 +66,4 @@ The protocol specifies the analysis plan: knowledge as percentage correct, self-
 ## Related Claims
 - [The original OBLS curriculum, validated in a randomized controlled trial, significantly improved healthcare workers' knowledge and clinical competencies in managing maternal medical emergencies](obls-rct-improved-knowledge-competencies.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
+- [A pilot study reported a 15-second mean difference in total training time between the sequential and control groups, informing the sample size of 27 per group](pilot-15-second-difference-sample-size-claim.md) — related

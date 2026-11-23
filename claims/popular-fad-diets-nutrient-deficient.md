@@ -50,3 +50,4 @@ The article's narrative synthesis states that popular or fad diets targeting wei
 - [Four oral diseases are associated with food choices, dietary behaviors, and/or nutrient intakes](four-oral-diseases-diet-nutrient-associated.md) — related
 - [Oral dysfunction leads to modification of food choices with implications for energy and nutrient intakes and risk of malnutrition](oral-dysfunction-modifies-food-choices-malnutrition-risk.md) — related
 - [Nurses generally identified correct diet–disease associations, linking high fat intake with cardiovascular disease and excessive sugar with diabetes](nurses-diet-disease-associations.md) — related
+- [Low-GI education used as a supplement to standard care does not diverge from current dietary recommendations](low-gi-education-supplement-not-diverging-guidelines.md) — related

@@ -51,3 +51,4 @@ Observational analysis of a UK-representative genotyped TEDS sample of 4814 unre
 - [EduYears GPS correlates positively with GCSE (7.6% of variance) and with the selection factors ability (2.1%), achievement (5.2%) and family SES (6.6%)](eduyears-gps-correlates-selection-factors-gcse.md) — related
 - [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
+- [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related

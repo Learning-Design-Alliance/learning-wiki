@@ -67,3 +67,4 @@ Authors' interpretation citing external evidence (e.g. poor LLM performance on b
 ## Related Claims
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [Narrative synthesis: three studies found no significant exam-score difference between OBEs and CBEs, with differences emerging only under specific conditions](narrative-mixed-results-three-studies-no-difference.md) — related
+- [The authors argue UMAT practice effects may inflate performance without improving competence, a distinction requiring item-level analysis to resolve](umat-practice-performance-versus-competence.md) — related

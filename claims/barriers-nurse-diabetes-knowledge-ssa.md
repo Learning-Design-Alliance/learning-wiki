@@ -59,3 +59,5 @@ The review reports barriers identified in included studies, quoting that "Barrie
 - [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
 - [National audit data reveal large adherence gaps in fundamental stroke nursing practices such as fever treatment, insulin timing, and swallow screening](stroke-nursing-adherence-gaps-audit.md) — related
 - [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — related
+- Lack of knowledge about the guidelines was the most frequently self-reported barrier to adequate practice in asymptomatic hyperuricemia — related
+- Most clinicians caring for febrile children lack paediatric-specific training, and resource gaps including diagnostics, equipment, staffing, and medications impede assessment and treatment — related

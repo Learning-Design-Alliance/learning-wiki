@@ -50,3 +50,4 @@ The review attributes this finding to a prior systematic review of 13 articles, 
 - [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related
 - [Twenty-two studies support health education as a key nursing competency in biologics therapy](twenty-two-studies-health-education-competency.md) — related
 - [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md) — related
+- [Group patient education led by personnel skilled in the chosen educational model improved knowledge, empowerment or self-efficacy in diabetes and COPD reviews](group-education-skilled-leaders-improve-outcomes.md) — related

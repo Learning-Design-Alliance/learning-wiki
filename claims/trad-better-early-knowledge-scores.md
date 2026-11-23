@@ -47,3 +47,5 @@ Knowledge comparison from the Results section of the cluster randomized controll
 ## Related Claims
 - [Knowledge scores did not differ significantly between the LDHF/m-mentoring and TRAD arms at 3 and 12 months post-training](no-knowledge-difference-3-12-months.md) — related
 - [At 12 months post-training, the LDHF/m-mentoring arm had better scores for specific BEmONC skills including assisted normal birth, AMTSL, manual removal of placenta, bimanual and abdominal aortic compression, and PE/E management](ldhf-better-per-skill-scores-12-months.md) — related
+- [The authors hypothesize simulation-based LDHF/m-Mentoring will yield better satisfaction, knowledge and skill outcomes and greater cost-effectiveness than group-based training](ldhf-hypothesis-better-outcomes-cost.md) — related
+- [A cluster randomized trial is planned comparing LDHF/m-Mentoring versus traditional group-based training across 60 Nigerian health facilities (protocol, no results yet)](ldhf-vs-trad-cluster-rct-protocol.md) — related

@@ -55,3 +55,4 @@ Null findings from the same hierarchical model analyses in the cluster randomize
 - [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](iy-tcm-baseline-risk-moderation.md) — related
 - [The IY TCM program showed no significant effects on disruptive behavior or concentration problems in schools already implementing PBIS](iy-tcm-no-effect-disruptive-concentration.md) — possibly the same claim (merge candidate)
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related
+- [Prior trials of the Incredible Years TCM course alone detected changes in teacher behaviour but little evidence of change in teacher-rated child well-being](tcm-prior-trials-teacher-behaviour-change-limited-child-evidence.md) — related

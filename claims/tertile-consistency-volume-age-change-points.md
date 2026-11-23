@@ -52,3 +52,4 @@ Sensitivity analysis dividing the 36 surgeons into tertiles (median annual volum
 - [Younger surgeons reached the proficiency change point for 1- to 5-year mortality at 13 cases versus 48 cases for older surgeons](younger-surgeons-earlier-longterm-mortality-change-point.md) — a narrower finding that bears on this claim
 - [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related
 - [Surgeon proficiency score is significantly correlated with prior case volume but not with years of experience](sps-correlates-with-volume-not-experience.md) — related
+- [Endoscopist proficiency gain curves show early change points for mortality: four cases for 30-day mortality in cancer EMR and two cases in non-cancer EMR](emr-proficiency-gain-curve-mortality-change-points.md) — related

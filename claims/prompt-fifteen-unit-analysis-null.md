@@ -47,3 +47,4 @@ Exploratory as-implemented analysis including the three non-randomised units tha
 ## Related Claims
 - [PROMPT training implementation showed no significant reduction in term babies with Apgar<7 at 5 min in the intention-to-treat analysis of 12 Scottish maternity units](prompt-itt-non-significant-apgar-reduction.md) — related
 - [The training program produced no statistically significant change in maternal mortality rate or perinatal mortality rate separately](no-change-maternal-perinatal-mortality-separately.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

@@ -189,3 +189,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Students using explicit strategies in mixed-ability collaborative groups of three with rotating roles benefit more in problem-solving than when working alone](cooperative-groups-three-benefit-more-than-alone.md) — a narrower finding that bears on this claim
 - [The best member's individual-round performance correlates with team-round outcomes in two-stage physics exams (r = 0.70)](best-member-score-correlates-team-outcome-two-stage.md) — related
 - [Personalized assignments promoted student collaboration and discussion while making mechanical copying much less likely](personalized-assignments-promote-collaboration-reduce-copying.md) — related
+- Virtual team size predicts decision-making effectiveness, with social loafing observed even in four-member teams — related

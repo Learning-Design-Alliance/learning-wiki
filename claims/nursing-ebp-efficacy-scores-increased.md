@@ -53,3 +53,4 @@ Pre-post evaluation of a multifaceted intervention (lectures, individual mentori
 - [A web-based EBP tool usable from computer, smartphone, or iPad significantly improved overall research skills among nursing and nutrition student groups](web-based-ebp-tool-improved-research-skills.md) — related
 - [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related
 - [Nurse self-rated attitudes toward EBP were more positive post-intervention than pre-intervention in one uncontrolled pre-post study](web-based-ebp-training-improved-nurse-attitudes.md) — related
+- [School nurses report moderate self-efficacy for EBP, lowest for reading English research articles](school-nurses-moderate-self-efficacy-ebp.md) — related

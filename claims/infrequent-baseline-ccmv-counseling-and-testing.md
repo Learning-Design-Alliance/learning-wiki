@@ -68,3 +68,4 @@ Self-reported baseline testing frequency from the same pre-intervention survey, 
 - [Among paired respondents, obstetric providers' cCMV knowledge rose by 9.67 points from pre-test to post-test after a 20-minute educational presentation, in one uncontrolled pre-post study](brief-presentation-increased-provider-ccmv-knowledge.md) — related
 - [After the educational session, all responding providers reported intent for more antenatal cCMV counseling and testing, in a single-group pre-post study](postintervention-increased-counseling-testing-intent.md) — related
 - [Obstetric providers show low baseline knowledge of congenital cytomegalovirus, answering just under 50% of knowledge items correctly](obstetric-provider-low-baseline-ccmv-knowledge.md) — related
+- [Prevention counseling delivered by healthcare providers is reported to be highly effective at raising CMV awareness among pregnant women](provider-counseling-raises-cmv-awareness.md) — related

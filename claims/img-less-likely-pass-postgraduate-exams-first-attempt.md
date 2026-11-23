@@ -59,3 +59,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [Ethnicity effects on examination performance persist after taking performance at previous assessment stages into account](ethnicity-effects-persist-after-prior-performance-adjustment.md) — related
 - [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
 - [Black and Asian students have significantly lower odds of achieving a first-class STEM degree than White students after multivariate adjustment](black-asian-lower-odds-first-class-stem-degrees.md) — related
+- [IMG doctors who passed the PLAB exam perform less well than UK-trained counterparts in subsequent competence reviews](plab-imgs-perform-less-well-than-uk-graduates.md) — related

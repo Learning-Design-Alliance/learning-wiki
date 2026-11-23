@@ -46,6 +46,7 @@ Based on the process evaluation, the report identifies two key areas for improvi
 ## Related Strategies
 
 - [Monitor tutor performance, increase consistency of tuition, and involve classroom teachers in planning and managing tuition](tutor-trust-consistency-and-teacher-involvement-strategy.md)
+- [TCM course explicit goals for teacher learning](tcm-explicit-goals-strategy.md)
 
 ## Examples
 -

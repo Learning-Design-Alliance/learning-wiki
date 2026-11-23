@@ -48,3 +48,5 @@ Prospective randomised non-inferiority trial of 558 children aged 3–20 years a
 - [In children aged 3–7 years, the confidence benefit appeared only in the combined videos group, with no between-group differences](age-3-7-subgroup-confidence-gain-combined-only.md) — possibly the same claim (merge candidate)
 - [Older children are less likely and male children more likely to need repeated MRI sequences](age-gender-predict-repeated-mri-sequences.md) — related
 - [Brain scans had higher proportions of children needing repeated MRI sequences than musculoskeletal scans](brain-scans-higher-repeat-proportion-than-musculoskeletal.md) — related
+- [Training shows no effect on successful MRI scanning in subgroups of studies published before and after 2008](pre-mri-training-no-effect-before-after-2008-subgroups.md) — related
+- [Pre-MRI training does not significantly affect successful MRI scanning completion in children](pre-mri-training-no-successful-scanning-effect.md) — related

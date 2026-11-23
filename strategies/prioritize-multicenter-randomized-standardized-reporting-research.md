@@ -59,6 +59,7 @@ The review identifies key methodological gaps in the current evidence base and s
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 - [Fund a multi-institutional study to identify optimal duty hours balancing curriculum objectives, continuity of care, and team training](multi-institutional-optimal-duty-hours-study.md)
 - [Adopt delayed post-tests and longitudinal designs as standard practice when evaluating LLM writing interventions](delayed-post-tests-standard-evaluation-strategy.md)
+- [Design standards for future studies of surgical team performance in minimally invasive surgery](future-team-performance-study-design-standards.md)
 
 ## Examples
 -

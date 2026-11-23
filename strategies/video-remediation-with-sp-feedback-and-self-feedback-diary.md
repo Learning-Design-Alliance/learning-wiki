@@ -53,6 +53,7 @@ The article recommends, in its conclusion, a remediation package in which "Immed
 - [Use standardized patient encounters with immediate faculty feedback and peer observation for communication skills practice](sp-encounters-immediate-feedback-peer-observation-strategy.md)
 - [Offer conversation training with simulated patients to prepare international medical students for patient encounters](conversation-training-simulated-patients-international-students.md)
 - [Use feedback after standardized patient encounters and flexible delivery modes to improve future clinic-based STI training](sp-feedback-and-flexible-delivery-sti-training-strategy.md)
+- [Use SP feedback, video review, and facilitated group debriefing after each simulated encounter to build HCW skills](sp-encounter-feedback-debriefing-cycle.md)
 
 ## Examples
 -

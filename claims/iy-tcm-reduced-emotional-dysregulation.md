@@ -55,3 +55,4 @@ Group RCT with 105 teachers and 1817 students (K–3) in nine urban schools; thr
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](iy-tcm-baseline-risk-moderation.md) — related
+- [Prior trials of the Incredible Years TCM course alone detected changes in teacher behaviour but little evidence of change in teacher-rated child well-being](tcm-prior-trials-teacher-behaviour-change-limited-child-evidence.md) — reports the opposite

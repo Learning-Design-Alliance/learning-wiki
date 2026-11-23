@@ -47,3 +47,4 @@ Multilevel modelling of the national UKCAT-UKFPO linked cohort, adjusted for con
 ## Related Claims
 - [Having attended a fee-paying school independently predicts passing MRCS Part B at the first attempt (OR 1.51)](fee-paying-school-independent-predictor-mrcs-part-b.md) — related
 - [Differential attainment on the UKFPO SJT is relatively small, similar to the EPM, and modest compared with other selection tools](sjt-differential-attainment-modest.md) — related
+- [Applicants from fee-paying schools have lower odds of preferred allocation despite similar application scores (OR 0.77)](fee-paying-school-lower-allocation-odds.md) — related

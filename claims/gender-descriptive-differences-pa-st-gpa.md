@@ -54,3 +54,4 @@ Gender-comparative descriptive statistics from the accelerometer and GPA data of
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
 - [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — related
+- [Boys report later weekend bedtimes than girls in the sample](boys-later-weekend-bedtimes-than-girls.md) — related

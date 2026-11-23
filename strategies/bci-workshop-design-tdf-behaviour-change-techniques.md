@@ -49,6 +49,8 @@ The workshops implemented GP delivery of an enhanced OA consultation through a t
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Design prescribing-safety interventions around behaviour-change techniques matched to the relevant TDF domains](bct-targeting-tdf-domains-prescribing.md)
 - [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
+- [Address GP pain-management knowledge gaps through inter-professional education, including ECHO-model telementoring, combined with reimbursement and organisational incentives](interprofessional-education-pain-dementia-strategy.md)
+- [Develop and evaluate a local training program in normal vaginal birth without episiotomy, addressing attitudes and evidence generalisability](local-episiotomy-training-program-strategy.md)
 
 ## Examples
 -

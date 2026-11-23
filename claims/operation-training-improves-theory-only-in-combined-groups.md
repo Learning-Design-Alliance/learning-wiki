@@ -49,3 +49,4 @@ Paired sample t-tests comparing first and second theoretical exams within each t
 - [Combined virtual-then-jaw (V-J) training yields higher second theoretical examination scores than single-method training in preclinical implant education](vj-combined-training-higher-second-theory-scores.md) — related
 - [Control-group SIMODONT scores were slightly but not significantly higher from the first to the second examination after practice with a dental mirror and dentognathic model](control-mirror-practice-no-significant-gain.md) — related
 - [The V-J order may outperform the J-V order on theoretical scores, but not on operation scores or implant accuracy](vj-order-better-than-jv-for-theory-only.md) — related
+- [No conclusive evidence exists to recommend one paramedic training method over another; most extended-skill studies combined theory and practical training](no-evidence-preferred-paramedic-training-method.md) — related

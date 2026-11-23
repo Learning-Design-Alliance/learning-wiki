@@ -50,7 +50,8 @@ The article's recommendations for practice, offered as tentative given the singl
 - [Despite conscientious study of written examiner information, OSCE examiners' baseline expectations of student performance remain uncertain because their understanding stays abstract until they judge real performances](../claims/written-preparation-leaves-examiner-expectations-uncertain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [For single-examiner examinations, consider video-recording with subsequent review and re-scoring of flagged examiners](video-review-single-examiner-bias-check.md)
 
 ## Examples
 -

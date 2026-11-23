@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 799 claims (427 show a difference, 197 mixed, 175 no difference) · 558 studies (297 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 558 report an effect size · 791 claims rest on one study
+> **Evidence** · 801 claims (428 show a difference, 197 mixed, 176 no difference) · 560 studies (299 associational, 182 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 79 of 560 report an effect size · 793 claims rest on one study
 
 ## How to read this page
 
@@ -838,6 +838,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender-by-mobile-use interaction on physical fitness: gender differences vanish in the high-use group](../claims/gender-fitness-differences-vanish-high-mobile-use.md) [~M] — an instructional effect differs by group
 - [Girls achieve higher school grades than boys, while boys show faster Flanker reaction times, in this South African sample](../claims/sex-differences-grades-flanker-speed.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls outperform boys in Spanish and English regardless of mobile-phone-use level](../claims/girls-better-language-marks-regardless-mobile-use.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys report later weekend bedtimes than girls in the sample](../claims/boys-later-weekend-bedtimes-than-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex-stratified analysis did not point to different effects of ADHD polygenic scores between boys and girls](../claims/adhd-pgs-no-sex-difference-effects.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

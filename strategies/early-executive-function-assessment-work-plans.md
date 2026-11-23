@@ -54,6 +54,7 @@ The authors recommend evaluating children's executive function levels early in s
 - [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
 - [Implement comprehensive early-warning evaluation systems before recommending early school entry](early-warning-systems-school-entry-guidance.md)
 - [Target youth with NSSD from resource-depleted communities for executive-function screening and monitor all NSSD youth for academic difficulties](nssd-screening-by-neighborhood-resources-strategy.md)
+- [Raise future competence levels through health-focused and early-environmental interventions including pre-school education, reading to children, and cognitive training](health-and-preschool-interventions-competence.md)
 
 ## Examples
 -

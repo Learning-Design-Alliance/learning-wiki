@@ -59,3 +59,4 @@ Random-effects meta-analysis pooling mean differences on standardized mathematic
 - [The greatest knowledge gains occurred in the areas where teachers' knowledge was poorest: mathematics difficulties, poor social skills and inattention after preterm birth](largest-knowledge-gains-math-social-inattention.md) — related
 - [Achievement-test scores were lowest in ELGANs, while LPT, PT, and term infants scored similarly](elgans-lowest-scores-other-ga-groups-similar.md) — related
 - [Preterm birth is associated with lower total and core subject GPA in lower secondary education, with the largest disparity in mathematics (0.71 grade points higher for term vs. extremely preterm)](preterm-lower-lse-gpa-mathematics.md) — related
+- [Preterm children score 0.71 SD below full-term peers in arithmetic](preterm-arithmetic-deficit-0-71-sd.md) — related

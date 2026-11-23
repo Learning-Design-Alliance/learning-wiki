@@ -57,6 +57,7 @@ The article recommends that healthcare organizations implement educational inter
 - [Implement targeted interventions to develop nurses' therapeutic communication skills as a route to strengthening spiritual care competence](interventions-develop-nurse-therapeutic-communication-skills.md)
 - [Nursing managers should reduce workload, improve employment status, and provide quality in-service education to improve nurses' clinical competence](manager-strategies-improve-nurse-clinical-competence.md)
 - [Promote standardized training pathways and ongoing professional development for APNs to support skill standardization](standardize-apn-training-pathways-strategy.md)
+- [Improve leadership skills of nurse coordinators to foster an evidence-based practice culture in primary health care](nurse-coordinator-leadership-training-ebcp-strategy.md)
 
 ## Examples
 -

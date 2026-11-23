@@ -46,3 +46,4 @@ Pattern-mixture sensitivity analysis addressing attrition of 6 of 46 enrolled st
 
 ## Related Claims
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [Learning effects model estimates were robust to missing experience data and to overly influential observations from sparse peripheral experience regions](rolarr-learning-model-robustness-checks.md) — related

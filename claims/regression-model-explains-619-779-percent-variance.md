@@ -54,3 +54,4 @@ Same stepwise regression model on the 150-participant sample; Table 5 reports Σ
 - [High-risk students (high stress plus elevated cortisol) show increased risk of lower GPA in both semesters (RR 3.10 and 2.54)](high-risk-profile-lower-gpa-two-semesters.md) — related
 - [In the Language model, executive function deficits (β = −0.461) outweighed physical activity (β = 0.160) and female gender (β = 0.244)](language-model-ef-strongest-beta.md) — related
 - [High levels of the stress hormone cortisol inhibit memory encoding and retrieval and disrupt synaptic plasticity, while mild elevations can boost memory performance](cortisol-high-levels-inhibit-memory-plasticity.md) — related
+- [Greater physical activity engagement is associated with lower life stress and higher academic performance in adolescents](physical-activity-stress-academic-performance.md) — related

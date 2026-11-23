@@ -50,3 +50,5 @@ This conclusion rests on the whole fidelity and competency assessment: only 72.4
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — a narrower finding that bears on this claim
 - [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related
+- [Nurses with more extensive MI training and/or feedback on their own sessions tended to have higher MITI scores, with one exception](mi-training-feedback-associated-higher-miti-scores.md) — related
+- [Primary care nurses trained in MI did not achieve beginning proficiency in all MITI summary scores in any recorded session, and two nurses achieved it on no summary score at all](primary-care-nurses-no-full-miti-beginning-proficiency.md) — related

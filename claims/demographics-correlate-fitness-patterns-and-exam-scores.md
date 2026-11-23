@@ -52,3 +52,4 @@ Bivariate correlation analysis preceding the main ANCOVAs in the nationwide data
 - [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](sex-does-not-moderate-bmi-change-effect.md) — related
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
 - [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — related
+- [Students high-fit in aerobic fitness in both years 1 and 3 outperformed all other aerobic-fitness-change groups on the BCTJH exam](aerobic-hh-group-outperforms-exam.md) — related

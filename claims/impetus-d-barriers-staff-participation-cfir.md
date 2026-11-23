@@ -62,3 +62,4 @@ Qualitative process evaluation coding interview and survey data in NVivo 12 agai
 - [Workshop participants rated barriers across all five CFIR domains as most important for implementing the new nursing role](cfir-barriers-new-nursing-role.md) — related
 - [A cluster RCT protocol will test whether IMPETUS-D reduces hospital transfers and deaths in hospital among residents with advanced dementia by 20% over 6 months](impetus-d-cluster-rct-protocol-20-percent-reduction.md) — related
 - Approximately 18% of organizations ever recognized by the CDC had voluntarily discontinued participation in the DPRP, citing changed priorities, staffing turnover, and lack of funding — related
+- Mississippi practitioners preferred trainings and leadership prioritization as top incentives for using EBDM — related

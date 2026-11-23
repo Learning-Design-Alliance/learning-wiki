@@ -69,3 +69,4 @@ SEM in ALSPAC (N = 5,099) with ADHD symptoms (ages 7–13) mediating PGS-NDD eff
 - [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related
 - [Academic attention problems do not mediate a long-term relationship between academic-media multitasking and achievement](no-indirect-long-term-effect-via-attention-problems.md) — related
 - [Neither child sex nor early childcare attendance moderates the genetic pathways to academic achievement](no-sex-childcare-moderation-genetic-pathways.md) — related
+- [Exploratory mediation analysis suggests the association of ADHD polygenic scores with GCSE outcomes is partly mediated through IQ (49%) and, to a lesser extent, through childhood ADHD symptoms (16%)](adhd-pgs-education-mediation-iq-symptoms.md) — related

@@ -57,3 +57,4 @@ The review reports, citing Sangster et al. and Diab and Elgahsh, that connectivi
 - [Connectivity and access problems during online study were accompanied by self-reported depression, stress, and anxiety among students in developing countries](online-access-problems-student-psychological-distress.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — possibly the same claim (merge candidate)
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — possibly the same claim (merge candidate)
+- [Continuing medical education is available at all sites but often inaccessible to clinicians due to time constraints, distance, and understaffing](cme-access-barriers-kenyan-clinics.md) — related

@@ -54,3 +54,4 @@ Prior cluster RCT (103 children, 17 intervention and 18 SAU schools) with linear
 - [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related
 - [Demographics, child IQ, language, ASD diagnostic symptoms, and school SES did not moderate schoolMAX treatment outcomes on any of the three measures](schoolmax-no-moderation-demographics-iq-language-ses.md) — related
 - [Baseline adaptive skills moderated the ASD-symptom outcome, with children lowest in adaptive skills showing greater symptom reduction](adaptive-skills-moderate-srs2-outcome.md) — related
+- [Protocol hypothesizes TeachTown will improve cognitive ability, language, school readiness, and social skills of students with autism](teachtown-student-outcome-hypotheses.md) — related

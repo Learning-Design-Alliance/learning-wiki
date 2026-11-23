@@ -95,6 +95,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 - [Four-module progressive teacher training curriculum totaling 72 hours with optional authoring module](four-module-minecraft-teacher-training-bangladesh.md)
 - [Support clinician behaviour-change skill learning with a comprehensive training package beyond a one-off workshop](comprehensive-multi-component-clinician-training-package.md)
+- [Two-day didactic training plus webinars and monthly consultation delivered by program developers to support CAI implementation](teachtown-training-consultation-strategy.md)
 
 ## Examples
 -

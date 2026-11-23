@@ -47,3 +47,4 @@ Subgroup analysis of scanned body region within the randomised trial, comparing 
 ## Related Claims
 - [Older children are less likely and male children more likely to need repeated MRI sequences](age-gender-predict-repeated-mri-sequences.md) — related
 - [An interactive educational animated video alone is non-inferior to combined regular and interactive videos for children's MRI cooperativeness outcomes](interactive-video-noninferior-combined-videos-mri.md) — related
+- [Training shows no effect on successful MRI scanning in subgroups of studies published before and after 2008](pre-mri-training-no-effect-before-after-2008-subgroups.md) — related

@@ -49,3 +49,4 @@ Framework analysis of four practice-based focus groups and one in-depth intervie
 - [GPs identify patient-related, communication and organisational barriers to youth suicide prevention in primary care](gp-barriers-youth-suicide-prevention-primary-care.md) — related
 - [GPs struggle to distinguish imminent suicide risk from normal adolescent changes and from a 'cry for help'](gps-distinguishing-truly-suicidal-vs-cry-for-help.md) — related
 - [Wide variations exist among GPs in the understanding and operationalisation of suicide risk](wide-variations-gp-risk-operationalisation.md) — related
+- In all four study countries a substantial proportion (over 60%) of young people aged 16–25 visit their general practitioner annually — related

@@ -71,3 +71,4 @@ Per‐course descriptive results (Table 2) for the 50 maternal health nursing st
 - [HFS/curriculum integration significantly improves OSCE performance in vaginal delivery management (81% vs. 50%)](hfs-integration-vaginal-delivery-osce.md) — related
 - [HFS/curriculum integration significantly improves knowledge of immediate newborn care (80% vs. 54%)](hfs-integration-newborn-care-knowledge.md) — related
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
+- Nursing and MCH nursing cadres showed clear distinctions in scope of practice between the nursing and maternal/child health career tracks — related

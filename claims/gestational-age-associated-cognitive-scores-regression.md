@@ -54,3 +54,4 @@ Multiple regression on the preterm cohort with GA at birth among the independent
 - [About one in ten preterm school-age children assessed shows low or borderline IQ, with mean total IQ near the population mean](preterm-iq-low-borderline-10-9-percent.md) — related
 - [Several neonatal and sociodemographic variables show no association with school-age outcomes in this cohort](preterm-null-associations-apgar-income-schooling-ventilation.md) — related
 - [The impact of maternal social factors on achievement-test scores is similar across all gestational-age groups (no GA × social factors interaction)](social-factor-effect-similar-across-ga-groups.md) — related
+- [Gestational age, PVL and IQ differences explain heterogeneity, but GA and PVL effects hinge on one extreme study](meta-regression-ga-pvl-iq-moderators.md) — related

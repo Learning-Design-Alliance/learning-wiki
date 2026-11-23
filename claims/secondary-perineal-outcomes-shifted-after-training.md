@@ -72,3 +72,4 @@ Regression analysis among primiparous women found the phase-3 rise in second-deg
 - [Effects of the animated video intervention varied across hospitals, including a significant increase in Hospital 3](video-intervention-effects-varied-across-hospitals.md) — related
 - [Episiotomy rates in nonintervention hospitals did not change significantly during either intervention phase](nonintervention-hospitals-episiotomy-unchanged.md) — related
 - [The e-learning video's effect on OASIS was significant only among parous women, whereas blended learning was significant for both primiparous and parous women](training-effect-moderated-by-parity.md) — related
+- [Lack of training in minimising tears and keeping the perineum intact is the most commonly reported obstacle to reducing episiotomy rates](training-gap-obstacle-episiotomy-reduction.md) — related

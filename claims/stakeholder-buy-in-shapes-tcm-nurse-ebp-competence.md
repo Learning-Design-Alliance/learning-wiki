@@ -52,3 +52,4 @@ In the opportunity theme of the interview study, participants described healthca
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
 - [TCM specialist nurses report that limited foundational knowledge and skills, including statistics and English, undermine their confidence in EBP competence, while clinical and TCM expertise supports evidence use](tcm-specialist-nurses-capability-gaps-ebp-competence.md) — related
 - [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related
+- School nurses perceive multiple factors influencing EBP implementation in schools, including English-language barriers and lack of skills, support, and resources — related

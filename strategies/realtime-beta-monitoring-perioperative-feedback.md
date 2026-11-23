@@ -37,7 +37,8 @@ The authors propose displaying the fluctuation index β on a surgical monitor in
 - real-time surgical skill self-evaluation and perioperative improvement
 
 ## Related Strategies
-- 
+
+- [Prototype AI feedback system showing surgeons their skill strengths and weaknesses quantitatively](ai-feedback-prototype-strengths-weaknesses.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Fisher exact test comparisons of complication occurrence between periods. Minor 
 - [The apprenticeship model of endoscopy training carries patient-safety, efficiency, and feedback-consistency drawbacks](apprenticeship-model-drawbacks-endoscopy.md) — related
 - [Complication rates for laparoscopic pyloromyotomy decreased significantly after the first 35 procedures, indicating a learning curve of about 35 operations](lp-pyloromyotomy-learning-curve-35-procedures.md) — related
 - [Severe complications (perforations and conversions) were concentrated in the first 35 laparoscopic pyloromyotomy procedures](lp-severe-complications-first-35.md) — related
+- [The BMI–operative time correlation in TEP hernioplasty is statistically significant only during the learning period](bmi-tep-correlation-significant-only-learning-period.md) — related

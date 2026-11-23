@@ -62,3 +62,4 @@ Multiple linear regression on the full sample of 3528 nurses with variables sele
 - [Acute care nurses with a clinical practice guideline in their working department were about eleven times more likely to have adequate knowledge of ACS than nurses without guidelines](clinical-guidelines-presence-associated-acs-knowledge.md) — related
 - [Gender, age, professional title, work setting and previous training independently predict PICC maintenance knowledge in a generalised linear model](glm-factors-picc-maintenance-knowledge.md) — related
 - [Lower job titles, fewer years of experience, lower education and lower-level hospitals were associated with better eye care practices, contrary to the knowledge dimension pattern](junior-nurses-better-eye-care-practices-contrary-pattern.md) — related
+- Junior professionals score higher on professional knowledge while seniors score higher on professional experience and family-involvement skills — reports the opposite

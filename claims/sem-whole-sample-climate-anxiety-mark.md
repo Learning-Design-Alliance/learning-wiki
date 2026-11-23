@@ -48,3 +48,4 @@ Cross-sectional SEM analysis of 558 pre-service PE teachers (whole sample, Hypot
 ## Related Claims
 - [Male students show stronger causal effects of motivational climate on anxiety and average mark than female students](male-stronger-climate-effects.md) — a narrower finding that bears on this claim
 - [The two motivational climates show a negative reciprocal relationship in the whole sample and in both gender submodels](negative-reciprocal-task-ego-climates.md) — related
+- [Ego-involving motivational climate is negatively associated with adolescent academic performance](ego-climate-worse-academic-performance-adolescents.md) — reports the opposite

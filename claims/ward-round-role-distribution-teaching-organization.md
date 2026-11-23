@@ -48,3 +48,4 @@ Role-contrast analysis of the tasks-and-skills interview part, reported with Fig
 - [Clinical skills are described far more frequently in surgical than psychiatric ward round interviews](clinical-skills-surgery-vs-psychiatry.md) — related
 - [Ten literature-based competences are described by over 70% of interviewees in both surgery and psychiatry](ward-round-ten-common-competences.md) — related
 - [Experts spontaneously mention only a subset of competences when describing the ward round process, suggesting limited awareness of others](spontaneous-competence-focus-awareness-gap.md) — related
+- [In simulated ward rounds, junior surgical residents leading a SWR manage fewer integral issues and commit more adverse events than senior residents](junior-residents-simulated-swr-fewer-issues.md) — related

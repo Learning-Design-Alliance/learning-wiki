@@ -53,3 +53,4 @@ Cluster randomised controlled trial with wait-list control; intention-to-treat a
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related
 - [The teacher training component alone showed no statistically significant effect on attainment](teacher-training-alone-null-effect.md) — related
 - [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related
+- [The free school breakfast intervention showed no evidence of an effect on educational outcomes in an intention-to-treat analysis](breakfast-intervention-no-educational-outcome-effect.md) — related

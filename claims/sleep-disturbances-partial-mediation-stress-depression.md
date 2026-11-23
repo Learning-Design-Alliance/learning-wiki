@@ -53,3 +53,4 @@ In the regression analysis (n = 93), "the regression coefficient (standardized b
 - [Intervention adherence, sleep quality improvement, and stress reduction were identified as factors associated with outcomes](adherence-sleep-stress-associated-with-outcomes.md) — related
 - [Academic stress among students during COVID-19 significantly generates depression among students](covid-academic-stress-generates-depression.md) — related
 - [Depression among students during COVID-19 has a significant negative effect on their academic performance](covid-depression-negative-academic-performance.md) — related
+- [Positive affect mediates the relation of average sleep quality and average physical activity with learning goal achievement; negative affect does not](positive-affect-mediates-average-health-behavior-learning-goal-relation.md) — related

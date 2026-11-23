@@ -73,3 +73,4 @@ Same t-test comparison of weekend wake-up times between performance groups. The 
 - [Average performers take much longer to fall asleep than Excellent performers](average-performers-longer-sleep-latency.md) — related
 - [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](lower-mad-se-sol-tst-high-scorers.md) — related
 - [Students with higher final exam scores show significantly higher actigraphy sleep efficiency and shorter sleep onset latency than lower-scoring peers](higher-exam-scores-higher-se-shorter-sol-actigraphy.md) — related
+- [Poorer school grade average correlates with smaller grey matter volume in medial brain regions within weekend wake-up and bedtime ROI masks, but not the weekday time-in-bed mask](school-grades-medial-gmv-correlation.md) — related

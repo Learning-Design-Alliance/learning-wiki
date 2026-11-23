@@ -51,3 +51,5 @@ As-implemented sensitivity analysis of the same stepped-wedge trial, using the d
 - [Duration of exposure to PROMPT training did not affect the Apgar<7 at 5 min outcome](prompt-exposure-duration-null.md) — related
 - [Local implementation of PROMPT varied widely across units, including omission of core components such as fetal monitoring](heterogeneous-local-prompt-implementation.md) — related
 - [Simulation-based obstetric team training shows a positive but statistically non-significant effect on Apgar scores less than 7 at 5 minutes, with moderate certainty evidence](obstetric-team-training-apgar-score-no-significant-effect.md) — related
+- [Power calculation: with 12 units, three intervention steps and average cluster size of 1200 births per semester, the trial can detect a 35% or greater reduction in the Apgar <7 rate](thistle-power-detect-35-percent-reduction.md) — related
+- [The THISTLE stepped-wedge cluster randomised trial is designed to test whether PROMPT training reduces the rate of term infants born with 5-min Apgar scores <7 at scale across Scotland](thistle-stepped-wedge-prompt-low-apgar-protocol.md) — related

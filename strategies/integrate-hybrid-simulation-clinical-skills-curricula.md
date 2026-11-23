@@ -54,6 +54,7 @@ The authors recommend hybrid simulation as "a valuable complement to clinical sk
 - [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 - [Incorporate 3D-printed temporal bone models into surgical training programs to accelerate the learning curve](3d-printed-temporal-bone-training-programs.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
+- [Use simulated ward environments to train and assess surgical ward round processes through repeated safe practice](simulated-ward-round-training-strategy.md)
 
 ## Examples
 -

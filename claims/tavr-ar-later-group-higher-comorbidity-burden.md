@@ -51,3 +51,4 @@ Baseline characteristic comparison between chronological groups (Table 1): pulmo
 - [Scores improved significantly at six-month re-evaluation in the three simulator-based scenarios (hypertensive crisis, asthmatic crisis, chronic renal failure)](simulator-scenarios-significant-gains.md) — related
 - [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
 - [Device success and 30-day mortality did not differ significantly between early- and late-experience TAVR groups for native AR](tavr-ar-outcomes-not-different-across-learning-curve.md) — related
+- Baseline demographics and comorbidities did not differ significantly between the two surgeon-experience groups — reports the opposite

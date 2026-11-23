@@ -64,6 +64,7 @@ The review concludes that several types of school-based PA can be recommended to
 - [Future sedentary-behavior interventions should target both school and extra-school settings and vary break type, duration and intensity](target-school-and-extra-school-settings-strategy.md)
 - [Embed brief HIIT-style vigorous activity bursts into regular PE lessons as a scalable school physical activity approach](hiit-style-vpa-bursts-in-pe-strategy.md)
 - [Incorporate varied exercise modalities, including resistance exercise, into school settings to support academic performance and health](varied-exercise-modalities-in-schools-strategy.md)
+- [Embed short vigorous activity bursts into existing PE lessons to raise adolescent activity without disrupting curriculum delivery](embed-vpa-bursts-within-pe-lessons-strategy.md)
 
 ## Examples
 -

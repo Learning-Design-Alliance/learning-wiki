@@ -50,3 +50,4 @@ Feasibility outcomes from a pilot cluster randomized clinical trial in Nepal wit
 - [Diagnostic accuracy in standardized role-plays at 16 months was 78.1% in RESHAPE versus 66.7% in control in a pilot trial](reshape-roleplay-diagnostic-accuracy.md) — related
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
 - [Implicit stigma (Implicit Association Test) showed no within-group improvement in either RESHAPE or control groups](reshape-iat-no-improvement.md) — related
+- [A pilot study found it feasible to organise the PBL patient education study in primary health care, with 53% of eligible patients joining](cor-prim-pilot-feasible-in-phc.md) — a narrower finding that bears on this claim

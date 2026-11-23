@@ -52,3 +52,4 @@ Heart-rate monitoring (Polar RS400) in a subset of eight participants across all
 - [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related
 - [No preliminary effectiveness of PAL training on students' sedentary time was demonstrated in either study, despite a measured increase in PAL delivery in the pilot](no-preliminary-effectiveness-sedentary-time.md) — related
 - [Mean heart rate is higher in Assembly (109.4 bpm) than in PE (101.3 bpm), with both courses showing shorter NNI intervals than other courses](assembly-heart-rate-exceeds-pe.md) — related
+- [A pilot with fifteen adolescents wearing heart rate monitors indicated that the intervention's warm-up and infusions produced heart rates in the vigorous zone](vpa-warm-up-infusions-pilot-heart-rate-vigorous-zone.md) — related

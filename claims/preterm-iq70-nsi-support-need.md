@@ -73,3 +73,4 @@ Authors' interpretation of Table 3 patterns: NSI children differed significantly
 - [The odds of school difficulties at age 18 increase stepwise as preschool IQ decreases in children born extremely preterm or with extremely low birthweight](iq-stepwise-school-difficulties-ept.md) — related
 - [In the full cohort, very preterm children had more problems with reading, text production, mathematics, independent work and persistency than controls, but not with social skills or group work](preterm-academic-classroom-problems-cohort.md) — related
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
+- [Preterm children are 2.85 times more likely to receive special educational assistance](preterm-special-educational-needs-rr-2-85.md) — related

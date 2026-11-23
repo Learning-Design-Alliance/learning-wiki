@@ -91,3 +91,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related
 - [ONN competency scores differ significantly by nurse experience, training frequency, age, and education, with the largest difference for experience (d = 1.73)](onn-competency-differs-by-experience-training-age-education.md) — related
 - [Age, weekly pressure ulcer care volume, education participation, and self‐perceived adequacy predict ICU nurses' pressure ulcer self‐efficacy](predictors-of-nurse-pu-self-efficacy.md) — related
+- Primary care nurses with shorter professional experience self-report higher evidence-based practice knowledge and skills than more experienced nurses (p = 0.018 overall; Knowledge/Skills p = 0.023) — reports the opposite

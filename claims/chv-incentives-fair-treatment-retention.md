@@ -72,3 +72,4 @@ Same synthesis, non-monetary incentives. Providing "moral and verbal support, to
 - [Voluntary external supervisors were critical to sustaining the program, requiring ethical and career incentives when economic resources are scarce](voluntary-supervisor-incentives-scarce-resources.md) — related
 - [Performance-based financial incentives sometimes led CHWs to neglect unpaid tasks](performance-based-incentives-neglect-unpaid-tasks.md) — reports the opposite
 - [A stable and supportive social, material and political context facilitates CHV intervention success, while unsupportive contexts prevent motivation mechanisms from firing](chv-performance-contextual-moderators.md) — a broader claim this one bears on
+- [ASHAs gained self-efficacy through job-derived knowledge, social capital, and family and community support, which improved their service delivery](asha-self-efficacy-enablers-qualitative.md) — related

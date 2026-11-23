@@ -50,3 +50,4 @@ Results comparison for the four hospitals without Intervention 2 across the prei
 - [Animated instruction videos on tablets alone produced no significant change in episiotomy rates in intervention hospitals](animated-tablet-instruction-no-episiotomy-change.md) — related
 - [Effects of the animated video intervention varied across hospitals, including a significant increase in Hospital 3](video-intervention-effects-varied-across-hospitals.md) — related
 - [The training interventions were accompanied by reduced episiotomy rates, higher intact-perineum proportions, and — among primiparous women — an increase in second-degree tears](secondary-perineal-outcomes-shifted-after-training.md) — related
+- [Lack of training in minimising tears and keeping the perineum intact is the most commonly reported obstacle to reducing episiotomy rates](training-gap-obstacle-episiotomy-reduction.md) — related

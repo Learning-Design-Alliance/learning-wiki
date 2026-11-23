@@ -73,3 +73,5 @@ The review reports a video-only assessment study: "surgical tool tracking from r
 - [The predictive certainty of the trained networks was high (99% for action recognition, 95% for skill assessment) despite differing accuracies](predictive-certainty-ar-99-sa-95.md) — related
 - [The skill assessment network distinguishing novice from expert surgeons reached only 56% test accuracy, failing to achieve useful performance](skill-assessment-network-56-percent-accuracy-failed.md) — reports the opposite
 - [Kinematic indices computed from the developed system correlate strongly with those from the six-camera system, indicating comparable skill-evaluation capability](kinematic-indices-high-spearman-correlation.md) — related
+- [A trained chaos neural network correctly judged 79% of unseen surgeons as expert or novice from hand-motion parameters](ai-hand-motion-classifies-surgeon-expertise-79-percent.md) — related
+- Machine-learning optimization of the network reached a correct judgment ratio of 0.99 on the training dataset by the seventh trial — related

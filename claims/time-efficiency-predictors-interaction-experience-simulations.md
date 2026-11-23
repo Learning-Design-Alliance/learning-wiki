@@ -69,3 +69,4 @@ The same GEE analysis identified an interaction between simulations performed an
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — related
 - [Older, more experienced residents complete the synthetic-bone femoral exercise faster, while younger, less-experienced residents complete the VR module faster (exploratory)](age-experience-reverse-vr-speed-advantage.md) — related
 - [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related
+- [Prior studies report that men spend less time and produce fewer errors than women in surgical simulator training, a difference the authors say is largely unaddressed](sex-differences-surgical-simulator-training.md) — reports the opposite

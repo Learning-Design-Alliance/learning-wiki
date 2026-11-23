@@ -60,3 +60,4 @@ Cross-sectional linear regression in the same multi-country sample (valid sample
 - [Schoolchildren in higher CRF categories had significantly higher language and mathematics grades, with exceptions by gender](crf-higher-categories-higher-grades-spanish-schoolchildren.md) — a narrower finding that bears on this claim
 - [The RFR-revealed association between academic achievement and CRF is not linear](crf-achievement-association-nonlinear.md) — related
 - [Random Forest Regression identifies cardiorespiratory fitness (shuttle-run rounds) as the most important predictor of ninth-grade academic achievement, with modest predictive power](rfr-shuttle-count-top-predictor-modest-oob.md) — related
+- [The fitness-academic performance relationship was strongest for aerobic fitness and weakest for muscular strength and flexibility](aerobic-fitness-strongest-relationship.md) — related

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 246 claims (152 show a difference, 57 mixed, 37 no difference) · 171 studies (67 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 39 of 171 report an effect size · 243 claims rest on one study
+> **Evidence** · 248 claims (154 show a difference, 57 mixed, 37 no difference) · 173 studies (69 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 40 of 173 report an effect size · 245 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -282,6 +282,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Instruction remediates different FCI misconceptions in strikingly different patterns, with many effective mainly for high-ability students and some remediated effectively for average-ability students](../claims/varied-misconception-remediation-patterns-by-ability.md) [~M] — an instructional effect differs with it
 - [Cognitive ability has an independent positive effect on educational expectations, suggesting a second, performance-independent pathway of expectation updating](../claims/cognitive-ability-independent-effect-on-expectations.md) [+M] — learners who differ on it differ in outcomes
 - [High-SES students' expectations are less responsive to cognitive ability, a pattern in line with the compensatory advantage mechanism](../claims/ses-moderation-responsiveness-cognitive-ability.md) [~M] — learners who differ on it differ in outcomes
+- [Applying cognitive human capital theory, the projected IQ gain corresponds to a per-capita productivity gain of $1,750 to $2,981 by 2060](../claims/iq-gain-productivity-estimate-2060.md) [+W] — learners who differ on it differ in outcomes
+- [Childhood IQ directly predicts adult wealth, with a standardized total effect of 0.24](../claims/childhood-iq-predicts-adult-wealth.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

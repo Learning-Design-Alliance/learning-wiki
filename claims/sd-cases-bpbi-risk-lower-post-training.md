@@ -55,3 +55,4 @@ Retrospective observational analysis of 248 register-identified SD cases (62 pre
 - [No significant differences were found in Apgar scores, umbilical artery pH, or anal sphincter injury between pre- and post-training shoulder dystocia deliveries](no-difference-apgar-ph-sphincter.md) — related
 - [Sustained simulation-based shoulder dystocia team training is associated with a significant decrease in brachial plexus injury at birth, from 73% to 17% of complicated deliveries](probe-training-brachial-plexus-injury-decrease.md) — related
 - [The PROMPT simulation training program in England was associated with eliminating obstetric brachial plexus injuries and over one billion dollars in NHS cost savings over 12 years](prompt-simulation-12-year-outcomes.md) — related
+- [Prior observational studies of PROMPT training reported large reductions in adverse perinatal outcomes, motivating the randomised evaluation](prompt-observational-outcome-improvements.md) — related

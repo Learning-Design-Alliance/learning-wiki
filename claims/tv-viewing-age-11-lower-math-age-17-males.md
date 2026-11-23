@@ -59,3 +59,4 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Screen time measures are negatively correlated with academic performance in female high school students, with few associations in male students](screen-time-negative-academic-performance-females.md) — related
 - [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related
 - [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related
+- [Adolescents at lower secondary schools report higher TV/video and game console consumption than highest secondary school students, while physical activity and PC/mobile use do not differ by school type](school-type-differences-in-screen-time-and-activity.md) — related

@@ -79,3 +79,4 @@ Same retrospective cohort correlational analysis of admissions statistics agains
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
 - [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related
+- [uGPA was a more consistent predictor than the MCAT of graduate school GPA and medical school preclinical and clinical GPAs across cohorts](ugpa-more-consistent-predictor-than-mcat.md) — related

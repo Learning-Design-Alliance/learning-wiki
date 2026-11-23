@@ -86,3 +86,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Physicians at tertiary hospitals in Türkiye show higher achalasia knowledge and HREM familiarity than primary-care physicians](tertiary-hospital-physicians-higher-achalasia-knowledge.md) — a narrower finding that bears on this claim
 - [Healthcare setting, number of units managed and number of direct staff are significantly associated with competence in planning competence development and cooperation](background-variables-associated-planning-competence.md) — related
 - [Combined pre-eclampsia knowledge scores are higher among providers in hospitals than in primary health centres, for both midwives and physicians](hospital-providers-more-knowledgeable-than-phc.md) — related
+- Physicians in secondary/tertiary care diagnosed anaphylaxis significantly more often than primary care/private practice physicians — related

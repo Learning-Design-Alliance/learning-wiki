@@ -58,3 +58,4 @@ Self-reported dietary behaviors by food group from the quasi-experimental study,
 - [Game-based school nutrition education consistently improves nutrition knowledge, attitudes, and psychosocial determinants, but evidence for sustained dietary behavior change is heterogeneous](game-based-nutrition-education-knowledge-gains-heterogeneous-behavior.md) — related
 - [Residents reported no perceived dietary change after the course, yet reported fruit and vegetable intake increased post-course](diet-change-contradiction-fruit-veg-increase.md) — related
 - [The brief food-model intervention does not change adolescents' self-efficacy to limit sugar or their reported frequency of limiting sugary foods and reading labels](food-models-no-effect-self-efficacy-behavior-frequency.md) — related
+- [Low-GI education used as a supplement to standard care does not diverge from current dietary recommendations](low-gi-education-supplement-not-diverging-guidelines.md) — related

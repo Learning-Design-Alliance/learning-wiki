@@ -54,3 +54,4 @@ Independent t-test comparing 97 personnel by education level; the article report
 - [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — reports the opposite
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — related
 - [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — related
+- Nursing and MCH nursing cadres showed clear distinctions in scope of practice between the nursing and maternal/child health career tracks — related

@@ -74,3 +74,5 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Students' educational expectations respond to prior academic performance, even after controlling for unobserved genetic and shared environmental confounders and cognitive ability](expectations-respond-to-prior-performance-twin-design.md) — related
 - [Genetic variance accounted for more of total variance in educational attainment for men (58%) than women (40%), with greater total and genetic variance for men](heritability-ea-sex-difference-58-40.md) — related
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
+- [Shared environmental influence on achievement tapers off at university while remaining substantial for educational choices, consistent with the generalist genes hypothesis](shared-environment-tapers-university-generalist-genes.md) — related
+- [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related

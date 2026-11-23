@@ -49,6 +49,7 @@ The authors recommend that college health programs move beyond traditionally hig
 
 - [Use the WSCC model as a framework for school improvement plans, accountability measures, and cross-sector initiatives](wscc-implementation-across-sectors.md)
 - [Implement a bundle of health improvement activities to improve attendance and attainment at age 14 in low-income schools](health-improvement-bundle-low-income-schools-strategy.md)
+- [School initiatives targeting vulnerable students' well-being alongside academic performance](school-initiatives-student-wellbeing-initiatives.md)
 
 ## Examples
 -

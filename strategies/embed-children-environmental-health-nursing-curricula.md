@@ -43,7 +43,8 @@ The authors recommend that topics on children's environmental health be included
 - [Knowledge improves most from the e-NurSus Children intervention, followed by skills and then attitudes](../claims/enursus-knowledge-gains-largest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Raise future competence levels through health-focused and early-environmental interventions including pre-school education, reading to children, and cognitive training](health-and-preschool-interventions-competence.md)
 
 ## Examples
 -

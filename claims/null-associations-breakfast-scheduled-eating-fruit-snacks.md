@@ -75,3 +75,4 @@ An independent samples t-test comparing students with and without scheduled eati
 - [Healthier dietary habits are associated with better academic performance in middle school students, while chips, sweets and soft drink consumption are associated with worse performance](dietary-habits-associated-academic-performance-adolescents.md) — reports the opposite
 - [Fruit intake may act as a marker of overall sweet consumption, possibly explaining its inverse association with English scores](fruit-intake-marker-of-sweet-consumption.md) — related
 - [Higher reported intake of sweet snacks and of fruits is each associated with lower English language arts scores in fourth graders](sweet-snacks-and-fruit-lower-english-scores.md) — reports the opposite
+- Children at a diabetes camp rated low-GI foods comparably to standard foods at dinner and snacks but lower at breakfast and lunch — related

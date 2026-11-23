@@ -48,3 +48,5 @@ Baseline survey of the 82 participants in the multi-center observational study; 
 - [A 30-minute sandwich-mode MLE simulation course significantly improved mean incision length, angle and distance parameters across 82 perinatal care providers](mle-simulation-improves-three-parameters.md) — related
 - [Senior participants' length and distance rose from pre-test to post-test, particularly among senior midwives, in one single-group pre-post study](senior-midwives-greatest-gains.md) — related
 - [Accuracy of incision length rose significantly from before to after training, but accuracy of angle did not, in one single-group pre-post study](length-accuracy-improved-angle-not.md) — related
+- [Clinicians' knowledge of episiotomy outcomes is similarly limited across professions, with mean knowledge scores of about 3 out of 6](limited-episiotomy-outcome-knowledge-scores.md) — related
+- [Lack of training in minimising tears and keeping the perineum intact is the most commonly reported obstacle to reducing episiotomy rates](training-gap-obstacle-episiotomy-reduction.md) — related

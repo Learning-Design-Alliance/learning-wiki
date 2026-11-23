@@ -57,3 +57,4 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
 - [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — reports the opposite
 - [Written and OSCE/practical examinations largely assess the same construct, with a disattenuated correlation of 0.998](written-osce-same-construct.md) — related
+- [MPI total scores show moderate correlations with first-year OSCE performance (r = 0.24 physical examination, r = 0.33 communication, r = 0.30 total), supporting the extrapolation inference](mpi-predictive-validity-first-year-osce.md) — related

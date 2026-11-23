@@ -52,3 +52,4 @@ The review's cross-study comparison of intervention characteristics against effe
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](successful-intervention-features-multiple-strategies-parents-intensity.md)
+- [ICT interventions grounded in behavior change theory and using investigator-initiated delivery showed larger effect sizes than those without](theory-plus-investigator-initiated-larger-effects.md) — related

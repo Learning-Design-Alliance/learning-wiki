@@ -54,6 +54,7 @@ In its pedagogical perspectives the article recommends educating students that "
 
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
 - [Establish a dynamic assessment and early intervention mechanism using learning motivation as a key monitoring indicator](dynamic-motivation-monitoring-early-intervention.md)
+- [Strengthen physical activity engagement through physical education classes and create task-oriented motivational climates](strengthen-pe-activity-task-climates-strategy.md)
 
 ## Examples
 -

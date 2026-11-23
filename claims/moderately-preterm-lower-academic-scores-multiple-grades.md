@@ -54,3 +54,4 @@ Multivariable linear regression on direct cognitive assessments in the nationall
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md) — related
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
+- [Preterm children score 0.44 and 0.52 SD lower on reading and spelling](preterm-reading-spelling-deficits.md) — related

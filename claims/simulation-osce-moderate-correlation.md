@@ -52,3 +52,4 @@ Concurrent correlation between simulation and OSCE scores reported in Results (T
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
 - [Full Code simulation scores correlate positively but weakly with final course grades in clinical medicine and surgery courses (overall r = 0.30)](full-code-score-correlates-with-course-grade.md) — related
 - [Performance scores on IV injection models correlate only weakly with performance on real patients](low-correlation-model-real-patient-assessment.md) — related
+- [MPI total scores show moderate correlations with first-year OSCE performance (r = 0.24 physical examination, r = 0.33 communication, r = 0.30 total), supporting the extrapolation inference](mpi-predictive-validity-first-year-osce.md) — related

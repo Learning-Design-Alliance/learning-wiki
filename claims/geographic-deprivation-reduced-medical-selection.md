@@ -53,3 +53,5 @@ Random-effects meta-analysis of 6 effect sizes for the deprived-geographic-area 
 - [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](deprivation-associated-underattainment-preterm.md) — related
 - [Agency-mediated UGR programs with large applicant pools risk selecting under-prepared students due to uneven university grading](agency-mediated-ugr-selection-risk.md) — related
 - [Raising selection thresholds under the NCM did not disadvantage applicants from low SES backgrounds, with no significant SES difference between models](ncm-no-ses-disadvantage.md) — a narrower finding that bears on this claim
+- [Criteria adherence shows no association with schools' geographic distribution, graduating class size, or age since establishment](no-adherence-association-school-characteristics.md) — related
+- [Applicants from high higher-education-participation neighbourhoods (POLAR) have 34% lower odds of allocation to their preferred foundation school](polar-high-participation-lower-allocation-odds.md) — related

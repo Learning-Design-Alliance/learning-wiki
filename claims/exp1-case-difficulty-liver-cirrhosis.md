@@ -46,3 +46,4 @@ Secondary case-difficulty analysis within Experiment 1, comparing the two clinic
 
 ## Related Claims
 - [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](expertise-diagnostic-accuracy-case-dependent.md) — a broader claim this one bears on
+- Clinical diagnoses agree poorly with autopsy diagnoses, especially for pulmonary embolism and liver cirrhosis, in a 141-autopsy retrospective review — related

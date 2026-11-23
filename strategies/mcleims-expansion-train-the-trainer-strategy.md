@@ -55,6 +55,7 @@ The authors recommend that "mCLEIMS may be expanded through faculty-development 
 - [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
 - [Expand access through Spanish-language open materials, regional collaboration, and train-the-trainer development](regional-collaboration-spanish-open-materials.md)
 - [Train-the-trainer facilitator preparation via an intensive 3-day course plus a 2-day standardization workshop with TeamGAINS debriefing](train-the-trainer-facilitator-course-workshop.md)
+- [Implement annual local multi-professional intrapartum emergency training via in-house trainers trained at a central train-the-trainers programme](in-house-train-the-trainers-local-implementation.md)
 
 ## Examples
 -

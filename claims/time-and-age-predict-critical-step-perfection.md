@@ -70,3 +70,5 @@ The same GEE logistic regression model assessed age effects on perfect critical-
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
 - [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
 - [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related
+- [Practical training with observation of practice and problem solving enables CHWs to perform and correctly read rapid diagnostic tests](practical-training-improves-chw-rdt-performance.md) — related
+- [Short, competency-based training with on-site mentoring supports CHW performance in malaria case management](short-competency-based-chw-training-malaria.md) — related
