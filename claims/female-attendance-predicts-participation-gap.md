@@ -52,3 +52,4 @@ Linear mixed model analysis with observation as the statistical unit (n = 100 ob
 - [A female instructor and a higher percentage of females in attendance predict smaller performance gender gaps, together explaining about 57% of the variation](female-instructor-attendance-predict-performance-gap.md) — related
 - [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](males-participate-more-than-females-life-sciences.md) — related
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](participation-gaps-vary-by-classroom.md) — related
+- [The intelligence–DT correlation decreases as the percentage of females in samples increases](gender-ratio-negative-moderator-dt-intelligence.md) — related

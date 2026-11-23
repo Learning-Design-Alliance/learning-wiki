@@ -51,3 +51,4 @@ Value-added study conducted in the author's UCSB lab comparing students who play
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related
+- [Adding self-explanation prompts to tutored practice produced greater explanation ability and conceptual transfer without extra instructional time](self-explanation-prompts-improve-transfer.md) — related

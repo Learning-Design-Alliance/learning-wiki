@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (92 show a difference, 45 mixed, 20 no difference) · 67 studies (31 associational, 20 causal, 8 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 23 of 67 report an effect size · 154 claims rest on one study
+> **Evidence** · 159 claims (93 show a difference, 46 mixed, 20 no difference) · 68 studies (31 associational, 20 causal, 8 review, 5 quant-synthesis, 4 theoretical), `q1`–`q4` · 24 of 68 report an effect size · 156 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -192,6 +192,8 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](../claims/performance-approach-goals-predict-low-frustration-tolerance.md) [~M] — learners who differ on it differ in outcomes
 - [Perceived relevance particularly matters for Performance-oriented students' CLASS attitudinal shifts, with a large significant effect on gains, but not for Framework- or Vague-oriented students](../claims/performance-orientation-relevance-novice-shift.md) [~M] — an instructional effect differs with it
 - [Prioritizing performance goals and grades over mastery orients students toward test performance at the expense of authentic understanding](../claims/grade-focus-trivializes-learning-hpe.md) [+W] — learners who differ on it differ in outcomes
+- [Approach goals (mastery or performance) correlate positively and avoidance goals (performance or mastery) correlate negatively with nonself-report performance](../claims/approach-goals-positive-avoidance-negative-performance.md) [+W] — learners who differ on it differ in outcomes
+- [In the sports domain, approach goals correlate positively with performance while avoidance goals are unrelated to performance; in education, all four goal types relate significantly to performance](../claims/sports-approach-positive-avoidance-null.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

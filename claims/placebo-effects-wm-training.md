@@ -68,3 +68,6 @@ The authors' video-game meta-analysis found no placebo effects, indicating the p
 - [Near transfer from cognitive training is real and appears moderated by participant age, unlike far transfer](near-transfer-real-age-moderated.md) — related
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
 - [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](cogmed-working-memory-training-narrow-transfer.md) — related
+- [Far-transfer effect sizes from music and working memory training are minimal or null when compared with active control groups, being inversely related to experimental design quality](far-transfer-effects-inversely-related-to-design-quality.md) — related
+- [Action-video-game training improves only the cognitive abilities targeted by the specific game played, supporting common-elements theory](video-game-training-domain-specific-gains.md) — related
+- [Gains on working memory measures do not mediate far-transfer gains across studies](wm-gains-do-not-mediate-far-transfer.md) — related

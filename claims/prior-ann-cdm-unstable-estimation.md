@@ -49,3 +49,4 @@ The article states this as background about previously proposed ANN approaches, 
 - [A semi-supervised ANN method combining DINA and DINO achieves appreciated classification performance across test conditions, especially when diagnostic quality is not high or the Q-matrix contains misspecified elements](semi-supervised-ann-cdm-robust-classification.md) — reports the opposite
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — related
 - Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance — related
+- [Simulation results are presented to examine estimation performance and to examine the sensitivity of classification to model misspecification in the higher-order model](classification-sensitivity-misspecification-simulation.md) — related

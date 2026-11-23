@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 197 claims (137 show a difference, 35 mixed, 25 no difference) · 165 studies (60 causal, 27 review, 26 associational, 20 quant-synthesis, 14 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 165 report an effect size · 193 claims rest on one study
+> **Evidence** · 199 claims (138 show a difference, 36 mixed, 25 no difference) · 166 studies (60 causal, 27 review, 27 associational, 20 quant-synthesis, 14 design, 10 qualitative, 8 theoretical), `q1`–`q4` · 23 of 166 report an effect size · 195 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -239,6 +239,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Project-based take-home exams in graduate physics produced reports of about 15 pages typical and noticeably improved oral presentation quality](../claims/project-exams-scientific-communication-practice.md) [+W] — measured as an outcome of the instruction studied
 - [Students with weak initial socio-communicative skills continue to show deficits despite communication training, per the authors' interpretation](../claims/weak-initial-interactional-skills-persist.md) [+W] — learners who differ on it differ in outcomes
 - [The success of FCN health education depends on communication and empathy skills, with caregiver involvement emphasised](../claims/fcn-health-education-communication-empathy.md) [+M] — learners who differ on it differ in outcomes
+- [Reading amplifies math growth most strongly for children with average-to-high reading and below-average math performance; at the lowest reading levels there is negligible or no expected math growth](../claims/reading-amplification-strongest-below-average-math.md) [~M] — learners who differ on it differ in outcomes
+- [Reading performance unidirectionally predicts subsequent change in math growth in academically at-risk elementary children, with a reading-to-math coupling effect of γ = 0.165](../claims/reading-to-math-coupling-at-risk-children.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

@@ -48,3 +48,4 @@ Analysis of the post hoc couplet scoring of FCI item 18: because every selectabl
 - [Couplet scoring differentiates among distractor responses on a multiple-choice item, whereas dichotomous scoring gives all distractors the same score](couplet-scoring-differentiates-fci-item18-distractors.md) — related
 - [Transition matrix analysis of FCI Question 18 shows post-instruction movement to better incorrect answer choices that dichotomous scoring does not reveal](transition-matrices-richer-than-dichotomous-scoring.md) — related
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
+- [Model analysis of research-based multiple-choice questions yields richer information than score-based analysis](model-analysis-richer-than-score-based-analysis.md) — a broader claim this one bears on

@@ -57,3 +57,4 @@ In the univariate LGCMs of the population sample, "a weak negative correlation b
 - [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related
 - [Children's observed negative emotional expressivity in the classroom declined on average from kindergarten to first grade, with significant individual differences in trajectories](negative-expressivity-decline-k-to-g1.md) — related
 - [Higher baseline OSATS predicts subsequent measurable skill decline](higher-baseline-osats-predicts-decline.md) — a narrower finding that bears on this claim
+- [Reading and math both show fan-spread growth in academically at-risk children, with negative proportional change indicating attenuated growth over grades](fan-spread-growth-reading-math-at-risk.md) — reports the opposite

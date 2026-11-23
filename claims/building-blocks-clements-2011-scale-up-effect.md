@@ -77,3 +77,4 @@ Cluster randomized trial rated Meets WWC Group Design Standards With Reservation
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
 - [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](building-blocks-cai-improves-proximal-numeracy-kindergarten.md) — related
 - [Effects of the Math Supplement on the standardized REMA assessment were marginally significant against both comparison conditions](transmedia-math-supplement-rema-marginal-effects.md) — related
+- [The TRIAD preschool math intervention produced a large end-of-pre-K impact (.63 SD) and significant impacts on all four REMA subdomains](triad-large-initial-impacts-four-subdomains.md) — related

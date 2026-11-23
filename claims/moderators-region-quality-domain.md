@@ -53,3 +53,4 @@ Meta-regression moderator analyses (mixed-effects models, subgroups with ≥4 st
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
 - [Work experience, tenure, perceived support, caregiver age, stability, child sex, and center size show no significant association with interactive skills](null-factors-interactive-skills.md) — related
 - [The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region](no-moderator-differences-categorical.md) — reports the opposite
+- [Nationality and publication status moderate mastery-based goal–performance correlations; age and sex do not](nationality-publication-moderate-mastery-goals.md) — related

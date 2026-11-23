@@ -71,3 +71,4 @@ The article's summary of the co-construction analysis against a guessing baselin
 - [In an upper-level QM course, student performance on clicker questions rose significantly from ICT to GCT in one single-group pre-post study](qm-clicker-gct-improvement-over-ict.md) — related
 - [Co-construction of knowledge is rare in unguided peer groups: correct consensus when neither member was correct individually occurred in only 19% of eligible cases](co-construction-rare-19-percent-graduate-csem.md) — related
 - [Knowledge construction occurred in 93% of eligible cases and co-construction in 72% of eligible cases across MCS questions during unguided peer collaboration](construction-co-construction-rates-ta-mcs.md) — related
+- [Correctness of an answer predicts switching beyond what confidence alone would produce, indicating process gain](correctness-predicts-switching-beyond-confidence.md) — related

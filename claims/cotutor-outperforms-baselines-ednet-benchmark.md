@@ -49,3 +49,5 @@ Benchmark evaluation on EdNet KT1, a subset of a large-scale dataset from the Sa
 - [COTUTOR achieved the highest prediction accuracy of student performance in the classroom study, outperforming BKT, DKT, and Code-DKT](cotutor-highest-classroom-prediction-accuracy.md) — related
 - [In a university AI course, students assisted by COTUTOR achieved the highest average assignment score, exceeding the control group with a medium effect size](cotutor-highest-assignment-scores-controlled-study.md) — related
 - [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — a broader claim this one bears on
+- [Assessment Modeling, pre-trained on EdNet-KT4, achieved state-of-the-art exam score and review correctness prediction](assessment-modeling-sota-pretraining-ednet.md) — related
+- [SAINT achieved state-of-the-art knowledge tracing performance with a dramatic AUROC improvement when trained on EdNet-KT1](saint-sota-on-ednet-kt1.md) — related

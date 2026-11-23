@@ -47,3 +47,4 @@ Dewey's AI analysis of graduate student explanations for the genetic drift/molec
 
 ## Related Claims
 - [Dewey's analysis of the second BCI question revealed misconceptions about gene dosage, dominance in homozygous organisms, and the functional roles of genes.](dewey-gene-deletion-analysis.md) — related
+- [The article reports applying SSAT methodology to the development of AI and BOTs, illustrated with BOT development examples](ssat-applied-to-bot-and-ai-development-examples.md) — a broader claim this one bears on

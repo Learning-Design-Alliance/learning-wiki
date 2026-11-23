@@ -52,3 +52,4 @@ Within-subject experiment comparing change-to-agree versus change-to-disagree oc
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
+- [Answer switching during peer disagreement is driven by both one's own confidence and the partner's confidence](confidence-predicts-answer-switching.md) — related

@@ -50,3 +50,4 @@ The article reports, citing Samuels et al. (2005) who cite O'Shea, Sindelar, and
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
+- [Transitions between power-law pieces are typically followed by a brief performance drop and then a level surpassing the previous piece](transition-dynamics-drop-then-surpass.md) — related

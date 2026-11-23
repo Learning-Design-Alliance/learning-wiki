@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (38 show a difference, 9 mixed, 11 no difference) · 24 studies (12 causal, 11 associational, 1 review), `q2`–`q3` · 9 of 24 report an effect size · 56 claims rest on one study
+> **Evidence** · 61 claims (41 show a difference, 9 mixed, 11 no difference) · 25 studies (13 causal, 11 associational, 1 review), `q2`–`q3` · 10 of 25 report an effect size · 59 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -95,6 +95,9 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+M] — learners who differ on it differ in outcomes
 - [Students who passed the final computational evaluation held more favorable COMPASS scores than students who failed it](../claims/passed-computational-evaluation-more-favorable-compass.md) [+M] — learners who differ on it differ in outcomes
 - [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](../claims/computation-automaticity-overlearning-required-science-problem-solving.md) [+M] — learners who differ on it differ in outcomes
+- [Both Math Flash (NC) tutoring and Pirate Math (WP) tutoring outperform no tutoring on number-combination fluency, and the two tutoring groups do not differ](../claims/nc-and-wp-tutoring-improve-nc-fluency.md) [+M] — measured as an outcome of the instruction studied
+- [Pirate Math word-problem tutoring enhances word-problem skill along with number-combination fluency, procedural computation, and algebra](../claims/pirate-math-improves-word-problems-and-foundational-skills.md) [+M] — measured as an outcome of the instruction studied
+- [Students with mathematics difficulty alone outperform students with mathematics plus reading difficulty on number-combination fluency at posttest](../claims/md-outperform-mdrd-on-nc-fluency.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

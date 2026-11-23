@@ -56,3 +56,4 @@ Mean sex differences in the longitudinal study of 342 adolescents (169 boys) ass
 - [A higher percentage of girls than boys in the robotics class scored above NYSED benchmarks, with the largest gaps in Algebra and Geometry](girls-above-benchmark-algebra-geometry.md) — reports the opposite
 - [Children educated in small groups for attention deficits performed below regular-class peers in all mathematics measures, and girls performed at a lower baseline than boys](small-group-children-below-regular-classes-mathematics.md) — related
 - [No significant gender difference in math word problem performance was observed after the intervention in either grade](no-gender-difference-posttest-math-word-problems.md) — reports the opposite
+- [Boys showed higher mean intrinsic motivation and early-grade achievement than girls, with small effect sizes, and girls' motivation declined from grade 1 to 2](sex-differences-math-motivation-achievement-small-effects.md) — related

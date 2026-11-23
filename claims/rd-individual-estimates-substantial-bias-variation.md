@@ -55,3 +55,4 @@ Distributional analysis of unshrunken individual impact estimates across the 15 
 - Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results — related
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — related
 - [Accountability sanction effects were not consistent across years and outcomes](ayp-effects-inconsistent-across-years-and-outcomes.md) — related
+- [Regression-discontinuity designs on school-entry age cutoffs support beneficial effects of education on intelligence](school-entry-cutoff-rdd-iq-effects.md) — related

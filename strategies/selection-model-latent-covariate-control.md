@@ -48,7 +48,8 @@ This strategy uses the selection model's latent structure as a general mechanism
 - [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](../claims/growth-value-added-modeling-complexity-sources.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Formulate IRT models as covariate structures (mode of covariate, fixed vs random effects) and fit them with lmer](irt-as-covariate-structure-lmer-strategy.md)
 
 ## Examples
 -

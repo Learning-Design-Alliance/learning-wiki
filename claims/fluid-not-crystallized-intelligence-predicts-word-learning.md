@@ -51,3 +51,4 @@ Structural equation model in Study 1 regressed a combined day 1/day 2 learning f
 ## Related Claims
 - [Associative thinking (semantic distance of generated word associations) predicts paired-associate foreign-language vocabulary learning beyond general cognitive ability in undergraduates](associative-thinking-predicts-vocabulary-learning-beyond-intelligence.md) — related
 - [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md) — related
+- [The intelligence–DT correlation does not differ across intelligence facets g, gf, and gc](intelligence-facet-does-not-moderate-dt-link.md) — related

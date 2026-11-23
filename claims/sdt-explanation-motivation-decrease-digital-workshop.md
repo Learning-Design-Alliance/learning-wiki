@@ -56,3 +56,4 @@ Authors' theoretical interpretation, drawing on self-determination theory, of wh
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](experts-agree-choice-fosters-motivation-engagement.md) — related
 - [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related
+- [The findings challenge self-determination theory's assumption that intrinsic motivation leads to higher mathematics achievement in early elementary school](findings-challenge-sdt-motivation-drives-achievement.md) — related

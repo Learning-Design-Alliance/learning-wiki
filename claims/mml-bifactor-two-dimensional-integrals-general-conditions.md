@@ -51,3 +51,4 @@ Analytical derivation in the paper, using the graphical model framework applied 
 - Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable — related
 - Under ordinal (WLSMV) estimation the bifactor model is not identifiable, with the S-1 diagnostic implicating the effectiveness-specific factor — related
 - [The method applies to any educational test because it assumes neither normality of score distributions nor error independence, and generalizes to fractional item scores via normalization](method-assumption-free-generalization.md) — related
+- [The EM-based MML procedure covers item-response models with more than one latent dimension](em-mml-covers-multidimensional-models.md) — related

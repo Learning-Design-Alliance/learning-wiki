@@ -47,3 +47,4 @@ Decile analysis of standardized GCSE scores at age 16 (Figures 2 and 3). The art
 ## Related Claims
 - [Extreme GPAΔ underachievers and overachievers regressed substantially toward genomic prediction (28–45%), with most change occurring by age 9](extreme-gpad-groups-regress-28-45-percent-most-change-by-age-9.md) — related
 - [College completion prevalence differs hugely between the top and bottom deciles of the polygenic score distribution (60% versus 10%)](pgs-decile-college-completion-gap.md) — related
+- [The EA PGI varies substantially across deciles for college completion but cannot meaningfully predict an individual's attainment](ea-pgi-individual-prediction-limited.md) — related

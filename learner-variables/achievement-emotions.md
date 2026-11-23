@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 300 claims (207 show a difference, 64 mixed, 29 no difference) · 193 studies (69 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 193 report an effect size · 297 claims rest on one study
+> **Evidence** · 303 claims (208 show a difference, 66 mixed, 29 no difference) · 194 studies (70 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 194 report an effect size · 300 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -335,6 +335,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Recognition and misrecognition events were associated with strong emotions: pride for recognition, isolation and rejection for misrecognition](../claims/recognition-events-strong-emotions-pride-isolation.md) [+W] — measured as an outcome of the instruction studied
 - [47% of post-pandemic freshmen perceive the pandemic worsened their overall academic performance, with higher odds among students with more stress, boredom, introjected regulation, and university connectedness, and lower odds among older students and those with more pride](../claims/pandemic-worsened-academic-performance-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [Adolescents with high guidance support (APAF4) report more boredom than those with low or medium support](../claims/high-guidance-support-more-boredom.md) [+M] — measured as an outcome of the instruction studied
+- [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](../claims/boredom-performance-context-dependent-assistments.md) [~M] — learners who differ on it differ in outcomes
+- [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](../claims/confusion-context-dependent-pattern-assistments.md) [~M] — learners who differ on it differ in outcomes
+- [Engaged concentration and frustration are both associated with positive learning outcomes](../claims/engaged-concentration-frustration-positive-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

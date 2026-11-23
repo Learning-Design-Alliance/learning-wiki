@@ -48,3 +48,4 @@ One-sample t-test against chance (0.50) on overall 2AFC accuracy for adults afte
 ## Related Claims
 - [Within childhood, Grade 5 children outperformed Grades 1 and 3 for nonword foils while partword foil performance remained stable](grade5-nonword-foil-advantage-childhood.md) — related
 - [Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners](incidental-multimodal-exposure-benefits-explicit-learning.md) — related
+- [The word superiority effect reflects learned extraction of spelling-pattern regularities, since it holds for pronounceable nonsense words and is absent in beginning readers](word-superiority-effect-reflects-learned-spelling-regularities.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 250 claims (155 show a difference, 57 mixed, 38 no difference) · 174 studies (70 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 41 of 174 report an effect size · 247 claims rest on one study
+> **Evidence** · 258 claims (162 show a difference, 57 mixed, 39 no difference) · 177 studies (70 associational, 64 causal, 18 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 42 of 177 report an effect size · 255 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -286,6 +286,14 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Childhood IQ directly predicts adult wealth, with a standardized total effect of 0.24](../claims/childhood-iq-predicts-adult-wealth.md) [+M] — learners who differ on it differ in outcomes
 - [General intelligence correlates with CNCEE academic performance and explains additional variance beyond gender, age and total gray matter volume](../claims/cl-rapm-cncee-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [General intelligence partially mediates the association between left DLPFC gray matter density and CNCEE academic performance](../claims/cl-intelligence-mediation-dlpfc-cncee.md) [-W] — learners who differ on it differ in outcomes
+- [An additional year of education raises intelligence by approximately 1 to 5 IQ points, per a meta-analysis of quasi-experimental studies](../claims/education-raises-iq-1-to-5-points-per-year.md) [+M] — measured as an outcome of the instruction studied
+- [Chess players show superior overall cognitive ability to non-players, and chess skill correlates with fluid intelligence, processing speed, memory, and comprehension knowledge](../claims/chess-skill-correlates-cognitive-ability.md) [+W] — measured as an outcome of the instruction studied
+- [DT fluency scores correlate with intelligence less strongly than originality/creative-quality scores](../claims/dt-scoring-fluency-vs-originality-moderator.md) [+M] — learners who differ on it differ in outcomes
+- [Education effects on intelligence persist across the lifespan and appear on all broad categories of cognitive ability studied](../claims/education-iq-effects-lifespan-all-ability-domains.md) [+M] — measured as an outcome of the instruction studied
+- [Education-intelligence associations persist after controlling for earlier intelligence, per studies in the meta-analysis](../claims/education-effect-persists-controlling-earlier-intelligence.md) [+M] — measured as an outcome of the instruction studied
+- [Intelligence and divergent thinking show a small-to-moderate positive correlation of r = .25 after attenuation correction](../claims/intelligence-dt-overall-r-25.md) [+M] — learners who differ on it differ in outcomes
+- [The intelligence–DT correlation does not differ across intelligence facets g, gf, and gc](../claims/intelligence-facet-does-not-moderate-dt-link.md) [-M] — learners who differ on it differ in outcomes
+- [The intelligence–DT correlation is higher under test-like instructions than game-like instructions](../claims/test-like-instruction-stronger-dt-intelligence-link.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

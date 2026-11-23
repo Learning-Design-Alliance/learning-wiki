@@ -52,3 +52,4 @@ Conditional latent curve model on the BURN11 dataset (101 high-school students, 
 - [Fluid intelligence predicts paired-associate word learning, but crystallized intelligence does not once associative thinking is controlled](fluid-not-crystallized-intelligence-predicts-word-learning.md) — related
 - [Final estimated working memory accuracy correlates positively with fluid intelligence](final-wm-accuracy-correlates-fluid-intelligence.md) — related
 - [Rate of change in working memory performance correlates with fluid intelligence independently of final accuracy](wm-rate-of-change-independent-gf-link.md) — related
+- [The intelligence–DT correlation does not differ across intelligence facets g, gf, and gc](intelligence-facet-does-not-moderate-dt-link.md) — related

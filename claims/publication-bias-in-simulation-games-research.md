@@ -54,3 +54,4 @@ Meta-analytic publication-status moderator analysis from Table 2: 44 effect size
 - Published and unpublished studies show no significant difference in achievement effect sizes, though unpublished studies show a higher point estimate (d+ = 0.88 vs 0.44) — related
 - Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs — related
+- [P-curve analysis shows no evidential value among published studies of far transfer using treated controls, indicating publication bias](p-curve-no-evidential-value-treated-controls.md) — related

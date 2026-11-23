@@ -120,3 +120,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
 - [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — a narrower finding that bears on this claim
 - [Working memory slots are unlimited for relationships quickly recallable from long-term memory but very limited for other data](wm-unlimited-for-recallable-relationships.md) — related
+- [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — a narrower finding that bears on this claim

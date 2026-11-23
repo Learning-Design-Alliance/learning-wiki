@@ -19,7 +19,7 @@ sources:
 # Pirate Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
@@ -29,8 +29,11 @@ Pirate Math is a one-to-one mathematics tutoring programme for third-grade stude
 - **Pirate Math one-to-one tutoring program for third-grade calculation and word-problem difficulties**: Pirate Math is a one-to-one tutoring program for third graders struggling with math calculations and word problems. Students receive 48 sessions of 20-30 minutes, three per week over 16 weeks, delivered outside ordinary math periods by tutors who may be teachers or paraprofessionals. Sessions focus on "counting up" strategies and solving word problems by finding missing numbers, with a gold-coin reward system placed on a treasure map. (Pirate Math (2021))
 - **Token reward with mapped milestone prizes sustaining engagement across tutoring sessions**: Pirate Math embeds a motivational routine in its tutoring sessions: students receive gold coins for good work and place them on a treasure map. When they reach a picture of a treasure box, they earn a small prize. This recurring reward cycle structures motivation across the 16-week program. (Pirate Math (2021))
 - **Deliver supplemental math tutoring one-to-one outside ordinary math periods, staffed by teachers or trained paraprofessionals**: Pirate Math delivers tutoring one-to-one, with tutors who may be teachers or paraprofessionals working with students outside of ordinary math periods. This staffing and scheduling model allows struggling third graders to receive intensive individual support without displacing their regular math instruction. (Pirate Math (2021))
+- **Pirate Math word-problem tutoring protocol**: Pirate Math is a 16-week, three-sessions-per-week scripted tutoring protocol (48 lessons of 20–30 min) remediating word-problem deficits in third graders with mathematics difficulty. Its 48 lessons are divided into four units: an introductory unit on foundational skills (counting-up NC strategy, double-digit computation, solving for X, checking work) followed by three units on the Total, Difference, and Change problem types with mixed cumulative review. Lessons include flash card warm-up, conceptual and strategic instruction, word-problem sorting by type, paper-pencil review, and a reinforcement program. (Fuchs et al. (2009))
+- **Schema-broadening instruction (SBI) for word-problem skill**: Schema-broadening instruction is the article's word-problem tutoring framework built on schema theory, in which a schema is "a category that encompasses similar problems; it is a problem type." SBI combines four instructional components: teaching the underlying mathematical structure of problem types, recognizing the problem type, solving the problem type, and explicitly teaching transfer, including "irrelevant information or novel questions that require an extra step." The article used SBI as the basis of the Pirate Math tutoring protocol addressing Total, Difference, and Change problem types. (Fuchs et al. (2009))
 
 ### Claims
+- [Pirate Math word-problem tutoring enhances word-problem skill along with number-combination fluency, procedural computation, and algebra](../claims/pirate-math-improves-word-problems-and-foundational-skills.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -38,9 +41,9 @@ Pirate Math is a one-to-one mathematics tutoring programme for third-grade stude
 ## Key Sources
 - Pirate Math. (2021). Evidence for Learning program summary. https://evidenceforessa.org/program/pirate-math/
 - Pirate Math. (2021). Evidence for Learning program summary. https://www.evidenceforlearning.org.au
-
 <!-- merged 2026-10-10 from elements/pirate-math-program-element ("Pirate Math one-to-one tutoring program for third-grade calculation and word-problem difficulties"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Pirate Math. (2021). Evidence for Learning program summary. https://www.evidenceforlearning.org.au
+- Fuchs, L. S., Powell, S. R., Seethaler, P. M., Cirino, P. T., Fletcher, J. M., Fuchs, D., Hamlett, C. L., & Zumeta, R. O. (2009). Remediating Number Combination and Word Problem Deficits Among Students With Mathematics Difficulties: A Randomized Control Trial. Journal of Educational Psychology, 101(3), 561-576. https://doi.org/10.1037/a0014701
 
 # Pirate Math one-to-one tutoring program for third-grade calculation and word-problem difficulties
 

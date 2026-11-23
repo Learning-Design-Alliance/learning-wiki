@@ -74,3 +74,5 @@ The article states, as background motivating the study, that "a growing body of 
 - [Summer math program effects differ by income status, with low-income samples showing d=0.11 and mixed-income samples showing a non-significant d=-0.02.](summer-math-income-moderator-between-study.md) — related
 - [Learning losses varied by parental education and parental income, on top of already existing inequalities](covid-learning-loss-inequality-parental-education-income.md) — related
 - [CMC questions disproportionately harm female, low-income, and domestic students relative to their peers](cmc-questions-disproportionately-harm-marginalized-groups.md) — related
+- [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](century-of-summer-replication-failure.md) — related
+- [Test score gaps are already substantial when children enter school and grow relatively little afterward](gaps-form-mainly-early-childhood-before-school.md) — related

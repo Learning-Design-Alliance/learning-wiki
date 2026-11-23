@@ -50,3 +50,4 @@ Subgroup HLM estimates from Table 2: FT vs CTRL for African-Americans was .150 (
 ## Related Claims
 - [In spring of fourth grade, the follow-through condition showed a marginally significant differential impact favoring African-American children (0.32 of a standard deviation)](triad-ft-differential-impact-african-american-spring-2012.md) — related
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
+- [Regression-adjusted longitudinal correlations imply much larger long-run skill-building effects than experimental impacts show, with TRIAD experimental impacts non-significant by fourth grade](correlational-estimates-overstate-skill-building-effects.md) — related

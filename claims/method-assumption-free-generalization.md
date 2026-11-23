@@ -47,3 +47,4 @@ Analytical/definitional statement in the generalization section. The article exp
 
 ## Related Claims
 - [Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker](mml-bifactor-two-dimensional-integrals-general-conditions.md) — related
+- [Empirically characterizing the ability distribution avoids arbitrary assumptions about its form](empirical-ability-distribution-avoids-assumptions.md) — related

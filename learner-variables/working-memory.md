@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 173 claims (98 show a difference, 49 mixed, 26 no difference) · 139 studies (55 causal, 35 associational, 24 review, 12 quant-synthesis, 8 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 25 of 139 report an effect size · 164 claims rest on one study
+> **Evidence** · 176 claims (101 show a difference, 49 mixed, 26 no difference) · 142 studies (55 causal, 35 associational, 25 review, 14 quant-synthesis, 8 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 27 of 142 report an effect size · 167 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -216,6 +216,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory slots are unlimited for relationships quickly recallable from long-term memory but very limited for other data](../claims/wm-unlimited-for-recallable-relationships.md) [~M] — learners who differ on it differ in outcomes
 - [Higher cognitive load from AI-generated materials was negatively associated with course grades across all assessment stages](../claims/cognitive-load-negative-correlation-grades.md) [+M] — learners who differ on it differ in outcomes
 - [No difference in cognitive load during experiments between groups with and without MDETs, and no evidence of distraction or overload](../claims/no-cognitive-load-difference-mdets.md) [-W] — measured as an outcome of the instruction studied
+- [Relations between reading and working memory increase with grade level](../claims/reading-working-memory-relations-increase-with-grade.md) [+W] — learners who differ on it differ in outcomes
+- [Working memory training produces a robust near-transfer effect on other memory tasks regardless of control-group type](../claims/wm-training-near-transfer-memory-tasks.md) [+M] — measured as an outcome of the instruction studied
+- [Working memory training yields reliable immediate improvements on verbal and visuospatial working memory measures (intermediate transfer)](../claims/wm-training-intermediate-transfer-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

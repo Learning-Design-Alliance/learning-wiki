@@ -52,3 +52,4 @@ Definitional statement of the model's design from the abstract: it combines poly
 - [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — related
 - [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — a narrower finding that bears on this claim
 - [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related
+- [Changes of test form confounded summer learning estimates in fixed-form seasonal studies](test-form-changes-confounded-summer-learning.md) — related

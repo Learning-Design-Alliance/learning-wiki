@@ -49,4 +49,4 @@ Restorative practices (RPs) are a school discipline approach centered on the bel
 -
 
 ## Key Sources
-- Huang, F., Gregory, A., & Ward-Seidel, A. R. (2023). The Impact of Restorative Practices on the Use of Out-of-School Suspensions: Results from a Cluster Randomized Controlled Trial. https://eric.ed.gov/?q=The+Impact+of+Restorative+Practices+on+the+Use+of+Out-of-School+Suspensions
+- Huang, F., Gregory, A., & Ward-Seidel, A. R. (2023). The Impact of Restorative Practices on the Use of Out-of-School Suspensions: Results from a Cluster Randomized Controlled Trial. https://eric.ed.gov/?q=The+Impact+of+Restorative+Practices+on+the+Use+of+Out-of-School+Suspensions. [doi:10.1007/s11121-023-01507-3](https://doi.org/10.1007/s11121-023-01507-3)

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (106 show a difference, 34 mixed, 37 no difference) · 110 studies (44 associational, 31 causal, 16 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 27 of 110 report an effect size · 175 claims rest on one study
+> **Evidence** · 178 claims (106 show a difference, 34 mixed, 38 no difference) · 111 studies (44 associational, 31 causal, 17 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 27 of 111 report an effect size · 176 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -214,6 +214,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Among boys, higher grip strength is associated with better information processing and inhibitory control of attention on the Flanker task](../claims/grip-strength-boys-inhibitory-control-flanker.md) [+M] — measured as an outcome of the instruction studied
 - [Among girls, higher cardiorespiratory fitness is associated with better information processing and inhibitory control of attention on the Flanker task](../claims/crf-girls-inhibitory-control-flanker.md) [+M] — measured as an outcome of the instruction studied
 - [PM2.5 in and around schools negatively influences both executive function and academic achievement in primary-school-aged children, with effects becoming stronger over time](../claims/pm25-schools-executive-function-achievement.md) [+M] — measured as an outcome of the instruction studied
+- [Age effects on executive function–achievement relations are unclear or absent](../claims/executive-function-age-effect-unclear.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

@@ -50,3 +50,4 @@ Cross-sectional moderator analysis using AHT-F tests across cognitive domain, de
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md)
 - [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — reports the opposite
 - [Moderate levels of video gaming are positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for covariates](moderate-video-gaming-positive-achievement-els2002.md) — related
+- [Action-video-game training improves only the cognitive abilities targeted by the specific game played, supporting common-elements theory](video-game-training-domain-specific-gains.md) — related

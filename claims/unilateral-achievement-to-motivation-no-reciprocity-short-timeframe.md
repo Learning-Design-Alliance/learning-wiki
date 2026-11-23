@@ -72,3 +72,4 @@ Descriptive statistics across the eight blocks of the same experiment show weak,
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — reports the opposite
+- [Intrinsic motivation in mathematics did not predict later mathematics achievement at any time point](math-intrinsic-motivation-does-not-predict-achievement.md) — related

@@ -34,7 +34,7 @@ sources:
 # ASSISTments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (14 for, 1 mixed) · 9 studies (5 causal, 2 qualitative, 1 associational, 1 design), `q2`–`q3` · 4 of 9 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (16 for, 1 mixed) · 10 studies (5 causal, 2 associational, 2 qualitative, 1 design), `q2`–`q3` · 4 of 10 report an effect size · 17 claims rest on one study
 
 ## Description
 ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
@@ -54,6 +54,7 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - **ASSISTments online homework platform with correctness feedback, scaffolding questions, skill builders, and nightly teacher reports**: ASSISTments (www.assistments.org) is an online tutoring system providing "formative assessments that assist" in which teachers assign homework items and students complete them online, receiving "feedback on the accuracy of their answers" plus hints and scaffolding questions that decompose multistep problems. Teachers can assign "skill builders" organized to promote mastery learning, and servers generate customized cognitive diagnostic reports emailed to teachers each morning showing completion rates, per-problem and per-skill performance, and common wrong answers. In the study, teachers were expected to assign approximately 20 minutes of homework for a minimum of three nights per week. (Mingyu Feng et al. (2016))
 - **ASSISTments web-based math tutoring and formative assessment system**: ASSISTments is a web-based mathematics cognitive tutor for middle school students whose "claim to efficiency is that it performs the dual tasks of assessing and tutoring at the same time in an online environment." It collects dynamic metrics beyond correct/incorrect, including attempts, hints requested, response time, and practice opportunities, and reports results to teachers via on-line reports and automated e-mails. As a tutor it scaffolds problems into individual skills (typically about three scaffolds per item) and offers hints, providing immediate corrective feedback. (Koedinger et al. (2010))
 - **Five design features making an assessment system effective as a formative assessment tool**: The article enumerates five reasons it expected ASSISTments to work as a formative assessment tool: "1. teacher workload is not increased; 2. the structure of the assessment data is fine-grained; 3. the results are timely; 4. it mimics a human tutor by scaffolding problems into individual skills and knowledge components; and 5. students are provided individually adapted feedback." The pattern combines assessment and instruction so learning opportunities continue during assessment, avoiding lost instructional time. (Koedinger et al. (2010))
+- **ASSISTments math tutoring system log-data as the data source for longitudinal affect-outcome analysis**: The ASSISTments math tutoring system provided the log-data analysed in this study. The authors write they "used data from the ASSISTments math tutoring system", from which affect and behaviour detectors estimated per-action probabilities across the school year. These data support both the fine-grained correlational analyses of boredom, confusion, engaged concentration and frustration, and the unified exam-score prediction model. (Pardos et al. (2014))
 
 ### Claims
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](../claims/assistments-long-term-eog-effect-0-10.md) [+M]
@@ -71,6 +72,8 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - [Seventh graders using ASSISTments significantly outperformed comparison students on year-end MCAS scores after adjusting for prior-year scores](../claims/assistments-year-long-use-raises-mcas-scores.md) [+M]
 - [The ASSISTments treatment effect was much larger for special education students (d = .50) than for regular students, whose difference was not significant](../claims/assistments-effect-larger-special-education.md) [+M]
 - [Teacher usage interacted with student usage: low- and non-using regular students performed better with high-usage teachers, with no overall teacher usage main effect](../claims/teacher-usage-student-usage-interaction-assistments.md) [+M]
+- [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](../claims/boredom-performance-context-dependent-assistments.md) [+M]
+- [Engaged concentration and frustration are both associated with positive learning outcomes](../claims/engaged-concentration-frustration-positive-outcomes.md) [+M]
 
 ## Related Products and Programmes
 
@@ -98,6 +101,7 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - Sergey Sosnovsky & Bruce M. McLaren & Vincent Aleven. (2014). Preface-Emerging Technologies and Landmark Systems for Learning Mathematics and Science: Dedicated to the Memory of Erica Melis-Part 2. Int J Artif Intell Educ 24. https://doi.org/10.1007/s40593-014-0025-9
 - Mingyu Feng, Jeremy Roschelle, Craig Mason, Ruchi Bhanot. (2016). Investigating Gender Differences on Homework in Middle School Mathematics. Proceedings of the 9th International Conference on Educational Data Mining, June 29-July 2, 2016, Raleigh, NC. https://educationaldatamining.org/edm2016/
 - Koedinger, K. R., McLaughlin, E. A., & Heffernan, N. T. (2010). A quasi-experimental evaluation of an on-line formative assessment and tutoring system. Journal of Educational Computing Research, 43(4), 489-510. https://doi.org/10.2190/EC.43.4.d
+- Pardos, Z. A., Baker, R. S., San Pedro, M., Gowda, S. M., & Gowda, S. M. (2014). Affective States and State Tests: Investigating How Affect and Engagement during the School Year Predict End-of-Year Learning Outcomes. Journal of Learning Analytics, 1(1), 107-128. https://doi.org/10.18608/jla.2014.11.6
 
 # ASSISTments/E-TRIALS: free A/B testing platform integrated with a K-12 math practice platform
 

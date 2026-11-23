@@ -48,3 +48,4 @@ Multivariate multilevel model of pooled EMA data (n = 84) controlling for time-o
 ## Related Claims
 - [During breathwork, heart-rate coupling to anxiety and enjoyment weakened, and this altered affect–physiology coupling persisted into the post-intervention phase](breathwork-weakens-hr-emotion-coupling-persistent.md) — related
 - [Within-domain emotion structure only partially matches the valence–activation model: anger relates more strongly to boredom than to anxiety, and enjoyment–boredom and anger–boredom correlations are conspicuously strong](within-domain-structure-anger-boredom-enjoyment-patterns.md) — reports the opposite
+- [Within-domain emotions are differentiated along valence and activation, but anger relates more strongly to boredom than to anxiety, with boredom–anger correlations of .81 to .90](within-domain-emotion-differentiation-anger-boredom.md) — related

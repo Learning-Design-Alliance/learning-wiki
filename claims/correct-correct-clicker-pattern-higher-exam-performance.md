@@ -72,3 +72,4 @@ Post hoc contrast from the same vote-pattern model on isomorphic exam questions;
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [During clicker implementation, students' average answering time decreased for both correct and incorrect answers while accuracy stayed nearly stable](clicker-answering-time-decreased-accuracy-stable.md) — related
 - [Perceived deepening of knowledge and confidence in answers did not significantly predict exam scores](participation-perceptions-not-predicting-exam-scores.md) — related
+- [Answer accuracy rose from pre-discussion to post-discussion across classes and question difficulty levels in one uncontrolled pre-post study](peer-discussion-improves-accuracy-pre-to-post.md) — related

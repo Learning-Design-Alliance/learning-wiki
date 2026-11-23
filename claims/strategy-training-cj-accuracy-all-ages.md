@@ -47,3 +47,4 @@ ANOVA on CJ accuracy (gamma correlations) in the life-span experiment (N = 160).
 ## Related Claims
 - [Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults](strategy-training-jol-accuracy-children.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
+- [Metacognitive resolution between confidence and accuracy rose from pre-discussion to post-discussion after peer discussion, in one uncontrolled pre-post study](peer-discussion-improves-metacognitive-resolution.md) — related

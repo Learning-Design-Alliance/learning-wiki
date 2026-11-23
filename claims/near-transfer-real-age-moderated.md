@@ -48,3 +48,4 @@ The second-order meta-analysis (Sala, Aksayli, Tatlidil, Tatsumi, et al., 2019) 
 - [Cognitive training produces no far-transfer effect once publication bias and control-group type are corrected for](cognitive-training-far-transfer-null.md) — related
 - [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
+- [Participant and training characteristics show virtually no moderator effects on far transfer](no-moderators-of-far-transfer.md) — related

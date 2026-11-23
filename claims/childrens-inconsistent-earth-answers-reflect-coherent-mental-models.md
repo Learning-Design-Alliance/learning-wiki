@@ -61,3 +61,4 @@ The study is the standard citation for the view that children's misconceptions a
 - [Large fractions of middle school students hold incorrect views about sizes and distances in the universe both before and after instruction](niaq-size-distance-misconceptions.md) — related
 - [Many intervention 3 students gave dialogue answers inconsistent with their actual quiz-problem solutions](dialogue-answer-solution-inconsistency-intervention-3.md) — a narrower finding that bears on this claim
 - [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — related
+- [Students can simultaneously possess alternate knowledge frameworks whose development and use are context dependent](alternate-frameworks-context-dependent-use.md) — related

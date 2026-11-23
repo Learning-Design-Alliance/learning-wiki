@@ -51,3 +51,4 @@ Five-item Likert self-efficacy survey given only to the Feynman Bot Learners gro
 - [Feynman Bot learners elaborated open-ended answers with scenario or case-study evidence, while every passive learner gave short answers without explanations](feynman-bot-open-ended-elaboration.md) — related
 - [Participants preferred typing over speech as input modality when conversing with the Feynman Bot, contrary to the authors' hypothesis](feynman-bot-typing-preference.md) — related
 - [Participants prefer Kinetiq over Khan Academy and report stronger motivation to return to it than to either comparison platform](kinetiq-preference-and-return-motivation.md) — related
+- [The article reports applying SSAT methodology to the development of AI and BOTs, illustrated with BOT development examples](ssat-applied-to-bot-and-ai-development-examples.md) — a broader claim this one bears on

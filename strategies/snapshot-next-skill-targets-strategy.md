@@ -40,7 +40,8 @@ The article recommends that in settings where only snapshot assessments are avai
 - [Pseudo Temporal Ordering Skill Inclusion](../research-methods/pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear.md)
 
 ## Related Strategies
-- 
+
+- [Improve measurement specificity in longitudinal studies to enable coherent pattern matching of skill gains to later knowledge states](specific-measurement-riskier-tests.md)
 
 ## Examples
 -

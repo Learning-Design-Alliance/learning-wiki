@@ -62,3 +62,4 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
 - [Poorer cognitive flexibility and working memory performance correlate moderately with poorer academic progress (r = −.33 to −.35)](ant-flexibility-working-memory-correlate-academic-progress.md) — reports the opposite
 - [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — reports the opposite
+- [Age effects on executive function–achievement relations are unclear or absent](executive-function-age-effect-unclear.md) — related

@@ -70,3 +70,4 @@ Same MoE study; RandomConcat regroups Split sections across books to match Full'
 - [Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit](pipeline-components-complementary-ablation.md) — related
 - [The book-organization benefit transfers to Llama3-8B, where Full outperforms RandomConcat (+0.86) and Natural Books (+1.51)](book-organization-transfers-llama3-8b.md) — related
 - [Contextual noise from irrelevant textbooks broadly degrades KC planning, most in Validity and Efficiency](contextual-noise-degrades-kc-planning.md) — related
+- [Performance on a shuffled sequence is more accurate and quicker when the learned clusters are preserved than when they are destroyed.](cluster-preservation-improves-shuffled-sequence-performance.md) — related

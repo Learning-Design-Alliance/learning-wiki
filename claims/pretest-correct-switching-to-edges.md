@@ -47,3 +47,4 @@ Longitudinal analysis of the same students across the free cart pre-test and pos
 ## Related Claims
 - [Correct free-cart probability-density responses stayed flat from pre-test to post-test (52% both) and rose to 88% on the examination](free-cart-probability-density-gains.md) — related
 - [Nearly 80% of students answering both end-of-semester questions correctly were consistent, with 29 of 37 correct on both the free cart examination and the balls-on-ramps question](free-cart-and-ramps-consistent-correct.md) — related
+- [Answer accuracy rose from pre-discussion to post-discussion across classes and question difficulty levels in one uncontrolled pre-post study](peer-discussion-improves-accuracy-pre-to-post.md) — related

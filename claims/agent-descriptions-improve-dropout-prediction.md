@@ -52,3 +52,4 @@ Validation study in a massive, open-access, online CS1 course: the authors repor
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation](prototype-mapping-outperforms-behavior-prediction-baselines.md) — related
 - [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](deep-learning-predicts-mooc-dropout-purchasing.md) — related
+- [The DAS model outperformed existing models for study session dropout prediction in mobile learning environments on EdNet-KT4](das-outperforms-on-ednet-kt4-dropout.md) — related

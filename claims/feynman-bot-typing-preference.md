@@ -50,3 +50,4 @@ Participant feedback reported in the discussion of the input-modality finding fr
 - [Learning gains were more consistent (lower standard deviation) among Feynman Bot learners than passive learners, including a negative gain in the control group](feynman-bot-consistent-gains.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
 - [Self-regulated learners who discussed lecture material with the Feynman Bot achieved higher mean learning gains than passive learners studying the same material for the same time](feynman-bot-higher-learning-gain.md) — related
+- [The article reports applying SSAT methodology to the development of AI and BOTs, illustrated with BOT development examples](ssat-applied-to-bot-and-ai-development-examples.md) — a broader claim this one bears on

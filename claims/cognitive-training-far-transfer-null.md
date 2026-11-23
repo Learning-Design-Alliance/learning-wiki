@@ -69,3 +69,5 @@ Second-order meta-analysis integrating 14 independent first-order meta-analyses 
 - [Near transfer from cognitive training is real and appears moderated by participant age, unlike far transfer](near-transfer-real-age-moderated.md) — related
 - [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related
 - [Publication bias is small in the cognitive-training literature, but two laboratories report anomalous effect sizes](publication-bias-and-lab-anomalies.md) — related
+- [Chess, music, and working memory training show small to moderate overall far-transfer effect sizes in typically developing children and young adolescents](chess-music-wm-training-small-moderate-overall-effects.md) — reports the opposite
+- [Far-transfer effect sizes from music and working memory training are minimal or null when compared with active control groups, being inversely related to experimental design quality](far-transfer-effects-inversely-related-to-design-quality.md) — a narrower finding that bears on this claim

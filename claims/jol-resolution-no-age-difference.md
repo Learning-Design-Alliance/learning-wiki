@@ -49,3 +49,4 @@ Appendix analysis of the same experiment: "no significant differences in Gammas 
 - [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
 - [Older adults show lower JOL resolution only when recollection-based responses are contrasted with pooled familiarity and new responses, an outcome attributed to age-related decreases in strong recollective experiences at test](lower-jol-resolution-recollection-contrast.md) — related
 - [Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults](strategy-training-jol-accuracy-children.md) — related
+- [Metacognitive resolution between confidence and accuracy rose from pre-discussion to post-discussion after peer discussion, in one uncontrolled pre-post study](peer-discussion-improves-metacognitive-resolution.md) — related

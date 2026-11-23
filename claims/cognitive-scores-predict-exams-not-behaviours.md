@@ -74,3 +74,4 @@ Correlations between UKCAT cognitive scores and tutor assessments in the same co
 - [Small differences in UKCAT points translate into meaningful prediction: 333-500 extra UKCAT points correspond to one additional mark on each UKFPO outcome](ukcat-points-translate-to-ukfpo-marks.md) — related
 - [UKCAT Verbal Reasoning correlates positively with Theory examinations but not with Skills assessments](ukcat-verbal-reasoning-differential-theory-skills-prediction.md) — related
 - [The UCAT situational judgment subtest weakly predicts professional behaviour in medical school, whilst the cognitive subtests did not](ucat-sjt-weakly-predicts-professional-behaviour.md) — related
+- [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related

@@ -52,3 +52,4 @@ Meta-analytic database of ten studies (2008–2017) meeting inclusion criteria f
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
 - [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related
 - [Executive function deficits are negatively associated with academic achievement and carry the strongest weight in every regression model tested](ef-deficits-negative-academic-achievement-secondary.md) — related
+- [Inter-year stability of children's mathematics achievement increases with age in the ECLS-K, consistent with accumulating stable-factor effects](increasing-math-stability-with-age.md) — related

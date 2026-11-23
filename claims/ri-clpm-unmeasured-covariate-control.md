@@ -59,3 +59,4 @@ Methodological exposition (type d/e) in the section on the role of covariates, e
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related
+- [A latent state-trait model with unmeasured persistent factors reproduces the exponential decay of experimental treatment effects that regression models miss](state-trait-model-reproduces-experimental-decay.md) — related

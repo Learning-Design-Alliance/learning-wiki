@@ -62,3 +62,4 @@ The RQ2 MANOVA showed a moderate multivariate complexity effect (η² = 0.11); u
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related
 - [The highest-quality FB SBT studies with the most relevant outcomes shared curriculum integration and a gradual increase in task difficulty](curriculum-integration-task-difficulty-highest-quality.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
+- [The desirable-difficulties versus cognitive-load opposition in instructional recommendations may be resolved by differences in kinds of knowledge, learning events, and assessments](desirable-difficulties-cognitive-load-opposition.md) — related

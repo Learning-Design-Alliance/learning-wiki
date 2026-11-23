@@ -78,3 +78,4 @@ Longitudinal ANOVA on true-false question CJs. Confidence in incorrect answers d
 - [Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults](strategy-training-cj-differentiation-age-limits.md) — related
 - [Confidence-performance alignment was stronger at six-month follow-up than immediately after instruction](confidence-performance-alignment-stronger-at-delayed-retest.md) — related
 - [Post-feedback conversion of incorrect answers reaches 36.7% overall, highest for closed-ended items (55.1%) and lower for CGT (35.6%) and open-ended (33.9%) items](post-feedback-conversion-rate-by-question-type.md) — related
+- [Self-rated confidence rose more from pre- to post-discussion when partners agreed on correct answers than when they agreed on incorrect answers, in one uncontrolled pre-post study](confidence-gains-larger-for-agreed-correct-answers.md) — related

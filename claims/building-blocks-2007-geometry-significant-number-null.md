@@ -51,3 +51,4 @@ Randomized trial of four preschool teachers (53-61 children) from low-income fam
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](building-blocks-clements-2011-scale-up-effect.md) — related
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — a broader claim this one bears on
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](building-blocks-clements-2008-large-effect.md) — related
+- [The TRIAD preschool math intervention produced a large end-of-pre-K impact (.63 SD) and significant impacts on all four REMA subdomains](triad-large-initial-impacts-four-subdomains.md) — related

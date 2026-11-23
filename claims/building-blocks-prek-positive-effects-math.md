@@ -52,3 +52,4 @@ WWC synthesis of two randomized controlled trials (Clements & Sarama 2006, 28 te
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](building-blocks-clements-2011-scale-up-effect.md) — a narrower finding that bears on this claim
 - [Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier](pre-k-mathematics-positive-effects-math-achievement.md) — related
 - [In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes](building-blocks-2007-geometry-significant-number-null.md) — a narrower finding that bears on this claim
+- [The TRIAD preschool math intervention produced a large end-of-pre-K impact (.63 SD) and significant impacts on all four REMA subdomains](triad-large-initial-impacts-four-subdomains.md) — related

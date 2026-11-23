@@ -51,3 +51,4 @@ The review's fourth section draws on recent literatures on video-game play and m
 - [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — related
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — a broader claim this one bears on
+- [Action-video-game training improves only the cognitive abilities targeted by the specific game played, supporting common-elements theory](video-game-training-domain-specific-gains.md) — related

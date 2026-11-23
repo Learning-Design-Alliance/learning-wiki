@@ -50,3 +50,4 @@ Prospective cohort of the entire 2007 entry cohort (146 students; 137 completed 
 - [Tutor-assessed group-participation behaviours best predict overall examination performance and distinguish top from bottom examination achievers](group-participation-ta-items-best-predict-exams.md) — related
 - [Individual predictive correlations are weak (mostly 0.16–0.24) but the overall pattern of significant relationships exceeds chance (51 of 380, 13.4%)](weak-but-better-than-chance-predictive-correlations.md) — related
 - [A co-examiner 'basket' comparison method validly detects anomalous examiner behaviour, with an odd-even control condition performing at chance expectation](basket-coexaminer-method-validated-by-control.md) — related
+- [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related

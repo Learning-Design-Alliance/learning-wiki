@@ -48,3 +48,4 @@ Technical finding on chatbots with students, reported in Table 5. The report not
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Instructors authoring AI tutoring chatbots in a MOOC almost never systematically tested their bots before deploying them to students](teachers-rarely-test-ai-tutor-bots-before-publication.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [The article reports applying SSAT methodology to the development of AI and BOTs, illustrated with BOT development examples](ssat-applied-to-bot-and-ai-development-examples.md) — related

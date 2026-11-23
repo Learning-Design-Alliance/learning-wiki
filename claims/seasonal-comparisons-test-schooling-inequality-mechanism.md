@@ -53,3 +53,4 @@ The abstract describes the study's design: seasonal comparisons on "recent natio
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
 - [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related
+- [Seasonal patterns of gap growth did not consistently replicate across datasets, subjects, grade levels, or measures of advantage](seasonal-gap-growth-patterns-not-replicable.md) — a narrower finding that bears on this claim

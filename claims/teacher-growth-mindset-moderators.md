@@ -77,3 +77,4 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 - Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
 - [The PSU–achievement relationship is not significantly moderated by sex, region, age, year of publication, study quality, achievement indicator, PSU assessment format, or publication status](psu-achievement-link-robust-to-methodological-demographic-moderators.md) — related
 - [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](growth-mindset-predicts-achievement-goal-orientations.md) — related
+- [Nationality and publication status moderate mastery-based goal–performance correlations; age and sex do not](nationality-publication-moderate-mastery-goals.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-23
 sources:
   - id: irma-eloff-and-michelle-finestone-brian-forsyth-2016
     resource: "https://doi.org/10.15700/saje.v36n2a1285"
@@ -56,7 +57,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (5 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-23 (automated, 5 of 5 entries) · not reviewed by a person
 > **Design limits** · Irma Eloff and Michelle Finestone; Brian Forsyth 2016 (2): the intervention came bundled with another change (mother support/parenting sessions, child sessions, and joint mother-child sessions) (read from the study by two models, 2026-11-23)
 
 ## Subclaims

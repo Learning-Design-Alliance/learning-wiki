@@ -79,3 +79,4 @@ The review reports, citing Jacob and Parkinson 2015, a ranked pattern across EF 
 - [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — related
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](ef-components-predict-english-subskills-network.md) — a narrower finding that bears on this claim
 - [Academic achievement was positively correlated with all three executive function domains in both boys and girls](executive-function-categories-higher-academic-grades.md) — a narrower finding that bears on this claim
+- [Age effects on executive function–achievement relations are unclear or absent](executive-function-age-effect-unclear.md) — a narrower finding that bears on this claim

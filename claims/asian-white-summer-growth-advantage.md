@@ -52,3 +52,4 @@ Seasonal comparison of Asian-White and White-White growth rates across school an
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
 - [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — a broader claim this one bears on
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — related
+- [Prior summer learning findings on SES, black-white, and gender gaps are mixed across studies, with some showing summer gap growth and others showing none or the opposite](mixed-gap-findings-prior-literature.md) — related

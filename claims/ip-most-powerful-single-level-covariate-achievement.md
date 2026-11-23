@@ -60,3 +60,4 @@ Meta-analytic integration of single-level design parameters estimated from six G
 - [School-level science pretests explain more variance in science outcomes than school-level reading or mathematics pretests in every grade and state](same-subject-science-pretest-more-explanatory.md) — a narrower finding that bears on this claim
 - [Domain-specific and conceptual declarative knowledge is the individual characteristic most consistently related to adaptive expertise](domain-knowledge-main-individual-characteristic-adaptive-expertise.md) — related
 - [Family background covariates relate similarly to Reading and Science but differently to Math, while contextual covariates act similarly across outcomes](background-reading-science-vs-math-pattern.md) — related
+- [Cross-domain correlations fail a falsification test: early math predicts later reading almost as strongly as later math beyond first grade](cross-domain-falsification-math-reading.md) — reports the opposite

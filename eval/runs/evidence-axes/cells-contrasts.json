@@ -133642,5 +133642,49 @@
  "autonomy-support\tallowing choice-making\tno-choice baseline condition": {
   "label": "choice vs no choice",
   "treatment_is_a": true
+ },
+ "?\tearly childhood education programs\tnot stated": {
+  "label": "early childhood education programs vs no early childhood education programs",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion before a second answer\tindividual answer before discussion": {
+  "label": "peer discussion with re-answering vs individual answering alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion before final answer\tindividual pre-discussion answer": {
+  "label": "peer discussion with re-answering vs individual answering alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion followed by a second answer\tindividual pre-discussion answer": {
+  "label": "peer discussion with re-answering vs individual answering alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion with final answer\talways choosing the more confident peer's answer": {
+  "label": "peer discussion with final answer vs choosing the more confident peer's answer",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-discussion confidence\tpre-discussion confidence": {
+  "label": "post-discussion confidence vs pre-discussion confidence",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdiagnostic questions with answer choices\tguessing why a student answered incorrectly": {
+  "label": "diagnostic questions with answer choices vs guessing why a student answered incorrectly",
+  "treatment_is_a": true
+ },
+ "gamification\tleaderboard and points introduced\tpre-leaderboard system": {
+  "label": "leaderboards and points vs no leaderboards or points",
+  "treatment_is_a": true
+ },
+ "gamification\tleaderboard introduction on the computer-based learning system\tplacebo dates assigned as false change dates": {
+  "label": "leaderboards and points vs no leaderboards or points",
+  "treatment_is_a": true
+ },
+ "gamification\tpoints, rankings, and leaderboards\tprivate-feedback system without points or leaderboards": {
+  "label": "leaderboards and points vs no leaderboards or points",
+  "treatment_is_a": true
+ },
+ "interleaving\tmixed practice\tblocked practice": {
+  "label": "interleaved practice vs blocked practice",
+  "treatment_is_a": true
  }
 }

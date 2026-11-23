@@ -53,3 +53,5 @@ Meta-analyses of EF training reviewed in the training section show "near-transfe
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](cogmed-working-memory-training-narrow-transfer.md) — related
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — related
+- [Short-term cognitive training rarely transfers to academics, but direct academic instruction improves cognitive abilities](academic-instruction-improves-cognitive-abilities.md) — possibly the same claim (merge candidate)
+- [Chess, music, and working memory training show small to moderate overall far-transfer effect sizes in typically developing children and young adolescents](chess-music-wm-training-small-moderate-overall-effects.md) — related

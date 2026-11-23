@@ -74,3 +74,4 @@ Boundary-condition statement from the Discussion, grounding the earlier observat
 - [The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites](linearity-bias-lowers-computational-prerequisites.md) — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
 - [Under the conditional-independence assumption, per-entity computation in the adapted HSRDM scales linearly in the number of students](hsrdm-linear-scaling-group-size.md) — related
+- [The EM-based MML procedure applies to general item-response models lacking simple sufficient statistics for ability](em-mml-applies-to-general-irt-models.md) — related

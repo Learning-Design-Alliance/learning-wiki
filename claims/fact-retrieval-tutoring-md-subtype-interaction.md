@@ -56,3 +56,5 @@ Randomized controlled trial of 139 third graders blocked by site and MD subtype 
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [Procedural computation/estimation tutoring does not improve automatic fact retrieval](procedural-tutoring-no-fact-retrieval-gain.md) — related
 - [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](mfr-fluency-training-improves-learning.md) — related
+- [Both Math Flash (NC) tutoring and Pirate Math (WP) tutoring outperform no tutoring on number-combination fluency, and the two tutoring groups do not differ](nc-and-wp-tutoring-improve-nc-fluency.md) — related
+- [Tutoring efficacy does not differ for students with mathematics difficulty alone versus mathematics plus reading difficulty](no-differential-tutoring-response-by-difficulty-status.md) — reports the opposite

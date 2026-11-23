@@ -66,3 +66,4 @@ Same zero-order correlational analysis in the same longitudinal sample. The with
 ## Related Claims
 - [Cross-domain longitudinal relations hold between kindergarten math and 5th-grade reading and between kindergarten reading and 5th-grade math](cross-domain-longitudinal-relations-math-reading-french-sample.md) — related
 - [Fifth-grade theory of mind partially mediates within- and cross-domain relations between early and later academic skills](theory-of-mind-partially-mediates-academic-relations.md) — related
+- [Cross-domain correlations fail a falsification test: early math predicts later reading almost as strongly as later math beyond first grade](cross-domain-falsification-math-reading.md) — related

@@ -60,3 +60,4 @@ Multigroup RI-CCLPM variants by gender and initial ability. The temporal structu
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
 - [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
 - [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](sex-noninvariance-gaming-motivation-covariance.md) — reports the opposite
+- [The directional association from achievement to intrinsic motivation is gender invariant](motivation-achievement-association-gender-invariant.md) — related

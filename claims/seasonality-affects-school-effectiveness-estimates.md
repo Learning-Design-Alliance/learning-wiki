@@ -52,3 +52,4 @@ The brief's own description states it examines "the effect of seasonality on est
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
 - [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related
+- [Changes of test form confounded summer learning estimates in fixed-form seasonal studies](test-form-changes-confounded-summer-learning.md) — related

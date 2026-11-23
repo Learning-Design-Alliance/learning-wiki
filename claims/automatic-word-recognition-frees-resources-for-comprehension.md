@@ -143,3 +143,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](comprehension-not-decoding-predicts-wam.md) — related
 - [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — a narrower finding that bears on this claim
 - [Peer attention cues improve accuracy on hard comprehension questions and overall test scores, but not easy recognition questions](peer-attention-improves-hard-question-accuracy.md) — related
+- [Training with consistent mapping in visual search yields automatic, load-insensitive performance](consistent-mapping-yields-automatic-processing.md) — a narrower finding that bears on this claim

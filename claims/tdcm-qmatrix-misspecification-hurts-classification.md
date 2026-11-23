@@ -60,3 +60,5 @@ The article attributes this finding to previous research studies, cited as backg
 - [Reliability of a test is a prerequisite for valid comparison, experimentation, classification and diagnosis](reliability-prerequisite-for-test-uses.md) — related
 - [Classification accuracy is high (over 0.9) for most measured skills but low for FCI visualizations (0.79) and EMCS algebra (0.63)](skill-classification-accuracy-three-mechanics-rbas.md) — related
 - [DIF severity classifications are 100% invariant across alternative FCI Q-matrix specifications](fci-dif-severity-invariant-across-q-matrices.md) — a narrower finding that bears on this claim
+- [Simulation results are presented to examine estimation performance and to examine the sensitivity of classification to model misspecification in the higher-order model](classification-sensitivity-misspecification-simulation.md) — a narrower finding that bears on this claim
+- [The article studies conditions of identifiability of the latent attribute space and conditions of Q-matrix completeness under attribute hierarchies](identifiability-and-q-matrix-completeness-conditions-hierarchies.md) — related

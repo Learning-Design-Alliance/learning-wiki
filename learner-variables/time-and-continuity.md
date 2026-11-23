@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 278 claims (178 show a difference, 65 mixed, 35 no difference) · 243 studies (116 causal, 60 associational, 24 review, 15 quant-synthesis, 14 design, 11 qualitative, 3 theoretical), `q1`–`q4` · 44 of 243 report an effect size · 274 claims rest on one study
+> **Evidence** · 279 claims (178 show a difference, 66 mixed, 35 no difference) · 244 studies (116 causal, 61 associational, 24 review, 15 quant-synthesis, 14 design, 11 qualitative, 3 theoretical), `q1`–`q4` · 44 of 244 report an effect size · 275 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -335,6 +335,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Absenteeism is significantly negatively associated with academic performance](../claims/absenteeism-negative-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](../claims/school-absenteeism-associated-poor-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [First-generation Native Hawaiian students face financial barriers that can interrupt college persistence, including dropping out over unpaid funding](../claims/financial-barriers-native-hawaiian-astronomy-students.md) [+W] — learners who differ on it differ in outcomes
+- [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](../claims/century-of-summer-replication-failure.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 316 claims (177 show a difference, 66 mixed, 73 no difference) · 241 studies (119 associational, 85 causal, 15 review, 12 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 241 report an effect size · 315 claims rest on one study
+> **Evidence** · 317 claims (178 show a difference, 66 mixed, 73 no difference) · 242 studies (119 associational, 85 causal, 15 review, 13 quant-synthesis, 5 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 39 of 242 report an effect size · 316 claims rest on one study
 
 ## How to read this page
 
@@ -401,6 +401,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Socioeconomic status and hemoglobin levels show no significant association with academic achievement or cognitive function in this sample, for either sex](../claims/ses-hemoglobin-null-associations.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Lower family monthly income and younger child age were significantly associated with low academic performance](../claims/income-and-age-associated-with-academic-performance.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Retention disproportionately affects males, non-Hispanic Black students, and students from lower income families](../claims/retention-disproportionately-affects-at-risk-groups.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the US, genetic variance in intelligence rises with SES, from heritability of 26% at 2 SD below mean SES to 61% at 2 SD above](../claims/us-heritability-increases-with-ses.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

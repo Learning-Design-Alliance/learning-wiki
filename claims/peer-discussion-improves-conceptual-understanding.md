@@ -154,3 +154,5 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [A one-time talk-distribution seating diagnostic is associated with more balanced think-pair-share participation by end of term, per unquantified practitioner observation](talk-distribution-seating-diagnostic-observation.md) — related
 - [Collaborative group work gives students opportunities to hone arguments and explanations and builds confidence to share reasoning class-wide](a2l-group-work-confronts-models.md) — related
 - [Students can learn as much by observing peers learn a task as by performing it themselves (vicarious learning)](vicarious-learning-observing-peers-claim.md) — related
+- [Correctness of an answer predicts switching beyond what confidence alone would produce, indicating process gain](correctness-predicts-switching-beyond-confidence.md) — a narrower finding that bears on this claim
+- [Students pair with neighbors who share their level of understanding more than expected by chance](students-self-pair-by-similar-understanding.md) — related

@@ -1,0 +1,49 @@
+---
+type: claim
+title: Averaging practice data produces a bias in favor of the power function over the exponential function
+description: Averaging practice data produces a bias in favor of the power function over the exponential function
+id: averaging-biases-toward-power-function
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-23
+evidence_strength: weak
+newest_evidence: 2000
+sources:
+  - id: heathcote-2000
+    resource: "https://doi.org/10.3758/bf03212979"
+    title: "Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979"
+    author: "Heathcote, A., Brown, S., & Mewhort, D. J. K."
+    q: 1
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Averaging practice data produces a bias in favor of the power function over the exponential function
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q1 i?` Linear averaging of learning curves yields a composite systematically biased toward the power function relative to the exponential function, so evidence from averaged data may be artifactual. [→ Heathcote 2000](#heathcote-2000)
+
+## Evidence
+
+### Heathcote 2000
+
+Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979
+
+`q1 · i?` · `associational · r2`
+
+Theoretical argument in the introduction, citing prior work (e.g., R. B. Anderson & Tweney, 1997; Myung, Kim, & Pitt), that average curves need not take the form of individual curves and that averaging favors the power function. The article offers this as argument, not a new test.
+
+> "Moreover, recent work shows that linear averaging yields a composite that is systematically biased toward the power function, when compared with the exponential function"
+
+## Discussion
+
+
+## Related Claims
+- [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
+- [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related

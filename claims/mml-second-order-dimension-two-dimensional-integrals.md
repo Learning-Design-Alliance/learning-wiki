@@ -50,3 +50,5 @@ Analytical demonstration in the section on a multidimensional model with a secon
 - [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — a broader claim this one bears on
 - Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
+- [EM-algorithm-based computing procedures make marginal maximum likelihood estimation of item parameters practical](em-algorithm-makes-mml-practical.md) — a broader claim this one bears on
+- [The EM-based MML procedure covers item-response models with more than one latent dimension](em-mml-covers-multidimensional-models.md) — related

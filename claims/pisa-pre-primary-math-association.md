@@ -51,3 +51,4 @@ Cross-sectional multivariate regression of 2018 PISA data for 430,264 adolescent
 - [Pre-primary–test-score associations vary by country income group and region, being slightly larger in lower-middle- and high-income countries and largest in East Asia and Pacific](pre-primary-association-regional-variation.md)
 - [Early childhood development risks and learning opportunities show graded disadvantage from upper-middle- to lower-middle- to low-income countries, and within countries by wealth and rural residence](early-childhood-inequality-income-gradient.md)
 - [Despite gains, participating students still scored significantly lower than non-participants, and the inequality between the groups was slightly reduced](participants-still-lower-inequality-reduced.md) — related
+- [A review of 67 early childhood education studies reports average end-of-treatment effects of .23 SD fading to about .10 SD within a year](review-67-ece-studies-fadeout.md) — related

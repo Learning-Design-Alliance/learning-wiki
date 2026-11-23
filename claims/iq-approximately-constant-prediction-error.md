@@ -55,3 +55,4 @@ Repeated Stanford-Binet (Stanford Revision) testing of 143 children begun in 191
 - [Repeated Stanford-Binet testing of summer-school pupils over four years shows mostly small IQ differences, with a median difference of 5.25 points](summer-school-iq-differences-median-525.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
 - [IQ is fairly stable across the lifespan, with mental-ability scores at age 11 correlating about r = .70 with tests taken more than 60 years later](iq-stability-across-lifespan-r70.md) — related
+- [An additional year of education raises intelligence by approximately 1 to 5 IQ points, per a meta-analysis of quasi-experimental studies](education-raises-iq-1-to-5-points-per-year.md) — related
