@@ -75,3 +75,5 @@ Partial correlations between significant scaffolded-phase affect transitions and
 - [Frustration was marginally significantly negatively correlated with learning outcomes, while boredom was unexpectedly positively correlated](frustration-negative-boredom-positive-learning-correlation.md) — related
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](frustration-related-to-unexpected-design-events.md) — related
 - [GPT hint availability did not significantly change the frequency of students' self-reported affective states during programming practice](gpt-hints-no-affect-impact.md) — related
+- [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](boredom-performance-context-dependent-assistments.md) — related
+- [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](confusion-context-dependent-pattern-assistments.md) — related

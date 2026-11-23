@@ -53,3 +53,4 @@ Within-subject experiment testing hypothesis 1b with point-biserial rank correla
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
 - [Perceived partner competence does not predict how often learners change the direction of their assumptions](perceived-competence-no-impact-on-adjustment.md) — related
+- [Answer switching during peer disagreement is driven by both one's own confidence and the partner's confidence](confidence-predicts-answer-switching.md) — a broader claim this one bears on

@@ -69,3 +69,4 @@ Same K-5 univariate latent-growth-curve analyses for WA-decoding and TOSREC-read
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — related
 - [ADHD has a weaker negative effect on achievement in higher-achieving schools (positive slope–intercept correlation)](weaker-adhd-effect-in-higher-achieving-schools.md) — related
+- [Reading and math both show fan-spread growth in academically at-risk children, with negative proportional change indicating attenuated growth over grades](fan-spread-growth-reading-math-at-risk.md) — related

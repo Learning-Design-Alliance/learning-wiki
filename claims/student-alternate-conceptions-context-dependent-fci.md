@@ -49,3 +49,4 @@ Table 1 reports pre- and post-test incorrect-answer percentages for ~900 introdu
 - [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related
 - [Student alternate conceptions related to Newton's third law — and instructors' and TAs' ability to identify them — are context dependent on the FCI](newtons-third-law-pck-context-dependent.md) — possibly the same claim (merge candidate)
 - [The strength of an alternate conception is not correlated with instructors' or graduate students' PCK performance on that item](alternate-conception-strength-uncorrelated-pck.md) — related
+- [Students can simultaneously possess alternate knowledge frameworks whose development and use are context dependent](alternate-frameworks-context-dependent-use.md) — a broader claim this one bears on

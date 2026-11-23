@@ -52,3 +52,4 @@ The review narrates meta-analytic findings on EF–achievement associations, cit
 - [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — related
 - [All types of working memory functions show substantial relationships with IQ, with average correlations greater than .50](working-memory-functions-correlate-with-iq.md) — related
 - [A recent meta-analysis of 8,760 children from 25 studies found small to medium effect sizes for the association between SES and EF](meta-analysis-ses-ef-effect-sizes.md) — related
+- [Age effects on executive function–achievement relations are unclear or absent](executive-function-age-effect-unclear.md) — a narrower finding that bears on this claim

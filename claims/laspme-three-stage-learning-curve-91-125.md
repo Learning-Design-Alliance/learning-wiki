@@ -53,3 +53,4 @@ Retrospective analysis of 182 consecutive LASPME procedures by a single surgeon 
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related
 - [CUSUM analysis of operative time identified an inflection point at approximately the 34th vaginal myomectomy case, marking transition to a stable proficiency phase](vm-cusum-inflection-34th-case.md) — related
+- [First-piece durations in multi-piece curves are comparable across tasks, with medians of approximately 125 exercises and 2–3 months](first-piece-durations-medians.md) — related

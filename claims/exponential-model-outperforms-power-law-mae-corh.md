@@ -50,3 +50,4 @@ Benchmark evaluation of both fitted memory models on data from February 2019 to 
 - [In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.](exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) — related
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [The power-law recall function better approximates the log-normal-derived recall function than the logarithmic form](power-law-recall-function-preferred.md) — related
+- [The power function systematically predicts implausibly fast asymptotic response times](power-function-implausible-asymptotes.md) — related

@@ -66,3 +66,4 @@ Analysis of Variance comparing students in the top and bottom 20% of summative e
 - [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related
 - [Non-cognitive personal quality test scores show significant relationships with tutor-assessed professional behaviours in years 1 and 2 of medical school](non-cognitive-tests-predict-tutor-rated-behaviours.md) — related
 - [The Chain Puzzle best distinguished the top and bottom quarters of the group among all twelve tests.](chain-puzzle-best-extreme-quarter-differentiation.md) — related
+- [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related

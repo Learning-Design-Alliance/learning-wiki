@@ -51,3 +51,4 @@ Secondary analysis of the ECLS-K: 2010, a nationally representative sample of 18
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
 - Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — reports the opposite
 - A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation — related
+- [Inter-year stability of children's mathematics achievement increases with age in the ECLS-K, consistent with accumulating stable-factor effects](increasing-math-stability-with-age.md) — related

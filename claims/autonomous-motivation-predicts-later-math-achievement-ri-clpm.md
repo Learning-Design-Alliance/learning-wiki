@@ -53,3 +53,5 @@ Results of a three-wave random intercept cross-lagged panel model (Model 1) in a
 - [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](asc-achievement-temporal-asymmetry.md) — related
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [In a short-timeframe vocabulary-learning experiment, achievement shows a unilateral effect on subsequent intrinsic motivation, with no reciprocal motivation→achievement effect](unilateral-achievement-to-motivation-no-reciprocity-short-timeframe.md) — reports the opposite
+- [Prior mathematics achievement predicts subsequent intrinsic motivation in mathematics across grades 1 to 4](achievement-predicts-later-math-intrinsic-motivation.md) — related
+- [Intrinsic motivation in mathematics did not predict later mathematics achievement at any time point](math-intrinsic-motivation-does-not-predict-achievement.md) — reports the opposite

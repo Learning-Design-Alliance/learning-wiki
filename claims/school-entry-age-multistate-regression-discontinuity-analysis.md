@@ -48,3 +48,4 @@ The associated working paper is titled "Impacts of school entry age on academic 
 - [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](entry-age-growth-rate-tradeoff.md) — possibly the same claim (merge candidate)
 - [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related
 - [Prior evidence on school entry age lacked causal estimates of growth through early grades](prior-entry-age-evidence-gap.md) — related
+- [Regression-discontinuity designs on school-entry age cutoffs support beneficial effects of education on intelligence](school-entry-cutoff-rdd-iq-effects.md) — related

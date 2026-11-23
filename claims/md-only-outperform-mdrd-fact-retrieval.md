@@ -52,3 +52,5 @@ Posttest ANCOVA main effect for MD subtype was significant, F(1,127) = 14.95, p 
 - [Tutoring condition interacts with MD subtype status in effects on third graders' fact retrieval skill](fact-retrieval-tutoring-md-subtype-interaction.md) — related
 - [MDRD third graders show no significant differences among tutoring conditions on fact retrieval](mdrd-no-fact-retrieval-tutoring-response.md) — related
 - [MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval](md-only-fact-retrieval-tutoring-gains.md) — related
+- [Students with mathematics difficulty alone outperform students with mathematics plus reading difficulty on number-combination fluency at posttest](md-outperform-mdrd-on-nc-fluency.md) — related
+- [Tutoring efficacy does not differ for students with mathematics difficulty alone versus mathematics plus reading difficulty](no-differential-tutoring-response-by-difficulty-status.md) — related

@@ -69,3 +69,5 @@ The same convergence analyses showed the preschool-related externalizing-behavio
 - [Differences in children's social skills account for roughly 10–20% of the convergence in academic test scores](social-skills-explain-test-score-convergence.md) — related
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
+- [On the ECLS-K ability scale, poor–nonpoor gaps shrank by roughly one-quarter in reading and math from first through eighth grade](ecls-k-ability-scale-poor-nonpoor-gaps-shrank.md) — related
+- [Test score gaps are already substantial when children enter school and grow relatively little afterward](gaps-form-mainly-early-childhood-before-school.md) — related

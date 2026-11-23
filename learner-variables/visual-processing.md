@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (57 show a difference, 19 mixed, 15 no difference) · 57 studies (25 causal, 12 associational, 10 review, 4 quant-synthesis, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 11 of 57 report an effect size · 91 claims rest on one study
+> **Evidence** · 94 claims (59 show a difference, 20 mixed, 15 no difference) · 58 studies (25 causal, 12 associational, 11 review, 4 quant-synthesis, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 11 of 58 report an effect size · 94 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -127,6 +127,9 @@ Visual processing is what the brain does with the input that comes through visio
 - [Expertise moderates LLM-driven attention allocation: experts maintain greater engagement with the task environment than novices and show stronger LLM-related changes in visual exploration](../claims/expertise-moderates-llm-attention-allocation.md) [~M] — measured as an outcome of the instruction studied
 - [LLM support redistributes visual attention in simulated SAR, reducing fixation time on the game environment and increasing fixation time on the chat interface](../claims/llm-shifts-attention-game-to-chat.md) [+M] — measured as an outcome of the instruction studied
 - [Visual attention cues do not moderate the trust-distorting effect of learned dependency (null three-way interaction)](../claims/highlighting-fails-mitigate-dependency-trust-distortion.md) [-M] — an instructional effect differs with it
+- [Practice in visual search sharply reduces discrimination time, with gains persisting for years, but learning can be specific to trained location and orientation](../claims/visual-search-training-gains-and-specificity.md) [~M] — measured as an outcome of the instruction studied
+- [Training produces large improvements in basic visual discrimination thresholds such as Vernier acuity](../claims/vernier-acuity-training-improves-thresholds.md) [+M] — measured as an outcome of the instruction studied
+- [Training with consistent mapping in visual search yields automatic, load-insensitive performance](../claims/consistent-mapping-yields-automatic-processing.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

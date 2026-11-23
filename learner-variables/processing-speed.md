@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (59 show a difference, 31 mixed, 15 no difference) · 72 studies (32 causal, 26 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 72 report an effect size · 105 claims rest on one study
+> **Evidence** · 107 claims (61 show a difference, 31 mixed, 15 no difference) · 74 studies (32 causal, 26 associational, 8 quant-synthesis, 5 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 107 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -141,6 +141,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Third-year physics/electronics students show lower mean reaction time and narrower deviation from the mean than first- and second-year students](../claims/third-year-students-faster-reaction-time-narrower-deviation.md) [+M] — measured as an outcome of the instruction studied
 - [High basic-knowledge scorers also showed significantly slower total reaction times across all fifteen questions than low scorers](../claims/high-scorers-slower-total-reaction-times.md) [+M] — learners who differ on it differ in outcomes
 - [In a small pre-study, fifth-graders with weaker basic electrical knowledge showed significantly faster reaction times on cross-domain concept activation questions than high scorers](../claims/weak-basic-knowledge-faster-cross-domain-activation.md) [+M] — learners who differ on it differ in outcomes
+- [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](../claims/chess-masters-encode-chunks-not-deeper-search.md) [+M] — learners who differ on it differ in outcomes
+- [Chess players show superior overall cognitive ability to non-players, and chess skill correlates with fluid intelligence, processing speed, memory, and comprehension knowledge](../claims/chess-skill-correlates-cognitive-ability.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

@@ -57,3 +57,7 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 - [Drift rate increases as a continuous exponential function of cumulative trial number across four days of perceptual training](drift-rate-continuous-exponential-cumulative-trials.md) — related
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
 - [The power-law recall function better approximates the log-normal-derived recall function than the logarithmic form](power-law-recall-function-preferred.md) — related
+- [The APEX function fits better than the general power function, indicating the learning rate does not decrease to zero with practice](apex-beats-general-power-function.md) — related
+- [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
+- [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
+- [A piecewise power law model explains individual learning curves significantly better than a single power law](ppl-fits-individual-learning-curves-better-than-single-pl.md) — related

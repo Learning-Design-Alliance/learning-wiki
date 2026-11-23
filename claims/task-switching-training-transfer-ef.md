@@ -95,3 +95,4 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 - [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md)
 - [Training produces near transfer to an untrained switching task, limited to switch cost at short CSIs](near-transfer-switch-cost-short-csi.md) — a narrower finding that bears on this claim
 - [No far-transfer effects of task-switching training on interference control, response inhibition, working memory, or intelligence](no-far-transfer-executive-functions.md) — reports the opposite
+- [Short-term cognitive training rarely transfers to academics, but direct academic instruction improves cognitive abilities](academic-instruction-improves-cognitive-abilities.md) — reports the opposite

@@ -56,3 +56,4 @@ Two publication-bias assessments using PET-PEESE and various selection methods w
 - [Applying the reproducibility checks to TRANSFER performance, the Xie et al. (2018) results are (rather) robust, but RECALL and moderator results are doubtful](xie-2018-transfer-robust-recall-doubtful.md) — related
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
+- [The authors conclude education is the most consistent, robust, and durable method yet identified for raising intelligence](education-most-durable-method-raising-intelligence.md) — related

@@ -87,3 +87,4 @@ Cross-study comparison of published studies (Agarwal et al.; Bertilsson et al.; 
 - [The authors conclude that intentional practice with basic mathematics facts offers benefits regardless of the method used to rehearse](intentional-practice-any-method-benefits-fluency.md) — related
 - [The authors propose that the effect of concurrent or frequent feedback depends on the learner's skill level relative to task complexity, which may explain the null retention effect](feedback-skill-level-moderation-hypothesis.md) — related
 - [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related
+- [Mechanisms proposed for mutualistic coupling include semantic bootstrapping lowering working-memory demands and environmental multipliers via selection into richer opportunities](proposed-mechanisms-mutualistic-coupling.md) — related

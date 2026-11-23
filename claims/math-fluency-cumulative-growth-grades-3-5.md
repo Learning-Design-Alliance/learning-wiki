@@ -51,3 +51,4 @@ Univariate latent-growth-curve model of WJ-III Math Fluency across grades 3-5 in
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — related
 - [Math skills show the opposite two-stage pattern: no individual differences in early growth but significant individual differences in late elementary growth for two of three measures](math-growth-individual-differences-late-not-early-elementary.md) — related
+- [Reading and math both show fan-spread growth in academically at-risk children, with negative proportional change indicating attenuated growth over grades](fan-spread-growth-reading-math-at-risk.md) — related

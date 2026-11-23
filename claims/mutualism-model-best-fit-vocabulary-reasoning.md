@@ -49,3 +49,5 @@ Model comparison in the Results section of a two-wave longitudinal SEM study (N 
 - Mutualism was overwhelmingly favored over g-factor and investment models by information criteria and Akaike weights — possibly the same claim (merge candidate)
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
 - [Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval](univariate-lcs-growth-negative-feedback.md) — related
+- [In a three-wave replication sample of children ages 6–8, the mutualism latent change score model fits vocabulary and reasoning development better than the g-factor and investment models](mutualism-model-outperforms-g-factor-investment-children.md) — possibly the same claim (merge candidate)
+- [A parallel-process implementation validates cross-domain (not within-domain) coupling, disfavoring a Matthew-effect account](parallel-process-validates-cross-domain-coupling.md) — related

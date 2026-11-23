@@ -51,3 +51,4 @@ Within-subject ANOVA with rank transformation on competence ratings across three
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
+- [Answer switching during peer disagreement is driven by both one's own confidence and the partner's confidence](confidence-predicts-answer-switching.md) — related

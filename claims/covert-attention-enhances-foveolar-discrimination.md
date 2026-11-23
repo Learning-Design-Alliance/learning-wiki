@@ -71,3 +71,4 @@ Same Experiment 3 analysis comparing invalid-cue costs across hemifield configur
 - [Endogenous spatial cueing speeds detection at the attended parafoveal location and slows it at the unattended location](covert-cueing-speeds-parafoveal-detection.md) — related
 - [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md) — related
 - [Normal sense organs possess surplus discriminative efficiency beyond ordinary practical demands](sense-organs-surplus-efficiency.md) — related
+- [Practice in visual search sharply reduces discrimination time, with gains persisting for years, but learning can be specific to trained location and orientation](visual-search-training-gains-and-specificity.md) — related

@@ -56,3 +56,5 @@ The page lists the associated journal article, titled "A seasonal analysis of ra
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — related
 - [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — related
+- [Test score gaps are already substantial when children enter school and grow relatively little afterward](gaps-form-mainly-early-childhood-before-school.md) — related
+- [Prior summer learning findings on SES, black-white, and gender gaps are mixed across studies, with some showing summer gap growth and others showing none or the opposite](mixed-gap-findings-prior-literature.md) — related

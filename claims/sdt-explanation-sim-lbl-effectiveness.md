@@ -53,3 +53,4 @@ Authors' theoretical interpretation offered in the Discussion, not a separately 
 - [Sim + LBL students scored higher on subjective and case-analysis test components, with a large effect for case analysis](sim-lbl-case-analysis-scores-large-effect.md) — related
 - [Undergraduate students taught with the Sim + LBL hybrid model achieved higher total post-class test scores than students taught with traditional LBL in dermatology and venereology](sim-lbl-higher-total-post-class-scores.md) — related
 - [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related
+- [The findings challenge self-determination theory's assumption that intrinsic motivation leads to higher mathematics achievement in early elementary school](findings-challenge-sdt-motivation-drives-achievement.md) — related

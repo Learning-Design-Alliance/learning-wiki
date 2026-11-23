@@ -53,3 +53,4 @@ Pedagogical decomposition (Table 5, ASSIST15 L=10, 3 seeds, 200 test learners) m
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Curriculum learning with easy-to-hard data ordering yields better final performance than shuffled vanilla learning on both benchmarks](yoda-curriculum-learning-improves-robustness.md) — related
+- [Performance on a shuffled sequence is more accurate and quicker when the learned clusters are preserved than when they are destroyed.](cluster-preservation-improves-shuffled-sequence-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (76 show a difference, 16 mixed, 12 no difference) · 64 studies (30 causal, 17 associational, 6 design, 5 quant-synthesis, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 14 of 64 report an effect size · 101 claims rest on one study
+> **Evidence** · 106 claims (78 show a difference, 16 mixed, 12 no difference) · 65 studies (31 causal, 17 associational, 6 design, 5 quant-synthesis, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 15 of 65 report an effect size · 103 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -141,6 +141,8 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [After the module, 90% of students described extreme objects spanning atomic to cosmological scales, with narrow-range answers falling to 10%](../claims/scale-of-universe-broad-range-gain.md) [+M] — measured as an outcome of the instruction studied
 - [In trials that added a dedicated practice activity, post-test use of adding powers of ten for multiplication reached 74% and 90%, against 16% and 10% pre-test, in uncontrolled sequential trials](../claims/powers-ten-multiplication-needs-practice.md) [+M] — measured as an outcome of the instruction studied
 - [Ten months after the module, all re-tested students could write large numbers in powers of ten, but only 9% correctly identified that 2^10 is approximately 10^3](../claims/ten-month-retention-powers-of-ten.md) [~M] — measured as an outcome of the instruction studied
+- [Both tutoring conditions improve procedural calculation relative to no tutoring, with no difference between them](../claims/tutoring-improves-procedural-calculation.md) [+M] — measured as an outcome of the instruction studied
+- [Pirate Math word-problem tutoring enhances word-problem skill along with number-combination fluency, procedural computation, and algebra](../claims/pirate-math-improves-word-problems-and-foundational-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

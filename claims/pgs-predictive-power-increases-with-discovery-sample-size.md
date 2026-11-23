@@ -94,3 +94,4 @@ Review of published SNP-heritability estimates: common variants account for "aro
 - [A polygenic score for educational attainment positively predicts reading and speaking skills in early childhood, later scholastic achievement, and adult economic security](pgs-predicts-skills-across-life-course.md) — related
 - [Genome-wide association studies and polygenic scores link genetic variants to individual differences in educational attainment, with small per-SNP but increasing aggregate effects](gwas-polygenic-scores-educational-attainment.md) — related
 - [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related
+- [A genome-wide polygenic index for educational attainment explains 12–16% of EduYears variance in European-ancestry holdout samples](ea-pgi-explains-12-16-percent-variance.md) — related

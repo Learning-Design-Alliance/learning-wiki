@@ -58,3 +58,4 @@ Likert self-report instruments (Paas mental effort, NASA-TLX, IMI items) analyze
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
+- [Engaged concentration and frustration are both associated with positive learning outcomes](engaged-concentration-frustration-positive-outcomes.md) — related

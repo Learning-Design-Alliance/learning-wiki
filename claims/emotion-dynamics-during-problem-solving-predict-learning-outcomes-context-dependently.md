@@ -77,3 +77,4 @@ The paper's most important methodological caution is built into its own framing:
 - [Engagement was reported more during the unscaffolded fadeout phase, while curiosity and neutral were reported more during the scaffolded learning phase](affect-differences-scaffolded-fadeout-phases.md) — related
 - [Before data-driven adjustment, components of the pedagogy (problem-posing dialogue, multimodal online work) were experienced as inequitable by students](unadjusted-pedagogy-components-initially-inequitable.md) — related
 - [Scaffolding-guided augmentation improves pedagogical effectiveness and robustness of the dialogue model](singakids-scaffolding-guided-augmentation.md) — related
+- [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](confusion-context-dependent-pattern-assistments.md) — related

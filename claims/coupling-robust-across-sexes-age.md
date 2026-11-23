@@ -51,3 +51,4 @@ Control analysis in the Results section of the two-wave cohort study; a separate
 - [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related
 - [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — related
 - [Teacher-judged science ability repeatedly predicts gain in understanding, while age does not and gender effects are weak and non-replicable](ability-predicts-gain-age-gender-do-not.md) — related
+- [The directional association from achievement to intrinsic motivation is gender invariant](motivation-achievement-association-gender-invariant.md) — related

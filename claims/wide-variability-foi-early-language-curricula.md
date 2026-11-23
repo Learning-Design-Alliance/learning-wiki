@@ -108,3 +108,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Four adherence items fully delivered across all courses; omitted items mostly workbook-related](workbook-items-most-often-omitted.md) — a narrower finding that bears on this claim
 - [Course adherence was low: only 20% of parents who began the course attended all eight sessions, and 42% attended fewer than four](koppouders-low-course-adherence.md) — a narrower finding that bears on this claim
 - [Adherence to pre-selected documentation criteria varies widely across Canadian medical schools, from 22.2% to 70.4% of criteria included](canadian-mspr-criteria-inclusion-heterogeneity.md) — related
+- [The scripted tutoring protocols prove transportable across sites, with high implementation fidelity at the distal site](tutoring-protocols-transportable-across-sites.md) — related

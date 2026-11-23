@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: moderate
-newest_evidence: 2006
-recheck_by: 2011
+newest_evidence: 2007
+recheck_by: 2012
 sources:
-  - id: goetz-2006
-    resource: "https://psycnet.apa.org/journals/edu"
-    title: "Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2006). Between- and Within-Domain Relations of Students' Academic Emotions. https://psycnet.apa.org/journals/edu"
+  - id: goetz-et-al-2007
+    resource: "https://doi.org/10.1037/0022-0663.99.4.715"
+    title: "Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2007). Between- and Within-Domain Relations of Students' Academic Emotions. *Journal of Educational Psychology, 99*(4), 715-733. https://doi.org/10.1037/0022-0663.99.4.715"
     author: "Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O."
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Disattenuated correlations among domain-specific emotion factors were generally weak, with mathematics–physics relations ranging from .38 to .61 in Grade 8 and .48 to .64 in Grade 11, and most other coefficients below .35 (Grade 8) or .20 (Grade 11). [→ Goetz 2006](#goetz-2006)
+`q2 i?` Disattenuated correlations among domain-specific emotion factors were generally weak, with mathematics–physics relations ranging from .38 to .61 in Grade 8 and .48 to .64 in Grade 11, and most other coefficients below .35 (Grade 8) or .20 (Grade 11). [→ Goetz et al. 2007](#goetz-et-al-2007)
 
 ## Evidence
 
-### Goetz 2006
+### Goetz et al. 2007
 
-Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2006). Between- and Within-Domain Relations of Students' Academic Emotions. https://psycnet.apa.org/journals/edu
+Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2007). Between- and Within-Domain Relations of Students' Academic Emotions. *Journal of Educational Psychology, 99*(4), 715-733. https://doi.org/10.1037/0022-0663.99.4.715
 
 `q2 · i?` · `associational · r2`
 
@@ -53,3 +53,6 @@ Structural equation modeling of multi-item scales (4 items per emotion per domai
 - [The strength of within-domain relations among academic emotions differs considerably across school subjects, strongest in mathematics and weakest in German](within-domain-emotion-relations-differ-across-domains.md) — related
 - [Within-domain relations of academic emotions are stable across grade levels, with no significant differences between Grade 8 and Grade 11](within-domain-relations-stable-across-grades.md) — related
 - [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — related
+- [Academic emotions show generally weak between-domain relations, indicating domain-specific organization of students' enjoyment, pride, anxiety, anger, and boredom across mathematics, physics, German, and English](academic-emotions-domain-specific-organization.md) — possibly the same claim (merge candidate)
+- [Between-domain relation strength varies modestly by emotion type: enjoyment and anxiety show the weakest and pride the strongest between-domain relations at both grade levels](between-domain-relations-vary-by-emotion-type.md) — related
+- [Emotions and achievement correlate most strongly within the same academic domain, supporting convergent and discriminant validity of domain-specific emotion measures](emotions-achievement-same-domain-convergent-validity.md) — related

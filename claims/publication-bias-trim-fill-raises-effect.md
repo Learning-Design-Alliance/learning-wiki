@@ -63,3 +63,4 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — related
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
 - [Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback](feedback-funnel-plot-publication-bias.md) — related
+- [Publication bias analysis suggests the overall intelligence–DT correlation is slightly underestimated (r = .27 after trim-and-fill)](publication-bias-dt-intelligence-underestimate.md) — related

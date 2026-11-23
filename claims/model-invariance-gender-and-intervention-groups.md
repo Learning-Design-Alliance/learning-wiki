@@ -64,3 +64,4 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related
 - [None of the cross-lagged withdrawal–achievement effects was significant in girls, and gender differences were significant for specific paths](no-crosslagged-effects-girls.md) — reports the opposite
 - [Measurement invariance holds by gender and no gender differences appear in any predictive paths; differences occur only in high school GPA and introductory physics intercepts](no-gender-differences-in-predictive-paths-sem.md) — related
+- [The directional association from achievement to intrinsic motivation is gender invariant](motivation-achievement-association-gender-invariant.md) — related

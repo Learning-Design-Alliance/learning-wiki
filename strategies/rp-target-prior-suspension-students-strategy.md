@@ -57,4 +57,4 @@ Because the RP intervention's clearest experimental effect was on students with 
 -
 
 ## Key Sources
-- Huang, F., Gregory, A., & Ward-Seidel, A. R. (2023). The Impact of Restorative Practices on the Use of Out-of-School Suspensions: Results from a Cluster Randomized Controlled Trial. https://eric.ed.gov/?id=ED652010
+- Huang, F., Gregory, A., & Ward-Seidel, A. R. (2023). The Impact of Restorative Practices on the Use of Out-of-School Suspensions: Results from a Cluster Randomized Controlled Trial. https://eric.ed.gov/?id=ED652010. [doi:10.1007/s11121-023-01507-3](https://doi.org/10.1007/s11121-023-01507-3)

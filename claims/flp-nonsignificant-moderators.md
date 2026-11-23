@@ -64,3 +64,4 @@ Moderator analyses on immediate posttests found no significant effects for immig
 - [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related
 - [PFS effects did not differ by implementation site or cohort](pfs-effects-no-site-or-cohort-moderation.md) — related
 - [Items measuring listening, respect, and answering questions showed no interaction effects in any setting](snapps-no-effect-respect-items.md) — related
+- [Participant and training characteristics show virtually no moderator effects on far transfer](no-moderators-of-far-transfer.md) — related

@@ -68,3 +68,4 @@ Figure-based analysis of first versus last block thresholds per participant (Fig
 
 ## Related Claims
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](avg-phonemic-awareness-gain-6month-maintenance.md) — related
+- [Training produces large improvements in basic visual discrimination thresholds such as Vernier acuity](vernier-acuity-training-improves-thresholds.md) — related

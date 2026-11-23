@@ -50,3 +50,4 @@ Implementation study using school ratings, snapshots, and visit reports collecte
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related
 - [By the end of Year 3, more than 75% of centers implemented each ECE PDI component with fidelity, meeting the overall program fidelity benchmark](ece-pdi-met-fidelity-benchmark-year-3.md) — related
+- [The scripted tutoring protocols prove transportable across sites, with high implementation fidelity at the distal site](tutoring-protocols-transportable-across-sites.md) — related

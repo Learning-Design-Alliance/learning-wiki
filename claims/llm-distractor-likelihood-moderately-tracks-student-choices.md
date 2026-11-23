@@ -60,3 +60,4 @@ The authors read the moderate correlation as evidence that LLMs approach problem
 - [ChatGPT's item difficulty and answer-option distributions are overrepresented at the extremes compared to students](chatgpt-tug-k-extreme-item-difficulty-distribution.md) — related
 - [Cluster 3 heavily favored Wrong Answer 1 (final velocity equal to initial velocity) and under-selected the correct answer](cluster3-wrong-answer1-residual.md) — related
 - [The system did not consistently preserve distractor logic in generated MCQs, with only 59% preserving the logical structure of distractors overall and 47% for abstract-context numerical questions](llm-mcq-distractor-logic-preservation-weak.md) — related
+- [A student's choice of incorrect answer on a diagnostic question reveals information about the nature of their misconception](wrong-answer-choice-reveals-misconception.md) — related

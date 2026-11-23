@@ -54,3 +54,6 @@ Repeated analysis of BROMP field observations across the two halves of tutor usa
 - [Carelessness is negatively correlated with boredom in both tutor conditions](carelessness-negative-boredom.md) — related
 - [Carelessness is negatively correlated with confusion in both tutor conditions](carelessness-negative-confusion.md) — related
 - [Carelessness is positively correlated with engaged concentration in both tutor conditions](carelessness-positive-engaged-concentration.md) — related
+- [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](boredom-performance-context-dependent-assistments.md) — related
+- [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](confusion-context-dependent-pattern-assistments.md) — related
+- [Engaged concentration and frustration are both associated with positive learning outcomes](engaged-concentration-frustration-positive-outcomes.md) — related

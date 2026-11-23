@@ -60,3 +60,4 @@ Cross-sectional administration of the TEMA-3 to 275 children (133 boys, 142 girl
 - [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](tema3-math-ability-gender-equivalence.md) — possibly the same claim (merge candidate)
 - [No significant interaction effect of numerical ability and gender on mathematics achievement](no-numerical-ability-gender-interaction-math-achievement.md) — related
 - [No intervention group showed significant effects on mathematics performance](kazifya-no-mathematics-intervention-effect.md) — reports the opposite
+- [Boys showed higher mean intrinsic motivation and early-grade achievement than girls, with small effect sizes, and girls' motivation declined from grade 1 to 2](sex-differences-math-motivation-achievement-small-effects.md) — reports the opposite

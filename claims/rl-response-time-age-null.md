@@ -66,3 +66,4 @@ Exploratory analysis excluding responses below 200 ms found the age relation "si
 ## Related Claims
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
 - [Total assessment score decreased significantly with participant age, by 0.6 points per decade in an exploratory analysis](total-score-declines-per-decade-age.md) — related
+- [The power function systematically predicts implausibly fast asymptotic response times](power-function-implausible-asymptotes.md) — related

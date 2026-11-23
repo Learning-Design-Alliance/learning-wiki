@@ -71,3 +71,4 @@ Same interview study, Two Boats Q2, where the majority chose incorrect option A.
 - [In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)](correct-choice-incorrect-explanation-common-in-fr-formats.md) — related
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — related
 - [Multiple-choice tests are intrinsically limited: unreflective distractors can be ignored and choosing the correct answer does not guarantee understanding.](multiple-choice-intrinsic-limits.md) — related
+- [Binary correct/incorrect scoring of standardized multiple-choice tests limits assessment of students' alternative knowledge](binary-scoring-limits-alternative-knowledge-assessment.md) — related

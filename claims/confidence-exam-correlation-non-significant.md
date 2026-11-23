@@ -53,3 +53,4 @@ Pearson correlation analysis across the study cohort relating end-of-course conf
 - [Structural equation modeling in the block group showed course value positively predicted self-assessed statistical ability, which weakly predicted exam achievement](sem-perceptions-predict-biostatistics-achievement.md) — related
 - [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — related
 - [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related
+- [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related

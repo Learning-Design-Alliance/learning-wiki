@@ -73,3 +73,4 @@ Univariate ANOVA on JOL gamma correlations for older adults (n = 40). The direct
 - [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
 - [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](mind-younger-learners-higher-outcomes-age.md) — related
+- [Metacognitive resolution between confidence and accuracy rose from pre-discussion to post-discussion after peer discussion, in one uncontrolled pre-post study](peer-discussion-improves-metacognitive-resolution.md) — related

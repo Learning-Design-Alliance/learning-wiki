@@ -55,3 +55,4 @@ Prospective longitudinal mixed-effects modeling of the ECLS-K:2011 (N = 18,174, 
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
 - [Students' ELA growth over the four years followed a logarithmic pattern, selected over a quadratic model by AIC](ela-growth-logarithmic-pattern-utah-cohorts.md) — related
 - [Skill growth decelerates over time for all children regardless of disability status, with negative quadratic growth in all seven outcomes](skill-growth-decelerates-over-time.md) — related
+- [Number-right scores distorted apparent gap growth in the ECLS-K](number-right-scores-distorted-ecls-k-gap-growth.md) — related

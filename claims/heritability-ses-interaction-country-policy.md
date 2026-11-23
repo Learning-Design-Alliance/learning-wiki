@@ -48,3 +48,4 @@ Meta-analytic evidence reported in the review: in the United States "heritabilit
 - [The SES–heritability interaction on intelligence differs cross-nationally: positive in US studies but absent in more egalitarian Western European and Australian studies](ses-heritability-interaction-cross-national.md) — possibly the same claim (merge candidate)
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
 - [Twin and adoption studies suggest that 50–80% of IQ variation is due to genetic differences, with the range reflecting population heritability](iq-variation-50-80-percent-genetic.md) — related
+- [In Western Europe and Australia, the G × SES effect on intelligence is zero or slightly negative](non-us-gene-ses-effect-null-europe-australia.md) — related

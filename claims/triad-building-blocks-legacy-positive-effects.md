@@ -53,3 +53,4 @@ Legacy results from the authors' earlier evaluations of the same intervention (c
 - [During the treatment period, the TRIAD Follow-Through group outperformed both control and pre-K-only groups by end of first grade, while the pre-K-only group no longer differed from control](triad-follow-through-value-added-end-of-first-grade.md) — related
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
 - [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](ubc-no-significant-child-outcomes.md) — related
+- [The TRIAD preschool math intervention produced a large end-of-pre-K impact (.63 SD) and significant impacts on all four REMA subdomains](triad-large-initial-impacts-four-subdomains.md) — related

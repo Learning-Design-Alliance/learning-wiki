@@ -69,3 +69,5 @@ Same correlational analysis of Experiment 1 data; boredom's positive correlation
 ## Related Claims
 - [After partialling out control variables, boredom and frustration during scaffolded learning negatively correlated with fadeout performance, while confusion↔frustration transitions and boredom→engagement transition positively correlated with it](affect-learning-partial-correlations-programming.md) — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — reports the opposite
+- [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](boredom-performance-context-dependent-assistments.md) — a broader claim this one bears on
+- [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](confusion-context-dependent-pattern-assistments.md) — related

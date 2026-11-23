@@ -61,3 +61,4 @@ Zero-order correlation analysis of growth model parameters in the 358-child samp
 - [Kindergarten-to-fifth-grade slope-intercept correlations varied across reading measures, showing cumulative, compensatory, and stable patterns for different measures](mixed-slope-intercept-correlations-reading-measures.md) — related
 - [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related
 - [ADHD has a weaker negative effect on achievement in higher-achieving schools (positive slope–intercept correlation)](weaker-adhd-effect-in-higher-achieving-schools.md) — related
+- [Reading and math both show fan-spread growth in academically at-risk children, with negative proportional change indicating attenuated growth over grades](fan-spread-growth-reading-math-at-risk.md) — reports the opposite

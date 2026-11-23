@@ -351,3 +351,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — related
 - [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related
 - [Consistent success at recalling physics solutions did not occur until after at least one unsuccessful spaced recall session, with improvement that was not monotonic](spaced-recall-success-after-unsuccessful-session.md) — related
+- [The desirable-difficulties versus cognitive-load opposition in instructional recommendations may be resolved by differences in kinds of knowledge, learning events, and assessments](desirable-difficulties-cognitive-load-opposition.md) — related

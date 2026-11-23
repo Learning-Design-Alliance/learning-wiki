@@ -51,3 +51,4 @@ Supplementary heterogeneity analysis (SI Appendix, section 7.9) documenting scho
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
+- [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](century-of-summer-replication-failure.md) — related

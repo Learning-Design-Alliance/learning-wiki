@@ -65,3 +65,4 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
 - [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
+- [Prior mathematics achievement predicts subsequent intrinsic motivation in mathematics across grades 1 to 4](achievement-predicts-later-math-intrinsic-motivation.md) — related

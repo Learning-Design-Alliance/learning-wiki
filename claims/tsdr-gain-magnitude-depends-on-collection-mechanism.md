@@ -70,3 +70,4 @@ Benchmark comparison (RQ1) on EdNet, whose design "enforces a mandatory 'bundle'
 - [TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets](tsdr-improves-kt-backbone-auc-benchmarks.md) — a broader claim this one bears on
 - [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau](tsdr-improves-calibration-acc-rmse.md) — related
 - [GRATE outperforms state-of-the-art knowledge tracing baselines in student performance prediction on three real-world datasets](grate-outperforms-kt-baselines-performance-prediction.md) — related
+- [EdNet records a wider variety of student behaviors than existing public IES datasets, including activities beyond question-solving](ednet-diverse-behavior-logs.md) — related

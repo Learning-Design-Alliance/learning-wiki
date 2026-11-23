@@ -50,3 +50,4 @@ Controlled experiment, 14 working adults randomly split into Passive Learners (C
 - [Feynman Bot learners elaborated open-ended answers with scenario or case-study evidence, while every passive learner gave short answers without explanations](feynman-bot-open-ended-elaboration.md) — related
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — a broader claim this one bears on
 - [Participants preferred typing over speech as input modality when conversing with the Feynman Bot, contrary to the authors' hypothesis](feynman-bot-typing-preference.md) — related
+- [The article reports applying SSAT methodology to the development of AI and BOTs, illustrated with BOT development examples](ssat-applied-to-bot-and-ai-development-examples.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Correlational analysis of 126 Filipino high school students using a Cognitive Tu
 - [Carelessness is negatively correlated with confusion in both tutor conditions](carelessness-negative-confusion.md) — reports the opposite
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
 - [Perceived learning effect, perceived expedience of cognitive training, and concentration are positively correlated](learning-effect-expedience-concentration-correlations.md) — related
+- [Engaged concentration and frustration are both associated with positive learning outcomes](engaged-concentration-frustration-positive-outcomes.md) — related

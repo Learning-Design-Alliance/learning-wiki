@@ -70,3 +70,4 @@ For Q16 and Q23, whose MC answer choices were restricted to identifying which pr
 - [LLM-generated incorrect-explanation categories persisted across multiple API runs, indicating consistent grading performance](llm-categories-persist-across-runs.md) — related
 - [Free-text responses to an FCI item reveal incorrect ideas not captured by the item's MCQ distractor options](ftr-responses-reveal-ideas-missing-from-mcq-distractors.md) — related
 - [TAs consistently overestimated how novice-like introductory students' thinking would be, expecting more novice-like errors than students actually made](tas-overestimate-novice-like-student-thinking.md) — related
+- [A student's choice of incorrect answer on a diagnostic question reveals information about the nature of their misconception](wrong-answer-choice-reveals-misconception.md) — related

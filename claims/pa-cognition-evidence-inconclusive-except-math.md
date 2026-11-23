@@ -61,3 +61,4 @@ The commentary's background synthesis of existing reviews reports that "other sy
 - [Prior reviews report inconsistent effects of physical activity on academic achievement, with small positive relationships in some meta-analyses and null findings in other studies](inconsistent-pa-achievement-literature.md) — related
 - [Physical activity is positively associated with academic achievement in all tested models except English, where no relationship appears](physical-activity-positive-achievement-except-english.md) — related
 - [Regular physical activity is significantly positively associated with academic performance in both French and mathematics](physical-activity-positive-academic-performance.md) — a narrower finding that bears on this claim
+- [The authors conclude education is the most consistent, robust, and durable method yet identified for raising intelligence](education-most-durable-method-raising-intelligence.md) — related

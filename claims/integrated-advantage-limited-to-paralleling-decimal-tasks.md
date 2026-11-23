@@ -74,3 +74,4 @@ Cross-classified partially nested multilevel model analysis of the DM-Dissimilar
 - [Decimal-fraction instruction outperforms word-problem instruction on decimal transfer items (ES 0.97 vs. contrast; ES 0.67 vs. control), but effects concentrate on near transfer](decimal-fraction-component-near-transfer.md) — related
 - [Integrated fraction-decimal component does not provide added value over full fraction intervention on fraction outcomes](integrated-component-no-added-value-fraction-outcomes.md) — related
 - [Decimal and fractional values reduce correct ratio reasoning compared with whole numbers on otherwise identical items](numerical-complexity-decimals-impair-ratio-reasoning.md) — related
+- [Near-transfer effects on tasks similar or identical to trained tasks are large and maintained at follow-up, but smaller with treated controls](wm-training-near-transfer-large-maintained.md) — a broader claim this one bears on

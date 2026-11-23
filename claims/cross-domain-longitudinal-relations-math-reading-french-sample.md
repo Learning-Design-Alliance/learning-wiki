@@ -48,3 +48,4 @@ Zero-order correlational analysis in the same longitudinal sample of 95 children
 - [Kindergarten self-regulation partially mediates the cross-domain relation between early reading and later math skills](self-regulation-mediate-cross-domain-reading-to-math.md) — related
 - [Fifth-grade theory of mind partially mediates within- and cross-domain relations between early and later academic skills](theory-of-mind-partially-mediates-academic-relations.md) — related
 - [Early reading and math skills in kindergarten predict later reading and math skills in 5th grade within the same domain in a French longitudinal sample](kindergarten-skills-predict-5th-grade-within-domain-french-sample.md) — related
+- [Cross-domain correlations fail a falsification test: early math predicts later reading almost as strongly as later math beyond first grade](cross-domain-falsification-math-reading.md) — related

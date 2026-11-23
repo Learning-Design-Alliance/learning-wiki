@@ -54,3 +54,4 @@ Weighted linear regression on the NEPS SC6 adult sample (n = 5015 with the mathe
 - [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
 - [Baseline age was inversely related to reading scores in adjusted models](baseline-age-inversely-related-reading-scores.md) — related
 - [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related
+- [Higher education is associated with better performance and larger improvements, while age is negatively associated with both](demographics-performance-improvement-associations.md) — related

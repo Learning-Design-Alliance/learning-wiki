@@ -71,3 +71,4 @@ In the same ranking task, middle school teachers with less post-secondary mathem
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — related
 - [Teachers rated literacy rankings as more accurate than numeracy rankings](literacy-rankings-rated-more-accurate-than-numeracy.md) — related
 - [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](problem-difficulty-metacognitive-level.md) — related
+- [Beginning algebra students performed worse on equations than on matched word problems, revealing expert blind spot](students-verbal-problems-easier-than-symbolic.md) — related

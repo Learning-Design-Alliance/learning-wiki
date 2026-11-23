@@ -53,3 +53,4 @@ The author's observational statement from the introduction, motivating the strat
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — a broader claim this one bears on
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
 - [Direct transfer often fails across distant contexts, so cross-disciplinary learning foregrounds transformative and integrative processes](far-transfer-failure-motivates-transformation-focus.md) — related
+- [Students can simultaneously possess alternate knowledge frameworks whose development and use are context dependent](alternate-frameworks-context-dependent-use.md) — related

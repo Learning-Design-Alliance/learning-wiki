@@ -70,3 +70,4 @@ Narrative review of cross-sectional age trends in composite measures from the Sa
 - [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — related
 - [Borrowing decisions with the fewest fees occur for middle-aged adults, peaking around age 53, even after controlling for credit risk, home value, and income](financial-decision-peak-middle-age.md)
 - [GAMSAT Overall and Section 3 scores decrease with increasing candidate age, while Section 2 scores have usually increased with age](gamsat-age-gradient-scores.md) — related
+- [Relations between nonverbal reasoning and reading/mathematics increase with age, though the increase is small](reasoning-academic-relations-increase-with-age.md) — related

@@ -73,3 +73,4 @@ The article presents this as a specific instance of the complexity-matching hypo
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — a narrower finding that bears on this claim
 - [The Google Trends class exhibited 'hypothesis-perplexity', making no hypotheses throughout their researches, unlike the schoolyard class](gt-hypothesis-perplexity.md) — related
 - [A KLI-informed hybrid LLM agent that adapts scaffolding to the practiced diagnostic strategy is hypothesized to enable better learning gains than globally applied scaffolding](kli-informed-hybrid-llm-agent-hypothesis.md) — related
+- [Knowledge component complexity predicts execution time: variable-condition and variable-response KCs take longer to perform than constant-constant KCs](kc-complexity-predicts-execution-time.md) — related

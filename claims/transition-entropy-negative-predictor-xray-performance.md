@@ -48,3 +48,4 @@ Mixed linear model (REML) predicting normalized BFD scores from network metrics,
 - [Number of nodes, number of edges, and average PageRank are significant positive predictors of X-ray reading performance](node-edge-pagerank-positive-predictors-xray-performance.md) — related
 - [In partially trained DNN+HMM models simulating children, eye movement consistency (lower entropy) predicts recognition accuracy but eye movement pattern does not](partially-trained-model-consistency-predicts-accuracy.md) — related
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
+- [The number of transitions is positively associated with improvement and negatively associated with performance, with growth showing a stronger association than skill](transitions-associated-with-improvement-and-growth.md) — related

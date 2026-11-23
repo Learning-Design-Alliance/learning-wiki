@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (55 for, 22 mixed, 2 against) · 89 studies (52 causal, 14 review, 9 quant-synthesis, 7 theoretical, 4 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 89 report an effect size · 69 claims rest on one study
+> **Evidence** · 80 claims (55 for, 23 mixed, 2 against) · 90 studies (52 causal, 14 review, 9 quant-synthesis, 7 theoretical, 5 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 90 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Skills laboratory training of IV cannulation yields better video-assessed clinical performance than bedside teaching in first-year medical students](../claims/skills-lab-iv-cannulation-transfer-superior-video-ratings.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
 - [Skills laboratory training shortens the time needed for successful IV cannulation on a patient compared with bedside teaching](../claims/skills-lab-training-shorter-cannulation-time.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
 - [Urologists trained systematically in endoscopy from the start of specialization achieve significantly higher ureterorenoscopy success rates than operators who learned endoscopy later in their careers](../claims/early-endoscopy-training-higher-ureterorenoscopy-success.md) [+W] — attached 2026-11-10 from Librenjak Davor et al. (2011), which proposed "Give new surgical specialists timely, systematic, mentor-guided endoscopy training beginning at the start of specialization"; tests this page's relationship.
+- [Low-volume and high-volume endoscopists learned at a similar rate, with low-volume endoscopists' early-case outcomes equivalent to high-volume endoscopists' over the first eight cases](../claims/similar-learning-rate-low-high-volume-endoscopists.md) [~W] — attached 2026-11-23 from Markar Sheraz R et al. (2016), which proposed "Concentrate complex procedural learning-dependent practice in high-volume practitioners and specialist centres, because outcomes depend on position along the proficiency gain curve".
 
 ## Objective and learner-valued goal
 

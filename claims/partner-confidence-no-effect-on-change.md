@@ -52,3 +52,4 @@ Within-subject experiment testing hypothesis 1c with point-biserial rank correla
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
 - [Perceived partner competence does not predict how often learners change the direction of their assumptions](perceived-competence-no-impact-on-adjustment.md) — related
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
+- [Answer switching during peer disagreement is driven by both one's own confidence and the partner's confidence](confidence-predicts-answer-switching.md) — reports the opposite

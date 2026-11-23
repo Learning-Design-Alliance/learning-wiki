@@ -53,3 +53,4 @@ Per-class analysis of the 34 observed classrooms (Figure 3) using binomial exact
 - [A greater percentage of female students in attendance predicts greater female verbal participation relative to males](female-attendance-predicts-participation-gap.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related
+- [The intelligence–DT correlation decreases as the percentage of females in samples increases](gender-ratio-negative-moderator-dt-intelligence.md) — related

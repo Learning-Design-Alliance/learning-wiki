@@ -63,3 +63,4 @@ Genetic covariance structure modeling in a classical twin design (2479 MZ and 44
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
 - [Genetic variance accounted for more of total variance in educational attainment for men (58%) than women (40%), with greater total and genetic variance for men](heritability-ea-sex-difference-58-40.md) — related
 - [Household economic status moderated genetic influence on educational attainment only for women, nonlinearly: genetic variance was highest in the high HES stratum, about double the low stratum, and lowest in the middle stratum](hes-moderates-genetic-variance-ea-women-only.md) — reports the opposite
+- [In the US, genetic variance in intelligence rises with SES, from heritability of 26% at 2 SD below mean SES to 61% at 2 SD above](us-heritability-increases-with-ses.md) — reports the opposite

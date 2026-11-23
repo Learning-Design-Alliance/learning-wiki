@@ -55,3 +55,4 @@ Performance comparison on three datasets (ASSISTments2009, EdNet-KT1, XES3G5M) w
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
 - [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — related
 - [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower early- and mid-sequence errors and the lowest prediction inconsistency rates across sequence lengths](responsible-dkt-temporal-reliability.md) — related
+- [SAINT achieved state-of-the-art knowledge tracing performance with a dramatic AUROC improvement when trained on EdNet-KT1](saint-sota-on-ednet-kt1.md) — related

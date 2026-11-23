@@ -54,3 +54,4 @@ Pre-post Wilcoxon analysis in the same 37-student single-group study. Two-point 
 - [Sensitivity changes differ exploratorily by sex, with women improving and men worsening on non-dominant fingertip discrimination](sex-difference-sensitivity-change-exploratory.md) — related
 - [From pre-test to post-test, fingertip sensitivity rose and grip strength fell in both hands in one group with no comparison group](sensitivity-gain-inverse-strength-loss-correlation.md) — related
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related
+- [Training produces large improvements in basic visual discrimination thresholds such as Vernier acuity](vernier-acuity-training-improves-thresholds.md) — related

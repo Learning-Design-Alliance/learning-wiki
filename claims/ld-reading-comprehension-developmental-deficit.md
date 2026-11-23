@@ -79,3 +79,4 @@ Authors' interpretation of the multiple-group model and split violin and traject
 - [Ability group (AA, LA, LD) did not significantly moderate the intervention effect](ability-group-no-moderation.md) — related
 - [Students with SLD taught with the keyword strategy reach science concept performance similar to typically developing peers](keyword-strategy-sld-peer-level-performance.md) — related
 - [Students with weak initial socio-communicative skills continue to show deficits despite communication training, per the authors' interpretation](weak-initial-interactional-skills-persist.md) — related
+- [Cognitive-academic bidirectional relations appear weaker among disadvantaged children](weaker-bidirectionality-disadvantaged-children.md) — related

@@ -55,3 +55,4 @@ Analytical derivation (Section 2): the recursion for P(Lj) is solved exactly, gi
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related
 - [Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior](kt-algorithm-fixed-point-parameter-constraints.md) — related
 - [Drift rate increases as a continuous exponential function of cumulative trial number across four days of perceptual training](drift-rate-continuous-exponential-cumulative-trials.md) — related
+- [The APEX function fits better than the general power function, indicating the learning rate does not decrease to zero with practice](apex-beats-general-power-function.md) — related

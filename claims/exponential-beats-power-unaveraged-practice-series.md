@@ -1,0 +1,70 @@
+---
+type: claim
+title: "The exponential function fits individual learners' practice data better than the power function in unaveraged data sets"
+description: "The exponential function fits individual learners' practice data better than the power function in unaveraged data sets"
+id: exponential-beats-power-unaveraged-practice-series
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-23
+evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
+sources:
+  - id: heathcote-2000
+    resource: "https://doi.org/10.3758/bf03212979"
+    title: "Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979"
+    author: "Heathcote, A., Brown, S., & Mewhort, D. J. K."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+  - id: heathcote-2000-2
+    resource: "https://doi.org/10.3758/bf03212979"
+    title: "Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979"
+    author: "Heathcote, A., Brown, S., & Mewhort, D. J. K."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# The exponential function fits individual learners' practice data better than the power function in unaveraged data sets
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: tool and model accuracy changes quickly
+
+## Subclaims
+`q2 i?` Across the survey's unaveraged data sets, the exponential function provided a better fit than the power function in 82.2% of learning series, and accounted for more variance in every data set. [→ Heathcote 2000](#heathcote-2000)
+`q2 i?` Averaged over all learning series, the exponential function accounted for more variance (R2 = .498) than the power function (R2 = .426), a 17% relative improvement. [→ Heathcote 2000 (2)](#heathcote-2000-2)
+
+## Evidence
+
+### Heathcote 2000
+
+Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979
+
+`q2 · i?` · `associational · r2`
+
+Survey analysis fitting power and exponential functions by ordinary least squares to individual learning series across 40 unaveraged data sets. The exponential won in "82.2% ofthe cases", with binomial confidence intervals rejecting equal preference in every data set.
+
+> "Of the remaining series, the exponential function provided a better fit than the power function in 82.2% ofthe cases, ranging from a minimum of 64% for the MS2 data set to a maximum of93% for the Count3 data set."
+
+### Heathcote 2000 (2)
+
+Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. Psychonomic Bulletin & Review, 7(2), 185-207. https://doi.org/10.3758/bf03212979
+
+`q2 · i?` · `associational · r2`
+
+Average R2 across all learning series, weighted by the number of series per data set, showed the exponential function's advantage; the article reports "a 17% improve­ment, relative to the power function".
+
+> "Overall, the average R2 was .498 for the exponential function and .426 for the power function."
+
+## Discussion
+
+
+## Related Claims
+- [The APEX function fits better than the general power function, indicating the learning rate does not decrease to zero with practice](apex-beats-general-power-function.md) — related
+- [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
+- [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related

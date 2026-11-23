@@ -78,3 +78,4 @@ Adjusted pooled estimate after modeling sample ancestry in the attainment meta-r
 - [Polygenic risk scores for educational attainment and cognitive performance show the most consistent associations with language traits, and these associations are stronger for English than Chinese literacy phenotypes](prs-ea-cp-stronger-english-than-chinese.md) — related
 - [Adding a polygenic score as a control variable in a randomized controlled trial can be worth a 13% reduction in sample size](pgs-control-variable-rct-sample-savings.md) — related
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
+- [EA PGI predictive accuracy drops sharply in African-ancestry samples, to relative accuracies of 11% and 15%](ea-pgi-reduced-accuracy-african-ancestry.md) — a narrower finding that bears on this claim
