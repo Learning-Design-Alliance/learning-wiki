@@ -49,3 +49,4 @@ Clustering analysis of log-file data from 252 adults in a blended reading interv
 - [Struggling readers were slow and inaccurate, with the lowest accuracy across all theoretical levels](struggling-readers-slow-inaccurate.md) — a narrower finding that bears on this claim
 - [Higher performers outperformed struggling readers on posttest comprehension after controlling for pretest, on both WJ-III and RAPID measures](higher-performers-beat-struggling-posttest.md) — a narrower finding that bears on this claim
 - [Under-engaged readers answered quickly but with lower accuracy, performing worst on word-level lessons](under-engaged-readers-fast-low-accuracy.md) — a narrower finding that bears on this claim
+- [A 'struggling students' cluster shows high adaptive engagement yet low mathematics scores, contrary to prior findings](struggling-students-cluster-low-math-scores.md) — related

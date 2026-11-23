@@ -47,3 +47,4 @@ Experiment 1 supplementary control groups tested at 7:30 a.m. or 10:00 p.m.: "di
 ## Related Claims
 - [Sleep after learning provides recovery from retroactive interference, preferentially improving recall of the first (A-B) list compared with wakefulness in an A-B, A-C paradigm](sleep-recovery-retroactive-interference-ab-list.md) — related
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — related
+- [Time of day of testing did not predict toddler generalization performance in the wakefulness study](time-of-day-not-predictor-toddler-generalization.md) — related

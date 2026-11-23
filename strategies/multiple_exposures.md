@@ -64,6 +64,7 @@ Repeated, spaced encounters with content strengthen retention far more than a si
 - [Interleaving](interleaving.md) — mixing exposures to related topics so each encounter also requires discrimination
 - [Train oral presentation techniques then provide repeated real application opportunities](presentation-techniques-plus-repeated-application.md)
 - [Bundle multiple provider education modalities (workshops, lectures, outreach visits, distributed materials) rather than a single session](bundle-provider-education-interventions.md)
+- [Space word-learning exposures over time so children can forget irrelevant details between exemplars](spacing-allows-forgetting-irrelevant-details-generalization.md)
 
 ## Examples
 - **Spiral curricula in mathematics (e.g., [Illustrative Mathematics](https://illustrativemathematics.org))** — core concepts such as proportional reasoning reappear across units in increasingly complex contexts, each time with new problem types.

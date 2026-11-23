@@ -72,3 +72,4 @@ Analyses of teacher-reported grades (standardized within teachers) found no subj
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
 - [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — reports the opposite
+- [Gender and grade interact: fourth-grade males show higher disengagement and maladaptive motivation than females, but the gender gap narrows in higher grades](gender-grade-interaction-mes.md) — related

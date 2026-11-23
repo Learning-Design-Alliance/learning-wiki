@@ -176,3 +176,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Self-efficacy declines for both genders over the first CEGEP semester, with males consistently more confident than females](self-efficacy-declines-first-semester-gender-gap.md) — a narrower finding that bears on this claim
 - [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](confidence-gap-adolescence-girls.md) — related
 - [The GIST study concluded that girls' underachievement in science stemmed from choosing not to study science rather than lacking opportunity](gist-choosing-not-opportunity.md) — related
+- [Gender and grade interact: fourth-grade males show higher disengagement and maladaptive motivation than females, but the gender gap narrows in higher grades](gender-grade-interaction-mes.md) — related

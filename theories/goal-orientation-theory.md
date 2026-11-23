@@ -13,7 +13,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 72 claims (51 for, 21 mixed) · 38 studies (24 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 72 claims rest on one study
+> **Evidence** · 73 claims (52 for, 21 mixed) · 39 studies (24 associational, 6 causal, 4 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 39 report an effect size · 73 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -134,6 +134,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Biology and Health Science majors showed similar learning-orientation distributions, while other Natural Science majors were almost entirely Performance- or Vague-oriented](../claims/other-ns-majors-performance-vague-oriented.md) [~W] — attached 2026-11-18 from Charles A. Bertram et al. (2017), which proposed "Three-category taxonomy of students' learning orientations toward a problem solving exercise: Framework, Performance, and Vague".
 - [Learning orientations show no differences on FCI posttest scores or overall course grades within the single-course scope](../claims/learning-orientation-no-fci-grade-difference.md) [~W] — attached 2026-11-18 from Mason et al. (2017), which proposed "Learning-orientation taxonomy (Framework / Performance / Vague) mapping mastery and performance achievement goals onto a single-course problem-solving context"; tests this page's relationship.
 - [Roughly half of students made few brief first attempts, while 10-15% made brief attempts on all of the first four modules, consistent with a performance-avoidance strategy](../claims/brief-attempts-performance-avoidance-strategy.md) [+W] — attached 2026-11-18 from Kyle M. Whitcomb et al. (2020), which proposed "Performance-avoidance goal orientation within the 2x2 achievement goal framework explains strategic guessing on required first attempts".
+- [Integrating discriminant and criterion validity findings, the 4-factor achievement goal model is the best choice for understanding learning outcomes](../claims/four-factor-model-best-choice.md) [+W] — attached 2026-11-23 from Chiungjung Huang (2012), which proposed "The 2x2 achievement goal framework distinguishing mastery, performance, approach, and avoidance goals"; tests this page's relationship.
 
 ## The evidence by question
 

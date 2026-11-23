@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 162 claims (73 for, 79 mixed, 10 against) · 87 studies (46 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 27 of 87 report an effect size · 154 claims rest on one study
+> **Evidence** · 164 claims (75 for, 79 mixed, 10 against) · 88 studies (47 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 28 of 88 report an effect size · 156 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [With task exposure equated across groups, the 3-R technique still significantly improves memory, while higher-intensity exercise shows no significant effect (Experiment 2)](../claims/3r-technique-improves-memory-equal-exposure-exp2.md) [+M] — attached 2026-11-08 from Loprinzi Paul D. et al. (2019), which proposed "Students should adopt the 3-R and cue-integration learning techniques, and may benefit from a brief bout of walking before studying or lectures"; tests this page's relationship.
 - Active retrieval practice of newly learned names roughly doubles recall compared with repeated passive representation [+W] — attached 2026-11-10 from Augustin Marc (2014), which proposed "When learning factual knowledge, students should test themselves, actively recall information, and retest at expanding time intervals"; tests this page's relationship.
 - Expanding retrieval practice intervals yield significantly greater recall than steady intervals, and retrieval practice doubles performance over no-retrieval controls [+W] — attached 2026-11-10 from Augustin Marc (2014), which proposed "When learning factual knowledge, students should test themselves, actively recall information, and retest at expanding time intervals"; tests this page's relationship.
+- [In 5th graders, both prequestions and postquestions yield greater delayed cued recall and multiple choice performance than restudy](../claims/prequestions-postquestions-beat-restudy-children-exp1.md) [+W] — attached 2026-11-23 from Lima et al. (2020), which proposed "Use retrieval-practice questions (pre- or postquestions) instead of restudy to boost children's delayed retention of text material"; tests this page's relationship.
+- [Postquestions produce better delayed cued recall than prequestions in children, in both experiments](../claims/postquestions-beat-prequestions-cued-recall-children.md) [+W] — attached 2026-11-23 from Lima et al. (2020), which proposed "Use retrieval-practice questions (pre- or postquestions) instead of restudy to boost children's delayed retention of text material".
 
 ## Objective and learner-valued goal
 

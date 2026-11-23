@@ -53,3 +53,4 @@ Model-fit evaluation in the EFA of the final two-factor model among 404 dentists
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
+- [The Motivation and Engagement Scale reaches acceptable fit and reliability when applied to Chinese primary students](mes-acceptable-fit-chinese-primary-students.md) — related

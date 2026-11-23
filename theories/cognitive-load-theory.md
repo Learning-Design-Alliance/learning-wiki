@@ -35,7 +35,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 151 claims (100 for, 39 mixed, 12 against) · 123 studies (53 causal, 27 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 23 of 123 report an effect size · 139 claims rest on one study
+> **Evidence** · 152 claims (100 for, 40 mixed, 12 against) · 124 studies (54 causal, 27 review, 19 theoretical, 13 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 24 of 124 report an effect size · 140 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -223,6 +223,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Text-only conversational AI can create a fluency effect: reduced extraneous load without added germane load inflates perceived understanding without improving learning outcomes](../claims/fluency-effect-illusion-of-learning-text-only-ai.md) [+W] — attached 2026-11-21 from Taneja et al. (2026), which proposed "Cognitive Load Theory account of conversational multimedia learning: conversationality reduces extraneous load while multimodality increases germane load".
 - [Children studying integrated worked examples outperformed those studying split-source examples on acquisition and delayed similar-problem tests](../claims/integrated-beats-split-source-compare-problems.md) [+W] — attached 2026-11-23 from Wangari Mwangi et al. (1998), which proposed "Cognitive load theory account of the split-attention effect in worked examples"; tests this page's relationship.
 - [Year 3 children studying worked examples made significantly fewer incorrect attempts than children solving equivalent conventional problems](../claims/worked-examples-fewer-incorrect-attempts-young-children.md) [+W] — attached 2026-11-23 from Wangari Mwangi et al. (1998), which proposed "Cognitive load theory account of the split-attention effect in worked examples"; tests this page's relationship.
+- [Adherence to the Redundancy and Spatial Contiguity principles shows small negative effects on quiz performance in this physics seminar context](../claims/redundancy-spatial-contiguity-negative-effects.md) [~W] — attached 2026-11-23 from Steven W. Tarr et al. (2024), which proposed "Cognitive Theory of Multimedia Learning (CTML) as a framework for evaluating science presentation quality".
 
 ## The evidence by question
 
