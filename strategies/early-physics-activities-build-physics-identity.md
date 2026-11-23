@@ -41,6 +41,7 @@ The authors recommend that strategies to promote students' interest in physics s
 - [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
 - [Present early space-science activities as inquiry-based learning integrated with play, informed by children's existing mental models](inquiry-based-play-space-science-early-years.md)
 - [Physics departments and student organizations should build mentorship, leadership, and career-conceptualization programs to support women's persistence](physics-support-programs-for-women-persistence.md)
+- [Use eye-catching physical demonstrations to begin mathematics outreach at busy science fairs](physical-demonstrations-science-fair-outreach.md)
 
 ## Examples
 -

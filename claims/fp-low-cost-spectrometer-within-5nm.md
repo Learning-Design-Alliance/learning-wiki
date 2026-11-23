@@ -47,3 +47,5 @@ First-person vignette by Dr. Robert Polak describing a low-cost student spectrom
 ## Related Claims
 - [Students recover light-source spectra via FTS that agree with manufacturer specifications](student-fts-spectra-match-manufacturer-specs.md) — related
 - [Small discretization errors in measured distance differences were not problematic for students in the simulation exercises](small-discretization-errors-not-problematic.md) — related
+- [Using the student-built spectrometer in formal classrooms initiates productive discussion of random and systematic measurement errors](spectrometer-error-discussion-classroom.md) — related
+- [Student groups building and using the low-cost spectrometer achieve accurate wavelength measurements within a 15-minute task](student-built-spectrometer-accurate-measurements.md) — related

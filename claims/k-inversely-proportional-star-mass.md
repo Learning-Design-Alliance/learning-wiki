@@ -48,3 +48,4 @@ Numerical result of the teaching-sequence activity in which eight extrasolar sys
 - [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — related
 - [Students using VLT data and Kepler's third law reproduce the Galactic black hole mass close to 4 million solar masses](kepler-laws-galactic-black-hole-exercise.md) — related
 - [Students using Stellarium eclipse timing of Io determine Jupiter's mass as MJ = (1,9 ± 0,5) × 10^27 kg, consistent with the literature value](stellarium-io-eclipse-jupiter-mass.md) — related
+- [Student-calculated WASP-2 parameters agree with accepted values despite a simplified approach](wasp2b-calculated-parameters-match-accepted-values.md) — related

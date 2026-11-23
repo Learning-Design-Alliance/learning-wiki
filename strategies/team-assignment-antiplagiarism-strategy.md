@@ -49,6 +49,7 @@ This strategy restructures weekly homework so that students "must team up with 3
 ## Related Strategies
 
 - [Avoid plagiarism by paraphrasing in your own words and citing generously](avoid-plagiarism-paraphrase-cite.md)
+- [Overnight open-collaboration derivation homework (Sommerfeld price): consult anyone, cite sources, write up like a scientific article](sommerfeld-overnight-open-collaboration-derivation.md)
 
 ## Examples
 -

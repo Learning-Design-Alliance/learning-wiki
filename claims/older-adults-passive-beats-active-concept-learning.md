@@ -55,3 +55,4 @@ Pre-registered mixed-design experiment (2 learner age × 2 learning approach, 27
 - [Older learners perform better and show greater prefrontal INS with younger than older instructors (intergenerational advantage)](intergenerational-instruction-advantage-older-learners.md) — related
 - [Older learners with similar performance show similar frontopolar neural response patterns under optimal learning conditions (IS-RSA)](is-rsa-frontopolar-neural-behavioral-alignment.md) — related
 - [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related
+- [Participants aged 56 and over scored slightly lower than younger participants, but the age trend is statistically underpowered](older-visitors-slightly-lower-astronomy-scores-underpowered.md) — related

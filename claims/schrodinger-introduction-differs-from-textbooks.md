@@ -47,3 +47,4 @@ Comparative analysis of the author's own approach against quantum mechanics text
 ## Related Claims
 - [A quantitative classroom comparison of introduction approaches is proposed but has not yet been performed](quantitative-comparison-introduction-approaches-proposed.md) — related
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
+- [The interdisciplinary relation between Green's functions and the method of images is not developed in didactic physics textbooks](green-functions-images-absent-didactic-textbooks.md) — related

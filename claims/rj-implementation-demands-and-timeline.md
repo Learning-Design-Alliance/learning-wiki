@@ -72,3 +72,4 @@ The review reports cited timelines: attitude shifts of "one to three years" and 
 - [RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses](rj-preventative-social-emotional-skill-building.md) — related
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — a broader claim this one bears on
 - [Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research](weak-implementation-before-research-funding.md) — related
+- [Sanctioning cheaters for hindering learning requires five conditions, including that cheating actually interfered with learning](five-conditions-for-sanctioning-cheaters.md) — related

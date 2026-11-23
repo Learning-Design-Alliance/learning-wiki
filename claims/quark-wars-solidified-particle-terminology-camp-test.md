@@ -51,3 +51,4 @@ A single informal test of the game at the Berze Science Club summer camp in Visz
 - [Physics teachers are rarely trained to teach the Higgs boson despite student demand](teachers-rarely-trained-higgs-particle-physics.md) — related
 - [Informal one-to-one evaluation during the workshop showed growing student understanding of detector operation, particle families, and force carriers](informal-growing-understanding-detector-particles.md) — related
 - [The speeded spot-and-name mechanic of Particle Dobble is intended to give repeated retrieval practice on particle names and families](spot-and-name-retrieval-practice-mechanic.md) — related
+- [The card game's course mirrors the time evolution of quark-gluon plasma from neutrino escape to hadronization](game-course-mirrors-plasma-evolution.md) — related

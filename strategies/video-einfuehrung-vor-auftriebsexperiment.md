@@ -42,6 +42,8 @@ Die Handreichung schlägt vor, die Einheit mit einem Frageimpuls und Videos zu e
 
 - [Signallaufzeit-Messung über Funksignale als schulgerechte Alternative zu aufwendigen Ranging-Methoden](signal-echo-delay-distance-measurement-strategy.md)
 - [PI, ICM und JiTT als Einheit kombinieren: Vorlesungsinhalt vorlagern, Vorwissen online abprüfen und die gewonnene Zeit für verständnisorientierte Partnerdiskussion nutzen](pi-icm-jitt-blended-combination-strategy.md)
+- [Einstimmungsvideo und Fragen zur Einführung in die ISS-Orbitalthematik](iss-video-thematic-introduction-strategy.md)
+- [Quiz-basierter Einstieg mit Kahoot! oder Farbkarten zur Aktivierung vor der ISS-Stromaufgabe](kahoot-quiz-introduction-iss-electricity.md)
 
 ## Examples
 -

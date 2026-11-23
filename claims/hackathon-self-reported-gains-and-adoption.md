@@ -106,3 +106,4 @@ The authors' assertion, supported by cited literature, that "the open-ended prob
 - [In an online cybersecurity course, students attribute learning benefits, teamwork support, and maintained participation and interest to a series of integrated online hackathon interventions](hackathon-interventions-perceived-learning-teamwork.md) — related
 - [100% of responses to the participant feedback survey wanted to see more events like this in Spanish](participants-want-more-spanish-quantum-events.md) — related
 - [Grassroots quantum organizations employ a broad mix of teaching and learning methods including lectures, journal clubs, hackathons, games, and online and offline events](grassroots-quantum-teaching-methods-mix.md) — a broader claim this one bears on
+- [Participatory events such as hackathons foster cross-disciplinary mixing and experimentation confidence, while conventional lectures were poorly attended](participatory-events-over-lectures-for-mixing.md) — related

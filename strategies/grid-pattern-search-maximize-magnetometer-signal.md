@@ -42,6 +42,7 @@ This procedure teaches students an empirical optimization routine: with data rec
 
 - [Estimate a skill's minimum BKT-BF RSS a priori from dim, n, and percent_correct before running the full grid search](estimate-minimum-rss-from-skill-variables.md)
 - [Use counted sheets of paper as precision spacers to vary earbud-to-sensor distance below ruler resolution](paper-sheet-spacers-submillimeter-distance-precision.md)
+- [Run the sensor-location lab as a cumulative four-quadrant tracing procedure with a phone outline and teardown-site verification](four-quadrant-radial-line-tracing-strategy.md)
 
 ## Examples
 -

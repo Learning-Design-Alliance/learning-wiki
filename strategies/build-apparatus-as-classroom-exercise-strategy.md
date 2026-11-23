@@ -45,6 +45,7 @@ Beyond using the finished pendulum in experiments, the authors recommend having 
 - [Involve students in all steps of building the installation](students-build-installation-together.md)
 - [Open apparatus design plus a harmonic-then-parametric teaching sequence for the spring-mass laboratory](open-apparatus-harmonic-to-parametric-sequence-strategy.md)
 - [Involve preservice teachers in constructing and analyzing their own low-cost experiments as simultaneous physics learning and teacher training](preservice-constructed-low-cost-experiments-strategy.md)
+- [Enhanced web-based apparatus diagrams with hover-linked photographs, part numbers, and additional information](enhanced-web-based-apparatus-diagrams-strategy.md)
 
 ## Examples
 -

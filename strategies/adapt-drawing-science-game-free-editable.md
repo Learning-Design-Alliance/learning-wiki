@@ -52,6 +52,7 @@ The complete game "in Portuguese and English versions is available for free and 
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 - [Implement active learning grassroots-style in developing-country universities using open educational resources, local context-rich editing, and students' smartphones](grassroots-active-learning-open-resources-smartphones-strategy.md)
 - [Five-step cross-cultural adaptation procedure: forward translation, back-translation, expert committee review, pre-test, and test-retest](five-step-questionnaire-cross-cultural-adaptation.md)
+- [Translate ready-made science outreach material into under-served languages using local professional astronomers](translate-outreach-material-into-underserved-languages.md)
 
 ## Examples
 -

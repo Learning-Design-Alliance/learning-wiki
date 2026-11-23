@@ -73,3 +73,4 @@ Written surveys and interviews found students conflate eigenfunctions of differe
 - [Students hold alternative conceptions about wave function collapse, believing it stays stuck or must return to the original wave function](wave-function-collapse-alternative-conceptions.md) — related
 - [Maps based on relations between observables make explicit the eigenstate and commutation knowledge that textbooks underemphasize and students struggle to acquire](observable-relation-maps-eigenstate-difficulties.md) — a broader claim this one bears on
 - [Students use the deciding resource from personal relationships to interpret quantum collapse, as reported by Rosenberg](deciding-resource-personal-relations-quantum.md) — related
+- [Students risk acquiring the misconception that all multidimensional wave functions are separable when taught only separable solutions](multidimensional-wavefunctions-separable-misconception.md) — related

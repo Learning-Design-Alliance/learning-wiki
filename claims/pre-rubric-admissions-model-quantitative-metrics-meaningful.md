@@ -75,3 +75,4 @@ Feature-importance analysis of the same pre-rubric admissions model. A three-fea
 - [Removing Tomek Links improved model metrics for all three data sets, but post-rubric models remained below acceptable performance](tomek-links-improve-metrics-insufficiently.md) — related
 - [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related
 - [Random forest models of the rubric-based admissions decisions were only weakly predictive, with the full-rubric model's AUC (0.67) below the old-system model's (0.76)](rubric-model-auc-below-old-system-model.md) — related
+- [The conditional inference forest achieves mostly outstanding AUC (>0.9) stable across cut-offs, and three features suffice for AUC near 0.9](cif-auc-stable-three-features.md) — related

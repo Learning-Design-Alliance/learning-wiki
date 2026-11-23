@@ -48,6 +48,7 @@ Because single-photon detection is too expensive for classrooms, the approach sh
 - [Redefining uncertainty as a realm of possibilities, illustrated with two single-photon interference measurement styles](uncertainty-as-realm-of-possibilities-strategy.md)
 - [Use in-situ soap-film catenoid observation as an educational physics experiment combining theory and experimentation](in-situ-soap-film-catenoid-teaching-strategy.md)
 - [Use an analogy setup with simulated quantum measurements to make a quantum student lab affordable, quick, robust and portable](analogy-setup-affordable-quantum-lab-strategy.md)
+- [Substitute simulators for specialized single-photon equipment in high school quantum labs](simulator-substitution-for-quantum-labs.md)
 
 ## Examples
 -

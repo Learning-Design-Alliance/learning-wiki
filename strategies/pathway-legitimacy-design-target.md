@@ -50,6 +50,7 @@ The article recommends designing multiple legitimate routes to valued goals, inc
 - [Offer multiple pathways to the early childhood credential, including integrated bachelor's, transfer articulation, postbaccalaureate, dual certification, and residency routes](multiple-pathways-ec-credential-access.md)
 - [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](fair-feasible-ai-assessment-design-strategies.md)
 - [Design field experiments on AI use with attention to perception, group dynamics, an outside option, and role-switching alternatives](ai-experiment-design-lessons-perception-outside-option.md)
+- [Pathway choice for the classroom: the fully dimensional route is conceptually easier but yields more complicated formulas](pathway-choice-fully-dimensional-vs-far-source.md)
 
 ## Examples
 -

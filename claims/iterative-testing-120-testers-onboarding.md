@@ -70,3 +70,4 @@ During iterative testing, players were often unaware of their virtual hands. The
 - [The IDR methodology and workshop model were iteratively developed and refined through use by a project team and at international conferences](idr-iterative-development-and-refinement.md) — related
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
+- [CosmoQuest's mandated low-text website redesign correlated with a significant reduction in project participation, reversed in 2019 by a text-heavy design that explained data use and credit](cosmoquest-low-text-redesign-reduced-participation.md) — related

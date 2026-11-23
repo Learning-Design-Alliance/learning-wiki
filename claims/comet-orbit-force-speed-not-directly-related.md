@@ -49,3 +49,4 @@ Reported outcome of enacting-planet sequences tested since 2015: via the comet's
 - [A three-year experiment with 16-year-old students revealed enhanced understanding of kinematics concepts, though the reported effect on learning was marginal](human-orrery-enhanced-kinematics-understanding-marginal-effect.md) — related
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
 - [Gravitas's connected observing panels let students encounter selection effects and degeneracies through controlled experiments](observing-panels-selection-effects-experiments.md) — related
+- [Physics students commonly hold misconceptions about central-force orbits, such as believing any positive-energy orbit is hyperbolic and that bounded orbits are always closed](student-misconceptions-central-force-orbits.md) — related

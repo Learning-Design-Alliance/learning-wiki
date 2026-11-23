@@ -52,6 +52,7 @@ The article's recommendation list pairs curricular and assessment changes with e
 - [Inductive course-design heuristics for teaching modeling content and process together: induce predictable mistakes, pair simple models with complex scenarios, omit key information, and plan for frustration](inductive-course-design-heuristics-modeling.md)
 - [University-based modern physics laboratories where secondary students conduct experiments alongside researchers and then report to peers back in class](modern-physics-labs-university-out-of-school-strategy.md)
 - [Engage students early in physics-related activities such as science fairs, demonstrations, and model building to develop physics identity and interest](early-physics-activities-build-physics-identity.md)
+- [Use eye-catching physical demonstrations to begin mathematics outreach at busy science fairs](physical-demonstrations-science-fair-outreach.md)
 
 ## Examples
 -

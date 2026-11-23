@@ -142,3 +142,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Completing steps in partially worked-out examples leads students to underestimate their test performance and report higher mental effort than studying fully worked examples](completion-problems-underestimation-higher-effort.md) — related
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related
+- [A fully learned curriculum (deterministic ordering of generator inputs) makes GTN training more effective than other curriculum variants](gtn-full-curriculum-outperforms-other-variants.md) — related

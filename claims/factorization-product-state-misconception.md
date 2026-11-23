@@ -68,3 +68,4 @@ Antje Kohnle and Erica Deffebach. (2015). Investigating student understanding of
 - [Some introductory students incorrectly state that particles in a product state must have definite spin values rather than being in a superposition of spin states](product-state-definite-spin-misconception.md) — related
 - [Students incorrectly attribute properties of entangled states to product states, linked with difficulty translating a state from the Z to the X basis](product-state-entangled-properties-misconception.md) — related
 - [Students commonly confuse superposition with entanglement, overgeneralizing that any multi-qubit superposition state is entangled, and the tutorial improves performance on this distinction](superposition-entanglement-confusion.md) — a broader claim this one bears on
+- [Students commonly hold the misconception that every particle has its own wave function](every-particle-own-wavefunction-misconception.md) — related

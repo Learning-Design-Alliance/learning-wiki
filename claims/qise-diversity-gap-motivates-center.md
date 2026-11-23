@@ -52,3 +52,4 @@ Workshop discussion, citing cited statistics reports (APS and NSF NCSES referenc
 - [Self-reported URM fractions in recent USPAS sessions ranged from 14% to 16%, with Black/African American counts chronically low](uspas-urm-fractions-recent-sessions.md) — related
 - [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related
 - [Over the last 20 years the fraction of physics BS degrees earned by Hispanic Americans grew by 6% while the fraction earned by Black/African Americans decreased by 2%](hispanic-bs-growth-black-decline-physics-degrees.md) — related
+- [MLH hackathons had a higher average percentage of female participants than EECS degree programs, which MLH attributed to participation of non-EECS majors.](mlh-female-participation-exceeds-eecs.md) — related

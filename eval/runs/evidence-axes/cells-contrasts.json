@@ -132958,5 +132958,193 @@
  "media-design\ticon arrays showing benefits and harms\ticon arrays showing benefits only": {
   "label": "benefits and harms vs benefits only",
   "treatment_is_a": true
+ },
+ "active-learning\tactive learning and research-led undergraduate courses\tlecture or conventional non-research-led instruction": {
+  "label": "active learning vs conventional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tbuilding and using a diffraction spectrometer\tpassive qualitative observation of spectra": {
+  "label": "hands-on construction and use vs passive observation",
+  "treatment_is_a": true
+ },
+ "active-learning\tbuilding and using the spectrometer\tnot building the device": {
+  "label": "hands-on construction and use vs no device construction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning in small groups and learning from personal experience\teducation per se": {
+  "label": "interactive experiential learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipatory interdisciplinary events\tconventional lectures": {
+  "label": "participatory learning events vs conventional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tplotting, interpreting, and calculating with entangled two-particle wave functions\taccepting in the abstract that a two-particle state may be entangled": {
+  "label": "active application and problem solving vs abstract conceptual acceptance",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking on an assignment with other students\tworking individually as instructed": {
+  "label": "collaborative learning vs individual work",
+  "treatment_is_a": true
+ },
+ "autonomy-support\ta choice architecture preserving a real possibility of refusal\ta choice architecture leaving only one reasonable choice": {
+  "label": "genuine refusal option vs only one reasonable choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice with a genuine possibility of refusal\tchoice architecture leaving only one reasonable option": {
+  "label": "genuine refusal option vs only one reasonable choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\texperimental homework with student choice and no precise protocol\tno comparison condition reported": {
+  "label": "student choice in homework vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmandatory classroom participation\tvoluntary participation with a genuine refusal option": {
+  "label": "voluntary participation with genuine refusal option vs mandatory participation",
+  "treatment_is_a": false
+ },
+ "example-problem-sequencing\tBayesian-optimized diversity curriculum\tstrongest baseline curriculum": {
+  "label": "Bayesian-optimized diversity curriculum vs strongest baseline curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tBayesian-optimized prototypicality curriculum\tstrongest baseline curriculum": {
+  "label": "Bayesian-optimized prototypicality curriculum vs strongest baseline curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tBayesian-optimized simplicity curriculum\tstrongest baseline curriculum": {
+  "label": "Bayesian-optimized simplicity curriculum vs strongest baseline curriculum",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tCurricula optimized with feature sets where one system is above baseline and the other is below baseline\tCurricula optimized with feature sets where both systems score above baselines": {
+  "label": "Mixed above/below-baseline feature sets vs both-above-baseline feature sets",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tCurricula optimized with feature sets whose systems both score above baselines\tCurricula optimized with feature sets whose systems do not both score above baselines": {
+  "label": "Both-above-baseline feature sets vs not-both-above-baseline feature sets",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tcoherent original Wikipedia article order\trandomly shuffled corpus order": {
+  "label": "Coherent original article order vs randomly shuffled order",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tdiversity-optimized paragraph curriculum\tshuffled paragraph order": {
+  "label": "Diversity-optimized paragraph order vs shuffled paragraph order",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tparagraphs sorted by length, long to short\tshuffled paragraph order": {
+  "label": "Paragraphs ordered long to short vs shuffled paragraph order",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tparagraphs sorted by length, short to long\tshuffled paragraph order": {
+  "label": "Paragraphs ordered short to long vs shuffled paragraph order",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tprototypicality-optimized paragraph curriculum\tshuffled paragraph order": {
+  "label": "Prototypicality-optimized paragraph order vs shuffled paragraph order",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsimplicity-optimized paragraph curriculum\tshuffled paragraph order": {
+  "label": "Simplicity-optimized paragraph order vs shuffled paragraph order",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational interventions\tno educational intervention": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfull-day skin cancer diagnosis training\tpre-training baseline": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfull-day skin-cancer diagnosis training\tbaseline before training": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\torthopedic-surgeon education program\t2005 pre-intervention cohort without the program": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\torthopedic-surgeon education program\teach surgeon's pre-intervention rate": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsurgeon education sessions, posters and brochures\tno surgeon education intervention in the 2005 cohort": {
+  "label": "education/training vs no education/training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twork with specific entangled two-particle wave-function examples\taccept the principle abstractly or omit practice with specific examples": {
+  "label": "specific examples/practice vs abstract principle/no specific practice",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcontinuous dermatologist feedback with a loupe and digital camera\tfull-day skin-cancer training without equipment or continuous feedback": {
+  "label": "continuous feedback vs no continuous feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfull-day training only, assessed after one year\tfull-day training-only control at the post-training assessment": {
+  "label": "delayed assessment vs immediate post-training assessment",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tone year of continuous problem-based feedback\tsame intervention group immediately after the training course": {
+  "label": "continuous feedback vs no continuous feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tone year of continuous problem-based feedback and teaching\tpost-training performance before continuous feedback": {
+  "label": "continuous feedback vs no continuous feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttechnical equipment and continuous dermatologist feedback\tfull-day training without equipment or continuous feedback": {
+  "label": "continuous feedback vs no continuous feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttechnical equipment plus continuous problem-based teledermatology feedback\tfull-day training without equipment or continuous feedback": {
+  "label": "continuous feedback vs no continuous feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tMemory of Quark Matter card game\tnot stated": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tQuark Matter card game\tno comparison stated": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDeriving the diffraction relation with a clear drawing and similar-triangles guidance\tNot stated": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "media-design\tPSSC textbook photos\tphotos in later surveyed textbooks": {
+  "label": "PSSC textbook photos vs photos in other textbooks",
+  "treatment_is_a": true
+ },
+ "media-design\tPSSC textbook photos\tphotos in the other surveyed textbooks": {
+  "label": "PSSC textbook photos vs photos in other textbooks",
+  "treatment_is_a": true
+ },
+ "media-design\tearly spatial-wave-function examples of entanglement\tintroducing entanglement primarily through spin systems": {
+  "label": "Spatial-wave-function examples of entanglement vs spin-system introduction to entanglement",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographics in classroom materials\tlecture-only presentation": {
+  "label": "Infographics vs lecture-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tmandated low-text design\texisting project design": {
+  "label": "Low-text design vs existing project design",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial examples of entangled spatial wave functions\tcustomary focus on separable solutions": {
+  "label": "Pictorial examples of entangled spatial wave functions vs focus on separable solutions",
+  "treatment_is_a": true
+ },
+ "media-design\trubber balloon model with a 2D surface embedded in 3D space\tnot stated": {
+  "label": "Rubber balloon model vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tshow advertised for children aged 10 years and older\tshow advertised for people aged 15 years and older": {
+  "label": "Show advertised for ages 10+ vs show advertised for ages 15+",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-heavy explanatory design with data-use and credit information\tless text-heavy design with explanatory information restored later": {
+  "label": "Text-heavy explanatory design with data-use and credit information vs less text-heavy design",
+  "treatment_is_a": true
  }
 }

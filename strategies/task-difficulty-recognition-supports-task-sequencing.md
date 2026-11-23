@@ -44,7 +44,8 @@ The authors propose feeding perceived task-difficulty recognition into the Schat
 - [Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error).](../claims/svm-best-single-classifier-task-difficulty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Save the sub-policies learned by an evolving curriculum policy as reusable options for transfer to tasks requiring similar options](save-curriculum-subpolicies-as-transferable-options.md)
 
 ## Examples
 -

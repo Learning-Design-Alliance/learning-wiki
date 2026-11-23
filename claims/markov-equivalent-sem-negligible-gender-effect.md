@@ -46,3 +46,5 @@ Analytical reanalysis in the comment: the author derives coefficients for an alt
 
 ## Related Claims
 - [In the SEM model, gender has no direct effects on end-of-physics-2 self-efficacy, interest or identity; gender directly predicts only physics 1 self-efficacy (b = 0.28) and interest (b = 0.36)](sem-no-direct-gender-effects-physics2-outcomes.md) — related
+- [The claim that female students do not identify with physics because they perceive less recognition rests on an arrow direction the data do not determine](gender-recognition-arrow-direction-unsupported.md) — related
+- [The estimated impact of out-of-class science activities on physics identity depends entirely on unargued arrow directions, with equivalent graphs giving an effect of zero](ocse-identity-effect-graph-dependent.md) — related

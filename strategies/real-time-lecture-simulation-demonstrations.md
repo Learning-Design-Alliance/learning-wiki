@@ -41,6 +41,7 @@ The easiest use of the material is in lecture demonstrations, where the simple P
 
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Teach test-driven development via live coding on a vector class exercise](tdd-live-coding-vector-exercise-strategy.md)
+- [Use GPU-accelerated simulations to show state-of-the-art code running in real time in lectures and classrooms](gpu-real-time-demonstrations-teaching.md)
 
 ## Examples
 -

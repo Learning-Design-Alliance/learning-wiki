@@ -39,7 +39,8 @@ The handout recommends starting the unit by asking students about their existing
 - building orientation toward the Apollo program and the Saturn V rocket
 
 ## Related Strategies
-- 
+
+- [Open the lesson with Mars landing videos and phenomenological discussion questions](mars-landing-video-priming-discussion.md)
 
 ## Examples
 -

@@ -57,6 +57,7 @@ The activity runs as timed segments: a 25-minute introduction with slideshow, a 
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
 - [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
 - [Implement simulations as one-hour in-class activities with pre-test, guided group exploration, and immediate post-test](pre-test-simulation-post-test-activity-strategy.md)
+- [Use landmark occultations of bright stars and planets, filmed with ordinary cameras, as an adaptable classroom introduction to occultation astronomy and astrometry](landmark-occultation-classroom-strategy.md)
 
 ## Examples
 -

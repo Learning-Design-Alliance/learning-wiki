@@ -51,3 +51,4 @@ Analysis of ranking-task responses from the middle school NIAQ administration (5
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Middle school students show a striking lack of improvement on astronomy content questions from year 8 to year 10](niaq-middle-school-no-improvement.md) — related
 - [Male students and non-white students reported higher 'good at science' responses before the astronomy club, but no significant difference remained after it](dsbk-good-at-science-gender-race-gaps-closed.md) — related
+- [Female participants scored lower on average than male participants on the astronomy literacy survey](gender-gap-astronomy-survey-museum-visitors.md) — related

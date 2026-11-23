@@ -52,3 +52,4 @@ Ordinal regression model 3 in the national cohort of 8467 applicants, controllin
 - [Applicants from fee-paying schools have lower odds of preferred allocation despite similar application scores (OR 0.77)](fee-paying-school-lower-allocation-odds.md) — related
 - [UK country of medical qualification strongly predicts preferred allocation: Scotland and Northern Ireland graduates have far higher odds than England graduates](place-of-qualification-predicts-allocation.md) — related
 - [Applicants from high higher-education-participation neighbourhoods (POLAR) have 34% lower odds of allocation to their preferred foundation school](polar-high-participation-lower-allocation-odds.md) — related
+- [Odds ratios between racial groups were only statistically significant for some cut-offs, contributing less than anticipated](race-odds-ratios-only-some-cutoffs.md) — related

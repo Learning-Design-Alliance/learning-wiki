@@ -40,6 +40,8 @@ At the base of the curriculum pyramid, curiosity and self-motivation are intenti
 - [Extension Projects for Advanced Students](extension_projects_for_advanced_students.md)
 - [Open each learning chapter with challenging questions before presenting key material to stimulate curiosity](chapter-opening-questions-stimulate-curiosity.md)
 - [Anchor spherical-geometry calculations in real-world cases such as the New York–Paris flight path and the Bermuda Triangle](real-world-spherical-geometry-anchor-strategy.md)
+- [Motivate each mathematical tool by its physics application before formal development](physics-application-first-motivation-strategy.md)
+- [Lower the barriers to first use and stimulate adherence with new content, reminders, and explicit usage expectations](reduce-startup-barriers-reminders-new-content.md)
 
 ## Examples
 -

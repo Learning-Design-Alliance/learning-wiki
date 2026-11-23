@@ -46,3 +46,4 @@ The authors' classification of their Table 1 results: methods that could work on
 
 ## Related Claims
 - [MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values](mllm-fine-grained-quantitative-misestimation-scivis.md) — related
+- Low GPS sampling rate prevented a good theory-experiment fit in the Tropopause and Stratosphere regions — related

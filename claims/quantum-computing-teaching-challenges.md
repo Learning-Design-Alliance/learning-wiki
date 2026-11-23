@@ -58,3 +58,4 @@ Narrative review-style section (Section 2) enumerating challenges: counter-intui
 - [Grade 5 students' informal responses about quantum varied widely, ranging from concrete concepts to misconceptions conflating quantum with other science](grade5-student-quantum-conceptions-varied.md) — related
 - [Analogical reasoning aids initial quantum comprehension for young students and non-specialists, but over-applied classical intuition risks misconceptions](quantum-analogies-aid-comprehension-risk-misconceptions.md) — related
 - [The article argues that embedding quantum operations in game mechanics can cultivate quantum intuition through play](quantum-intuition-through-play-argument.md) — related
+- [The module is designed to bridge the gap between popular science articles and advanced undergraduate texts for motivated high school students](quantum-module-bridges-popular-advanced-gap.md) — related

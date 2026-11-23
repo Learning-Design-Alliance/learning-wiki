@@ -79,3 +79,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Nurses score significantly lower than physicians on knowledge outcomes at all time points](nurses-score-lower-than-physicians-scl-ahit.md) — related
 - [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related
 - [Nurses and public health physicians achieve higher positive predictive value than general practitioners in unadjusted models, but this does not persist after full adjustment](occupation-ppv-unadjusted-fades-adjusted.md) — related
+- [HBV knowledge scores were lower among rural, less-educated, and non-physician respondents](hbv-knowledge-demographic-differences.md) — related

@@ -52,6 +52,7 @@ The article lays out a lecture sequence for a one-credit course, from vectors an
 - [Use research-based learning tools on Dirac notation, including the guided-inquiry QuILT, reflective problems, and peer concept tests](dirac-notation-research-based-learning-tools-strategy.md)
 - [Develop multiple-representation learning and homework materials in which students answer one question using several methods](multiple-representation-qc-materials-strategy.md)
 - [Use hands-on analogies and physical props to ground abstract quantum concepts](qcamp-hands-on-analogy-strategy.md)
+- [Introduce the conserved-quantity formalism in the first semester and return to it across the first-year curriculum as a unifying theme](conservation-formalism-first-year-curriculum-theme.md)
 
 ## Examples
 -

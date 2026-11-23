@@ -47,3 +47,4 @@ Descriptive analysis of questionnaire respondent demographics across the 2006–
 ## Related Claims
 - [The European Researchers' Night was judged positively by about 85% of participants, with about 98% willing to participate again](ern-high-satisfaction-repeat-intent.md) — related
 - [The fraction of women attendees at USPAS sessions grew from approximately 8% in 1987 to approximately 20% in 2016, then plateaued within a 5% band](uspas-women-fraction-growth-plateau.md) — related
+- ERN attendees are predominantly female, mostly 30-49 years old, with young people up to 29 years old representing almost 37% of the total — related

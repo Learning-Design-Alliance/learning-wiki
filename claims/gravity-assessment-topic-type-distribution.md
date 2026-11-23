@@ -85,3 +85,4 @@ Sentiment coding of examiner comments across the dataset. The results state repo
 ## Related Claims
 - [Field questions attract the highest negative examiner sentiment of any gravity topic while Kepler questions attract the highest positive sentiment](field-kepler-sentiment-contrast.md) — related
 - [Mathematical errors account for the majority of lost marks on calculation-type gravity questions, particularly orbits](mathematical-errors-dominate-calculation-gravity-questions.md) — related
+- [Physics students commonly hold misconceptions about central-force orbits, such as believing any positive-energy orbit is hyperbolic and that bounded orbits are always closed](student-misconceptions-central-force-orbits.md) — related

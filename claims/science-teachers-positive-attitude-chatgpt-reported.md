@@ -47,3 +47,4 @@ Narrative background statement in the article's introduction, attributed by the 
 ## Related Claims
 - [Secondary education science teachers' self-rated perception of ChatGPT as an educational assistant was higher after three weeks of prompt engineering training than before, in one uncontrolled pre-post pilot study](prompt-engineering-training-improves-teacher-perceptions-chatgpt.md) — a narrower finding that bears on this claim
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [More than 80% of surveyed undergraduates hold a positive attitude toward introducing infographics in the educational process](positive-student-attitude-toward-infographics.md) — related

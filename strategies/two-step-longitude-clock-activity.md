@@ -49,6 +49,7 @@ This strategy sequences the learning in two steps of increasing authenticity. St
 - [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](hierarchical-teaching-sequence-one-step-equations.md)
 - [Two-part lesson: Lorentzian derivation of the transformations first, then Einstein's kinematic reinterpretation](two-part-lorentzian-then-einstein-lesson.md)
 - [Embed the navigation activity in a historical and multimedia context using documentaries, oral presentations and cross-curricular links](navigation-history-multimedia-context.md)
+- [Guided derivation plus comparative Mars-Earth calculation and discussion](guided-derivation-comparative-calculation-mars-earth.md)
 
 ## Examples
 -

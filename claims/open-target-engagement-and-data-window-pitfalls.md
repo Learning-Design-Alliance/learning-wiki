@@ -65,3 +65,4 @@ Observation from implementations: despite a direct prompt in the notebook instru
 
 ## Related Claims
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
+- [Students involved in near-space balloon exploration showed excitement and a sense of ownership of the project](student-ownership-near-space-exploration.md) — related

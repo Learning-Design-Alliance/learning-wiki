@@ -50,3 +50,5 @@ Theoretical argument in the article's review of ITS authoring tool design tradeo
 - [The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models](increased-efficiency-confounds-speed-ability-tradeoff.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [A tradeoff exists between OPRA system flexibility and ease of use](opra-flexibility-ease-of-use-tradeoff.md) — related
+- The programme reports an unanticipated trade-off between exploiting scale and becoming an exclusive monoculture — related
+- [Using the Bethe-Bloch-based tool, undergraduate students learn radiation-matter interaction, shielding trade-offs, scenario uncertainty, and the elevated dose magnitudes in space](students-learn-radiation-matter-interaction-via-dreadcode.md) — related

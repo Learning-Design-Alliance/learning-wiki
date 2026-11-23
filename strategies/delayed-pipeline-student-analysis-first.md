@@ -44,6 +44,7 @@ Within MIRA's reduction workflow, teachers can hold back the automatic photometr
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
 - [Position the instructor as human-in-the-loop reviewer of AI-generated difficulty reports before any feedback reaches students](instructor-in-loop-ai-difficulty-reports.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Photometry procedure: raw-format capture, aperture photometry with background subtraction, and spreadsheet analysis](dslr-street-light-photometry-procedure.md)
 
 ## Examples
 -

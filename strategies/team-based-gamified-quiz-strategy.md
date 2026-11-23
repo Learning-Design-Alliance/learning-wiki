@@ -57,6 +57,7 @@ The article recommends integrating gamification platforms such as Kahoot® into 
 - [Use Kahoot continuously after each thematic block and collaborative TikTok video projects alongside traditional teaching in medical courses](continuous-kahoot-plus-collaborative-tiktok-strategy.md)
 - [Hybrid gamification design combining traditional instruction with gamified elements that emphasize individual progress and feedback over intense competition](hybrid-gamification-individual-progress-strategy.md)
 - [Use a gamified quiz platform (Kahoot!) as a playful learning check after the calculation tasks](kahoot-quiz-learning-check-strategy.md)
+- [Use a prepared Kahoot! quiz as a playful learning check with per-question and per-student answer visibility](kahoot-quiz-learning-control.md)
 
 ## Examples
 -

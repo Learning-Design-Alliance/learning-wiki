@@ -104,3 +104,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related
 - [Managers value cross-domain fluency connecting quantum computation with domain areas such as chemistry, finance, AI, and optimization](cross-domain-fluency-quantum-applications-valued.md) — a narrower finding that bears on this claim
 - [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related
+- [The authors report that secondary school students find the devices engaging and are surprised by mathematics' real-world applications](outreach-devices-found-engaging-surprising-real-world.md) — related

@@ -52,3 +52,4 @@ The article asserts that "By teaching eclipses in a dome, the students correctly
 - [Bidimensional textbook schemes of the lunar phases hinder understanding of the three-dimensional phenomenon and blur the distinction between phases and eclipses](bidimensional-schemes-hinder-phase-learning.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Experimental students gained on lunar periodicity LPCI domains while only the control group gained on the phase/Sun-Earth-Moon positions domain](lpci-domain-gains-differ-by-curriculum-group.md) — related
+- [A three-dimensional two-body projection in alternative inertial frames addresses student perplexity about orbits of each body in the center-of-mass system](two-body-3d-projection-center-of-mass-confusion.md) — related

@@ -59,3 +59,5 @@ First-person reflective vignette by Dr. Weronika Walkosz, who participated in FP
 - [Outreach integrated students into the physics community and supported persistence in the major (community participation cluster)](outreach-community-participation-persistence.md) — related
 - [Peers and mentors played crucial roles in students' learning journeys in the Pathways program](peer-mentor-relationships-quantum-program.md) — related
 - [A graduate astronomy course can reverse brain drain into brain gain by attracting professionals to posts in the host region and preparing students for diverse career paths](astronomy-graduate-course-brain-gain.md) — related
+- [Students in Hawai'i report little exposure to STEM career pathways in public schools and often learn of local astronomy research only late, reflecting a disconnect between communities and research institutions](community-institution-disconnect-hawaii-astronomy.md) — related
+- [Summer research internships and mentoring experiences inspired Native Hawaiian students to persist toward PhDs in astronomy](internships-inspire-native-hawaiian-astronomy-persistence.md) — possibly the same claim (merge candidate)

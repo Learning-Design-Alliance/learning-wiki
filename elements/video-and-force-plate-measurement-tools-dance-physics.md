@@ -53,6 +53,7 @@ The course uses two measurement tools: digital video cameras, from which positio
 - [Measure and Graph Data](../strategies/measure_and_graph_data.md)
 - [Conclude with a choreography-and-analysis final project in place of a final exam](../strategies/choreography-analysis-final-project-culminating.md)
 - [Teach video analysis by hand, in real time, without automation layers for non-science majors](../strategies/hand-frame-by-frame-analysis-real-time-non-majors.md)
+- [Have students test the three-segment jump model against real jumps by measuring body geometry and calibrating forces from knee-dominant and glute-dominant jumps](../strategies/student-jump-model-testing-experiment.md)
 
 ## Key Sources
 - Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)

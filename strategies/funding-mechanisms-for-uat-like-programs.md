@@ -48,6 +48,7 @@ The article recommends that the astronomy community "identify and create funding
 - [Large science collaborations can support researcher EPO engagement via shared repositories, dedicated funding, infrastructure credit, dedicated staff, and communication training](collaboration-support-for-epo-engagement.md)
 - [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
 - [Funding agencies should require graduate student mentoring plans in all grants that fund graduate students and weigh their evaluation significantly in review](require-grad-student-mentoring-plans-grants.md)
+- [Sustained funding and outreach recommendations for growing local participation in Hawai'i astronomy](sustained-mentoring-funding-and-outreach-hawaii-astronomy.md)
 
 ## Examples
 -

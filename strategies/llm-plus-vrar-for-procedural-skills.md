@@ -57,6 +57,7 @@ The article recommends that because text-based LLM support has limited influence
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Integrate simulation-based training into gynaecology training programs to compensate for declining hands-on experience in vaginal hysterectomy](simulation-integration-gynaecology-training.md)
+- [Integrate gamified AI assistance into the development environment to reduce the learning curve](gamified-ai-assistance-in-dev-environment.md)
 
 ## Examples
 -

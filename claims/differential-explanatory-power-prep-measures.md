@@ -54,3 +54,4 @@ Regression analysis across HSEC, HSWC, and PM comparing how the demographic coef
 - [Controlling for incoming calculus grades and FCI scores did not reduce URM gaps as a Student Deficit model predicts](preparation-controls-fail-to-explain-urm-gaps.md) — reports the opposite
 - [Exam gender gaps that depend on exam stakes indicate that high-stakes exams are not measuring differences in physics knowledge or ability between demographic groups](stakes-gap-invalidates-exam-measure.md) — related
 - [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related
+- [The Salehi et al. finding that demographic coefficients in a pretest-adjusted prediction model are insignificant does not support causal claims about preparation or about teaching methods](preparation-gaps-causal-overreach.md) — related

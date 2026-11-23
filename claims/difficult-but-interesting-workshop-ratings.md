@@ -51,3 +51,4 @@ Post-workshop five-grade questionnaire (n' = 26). FIG. 10 reports mean difficult
 - [Students held positive perceptions of authentic materials (71% interesting, 70% useful), though 34% found them difficult to understand](survey-positive-perception-authentic-materials.md) — related
 - [Students find the introductory theory portion of the masterclass difficult and prefer practical experiments](masterclass-theory-intro-found-difficult.md) — related
 - [High-school students liked the complex-systems videogames despite rating them difficult](complex-systems-games-liked-despite-difficulty.md) — related
+- [Students found the experimental home assignment motivating (100% agreement) though half found it difficult, and reported learning technical skills and autonomy](experimental-homework-survey-motivation-autonomy.md) — related

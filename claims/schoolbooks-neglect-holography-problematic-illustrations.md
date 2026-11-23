@@ -48,3 +48,4 @@ Schoolbook analysis premised on the thesis that teachers avoid holography partly
 - [Holography course produced highly significant knowledge gains about holography basics and smaller significant comprehension effects in geometric optics and wave phenomena](holography-course-significant-knowledge-gains.md) — related
 - [Student interviews revealed cognitive conflicts between models, with wave-model terminology used in ray-model contexts](model-conflicts-wave-terminology-in-ray-context.md) — related
 - [Students without meta-conceptual capability switch between models of light unreflected and without recognizing the switches](unreflected-model-switching-hybrid-light-models.md) — related
+- Halloween and Sint Maarten book illustrations frequently show the incorrect last quarter moon for evening scenes — related

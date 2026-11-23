@@ -47,3 +47,4 @@ The author's facilitator account of the ICM X-ray emission activity, in which st
 ## Related Claims
 - [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — a broader claim this one bears on
 - [Students struggle to distinguish dark matter from dark energy and related mysterious concepts](students-confuse-dark-matter-dark-energy.md) — related
+- [The RHIC perfect-fluid discovery can be introduced even at primary and secondary levels of physics education](rhic-perfect-fluid-teachable-school-levels.md) — related

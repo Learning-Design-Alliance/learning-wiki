@@ -49,6 +49,7 @@ The authors recommend that health system administrators and educators embed the 
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Use a short validated self-report rubric longitudinally to track SDL competency development and target students for remediation](longitudinal-sdl-rubric-tracking-strategy.md)
 - [Administer the EBMQ to help policy makers identify knowledge, practice and barrier gaps and improve EBM uptake](ebmq-policy-maker-gap-identification-strategy.md)
+- [Before-and-after design with randomly selected after-only control group to separate CPD effects from mere-measurement effects](before-after-random-control-mere-measurement-design.md)
 
 ## Examples
 -

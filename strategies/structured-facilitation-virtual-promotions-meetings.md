@@ -44,6 +44,7 @@ Adapting Mittleman et al. and Clawson et al., the review provides facilitation s
 - [Classroom Meetings](classroom-meetings.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 - [Restorative Justice Conferencing](restorative-justice-conferencing.md)
+- [Facilitate harassment discussions by educating organizers, partnering with campus centers and experts, using external facilitators over multiple semesters, providing mental health access, setting ground rules and expectations, arranging quiet and counselor rooms, holding men-only caucus groups, and sharing institutional policies](facilitation-strategies-harassment-discussions.md)
 
 ## Examples
 -

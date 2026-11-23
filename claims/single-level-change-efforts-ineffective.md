@@ -47,3 +47,4 @@ The article reports, citing the meta-analysis, that the four categories are diss
 ## Related Claims
 - [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — possibly the same claim (merge candidate)
 - [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related
+- [Common first responses to enhancing climate, such as mission statements, codes of conduct and diversity trainings, can be ineffective or counterproductive if adopted in isolation](isolated-diversity-initiatives-ineffective.md) — a narrower finding that bears on this claim

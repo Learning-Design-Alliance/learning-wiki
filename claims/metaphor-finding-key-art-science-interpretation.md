@@ -51,3 +51,4 @@ Authors' identified challenge in the Educational Outcomes section of the case re
 - [Science students tended to translate scientific concepts literally into choreography while dance students sought creative exploration, creating a disconnect](literal-translation-versus-choreographic-exploration-disconnect.md) — related
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — a broader claim this one bears on
 - [Scientists' hand gestures, animated into visual metaphors, help make complex astronomical concepts relatable and engaging](scientist-hand-gestures-animation-relatable.md) — related
+- [Surveyed undergraduates report learning difficulties in lecture-based courses that they associate with insufficient visualization of materials](undergraduates-report-visualization-related-learning-difficulties.md) — related

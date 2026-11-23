@@ -43,6 +43,7 @@ As a methodological next step, the authors propose using multiple imputation and
 ## Related Strategies
 
 - [Impute missing data and add missingness indicator columns, then explicitly report the missing-data treatment](imputation-with-missingness-indicators.md)
+- [Adopt multiple imputation and improve missing-data reporting practices in PER quantitative studies](adopt-mi-improve-missing-data-reporting-strategy.md)
 
 ## Examples
 -

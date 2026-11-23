@@ -48,6 +48,7 @@ The essay recommends packaging video with interactive questions (using tools lik
 - [Give learners explicit guidance in when and how to pause and scroll back while watching instructional videos](explicit-guidance-pause-scrollbar-strategies.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Maximize engagement by keeping videos brief, using conversational enthusiastic narration, and packaging videos for the specific course](video-engagement-style-strategies.md)
+- [Treat embedded exercises as an integral part of a lecture course to stimulate active reading](exercises-as-part-of-course-active-reading.md)
 
 ## Examples
 -

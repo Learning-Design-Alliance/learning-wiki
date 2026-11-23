@@ -67,3 +67,4 @@ A t-test comparing study-time samples across gender groups (Figure 5) found male
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Associations of work experience and age with nurses' EBHC competence are mixed, with both shorter and longer durations and both younger and older age reported as positive](mixed-work-experience-age-associations-ebhc-competence.md) — related
 - [Total academic performance favored the blended AI-integrated curriculum group but the difference was not statistically significant](total-performance-nonsignificant-trend-blended-ai-curriculum.md) — related
+- [Participants aged 56 and over scored slightly lower than younger participants, but the age trend is statistically underpowered](older-visitors-slightly-lower-astronomy-scores-underpowered.md) — related

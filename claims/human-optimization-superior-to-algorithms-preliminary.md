@@ -48,3 +48,4 @@ Preliminary, incomplete comparison of player scores against computer optimizatio
 ## Related Claims
 - [Classic African board games serve as settings for exploring and learning artificial intelligence techniques](african-board-games-mediate-ai-learning.md) — related
 - [Ma et al. (2014) meta-analysis: step-based ITSs outperformed no tutoring and large-group teacher-led instruction, but showed no differences against small-group or one-to-one human tutoring](ma-2014-its-beats-no-tutoring-large-group-not-small-or-one-to-one.md) — related
+- Serving multiple types of player at once is a great challenge for citizen science games — related

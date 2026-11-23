@@ -54,3 +54,4 @@ Semi-structured interviews with seven physics PhD students at one U.S. public re
 - [Physics experts approach covariational graphing problems with behaviors distinct from those of mathematics experts](physics-experts-covariation-differs-from-math-experts.md) — related
 - [Students described learning to think like a physicist as a gradual, ongoing process built through repeated practice, curiosity and the social environment, without a fixed threshold](ltp-gradual-practice-curiosity-social.md) — related
 - [Andes guides students through expert-like qualitative problem analysis but lacks metacognitive practice opportunities](andes-structures-qualitative-analysis-lacks-metacognition.md) — related
+- [The book argues fluent physics-style mathematical thinking consists of translating thoughts into equations rather than applying memorized formula templates](physicists-translate-thoughts-into-equations.md) — related

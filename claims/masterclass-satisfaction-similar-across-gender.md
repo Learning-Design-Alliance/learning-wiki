@@ -72,3 +72,4 @@ The paper identifies the outside-school interest question as "the only question 
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
 - [Female students answered correctly less often than males, with statistically significant differences on questions A3, A5, B1 and B2](gender-gap-radiation-knowledge-greek-students.md) — related
 - [Female and male participants scored similarly on quantum outreach satisfaction measures](gender-similar-scores-quantum-outreach.md) — related
+- [Extra-curricular particle physics activities increased general interest in physics among students aged 16-19 in the UK and Germany](particle-physics-outreach-increases-student-interest.md) — related

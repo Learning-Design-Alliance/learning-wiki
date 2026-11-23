@@ -52,6 +52,7 @@ The article recommends that educational strategies aimed at changing physicians'
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
+- [Interactive small-group workshops with case study discussions as the educational format for changing nursing practice](interactive-workshops-case-discussions-pain-education.md)
 
 ## Examples
 -

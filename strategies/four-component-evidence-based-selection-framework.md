@@ -50,6 +50,7 @@ The article proposes a minimum standard for selection to surgical training that 
 
 - [Sweden Decentralized Unstructured Selection](../claims/sweden-decentralized-unstructured-selection.md)
 - [Recruitment strategy: match candidate profiles to available training programs through thorough interviews before selection](candidate-program-matching-recruitment.md)
+- [Recruit through announced grants, qualification thresholds, and thorough interviews that check stated skills](grant-announcement-interview-recruitment-strategy.md)
 
 ## Examples
 -

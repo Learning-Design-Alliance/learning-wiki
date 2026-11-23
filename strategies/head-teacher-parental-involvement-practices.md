@@ -47,6 +47,7 @@ Based on the third factor identified in the study, head teachers in Nepal's publ
 - [Family Engagement](family-engagement.md)
 - [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](parent-lsc-principal-partnership-strategy.md)
 - [Involve school staff and students in planning, and use workshops, parental meetings, researcher support and materials to optimise adherence](staff-student-codesign-implementation-strategies.md)
+- [Community mobilization through sensitization campaigns, monthly meetings, and VDC/SMC involvement](score-community-mobilization-vdc-smc.md)
 
 ## Examples
 -

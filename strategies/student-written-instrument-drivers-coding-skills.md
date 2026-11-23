@@ -46,6 +46,7 @@ Rather than adopting available software solutions, the students developed Python
 
 - [Use generative AI as a no-code development tool so instructors can design laboratory software around their own pedagogical objectives](ai-nocode-lab-software-development.md)
 - [Three-hour paired-development Python workshop introducing the rubric through peer review and pair-programming sprints](pair-programming-python-workshop-fizzbuzz-sprints.md)
+- [Have students write the demodulation code themselves, or supply instructor-provided code, scaled to student skill level](student-written-demodulation-code-strategy.md)
 
 ## Examples
 -

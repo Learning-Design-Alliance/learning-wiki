@@ -67,6 +67,7 @@ Note taking improves learning primarily when it requires generative processing �
 - [Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally](conditional-note-taking-advice.md)
 - [Scaffold note-taking in learning apps with drag-and-drop information items rather than free-form input](scaffolded-drag-and-drop-note-taking.md)
 - [Use guided notes rather than distributed slide copies to increase attention during lectures](guided-notes-hierarchical-outline-lectures.md)
+- [Provide text-based recording and annotation tools matched to how players actually share strategies](text-based-strategy-recording-tools-strategy.md)
 
 ## Examples
 - **Cornell Notes system** — page divided into cues, notes, and summary columns; widely adopted in K–12 study-skills curricula ([https://en.wikipedia.org/wiki/Cornell_Notes](https://en.wikipedia.org/wiki/Cornell_Notes))

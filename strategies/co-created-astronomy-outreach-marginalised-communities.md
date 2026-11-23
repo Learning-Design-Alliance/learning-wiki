@@ -48,6 +48,7 @@ The article presents a strategy of designing astronomy outreach not for but with
 - [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
 - [Recruit through locally connected educational entities and train via multilingual volunteer-led sessions](locally-connected-entities-multilingual-volunteer-training.md)
 - [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
+- [Recruit the international astronomical community to disseminate and extend a volunteer outreach project](astronomer-volunteer-network-for-outreach-dissemination.md)
 
 ## Examples
 -

@@ -46,7 +46,8 @@ The article recommends locally developed and run education for regional and rura
 - [Lack of central service coordination and timely local supports is a key barrier, and the UK IRIS programme significantly increased IPV/FV identification and referral rates](../claims/service-coordination-barrier-iris-increased-identification.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Target HBV education and training to rural regions, nurses and midwives, and elementary school staff, and enforce patient privacy policies](targeted-hbv-education-strategy.md)
 
 ## Examples
 -

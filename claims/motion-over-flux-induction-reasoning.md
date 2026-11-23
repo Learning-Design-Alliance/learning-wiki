@@ -9,6 +9,7 @@ generated:
   at: 2026-11-22
 evidence_strength: moderate
 newest_evidence: 2005
+source_checked: 2026-11-23
 sources:
   - id: scott-secrest-and-ingrid-novodvorsky-2005
     resource: "https://doi.org/10.48550/arXiv.physics/0501093"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interviews, few students said a current would be induced when a coil was rotated near a stationary magnet, and of those, only one attributed it to the changing cross-sectional area; others cited the loop's motion. [→ Scott Secrest and Ingrid Novodvorsky 2005](#scott-secrest-and-ingrid-novodvorsky-2005)

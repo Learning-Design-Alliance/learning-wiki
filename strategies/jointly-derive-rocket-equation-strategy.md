@@ -45,6 +45,7 @@ For classes with sufficient mathematical preparation, the handout suggests deriv
 ## Related Strategies
 
 - [Use the SHM derivation to integrate conceptual and mathematical reasoning in the introductory course](shm-derivation-integrates-conceptual-math-reasoning.md)
+- [Guided derivation plus comparative Mars-Earth calculation and discussion](guided-derivation-comparative-calculation-mars-earth.md)
 
 ## Examples
 -

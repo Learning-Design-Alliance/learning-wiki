@@ -54,3 +54,6 @@ Observational institution-level regression across 89 US allopathic medical schoo
 - [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
 - [MSM students' Step 1 scores exceeded those predicted from their MCAT scores by 22.6 points on average](msm-step1-exceeds-mcat-prediction.md) — related
 - [Cumulative GPA, USMLE Step 1, USMLE Step 2 CK and MCAT scores were not predictive of self-directed learning readiness](gpa-usmle-mcat-not-predictive-sdlr.md) — related
+- [MCAT BS, PS and VR components together explain 17.7% of variance in USMLE Step 1 scores, with BS most predictive](mcat-components-regression-step1.md) — related
+- [MCAT components explain 12.0% of variance in USMLE Step 2 CK scores, where VR is more predictive than PS](mcat-components-regression-step2ck.md) — a narrower finding that bears on this claim
+- [MCAT composite scores correlate positively but fairly weakly with USMLE Step 1 (r=0.39) and Step 2 CK (r=0.31) scores](mcat-composite-correlates-usle-step1-step2ck.md) — related

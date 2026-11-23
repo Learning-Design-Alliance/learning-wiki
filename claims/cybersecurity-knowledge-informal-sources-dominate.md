@@ -69,3 +69,4 @@ Same survey's source-of-knowledge distributions. The article notes "academic ins
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim](limited-support-and-cybercrime-victimization.md) — related
 - [Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly](computing-students-high-objective-cybersecurity-knowledge.md) — related
+- Word of mouth was the most effective channel for awareness of ERN (37%), followed by social networks (23%), with over 52% of attendees informed by the awareness campaign — related

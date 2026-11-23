@@ -49,3 +49,4 @@ Program-level enrollment and outcome reporting, not a controlled comparison. The
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
+- [Summer research internships and mentoring experiences inspired Native Hawaiian students to persist toward PhDs in astronomy](internships-inspire-native-hawaiian-astronomy-persistence.md) — related

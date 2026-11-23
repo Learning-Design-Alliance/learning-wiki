@@ -48,6 +48,7 @@ The article demonstrates a pre-intervention qualitative design: demonstrating a 
 ## Related Strategies
 
 - [Mitigations for delivering virtual surgical skills courses: facilitators, re-playable demonstrations, and connectivity safeguards](virtual-course-technical-mitigations-strategy.md)
+- [Phase 4 qualitative assessment of instrument acceptability through interviews and focus groups with four stakeholder groups](cpd-instrument-acceptability-interviews-focus-groups.md)
 
 ## Examples
 -

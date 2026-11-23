@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-23
 sources:
   - id: awodele-o-2011
     resource: "https://doi.org/10.48550/arXiv.1105.4517"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts that very few Nigerian universities conduct academic activities through ICT because ICT infrastructure is very inadequate, while e-learning offers benefits including increased access and convenience. [→ Awodele O. 2011](#awodele-o-2011)

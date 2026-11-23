@@ -55,3 +55,4 @@ Experimental study in which "Participants were placed in one of four conditions 
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
 - [Unequal social status in heterogeneous PBL groups disempowers students and hinders participation and productivity](heterogeneous-pbl-status-inequality-hinders-participation.md) — related
+- [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](individual-feedback-loop-homophily-bias-stereotype-threat.md) — related

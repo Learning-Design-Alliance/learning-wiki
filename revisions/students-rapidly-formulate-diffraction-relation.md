@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/students-rapidly-formulate-diffraction-relation.md
+---
+
+# Revision history: [claims/students-rapidly-formulate-diffraction-relation](../claims/students-rapidly-formulate-diffraction-relation.md)
+
+### 2026-11-23 · ingest · process:wiki-ingest
+Ingested from arxiv-1204.6072 (The true colours of white light: hands-on optical spectrometry) via eval_harness.py + ingest_extractions.py

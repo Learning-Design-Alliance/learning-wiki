@@ -64,6 +64,7 @@ Reflection works because it forces [Self-Explanation](../elements/self-explanati
 - [Debriefing](debriefing.md) — structured group reflection after simulations or experiential activities
 - [Exit Tickets](exit-ticket.md) — brief, low-stakes end-of-class reflection that also yields formative data
 - [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
+- [Post-activity reflection questions linking classroom parallax accuracy to Hipparcos and Gaia precision](parallax-reflection-questions-linking-missions.md)
 
 ## Examples
 - **Medical education debriefing** — After simulation-based resuscitation training, facilitators run structured debriefs (e.g., the PEARLS framework) in which trainees analyze their decisions; debrief quality is one of the strongest predictors of simulation learning outcomes.

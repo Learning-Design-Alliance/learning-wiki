@@ -66,3 +66,4 @@ One-way ANOVA on average tutorial-level scores found no significant effect of ph
 ## Related Claims
 - [99% of users drop out within 7 active days; all players staying beyond 7 days were voluntarily recruited at public events, and demographics do not predict hero status](heroes-voluntary-recruitment-demographics-null.md) — reports the opposite
 - [A game-based assessment of persistence predicts physics post-test gains for low-performing players after controlling for background and enjoyment](gap-predicts-learning-gains-struggling-players.md) — related
+- [A bot built from player methods was less effective than the player methods it was based on](decodoku-bot-less-effective-than-player-methods.md) — related

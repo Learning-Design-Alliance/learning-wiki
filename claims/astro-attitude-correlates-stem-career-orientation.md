@@ -60,3 +60,4 @@ Regression analysis of the full survey sample; 370 out of 749 respondents, or ne
 - [Tutor communication engagement correlated positively with students' motivation to pursue a STEM career](tutor-engagement-stem-motivation-correlation.md) — related
 - [70% of students in the undergraduate algebra-based physics class expected the subject to consume most of their out-of-class time without yielding good grades](physics-time-grade-expectations.md) — related
 - [Algebra-based physics students differ from calculus-based physics students in needs, motivation, and background](algebra-based-student-population-characteristics.md) — related
+- The least positive attitudes towards science appear at intermediate knowledge levels, which also show the highest confidence-to-knowledge ratios — related

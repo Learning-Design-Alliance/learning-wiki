@@ -63,3 +63,4 @@ The authors' own classroom experience using Tracker with their students, framed 
 - [Tracker video modeling lets students incrementally and iteratively improve self-proposed models of real motion using evidence from video analysis](tracker-video-modeling-iterative-self-invented-models.md) — related
 - [In-app automated data analysis shifts an experiment's instructional focus, e.g. from teaching data analysis to teaching basic kinematics](in-app-analysis-shifts-experiment-focus.md) — related
 - [Students self-report improved understanding of position-velocity-acceleration relationships after the smartphone activity](smartphone-activity-self-reported-understanding-gains.md) — related
+- [Stroboscopic photos retain pedagogical value even though Tracker can automatically track motion and plot graphs](stroboscopic-photos-value-despite-automatic-tracking.md) — related

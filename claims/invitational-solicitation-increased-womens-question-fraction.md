@@ -68,3 +68,4 @@ Pearson's χ2 test of the semester difference: "The data yield a χ2 = 8 .03", e
 - [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Changing the question solicitation script was associated with no change in the total number of questions asked by students](solicitation-script-no-change-in-total-questions.md) — related
+- [The fraction of questions asked by women rose with question order, mirroring prior findings, but not significantly](question-order-women-fraction-trend.md) — related

@@ -58,3 +58,4 @@ The authors' interpretive report (type e) from their year-long implementation in
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
 - [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related
 - [Pre-survey baselines show high astronomy familiarity but low prior exposure to gravitational waves and neutron stars in both cohorts](gw-explorer-pre-survey-baselines.md) — related
+- [A three-lesson project using Einstein's notes in twelfth grade reported that the authenticity of his calculations added to student motivation](einstein-notes-classroom-project-motivation.md) — related

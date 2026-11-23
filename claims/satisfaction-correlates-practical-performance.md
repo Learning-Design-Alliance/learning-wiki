@@ -69,3 +69,4 @@ Multiple linear regression on experimental-group data predicting practical test 
 - [Semester grades correlate strongly with practical carving test scores (r = 0.775)](semester-grades-practical-test-correlation.md) — related
 - [Students' general interest in a lesson's subject is positively associated with their ratings of teaching quality](student-general-interest-bias-teaching-ratings.md) — related
 - [Number of video viewings correlates with confidence and satisfaction; device type does not relate to outcomes](viewing-frequency-correlates-confidence-satisfaction.md) — related
+- Satisfaction with the HWA did not predict frequency of use — related

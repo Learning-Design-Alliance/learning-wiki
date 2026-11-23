@@ -43,6 +43,7 @@ The program recruits Masters-level students with computer science skills and Eng
 - [Four-component evidence-based selection framework for surgical trainee recruitment](four-component-evidence-based-selection-framework.md)
 - [Remote pre-arrival onboarding: complete visa paperwork, onboarding and computing-domain access from Italy before arrival](remote-pre-arrival-onboarding.md)
 - [Recruit project-team members on interest and prior project or research experience rather than specific technical skill sets, and onboard members from diverse technical backgrounds](recruit-on-interest-prior-projects.md)
+- [Recruit through announced grants, qualification thresholds, and thorough interviews that check stated skills](grant-announcement-interview-recruitment-strategy.md)
 
 ## Examples
 -

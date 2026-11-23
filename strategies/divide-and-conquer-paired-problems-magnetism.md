@@ -46,6 +46,7 @@ The article recommends that "students should be explicitly taught the divide and
 - [Use properly designed quantitative problems to reveal and reinforce students' conceptual understanding](quantitative-problems-reveal-conceptual-understanding.md)
 - [Explicitly teach problem-solving heuristics (visualizing, checking conservation principles, examining limiting cases) to help students build and employ physical intuition](explicitly-teach-problem-solving-heuristics-strategy.md)
 - [Assign paired problems as quizzes or homework so students transfer the tutorial-taught approach without help](paired-problems-quizzes-homework-strategy.md)
+- [Reinforce the frame-and-conserved-quantity method with control questions and a transfer challenge problem](control-questions-and-challenge-problem-reinforcement.md)
 
 ## Examples
 -

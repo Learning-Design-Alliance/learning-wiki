@@ -68,3 +68,4 @@ The author's interpretive claim in Section 1, illustrated by the presentation of
 - [Particle physics became part of the mandatory school curriculum in North Rhine Westfalia, Germany, with state-wide baccalaureat exam problems in preparation](masterclasses-entering-formal-curricula.md) — related
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
 - [Instructors' oral evaluations at final presentations indicated junior and senior undergraduates could access HEP data analysis](cutlang-school-oral-evaluations-accessibility.md) — related
+- [School physics curricula leave students with an outdated classical picture of matter, and outreach is presented as the only bridge until curricula update](curricula-lack-modern-physics-outreach-bridges-gap.md) — related

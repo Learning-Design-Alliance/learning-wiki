@@ -51,6 +51,8 @@ The article's inclusive-practices strategy spans recruitment (early, community-i
 - [Increase role models and the visibility of underrepresented QIST researchers, e.g., as invited speakers and on decision-making committees](increase-role-models-visibility-underrepresented-qist.md)
 - [Adapt the summer research internship model down to high-school level with group research projects and mentoring](downscale-research-internships-to-high-schools.md)
 - [Institutionalize undergraduate research with credit, faculty load credit and summer funding as central to student satisfaction and recruitment](undergrad-research-credit-incentives-strategy.md)
+- [Recruit for inclusive hackathons through personal invitations in pairs, women-only preparatory events, reduced competition emphasis, explicit valuation of non-coding skills, and role-based coordination](inclusive-hackathon-recruitment-strategies.md)
+- [Sustained funding and outreach recommendations for growing local participation in Hawai'i astronomy](sustained-mentoring-funding-and-outreach-hawaii-astronomy.md)
 
 ## Examples
 -

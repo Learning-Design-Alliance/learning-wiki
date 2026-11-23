@@ -66,6 +66,7 @@ Infographics exploit the capacity of the visual channel to carry information in 
 - [Case Studies](../elements/case-studies.md) — infographics can compress case data for initial analysis
 - [Annotating](../principles/annotating.md) — learner annotation turns a static infographic into an active processing task
 - [Use infographics in geography lessons where visual and information content are given together, especially where achievement and attitudes are low](infographics-for-low-achievement-attitude.md)
+- [Iconographic informed-consent process during registration using visual flowcharts with minimal text](iconographic-informed-consent-registration-process.md)
 
 ## Examples
 - **[Information is Beautiful](https://informationisbeautiful.net)** — David McCandless's data-journalism infographics; widely used in media literacy and statistics teaching to discuss both insight and visual distortion.

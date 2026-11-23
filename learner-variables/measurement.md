@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (23 show a difference, 5 mixed, 3 no difference) · 22 studies (8 causal, 7 qualitative, 3 associational, 3 design, 1 theoretical), `q1`–`q3` · 2 of 22 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (24 show a difference, 5 mixed, 3 no difference) · 23 studies (8 causal, 7 qualitative, 4 design, 3 associational, 1 theoretical), `q1`–`q3` · 2 of 23 report an effect size · 31 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -67,6 +67,7 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [Students in both the original and transformed introductory lab course shifted predominantly from mixed to set-like reasoning about measurement uncertainty from pre-test to post-test](../claims/pre-post-shift-mixed-to-set-paradigm-both-semesters.md) [+M] — measured as an outcome of the instruction studied
 - [Student explanations of the radian requirement fell into seven categories, with the incorrect Units Equivalence reasoning most common (23.9%) and correct Derivative Distinction least common among substantive categories (6.4%)](../claims/reasoning-categories-units-equivalence-most-common.md) [+M] — measured as an outcome of the instruction studied
 - [Conceptions of measurement progress across the outcome space from passive classical measurement to measurement as an active process that determines outcomes](../claims/measurement-conceptions-progression-quantum-teleportation.md) [+M] — measured as an outcome of the instruction studied
+- [At EPO7, of about a hundred students attempting the GIC-inductance measurement, more than thirty obtained some result and around twenty measured the inductance within the expected value](../claims/epo7-inductance-measurement-participation-outcomes.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

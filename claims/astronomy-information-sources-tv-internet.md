@@ -50,3 +50,4 @@ Information-source items in the 2012 survey of 667 public and 2589 respondents. 
 - [Nursing students' primary source of dental trauma knowledge is the internet and TV, with dentists the least common source](internet-tv-primary-source-dental-trauma-knowledge.md) — related
 - [Internet, TV and school are the main reported sources of radioactivity knowledge, with school peaking in 3rd ESO and the master group](main-information-sources-internet-tv-school.md) — related
 - [After the video project, more students preferred group work and more conducted astronomy-related web searches](post-video-assessment-group-and-search-shifts.md) — related
+- Youngsters and adults differ in daily news and scientific-news searching, channel preferences, and sharing behaviour — related

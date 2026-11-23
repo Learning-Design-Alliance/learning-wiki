@@ -62,3 +62,4 @@ Unsupervised LDA topic modeling (topicmodels package in R) on the preprocessed c
 - [BERTopic clustering of medical documents produced highly distinct topics rated highly by medical experts](bertopic-clustering-high-quality-topics.md) — related
 - [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related
 - [The final LDA model for the combined corpus achieved a coherence score of 0.577, selected from 15 averaged models using the elbow method and qualitative inspection.](lda-model-coherence-0-577-selection.md) — related
+- [The redesigned RDB collapses many categories into four main physics topics with 44 physics topics and 41 item types filterable, plus a new school-topic tag](rdb-redesign-categorisation.md) — related

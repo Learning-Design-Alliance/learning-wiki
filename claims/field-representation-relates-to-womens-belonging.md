@@ -65,3 +65,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related
 - [A low-comfort subgroup is disproportionately composed of women and students of color](low-comfort-subgroup-underrepresented-students.md) — related
 - [Physics and computer science have the lowest representation of women among the majors studied, with about 20% women in physics](physics-lowest-women-representation.md) — related
+- [Women of color in astronomy and planetary science experienced the highest rates of negative workplace experiences, per Clancy et al. (2017)](women-of-color-highest-negative-workplace-experiences.md) — related

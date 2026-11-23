@@ -46,6 +46,7 @@ The article recommends deploying the adapted, quantized 4B model as an offline b
 - [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
 - [Deploy offline SLMs as virtual tutors with native-language localization for physics and photonics education in low-connectivity regions](slm-offline-native-language-tutors.md)
 - [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
+- [Compile and bundle outreach analysis apps for cross-platform home use with runtime language selection](compiled-bundled-cross-platform-masterclass-strategy.md)
 
 ## Examples
 -

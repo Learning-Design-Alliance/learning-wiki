@@ -49,3 +49,4 @@ Response-model robustness test (Table 7, ASSIST15 L=10, 3 policy seeds × 200 te
 - [Under deployment-free inference, at least one EVOL variant achieves the best test EP in every dataset–length setting across three datasets and eight baselines](evol-best-ep-every-dataset-length-setting.md) — related
 - [EVOL variants remain the strongest methods when recommended paths are executed on alternative DKT simulator instances](evol-robust-to-dkt-instance-shift.md) — related
 - [Sequencing rather than concept selection explains most of the EVOL–PPO-vanilla EP gap on ASSIST15 L=10](sequencing-explains-evol-ppo-gap.md) — related
+- Mentors implementing stochastic policies offer broader guidance than deterministic-policy mentors in moderately stochastic environments — related

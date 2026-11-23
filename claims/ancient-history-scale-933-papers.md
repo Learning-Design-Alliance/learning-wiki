@@ -51,3 +51,4 @@ Observational survey data collection described in the article's method section: 
 - [Question difficulty was scored as percentage of correctness, assumed inversely related to difficulty](percentage-correctness-inverse-difficulty.md) — related
 - [The scale measures only the ability to recall definite facts promptly, a limited kind of historical ability](scale-measures-prompt-factual-recall-only.md) — related
 - [The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling](worksheet-effect-secondary-large-random-samples.md) — related
+- [Percentage correct scaled with highest degree obtained, with graduate-level degree earners scoring highest](degree-level-scales-with-astronomy-survey-scores.md) — related

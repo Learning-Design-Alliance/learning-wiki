@@ -50,3 +50,4 @@ The quiz problem was given to 26 first-year graduate students in a TA training c
 - [Among comparison-group students on problem 2, those who drew diagrams scored better but not significantly so](drawing-diagrams-null-difference-comparison-group.md) — related
 - [Students using a mathematical approach who also drew a productive diagram outperformed mathematical-approach students who drew no productive diagram on both quiz and midterm problems](productive-diagram-helps-math-approach.md) — related
 - [Graduate students' problem-solving improved with successive attempts and multiple drawings, including diagrams from different viewing angles that aided comprehension of problem symmetry.](iterative-drawings-improve-moi-solving.md) — related
+- [Students familiar with similar triangles rapidly formulate the diffraction relation a/b = λ/d when given a clear drawing](students-rapidly-formulate-diffraction-relation.md) — related

@@ -47,6 +47,7 @@ An implementable lesson recipe for upper secondary to JC physics on motion, in w
 - [Three recommendations for improving Tracker-based kinematics instruction](tracker-improvement-recommendations-strategy.md)
 - [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](video-analysis-modeling-sport-science-strategy.md)
 - [Use Tracker video analysis of real collisions to connect simulation concepts to real-life applications](tracker-video-inquiry-real-collisions-strategy.md)
+- [Use student-filmed videos of everyday phenomena to build stroboscopic photos for motion analysis](student-filmed-video-stroboscopic-photo-strategy.md)
 
 ## Examples
 -

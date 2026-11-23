@@ -53,3 +53,4 @@ District case report: ICCSD examined 2017 high school CS enrollment against wide
 - Student voices provided insights into factors that may impact participation in CS programs in Iowa City — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related
+- The programme grew to 2,300 members before free auto-enrolment of all university members in October 2017 — related

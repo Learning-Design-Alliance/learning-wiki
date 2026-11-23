@@ -46,7 +46,8 @@ The article defines dialectical thinking as "a way of thinking characterized by 
 - [The 'Languaging in the Content Areas' (LICA) thesis as a formulating theory of post-elementary reading](languaging-in-content-areas-lica-thesis.md)
 
 ## Examples
--
+
+- [Combine recurrence- and case-oriented research pragmatically (choosing paradigms that answer the question) or dialectically (creating tensions between assumptions for a more complex depiction)](../strategies/combining-paradigms-pragmatic-dialectical.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

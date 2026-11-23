@@ -47,7 +47,8 @@ The article's recommendations call for practical, project-oriented treatment of 
 - [At pre-test the control group scored significantly higher than the experimental group on overall SUSSI and on the scientific theories and laws and social and cultural embeddedness aspects](../claims/pretest-sussi-favors-control.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Build researcher confidence by integrating autonomous projects into degree credit and extending opening hours](credit-integration-and-evening-hours-confidence.md)
 
 ## Examples
 -

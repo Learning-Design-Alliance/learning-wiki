@@ -48,3 +48,4 @@ Informal classroom observations reported in Sec. S7, which the authors explicitl
 - [Linear rescaling of AI grades toward the y = x line does not yield reliable machine grading because it leaves dispersion uncorrected](grade-rescaling-insufficient-correction.md) — related
 - [Best-fit slope and intercept of the academic main sequence are inversely correlated, so the sequence is effectively characterized by a single degree of freedom](slope-intercept-inverse-correlation-main-sequence.md) — related
 - [Physics learning is context-dependent: beginning students may not map a principle learned in one context (spinning ballerina) onto an isomorphic problem in another context (collapsing neutron star)](context-dependence-physics-transfer.md) — related
+- [The chase-problem context lets instructors raise why the fox's chase is inefficient and what happens in the long run before posing the main question](chase-problem-socratic-question-sequence.md) — related

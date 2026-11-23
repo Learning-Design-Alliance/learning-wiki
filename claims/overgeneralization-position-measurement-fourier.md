@@ -72,3 +72,4 @@ On a written Fourier-transform question about a delta-function wave packet incid
 - [Students conflated the position-momentum uncertainty relation with the generalized uncertainty principle for generic observables](position-momentum-relation-overgeneralized.md) — related
 - [Item refinement revealed students conflating quantum states with measurement probabilities and overgeneralizing circuit behavior from basis states](students-conflate-state-with-measurement-probabilities.md) — related
 - [Students use the deciding resource from personal relationships to interpret quantum collapse, as reported by Rosenberg](deciding-resource-personal-relations-quantum.md) — related
+- [Students risk acquiring the misconception that all multidimensional wave functions are separable when taught only separable solutions](multidimensional-wavefunctions-separable-misconception.md) — related

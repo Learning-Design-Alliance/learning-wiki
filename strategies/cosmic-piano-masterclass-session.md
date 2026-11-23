@@ -49,6 +49,7 @@ The Masterclass is a structured session for high school and university students 
 
 - [Hodoscope and Extensive Air Shower coincidence exercises with varying detector separation](hodoscope-air-shower-separation-exercises.md)
 - [Provide a web-based tool so students without detectors can analyze large, unfiltered cosmic ray data intuitively](icd-web-tool-large-unfiltered-data.md)
+- [Detector calibration project exploring statistical fluctuations and threshold plateaus](cosmo-calibration-threshold-plateau-strategy.md)
 
 ## Examples
 -

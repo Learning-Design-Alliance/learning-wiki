@@ -49,6 +49,7 @@ The article describes a workshop, given to all new students and interns joining 
 - [Rotate students through experimental roles and run a mid-session mini-conference to build collaboration](rotating-experimental-roles-mini-conference.md)
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Structure undergraduate courses so students autonomously carry out smartphone-based experimental research projects on everyday phenomena, with an introductory lesson, feedback, and graded presentations.](mdet-student-research-project-strategy.md)
+- [Build researcher confidence by integrating autonomous projects into degree credit and extending opening hours](credit-integration-and-evening-hours-confidence.md)
 
 ## Examples
 -

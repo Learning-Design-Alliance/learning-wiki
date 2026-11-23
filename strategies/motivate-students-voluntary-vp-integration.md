@@ -48,6 +48,7 @@ Based on their implementation experience, the authors recommend that educators i
 
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 - [Evaluate VRS curricula under mandatory, protected training time before recommending voluntary implementation](mandatory-protected-vrs-training-evaluation-strategy.md)
+- [Lower the barriers to first use and stimulate adherence with new content, reminders, and explicit usage expectations](reduce-startup-barriers-reminders-new-content.md)
 
 ## Examples
 -

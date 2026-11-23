@@ -56,6 +56,7 @@ This strategy teaches astronomical content by telling both the indigenous cultur
 - [Interdisciplinary hands-on art-science-culture workshops (carving, clay, art-making)](nsw-interdisciplinary-art-science-workshops.md)
 - [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 - [Use a historical ocean-navigation narrative as an entry point for teaching space and time concepts through stellar orientation and the calendar](ocean-navigation-narrative-astronomy-unit.md)
+- [Present star maps as an experiential, hands-on event with time fixed a few hours after sunset and seasons organizing the sky](experiential-prime-time-stargazing-strategy.md)
 
 ## Examples
 -

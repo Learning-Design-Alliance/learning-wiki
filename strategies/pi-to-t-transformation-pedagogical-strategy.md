@@ -38,7 +38,8 @@ The article replaces the π network consisting of r, R2 and Xc with an equivalen
 - deriving DC and AC balance conditions
 
 ## Related Strategies
-- 
+
+- [Balance an AC bridge by minimizing display fluctuations of a cheap DC multimeter, simulating a sensitive galvanometer](multimeter-fluctuation-minimization-bridge-balance.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article proposes writing physics problems whose contexts come from the marit
 - [Real World Math Applications](real-world_math_applications.md)
 - [Personalized Math with Cultural Connections](personalized_math_with_cultural_connections.md)
 - [Leverage students' lived experiences and support systems in course reform, beyond framing activities in interesting contexts](leverage-lived-experiences-and-support-systems-for-relevance.md)
+- [Anchor an experimental problem in a widely used technical patent so students connect school physics to real devices](patent-anchored-olympiad-problem-strategy.md)
 
 ## Examples
 -

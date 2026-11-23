@@ -81,3 +81,4 @@ The comment reports, citing Salehi et al. [1], that college exam scores can be p
 - [Gender significantly predicted physics course grades once the physics-related course variable was removed, in both linear and logistic models](gender-predicts-physics-course-grades.md) — related
 - [Exam gender gaps that depend on exam stakes indicate that high-stakes exams are not measuring differences in physics knowledge or ability between demographic groups](stakes-gap-invalidates-exam-measure.md) — related
 - [Physics exam scores correlate with math SAT scores and prior physics experience, both tied to family income](math-sat-correlates-physics-exam-scores.md) — related
+- [The Salehi et al. finding that demographic coefficients in a pretest-adjusted prediction model are insignificant does not support causal claims about preparation or about teaching methods](preparation-gaps-causal-overreach.md) — possibly the same claim (merge candidate)

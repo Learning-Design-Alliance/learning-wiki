@@ -51,6 +51,7 @@ An implementable recipe for transferring simulation-based emergency training to 
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 - [Use a locally trained facilitator to lead debriefings and sustain the curriculum, with debriefing time lengthened as learners gain experience](local-facilitator-debriefing-sustainability.md)
 - [The Golden Minute Campaign: a multifaceted data-guided QI/simulation intervention combining trained local-champion facilitators, monthly scenario team training, clinical debriefings, and clinical data feedback loops](golden-minute-campaign-qi-simulation-intervention.md)
+- [Translate ready-made science outreach material into under-served languages using local professional astronomers](translate-outreach-material-into-underserved-languages.md)
 
 ## Examples
 -

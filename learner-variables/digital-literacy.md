@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (81 show a difference, 13 mixed, 14 no difference) · 82 studies (24 associational, 16 causal, 15 qualitative, 10 review, 8 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 82 report an effect size · 106 claims rest on one study
+> **Evidence** · 109 claims (81 show a difference, 14 mixed, 14 no difference) · 83 studies (24 associational, 16 causal, 15 qualitative, 10 review, 9 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 83 report an effect size · 107 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -142,6 +142,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Self-directed learning through online resources, AI tools, peer interaction, and on-the-job training continually supported students' computational literacy development at both novice and journeyman levels](../claims/self-directed-learning-supports-pcl-development.md) [+M] — measured as an outcome of the instruction studied
 - [Some thesis students developed a distinct level of research competence — specialized tools, specialized applications of computation, and advanced collaboration skills — beyond what coursework provided](../claims/thesis-research-competence-specialized-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Among university physics instructors in engineering programs, technical mastery, methodological/digital integration, communication and innovation competences (C1, C2, C6, C9) show stronger development than information literacy and digital ethics/safety (C7, C8)](../claims/physics-instructor-competence-strengths-c1-c2-c6-c9.md) [+M] — measured as an outcome of the instruction studied
+- [Pairing kinesiology undergraduates with little programming background alongside experienced UE4 developers let students rapidly build HoloLens demonstrations of multisensory-integration experiments](../claims/hololens-kinesiology-developer-pairing.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

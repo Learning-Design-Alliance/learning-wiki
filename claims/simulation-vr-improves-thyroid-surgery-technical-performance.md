@@ -64,3 +64,4 @@ Systematic review of educational interventions in thyroid surgery (2011–2025),
 - [The high cost of virtual reality simulators limits widespread adoption, and their cost-effectiveness for robotic surgery has not been clearly demonstrated](vr-simulator-cost-effectiveness-undemonstrated.md) — related
 - [Trainees' self-rated non-technical skills and textbook knowledge for nighttime HEC missions improved after indoor simulation training](indoor-night-hec-simulation-self-rated-skill-gains.md) — related
 - [A surgeon-authored virtual reality adrenalectomy training module significantly improved trainees' quiz performance and was preferred over conventional training materials](tips-vr-module-improved-quiz-preference.md) — related
+- The helicene screw-sense task shows little overall rate enhancement in VR, but median VR completion time is 30-40% less than on a touchscreen — related

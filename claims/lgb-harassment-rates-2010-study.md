@@ -51,3 +51,4 @@ The Guide reports, citing a 2010 study, that "23% of LGB respondents had been ha
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — related
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — related
 - [LGBT students rate campus climate as far more hostile than heterosexual students do, per a 2003 campus climate study the Guide cites](lgbt-students-rate-campus-climate-homophobic.md) — related
+- [GSM physicists experience high rates of harassment, with gender minorities reporting the most adverse climate and GSM women experiencing exclusionary behavior at three times the rate of GSM men](gsm-physicists-adverse-climate-exclusionary-behavior.md) — related

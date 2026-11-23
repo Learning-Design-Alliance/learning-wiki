@@ -75,3 +75,5 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
 - [Designing UDIP-4 and analyzing its data gave students real-life experience across all essential areas of an undergraduate physics curriculum plus collaboration and management skills](udip4-curriculum-experience-outcomes.md) — related
 - [Students associated authentic research with meaningful scientific contribution, engagement in authentic scientific practices, and navigating uncertainty and setbacks, though fewer explicitly identified themselves as researchers or scientists](pv-cure-authenticity-perceptions.md) — related
+- [A three-lesson project using Einstein's notes in twelfth grade reported that the authenticity of his calculations added to student motivation](einstein-notes-classroom-project-motivation.md) — related
+- Serving multiple types of player at once is a great challenge for citizen science games — related

@@ -53,3 +53,4 @@ Finding from the 927 questionnaires (304 ex-ante and 623 ex-post) collected for 
 - [The European Researchers' Night was judged positively by about 85% of participants, with about 98% willing to participate again](ern-high-satisfaction-repeat-intent.md) — related
 - [AHaH outreach pilots showed a qualitative increase in public participation, especially among young people](ahah-outreach-participation-increase.md) — related
 - [The systems established are extensible to other regions, with Brazil noted as a possible sibling-event site](sibling-workshop-extensibility-brazil.md) — related
+- The Frascati Scienza NIGHT project grew over thirteen editions to more than 60 partners, 400 events/year in 30 cities and over 50,000 attendees — related

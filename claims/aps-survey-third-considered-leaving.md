@@ -49,3 +49,4 @@ A pull quote in the Guide's diversity-training section reports this result from 
 - [Harassment within the past year affected 23% of LGB respondents and 31–39% of transgender individuals, per a 2010 study the Guide cites](lgb-harassment-rates-2010-study.md) — related
 - [LGBT students rate campus climate as far more hostile than heterosexual students do, per a 2003 campus climate study the Guide cites](lgbt-students-rate-campus-climate-homophobic.md) — related
 - [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
+- [GSM physicists experience high rates of harassment, with gender minorities reporting the most adverse climate and GSM women experiencing exclusionary behavior at three times the rate of GSM men](gsm-physicists-adverse-climate-exclusionary-behavior.md) — related

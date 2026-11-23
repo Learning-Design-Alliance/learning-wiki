@@ -52,3 +52,4 @@ Observational participation record of the 2015 outreach program. The article rep
 - [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related
 - [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related
 - [The nox-minima website generated over 800 dome images accessed over 1,500 times from 35 countries since July 2024](nox-minima-website-usage.md) — related
+- [Captain Einstein has been viewed by more than 2500 festival visitors with generally very positive response, attracting a wide range of backgrounds](captain-einstein-festival-outreach-2500-visitors.md) — related

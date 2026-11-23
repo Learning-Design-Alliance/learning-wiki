@@ -37,7 +37,8 @@ Nearly every section of the manual closes with an exercises subsection (e.g. 1.1
 - practical fluency in the Wolfram language and its application to quantum-mechanical calculations
 
 ## Related Strategies
-- 
+
+- [Use short end-of-section exercises and computer plotting activities to build conceptual understanding of entangled wave functions](entanglement-exercises-pictorial-examples-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Participant description from the methods section of the case study. Otto, despit
 
 ## Related Claims
 - [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [Pairing kinesiology undergraduates with little programming background alongside experienced UE4 developers let students rapidly build HoloLens demonstrations of multisensory-integration experiments](hololens-kinesiology-developer-pairing.md) — related

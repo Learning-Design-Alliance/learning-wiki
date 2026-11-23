@@ -55,3 +55,4 @@ The article's conclusions section reports attendance figures for the three progr
 - [The ASP2024 learners program engaged over one thousand high school pupils, averaging about 200 pupils per day across five venues during April 15–19, 2024](asp2024-learners-outreach-1000-pupils.md) — related
 - [Eighty Kenyan teachers, selected nationally by the Ministry of National Education, attended the ASP2026 teacher training workshop and mostly reported satisfaction](asp2026-80-teacher-training.md) — related
 - [ASP2026's learners' outreach program drew over two thousand Nairobi-region high school pupils over four days, with attendance figures reported inconsistently across sections](asp2026-learners-outreach-attendance.md) — related
+- [The time of maximal solar elevation varies measurably over the year, an effect reported as not widely known by students or even some physicists](tmax-annual-variation-not-widely-known.md) — related

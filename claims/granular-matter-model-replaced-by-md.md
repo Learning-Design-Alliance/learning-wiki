@@ -71,3 +71,4 @@ The authors report their own teaching experience over several weeks of molecular
 - [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related
 - [High-school students commonly hold unclear or erroneous concepts of heat, work and energy, treating heat and work as forms of energy](students-confuse-heat-work-energy-forms.md) — related
 - [Introductory students’ grasp of the proportionality between internal energy and temperature for an ideal gas is weak and strongly context-dependent](weak-context-dependent-e-t-proportionality.md) — related
+- [The RHIC perfect-fluid discovery can be introduced even at primary and secondary levels of physics education](rhic-perfect-fluid-teachable-school-levels.md) — related

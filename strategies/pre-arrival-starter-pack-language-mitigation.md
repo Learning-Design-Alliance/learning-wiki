@@ -45,6 +45,7 @@ For international outreach events where oral English is challenging, the report 
 ## Related Strategies
 
 - [Provide targeted language support and debriefing clarification opportunities for CALD students in SBL](language-support-and-debriefing-clarification.md)
+- [Translate ready-made science outreach material into under-served languages using local professional astronomers](translate-outreach-material-into-underserved-languages.md)
 
 ## Examples
 -

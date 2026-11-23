@@ -49,3 +49,4 @@ Video-analysis coding of student framing across seven groups in one lab section,
 - [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related
 - [Lab groups that did not problematize a designed data-model inconsistency primarily framed the activity as confirming expected models or as jumping through hoops to finish quickly](non-problematizing-groups-confirmation-hoops-frames.md) — related
 - [An instructor cue responsive to a group's current framing briefly shifted that group into the Discovery frame](responsive-cue-shifted-group-b-to-discovery.md) — related
+- [The article reports, citing Berland and Hammer (2012), that students' and a teacher's framings explain the dynamics of three classroom discussions, including a discussion whose competing expectations produced instabilities](framings-explain-argumentation-dynamics.md) — related

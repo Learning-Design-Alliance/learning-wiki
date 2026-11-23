@@ -49,3 +49,4 @@ Students adjusted the MAST view so two consecutive transits appeared and read th
 - [Secondary-school students' averaged estimation of the HAT-P-7b transit duration from the MAST light curve (0.1667±0.009 days) matches the literature value](students-estimate-transit-duration-hat-p-7b.md) — related
 - [Students determined the HAT-P-7b planet-to-star radius ratio from the light curve by two methods, both close to the literature value](students-estimate-radius-ratio-two-methods.md) — related
 - [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — related
+- [Student-calculated WASP-2 parameters agree with accepted values despite a simplified approach](wasp2b-calculated-parameters-match-accepted-values.md) — related

@@ -50,3 +50,4 @@ Multivariable linear regression (Table 4) on the 100-school dataset. The article
 - [MCAT scores show the strongest correlation with USMLE Step 1 scores among nine institutional variables](mcat-strongest-correlate-usle-step1.md) — related
 - [Institutional GPA added incremental validity over MCAT alone for predicting institutional USMLE scores (ΔR² 2% for Step 1, 4% for Step 2 CK)](gpa-incremental-validity-over-mcat-usmle.md) — related
 - [For the 1978–1991 cohort, MCAT score was significantly associated with USMLE Step II score and inversely associated with publication number](mcat-cohort2-step2-and-negative-publications.md) — related
+- [MCAT components explain 12.0% of variance in USMLE Step 2 CK scores, where VR is more predictive than PS](mcat-components-regression-step2ck.md) — related

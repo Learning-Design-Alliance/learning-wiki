@@ -49,6 +49,7 @@ The instructional strategy opens problem solving with visualizing the physical s
 - [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
 - [Visual Representations in Mathematics](visual_representations_in_mathematics.md)
 - [Concrete-Representational-Abstract (CRA)](concrete-representational-abstract-cra.md)
+- [Motivate each mathematical tool by its physics application before formal development](physics-application-first-motivation-strategy.md)
 
 ## Examples
 -

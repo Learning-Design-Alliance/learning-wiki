@@ -51,3 +51,4 @@ In the design of the toy model (1000 nuclei decaying 10% monthly over 60-100 mon
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
 - [Computational activities can provide fertile ground for student sensemaking, as an existence proof from one case](computation-fertile-ground-sensemaking.md) — a broader claim this one bears on
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](weak-source-measurements-motivate-statistics.md) — related
+- [Using the Bethe-Bloch-based tool, undergraduate students learn radiation-matter interaction, shielding trade-offs, scenario uncertainty, and the elevated dose magnitudes in space](students-learn-radiation-matter-interaction-via-dreadcode.md) — related

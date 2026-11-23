@@ -50,3 +50,4 @@ Benchmarking task in which 26 first-year physics graduate students in a TA train
 - [A student can stand fast on a developed durable representation and later translate to a second durable representation (mathematics)](stand-fast-then-translate-to-mathematics.md) — related
 - [Most physics graduate students spontaneously chose the diagrammatic approach, and graduate students outperformed introductory students on the quiz problem](grad-students-spontaneously-draw-diagrams.md) — possibly the same claim (merge candidate)
 - [Graduate students' problem-solving improved with successive attempts and multiple drawings, including diagrams from different viewing angles that aided comprehension of problem symmetry.](iterative-drawings-improve-moi-solving.md) — related
+- [Students familiar with similar triangles rapidly formulate the diffraction relation a/b = λ/d when given a clear drawing](students-rapidly-formulate-diffraction-relation.md) — related

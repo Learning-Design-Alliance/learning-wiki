@@ -56,6 +56,7 @@ The authors integrated Python data analysis into an existing first-semester labo
 - [Phase Python computational tasks into physics labs using scaffolded code modification in Jupyter Notebooks](phased-python-scaffolds-jupyter-labs.md)
 - [Guided Google Sheets laboratory exercise in which first-year physics students iteratively implement the Euler-method approximation](google-sheets-euler-iteration-lab.md)
 - [Streamline data processing with browser-based analysis so class time focuses on physical interpretation](browser-based-analysis-streamlining-strategy.md)
+- [Have students write the demodulation code themselves, or supply instructor-provided code, scaled to student skill level](student-written-demodulation-code-strategy.md)
 
 ## Examples
 -

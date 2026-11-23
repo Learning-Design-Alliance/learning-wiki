@@ -73,3 +73,4 @@ Case-study interview evidence: Paulette's account of male professors' condescens
 - [In the authors’ cross-institutional replication, negative femininity discrepancies and positive masculinity discrepancies were associated with lower sense of belonging in introductory physics](replication-masculinity-femininity-discrepancies-belonging.md) — related
 - [Instructional quality in graduate physics lectures varies widely, particularly in professor responsiveness and informal formative assessment during class](graduate-lecture-instructional-quality-variation.md) — related
 - [The first Physics Ph.D. cohort reported a weak sense of peer community, linked to credit transfer, few shared courses, few social events, and dispersed physical space](weak-peer-community-first-physics-phd-cohort.md) — related
+- At the unit level, out-group requests for change are experienced by the privileged in-group as status threats, producing defensiveness that deepens group separation — related

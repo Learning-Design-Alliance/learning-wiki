@@ -47,3 +47,4 @@ Multivariable linear regression (Table 3) on the 100-school dataset. The article
 ## Related Claims
 - [Higher MCAT predicts higher Step 2 score while higher NIH research grant funds per faculty member predict lower Step 2 score](step2-mcat-positive-nih-funds-negative.md) — related
 - [Internal pharmacology exam score and MCAT are significant regression predictors of NBME Pharmacology scores; GPA and BCPM are not](regression-internal-exam-mcat-significant-predictors.md) — related
+- [MCAT BS, PS and VR components together explain 17.7% of variance in USMLE Step 1 scores, with BS most predictive](mcat-components-regression-step1.md) — related

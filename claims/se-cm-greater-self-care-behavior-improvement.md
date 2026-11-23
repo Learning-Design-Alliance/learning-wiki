@@ -67,3 +67,4 @@ Same DSCQ analysis: medication-regimen behavior improved significantly in both g
 - [Fasting plasma glucose and postprandial blood glucose improved more in the DSME+SE+CM group than in the DSME-only group](se-cm-superior-fpg-pbg-improvement.md) — related
 - [Both peer support education and medical staff education significantly lower fasting blood glucose and HbA1c after 3 months in adults with type 2 diabetes](peer-and-staff-education-lower-glucose-3-months.md) — related
 - [No significant difference in glucose and lipid reduction between peer support education and medical staff education](no-difference-peer-vs-staff-education.md) — related
+- Exploratory analyses found that only nonusers' dietary behavior rose significantly from pre-test to post-test, while only users' physical activity behavior rose significantly from pre-test to post-test — related

@@ -55,3 +55,4 @@ Review presenting a contrast of age trends in analytical reasoning versus crossw
 - [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — a narrower finding that bears on this claim
 - [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related
 - [Cognitive performance increases with age and grade while academic performance shows the inverse trend](age-grade-divergence-cognition-academic-performance.md) — related
+- [Participants aged 56 and over scored slightly lower than younger participants, but the age trend is statistically underpowered](older-visitors-slightly-lower-astronomy-scores-underpowered.md) — related

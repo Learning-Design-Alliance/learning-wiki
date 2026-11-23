@@ -50,3 +50,4 @@ Analysis of items 33, 34, and 69 (Table II), in which temperatures of initial an
 - [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](granular-matter-model-replaced-by-md.md) — related
 - [Students connect particulate-level models to macroscopic gas descriptions more easily in the particulate-to-macroscopic direction than the reverse](particulate-to-macroscopic-direction-asymmetry.md) — related
 - [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related
+- [The RHIC perfect-fluid discovery can be introduced even at primary and secondary levels of physics education](rhic-perfect-fluid-teachable-school-levels.md) — related

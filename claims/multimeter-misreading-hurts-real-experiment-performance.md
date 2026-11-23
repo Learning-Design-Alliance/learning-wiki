@@ -51,3 +51,4 @@ Author's interpretation (§5) of the capacitor-unit quiz results, where many stu
 - [After a 1-day ECMO simulation course, most delegates reported perceived gains in technical skills such as circuit troubleshooting and pump familiarity](ecmo-simulation-course-technical-skill-gains.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
 - [In a large-scale college introductory physics course, simulated equipment (PhET) improved students' mastery of physics concepts better than assembling real circuits](phet-simulation-better-than-real-circuits.md) — related
+- [Olympiad participants reliably solve the circuit problem but none solved the technical-application task, indicating a need to complement physics education](epo10-application-task-unsolved-by-participants.md) — related

@@ -71,3 +71,4 @@ Spearman rank correlation between academic and professional staff difficulty ord
 - [The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates](cs101-introductory-course-applicability-boundary.md) — related
 - [Human and machine item facility correlate moderately (Spearman ρ=0.40), lower than predicted by a uniform-advantage simulation (0.63)](human-machine-item-facility-correlation-moderate.md) — related
 - [Item-level D̄ rankings are stable across two independently collected cohorts (Spearman's ρ = 0.78) and essentially uncorrelated with item difficulty (r = −0.12 and r = 0.10)](dbar-stable-uncorrelated-with-pk.md) — related
+- Systems that both beat the baselines learn similar curricula across disjoint feature groups, as shown by positive Spearman rank correlations between their orderings — related

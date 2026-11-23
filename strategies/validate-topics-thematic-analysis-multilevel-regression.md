@@ -47,6 +47,7 @@ The article recommends a two-part validation strategy for topic models of writte
 ## Related Strategies
 
 - [Use NLP and machine learning (text mining, lexicon sentiment analysis, LDA topic modelling) to evaluate large-scale e-learning course feedback](nlp-machine-learning-course-evaluation-workflow.md)
+- [Validate unsupervised topic models with coherence scores plus expert face validity](coherence-plus-face-validity-validation-strategy.md)
 
 ## Examples
 -

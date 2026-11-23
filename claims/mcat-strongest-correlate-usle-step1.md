@@ -49,3 +49,4 @@ Univariate analysis of 2014 USN&WR data from 100 U.S. medical schools using Pear
 - [Higher MCAT predicts higher Step 2 score while higher NIH research grant funds per faculty member predict lower Step 2 score](step2-mcat-positive-nih-funds-negative.md) — related
 - [Institutional GPA added incremental validity over MCAT alone for predicting institutional USMLE scores (ΔR² 2% for Step 1, 4% for Step 2 CK)](gpa-incremental-validity-over-mcat-usmle.md) — related
 - [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
+- [MCAT composite scores correlate positively but fairly weakly with USMLE Step 1 (r=0.39) and Step 2 CK (r=0.31) scores](mcat-composite-correlates-usle-step1-step2ck.md) — related

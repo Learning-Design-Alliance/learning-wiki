@@ -43,6 +43,7 @@ Two hands-on data-taking exercises use coincidence mode, in which detectors in s
 
 - [Cosmic Piano Masterclass: a session walking students through the complete experimental journey from detector assembly to data analysis](cosmic-piano-masterclass-session.md)
 - [Extension laboratories: PSD figure-of-merit optimization, neutron time-of-flight, cross-correlation, and coincidence anisotropy measurements](scintillator-lab-extension-experiments-strategy.md)
+- [Muon lifetime measurement project teaching coincidence, veto, and exponential decay](cosmo-muon-lifetime-measurement-strategy.md)
 
 ## Examples
 -

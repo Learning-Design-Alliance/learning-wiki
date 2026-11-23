@@ -61,3 +61,4 @@ Qualitative case study of Jennie, who never spoke one-on-one with a teacher or c
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
 - [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — a broader claim this one bears on
 - [Estevan made concrete plans to pursue a science career, including honor roll, IB enrollment, scholarships, and college](estevan-science-career-plans.md) — related
+- [First-generation Native Hawaiian students face financial barriers that can interrupt college persistence, including dropping out over unpaid funding](financial-barriers-native-hawaiian-astronomy-students.md) — related

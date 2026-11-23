@@ -47,6 +47,7 @@ Educators recommended outreach to diverse students in formal and informal settin
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
 - [Institutional, state, and federal actions to increase faculty diversity](institutional-state-federal-faculty-diversity-actions.md)
+- [Recruit for inclusive hackathons through personal invitations in pairs, women-only preparatory events, reduced competition emphasis, explicit valuation of non-coding skills, and role-based coordination](inclusive-hackathon-recruitment-strategies.md)
 
 ## Examples
 -

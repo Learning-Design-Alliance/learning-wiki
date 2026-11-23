@@ -48,6 +48,7 @@ The article outlines an example research project, Customizing OpenSciEd material
 - [Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch](hybrid-unit-template-customization-approach.md)
 - [Provide relevant, customized professional development grounded in teachers' local contexts, with ongoing just-in-time support](customized-context-based-pd-online-teaching.md)
 - [Provide easily modifiable instructional materials that expect and support faculty customization](provide-easily-modifiable-materials.md)
+- [Culturally based professional development that grounds curriculum in Hawaiian place and culture](culturally-grounded-faculty-development-hawaii-astronomy.md)
 
 ## Examples
 -

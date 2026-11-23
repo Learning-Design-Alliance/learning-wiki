@@ -49,3 +49,4 @@ Comparison of the percentage shares of feedback documents assigned to each topic
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](thematic-analysis-lda-topics-set-themes.md) — related
 - [LDA topics capture unique information not covered by Likert-scale SET questions](lda-topics-unique-information-beyond-likert.md) — related
 - [Questionnaire design and administration choices affect ratings: positive-anchor placement, online versus paper mode, anonymity, and questionnaire length](questionnaire-design-effects-ratings.md) — related
+- LDA reproduced human-coded themes in a validation test on roughly 9000 Huffington Post headlines — related

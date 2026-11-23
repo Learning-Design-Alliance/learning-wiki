@@ -50,3 +50,4 @@ Described exercise: students choose a planet-star system, measure light curves o
 - [Students most successfully deduced planetary size effects from light curves, with weaker results for rings, atmospheres, and reflected light](light-curve-deduction-success-varies-by-question-topic.md) — related
 - [Readers of the manual rated it highly and most planned to realize the activities, preferring Kepler's laws and black holes](manual-reader-questionnaire-ratings.md) — related
 - [Secondary-school students' averaged estimation of the HAT-P-7b transit duration from the MAST light curve (0.1667±0.009 days) matches the literature value](students-estimate-transit-duration-hat-p-7b.md) — related
+- [Student-calculated WASP-2 parameters agree with accepted values despite a simplified approach](wasp2b-calculated-parameters-match-accepted-values.md) — related

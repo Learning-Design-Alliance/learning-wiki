@@ -59,3 +59,4 @@ Intersectional comparison of belonging codes among majors by race and gender, an
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related
 - [Physics and computer science have the lowest representation of women among the majors studied, with about 20% women in physics](physics-lowest-women-representation.md) — related
+- [Women of color in astronomy and planetary science experienced the highest rates of negative workplace experiences, per Clancy et al. (2017)](women-of-color-highest-negative-workplace-experiences.md) — related

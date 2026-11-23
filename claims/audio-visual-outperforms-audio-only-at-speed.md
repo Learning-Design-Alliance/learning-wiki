@@ -75,3 +75,4 @@ Tukey post-hoc comparisons in Experiment 2's discussion show the cross-format co
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Hybrid-section students who used both audio and visual components of the online lecture reported higher midterm grades than those who used only the visual component](audio-use-associated-higher-midterm-grades.md) — related
+- [A storyline format better holds the attention of the audience than a lecture-style physics show, according to the authors' experience](storyline-holds-audience-attention-physics-show.md) — related

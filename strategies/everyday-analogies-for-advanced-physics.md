@@ -44,6 +44,7 @@ When introducing topics beyond the usual curriculum, the author recommends relat
 - [Connect Prior Knowledge to New Learning](connect_prior_knowledge_to_new_learning.md)
 - [Connect quantum physics learning to everyday life, citizenship and human relationships rather than applications alone](connect-quantum-learning-to-everyday-life-and-citizenship.md)
 - [Narrow the scope of quantum outreach and make quantum technologies relatable to everyday life](narrow-scope-relatable-quantum-outreach.md)
+- [Introduce chirality with a dedicated section in classical physics, before quantum mechanics, to connect disparate topics](chirality-dedicated-section-classical-physics.md)
 
 ## Examples
 -

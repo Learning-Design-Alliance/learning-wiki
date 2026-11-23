@@ -54,6 +54,7 @@ A 1-3 hour classroom laboratory exercise in which students build a Google Sheets
 - [Use simple spreadsheet-based numerical simulation of orbital systems as an engaging team-based learning activity](spreadsheet-numerical-simulation-team-learning-strategy.md)
 - [Embed computational skills into an existing lab course by replacing a preset analysis tool with Python while retaining original lab goals](embed-python-without-altering-course-structure.md)
 - [Streamline data processing with browser-based analysis so class time focuses on physical interpretation](browser-based-analysis-streamlining-strategy.md)
+- [Have students implement the Euler method in a spreadsheet to numerically solve a nonlinear equation of motion](euler-method-spreadsheet-strategy-nonlinear-oscillator.md)
 
 ## Examples
 -

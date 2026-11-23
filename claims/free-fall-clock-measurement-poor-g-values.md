@@ -48,3 +48,4 @@ Classroom activity in which about 20 students in groups of 4 measured height and
 - [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — reports the opposite
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — reports the opposite
 - [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
+- [At EPO7, of about a hundred students attempting the GIC-inductance measurement, more than thirty obtained some result and around twenty measured the inductance within the expected value](epo7-inductance-measurement-participation-outcomes.md) — related

@@ -20,6 +20,7 @@ A web portal and curated database run by the International Particle Physics Outr
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **IPPOG Resource Database (RDB)**: The RDB is an online platform of "high quality engaging materials (e.g. videos, posters, talks, hands -on activities, tools, brochures and more)" recommended by IPPOG representatives and trusted contributors for teachers, students and the public. It currently holds almost 400 items, filterable by topics, item types, target audiences and language, spanning 24 languages, all freely available with open access. Items are submitted by IPPOG representatives, forum members and approved contributors, and a curation group reviews and reorganises content. (Barbora Bruant Gulejova (on behalf of the IPPOG Collaboration) (2020))
 
 ### Claims
 
@@ -28,3 +29,4 @@ A web portal and curated database run by the International Particle Physics Outr
 
 ## Key Sources
 - IPPOG Collaboration. (2025). IPPOG: a global network for particle physics outreach and education. arXiv:2509.17643 [physics.ed-ph]. https://arxiv.org/abs/2509.17643
+- Barbora Bruant Gulejova (on behalf of the IPPOG Collaboration). (2020). IPPOG – Bridging the gap between science education at school and modern scientific research. http://ippog.org/

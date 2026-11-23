@@ -48,6 +48,7 @@ The article presents a progression of example tasks typical for an undergraduate
 
 - [Simple-to-Difficult Examples](simple-to-difficult_examples.md)
 - [Sequence DP training from emotion regulation and foundational skills to higher-order skills](dp-emotion-regulation-first-sequencing.md)
+- [Extend quantum chemistry coursework to thermodynamics by computing reaction S, H, and G with the Thermodynamics function and Hess's Law](qcp-thermodynamics-hess-law-strategy.md)
 
 ## Examples
 -

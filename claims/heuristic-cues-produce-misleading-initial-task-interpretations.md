@@ -48,3 +48,4 @@ The article reports, citing Kryjevskaia et al. (2014), this empirical finding fr
 - [The author interprets common incorrect answers on altered-procedure questions as reflecting remembered rules of thumb rather than sense-making](heuristic-answers-ap-questions-interpretation.md) — related
 - [Think-aloud interviews show students sometimes deliberately chose surface or moderate categories like friction despite knowing the relevant physics principle](students-deliberate-moderate-categories.md) — related
 - [GR students gave the common incorrect magnitude answer half as often as CC students, who matched surface features of the positive-charge case](cc-surface-feature-incorrect-magnitude-responses.md) — related
+- [Misleading model features disproportionately discourage learners who actively try to think models through](misleading-features-discourage-active-learners.md) — related

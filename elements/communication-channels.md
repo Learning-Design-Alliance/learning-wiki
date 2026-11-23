@@ -71,6 +71,7 @@ Communication channels are the element in which learners use designated tools or
 - [Provide and structure online collaborative tools that support both task coordination and socio-emotional exchange.](../strategies/provide-varied-collaborative-tools.md)
 - [Add tutor interaction channels (virtual forum and optional in-person sessions) and strengthen statistical explanations in online critical appraisal courses](../strategies/tutor-forum-and-statistics-support-strategy.md)
 - [Tailor each communication channel to a specific audience and purpose](../strategies/audience-tailored-channel-selection.md)
+- [Provide text-based recording and annotation tools matched to how players actually share strategies](../strategies/text-based-strategy-recording-tools-strategy.md)
 
 ## Related Elements
 - [Collaboration](collaboration.md)

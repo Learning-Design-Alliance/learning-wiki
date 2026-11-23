@@ -53,3 +53,4 @@ Self-reported outcomes from questionnaires and interviews in the mixed-methods s
 - [A minority of physiotherapists reported that the e-learning reassured them their current clinical practice aligned with guidelines](e-learning-confirmation-of-practice.md) — related
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related
 - [Peer assessment was more effective than case discussion in improving guideline-consistent clinical reasoning for low back pain](peer-assessment-more-effective-than-case-discussion-lbp-guideline.md) — related
+- [A quasi-experimental design with non-equivalent control groups is used to test whether guideline implementation after theory-based education improves nurses' pain knowledge and attitudes and patients' pain perception](quasi-experimental-pain-education-protocol.md) — related
