@@ -48,3 +48,4 @@ Correlational analysis (Table 3) among the battery's constructs. Lower colorblin
 - [Non-White PA students report higher ethnic identity, multicultural experiences, and ethnocultural empathy, and lower colorblindness, than White students](ethnic-group-differences-cultural-competence-pa-students.md) — related
 - [Women PA students show higher ethnocultural empathy and lower colorblindness and depersonalization than men](gender-differences-empathy-colorblindness-burnout.md) — related
 - [Age correlates negatively with ethnic identity and positively with multicultural experiences in PA students](age-correlations-ethnic-identity-multicultural-experiences.md) — related
+- [Quality of self-explanations is a multidimensional construct rather than a unidimensional one](self-explanation-quality-multidimensional.md) — related

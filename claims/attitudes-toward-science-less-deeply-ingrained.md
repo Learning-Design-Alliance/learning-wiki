@@ -55,3 +55,4 @@ This is the author's interpretation in the conclusions section, offered as a pos
 - [At the end of the course, introductory astronomy students have more expert-like attitudes and approaches to problem solving than introductory physics students, with a large effect size (Cohen's d = 0.81)](aaps-astronomy-favorable-than-physics.md) — related
 - [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related
 - [Students' attitudes toward astronomy and science are positively correlated with the grade they expect to receive in introductory astronomy](astro-attitude-correlates-expected-grade.md) — related
+- [Student attitudes (MPEX) showed very little change over the semester in the algebra-based PI course, while instructor evaluation scores dropped significantly in that course](pi-mpex-attitudes-little-change.md) — related

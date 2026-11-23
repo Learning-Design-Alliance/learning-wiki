@@ -51,3 +51,5 @@ Experiments 4 and 5 with school students learning circle geometry, reported in t
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](worked-example-effect-split-attention-replication-history.md) — related
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — related
+- [Children studying integrated worked examples outperformed those studying split-source examples on acquisition and delayed similar-problem tests](integrated-beats-split-source-compare-problems.md) — related
+- [Year 3 children studying worked examples made significantly fewer incorrect attempts than children solving equivalent conventional problems](worked-examples-fewer-incorrect-attempts-young-children.md) — related

@@ -56,3 +56,4 @@ Longitudinal SEM study of 214 children (M age 73 months at T1), with EC measured
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related
+- [Parents' positive perceptions of children's academic competence foreshadow children's achievement even after adjusting for earlier achievement](parent-positive-beliefs-foreshadow-achievement.md) — related

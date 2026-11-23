@@ -53,3 +53,4 @@ An ANCOVA with prior knowledge as covariate found no significant influence on ro
 - [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](teacher-style-no-effect-rote-learning.md) — related
+- [The advantage of inventing over telling first does not depend on prior achievement; low-achieving students benefit as much as high-achieving students](icc-benefits-low-and-high-achievers.md) — a narrower finding that bears on this claim

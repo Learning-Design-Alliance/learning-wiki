@@ -71,3 +71,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](its-on-demand-features-significant-effects.md) — related
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
 - [Solving more problems predicts higher outcomes while requesting more hints predicts lower outcomes](problem-count-positive-hints-negative-covariates.md) — related
+- [Sixth graders request more process-related hints and fewer answers or vague expressions of non-understanding than third graders during tutored problem solving](grade-differences-adaptive-help-seeking.md) — related

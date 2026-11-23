@@ -203,3 +203,7 @@ Most figures were read from the authors' accepted manuscript, which this wiki ca
 - [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — a narrower finding that bears on this claim
 - [Parental funding of about 10 currency units per month per child can plausibly sustain advanced studies by two teachers per school per year, yielding roughly 18 thousand units per teacher per year.](parent-funded-teacher-advanced-studies-order-of-magnitude.md) — related
 - [Having a parent or sibling in medicine predicts research authorship among UK medical students but not overall extracurricular engagement](medic-in-family-predicts-authorship-not-overall-engagement.md) — related
+- [Autonomy-supportive involvement enhances children's school performance whereas controlling involvement inhibits it](autonomy-supportive-involvement-enhances-school-performance.md) — related
+- [Home-based involvement in intellectual enrichment not directly related to school foreshadows enhanced achievement, but homework assistance shows inconsistent links](home-based-involvement-mixed-effects.md) — related
+- [Intervention programs designed to promote parents' involvement show weaker and sometimes negative effects in internally valid studies](involvement-interventions-weak-effects.md) — related
+- [Parents' school-based involvement is fairly consistently associated with benefits for children's achievement](school-based-involvement-benefits-achievement.md) — a narrower finding that bears on this claim

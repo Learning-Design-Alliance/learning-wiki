@@ -74,3 +74,4 @@ High school mediation model in the same SECCYD SEM framework; the indirect path 
 - [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](stroop-indicator-mediation-nonsignificant.md) — a narrower finding that bears on this claim
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
 - [A review reports that executive function mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
+- [Autonomy-supportive involvement enhances children's school performance whereas controlling involvement inhibits it](autonomy-supportive-involvement-enhances-school-performance.md) — a broader claim this one bears on

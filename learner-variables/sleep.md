@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (81 show a difference, 31 mixed, 15 no difference) · 59 studies (36 associational, 15 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 17 of 59 report an effect size · 127 claims rest on one study
+> **Evidence** · 133 claims (83 show a difference, 33 mixed, 17 no difference) · 62 studies (36 associational, 18 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 18 of 62 report an effect size · 133 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -164,6 +164,12 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - Sleep-deprived versus intoxicated state did not significantly affect any laparoscopic outcome variable, and participants were faster when intoxicated [-M] — learners who differ on it differ in outcomes
 - [Students with higher average sleep quality report better average learning goal achievement during an examination period](../claims/average-sleep-quality-predicts-learning-goal-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Weekend bedtime mediates a significant fraction of the relationship between grey matter volume and school performance](../claims/weekend-bedtime-mediation-gmv-school-performance.md) [+M] — learners who differ on it differ in outcomes
+- [A Sleep versus Wake × Learning Intensity interaction confirms sleep-associated retention improvement is confined to weakly encoded associations](../claims/sleep-by-encoding-intensity-interaction.md) [~M] — an instructional effect differs with it
+- [Children sleep longer with a greater proportion of slow wave sleep than adults, and no sleep parameter correlates with memory gains](../claims/children-sleep-architecture-no-correlation-memory-gains.md) [-W] — learners who differ on it differ in outcomes
+- [Retention over 24 h is significantly better when sleep follows learning directly (sleep–wake) than when sleep is delayed by a day of waking (wake–sleep)](../claims/sleep-wake-order-24h-retention.md) [+W] — learners who differ on it differ in outcomes
+- [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](../claims/sleep-no-next-day-protection.md) [-W] — learners who differ on it differ in outcomes
+- [Time spent awake between encoding and sleep significantly reduces the beneficial effect of sleep on retention](../claims/wake-delay-reduces-sleep-benefit.md) [+W] — learners who differ on it differ in outcomes
+- [With weak encoding and no retroactive interference (A-B, C-D), sleep enhanced retention of both lists to a similar extent; with intense encoding, no sleep benefit appeared for either list](../claims/sleep-benefit-weak-encoding-ab-cd.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

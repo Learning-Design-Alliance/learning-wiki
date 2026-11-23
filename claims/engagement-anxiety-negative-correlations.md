@@ -54,3 +54,5 @@ Correlation analysis of the 936-sample survey (Table 1): dedication correlated r
 - [Students in the 'High Vigor-High Dedication-High Absorption' engagement profile exhibit the highest levels of learning anxiety](highest-engagement-profile-highest-anxiety.md) — reports the opposite
 - [For two engagement profiles the relationship with academic self-efficacy is nonlinear and significant](nonlinear-engagement-self-efficacy-gamm.md) — related
 - [Academic self-efficacy significantly mediates the relationship between engagement profiles and learning anxiety](self-efficacy-mediation-profiles-anxiety.md) — related
+- [Cognitive-behavioral engagement mediates the negative association between each math anxiety dimension and math achievement](cognitive-behavioral-engagement-mediates-ma-achievement-link.md) — related
+- [Math self-efficacy positively predicted behavioral, cognitive, emotional, and social engagement in math](math-self-efficacy-predicts-all-engagement-dimensions.md) — related

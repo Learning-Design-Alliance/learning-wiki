@@ -66,3 +66,4 @@ Descriptive gap analysis in the N=113 study defining the test gap as the differe
 - [Descriptive results suggest the gap between high-achieving and low-achieving students narrowed during the music-mathematics intervention](music-math-intervention-reduced-achievement-gap.md) — related
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](group-level-interaction-reduced-achievement-gap.md) — a narrower finding that bears on this claim
 - [GPP effects are moderated by prior knowledge: low prior knowledge students gain rule accuracy while high prior knowledge students gain efficiency](gpp-prior-knowledge-moderation.md) — related
+- [Learner-adapted instruction based on rapid diagnostic monitoring produced significantly higher knowledge gains than randomly assigned instruction](learner-adapted-format-higher-gains.md) — related

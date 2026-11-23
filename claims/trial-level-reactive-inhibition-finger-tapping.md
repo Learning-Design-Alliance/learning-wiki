@@ -52,3 +52,4 @@ Experiment 1: last-sequence minus second-sequence RT difference averaged over th
 - [Both inter-trial break time and on-task trial time significantly affect post-rest RT improvement after a 300 s rest](break-and-trial-time-affect-post-rest-improvement.md) — related
 - [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — possibly the same claim (merge candidate)
 - [The smaller the ratio of break time to on-task trial time during training, the larger the post-rest RT improvement](smaller-break-to-trial-ratio-larger-post-rest-improvement.md) — related
+- [Children perform the finger-tapping task more slowly than adults and show a smaller improvement across training trials](children-slower-smaller-training-improvement-tapping.md) — related

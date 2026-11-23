@@ -63,3 +63,4 @@ Correlational analysis of CLM and QCM subscales in the same algebra study: "intr
 - [Student self-reported anxiety is negatively correlated with perceived instructor support in large introductory biology classes](anxiety-negatively-correlated-perceived-instructor-support.md) — related
 - [High state-anxiety immediately after the simulation scenario is associated with higher extraneous cognitive load, but not intrinsic load or self-perceived learning](state-anxiety-associated-with-extraneous-load.md) — related
 - [Higher intrinsic cognitive load is associated with lower enjoyment and hope and higher hopelessness during physics problem solving](intrinsic-load-negative-affect-correlations-physics.md) — related
+- [A partial overlap exists between the motivational subdimension probability of success and a cognitive load measure](probability-of-success-overlaps-cognitive-load.md) — a broader claim this one bears on

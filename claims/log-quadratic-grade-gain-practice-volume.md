@@ -47,3 +47,4 @@ Same KLLR observational analysis of PR study logs. Fitting around the median NQ,
 ## Related Claims
 - [Novice quiz performance rises after a one-hour static mechanics lesson and then declines over subsequent weeks, following a quadratic learning curve](quadratic-quiz-learning-curve-brief-stem-lesson.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
+- [No diminishing return relation between self-explanations and learning gains was found](no-diminishing-return-self-explanations.md) — related

@@ -60,3 +60,4 @@ The report identifies a policy-research tension: CPS retained test-score benchma
 - Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [SAT distributions of graduates and non-graduates are identical, while low high school GPA predicts non-graduation](hsgpa-not-sat-predicts-graduation.md) — a narrower finding that bears on this claim
+- [Admissions metrics (SAT, high school GPA, GMAT) correlate poorly with subsequent college grades compared with college GPA](admissions-metrics-poor-predictors-of-grades.md) — reports the opposite

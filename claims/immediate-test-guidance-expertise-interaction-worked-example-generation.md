@@ -92,3 +92,4 @@ Omnibus repeated-measures ANOVA on immediate test scores found no significant th
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — a broader claim this one bears on
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](expertise-reversal-interaction-rapid-test.md) — related

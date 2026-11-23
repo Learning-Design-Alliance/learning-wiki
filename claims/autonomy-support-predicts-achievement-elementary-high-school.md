@@ -50,3 +50,4 @@ SEM models of SECCYD Woodcock-Johnson achievement (averaged first, third, fifth 
 ## Related Claims
 - [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](autonomy-support-predicts-executive-functions-54-months.md) — related
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — related
+- [Autonomy-supportive involvement enhances children's school performance whereas controlling involvement inhibits it](autonomy-supportive-involvement-enhances-school-performance.md) — a broader claim this one bears on

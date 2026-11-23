@@ -54,3 +54,4 @@ Theoretical interpretation offered in the paper's implications section: expert p
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — related
+- [The expertise reversal for the redundancy principle also appears on transfer: additional text raises novices' transfer scores but lowers experts'](expertise-reversal-redundancy-transfer.md) — related

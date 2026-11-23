@@ -178,3 +178,5 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related
 - [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related
 - [Adherence to the Redundancy and Spatial Contiguity principles shows small negative effects on quiz performance in this physics seminar context](redundancy-spatial-contiguity-negative-effects.md) — related
+- [The expertise reversal effect extends beyond the redundancy principle to other cognitive-load design principles, with direction depending on the principle](expertise-reversal-generalizes-across-principles.md) — related
+- [Novices benefit from additional on-screen text explaining animations while experts are impaired by it on the retention test (expertise reversal for the redundancy principle)](expertise-reversal-redundancy-retention.md) — related

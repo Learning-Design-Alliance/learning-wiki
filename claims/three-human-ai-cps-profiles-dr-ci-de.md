@@ -64,3 +64,4 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 - [Active completers split into two interaction subprofiles: active questioners dominated by questioning and negotiation, and responsive navigators dominated by responding and regulatory behaviors](questioners-versus-navigators-subclusters.md) — related
 - [Silhouette analysis determined five macro-themes of student reasoning, with the energy-fusion-forces theme dominating at approximately 65% of messages](five-macro-themes-energy-dominant.md) — related
 - [Student follow-up questions cluster into five engagement categories, with feedback-focused questions most common](follow-up-questions-five-engagement-categories.md) — related
+- [Two types of effective learners can be identified: anticipative reasoners and principle-based explorers](two-types-effective-learners.md) — related

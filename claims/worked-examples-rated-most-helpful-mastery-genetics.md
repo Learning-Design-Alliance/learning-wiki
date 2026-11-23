@@ -49,3 +49,4 @@ Ordinal logistic mixed models on postsurvey helpfulness ratings from consenting 
 - [Prediction activities yield larger pretest-to-posttest learning gains than worked example or tell-then-practice activities in a genetics course](prediction-activities-largest-learning-gains-genetics.md) — related
 - [Students rate prediction and tell-then-practice activities as more helpful for mastery than for exam performance, while worked examples are rated similarly for both](prediction-tell-then-practice-rated-more-mastery-than-performance.md) — related
 - [Students rate faded worked examples as more helpful than prediction and tell-then-practice activities for exam performance](worked-examples-rated-most-helpful-performance-genetics.md) — related
+- [Invention activities lead to greater mastery-related goal adoption during learning than tell-and-practice activities](invention-activities-increase-mastery-goal-adoption.md) — related

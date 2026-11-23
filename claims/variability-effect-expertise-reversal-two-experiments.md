@@ -54,3 +54,4 @@ Two experiments investigating variability in instructional task features combine
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
 - [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](expertise-reversal-effect-self-regulation-support.md) — related
+- [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](expertise-reversal-interaction-rapid-test.md) — related

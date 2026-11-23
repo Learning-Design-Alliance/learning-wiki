@@ -50,3 +50,4 @@ Regression analysis of final course scores versus sessional GPA for 99 students 
 - [Second-year students rate a co-taught interdisciplinary biophysics course highly, with 91% positive overall ratings over six years](current-topics-biophysics-high-student-satisfaction.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
 - [In-term exam averages correlate with final exam scores more strongly than incoming GPA does](in-term-final-correlation-stronger-than-gpa.md) — related
+- [Overall GPA correlates most strongly with reliably measured individual performance (final exam .65) and less with group project (.49) and participation (.34) grades](gpa-correlates-with-individual-course-measures.md) — related

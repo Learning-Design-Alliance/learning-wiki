@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/worked-example-advantage-disappears-with-experience.md
+---
+
+# Revision history: [claims/worked-example-advantage-disappears-with-experience](../claims/worked-example-advantage-disappears-with-experience.md)
+
+### 2026-11-23 · ingest · process:wiki-ingest
+Ingested from drive-kalyuga-2001-when-problem-solving-is-superior-to-studying-worked-examples (When problem solving is superior to studying worked examples.) via eval_harness.py + ingest_extractions.py

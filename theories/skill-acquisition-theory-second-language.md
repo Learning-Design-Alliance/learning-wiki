@@ -13,7 +13,7 @@ generated:
 # Skill acquisition theory in second language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 19 claims (12 for, 5 mixed, 2 against) · 16 studies (4 causal, 4 review, 3 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (14 for, 5 mixed, 2 against) · 17 studies (5 causal, 4 review, 3 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 19 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej912917, eric-ej1488626, eric-ej1344843, eric-ej1412014, eric-ej912912, eric-ej1066572, eric-ed604148, eric-ed296585. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -62,6 +62,8 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization"; tests this page's relationship.
 - [Participants showed robust implicit statistical learning and general skill learning on the ASRT task in both studies](../claims/asrt-implicit-sl-robust-both-studies.md) [~W]
+- [Hidden Markov modeling of practice latencies favors a three-learning-state model with within-state speedup](../claims/hmm-three-learning-states-best-fit.md) [+W] — attached 2026-11-23 from Tenison et al. (2015), which proposed "ACT-R operationalization of Fitts and Posner's three phases of skill acquisition"; tests this page's relationship.
+- [fMRI activation in HIPS, motor cortex, and LIPFC tracks the probability of being in different learning states](../claims/fmri-roi-activation-tracks-learning-states.md) [+W] — attached 2026-11-23 from Tenison et al. (2015), which proposed "ACT-R operationalization of Fitts and Posner's three phases of skill acquisition".
 
 ## The evidence by question
 - *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]

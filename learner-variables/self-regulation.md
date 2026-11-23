@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (195 show a difference, 46 mixed, 33 no difference) · 198 studies (70 causal, 48 associational, 39 review, 14 quant-synthesis, 12 qualitative, 12 theoretical, 3 design), `q1`–`q4` · 36 of 198 report an effect size · 265 claims rest on one study
+> **Evidence** · 275 claims (196 show a difference, 46 mixed, 33 no difference) · 199 studies (71 causal, 48 associational, 39 review, 14 quant-synthesis, 12 qualitative, 12 theoretical, 3 design), `q1`–`q4` · 36 of 199 report an effect size · 266 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -323,6 +323,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Mediation by executive functions differed by gender: cognitive flexibility was not significant in girls and inhibition was not significant in boys](../claims/gender-differences-ef-mediation-crf-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [The article claims methodical preparation should build teachers' abilities to set educational goals, analyze teaching kits, and design lesson models](../claims/methodical-preparation-teacher-abilities-goals-kits-lessons.md) [+W] — measured as an outcome of the instruction studied
 - [Incentivized students' improvement is specific to problems they self-diagnosed and corrected, not a general improvement in self-monitoring skills](../claims/incentive-improvement-limited-to-diagnosed-problems.md) [-W] — measured as an outcome of the instruction studied
+- [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](../claims/strategy-reports-shift-to-retrieval-with-practice.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

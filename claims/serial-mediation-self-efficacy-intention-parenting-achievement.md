@@ -50,3 +50,4 @@ Serial mediation analysis (Hayes PROCESS model 6, 5000 bootstrap samples) on n =
 - [Higher self-efficacy and stronger intention at baseline are each associated with higher academic achievement six months later, while attitude and social norms are not](self-efficacy-intention-correlate-achievement.md) — related
 - [Changes in attitude, social norms, and intention were not significantly associated with changes in academic achievement](attitude-norms-intention-change-null-achievement.md) — related
 - [Increases in academic self-efficacy are associated with higher academic achievement at 12 months but not at 6 months in Lebanese adolescents](self-efficacy-increase-achievement-12-months-only.md) — related
+- [Parents' positive perceptions of children's academic competence foreshadow children's achievement even after adjusting for earlier achievement](parent-positive-beliefs-foreshadow-achievement.md) — related

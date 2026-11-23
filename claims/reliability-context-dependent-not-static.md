@@ -53,3 +53,4 @@ Theoretical exposition in the article's reliability section, framed via generali
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — related
 - [Generalizability decision study: one occasion of ISF-VSAQ requires about 25 items for acceptable reliability (Phi = 0.72), while two occasions with ten items suffice (Phi = 0.71)](gtheory-vsaq-items-occasions-dstudy.md) — a narrower finding that bears on this claim
 - [Early stop is markedly less reliable than other session-level measures, limiting its standalone utility](early-stop-low-reliability.md) — a narrower finding that bears on this claim
+- [The major source of measurement error in performance assessment stability is the person by occasion (residual) interaction](person-by-occasion-residual-dominant-error.md) — related

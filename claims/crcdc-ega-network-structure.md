@@ -71,3 +71,4 @@ Dimensionality examination within the EGA network analysis. The article also rep
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
 - [The survey instrument separates into three distinct scales: pure calculus, applied calculus, and calculus self-efficacy](three-scales-calculus-survey-validation.md) — related
+- [Quality of self-explanations is a multidimensional construct rather than a unidimensional one](self-explanation-quality-multidimensional.md) — related

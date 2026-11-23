@@ -75,3 +75,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Students in the Descriptive Physics course enter with roughly 50% unfavorable and 25% favorable expectations about conceptual learning on MPEX 2](mpex-unfavorable-expectations-50-percent.md) — related
 - [Traditional modern physics courses produced large statistically significant shifts toward novice-like beliefs on CLASS, while reformed courses showed no statistically significant shifts](reformed-course-eliminates-belief-decline.md) — related
 - [MPEX scores showed a significant increase in the coherence cluster with no decrease in any cluster](mpex-coherence-cluster-increase.md) — related
+- [Student attitudes (MPEX) showed very little change over the semester in the algebra-based PI course, while instructor evaluation scores dropped significantly in that course](pi-mpex-attitudes-little-change.md) — related

@@ -58,3 +58,4 @@ Reliability analysis of the BBKS: internal consistency via Cronbach alpha and co
 - [GERQN v3.0 meets classical test theory benchmarks for reliability and test-retest stability](gerqn-single-factor-validation-statistics.md) — related
 - [The C-Scale-I shows acceptable internal consistency (α = 0.92, ω = 0.92) and two-week test-retest reliability (ICC = 0.74)](c-scale-i-reliability-icc-alpha.md) — related
 - [The C-SCCS shows high internal consistency (Cronbach's alpha .93, .92, .89) and split-half reliability of .84](c-sccs-internal-consistency-alphas-split-half.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related

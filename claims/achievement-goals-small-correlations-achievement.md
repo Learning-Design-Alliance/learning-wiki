@@ -82,3 +82,5 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — a narrower finding that bears on this claim
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](teacher-growth-mindset-null-performance-student-achievement.md) — related
 - [Approach goals (mastery or performance) correlate positively and avoidance goals (performance or mastery) correlate negatively with nonself-report performance](approach-goals-positive-avoidance-negative-performance.md) — a narrower finding that bears on this claim
+- [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — a broader claim this one bears on
+- [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite

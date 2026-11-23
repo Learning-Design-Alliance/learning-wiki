@@ -48,3 +48,5 @@ Correlational analysis across the database of classes in the introductory physic
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
 - [Course final scores correlate strongly with students' sessional grade point average (R2 = 0.647)](biophysics-course-scores-correlate-with-sessional-gpa.md) — related
 - [Admissions rank and faculty rating were strongly correlated with course average, first-year graduate GPA, exit exam, and oral review performance](admissions-rank-and-faculty-rating-correlated-success-metrics.md) — related
+- [Admissions metrics (SAT, high school GPA, GMAT) correlate poorly with subsequent college grades compared with college GPA](admissions-metrics-poor-predictors-of-grades.md) — related
+- [Overall GPA correlates most strongly with reliably measured individual performance (final exam .65) and less with group project (.49) and participation (.34) grades](gpa-correlates-with-individual-course-measures.md) — related

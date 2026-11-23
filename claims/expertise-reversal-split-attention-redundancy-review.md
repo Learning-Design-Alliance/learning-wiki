@@ -111,3 +111,7 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
 - [LM-based simulated expert evaluations replicate the Expertise Reversal Effect: low-expertise learners benefit more from worked examples than practice, with no such difference among high-expertise learners](see-replicates-expertise-reversal-effect.md) — related
 - [Concise expert-written explanations significantly outperform both self-learning and pipeline-generated explanations among high-baseline learners](expert-explanations-benefit-high-baseline-learners.md) — related
+- [Experimental induction of expertise produced only a small-to-medium, non-significant difference on the learning test (d = 0.31)](induced-expertise-partially-successful.md) — related
+- [Integrated worked examples elicited more correct inferences and more solution-linked rereads than split-source examples](integrated-examples-inference-making-rereads.md) — related
+- [For more experienced learners, problem solving proved superior to studying worked examples (a redundancy effect) in Experiment 2](redundancy-effect-problem-solving-superior-experienced-learners.md) — related
+- [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](worked-examples-superior-for-inexperienced-learners.md) — related

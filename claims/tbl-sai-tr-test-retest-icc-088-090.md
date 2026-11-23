@@ -61,3 +61,4 @@ Test–retest reliability analysis with the scale readministered to 165 students
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related

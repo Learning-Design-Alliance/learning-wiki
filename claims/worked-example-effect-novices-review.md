@@ -86,3 +86,4 @@ Narrative review reporting the accumulated worked-example research, citing Coope
 - [Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)](worked-examples-older-learners-cl.md) — related
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — a narrower finding that bears on this claim
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — a narrower finding that bears on this claim
+- [Children studying integrated worked examples outperformed those studying split-source examples on acquisition and delayed similar-problem tests](integrated-beats-split-source-compare-problems.md) — a narrower finding that bears on this claim

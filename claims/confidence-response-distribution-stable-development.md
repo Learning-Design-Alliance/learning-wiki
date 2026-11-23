@@ -68,3 +68,4 @@ Mixed ANOVA on confidence response proportions comparing Grade 5 and adults; the
 - [Recognition accuracy was higher for Remember responses than for Guess responses across age groups and foil types, indicating metacognitive sensitivity in all groups](confidence-accuracy-gradient-sl.md) — related
 - [Adults showed an advantage in metacognitive sensitivity for nonword foils, whereas Grade 5 children showed little evidence of such sensitivity](adult-metacognitive-sensitivity-nonword-foils.md) — related
 - [Within childhood, Grade 5 children outperformed Grades 1 and 3 for nonword foils while partword foil performance remained stable](grade5-nonword-foil-advantage-childhood.md) — related
+- [Know responses in the remember/know procedure underestimate familiarity; an independence correction is required](know-responses-underestimate-familiarity.md) — related

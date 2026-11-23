@@ -69,3 +69,4 @@ The review asserts, citing multiple studies including Allensworth & Clark (2018)
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on
+- [Admissions metrics (SAT, high school GPA, GMAT) correlate poorly with subsequent college grades compared with college GPA](admissions-metrics-poor-predictors-of-grades.md) — related

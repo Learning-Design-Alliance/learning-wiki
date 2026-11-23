@@ -51,3 +51,4 @@ Spearman rank correlation between the AMBOSS difficulty rating and T1 response l
 - [Gemini 2.5 Flash responds significantly faster than GPT-5 Instant on the German M2 examination](gemini-flash-faster-latency-than-gpt5-instant.md) — related
 - [Gemini 2.5 Flash and GPT-5 Instant achieve identical 91.5% baseline accuracy on the German M2 examination but share only 16 of their 27 errors](t1-identical-accuracy-divergent-errors-m2.md) — related
 - [The 2-tiered rescue protocol corrects roughly one-third to one-half of T1 errors, raising final accuracy to 94.3% (Gemini) and 95.6% (GPT-5) with no significant system difference](two-tier-rescue-raises-final-accuracy.md) — related
+- [Problem difficulty affects latency only in State 1, indicating a qualitative processing difference between states](difficulty-effect-only-state-one.md) — related

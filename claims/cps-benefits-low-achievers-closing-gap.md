@@ -88,3 +88,4 @@ A scatter plot with marginal histograms (Fig. 4) comparing high- and low-achieve
 - [CPS students proposed better problem-solving solutions and allocated more time to solutions, evidence-based reasoning, and simulation/data recording than IPS students](cps-more-time-and-better-ps-solutions.md) — related
 - [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related
 - [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — reports the opposite
+- [Performance goals reduce the number of problems low achievers solve, but do not affect medium or high achievers](performance-goals-detriment-low-achievers-problem-solving.md) — related

@@ -66,3 +66,5 @@ The review attributes this to Kalyuga et al. (2000), experiments on using indust
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
 - [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — a broader claim this one bears on
+- [For more experienced learners, problem solving proved superior to studying worked examples (a redundancy effect) in Experiment 2](redundancy-effect-problem-solving-superior-experienced-learners.md) — related
+- [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](worked-examples-superior-for-inexperienced-learners.md) — related

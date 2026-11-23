@@ -75,3 +75,4 @@ The authors reanalyzed two data sources: the simulated data constructed by Sorjo
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite
 - Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related
 - [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related
+- [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related

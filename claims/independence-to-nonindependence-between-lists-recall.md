@@ -67,3 +67,4 @@ Statistical test of observed minus predicted proportions in Experiment 2's delay
 ## Related Claims
 - [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](proportionality-rule-long-spacing-weeks.md) — related
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
+- [Recognition confidence ROCs are curvilinear and require at least two functionally independent memory parameters](recognition-rocs-require-two-parameters.md) — related

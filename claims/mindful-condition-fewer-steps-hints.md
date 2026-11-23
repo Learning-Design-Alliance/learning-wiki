@@ -77,3 +77,4 @@ Log-data analysis of hint use per completed step (three hints available per step
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
 - [Productivity gains from the Redesigned Tutor were concentrated in Unit 7.06, where students completed more steps than with the Original Tutor](unit-706-step-completion-condition-interaction.md) — related
+- [Sixth graders request more process-related hints and fewer answers or vague expressions of non-understanding than third graders during tutored problem solving](grade-differences-adaptive-help-seeking.md) — related

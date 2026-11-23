@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 159 claims (93 show a difference, 46 mixed, 20 no difference) · 68 studies (31 associational, 20 causal, 8 review, 5 quant-synthesis, 4 theoretical), `q1`–`q4` · 24 of 68 report an effect size · 156 claims rest on one study
+> **Evidence** · 170 claims (98 show a difference, 51 mixed, 21 no difference) · 73 studies (31 associational, 22 causal, 10 review, 6 quant-synthesis, 4 theoretical), `q1`–`q4` · 28 of 73 report an effect size · 166 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -194,6 +194,17 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Prioritizing performance goals and grades over mastery orients students toward test performance at the expense of authentic understanding](../claims/grade-focus-trivializes-learning-hpe.md) [+W] — learners who differ on it differ in outcomes
 - [Approach goals (mastery or performance) correlate positively and avoidance goals (performance or mastery) correlate negatively with nonself-report performance](../claims/approach-goals-positive-avoidance-negative-performance.md) [+W] — learners who differ on it differ in outcomes
 - [In the sports domain, approach goals correlate positively with performance while avoidance goals are unrelated to performance; in education, all four goal types relate significantly to performance](../claims/sports-approach-positive-avoidance-null.md) [~M] — learners who differ on it differ in outcomes
+- [Avoidance goals show almost uniformly negative findings in Western cultures](../claims/avoidance-goals-uniformly-negative.md) [~M] — learners who differ on it differ in outcomes
+- [Existing mastery-approach orientation predicts likelihood of transfer, with each unit increase raising transfer odds by 45% among students who received a worked example](../claims/mastery-approach-orientation-predicts-transfer.md) [+M] — learners who differ on it differ in outcomes
+- [Invention activities lead to greater mastery-related goal adoption during learning than tell-and-practice activities](../claims/invention-activities-increase-mastery-goal-adoption.md) [+M] — measured as an outcome of the instruction studied
+- [Invention activities moderate the effect of mastery-approach orientation on transfer: orientation strongly predicts transfer for tell-and-practice students (odds ×4.8 per unit) but barely for invention students (odds ×1.09)](../claims/invention-moderates-mastery-orientation-transfer-effect.md) [~M] — an instructional effect differs with it
+- [Mastery goals are often unrelated to academic achievement](../claims/mastery-goals-often-unrelated-achievement.md) [-M] — learners who differ on it differ in outcomes
+- [Normative and competence-demonstration performance goals correlate oppositely with achievement](../claims/normative-vs-appearance-goal-achievement-correlations.md) [+S] — learners who differ on it differ in outcomes
+- [Performance goals reduce the number of problems low achievers solve, but do not affect medium or high achievers](../claims/performance-goals-detriment-low-achievers-problem-solving.md) [~M] — learners who differ on it differ in outcomes
+- [Performance goals show mixed evidence for increasing cheating, while mastery goals promote sportsmanship](../claims/performance-goals-cheating-mixed-evidence.md) [~M] — learners who differ on it differ in outcomes
+- [Process-focused praise and practices foster mastery orientation, persistence, and better performance under failure compared with person-focused ones](../claims/process-focus-better-than-person-focus.md) [+M] — measured as an outcome of the instruction studied
+- [Process-related questioning predicts better problem-solving performance only for students given learning goals](../claims/process-questions-performance-moderated-by-goal.md) [~M] — an instructional effect differs with it
+- [Surface learning does not explain the normative goal link with achievement](../claims/surface-learning-does-not-explain-normative-goal-link.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

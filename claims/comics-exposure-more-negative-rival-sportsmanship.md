@@ -47,3 +47,4 @@ Univariate results from the MANCOVA showed differences on Out-Group Sportsmanshi
 ## Related Claims
 - [Exposure to rivalry comic strips and cartoons significantly influences fan rival perceptions overall (MANCOVA)](comics-cartoons-influence-rival-perceptions-mancova.md) — a broader claim this one bears on
 - [Students exposed to rivalry comics experienced less satisfaction when their favorite team beat the rival](comics-exposure-less-satisfaction-beating-rival.md) — related
+- [Performance goals show mixed evidence for increasing cheating, while mastery goals promote sportsmanship](performance-goals-cheating-mixed-evidence.md) — related

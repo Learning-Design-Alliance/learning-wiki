@@ -176,7 +176,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - Middleton, M. J., & Midgley, C. (1997). Avoiding the demonstration of lack of ability: An underexplored aspect of goal theory. *Journal of Educational Psychology, 89*(4), 710-718.
 - Midgley, C., Kaplan, A., & Middleton, M. (2001). Performance-approach goals: Good for what, for whom, under what circumstances, and at what cost? *Journal of Educational Psychology, 93*(1), 77-86.
 - Howell, A. J., & Watson, D. C. (2007). Procrastination: Associations with achievement goal orientation and learning strategies. *Personality and Individual Differences, 43*(1), 167-178.
-- Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422-449.
+- Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422-449. [doi:10.1037/a0018947](https://doi.org/10.1037/a0018947)
 - Dowson, M., & McInerney, D. M. (2003). What do students say about their motivational goals? Towards a more complex and dynamic perspective on student motivation. *Contemporary Educational Psychology, 28*(1), 91-113.
 - Burke, M. A., & Sass, T. R. (2006). Classroom peer effects and student achievement. *National Center for Analysis of Longitudinal Data in Education Research Working Paper*.
 - Butin, D. W. (2005). *Service-learning in higher education: Critical issues and directions*. Palgrave Macmillan.

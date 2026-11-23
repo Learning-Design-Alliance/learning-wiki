@@ -58,3 +58,4 @@ Mueller and Dweck (1998) conducted six studies with late grade-school children c
 - [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — related
 - [Children perceive students receiving inflated praise as less smart than equally performing students receiving modest praise or no praise](children-perceive-inflated-praised-students-less-smart.md) — related
 - [Peer praise and support centered on effort framed setbacks as aspects of learning overcome with persistence](peer-effort-praise-frames-setbacks-as-learning.md) — related
+- [Process-focused praise and practices foster mastery orientation, persistence, and better performance under failure compared with person-focused ones](process-focus-better-than-person-focus.md) — possibly the same claim (merge candidate)

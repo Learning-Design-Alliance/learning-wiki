@@ -74,3 +74,4 @@ One-way ANOVAs on polysomnographic parameters (Table 3, e.g. sleep latency P = 0
 - [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — related
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](sleep-stage-architecture-no-memory-correlation.md) — related
 - [Skill acquisition during a finger-tapping training session does not differ according to time of day of training](motor-acquisition-independent-of-time-of-day.md) — related
+- [Children sleep longer with a greater proportion of slow wave sleep than adults, and no sleep parameter correlates with memory gains](children-sleep-architecture-no-correlation-memory-gains.md) — related

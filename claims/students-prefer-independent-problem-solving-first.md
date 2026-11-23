@@ -61,3 +61,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related
 - [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related
 - [Guided hints achieve the largest learning gains over baseline in problem solving, with a frustration reversal as engagement increases](guided-hints-largest-learning-gains.md) — related
+- [Sixth graders request more process-related hints and fewer answers or vague expressions of non-understanding than third graders during tutored problem solving](grade-differences-adaptive-help-seeking.md) — related

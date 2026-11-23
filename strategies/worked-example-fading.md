@@ -66,6 +66,7 @@ Fading resolves the central tension of example-based learning: full examples are
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — broader difficulty management across a task series
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
 - [Consider alternatives to self-explanation — instructional explanations, sequenced problem solving, retrieval practice — given its time demands](weigh-alternatives-to-self-explanation-time-demands.md)
+- [Present worked examples to novices and gradually fade them out as knowledge increases](fade-worked-examples-with-increasing-expertise.md)
 
 ## Examples
 - **Renkl & Atkinson's fading studies** — algebra word-problem tutors that faded worked examples backward across a six-step sequence, with completion accuracy determining advancement; see the [Carnegie Learning MATHia tutor](https://www.carnegielearning.com), which operationalizes adaptive example-to-problem transitions in secondary mathematics

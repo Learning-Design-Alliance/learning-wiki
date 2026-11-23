@@ -51,3 +51,4 @@ Experiment 1: 98 right-handed undergraduates randomly assigned to a cued-recall 
 - [Trial-level reactive inhibition (progressively larger sequence RTs within trials) emerges during training and dissipates across rest breaks in the FTT](trial-level-reactive-inhibition-finger-tapping.md) — related
 - [No significant association exists between intervening-task performance and post-rest motor gain in any experiment](no-association-declarative-performance-motor-gain.md) — related
 - [Reactive inhibition builds within trials during motor sequence practice, appearing as slower responses later in each trial](reactive-inhibition-builds-within-motor-trials.md) — related
+- [Children perform the finger-tapping task more slowly than adults and show a smaller improvement across training trials](children-slower-smaller-training-improvement-tapping.md) — related

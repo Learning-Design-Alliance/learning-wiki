@@ -121,3 +121,4 @@ and transfer"
 - [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related
 - [Explaining and teaching both improve basic comprehension relative to notetaking, but do not differ from each other](explaining-teaching-improve-comprehension-over-notetaking.md) — related
 - [At this age level the problem-solving method need not be more time-consuming than expository instruction](problem-solving-not-more-time-consuming.md) — related
+- [Learning gains from worked-out examples are substantially predicted by qualitative differences in self-explanation characteristics even when time-on-task is controlled](self-explanation-quality-predicts-learning-gains.md) — related

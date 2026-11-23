@@ -49,3 +49,4 @@ The review reports a study of older adults' JOLs for a word recognition test wit
 - [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related
 - [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — related
 - [Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues](training-shifts-cues-away-from-familiarity.md) — related
+- [Recollection and familiarity operate independently at retrieval but are only partially independent during encoding](independent-retrieval-partial-encoding-independence.md) — related

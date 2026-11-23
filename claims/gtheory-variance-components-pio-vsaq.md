@@ -51,3 +51,4 @@ Two-facet fully crossed random-effects (P×I×O) generalizability analysis of 94
 - [Student self-marking of ISF-VSAQ answers shows excellent inter-rater reliability with teacher ratings (rs = 0.87–0.98 per item; overall r = 0.97)](isf-vsaq-self-marking-teacher-reliability.md) — related
 - [Reliability is context-dependent rather than a static attribute of a measurement tool](reliability-context-dependent-not-static.md) — a broader claim this one bears on
 - [In the G-study, residual error (51%), stations (11.4%), and their interactions dominate OSCE variance, while sites and test versions contribute almost none](osce-variance-components-residual-stations.md) — related
+- [The major source of measurement error in performance assessment stability is the person by occasion (residual) interaction](person-by-occasion-residual-dominant-error.md) — related

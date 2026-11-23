@@ -55,3 +55,4 @@ The review reports Bygate's (2001) larger study of practicing a type of task on 
 - [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](carousel-task-immediate-repetition-benefits.md) — related
+- [Preventing presleep rehearsal with distractor tasks does not alter the sleep benefit, ruling out unintentional rehearsal as a confound](presleep-occupied-control-rules-out-rehearsal.md) — related

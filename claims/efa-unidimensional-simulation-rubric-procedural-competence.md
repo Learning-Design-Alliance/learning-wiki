@@ -63,3 +63,4 @@ Exploratory factor analysis of the adapted simulation rubric reported in Results
 - [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](esm-self-efficacy-state-measure-pca.md) — related
 - [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related
 - [The knowledge section of the liberal birthing position questionnaire shows good reliability and structural validity, with four factors explaining 41.0% of variance and Cronbach's alpha of 0.890](knowledge-section-28-items-reliable-valid.md) — related
+- [Quality of self-explanations is a multidimensional construct rather than a unidimensional one](self-explanation-quality-multidimensional.md) — related

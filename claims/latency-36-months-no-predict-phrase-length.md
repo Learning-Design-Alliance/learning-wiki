@@ -70,3 +70,4 @@ Exploratory verb-only regression in the Results: 'we did examine verb trials alo
 - [Lexical processing speed at 36 months is associated with concurrent receptive vocabulary, but more weakly than at younger ages](lexical-processing-speed-36-months-concurrent-vocabulary-weaker.md) — related
 - [Verb trials with dynamic scenes yield longer latencies than noun trials with static images, and noun and verb latencies are moderately correlated](verb-latency-longer-noun-latency-moderately-correlated.md) — related
 - [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related
+- [Concurrent strategy assessment did not significantly alter problem-solving latencies](concurrent-strategy-assessment-no-reactivity.md) — related

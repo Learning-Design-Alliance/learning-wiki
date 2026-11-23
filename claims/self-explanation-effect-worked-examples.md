@@ -98,3 +98,4 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — a narrower finding that bears on this claim
 - [A new form of self-explanation was observed in which students compare their own solution to the expert's example solution](comparative-self-explanation-new-form.md) — related
+- [Requiring self-explanations did not significantly improve problem-solving performance, and did not interact with example format](self-explanation-no-effect-procedural-word-problems.md) — reports the opposite

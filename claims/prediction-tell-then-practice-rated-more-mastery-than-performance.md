@@ -49,3 +49,4 @@ Three post-hoc ordinal regressions comparing mastery and performance ratings wit
 - [Prediction activities yield larger pretest-to-posttest learning gains than worked example or tell-then-practice activities in a genetics course](prediction-activities-largest-learning-gains-genetics.md) — related
 - [Students rate faded worked examples as more helpful than prediction and tell-then-practice activities for exam performance](worked-examples-rated-most-helpful-performance-genetics.md) — related
 - [Students rate faded worked examples as more helpful than prediction and tell-then-practice activities for mastering the material in a large genetics course](worked-examples-rated-most-helpful-mastery-genetics.md) — related
+- [Invention activities lead to greater mastery-related goal adoption during learning than tell-and-practice activities](invention-activities-increase-mastery-goal-adoption.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 510 claims (270 for, 212 mixed, 28 against) · 385 studies (120 associational, 101 design, 66 causal, 49 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 385 report an effect size · 501 claims rest on one study
+> **Evidence** · 512 claims (272 for, 212 mixed, 28 against) · 386 studies (121 associational, 101 design, 66 causal, 49 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 386 report an effect size · 503 claims rest on one study
 
 ## Conditional relationship
 
@@ -354,6 +354,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [A D study indicates eight MPI stations would raise inter-interview reliability from 0.56 to above 0.70, within accepted limits](../claims/eight-station-mpi-reliability-above-0-70.md) [+W] — attached 2026-11-22 from Pieris Dilshan (2018), which proposed "Strengthen admissions interview validity by making in-person rater training mandatory and doubling the number of independently assessed stations"; tests this page's relationship.
 - [High within-station correlations (r = 0.70–0.86) among the four MPI Likert ratings at all four stations support the presence of halo error](../claims/mpi-within-station-correlations-halo-error.md) [+M] — attached 2026-11-22 from Pieris Dilshan (2018), which proposed "Strengthen admissions interview validity by making in-person rater training mandatory and doubling the number of independently assessed stations"; tests this page's relationship.
 - [Low between-station correlations (r = 0.06–0.27) suggest the MPI's four stations insufficiently sample assessed constructs and do not overcome context specificity](../claims/mpi-between-station-correlations-insufficient-sampling.md) [+W] — attached 2026-11-22 from Pieris Dilshan (2018), which proposed "Strengthen admissions interview validity by making in-person rater training mandatory and doubling the number of independently assessed stations"; tests this page's relationship.
+- [Aggregating three hands-on investigations into a total science achievement score substantially increases cross-occasion generalizability, reaching 0.80 with two occasions](../claims/aggregated-investigations-increase-generalizability.md) [+W] — attached 2026-11-23 from Maria Araceli Ruiz-Primo et al. (1993), which proposed "Large-scale performance assessment requires sampling multiple investigations or occasions to generalize a single-occasion score dependably"; tests this page's relationship.
+- [Generalizability of single hands-on science investigation scores across occasions 5 months apart is moderate, averaging 0.52 for observed investigations and 0.50 for notebook surrogates](../claims/performance-assessment-moderate-occasion-generalizability.md) [+W] — attached 2026-11-23 from Maria Araceli Ruiz-Primo et al. (1993), which proposed "Large-scale performance assessment requires sampling multiple investigations or occasions to generalize a single-occasion score dependably"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

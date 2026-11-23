@@ -65,6 +65,8 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 - [Mastery Learning](mastery-learning.md) — an alternative criterion for deciding when to fade (performance-based rather than sequence-based)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
 - [Provide student-adaptive self-explanation prompts that target only example parts the student may not fully understand, rather than prompting at every step](adaptive-selective-self-explanation-prompting.md)
+- [Present worked examples to novices and gradually fade them out as knowledge increases](fade-worked-examples-with-increasing-expertise.md)
+- [Use rapid first-step diagnostic tests before and during instruction to adapt faded worked-example sequences to learner expertise](rapid-diagnostic-adaptive-instruction-strategy.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's whole-task design explicitly prescribes fading support across task classes as expertise develops; used in technical and medical training curricula.

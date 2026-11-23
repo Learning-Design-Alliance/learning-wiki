@@ -55,3 +55,4 @@ The ordering matches achievement-goal theory: mastery goals go with persistence 
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
+- [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite

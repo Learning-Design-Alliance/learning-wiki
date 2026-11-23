@@ -109,3 +109,4 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
 - [Experimental-group pupils outperformed control-group pupils at the non-specific transfer level](hypertext-text-non-specific-transfer-advantage.md) — related
 - [General-mechanism theories of cognitive training (brain plasticity, primitive elements, learning to learn) are incorrect with respect to far transfer](general-mechanism-theories-refuted.md) — related
+- [ICC students transferred an understanding of ratio rather than a multiple-case strategy, maintaining their advantage on a single-case transfer problem](transferred-ratio-not-case-strategy.md) — related

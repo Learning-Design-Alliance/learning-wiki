@@ -56,3 +56,4 @@ The experiments and the correlations agree on three points: involvement does mor
 - [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](parental-involvement-direct-effect-math-performance.md) — related
 - [Mental unwellness correlates weakly and negatively with all three Grade 8 subjects; parental involvement variables correlate weakly to moderately and positively](unwellness-involvement-correlations-ceps.md) — related
 - [Homework and reading completion predicted final exam performance more strongly under the formative format](homework-reading-predictors-formative-format.md) — related
+- [Home-based involvement in intellectual enrichment not directly related to school foreshadows enhanced achievement, but homework assistance shows inconsistent links](home-based-involvement-mixed-effects.md) — related

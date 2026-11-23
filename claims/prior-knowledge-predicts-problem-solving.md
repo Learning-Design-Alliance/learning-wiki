@@ -52,3 +52,4 @@ In the ANCOVA, the pretest covariate was significant (F = 230.715, p < .001), in
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — related
 - [Sixth-grade understanding of mathematical equality predicts ninth-grade expression evaluation above and beyond general mathematics ability](equality-problems-predict-expression-evaluation.md) — related
+- [Process-related questioning predicts better problem-solving performance only for students given learning goals](process-questions-performance-moderated-by-goal.md) — related

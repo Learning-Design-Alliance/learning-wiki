@@ -69,3 +69,4 @@ The review reports a meta-analysis of 47 studies, citing Brown et al., finding t
 ## Related Claims
 - [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md) — related
 - [PESPAAP proposes feedback loops that can produce positive or negative spirals of parental engagement](pespaap-feedback-spirals-of-engagement.md) — related
+- [Intervention programs designed to promote parents' involvement show weaker and sometimes negative effects in internally valid studies](involvement-interventions-weak-effects.md) — reports the opposite

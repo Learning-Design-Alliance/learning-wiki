@@ -51,3 +51,4 @@ Regression analysis in the 691-student sample found mastery-approach goals did n
 - [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](chain-mediation-goals-grit-math.md) — reports the opposite
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](growth-mindset-negative-direct-association-math-china.md) — related
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
+- [Mastery-approach goal scales containing goal-relevant language are not significantly related to performance outcomes, while scales lacking goal-relevant language correlate positively with performance](map-goal-relevant-language-moderates-performance-correlation.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5828 entries** · 0 stable · 5828 in review · 0 drafts
+**5830 entries** · 0 stable · 5830 in review · 0 drafts
 
 ---
 
@@ -753,6 +753,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Children's University](childrens-university.md) - A Children's University programme that validates supervised out-of-school learning activities and awards pupils credits and certificates for participation.
 * [CHIMGEN cohort dataset of 1202 Chinese medical students with 98 validated nonacademic measures linked to GMKT scores](chimgen-cohort-dataset-of-1202-chinese-medical-students-with-98-validated-nonacademic-meas.md) - A retrospective cohort dataset maintained by the CHIMGEN consortium containing validated nonacademic measures and linked Chinese medical licensing examination scores for 1202 Chinese medical students.
 * [China Education Panel Survey (CEPS) longitudinal dataset](china-education-panel-survey-ceps-longitudinal-dataset.md) - A nationally representative longitudinal dataset collected by the National Survey Research Center at Renmin University of China, containing linked student, family, school, and academic measures across survey waves.
+* [Chinese 10-item TMG Scale](chinese-10-item-tmg-scale.md) - A 10-item Chinese-language self-report instrument measuring perseverance of effort, consistency of interests, and adaptability to situations in primary-school students.
 * [Chinese cardiovascular physician competency model](chinese-cardiovascular-physician-competency-model.md) - A weighted competency framework for Chinese cardiovascular physicians and residents, organizing clinical knowledge, practice-based skills and abilities, and motivation, values, and professionalism into layered indicators.
 * [Chinese cardiovascular physician competency model with weighted primary and secondary indicators and a five-point physician familiarity scale](chinese-cardiovascular-physician-competency-model-with-weighted-primary-and-secondary-indi.md) - A Delphi-developed competency framework for cardiovascular physicians in China, comprising eight primary and 60 secondary indicators with assigned weights and five performance levels for recruitment, evaluation, and residency training.
 * [Chinese Musical Instrument CAMI software](chinese-musical-instrument-cami-software.md) - A Flash-based computer-assisted learning package developed by Lou et al.
@@ -1997,6 +1998,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [GeoGebra](geogebra.md) - GeoGebra is a free dynamic mathematics software platform developed and maintained by GeoGebra for interactive work across algebra, geometry, calculus, and spreadsheets.
 * [Geographic Concepts Acquisition Test](geographic-concepts-acquisition-test.md) - A 30-item multiple-choice achievement test developed by AL-Edwan to measure eighth-grade students' acquisition of Natural Resources geography concepts before and after instruction.
 * [Geography Achievement Test (GAT) instrument](geography-achievement-test-gat-instrument.md) - A researcher-developed geography achievement assessment by Ugodulunwa et al.
+* [Geometry Area Unit tutor log dataset used for LFA evaluation](geometry-area-unit-tutor-log-dataset-used-for-lfa-evaluation.md) - A 4,102-record student-action log dataset from 24 learners using the Geometry Cognitive Tutor Area Unit, released as the testbed for learning-factor analysis experiments.
 * [Geometry Reasoning and Proof Test (GRPT) with perception and attitude questionnaire](geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-questionnaire.md) - A study-developed assessment package combining a geometry reasoning and proof test with a five-point questionnaire measuring students’ perceptions and attitudes toward AI-supported geometry instruction.
 * [Georgia GKIDS Readiness Check](georgia-gkids-readiness-check.md) - A brief kindergarten readiness assessment in Georgia's yearlong GKIDS system, combining direct performance tasks and teacher observations across social-emotional learning, English language arts, and mathematics.
 * [GeoVAD-Bench](geovad-bench.md) - A diagnostic benchmark created by Zhitong Dong et al.

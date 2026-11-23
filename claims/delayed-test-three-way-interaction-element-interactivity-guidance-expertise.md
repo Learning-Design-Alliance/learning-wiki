@@ -74,3 +74,4 @@ Simple-effects test for Year 10 novices on delayed high element interactivity ma
 - [Expertise produced large main effects on test scores and interacted with element interactivity, with the expertise advantage much larger for high element interactivity material](expertise-main-effect-and-element-interactivity-interaction.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on
+- [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](expertise-reversal-interaction-rapid-test.md) — related

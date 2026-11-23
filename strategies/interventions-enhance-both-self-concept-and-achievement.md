@@ -52,6 +52,7 @@ A practice recommendation drawn from the reciprocal effects model: because self-
 - [Integrate family and school contexts in interventions and promote adolescent academic self-regulation to support the high school transition](cross-context-family-school-asr-interventions.md)
 - [Interventions targeting both brilliance beliefs and belonging concerns to foster educational equity](counter-brilliance-beliefs-foster-belonging-interventions.md)
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
+- [Teachers can foster students' achievements across subjects by fostering self-concepts and supporting awareness of self-concept increases](foster-self-concepts-to-enhance-achievements.md)
 
 ## Examples
 -

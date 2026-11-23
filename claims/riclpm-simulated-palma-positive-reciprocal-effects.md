@@ -66,3 +66,4 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Prior mathematics achievement predicts subsequent intrinsic motivation in mathematics across grades 1 to 4](achievement-predicts-later-math-intrinsic-motivation.md) — related
+- [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related

@@ -52,3 +52,4 @@ Repeated-measures ANOVA comparing recall-change differences between learning typ
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
 - [Sleep stage duration and architecture show no significant correlation with memory change in this nap paradigm](sleep-stage-architecture-no-memory-correlation.md) — related
 - The original retrieval-practice EEG study's abstract used the abbreviation \"RP\" incorrectly in place of \"NRP\", corrected throughout the abstract — related
+- [Sleep after learning provides recovery from retroactive interference, preferentially improving recall of the first (A-B) list compared with wakefulness in an A-B, A-C paradigm](sleep-recovery-retroactive-interference-ab-list.md) — related

@@ -74,3 +74,4 @@ Delayed retention phase efficiency interaction: experienced groups were more eff
 - [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](zambrano-2019-low-density-lower-effort-learning.md) — related
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — a broader claim this one bears on
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
+- [Group x stage interactions on performance measures indicate the most efficient mode of instruction depends on learner experience level](instruction-experience-interaction-performance-measures.md) — related

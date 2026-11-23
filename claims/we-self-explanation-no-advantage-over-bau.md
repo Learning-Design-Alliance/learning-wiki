@@ -48,3 +48,4 @@ Pooled linear regression (Model 2) on the randomized homework study with BAU as 
 - [Fading produced significantly higher posttest math scores than business-as-usual problem solving after controlling for pretest](fading-beats-bau-posttest-geometry.md) — related
 - [Within-condition pre-to-post gains were largest for fading (g = 1.08), followed by fading with self-explanation (g = .93), worked example (g = .32), and BAU (g = .24)](fading-largest-prepost-gain-g108.md) — related
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — possibly the same claim (merge candidate)
+- [Requiring self-explanations did not significantly improve problem-solving performance, and did not interact with example format](self-explanation-no-effect-procedural-word-problems.md) — related

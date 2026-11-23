@@ -53,3 +53,4 @@ Cluster-randomized classroom experiment with 220 seventh-graders in 10 classroom
 - [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related
 - [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](worked-examples-benefit-disadvantaged-students.md) — related
+- [Learning gains from worked-out examples are substantially predicted by qualitative differences in self-explanation characteristics even when time-on-task is controlled](self-explanation-quality-predicts-learning-gains.md) — related

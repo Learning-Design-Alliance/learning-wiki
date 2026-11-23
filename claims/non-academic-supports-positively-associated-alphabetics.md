@@ -58,3 +58,4 @@ Key take-away from the Bayesian meta-analysis, which controlled for other coded 
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [Most early literacy interventions in the synthesis had positive effects on independent alphabetics outcomes, with a median effect size of 0.07 standard deviations](early-literacy-interventions-mostly-positive-alphabetics-median-007-sd.md) — related
+- [Intervention programs designed to promote parents' involvement show weaker and sometimes negative effects in internally valid studies](involvement-interventions-weak-effects.md) — related

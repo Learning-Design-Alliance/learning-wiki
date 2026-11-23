@@ -75,3 +75,4 @@ Aggregated adjusted mathematics regression results; the article reports openness
 - [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related
 - [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — reports the opposite
+- [Consistency of interests negatively, albeit weakly, associated with social math engagement](consistency-interests-negative-social-engagement.md) — related

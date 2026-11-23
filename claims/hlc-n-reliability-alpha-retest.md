@@ -80,3 +80,4 @@ Test–retest assessment with 81 nurses re-completing the HLC-N after a two-week
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related
 - [The C-SCCS shows high internal consistency (Cronbach's alpha .93, .92, .89) and split-half reliability of .84](c-sccs-internal-consistency-alphas-split-half.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related

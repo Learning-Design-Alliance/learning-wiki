@@ -52,3 +52,4 @@ Experiments with Grade 10 novices and Shakespearean experts reading extracts wit
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — a broader claim this one bears on
+- [The expertise reversal for the redundancy principle also appears on transfer: additional text raises novices' transfer scores but lowers experts'](expertise-reversal-redundancy-transfer.md) — related

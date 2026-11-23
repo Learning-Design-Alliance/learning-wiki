@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (43 show a difference, 9 mixed, 5 no difference) · 38 studies (22 causal, 6 associational, 4 review, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 56 claims rest on one study
+> **Evidence** · 58 claims (44 show a difference, 9 mixed, 5 no difference) · 39 studies (23 causal, 6 associational, 4 review, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 39 report an effect size · 57 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -93,6 +93,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Students do not automatically recognize that a computer executes code line-by-line and iteratively](../claims/students-miss-line-by-line-iteration.md) [+W] — measured as an outcome of the instruction studied
 - [Lower accuracy and near-identical reaction-time variances in the high group argue against careful reading as the explanation for their slower responses](../claims/reading-habit-explanation-rejected.md) [+M] — learners who differ on it differ in outcomes
 - [MPOIS-coded student essays show speculative and motivational sentences declining after feedback while inference statements do not increase](../claims/mpois-essay-coding-shifts-speculation-down-inference-flat.md) [-M] — measured as an outcome of the instruction studied
+- [Integrated worked examples elicited more correct inferences and more solution-linked rereads than split-source examples](../claims/integrated-examples-inference-making-rereads.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

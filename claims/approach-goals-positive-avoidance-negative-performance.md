@@ -52,3 +52,8 @@ Meta-analysis of 98 papers, 112 samples, 33,983 participants, and 295 effect siz
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — a broader claim this one bears on
 - [MAv goals correlate negatively with performance in education (r = -.13) but are unrelated in sports (r = .02)](mav-negative-education-unrelated-sports.md) — a narrower finding that bears on this claim
 - [The PAp goal–performance correlation is not moderated by achievement domain, but is stronger for measures whose PAp subscales contain only other-referenced standard items (AGQ-4, AGQ-S)](pap-domain-null-agq-standard-items-stronger.md) — a narrower finding that bears on this claim
+- [Goal switching from performance-approach to performance-avoidance goals is uncommon](goal-switching-performance-to-avoidance-uncommon.md) — related
+- [Mastery-approach goal scales containing goal-relevant language are not significantly related to performance outcomes, while scales lacking goal-relevant language correlate positively with performance](map-goal-relevant-language-moderates-performance-correlation.md) — related
+- [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite
+- [Normative and competence-demonstration performance goals correlate oppositely with achievement](normative-vs-appearance-goal-achievement-correlations.md) — related
+- [Surface learning does not explain the normative goal link with achievement](surface-learning-does-not-explain-normative-goal-link.md) — related

@@ -66,3 +66,5 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
 - [The SAFT shows excellent test-retest and inter-rater reliability for total scores](saft-excellent-reliability.md) — related
 - [CSCS total score shows high internal consistency, with most reliable variance attributable to a general factor](cscs-total-score-reliability.md) — related
+- [The PSSM shows strong internal consistency and moderate 4-week test-retest reliability in middle- and high-school students](pssm-reliability-adolescents-hagborg.md) — related
+- [RJI scores are stable across a 2-week retest, with only a small, inconsistent practice effect on Time 2 RJI scores in the experimental condition](rji-stable-across-retest-small-practice-effect.md) — related

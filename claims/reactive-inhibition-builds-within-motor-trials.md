@@ -52,3 +52,4 @@ In the experiment, 30 s trials were split into three 10 s bins and first-versus-
 - [A declarative task placed early in training is associated with a small, transient reduction in post-rest gain (Experiment 3), with only weak statistical support](early-declarative-task-transient-impairment-experiment-3.md) — related
 - [No significant association exists between intervening-task performance and post-rest motor gain in any experiment](no-association-declarative-performance-motor-gain.md) — related
 - [Both inter-trial break time and on-task trial time significantly affect post-rest RT improvement after a 300 s rest](break-and-trial-time-affect-post-rest-improvement.md) — related
+- [Children perform the finger-tapping task more slowly than adults and show a smaller improvement across training trials](children-slower-smaller-training-improvement-tapping.md) — related

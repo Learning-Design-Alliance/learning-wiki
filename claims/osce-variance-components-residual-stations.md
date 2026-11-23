@@ -67,3 +67,4 @@ Discussion interpretation of the same variance-component analysis: the article r
 - [A D-study predicts that increasing the OSCE to 22 stations would raise the G coefficient only marginally, from 0.93 to 0.94](dstudy-22-stations-marginal-gain.md) — related
 - [In the generalizability study, students (16.47%) and residual error (55.38%) dominate score variance, with items at 9.98% and occasions at 2.10%](gtheory-variance-components-pio-vsaq.md) — related
 - [In the formative OSCE, examiner influence accounts for about 10% of variance and the station x examiner interaction is not detectable](formative-osce-examiner-effects-small-no-interaction.md) — related
+- [The major source of measurement error in performance assessment stability is the person by occasion (residual) interaction](person-by-occasion-residual-dominant-error.md) — related

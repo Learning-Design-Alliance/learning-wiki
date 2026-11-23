@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (32 for, 39 mixed, 2 against) · 71 studies (32 causal, 17 review, 14 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 15 of 71 report an effect size · 61 claims rest on one study
+> **Evidence** · 77 claims (36 for, 39 mixed, 2 against) · 73 studies (34 causal, 17 review, 14 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 16 of 73 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,10 @@ Re-read 2026-10-19: thirteen of the sixteen claims listed here were moved into t
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [+W] — attached 2026-10-20 from Ouhao Chen · Fred Paas · John Sweller (2023), which proposed "Instructional design must account for element interactivity because cognitive load effects shrink or reverse as it decreases"; tests this page's relationship.
 - [On the delayed test, guidance, element interactivity and expertise interacted significantly: for novices, generation beat worked examples on low element interactivity material, while the worked example advantage on high element interactivity material fell just short of significance](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+M] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Match the level of instructional guidance to the element interactivity of the material and the expertise of the learners"; tests this page's relationship.
 - [The experiment demonstrated an expertise reversal effect: high guidance via worked examples was redundant for more knowledgeable Year 11 learners](../claims/expertise-reversal-effect-worked-examples-redundant.md) [+M] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Match the level of instructional guidance to the element interactivity of the material and the expertise of the learners"; tests this page's relationship.
+- [Novices benefit from additional on-screen text explaining animations while experts are impaired by it on the retention test (expertise reversal for the redundancy principle)](../claims/expertise-reversal-redundancy-retention.md) [+M] — attached 2026-11-23 from Günter Daniel Rey (2011), which proposed "Match instructional design principles to the learner's level of expertise and cognitive load"; tests this page's relationship.
+- [The expertise reversal for the redundancy principle also appears on transfer: additional text raises novices' transfer scores but lowers experts'](../claims/expertise-reversal-redundancy-transfer.md) [+M] — attached 2026-11-23 from Günter Daniel Rey (2011), which proposed "Match instructional design principles to the learner's level of expertise and cognitive load"; tests this page's relationship.
+- [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](../claims/worked-examples-superior-for-inexperienced-learners.md) [+W] — attached 2026-11-23 from Kalyuga et al. (2001), which proposed "Decide between worked examples and problem solving only after establishing learner experience in the domain"; tests this page's relationship.
+- [For more experienced learners, problem solving proved superior to studying worked examples (a redundancy effect) in Experiment 2](../claims/redundancy-effect-problem-solving-superior-experienced-learners.md) [+W] — attached 2026-11-23 from Kalyuga et al. (2001), which proposed "Decide between worked examples and problem solving only after establishing learner experience in the domain"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

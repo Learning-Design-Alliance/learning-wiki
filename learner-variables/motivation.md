@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 489 claims (319 show a difference, 117 mixed, 53 no difference) · 352 studies (136 associational, 113 causal, 42 review, 17 qualitative, 16 theoretical, 14 quant-synthesis, 14 design), `q1`–`q4` · 93 of 352 report an effect size · 477 claims rest on one study
+> **Evidence** · 490 claims (319 show a difference, 118 mixed, 53 no difference) · 353 studies (137 associational, 113 causal, 42 review, 17 qualitative, 16 theoretical, 14 quant-synthesis, 14 design), `q1`–`q4` · 93 of 353 report an effect size · 478 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -539,6 +539,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Motivation does not differ by sports success, but both successful and non-successful players show lower precompetitive motivation](../claims/sports-success-no-motivation-difference.md) [-M] — learners who differ on it differ in outcomes
 - [Cross-sectional correlations between intrinsic motivation and mathematics achievement increased in strength from grade 1 (r = .13) to grade 4 (r = .22)](../claims/motivation-achievement-correlation-increases-with-grade.md) [+W] — learners who differ on it differ in outcomes
 - [Intrinsic motivation in mathematics did not predict later mathematics achievement at any time point](../claims/math-intrinsic-motivation-does-not-predict-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [Only cognitive-behavioral engagement uniquely predicted math achievement; emotional engagement did not predict beyond it, and social engagement negatively predicted achievement](../claims/cognitive-behavioral-engagement-unique-achievement-predictor.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

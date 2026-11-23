@@ -65,6 +65,7 @@ The choice of worked example type should track learner expertise: high guidance 
 - [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — the diagnosis-and-correction variant that builds conceptual knowledge
 - [Completion Problems](../elements/fading.md) — the intermediate type on the guidance continuum
 - [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](test-case-before-grading-case-homework.md)
+- [Present worked examples to novices and gradually fade them out as knowledge increases](fade-worked-examples-with-increasing-expertise.md)
 
 ## Examples
 - **Sweller & Cooper's algebra studies** — the foundational example–problem pair design: learners studied a fully worked algebra example, then solved an isomorphic problem, outperforming learners who solved all problems themselves.

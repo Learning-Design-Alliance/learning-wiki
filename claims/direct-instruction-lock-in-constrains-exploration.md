@@ -54,3 +54,4 @@ The article reports this solution-variety contrast from Kapur's (2014) experimen
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
+- [Invention activities produce better conceptual attempts on the standardization problem than tell-and-practice, while tell-and-practice produces better performance on the variability problem](invention-vs-tell-and-practice-learning-performance.md) — related
