@@ -73,3 +73,4 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 - [Mastery-approach and performance-approach goal instructions do not interact on learning outcomes in game-based learning](goal-instructions-no-interaction-gbl.md) — related
 - [Class environment mediates perceived teacher support and learning engagement, though its path to engagement is significant in some goal models but not others](class-environment-mediation-engagement-mixed.md) — related
 - [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](performance-approach-goals-predict-low-frustration-tolerance.md) — related
+- [Approach motivations are associated with higher academic achievement and avoidance motivations with lower academic achievement](approach-goals-higher-avoidance-lower-achievement.md) — related

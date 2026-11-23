@@ -57,3 +57,4 @@ CFA with structural equation modelling (AMOS 24.0) on the same 352-respondent va
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
 - [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related
 - [The HLQ shows good factorial validity with a 9-factor CFA model and good internal consistency across its 9 scales](hlq-cfa-fit-and-internal-consistency.md) — related
+- [The Motivation and Engagement Scale reaches acceptable fit and reliability when applied to Chinese primary students](mes-acceptable-fit-chinese-primary-students.md) — related

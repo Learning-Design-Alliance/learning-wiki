@@ -51,3 +51,4 @@ Exit-survey Wilcoxon signed rank tests (Table 6) comparing prequestioning and re
 - [Prequestioning showed no significant benefit for the Climate Change topic](prequestioning-null-climate-change-topic.md) — related
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — related
 - [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [Confidence in delayed multiple choice responses follows postquestion > prequestion > restudy in children](confidence-postquestion-prequestion-restudy-ordering.md) — related

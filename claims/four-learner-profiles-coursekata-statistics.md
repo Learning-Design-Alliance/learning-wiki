@@ -55,3 +55,4 @@ Empirical application of the proposed model to longitudinal item responses from 
 - [Engagement quantity metrics (average session duration and session count) did not significantly predict within-individual ability drift](engagement-quantity-no-ability-drift.md) — related
 - [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
+- [A 'struggling students' cluster shows high adaptive engagement yet low mathematics scores, contrary to prior findings](struggling-students-cluster-low-math-scores.md) — related

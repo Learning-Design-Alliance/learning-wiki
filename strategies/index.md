@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**17645 entries** · 0 stable · 17644 in review · 1 drafts
+**17647 entries** · 0 stable · 17646 in review · 1 drafts
 
 ---
 
@@ -7195,6 +7195,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Initiating a Conversation with Learners to Correct Name Pronunciation](initiating_a_conversation_with_learners_to_correct_name_pronunciation.md) - The instructor proactively opens a respectful conversation with each learner to learn, practice, and correct the pronunciation of their name.
 * [Inject concept-aligned objective drift with predefined failure signatures to train diagnosis and recovery](injected-concept-aligned-drift-strategy.md) - In selected labs the curriculum deliberately injects objective drift targeting specific learning objectives, creating structured opportunities for diagnosis and recovery from specification violations.
 * [Inject LaTeX transcriptions of pointed-to math in place of ambiguous verbal references](inject-pointed-to-math-into-verbal-flow.md) - The v6m system instructions direct Gemini to replace ambiguous verbal references such as \"this equation\" with LaTeX renderings of the pointed-to math, injected in place of or immediately after the reference, and to us...
+* [Innovate learning methods as grade level increases: gamification for male interest and cooperative learning in senior grades](gamification-cooperative-learning-by-grade.md) - Based on the finding that adaptive motivation declines with grade level and the female advantage narrows, the authors recommend that \"there is a need to innovate learning methods for primary school students when they...
 * [Innovate PRO assessment with short index questions, computerized adaptive testing and conversation tools](pro-assessment-innovation-strategies.md) - The review recommends specific assessment innovations to reduce respondent burden and make psychological needs visible in routine diabetes care.
 * [Innovation educators should foster risk-taking, tolerance of failure, and a judgment-free space for novel ideas](safe-space-risk-taking-innovation-educators.md) - In the practical implications for innovation educators, the article recommends that educators \"encourage students to take risks, try out new ideas, and be open to failing as normal parts of the learning process\" and \"...
 * [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md) - Beyond CPR technique practice, the article states continuing education strategies \"precisam incluir planos que possibilitem a aquisição de habilidades comportamentais aplicadas ao local de trabalho e recursos disponív...
@@ -12576,6 +12577,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Source lab data from an experiment students perform themselves rather than third-party datasets](student-collected-data-hands-on-computational-lab.md) - This strategy grounds a computational lab in data the students generate physically, rather than in externally supplied datasets.
 * [Sourcing](sourcing.md) - Sourcing teaches learners to ask who created a document, when, why, and under what circumstances before using its content — treating the origin of information as evidence about its reliability.
 * [Space blended course sessions over time and deepen asynchronous platform use to increase time on task and flexibility](space-sessions-and-asynchronous-activities-strategy.md) - Based on students reporting insufficient time for self-directed learning, the authors propose revising course duration and \"spacing the sessions out over time (e.g.
+* [Space word-learning exposures over time so children can forget irrelevant details between exemplars](spacing-allows-forgetting-irrelevant-details-generalization.md) - This strategy arranges multiple exemplars of a new word category across minutes, hours, or days rather than labeling them closely together in time.
 * [Spaced Learning Through Activity Breaks](spaced_learning_through_activity_breaks.md) - Breaking up learning or work into short chunks of time interspersed with activity breaks leverages the 'spacing effect,' a well-replicated phenomenon in psychology.
 * [Spaced Practice Scheduling](spaced-practice-scheduling.md) - Distributing practice sessions over time rather than massing them together, exploiting the spacing effect to improve long-term retention.
 * [Spaced recall of representationaly rich worked solutions as an in-class activity emphasizing expert practice](spaced-recall-worked-solutions-activity.md) - The article proposes a methodology in which students watch a video solution to a representationaly dense physics problem, immediately recall it, and then recall it again in sessions spaced days or weeks apart, consult...

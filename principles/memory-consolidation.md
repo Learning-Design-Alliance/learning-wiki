@@ -213,6 +213,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](../strategies/spaced-review-structures-strategy.md)
 - [Provide answers to probing questions one week after the session so students can quiz themselves for spaced repetition](../strategies/delayed-answer-sheet-spaced-repetition.md)
 - [Three-week module structure distributing simulation, experiment, and comparison work across days](../designs/three-week-simulation-experiment-module-structure.md)
+- [Space word-learning exposures over time so children can forget irrelevant details between exemplars](../strategies/spacing-allows-forgetting-irrelevant-details-generalization.md)
 
 ### Illustrative
 

@@ -53,3 +53,4 @@ Omnibus mixed ANOVA on final test scores (learning condition between-subject, qu
 - [Histology topic, not LLM platform, was the primary factor in performance variance (η2 = 0.452 vs 0.006), with a significant system-by-topic interaction](topic-effect-dominates-system-effect-llm-histology.md) — related
 - [Learning groups differ significantly in change of anatomy test scores over one month (group × time × question type interaction)](retention-group-by-time-interaction-significant.md) — related
 - [No significant differences in learning gains between feedback conditions, including no interaction between feedback type and slide presence](slideitright-no-significant-condition-differences.md) — related
+- [The test-type by learning-condition interaction on delayed performance was significant in Experiment 1 but not in Experiment 2](test-condition-interaction-mixed-across-experiments.md) — related

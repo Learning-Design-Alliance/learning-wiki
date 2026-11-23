@@ -90,6 +90,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
 - [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
+- [Space word-learning exposures over time so children can forget irrelevant details between exemplars](spacing-allows-forgetting-irrelevant-details-generalization.md)
 
 ## Examples
 - **Anki / spaced-repetition flashcards** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) — implements expanding-interval scheduling for vocabulary, medicine, and law study; used widely in medical education.

@@ -84,3 +84,4 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Approach goals (mastery or performance) correlate positively and avoidance goals (performance or mastery) correlate negatively with nonself-report performance](approach-goals-positive-avoidance-negative-performance.md) — a narrower finding that bears on this claim
 - [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — a broader claim this one bears on
 - [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite
+- [Approach motivations are associated with higher academic achievement and avoidance motivations with lower academic achievement](approach-goals-higher-avoidance-lower-achievement.md) — possibly the same claim (merge candidate)

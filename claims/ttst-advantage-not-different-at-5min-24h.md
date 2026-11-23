@@ -67,3 +67,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [Losses after long breaks in naturalistic practice are rapidly offset by very little practice: a single gameplay can restore prior performance levels even after delays of hundreds of days](rapid-relearning-single-gameplay.md) — related
 - [Repeating a single demonstration produces more learning than an equivalent number of different demonstrations](single-demonstration-repetition-film-learning.md) — related
 - [Delay between learning and testing reduces accuracy only after one day, and equally across learning strategies](one-day-delay-reduces-accuracy-equally.md) — related
+- [The test-type by learning-condition interaction on delayed performance was significant in Experiment 1 but not in Experiment 2](test-condition-interaction-mixed-across-experiments.md) — related
