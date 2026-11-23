@@ -83,3 +83,5 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [The fine-tuned GOAT model outperforms SBERT-Canberra and GPT-4 in predicting teacher scores for open-ended math responses](goat-outperforms-sbert-gpt4-scoring.md) — related
 - [Training with textual explanations improves classification over label-only training](explanation-supervision-improves-classification.md) — related
 - [LLMs classifying Talk Moves show higher recall than precision, overproducing labels at a high false-positive rate](llm-talk-move-labeling-high-false-positives.md) — related
+- Instruction-based fine-tuning on LAZY REVIEW significantly improves LLM lazy-thinking detection over zero-shot and few-shot baselines — related
+- Foundation models succeed zero-shot on object-identification skills but fail on skills requiring abstract knowledge and complex reasoning — related

@@ -46,6 +46,8 @@ The chapter prescribes observation and registration as the central procedures of
 
 - [Open the teaching sequence with 'trigger' questions that problematize familiar observations, such as the Moon appearing in the daytime sky](problematization-trigger-questions-phases.md)
 - [Use Cultural Astronomy questions and naked-eye sky experiences as strategic entry doors for astronomy teaching](cultural-astronomy-entry-doors-teaching-strategy.md)
+- [Extend the sphere-versus-disk illumination analysis to images of Venus and the Earth](extend-terminator-analysis-to-venus-earth.md)
+- [Four laser-guided night sky activities for teaching observational astronomy concepts](stellector-four-night-sky-teaching-activities.md)
 
 ## Examples
 -

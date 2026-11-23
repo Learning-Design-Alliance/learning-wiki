@@ -51,4 +51,4 @@ Among future directions, the authors propose extending GTNs with a curriculum th
 -
 
 ## Key Sources
-- Such, F. P., Rawal, A., Lehman, J., Stanley, K. O., & Clune, J. (2019). Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Uber AI Labs. https://arxiv.org/abs/1912.07768
+- Such, F. P., Rawal, A., Lehman, J., Stanley, K. O., & Clune, J. (2019). Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Uber AI Labs. https://arxiv.org/abs/1912.07768. [doi:10.48550/arxiv.1912.07768](https://doi.org/10.48550/arxiv.1912.07768)

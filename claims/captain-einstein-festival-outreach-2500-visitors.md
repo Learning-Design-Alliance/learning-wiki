@@ -50,3 +50,4 @@ Authors' experience report in section IV: festival setup with a real canoe or ka
 - [The Black Holes: The Other Side of Infinity planetarium show has reached over two million viewers worldwide](black-holes-planetarium-show-reach.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
 - [The interactive gravitational-wave detector model exhibit increased self-reported visitor interest in physics and awareness of gravitational waves at the Royal Society Summer Science Exhibition.](interactive-gw-detector-model-increased-visitor-interest.md) — related
+- The Gravity-Universe after Einstein exhibition, co-organized with the Italian Space Agency at MAXXI in 2018, attracted more than 150,000 visitors — related

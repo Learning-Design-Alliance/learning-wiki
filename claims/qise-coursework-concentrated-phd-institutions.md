@@ -73,3 +73,5 @@ Because two-year and four-year institutions typically have 0 or 1 quantum-relate
 - [QIS degree and certificate programs are disproportionately found at private R1 institutions](qis-degrees-restricted-to-private-r1-institutions.md) — related
 - [Institutions with a high percentage of Pell grant recipients offer significantly fewer QIS courses](pell-grant-institutions-fewer-qis-courses.md) — related
 - [Nearly half of engineering courses covering QISE topics are not QISE-specific courses](qise-topics-spread-beyond-dedicated-courses.md) — related
+- [About 17 US institutions focus predominantly on MS degrees, 8 on PhD degrees, and about 4 have an equal MS/PhD balance](program-orientation-counts-us-institutions.md) — related
+- [PUI faculty have roughly half the research time of R1 faculty due to disproportionate teaching and service burdens](pui-faculty-research-time-half-of-r1.md) — related

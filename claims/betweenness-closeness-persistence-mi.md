@@ -52,3 +52,4 @@ Univariate logistic regression of persistence in the electricity and magnetism M
 - [Higher indegree, outdegree, and closeness at the end of a first-semester Modeling Instruction course predict enrolling in the second MI course](centrality-predicts-mi-persistence.md) — reports the opposite
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
 - [Eight centrality measures yield highly consistent rankings across the Physics, Mathematics, and integrated networks, so degree centrality alone suffices to rank content importance](centrality-measures-consistent-degree-suffices.md) — related
+- [Students more central in meaningful-interaction networks were more likely to continue in physics (Zwolak and collaborators, 2017)](centrality-predicts-physics-persistence-zwolak-2017.md) — related

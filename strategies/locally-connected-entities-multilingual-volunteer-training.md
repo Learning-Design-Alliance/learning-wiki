@@ -17,7 +17,7 @@ sources:
 # Recruit through locally connected educational entities and train via multilingual volunteer-led sessions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 PACS e-Lab grows the campaign by inviting organizations that already have community access and resources — national space agency outreach departments, observatories, university STEM departments, astronomy organizations, secondary schools, and amateur groups — then training them online. Volunteers who speak multiple languages train recruits in their own language, and manuals and video tutorials are "available in multiple languages such as Arabic, French, and other local languages spoken in Africa". Groups are contacted via social media, Google searches, emails, and referrals from existing participants.
@@ -48,6 +48,7 @@ PACS e-Lab grows the campaign by inviting organizations that already have commun
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Co-creating astronomy outreach with marginalised community leaders and cultural agents](co-created-astronomy-outreach-marginalised-communities.md)
 - [Translate ready-made science outreach material into under-served languages using local professional astronomers](translate-outreach-material-into-underserved-languages.md)
+- [Distribute prerecorded multilingual tutorials to mitigate internet cost and language barriers in online citizen science](pacselab-prerecorded-multilingual-tutorials.md)
 
 ## Examples
 -

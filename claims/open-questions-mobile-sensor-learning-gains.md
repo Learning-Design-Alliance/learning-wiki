@@ -49,3 +49,4 @@ In the Conclusions the authors argue the advantages are numerous: students perce
 - [The effect of mobile game-based learning on learners' engagement and achievement is still to be documented in research](mgb-engagement-achievement-undocumented.md) — related
 - [Mobile sensors let students take hundreds or thousands of repeated measurements in seconds, transforming error-analysis teaching](sensors-enable-mass-repeated-measurements-error-analysis.md) — a narrower finding that bears on this claim
 - [Simultaneous use of a smartphone's ambient-light and orientation sensors verifies Malus's law in a way that is very accessible for students](cl-001-malus-law-smartphone-dual-sensors.md) — a narrower finding that bears on this claim
+- [A Bluetooth microcontroller paired with a smartphone addresses the three main problems of using smartphones directly in physics experiments](nano-board-solves-smartphone-teaching-issues.md) — a narrower finding that bears on this claim

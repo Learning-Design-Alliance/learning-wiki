@@ -50,3 +50,4 @@ The review's freedom-of-gameplay synthesis (Table 9) tallies mechanics per compe
 - [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — a narrower finding that bears on this claim
 - [Songo gameplay develops computational thinking, including the culturally informed practice the review names songoputation](songo-computational-thinking-songoputation.md) — related
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](teacher-control-versus-student-autonomy-online.md) — related
+- [Participants with disabilities reported that SonoUno allowed them to explore data and choose options at will, an autonomy they said few research tools offer](sonouno-choice-needs-autonomy.md) — a narrower finding that bears on this claim

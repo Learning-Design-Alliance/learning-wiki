@@ -59,3 +59,4 @@ Same multivariable regression (n = 88 complete cases). Because lower scores mean
 - [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related
 - [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — reports the opposite
 - [Genomic knowledge scores increase with level of academic preparation and differ by nursing role](genomic-knowledge-scores-education-gradient.md) — related
+- [Despite 90% of South Bangka teachers holding at least a Bachelor's degree, the average Teacher Competency Test (UKG) score is only 47](south-bangka-ukg-47-despite-90-percent-bachelors.md) — related

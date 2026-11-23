@@ -51,6 +51,8 @@ The article structures its entire treatment as a sequence of numbered code boxes
 - [Teach Ocean SDK via account setup, Leap/SAPI authentication, and job submission to D-Wave QPUs](ocean-sdk-dwave-teaching-sequence.md)
 - [Sequence Qiskit instruction from environment setup through real-QPU job submission with multi-platform examples](qiskit-qpu-job-submission-sequence.md)
 - [Design quantum courses around cloud-based platforms and simulators where hardware access is limited](cloud-based-quantum-platforms-course-design.md)
+- [Teach quantum computing through applied coding of Grover's search with fully provided, replicable code](applied-grover-coding-teaching-strategy.md)
+- [Measure arbitrary spin directions on quantum hardware by applying rotation gates that map the desired eigenvectors onto the computational basis](rotation-gate-basis-change-measurement-strategy.md)
 
 ## Examples
 -

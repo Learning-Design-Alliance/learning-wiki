@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-23
 sources:
   - id: gleydson-fernandes-de-jesus-2021
     resource: "https://doi.org/10.48550/arXiv.2101.11388"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports that the results of the student-executed applications match theoretical predictions and demonstrate Qiskit's effectiveness as a classroom working tool. [→ Gleydson Fernandes de Jesus 2021](#gleydson-fernandes-de-jesus-2021)

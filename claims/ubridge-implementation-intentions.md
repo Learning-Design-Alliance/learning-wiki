@@ -54,3 +54,4 @@ Post-institute survey of the ten participants (Table 13) reporting implementatio
 - [Most student participants are extremely willing to use pedagogical prompts in future learning, though a minority express reluctance](student-willingness-to-use-pedagogical-prompts.md) — related
 - [Most TAs reported strong enthusiasm for collaborative learning, with 71% planning to regularly incorporate it in future teaching and 23% occasionally](tas-intend-collaborative-learning-future-teaching.md) — related
 - [Most respondents intended to keep using P-A.I.R. and would recommend it to peers, and the two intentions were positively associated](pair-adoption-reuse-recommendation.md) — related
+- One year after the conference, respondents reported new collaborations and career gains: 58% discussed project ideas with intent to collaborate, 16% had started a joint project, and 100% reported new ideas, contacts and CV listing — related

@@ -51,3 +51,4 @@ Descriptive statistic from the section discussing participant demographics, with
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
 - [Boys and girls show equal variability in early mathematical performance across all measured tasks](no-gender-difference-variability-early-math-performance.md) — related
 - [Participation in the ASIMOV Prize has grown constantly since 2016, reaching 272 schools and 12,326 student-jurors](asimov-prize-participation-growth-12326-students.md) — related
+- [ASIMOV Prize participation grew from several hundred reviews from five regions (2016) to more than 12,000 student writeups from twenty regions (2022 edition), attracting equal numbers of male and female students](asimov-prize-12000-reviews-gender-balanced.md) — related

@@ -85,3 +85,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [AI-generated feedback significantly improves counselors' responses to client resistance in a controlled experiment](ai-feedback-improves-counselor-responses-experiment.md) — related
 - [Focus group findings indicate GAI use should be explicitly motivated early in a course, since students cannot be assumed to understand its intended role](gai-use-should-be-explicitly-motivated-early.md) — related
 - [Ethical awareness precedes technical confidence as an entry condition for non-traditional AI learners](ethical-awareness-entry-condition-non-stem-learners.md) — related
+- [The authors report the platform reduces manual data recording and improves experiment quality, engagement and cost-effectiveness](platform-reduces-manual-recording-improves-engagement.md) — related

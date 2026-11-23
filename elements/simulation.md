@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 714 claims (495 for, 191 mixed, 28 against) · 457 studies (206 causal, 91 design, 80 review, 38 quant-synthesis, 21 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 62 of 457 report an effect size · 702 claims rest on one study
+> **Evidence** · 715 claims (496 for, 191 mixed, 28 against) · 458 studies (206 causal, 92 design, 80 review, 38 quant-synthesis, 21 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 62 of 458 report an effect size · 703 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -773,6 +773,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Sexual counseling skill scores did not differ significantly between the virtual patient, virtual peer, and face-to-face peer simulation groups](../claims/no-group-difference-in-sexual-counseling-skill-scores.md) [~W] — attached 2026-11-21 from Neslihan Yilmaz Sezer et al. (2025), which proposed "Virtual patient simulation model for sexual counseling during pregnancy with four scenario-based synchronous interactions".
 - [Neither the group effect nor the group × time interaction on SABS scores was significant, indicating similar attitude change across the three simulation methods](../claims/no-group-or-interaction-effect-on-sabs-scores.md) [~W] — attached 2026-11-21 from Neslihan Yilmaz Sezer et al. (2025), which proposed "Virtual patient simulation model for sexual counseling during pregnancy with four scenario-based synchronous interactions".
 - [At least one error was observed in 82% of the 176 simulated paediatric emergency scenarios, with error frequency varying by scenario](../claims/error-frequency-82-percent-simulations.md) [+W] — attached 2026-11-22 from Herzberg S et al. (2019), which proposed "High-fidelity in-situ paediatric emergency simulation scenarios with professional actors".
+- Measured inter-particle spacing and the sound speed derived from it closely match the virtual laboratory's simulated spacing and the literature value. [+W] — attached 2026-11-23 from Muñoz-Pérez et al. (2023), which proposed "COMSOL Multiphysics virtual laboratory for acoustic levitation with interactive frequency and distance parameters".
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](../claims/ejs-u-tube-simulation-positive-survey-feedback.md) [+W] — attached 2026-11-23 from Fredy A. Orjuela et al. (2024), which proposed "EJS interactive simulation of damped U-tube oscillations with parameter controls, time-evolution plots, and phase diagram".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -51,3 +51,4 @@ Panel regression analysis of 71,405 exams from 2,979 students at the University 
 - [Task-specific improvement was identified only in individual learning curves and was not apparent in averaged performance data](individual-curves-needed-to-identify-task-specific-phase.md) — related
 - [Mean exam grades of Completers differ only slightly (but often statistically significantly) across education levels, and mean grades drift lower across successive exams; Drops tend to stop after earning a low grade](802x-exam-performance-education-levels-drops.md) — reports the opposite
 - [Engagement with the Public Exam process was high across exams (100%, 81%, 95%) while the number of edited questions increased monotonically from 2 to 4 to 5](engagement-rate-and-edited-questions-over-time.md) — related
+- [Neural models show no obvious performance drop across grade levels, unlike the human learning curve](no-grade-level-performance-drop-models.md) — related

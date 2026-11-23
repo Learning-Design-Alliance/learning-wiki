@@ -50,3 +50,4 @@ This is the authors' experiential summary of the undergraduate class project, no
 - Captured sine-wave data showed the wave trend but could not be confidently quantified without curve fitting, yielding about five data points per cycle — a narrower finding that bears on this claim
 - Reducing program delay by assembly programming did not raise sampling rate: total reset delay of 0.05 seconds had to stay constant or the ADC became unreliable — a narrower finding that bears on this claim
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related
+- The computer sound card's signal acquisition meets the requirements of low-frequency physics experiments within 0 to 1200 Hz — related

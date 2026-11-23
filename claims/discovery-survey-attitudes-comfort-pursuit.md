@@ -78,3 +78,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Most USEQIP alumni report the program strongly influenced their academic or career path, with in-person cohorts reporting the most influence](useqip-alumni-survey-career-influence.md) — related
 - [Intro2QC workshop sessions received positive informal feedback, with a large majority of responders rating the workshop experience 8 or higher out of 10](intro2qc-positive-informal-feedback.md) — related
 - [First-year students reported learning about relativity and increased interest from the Real Time Relativity simulation laboratory](rtr-students-reported-learning-and-interest.md) — related
+- [In the pilot cohort's summative assessment, 100% of students felt the lab should be a required curriculum element and 100% felt they gained valuable transferable skills, while the response on lab rigor was mixed.](iron-oxide-lab-summative-assessment-positive-response.md) — related
+- [Students reported the PCTO research experience as formative and as shaping their interest in research careers](pcto-student-reflections-research-career.md) — related

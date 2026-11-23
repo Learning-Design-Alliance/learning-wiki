@@ -58,6 +58,7 @@ The article recommends that boosting the value of and access to capital is neces
 - [Reevaluate graduate admissions toward holistic assessment of research potential instead of decontextualized test-score cutoffs](holistic-phd-admissions-reevaluation-strategy.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
 - [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
+- [Shift physics culture to value technical and software contributions, via cross-department courses, rigorous computing training, and reevaluated thesis requirements](value-technical-contributions-cultural-shift-strategy.md)
 
 ## Examples
 -

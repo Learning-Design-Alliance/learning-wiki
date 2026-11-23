@@ -46,6 +46,7 @@ A staged milestone schedule that pulls students into the capstone early. The art
 
 - [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 - [Team Contracts](team_contracts.md)
+- [Capstone in which teams connect galaxy case studies to reveal galaxy formation and evolution pathways](galaxy-evolution-connect-the-dots-capstone.md)
 
 ## Examples
 -

@@ -43,7 +43,7 @@ The article distills its acquisition-dynamics findings into three practical reco
 - [Classroom-scale data (5-80 samples per misconception) is insufficient for reliable tutor-model misconception acquisition](../claims/tutor-model-sample-efficiency-classroom-insufficient.md) [+W]
 
 ## Related Strategies
-- 
+
 
 ## Examples
 -

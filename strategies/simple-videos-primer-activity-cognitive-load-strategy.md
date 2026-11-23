@@ -44,7 +44,8 @@ Before the performance task, groups of 3 to 4 students analyze three simple vide
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Ramp students up on key technologies using bright, low-cost solar-system targets before deeper investigations](module1-low-cost-solar-system-skill-ramp-up.md)
 
 ## Examples
 -

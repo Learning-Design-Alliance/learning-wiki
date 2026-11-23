@@ -46,6 +46,7 @@ The article recommends that teachers use the model's ROCAUC-based confidence sco
 
 - [Pair talent identification with at-risk student detection to avoid unbalanced resource distribution](pair-talent-and-atrisk-detection-strategy.md)
 - [Use fuzzy logic assessment on a spectrum rather than a binary scale to recognise student potential in teaching simulations](fuzzy-spectrum-assessment-teaching-simulations.md)
+- [Use adaptive uncertainty thresholds instead of fixed domain-specific thresholds for advising decisions](adaptive-uncertainty-thresholds-advising-strategy.md)
 
 ## Examples
 -

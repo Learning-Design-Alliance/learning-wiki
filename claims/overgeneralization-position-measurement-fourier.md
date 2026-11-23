@@ -73,3 +73,4 @@ On a written Fourier-transform question about a delta-function wave packet incid
 - [Item refinement revealed students conflating quantum states with measurement probabilities and overgeneralizing circuit behavior from basis states](students-conflate-state-with-measurement-probabilities.md) — related
 - [Students use the deciding resource from personal relationships to interpret quantum collapse, as reported by Rosenberg](deciding-resource-personal-relations-quantum.md) — related
 - [Students risk acquiring the misconception that all multidimensional wave functions are separable when taught only separable solutions](multidimensional-wavefunctions-separable-misconception.md) — related
+- [No quantum mechanics textbook fully describes how to measure the momentum of a particle in a clear way, and imprecise language makes most instruction incomplete](no-textbook-fully-describes-momentum-measurement.md) — related

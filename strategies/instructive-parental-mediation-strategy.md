@@ -49,6 +49,7 @@ The article recommends that parents adopt instructive mediation — communicatin
 ## Related Strategies
 
 - [Utilize Text Messaging for Parent Engagement](utilize_text_messaging_for_parent_engagement.md)
+- [Use three parental mediation strategies—active mediation, restrictive mediation, and non-intrusive inspection—to reduce cyberbullying exposure among teenagers](parental-mediation-three-strategies-cyberbullying.md)
 
 ## Examples
 -

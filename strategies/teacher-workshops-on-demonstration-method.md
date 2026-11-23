@@ -50,6 +50,7 @@ Among the article's recommendations, teachers should be sponsored by government 
 - [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 - [Provide economics teachers with in-service training, workshops, seminars and conferences on method selection](in-service-training-economics-teachers-methods.md)
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
+- [Use in-service training to increase teacher knowledge, skills, and confidence, funded through BOS budget slots](in-service-training-bos-funding-teacher-competence.md)
 
 ## Examples
 -

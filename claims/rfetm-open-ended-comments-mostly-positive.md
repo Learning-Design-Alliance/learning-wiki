@@ -49,3 +49,4 @@ Qualitative analysis of students' open-ended comments, classified by keywords in
 - [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related
 - [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related
 - [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](ejs-u-tube-simulation-positive-survey-feedback.md) — related

@@ -50,6 +50,9 @@ Sonification — presenting astronomical data as sound — is recommended for ou
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 - [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
 - [Teach the sonification mapping process explicitly, as audiences unfamiliar with sonification as data representation misunderstand it](educate-listeners-on-sonification-process.md)
+- [Design sonifications with culturally inclusive aesthetics by mixing timbres, styles and temperaments](culturally-inclusive-sonification-aesthetics.md)
+- [Provide context, description and repeated listening for sonifications, and introduce ear training from primary school](ear-training-for-sonification-literacy.md)
+- [Combine sonification training courses with sonoUno use to strengthen both the technique and the tool](sonouno-sonification-training-courses-strategy.md)
 
 ## Examples
 -

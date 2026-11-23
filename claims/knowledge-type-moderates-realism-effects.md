@@ -72,3 +72,4 @@ The review's synthesis of Table 2 studies (e.g., Kaminski and Sloutsky 2013; McN
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](realism-signaling-drastic-contrast.md) — a narrower finding that bears on this claim
 - [Elementary students' internal thinking in geometry involves two types of abstraction: process and product](abstraction-process-product-types.md) — related
+- [Over-realistic visualizations of quantum phenomena are perceived as true to life and hinder abstraction, motivating abstract haptic representations](over-realistic-quantum-visualizations-hinder-abstraction.md) — a narrower finding that bears on this claim

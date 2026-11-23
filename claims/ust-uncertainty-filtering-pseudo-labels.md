@@ -65,4 +65,4 @@ The article adds that although Bot-256 attains QWK comparable to Bal-256, the ba
 
 
 ## Related Claims
--
+- [A confidence-based secondary sampling procedure estimates post-sampling accuracy and QWK with a 95% statistical guarantee using a sample of 200 candidates](sampling-based-estimation-accuracy-qwk-guarantees.md) — related

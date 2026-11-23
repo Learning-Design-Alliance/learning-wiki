@@ -51,6 +51,7 @@ The article prescribes concrete classroom uses for its videos. For the viscosity
 - [Six motivations for adding online video to lectures: impractical demonstrations, controlling time, visualisations, question setters, back-up for live demonstrations, and humour and interest](six-motivations-online-video-lectures.md)
 - [Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life](immersive-vr-for-hard-to-experience-phenomena.md)
 - [Pair student-collected video datasets from physical home-buildable apparatus with PhET and/or oPhysics simulations in online labs](video-dataset-labs-plus-simulations-online-em.md)
+- [Reuse pandemic-produced laboratory demonstration videos as a data source for deeper quantitative analysis in distance-learning physics labs](reuse-demonstration-videos-as-data-source-strategy.md)
 
 ## Examples
 -

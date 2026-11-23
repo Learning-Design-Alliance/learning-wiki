@@ -65,6 +65,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Integrate laparoscopic Anubifix™-embalmed human models into mandatory surgical anatomy courses](integrate-anubifix-models-mandatory-anatomy-courses.md)
 - [Position INVEST as an integrated component of a staged laparoscopic curriculum, not a stand-alone curriculum](invest-within-staged-laparoscopic-curriculum.md)
 - [Two-stage sequence: manual box-counting first, computational tool second](two-stage-manual-then-computational-sequence.md)
+- [Build space test proficiency through simulators first, then shadowing by seasoned operators during high-tempo activities (the backseat IP model)](simulator-then-backseat-ip-space-test-training.md)
 
 ## Examples
 -

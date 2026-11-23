@@ -59,3 +59,4 @@ Comparison of 30 instructors and 25 graduate students in a TA training course ag
 - [Prior studies using the same method found TAs' knowledge of alternate conceptions is context dependent and that TAs struggled more with the CSEM than the FCI or TUG-K](prior-ta-pck-studies-context-dependence-csem.md) — related
 - [TAs' ability to identify student alternate conceptions related to the work-kinetic energy theorem is context dependent, ranging from 90% on Q24 to 36% on Q25](ta-pck-work-ke-theorem-context-dependent.md) — related
 - [Physics TAs' average normalized PCK score across the full EMCS was 58%, with scores distributed close to normal and 90% of TAs between 45% and 75%](ta-emcs-pck-average-58-percent.md) — related
+- [Teachers whose profession involves teaching or training others perform better as agent trainers](teaching-experience-better-agent-trainer.md) — related

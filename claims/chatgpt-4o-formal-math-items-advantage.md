@@ -52,3 +52,4 @@ Quantitative item-level comparison between ChatGPT-4o (coded by meaning) and the
 - [Right-hand-rule tasks are especially difficult for ChatGPT-4o, which states the rule correctly but applies it incorrectly in most cases](right-hand-rule-application-failure-chatgpt-4o.md) — related
 - [ChatGPT-4o's BEMA errors fall into three difficulty types, with spatial coordination of representations and rules the most prevalent](three-chatbot-difficulty-types-bema.md) — related
 - [Item characteristics associated with LLM-human discrepancy on multimodal OSPE items cluster into three mechanisms: non-standard histological staining, 3D spatial reasoning from 2D images, and semantic inflexibility in short-answer evaluation](llm-ospe-divergence-mechanisms.md) — related
+- [ChatGPT-4o shows the overall best TUG-K performance, outperforming all other tested chatbots including its subscription-based counterpart ChatGPT-4](chatgpt-4o-best-tug-k-performance.md) — related

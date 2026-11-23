@@ -27,6 +27,7 @@ A Mathematica toolkit comprising a prior-research table, target-setting guide, s
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template**: The page lists companion publications released alongside the template in February 2023: a Prior Research Table, a "Guide to Setting Targets for Research Questions", a "Sample Size Guide", and a Measurement and Evaluation Reporting Template. Together with the plan template, these form a toolkit covering prior evidence, target setting, sample sizing, and reporting for organizations developing M&E plans. (Kate Place et al. (2023))
+- **A curated collection of Mathematica example notebooks covering finite, compact and non-compact group theory**: The article provides a numbered list of Mathematica notebooks organized into three parts: Finite Groups (e.g. "C4v Character Table.nb", "Symmetric Group.nb"), Compact Groups (e.g. "Introduction to SU2.nb", "SU3 products.nb"), and Non-compact Groups (e.g. "Lorentz 4D.nb", "Poincare.nb"). Each notebook is mapped to the chapters it supports, and some are labelled "Example Notebook". The notebooks demonstrate specific group-theory concepts and are meant to be run alongside the text. (Ananthanarayan et al. (2024))
 
 ### Claims
 - [Using a shared reporting template across funded organizations promotes continuity and cross-solution comparison of reports](../claims/shared-template-promotes-cross-report-continuity.md) [+W]
@@ -36,8 +37,8 @@ A Mathematica toolkit comprising a prior-research table, target-setting guide, s
 
 ## Key Sources
 - Kate Place, Gregory Chojnacki, Virginia Knechtel, Andy Gothro, Megan Shoji, Lindsay Fox. (2023). Measurement and Evaluation Plan Template. Mathematica. https://www.mathematica.org/publications/measurement-and-evaluation-plan-template
-
 <!-- merged 2026-10-10 from elements/me-plan-companion-publications-suite ("Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Ananthanarayan, B., Das, S., Lahiri, A., Sheikh, S., & Talukdar, S. (2024). Group Theory in Physics: An Introduction with Mathematica. https://arxiv.org/abs/2408.01441
 
 # Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template
 

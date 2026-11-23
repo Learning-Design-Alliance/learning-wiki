@@ -52,6 +52,7 @@ The article recommends that regional organisations partner with established outr
 - [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
 - [Deploy offline SLMs as virtual tutors with native-language localization for physics and photonics education in low-connectivity regions](slm-offline-native-language-tutors.md)
 - [Use professional exchange programs and technology-supported CME to extend ID training beyond local provision](exchange-programs-and-cme-technology-id-training.md)
+- [Distribute prerecorded multilingual tutorials to mitigate internet cost and language barriers in online citizen science](pacselab-prerecorded-multilingual-tutorials.md)
 
 ## Examples
 -

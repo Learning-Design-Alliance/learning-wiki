@@ -44,7 +44,8 @@ The article recommends that teachers use IBM quantum experience — quantum comp
 - understand entanglement and its applications
 
 ## Related Strategies
-- 
+
+- [Measure arbitrary spin directions on quantum hardware by applying rotation gates that map the desired eigenvectors onto the computational basis](rotation-gate-basis-change-measurement-strategy.md)
 
 ## Examples
 -

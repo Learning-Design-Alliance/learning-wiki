@@ -52,3 +52,4 @@ Theoretical argument in Section 2.3 about monolithic architectures: the authors 
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
 - [Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems](prompt-based-constraint-dominant-enforcement.md) — related
 - [Leveraging existing OS mechanisms (script recording, accessibility interfaces) for tutoring is problematic for widespread deployment](os-mechanism-tutoring-deployment-problematic.md) — related
+- In a 2-task vizdoom 3D environment, the multi-RDM architecture delivers significantly higher average planning rewards than the monolithic dynamics model in both tasks — a narrower finding that bears on this claim

@@ -48,6 +48,8 @@ The authors recommend that teaching-learning sequences challenge students to cal
 ## Related Strategies
 
 - [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
+- [Use a charge moving in a straight line as an application of the AM law and displacement current, suitable as a tutorial introduction to the law](moving-charge-am-law-tutorial-example.md)
+- [Use multiple-surface analyses with TIPER-style tasks (Ranking Tasks, Conflicting Contentions, What, if anything, is Wrong Tasks) to challenge student ideas about the Ampère-Maxwell law](multi-surface-tiper-tasks-am-law.md)
 
 ## Examples
 -

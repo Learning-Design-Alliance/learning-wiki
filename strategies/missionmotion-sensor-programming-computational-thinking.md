@@ -47,6 +47,7 @@ The article proposes using ultrasonic sensors on micro:bit or Arduino to design 
 
 - [Evaluate gamified kinematics interventions with a standardized conceptual test such as the modified TUG-K in a controlled design](missionmotion-tug-k-controlled-evaluation-plan.md)
 - [Use the phyphox Arduino/MicroPython libraries so educators and learners with rudimentary programming knowledge can build app-connected experiments](phyphox-libraries-teaching-strategy.md)
+- [Lend students a sensor-equipped nano board to expand at-home physics experiments while protecting their smartphones](lend-nano-board-at-home-experiments-strategy.md)
 
 ## Examples
 -

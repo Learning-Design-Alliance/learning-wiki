@@ -50,3 +50,4 @@ Implementation data from the 12-month crossover study, in which training was del
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — a broader claim this one bears on
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
 - [In situ fall simulation can be run within a typical nursing home shift, averaging 16.3 minutes including debrief](in-situ-fall-simulation-feasible-within-shift.md) — related
+- Published short articles achieve a mean reading time of 2 minutes 12 seconds, matching the project's two-minute goal — related

@@ -51,3 +51,4 @@ Matched pre/post diagnostic test data from Fall-1997 (N=92) in a second-semester
 - [MCMR answer options trigger additional explanations that students do not produce spontaneously on free-response wave questions](mcmr-options-trigger-additional-explanations.md) — related
 - [Few students talk about flicking the wrist harder when predicting how to increase the speed of sinusoidal waves](few-students-flick-harder-sinusoidal-waves.md) — related
 - [Undergraduates using an exploratory wave simulation outperformed a traditional-laboratory control group on retention of the medium-speed relationship eleven weeks later](exploratory-simulation-retention-outperforms-traditional-lab.md) — related
+- [Textbook circle representations of waves do not convey that wave speed is unchanging in a medium](circle-representation-hides-unchanging-wave-speed.md) — related

@@ -48,3 +48,5 @@ Edit-confidence filtering evaluation (Section 5.5, Table 6). Thresholds swept fr
 ## Related Claims
 - [Strong GEC reference alignment yields the highest feedback F0.5 (43.69 on LNG, 45.96 on S&I), a 6.4% and 7.8% relative improvement, and is the first approach enabling an end-to-end SGEC system to surpass the partial-cascaded baseline in feedback quality](reference-alignment-boosts-sgec-feedback-f05.md) — related
 - [Prompt-conditioned end-to-end SGEC, conditioning on a fluent transcription during training and inference, improves WER modestly and raises feedback Precision by 3.54 on LNG and 3.69 on S&I over the non-prompted model](prompt-conditioned-sgec-improves-feedback-precision.md) — related
+- [The Speak & Improve Challenge 2025 is the first shared task to address spoken GEC and holistic spoken language assessment](first-shared-task-spoken-gec-and-sla.md) — related
+- [The baseline SGECF system detects and labels learner error types at an overall ERRANT F0.5 of 0.22, with preposition replacement errors best detected](s-i-2025-baseline-sgecf-f05-0-22.md) — related

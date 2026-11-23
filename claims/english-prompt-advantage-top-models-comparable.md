@@ -54,3 +54,4 @@ GEE comparison of the two prompt scenarios (English vs language-matched system a
 - [LLM accuracy on multilingual medical multiple-choice questions varies substantially by model, with Claude-Sonnet-3.7 highest (87%) and open models lowest (64%-73%)](llm-accuracy-varies-by-model-medical-mcq.md) — a broader claim this one bears on
 - [LLM accuracy on medical multiple-choice questions is significantly lower for Italian than German questions, with no significant German-French difference](question-language-effect-german-best-italian-lower.md) — related
 - [The EN→EN hint generation strategy yields the highest average student gains across setups](en-to-en-hint-strategy-highest-gains.md) — a narrower finding that bears on this claim
+- English prompts outperform Italian prompts when generating Italian crossword clues from Italian text — a narrower finding that bears on this claim

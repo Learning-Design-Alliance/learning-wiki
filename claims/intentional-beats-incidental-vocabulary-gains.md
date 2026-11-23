@@ -63,3 +63,4 @@ The review reports, citing Peters et al. (2009), a direct comparison showing inc
 - [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — a narrower finding that bears on this claim
 - [Intentional learning outperformed incidental learning on durability of initially learned collocations](intentional-learning-durability-collocations.md) — a narrower finding that bears on this claim
 - [Intentional learning enabled learning of collocations not learned after first exposure](intentional-learning-new-collocations.md) — a narrower finding that bears on this claim
+- [A teacher's word choices in demonstrations affect students' word-specific learning efficiency: masking words from demonstrations slows their acquisition](teacher-word-choices-affect-student-acquisition.md) — related

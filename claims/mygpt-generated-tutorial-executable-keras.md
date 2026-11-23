@@ -48,3 +48,4 @@ Tutorial validation (Section 3): MyGPT, given structured reference materials, ge
 - [Providing URLs alone left the MyGPT PHYSBO tutor inaccurate, while uploading official documentation PDFs substantially improved response accuracy](mygpt-pdf-upload-improves-accuracy.md) — related
 - [ANN prediction accuracy depends on hidden-node count, with 9 hidden nodes optimal and larger or smaller configurations showing overfitting or underfitting](hidden-node-count-ann-overfitting-underfitting.md) — related
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related
+- Systematic grid-search hyperparameter tuning improved the Siamese network's text-similarity accuracy — related

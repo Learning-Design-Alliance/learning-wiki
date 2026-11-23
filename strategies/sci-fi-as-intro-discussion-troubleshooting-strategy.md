@@ -43,6 +43,7 @@ The article recommends deploying literary works flexibly across levels: "as intr
 - [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 - [Supplement existing lab activities with explicit instruction about troubleshooting strategies](supplement-labs-with-explicit-troubleshooting-instruction.md)
 - [Through the Eyes of the People in a Story](through_the_eyes_of_the_people_in_a_story.md)
+- [Use fiction with balanced scientist portrayals as topic starters and discussion vehicles in science education](fiction-as-science-topic-starter-strategy.md)
 
 ## Examples
 -

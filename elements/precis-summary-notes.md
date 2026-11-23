@@ -18,7 +18,7 @@ sources:
 # Precis summary notes placed alongside the basic text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Concise summary notes placed alongside the basic text that explain key concepts, key terminology, and key questions. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," making precis summaries one of the highest-rated aids in the study's student reactions.
@@ -39,6 +39,7 @@ Concise summary notes placed alongside the basic text that explain key concepts,
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [For EU health-sciences students, answering questions from AI-generated short summaries took significantly less time than reading full abstracts in both use cases](../claims/eu-students-ai-summaries-faster-screening.md) [+W] — attached 2026-11-23 from Gregor Stiglic et al. (2023), which proposed "TLDR extreme summaries generated with CATTS for rapid literature screening"; tests this page's relationship.
 
 ## Related Elements
 

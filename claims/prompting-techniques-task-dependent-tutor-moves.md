@@ -56,3 +56,4 @@ Authors' iterative trial-and-error prompt-engineering observations from the Insi
 - [AskBD is highly compatible with chain-of-thought prompting, and the combination achieves the best overall error detection performance](askbd-compatible-with-cot.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [Chain-of-thought prompting modestly improves case consistency and completeness but reduces controlled disclosure](cot-prompting-reduces-controlled-disclosure.md) — related
+- [General-domain coding instruction alone boosts PoT math performance, but mixing it with Math-Code reduces effectiveness relative to Math-Code alone](general-code-limited-benefit-math-reasoning.md) — related

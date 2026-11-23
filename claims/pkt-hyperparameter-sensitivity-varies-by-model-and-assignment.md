@@ -58,3 +58,4 @@ Analysis of hyperparameter sensitivity for Code-DKT and ECKT (Section 3.3) on Co
 - [Students' strategy use is partly context-specific and partly individual-bound, varying across courses yet consistent over courses](strategy-use-context-specific-and-individual-bound.md) — related
 - [Ability trajectories were remarkably stable across chapters, with chapter-to-chapter stochastic variation only about 5% of the between-cluster ability range](ability-trajectory-stability-online-statistics.md) — related
 - [Weight normalization substantially improves robustness to hyperparameters and final learner performance in meta-gradient training of GTNs](weight-normalization-stabilizes-meta-gradient-gtn-training.md) — related
+- Systematic grid-search hyperparameter tuning improved the Siamese network's text-similarity accuracy — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/name-generator-type-produces-different-networks.md
+---
+
+# Revision history: [claims/name-generator-type-produces-different-networks](../claims/name-generator-type-produces-different-networks.md)
+
+### 2026-11-23 · ingest · process:wiki-ingest
+Ingested from arxiv-2402.02942 (Person-centered and qualitative approaches to network analysis in physics education research) via eval_harness.py + ingest_extractions.py

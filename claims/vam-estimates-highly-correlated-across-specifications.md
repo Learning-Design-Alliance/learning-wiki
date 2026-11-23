@@ -64,3 +64,4 @@ Observational analysis of teacher value-added estimates under multiple model spe
 - [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related
 - [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — related
 - [Allowing achievement data to be missing not at random has little impact on estimated teacher effects in value-added modeling, with MNAR and MAR estimates correlating at 0.98 or better](mnar-little-impact-teacher-effect-estimates.md) — related
+- [School effects from different VAMs correlate highly but individual schools, especially grammar schools, can be dramatically affected by each set of adjustments](vam-school-effect-correlations-high-but-schools-shift.md) — related

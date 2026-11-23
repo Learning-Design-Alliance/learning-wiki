@@ -48,3 +48,4 @@ Descriptive survey result reported in the discussion and illustrated by the pie 
 ## Related Claims
 - [PACS e-Lab's asteroid search campaign engaged about 595 citizen astronomers from 58 teams in 40 African countries](pacselab-595-citizen-scientists-40-countries.md) — related
 - [Over 60 PACS e-Lab-affiliated citizen scientists have made 32 provisional asteroid discoveries, most working in teams](pacselab-32-provisional-asteroid-discoveries.md) — related
+- [Asteroid search is the leading PACS e-Lab project by participation, partly because it is a prerequisite for other projects](pacselab-asteroid-search-leading-project.md) — possibly the same claim (merge candidate)

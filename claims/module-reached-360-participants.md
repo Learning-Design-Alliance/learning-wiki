@@ -50,3 +50,4 @@ Conclusions section reporting the module's use across HSF & IRIS-HEP training ev
 - [Most training-event registrants had never heard of most Apptainer commands and concepts before training](pre-survey-no-apptainer-exposure.md) — related
 - [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related
 - [Post-training surveys showed a visible increase in participants' self-reported familiarity with core Apptainer commands](post-survey-familiarity-increase.md) — related
+- [HEP community software training programs have trained over 1500 learners across career stages in three years](hep-software-training-1500-trained-3-4-years.md) — a broader claim this one bears on

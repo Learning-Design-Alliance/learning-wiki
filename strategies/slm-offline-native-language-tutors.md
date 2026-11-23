@@ -57,6 +57,7 @@ The article recommends using SLMs as on-demand, offline virtual tutors on laptop
 - [Adapt domain tutors from large language models with LoRA-based PEFT on accessible cloud GPUs](lora-peft-domain-tutor-adaptation-strategy.md)
 - [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
 - [Partner ARISS-style contact programs with digital citizen-science platforms to overcome infrastructural barriers to STEM outreach in underrepresented regions](citizen-science-platform-partnership-stem-outreach-strategy.md)
+- [Distribute prerecorded multilingual tutorials to mitigate internet cost and language barriers in online citizen science](pacselab-prerecorded-multilingual-tutorials.md)
 
 ## Examples
 -

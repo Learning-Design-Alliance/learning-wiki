@@ -49,6 +49,7 @@ The article proposes that emergency medicine simulation content be selected by f
 ## Related Strategies
 
 - [Develop simulation cases from an informal needs assessment of local ED census and staff input, keeping cases uncomplicated for simulation-naive learners](local-needs-assessment-case-development.md)
+- [Use a real-life forensic physics case as problem-based inquiry material in undergraduate physics courses](forensic-physics-case-pbl-strategy.md)
 
 ## Examples
 -

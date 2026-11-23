@@ -76,3 +76,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Students produced ten self-chosen particle-physics projects, which the authors read as evidence of acquired basic knowhow for designing and developing products](lidyef2018-ten-student-projects.md) — related
 - [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — related
 - [A sixth-grade student's depiction of the decibel scale's factor-ten increase, absent from textbook and instruction, suggests cognitive transfer from mathematics class](decibel-scale-cognitive-transfer-math-class.md) — related
+- [Students found the fractal drum project challenging but motivating, and reported that its scope and difficulty improved their confidence in their own coding abilities](fractal-drum-project-student-confidence-motivation.md) — related

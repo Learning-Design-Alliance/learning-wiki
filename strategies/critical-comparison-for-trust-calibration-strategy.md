@@ -53,6 +53,7 @@ Because neither Socratic condition changed trust or perceived competence, the au
 - [Design AI-assisted activities that require students to explain reasoning and evaluate AI outputs against disciplinary criteria](ai-assisted-activities-requiring-explanation-and-evaluation.md)
 - [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
 - [Improve AI-assisted microlearning tools with transparency, instructor review, and navigation and note-taking features](reelsed-design-improvement-strategies.md)
+- [Develop verifiable and trustworthy model explanations that let humans judge correctness](verifiable-trustworthy-model-explanations-strategy.md)
 
 ## Examples
 -

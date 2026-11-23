@@ -138,6 +138,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
 - [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](../designs/field-day-embedded-assessment-unit.md)
 - [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](../strategies/embedded-evidence-gathering-without-separate-tests.md)
+- [Layered assessment strategy combining diagnostic pre-tests, formative observation, immediate summative assessment, and delayed reflective assessment](../strategies/layered-lab-assessment-diagnostic-formative-summative-reflective.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

@@ -77,3 +77,4 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [The Children's University intervention was feasible to run with school-leader support, but seven schools withdrew citing performance-target pressures and limited time](cu-implementation-feasibility-and-withdrawals.md) — related
 - [Staff perception of REACT as research rather than a clinical initiative impeded long-term uptake](react-perceived-as-research-impeded-uptake.md) — related
 - [Program leadership responded to shared findings by requesting follow-up meetings to discuss feasibility of prospective action items](program-leadership-collaborated-on-action-items.md) — related
+- [Volunteer-based EDI work proved hard to sustain: the planned MDN 'playbook' of EDI practices was abandoned for lack of time, and the network pivoted to monthly-meeting and Slack knowledge sharing](mdn-volunteer-burden-playbook-abandoned.md) — related

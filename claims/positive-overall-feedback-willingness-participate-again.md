@@ -53,3 +53,4 @@ Descriptive feedback from the 76-answer questionnaire: 66 students (86.8%) would
 - [Students reported high satisfaction with the practice tool (M = 4.1/5 ease of use), and 76.3% said they would use it again, validated by a 76% voluntary adoption rate](high-satisfaction-voluntary-adoption-practice-tool.md) — related
 - [98.7% of participants were willing to apply the virtual-environment technology in other subjects, and 93.5% rated the material as excellent or good](virtual-material-high-ratings-and-transfer-willingness.md) — related
 - [A majority of participants in both groups said they would play the game again and would be open to using such a game in their own future classrooms](majority-willing-reuse-game-future-classrooms.md) — related
+- 94% of all participants and 100% of African-affiliated/origin participants said they would be interested in attending a similar conference in future — related

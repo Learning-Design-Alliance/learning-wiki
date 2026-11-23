@@ -49,6 +49,7 @@ A lecture strategy for teaching single-photon, delayed-choice, and single-electr
 ## Related Strategies
 
 - [Develop sophisticated experiments that build on students' prior lecture coursework](experiments-build-on-prior-lecture-coursework.md)
+- [Modernize quantum instruction by including how to measure the momentum of a single quanta and by teaching measurement beyond the von Neumann paradigm](modernize-quantum-instruction-real-measurements.md)
 
 ## Examples
 -

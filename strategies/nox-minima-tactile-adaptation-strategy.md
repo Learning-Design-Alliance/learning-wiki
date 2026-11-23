@@ -45,6 +45,7 @@ The dome's tangible format makes it adaptable for tactile perception. When print
 
 - [Augment 3D tactile prints with audio, colored light, and heat cues for features such as stars and galaxy centers](multimodal-augmentations-audio-light-heat.md)
 - [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
+- [Switchable dome design moving from purely perceptual to quantitative representation after usability evaluation](switchable-perceptual-quantitative-dome-strategy.md)
 
 ## Examples
 -

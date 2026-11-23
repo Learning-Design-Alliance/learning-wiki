@@ -51,3 +51,4 @@ Cross-validation experiments (10-fold) with SVM (SMO) and BERT-based/Longformer-
 - [Multilingual XLM-Longformer fine-tuning fails on Basque and Spanish science corpora while the English Longformer succeeds](xlm-longformer-fails-basque-spanish.md) — related
 - [Linguistic complexity features show few clear progressions across ESO grades in the compiled science corpora](linguistic-features-lack-grade-progressions-science-corpora.md) — related
 - [A fine-tuned SBERT Transformer SAG model for German approximates but does not beat hand-crafted feature-based models in unseen-question evaluation](german-transformer-sag-approximates-feature-models.md) — related
+- Fine-tuned GPT4o achieves the best classification of documentary-review impact and sentiment, outperforming transformer and traditional ML baselines — related

@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (129 show a difference, 40 mixed, 14 no difference) · 112 studies (32 associational, 23 review, 21 qualitative, 15 causal, 9 design, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 11 of 112 report an effect size · 183 claims rest on one study
+> **Evidence** · 186 claims (132 show a difference, 40 mixed, 14 no difference) · 113 studies (32 associational, 23 review, 21 qualitative, 15 causal, 9 quant-synthesis, 9 design, 4 theoretical), `q1`–`q4` · 11 of 113 report an effect size · 186 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -219,6 +219,9 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Marginally significant diagnosis x H/E interactions for spelling and sentence comprehension show positive slopes in unaffected youth but flat slopes in NSSD youth](../claims/academic-interaction-flat-slope-nssd.md) [~M] — learners who differ on it differ in outcomes
 - [Neighborhood health/environment advantage is associated with better working memory in youth with NSSD but not in unaffected youth](../claims/coi-he-working-memory-interaction-nssd.md) [~M] — learners who differ on it differ in outcomes
 - [The depression–attainment association may be partly mediated by peer victimization, school connectedness, social competence, and social support](../claims/social-school-factors-mediate-depression-attainment.md) [~M] — learners who differ on it differ in outcomes
+- [Cyberbullying victimization is associated with social withdrawal in approximately 40% to 60% of victims, a 15% to 25% higher rate of academic issues, and sleep disturbances in approximately 35% to 55% of victims](../claims/cyberbullying-social-academic-physical-harms.md) [+M] — learners who differ on it differ in outcomes
+- [In a forest plot of intervention effectiveness, all listed interventions show negative effect sizes, with Real-Time Monitoring in High Schools and Digital Literacy in Colleges showing larger and more consistent negative effects](../claims/forest-plot-all-interventions-negative-effect-sizes.md) [+M] — measured as an outcome of the instruction studied
+- [Intervention programs show a moderate but significant effect on reducing cyberbullying incidents, with school-based programs reducing rates by about 20% to 30% and digital literacy and monitoring tools reducing cyberbullying by up to 40%](../claims/cyberbullying-interventions-reduce-incidents-meta-analysis.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

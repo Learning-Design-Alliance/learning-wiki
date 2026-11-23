@@ -57,3 +57,4 @@ Illustrative quick test on a single item across 60 repetitions, not a systematic
 - [The same v–t graph is interpreted correctly in a native Google Doc but fails to parse when exported to default PDF](notebooklm-graph-parsing-docs-vs-pdf.md) — related
 - [GPT-5 Thinking scores 24/26 (92.3%) on the TUG-K v4.0 test of understanding graphs in kinematics](gpt5-thinking-tug-k-92-percent.md) — related
 - [LLM transcription of the FCI PDF omitted question parts, misnumbered items, and introduced formatting inconsistencies requiring manual correction](llm-pdf-transcription-formatting-errors.md) — related
+- [The Advanced Data Analysis plug-in did not consistently improve ChatGPT-4's TUG-K performance](ada-plugin-no-consistent-tug-k-improvement.md) — related

@@ -49,3 +49,4 @@ Numerical training result from the Results section of the MLP lecturer-performan
 - [MLP training loss decreases significantly in the first epochs and then stabilizes, which the authors read as the model learning to generalize](mlp-training-loss-decreases-then-stabilizes.md) — related
 - [An MLP model trained on lecturer evaluation metrics achieves a test MAE of 13.76 and test MSE of 256.99 in predicting lecturer performance](mlp-lecturer-performance-test-mae-13-76-mse-256-99.md) — related
 - [The trained MLP demonstrates an estimated accuracy rate of approximately 96% in predicting lecturer performance](mlp-lecturer-prediction-accuracy-96-percent.md) — related
+- Models trained on augmented data converge to the best model in fewer epochs than models trained on original data — related

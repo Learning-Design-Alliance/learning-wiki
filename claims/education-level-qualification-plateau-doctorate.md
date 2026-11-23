@@ -56,3 +56,4 @@ Multivariate logistic regression in the 1916-participant cross-sectional study f
 - [Teachers lacking nutrition education background were less likely to teach nutrition](nutrition-education-background-predicts-teaching.md) — related
 - [Higher education level and intention to receive training are associated with lower confidence in coping with patient aggression](education-level-lower-confidence-coping.md) — related
 - [CFQT proficiency levels are aligned with the EQF, linking level B2 to bachelor, C1 to master and C2 to doctoral programs, though the mapping is not one-to-one](cfqt-eqf-alignment-levels-to-degree-cycles.md) — related
+- [Despite 90% of South Bangka teachers holding at least a Bachelor's degree, the average Teacher Competency Test (UKG) score is only 47](south-bangka-ukg-47-despite-90-percent-bachelors.md) — related

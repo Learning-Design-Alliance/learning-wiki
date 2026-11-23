@@ -71,6 +71,7 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 - [Alternate student work forms: small groups, brainstorming, and oral presentation in project work](alternate-work-forms-small-groups-brainstorming.md)
 - [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
 - [Inquiry-based student research projects following Intel ISEF Science Fair guidelines using geospatial technologies](inquiry-projects-intel-isef-gst-strategy.md)
+- [Capstone in which teams connect galaxy case studies to reveal galaxy formation and evolution pathways](galaxy-evolution-connect-the-dots-capstone.md)
 
 ## Examples
 - **Project Citizen** (Center for Civic Education, https://www.civic-ed.org) — class teams identify a community problem, research policy alternatives, and present a portfolio and hearing before civic panels.

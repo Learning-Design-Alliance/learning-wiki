@@ -49,3 +49,4 @@ Authors' argument in the section on what ML/DS education offers HEP research, wi
 - [Instructors' oral evaluations at final presentations indicated junior and senior undergraduates could access HEP data analysis](cutlang-school-oral-evaluations-accessibility.md) — related
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related
 - [Team teaching with instructor disagreement refined the material, though some students disliked watching professors disagree](team-teaching-instructor-disagreement.md) — related
+- [Career paths at the intersection of physics and machine learning remain tenuous, with few physics-department ML courses and thesis work in ML often not accepted as physics](physics-ml-career-path-tenuous.md) — related

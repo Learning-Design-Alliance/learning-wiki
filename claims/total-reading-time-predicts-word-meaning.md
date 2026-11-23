@@ -49,3 +49,4 @@ The same growth curve analysis of the eye-tracking reading data showed that "tot
 - [Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning](exposure-frequency-strongest-predictor-vocabulary-learning.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
+- [A practice-makes-perfect effect: word frequency in student trials strongly correlates with the words' learning curves](trial-frequency-practice-makes-perfect.md) — related

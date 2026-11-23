@@ -47,3 +47,4 @@ The article reports this as background motivation, citing the TIMSS 2011 survey;
 
 ## Related Claims
 - [Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings](shanghai-first-place-pisa-2009-all-categories.md) — related
+- [Hasil Indonesia pada studi internasional PIRLS, PISA, dan TIMSS konsisten menempatkan negara pada peringkat nyaris terendah](peringkat-nyaris-terendah-pirls-pisa-timss.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Reported student perception from the authors' programme experience, with no surv
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
+- [Students found the fractal drum project challenging but motivating, and reported that its scope and difficulty improved their confidence in their own coding abilities](fractal-drum-project-student-confidence-motivation.md) — related

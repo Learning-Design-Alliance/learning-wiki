@@ -52,3 +52,4 @@ Pedagogical decomposition (Table 5, ASSIST15 L=10, 3 seeds, 200 test learners) m
 - [Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective](expert-quality-over-imitation-objective.md) — related
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [Curriculum learning with easy-to-hard data ordering yields better final performance than shuffled vanilla learning on both benchmarks](yoda-curriculum-learning-improves-robustness.md) — related

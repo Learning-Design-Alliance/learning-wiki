@@ -49,6 +49,7 @@ The article recommends collaborative partnerships between 4YCs and under-resourc
 - [Build collaborative bridges between R1 institutions and R2/PUI/CC faculty](r1-r2-pui-cc-collaborative-bridges.md)
 - [Partner with minority-serving institutions as equal partners to learn expertise in creating equitable outcomes](partner-with-minority-serving-institutions.md)
 - [Design projects with a directed science goal over a defined parameter space, work as a cohort, and engage an external evaluator to measure program impact](directed-science-goal-cohort-evaluation-strategy.md)
+- [Build collaboration models that let PUI and community college faculty lead front-line HEP research with their students](pui-cc-faculty-collaboration-strategy.md)
 
 ## Examples
 -

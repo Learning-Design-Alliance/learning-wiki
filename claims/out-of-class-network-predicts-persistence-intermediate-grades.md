@@ -49,3 +49,4 @@ Likelihood ratio tests on logistic regression models of persistence in the Model
 - [Final grade positively predicts persistence overall, but grades in the middle of the pack show no statistically significant correlation with persistence](final-grade-predicts-persistence-except-intermediate.md) — related
 - [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
 - [Midterm scores proxy final grades for predicting persistence overall, but within the intermediate group the midterm-persistence correlation is not statistically significant](midterm-proxy-fails-intermediate-group.md) — related
+- [Students more central in meaningful-interaction networks were more likely to continue in physics (Zwolak and collaborators, 2017)](centrality-predicts-physics-persistence-zwolak-2017.md) — related

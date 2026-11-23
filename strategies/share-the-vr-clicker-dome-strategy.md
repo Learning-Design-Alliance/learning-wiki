@@ -46,6 +46,7 @@ The article recommends using a fullsphere movie (VR360) in a planetarium dome ra
 
 - [Teach observer-position effects explicitly and show the allocentric perspective in the planetarium dome](teach-observer-position-and-allocentric-view-strategy.md)
 - [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
+- [Switchable dome design moving from purely perceptual to quantitative representation after usability evaluation](switchable-perceptual-quantitative-dome-strategy.md)
 
 ## Examples
 -

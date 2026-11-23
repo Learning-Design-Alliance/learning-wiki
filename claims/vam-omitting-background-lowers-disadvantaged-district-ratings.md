@@ -55,3 +55,4 @@ Cross-specification comparison of teacher ratings for a district with many disad
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](background-less-related-promotion-power-than-status.md) — related
 - [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — related
+- [Omitting student prior achievement from any VAM dramatically changes school effects, so different schools would be judged effective and ineffective](omitting-prior-achievement-changes-school-effects.md) — related

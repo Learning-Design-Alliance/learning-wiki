@@ -44,7 +44,8 @@ The article proposes exploiting the mathematically simple and clear example of d
 
 
 ## Related Strategies
-- 
+
+- [Draw on constructive methods, educational software, and physical analogies such as the Dirac belt trick when teaching quaternions](quaternion-teaching-pedagogical-strategies-review.md)
 
 ## Examples
 -

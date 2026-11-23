@@ -64,6 +64,7 @@ Pre-reading storytelling works as a form of [Activation](../principles/activatio
 - [Anticipation Guides](../strategies/anticipation-guides.md) — a written complement that turns the story's dilemma into predictions learners verify while reading
 - [Read-Alouds](../strategies/read-alouds.md) — shares the oral-narrative delivery mode but occurs during rather than before reading
 - [Teach key story vocabulary through pictures and gestures before telling the story with visual support](preteach-story-vocabulary-pictures-gestures-visuals.md)
+- [Prepare readers somatically and by belief-position before assigning challenging equity content](somatic-reader-preparation-for-challenging-equity-content.md)
 
 ## Examples
 - Before reading an article on environmental conservation, an instructor tells a 3-minute personal story about witnessing pollution damage in a local creek, ending with "I didn't know then what I know now — and that's what this article explains."

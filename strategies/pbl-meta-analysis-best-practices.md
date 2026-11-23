@@ -47,6 +47,7 @@ This strategy distills the article's recommendations for conducting a PBL meta-a
 
 - [Computational search methods plus grey literature retrieval to identify early grade reading evidence and minimize publication bias](computational-search-and-grey-literature-strategy.md)
 - [Report research methods in full detail to enable replication](report-methods-for-replication-strategy.md)
+- [Authors should provide clear, labeled details about their empirical work to support replication and meta-analysis](clear-labeled-reporting-for-replication.md)
 
 ## Examples
 -

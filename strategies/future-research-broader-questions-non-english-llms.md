@@ -49,6 +49,7 @@ The review's forward-looking recommendations call for expanding evidence beyond 
 - [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
 - [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 - [Extend BCI exam evaluation beyond multiple-choice questions and adopt specialized EEG hardware](bci-exam-future-directions-strategy.md)
+- [Develop unified physics benchmarks and language-specific evaluations for LLMs](unified-physics-benchmarks-for-llm-evaluation.md)
 
 ## Examples
 -

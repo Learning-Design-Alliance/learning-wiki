@@ -49,6 +49,7 @@ The paper's instructional strategy is an undergraduate project in a basic comput
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Refer to resolution as a number or value and emphasize that small values detect fine details](resolution-as-number-value-language-strategy.md)
 - [Use the analog classical computer thought experiment with explicit floating-point discussion to teach the quantum-classical distinction](analog-classical-computer-thought-experiment-strategy.md)
+- [Teach computational physics through detailed step-by-step construction of a numerical solution to a challenging problem](step-by-step-numerical-solution-teaching-strategy.md)
 
 ## Examples
 -

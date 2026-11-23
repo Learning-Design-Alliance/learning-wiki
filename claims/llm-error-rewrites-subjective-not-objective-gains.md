@@ -53,3 +53,4 @@ Main Prolific experiment with 103 valid participants, each assigned one of four 
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related
 - [Using Eye for debugging data-structure programs reduces the fraction of debug time spent on a problem, with a marginal p-value of 0.0578](eye-reduces-debug-time-fraction.md) — related
 - [Response-style effectiveness varies far more in high-cognitive-load and debugging contexts than in conceptual contexts](effectiveness-range-larger-high-load-debugging-contexts.md) — related
+- Reviews rewritten with lazy thinking annotations outperform original reviews on constructiveness, justification, and adherence — related

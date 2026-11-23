@@ -50,6 +50,7 @@ The webinar defines algorithms as "precise step-by-step plans or procedures to m
 - [Sequencing familiar everyday tasks to teach order of instructions](../strategies/sequencing-everyday-tasks-k2.md)
 - [Ten-term algorithm vocabulary set for grades 3-8](../elements/algorithm-vocabulary-ten-terms-3-8.md)
 - [Follow a five-step modeling-to-analysis sequence when introducing numerical simulation of physical problems](../strategies/five-step-numerical-modeling-sequence.md)
+- [Teach computational physics through detailed step-by-step construction of a numerical solution to a challenging problem](../strategies/step-by-step-numerical-solution-teaching-strategy.md)
 
 ## Key Sources
 - Computational Thinking Boosters: Algorithms in K-2. (2021). Webinar presentation, NSF grant #1923314. https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923314

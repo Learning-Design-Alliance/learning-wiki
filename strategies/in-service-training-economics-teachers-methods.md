@@ -44,6 +44,7 @@ The article recommends that "Economics teachers should be given the opportunity 
 ## Related Strategies
 
 - [Sponsor teachers to attend workshops and seminars on the effective use of the demonstration teaching method](teacher-workshops-on-demonstration-method.md)
+- [Use in-service training to increase teacher knowledge, skills, and confidence, funded through BOS budget slots](in-service-training-bos-funding-teacher-competence.md)
 
 ## Examples
 -

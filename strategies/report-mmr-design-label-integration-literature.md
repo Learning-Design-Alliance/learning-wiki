@@ -41,7 +41,8 @@ Based on the review's identified weaknesses, authors of mixed methods articles s
 
 
 ## Related Strategies
-- 
+
+- [Authors should provide clear, labeled details about their empirical work to support replication and meta-analysis](clear-labeled-reporting-for-replication.md)
 
 ## Examples
 -

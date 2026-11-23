@@ -81,3 +81,5 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [Three-level skill classification provides more informative feedback than binary high/low classification but makes the task harder](three-class-skill-grading-more-informative-than-binary.md) — related
 - [Few-shot LLaMA significantly underperforms even the traditional bag of words approach for skill classification](few-shot-llama-underperforms-trained-models.md) — related
 - [LLMs outperform a PoS-based baseline and a random baseline on word-level CEFR prediction of L2 learner writing, with the largest gains on ambiguous words](llms-beat-pos-baseline-word-level-cefr.md) — related
+- [CLIP-RN50x64 is the best zero-shot model on STEM, outperforming GPT-3.5-Turbo by 5.9 percentage points, but math improves only marginally](clip-best-zero-shot-math-hardest.md) — related
+- Zero-shot LLMs struggle to identify lazy thinking classes, and target-segment-only input generally outperforms review-plus-target input — related

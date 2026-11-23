@@ -49,3 +49,4 @@ Program statistics reported by the organizers in the Summary section and Table 1
 - [The Fermilab summer program has hosted approximately 530 Italian students from more than 20 Italian universities over 34 years, with engineering students now as many as physics students](fermilab-italian-summer-program-530-students.md) — related
 - [The Fermilab Italian student training program hosted approximately 550 students from more than 20 Italian universities over 36 years](fermilab-italian-training-550-students.md) — related
 - [A lab-supported thesis program extended internships into about six-month Laurea research stays, with many participants later hired at the lab or in the field](laurea-thesis-program-pipeline-return.md) — related
+- [The DOE Community College Internship program averaged 78 student participants per year from 2014 to 2020](cci-average-78-students-per-year.md) — related

@@ -54,3 +54,4 @@ Qualitative coding of 420 ChatGPT-4o responses on 14 below-average items (3%–6
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
 - [LLM failures on the CRCI stem predominantly from visual misinterpretation rather than deficits in physics knowledge](llm-crcl-errors-predominantly-visual.md) — related
 - [Earlier LLM generations failed spatial-geometry steps in Electromagnetism, such as deducing induced-current direction with the right-hand rule](llm-spatial-geometry-em-bottleneck.md) — related
+- [Categorizing TUG-K items by knowledge objectives or procedures reveals few generalizable patterns of chatbot difficulty](item-categorizations-reveal-few-chatbot-patterns.md) — related

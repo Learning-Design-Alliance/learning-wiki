@@ -48,3 +48,4 @@ Second conclusion of the narrative review of HCI and ID design-specification lit
 - [Integrating culture in ICT design serves a broader scope than current methods recognise, from culture-neutral to culture-specific](culture-integration-broader-scope-than-current-methods.md) — related
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — a narrower finding that bears on this claim
 - [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related
+- [Sonification soundscapes evoke audience-specific emotional reactions, requiring audience knowledge and venue atmosphere preparation](soundscape-emotions-audience-reactions.md) — a narrower finding that bears on this claim

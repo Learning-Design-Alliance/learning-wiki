@@ -48,6 +48,7 @@ Writing a complete scientific paper "forces them to articulate their thoughts an
 - [Laboratory Reports](laboratory-reports.md)
 - [Annotated Bibliographies](annotated-bibliographies.md)
 - [Connect Writing to Real-World Applications](connect_writing_to_real-world_applications.md)
+- [Repeat the key message three times: spoiler in the Introduction, message claim in the Results, moral in Conclusions](repeat-message-three-times.md)
 
 ## Examples
 -

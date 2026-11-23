@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 142 claims (86 for, 54 mixed, 2 against) · 129 studies (38 causal, 30 review, 23 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 18 of 129 report an effect size · 128 claims rest on one study
+> **Evidence** · 143 claims (87 for, 54 mixed, 2 against) · 130 studies (38 causal, 30 review, 23 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 130 report an effect size · 129 claims rest on one study
 
 ## Conditional relationship
 
@@ -223,6 +223,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [End-of-physics-2 self-efficacy is directly predicted by prior self-efficacy (b = 0.41), belonging (b = 0.35), peer interaction (b = 0.21) and perceived recognition (b = 0.16)](../claims/self-efficacy-predicted-belonging-peer-interaction-recognition.md) [+W] — attached 2026-11-18 from Sonja Cwik et al. (2020), which proposed "Instructors should improve students' perceived recognition, sense of belonging and peer interaction to build self-efficacy, interest and identity in introductory physics".
 - [Perceived recognition, peer interaction, and belonging each predict end-of-course physics self-efficacy and interest after controlling for pre-course self-efficacy and interest](../claims/learning-environment-predicts-post-motivational-beliefs.md) [+W] — attached 2026-11-18 from Yangqiuting Li et al. (2020), which proposed "Foster an inclusive and equitable physics learning environment built on perceived recognition, peer interaction, and belonging to support students' motivational beliefs".
 - [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](../claims/learning-environment-mediate-gender-differences-motivation.md) [+W] — attached 2026-11-18 from Yangqiuting Li et al. (2020), which proposed "Foster an inclusive and equitable physics learning environment built on perceived recognition, peer interaction, and belonging to support students' motivational beliefs".
+- [Framing EDI activities as coming from the broader physics community reduces student pushback](../claims/community-authority-framing-reduces-pushback.md) [+W] — attached 2026-11-23 from Martha-Elizabeth Baylor et al. (2021), which proposed "Motivate EDI discussions using the broader physics community as the authority rather than the instructor"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

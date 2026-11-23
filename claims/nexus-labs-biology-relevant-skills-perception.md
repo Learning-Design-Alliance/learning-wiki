@@ -51,3 +51,4 @@ Open-ended survey administered twice (mid-Fall and end of Spring) to the pilot I
 - [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — related
 - [Student endorsement of the open-ended experimental-design emphasis rose from 64% to 86% over the year](open-ended-protocol-design-benefit-rose-64-to-86.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — related
+- [In the pilot cohort's summative assessment, 100% of students felt the lab should be a required curriculum element and 100% felt they gained valuable transferable skills, while the response on lab rigor was mixed.](iron-oxide-lab-summative-assessment-positive-response.md) — related

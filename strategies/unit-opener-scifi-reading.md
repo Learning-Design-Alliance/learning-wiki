@@ -50,6 +50,7 @@ This strategy recommends placing science-fiction reading at the beginning of eac
 - [Previewing](previewing.md)
 - [Videos (Pre-Reading)](videos-pre-reading.md)
 - [Introduce new science topics in students' own language through fictional dialogues that address common misconceptions](student-language-warmup-dialogues-strategy.md)
+- [Use fiction with balanced scientist portrayals as topic starters and discussion vehicles in science education](fiction-as-science-topic-starter-strategy.md)
 
 ## Examples
 -

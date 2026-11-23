@@ -49,3 +49,4 @@ Evaluation study of the original AUTSS planetarium show with nearly 300 audience
 - [BVI and non-BVI audiences responded similarly on most questions, with BVI audiences marginally more likely to rate the sounds 'very useful' (73% vs 61%)](bvi-non-bvi-similar-with-marginal-usefulness-difference.md) — a narrower finding that bears on this claim
 - [Audience members rate the sonification-based planetarium show very highly overall, with 91% giving a score of 4 or 5 out of 5](audio-universe-high-overall-audience-ratings.md) — related
 - [The Caribbean AUTSS premiere drew record local blind and low-vision attendance and positive qualitative feedback, without formal evaluation](caribbean-autss-premiere-positive-qualitative-feedback.md) — related
+- [Sonification soundscapes evoke audience-specific emotional reactions, requiring audience knowledge and venue atmosphere preparation](soundscape-emotions-audience-reactions.md) — related

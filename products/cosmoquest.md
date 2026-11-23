@@ -29,4 +29,4 @@ CosmoQuest is an online citizen-science platform operated by the CosmoQuest proj
 -
 
 ## Key Sources
-- Reiheld, A., & Gay, P. L. (2019). Coercion, Consent, and Participation in Citizen Science.
+- Reiheld, A., & Gay, P. L. (2019). Coercion, Consent, and Participation in Citizen Science. [doi:10.48550/arxiv.1907.13061](https://doi.org/10.48550/arxiv.1907.13061)

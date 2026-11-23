@@ -48,3 +48,4 @@ Descriptive tabulation of the closed-ended questionnaire item administered to 52
 - [Visitors overwhelmingly reported that the pre-service teachers' explanations helped them understand the phenomena, with 96.9% answering yes and 81.3% rating clarity as excellent](public-square-explanations-high-approval.md) — related
 - [100% of responses to the participant feedback survey wanted to see more events like this in Spanish](participants-want-more-spanish-quantum-events.md) — related
 - [The hands-on experience was rated very interesting by 96.9% of surveyed visitors, with no negative ratings](public-square-hands-on-very-interesting.md) — related
+- 94% of all participants and 100% of African-affiliated/origin participants said they would be interested in attending a similar conference in future — related

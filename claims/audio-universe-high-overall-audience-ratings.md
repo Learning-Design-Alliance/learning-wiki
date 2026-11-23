@@ -52,3 +52,4 @@ Audience evaluation of the show using paper and online feedback forms in English
 - [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related
 - [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related
 - [Audiences perceived the original AUTSS sonifications as enjoyable and useful irrespective of their level of vision](autss-sonifications-enjoyable-useful-irrespective-of-vision.md) — related
+- [A pilot BVI-accessible planetarium show combining narration, sonifications and tactile models, with visuals excluded, was judged an overall success with positive feedback including from qualified teachers of visually impaired children](dark-tour-of-universe-pilot-success.md) — related

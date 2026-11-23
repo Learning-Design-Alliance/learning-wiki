@@ -49,3 +49,4 @@ Observational analysis of the 51 published selection policies. The article repor
 - [The ANZ ophthalmology program allocates 57.6% of its CV scoring points to diversity, equity, and inclusion factors](anz-allocates-57-6-percent-points-dei.md) — related
 - [The most important CV selection criteria across Western ophthalmic training bodies are research experience, academic achievements, references and ophthalmology-related extracurricular activities](most-important-ophthalmic-selection-criteria.md) — related
 - [Only three of 51 programs with published selection policies (ANZ, UK, Ireland) provide CV scoring criteria with point allocations](three-programs-provide-cv-scoring-criteria.md) — related
+- [Self-funding is the most commonly reported student support mechanism in US accredited programs, whereas Canadian and Irish programs report a more balanced funding portfolio](self-funding-dominant-us-programs.md) — related

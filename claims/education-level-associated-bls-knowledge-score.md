@@ -66,3 +66,4 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related
 - [Teachers lacking nutrition education background were less likely to teach nutrition](nutrition-education-background-predicts-teaching.md) — related
 - [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — related
+- [Despite 90% of South Bangka teachers holding at least a Bachelor's degree, the average Teacher Competency Test (UKG) score is only 47](south-bangka-ukg-47-despite-90-percent-bachelors.md) — related

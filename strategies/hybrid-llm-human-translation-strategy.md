@@ -50,6 +50,7 @@ The article's translation workflow combines automated and human steps: a locally
 
 - [Use independent expert physician review as a governance safeguard before deploying LLM-generated questions to learners](expert-physician-review-governance.md)
 - [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
+- [Four-step LLM-assisted workflow for producing attested ancient-language sentences](llm-postedit-attestation-workflow.md)
 
 ## Examples
 -

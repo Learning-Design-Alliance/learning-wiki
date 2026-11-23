@@ -48,3 +48,4 @@ Ablation study within the Experiment 1 simulation on EduAgent310, removing gaze,
 ## Related Claims
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — possibly the same claim (merge candidate)
 - [Integrating cognitive prior knowledge into LLM prompts improves simulation of student gaze behaviors, cognitive states, and question answering](cognitive-priors-improve-llm-student-simulation.md) — related
+- Performance of the framework improves with a larger candidate question bank and a larger base model — related

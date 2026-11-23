@@ -49,3 +49,4 @@ Numerical training-curve result reported in the Results section and shown in Fig
 - [The MLP starts with high loss (MAE about 74.92, MSE 5840.22) and gradually reduces error across epochs to the final test values](mlp-initial-high-loss-reduced-across-epochs.md) — related
 - [An MLP model trained on lecturer evaluation metrics achieves a test MAE of 13.76 and test MSE of 256.99 in predicting lecturer performance](mlp-lecturer-performance-test-mae-13-76-mse-256-99.md) — related
 - [The trained MLP demonstrates an estimated accuracy rate of approximately 96% in predicting lecturer performance](mlp-lecturer-prediction-accuracy-96-percent.md) — related
+- Models trained on augmented data converge to the best model in fewer epochs than models trained on original data — related

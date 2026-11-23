@@ -48,3 +48,4 @@ Hint metrics during training for 114 students showed Next-Step hints justified a
 - [Next-Step hints outperform Waypoint hints on posttest total steps and accuracy](next-step-hints-outperform-waypoints-posttest.md) — related
 - [Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score](next-step-hints-outperform-waypoints-training.md) — related
 - [Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency](assertions-increase-unsolicited-hint-usage.md) — related
+- Reviews rewritten with lazy thinking annotations outperform original reviews on constructiveness, justification, and adherence — related

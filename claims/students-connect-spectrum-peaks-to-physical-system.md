@@ -49,3 +49,4 @@ Authors' observational report from their experience implementing the task, not a
 - [Preliminary observation: in a short lab activity students spent about twice as much time on measurement tools as on the physical system, and students who did not articulate model simplifications struggled to connect to limitations](preliminary-measurement-tool-time-twice-physical-system.md) — related
 - [In accuracy comparisons, student responses were similar across classical and quantum contexts, drawing mainly on measurement and physical limitations](accuracy-comparisons-similar-across-contexts.md) — related
 - [Student uncertainty reasoning in the spectrum experiment did not match either the classical or single-slit pattern, drawing on all four source categories](spectrum-experiment-mixed-uncertainty-sources.md) — related
+- The computer sound card's signal acquisition meets the requirements of low-frequency physics experiments within 0 to 1200 Hz — related

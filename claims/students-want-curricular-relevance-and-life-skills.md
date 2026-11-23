@@ -105,3 +105,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Managers value cross-domain fluency connecting quantum computation with domain areas such as chemistry, finance, AI, and optimization](cross-domain-fluency-quantum-applications-valued.md) — a narrower finding that bears on this claim
 - [A subset of students connected the CURE to their immediate thinking about future academic and professional pathways](pv-cure-future-pathways-reflections.md) — related
 - [The authors report that secondary school students find the devices engaging and are surprised by mathematics' real-world applications](outreach-devices-found-engaging-surprising-real-world.md) — related
+- [Real-world case studies in forensic physics enhance student engagement and motivation at the undergraduate level](real-world-forensic-cases-enhance-engagement.md) — related

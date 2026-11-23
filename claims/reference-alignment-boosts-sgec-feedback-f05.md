@@ -48,3 +48,5 @@ Feedback evaluation of reference alignment variants for Whispergec+pt large-v2 (
 ## Related Claims
 - [Averaged two-sided edit-confidence filtering combined with Strong reference alignment achieves the best feedback F0.5 (44.73 on LNG, 46.94 on S&I), relative gains of 2.4% and 2.1% over the unfiltered baseline](edit-confidence-filtering-improves-feedback-f05.md) — related
 - [Prompt-conditioned end-to-end SGEC, conditioning on a fluent transcription during training and inference, improves WER modestly and raises feedback Precision by 3.54 on LNG and 3.69 on S&I over the non-prompted model](prompt-conditioned-sgec-improves-feedback-precision.md) — related
+- [The Speak & Improve Challenge 2025 is the first shared task to address spoken GEC and holistic spoken language assessment](first-shared-task-spoken-gec-and-sla.md) — related
+- [The baseline SGECF system detects and labels learner error types at an overall ERRANT F0.5 of 0.22, with preposition replacement errors best detected](s-i-2025-baseline-sgecf-f05-0-22.md) — related

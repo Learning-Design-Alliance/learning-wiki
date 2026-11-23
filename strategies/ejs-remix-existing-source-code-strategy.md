@@ -49,6 +49,7 @@ The paper offers a concrete recipe for educator remixing: obtain a community-sha
 - [Teacher-led networked learning: remixing peer-reviewed Open Source Physics templates and contributing models back to digital libraries](osp-networked-teacher-remixing-strategy.md)
 - [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 - [Hand out purposely broken code samples for learners to fix or improve](broken-code-sample-repair-strategy.md)
+- [Guide students to build their own EJS simulations in five steps: new project, design interface, add code, test and run, share](ejs-five-step-simulation-authoring-strategy.md)
 
 ## Examples
 -

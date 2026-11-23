@@ -51,3 +51,4 @@ Pre/post-test results on making multiple representations of concept, measured wi
 - [Scaffolding produced a medium-effect improvement in pre-service teachers' conceptual understanding of electromagnetism and waves and optics](scaffolding-medium-effect-conceptual-understanding.md) — related
 - [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related
 - [The misconception that radio telescopes collect sound waves decreased after instruction, with 84% post-course correctly identifying electromagnetic waves](ska-sound-wave-misconception-reduced-post-course.md) — related
+- [Textbook circle representations of waves do not convey that wave speed is unchanging in a medium](circle-representation-hides-unchanging-wave-speed.md) — related

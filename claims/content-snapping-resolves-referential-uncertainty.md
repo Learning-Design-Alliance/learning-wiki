@@ -48,3 +48,4 @@ Study 2 (N=16, within-subjects V1 vs. V2) qualitative results: V1 users felt unc
 - [Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier](referential-expressive-barriers-standard-llm-workflow.md) — related
 - [Pen input supported deictic referencing: 85% of V1 queries contained at least one visible pen mark, and ease of referencing improved significantly over the baseline](pen-marks-deictic-referencing-study1.md) — related
 - [Newly developed object-snapping features (snap-to-grid, snap-to-position, snap-to-angle) increased users' abilities to complete VR assemblage tasks](snap-features-improve-assemblage-completion.md) — related
+- All focus group participants expressed the need for information and confirmation about their actions, and screen-reader desynchronisation forced visually impaired participants into extra non-task actions — related

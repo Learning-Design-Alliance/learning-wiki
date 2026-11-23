@@ -50,3 +50,4 @@ Iterative prompt refinement on the training dataset across four stages. The arti
 - [Zero-shot GPT-4 with iterative prompt engineering achieves 77.30% dialogue act recognition accuracy, outperforming fine-tuned T5, CRF, and BLSTM baselines on a held-out test set.](gpt4-zero-shot-dialogue-act-recognition-outperforms-t5-baselines.md) — related
 - [Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs. T5 0.54).](prompt-refinements-improve-recall-challenging-dialogue-acts.md) — related
 - [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — related
+- Interactive teacher-student evaluation-refinement raises GPT-4 training-data accuracy from 81.82% to 84.34% on GSM8K and from 31.2% to 35.4% on MATH — related

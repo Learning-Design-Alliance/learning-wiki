@@ -341,3 +341,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Approximately 30% of lab reports showed no 'above and beyond' work](thirty-percent-no-above-and-beyond.md) — a narrower finding that bears on this claim
 - [Unguided, open-ended GAI exploration of broad topics was viewed unfavorably by students relative to narrower, guided uses](unguided-gai-exploration-viewed-unfavorably.md) — a narrower finding that bears on this claim
 - [With minimal instruction, icebreaker participants discover signal-matching criteria such as amplitude, period and initial phase on their own](icebreaker-discovery-of-signal-features.md) — reports the opposite
+- [Demonstrations work best early in teaching and instructions best later, matching developmental psychology findings](demonstrations-first-instructions-later.md) — related

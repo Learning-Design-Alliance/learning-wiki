@@ -58,3 +58,4 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related
 - [The PediAppRREST app received positive usability evaluations across all six UEQ scales in a simulation pilot with pediatric residents](pediaprrrest-positive-usability-ueq-pilot.md) — related
 - [Keyword-highlight caption variants were rated higher on hedonic quality than standard captions in a within-subject user study](keyword-highlights-higher-hedonic-quality.md) — related
+- [Adding pedagogy to the teacher and pragmatism to the learner increases learning efficiency of goal-conditioned agents across all tested modalities](pedagogy-pragmatism-increase-gc-agent-efficiency.md) — related

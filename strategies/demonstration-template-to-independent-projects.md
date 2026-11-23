@@ -59,6 +59,9 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Design PBL assignments with a conference-style paper, interdisciplinary dual mentorship, narrative framing, and skeleton code](pbl-quantum-course-design-strategy.md)
 - [Reuse abstract MI 'recipes' across scenarios so new virtual client cases require only modification of lower-level rules](ontology-recipe-scenario-reuse.md)
 - [Follow a five-step modeling-to-analysis sequence when introducing numerical simulation of physical problems](five-step-numerical-modeling-sequence.md)
+- [Guide students to build their own EJS simulations in five steps: new project, design interface, add code, test and run, share](ejs-five-step-simulation-authoring-strategy.md)
+- [Assign the fractal drum project to pairs of students and integrate it into a computational physics class](fractal-drum-pair-work-integration-strategy.md)
+- [Teach computational physics through detailed step-by-step construction of a numerical solution to a challenging problem](step-by-step-numerical-solution-teaching-strategy.md)
 
 ## Examples
 -

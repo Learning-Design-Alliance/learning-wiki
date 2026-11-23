@@ -56,6 +56,7 @@ A concrete workflow for teacher designers: start from an existing simulation in 
 - [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 - [Open-inquiry lab workflow in which students design experiments, build simulations, compare them, and iterate](open-inquiry-simulation-experiment-comparison-workflow.md)
 - [Customize recorded simulation data using the _recorder object to match the research question](ejs-recorder-customization-strategy.md)
+- [Guide students to build their own EJS simulations in five steps: new project, design interface, add code, test and run, share](ejs-five-step-simulation-authoring-strategy.md)
 
 ## Examples
 -

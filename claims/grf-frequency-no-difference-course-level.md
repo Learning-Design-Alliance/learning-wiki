@@ -49,3 +49,4 @@ Comparison of GRF coding frequencies between forty-one first-year Metacognition 
 - [Guided reflection submissions are dominated by narrative statements (~60%) and broad growth statements (~30%), with few specific action or achievement statements](grf-narrative-dominance-few-action-statements.md) — related
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](grf-elicits-narrative-growth-action-statements.md) — related
 - [Unguided and partially guided journals are considerably richer in statement-type diversity than classroom GRFs](journals-richer-than-grfs.md) — related
+- [Third-year physics majors and their teachers gave largely positive survey feedback on the EJS U-tube simulation](ejs-u-tube-simulation-positive-survey-feedback.md) — related

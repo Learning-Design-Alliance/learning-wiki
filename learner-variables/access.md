@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (108 show a difference, 28 mixed, 11 no difference) · 115 studies (42 associational, 19 causal, 16 review, 16 design, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 115 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (108 show a difference, 28 mixed, 12 no difference) · 116 studies (42 associational, 19 causal, 17 design, 16 review, 11 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 116 report an effect size · 143 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -191,6 +191,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [University library accessibility provision for students with visual impairments is low, with 22.07% offering assistive technology and 0.54% tactile STEM pathways](../claims/india-university-libraries-assistive-tech-22-percent.md) [+M] — measured as an outcome of the instruction studied
 - [WWSL gives students around-the-clock access to experimental setups and lets any Internet-connected student participate regardless of location](../claims/wwsl-around-the-clock-and-location-independent-access.md) [+M] — measured as an outcome of the instruction studied
 - [Among boys, elevated high-frequency thresholds and speech-in-noise thresholds are associated with higher parent-reported total, social, attention, internalizing, and externalizing problem scores](../claims/boys-hpta-srt-higher-cbcl-problem-scores.md) [+M] — learners who differ on it differ in outcomes
+- All focus group participants expressed the need for information and confirmation about their actions, and screen-reader desynchronisation forced visually impaired participants into extra non-task actions [+M] — learners who differ on it differ in outcomes
+- [Focus group participants with and without visual impairment correctly identified a decreasing function and three spectral emission peaks via audio sonification](../claims/sonouno-audio-identification-peaks-decreasing-function.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

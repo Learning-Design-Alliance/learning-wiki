@@ -160,6 +160,7 @@ Comprehension with the aid, comprehension of a new text without it, delayed rete
 - [Guide and time generative learning activities to overcome barriers to sense-making](../strategies/guide-and-time-glas-strategy.md)
 - [Annotate only words that the knowledge graph can explain, to avoid overwhelming readers with redundant glosses](../strategies/smart-annotation-only-explainable-words.md)
 - [Progressively answer three questions while reading: what problem, how addressed, what was found](../strategies/three-question-paper-reading-scaffold.md)
+- [Offer multiple reading paths through the walkthrough depending on reader background](../strategies/hhl-multiple-reading-paths-strategy.md)
 
 ## Key Sources
 - Carlson, R., Padron, K., & Andrews, C. (2018). Evidence-based instructional strategies for adult learners: A review of the literature. *Codex, 4*(4), 29-47.

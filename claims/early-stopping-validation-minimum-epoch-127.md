@@ -48,3 +48,4 @@ Training-performance analysis (Figure 6) plotting MSE logarithmically against ep
 ## Related Claims
 - [ANN prediction accuracy depends on hidden-node count, with 9 hidden nodes optimal and larger or smaller configurations showing overfitting or underfitting](hidden-node-count-ann-overfitting-underfitting.md) — related
 - [The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40](cfkg-outperforms-baselines-ndcg.md) — related
+- Models trained on augmented data converge to the best model in fewer epochs than models trained on original data — related

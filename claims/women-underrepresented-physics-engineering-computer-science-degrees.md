@@ -53,3 +53,4 @@ Descriptive statistics reported in the guide's overview, drawn from National Sci
 - [Women remain underrepresented in US physics, with men holding most senior positions (8% full professors), though numbers of women are increasing at all levels](women-underrepresented-us-physics-8-percent-full-professor.md) — related
 - [US bachelor’s degrees in physics, chemistry, and the physical sciences and engineering declined as a percentage of all degrees awarded between 1984 and 2011](us-physical-science-degrees-declined-1984-2011.md) — related
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related
+- After GIPWG's establishment, women's share of IPA awards rose from 9% to 23% and of DAE C. V. Raman Lecture speakers from 8% to 24% since 2017 — related

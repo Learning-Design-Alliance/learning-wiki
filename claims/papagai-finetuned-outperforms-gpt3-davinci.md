@@ -87,3 +87,4 @@ Few-shot condition of the same comparison: the article reports that three exampl
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
 - [Fine-tuned RoBERTa detects sentence-level emotions in reflective essays with a micro F1 of 0.70](papagai-roberta-emotion-detection-f1-070.md) — related
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
+- Fine-tuned GPT3-DaVinci is the most accurate classifier of acceptable clue-answer pairs at 79.88% — related

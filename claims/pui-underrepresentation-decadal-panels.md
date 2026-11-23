@@ -47,3 +47,5 @@ The background section reports the authors' analysis of 2010 Decadal membership,
 ## Related Claims
 - [Nearly half of new Physics faculty hires in 2016 were at PUIs](half-2016-physics-hires-puis.md) — related
 - [PUIs and other non-Ph.D.-granting institutions host the majority of US post-secondary educational opportunity](puis-majority-postsecondary-opportunity.md) — related
+- A survey of non-PUI faculty suggests many groups are open to affiliating with PUI researchers but need guidance on setting up such affiliations — related
+- [PUI faculty have roughly half the research time of R1 faculty due to disproportionate teaching and service burdens](pui-faculty-research-time-half-of-r1.md) — related

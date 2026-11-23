@@ -50,3 +50,4 @@ Theoretical argument in the introduction, citing bestselling puzzle games (Braid
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) — related
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) — related
 - [Interactive 3D mixed-reality environments let learners 'play' with STEM problems, which the authors argue improves understanding of theory and applications](mr-3d-play-with-stem-problems.md) — related
+- [The game is argued to be playable and educational for novices as well as for those versed in particle physics](card-game-accessible-across-knowledge-levels.md) — related

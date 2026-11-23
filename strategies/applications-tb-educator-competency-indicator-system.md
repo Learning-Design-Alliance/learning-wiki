@@ -48,6 +48,7 @@ The article recommends four applications of its indicator system: quantitative c
 - [Use the validated Korean HLC instrument for competency assessment, CPD gap identification, and pre–post training evaluation](hlc-assessment-cpd-training-strategy.md)
 - [Focus CPD programs for laboratory personnel on quality management systems, competence assessment, customer care, and case studies on locally common disease profiles](cpd-focus-qms-case-studies-customer-care-strategy.md)
 - [Assess the current hospital workforce against the competency set to determine training needs](act-workforce-training-needs-assessment-strategy.md)
+- [Conduct teacher needs analysis linked to organizational planning and budgeting, with follow-up beyond administrative data entry](teacher-needs-analysis-linked-to-planning-budgeting.md)
 
 ## Examples
 -

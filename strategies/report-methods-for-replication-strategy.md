@@ -42,6 +42,7 @@ The authors recommend that method sections of research articles be written in fu
 - [Develop a checklist to facilitate detailed description of health-education interventions and promote replicability](checklist-intervention-reporting-replicability.md)
 - [Follow transparent, replicable meta-analysis practices tailored to PBL: multiple databases, gray literature, full heterogeneity reporting, funnel plots with Egger's test, and RVE for dependent outcomes](pbl-meta-analysis-best-practices.md)
 - [Improve SBE reporting detail and involve LMIC perspectives in developing future reporting standards](improve-sbe-reporting-lmic-inclusive-standards.md)
+- [Authors should provide clear, labeled details about their empirical work to support replication and meta-analysis](clear-labeled-reporting-for-replication.md)
 
 ## Examples
 -

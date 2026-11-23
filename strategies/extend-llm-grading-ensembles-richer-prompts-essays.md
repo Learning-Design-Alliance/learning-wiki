@@ -50,6 +50,7 @@ The authors' forward-looking recommendation for building on the grading approach
 - [Embed the tool in the subject's workflow and design feed-forward prompts, symbolic-answer handling, and progress tracking before full release](embed-genai-practice-tool-in-subject-workflow.md)
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 - [Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions](include-explicit-rubric-in-genai-feedback-prompts.md)
+- [Extend automated answer validation with semantic correctness assessment and LLM-based answering](semantic-llm-answer-validation-extensions.md)
 
 ## Examples
 -

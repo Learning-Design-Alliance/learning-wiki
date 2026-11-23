@@ -41,6 +41,7 @@ The guide lists key aspects to include in the discussion, 'broadening up the 'ho
 
 - [Draft the introduction through a six-step funnel from big picture to study preview](six-step-introduction-funnel-strategy.md)
 - [Use the checklists against a draft methods and results section to check completeness of reporting](use-checklists-to-check-reporting-completeness.md)
+- [Repeat the key message three times: spoiler in the Introduction, message claim in the Results, moral in Conclusions](repeat-message-three-times.md)
 
 ## Examples
 -

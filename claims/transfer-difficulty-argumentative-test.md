@@ -48,3 +48,4 @@ Questionnaire data showed half of students (13) stated the experiment might yiel
 - [Most students reported the open-ended thermal inversion experiment helped them better understand damped harmonic oscillation](open-ended-experiment-improves-understanding-dho.md) — related
 - [Students in open-ended experiments treat the professor as the primary epistemological authority](professor-as-epistemological-authority-open-ended.md) — related
 - [Students in open-ended physics experiments seek external information sources, favoring videos and websites over scientific literature](students-seek-external-sources-videos-websites.md) — related
+- [Video frame-by-frame analysis of the damped-oscillation laboratory exercise provides much richer and more accurate information than the standard measurement method](video-analysis-richer-than-standard-amplitude-measurement.md) — related

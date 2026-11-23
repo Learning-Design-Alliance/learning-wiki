@@ -48,3 +48,4 @@ Hierarchical multiple regression on Bonacich centrality from a 99-student collab
 - [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
 - [Visiting the PLC more days per week is associated with denser connections and greater centrality in the network sociogram](more-plc-days-denser-connections.md) — related
 - [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related
+- [Gender and ethnicity did not predict centrality in a physics learning-center homework-help network (Brewe and coauthors)](gender-ethnicity-not-predict-centrality-brewe-2012.md) — related

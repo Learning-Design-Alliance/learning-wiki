@@ -47,3 +47,4 @@ Instructor report of the video assignment's adoption in Phys 105 at Albion Colle
 ## Related Claims
 - [After the video project, more students preferred group work and more conducted astronomy-related web searches](post-video-assessment-group-and-search-shifts.md) — related
 - [Pairs of students produced higher-quality videos than students working alone, with a few exceptions](pairs-produce-higher-quality-videos.md) — related
+- [The astronomy research writing project has yielded 10 submitted manuscripts, a few published in the Journal of Double Star Observation](pacselab-10-manuscripts-double-star.md) — related

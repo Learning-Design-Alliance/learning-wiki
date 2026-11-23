@@ -44,7 +44,8 @@ The authors propose a discussion-based teaching approach in which confusions are
 - [Even after the tutorial, only 60% of tutorial students found the field direction at point A inside one of two adjacent charged cylinders, which the authors call extremely difficult](../claims/adjacent-cylinders-point-a-extremely-difficult.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a charge moving in a straight line as an application of the AM law and displacement current, suitable as a tutorial introduction to the law](moving-charge-am-law-tutorial-example.md)
 
 ## Examples
 -

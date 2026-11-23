@@ -43,6 +43,7 @@ The article recommends building tutorials from version-controlled archives and r
 - [Design tutorial sites as a miniaturized research literature with contributor-controlled linking rather than an imposed order](tutorials-as-miniature-research-literature.md)
 - [Federate training initiatives across experiments to share materials and reduce duplication](federated-hep-training-initiatives-strategy.md)
 - [Integrate industry-standard software development practices through GitHub-based group workflows](github-professional-practices-group-projects.md)
+- [Read the text with the notebook repository open and run code as it appears](run-notebooks-alongside-reading-strategy.md)
 
 ## Examples
 -

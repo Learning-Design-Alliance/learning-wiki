@@ -53,4 +53,4 @@ The authors propose a registration consent process that is "Roughly but adequate
 -
 
 ## Key Sources
-- Reiheld, A., & Gay, P. L. (2019). Coercion, Consent, and Participation in Citizen Science. https://arxiv.org/abs/1907.13061
+- Reiheld, A., & Gay, P. L. (2019). Coercion, Consent, and Participation in Citizen Science. https://arxiv.org/abs/1907.13061. [doi:10.48550/arxiv.1907.13061](https://doi.org/10.48550/arxiv.1907.13061)

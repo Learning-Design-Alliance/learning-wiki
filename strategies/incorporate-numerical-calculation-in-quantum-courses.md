@@ -59,6 +59,7 @@ The article recommends adding a computational component to introductory quantum 
 - [Incorporate quantum spin into existing curriculum through magnetism and real-world applications like MRI](quantum-spin-curriculum-integration-mri-magnetism.md)
 - [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 - [Follow a five-step modeling-to-analysis sequence when introducing numerical simulation of physical problems](five-step-numerical-modeling-sequence.md)
+- [Teach computational physics through detailed step-by-step construction of a numerical solution to a challenging problem](step-by-step-numerical-solution-teaching-strategy.md)
 
 ## Examples
 -

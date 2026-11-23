@@ -56,3 +56,4 @@ Theme from individual discussions with faculty participants, not a tested result
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
+- [Categorizing TUG-K items by knowledge objectives or procedures reveals few generalizable patterns of chatbot difficulty](item-categorizations-reveal-few-chatbot-patterns.md) — related

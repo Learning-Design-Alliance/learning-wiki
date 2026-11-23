@@ -44,6 +44,7 @@ The authors recommend that instruction present students with a variety of situat
 ## Related Strategies
 
 - [Guide students through applying Lenz's law with prediction, lab testing, and Socratic dialogue](lenz-law-prediction-testing-socratic-labs.md)
+- [Use the app's parameter manipulation to teach three classroom topics: magnetic force, magnetic flux, and dipole moment/torque](electric-motor-app-three-classroom-topics-strategy.md)
 
 ## Examples
 -

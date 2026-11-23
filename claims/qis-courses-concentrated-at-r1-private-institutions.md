@@ -74,3 +74,4 @@ Descriptive analysis of the course census found QIS courses rare overall: the "m
 - [QISE programs are heavily concentrated at PhD-granting institutions, which are 25% of the sample but 89% of program-offering institutions](qise-programs-concentrated-phd-granting.md) — related
 - [Quantum and QISE engineering coursework is concentrated at PhD-granting institutions, with two-year and four-year colleges having little or none](qise-coursework-concentrated-phd-institutions.md) — related
 - [Universities recruit professors whose expertise matches offered IT majors and establish research institutes only for selected IT areas, with Go8 universities showing higher professorship coverage](it-supporting-infrastructure-professorship-and-institutes.md) — related
+- [PUI faculty have roughly half the research time of R1 faculty due to disproportionate teaching and service burdens](pui-faculty-research-time-half-of-r1.md) — related

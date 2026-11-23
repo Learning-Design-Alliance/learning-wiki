@@ -99,3 +99,4 @@ Authors' noted limitation of the voice-only system: prompt-described nonverbal c
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
 - [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related
 - [Students reported that the physical square wave synthesis experiment is operationally complex and produces unstable waveforms](square-wave-experiment-operational-challenges.md) — related
+- [Participating teams face challenges including low astronomy interest, internet and electricity costs, lack of computers, and missing Windows operating systems](pacselab-participation-challenges.md) — related

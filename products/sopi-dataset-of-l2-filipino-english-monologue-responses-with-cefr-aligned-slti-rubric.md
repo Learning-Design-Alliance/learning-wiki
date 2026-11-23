@@ -20,6 +20,7 @@ A dataset of recorded L2 English monologue responses collected through Simulated
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **SLTI Simulated Oral Proficiency (SOPI) exam dataset for automated speech scoring evaluation**: The evaluation dataset is data collected by Second Language Testing Inc. during the SOPI Exam, used since 1992 for interviews, university admissions, skill development and online courses. "The SOPI dataset has eight question papers (forms) containing six prompts each, and each form was attempted by 7200 speakers on an average." Candidates are primarily Filipino high school graduates and above; prompts follow CEFR guidelines with difficulty from B1 to C1, and each candidate receives prompt-level and global scores. (Yaman Kumar Singla et al. (2022))
 
 ### Claims
 
@@ -30,3 +31,4 @@ A dataset of recorded L2 English monologue responses collected through Simulated
 
 ## Key Sources
 - Pakhi Bamdev, Manraj Singh Grover, Yaman Kumar Singla, Payman Vafaee, Mika Hama, Rajiv Ratn Shah. (2023). Automated Speech Scoring System Under The Lens Evaluating and interpreting the linguistic cues for language proficiency. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-022-00291-5
+- Yaman Kumar Singla, Sriram Krishna, Rajiv Ratn Shah, Changyou Chen. (2022). Using Sampling to Estimate and Improve Performance of Automated Scoring Systems with Guarantees. https://arxiv.org/abs/2111.08906

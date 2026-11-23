@@ -49,3 +49,4 @@ Ablation study (Results §4.3.1 and Table 12) comparing the best model per dimen
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md) — related
 - [In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off](overview-augmentation-qwk-tradeoff.md) — related
 - [Data augmentation with Coedit-XL paraphrasing and targeted filtering improved model performance on imbalanced items](coedit-xl-augmentation-improved-imbalanced-item-scoring.md) — a broader claim this one bears on
+- [Training AES models on back-translation-augmented data improves QWK performance by 0.2% on average for both tested models](backtranslation-augmentation-improves-aes-qwk.md) — related

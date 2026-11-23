@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
+> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` A first-generation college student from a low-income Hawai'i community dropped out after her first year because college-readiness gaps and her parents' unfamiliarity with financial aid left her without funding. [→ Kaluna 2020](#kaluna-2020)

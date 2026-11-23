@@ -50,6 +50,7 @@ Faculty recommendations and the reviewed literature support extensive use of int
 - [Have players compare expected with software-computed outcomes to reflect on and retrace quantum-operation misunderstandings](expected-vs-computed-outcome-reflection.md)
 - [Six didactic proposals for high-school Quantum Physics teaching](six-didactic-proposals-quantum-physics-high-school.md)
 - [Use ChatGPT-generated visualizations to make abstract quantum mechanics concepts accessible to undergraduates](chatgpt-visualization-quantum-concepts-strategy.md)
+- [Draw on constructive methods, educational software, and physical analogies such as the Dirac belt trick when teaching quaternions](quaternion-teaching-pedagogical-strategies-review.md)
 
 ## Examples
 -

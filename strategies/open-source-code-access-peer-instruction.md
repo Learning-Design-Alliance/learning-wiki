@@ -44,6 +44,7 @@ Each OSSCAR application displays a direct link to its source code at the top of 
 - [Offer three free deployment routes (mybinder.org, dokku, institutional JupyterHub) matched to user needs](three-free-deployment-routes-notebooks.md)
 - [Use predefined simulator examples and shared configuration links to set up classroom activities quickly](simufisica-predefined-examples-classroom-setup.md)
 - [Publish all training programs and their sources online under a free license so third parties can adopt them](open-training-programs-free-license.md)
+- [Read the text with the notebook repository open and run code as it appears](run-notebooks-alongside-reading-strategy.md)
 
 ## Examples
 -

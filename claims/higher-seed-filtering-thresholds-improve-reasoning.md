@@ -49,3 +49,4 @@ Threshold sensitivity experiment with Mistral-7B at a fixed 30K dataset (Table 4
 - [Raising the answer-confidence threshold reduces the number of retained MCQs but substantially improves their quality](answer-confidence-threshold-trades-quantity-for-quality.md) — related
 - [Instances occurred where the Teacher LLM directly provided the final answer, bypassing the intended cognitive process, and can be programmatically filtered](collaborative-cheating-teacher-provides-answer.md) — related
 - [Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups](seeding-groups-alternative-ideas-improves-learning.md) — related
+- Larger seed-problem scale improves YODA performance, with the largest gains below half of the total data — related

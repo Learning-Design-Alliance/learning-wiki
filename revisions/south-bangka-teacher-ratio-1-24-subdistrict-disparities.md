@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/south-bangka-teacher-ratio-1-24-subdistrict-disparities.md
+---
+
+# Revision history: [claims/south-bangka-teacher-ratio-1-24-subdistrict-disparities](../claims/south-bangka-teacher-ratio-1-24-subdistrict-disparities.md)
+
+### 2026-11-23 · ingest · process:wiki-ingest
+Ingested from arxiv-2303.06044 (Analysis of Teachers Management Policy: A Case Study of South Bangka, Indonesia) via eval_harness.py + ingest_extractions.py

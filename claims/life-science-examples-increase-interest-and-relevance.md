@@ -80,3 +80,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [Astronomy coursework can both inspire choice of the major and, when lacking, undermine confidence and persistence](coursework-astronomy-choice-persistence.md) — related
 - [Students reported that interlinking physics, mathematics and computational content across modules helped them see connections and accelerated understanding of complex topics](cross-module-integration-accelerates-understanding.md) — related
 - [Course goals for algebra-based physics should differ from those of other physics courses](algebra-based-course-goals-differ.md) — related
+- [Real-world case studies in forensic physics enhance student engagement and motivation at the undergraduate level](real-world-forensic-cases-enhance-engagement.md) — related

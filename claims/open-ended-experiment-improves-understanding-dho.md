@@ -49,3 +49,4 @@ Qualitative questionnaire study of 26 first-semester STEM students at Tecnologic
 - [Students in open-ended experiments treat the professor as the primary epistemological authority](professor-as-epistemological-authority-open-ended.md) — related
 - [Students in open-ended physics experiments seek external information sources, favoring videos and websites over scientific literature](students-seek-external-sources-videos-websites.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
+- [Video frame-by-frame analysis of the damped-oscillation laboratory exercise provides much richer and more accurate information than the standard measurement method](video-analysis-richer-than-standard-amplitude-measurement.md) — related

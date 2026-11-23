@@ -51,3 +51,4 @@ The article addresses, in its Quantum 101 section, the concern that a course wit
 - [Quantum pictorialism instruction enabled UK high-school students to pass a graduate-level quantum computing exam](quantum-pictorialism-case-study-results.md) — a narrower finding that bears on this claim
 - [High school students without advanced mathematical prerequisites passed a graduate-level quantum exam after an eight-week QPic course, with 82% passing and 48% earning distinction](qpic-high-schoolers-82-percent-pass-graduate-exam.md) — a narrower finding that bears on this claim
 - [There is a lack of a concept to introduce non-commutative relations to students who are not mathematics students](lack-concept-introduce-noncommutative-non-mathematicians.md) — related
+- [The qandies model enables explaining quantum information concepts, including teleportation, to students and the general public without mathematics](qandies-explain-quantum-concepts-without-mathematics.md) — related

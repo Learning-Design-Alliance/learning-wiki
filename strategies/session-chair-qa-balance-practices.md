@@ -47,4 +47,4 @@ Appendix A compiles best practices assigning the biggest responsibility for Q&A 
 -
 
 ## Key Sources
-- Schmidt, S. J., Douglas, S., Gosnell, N. M., Muirhead, P. S., Booth, R. S., Davenport, J. R. A., & Mace, G. N. (2017). The Role of Gender in Asking Questions at Cool Stars 18 and 19. https://arxiv.org/abs/1704.05260
+- Schmidt, S. J., Douglas, S., Gosnell, N. M., Muirhead, P. S., Booth, R. S., Davenport, J. R. A., & Mace, G. N. (2017). The Role of Gender in Asking Questions at Cool Stars 18 and 19. https://arxiv.org/abs/1704.05260. [doi:10.48550/arxiv.1704.05260](https://doi.org/10.48550/arxiv.1704.05260)

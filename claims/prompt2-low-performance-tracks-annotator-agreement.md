@@ -53,3 +53,4 @@ Observational analysis in the Results section linking per-prompt model performan
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related
 - [Regression-based XGBoost outperforms the classification formulation for automated speech scoring on the SOPI dataset](xgboost-regression-beats-classification-speech-scoring.md) — related
 - [Acoustic features have none to least impact on scoring QWK except for prompts 2 and 6](acoustic-features-least-impact-except-prompts-2-6.md)
+- Per-class classification performance tracks human inter-annotator agreement, with Attitudes Toward the Film easiest (F1 0.86) and Impersonal Report hardest (F1 0.42) to classify — related
