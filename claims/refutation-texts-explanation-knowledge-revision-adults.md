@@ -51,3 +51,4 @@ Preregistered online experiment with 56 Prolific adults reading eight texts (two
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
 - [Refutation text type shows no significant effect on binary True/False posttest scores](refutation-texts-no-tf-effect.md) — related
 - [Text condition shapes in-the-moment epistemic emotions: negative refutation texts raise anxiety and frustration, positive refutation raises curiosity and enjoyment, and non-refutation raises boredom and neutral emotion](text-condition-shapes-epistemic-emotions.md) — related
+- [Refutation text produces a moderate positive effect on learning compared to non-refutation text conditions](refutation-text-moderate-overall-effect.md) — related

@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 272 claims (175 show a difference, 62 mixed, 35 no difference) · 224 studies (93 associational, 52 causal, 27 review, 25 quant-synthesis, 12 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 224 report an effect size · 270 claims rest on one study
+> **Evidence** · 280 claims (180 show a difference, 64 mixed, 36 no difference) · 230 studies (94 associational, 53 causal, 28 quant-synthesis, 27 review, 13 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 230 report an effect size · 278 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -304,6 +304,14 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Extrinsic motivation shows few differences across grade levels, differing only between third grade and all other grades](../claims/extrinsic-motivation-few-grade-differences.md) [~M] — learners who differ on it differ in outcomes
 - [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](../claims/preference-easy-work-increases-with-age.md) [+M] — learners who differ on it differ in outcomes
 - [Older elementary school children outperformed younger children in using the control of variables strategy.](../claims/cvs-use-increases-with-grade.md) [+M] — learners who differ on it differ in outcomes
+- [Age differences in reflective judgment form three groups (14-18, 19-22, 23-28) and cannot be statistically accounted for by verbal ability](../claims/reflective-judgment-age-groups-not-verbal-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Belonging-outcome relationships are similar across grade levels and SES groups](../claims/belonging-outcomes-similar-across-grade-level-and-ses.md) [-M] — an instructional effect differs with it
+- [Class-level mathematics interest and perceived teacher support decline significantly from Grade 5 to Grade 6 after the transition to secondary school](../claims/class-level-interest-support-decline-grade5-6.md) [+M] — learners who differ on it differ in outcomes
+- [Developmental spurts in reflective judgment appear at ages 18-20 and 23-25/26 under support and practice, but the predicted 14-15 spurt appears only in RJI highest-stage data](../claims/reflective-judgment-spurts-prji-18-20-23-25.md) [~M] — learners who differ on it differ in outcomes
+- [Explicit instruction plus practice in controlling variables transfers to new materials seven months later, with stronger transfer in older children](../claims/control-of-variables-instruction-transfers-seven-months.md) [+M] — an instructional effect differs with it
+- [Intervention effect sizes vary descriptively by grade level, with middle school samples showing the largest average effect](../claims/grade-level-moderator-middle-school-largest.md) [~M] — an instructional effect differs with it
+- [The hourly fatigue effect is stronger for mathematics and older children, with limited heterogeneity in break effects](../claims/hour-effect-stronger-math-older-children.md) [+M] — an instructional effect differs with it
+- [The self-serving attributional bias varies across age: largest in children and older adults, least pronounced in adolescence and adulthood](../claims/self-serving-bias-age-differences-children-older-adults.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

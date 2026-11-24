@@ -50,3 +50,4 @@ The article reports, citing Oei and Patterson (2015), an experiment using four a
 - [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related
 - [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md) — related
 - [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md) — related
+- [Chess instruction shows a tendency for stronger effects on mathematics (g = 0.382) than on reading (g = 0.248), consistent with common-elements theory](chess-transfer-stronger-math-than-reading.md) — related

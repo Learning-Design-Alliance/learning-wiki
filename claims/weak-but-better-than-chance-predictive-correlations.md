@@ -65,3 +65,4 @@ The authors counted significance rates against chance to argue the pattern is re
 ## Related Claims
 - [Non-cognitive personal quality test scores show significant relationships with tutor-assessed professional behaviours in years 1 and 2 of medical school](non-cognitive-tests-predict-tutor-rated-behaviours.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Faculty members differ significantly in their individual ability to predict item difficulty, with success rates ranging from 27% to 75%](individual-variation-difficulty-prediction.md) — related

@@ -51,3 +51,4 @@ Moderator analysis by publication type across the 55 datasets (random effects mo
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [PBL has a high positive effect on science academic achievement compared to traditional instruction (random-effects g = 1.009)](pbl-high-effect-science-achievement-meta-analysis.md) — related
 - Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278) — related
+- [Effectiveness of refutation text varies significantly by publication type, with conference proceedings showing the largest effects and dissertations the smallest](refutation-text-publication-type-moderates.md) — related

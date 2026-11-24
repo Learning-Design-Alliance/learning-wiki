@@ -50,3 +50,4 @@ Sensitivity analysis dividing the 440-student sample into high (≥8) and low (<
 - [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](pf-final-exam-ability-split.md) — related
 - [VIQ moderated SCI-A response: lower-VIQ students benefited on communication, while higher-VIQ students showed worse outcomes on social cognition, communication, and motivation](viq-moderates-sci-a-response.md) — related
 - [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](tablet-performance-effects-robust.md) — related
+- [High prior knowledge learners show worse learning outcomes under high-assistance than low-assistance instruction (d = −0.428)](high-prior-knowledge-learners-benefit-from-low-assistance.md) — related

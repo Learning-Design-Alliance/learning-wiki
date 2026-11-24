@@ -69,3 +69,4 @@ Quasi-experimental comparison of two intact College Algebra classes taught by th
 - [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related
 - [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [The guided problem-solving laboratory approach yielded better learning and overall results than the traditional cookbook method, according to the author's own evaluation](guided-problem-solving-better-results-than-traditional.md) — related
+- [Contextualized heuristic instruction with metacognitive control yields dramatic problem-solving gains, and reciprocal teaching yields large reading gains with in-class transfer](contextualized-heuristic-instruction-yields-gains.md) — related

@@ -56,3 +56,4 @@ Narrative synthesis in the Expertise Reversal Effect section, citing prior exper
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
 - [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related
+- [The expertise reversal effect is asymmetric: providing novices with assistance has a stronger effect than withholding assistance from experts](expertise-reversal-asymmetric-provide-assistance.md) — related

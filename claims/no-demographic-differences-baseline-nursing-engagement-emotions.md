@@ -61,3 +61,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [No statistically significant differences in nomophobia scores across academic level, residential status, marital status, college, or student habits](no-sociodemographic-differences-nomophobia-scores.md) — related
 - [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
+- [Randomization checks in the STAR experiment found no significant differences on measured student and teacher characteristics](star-randomization-checks-no-significant-differences.md) — related

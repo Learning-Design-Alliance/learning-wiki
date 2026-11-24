@@ -54,3 +54,4 @@ OLS regression models on continuous military, academic, and physical GPA outcome
 - [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — related
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
 - [No reliable interactions among grit, cognitive ability, and physical ability in predicting success](no-interactions-grit-cognitive-physical-ability.md) — related
+- [When secondary GPA is controlled, Conscientiousness adds as much to predicting tertiary GPA as intelligence does](conscientiousness-incremental-tertiary-gpa.md) — related

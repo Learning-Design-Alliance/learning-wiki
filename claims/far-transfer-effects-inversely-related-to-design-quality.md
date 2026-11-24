@@ -49,3 +49,4 @@ Meta-analysis of WM training studies: 0.18 SD with passive controls (k = 34) ver
 - [Cognitive training produces no far-transfer effect once publication bias and control-group type are corrected for](cognitive-training-far-transfer-null.md) — a broader claim this one bears on
 - [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related
 - [Working memory training produces a robust near-transfer effect on other memory tasks regardless of control-group type](wm-training-near-transfer-memory-tasks.md) — related
+- [Because almost no study included an active control group, the effects of chess instruction could have been systematically overestimated via placebo effects](chess-placebo-overestimate-risk.md) — a broader claim this one bears on

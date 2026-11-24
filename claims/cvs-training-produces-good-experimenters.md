@@ -51,3 +51,4 @@ Individual-level transfer analysis in the hands-on study, after excluding ceilin
 - [Children who received explicit CVS training were more likely to name the control of variables strategy as the similarity among the tasks.](cvs-training-raises-strategy-similarity-awareness.md) — related
 - [Probe questions without direct instruction did not improve children's ability to design unconfounded experiments.](probes-alone-no-cvs-improvement.md) — related
 - [Older elementary school children outperformed younger children in using the control of variables strategy.](cvs-use-increases-with-grade.md) — related
+- [Explicit instruction plus practice in controlling variables transfers to new materials seven months later, with stronger transfer in older children](control-of-variables-instruction-transfers-seven-months.md) — related

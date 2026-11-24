@@ -69,3 +69,4 @@ The review reports, citing multiple studies, that children "are less accepted an
 - [Peer-nominated aggressive behavior varies widely between children, with physical aggression nominations ranging up to all classmates](individual-differences-aggression-nominations.md) — related
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
 - [Prosocial and aggressive descriptive norms vary considerably between classrooms](classroom-descriptive-norms-vary.md) — related
+- [Peer-rejected adolescents received help more often but gave help less often and did not help low-rejected peers](rejected-adolescents-help-asymmetry.md) — related

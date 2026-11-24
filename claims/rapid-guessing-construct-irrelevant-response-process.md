@@ -63,3 +63,4 @@ The authors summarize evidence from their data analyses and previous research fi
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
 - [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](slow-test-takers-perform-as-well-as-fast-ones.md) — related
 - [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — a narrower finding that bears on this claim
+- [Examinee effort can change abruptly during a test session, switching from solution behavior to rapid guessing partway through](effort-switches-mid-test-rapid-guessing.md) — related

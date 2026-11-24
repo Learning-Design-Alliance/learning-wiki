@@ -59,3 +59,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [Six cases are required for formative assessment (reliability > 0.7) and 10 cases for summative assessment (reliability > 0.8)](foi-test-case-requirements-formative-summative.md) — related
 - [The 40-item tests showed poor to moderate reliability, with the pre-course test highly random (alpha −0.022)](anatomical-test-reliability-poor-moderate.md) — a narrower finding that bears on this claim
 - [The BDF/PCC instrument showed high internal consistency, with Cronbach's α of 0.98 for the full scale](bdf-pcc-cronbach-alpha-0-98.md) — a narrower finding that bears on this claim
+- [Classical test theory's validity and reliability claims cannot be generalized to individual assessment of nonstationary processes such as development and learning](test-theory-inapplicable-to-nonergodic-individuals.md) — related

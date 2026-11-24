@@ -90,3 +90,4 @@ Longitudinal simplex model of overall achievement across the four ages; the prin
 - [Age-to-age change in achievement is largely explained by non-shared environmental factors, while genetic and shared environmental influences are stable](genetic-stability-environmental-change-achievement.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Latent non-cognitive skill factors show high heritability (70–93%), varying by rater and developmental stage](latent-ncs-heritability-70-93-percent.md) — related
+- [Phenotypic correlations between the nine domains and GCSE are largely mediated genetically](gcse-domain-correlations-genetically-mediated.md) — related

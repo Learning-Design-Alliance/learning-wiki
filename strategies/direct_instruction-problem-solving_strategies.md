@@ -70,6 +70,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
 - [Teach students to recognize when they are applying heuristics and how to exert control over them](recognize-and-control-heuristics-strategy.md)
 - [Use less-structured, multi-part problems with scaffolding that is gradually faded, plus grade incentives, to develop expert-like problem solving](less-structured-problems-scaffolding-fading-strategy.md)
+- [Teach critical thinking strategies explicitly, within subject matter, with staged practice and fading cues](explicit-contextualized-critical-thinking-strategy-teaching.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../principles/responsive-teaching.md)).

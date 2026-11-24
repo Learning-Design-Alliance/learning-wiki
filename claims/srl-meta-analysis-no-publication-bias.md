@@ -106,3 +106,4 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
 - [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related
+- [No evidence for publication bias in the expertise reversal literature (Egger's tests non-significant)](no-publication-bias-expertise-reversal.md) — related

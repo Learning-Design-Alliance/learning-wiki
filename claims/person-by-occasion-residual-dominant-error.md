@@ -52,3 +52,5 @@ Variance-component decomposition from the person x occasion G studies showed the
 - [In the generalizability study, students (16.47%) and residual error (55.38%) dominate score variance, with items at 9.98% and occasions at 2.10%](gtheory-variance-components-pio-vsaq.md) — related
 - [Reliability is context-dependent rather than a static attribute of a measurement tool](reliability-context-dependent-not-static.md) — related
 - [In the G-study, residual error (51%), stations (11.4%), and their interactions dominate OSCE variance, while sites and test versions contribute almost none](osce-variance-components-residual-stations.md) — related
+- [In a person x rater x task x occasion G study, the person x task x occasion interaction was the largest error source (59%) and one-task G coefficients were very low (.04)](occasion-study-pxto-interaction.md) — related
+- [Task-sampling variability is the major source of measurement error in performance assessments across subject matters and levels of analysis](task-sampling-major-source-of-error.md) — reports the opposite

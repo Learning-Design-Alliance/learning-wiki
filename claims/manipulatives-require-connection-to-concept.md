@@ -204,3 +204,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Students perceived the game and simulation as serving distinct but complementary roles in their learning](game-simulation-complementary-roles.md) — related
 - [Students reported the concrete, visual nature of the simulation as helpful for learning relativity](rtr-visual-nature-helpful.md) — a narrower finding that bears on this claim
 - [Over-realistic visualizations of quantum phenomena are perceived as true to life and hinder abstraction, motivating abstract haptic representations](over-realistic-quantum-visualizations-hinder-abstraction.md) — related
+- [Among eight transformation types, changing one concrete physical system to another produced the strongest context shift, while concrete-to-abstract transformation produced the weakest, contrary to the authors' expectation](transformation-type-context-shifts-concrete-strongest-abstract-weakest.md) — related

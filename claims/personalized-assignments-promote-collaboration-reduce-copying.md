@@ -49,3 +49,4 @@ Design-feature statement from the system-features section of the Afeka case stud
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Group assessment scores alone cannot distinguish competent students from students who obtained answers through copying or uncomprehending help](group-scores-invalid-for-individual-inference.md) — related

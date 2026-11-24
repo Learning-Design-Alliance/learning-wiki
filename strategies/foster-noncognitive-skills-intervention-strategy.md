@@ -51,6 +51,7 @@ The article's concluding recommendation is that supporting motivation, self-regu
 
 - [Design educational strategies that foster self-regulation and self-efficacy to support academic success](foster-self-regulation-and-self-efficacy-strategies.md)
 - [Use the integrative framework and non-cognitive predictor set as a road map for counseling, assessment and interventions with students at academic risk](noncognitive-roadmap-counseling-at-risk-students.md)
+- [Treat noncognitive domains (self-efficacy, personality, behavior problems) as plausible candidates for intervention to support educational achievement](noncognitive-domains-intervention-candidates.md)
 
 ## Examples
 -

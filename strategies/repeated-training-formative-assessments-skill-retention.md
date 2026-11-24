@@ -54,6 +54,7 @@ Because both instructional groups showed significant competency decline at least
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
+- [Use quantified decay benchmarks to schedule refresher training before skill proficiency declines](refresher-training-decay-benchmarks.md)
 
 ## Examples
 -

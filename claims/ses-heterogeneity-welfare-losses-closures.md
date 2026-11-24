@@ -77,3 +77,4 @@ Simulation by parental education: lower college attendance rates drive welfare l
 - [Commuting-time effects are larger for left-behind children and children of less-educated parents, with no significant heterogeneity by household wealth.](commuting-time-left-behind-parental-education-heterogeneity.md) — related
 - [Learning losses varied by parental education and parental income, on top of already existing inequalities](covid-learning-loss-inequality-parental-education-income.md) — related
 - [Adolescents from lower household wealth index tertiles had significantly poorer academic performance than peers from middle and higher wealth households](lower-wealth-index-associated-poor-academic-performance.md) — related
+- [The hour and break effects equal benchmark shifts of roughly 10–19 school days or 1,000–1,900 USD of household income](fatigue-effects-benchmark-income-school-days.md) — related

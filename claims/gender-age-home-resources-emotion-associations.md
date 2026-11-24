@@ -59,3 +59,4 @@ Covariate associations from the LSEM of 1103 Chinese college EFL learners (71.0%
 - [Higher parental expectations contemporaneously predict more positive and fewer negative mathematics achievement emotions, with boredom an exception](parental-expectations-contemporaneous-achievement-emotions.md) — related
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — related
 - [Gender, age and SES correlate with EFL PsyCap, boredom, engagement and achievement](gender-age-ses-efl-outcomes.md) — related
+- [Gender and parental education predict math emotions and achievement, with boys reporting more enjoyment and less anxiety](gender-ses-covariate-effects-math-emotions.md) — related

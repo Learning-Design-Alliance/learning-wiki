@@ -49,3 +49,5 @@ The essay's Lesson Six argument, citing Polya (1945) and Schoenfeld (1985). Name
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — a narrower finding that bears on this claim
 - [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — related
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related
+- [When experts face atypical problems, general Polya-like heuristics play a prominent role alongside domain knowledge](experts-deploy-general-heuristics-on-atypical-problems.md) — a narrower finding that bears on this claim
+- [General heuristics act as weak methods that yield weak results in complex domains, with a power-generality tradeoff](weak-methods-power-generality-tradeoff.md) — related

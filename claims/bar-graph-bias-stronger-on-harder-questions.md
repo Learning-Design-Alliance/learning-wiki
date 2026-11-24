@@ -48,3 +48,4 @@ Post hoc chi-square comparison within the same crossover dataset, contrasting th
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [The Step 3 confidence effect depended on case difficulty: confidence fell at Step 3 in the hardest case (7% accuracy) but not in the easiest case (71% accuracy)](step3-effect-moderated-by-case-difficulty.md) — related
 - [Students who see the class-response bar graph before peer discussion are 30% more likely to switch from a less common to the most common answer than students who do not see it](bar-graph-display-biases-switch-to-most-common-answer.md) — a broader claim this one bears on
+- [Stereotype threat effects increase with test difficulty: easy tests d = -.24, moderate d = -.30, difficult d = -.40](test-difficulty-gradient-stereotype-threat.md) — related

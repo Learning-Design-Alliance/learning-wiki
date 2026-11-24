@@ -69,3 +69,4 @@ Secondary correlational analysis of the videotaped pairs; for ICC the correlatio
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — a broader claim this one bears on
 - [ICC students solved the contrasting-case worksheets somewhat less accurately than T&P students, yet still transferred better](initial-worksheet-success-does-not-predict-transfer.md) — related
 - [ICC students transferred an understanding of ratio rather than a multiple-case strategy, maintaining their advantage on a single-case transfer problem](transferred-ratio-not-case-strategy.md) — related
+- [Familiarity with a story analogue drives deep-structure transfer: 75 percent of American versus 25 percent of Chinese students solved the trail puzzle](deep-structure-familiarity-enables-transfer.md) — related

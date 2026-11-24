@@ -48,3 +48,4 @@ Narrative review of laboratory retention studies beginning with Ebbinghaus's sel
 ## Related Claims
 - [Naturalistic studies show a triphasic retention curve including a flat permastore phase from about 6 to 25–30 years after learning](permastore-triphasic-retention-curve.md) — related
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Retention declines with retention-interval length but school-learning forgetting curves decline more slowly and level off rather than falling steeply](school-forgetting-curve-levels-off.md) — a narrower finding that bears on this claim

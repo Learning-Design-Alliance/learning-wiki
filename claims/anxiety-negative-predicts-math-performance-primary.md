@@ -54,3 +54,4 @@ Structural equation modeling of four-wave longitudinal data from 1,242 primary s
 - [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](anxiety-strongest-predictor-when-emotions-modeled-together.md) — possibly the same claim (merge candidate)
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related
+- [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — a broader claim this one bears on

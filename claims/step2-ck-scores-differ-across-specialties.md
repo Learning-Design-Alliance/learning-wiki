@@ -52,3 +52,4 @@ Univariate ANOVA on Step 2 CK scores in the same retrospective dataset (N = 1054
 - [Residency specialty match is significantly associated with the combination of USMLE Step 1 and Step 2 CK scores](usmle-scores-associated-with-residency-specialty-manova.md) — a broader claim this one bears on
 - [Mean licensing exam scores differ substantially between students matching into high- versus low-competitiveness specialties](exam-score-gaps-high-vs-low-competitiveness.md) — related
 - [The authors interpret the specialty-score pattern as maintained by self-selection and admission pressure](self-selection-interpretation-of-specialty-score-pattern.md) — related
+- [Non-USIMGs had higher Step 2 CK scores and slightly higher patient volume than USIMGs](non-usimgs-higher-step2-scores.md) — related

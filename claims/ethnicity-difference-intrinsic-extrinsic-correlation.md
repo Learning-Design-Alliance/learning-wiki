@@ -66,3 +66,4 @@ Subscale analysis of the pleasing-the-teacher component across ethnic groups. Th
 ## Related Claims
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — possibly the same claim (merge candidate)
 - [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — related

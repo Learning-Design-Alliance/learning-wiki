@@ -46,3 +46,7 @@ The article reports, citing Sadler et al. (2013), a large-scale study of 9,556 s
 
 ## Related Claims
 - [Prior research found large learning-gain differences between students taught by teachers who could versus could not identify alternate conceptions on strong-distractor items](teacher-mci-knowledge-linked-to-learning-gains.md) — possibly the same claim (merge candidate)
+- [Student gains are larger on non-misconception items (0.380 SD) than on misconception items (0.278 SD)](gains-larger-non-misconception-items.md) — related
+- [On items with strong misconceptions, teacher SMK alone does not raise gains; only SMK combined with knowledge of the student misconception does](smk-insufficient-kosm-needed-misconception-items.md) — related
+- [Teacher subject matter knowledge predicts larger student gains on non-misconception items in middle school physical science](teacher-smk-predicts-gains-non-misconception-items.md) — related
+- [Middle school physical science teachers show strong SMK but weak knowledge of student misconceptions](teachers-kosm-weak-relative-to-smk.md) — related

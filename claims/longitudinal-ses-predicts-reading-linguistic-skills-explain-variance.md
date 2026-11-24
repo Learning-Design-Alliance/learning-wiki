@@ -95,3 +95,4 @@ Metaregression (ROBUMETA) of the partialled longitudinal SES-reading relation wi
 - [SES moderates relationships between other variables and student learning](ses-as-moderator-of-other-relationships.md) — related
 - [Children's self-perceptions jointly and separately partially mediate the SES–reading achievement association, explaining additional ΔR² = 0.105](self-perceptions-partially-mediate-ses-reading-achievement.md) — related
 - [Across 70 countries, socioeconomic status is positively associated with reading achievement (meta-analytic r = 0.339)](ses-reading-achievement-association-70-countries.md) — related
+- [SES shows a medium correlation with academic achievement at the student level and a much larger correlation when SES is aggregated at the school or district level](ses-achievement-correlation-student-and-aggregated-levels.md) — related

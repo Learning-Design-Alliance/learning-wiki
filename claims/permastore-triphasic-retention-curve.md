@@ -49,3 +49,4 @@ The review attributes the triphasic curve and permastore concept to Bahrick's na
 - [Retention of meaningful material follows a negatively accelerated forgetting curve with large early losses that level off](ebbinghaus-curve-meaningful-material.md) — related
 - [Prolonged contact with a domain, not grades in a single course, is the most important determinant of long-term retention](prolonged-contact-determines-retention.md) — related
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
+- [Retention declines with retention-interval length but school-learning forgetting curves decline more slowly and level off rather than falling steeply](school-forgetting-curve-levels-off.md) — a broader claim this one bears on

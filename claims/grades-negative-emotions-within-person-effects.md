@@ -80,3 +80,4 @@ Same RI-CLPM models: several paths did not reach significance. The article notes
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](negative-academic-emotions-sometimes-improve-learning.md) — reports the opposite
 - [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](psycap-boredom-engagement-paths.md) — related
 - [Positive academic emotions predict performance positively while negative emotions predict it negatively, with hope (β = 0.669) and hopelessness (β = −0.657) leading](academic-emotions-predict-performance-jiroft.md) — related
+- [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — related

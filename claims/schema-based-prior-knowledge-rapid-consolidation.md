@@ -49,3 +49,5 @@ The review reports, citing Tse et al. (2007), rat studies of a complex event are
 - [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](schema-related-facts-better-remembered.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related
+- [A consistent activated schema is causally necessary for rapid one-trial learning: new pairs are learned and retained only in the consistent-schema context](consistent-schema-causal-for-one-trial-learning.md) — a narrower finding that bears on this claim
+- [Prior schema learning allows one-trial paired associates to be recalled 24 hours later and consolidated within 48 hours, becoming hippocampus-independent](schema-enables-rapid-consolidation-48-hours.md) — possibly the same claim (merge candidate)

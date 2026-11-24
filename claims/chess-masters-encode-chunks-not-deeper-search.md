@@ -72,3 +72,4 @@ The review reports the cited control experiment (Chase & Simon, 1973) as ruling 
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
 - [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — related
 - [Skilled activity stores relevant information in LTM incidentally: chess players recall positions after move selection as well as when warned of a memory test](incidental-ltm-storage-during-skilled-activity.md) — related
+- [Expert performance rests on a large base of domain-specific patterns accessed by recognition, not on general reasoning alone](expertise-depends-on-domain-specific-pattern-base.md) — possibly the same claim (merge candidate)

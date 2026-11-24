@@ -47,7 +47,8 @@ The article recommends that faculty enhance role modeling's value by targeting s
 - [Not all clinical teachers are positive role models: one cited study identified 40% of attending physicians as role models, and another found half of clerks felt their teachers were not good role models](../claims/not-all-clinical-teachers-are-role-models.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Hold intentional faculty meetings about testing and grading philosophy to prevent a hidden curriculum from developing](faculty-meetings-assessment-philosophy.md)
 
 ## Examples
 -

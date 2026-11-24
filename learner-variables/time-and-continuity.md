@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 287 claims (183 show a difference, 67 mixed, 37 no difference) · 247 studies (116 causal, 62 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 4 theoretical), `q1`–`q4` · 45 of 247 report an effect size · 283 claims rest on one study
+> **Evidence** · 289 claims (184 show a difference, 68 mixed, 37 no difference) · 248 studies (116 causal, 63 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 4 theoretical), `q1`–`q4` · 45 of 248 report an effect size · 285 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -344,6 +344,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Students with 5 consecutive summer losses ultimately lose nearly 40% of their total school-year gains during the intervening summers](../claims/consecutive-losers-lose-nearly-40-percent-of-school-year-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Summer learning gains/losses vary dramatically across students, with summer SD-to-mean ratios (1.4–5.2 in ELA) far larger than school-year ratios](../claims/dramatic-variability-in-summer-learning-loss.md) [+M] — learners who differ on it differ in outcomes
 - [Summer loss is not uniform across subjects: math computation and spelling show consistent losses while math reasoning and reading comprehension do not](../claims/summer-loss-subject-differences-vote-count.md) [~M] — learners who differ on it differ in outcomes
+- [In short-time-span studies the perceptual speed ability-consistent task performance relationship follows a significant cubic trend over time, not the predicted inverted-U quadratic](../claims/perceptual-speed-consistent-cubic-short-span.md) [~M] — an instructional effect differs with it
+- [The correlation between cognitive ability and consistent task performance declines over time with significant negative linear and quadratic (concave downward) trends in both short- and long-time-span reanalyses](../claims/cognitive-ability-consistent-task-validity-declines.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

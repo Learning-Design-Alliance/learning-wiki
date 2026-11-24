@@ -50,3 +50,4 @@ Regression of teacher expectation accuracy on weekly household income (reported 
 - [Pupils whose mothers have lower educational qualifications underperform their teachers' expectations relative to pupils of degree-educated mothers at ages 11 and 14](maternal-education-patterning-of-expectation-accuracy.md) — related
 - [Pupils born later in the school year slightly underperform their teachers' expectations at ages 11 and 14](month-of-birth-expectation-accuracy.md) — related
 - [Teacher expectations of achievement are strongly associated with pupils' realised national exam scores at ages 11 and 14](teacher-expectations-strongly-track-achievement-ks2-ks3.md) — related
+- [The hour and break effects equal benchmark shifts of roughly 10–19 school days or 1,000–1,900 USD of household income](fatigue-effects-benchmark-income-school-days.md) — related

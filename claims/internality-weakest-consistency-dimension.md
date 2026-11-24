@@ -48,3 +48,4 @@ Squared factor loadings from the eight-factor LISREL model in Study 1 estimated 
 - [Selecting highly consistent individuals on the ASQ does not eliminate situational specificity in attributions (Study 1)](consistent-subsample-still-situation-specific.md) — related
 - [Selecting highly consistent women does not improve the ASQ's predictive validity for actual-event attributions (Study 2)](consistent-subsample-no-predictive-gain.md) — related
 - [ASQ scores are poor predictors of causal attributions for actual negative events (Study 2)](asq-poor-predictor-actual-attributions.md) — related
+- [Bipolar attribution dimensions (internal-external, stable-unstable) derived from situational research are not supported for dispositional self-attributions of children](bipolar-dimensions-fail-dispositional-attributions.md) — related

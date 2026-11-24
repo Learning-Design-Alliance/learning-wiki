@@ -53,3 +53,4 @@ Meta-analysis of the classic I/E model correlations (k = 118 data sets). The sam
 - [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — related
 - [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related
 - [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — possibly the same claim (merge candidate)
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — a broader claim this one bears on

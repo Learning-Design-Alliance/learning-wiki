@@ -47,3 +47,4 @@ Theoretical argument in the introduction, citing prior work (e.g., R. B. Anderso
 ## Related Claims
 - [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related

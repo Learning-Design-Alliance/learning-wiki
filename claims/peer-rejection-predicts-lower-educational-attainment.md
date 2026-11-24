@@ -50,3 +50,4 @@ Ordinal logistic regression (Model 1) in the TRAILS sample (N = 2229), with peer
 - [Peer acceptance in pre-adolescence is not significantly associated with educational attainment in early adulthood](peer-acceptance-not-related-to-educational-attainment.md) — related
 - [Socioeconomic status and intelligence in pre-adolescence vary strongly across attained educational levels, with girls reaching higher levels than boys](ses-wisc-gender-differences-educational-attainment.md) — related
 - [Perceived parental rejection in pre-adolescence is not significantly associated with educational attainment in early adulthood](parental-rejection-not-related-to-educational-attainment.md) — related
+- [Peer-rejected adolescents received help more often but gave help less often and did not help low-rejected peers](rejected-adolescents-help-asymmetry.md) — related

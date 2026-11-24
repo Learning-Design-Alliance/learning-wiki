@@ -74,3 +74,4 @@ Reliability analysis of the two large-scale diagnostic forms. The article report
 - [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
 - [TOSLS shows acceptable psychometric properties: reliability 0.731–0.748, average item difficulty 0.59–0.68, and average item discrimination 0.26–0.27](tosls-psychometric-properties.md) — related
+- [Despite weak faculty prediction ability, the examinations were of high quality, with reliability coefficients of 0.70–0.92 and mean item discrimination of 0.37](exam-quality-high-despite-weak-prediction.md) — related

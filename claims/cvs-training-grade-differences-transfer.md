@@ -69,3 +69,4 @@ For second graders in the Training-Probe condition, overall improvement was marg
 - [Children trained with explicit instruction and probes became good experimenters at transfer more often than untrained children (44% vs. 22% and 13%).](cvs-training-produces-good-experimenters.md) — related
 - [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test](hh-guidance-beats-ll-cvs-children.md) — related
 - [CVS training improved children's domain-specific knowledge of the trained tasks, while untrained children showed no significant gain.](cvs-training-improves-domain-knowledge.md) — related
+- [Explicit instruction plus practice in controlling variables transfers to new materials seven months later, with stronger transfer in older children](control-of-variables-instruction-transfers-seven-months.md) — related

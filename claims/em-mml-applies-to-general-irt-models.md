@@ -49,3 +49,4 @@ The abstract reports an analytical demonstration that the EM-based marginal maxi
 - [The EM-based MML procedure covers item-response models with more than one latent dimension](em-mml-covers-multidimensional-models.md) — a narrower finding that bears on this claim
 - [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — related
 - [Empirically characterizing the ability distribution avoids arbitrary assumptions about its form](empirical-ability-distribution-avoids-assumptions.md) — related
+- [Graphical models offer a more general expression of probability-based evidence accumulation than traditional psychometric models such as IRT and latent class models](graphical-models-generalize-psychometric-evidence-accumulation.md) — related

@@ -53,3 +53,4 @@ Randomised retention analysis with retention-tests at 2–4, 10–12, or 18–20
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — related
 - [A standalone web-based ECG tutorial significantly improves medical students' ECG interpretation test scores immediately after training](web-ecg-tutorial-improves-post-test-scores.md) — related
+- [Procedural skill performance differences grow by 0.08 SD units per month for accuracy measures and 0.06 SD units per month for speed-based and mixed measures](procedural-skill-decay-rate-per-month.md) — related

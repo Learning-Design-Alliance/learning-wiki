@@ -69,6 +69,7 @@ The article recommends that future programmes address skill decay by building in
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 - [Comprehensive standardized training with scheduled refresher courses and attitude education for post-rape care providers](comprehensive-training-refresher-attitude-education-strategy.md)
+- [Use quantified decay benchmarks to schedule refresher training before skill proficiency declines](refresher-training-decay-benchmarks.md)
 
 ## Examples
 -

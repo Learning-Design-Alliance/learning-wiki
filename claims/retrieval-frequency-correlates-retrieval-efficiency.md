@@ -55,3 +55,5 @@ Correlational and regression analyses across the three grades showed retrieval u
 - [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related
 - [Both a predominantly computational-strategy task and a retrieval-expected task show most support for the computational efficiency model of multiplication difficulty.](computational-efficiency-model-supported-in-both-tasks.md) — related
 - [Higher frequency of performing a procedure is linked to higher confidence and lower training needs in that area](procedure-frequency-linked-confidence-training-needs.md) — related
+- [Children use multiple arithmetic strategies, not consistently the min strategy, though the min model predicts aggregate solution times](children-use-multiple-addition-strategies.md) — related
+- [Children's strategy use is highly variable: each child used at least five strategies with large individual differences in frequencies](high-variability-in-strategy-use.md) — related

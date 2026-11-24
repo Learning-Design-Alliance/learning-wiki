@@ -87,3 +87,4 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 - [Subject-specific A-level heritabilities range from 35% for history to 76% for chemistry, but the study lacks power to detect these differences](subject-heritability-range-history-chemistry.md) — a narrower finding that bears on this claim
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
 - [University quality remains substantially heritable (47%) even after prior entrance exam achievement is accounted for](university-quality-heritable-beyond-prior-achievement.md) — a narrower finding that bears on this claim
+- [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — a narrower finding that bears on this claim

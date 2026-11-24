@@ -48,3 +48,4 @@ Same preregistered online experiment (56 adults, mixed-effects models with Bonfe
 ## Related Claims
 - [Reading standard, positive, or negative refutation texts yields significantly higher open-ended explanation scores than reading non-refutation texts in adults](refutation-texts-explanation-knowledge-revision-adults.md) — related
 - [Refutation text type shows no significant effect on binary True/False posttest scores](refutation-texts-no-tf-effect.md) — related
+- [Refutation text produces a moderate positive effect on learning compared to non-refutation text conditions](refutation-text-moderate-overall-effect.md) — related

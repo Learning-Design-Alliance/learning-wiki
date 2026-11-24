@@ -67,3 +67,4 @@ In a 2 x 2 x 2 factorial design with college students solving simultaneous equat
 - [In Experiment 1, the effect of worked-example assignments did not differ between low and high prior knowledge students](exp1-no-prior-knowledge-interaction.md) — related
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
 - [Treatment difficulty and instrumentation technique did not influence evaluators' scores under either assessment method](difficulty-technique-no-influence-scores.md) — related
+- [The expertise reversal effect is a strong overall interaction effect (d = 0.971)](expertise-reversal-strong-interaction-effect.md) — related

@@ -48,3 +48,4 @@ In the logistic regression, "practical computer knowledge had a signiﬁcant in�
 - [Computer domain identification correlates positively with self-efficacy, motivation, knowledge, and external attribution](domain-identification-correlates-computer-variables.md) — a broader claim this one bears on
 - [Stereotype threat affects women's attribution of failure in a computer task: under negative threat, women attribute failure more internally and men more externally](stereotype-threat-attribution-of-failure-computer-task.md) — related
 - [The sex × threat condition interaction on external attribution of failure is statistically significant](sex-threat-interaction-external-attribution.md) — related
+- [Success/external attributions correlate negatively with achievement while failure/external attributions are virtually uncorrelated with it — an anomaly the authors cannot explain](external-attribution-achievement-anomaly.md) — related

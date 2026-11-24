@@ -67,3 +67,4 @@ Univariate twin model-fitting (OpenMx) in the TEDS twin sample estimated ACE var
 - [Twin analyses show the genetic contribution of non-cognitive skills to academic achievement independent of cognitive genetics increases over development, from 1% of achievement variance at age 9 to 12% at age 16](twin-ncs-genetic-contribution-increases.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
+- [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — related

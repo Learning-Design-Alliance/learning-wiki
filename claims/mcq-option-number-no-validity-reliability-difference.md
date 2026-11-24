@@ -69,3 +69,4 @@ Item analysis (Table 3) compared mean discrimination index and point biserial (R
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
+- [Despite weak faculty prediction ability, the examinations were of high quality, with reliability coefficients of 0.70–0.92 and mean item discrimination of 0.37](exam-quality-high-despite-weak-prediction.md) — related

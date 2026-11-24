@@ -64,3 +64,4 @@ Univariate meta-regressions (Table 2) tested sex, region, PSU assessment, achiev
 - [Little reliable moderation by learner characteristics, with one exploratory gender interaction favoring women and non-binary students under constructive instruction](moderation-gender-interaction-exploratory.md) — related
 - [Participant characteristics (proportion of women, mean age, mean BMI) did not significantly moderate the MedDiet–objective AP association](meddiet-ap-metaregression-null-moderators.md) — related
 - [Nationality and publication status moderate mastery-based goal–performance correlations; age and sex do not](nationality-publication-moderate-mastery-goals.md) — related
+- [Participant sex proportion and elapsed time since publication do not moderate the self-efficacy–performance relationship](sex-and-cohort-null-moderators.md) — related

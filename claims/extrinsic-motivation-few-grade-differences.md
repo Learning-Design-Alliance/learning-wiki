@@ -51,3 +51,4 @@ Post-hoc pairwise comparisons following an omnibus ANOVA across grades in the 79
 ## Related Claims
 - [Intrinsic motivation shows a significant linear decrease from third through eighth grade when measured independently of extrinsic motivation](intrinsic-motivation-linear-decline-grades-3-8.md) — related
 - [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](preference-easy-work-increases-with-age.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — related

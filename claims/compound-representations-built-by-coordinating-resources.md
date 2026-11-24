@@ -52,3 +52,4 @@ Detailed case study analysis of transcripts and video from Larry's individual or
 - [Different semiotic resources in the same mode carry different disciplinary affordances that access different aspects of physics knowledge](semiotic-resources-different-disciplinary-affordances.md) — related
 - [Students build new meaning onto durable representations using evanescent representations during problem solving](students-build-meaning-on-durable-representations-with-evanescent.md) — a broader claim this one bears on
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
+- [A meta-analysis of 40 experiments found knowledge-building approaches effective and strategy-only approaches ineffective for teaching scientific problem solving](meta-analysis-40-experiments-knowledge-building-problem-solving.md) — related

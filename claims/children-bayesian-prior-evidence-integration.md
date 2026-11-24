@@ -73,3 +73,4 @@ The same article argues that [hierarchical causal models](../research-methods/hi
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — a narrower finding that bears on this claim
 - [Four-year-olds infer unobserved hidden causes when observed variables cannot explain the evidence](children-infer-unobserved-causes.md)
 - [Children's active-condition predictions closely align with an optimal Bayesian learner, supporting rational Bayesian inference as a model of children's belief revision](children-predictions-align-optimal-bayesian-learner.md) — a narrower finding that bears on this claim
+- [Three-year-olds can use conditional probabilities in the blicket-detector task, while adults and trained scientists sometimes fail at such reasoning](young-children-conditional-probability-blicket.md) — related

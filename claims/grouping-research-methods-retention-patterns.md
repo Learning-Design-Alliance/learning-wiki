@@ -51,3 +51,4 @@ Between-subjects ANOVA of the concept-grouping test (sorting 24 concepts into si
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
+- [Retention declines with retention-interval length but school-learning forgetting curves decline more slowly and level off rather than falling steeply](school-forgetting-curve-levels-off.md) — a broader claim this one bears on

@@ -68,3 +68,4 @@ Correlational analysis of California Achievement Test scores in the first school
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — reports the opposite
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
 - [Intrinsic motivation is positively correlated with both GPA and standardized test scores](intrinsic-motivation-positively-correlated-achievement.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — related

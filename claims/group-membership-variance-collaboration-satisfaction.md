@@ -51,3 +51,4 @@ Scenario A null-model LMM variance decomposition. The intraclass correlation of 
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related
 - [Multilevel variance decomposition shows both group and student level variance are significantly different from zero, with most variance at the student level](multilevel-variance-student-level-dominant.md) — related
+- [A substantial share of variance in perceived teacher support and mathematics interest is attributable to classroom membership](classroom-membership-variance-support-interest.md) — related

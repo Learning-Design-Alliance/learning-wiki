@@ -115,3 +115,4 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Integrated worked examples elicited more correct inferences and more solution-linked rereads than split-source examples](integrated-examples-inference-making-rereads.md) — related
 - [For more experienced learners, problem solving proved superior to studying worked examples (a redundancy effect) in Experiment 2](redundancy-effect-problem-solving-superior-experienced-learners.md) — related
 - [Inexperienced trainees benefit more from studying worked examples than from solving equivalent problems, performing better with lower mental load](worked-examples-superior-for-inexperienced-learners.md) — related
+- [The expertise reversal effect is asymmetric: providing novices with assistance has a stronger effect than withholding assistance from experts](expertise-reversal-asymmetric-provide-assistance.md) — related

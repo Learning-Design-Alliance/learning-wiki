@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 303 claims (208 show a difference, 66 mixed, 29 no difference) · 194 studies (70 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 194 report an effect size · 300 claims rest on one study
+> **Evidence** · 305 claims (210 show a difference, 66 mixed, 29 no difference) · 195 studies (71 associational, 60 causal, 19 review, 18 qualitative, 15 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 42 of 195 report an effect size · 302 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -338,6 +338,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Boredom during problem solving is negatively correlated with performance, but boredom during scaffolded tutoring is positively correlated with performance](../claims/boredom-performance-context-dependent-assistments.md) [~M] — learners who differ on it differ in outcomes
 - [Confusion shows a context-dependent pattern unexpectedly similar to boredom during problem solving and scaffolded tutoring](../claims/confusion-context-dependent-pattern-assistments.md) [~M] — learners who differ on it differ in outcomes
 - [Engaged concentration and frustration are both associated with positive learning outcomes](../claims/engaged-concentration-frustration-positive-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Boredom and anxiety have negative reciprocal effects with math grades over time](../claims/boredom-anxiety-grades-negative-reciprocal.md) [+M] — learners who differ on it differ in outcomes
+- [Reciprocal emotion–achievement effects show developmental equilibrium, remaining stable across one-year intervals in elementary school](../claims/developmental-equilibrium-emotions-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (79 show a difference, 16 mixed, 12 no difference) · 66 studies (32 causal, 17 associational, 6 design, 5 quant-synthesis, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 15 of 66 report an effect size · 104 claims rest on one study
+> **Evidence** · 108 claims (79 show a difference, 17 mixed, 12 no difference) · 67 studies (32 causal, 17 associational, 6 design, 5 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 67 report an effect size · 105 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -144,6 +144,7 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Both tutoring conditions improve procedural calculation relative to no tutoring, with no difference between them](../claims/tutoring-improves-procedural-calculation.md) [+M] — measured as an outcome of the instruction studied
 - [Pirate Math word-problem tutoring enhances word-problem skill along with number-combination fluency, procedural computation, and algebra](../claims/pirate-math-improves-word-problems-and-foundational-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](../claims/strategy-reports-shift-to-retrieval-with-practice.md) [+M] — measured as an outcome of the instruction studied
+- [Children use multiple arithmetic strategies, not consistently the min strategy, though the min model predicts aggregate solution times](../claims/children-use-multiple-addition-strategies.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

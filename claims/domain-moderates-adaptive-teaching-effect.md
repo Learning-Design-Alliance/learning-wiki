@@ -69,3 +69,4 @@ Omnibus moderation analysis of the same study. The article also reports "no diff
 - [Degree of adaptivity moderates the adaptive teaching effect: only highly adaptive units outperform control, and boost self-efficacy](degree-of-adaptivity-moderates-adaptive-teaching-effect.md) — related
 - [Answer format moderates the adaptive teaching effect: with open-answer items controlled, immediate learning benefits also emerge](answer-format-moderates-adaptive-teaching-effect.md) — related
 - [Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use](subject-differences-digital-data-use.md) — related
+- [Effect size is moderated by content domain, being especially weak in humanities and language learning](ere-moderated-by-content-domain.md) — related

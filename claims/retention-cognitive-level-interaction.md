@@ -50,3 +50,4 @@ Repeated measures ANOVA of retention exam scores by cognitive level (Fig 5D, n =
 - [Students tested immediately after learning a topic score higher than students tested on the same items after a delay](delayed-midterm-items-lower-scores.md) — reports the opposite
 - [Midterm format has no overall effect on retention exam scores five months after the course](midterm-format-no-overall-retention-effect.md) — related
 - [Students perceive cumulative midterms as more beneficial for retention regardless of the format they experienced](students-prefer-cumulative-midterms.md) — related
+- [Students retain identical test questions better than parallel questions on retention tests](identical-questions-retained-better-than-parallel.md) — related

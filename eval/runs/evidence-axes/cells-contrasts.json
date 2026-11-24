@@ -133926,5 +133926,45 @@
  "interleaving\trandom practice schedule\tblocked practice schedule": {
   "label": "interleaved vs blocked practice",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative small-group assessment\tindividual assessment without collaboration": {
+  "label": "collaborative vs individual assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-discussed conservation trial\tnon-discussed conservation trial": {
+  "label": "peer discussion vs no peer discussion",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit instruction in controlling variables followed by practice\tnot stated": {
+  "label": "Explicit instruction in controlling variables vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching Polya's general problem-solving heuristics\tnot stated": {
+  "label": "Instruction in Polya's general problem-solving heuristics vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching Polya's heuristics for mathematical problem solving\tnot stated": {
+  "label": "Instruction in Polya's mathematical problem-solving heuristics vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching general context-independent cognitive strategies\tnot stated": {
+  "label": "General, context-independent cognitive-strategy instruction vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching general, context-independent cognitive strategies\tperformance in other domains outside the teaching context": {
+  "label": "General, context-independent cognitive-strategy instruction vs performance in other domains outside the teaching context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching general, context-independent cognitive strategies\tperformance outside the specific taught domains": {
+  "label": "General, context-independent cognitive-strategy instruction vs performance outside the specifically taught domains",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery condition with corrective learning\tconventional fixed-paced instruction": {
+  "label": "mastery learning vs conventional fixed-paced instruction",
+  "treatment_is_a": true
+ },
+ "media-design\trefutation texts with images\ttext-only refutation texts": {
+  "label": "refutation texts with images vs text-only refutation texts",
+  "treatment_is_a": true
  }
 }

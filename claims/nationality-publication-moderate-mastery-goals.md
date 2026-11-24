@@ -90,3 +90,4 @@ Simple regressions of age and sex on the four goal–performance correlations (T
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — related
 - [The PSU–achievement relationship is not significantly moderated by sex, region, age, year of publication, study quality, achievement indicator, PSU assessment format, or publication status](psu-achievement-link-robust-to-methodological-demographic-moderators.md) — related
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
+- [Participant sex proportion and elapsed time since publication do not moderate the self-efficacy–performance relationship](sex-and-cohort-null-moderators.md) — related

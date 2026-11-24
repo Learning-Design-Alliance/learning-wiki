@@ -52,3 +52,5 @@ Tripartite RI-CLPM combining all seven emotions into higher-order positive and n
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — a narrower finding that bears on this claim
 - [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](within-person-grade-emotion-correlations.md) — related
 - [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](negative-affect-mediation-emotional-only.md) — related
+- [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — a narrower finding that bears on this claim
+- [Enjoyment and math grades are linked by positive reciprocal effects over time](enjoyment-grades-positive-reciprocal-effects.md) — related

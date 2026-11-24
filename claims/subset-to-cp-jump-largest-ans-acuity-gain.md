@@ -68,3 +68,4 @@ ANCOVA with S2-to-S5 percent correct, age and sex as covariates, replicated with
 - [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
 - [Knower levels were longitudinally stable across sessions, replicating Wynn, while the CP-Non-Mapper/CP-Mapper distinction fluctuated across sessions](knower-levels-stable-mapper-distinction-unstable.md) — related
 - [ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct](no-significant-w-improvement-over-six-months.md) — related
+- [Longitudinal studies show spurts (sudden jumps) in cognitive and electrocortical development](spurts-longitudinal-sudden-jumps.md) — a broader claim this one bears on

@@ -53,3 +53,4 @@ This is a theoretical argument from the article's opening discussion, not a test
 - [Exact parallelism between physical and mental development cannot be demonstrated; correlations vary enormously from individual to individual](no-exact-physical-mental-parallelism.md) — related
 - [The mental quotient is misleading as a general expression of mental development and is valuable only when cases are of the same age](mental-quotient-misleading-across-ages.md) — related
 - Inferring from a group probability to an individual patient has little warrant, so population-level evidence cannot close the gap to the individual case — related
+- [Classical test theory's validity and reliability claims cannot be generalized to individual assessment of nonstationary processes such as development and learning](test-theory-inapplicable-to-nonergodic-individuals.md) — a narrower finding that bears on this claim

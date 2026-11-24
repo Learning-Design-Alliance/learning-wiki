@@ -75,3 +75,4 @@ Pearson correlations (Table 7) among the 229 teachers. "the more children teache
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
 - [SJT scores showed no significant differences by socio-economic status indicators (high school origin and parental educational background) in either pilot year](sjt-no-ses-score-differences-indonesia-pilot.md) — related
 - [Socio-economic background, whether indexed by school type or by a Barratt-based Social Status score, explains very little variance in assessment marks](ses-measures-explain-little-assessment-variance.md) — related
+- [Randomization checks in the STAR experiment found no significant differences on measured student and teacher characteristics](star-randomization-checks-no-significant-differences.md) — related

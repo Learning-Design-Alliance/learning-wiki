@@ -55,3 +55,4 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 - Funnel plots suggest low publication bias for score outcomes but possible small-sample bias for autonomous learning ability — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — reports the opposite
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
+- [No evidence for publication bias in the expertise reversal literature (Egger's tests non-significant)](no-publication-bias-expertise-reversal.md) — related

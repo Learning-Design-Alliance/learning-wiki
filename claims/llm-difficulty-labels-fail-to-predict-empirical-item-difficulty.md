@@ -64,3 +64,5 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [After controlling for Bloom’s level, question familiarity had no effect on MLab exam performance, while Bloom’s level was a significant predictor](bloom-level-predicts-familiarity-does-not.md) — related
 - [Weeks with LLM-generated multiple-choice retrieval practice produced significantly higher quiz scores than weeks without retrieval practice in college data science courses (r = 0.5860)](llm-generated-retrieval-practice-higher-quiz-accuracy.md) — related
 - [SEC remains effective when curriculum categories are automatically inferred from empirical success rates rather than manual difficulty labels](sec-works-with-inferred-curriculum-categories.md) — related
+- [Bloom's taxonomy cognitive level of multiple-choice items shows no significant relationship to actual item difficulty or item discrimination](cognitive-level-no-relation-difficulty.md) — related
+- [Faculty members differ significantly in their individual ability to predict item difficulty, with success rates ranging from 27% to 75%](individual-variation-difficulty-prediction.md) — related

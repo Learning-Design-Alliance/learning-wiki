@@ -64,3 +64,4 @@ Think-aloud interviews with four introductory students plus a few graduate stude
 - [Experts categorize physics problems by the major physics principle governing solution, whereas novices categorize by surface features such as objects and keywords](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Experts cue their basic approach on derived second-order features of the problem situation, which novices almost never mention](second-order-features-guide-expert-approach.md) — related
 - [When surface features are crossed with physics laws, experts still sort by principle and novices by surface structure, with advanced novices showing an intermediate pattern](surface-deep-crossing-replication-sorting.md) — related
+- [No child ever used an illegitimate addition strategy, suggesting a goal sketch constrains strategy generation](goal-sketch-constrains-strategy-discovery.md) — related

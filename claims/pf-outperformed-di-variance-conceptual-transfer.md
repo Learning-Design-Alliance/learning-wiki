@@ -69,3 +69,4 @@ Classroom-based study with 9th-grade students learning the concept of variance; 
 - [PF problem-solving before instruction activates prior knowledge and generates multiple, non-canonical solution pathways](pf-activates-prior-knowledge-multiple-pathways.md) — related
 - [PF and DI produce similar initial programming performance on Python list tasks immediately after instruction](pf-di-similar-initial-python-list-performance.md) — related
 - [Invention activities produce better conceptual attempts on the standardization problem than tell-and-practice, while tell-and-practice produces better performance on the variability problem](invention-vs-tell-and-practice-learning-performance.md) — related
+- [Transfer occurs when acquisition conditions are met, via a low road of varied practice to automaticity and a high road of mindful abstraction](low-road-high-road-transfer-mechanisms.md) — a broader claim this one bears on

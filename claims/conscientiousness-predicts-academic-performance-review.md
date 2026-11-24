@@ -62,3 +62,4 @@ Narrative review reporting, citing Spielmann et al. (2022), that "conscientiousn
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — a narrower finding that bears on this claim
 - [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related
 - [Conscientiousness robustly predicts academic performance beyond cognitive ability](conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) — related
+- [Academic level significantly moderates personality-academic performance correlations, with correlations declining from primary to secondary and tertiary levels for all dimensions except Conscientiousness](academic-level-moderates-personality-performance.md) — related

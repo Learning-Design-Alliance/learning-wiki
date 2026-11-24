@@ -48,3 +48,4 @@ Meta-analytic moderator analysis (Table 4) comparing closed-looped and open-loop
 - [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](free-recall-increases-situational-interest-performance-mediated.md) — related
 - [Overall posttest performance does not differ between targeted and holistic retrieval conditions](no-overall-performance-difference-between-retrieval-task-types.md) — related
 - [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — related
+- [Prior meta-analysis reports smaller decay for speed-based tasks than accuracy-based tasks](speed-tasks-decay-less-than-accuracy-tasks.md) — related

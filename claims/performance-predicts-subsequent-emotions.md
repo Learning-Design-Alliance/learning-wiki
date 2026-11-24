@@ -63,3 +63,5 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
 - [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related
 - [Boredom with school subjects does not significantly predict academic grades](subject-boredom-does-not-predict-grades.md) — related
+- [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — related
+- [Enjoyment and math grades are linked by positive reciprocal effects over time](enjoyment-grades-positive-reciprocal-effects.md) — reports the opposite

@@ -50,3 +50,5 @@ Age x Time x Condition ANCOVAs with the Vocabulary scaled score as covariate (ov
 ## Related Claims
 - [Reflective judgment shows a significant age effect across adolescence and adulthood, with age-group means dividing at roughly 18-19 and 22-23 years](reflective-judgment-significant-age-effect.md) — related
 - [RJI scores are stable across a 2-week retest, with only a small, inconsistent practice effect on Time 2 RJI scores in the experimental condition](rji-stable-across-retest-small-practice-effect.md) — related
+- [Age differences in reflective judgment form three groups (14-18, 19-22, 23-28) and cannot be statistically accounted for by verbal ability](reflective-judgment-age-groups-not-verbal-ability.md) — possibly the same claim (merge candidate)
+- [Developmental spurts in reflective judgment appear at ages 18-20 and 23-25/26 under support and practice, but the predicted 14-15 spurt appears only in RJI highest-stage data](reflective-judgment-spurts-prji-18-20-23-25.md) — related

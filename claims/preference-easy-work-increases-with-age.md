@@ -53,3 +53,4 @@ Subscale analysis of the extrinsic motivation component preference for easy work
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
 - [Sixth graders request more process-related hints and fewer answers or vague expressions of non-understanding than third graders during tutored problem solving](grade-differences-adaptive-help-seeking.md) — related
 - [Expecting a grade for a task increases students' pretask performance-avoidance goals compared with no grade](grade-expectation-increases-performance-avoidance-goals.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — related

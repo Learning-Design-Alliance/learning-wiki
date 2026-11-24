@@ -49,3 +49,4 @@ The review reports, citing Chase and Simon (1973), that chess experts' superior 
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — a broader claim this one bears on
 - [Skilled activity stores relevant information in LTM incidentally: chess players recall positions after move selection as well as when warned of a memory test](incidental-ltm-storage-during-skilled-activity.md) — related
+- [Expert performance rests on a large base of domain-specific patterns accessed by recognition, not on general reasoning alone](expertise-depends-on-domain-specific-pattern-base.md) — a broader claim this one bears on

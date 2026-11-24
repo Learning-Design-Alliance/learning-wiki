@@ -48,6 +48,7 @@ Participants suggested involving standardized patients as additional assessors b
 - [Stakeholder-recommended improvements: better SP compensation and breaks, backup rosters, hybrid training, and clinical faculty involvement](stakeholder-sp-programme-improvement-strategies.md)
 - [Use patients as assessors of trainee communication to lessen resource demands of standardized patients and OSCEs](patient-as-assessor-communication-strategy.md)
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
+- [Establish a minimum passing standard for communication on the clinical skills examination by increasing the number of communication-assessed cases to approximately 10 to 14](cse-communication-passing-standard-10-14-cases.md)
 
 ## Examples
 -

@@ -96,3 +96,5 @@ The article reports, citing Möller et al. (2020), a meta-analysis of the classi
 - [I/E correlations are more positive when grades rather than standardized tests are the achievement indicator](grades-strengthen-ie-correlations.md) — related
 - [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — related
 - [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](ie-model-path-coefficients-supported.md) — possibly the same claim (merge candidate)
+- [Biology self-concept was negatively related to achievement in both mathematics and German, with the relation slightly higher for mathematics](biology-self-concept-contrast-both-domains.md) — a narrower finding that bears on this claim
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — related

@@ -75,6 +75,7 @@ Teacher enthusiasm is measurably linked to student engagement and achievement: o
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 - [Teachers displaying enthusiasm during instruction to foster student enjoyment](display-enthusiasm-foster-enjoyment.md)
 - [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
+- [Reflect affective components of teaching, especially teacher enthusiasm, in teacher training and professional development](enthusiasm-in-teacher-training-strategy.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — its daily [morning meeting](../elements/check-in.md) structures give teachers a reliable, low-cost routine for positive student contact that sustains relational enjoyment.

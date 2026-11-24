@@ -55,3 +55,4 @@ Chi-square and Fisher's exact tests on N = 271 first-year students across the fo
 - [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — related
 - [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related
+- [Group behavior categories were significantly related to ability level and marginally to ethnic background, but not gender](group-behavior-related-to-ability-ethnicity.md) — related

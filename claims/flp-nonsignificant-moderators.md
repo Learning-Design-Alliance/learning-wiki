@@ -65,3 +65,4 @@ Moderator analyses on immediate posttests found no significant effects for immig
 - [PFS effects did not differ by implementation site or cohort](pfs-effects-no-site-or-cohort-moderation.md) — related
 - [Items measuring listening, respect, and answering questions showed no interaction effects in any setting](snapps-no-effect-respect-items.md) — related
 - [Participant and training characteristics show virtually no moderator effects on far transfer](no-moderators-of-far-transfer.md) — related
+- [Randomization checks in the STAR experiment found no significant differences on measured student and teacher characteristics](star-randomization-checks-no-significant-differences.md) — related

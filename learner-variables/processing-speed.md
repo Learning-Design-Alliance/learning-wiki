@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (61 show a difference, 31 mixed, 15 no difference) · 74 studies (32 causal, 26 associational, 8 quant-synthesis, 5 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 107 claims rest on one study
+> **Evidence** · 109 claims (61 show a difference, 32 mixed, 16 no difference) · 75 studies (32 causal, 27 associational, 8 quant-synthesis, 5 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 75 report an effect size · 109 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -143,6 +143,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [In a small pre-study, fifth-graders with weaker basic electrical knowledge showed significantly faster reaction times on cross-domain concept activation questions than high scorers](../claims/weak-basic-knowledge-faster-cross-domain-activation.md) [+M] — learners who differ on it differ in outcomes
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](../claims/chess-masters-encode-chunks-not-deeper-search.md) [+M] — learners who differ on it differ in outcomes
 - [Chess players show superior overall cognitive ability to non-players, and chess skill correlates with fluid intelligence, processing speed, memory, and comprehension knowledge](../claims/chess-skill-correlates-cognitive-ability.md) [+M] — learners who differ on it differ in outcomes
+- [In short-time-span studies the perceptual speed ability-consistent task performance relationship follows a significant cubic trend over time, not the predicted inverted-U quadratic](../claims/perceptual-speed-consistent-cubic-short-span.md) [~M] — learners who differ on it differ in outcomes
+- [Regression results support the predicted negative curvilinear cognitive ability relationship but do not support the predicted perceptual speed and psychomotor ability relationships with consistent and inconsistent task performance](../claims/ackerman-predictor-criterion-relationships-unsupported.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

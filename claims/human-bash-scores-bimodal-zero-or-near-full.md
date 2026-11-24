@@ -49,3 +49,4 @@ Frequency distribution of normalized item-level scores assigned by the three hum
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related
+- [Conservation test score distributions are bimodal, consistent with a discontinuous transition in conservation acquisition](bimodal-conservation-score-distributions.md) — related

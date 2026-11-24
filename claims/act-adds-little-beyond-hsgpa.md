@@ -102,3 +102,4 @@ Variance-component comparison between the combined HSGPA-plus-ACT model and the 
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — reports the opposite
 - [HSGA, APT and ACT scores were each significantly positively associated with cumulative GPA at graduation](admission-scores-positively-associated-gpa.md) — related
 - [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related
+- [The contrast–assimilation pattern held for both grades and test scores, but test-score effects were weaker and some assimilation effects were no longer significant](test-score-assimilation-nonsignificant-chemistry.md) — related

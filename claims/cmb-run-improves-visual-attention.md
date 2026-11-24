@@ -65,3 +65,4 @@ Randomised controlled trial (Niedermeier et al., n = 51) of a 10 min run at 13�
 - [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — related
 - [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related
 - [Students' concentration reportedly fades after 15-20 minutes during a traditional lecture](concentration-fades-15-20-minutes-traditional-lecture.md) — related
+- [A 20- to 30-minute break improves average test performance by 1.7% of an SD](break-improves-test-scores-1-7-sd.md) — related

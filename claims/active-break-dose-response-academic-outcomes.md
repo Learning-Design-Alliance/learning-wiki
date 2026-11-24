@@ -74,3 +74,4 @@ Narrative synthesis of two dose studies: Janssen et al. compared no break, passi
 - [Concentration levels increased in all three in-class break intervention groups (BALANCE, CARDIO and MENTAL) after 5 weeks of daily 15-min sessions in primary school children](in-class-breaks-increase-concentration-all-formats.md) — a narrower finding that bears on this claim
 - [Twelve weeks of daily active breaks significantly improved psychological resilience in management students, with a significant Group × Time interaction favouring the experimental group](active-breaks-improve-resilience-management-students.md) — related
 - [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related
+- [A 20- to 30-minute break improves average test performance by 1.7% of an SD](break-improves-test-scores-1-7-sd.md) — related

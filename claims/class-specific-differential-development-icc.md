@@ -47,3 +47,4 @@ Descriptive ICC analysis of computation competence in sampleCOUNT (126 students,
 ## Related Claims
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
 - [Group membership accounts for a substantial portion of variance in collaboration performance satisfaction](group-membership-variance-collaboration-satisfaction.md) — related
+- [A substantial share of variance in perceived teacher support and mathematics interest is attributable to classroom membership](classroom-membership-variance-support-interest.md) — related

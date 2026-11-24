@@ -53,3 +53,4 @@ RSiena Model 2 moderation-of-selection analysis with ego-alter selection tables 
 - [In classrooms with high performance goal popularity norms, students select similarly achieving friends; in low performance goal popularity norm classrooms, similarity-based selection is significantly negative](performance-goal-popularity-norms-moderate-friendship-selection.md) — related
 - [Perceived parental autonomy support positively predicts adolescents' autonomous motivation during home-based learning](parental-autonomy-support-predicts-autonomous-motivation.md) — related
 - [Parental educational expectations directly predict higher adolescent academic achievement after accounting for friendship processes](parental-expectations-direct-achievement-effect.md) — related
+- [Lower academic achievers received help more often, particularly from higher-achieving peers](low-achievers-received-more-help.md) — related

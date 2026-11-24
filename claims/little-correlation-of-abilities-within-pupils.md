@@ -49,3 +49,4 @@ Per-pupil analysis of rank variation across the ten tests, with five typical pup
 - [Children in the same school grade show extreme ranges of ability in every physical and mental trait examined](extreme-ability-within-single-school-grades.md) — related
 - [Pupil standing in one school subject correlates with standing in other subjects, most perfectly among the highest- and lowest-ranked pupils and least among pupils of medium ability](cross-subject-correlation-of-excellence-1912.md) — reports the opposite
 - [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](scattering-not-pathognomonic-of-feeble-mindedness.md) — related
+- [Children's strategy use is highly variable: each child used at least five strategies with large individual differences in frequencies](high-variability-in-strategy-use.md) — related

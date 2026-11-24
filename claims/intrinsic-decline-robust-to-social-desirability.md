@@ -50,3 +50,4 @@ Analysis of covariance in the second school district sample using the Children's
 
 ## Related Claims
 - [Intrinsic motivation shows a significant linear decrease from third through eighth grade when measured independently of extrinsic motivation](intrinsic-motivation-linear-decline-grades-3-8.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — related

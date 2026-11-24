@@ -48,3 +48,4 @@ Wallin's short communication reports two instances of "cross-education" or trans
 - [Practice with one eye in controlling reversible perspective transfers to the unpracticed eye (cross-education)](cross-education-unpracticed-eye-reversible-perspective.md) — a narrower finding that bears on this claim
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — a broader claim this one bears on
 - [Acquired foveal fixation motives can transfer to the peripheral retina, forming a generalized retinal habit](foveal-fixation-transfer-to-peripheral-retina.md) — related
+- [Transfer of trained skills historically failed, occurring only under specific conditions and seldom spontaneously](transfer-seldom-occurs-spontaneously.md) — reports the opposite

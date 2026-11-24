@@ -48,3 +48,4 @@ Descriptive comparison of specialty means shown in Figures 1 and 2 from the retr
 - [USMLE Step 1 scores differ significantly across residency specialties](step1-scores-differ-across-specialties.md) — a broader claim this one bears on
 - [USMLE Step 2 CK scores differ significantly across residency specialties, though less strongly than Step 1](step2-ck-scores-differ-across-specialties.md) — a broader claim this one bears on
 - [Residency specialty match is significantly associated with the combination of USMLE Step 1 and Step 2 CK scores](usmle-scores-associated-with-residency-specialty-manova.md) — a broader claim this one bears on
+- [Non-USIMGs had higher Step 2 CK scores and slightly higher patient volume than USIMGs](non-usimgs-higher-step2-scores.md) — related

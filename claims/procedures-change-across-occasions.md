@@ -66,3 +66,4 @@ Across investigations, notebook procedural agreement exceeded observed agreement
 ## Related Claims
 - [Mean performance scores were higher on the second occasion but the differences were not statistically significant](occasion-2-mean-increase-not-significant.md) — related
 - [Generalizability of single hands-on science investigation scores across occasions 5 months apart is moderate, averaging 0.52 for observed investigations and 0.50 for notebook surrogates](performance-assessment-moderate-occasion-generalizability.md) — related
+- [Measurement methods do not converge: the average convergent validity coefficient between randomly sampled method pairs was .42, with only notebooks a reasonable surrogate for observation](methods-do-not-converge.md) — related

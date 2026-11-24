@@ -73,3 +73,4 @@ The same repeated-measures ANOVA on failure rates showed a significant decrease 
 - [Viewing mode (3D vs. 2D-4 K) does not significantly affect task failure rates of laparoscopic novices on tasks 1 and 2](viewing-mode-no-significant-failure-rate-difference-novices.md) — related
 - [Two pre-clinical students with very limited clinical exposure did not reach mastery after more than four post-testing attempts within a two-hour session, in one single-group pre-post study.](sbml-requires-time-unlimited-deliberate-practice.md) — related
 - [All participants improve on a second attempt, with students showing greater improvement on the simplest task](labot-second-attempt-improvement-learning-curve.md) — related
+- [Error rates decreased reliably across practice sessions in Experiment 1](error-rate-decrease-across-sessions.md) — related

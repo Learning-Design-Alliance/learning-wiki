@@ -52,3 +52,4 @@ Analytical demonstration in the section on a multidimensional model with a secon
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
 - [EM-algorithm-based computing procedures make marginal maximum likelihood estimation of item parameters practical](em-algorithm-makes-mml-practical.md) — a broader claim this one bears on
 - [The EM-based MML procedure covers item-response models with more than one latent dimension](em-mml-covers-multidimensional-models.md) — related
+- [Graphical models offer a more general expression of probability-based evidence accumulation than traditional psychometric models such as IRT and latent class models](graphical-models-generalize-psychometric-evidence-accumulation.md) — related
