@@ -5,6 +5,18 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-24 · j-drive-7: Kuncel 2004 and Schwinger 2014 on a third try; Tudge 1992 needs OCR
+
+`j-drive-7` re-ran the three sources still failing after `j-drive-6`. Schwinger 2014 was re-extracted from
+the maintainer's PDF first, which put its two columns back in reading order. Kuncel 2004 (7 pages) and
+Schwinger 2014 (8 pages) were ingested, with no citation removed or flagged; settlement also wrote one
+research-method page from an earlier candidate. Kuncel's claim that job complexity moderates the
+validity of g was judged off-topic by both scope models and is kept anyway, as a validity source under the
+maintainer's ruling that workforce performance is still performance. Tudge 1992 failed again on twelve
+quotations: the JSTOR scan's text layer interleaves the two columns and cuts words off at line ends
+("defin", "perfor"), so no extraction of it, by column split or word coordinates, gives text a quotation can
+be checked against. It needs a fresh OCR of the scan or another copy.
+
 ## 2026-11-24 · j-drive-6: retrying the seven j-drive-5 failures
 
 `j-drive-6` re-ran the seven sources that failed validation in `j-drive-5`. Kim 2005, Perruchet 1998 and

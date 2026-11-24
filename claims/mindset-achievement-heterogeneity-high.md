@@ -55,3 +55,4 @@ Forest-plot and heterogeneity analysis of the 273 Meta-Analysis 1 effect sizes: 
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — related
 - Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model — related
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
+- [Effect sizes linking self-handicapping to achievement are highly heterogeneous across studies](self-handicapping-effect-heterogeneity.md) — related

@@ -58,3 +58,4 @@ Robust variance random-effects meta-analysis pooling reduced-efficacy–achievem
 - [Third-year dental students reported exhaustion and inadequacy above the SBI-9 scale average with cynicism below average](dental-students-burnout-exhaustion-high-cynicism-low.md) — related
 - [Exhaustion declines moderately over the Bachelor's programme, contrasting with prior research reporting rising burnout as medical students advance](exhaustion-moderate-decline-contrasts-prior-research.md) — related
 - [In the high-grade group, e-learning performance correlates negatively with self-efficacy and positively with monitoring studying and emotional exhaustion](high-grade-group-correlations.md) — related
+- [Academic self-handicapping is moderately negatively correlated with academic achievement in field settings (mean r = -.23)](self-handicapping-achievement-mean-correlation.md) — related

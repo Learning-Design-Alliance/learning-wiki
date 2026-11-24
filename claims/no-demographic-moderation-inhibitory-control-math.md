@@ -61,3 +61,4 @@ Bivariate moderator analyses of demographic characteristics in the three-level m
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
 - [Socio-demographic factors do not moderate the effect of parenting style on academic achievement](no-demographic-moderation-parenting-achievement.md) — related
 - [Randomization checks in the STAR experiment found no significant differences on measured student and teacher characteristics](star-randomization-checks-no-significant-differences.md) — related
+- [Several hypothesized moderators show no significant effects: gender, sample origin, ethnicity, publication status, measurement time, achievement indicator, specificity, domain, and domain matching](null-moderators-self-handicapping-correlation.md) — related

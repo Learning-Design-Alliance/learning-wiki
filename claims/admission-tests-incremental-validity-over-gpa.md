@@ -65,3 +65,4 @@ Hierarchical multiple regression analyses on the TMS and HAM-Nat samples control
 - [The HAM-Nat-BPC scale provides predictive information for academic success independent of, and roughly equal in size to, high school GPA](hamnat-incremental-validity-over-gpa.md) — related
 - [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — related
 - [Grade inflation erodes both the external screening function of grades for employers and admissions and the internal feedback function for students](grade-inflation-erodes-signaling-and-feedback.md) — related
+- [The MAT generalizably predicts graduate academic performance, with corrected validities of .39 for graduate GPA, .41 for first-year GPA, and .37 for faculty ratings](mat-predicts-graduate-academic-criteria.md) — related

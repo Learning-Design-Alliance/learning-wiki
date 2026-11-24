@@ -52,3 +52,4 @@ Retrospective correlational analysis of 108 matriculants comparing admissions st
 - [Undergraduate GPA correlates with time to degree only for domestic students](ug-gpa-predicts-ttd-domestic-only.md) — related
 - [PER graduate students with undergraduate physics degrees learned of PER earlier than those without physics degrees](physics-degree-earlier-per-discovery.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
+- [The MAT generalizably predicts graduate academic performance, with corrected validities of .39 for graduate GPA, .41 for first-year GPA, and .37 for faculty ratings](mat-predicts-graduate-academic-criteria.md) — related

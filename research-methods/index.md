@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1513 entries** · 0 stable · 1513 in review · 0 drafts
+**1514 entries** · 0 stable · 1514 in review · 0 drafts
 
 ---
 
@@ -537,6 +537,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-domain taxonomy of soft skills teaching research in undergraduate dental education](four-domain-taxonomy-of-soft-skills-teaching-research-in-undergraduate-dental-education.md) - The article organises the literature on soft skills teaching in undergraduate dental education into a revised coding map with four main domains: dentist-patient relationship, cooperation, life balance and clinical reasoning, each with subcategories such as professional attitude, communication, vulne
 * [Four-domain taxonomy organizing AI applications in medical education](four-domain-taxonomy-organizing-ai-applications-in-medical-education.md) - The review organizes synthesized evidence into four thematic domains: \"AI in Clinical Education, Assessment, Simulation and Data-Based Quality Improvement\".
 * [Four-element framework of fidelity in simulation-based education: environmental, patient, semantical, and phenomenal elements](four-element-framework-of-fidelity-in-simulation-based-education-environmental-patient-sem.md) - The article cites a framework subdividing fidelity in simulation-based education into four elements.
+* [Four-factor framework for conceptualizing socioeconomic status in achievement research](four-factor-framework-for-conceptualizing-socioeconomic-status-in-achievement-research.md) - The review's moderator results yield a methodological recommendation: \"researchers should consider the following four factors when conceptualizing SES: (a) the unit of analysis for SES data; (b) the type of SES measure; (c) the range of the SES variable; and (d) the source of SES data.\" Each factor 
 * [Four-feature-category taxonomy (AQ, BQ, EQ, TQ) for test-score prediction](four-feature-category-taxonomy-aq-bq-eq-tq-for-test-score-prediction.md) - The article organizes predictive features into four hypothesized categories driving test score: academic attributes (AQ), behavioral attributes (BQ), effort attributes (EQ) and test-taking attributes (TQ).
 * [Four-function taxonomy of pictures in multimedia testing (decorative, representational, organizational, informational)](four-function-taxonomy-of-pictures-in-multimedia-testing-decorative-representational-organ.md) - The review organizes pictures in test items by their functional relationship to the accompanying text, adapting Levin's MML classification.
 * [Four-kind classification of fundamental reasoning elements by origin](four-kind-classification-of-fundamental-reasoning-elements-by-origin.md) - From their interview analyses the authors classify fundamental reasoning elements by origin: statements taken from an authoritative source such as an instructor or book, commonly made statements applied \"as a fact, without structure,\" generalizations of processes such as \"things come to equilibrium\"

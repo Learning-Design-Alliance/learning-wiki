@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (99 show a difference, 51 mixed, 22 no difference) · 74 studies (31 associational, 22 causal, 10 review, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 28 of 74 report an effect size · 168 claims rest on one study
+> **Evidence** · 173 claims (99 show a difference, 52 mixed, 22 no difference) · 75 studies (31 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 29 of 75 report an effect size · 169 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -207,6 +207,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Surface learning does not explain the normative goal link with achievement](../claims/surface-learning-does-not-explain-normative-goal-link.md) [+M] — learners who differ on it differ in outcomes
 - [Approach motivations are associated with higher academic achievement and avoidance motivations with lower academic achievement](../claims/approach-goals-higher-avoidance-lower-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Criterion-related validity of each achievement goal and of the 2-, 3-, and 4-factor models for academic achievement is low (r = -.13 to .13)](../claims/achievement-goal-criterion-validity-low.md) [-M] — learners who differ on it differ in outcomes
+- [Sample mastery-approach goal level moderates the correlation: medium mastery-approach samples show stronger negative correlations than high mastery-approach samples](../claims/mastery-goals-moderate-self-handicapping-correlation.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

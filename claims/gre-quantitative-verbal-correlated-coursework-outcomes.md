@@ -80,3 +80,4 @@ Same retrospective cohort correlational analysis of admissions statistics agains
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
 - [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related
 - [uGPA was a more consistent predictor than the MCAT of graduate school GPA and medical school preclinical and clinical GPAs across cohorts](ugpa-more-consistent-predictor-than-mcat.md) — related
+- [The MAT generalizably predicts graduate academic performance, with corrected validities of .39 for graduate GPA, .41 for first-year GPA, and .37 for faculty ratings](mat-predicts-graduate-academic-criteria.md) — related
