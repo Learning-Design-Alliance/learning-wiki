@@ -55,7 +55,7 @@ Response Time Effort (RTE) is a measure of test-taking effort computed from item
 <!-- merged 2026-10-10 from elements/response-time-effort-rte-item-level-measure ("Response Time Effort (RTE) as an item-level measure of test-taking effort"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 - Nyman, L., Koivuhovi, S., Greiff, S., Hotulainen, R., Little, T. D., & Vainikainen, M.-P. (2025). A person-centered approach to action-control beliefs of students with special educational needs and their relation to student performance and time on task. Journal of Educational Psychology. Advance online publication. https://doi.org/10.1037/edu0001000
-- Wise, S. L., & Kong, X. (2005). Response Time Effort: A New Measure of Examinee Motivation in Computer-Based Tests. Paper presented at the annual meeting of the National Council on Measurement in Education, Montreal. https://eric.ed.gov/
+- Wise, S. L., & Kong, X. (2005). Response Time Effort: A New Measure of Examinee Motivation in Computer-Based Tests. Paper presented at the annual meeting of the National Council on Measurement in Education, Montreal. https://eric.ed.gov/. [doi:10.1207/s15324818ame1802_2](https://doi.org/10.1207/s15324818ame1802_2)
 
 # Response Time Effort (RTE) as an item-level measure of test-taking effort
 

@@ -51,3 +51,4 @@ Meta-regression of mean sample age on Fisher-z-transformed coefficients across t
 - [Be-creative instruction combined with originality scoring yields the strongest intelligence–DT correlation](instruction-scoring-fit-be-creative-originality.md) — related
 - [The intelligence–DT correlation is higher under test-like instructions than game-like instructions](test-like-instruction-stronger-dt-intelligence-link.md) — related
 - [Publication bias analysis suggests the overall intelligence–DT correlation is slightly underestimated (r = .27 after trim-and-fill)](publication-bias-dt-intelligence-underestimate.md) — related
+- [The correlation between creativity test scores and IQ scores is small and positive (weighted mean r = .174), indicating a negligible relationship](negligible-iq-creativity-correlation-meta-analysis.md) — related

@@ -5,6 +5,19 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-24 · j-drive-6: retrying the seven j-drive-5 failures
+
+`j-drive-6` re-ran the seven sources that failed validation in `j-drive-5`. Kim 2005, Perruchet 1998 and
+Tudge 1992 were re-extracted from the maintainer's PDFs first, because the cached text had its two columns
+interleaved, which is why their quotations could not be found. Four were ingested this time: Kim 2005,
+Perruchet 1998, Ployhart 2008 and Van Iddekinge 2024 (26 pages). Three failed again: Kuncel 2004 (an
+impact code one tier below the printed r = .41), Schwinger 2014 (an impact with no printed statistic, and
+two quotations from text whose columns are still interleaved) and Tudge 1992 (the model returned no
+`article` object). Three pages were removed because both scope models judged them not about learning or
+performance: Van Iddekinge's turnover-intentions claim, and Ployhart's full-KSAO-battery claim and
+six-step selection strategy. The other Ployhart and Van Iddekinge claims stay as validity sources, on the
+maintainer's ruling that workforce performance is still performance.
+
 ## 2026-11-24 · j-drive-5: the J to Y simulator sources
 
 `j-drive-5` read 60 sources from the maintainer's Drive folder (the J to Y set, the K's missed earlier,

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5893 entries** · 0 stable · 5893 in review · 0 drafts
+**5894 entries** · 0 stable · 5894 in review · 0 drafts
 
 ---
 
@@ -942,6 +942,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Consensus-based learning-goal setting as the first step of a large lab course transformation](consensus-learning-goal-transformation-pattern.md) - The transformation process started by establishing new learning goals through multi-stakeholder input: individual interviews with 10 physics faculty, an online survey to College of Engineering and Applied Sciences fac...
 * [Consider the MTIS treatment in agricultural teaching methods courses to increase preservice teachers' mathematics ability](consider-mtis-in-agricultural-teaching-methods-courses.md) - Based on the study's findings, the authors recommend that teacher educators integrate mathematics content and mathematics instruction into teacher education courses.
 * [Consistent virtual lab structure: objective, theory, simulation procedure, pre-lab and post-lab questions, and data analysis tables](virtual-lab-experiment-structure-pattern.md) - Every experiment in the manual follows the same reusable structure: an objective stating what is investigated, a theory and physical principles section with the relevant equations, an apparatus-and-procedure section b...
+* [Consolidate duplicated educational pathways into a single curriculum when task analysis shows extensive task sharing across programme levels](task-analysis-informs-pathway-consolidation.md) - This principle holds that pre-service curriculum design should be grounded in measured task performance of graduates in real service settings.
 * [Constrained sentence-production tasks with limited color vocabulary (syntactic-priming and sentence-completion tasks)](constrained-production-tasks-limited-vocabulary.md) - Two novel controlled production instruments for eliciting Korean passive sentences.
 * [Constraining burst registration sizes could raise certificate rates, but users may not be well served by it](cautious-burst-size-constraints.md) - The article reports that a significant drop in average certificate rate is linked to bursting registration behaviors and suggests \"certificate rates could be increased by constraining burst sizes, for example by limit...
 * [Constraint-based simulation design: decoupling pendulum release from timing start prevents a reaction-time-limited measurement dead end](simulation-timer-constraint-mechanism.md) - This account explains the simulation's advantage through one specific designed constraint: students using the simulation were required to use the built-in timer, which \"forced the students using the simulation to firs...

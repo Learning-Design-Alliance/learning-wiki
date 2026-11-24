@@ -58,3 +58,4 @@ Multiple linear regression models (Model 2) on exam scores from three courses fo
 - [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related
 - [Most students reported that having a retake opportunity reduced their anxiety on the initial exam, similarly across social identities, though about half felt anxious while retaking](retakes-reduce-initial-exam-anxiety.md) — related
 - [International students earned significantly fewer exam points than the reference category in the regression model](international-students-lower-exam-points.md) — related
+- [Retesting does not reduce White–Black subgroup differences even with repeated exposure](retesting-does-not-reduce-subgroup-differences.md) — reports the opposite

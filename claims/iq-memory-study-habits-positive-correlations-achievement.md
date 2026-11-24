@@ -53,3 +53,4 @@ Pearson correlations (age included as a control variable) among IQ, memory, stud
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Neither IQ nor WMC significantly predicted early mathematics when both were in the same model, explaining only about 5% of variance](early-math-not-predicted-by-iq-or-wmc.md) — related
+- [Threshold theory is not supported: correlations below and above IQ 120 do not differ significantly, and the threshold variable does not explain variance in the correlation](threshold-theory-not-supported-iq-120.md) — related

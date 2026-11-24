@@ -78,3 +78,4 @@ The review reports, citing Milam et al. and Myers et al., that studies hypothesi
 - [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related
 - [Men outperform women on the basic camera-navigation task on day 1, but differences disappear during training](sex-differences-day1-sor-disappear.md) — related
 - [Prior studies report that men spend less time and produce fewer errors than women in surgical simulator training, a difference the authors say is largely unaddressed](sex-differences-surgical-simulator-training.md) — reports the opposite
+- [Stereotype threat does little to explain subgroup differences in selection contexts](stereotype-threat-not-supported-in-selection.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 260 claims (164 show a difference, 57 mixed, 39 no difference) · 179 studies (72 associational, 64 causal, 18 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 42 of 179 report an effect size · 257 claims rest on one study
+> **Evidence** · 264 claims (166 show a difference, 57 mixed, 41 no difference) · 180 studies (72 associational, 64 causal, 19 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 43 of 180 report an effect size · 261 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -296,6 +296,10 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [The intelligence–DT correlation is higher under test-like instructions than game-like instructions](../claims/test-like-instruction-stronger-dt-intelligence-link.md) [+M] — an instructional effect differs with it
 - [Regression results support the predicted negative curvilinear cognitive ability relationship but do not support the predicted perceptual speed and psychomotor ability relationships with consistent and inconsistent task performance](../claims/ackerman-predictor-criterion-relationships-unsupported.md) [+M] — learners who differ on it differ in outcomes
 - [The nine domains jointly explain 75% of GCSE heritability; non-intelligence domains collectively explain 50%, nearly matching intelligence alone (51%)](../claims/multivariate-75-percent-gcse-heritability.md) [+M] — learners who differ on it differ in outcomes
+- [Age moderates the IQ–creativity correlation: elementary-school correlations (r = .086) are significantly lower than those for middle school, high school, and adult groups](../claims/age-moderates-iq-creativity-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Gender does not significantly moderate the IQ–creativity correlation (males r = .149, females r = .159)](../claims/gender-does-not-moderate-iq-creativity-correlation.md) [-M] — learners who differ on it differ in outcomes
+- [The correlation between creativity test scores and IQ scores is small and positive (weighted mean r = .174), indicating a negligible relationship](../claims/negligible-iq-creativity-correlation-meta-analysis.md) [+W] — learners who differ on it differ in outcomes
+- [Threshold theory is not supported: correlations below and above IQ 120 do not differ significantly, and the threshold variable does not explain variance in the correlation](../claims/threshold-theory-not-supported-iq-120.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

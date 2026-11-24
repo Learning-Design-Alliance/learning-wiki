@@ -53,3 +53,4 @@ Logistic regression results for Course 2 (n = 614 analyzed students) show that "
 - [Optional exam retakes significantly improved student exam scores in all three courses](retakes-improve-scores.md) — related
 - [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related
 - [Pell-eligible, Black, Latinx, International students, and students working jobs received lower scores on first exam attempts than reference groups](first-attempt-score-disparities.md) — related
+- [Retesting does not reduce White–Black subgroup differences even with repeated exposure](retesting-does-not-reduce-subgroup-differences.md) — related
