@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 284 claims (165 show a difference, 70 mixed, 49 no difference) · 188 studies (103 causal, 35 review, 17 quant-synthesis, 14 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 188 report an effect size · 276 claims rest on one study
+> **Evidence** · 286 claims (167 show a difference, 70 mixed, 49 no difference) · 189 studies (103 causal, 36 review, 17 quant-synthesis, 14 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 189 report an effect size · 278 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -319,6 +319,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Proactive interference in LT-WM is overcome by temporal distinctiveness and by integrated memory encodings, as when a trained subject recalled most of an earlier digit list despite maximal interference](../claims/lt-wm-overcomes-proactive-interference.md) [~M] — learners who differ on it differ in outcomes
 - [Prolonged contact with a domain, not grades in a single course, is the most important determinant of long-term retention](../claims/prolonged-contact-determines-retention.md) [+M] — measured as an outcome of the instruction studied
 - [Skilled activities can be interrupted and later resumed without major performance effects because LT-WM storage persists in LTM and is reinstated by reactivating retrieval cues](../claims/lt-wm-supports-interruption-and-resumption.md) [+W] — learners who differ on it differ in outcomes
+- [Overlearning after mastery improves long-term retention, with retention increasing as a function of degree of overlearning](../claims/overlearning-improves-long-term-retention.md) [+M] — measured as an outcome of the instruction studied
+- [Spacing study opportunities impairs short-term performance but enhances long-term retention of verbal material, including complex materials](../claims/spacing-effect-learning-performance-dissociation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

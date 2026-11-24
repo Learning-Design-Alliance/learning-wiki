@@ -54,3 +54,4 @@ Authors' interpretation of the Step 2 regression results, reporting "unique incr
 - [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related
 - [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](self-assessment-predicts-srl-beyond-pretest.md) — related
 - [GPA is positively predicted by behavioral and cognitive engagement but not by emotional engagement, with only 6% of variance explained](engagement-dimensions-predict-gpa.md) — a narrower finding that bears on this claim
+- [Agentic engagement uniquely predicts course achievement after controlling for other engagement aspects (Study 2)](agentic-engagement-unique-predictive-validity-achievement.md) — a narrower finding that bears on this claim

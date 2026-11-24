@@ -90,6 +90,7 @@ Self-advocacy is a component of self-determination, and interventions that build
 - [Provide university accommodations and comprehension support for students with poor reading comprehension](university-reading-accommodations-strategy.md)
 - [Explicitly normalize the discomfort of not understanding, and coach participants to ask questions early and often](nitarp-normalize-feeling-stupid-ask-questions.md)
 - [Change assessment approaches under emergency online conditions: low-stakes assessments, group projects, honor-code exams, and equitable grading accommodations](flexible-online-assessment-low-stakes-group-projects-equity.md)
+- [Encourage students to express preferences, ask questions, and communicate needs and interests to their teacher](encourage-student-agentic-contributions-to-instruction.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — students must put their needs into words; articulation is the core performance

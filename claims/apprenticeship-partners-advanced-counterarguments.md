@@ -48,3 +48,4 @@ Intervention study comparing an apprenticeship condition (more skilled adult par
 - [Adolescents paired with more skilled adult dialogic partners show greater skill using evidence to support claims than peers paired only with similar-ability partners](apprenticeship-partners-greater-evidence-use.md) — related
 - [Both partnered and comparison groups advanced in individual dialogic argument skills, demonstrating transfer of higher-order skills from social to individual level](dialogic-practice-social-to-individual-gains.md) — related
 - [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](skilled-partner-discourse-moves.md) — related
+- [Dialogic argumentation practice shifts counterargument quality toward the more accomplished Counter-C (counter-critique) strategy within and across domains](counter-critique-strategy-increases-with-practice.md) — related

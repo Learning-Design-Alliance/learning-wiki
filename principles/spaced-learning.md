@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (59 for, 43 mixed, 3 against) · 75 studies (44 causal, 14 review, 9 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 17 of 75 report an effect size · 97 claims rest on one study
+> **Evidence** · 107 claims (61 for, 43 mixed, 3 against) · 76 studies (44 causal, 15 review, 9 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 17 of 76 report an effect size · 99 claims rest on one study
 
 ## Description
 
@@ -198,6 +198,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Most surveyed EoL-assignment students reported the frequent assignments helped them keep up, learn, and prepare, with reported gains in confidence and reduced anxiety](../claims/eol-assignments-student-feedback-confidence-anxiety.md) [~W] — attached 2026-11-17 from Janelle Resch (2015), which proposed "Structure frequent, low-stakes review assignments after each lecture so students review material within the forgetting window and build steady study habits".
 - [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](../claims/chapter-based-short-time-mid-exams-higher-pass-rate.md) [+W] — attached 2026-11-19 from Neel Haldolaarachchige et al. (2025), which proposed "Replace long cumulative mid-semester exams with short-time, non-cumulative chapter-based exams in calculus-based physics"; tests this page's relationship.
 - [In vocabulary-app review logs, a successful recall lengthened memory half-life more when the review came at a lower recall probability, less as the memory strengthened, and less for harder words](../claims/recall-at-lower-probability-lengthens-half-life-more.md) [+W] — added 2026-11-22 from Ye, Su and Cao (2022), rules fitted to 220 million review logs from one English-vocabulary app (observational; gaps not assigned); bears on the gap paragraph's longer-gap benefit and on diminishing gains per review; not yet read against the model above.
+- [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](../claims/distributed-practice-motor-learning-performance-dissociation.md) [+W] — attached 2026-11-24 from Nicholas C. Soderstrom et al. (2015), which proposed "Implement distributed practice schedules even when they induce more errors during acquisition"; tests this page's relationship.
+- [Spacing study opportunities impairs short-term performance but enhances long-term retention of verbal material, including complex materials](../claims/spacing-effect-learning-performance-dissociation.md) [+W] — attached 2026-11-24 from Nicholas C. Soderstrom et al. (2015), which proposed "Implement distributed practice schedules even when they induce more errors during acquisition"; tests this page's relationship.
 
 ## Source verification and open tests
 

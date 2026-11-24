@@ -51,3 +51,4 @@ In the rat experiment, after learning Sections I-IV under massed conditions on s
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
 - [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related
 - [Maze units retain near-complete control when run in changed combinations, so contiguity of functioning does not cause the waste](unit-control-under-changed-combinations.md) — related
+- [Learning can occur while acquisition performance shows no gains, as demonstrated by latent-learning experiments in rats and humans](latent-learning-without-performance.md) — related

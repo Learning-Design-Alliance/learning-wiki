@@ -50,3 +50,4 @@ Meta-analytic moderator analysis of degree of overlearning (DOV, per Driskell et
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
 - [Trained skills show substantial loss over periods of nonuse, with decay growing from near zero immediately after training to over one standard deviation after more than a year](substantial-skill-loss-with-nonuse.md) — a broader claim this one bears on
 - [Methodological variables moderate measured skill decay: recognition tests, similar retrieval contexts, and behavioral evaluation criteria each yield less apparent skill loss](methodological-variables-moderate-measured-decay.md) — related
+- [Overlearning after mastery improves long-term retention, with retention increasing as a function of degree of overlearning](overlearning-improves-long-term-retention.md) — related

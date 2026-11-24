@@ -51,3 +51,4 @@ Second-hand finding reported in the Reflection and personal epistemology section
 ## Related Claims
 - [Four intermediate epistemic levels — late absolutist, early multiplist, late multiplist, and early evaluatist — emerged when students' forced-choice assumptions were triangulated with their written justifications](four-intermediate-epistemic-levels-model-evaluation.md) — related
 - [Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs](evaluativist-beliefs-two-sided-reports.md) — related
+- [Gains in evaluativist epistemological understanding occur only in the intervention's own domain, with the greatest change in the science domain among science-condition participants](epistemological-advance-domain-specific.md) — related

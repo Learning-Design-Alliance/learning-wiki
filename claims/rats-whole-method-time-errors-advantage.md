@@ -50,3 +50,4 @@ Rat maze experiment, two trials per day, with learning data secured as in the hu
 - [The longer and more difficult the motor problem, the more advisable it is to break it into units and learn both the units and their connections under massed conditions](difficult-problems-part-method-massed.md) — related
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](massed-distribution-tied-to-whole-part.md) — related
 - [Maze units retain near-complete control when run in changed combinations, so contiguity of functioning does not cause the waste](unit-control-under-changed-combinations.md) — related
+- [Learning can occur while acquisition performance shows no gains, as demonstrated by latent-learning experiments in rats and humans](latent-learning-without-performance.md) — related

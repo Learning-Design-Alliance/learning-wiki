@@ -68,3 +68,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related
 - [Adding perceived conscientiousness in a hierarchical regression significantly increases explained variance in actual academic performance](hierarchical-regression-conscientiousness-variance-increase.md) — related
+- [Agentic engagement uniquely predicts course achievement after controlling for other engagement aspects (Study 2)](agentic-engagement-unique-predictive-validity-achievement.md) — related

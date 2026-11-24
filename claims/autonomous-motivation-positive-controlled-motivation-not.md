@@ -66,3 +66,4 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](autonomous-extrinsic-motivation-positive-cbt-attitude.md) — related
 - [Sport motivation dimensions correlate negatively with academic performance, most strongly external regulation in training and demotivation in competition](negative-motivation-academic-performance-correlations.md) — reports the opposite
 - [Extrinsic motivation is negatively correlated with both GPA and standardized test scores](extrinsic-motivation-negatively-correlated-achievement.md) — related
+- [The AES correlates positively with autonomous motivation and negatively with controlled motivation (Study 2)](aes-correlates-autonomous-controlled-motivation.md) — related

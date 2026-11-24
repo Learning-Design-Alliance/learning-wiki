@@ -42,7 +42,8 @@ The intervention strategy sequences argumentation practice on topics with minima
 - [After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text](../claims/shift-to-two-sided-reasoning-after-intervention.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Thirteen-session IM dialogic argumentation intervention pairing engagement, practice, and reflection on transcripts](im-dialogic-argumentation-intervention-strategy.md)
 
 ## Examples
 -

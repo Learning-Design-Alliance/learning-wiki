@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5890 entries** · 0 stable · 5890 in review · 0 drafts
+**5891 entries** · 0 stable · 5891 in review · 0 drafts
 
 ---
 
@@ -1138,6 +1138,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Defect-Based Scenario Simulation: error-embedded high-fidelity simulation for specialized skills training](dbss-teaching-method-framework.md) - DBSS is an instructional method that uses simulation technology to create highly realistic, immersive clinical environments in which procedural flaws or latent risks are deliberately embedded.
 * [Define a core set of standardised assessments for entry-level education to overcome barriers to routine use and promote evidence-based practice from the onset of professional development](core-assessment-set-for-entry-level-education.md) - The article argues that because standardised assessments are not yet used regularly in physiotherapy practice, defining a core set for entry-level education addresses barriers such as lack of time, inadequate knowledg...
 * [Define the qubit as a real vector on the unit circle rather than via the Bloch sphere or complex Hilbert space](qubit-unit-circle-didactic-reduction.md) - The unit's central didactic reduction defines a qubit as a two-component real vector with α²+β²=1 on the unit circle, with |0⟩ and |1⟩ corresponding to the classical bit states.
+* [Deliberate practice as an instructional approach for expert-level understanding](deliberate-practice-instructional-approach.md) - The article applies Ericsson et al.'s deliberate practice framework to course design: rather than one-shot activities, instruction allocates \"multiple sessions for relevant instruction, increasingly complex activities...
 * [Deliberate practice as the instructional design basis for haptic simulation training](deliberate-practice-haptic-simulation.md) - The school extended its existing deliberate-practice-based simulation approach to haptics training.
 * [Deliberate practice framework as applied to graduate problem-solving instruction](deliberate-practice-framework-grad-qm.md) - The article adopts deliberate practice, defined as \"a structured, intensive activity with an explicit goal of improving performance\" characterized by clearly defining the skills to be practiced, providing timely feedb...
 * [Deliberate practice framework for designing active learning tasks in upper-division physics courses](deliberate-practice-framework-upper-division.md) - The authors adapt deliberate practice from educational psychology as a framework giving specificity to active learning design: \"Deliberate practice [13] is the intense explicit practice with timely guiding feedback of...

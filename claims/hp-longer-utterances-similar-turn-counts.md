@@ -49,3 +49,4 @@ Descriptive comparison of pilot dialogue data from six dialogues per group (firs
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
+- [Intervention participants' dialogue utterances became longer and more numerous from initial to final assessment, with significant three-way interactions and control participants declining](utterance-length-and-number-increase-after-intervention.md) — related

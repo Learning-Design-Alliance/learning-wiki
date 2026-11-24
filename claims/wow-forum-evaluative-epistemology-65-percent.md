@@ -51,3 +51,4 @@ Epistemology coding of the forum corpus (Kuhn 1992 framework) found "65% of the 
 - [Model-based reasoning appears in about one tenth of WoW forum posts, with model testing, mathematical modeling, and explicit computation progressively rarer](wow-model-based-reasoning-proportions.md) — related
 - [Over half of WoW forum posts evince systems-based reasoning, most also showing understanding of feedback among system components](wow-posts-systems-based-reasoning-58-percent.md) — related
 - [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related
+- [Gains in evaluativist epistemological understanding occur only in the intervention's own domain, with the greatest change in the science domain among science-condition participants](epistemological-advance-domain-specific.md) — related

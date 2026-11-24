@@ -74,3 +74,4 @@ Experiment 2, a mixed two-factor design with 124 university students (individual
 - [Without feedback, restudy conditions outperformed repeated testing when all trials were analyzed, with no testing advantage at a 24-hour delay](no-testing-advantage-24h-all-trials.md) — reports the opposite
 - [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — related
 - [Prequestions and postquestions yield equivalent delayed multiple choice performance, both exceeding restudy](prequestions-postquestions-equivalent-multiple-choice.md) — a narrower finding that bears on this claim
+- [Retrieval practice (testing) often appears no better than restudying in the short term but produces better long-term retention, even without feedback](testing-effect-learning-performance-dissociation.md) — related

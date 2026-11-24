@@ -54,3 +54,4 @@ The review cites a systematic review (Cecilio-Fernandes et al.) on spacing of su
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related
+- [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — related

@@ -56,3 +56,4 @@ Randomized control trial (n=20 students) using the SIMENDO VR simulator, three d
 - [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](shorter-cpr-intervals-faster-acquisition.md) — a narrower finding that bears on this claim
 - [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related
 - [The distributed practice effect appears to depend on task type and task complexity as well as the interval between sessions](distributed-practice-effect-depends-on-task-type-complexity.md) — a broader claim this one bears on
+- [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — reports the opposite
