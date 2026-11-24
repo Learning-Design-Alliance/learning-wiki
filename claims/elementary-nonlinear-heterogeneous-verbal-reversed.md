@@ -106,3 +106,4 @@ Interrupted regressions with the two-lines test on representative PIRLS Grade 4 
 - [For Grade 8 students, the mathematics achievement–self-concept relation is stronger for higher achieving students than for lower achieving students](interrupted-math-grade8-steeper-high.md) — related
 - [For 15-year-olds in mathematics, the achievement–self-concept relation is not significantly positive for lower achieving students but is significantly positive for higher achieving students](interrupted-math-15yo-zero-low-strong-high.md) — related
 - [A linear regression model fails to capture the achievement–self-concept relation for a substantial proportion (12%–22%) of students](linear-model-inadequate-substantial-proportion.md) — related
+- [Individual student achievement positively and substantially predicts academic self-concept across countries](individual-achievement-positive-academic-self-concept.md) — related

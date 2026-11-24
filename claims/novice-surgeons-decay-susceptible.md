@@ -49,3 +49,4 @@ The article asserts, citing Sugihara et al. (2018), that the "cognitive and inte
 - [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](retention-test-faster-than-initial-training-no-group-effect.md) — reports the opposite
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — a broader claim this one bears on
 - [Novice UGRA skill attrition can occur as fast as 24 hours after initial learning, motivating periodic retraining](rapid-skill-attrition-within-24-hours-novices.md) — a narrower finding that bears on this claim
+- [Physical tasks decay less than cognitive tasks, and natural tasks decay slightly less than artificial tasks](task-characteristics-moderate-decay.md) — related

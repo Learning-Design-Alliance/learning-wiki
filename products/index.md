@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5830 entries** · 0 stable · 5830 in review · 0 drafts
+**5832 entries** · 0 stable · 5832 in review · 0 drafts
 
 ---
 
@@ -445,6 +445,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Baker & Siryk Adaptation Questionnaire](baker-siryk-adaptation-questionnaire.md) - A 67-item, 7-point self-report questionnaire measuring university students' academic adjustment, social adjustment, personal-emotional adjustment, and institutional attachment.
 * [Balance Board Math (BBM)](balance-board-math-bbm.md) - Balance Board Math is a sensor-equipped balance-board environment and interface developed by Sofia Tancredi's design-based research project to let children explore mathematical functions through rocking movements, real-time graphs, colors, and tones.
 * [Balance Error Scoring System (BESS)](balance-error-scoring-system-bess.md) - A standardized six-condition balance and postural-stability screening assessment used by clinicians and researchers with athletes and other populations.
+* [Balance scale task](balance-scale-task.md) - A developmental reasoning assessment task, originating in the work of Inhelder and Piaget and later used by Siegler, in which children judge balance by reasoning about weights and distances.
 * [Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts](balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts.md) - A research dataset created by Mohammad Hadra et al.
 * [Balanced 240-response testing dataset from an NGSS MS-PS1-4 thermal energy particle motion modeling item](balanced-240-response-testing-dataset-from-an-ngss-ms-ps1-4-thermal-energy-particle-motion.md) - A Guo et al.
 * [Balanced Leadership® professional development](balanced-leadership-professional-development.md) - A McREL International professional-development programme for current and aspiring school leaders, delivered through facilitated training with optional coaching and online support to develop leadership actions and behaviours.
@@ -2697,6 +2698,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Lenses](lenses.md) - Lenses is a hybrid print-and-digital instructional programme run by teachers to provide differentiated scaffolding and formative assessment with standards-aligned rubrics.
 * [Lenses on Literature](lenses-on-literature.md) - Lenses on Literature is a disciplinary-literacy curriculum program that provides standards-driven reading, writing, discourse, scaffolds, and formative assessments organized around driving task prompts.
 * [LEO Works 4](leo-works-4.md) - LEO Works 4 is educational software developed by the European Space Agency and Terrasigna for teaching learners to process and analyse multispectral satellite data.
+* [Lepper et al. (2005) Decomposed Intrinsic and Extrinsic Motivation Scale](lepper-et-al-2005-decomposed-intrinsic-and-extrinsic-motivation-scale.md) - A Likert-type student self-report scale developed by Lepper and colleagues that independently measures elementary and middle school students' intrinsic and extrinsic motivational orientations in classroom contexts.
 * [LES-IN-DIG](les-in-dig.md) - LES-IN-DIG is a tablet-based digital reading screening developed by Ebenbeck and colleagues for Levumi.de, comprising four Rasch-conform subtests measuring phonological awareness, vocabulary, flash reading, and sentence comprehension in learners with lower reading abilities.
 * [Lesson Study for Learning Community (LSLC)](lesson-study-for-learning-community-lslc.md) - A lesson-study-based classroom framework organized around jumping tasks, collaborative learning, caring community, and learning community for structuring group learning and teacher facilitation.
 * [Lesson-analysis survey instrument for eliciting teacher noticing of active-learning instruction](lesson-analysis-survey-instrument-for-eliciting-teacher-noticing-of-active-learning-instru.md) - Auerbach et al.'s instrument uses brief authentic active-learning lesson videos and written evaluation prompts to assess instructors' knowledge and reasoning about active-learning teaching.

@@ -51,3 +51,4 @@ Theoretical argument in the paper's opening: substitutive averaging into mental 
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — related
 - [Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) — related
+- [Spatial referencing develops from a single ground-line reference axis at 6 to two orthogonal axes by age 10](spatial-reference-window-progression.md) — related

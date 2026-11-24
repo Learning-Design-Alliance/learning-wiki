@@ -59,3 +59,4 @@ Sensitivity analysis excluding 24 laboratory-based effect sizes from Meta-Analys
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — related
 - [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — related
 - [Project-lab format selection showed no significant correlation with student course grade](claim-no-correlation-project-selection-course-grade.md) — related
+- [I/E correlations are more positive when grades rather than standardized tests are the achievement indicator](grades-strengthen-ie-correlations.md) — related

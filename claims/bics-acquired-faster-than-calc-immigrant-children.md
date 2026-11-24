@@ -67,3 +67,4 @@ Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language a
 - [BICS-level language can be acquired in about two years regardless of age on arrival and first language](bics-acquired-two-years-all-ages.md) — related
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
+- [Sensitive and critical periods exist in child development: some skills are more readily acquired at certain stages, and later remediation is less effective](sensitive-periods-later-remediation-less-effective.md) — related

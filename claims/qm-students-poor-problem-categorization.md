@@ -67,3 +67,4 @@ Investigation by Lin and Singh in which professors and students from two junior/
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
 - [Common introductory strategies for quantum numbers (orbitals, probability clouds, hydrogen atom) are expert representations not optimized for novice sense-making](expert-representations-quantum-numbers-novice-traps.md) — related
 - [Synthetic-data experiments suggest embedding geometry of physics solutions is driven by surface features rather than conceptual structure, behaving like novices](embeddings-behave-like-novices-surface-features.md) — related
+- [Expert problem schemata contain solution procedures and conditions of applicability, whereas novice schemata lack explicit solution procedures](expert-schemata-contain-solution-procedures.md) — related

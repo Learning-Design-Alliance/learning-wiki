@@ -51,3 +51,4 @@ In the 54-participant within-subject study, situational interest (three items, �
 - [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) — related
 - [Overall posttest performance does not differ between targeted and holistic retrieval conditions](no-overall-performance-difference-between-retrieval-task-types.md) — related
 - [Situational interest in a PBL session follows a U-shape: it rises after the problem is presented and falls as knowledge closes the gap (knowledge-deprivation hypothesis)](knowledge-deprivation-hypothesis-situational-interest-u-shape.md) — reports the opposite
+- [Closed-looped tasks show better retention than open-looped tasks, contrary to the study hypothesis](closed-looped-retained-better-than-open-looped.md) — related

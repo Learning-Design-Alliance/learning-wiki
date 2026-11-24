@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (136 show a difference, 41 mixed, 16 no difference) · 106 studies (51 associational, 32 causal, 11 review, 5 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 106 report an effect size · 190 claims rest on one study
+> **Evidence** · 198 claims (141 show a difference, 41 mixed, 16 no difference) · 108 studies (52 associational, 32 causal, 11 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 108 report an effect size · 195 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -228,6 +228,11 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Prior achievement significantly predicts later academic self-concept after controlling for initial ASC (β = 0.16)](../claims/achievement-predicts-later-asc-meta-analysis.md) [+M] — measured as an outcome of the instruction studied
 - [Self-concept changes show small positive effects on subsequent achievements within subjects, examined for the first time, with between-subject effects positive or near-zero](../claims/self-concept-changes-positive-effects-on-achievements.md) [~W] — learners who differ on it differ in outcomes
 - [Subject similarity moderates dimensional comparison effects: strong contrast for dissimilar subjects, reduced contrast for similar verbal subjects, and near-zero effects for similar math/science subjects](../claims/subject-similarity-moderates-dimensional-comparison.md) [~M] — measured as an outcome of the instruction studied
+- [Individual student achievement positively and substantially predicts academic self-concept across countries](../claims/individual-achievement-positive-academic-self-concept.md) [+M] — measured as an outcome of the instruction studied
+- [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](../claims/ie-model-achievement-self-concept-correlation-contrast.md) [+M] — measured as an outcome of the instruction studied
+- [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](../claims/ie-model-path-coefficients-supported.md) [+M] — measured as an outcome of the instruction studied
+- [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](../claims/bflpe-longitudinal-cross-cultural-prior-evidence.md) [+W] — measured as an outcome of the instruction studied
+- [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](../claims/bflpe-negative-school-average-achievement-26-countries.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

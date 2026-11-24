@@ -61,3 +61,4 @@ Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the co
 - [The G-Jump group maintained and slightly improved its mean score from post-test to two-week follow-up, showing better short-term retention than the other groups](gjump-sustained-retention-follow-up.md) — related
 - [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — a narrower finding that bears on this claim
 - [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related
+- [Concept grouping accuracy declined over the first two retention intervals then leveled off above chance, and research-methods knowledge remained around 75% correct verification with no systematic decline.](grouping-research-methods-retention-patterns.md) — related

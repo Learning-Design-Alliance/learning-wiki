@@ -48,6 +48,7 @@ The authors recommend concrete revisions to simulation design based on the study
 ## Related Strategies
 
 - [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
+- [Incorporate dialogue, authentic or situated problems, and mentoring into CT instruction](dialogue-authentic-problems-mentoring-ct-strategy.md)
 
 ## Examples
 -

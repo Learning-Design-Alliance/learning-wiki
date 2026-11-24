@@ -49,3 +49,4 @@ Mediation analysis (PROCESS macro, bootstrap samples per the method section) rel
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
 - [Integrating pedagogical/psychological knowledge with PCK in instruction showed positive effects on teacher training outcomes](integrated-ppk-pck-instruction-positive-effects.md) — related
+- [Across number, narrative, and spatial domains, children merge two first-order structures into a second-order structure between ages 4 and 6](cross-domain-merging-ages-4-to-6.md) — related

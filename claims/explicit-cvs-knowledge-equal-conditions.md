@@ -51,3 +51,4 @@ A 2 × 3 MANOVA on the proportion of trials with an unconfounded design plus an 
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related
+- [Older elementary school children outperformed younger children in using the control of variables strategy.](cvs-use-increases-with-grade.md) — related

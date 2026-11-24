@@ -59,3 +59,4 @@ Preliminary intra-class correlation analysis of the one-week lesson-to-lesson da
 - [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](state-goals-emotions-variance-mostly-situational.md) — related
 - [Vocabulary engagement measured by app logs varies mostly within students across days](app-log-engagement-mostly-within-person-variability.md) — related
 - [Students' cognitive engagement increases significantly and gradually across a one-day PBL event rather than in a wave-like pattern](engagement-increases-gradually-pbl-day.md) — related
+- [Epistemic cognitions are often situation-specific, varying across contexts and even within a single conversation](context-specificity-of-epistemic-cognition.md) — related

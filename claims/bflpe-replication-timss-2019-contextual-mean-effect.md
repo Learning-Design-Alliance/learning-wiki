@@ -66,3 +66,5 @@ Multilevel Model 2 (Table 1) predicting mathematics self-concept from student ac
 - [The BFLPE exists in both elementary-school and secondary-school contexts](bflpe-exists-in-both-school-contexts.md) — related
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [In elementary school, achievement predicts later self-concept of ability but prior self-concept does not significantly predict later achievement when achievement is modeled with both marks and tests integrated](skill-development-model-elementary-helmke-1995.md) — related
+- [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — related
+- [Individual student achievement positively and substantially predicts academic self-concept across countries](individual-achievement-positive-academic-self-concept.md) — related

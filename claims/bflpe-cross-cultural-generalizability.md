@@ -52,3 +52,5 @@ Narrative review of BFLPE evidence including the multinational PISA 2000 study o
 - [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — a narrower finding that bears on this claim
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — possibly the same claim (merge candidate)
+- [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — a narrower finding that bears on this claim
+- [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — a narrower finding that bears on this claim

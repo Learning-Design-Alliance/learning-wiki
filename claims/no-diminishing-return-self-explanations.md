@@ -47,3 +47,4 @@ Logarithmic regression analyses comparing power function to linear models showed
 ## Related Claims
 - [Tokenizer vocabulary size exhibits a concave-down (Goldilocks) relationship with LLM scoring agreement, with diminishing returns beyond moderate sizes](vocab-size-concave-scoring-agreement.md) — related
 - [Mean final course grade rises quadratically with the logarithm of term-aggregated practice-study volume, with an overall gain of 0.77±0.12 grade points between 1 and 1000 questions](log-quadratic-grade-gain-practice-volume.md) — related
+- [In Experiment 1, the relationship between criterion level and final test performance was curvilinear (power function better than linear), showing diminishing returns](criterion-level-diminishing-returns-curvilinear.md) — related

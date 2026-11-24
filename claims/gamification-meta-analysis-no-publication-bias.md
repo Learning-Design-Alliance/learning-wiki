@@ -58,3 +58,4 @@ Four publication-bias analyses were run on the meta-analytic dataset: funnel plo
 - Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
 - No evidence of publication bias in the SDL meta-analysis — related
 - No significant publication bias was detected for the knowledge and skill outcomes — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

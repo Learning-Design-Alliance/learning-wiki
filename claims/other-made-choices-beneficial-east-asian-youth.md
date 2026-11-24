@@ -54,3 +54,4 @@ The review reports Iyengar and Lepper's (1999) experiments with Anglo-American a
 - [In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions](assessment-condition-affects-anagram-choice.md) — related
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — reports the opposite
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — reports the opposite
+- [The negative correlation between intrinsic and extrinsic motivation is stronger for Caucasian than for Chinese American students, reversing sign for pleasing the teacher](ethnicity-difference-intrinsic-extrinsic-correlation.md) — related

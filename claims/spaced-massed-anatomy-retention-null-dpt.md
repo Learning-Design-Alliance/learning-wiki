@@ -75,3 +75,4 @@ ANCOVA on improvement factor in the same two-cohort prospective study, with cova
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Pre-test anatomy score correlated strongly and negatively with improvement factor across the combined cohorts](pretest-improvement-negative-correlation-anatomy.md) — related
 - [Self-directed learning and instruction-based learning produce equal knowledge and performance outcomes at the end of year two in physical therapy education](sdl-ibl-equal-study-outcomes-pt.md) — related
+- [Age at retrieval is not reliably associated with very long-term retention of course knowledge, with retention and confidence measures failing to load on a factor defined by retention interval and age.](age-at-retrieval-not-associated-retention.md) — reports the opposite

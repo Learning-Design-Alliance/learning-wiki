@@ -133818,5 +133818,65 @@
  "media-design\tintegrated worked examples\tsplit-source worked examples": {
   "label": "integrated worked examples vs split-source worked examples",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tAssessment after explicit CVS training and probes\tExploration before training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTraining-Probe\tNo Training-No Probe": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTraining-Probe\tNo Training-Probe": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTraining-Probe condition after CVS training\tExploration phase before training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTransfer performance after explicit CVS training and probes\tExploration performance before training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit CVS instruction plus probe questions\tno explicit training, with or without probe questions": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit CVS training plus probe questions\tExploration phase before training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit CVS training plus probe questions\tno explicit training and no probe questions": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit CVS training plus probe questions\tno training and no probe questions": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit CVS training plus probe questions\tprobe questions without explicit training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching of literary heuristics\tnot stated": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tno explicit training and no probe questions\tearlier phases before improvement": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tsituated instruction using talk, gesture, and the work environment\tabstract definition or language in isolation": {
+  "label": "situated instruction vs abstract instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12U Biology enrolment trend\tGrade 10 Science enrolment trend": {
+  "label": "12U Biology enrolment trend vs Grade 10 Science enrolment trend",
+  "treatment_is_a": true
+ },
+ "media-design\tcropped, enlarged, sequential frame photos pasted on an easel with body outlines\tordinary video presentation in which each frame disappears when its successor arrives": {
+  "label": "static sequential images vs video",
+  "treatment_is_a": true
  }
 }

@@ -52,3 +52,4 @@ The article reports a family-background moderator: the entrance-age association 
 - [The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years](entrance-age-gap-declines-after-kindergarten-entry.md) — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — related
 - [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related
+- [Ability gaps across socioeconomic groups open up at early ages for both cognitive and noncognitive skills](early-ability-gaps-open-before-school.md) — related

@@ -70,3 +70,4 @@ With summarized behavioral action vectors as features, next-click prediction rea
 - [Summarized behavioral action vectors from MOOC video clickstreams yield lower false negative rates than raw click features for engagement and in-video dropout prediction](behavioral-vectors-lower-fnr-than-raw-clicks.md) — related
 - [Engagement, video play proportion and IPI trajectories predict complete course dropout in a MOOC](trajectories-predict-complete-course-dropout.md) — related
 - [Average IPI differs significantly across student partitions: high versus low engagers, in-video dropouts versus non-dropouts, course dropouts versus non-dropouts, and Active versus Viewers](ipi-varies-across-student-partitions.md) — related
+- [MOOC video-watching behaviors fall into four patterns that reveal different aspects of knowledge dependencies](mooc-video-watching-patterns-dependencies.md) — related

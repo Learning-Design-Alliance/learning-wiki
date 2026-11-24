@@ -49,3 +49,4 @@ Comparison of the full IRT rankings (Tables I and II) with rankings filtered to 
 - [The most commonly chosen incorrect response ranks higher in DS2full than DS1full rankings for nearly all items](most-common-incorrect-ranked-higher-ds2.md) — related
 - [Ranking discrepancies may result from response rates for less commonly chosen responses, whose parameters are more sensitive to individual students](rare-response-rates-explain-ranking-discrepancies.md) — related
 - [Some items have incorrect responses ranked consistently highest across analyses that are not the most commonly chosen, suggesting some incorrect responses are better than the most common](consistent-highest-ranked-incorrect-not-most-common.md) — related
+- [Using multiple observed patterns as filters in inverse modeling sharply reduces parameter uncertainty in bottom-up models](pattern-filtering-parameter-uncertainty.md) — related

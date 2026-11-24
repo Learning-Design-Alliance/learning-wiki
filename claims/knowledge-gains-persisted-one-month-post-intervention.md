@@ -61,3 +61,4 @@ One-month follow-up in the 45-nurse trial showed between-group differences remai
 - [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related
 - [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
 - [VR-based basic life support training shows comparable three-month retention to traditional training despite lower immediate post-training scores](vr-bls-comparable-three-month-retention.md) — related
+- [Retention differs by content: organ-system knowledge is better retained than general knowledge, and abnormal-process items improved while normal-process items declined](content-type-differences-retention.md) — related

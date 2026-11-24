@@ -68,6 +68,7 @@ Distributed practice is one of the most robust findings in learning science, wit
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
 - [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
 - [Space word-learning exposures over time so children can forget irrelevant details between exemplars](spacing-allows-forgetting-irrelevant-details-generalization.md)
+- [Schedule independent retrieval of target information at intervals as long as one month over several years, rather than typical 1-2 day intervals over 10-15 weeks](spaced-retrieval-up-to-one-month-strategy.md)
 
 ## Examples
 - **Vocabulary learning**: reviewing new words at expanding intervals (1 day, 3 days, 1 week, 1 month) rather than repeating them twenty times in one sitting.

@@ -55,3 +55,5 @@ Narrative review of early BFLPE studies (Marsh and Parker 1984; Marsh 1987). The
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related
 - [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related
 - [Self-talk benefits were specific to competence beliefs and did not extend to global self-worth](self-talk-effects-specific-to-competence-beliefs.md) — related
+- [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — related
+- [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — related

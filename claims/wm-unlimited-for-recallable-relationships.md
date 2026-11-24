@@ -51,3 +51,4 @@ The review states this rule as a key to understanding learning, citing Kirschner
 - [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](working-memory-3-5-slots-30-seconds.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
+- [Skilled activities can be interrupted and later resumed without major performance effects because LT-WM storage persists in LTM and is reinstated by reactivating retrieval cues](lt-wm-supports-interruption-and-resumption.md) — related

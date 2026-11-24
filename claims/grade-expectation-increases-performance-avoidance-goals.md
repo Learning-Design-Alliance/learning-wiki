@@ -53,3 +53,4 @@ Field experiment in a Swiss professional school: 115 EFL students in eight class
 - [Perceived competence does not moderate the effect of grading on performance-avoidance goals](perceived-competence-no-moderation-grading-avoidance.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](manipulated-performance-goals-model-preference-competence.md) — related
+- [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](preference-easy-work-increases-with-age.md) — related

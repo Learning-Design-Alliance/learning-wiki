@@ -51,3 +51,4 @@ Quantitative meta-analysis of 40 studies: the heterogeneity test indicated "the 
 - Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
 - Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related
+- [Effects of CT instruction are heterogeneous across studies (Q-Total = 5,275.62; I2 = 83.58), motivating moderator analysis.](ct-effect-collection-heterogeneous.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ Illustrative argument (no data) in the critique section: the same overt behavior
 - [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related
 - [Watching video models of successful weight loss increased weight loss self-efficacy over two months](video-modelling-increases-weight-loss-self-efficacy.md) — related
 - [Students' understandings of research range from passive exposure to active, reflective engagement in research-informed learning](passive-to-active-research-engagement-continuum.md) — related
+- [MOOC video-watching behaviors fall into four patterns that reveal different aspects of knowledge dependencies](mooc-video-watching-patterns-dependencies.md) — related

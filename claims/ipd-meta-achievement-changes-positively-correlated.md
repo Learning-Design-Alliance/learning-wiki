@@ -46,3 +46,4 @@ Preliminary correlation analysis of the pooled IPD meta-analysis dataset. Achiev
 
 ## Related Claims
 - [Students' math and verbal self-concepts are near-zero correlated even though their math and verbal achievement levels are strongly positively correlated](ipd-meta-near-zero-self-concept-correlation-strong-achievement-correlation.md) — related
+- [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — related

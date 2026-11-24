@@ -51,3 +51,4 @@ Correlational analysis reported in the descriptive statistics section of the exp
 - [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
 - [Intensity of learner control use relates to retention gains but not to transfer performance](interactive-behavior-relates-to-retention-not-transfer.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
+- [Tacit knowledge can drive task performance without being verbalizable: posttest ability uncorrelated with control performance](tacit-knowledge-posttest-uncorrelated-control.md) — related

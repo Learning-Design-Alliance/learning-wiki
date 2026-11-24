@@ -54,3 +54,4 @@ Mixed-effects moderator analysis of country categories. Studies in Türkiye show
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
 - [Female participants achieved higher diagnostic accuracy than male participants across all seven cases, with the largest gaps on the most challenging cases](female-higher-diagnostic-accuracy-oral-cases.md) — related
 - [Gender moderates SES effects: student SES raises achievement more for female students, while school SES raises achievement more for male students](gender-moderates-ses-effects.md) — related
+- [The I/E model generalizes across age groups, gender groups, and countries](ie-model-generalizability-age-gender-country.md) — related

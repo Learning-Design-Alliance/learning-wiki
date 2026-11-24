@@ -74,3 +74,4 @@ Same accuracy ANOVA in the behavioral results section: the notation × ratio int
 - [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
 - [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
+- [Four-year-olds hold nonnumerical quantity knowledge and counting knowledge in separate, unintegrated structures and fail number comparison questions](four-year-olds-unintegrated-quantity-and-counting-schemas.md) — related

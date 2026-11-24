@@ -50,3 +50,4 @@ Correlation analyses (Fig. 4b) linking RLDDM parameter differences to individual
 - [Social value orientation moderates the self-other gap in model-based decision-making, with prosocials showing smaller gaps](svo-moderates-self-other-model-based-gap.md) — related
 - [Shorter non-decision time for others partially mediates the reduced model-based weight in prosocial decisions](non-decision-time-mediation-prosocial-model-based.md) — related
 - [Model-free learning is slower when deciding for others than for oneself](slower-model-free-learning-for-others.md) — related
+- [More accurate individuals make smaller revisions, indicating a positive correlation between accuracy and self-weight (the revision coefficient)](revision-coefficient-accuracy-self-weight-correlation.md) — related

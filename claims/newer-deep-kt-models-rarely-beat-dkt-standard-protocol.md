@@ -66,3 +66,4 @@ The benchmark compares models from the deep learning family only; it does not in
 - [SBRKT achieves the highest AUC on several knowledge tracing benchmarks and ranks second on the others, despite sparse discrete representations](sbrkt-auc-vs-baselines.md) — related
 - [Instantiating TASA with DKT as the knowledge tracing model yields the highest average learning gain among five KT variants](dkt-best-kt-backbone-for-tasa.md) — related
 - [Fine-tuned LLaMA NTKT models outperform deep learning KT baselines on the Eedi dataset, exceeding 10 percentage points in AUC over the best baseline](ntkt-outperforms-kt-baselines-edi.md) — related
+- [Asymmetric DKT prediction improvement indicates prerequisite direction between knowledge concepts](dkt-asymmetric-prediction-pr-direction.md) — related

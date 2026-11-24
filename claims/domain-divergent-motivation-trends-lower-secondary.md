@@ -59,3 +59,4 @@ Combined growth model of the 612-student sample (quadratic factors for math, lin
 - [Over a full term, aggregated lecture time decreases linearly while independent study time follows a negative quadratic trajectory, rising until the end of the lecture period and then declining](lecture-time-linear-decrease-independent-study-quadratic-trend.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related
+- [Intrinsic motivation shows a significant linear decrease from third through eighth grade when measured independently of extrinsic motivation](intrinsic-motivation-linear-decline-grades-3-8.md) — related

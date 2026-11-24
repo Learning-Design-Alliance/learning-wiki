@@ -65,3 +65,4 @@ This is a qualitative, non-experimental design study without a comparison condit
 - [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — a broader claim this one bears on
 - [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](prior-epistemic-frameworks-insufficient-situated-practices.md) — related
 - [Developing comfort with failure emerged inductively and extends Campbell et al.'s growth mindset practice framework](comfort-with-failure-extends-campbell-framework.md) — related
+- [Epistemic beliefs may be tacit commitments inferred from actions rather than explicitly verbalizable beliefs](tacit-epistemic-beliefs-inferred-from-actions.md) — related

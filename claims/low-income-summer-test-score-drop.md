@@ -76,3 +76,5 @@ The article states, as background motivating the study, that "a growing body of 
 - [CMC questions disproportionately harm female, low-income, and domestic students relative to their peers](cmc-questions-disproportionately-harm-marginalized-groups.md) — related
 - [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](century-of-summer-replication-failure.md) — related
 - [Test score gaps are already substantial when children enter school and grow relatively little afterward](gaps-form-mainly-early-childhood-before-school.md) — related
+- [Mean school-year gains are largest in early grades and diminish over time, while mean summer losses stay within a tighter range across grades](school-year-gains-diminish-summer-losses-stable.md) — related
+- [Summer loss is not moderated by student gender or race, but its negative effect increases with students' grade level](summer-loss-grade-moderation-gender-race-null.md) — related

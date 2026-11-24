@@ -54,3 +54,4 @@ KS comparison of category-number distributions from the authors' Michigan State 
 - [Expert and novice teachers do not differ significantly in the number of alternative teaching strategies they mention when reflecting on their own MET videos](expert-novice-no-difference-alternatives-count.md) — related
 - [In problem categorization tasks, novices sort physics problems by surface features while experts sort them by solution principles](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related
+- [Expert and novice sorting shows quantitative parity in number of categories, but experts take longer on the first sorting trial](sorting-quantitative-parity-expert-novice.md) — related

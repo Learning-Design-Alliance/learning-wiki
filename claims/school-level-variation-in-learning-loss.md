@@ -52,3 +52,4 @@ Supplementary heterogeneity analysis (SI Appendix, section 7.9) documenting scho
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
 - [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](century-of-summer-replication-failure.md) — related
+- [Summer learning gains/losses vary dramatically across students, with summer SD-to-mean ratios (1.4–5.2 in ELA) far larger than school-year ratios](dramatic-variability-in-summer-learning-loss.md) — related

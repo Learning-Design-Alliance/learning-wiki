@@ -77,3 +77,5 @@ Same renewed meta-analysis (k = 118 datasets, N = 213,121). Within-domain social
 - [Achievement in one subject has significantly negative paths to self-concept in the other, dissimilar subject (dimensional comparison contrast effects)](dimensional-comparison-negative-paths-math-l1.md) — related
 - [Achievement measure type moderates comparison effects: grades yield stronger achievement-to-self-concept paths, standardized tests higher achievement correlations](grades-versus-tests-moderate-comparison-effects.md) — related
 - [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related
+- [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — possibly the same claim (merge candidate)
+- [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](ie-model-path-coefficients-supported.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5889 entries** · 0 stable · 5889 in review · 0 drafts
+**5890 entries** · 0 stable · 5890 in review · 0 drafts
 
 ---
 
@@ -4240,6 +4240,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Semiotic approach to preschool foreign-language vocabulary instruction](semiotic-approach-preschool-vocabulary-instruction.md) - The study grounds both instruction types in semiotics, the study of signs and sign processes called semiosis, applied to foreign language learning as educational semiotics.
 * [SEMLA: a group-based socioemotional and material learning paradigm for preschool](semla-socioemotional-material-learning-paradigm.md) - SEMLA (socioemotional and material learning) is a group-based preschool pedagogy in which children explore an overarching problem through hands-on investigation with diverse materials and artefacts, emphasizing emotio...
 * [Sensor-embedded bongo drum platform with DTW-based synchronization measurement](sensor-embedded-bongo-drum-platform-dtw.md) - A custom bongo drum platform embedded with thin-film pressure sensors was used to measure preschoolers' tapping.
+* [Separate mother and child group sessions with joint practice sessions](separate-plus-joint-support-group-sessions.md) - This intervention design pattern combines parallel age-specific group sessions with shared joint sessions.
 * [Sequence a mass-spring experiment immediately after the pendulum to revise techniques in a new context within a coherent theme](pendulum-then-mass-spring-sequence.md) - The course is organized as a two-experiment path within one physical theme.
 * [Sequence of 14 music-mathematics integrated lessons using composition, performance, and instruments as mathematical manipulatives](music-math-integrated-lesson-sequence.md) - The intervention was a series of 14 classroom lessons integrating mathematics content with music activities, delivered weekly at \"one or two 45-minute music-mathematics integrated lessons\".
 * [Sequence of nine structured instructor-led AI demonstrations for modeling strategic LLM delegation and evaluation](nine-structured-ai-demonstrations-sequence.md) - A deployable classroom intervention: nine short, instructor-led AI demonstrations delivered at roughly weekly cadence, progressing from baseline tool literacy through pedagogical framing (metacognition, Socratic tutor...

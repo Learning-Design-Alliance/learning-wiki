@@ -49,3 +49,4 @@ Regression discontinuity analysis of the Tennessee SAILS policy, which waived co
 - [Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points](sails-boosted-college-level-math-enrollment-30-points.md) — related
 - [SAILS completers had completed only 1.5 additional college courses after two years](sails-only-1-5-additional-courses-two-years.md) — related
 - [Under Tennessee's 2015 co-requisite remediation policy, completing SAILS no longer produced any boost in college credits](sails-no-credit-boost-under-co-requisite-policy.md) — related
+- [Simulation shows balanced investment across childhood outperforms adolescent-only remediation: 91% high school graduation and 37% college enrollment versus 35% higher cost for late-only policy](balanced-investment-beats-adolescent-remediation-simulation.md) — related

@@ -53,3 +53,4 @@ ERP study by Nobre and colleagues in which participants searched a WM array at l
 - [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
 - [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md) — related
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](perceptual-attention-necessary-not-sufficient-wm-encoding.md) — related
+- [Skilled activities can be interrupted and later resumed without major performance effects because LT-WM storage persists in LTM and is reinstated by reactivating retrieval cues](lt-wm-supports-interruption-and-resumption.md) — related

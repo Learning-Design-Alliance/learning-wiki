@@ -59,3 +59,4 @@ Publication bias assessment in the Findings section using funnel plot inspection
 - Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis — related
 - The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related
 - [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](fcm-meta-publication-bias-robust.md) — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

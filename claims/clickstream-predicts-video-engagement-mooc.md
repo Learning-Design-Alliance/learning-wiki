@@ -68,3 +68,4 @@ Same experiment with level-2 summarized behavioral action vectors as features: a
 - [Summarized behavioral action vectors from MOOC video clickstreams yield lower false negative rates than raw click features for engagement and in-video dropout prediction](behavioral-vectors-lower-fnr-than-raw-clicks.md) — related
 - [Clickstream features predict students' next click state while watching MOOC video lectures](clickstream-predicts-next-click-state-mooc.md) — related
 - [Students' video watching profile summarized from clickstream predicts in-video dropout](behavioral-vectors-predict-in-video-dropout.md) — related
+- [MOOC video-watching behaviors fall into four patterns that reveal different aspects of knowledge dependencies](mooc-video-watching-patterns-dependencies.md) — related

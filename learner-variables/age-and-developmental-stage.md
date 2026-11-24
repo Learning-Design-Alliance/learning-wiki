@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (173 show a difference, 61 mixed, 35 no difference) · 222 studies (92 associational, 51 causal, 27 review, 25 quant-synthesis, 12 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 222 report an effect size · 267 claims rest on one study
+> **Evidence** · 272 claims (175 show a difference, 62 mixed, 35 no difference) · 224 studies (93 associational, 52 causal, 27 review, 25 quant-synthesis, 12 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 224 report an effect size · 270 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -301,6 +301,9 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Reflective judgment shows a significant age effect across adolescence and adulthood, with age-group means dividing at roughly 18-19 and 22-23 years](../claims/reflective-judgment-significant-age-effect.md) [+M] — learners who differ on it differ in outcomes
 - [Under high support and practice, reflective judgment shows developmental spurts between ages 18-20 and 23-25/26, but the hypothesized 14-15 spurt appears only in stage-specific and highest-stage data](../claims/prji-developmental-spurts-18-20-23-25.md) [~M] — learners who differ on it differ in outcomes
 - [Adaptive motivation and engagement decrease as grade level increases from fourth to sixth grade in Chinese primary students](../claims/adaptive-motivation-declines-grade.md) [+M] — learners who differ on it differ in outcomes
+- [Extrinsic motivation shows few differences across grade levels, differing only between third grade and all other grades](../claims/extrinsic-motivation-few-grade-differences.md) [~M] — learners who differ on it differ in outcomes
+- [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](../claims/preference-easy-work-increases-with-age.md) [+M] — learners who differ on it differ in outcomes
+- [Older elementary school children outperformed younger children in using the control of variables strategy.](../claims/cvs-use-increases-with-grade.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

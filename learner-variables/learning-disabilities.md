@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (137 show a difference, 37 mixed, 25 no difference) · 111 studies (56 associational, 28 causal, 11 review, 7 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 23 of 111 report an effect size · 197 claims rest on one study
+> **Evidence** · 200 claims (138 show a difference, 37 mixed, 25 no difference) · 112 studies (57 associational, 28 causal, 11 review, 7 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 23 of 112 report an effect size · 198 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -233,6 +233,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+W] — learners who differ on it differ in outcomes
 - [Modified formula groups showed no differences in the odds of receiving special educational needs support or of attaining five or more GCSEs at grade C or above](../claims/no-difference-sen-or-five-gcses-modified-formula.md) [-M] — measured as an outcome of the instruction studied
 - [Preterm children are 2.85 times more likely to receive special educational assistance](../claims/preterm-special-educational-needs-rr-2-85.md) [+M] — learners who differ on it differ in outcomes
+- [Reading and mathematics achievement correlate at about .72-.74 across K-3 waves, and dyslexia-dyscalculia comorbidity (~4%) far exceeds the independence expectation](../claims/reading-math-high-correlation-and-comorbidity.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

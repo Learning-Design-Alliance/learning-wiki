@@ -71,3 +71,4 @@ Participants did two-column addition alone or with a letter-recall secondary tas
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Assessment methods unintentionally impose differing working-memory demands that confound measurement of the target construct (test impurity), biasing results along a gradient of students' WM capacity](assessment-test-impurity-working-memory-confound.md) — related
+- [Probabilistic task elements significantly increase an operator's memory workload](probabilistic-tasks-increase-operator-memory-workload.md) — related

@@ -66,3 +66,4 @@ Survey results for Questions 30 and 31 (Figures 6 and 7) comparing introductory 
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
 - [GPT-5 Thinking solves the elevator problem symbolically, avoiding both plug-and-chug pitfalls, and resists prompts eliciting novice-like behavior](gpt5-elevator-symbolic-novice-resistant.md) — related
 - [Introductory students consistently define conceptual problem-solving as understanding underlying principles without relying solely on equations, and quantitative problem-solving as applying formulas and numerical reasoning](student-definitions-conceptual-quantitative.md) — related
+- [In the formal test, children fail the same items they solved in the market because school-taught symbol routines replace quantity-based mental strategies](street-math-different-routines-two-settings.md) — related

@@ -60,3 +60,4 @@ The review's psychometric synthesis (Section 3.3, Table 3) of instruments develo
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [The survey instrument separates into three distinct scales: pure calculus, applied calculus, and calculus self-efficacy](three-scales-calculus-survey-validation.md) — related
+- [A test that measures one attribute is not automatically valid for a perfectly correlated different attribute](perfect-correlation-not-same-attribute.md) — related

@@ -53,3 +53,4 @@ Authors' interpretive statement in the abstract: implications of the non-linear 
 - [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
+- [Mean school-year gains are largest in early grades and diminish over time, while mean summer losses stay within a tighter range across grades](school-year-gains-diminish-summer-losses-stable.md) — related

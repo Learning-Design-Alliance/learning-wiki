@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 331 claims (191 show a difference, 90 mixed, 50 no difference) · 263 studies (99 causal, 48 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 43 of 263 report an effect size · 313 claims rest on one study
+> **Evidence** · 334 claims (193 show a difference, 91 mixed, 50 no difference) · 265 studies (100 causal, 49 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 43 of 265 report an effect size · 316 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -379,6 +379,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The expertise reversal effect extends beyond the redundancy principle to other cognitive-load design principles, with direction depending on the principle](../claims/expertise-reversal-generalizes-across-principles.md) [~W] — an instructional effect differs with it
 - [The expertise reversal effect: a significant knowledge-by-instructional-format disordinal interaction detected using the rapid test](../claims/expertise-reversal-interaction-rapid-test.md) [+M] — an instructional effect differs with it
 - [The expertise reversal for the redundancy principle also appears on transfer: additional text raises novices' transfer scores but lowers experts'](../claims/expertise-reversal-redundancy-transfer.md) [+M] — an instructional effect differs with it
+- [CVS training improved children's domain-specific knowledge of the trained tasks, while untrained children showed no significant gain.](../claims/cvs-training-improves-domain-knowledge.md) [+M] — measured as an outcome of the instruction studied
+- [Expert and novice sorting shows quantitative parity in number of categories, but experts take longer on the first sorting trial](../claims/sorting-quantitative-parity-expert-novice.md) [~M] — learners who differ on it differ in outcomes
+- [When surface features are crossed with physics laws, experts still sort by principle and novices by surface structure, with advanced novices showing an intermediate pattern](../claims/surface-deep-crossing-replication-sorting.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

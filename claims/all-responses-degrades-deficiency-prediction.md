@@ -50,3 +50,4 @@ Benchmark experiment (Table 5) under the All Responses strategy: the article rep
 - [Selecting historical responses by same-concept filtering improves concept-level deficiency prediction, with DeepSeek-R1 achieving the highest Macro-F1 of 17.40% under Same-Concept Selection](same-concept-selection-improves-deficiency-prediction.md) — possibly the same claim (merge candidate)
 - [OKT predicts answer correctness strongly but performs poorly in predicting concept-level deficiencies](okt-strong-correctness-poor-deficiency.md) — related
 - [Supplementing sparse same-concept histories with different-concept responses reduces Llama-4's correctness accuracy and deficiency identification](different-concept-augmentation-hurts-prediction.md) — related
+- [Using multiple observed patterns as filters in inverse modeling sharply reduces parameter uncertainty in bottom-up models](pattern-filtering-parameter-uncertainty.md) — related

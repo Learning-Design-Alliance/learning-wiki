@@ -68,3 +68,4 @@ Same 128-encounter dataset: scores divided into weak, average and strong groups;
 - [Extreme mismatches between modified ACIRS and ECRS scores appear driven by medical-knowledge checklist performance rather than empathetic communication](acirs-ecrs-mismatch-driven-by-medical-knowledge.md) — related
 - [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related
 - [First-year medical students with enhanced medical improv training scored significantly higher on ECRS-rated OSCE communication than students with no medical improv](enhanced-medical-improv-higher-ecrs-osce-scores.md) — related
+- [The ASQ shows weak reliability and weak concurrent validity with depression in a large college sample](asq-weak-reliability-validity-study1.md) — related

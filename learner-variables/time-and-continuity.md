@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 279 claims (178 show a difference, 66 mixed, 35 no difference) · 244 studies (116 causal, 61 associational, 24 review, 15 quant-synthesis, 14 design, 11 qualitative, 3 theoretical), `q1`–`q4` · 44 of 244 report an effect size · 275 claims rest on one study
+> **Evidence** · 287 claims (183 show a difference, 67 mixed, 37 no difference) · 247 studies (116 causal, 62 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 4 theoretical), `q1`–`q4` · 45 of 247 report an effect size · 283 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -336,6 +336,14 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [School absenteeism was significantly associated with poor academic performance among Hargeisa adolescents](../claims/school-absenteeism-associated-poor-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [First-generation Native Hawaiian students face financial barriers that can interrupt college persistence, including dropping out over unpaid funding](../claims/financial-barriers-native-hawaiian-astronomy-students.md) [+W] — learners who differ on it differ in outcomes
 - [Summer learning studies have produced mixed results for more than a century, with the historical record showing heterogeneous findings rather than consensus on summer loss](../claims/century-of-summer-replication-failure.md) [~M] — learners who differ on it differ in outcomes
+- [Achievement test scores decline over summer vacation by about one month on a grade-level equivalent scale, or one tenth of a standard deviation relative to spring test scores](../claims/summer-loss-one-month-grade-level-equivalent.md) [-W] — learners who differ on it differ in outcomes
+- [Mean school-year gains are largest in early grades and diminish over time, while mean summer losses stay within a tighter range across grades](../claims/school-year-gains-diminish-summer-losses-stable.md) [+M] — learners who differ on it differ in outcomes
+- [Negative summer decrements accumulate for the same students: more than twice as many students show 5 consecutive years of summer losses as chance would predict](../claims/consecutive-summer-losses-accumulate-same-students.md) [+M] — learners who differ on it differ in outcomes
+- [On average, students lose between 17% and 28% of their school-year ELA gains and between 25% and 34% of their school-year math gains during the following summer](../claims/mean-summer-losses-17-28-percent-ela-25-34-percent-math.md) [+M] — learners who differ on it differ in outcomes
+- [Skilled activities can be interrupted and later resumed without major performance effects because LT-WM storage persists in LTM and is reinstated by reactivating retrieval cues](../claims/lt-wm-supports-interruption-and-resumption.md) [-W] — learners who differ on it differ in outcomes
+- [Students with 5 consecutive summer losses ultimately lose nearly 40% of their total school-year gains during the intervening summers](../claims/consecutive-losers-lose-nearly-40-percent-of-school-year-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Summer learning gains/losses vary dramatically across students, with summer SD-to-mean ratios (1.4–5.2 in ELA) far larger than school-year ratios](../claims/dramatic-variability-in-summer-learning-loss.md) [+M] — learners who differ on it differ in outcomes
+- [Summer loss is not uniform across subjects: math computation and spelling show consistent losses while math reasoning and reading comprehension do not](../claims/summer-loss-subject-differences-vote-count.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

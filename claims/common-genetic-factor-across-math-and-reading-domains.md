@@ -52,3 +52,4 @@ Cholesky decomposition of latent factors in the age-12 twin sample. The common g
 - [The genetic correlation between mathematics and reading comprehension (.76) is significantly higher than between mathematics and word decoding (.50)](genetic-correlation-math-reading-comprehension-exceeds-decoding.md) — related
 - [At age 12, mathematics is more strongly correlated with reading comprehension than with word decoding at the phenotypic latent-factor level](mathematics-more-correlated-with-reading-comprehension-than-decoding.md) — related
 - [Shared environmental influences on mathematics, word decoding, and reading comprehension are nearly identical across the three domains](shared-environmental-correlations-unity-math-reading.md) — related
+- [Stable latent factors underlying reading and mathematics achievement correlate near unity (φ = .94) in the RI-CLPM](stable-reading-math-latent-factors-correlate-94.md) — related

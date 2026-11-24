@@ -107,3 +107,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [The strongest Step 1 prediction model combined the practice Step 1 exam with two basic science miniboards, achieving an adjusted R2 of 77%](step1-strongest-prediction-practice-exam-miniboards-ar2-77.md) — a narrower finding that bears on this claim
 - [Entering GPA is the single best predictor of grades in large-enrollment upper-level life sciences courses, accounting for 22.3–58.0% of variance (β 0.315–0.662)](entering-gpa-best-predictor-life-science-grades.md) — related
 - [A Doer Effect is observed in the non-WEIRD sample: practice remains significantly related to exam scores while accounting for prior radio listening, whereas prior listening alone is not](doer-effect-radio-phone-uganda.md) — related
+- [Prolonged contact with a domain, not grades in a single course, is the most important determinant of long-term retention](prolonged-contact-determines-retention.md) — related

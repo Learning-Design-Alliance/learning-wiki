@@ -52,3 +52,4 @@ The review cites cross-cultural studies (Gordon, 2004; Pica et al., 2004) and, s
 - [Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children](sign-language-structure-shapes-counting-errors.md) — related
 - [Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items](no-group-difference-object-counting-accuracy.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [Four-year-olds hold nonnumerical quantity knowledge and counting knowledge in separate, unintegrated structures and fail number comparison questions](four-year-olds-unintegrated-quantity-and-counting-schemas.md) — related

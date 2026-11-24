@@ -87,3 +87,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Teaching strategies must serve personal and human growth, not only instruction and summative evaluation of school performance](teaching-strategies-serve-human-growth.md) — related
 - [The article claims the ownership principle immediately generates rich school structures and selection criteria for new elements](ownership-principle-generates-structures.md) — related
 - [Rigorous research is still needed on the educational impact, scalability, cost-effectiveness, and fitness-to-practice effects of blending simulation and e-learning](blended-simulation-elearning-research-gap.md) — a narrower finding that bears on this claim
+- [Validity is a property of tests, whereas validation is an activity, and the two should not be confused](validity-property-validation-activity-distinction.md) — related

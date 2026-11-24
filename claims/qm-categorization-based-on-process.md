@@ -53,3 +53,5 @@ Secondary analysis of the Lin and Singh categorization study, in which 22 physic
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — related
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
+- [Expert problem schemata contain solution procedures and conditions of applicability, whereas novice schemata lack explicit solution procedures](expert-schemata-contain-solution-procedures.md) — related
+- [Experts cue their basic approach on derived second-order features of the problem situation, which novices almost never mention](second-order-features-guide-expert-approach.md) — related

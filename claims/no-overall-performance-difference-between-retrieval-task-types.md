@@ -50,3 +50,4 @@ Analysis of overall delayed posttest performance in the 54-participant within-su
 - [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related
 - [Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice](free-recall-raises-self-efficacy-via-perceived-success.md) — related
 - [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](free-recall-increases-situational-interest-performance-mediated.md) — related
+- [Closed-looped tasks show better retention than open-looped tasks, contrary to the study hypothesis](closed-looped-retained-better-than-open-looped.md) — related

@@ -69,3 +69,4 @@ Application to a CTL dataset of 7210 pairs (2695 distinct) collected by the auth
 - [On the full propositional logic dataset, LLM-found bug fixing transformations explain 84.44% of pairs versus 71.57% for hand-picked mistakes](llm-transformations-explain-more-propositional-pairs-than-hand-picked.md) — related
 - [The workflow discovers new mistake candidates not explained by prior hand-picked mistakes, such as an exclusive-or-instead-of-negated-conjunction mistake](workflow-finds-mistakes-unexplained-by-prior-hand-picked.md) — related
 - [Across linguistic-operator subdatasets, workflow-found transformations explain at least as many pairs as hand-picked mistakes in most cases](workflow-matches-hand-analysis-on-linguistic-operator-subsets.md) — related
+- [Transformations applied when constructing formal test items do not explain the performance discrepancy between settings](street-math-transformations-not-cause.md) — related

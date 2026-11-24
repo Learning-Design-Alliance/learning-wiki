@@ -63,3 +63,4 @@ The review reports a simulation study by Lüdtke and Robitzsch in which data wer
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
 - Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related
 - [RI-CLPMs fit better than traditional CLPMs in modeling competence beliefs and intrinsic motivation trajectories](ri-clpm-better-fit-than-clpm-motivation-data.md) — reports the opposite
+- [Estimated persistent effects of a kindergarten math boost on grade 3 achievement are dramatically smaller in RI-CLPM/ST-CLPM models (.06 or below) than in CLPM estimates](kindergarten-math-boost-persistent-effects-model-dependent.md) — related

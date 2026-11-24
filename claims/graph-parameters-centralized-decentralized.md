@@ -48,3 +48,4 @@ Case study analysis of two observed groups using the article's graph theory meth
 ## Related Claims
 - [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
+- [Groups with higher revision coefficients show larger improvements in group-mean accuracy in decentralized networks, but not in centralized networks](revision-coefficient-predicts-group-mean-improvement.md) — related

@@ -57,3 +57,4 @@ The abstract frames the article's contribution against the long-standing view th
 - [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
 - [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related
+- [Summer learning gains/losses vary dramatically across students, with summer SD-to-mean ratios (1.4–5.2 in ELA) far larger than school-year ratios](dramatic-variability-in-summer-learning-loss.md) — related

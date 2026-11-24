@@ -48,3 +48,4 @@ Review synthesis of the Custers & ten Cate cross-sectional assessment of doctors
 - [Age, curriculum type and retention interval predict basic science knowledge retention](age-curriculum-retention-interval-predict-retention.md) — related
 - [Rehearsal significantly optimises retention of basic science knowledge among medical practitioners](rehearsal-optimises-basic-science-retention-practitioners.md) — related
 - [Basic science retention varies by discipline, with anatomy retained best and microbiology lowest](retention-varies-by-discipline-anatomy-microbiology.md) — related
+- [Medical basic-science retention studies consistently show modest first-year decline, contrary to beliefs that almost everything is forgotten](modest-basic-science-decline-first-clinical-year.md) — reports the opposite

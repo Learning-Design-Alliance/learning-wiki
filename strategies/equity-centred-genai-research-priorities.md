@@ -50,6 +50,7 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 - [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
 - [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 - [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
+- [Use conceptual meta-analysis by interdisciplinary teams to generate discipline-specific learning goals for literacy instruction](conceptual-meta-analysis-learning-goals-strategy.md)
 
 ## Examples
 -

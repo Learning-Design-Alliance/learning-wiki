@@ -47,3 +47,4 @@ Heterogeneity analysis within the three-level CHE-RVE meta-analysis of 29 effect
 ## Related Claims
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related
+- [Effects of CT instruction are heterogeneous across studies (Q-Total = 5,275.62; I2 = 83.58), motivating moderator analysis.](ct-effect-collection-heterogeneous.md) — a narrower finding that bears on this claim

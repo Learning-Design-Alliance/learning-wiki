@@ -53,3 +53,4 @@ Review synthesis of cross-sectional knowledge-test studies among interns: bioche
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
 - [GP registrars' basic science retention varied by discipline, with the highest mean score in biochemistry and the lowest in anatomy](bsre-discipline-score-variation-gp-registrars.md) — reports the opposite
 - [Perceived clinical relevance of a basic science discipline did not equate to knowledge retention, and AMGs outperformed IMGs in most disciplines](relevance-does-not-equate-retention-triangulation.md) — reports the opposite
+- [Medical basic-science retention studies consistently show modest first-year decline, contrary to beliefs that almost everything is forgotten](modest-basic-science-decline-first-clinical-year.md) — related

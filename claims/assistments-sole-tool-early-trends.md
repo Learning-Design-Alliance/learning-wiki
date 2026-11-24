@@ -75,3 +75,4 @@ System use data showing sole-tool classrooms also showed higher platform usage: 
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related
 - [The authors tentatively conclude the SLMS intervention shows promise for boosting achievement despite unfavorable descriptive trends](slms-tentative-promise-despite-trends.md) — a broader claim this one bears on
+- [Prior suggestions that early math interventions will produce substantial later reading benefits may have been misdirected](early-math-intervention-reading-transfer-may-be-misdirected.md) — related
