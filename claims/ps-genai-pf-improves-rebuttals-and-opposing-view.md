@@ -72,3 +72,4 @@ Pairwise comparison within the Kruskal-Wallis analysis of argument-quality gains
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
 - [Epistemic network analysis linked the PS-GenAI-PF group to negative emotions and higher-order feedback content associations](ena-ps-genai-pf-negative-emotions-higher-order-content.md) — related
+- [After argumentation intervention, participants who have the opportunity to rebut almost always do so, exceeding control participants on both topics](rebuttal-production-increases-after-intervention.md) — related

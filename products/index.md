@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5832 entries** · 0 stable · 5832 in review · 0 drafts
+**5833 entries** · 0 stable · 5833 in review · 0 drafts
 
 ---
 
@@ -144,6 +144,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Afterglow Access](afterglow-access.md) - Afterglow Access is a University of North Carolina/Skynet web application that lets introductory astronomy students, including blind and visually impaired learners, explore astronomical images and perform measurements and photometric analyses through a browser.
 * [Agent4Edu](agent4edu.md) - Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marquez-Carpintero et al.
 * [Agentic engagement observation sheet](agentic-engagement-observation-sheet.md) - An observation sheet developed by Androni Alexandra et al.
+* [Agentic Engagement Scale (AES)](agentic-engagement-scale-aes.md) - A five-item self-report questionnaire developed by Reeve to measure middle-school and college students' agentic engagement in class.
 * [AgenticMath](agenticmath.md) - A Liu et al.
 * [AgenticMathQA](agenticmathqa.md) - AgenticMathQA is a curated 30K, 60K, or 90K mathematical problem-solution dataset released by Liu et al.
 * [AgentSchool](agentschool.md) - AgentSchool is an LLM-powered multi-agent simulation system for modeling, inspecting, and comparing student–teacher interactions and learning trajectories in simulated educational settings.

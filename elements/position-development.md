@@ -77,6 +77,7 @@ Position development works because it forces learners to retrieve, organize, and
 
 **[IB Theory of Knowledge](https://www.ibo.org/programmes/diploma-programme/core/theory-of-knowledge/)** — students write a sustained position essay on a knowledge question, evaluated on argument quality and counterclaim treatment rather than conclusion.
 - [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](../strategies/scaffolded-llm-argumentation-assignment-cycle.md)
+- [Thirteen-session IM dialogic argumentation intervention pairing engagement, practice, and reflection on transcripts](../strategies/im-dialogic-argumentation-intervention-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

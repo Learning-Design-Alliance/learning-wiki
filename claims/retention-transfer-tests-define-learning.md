@@ -55,3 +55,4 @@ This is a conceptual/definitional statement in the review's section on capturing
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)](chatgpt-lower-48h-retention-no-differential-forgetting.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
+- [Varying conditions of practice can induce more errors during acquisition yet improve long-term retention and transfer of motor and verbal skills](variable-practice-learning-performance-dissociation.md) — a narrower finding that bears on this claim

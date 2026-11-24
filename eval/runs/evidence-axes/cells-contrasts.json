@@ -133878,5 +133878,53 @@
  "media-design\tcropped, enlarged, sequential frame photos pasted on an easel with body outlines\tordinary video presentation in which each frame disappears when its successor arrives": {
   "label": "static sequential images vs video",
   "treatment_is_a": true
+ },
+ "active-learning\tscience-domain argumentation intervention\tpre-intervention assessment": {
+  "label": "argumentation intervention vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tscience-domain argumentation practice with peer electronic dialogues and transcript reflection\tnonintervention control": {
+  "label": "peer electronic-dialogue argumentation practice with transcript reflection vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "active-learning\tscience-topic argumentation intervention\tnonintervention control": {
+  "label": "argumentation intervention vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "active-learning\tscience-topic argumentation intervention\tsocial-topic argumentation intervention": {
+  "label": "science-topic argumentation intervention vs social-topic argumentation intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial-domain argumentation intervention\tpre-intervention assessment": {
+  "label": "argumentation intervention vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial-domain argumentation practice with peer electronic dialogues and transcript reflection\tnonintervention control": {
+  "label": "peer electronic-dialogue argumentation practice with transcript reflection vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial-domain dialogic argument intervention with peer IM dialogues and reflection\tnonintervention control": {
+  "label": "peer IM-dialogue argumentation intervention with reflection vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial-topic argumentation intervention\tnonintervention control": {
+  "label": "argumentation intervention vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial-topic argumentation intervention\tscience-topic argumentation intervention": {
+  "label": "science-topic argumentation intervention vs social-topic argumentation intervention",
+  "treatment_is_a": false
+ },
+ "active-learning\tsocial-topic dialogic argument intervention with IM dialogue and reflection\tnonintervention control": {
+  "label": "peer IM-dialogue argumentation intervention with reflection vs nonintervention control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal instruction\tless or no formal instruction": {
+  "label": "formal instruction vs less or no formal instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\trandom practice schedule\tblocked practice schedule": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
  }
 }

@@ -67,3 +67,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related
 - [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — related
 - [One-day distributed and weekly distributed practice schedules produce no difference in bronchoscopy skills acquisition on a simulator](bjerrum-no-difference-one-day-vs-weekly-spaced-bronoscopy.md) — related
+- [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — reports the opposite

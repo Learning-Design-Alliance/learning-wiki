@@ -49,3 +49,5 @@ In the randomized experiment (54 right-handed undergraduates, 18/group), a 2 (Gr
 - [During training, real stimulation at either PMd yields superior performance on almost all blocks, and RP-sham reduces total time faster than IP-sham](condition-block-interaction-training-blocks.md) — related
 - [Interleaved practice produces better long-term retention than repetitive practice via offline gains at 6 h and 24 h](ip-better-retention-than-rp.md) — related
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
+- [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — related
+- [Varying conditions of practice can induce more errors during acquisition yet improve long-term retention and transfer of motor and verbal skills](variable-practice-learning-performance-dissociation.md) — related

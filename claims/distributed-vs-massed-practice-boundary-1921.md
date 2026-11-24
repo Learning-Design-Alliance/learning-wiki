@@ -70,3 +70,4 @@ Conference report of maze-learning experiments with human and animal learners: m
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](massed-distribution-tied-to-whole-part.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Animal neuroscience studies show spaced stimulation produces greater long-term potentiation than massed stimulation](spaced-stimulation-greater-ltp-animal-studies.md) — related
+- [Learning can occur while acquisition performance shows no gains, as demonstrated by latent-learning experiments in rats and humans](latent-learning-without-performance.md) — related

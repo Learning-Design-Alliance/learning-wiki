@@ -54,3 +54,4 @@ Table I reports mean trials, time and errors for two groups of rats (nine per gr
 - [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related
 - [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](distributed-vs-massed-practice-boundary-1921.md) — related
 - [Short-interval (2.5-minute) spaced practice outperformed massed practice on a laparoscopic transfer task in Mackay et al.](mackay-short-interval-spaced-outperformed-massed.md) — reports the opposite
+- [Learning can occur while acquisition performance shows no gains, as demonstrated by latent-learning experiments in rats and humans](latent-learning-without-performance.md) — related

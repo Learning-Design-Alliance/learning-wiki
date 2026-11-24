@@ -68,3 +68,4 @@ The authors' stated boundary condition: knowledge changes through instruction or
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md) — related
 - [Validity coefficients with external criteria provide a lower bound for a test's reliability](validity-lower-bound-reliability.md) — related
+- [Available evidence suggests retesting leaves validity inferences largely unchanged, but only three indirect studies exist and job performance criteria remain untested](retesting-validity-inferences-largely-unchanged-limited-evidence.md) — related

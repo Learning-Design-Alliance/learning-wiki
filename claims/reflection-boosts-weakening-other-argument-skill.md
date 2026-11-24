@@ -73,3 +73,6 @@ Individual-level analysis (Table 2) confirmed the group-level result: both condi
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
 - [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](argument-gains-without-llm-support.md) — related
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related
+- [Dialogic argumentation practice shifts counterargument quality toward the more accomplished Counter-C (counter-critique) strategy within and across domains](counter-critique-strategy-increases-with-practice.md) — related
+- [Dialogic argumentation practice increases overall counterargument usage in sixth graders on both the intervention topic and the nonintervention topic across domains](im-dialogue-raises-counterargument-usage-both-domains.md) — related
+- [After argumentation intervention, participants who have the opportunity to rebut almost always do so, exceeding control participants on both topics](rebuttal-production-increases-after-intervention.md) — related
