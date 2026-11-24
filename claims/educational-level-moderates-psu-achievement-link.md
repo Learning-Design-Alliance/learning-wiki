@@ -47,3 +47,4 @@ Univariate mixed-effects meta-regression across the 33 effect sizes testing cate
 ## Related Claims
 - [The PSU–achievement relationship is not significantly moderated by sex, region, age, year of publication, study quality, achievement indicator, PSU assessment format, or publication status](psu-achievement-link-robust-to-methodological-demographic-moderators.md) — related
 - [Problematic smartphone use shows a small negative pooled correlation with academic achievement (r = −0.110)](psu-negative-small-correlation-academic-achievement.md) — related
+- [School type moderates the self-handicapping–achievement correlation, which is stronger in elementary and middle school than in high school and university](school-type-moderates-self-handicapping-correlation.md) — possibly the same claim (merge candidate)

@@ -73,3 +73,4 @@ The Results section states the direction of the pooled anxiety effects (pooled r
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](moderators-achievement-goals-internalizing.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Mastery-avoidance goals are not significantly related to anxiety or depression](mastery-avoidance-goals-null-internalizing.md) — related
+- [Sample mastery-approach goal level moderates the correlation: medium mastery-approach samples show stronger negative correlations than high mastery-approach samples](mastery-goals-moderate-self-handicapping-correlation.md) — related

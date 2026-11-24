@@ -78,3 +78,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
 - [Little reliable moderation by learner characteristics, with one exploratory gender interaction favoring women and non-binary students under constructive instruction](moderation-gender-interaction-exploratory.md) — related
+- [Several hypothesized moderators show no significant effects: gender, sample origin, ethnicity, publication status, measurement time, achievement indicator, specificity, domain, and domain matching](null-moderators-self-handicapping-correlation.md) — related

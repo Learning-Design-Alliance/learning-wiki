@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 173 claims (61 for, 97 mixed, 15 against) · 88 studies (52 associational, 18 review, 9 theoretical, 5 design, 2 causal, 2 quant-synthesis), `q1`–`q3` · 10 of 88 report an effect size · 172 claims rest on one study
+> **Evidence** · 176 claims (63 for, 98 mixed, 15 against) · 89 studies (52 associational, 18 review, 9 theoretical, 5 design, 3 quant-synthesis, 2 causal), `q1`–`q3` · 11 of 89 report an effect size · 175 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -224,6 +224,9 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [IQ is fairly stable across the lifespan, with mental-ability scores at age 11 correlating about r = .70 with tests taken more than 60 years later](../claims/iq-stability-across-lifespan-r70.md) [+W]
 - [Previous-year FSA mathematics scores and grade 8-or-below status significantly predicted Algebra I EOC scores across all three models](../claims/covariate-coefficients-fsa-grade-eoc.md) [+W]
 - [Higher verbal GRE scores are associated with lower hazards of both first academic probation and attrition in PA students.](../claims/verbal-gre-lower-hazard-probation-and-attrition-pa.md) [+W]
+- [The MAT correlates strongly with general cognitive ability and reasoning tests (corrected ρ = .75), supporting that it measures g](../claims/mat-correlates-general-cognitive-ability.md) [+M] — attached 2026-11-24 from Nathan R. Kuncel et al. (2004), which proposed "Hierarchical model of cognitive abilities with g as the highest-order factor explaining cross-domain predictive validity".
+- [The validity of g for predicting job performance is moderated by job complexity, ranging from .23 for low-complexity jobs to .58 for high-complexity jobs](../claims/g-validity-moderated-job-complexity.md) [+M] — attached 2026-11-24 from Nathan R. Kuncel et al. (2004), which proposed "Hierarchical model of cognitive abilities with g as the highest-order factor explaining cross-domain predictive validity"; tests this page's relationship.
+- [MAT validity is near zero or negative for heavily motivation-loaded criteria: student-teaching ratings (ρ = –.04) and number of courses completed (ρ = –.06)](../claims/mat-null-motivation-loaded-criteria.md) [~W] — attached 2026-11-24 from Nathan R. Kuncel et al. (2004), which proposed "Hierarchical model of cognitive abilities with g as the highest-order factor explaining cross-domain predictive validity"; tests this page's relationship.
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (107 show a difference, 38 mixed, 13 no difference) · 134 studies (33 causal, 31 qualitative, 23 design, 21 review, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 19 of 134 report an effect size · 153 claims rest on one study
+> **Evidence** · 159 claims (107 show a difference, 38 mixed, 14 no difference) · 135 studies (33 causal, 31 qualitative, 23 design, 21 review, 13 associational, 8 theoretical, 6 quant-synthesis), `q1`–`q4` · 19 of 135 report an effect size · 154 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -199,6 +199,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Expert performance rests on a large base of domain-specific patterns accessed by recognition, not on general reasoning alone](../claims/expertise-depends-on-domain-specific-pattern-base.md) [+M] — learners who differ on it differ in outcomes
 - [General heuristics act as weak methods that yield weak results in complex domains, with a power-generality tradeoff](../claims/weak-methods-power-generality-tradeoff.md) [~M] — an instructional effect differs with it
 - [When experts face atypical problems, general Polya-like heuristics play a prominent role alongside domain knowledge](../claims/experts-deploy-general-heuristics-on-atypical-problems.md) [~M] — an instructional effect differs with it
+- [Several hypothesized moderators show no significant effects: gender, sample origin, ethnicity, publication status, measurement time, achievement indicator, specificity, domain, and domain matching](../claims/null-moderators-self-handicapping-correlation.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

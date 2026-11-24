@@ -55,3 +55,4 @@ Random-effects meta-analysis of test anxiety and math achievement correlations (
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related
+- [Academic self-handicapping is moderately negatively correlated with academic achievement in field settings (mean r = -.23)](self-handicapping-achievement-mean-correlation.md) — related
