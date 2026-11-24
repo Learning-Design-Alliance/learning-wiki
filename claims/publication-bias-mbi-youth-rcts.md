@@ -63,3 +63,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — related
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
 - No significant publication bias was detected for the knowledge and skill outcomes — related
+- [No evidence for publication bias in the expertise reversal literature (Egger's tests non-significant)](no-publication-bias-expertise-reversal.md) — reports the opposite

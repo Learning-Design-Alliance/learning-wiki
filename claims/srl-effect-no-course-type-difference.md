@@ -58,3 +58,4 @@ Moderator analysis across Science (k=4), Mathematics (k=8), Social Sciences (k=6
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
 - [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related
+- [Chess instruction shows a tendency for stronger effects on mathematics (g = 0.382) than on reading (g = 0.248), consistent with common-elements theory](chess-transfer-stronger-math-than-reading.md) — related

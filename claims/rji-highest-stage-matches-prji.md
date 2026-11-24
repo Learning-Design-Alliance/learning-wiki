@@ -49,3 +49,5 @@ A second ANOVA comparing PRJI with RJI highest stage scores in the experimental 
 ## Related Claims
 - [PRJI scores scale almost perfectly across reflective judgment Stages 2-7, supporting the sequentiality of the stages](prji-guttman-scaling-sequential-stages.md) — related
 - [RJI scores are stable across a 2-week retest, with only a small, inconsistent practice effect on Time 2 RJI scores in the experimental condition](rji-stable-across-retest-small-practice-effect.md) — related
+- [Developmental spurts in reflective judgment appear at ages 18-20 and 23-25/26 under support and practice, but the predicted 14-15 spurt appears only in RJI highest-stage data](reflective-judgment-spurts-prji-18-20-23-25.md) — related
+- [The RJI highest-stage score statistically matches the PRJI score, suggesting a functional-level interview can estimate the upper end of the developmental range](rji-highest-stage-estimates-optimal-level.md) — possibly the same claim (merge candidate)

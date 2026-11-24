@@ -68,3 +68,4 @@ Same disability-category models: "students with mobility/sensory disabilities di
 - [The observed Step 2 CK score differences correspond to approximately 0.5 to 1.1 standard deviations of the overall score distribution, with practical consequences for residency screening](step2-gaps-practical-significance-residency.md) — related
 - [URiM students scored lower on Step 2 CK than White students, while Asian students did not differ significantly](urim-step2-ck-gap.md) — related
 - [Step 2 CK disparities are largest at the intersection of disability and race/ethnicity, with URiM students with disabilities 17.4 points lower than White nondisabled peers](intersectional-step2-ck-disparities.md) — related
+- [One standard deviation (roughly 20 points) on Step 2 CK corresponds to about a 4% change in mortality risk](step2-ck-sd-four-percent-mortality.md) — related

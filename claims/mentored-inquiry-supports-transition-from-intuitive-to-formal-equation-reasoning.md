@@ -93,3 +93,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](task-features-increase-likelihood-sensemaking-physics.md) — related
 - [Engaging in level 2 quantitative Pattern sensemaking appears critical for transitioning to level 3](level-2-pattern-engagement-critical-for-level-3-transition.md) — related
 - [The transition from high school to undergraduate quantum education is a critical bottleneck where learners often disengage](hs-to-undergrad-quantum-transition-bottleneck.md) — related
+- [Training on conservation is predicted to benefit only transitional children, confounding training studies](training-benefits-only-transitional-children.md) — related

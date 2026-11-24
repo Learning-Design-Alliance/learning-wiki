@@ -57,3 +57,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related
 - [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related
 - [The 30-item FCI bank is insufficient for Chain-CAT: high-discrimination items dominate administration while many low-discrimination items are never used](fci-item-bank-insufficient-chain-cat.md) — related
+- [FCI question 22 showed a 10% context shift, almost twice any other question, attributed mainly to its removal from a four-question group, indicating responses within question groups are not independent](fci-question-22-group-dependence-10-percent-shift.md) — related

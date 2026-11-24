@@ -52,3 +52,4 @@ Structural equation modelling of the GI/E model (Model 2) in a sample of N = 442
 - [Contrast effects appear between math-like and verbal-like domains in both self-concept and intrinsic value](contrast-effects-math-like-verbal-like-self-concept-intrinsic-value.md) — related
 - [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — a broader claim this one bears on
 - [Cross-lagged relations among value constructs vary by academic domain, indicating domain specificity of motivational temporal relations](domain-specific-cross-lagged-value-relations.md) — related
+- [Achievement in mathematics and German shows positive within-domain effects and smaller negative marginal cross-domain effects on academic self-concept](ie-replication-contrast-math-german.md) — related

@@ -52,3 +52,4 @@ Descriptive ICC analysis of questionnaire data from 24 teachers and 506 upper el
 - [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — related
 - [Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability](student-classroom-interaction-variance-noncognitive-factors.md) — a broader claim this one bears on
 - [Teacher perceptions of student‐specific autonomy support are positively associated with students' autonomous motivation at the student level](student-specific-autonomy-support-autonomous-motivation.md) — related
+- [A substantial share of variance in perceived teacher support and mathematics interest is attributable to classroom membership](classroom-membership-variance-support-interest.md) — related

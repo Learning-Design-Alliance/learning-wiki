@@ -47,6 +47,7 @@ The authors conclude that optimal physical activity and stress-hormone release m
 ## Related Strategies
 
 - [Schools offer programs that frequently track students' physical activity and sleep and provide personalized guidance for optimizing academic performance](school-tracking-personalized-sleep-activity-guidance.md)
+- [Plan standardized tests as closely after breaks as possible and account for fatigue in school-day and accountability design](schedule-tests-after-breaks-strategy.md)
 
 ## Examples
 -

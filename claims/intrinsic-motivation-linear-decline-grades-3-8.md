@@ -53,3 +53,4 @@ One-way ANOVA across six grade levels in the cross-sectional sample of 797 stude
 - [The linear decline in intrinsic motivation across grades remains significant after controlling for social desirability](intrinsic-decline-robust-to-social-desirability.md) — related
 - [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](preference-easy-work-increases-with-age.md) — related
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
+- [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](motivation-declines-across-grades-review-reported.md) — a broader claim this one bears on

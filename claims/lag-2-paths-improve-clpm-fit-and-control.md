@@ -65,3 +65,4 @@ The review attributes this to Marsh et al. (2018a, 2018b) and Lüdtke & Robitzsc
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related
+- [Academic self-efficacy and academic performance reciprocally influence each other over time in two-wave panel data](self-efficacy-performance-reciprocal-effects.md) — related

@@ -79,3 +79,4 @@ SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — reports the opposite
 - [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related
 - [Object control skills positively predict achievement in both Chinese and mathematics, stability skills predict mathematics only, and locomotor skills predict neither after controls](object-control-stability-predict-achievement-locomotor-not.md) — related
+- [The mutualism model predicts low or zero correlation between early-childhood and adult performance, with stability of intelligence increasing during development](mutualism-low-early-predictability-increasing-stability.md) — related

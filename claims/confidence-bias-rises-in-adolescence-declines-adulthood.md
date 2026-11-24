@@ -48,3 +48,4 @@ Univariate ANOVA of Broc in the same sample found a significant main effect of a
 ## Related Claims
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
+- [The self-serving attributional bias varies across age: largest in children and older adults, least pronounced in adolescence and adulthood](self-serving-bias-age-differences-children-older-adults.md) — related

@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-24 · j-drive-5: the J to Y simulator sources
+
+`j-drive-5` read 60 sources from the maintainer's Drive folder (the J to Y set, the K's missed earlier,
+and Talsma 2018 and Tamblyn 2007, which the maintainer sent separately because the Drive copies were not
+the articles). Six non-learning methods papers were left out under the new rule (Warton 2015, Kolda 2009,
+Plate 1995, Kashtan 2005, Wang 2014, Marsman 2017). MacKay 1992 and Molenaar 2004 were kept because the
+simulator's code uses them. 52 were ingested and 296 pages written; none had a citation removed or flagged. 7
+failed validation (Kim 2005, Kuncel 2004, Perruchet 1998, Ployhart 2008, Schwinger 2014, Tudge 1992,
+Van Iddekinge 2024), and Sackett 1988 was judged out of scope. Six pages were removed because they were
+not about learning: four misfiled strategies (an active-learning query rule from MacKay, a
+personnel-selection pairing rule, a grey-literature search rule and a longitudinal-design rule) and two
+research-software products (Van der Maas's mutualism simulation and the Amsterdam time-series freeware).
+The claims from MacKay, Molenaar, Sackett 2022 and Keil 2001 stay as simulator sources, even though
+the scope screen found some of them off-topic. Wise & Kong is cited as the ERIC conference paper. The
+model attached the journal DOI, which is now labelled as the published version.
+
 ## 2026-11-24 · simulator sources from the maintainer's Drive folder; methods papers
 
 The maintainer collected the simulator's paywalled sources in a Drive folder; batches `j-drive-1` to

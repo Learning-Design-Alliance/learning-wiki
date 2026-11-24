@@ -65,3 +65,4 @@ The review's synthesis of brain-game studies, including Gates et al.'s review of
 - [Placebo effects on far transfer occur in working memory training (about 0.15–0.20 SMD) but not in video-game training](placebo-effects-wm-training.md) — related
 - [Adaptive working-memory and cognitive-flexibility game training showed no statistically significant group differences over mock training in children with ASD, with a 26% attrition rate](braingame-brian-executive-function-training-no-group-differences.md) — a narrower finding that bears on this claim
 - [Action-video-game training improves only the cognitive abilities targeted by the specific game played, supporting common-elements theory](video-game-training-domain-specific-gains.md) — related
+- [Transfer of trained skills historically failed, occurring only under specific conditions and seldom spontaneously](transfer-seldom-occurs-spontaneously.md) — a broader claim this one bears on

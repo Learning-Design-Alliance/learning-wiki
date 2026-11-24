@@ -50,3 +50,4 @@ Repeated measures ANOVA on shared midterm items the cumulative section encounter
 - [Midterm format and cognitive level interact on the retention exam: non-cumulative students retain more on high-order questions](retention-cognitive-level-interaction.md) — reports the opposite
 - [Midterm format has no overall effect on retention exam scores five months after the course](midterm-format-no-overall-retention-effect.md) — reports the opposite
 - [Learning gains from the Larmor precession QuILT are retained on matched final-exam questions more than two months later](quilt-larmor-gains-retained-final-exam.md) — related
+- [Students retain identical test questions better than parallel questions on retention tests](identical-questions-retained-better-than-parallel.md) — related

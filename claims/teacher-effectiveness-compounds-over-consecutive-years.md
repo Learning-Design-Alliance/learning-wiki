@@ -64,3 +64,4 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover — related
 - [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](highest-performing-teachers-4-to-14-percentile-gains.md) — related
 - [Students in high expectation teachers' classrooms show large achievement gains over one year, while students in low expectation classrooms show very small gains](high-expectation-teachers-large-achievement-gains.md) — related
+- [Students with high reading and math scores gained much more than low nonscience students, and knowledgeable teachers' benefits accrued disproportionately to them](high-nonscience-students-larger-gains-matthew-effect.md) — related

@@ -58,3 +58,4 @@ Path analysis of cross-sectional survey data from 600 adolescents in seven Harle
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related
 - [School engagement mediates the relationship between campus climate and academic achievement among historically marginalized adolescents](school-engagement-mediation-campus-climate-achievement.md) — related
 - [All five academic identity dimensions significantly predict academic performance, led by academic commitment (β = 0.648)](identity-dimensions-predict-performance-jiroft.md) — related
+- [School belonging shows small-to-moderate positive correlations with motivational, social-emotional and behavioural outcomes (r between .30 and .39)](school-belonging-motivational-social-behavioural-correlations.md) — related

@@ -82,3 +82,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — related
 - [In an in-person classroom, a session with real-time SensEmo feedback showed more curiosity, less boredom, and higher quiz scores than a session without feedback, despite non-randomization](sensemoo-classroom-feedback-session-higher-quiz.md) — related
 - [Engaged concentration and frustration are both associated with positive learning outcomes](engaged-concentration-frustration-positive-outcomes.md) — related
+- [Math boredom remained stable while learning-related anxiety decreased from Year 2 to 3, counter to hypotheses](boredom-stable-anxiety-decreased-elementary.md) — related

@@ -154,3 +154,5 @@ Qualitative analysis of Study One, in which eight physics PhD students and eight
 - [Expert and novice sorting shows quantitative parity in number of categories, but experts take longer on the first sorting trial](sorting-quantitative-parity-expert-novice.md) — related
 - [When surface features are crossed with physics laws, experts still sort by principle and novices by surface structure, with advanced novices showing an intermediate pattern](surface-deep-crossing-replication-sorting.md) — a narrower finding that bears on this claim
 - [Think-aloud interviews show students sometimes deliberately chose surface or moderate categories like friction despite knowing the relevant physics principle](students-deliberate-moderate-categories.md) — related
+- [No child ever used an illegitimate addition strategy, suggesting a goal sketch constrains strategy generation](goal-sketch-constrains-strategy-discovery.md) — related
+- [Students tend to focus on a problem's surface structure, blocking transfer of a known solution to a new scenario](surface-structure-blocks-analogical-transfer.md) — related

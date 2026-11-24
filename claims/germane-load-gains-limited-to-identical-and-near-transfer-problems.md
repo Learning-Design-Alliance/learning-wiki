@@ -56,3 +56,4 @@ A null result across all three conditions of the Reversi experiment: "In the far
 - [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related
 - [Task-type stratified gains show paradigm completion is the most teachable category (↑3.5% mean gain) while translation tasks show the weakest gains (↓1.1%)](slate-task-type-stratified-gains.md) — related
 - [Near-transfer effects on tasks similar or identical to trained tasks are large and maintained at follow-up, but smaller with treated controls](wm-training-near-transfer-large-maintained.md) — related
+- [Transfer of trained skills historically failed, occurring only under specific conditions and seldom spontaneously](transfer-seldom-occurs-spontaneously.md) — a broader claim this one bears on

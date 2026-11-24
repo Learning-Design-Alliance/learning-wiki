@@ -71,3 +71,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [Conscientiousness robustly predicts academic performance beyond cognitive ability](conscientiousness-predicts-academic-performance-beyond-cognitive-ability.md) — possibly the same claim (merge candidate)
 - [Personality, motivation and emotion shape learning outcomes as strongly as cognitive ability, yet are ignored in AI-in-education design](engagement-dimensions-shape-learning-as-strongly-as-cognition.md) — a broader claim this one bears on
 - [The ability confound hypothesis for normative goal-achievement links is unsupported](ability-confound-hypothesis-unsupported.md) — related
+- [When secondary GPA is controlled, Conscientiousness adds as much to predicting tertiary GPA as intelligence does](conscientiousness-incremental-tertiary-gpa.md) — related

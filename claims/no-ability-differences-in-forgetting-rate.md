@@ -46,3 +46,4 @@ The review reports this second-hand, citing Harrison (1995) and Semb and Ellis (
 
 ## Related Claims
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Higher ability students learn and remember more than lower ability students, but there is no evidence for differential forgetting by ability](ability-no-differential-forgetting.md) — possibly the same claim (merge candidate)

@@ -74,3 +74,4 @@ For intrinsic value outcomes in the same GI/E model, the article reports "few ne
 - [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
 - [Visual arts achievement is positively related to German intrinsic value (assimilation), and this relation is not mediated through self-concept](visual-arts-achievement-german-intrinsic-value-assimilation-unmediated.md) — related
 - [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](within-domain-positive-achievement-self-concent-relations-eight-domains.md) — related
+- [Biology self-concept was negatively related to achievement in both mathematics and German, with the relation slightly higher for mathematics](biology-self-concept-contrast-both-domains.md) — related

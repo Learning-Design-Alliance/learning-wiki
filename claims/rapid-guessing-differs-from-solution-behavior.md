@@ -57,3 +57,4 @@ The brief's own description states its focus: "How does rapid-guessing differ fr
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
+- [Rapid-guessing responses yield accuracy that does not significantly exceed chance, distinguishing them from solution behavior](rapid-guessing-accuracy-chance.md) — possibly the same claim (merge candidate)

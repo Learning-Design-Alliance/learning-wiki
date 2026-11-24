@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 334 claims (193 show a difference, 91 mixed, 50 no difference) · 265 studies (100 causal, 49 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 11 quant-synthesis), `q1`–`q4` · 43 of 265 report an effect size · 316 claims rest on one study
+> **Evidence** · 336 claims (195 show a difference, 91 mixed, 50 no difference) · 266 studies (100 causal, 49 associational, 38 review, 26 design, 26 theoretical, 15 qualitative, 12 quant-synthesis), `q1`–`q4` · 44 of 266 report an effect size · 318 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -382,6 +382,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [CVS training improved children's domain-specific knowledge of the trained tasks, while untrained children showed no significant gain.](../claims/cvs-training-improves-domain-knowledge.md) [+M] — measured as an outcome of the instruction studied
 - [Expert and novice sorting shows quantitative parity in number of categories, but experts take longer on the first sorting trial](../claims/sorting-quantitative-parity-expert-novice.md) [~M] — learners who differ on it differ in outcomes
 - [When surface features are crossed with physics laws, experts still sort by principle and novices by surface structure, with advanced novices showing an intermediate pattern](../claims/surface-deep-crossing-replication-sorting.md) [+M] — learners who differ on it differ in outcomes
+- [The expertise reversal effect is a strong overall interaction effect (d = 0.971)](../claims/expertise-reversal-strong-interaction-effect.md) [+M] — an instructional effect differs with it
+- [The expertise reversal effect is asymmetric: providing novices with assistance has a stronger effect than withholding assistance from experts](../claims/expertise-reversal-asymmetric-provide-assistance.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

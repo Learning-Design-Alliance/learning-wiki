@@ -60,3 +60,5 @@ The article's abstract reports, citing prior work, that Response Time Effort (RT
 - [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md)
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Rapid-guessing filtering with a response-time-effort cutoff of 0.8 removed 6.5% of sufficiently complete QCCS v2.2 responses](qccs-rapid-guessing-rte-filtering.md) — a narrower finding that bears on this claim
+- [RTE scores correlate significantly with self-reported effort and person fit, though the measures may not be identical constructs](rte-convergent-validity-effort-measures.md) — related
+- [RTE scores show very high internal consistency in a low-stakes computer-based achievement test](rte-scores-high-internal-consistency.md) — related

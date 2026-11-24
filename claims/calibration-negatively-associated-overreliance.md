@@ -66,3 +66,4 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Decision time is negatively associated with over-reliance and positively associated with under-reliance on ChatGPT recommendations](decision-time-reliance-associations.md) — related
 - [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related
 - [Students' post-task self-assessment partially reflects their measured overreliance behavior](overreliance-self-assessment-partial-awareness.md) — related
+- [The self-serving attributional bias is large and pervasive in the general population (random-effects d = 0.96 across 503 effect sizes)](self-serving-attributional-bias-large-pervasive.md) — related

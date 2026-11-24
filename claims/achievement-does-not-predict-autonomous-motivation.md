@@ -52,3 +52,4 @@ Null finding from the same three-wave RI-CLPM analysis of 1042 secondary mathema
 - [In a short-timeframe vocabulary-learning experiment, achievement shows a unilateral effect on subsequent intrinsic motivation, with no reciprocal motivation→achievement effect](unilateral-achievement-to-motivation-no-reciprocity-short-timeframe.md) — related
 - [Prior mathematics achievement predicts subsequent intrinsic motivation in mathematics across grades 1 to 4](achievement-predicts-later-math-intrinsic-motivation.md) — reports the opposite
 - [Intrinsic motivation in mathematics did not predict later mathematics achievement at any time point](math-intrinsic-motivation-does-not-predict-achievement.md) — related
+- [Enjoyment and math grades are linked by positive reciprocal effects over time](enjoyment-grades-positive-reciprocal-effects.md) — related

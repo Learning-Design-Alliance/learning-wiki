@@ -49,3 +49,4 @@ RSiena structural effects for both networks (Table 5). The article reports negat
 - [Adolescent friendship and help networks only partly overlap and have distinct characteristics](friendship-help-networks-partial-overlap.md) — related
 - [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
+- [Lower academic achievers received help more often, particularly from higher-achieving peers](low-achievers-received-more-help.md) — related

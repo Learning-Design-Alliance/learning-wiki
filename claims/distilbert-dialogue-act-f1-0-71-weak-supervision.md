@@ -47,3 +47,4 @@ Performance of the dialogue act module of the conversational agent, reported in 
 
 ## Related Claims
 - [A BERT-representation logistic regression entity recognizer reached precision 0.84, recall 0.82 and F1 0.83 on the mathematical questioning dataset](bert-logistic-regression-entity-recognition-performance.md) — related
+- [Weakly supervised concept acquisition reaches F1 of 0.861 for concept extraction and 0.905 for prerequisite discovery on an expert-annotated evaluation set](mooccubex-concept-acquisition-f1-quality.md) — related

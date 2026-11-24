@@ -85,3 +85,5 @@ In the same meta-analysis, the "multiple theoretical frameworks" code applied to
 ## Related Claims
 - [Across 11 CORI studies, mean effect sizes ranged from 0.49 for self-efficacy to 1.20 for intrinsic motivation, generally exceeding average motivation-intervention effects](cori-meta-analysis-mean-effect-sizes.md) — related
 - [Interventions targeting motivation produce positive achievement outcomes of medium average size (d = 0.49) regardless of which motivation theory underlies them](motivation-interventions-achievement-d049-theory-agnostic.md) — related
+- [Effect sizes vary descriptively by theoretical framework, with transformative experience and self-determination interventions showing the largest averages](framework-moderator-transformative-self-determination-largest.md) — related
+- [Motivation interventions tested in ecologically valid educational contexts are generally effective, with an average effect size of d = 0.49](motivation-interventions-average-d-0-49.md) — related

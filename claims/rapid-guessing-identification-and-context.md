@@ -56,3 +56,4 @@ The abstract describes the article's scope: it treats "methods for identifying i
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](rapid-guessing-identification-important-for-score-validity.md) — related
+- [Examinee effort can change abruptly during a test session, switching from solution behavior to rapid guessing partway through](effort-switches-mid-test-rapid-guessing.md) — a narrower finding that bears on this claim

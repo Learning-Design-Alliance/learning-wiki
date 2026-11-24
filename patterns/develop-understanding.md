@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (23 for, 18 mixed, 3 against) · 58 studies (28 causal, 10 review, 8 quant-synthesis, 4 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 10 of 58 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (25 for, 18 mixed, 3 against) · 59 studies (28 causal, 10 review, 9 quant-synthesis, 4 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 11 of 59 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,8 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](../claims/wrong-answer-students-generate-correct-explanations.md) [+W] — attached 2026-11-18 from Nolan K. Weinlader et al. (2018), which proposed "When students can generate correct reasoning among alternatives, instruction should focus on helping them select the correct reasoning rather than only presenting it".
 - [Students commonly hold four misconceptions about double-slit interference, the most damaging being that constructive interference requires both pathlengths to be integer multiples of the wavelength](../claims/four-double-slit-interference-misconceptions.md) [+W] — attached 2026-11-21 from Beth Parks et al. (2022), which proposed "Design interference exercises that reinforce the pathlength-difference condition ΔL = nλ, not the condition that both pathlengths be integer multiples".
 - [Particle Dobble's arbitrary, non-literal symbols are designed to dispel the Newtonian misconception that elementary particles are solid spheres](../claims/symbolic-icons-refute-solid-sphere-misconception.md) [+W] — attached 2026-11-21 from Mientus et al. (2026), which proposed "Replace literal visual representations of quantum particles with symbolic, non-literal ones to counter the billiard-ball misconception".
+- [Refutation text produces a moderate positive effect on learning compared to non-refutation text conditions](../claims/refutation-text-moderate-overall-effect.md) [+M] — attached 2026-11-24 from Noah L. Schroeder et al. (2022), which proposed "Use refutation text as a simple, low-cost instructional tool for correcting misconceptions across print and electronic media".
+- [Refutation text effectiveness is robust across text design features: domain, additional materials, media format, text length, and reading level did not significantly moderate the effect](../claims/refutation-text-design-features-no-moderation.md) [+M] — attached 2026-11-24 from Noah L. Schroeder et al. (2022), which proposed "Use refutation text as a simple, low-cost instructional tool for correcting misconceptions across print and electronic media".
 
 ## Illustrative design instance and observation record
 

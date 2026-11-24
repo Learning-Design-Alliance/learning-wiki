@@ -71,3 +71,4 @@ Interview themes indicated males improved via study schedules and distraction ma
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
 - [Male students used discourse strategies to assert authority while female students used linguistic and paralinguistic strategies to challenge and assert themselves](gender-discourse-strategies-eap-reading-classroom.md) — related
+- [No significant gender difference in the magnitude of the self-serving attributional bias](no-gender-difference-self-serving-attributional-bias.md) — related

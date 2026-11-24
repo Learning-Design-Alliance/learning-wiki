@@ -67,3 +67,4 @@ In the parallel ideal-manipulation analyses, difficulty again moderated fixation
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](difficulty-moderates-flexibility-ideal-manipulation-only.md) — related
 - [The nine new tool innovation tasks showed varied difficulty levels, with task success rates ranging from 33% to 94% and ideal manipulation rates from 24% to 91%](nine-tool-innovation-tasks-varied-difficulty-33-94.md) — related
+- [Stereotype threat effects increase with test difficulty: easy tests d = -.24, moderate d = -.30, difficult d = -.40](test-difficulty-gradient-stereotype-threat.md) — related

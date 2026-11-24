@@ -52,3 +52,4 @@ Gender added as a covariate in the final growth model of the 232-student Norwegi
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
 - [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](gender-age-differences-kindergarten-srl.md) — related
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — related
+- [Gender and parental education predict math emotions and achievement, with boys reporting more enjoyment and less anxiety](gender-ses-covariate-effects-math-emotions.md) — reports the opposite

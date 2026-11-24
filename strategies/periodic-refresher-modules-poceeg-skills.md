@@ -56,6 +56,7 @@ Because skill and confidence decayed between posttest and the 3-month retention 
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
+- [Use quantified decay benchmarks to schedule refresher training before skill proficiency declines](refresher-training-decay-benchmarks.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Publication-bias analysis using Egger's regression test and Duval & Tweedie's tr
 - [Flipped classroom interventions show no reliable average gain in student satisfaction after bias correction](flipped-classroom-no-satisfaction-gain.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related
+- [Publication bias and sensitivity checks do not overturn the positive effect of refutation text, though trim-and-fill lowers the estimate](refutation-text-publication-bias-minimal.md) — related

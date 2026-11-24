@@ -49,3 +49,4 @@ GEE logistic regression clustered by user on 1,702 confusion windows from the St
 - [Concrete elaboration is associated with lower re-confusion in the next interaction, significant in chi-square tests but only marginally significant in the GEE model](concrete-elaboration-lower-re-confusion-mixed.md) — related
 - [Longer AI tutor responses are independently associated with lower understanding in the confused student's next interaction](long-responses-lower-next-turn-understanding.md) — related
 - [The benefit of concrete elaboration was statistically evident only among High Confusion students, with a non-significant similar trend among Low Confusion students](elaboration-benefit-high-confusion-subgroup.md) — a narrower finding that bears on this claim
+- [Prior mean line length (attractor strength) predicts discovery of alternation](prior-mean-line-predicts-discovery.md) — related

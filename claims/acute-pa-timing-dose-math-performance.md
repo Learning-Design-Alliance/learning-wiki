@@ -72,3 +72,4 @@ Review synthesis of four acute-effect studies in which 20–30-min PA sessions t
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
 - [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related
 - [Acute resistance exercise improves middle school students' standardized math test performance compared to non-exercise](resistance-exercise-improves-math-scores-vs-non-exercise.md) — related
+- [The hourly fatigue effect is stronger for mathematics and older children, with limited heterogeneity in break effects](hour-effect-stronger-math-older-children.md) — related

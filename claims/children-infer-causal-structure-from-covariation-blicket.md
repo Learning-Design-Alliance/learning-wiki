@@ -68,3 +68,4 @@ The review reports, citing Gweon and Schulz (2011), covariation-based causal inf
 - [Children integrate prior knowledge with new statistical evidence in a Bayesian way, overturning initially likely hypotheses](children-bayesian-prior-evidence-integration.md) — related
 - [Four-year-olds infer unobserved hidden causes when observed variables cannot explain the evidence](children-infer-unobserved-causes.md) — related
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — related
+- [Three-year-olds can use conditional probabilities in the blicket-detector task, while adults and trained scientists sometimes fail at such reasoning](young-children-conditional-probability-blicket.md) — related

@@ -13,7 +13,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (11 for, 2 mixed) · 12 studies (5 causal, 3 review, 3 qualitative, 1 associational), `q1`–`q3` · 2 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 13 studies (5 causal, 3 review, 3 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 13 report an effect size · 13 claims rest on one study
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior ([Park, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)). Weiner (2010) classifies these attributions along three independent dimensions:
@@ -65,6 +65,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - [Lecturers show selective acceptance toward PLHIV, extending more empathy to those seen as innocent victims than to those perceived as responsible for infection](../claims/selective-acceptance-plhiv-innocent-victims.md) [+W] — attached 2026-11-08 from Mutiara Tirta Prabandari Lintang Kusuma et al. (2020), which proposed "Attribution theory as a framework explaining lecturers' ambivalence over teaching HIV".
 - [High academic achievement with external attribution tendency positively moderates the effect of negative life events on internalizing problem behaviors](../claims/high-achievement-external-attribution-moderates-internalizing.md) [+W] — attached 2026-11-22 from Yi Da et al. (2025), which proposed "Integrated stress-cognition-behavior-outcome model combining ABC theory, problem behavior theory, and attribution theory"; tests this page's relationship.
 - [Low academic achievement with external attribution tendency positively moderates the effect of negative life events on externalizing problem behaviors](../claims/low-achievement-external-attribution-moderates-externalizing.md) [+W] — attached 2026-11-22 from Yi Da et al. (2025), which proposed "Integrated stress-cognition-behavior-outcome model combining ABC theory, problem behavior theory, and attribution theory"; tests this page's relationship.
+- [The self-serving attributional bias is large and pervasive in the general population (random-effects d = 0.96 across 503 effect sizes)](../claims/self-serving-attributional-bias-large-pervasive.md) [+W] — attached 2026-11-24 from Amy H. Mezulis et al. (2004), which proposed "Self-serving attributional bias defined via three attribution dimensions (internality, stability, globality)".
 
 ## Related Theories
 

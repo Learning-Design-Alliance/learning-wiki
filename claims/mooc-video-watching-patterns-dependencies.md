@@ -46,3 +46,4 @@ The survey reports, citing Yu et al., a behavioral analysis of MOOC learner beha
 - [Clickstream features predict students' next click state while watching MOOC video lectures](clickstream-predicts-next-click-state-mooc.md) — related
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related
 - [Students' MOOC video clickstream sequences predict the length of their interaction with video lectures (engagement prediction)](clickstream-predicts-video-engagement-mooc.md) — related
+- [Students' actual video watching behaviors in MOOCs do not follow the preset course order, indicating a need for adaptive sequence recommendations](mooc-video-watching-not-following-preset-order.md) — related

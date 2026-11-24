@@ -75,3 +75,4 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
 - [Split-half administration shows comparable performance on the 22 common items regardless of item order, supporting reliability](stpfasllong-split-half-reliability-common-items.md) — related
+- [RTE scores show very high internal consistency in a low-stakes computer-based achievement test](rte-scores-high-internal-consistency.md) — related

@@ -42,7 +42,8 @@ Before training, each participant completes an adaptive staircase procedure that
 - [Multitasking training reduces dual-task cost relative to single-task component training, with gains specific to the multitasking group](../claims/multitasking-training-task-specific-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement adaptive difficulty schedules and prefer variable-priority training over fractionated part-task training for complex multitask skills](adaptive-id-and-vpt-design-strategy.md)
 
 ## Examples
 -

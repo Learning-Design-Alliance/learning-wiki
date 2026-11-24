@@ -53,3 +53,5 @@ Comparison of first and second CUE midtest scores for N = 57 students tested abo
 - [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related
+- [Without use, half of initial skill acquisition gains are lost after approximately 6.5 months for accuracy, 13 months for speed, and 11 months for mixed performance](half-acquisition-gains-lost-months.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — a broader claim this one bears on

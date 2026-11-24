@@ -61,3 +61,5 @@ A conceptual conference paper, not a review, that presents and argues for an int
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related
 - [Stereotypical attributions framed struggle as dispositional, uncontrollable, and permanent, while non-stereotypical attributions were situational, controllable, and temporary](dispositional-uncontrollable-permanent-attributions.md) — related
 - [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — related
+- [Success/external attributions correlate negatively with achievement while failure/external attributions are virtually uncorrelated with it — an anomaly the authors cannot explain](external-attribution-achievement-anomaly.md) — related
+- [A disposition to attribute success to internal causes is positively correlated with self-concept](success-internal-attribution-positively-correlated-self-concept.md) — related

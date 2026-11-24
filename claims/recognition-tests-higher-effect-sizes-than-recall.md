@@ -49,3 +49,5 @@ Meta-regression predictor for mode of testing (51 recognition vs. 54 recall effe
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words](certainty-higher-meaning-recognition-than-recall.md) — related
 - [Methodological variables moderate measured skill decay: recognition tests, similar retrieval contexts, and behavioral evaluation criteria each yield less apparent skill loss](methodological-variables-moderate-measured-decay.md) — possibly the same claim (merge candidate)
+- [Recognition tasks are retained at higher levels than recall tasks](recognition-retained-better-than-recall.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related

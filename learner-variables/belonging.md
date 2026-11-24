@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (133 show a difference, 38 mixed, 17 no difference) · 135 studies (31 associational, 27 review, 26 qualitative, 23 causal, 14 design, 8 theoretical, 6 quant-synthesis), `q1`–`q4` · 9 of 135 report an effect size · 183 claims rest on one study
+> **Evidence** · 194 claims (135 show a difference, 40 mixed, 19 no difference) · 137 studies (31 associational, 27 review, 26 qualitative, 23 causal, 14 design, 8 quant-synthesis, 8 theoretical), `q1`–`q4` · 11 of 137 report an effect size · 189 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -225,6 +225,12 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [A conceptual model proposes that homophily, implicit bias, stereotype threat and imposter syndrome form a self-perpetuating feedback loop that can exacerbate the loss of out-group members](../claims/individual-feedback-loop-homophily-bias-stereotype-threat.md) [+W] — learners who differ on it differ in outcomes
 - [Both meditation groups reported higher post-intervention connectedness with others in the room than the control group](../claims/meditation-groups-higher-in-room-connectedness.md) [+M] — measured as an outcome of the instruction studied
 - [No significant between-group differences emerged on trait mindfulness, social connectedness, or intimacy](../claims/no-differences-maas-scs-intimacy.md) [-M] — measured as an outcome of the instruction studied
+- [Motivational incentives weaken stereotype threat effects; monetary-incentive studies yield a null effect (d = .00)](../claims/motivational-incentives-weaken-stereotype-threat.md) [-W] — an instructional effect differs with it
+- [School belonging shows small-to-moderate positive correlations with motivational, social-emotional and behavioural outcomes (r between .30 and .39)](../claims/school-belonging-motivational-social-behavioural-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Stereotype threat activation strength moderates the effect: subtle cues produce the weakest effects (d = -.17) versus moderately explicit (d = -.38) and blatant (d = -.41) cues](../claims/activation-strength-moderates-stereotype-threat.md) [~M] — learners who differ on it differ in outcomes
+- [Stereotype threat effects increase with test difficulty: easy tests d = -.24, moderate d = -.30, difficult d = -.40](../claims/test-difficulty-gradient-stereotype-threat.md) [~M] — an instructional effect differs with it
+- [Stereotype threat in actual operational testing settings is negligible (d = -.01) and significantly weaker than in lab settings (d = -.36)](../claims/stereotype-threat-operational-settings-negligible.md) [-W] — learners who differ on it differ in outcomes
+- [Stereotype threat in lab studies with features most similar to operational testing conditions is small (d = -.14)](../claims/stereotype-threat-focal-operational-like-conditions-small.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

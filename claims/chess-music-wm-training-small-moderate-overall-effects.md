@@ -50,3 +50,5 @@ Three meta-analyses of experimental studies (chess, music instruction, WM traini
 - [Working memory training produces a robust near-transfer effect on other memory tasks regardless of control-group type](wm-training-near-transfer-memory-tasks.md) — related
 - [Chess players show superior overall cognitive ability to non-players, and chess skill correlates with fluid intelligence, processing speed, memory, and comprehension knowledge](chess-skill-correlates-cognitive-ability.md) — related
 - [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related
+- [Longer duration of chess training positively moderates its effect on academic and cognitive outcomes](chess-duration-positive-moderator.md) — related
+- [Chess instruction shows a moderate overall positive effect on children's academic and cognitive skills (g = 0.338)](chess-instruction-moderate-overall-effect.md) — a narrower finding that bears on this claim

@@ -68,6 +68,7 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 - [Comprehensive standardized training with scheduled refresher courses and attitude education for post-rape care providers](comprehensive-training-refresher-attitude-education-strategy.md)
 - [Use retention data to design frequent, shorter refresher courses for high-stakes, low-frequency clinical skills](retention-informed-refresher-courses-strategy.md)
+- [Use quantified decay benchmarks to schedule refresher training before skill proficiency declines](refresher-training-decay-benchmarks.md)
 
 ## Examples
 -

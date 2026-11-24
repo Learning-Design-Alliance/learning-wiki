@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (141 show a difference, 41 mixed, 16 no difference) · 108 studies (52 associational, 32 causal, 11 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 108 report an effect size · 195 claims rest on one study
+> **Evidence** · 205 claims (145 show a difference, 44 mixed, 16 no difference) · 111 studies (54 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 111 report an effect size · 202 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -233,6 +233,13 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](../claims/ie-model-path-coefficients-supported.md) [+M] — measured as an outcome of the instruction studied
 - [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](../claims/bflpe-longitudinal-cross-cultural-prior-evidence.md) [+W] — measured as an outcome of the instruction studied
 - [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](../claims/bflpe-negative-school-average-achievement-26-countries.md) [+M] — measured as an outcome of the instruction studied
+- [A disposition to attribute success to internal causes is positively correlated with self-concept](../claims/success-internal-attribution-positively-correlated-self-concept.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](../claims/content-specificity-attributions-self-concepts.md) [~M] — learners who differ on it differ in outcomes
+- [Academic self-concept is positively correlated with success/ability and success/effort attributions, negatively with failure/ability, less negatively with failure/effort, and nearly uncorrelated with external attributions](../claims/self-concept-attribution-correlation-pattern.md) [~M] — learners who differ on it differ in outcomes
+- [Biology self-concept was negatively related to achievement in both mathematics and German, with the relation slightly higher for mathematics](../claims/biology-self-concept-contrast-both-domains.md) [+M] — learners who differ on it differ in outcomes
+- [High self-concept subjects attribute success internally whereas low self-concept subjects attribute positive outcomes externally (review-reported)](../claims/high-self-concept-internal-success-low-external-attributions.md) [+W] — learners who differ on it differ in outcomes
+- [In the extended I/E model, achievement in chemistry and physics shows small contrast effects on German self-concept and small assimilation effects on mathematics self-concept](../claims/extended-ie-science-contrast-assimilation.md) [~M] — measured as an outcome of the instruction studied
+- [Self-concept relations align with a verbal–mathematical continuum ordering the sciences from physics (most mathematical) to chemistry to biology (most verbal)](../claims/verbal-mathematical-continuum-science-order.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

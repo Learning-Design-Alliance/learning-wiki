@@ -57,3 +57,4 @@ Multivariate random-effects meta-analysis of the classic I/E model (k = 118 data
 - [Subject similarity moderates dimensional comparison effects: strong contrast for dissimilar subjects, reduced contrast for similar verbal subjects, and near-zero effects for similar math/science subjects](subject-similarity-moderates-dimensional-comparison.md) — related
 - [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — related
 - [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](ie-model-path-coefficients-supported.md) — related
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — related

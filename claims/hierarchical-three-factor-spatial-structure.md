@@ -51,3 +51,5 @@ lated ( r ranging from 0.73 to 0.95)."
 - [The general Spatial Ability factor is 84% heritable, with shared genetic variance underlying clustering across all sixteen tests and no meaningful shared environmental contribution](spatial-ability-factor-84-percent-heritable-shared-genetic-variance.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
 - [Twin and factor-analytic studies support a unitary single-factor model of spatial ability, as the review reports](unitary-single-factor-spatial-ability-evidence.md) — reports the opposite
+- [Factor analytic studies find a separate CR factor strongly correlated with the MC factor (median 0.86)](factor-analytic-separate-cr-factor-correlated-086.md) — related
+- [A structured interaction matrix with strong within-group and weak between-group weights produces a hierarchical factor structure with four group factors and a general factor](mutualism-hierarchical-factor-structure.md) — related

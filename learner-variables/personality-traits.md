@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 189 claims (124 show a difference, 41 mixed, 24 no difference) · 91 studies (52 associational, 16 review, 13 causal, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 29 of 91 report an effect size · 189 claims rest on one study
+> **Evidence** · 191 claims (126 show a difference, 41 mixed, 24 no difference) · 92 studies (52 associational, 16 review, 13 causal, 6 quant-synthesis, 5 theoretical), `q1`–`q4` · 30 of 92 report an effect size · 191 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -224,6 +224,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Trait conscientiousness in adolescents is positively associated with gray matter volume in the bilateral superior parietal lobe and negatively with the right middle frontal gyrus](../claims/conscientiousness-spl-positive-mfg-negative-gmv.md) [+M] — learners who differ on it differ in outcomes
 - [Trait conscientiousness mediates the influence of bilateral SPL and right MFG gray matter volume on academic performance](../claims/conscientiousness-mediation-brain-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](../claims/conscientiousness-predicts-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Academic performance correlates significantly with the FFM dimensions Agreeableness, Conscientiousness and Openness, with Conscientiousness showing a medium-sized effect](../claims/ffm-personality-correlates-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [When secondary GPA is controlled, Conscientiousness adds as much to predicting tertiary GPA as intelligence does](../claims/conscientiousness-incremental-tertiary-gpa.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

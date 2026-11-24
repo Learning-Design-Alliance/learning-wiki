@@ -51,3 +51,4 @@ Delayed cued-recall quiz administered 48 hours after the session to all particip
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related
+- [Higher ability students learn and remember more than lower ability students, but there is no evidence for differential forgetting by ability](ability-no-differential-forgetting.md) — related

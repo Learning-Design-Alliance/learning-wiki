@@ -55,3 +55,4 @@ Multivariate random-effects meta-analysis of the classic I/E model (k = 118 data
 - [Achievement shows positive within-domain and negative cross-domain effects on academic self-concept and value, replicating dimensional comparison theory](dimensional-comparison-achievement-self-concept-paths.md) — related
 - [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related
 - [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](ie-model-path-coefficients-supported.md) — related
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — related

@@ -53,3 +53,4 @@ The review reports Huang's meta-analysis of "data from 39 independent samples", 
 - [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — related
 - [Prior achievement significantly predicts later academic self-concept after controlling for initial ASC (β = 0.16)](achievement-predicts-later-asc-meta-analysis.md) — related
+- [The reciprocal self-efficacy–performance relationship holds for adults but is unidirectional for children, whose self-efficacy does not predict subsequent performance](age-moderates-self-efficacy-performance-reciprocity.md) — related

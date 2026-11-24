@@ -86,3 +86,6 @@ Meta-analytic moderator analysis (Table 4) comparing learning-criterion and beha
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — possibly the same claim (merge candidate)
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Degree of overlearning showed only limited differences in skill decay in the meta-analysis, constrained by the narrow range of overlearning manipulations in primary studies](overlearning-moderator-limited-support.md) — related
+- [Recognition tasks are retained at higher levels than recall tasks](recognition-retained-better-than-recall.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related
+- [Prior meta-analysis reports smaller decay for speed-based tasks than accuracy-based tasks](speed-tasks-decay-less-than-accuracy-tasks.md) — related

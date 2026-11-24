@@ -61,3 +61,4 @@ The second-order meta-analysis included four moderator variables: types of SES i
 - [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](authentic-learning-effective-across-ses-levels.md) — related
 - [Students with high educational goals gain more achievement from both higher individual SES and attending higher-SES schools (interaction B = 0.02 mathematics; 0.02 and 0.01 science)](education-goal-moderates-ses-effects.md) — related
 - [Socioeconomic level significantly predicts academic achievement in all models, with higher level predicting better achievement](socioeconomic-level-predicts-all-achievement-models.md) — a narrower finding that bears on this claim
+- [Grade level moderates the SES-achievement correlation, which increases from kindergarten to middle school but drops at high school to near elementary levels](grade-level-moderates-ses-achievement-correlation.md) — reports the opposite

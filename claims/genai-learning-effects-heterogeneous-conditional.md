@@ -76,3 +76,4 @@ The review attributes to Kumar et al.'s systematic review of 72 primary studies 
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md) — related
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
 - [Scaffolding-guided augmentation improves pedagogical effectiveness and robustness of the dialogue model](singakids-scaffolding-guided-augmentation.md) — related
+- [High prior knowledge learners show worse learning outcomes under high-assistance than low-assistance instruction (d = −0.428)](high-prior-knowledge-learners-benefit-from-low-assistance.md) — related

@@ -76,3 +76,5 @@ The review reports, citing Bukowski et al. (2017, 2020), that low-SES children "
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
 - [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](gender-aggression-increase-no-treatment-difference.md) — related
 - [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related
+- [Boys are less often nominated as helpers than girls, and adolescents prefer same-gender helpers](boys-less-often-nominated-helpers.md) — related
+- [Depressed adolescents gave help less often and were avoided as helpers by low-depressed peers](depressed-adolescents-less-help-given.md) — related

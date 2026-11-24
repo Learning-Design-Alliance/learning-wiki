@@ -73,3 +73,4 @@ For cross-domain mediation, the article reports the three negative indirect effe
 - [Visual arts achievement is positively related to German intrinsic value (assimilation), and this relation is not mediated through self-concept](visual-arts-achievement-german-intrinsic-value-assimilation-unmediated.md) — reports the opposite
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](mediated-dimensional-comparison-course-choices.md) — related
 - [Within all domains, achievement is positively and significantly related to intrinsic value in the same domain, with relations smaller than for self-concept](within-domain-positive-achievement-intrinsic-value-relations.md) — related
+- [Achievement in mathematics and German shows positive within-domain effects and smaller negative marginal cross-domain effects on academic self-concept](ie-replication-contrast-math-german.md) — related

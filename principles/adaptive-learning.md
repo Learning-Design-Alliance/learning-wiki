@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (51 for, 39 mixed, 4 against) · 88 studies (31 causal, 20 review, 14 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 88 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (53 for, 39 mixed, 4 against) · 89 studies (31 causal, 20 review, 14 design, 10 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 15 of 89 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,8 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [An adaptive experiment served the self-explanation prompt condition to 82.6% of its students, a more than 30% reallocation toward the better outcome](../claims/adaptive-bandit-reallocates-majority-to-better-condition.md) [+W] — attached 2026-11-20 from Opportunities for Adaptive Experiments to Enable Continuous Improvement in Computer Scienc, which proposed "Use a proximal outcome observed immediately after the intervention as the adaptive experiment's reward".
 - [Moderate adaptivity, but not high adaptivity, significantly increases visual attention to the AI tutor avatar relative to a non-adaptive baseline](../claims/moderate-adaptivity-increases-avatar-dwell-time.md) [+W] — attached 2026-11-20 from Ka Hei Carrie Lau et al. (2024), which proposed "Balance adaptivity level: moderate, action-driven AI guidance best supports engagement in procedural VR".
 - [Both moderate and high adaptivity significantly increase total VR session time compared with a non-adaptive baseline in Neapolitan Pizza VR](../claims/adaptive-gen-ai-increases-session-duration-vr.md) [+W] — attached 2026-11-20 from Ka Hei Carrie Lau et al. (2024), which proposed "Balance adaptivity level: moderate, action-driven AI guidance best supports engagement in procedural VR".
+- [High prior knowledge learners show worse learning outcomes under high-assistance than low-assistance instruction (d = −0.428)](../claims/high-prior-knowledge-learners-benefit-from-low-assistance.md) [+W] — attached 2026-11-24 from Leonard Tetzlaff et al. (2025), which proposed "Adjust the amount of instructional assistance to learners' domain knowledge, providing more assistance the lower the domain knowledge"; tests this page's relationship.
+- [The expertise reversal effect is asymmetric: providing novices with assistance has a stronger effect than withholding assistance from experts](../claims/expertise-reversal-asymmetric-provide-assistance.md) [+W] — attached 2026-11-24 from Leonard Tetzlaff et al. (2025), which proposed "Adjust the amount of instructional assistance to learners' domain knowledge, providing more assistance the lower the domain knowledge"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -250,6 +252,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [AI-Tutor](../products/ai-tutor.md)
 - [Convert fixed-level training systems to performance-based difficulty adaptation](../strategies/convert-fixed-level-to-performance-based-adaptation.md)
 - [Use learner preferences as inputs for engagement optimization in adaptive systems, rather than as static styles for improving grades](../strategies/preferences-as-engagement-optimization-inputs.md)
+- [Use intelligent tutoring systems with persistent student models to implement expertise-reversal-aligned adaptivity](../strategies/its-persistent-student-model-fading.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

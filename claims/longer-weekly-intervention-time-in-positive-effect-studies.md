@@ -51,3 +51,4 @@ Descriptive comparison across the 44 included interventions (Table 2 statistics)
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
 - [High intervention adherence (78–83% of target dose) was achieved, delivering 94–100 min/week of additional physical activity](scim-high-adherence-delivery.md) — a narrower finding that bears on this claim
+- [Longer duration of chess training positively moderates its effect on academic and cognitive outcomes](chess-duration-positive-moderator.md) — related

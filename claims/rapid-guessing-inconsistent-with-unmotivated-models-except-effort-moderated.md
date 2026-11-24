@@ -59,3 +59,4 @@ Response time-based analysis of data from an adaptive achievement test compared 
 - [Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address](traditional-assessments-motivation-deficits.md) — related
 - [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related
 - [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](effort-moderated-scoring-improved-person-fit.md) — related
+- [Rapid-guessing responses yield accuracy that does not significantly exceed chance, distinguishing them from solution behavior](rapid-guessing-accuracy-chance.md) — related

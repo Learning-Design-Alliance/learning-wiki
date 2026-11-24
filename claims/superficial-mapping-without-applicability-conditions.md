@@ -58,3 +58,4 @@ Think-aloud interviews with six introductory students who learned from the solve
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
 - [Problem detection and diagnosis are the hardest revision steps, and novices focus on surface changes](revision-problem-detection-novice-difficulty.md) — related
 - [Traditional physics problems are goal-directed, narrow, disconnected, and simplistic, and elicit undesirable problem-solving behaviors in students](traditional-physics-problems-elicit-undesirable-behaviors.md) — a broader claim this one bears on
+- [No child ever used an illegitimate addition strategy, suggesting a goal sketch constrains strategy generation](goal-sketch-constrains-strategy-discovery.md) — related

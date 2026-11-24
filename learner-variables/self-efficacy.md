@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 396 claims (303 show a difference, 51 mixed, 42 no difference) · 311 studies (102 associational, 100 causal, 34 review, 32 qualitative, 23 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 62 of 311 report an effect size · 392 claims rest on one study
+> **Evidence** · 398 claims (304 show a difference, 52 mixed, 42 no difference) · 312 studies (102 associational, 100 causal, 34 review, 32 qualitative, 23 design, 11 quant-synthesis, 9 theoretical), `q1`–`q4` · 63 of 312 report an effect size · 394 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -427,6 +427,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Radiology residents with high-level healthy lifestyles report higher perceived-competency than those with low-level lifestyles](../claims/high-lifestyle-higher-perceived-competency-radiology-residents.md) [+M] — measured as an outcome of the instruction studied
 - [Regular physical activity is associated with higher perceived-competency among radiology residents](../claims/regular-physical-activity-higher-competency-radiology-residents.md) [+M] — measured as an outcome of the instruction studied
 - [Students found the fractal drum project challenging but motivating, and reported that its scope and difficulty improved their confidence in their own coding abilities](../claims/fractal-drum-project-student-confidence-motivation.md) [+W] — measured as an outcome of the instruction studied
+- [Prior performance is a significantly stronger antecedent of subsequent self-efficacy than self-efficacy is of subsequent performance](../claims/performance-stronger-antecedent-than-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [The reciprocal self-efficacy–performance relationship holds for adults but is unidirectional for children, whose self-efficacy does not predict subsequent performance](../claims/age-moderates-self-efficacy-performance-reciprocity.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

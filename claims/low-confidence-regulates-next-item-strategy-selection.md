@@ -53,3 +53,4 @@ Trial-by-trial phi correlations between RCJ (coded 0/1 around each participant's
 - [Collecting metacognitive judgments did not disrupt typical strategy selection and execution: both age groups selected the better strategy more on rounding-up homogeneous problems and executed rounding-down faster on homogeneous problems](problem-features-replicated-strategy-selection-execution.md) — related
 - [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related
 - [Immediate execution of event-based tasks by some participants explains the weaker correlation pattern for event-based tasks](immediate-execution-strategy-weakens-event-correlation.md) — related
+- [Prior mean line length (attractor strength) predicts discovery of alternation](prior-mean-line-predicts-discovery.md) — related

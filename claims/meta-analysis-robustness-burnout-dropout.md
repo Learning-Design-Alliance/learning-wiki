@@ -56,3 +56,4 @@ Sensitivity analyses of the multilevel meta-analysis: four effects flagged by Co
 - Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
+- [No evidence for publication bias in the expertise reversal literature (Egger's tests non-significant)](no-publication-bias-expertise-reversal.md) — related

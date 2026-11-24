@@ -69,3 +69,4 @@ Comparison across the spaced modules in the same study: an "overall average gain
 - [After a 107–161 day interval, resident teams retained leadership and teamwork from simulation training, but not task management or global non-technical performance](nontechnical-skill-retention-partial-after-months.md) — related
 - [Newly graduated registered nurses' self-assessed overall competence fluctuates over the first 5 months, dipping after 15 days and rising by 3 and 5 months](ngrn-competence-fluctuates-first-5-months.md) — related
 - [Graduate intensive care nursing students' self-confidence and self-efficacy scores rose from pre-test to post-test after repeated high-fidelity simulation modules, in a single-group pre-post study](repeated-hfs-self-confidence-self-efficacy-gains.md) — related
+- [Task exposure during the retention interval mitigates procedural skill loss](intervening-performance-opportunities-mitigate-decay.md) — related

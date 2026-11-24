@@ -74,3 +74,4 @@ A separate multivariable model with multiplicative interaction terms between rac
 - [Students with ADHD, learning, or psychological disabilities scored 9–11 points lower on Step 2 CK than nondisabled peers, while mobility/sensory and chronic health categories did not differ significantly](cognitive-based-disability-step2-gaps.md) — related
 - [Medical students with disabilities score lower on USMLE Step 2 CK than matched nondisabled peers, even after adjustment for MCAT score](mswd-lower-step2-ck-scores.md) — a broader claim this one bears on
 - [The observed Step 2 CK score differences correspond to approximately 0.5 to 1.1 standard deviations of the overall score distribution, with practical consequences for residency screening](step2-gaps-practical-significance-residency.md) — related
+- [One standard deviation (roughly 20 points) on Step 2 CK corresponds to about a 4% change in mortality risk](step2-ck-sd-four-percent-mortality.md) — related

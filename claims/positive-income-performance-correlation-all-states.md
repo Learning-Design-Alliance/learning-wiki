@@ -70,3 +70,4 @@ Based on the fitted linear slopes across states (Results). The article reports t
 - [In states where a saturating function fits, the score improvement per $10,000 of income is higher for low-income districts than high-income districts](saturating-states-larger-gains-low-income-districts.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
 - [A higher proportion of children in low-income households predicts higher physics continuation rates, even adjusting for median family income](low-income-household-share-higher-physics-continuation.md) — related
+- [The hour and break effects equal benchmark shifts of roughly 10–19 school days or 1,000–1,900 USD of household income](fatigue-effects-benchmark-income-school-days.md) — related

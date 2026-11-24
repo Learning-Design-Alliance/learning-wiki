@@ -73,3 +73,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
 - [Shared environmental influence is substantial for university enrolment (36%) but non-significant for university achievement, where heritability falls to 46%](shared-environment-university-enrolment.md) — related
 - [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related
+- [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — related

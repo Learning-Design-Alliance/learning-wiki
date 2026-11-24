@@ -59,3 +59,4 @@ Focused ethnography of 45 students across seven CBL sessions, using field notes,
 - [Unauthorized outside-resource and ChatGPT usage on assignments reduces significantly under in-class group work](group-work-reduces-unauthorized-resource-use.md) — related
 - [Generic textbook-like questions were often too easy for contemporary GenAI systems, triggering AI-aware revision](generic-questions-too-easy-for-genai.md) — related
 - [Traditional physics problems are goal-directed, narrow, disconnected, and simplistic, and elicit undesirable problem-solving behaviors in students](traditional-physics-problems-elicit-undesirable-behaviors.md) — related
+- [Group assessment scores alone cannot distinguish competent students from students who obtained answers through copying or uncomprehending help](group-scores-invalid-for-individual-inference.md) — related

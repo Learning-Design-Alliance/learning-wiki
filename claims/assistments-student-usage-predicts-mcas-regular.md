@@ -48,3 +48,4 @@ Usage analysis of the quasi-experiment: high usage was 60 or more completed item
 - [Teacher usage interacted with student usage: low- and non-using regular students performed better with high-usage teachers, with no overall teacher usage main effect](teacher-usage-student-usage-interaction-assistments.md) — related
 - [Seventh graders using ASSISTments significantly outperformed comparison students on year-end MCAS scores after adjusting for prior-year scores](assistments-year-long-use-raises-mcas-scores.md) — related
 - [For special education students, student usage showed no effect, but students of no-usage teachers scored lower than those of some-usage teachers](special-education-usage-null-teacher-effect.md) — related
+- [In the ASSISTment system, models using tutoring-interaction data predict end-of-year MCAS math scores better than a correctness-only IRT model (2004-05 data)](interaction-data-improves-mcas-prediction-0405.md) — related

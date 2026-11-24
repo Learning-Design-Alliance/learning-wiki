@@ -75,3 +75,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [Retention and transfer knowledge decreased significantly between the immediate posttest and the test one week later across conditions and groups](retention-transfer-decrease-over-one-week.md) — reports the opposite
 - [Variable delay between tutoring and the delayed test did not significantly affect delayed-test scores](delay-timing-no-effect-delayed-test.md) — related
 - [Concept grouping accuracy declined over the first two retention intervals then leveled off above chance, and research-methods knowledge remained around 75% correct verification with no systematic decline.](grouping-research-methods-retention-patterns.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related

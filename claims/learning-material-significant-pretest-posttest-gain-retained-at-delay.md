@@ -69,3 +69,4 @@ Stage C delayed post-test one week after Stage B in the same online-platform stu
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [No statistically significant difference in learning between students using infographics and students using graphics+text](no-significant-difference-infographics-graphics-plus-text-learning.md) — related
 - [Game-based learning produced descriptively higher knowledge gain than video-based learning, with no statistically significant difference (t=2.02, p=0.07)](gbl-knowledge-gain-higher-not-significant.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related

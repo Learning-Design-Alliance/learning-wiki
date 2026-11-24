@@ -49,3 +49,4 @@ Quasi-experiment with 1,240 seventh graders in three treatment schools and one c
 - [Among regular students, higher ASSISTments usage predicted higher 7th-grade MCAS performance](assistments-student-usage-predicts-mcas-regular.md) — related
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
 - [Year 2 students also scored significantly higher on the end-of-attachment post-test (61% vs 78%, p = 0.0004)](posttest-scores-higher-with-summative-component.md) — related
+- [In the ASSISTment system, models using tutoring-interaction data predict end-of-year MCAS math scores better than a correctness-only IRT model (2004-05 data)](interaction-data-improves-mcas-prediction-0405.md) — related

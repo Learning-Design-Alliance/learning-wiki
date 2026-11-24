@@ -52,3 +52,4 @@ Correlation of mean confidence-interval width with age per memory load in the Ca
 - [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
+- [The self-serving attributional bias varies across age: largest in children and older adults, least pronounced in adolescence and adulthood](self-serving-bias-age-differences-children-older-adults.md) — related

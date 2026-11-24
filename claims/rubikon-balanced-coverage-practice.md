@@ -47,3 +47,4 @@ Distribution analysis of per-knowledge-component exercise frequency (Figure 11) 
 ## Related Claims
 - [Rubikon learners exercised significantly more knowledge components during practice than both baselines](rubikon-more-knowledge-components-exercised.md) — related
 - [Rubikon learners had significantly lower preparation cost — the ratio of preparation time to exercise time — than both baselines](rubikon-lower-preparation-cost.md) — related
+- [Exercising behavior in MOOCCubeX is more balanced than video watching and approximates a normal distribution](mooc-exercising-behavior-balanced-distribution.md) — related

@@ -54,3 +54,5 @@ Narrative synthesis of ICC estimates compiled by Chiang (2009) from fall-spring 
 - [School-level differences in grades are small and largely explained by attendance and course characteristics](school-grade-variance-small-explained.md) — related
 - [Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level](district-level-variance-kindergarten-entry-scores.md) — related
 - [School-level ICCs for science achievement range from 0.172 to 0.312 across three states and grades, with lower values in Texas](science-icc-range-0172-0312-two-level.md) — related
+- [In a randomized experiment, between-teacher variance components in mathematics achievement gains range from 0.123 to 0.135 and in reading gains from 0.066 to 0.074](star-randomized-teacher-effect-variance-components.md) — related
+- [Between-teacher variance in achievement exceeds between-school variance, especially for achievement gains](teacher-effects-larger-than-school-effects.md) — related

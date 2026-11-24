@@ -3,6 +3,7 @@ type: claim
 title: "Gender effects on reflective judgment are inconsistent: males scored higher on the RJI overall, but PRJI gender differences varied by age group"
 description: "Gender effects on reflective judgment are inconsistent: males scored higher on the RJI overall, but PRJI gender differences varied by age group"
 id: inconsistent-gender-effects-reflective-judgment
+aliases: [gender-effects-reflective-judgment-pattern-dependent]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` On the PRJI the gender main effect was not significant, but an Age x Gender interaction showed youngest groups virtually identical, females higher in the middle group, and males higher in the oldest group. [→ Kitchener 1993](#kitchener-1993)
+
+`q3 i?` On the PRJI the gender main effect was not significant, but the Age X Gender interaction was, with youngest groups virtually identical and reversals in middle and older groups. [→ Kitchener 1993](#kitchener-1993)
 
 ## Evidence
 
@@ -41,13 +45,28 @@ Parallel general linear model on PRJI scores found no gender main effect but a s
 
 > "The gender main effect was not significant, although the Age X Gender interaction was, F(12,156) = 2.38, p < .01."
 
+<!-- merged 2026-11-24 from gender-effects-reflective-judgment-pattern-dependent: that page's entry for this study, which differed from the one above, kept verbatim.
+### Kitchener 1993
+
+Kitchener, K. S., Lynch, C. L., Fischer, K. W., & Wood, P. K. (1993). Developmental Range of Reflective Judgment: The Effect of Contextual Support and Practice on Developmental Stage. Developmental Psychology, 29(5), 893-906. https://psycnet.apa.org/record/1993-98188-001
+
+`q3 · i?`
+
+Parallel analysis of PRJI scores by age, gender, and time of testing; the authors report youngest female and male scores were virtually identical, females scored higher in the middle group and lower in the older group. No effect size printed.
+
+> "The gender main effect was not significant, although the Age X Gender interaction was, F(12,156) = 2.38, p < .01."
+-->
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [Reflective judgment shows a significant age effect across adolescence and adulthood, with age-group means dividing at roughly 18-19 and 22-23 years](reflective-judgment-significant-age-effect.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related

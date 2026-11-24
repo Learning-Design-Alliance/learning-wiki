@@ -46,7 +46,7 @@ The review's authors recommend that future work move beyond the cross-sectional 
 - [PSMU mediated via technostress and exhaustion predicts academic performance decrement](../claims/psmu-technostress-exhaustion-mediation-apd.md) [+W]
 
 ## Related Strategies
-- 
+
 
 ## Examples
 -

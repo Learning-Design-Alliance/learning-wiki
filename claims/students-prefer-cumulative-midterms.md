@@ -52,3 +52,4 @@ End-of-semester attitudinal survey compared by Mann-Whitney U test; overall atti
 - [Midterm format and cognitive level interact on the retention exam: non-cumulative students retain more on high-order questions](retention-cognitive-level-interaction.md) — related
 - [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related
 - [Students and faculty prefer multiple smaller exams over one final exam, and students wish for more self-guided study time](students-faculty-prefer-frequent-smaller-exams.md) — related
+- [Students retain identical test questions better than parallel questions on retention tests](identical-questions-retained-better-than-parallel.md) — related

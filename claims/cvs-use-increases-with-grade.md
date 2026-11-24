@@ -54,3 +54,4 @@ In the 3 (condition) x 3 (grade) x 4 (phase) ANOVA on CVS use in the hands-on st
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](explicit-cvs-knowledge-equal-conditions.md) — related
 - [Children trained with explicit instruction and probes became good experimenters at transfer more often than untrained children (44% vs. 22% and 13%).](cvs-training-produces-good-experimenters.md) — related
 - [Explicit CVS training combined with probe questions increased children's use of unconfounded experimental designs across hands-on phases, with transfer gains sustained in both transfer tasks.](cvs-training-probe-improves-cvs-use.md) — related
+- [Explicit instruction plus practice in controlling variables transfers to new materials seven months later, with stronger transfer in older children](control-of-variables-instruction-transfers-seven-months.md) — related

@@ -70,3 +70,4 @@ Classical univariate twin model on the total sample: MZ and DZ twin correlations
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
 - [Shared environmental influence on achievement tapers off at university while remaining substantial for educational choices, consistent with the generalist genes hypothesis](shared-environment-tapers-university-generalist-genes.md) — related
 - [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related
+- [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — related

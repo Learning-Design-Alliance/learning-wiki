@@ -61,3 +61,4 @@ Exploratory moderator analyses reported in the Limitations section, with results
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
 - [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related
 - [Little reliable moderation by learner characteristics, with one exploratory gender interaction favoring women and non-binary students under constructive instruction](moderation-gender-interaction-exploratory.md) — related
+- [Randomization checks in the STAR experiment found no significant differences on measured student and teacher characteristics](star-randomization-checks-no-significant-differences.md) — related

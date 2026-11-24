@@ -52,3 +52,4 @@ Numerical IRT analysis of the proportion of answer change ICi, plotted for the F
 - [IRT fairly well predicts observed gains and losses on the FCI as functions of pre-test score](irt-predicts-fci-gains-losses.md) — a broader claim this one bears on
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related
+- [FCI question 22 showed a 10% context shift, almost twice any other question, attributed mainly to its removal from a four-question group, indicating responses within question groups are not independent](fci-question-22-group-dependence-10-percent-shift.md) — related

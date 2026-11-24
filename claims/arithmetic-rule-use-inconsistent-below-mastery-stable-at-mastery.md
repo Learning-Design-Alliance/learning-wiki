@@ -57,3 +57,4 @@ A diagnosis of a non-mastering student's error rule from one pass through a test
 - [Test A contains 28 errors and Tests B and C contain 29 each, yet scores for rights are practically the same](wilson-error-counts-rights-practically-same.md) — related
 - [NIDA applies a Q-matrix conjunctively: every skill in an item must be mastered for the item to be answered successfully.](nida-conjunctive-qmatrix-mastery-requirement.md) — related
 - [Tasks requiring application of theoretical knowledge to problem tasks were mastered inadequately by 7th graders](didactic-test-tasks-6-and-9-inadequately-mastered.md) — related
+- [Even within a single domain, the person x item interaction is the major error source, so parallel tasks still show substantial task-sampling variability](person-item-interaction-within-domain.md) — related

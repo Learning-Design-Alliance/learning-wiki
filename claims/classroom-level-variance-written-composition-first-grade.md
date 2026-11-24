@@ -62,3 +62,4 @@ Baseline multilevel models fitted to partition variance in written composition o
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [Fourteen percent of variance in academic achievement is attributable to differences between classrooms](classroom-level-achievement-variance-14-percent.md) — related
 - [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related
+- [A substantial share of variance in perceived teacher support and mathematics interest is attributable to classroom membership](classroom-membership-variance-support-interest.md) — related

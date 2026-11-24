@@ -51,3 +51,4 @@ Item-level analysis of the low-stakes instrument showed rapid guessing "varied b
 - Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — related
 - [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Rapid-guessing responses yield accuracy that does not significantly exceed chance, distinguishing them from solution behavior](rapid-guessing-accuracy-chance.md) — related

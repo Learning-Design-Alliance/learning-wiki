@@ -67,3 +67,4 @@ Reliability check on the same baseline corpus coding: a stratified random sample
 ## Related Claims
 - [In the pre-guardrail baseline corpus, self-regulated-learning behaviors were nearly absent: hint utilization was not observed and self-evaluation appeared in only two messages](srl-behaviors-absent-baseline-corpus.md) — related
 - [The pre-guardrail baseline system produced a high proportion of generic, non-instructional output (29.6%) and surfaced stale or incorrect course information](generic-stale-baseline-responses.md) — related
+- [The mean marginal information gain criterion for active data selection prefers samples where the decision boundary is uncertain, improving on sampling on and near decision boundaries, but may give artifacts for poorly matched models](mean-marginal-information-gain-active-selection.md) — related

@@ -70,3 +70,4 @@ Meta-analysis of studies correlating chess skill with cognitive outcomes reporte
 ## Related Claims
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — related
 - [Chess, music, and working memory training show small to moderate overall far-transfer effect sizes in typically developing children and young adolescents](chess-music-wm-training-small-moderate-overall-effects.md) — related
+- [Chess instruction shows a moderate overall positive effect on children's academic and cognitive skills (g = 0.338)](chess-instruction-moderate-overall-effect.md) — related

@@ -42,7 +42,7 @@ The review recommends that future syntheses of school-based mindfulness research
 - [School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups](../claims/mindfulness-schools-overall-effect-g-040.md) [+W]
 
 ## Related Strategies
-- 
+
 
 ## Examples
 -

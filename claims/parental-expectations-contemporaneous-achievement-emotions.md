@@ -55,3 +55,4 @@ Dynamic panel models with contemporaneous unidirectional effects on five annual 
 - [Lagged over-aspiration effects on achievement emotions are null, while the expectation–aspiration mean predicts next-year anxiety](parental-overaspiration-lagged-null.md) — related
 - [Test anxiety precedes subsequent emotion regulation in unidirectional relations: positive to acceptance and self-blame, negative to refocus on planning and positive reappraisal](test-anxiety-predicts-subsequent-regulation-strategies.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
+- [Gender and parental education predict math emotions and achievement, with boys reporting more enjoyment and less anxiety](gender-ses-covariate-effects-math-emotions.md) — related

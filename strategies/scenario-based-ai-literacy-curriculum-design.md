@@ -46,6 +46,7 @@ The article calls for "intentional, scenario‐based curriculum design in which 
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
+- [Intimately intermingle general skills with subject-matter instruction instead of teaching thinking in segregated courses](intermingle-general-skills-with-subject-matter.md)
 
 ## Examples
 -

@@ -74,6 +74,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Use web-based learning as an on-demand reinforcing agent to maintain newly acquired ECG skills](wbl-on-demand-reinforcement-strategy.md)
 - [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
 - [Regular reminder tags after the intervention to sustain positive behaviour change in pain management](reminder-tags-sustain-pain-management-behaviour.md)
+- [Use quantified decay benchmarks to schedule refresher training before skill proficiency declines](refresher-training-decay-benchmarks.md)
 
 ## Examples
 -

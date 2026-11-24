@@ -54,3 +54,4 @@ Intraclass correlation coefficients computed from the school- and student-level 
 - [Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school](within-year-gains-largest-second-grade-then-slow.md) — related
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
+- [Between-teacher variance in achievement exceeds between-school variance, especially for achievement gains](teacher-effects-larger-than-school-effects.md) — related

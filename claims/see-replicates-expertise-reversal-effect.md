@@ -57,3 +57,4 @@ Simulated expert evaluations (SEEs) with gpt-3.5-turbo-16k as evaluator over 120
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Design guidelines beneficial for novice learners can be ineffective or even detrimental when applied to experts (expertise reversal)](expertise-reversal-interactivity-guidelines.md) — a broader claim this one bears on
 - [Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)](expertise-reversal-split-attention-redundancy-review.md) — related
+- [The expertise reversal effect is asymmetric: providing novices with assistance has a stronger effect than withholding assistance from experts](expertise-reversal-asymmetric-provide-assistance.md) — related

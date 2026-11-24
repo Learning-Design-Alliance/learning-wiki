@@ -42,6 +42,7 @@ The review recommends using expertise reversal findings as the basis for learner
 ## Related Strategies
 
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
+- [Use intelligent tutoring systems with persistent student models to implement expertise-reversal-aligned adaptivity](its-persistent-student-model-fading.md)
 
 ## Examples
 -

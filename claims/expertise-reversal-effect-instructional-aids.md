@@ -55,3 +55,4 @@ Narrative review attributing this to Kalyuga et al. (1998) longitudinal studies 
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — possibly the same claim (merge candidate)
+- [The expertise reversal effect is a strong overall interaction effect (d = 0.971)](expertise-reversal-strong-interaction-effect.md) — a broader claim this one bears on

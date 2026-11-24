@@ -50,3 +50,4 @@ Descriptive comparison of test scores in the curriculum study: scores rose from 
 - [Students who engaged in no repetition activity scored significantly lower on long-term anatomical retention than all other groups](no-repetition-lower-long-term-anatomical-retention.md) — related
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](repetition-format-no-effect-retention.md) — related
 - [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — related
+- [Without use, half of initial skill acquisition gains are lost after approximately 6.5 months for accuracy, 13 months for speed, and 11 months for mixed performance](half-acquisition-gains-lost-months.md) — related

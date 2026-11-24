@@ -50,3 +50,4 @@ Publication bias analysis using Duval and Tweedie's trim-and-fill method, alongs
 - [The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests](digital-story-meta-analysis-resistant-publication-bias.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - [The flipped classroom model has a positive effect on academic achievement, with a random-effects mean Hedges' g of 0.462](fcm-positive-effect-academic-achievement-meta.md) — related
+- [Publication bias and sensitivity checks do not overturn the positive effect of refutation text, though trim-and-fill lowers the estimate](refutation-text-publication-bias-minimal.md) — related

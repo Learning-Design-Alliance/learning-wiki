@@ -57,3 +57,4 @@ Memory-recall study in electronics: experts and novices briefly studied circuit 
 - [Different semiotic resources in the same mode carry different disciplinary affordances that access different aspects of physics knowledge](semiotic-resources-different-disciplinary-affordances.md) — related
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — related
 - [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — related
+- [Expert performance rests on a large base of domain-specific patterns accessed by recognition, not on general reasoning alone](expertise-depends-on-domain-specific-pattern-base.md) — a narrower finding that bears on this claim

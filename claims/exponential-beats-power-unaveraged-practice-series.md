@@ -68,3 +68,4 @@ Average R2 across all learning series, weighted by the number of series per data
 - [The APEX function fits better than the general power function, indicating the learning rate does not decrease to zero with practice](apex-beats-general-power-function.md) — related
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related

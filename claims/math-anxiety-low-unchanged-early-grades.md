@@ -51,3 +51,4 @@ Univariate latent growth curve modeling of anxiety measured with the AEQ-ES at f
 ## Related Claims
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
 - [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
+- [Math boredom remained stable while learning-related anxiety decreased from Year 2 to 3, counter to hypotheses](boredom-stable-anxiety-decreased-elementary.md) — reports the opposite

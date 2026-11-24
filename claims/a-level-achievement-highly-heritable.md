@@ -76,3 +76,4 @@ Same univariate ACE model-fitting analysis, comparing the humanities composite w
 - [Choice of specific A-level subjects is more heritable (50–80%) and less influenced by shared environment (0–23%) than the choice to continue at A-level](subject-choice-more-heritable-than-continuation.md) — related
 - [Shared environmental influence is substantial for university enrolment (36%) but non-significant for university achievement, where heritability falls to 46%](shared-environment-university-enrolment.md) — related
 - [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related
+- [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — related

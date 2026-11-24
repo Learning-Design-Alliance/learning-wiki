@@ -74,3 +74,4 @@ NLP clustering of student messages with the tutors, shown in Fig. 3 and SI Appen
 - [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
 - [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — related
+- [Group assessment scores alone cannot distinguish competent students from students who obtained answers through copying or uncomprehending help](group-scores-invalid-for-individual-inference.md) — related

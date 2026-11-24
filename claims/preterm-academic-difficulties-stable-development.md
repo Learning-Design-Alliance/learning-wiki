@@ -52,3 +52,4 @@ Authors' interpretation (type e) from the Discussion: age at assessment did not 
 - [Preterm children score 0.71 SD below full-term peers in arithmetic](preterm-arithmetic-deficit-0-71-sd.md) — related
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized reading measures](preterm-aggregate-reading-deficit.md) — related
 - [Preterm children score 0.44 and 0.52 SD lower on reading and spelling](preterm-reading-spelling-deficits.md) — related
+- [The mutualism model predicts low or zero correlation between early-childhood and adult performance, with stability of intelligence increasing during development](mutualism-low-early-predictability-increasing-stability.md) — reports the opposite

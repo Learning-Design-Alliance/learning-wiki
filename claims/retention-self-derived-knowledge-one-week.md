@@ -57,3 +57,4 @@ One-week retention test in the classroom experiment with 96 second-graders. Open
 - [Self-derivation through memory integration extends to science curriculum content, with open-ended performance comparable to general-knowledge stimuli](self-derivation-extends-science-curriculum.md) — related
 - [Age, curriculum type and retention interval predict basic science knowledge retention](age-curriculum-retention-interval-predict-retention.md) — related
 - [A condition-by-timing interaction suggests students who received arts-integrated science first retained more when later taught conventionally](arts-integration-condition-timing-transfer-effect.md) — related
+- [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related

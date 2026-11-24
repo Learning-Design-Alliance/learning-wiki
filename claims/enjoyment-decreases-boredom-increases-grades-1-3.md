@@ -59,3 +59,4 @@ Univariate latent growth curve models fitted to four waves of AEQ-ES emotion dat
 - [Only the initial level and rate of change in arithmetic fluency predict third-grade mathematics performance; achievement emotions do not](fluency-not-emotions-predict-math-performance.md) — related
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](enjoyment-decline-grade7-8-small.md) — related
 - [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related
+- [Math boredom remained stable while learning-related anxiety decreased from Year 2 to 3, counter to hypotheses](boredom-stable-anxiety-decreased-elementary.md) — reports the opposite

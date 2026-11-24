@@ -48,3 +48,4 @@ The review reports, citing Lane and Robertson (1979), that "chess players' memor
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — related
 - [Skilled activities can be interrupted and later resumed without major performance effects because LT-WM storage persists in LTM and is reinstated by reactivating retrieval cues](lt-wm-supports-interruption-and-resumption.md) — related
 - [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — related
+- [Expert performance rests on a large base of domain-specific patterns accessed by recognition, not on general reasoning alone](expertise-depends-on-domain-specific-pattern-base.md) — related

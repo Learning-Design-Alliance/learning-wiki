@@ -53,3 +53,4 @@ Path analysis of the meta-analytically weighted correlation matrix, using maximu
 - [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — possibly the same claim (merge candidate)
 - [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related
 - [Achievement levels have strongly positive effects on self-concepts within subjects and negative effects between subjects](achievement-levels-within-positive-between-negative-self-concept.md) — related
+- [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — related
