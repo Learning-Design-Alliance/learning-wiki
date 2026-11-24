@@ -50,3 +50,4 @@ Think-aloud interview case analysis of one student (Alex) on a PIQL proportional
 ## Related Claims
 - [Students may apply a productive vector-component heuristic inappropriately, with an unstable generic space, when reasoning about steepness](pythagorean-heuristic-unstable-generic-space.md) — related
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
+- [In the formal test, children fail the same items they solved in the market because school-taught symbol routines replace quantity-based mental strategies](street-math-different-routines-two-settings.md) — related

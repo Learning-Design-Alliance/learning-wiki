@@ -54,3 +54,4 @@ Phenotypic SEM analysis of latent factors in a population-based cohort of 5162 t
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
 - [Etiological links between reading skills and mathematics did not differ across the specific mathematics tests used](no-differential-etiological-links-by-mathematics-test.md) — related
 - [A common genetic factor influences mathematics, word decoding, and reading comprehension, with substantial genetic overlap across all three domains](common-genetic-factor-across-math-and-reading-domains.md) — related
+- [Stable latent factors underlying reading and mathematics achievement correlate near unity (φ = .94) in the RI-CLPM](stable-reading-math-latent-factors-correlate-94.md) — related

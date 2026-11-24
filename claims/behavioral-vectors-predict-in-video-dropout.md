@@ -72,3 +72,4 @@ With summarized behavioral action vectors, in-video dropout prediction reached a
 - [Students' MOOC video clickstream sequences predict the length of their interaction with video lectures (engagement prediction)](clickstream-predicts-video-engagement-mooc.md) — related
 - [Greater IPI, increased rewatching and greater video play proportion each associate with lower MOOC dropout hazard](ipi-survival-dropout-hazard.md) — related
 - [Longer MOOC videos have higher in-video dropout rates](longer-video-higher-in-video-dropout.md) — related
+- [MOOC video-watching behaviors fall into four patterns that reveal different aspects of knowledge dependencies](mooc-video-watching-patterns-dependencies.md) — related

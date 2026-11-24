@@ -132,3 +132,4 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
 - [A short visual-imagery strategy training improves paired-associate recognition performance across age groups, most strongly for recombined and new word pairs](strategy-training-improves-recognition-performance.md) — a narrower finding that bears on this claim
+- [Methodological variables moderate measured skill decay: recognition tests, similar retrieval contexts, and behavioral evaluation criteria each yield less apparent skill loss](methodological-variables-moderate-measured-decay.md) — related

@@ -73,3 +73,4 @@ Interrupted regressions with the two-lines test on the same PISA 2000 verbal dat
 - [A linear regression model fails to capture the achievement–self-concept relation for a substantial proportion (12%–22%) of students](linear-model-inadequate-substantial-proportion.md) — related
 - [In secondary school, positive quadratic relations between mathematics achievement and mathematics self-concept indicate weaker relations for lower achieving students than for higher achieving students](positive-quadratic-math-achievement-self-concept-secondary.md) — related
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
+- [Individual student achievement positively and substantially predicts academic self-concept across countries](individual-achievement-positive-academic-self-concept.md) — related

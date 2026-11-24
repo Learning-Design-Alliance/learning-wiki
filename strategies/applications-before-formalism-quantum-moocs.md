@@ -47,6 +47,7 @@ A design strategy drawn from the authors' experience running the quantum MOOCs: 
 - [Introduce the Schrödinger equation chronologically, deriving it from the classical wave equation using the photon-energy and de Broglie-wavelength relations](chronological-introduction-schrodinger-equation.md)
 - [Introduce antimatter through the historical path, using non-relativistic quantum formalisms the student already possesses](history-based-antimatter-teaching-path.md)
 - [Motivate each mathematical tool by its physics application before formal development](physics-application-first-motivation-strategy.md)
+- [Introduce formal mathematical systems through contexts sustained by everyday sense rather than teaching them disembedded first](street-math-context-first-introduction-strategy.md)
 
 ## Examples
 -

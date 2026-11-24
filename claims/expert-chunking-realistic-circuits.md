@@ -56,3 +56,4 @@ Memory-recall study in electronics: experts and novices briefly studied circuit 
 - [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](load-effects-vanish-low-element-interactivity.md) — related
 - [Different semiotic resources in the same mode carry different disciplinary affordances that access different aspects of physics knowledge](semiotic-resources-different-disciplinary-affordances.md) — related
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — related
+- [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — related

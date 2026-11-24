@@ -56,3 +56,4 @@ Qualitative theme from interview accounts: multiple participants named ego and c
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related
 - [Students fluent in C-style structured programming struggle to accept object-oriented ideas when first using an object-oriented language](c-background-blocks-oo-adoption.md) — related
+- [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](preference-easy-work-increases-with-age.md) — related

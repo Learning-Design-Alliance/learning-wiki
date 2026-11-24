@@ -74,6 +74,7 @@ Cumulative quizzing combines two of the most robust findings in learning science
 - [Implement a cumulative assessment program to benefit students' study progress](implement-cumulative-assessment-strategy.md)
 - [Mix new and previously solved questions in short mobile quizzes using weighted selection favoring less-recent, previously incorrect, and marked items](weighted-quiz-mixing-new-and-revisit-items.md)
 - [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
+- [Schedule periodic retrieval practice of previously acquired knowledge at intervals of about two months or longer](periodic-retrieval-practice-two-month-intervals.md)
 
 ## Examples
 - **Introductory statistics courses using weekly cumulative quizzes** — a common implementation in discipline-based education research; each quiz samples regression, descriptives, and probability from prior weeks alongside new material.

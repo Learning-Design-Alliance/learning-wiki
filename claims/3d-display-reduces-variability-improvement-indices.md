@@ -66,3 +66,4 @@ The RCT's axis-specific analyses show the variance reduction held for IX (p=0.00
 ## Related Claims
 - [Medical students show significantly improved understanding of the spatial arrangement of abdominal anatomical structures after a three-minute learning session with 3D anatomy materials, in both 2D and 3D display conditions](3d-anatomy-learning-improves-spatial-arrangement-understanding.md) — related
 - [Learning with 3D anatomy materials on a glasses-free 3D display does not significantly improve mean understanding of spatial arrangement compared with a 2D display](glasses-free-3d-display-no-mean-gain-advantage.md) — related
+- [Spatial referencing develops from a single ground-line reference axis at 6 to two orthogonal axes by age 10](spatial-reference-window-progression.md) — related

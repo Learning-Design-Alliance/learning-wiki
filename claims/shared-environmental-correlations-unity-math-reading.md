@@ -51,3 +51,4 @@ Genetic model-fitting in the age-12 twin cohort. Although shared environmental i
 - [A common genetic factor influences mathematics, word decoding, and reading comprehension, with substantial genetic overlap across all three domains](common-genetic-factor-across-math-and-reading-domains.md) — related
 - [Reading comprehension retains genetic and nonshared environmental influences independent of both mathematics and word decoding](reading-comprehension-genetic-influences-independent-of-decoding-and-math.md) — related
 - [Word decoding is significantly more heritable (.84) than mathematics (.60) and reading comprehension (.64) at age 12](word-decoding-more-heritable-than-math-and-comprehension.md) — related
+- [Stable latent factors underlying reading and mathematics achievement correlate near unity (φ = .94) in the RI-CLPM](stable-reading-math-latent-factors-correlate-94.md) — related

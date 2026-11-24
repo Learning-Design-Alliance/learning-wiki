@@ -59,3 +59,4 @@ Protocol analysis of think-aloud protocols from both experts and novices; operat
 - [Langer found four stances of meaning-making operate across literary and nonliterary reading regardless of text type](langer-four-stances-across-text-types.md) — related
 - [Literary appreciation is hardly attainable as a by-product of formal language-training instruction](appreciation-not-byproduct-of-formal-instruction.md) — related
 - [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on
+- [Expert and novice literary readers share basic meaning-making processes but differ in depth of knowledge and conception of the interpretive task](expert-novice-literary-reading-differences.md) — a broader claim this one bears on

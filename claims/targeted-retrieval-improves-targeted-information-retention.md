@@ -53,3 +53,4 @@ Within-subject experiment with 54 university students; one-week-delayed posttest
 - [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related
 - [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](free-recall-increases-situational-interest-performance-mediated.md) — related
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
+- [Closed-looped tasks show better retention than open-looped tasks, contrary to the study hypothesis](closed-looped-retained-better-than-open-looped.md) — related

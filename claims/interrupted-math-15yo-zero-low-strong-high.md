@@ -53,3 +53,4 @@ Interrupted regression with the two-lines test applied to representative PISA ma
 - [In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students](verbal-15yo-stronger-high-achievers.md) — related
 - [Nonlinear relations in elementary school are heterogeneous: positive on average in mathematics but significant in only about half the countries, and reversed (negative quadratic) in the verbal domain](elementary-nonlinear-heterogeneous-verbal-reversed.md) — related
 - [A linear regression model fails to capture the achievement–self-concept relation for a substantial proportion (12%–22%) of students](linear-model-inadequate-substantial-proportion.md) — related
+- [Individual student achievement positively and substantially predicts academic self-concept across countries](individual-achievement-positive-academic-self-concept.md) — related

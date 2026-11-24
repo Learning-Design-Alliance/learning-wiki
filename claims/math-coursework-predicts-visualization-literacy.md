@@ -48,3 +48,4 @@ Regression analysis of the combined sample (N=1,113) grouping participants by re
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related
+- [Prolonged contact with a domain, not grades in a single course, is the most important determinant of long-term retention](prolonged-contact-determines-retention.md) — related

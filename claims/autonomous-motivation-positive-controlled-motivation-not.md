@@ -65,3 +65,4 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [Autonomous motivation, controlled motivation, and study strategy are not associated with clerkship performance](motivation-strategy-not-associated-clerkship-performance.md) — reports the opposite
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](autonomous-extrinsic-motivation-positive-cbt-attitude.md) — related
 - [Sport motivation dimensions correlate negatively with academic performance, most strongly external regulation in training and demotivation in competition](negative-motivation-academic-performance-correlations.md) — reports the opposite
+- [Extrinsic motivation is negatively correlated with both GPA and standardized test scores](extrinsic-motivation-negatively-correlated-achievement.md) — related

@@ -75,3 +75,4 @@ In the transfer phase one week after training, all children worked with physical
 - [Classroom expository CVS instruction dramatically increased fourth graders' CVS performance in individual hands-on interviews](classroom-cvs-instruction-interview-gains.md) — related
 - [Children gained domain knowledge of variable effects indirectly from running experiments, with mixed condition differences on individual variables](domain-knowledge-gains-mixed-condition-effects.md) — related
 - [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](cvs-error-type-no-posttest-differences.md) — related
+- [Older elementary school children outperformed younger children in using the control of variables strategy.](cvs-use-increases-with-grade.md) — related

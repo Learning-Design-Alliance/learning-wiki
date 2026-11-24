@@ -48,3 +48,4 @@ Authors' observation from the proof of concept (Section 6.5), termed collaborati
 ## Related Claims
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
 - [Higher seed-problem filtering thresholds yield better downstream reasoning performance, indicating problem quality directly impacts results](higher-seed-filtering-thresholds-improve-reasoning.md) — related
+- [Using multiple observed patterns as filters in inverse modeling sharply reduces parameter uncertainty in bottom-up models](pattern-filtering-parameter-uncertainty.md) — related

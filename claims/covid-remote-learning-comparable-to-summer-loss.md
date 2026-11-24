@@ -49,3 +49,4 @@ The review's discussion-level comparison of its synthesized closure effects agai
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [Achievement test scores decline over summer vacation by about one month on a grade-level equivalent scale, or one tenth of a standard deviation relative to spring test scores](summer-loss-one-month-grade-level-equivalent.md) — related

@@ -51,3 +51,4 @@ The editorial reports on van Aalst's classroom case study of four groups using K
 - [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](group-a-threshold-knowledge-creation-discourse.md) — related
 - Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis — related
 - [Seven domains of alignment are needed for successful use of the Knowledge Building Model and Knowledge Forum](seven-domains-knowledge-building-alignment.md) — related
+- [An expert's escalation/de-escalation coding scheme transformed the beating on the tape into ten distinct uses of force, recasting it as disciplined police work](escalation-coding-scheme-ten-uses-of-force.md) — related

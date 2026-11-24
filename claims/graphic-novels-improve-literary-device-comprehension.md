@@ -48,3 +48,4 @@ Quasi-experimental study with 56 10th-grade IB students in Turkey; experimental 
 - [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](graphic-novels-improve-vocabulary-learning.md) — related
 - [Graphic novel instruction did not significantly improve EFL students' reading comprehension, writing, or analytical reading skills compared to plain text instruction](graphic-novels-no-effect-comprehension-writing.md) — related
 - [Graphic novel instruction increased EFL students' motivation and engagement with reading literature](graphic-novels-increase-reading-motivation.md) — related
+- [Explicit teaching of literary heuristics improves novices' literary analytic skills](explicit-literary-heuristics-improve-novice-analysis.md) — a broader claim this one bears on

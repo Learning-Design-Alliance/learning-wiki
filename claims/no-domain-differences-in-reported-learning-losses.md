@@ -48,3 +48,4 @@ Survey ratings of performance in Math, Reading/Literature, and Spelling/Writing 
 ## Related Claims
 - [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — related
 - [Grade 4 cohorts affected by COVID-19 restrictions showed significant negative trends in verbal achievement for non-SEN and SEN-L-R students in all three domains, and for SEN-L-S students only in orthography](grade4-negative-verbal-cohort-trends-sen-l.md) — related
+- [Summer loss is not uniform across subjects: math computation and spelling show consistent losses while math reasoning and reading comprehension do not](summer-loss-subject-differences-vote-count.md) — reports the opposite

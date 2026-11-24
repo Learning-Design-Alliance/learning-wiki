@@ -68,3 +68,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [The peer assessment effect was homogeneous: no subgroup differences by gender, race, prior coursework, class year or aptitude](peer-assessment-effect-homogeneous-across-subgroups.md) — related
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
 - [Completing supplemental math material 1 might benefit PEER students more than WA students, per a marginally significant interaction](math-material1-peer-interaction-tentative.md) — related
+- [Summer loss is not moderated by student gender or race, but its negative effect increases with students' grade level](summer-loss-grade-moderation-gender-race-null.md) — related

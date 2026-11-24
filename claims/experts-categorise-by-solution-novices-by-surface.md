@@ -3,7 +3,7 @@ type: claim
 title: Experts categorise problems by solution principles while novices categorise by surface features
 description: Experts categorise problems by solution principles while novices categorise by surface features
 id: experts-categorise-by-solution-novices-by-surface
-aliases: [novice-surface-expert-principle-categorization]
+aliases: [novice-surface-expert-principle-categorization, expert-novice-physics-categorization-deep-vs-surface-structure]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -35,13 +35,21 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
+  - id: chi-et-al-1981
+    resource: "https://doi.org/10.1207/s15516709cog0502_2"
+    title: "Michelene Chi, Paul Feltovich, Robert Glaser. (1981). Categorization and Representation of Physics Problems by Experts and Novices. https://doi.org/10.1207/s15516709cog0502_2"
+    author: Michelene Chi, Paul Feltovich, Robert Glaser
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Experts categorise problems by solution principles while novices categorise by surface features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 associational `r1` · `q2`
-> **Currency** · newest study 2007 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 3 studies (4 entries) · 3 associational `r1` · `q2`–`q3`
+> **Currency** · newest study 2007 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -50,6 +58,10 @@ sources:
 `q2 i?` Novices classify problems by superficial aspects such as inclined planes or pendulums, whereas experts classify by the physics principles needed for solution. [→ Gerace 2007](#gerace-2007)
 
 `q2 i?` Experts' principle-based sorting is interpreted as evidence of an organized knowledge store lacking in novices. [→ Gerace 2007 (2)](#gerace-2007-2)
+
+`q3 i?` Experts sort physics problems according to the underlying physics law or principle needed for solution (deep structure). [→ Chi et al. 1981](#chi-et-al-1981)
+
+`q3 i?` Novices sort the same problems according to surface structures: the objects, literal physics terms, and physical configurations named in the problem statement. [→ Chi et al. 1981 (2)](#chi-et-al-1981)
 
 ## Evidence
 
@@ -82,6 +94,16 @@ Gerace, W. J. (2007). Contributions from Cognitive Research to Mathematics and S
 Same sorting study: the article reports that experts "tend to sort the problems by the physics principles that could be employed to solve the problem", interpreted as hierarchical organization of expert knowledge.
 
 > "Experts, on the other hand, tend to sort the problems by the physics principles that could be employed to solve the problem."
+
+### Chi et al. 1981
+
+Michelene Chi, Paul Feltovich, Robert Glaser. (1981). Categorization and Representation of Physics Problems by Experts and Novices. https://doi.org/10.1207/s15516709cog0502_2
+
+`q3 · i?` · `associational · r1`
+
+Qualitative analysis of Study One, in which eight physics PhD students and eight undergraduates sorted 24 Halliday and Resnick mechanics problems into groups based on similarities of solution. Expert verbal justifications cited principles such as "the major physics principle governing the solution of each problem" (e.g., Conservation of Energy, Newton's Second Law).
+
+> "It appears that the experts classify according to the major physics principle governing the solution of each problem."
 
 ## Discussion
 
@@ -124,3 +146,11 @@ Same sorting study: the article reports that experts "tend to sort the problems 
 - [Synthetic-data experiments suggest embedding geometry of physics solutions is driven by surface features rather than conceptual structure, behaving like novices](embeddings-behave-like-novices-surface-features.md) — a narrower finding that bears on this claim
 - [In a preliminary test, LLM generation of context-rich problems with changed thematic focus was unsatisfactory, replacing surface cover stories rather than redesigning scenarios](llm-context-rich-problem-generation-unsatisfactory.md) — related
 - [Traditional physics problems are goal-directed, narrow, disconnected, and simplistic, and elicit undesirable problem-solving behaviors in students](traditional-physics-problems-elicit-undesirable-behaviors.md) — related
+- [Experts state basic approaches as major physics principles with near-total agreement, while novices cannot formulate solution methods at intermediate levels of abstraction](expert-basic-approaches-principle-level.md) — related
+- [Expert problem schemata contain solution procedures and conditions of applicability, whereas novice schemata lack explicit solution procedures](expert-schemata-contain-solution-procedures.md) — a narrower finding that bears on this claim
+- [Good novice problem solvers have knowledge structures more similar to problem schemata than poor solvers](good-solvers-knowledge-structure-problem-schemata.md) — related
+- [During problem reading, experts hypothesize physics principles early and confirm or reject them via derived features, while novices' representation is guided by surface-oriented schemata tied to equations](representation-process-hypothesis-vs-surface-schemata.md) — related
+- [Experts cue their basic approach on derived second-order features of the problem situation, which novices almost never mention](second-order-features-guide-expert-approach.md) — a narrower finding that bears on this claim
+- [Expert and novice sorting shows quantitative parity in number of categories, but experts take longer on the first sorting trial](sorting-quantitative-parity-expert-novice.md) — related
+- [When surface features are crossed with physics laws, experts still sort by principle and novices by surface structure, with advanced novices showing an intermediate pattern](surface-deep-crossing-replication-sorting.md) — a narrower finding that bears on this claim
+- [Think-aloud interviews show students sometimes deliberately chose surface or moderate categories like friction despite knowing the relevant physics principle](students-deliberate-moderate-categories.md) — related

@@ -60,3 +60,4 @@ Exploratory supplementary path analysis with SIMS80 data modeling mathematics se
 - [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related
 - [Class mean mathematics achievement composition effects were smaller and less often statistically significant than in the original Flemish study, underscoring the value of conceptual replications](math-composition-effects-smaller-in-german-replication.md) — related
 - [Self-efficacy showed a slightly negative meta-analytic mediation effect, with negative mediation in some countries and positive in others](self-efficacy-negative-mediation-effect.md) — related
+- [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — related

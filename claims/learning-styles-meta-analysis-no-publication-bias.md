@@ -54,3 +54,4 @@ Diagnostic analysis of the 30 included studies. Publication-status moderator ana
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
 - [WGS demonstrates stable inferential behavior despite deviations from normality in both datasets](wgs-robust-nonnormal-data.md) — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

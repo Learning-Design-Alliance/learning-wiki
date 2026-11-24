@@ -57,3 +57,4 @@ This is a theory-building empirical case study, not an intervention trial: there
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
 - [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — related
 - [Children as young as 3½ years perform significantly above chance identifying and comparing multidigit numerals](preschoolers-above-chance-multidigit-numerals.md) — related
+- [Four-year-olds hold nonnumerical quantity knowledge and counting knowledge in separate, unintegrated structures and fail number comparison questions](four-year-olds-unintegrated-quantity-and-counting-schemas.md) — related

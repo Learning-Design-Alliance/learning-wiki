@@ -39,7 +39,7 @@ sources:
 # NWEA MAP Growth assessment and longitudinal achievement database
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (11 for) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (13 for) · 5 studies (5 associational), `q2`–`q3` · 0 of 5 report an effect size · 13 claims rest on one study
 
 ## Description
 A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.
@@ -53,6 +53,7 @@ A longitudinal database of student achievement and growth scores collected throu
 - **Multi-occasion K-8 math and reading achievement dataset (2016-17, over seven million students)**: The study's evidence base is a dataset of "math and reading test scores for over seven million students in kindergarten through 8th grade" collected "across the fall, winter, and spring of the 2016-17 school year." Its three within-year test occasions are what permit testing whether growth trajectories are linear rather than assuming so. The article uses it to evaluate the linearity assumption underlying school-year policy analysis and summer-loss research. (Megan Kuhfeld (2020))
 - **NWEA test-score dataset of over 2.5 million kindergarten through eighth-grade students across three cohorts (2015-2018)**: A large-scale longitudinal test-score dataset used to examine seasonal patterns of racial/ethnic achievement gaps. The article states it draws on "test scores from over 2.5 million kindergarten to eighth-grade students" and follows "three different cohorts of students from 2015 to 2018," enabling comparison of gap growth when school is in versus out of session across grades K-8. (Megan Kuhfeld et al. (2020))
 - **NWEA MAP Growth assessment dataset (3.4 million students) as the evidence base for seasonal learning analysis**: The article's evidence base is score data from "the 3.4 million students who took the NWEA MAP Growth assessments," used to estimate school-year gains and summer loss across a very large student population. The scale of the dataset is what allows the article to identify that the students with the greatest summer loss were those who made the greatest prior school-year gains. The dataset is described only in the abstract of the available text. (Megan Kuhfeld (2019))
+- **NWEA MAP longitudinal assessment dataset (2008–2016)**: The study's data infrastructure is the NWEA Measures of Academic Progress (MAP) dataset, containing "more than 200 million test scores for nearly 18 million students in 7,500 districts across all 50 states" from 2008 through 2016. MAP scores are item response theory based and computer adaptive in all grades, cover a broader range of content than scores used in prior SLL research, and are vertically scaled on the RIT (Rasch unit) scale to support growth comparisons across grades. The authors argue these features make achievement gain inferences less susceptible to the measurement artifacts raised by von Hippel and Hamrock (2019). (Atteberry et al. (2021))
 
 ### Claims
 - [Math growth in 2020-2021 was more variable than in prior years, with much of the gains among initially high-performing students](../claims/math-growth-more-variable-high-performers-pulled-ahead.md) [+W]
@@ -66,6 +67,8 @@ A longitudinal database of student achievement and growth scores collected throu
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](../claims/black-white-gaps-widen-school-shrink-summer.md) [+W]
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](../claims/older-student-disparities-present-at-kindergarten.md) [+W]
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](../claims/schools-less-role-than-prekindergarten-environments.md) [+W]
+- [On average, students lose between 17% and 28% of their school-year ELA gains and between 25% and 34% of their school-year math gains during the following summer](../claims/mean-summer-losses-17-28-percent-ela-25-34-percent-math.md) [+M]
+- [Summer learning gains/losses vary dramatically across students, with summer SD-to-mean ratios (1.4–5.2 in ELA) far larger than school-year ratios](../claims/dramatic-variability-in-summer-learning-loss.md) [+M]
 
 ## Related Products and Programmes
 
@@ -81,7 +84,6 @@ A longitudinal database of student achievement and growth scores collected throu
 - Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
 - Megan Kuhfeld, Dennis Condron, Doug Downey. (2020). When does inequality grow? A seasonal analysis of racial/ethnic disparities in learning from kindergarten through eighth grade. Educational Researcher. https://doi.org/10.3102/0013189X20977854
 - Megan Kuhfeld. (2019). Rethinking summer slide: The more you gain, the more you lose. KappanOnline. https://www.nwea.org/research/publication/rethinking-summer-slide-the-more-you-gain-the-more-you-lose/
-
 <!-- merged 2026-10-10 from elements/map-growth-4-9-million-students-dataset ("MAP Growth test-score dataset covering 4.9 million U.S. students in Grades 3-8"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Angela Johnson, Megan Kuhfeld, James Soland. (2021). The forgotten 20 percent: Achievement and growth in rural schools across the nation. AERA Open. https://www.nwea.org/research/publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/
 - Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity. NWEA Research brief. https://www.nwea.org/research/publication/unequal-access-to-8th-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity/
@@ -89,6 +91,7 @@ A longitudinal database of student achievement and growth scores collected throu
 - Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
 - Megan Kuhfeld, Dennis Condron, Doug Downey. (2020). When does inequality grow? A seasonal analysis of racial/ethnic disparities in learning from kindergarten through eighth grade. Educational Researcher. https://doi.org/10.3102/0013189X20977854
 - Megan Kuhfeld. (2019). Rethinking summer slide: The more you gain, the more you lose. KappanOnline. https://www.nwea.org/research/publication/rethinking-summer-slide-the-more-you-gain-the-more-you-lose/
+- Atteberry, A., & McEachin, A. (2021). School's Out: The Role of Summers in Understanding Achievement Disparities. American Educational Research Journal. https://doi.org/10.3102/0002831220937285
 
 # MAP Growth test-score dataset covering 4.9 million U.S. students in Grades 3-8
 

@@ -47,3 +47,4 @@ Hand-transfer manipulation in the human visuomotor sequence learning experiment 
 ## Related Claims
 - [The chunk cluster pattern in visuomotor sequence performance is uncorrelated with hand-movement distance and differs across subjects learning the same sequence.](chunk-pattern-subject-specific-not-movement-distance.md) — related
 - [Human subjects performing a visuomotor sequence showed clusters of elementary movements separated by long time gaps; cluster clarity and consistency rose from pre-test to post-test in one uncontrolled pre-post study.](spontaneous-chunking-visuomotor-sequence-learning.md) — related
+- [Asymmetric DKT prediction improvement indicates prerequisite direction between knowledge concepts](dkt-asymmetric-prediction-pr-direction.md) — related

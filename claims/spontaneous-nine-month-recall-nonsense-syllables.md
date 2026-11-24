@@ -49,3 +49,4 @@ Single-case report: a former student, Mr. C. W. Hagen, Jr., chanced to visualize
 - [Incidental learning of nonsense syllables with no intent to secure permanence can nonetheless be retained long term](incidental-learning-no-intent-permanence-retention.md) — a broader claim this one bears on
 - [Seeming exactness of recall of long-forgotten incidents is largely illusory because belief in exact recall usually cannot be verified](seeming-exactness-recall-largely-illusory.md) — related
 - [Learning nonsense syllables backward takes a higher total-repetition ratio than forward, suggesting interference between habits](backward-learning-higher-repetition-ratio-interference.md) — related
+- [Incidental contact of a few hours with a domain during a months- or years-long retention interval shows no detectable effect on retention](incidental-contact-no-detectable-effect.md) — reports the opposite

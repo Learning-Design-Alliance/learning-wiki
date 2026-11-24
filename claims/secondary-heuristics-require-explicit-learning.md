@@ -56,3 +56,4 @@ Theoretical argument in the section on explicit learning of heuristics: the arti
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — reports the opposite
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
 - [Learning mathematics and physical science is secondary learning that requires effort, unlike instinctive primary learning](primary-versus-secondary-learning.md) — a broader claim this one bears on
+- [Explicit teaching of literary heuristics improves novices' literary analytic skills](explicit-literary-heuristics-improve-novice-analysis.md) — a narrower finding that bears on this claim

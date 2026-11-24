@@ -53,3 +53,4 @@ The thesis reports, citing Ericsson, Chase, and Faloon (1980), a case study in w
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
 - [The article reports seven types of prior knowledge that facilitate acquisition, organization, and re-disclosure of new knowledge](seven-types-prior-knowledge-reigeluth.md) — related
+- [Extended practice on a memory task can raise recall performance by 100 to 1000%, as when trained subjects increased digit span from around 7 to over 80 digits](practice-raises-digit-span-7-to-80.md) — possibly the same claim (merge candidate)

@@ -46,3 +46,4 @@ Review narrative attributing the overlearning effect to studies by Der et al and
 
 ## Related Claims
 - [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — reports the opposite
+- [Degree of overlearning showed only limited differences in skill decay in the meta-analysis, constrained by the narrow range of overlearning manipulations in primary studies](overlearning-moderator-limited-support.md) — reports the opposite

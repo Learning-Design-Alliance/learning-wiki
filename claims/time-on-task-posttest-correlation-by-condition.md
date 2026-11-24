@@ -53,3 +53,4 @@ Correlational analysis within the randomized controlled trial, visualized in Fig
 - [Proof Blocks problems with distractors took significantly longer to complete than problems without distractors](proof-blocks-distractors-increase-completion-time.md) — related
 - [Proof Blocks problems with distractors produced descriptively higher posttest scores than no-distractors or off-topic problems, but the differences were not statistically significant](proof-blocks-distractors-no-significant-gain.md) — related
 - [Gain in answering efficiency correlated positively but statistically non-significantly (0.32) with time spent on-screen and on-task](q1-time-efficiency-gain-correlation-0-32-nonsignificant.md) — related
+- [Tacit knowledge can drive task performance without being verbalizable: posttest ability uncorrelated with control performance](tacit-knowledge-posttest-uncorrelated-control.md) — related

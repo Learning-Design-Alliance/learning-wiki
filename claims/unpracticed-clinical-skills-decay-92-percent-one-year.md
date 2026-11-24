@@ -47,3 +47,4 @@ The article reports, citing a 2011 meta-analysis of 53 studies, that unpracticed
 ## Related Claims
 - [After 365 days of nonuse, average performance on a skill decays by nearly a full standard deviation (d = -0.92)](skill-decay-365-days-nonuse-d-092.md) — possibly the same claim (merge candidate)
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Trained skills show substantial loss over periods of nonuse, with decay growing from near zero immediately after training to over one standard deviation after more than a year](substantial-skill-loss-with-nonuse.md) — related

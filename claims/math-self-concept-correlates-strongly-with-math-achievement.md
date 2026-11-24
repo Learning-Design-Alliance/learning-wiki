@@ -64,3 +64,4 @@ The authors read the pattern through the internal/external frame of reference mo
 - [Meta-analytic evidence supports strong positive within-domain effects and small to moderate negative between-domain effects in the classic I/E model](moller-2020-dimensional-comparisons-path-coefficients.md) — related
 - [In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students](verbal-15yo-stronger-high-achievers.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
+- [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — related

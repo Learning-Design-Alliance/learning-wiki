@@ -42,7 +42,8 @@ The article recommends that educational researchers move from conventional cross
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](../claims/lag-2-paths-improve-clpm-fit-and-control.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Use alternatives to the CLPM when causal inference is the goal in longitudinal studies of academic development](prefer-ri-clpm-over-clpm-for-causal-inference.md)
 
 ## Examples
 -

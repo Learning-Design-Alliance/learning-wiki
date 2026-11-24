@@ -53,6 +53,7 @@ For time-limited skills courses that typically use massed practice, the authors 
 - [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 - [Design competitive learning strategies to distribute knowledge sessions uniformly over time](competitive-strategies-uniform-knowledge-sessions.md)
 - [Extend short-course duration to five or six sessions to spread material and allow more interaction](extend-short-course-to-five-or-six-sessions.md)
+- [Schedule independent retrieval of target information at intervals as long as one month over several years, rather than typical 1-2 day intervals over 10-15 weeks](spaced-retrieval-up-to-one-month-strategy.md)
 
 ## Examples
 -

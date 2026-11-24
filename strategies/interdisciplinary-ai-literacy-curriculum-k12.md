@@ -44,6 +44,7 @@ The article recommends that AI literacy curricula for K-12 adopt an interdiscipl
 ## Related Strategies
 
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Use conceptual meta-analysis by interdisciplinary teams to generate discipline-specific learning goals for literacy instruction](conceptual-meta-analysis-learning-goals-strategy.md)
 
 ## Examples
 -

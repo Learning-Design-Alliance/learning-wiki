@@ -48,3 +48,4 @@ The review reports this as demonstrated by verbatim reports of experimental less
 - [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](expert-poetry-interpretive-strategies.md) — related
 - [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](evidence-in-discussion-but-reasoning-struggle.md) — related
 - [Study helps, questions and directions in four sets of literary readers for grades IV-VIII were decidedly formal in nature](literary-reader-study-helps-formal.md) — related
+- [Explicit teaching of literary heuristics improves novices' literary analytic skills](explicit-literary-heuristics-improve-novice-analysis.md) — related

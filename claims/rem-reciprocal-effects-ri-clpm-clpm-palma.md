@@ -104,3 +104,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related
 - [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related
+- [CLPM estimates on ECLS-K:2011 replicate prior findings of asymmetric cross-lagged prediction and very high autoregressive paths (.74-.81)](clpm-replicates-asymmetric-prediction-high-autoregressive.md) — related

@@ -51,3 +51,4 @@ Sensitivity analysis within the same meta-analysis: 91 effects came from Mikulin
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](kluger-denis-feedback-worse-50-of-131.md) — related
 - [Feedback interventions show an average positive effect on learning (d = 0.41), yet more than 38% of studies in the Kluger and DeNisi meta-analysis measured a negative effect](feedback-meta-analysis-d-0-41-negative-in-38-percent.md) — related
 - [Intervention effectiveness on thesis scores varied significantly across faculty research laboratories](research-lab-block-variation-thesis-scores.md) — related
+- [Effects of CT instruction are heterogeneous across studies (Q-Total = 5,275.62; I2 = 83.58), motivating moderator analysis.](ct-effect-collection-heterogeneous.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Jim's interview utterance shows he treated the equation as "fact-bearing" law ap
 - [Jim's epistemological stance treated mathematical reasoning as far more trustworthy than everyday reasoning, and he did not see equations as expressing meaning tractably connected to common sense](math-more-trustworthy-than-common-sense-stance.md) — reports the opposite
 - [The group's epistemic stance toward math was constructed in the moment, not a stable robust belief](group-epistemic-stance-context-dependent.md) — a narrower finding that bears on this claim
 - [A student's epistemological stance toward a specific physics topic mediates both the student's thinking and what a researcher can see of that thinking](epistemological-stance-mediates-researcher-access.md) — related
+- [Epistemic cognitions are often situation-specific, varying across contexts and even within a single conversation](context-specificity-of-epistemic-cognition.md) — related

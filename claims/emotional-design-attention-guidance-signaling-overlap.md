@@ -69,3 +69,4 @@ Authors' interpretive statement in the Discussion about conceptual boundaries be
 - [Visual sophistication of emotional design materials varies substantially and may act as a boundary condition for emotional design effects](design-sophistication-boundary-condition.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — a broader claim this one bears on
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [Highlighting a feature by drawing a line in the dirt establishes a figure that becomes a public event guiding others' perception](highlighting-line-in-dirt-public-event.md) — related

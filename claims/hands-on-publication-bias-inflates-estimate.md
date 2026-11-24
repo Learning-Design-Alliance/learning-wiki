@@ -76,3 +76,4 @@ Author's interpretation of the included studies' reporting pattern: "Negative im
 - Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related
 - [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](fcm-meta-publication-bias-robust.md) — related
 - [Hands-on learning shows a large impact on science achievement](hands-on-learning-science-achievement-effect.md) — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

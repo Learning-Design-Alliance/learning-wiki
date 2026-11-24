@@ -69,3 +69,4 @@ Grade (2) x goal (2) x achievement (3) x request-type MANOVA of Day 3 requests s
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
+- [Older children increasingly prefer easy work, suggesting a growing work-avoidance orientation](preference-easy-work-increases-with-age.md) — related

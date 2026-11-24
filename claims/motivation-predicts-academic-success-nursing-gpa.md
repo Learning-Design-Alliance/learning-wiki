@@ -63,3 +63,5 @@ Direct-path coefficients (Table 4, paths c1–c3) from the path analysis of 261 
 - [Conscientiousness and intellect mediate the relationship between intrinsic motivation and academic performance, with the indirect effect via conscientiousness significant only in men](mediation-intrinsic-motivation-gpa-conscientiousness-intellect.md) — related
 - [Female PE students show higher GPA and higher intrinsic and extrinsic motivation and lower amotivation than male PE students](women-pe-students-higher-gpa-motivation.md) — related
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](autonomous-extrinsic-motivation-positive-cbt-attitude.md) — related
+- [Extrinsic motivation is negatively correlated with both GPA and standardized test scores](extrinsic-motivation-negatively-correlated-achievement.md) — reports the opposite
+- [Intrinsic motivation is positively correlated with both GPA and standardized test scores](intrinsic-motivation-positively-correlated-achievement.md) — related

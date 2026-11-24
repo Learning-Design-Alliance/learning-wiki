@@ -49,3 +49,4 @@ Authors' design-based interpretation in the structural-analogy section: die roll
 - [Most every interviewed student rejected deterministic ideas in quantum physics, invoking inherent probabilistic behavior or the Uncertainty Principle](students-reject-determinism-uncertainty-principle-tool.md) — related
 - [The historical approach to teaching QM at high school stops before the mature framework of QM, omitting its postulates and key consequences](historical-approach-omits-qm-postulates.md) — related
 - [Almost all interviewed students express distaste for deterministic ideas in quantum physics despite realist preferences](students-distaste-determinism-quantum-physics.md) — related
+- [Probabilistic task elements significantly increase an operator's memory workload](probabilistic-tasks-increase-operator-memory-workload.md) — related

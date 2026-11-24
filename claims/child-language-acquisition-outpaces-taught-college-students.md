@@ -51,3 +51,4 @@ The author's assertion offered as one consequence of the fact that the developin
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — related
 - [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Sensitive and critical periods exist in child development: some skills are more readily acquired at certain stages, and later remediation is less effective](sensitive-periods-later-remediation-less-effective.md) — a broader claim this one bears on

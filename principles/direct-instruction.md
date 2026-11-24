@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (26 for, 20 mixed, 6 against) · 60 studies (28 causal, 12 quant-synthesis, 10 review, 7 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 12 of 60 report an effect size · 43 claims rest on one study
+> **Evidence** · 54 claims (28 for, 20 mixed, 6 against) · 61 studies (29 causal, 12 quant-synthesis, 10 review, 7 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 12 of 61 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -98,6 +98,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit instruction of English consonant clusters outperformed implicit instruction for Iranian intermediate EFL learners on a read-aloud post-test](../claims/explicit-beats-implicit-consonant-cluster-instruction.md) [+W] — attached 2026-11-03 from Ruhollah Khanbeiki; Seyed Jalal Abdolmanafi-Rokni (2015), which proposed "Direct learners' attention explicitly to pronunciation features through rule explanation, examples, and cross-language comparison"; tests this page's relationship.
 - [After three training sessions, implicit- and explicit-group students performed equally well on bandaging retention and multitasking transfer tests](../claims/equal-retention-transfer-after-three-sessions.md) [~W] — attached 2026-11-06 from Van Brakel-Van Lobenstein et al. (2025), which proposed "Favor instructional methods that facilitate implicit learning over detailed step-by-step protocols when teaching complex nursing psychomotor skills to novices"; tests this page's relationship.
 - [In Study 3, implicit-group students showed greater pressure consistency across tests and more often applied bandages within the 40–60 mmHg range during multitasking transfer](../claims/implicit-group-consistency-pressure-range-study3.md) [-M] — attached 2026-11-06 from Van Brakel-Van Lobenstein et al. (2025), which proposed "Favor instructional methods that facilitate implicit learning over detailed step-by-step protocols when teaching complex nursing psychomotor skills to novices"; tests this page's relationship.
+- [Explicit CVS training combined with probe questions increased children's use of unconfounded experimental designs across hands-on phases, with transfer gains sustained in both transfer tasks.](../claims/cvs-training-probe-improves-cvs-use.md) [+M] — attached 2026-11-23 from Zhe Chen et al. (1999), which proposed "Teach difficult domain-general strategies through explicit instruction combined with probe questions rather than probes or discovery alone."; tests this page's relationship.
+- [Children trained with explicit instruction and probes became good experimenters at transfer more often than untrained children (44% vs. 22% and 13%).](../claims/cvs-training-produces-good-experimenters.md) [+M] — attached 2026-11-23 from Zhe Chen et al. (1999), which proposed "Teach difficult domain-general strategies through explicit instruction combined with probe questions rather than probes or discovery alone."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

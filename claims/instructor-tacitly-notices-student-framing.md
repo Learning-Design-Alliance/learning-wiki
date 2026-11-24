@@ -48,3 +48,4 @@ Case study of one 4-minute episode within a 37-minute oral exam in upper-divisio
 - [An instructor's question about the electric field's direction coincided with the student's framing shifting from Algorithmic Physics to Conceptual Physics](instructor-question-tips-framing-ap-to-cp.md) — related
 - [Frame transitions are brief, on the order of a few seconds, and can be triggered by instructor feedback or groupmate disagreement](brief-frame-transitions-triggered-externally.md) — related
 - [Off-topic \"other\" activities were involved in about a third of all framing transitions, and the instructor's most common response to student off-topic activity was to respond in a problem-solving frame](other-codes-third-of-transitions-instructor-reels-back.md) — related
+- [Epistemic beliefs may be tacit commitments inferred from actions rather than explicitly verbalizable beliefs](tacit-epistemic-beliefs-inferred-from-actions.md) — related

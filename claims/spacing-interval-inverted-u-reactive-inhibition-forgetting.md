@@ -54,3 +54,5 @@ Theoretical argument in the review's discussion, drawing on Smith et al.'s sugge
 - [Distributed (spaced) practice retains surgical skills better than massed practice, though no optimal gap has been identified](distributed-practice-retains-surgical-skills-better-than-massed.md) — related
 - [Novice surgeons in cognitive and integrational learning phases are especially vulnerable to skill decay after short retention intervals](novice-surgeons-decay-susceptible.md) — a narrower finding that bears on this claim
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related
+- [Longer intersession intervals slow acquisition slightly but yield substantially higher recall over a 5-year retention interval](long-intervals-slow-acquisition-boost-retention.md) — related
+- [Longer retention intervals of nonuse are associated with greater skill decay](longer-nonuse-intervals-greater-decay.md) — related

@@ -113,6 +113,9 @@ Retrieval attempts strengthen memory more than restudying, and spacing those att
 - [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
 - [Add reinforcement activities such as reflective exercises, spaced repetition, and active recall after technology-supported tasks](reinforcement-activities-after-genai-tasks.md)
 - [Distribute lecture summaries between class meetings as spaced retrieval cues](lecture-summaries-spaced-retrieval-cues.md)
+- [Schedule periodic retrieval practice of previously acquired knowledge at intervals of about two months or longer](periodic-retrieval-practice-two-month-intervals.md)
+- [Design curricula for long-term retention using spaced practice with expanding intervals, variable practice, and frequent comprehensive testing](spaced-expanding-variable-testing-curriculum.md)
+- [Schedule independent retrieval of target information at intervals as long as one month over several years, rather than typical 1-2 day intervals over 10-15 weeks](spaced-retrieval-up-to-one-month-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education.

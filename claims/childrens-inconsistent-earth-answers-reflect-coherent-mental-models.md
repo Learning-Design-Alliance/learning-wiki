@@ -62,3 +62,4 @@ The study is the standard citation for the view that children's misconceptions a
 - [Many intervention 3 students gave dialogue answers inconsistent with their actual quiz-problem solutions](dialogue-answer-solution-inconsistency-intervention-3.md) — a narrower finding that bears on this claim
 - [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — related
 - [Students can simultaneously possess alternate knowledge frameworks whose development and use are context dependent](alternate-frameworks-context-dependent-use.md) — related
+- [Ioannides and Vosniadou found almost 90% of subjects consistently using one of a small number of force meanings across 27 questions](iv-nearly-90-percent-one-meaning-27-questions.md) — related

@@ -56,3 +56,4 @@ Publication bias evaluation within the meta-analysis using a funnel plot and the
 - [Publication bias is present and may inflate the overall hands-on effect size estimate](hands-on-publication-bias-inflates-estimate.md) — related
 - The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect — related
 - Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection. — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

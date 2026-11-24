@@ -50,3 +50,4 @@ Exploratory analysis of posttest performance by age across all participants, dis
 ## Related Claims
 - [Older children (11/12-year-olds) outperform younger children (9/10-year-olds) when considering characteristics of on-going retrieval processes](older-children-outperform-younger-on-retrieval-process-characteristics.md) — related
 - [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related
+- [Older elementary school children outperformed younger children in using the control of variables strategy.](cvs-use-increases-with-grade.md) — possibly the same claim (merge candidate)

@@ -103,3 +103,4 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [The RBP protocol's subjectivity and imprecision compel monitors to rely on background knowledge and personal experience, and its scales can mislead](rbp-protocol-interpretation-challenges.md) — a narrower finding that bears on this claim
 - [Students focused mainly on the relevant visualization features of the Composer flowscene](composer-students-focus-relevant-features.md) — related
 - [Novices fixate the middle capacitor circuit while experts also attend the upper coil circuit; upper-circuit focus correlates weakly, non-significantly with electricity knowledge (r=0.41)](novice-expert-gaze-differences-electric-circuit.md) — a narrower finding that bears on this claim
+- [Highlighting a feature by drawing a line in the dirt establishes a figure that becomes a public event guiding others' perception](highlighting-line-in-dirt-public-event.md) — related

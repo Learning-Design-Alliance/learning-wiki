@@ -60,3 +60,5 @@ Methodological exposition (type d/e) in the section on the role of covariates, e
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related
 - [A latent state-trait model with unmeasured persistent factors reproduces the exponential decay of experimental treatment effects that regression models miss](state-trait-model-reproduces-experimental-decay.md) — related
+- [Estimated persistent effects of a kindergarten math boost on grade 3 achievement are dramatically smaller in RI-CLPM/ST-CLPM models (.06 or below) than in CLPM estimates](kindergarten-math-boost-persistent-effects-model-dependent.md) — related
+- [Stable latent factors underlying reading and mathematics achievement correlate near unity (φ = .94) in the RI-CLPM](stable-reading-math-latent-factors-correlate-94.md) — related

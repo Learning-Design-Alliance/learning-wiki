@@ -109,6 +109,8 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
 - [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
 - [Schedule practice by a priority index over topics and run sessions with a difficulty ramp](edge-priority-index-scheduling-strategy.md)
+- [Schedule periodic retrieval practice of previously acquired knowledge at intervals of about two months or longer](periodic-retrieval-practice-two-month-intervals.md)
+- [Design curricula for long-term retention using spaced practice with expanding intervals, variable practice, and frequent comprehensive testing](spaced-expanding-variable-testing-curriculum.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source flashcard system implementing expanding spaced repetition with per-item scheduling; widely used in medical education.

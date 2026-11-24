@@ -17,7 +17,7 @@ sources:
 # Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 4 studies (2 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 5 studies (2 causal, 2 associational, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 The article derives general pedagogic practices from constructivism and cognitive research: use multiple representations (linguistic, abstract, symbolic, pictorial, concrete) so students inter-relate knowledge types; help students interconnect knowledge via clustering and linking, which are "facilitated by explicitly identifying similarities and differences between elements"; use extended context to hone and abstract context-dependent concepts; and use comparisons and contrasts to sensitize students to categories and relationships. The article also rejects one-pass learning in favor of multiple-pass learning that revisits earlier topics to establish relationships.

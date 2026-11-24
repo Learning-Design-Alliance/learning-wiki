@@ -52,3 +52,4 @@ The review's assessment of the identity position that WM and perceptual attentio
 - [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
 - [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](shared-resource-perceptual-attention-wm-unconvincing.md) — related
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
+- [Proactive interference in LT-WM is overcome by temporal distinctiveness and by integrated memory encodings, as when a trained subject recalled most of an earlier digit list despite maximal interference](lt-wm-overcomes-proactive-interference.md) — related

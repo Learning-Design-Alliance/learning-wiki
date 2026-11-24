@@ -48,3 +48,4 @@ The review's synthesis of retention-interval studies: "The shortest reported amo
 ## Related Claims
 - [More complex surgical tasks decay faster: a complex VR diathermy task lost 81% of skill versus 23% for a simple task](task-complexity-moderates-skill-decay.md) — related
 - [In one single-group pre-post study with no comparison group, hands-on image acquisition scores did not change from post-training to month 6, while name recall scores fell 29% and probe adjustment scores fell 38%](rtee-decay-varies-by-domain.md) — related
+- [Physical tasks decay less than cognitive tasks, and natural tasks decay slightly less than artificial tasks](task-characteristics-moderate-decay.md) — related

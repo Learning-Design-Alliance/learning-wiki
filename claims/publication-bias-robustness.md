@@ -68,3 +68,4 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
+- [The positive CT instruction effect is robust to publication bias: 1,833 null-effect studies would be needed to reduce the average effect to a trivial 0.10.](ct-effect-publication-bias-robust.md) — related

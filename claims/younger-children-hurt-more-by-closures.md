@@ -71,3 +71,4 @@ Mechanism stated in the abstract and grounded in the Cunha-Heckman-style product
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](ai-benefits-differ-by-developmental-stage.md) — related
+- [Estimated technologies show self-productivity and complementarity, with sensitive periods differing by skill type: early for cognitive, later for noncognitive skills](estimated-technology-self-productivity-complementarity.md) — related

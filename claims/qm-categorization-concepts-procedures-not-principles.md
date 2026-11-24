@@ -57,3 +57,4 @@ Theme from individual discussions with faculty participants, not a tested result
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
 - [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related
 - [Categorizing TUG-K items by knowledge objectives or procedures reveals few generalizable patterns of chatbot difficulty](item-categorizations-reveal-few-chatbot-patterns.md) — related
+- [Expert problem schemata contain solution procedures and conditions of applicability, whereas novice schemata lack explicit solution procedures](expert-schemata-contain-solution-procedures.md) — related

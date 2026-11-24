@@ -50,3 +50,4 @@ Stated limitation in the Discussion: because load was manipulated in the visual 
 - [No reliable reduction in auditory prediction-error magnitude under high versus low cognitive load, with the load-by-surprise interaction absent in frequentist and Bayesian analyses](no-load-by-surprise-interaction-statistical-learning.md) — related
 - [Statistical learning of probabilistic regularities persists under high concurrent cognitive load, with the surprise-by-variance effect preserved in both low- and high-load conditions](statistical-learning-preserved-under-high-cognitive-load.md) — related
 - Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task — related
+- [Concurrent memory tasks cause the least impairment of performance in highly skilled activities such as piano playing, typing, and reading](concurrent-load-least-impairs-skilled-activities.md) — related

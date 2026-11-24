@@ -49,3 +49,4 @@ The article reports, citing Bassok et al. (1995), a transfer experiment in which
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Training on the deep structure of problems increases 4th and 5th graders' use of the shorter 1-step algorithm on unordered-entity problems](deep-structure-training-increases-one-step-algorithm-use.md) — related
 - [Net force performance declined from pre-test to post-test in one uncontrolled pre-post study; classroom-analogous questions were answered correctly, distant transfer questions were answered incorrectly, and the context-bound state of reasoning was absent by post-test](net-force-context-bound-decline.md) — related
+- [Problem-solving training programs succeed with domain-specific strategies but general-strategy programs show limited success](domain-specific-strategy-training-success.md) — related

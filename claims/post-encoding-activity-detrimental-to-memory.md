@@ -54,3 +54,4 @@ Data-driven sliding 20-minute-window regression across 9 hours post-encoding, co
 - [Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity](delayed-post-learning-exercise-enhances-retention.md) — reports the opposite
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
+- [Incidental contact of a few hours with a domain during a months- or years-long retention interval shows no detectable effect on retention](incidental-contact-no-detectable-effect.md) — related

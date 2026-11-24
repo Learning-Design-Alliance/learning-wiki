@@ -56,3 +56,4 @@ Two-way ANOVA (skill group x inference type) on proportions of remaining inferen
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall](skilled-comprehenders-better-delayed-knowledge-retention.md) — related
 - [Gaps in source knowledge hinder source-credibility judgments, particularly inferences about benevolence](source-knowledge-gaps-hinder-benevolence-judgments.md) — related
+- [Decision making based on information extracted from long-term memory is more complex and particularly undesirable when associated with danger](memory-based-decisions-danger-complexity.md) — related

@@ -70,3 +70,4 @@ Same descriptive dataset of dVSS surgeon's-knot trials; the article reports the 
 - [Expert surgeons perform a surgeon's knot with fewer total gestures than novice surgeons](experts-fewer-gestures-surgeons-knot.md) — related
 - [Gesture-level analysis of surgical task performance is more discriminative of skill than maneuver-level analysis](gesture-level-more-discriminative-than-maneuver-level.md) — related
 - [Transitions among gestures within maneuvers differ quantitatively between expert and novice surgeons (Hellinger distance analysis)](hellinger-distance-gesture-transitions-skill.md) — related
+- [Apprenticeship teaches professional vision as a mode of practice through talk, gesture, and a shared perceptual field, not through definitions](apprenticeship-mode-of-practice-talk-gesture.md) — related

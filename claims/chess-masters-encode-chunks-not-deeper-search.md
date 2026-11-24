@@ -70,3 +70,5 @@ The review reports the cited control experiment (Chase & Simon, 1973) as ruling 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — a broader claim this one bears on
 - [Chess players show superior overall cognitive ability to non-players, and chess skill correlates with fluid intelligence, processing speed, memory, and comprehension knowledge](chess-skill-correlates-cognitive-ability.md) — related
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
+- [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — related
+- [Skilled activity stores relevant information in LTM incidentally: chess players recall positions after move selection as well as when warned of a memory test](incidental-ltm-storage-during-skilled-activity.md) — related

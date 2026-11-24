@@ -51,3 +51,4 @@ Review's synthesis of demographic-factor studies, including a large cohort study
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
 - [Child-level demographic factors (male gender, deprivation, Black ethnicity, SEN status) predict self-reported bullying behaviour in primary school](child-demographics-predict-primary-bullying.md) — related
 - [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md) — related
+- [Race/ethnicity and socioeconomic status together account for only about 4% of the variance in summer learning rates](race-and-ses-explain-only-4-percent-of-sll-variance.md) — related

@@ -48,3 +48,4 @@ The review reports Gevinson's think-aloud study of four professors of English re
 ## Related Claims
 - [Langer found four stances of meaning-making operate across literary and nonliterary reading regardless of text type](langer-four-stances-across-text-types.md) — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
+- [Expert and novice literary readers share basic meaning-making processes but differ in depth of knowledge and conception of the interpretive task](expert-novice-literary-reading-differences.md) — related

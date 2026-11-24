@@ -54,3 +54,4 @@ The authors offer several explanations, untested here: common causes such as int
 - [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — related
 - [Children with developmental language disorder and strong verbal reasoning could partly compensate delays in mathematics at the individual level, though group-level analyses revealed no protective effects (reported by the editors, citing Kleemans et al.)](verbal-reasoning-compensates-math-dld-individual-level.md) — related
 - [High verbal comprehension, general reasoning, and spatial orientation characterize superior film learners](mental-abilities-superior-film-learning.md) — related
+- [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — related

@@ -53,3 +53,4 @@ The report summarizes a body of comparative studies of expert and novice technic
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on
+- [Expert problem schemata contain solution procedures and conditions of applicability, whereas novice schemata lack explicit solution procedures](expert-schemata-contain-solution-procedures.md) — related
